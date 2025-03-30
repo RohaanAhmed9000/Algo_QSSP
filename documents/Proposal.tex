@@ -1,0 +1,45 @@
+\documentclass{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{amsmath, amssymb}
+
+\title{Paper Selection Proposal}
+\author{Rohaan Ahmed, Muhammad Hassaan Tariq}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Paper Details}
+\textbf{Title:} A linear time algorithm for linearizing quadratic and
+higher-order shortest path problems\\
+\textbf{Authors:} Eranda Çela · Bettina Klinz · Stefan Lendl ·
+Gerhard J. Woeginger · Lasse Wulf\\
+\textbf{Journal:} Mathematical Programming (2025) 210:165–188\\
+\textbf{Year:} 2024\\
+\textbf{DOI/Link:} \href{https://doi.org/10.1007/s10107-024-02086-z}{https://doi.org/10.1007/s10107-024-02086-z}
+
+\section{Summary}
+This paper addresses the linearization problem for the Quadratic Shortest Path Problem (QSPP) and its higher-order generalizations in acyclic digraphs. The algorithm proposed demonstrates improved efficiency in determining whether a given QSPP instance is linearizable, and in finding the corresponding Shortest Path Problem (SPP) instance in the positive case. Further, the algorithm is a novel linear-time algorithm for linearizing acyclic digraphs, which significantly improves upon the previously best-known algorithm
+
+\section{Justification}
+This paper is relevant in a contemporary setting, as it provides a more efficient algorithm for a problem (linearizing the QSPP) that is important in network optimization, particularly in scenarios where costs are associated with both single arcs and pairs of arcs.  The QSPP has applications in route planning and network design.  Comparing this algorithm with existing implementations will provide valuable insights into its improved time complexity and practical applicability in solving complex network-related problems.
+
+\section{Implementation Feasibility}
+We have identified the following resources that support our implementation:
+\begin{itemize}
+    \item Availability of code repositories: Pseudocodes are present inside the paper for our reference when we will be implementing them.
+    \item Datasets: Graphine =\(>\) \href{https://zenodo.org/records/5320310#.YSxHgI77Q2w}{https://zenodo.org/records/5320310\#.YSxHgI77Q2w}
+    \item Theoretical framework: The paper provides a detailed theoretical framework, including definitions, lemmas, and proofs, necessary to understand and implement the proposed algorithm.
+\end{itemize}
+These resources will allow us to reproduce and compare the algorithm with existing methods.
+
+\section{Team Responsibilities}
+\begin{itemize}
+    \item \textbf{Reading and understanding the paper} \textit{(Theory)}: Rohaan Ahmed
+    \item \textbf{Implementation and coding} \textit{(Practical)}: Muhammad Hassaan Tariq
+    \item \textbf{Writing and documentation:} Both team members
+\end{itemize}
+
+\end{document}
