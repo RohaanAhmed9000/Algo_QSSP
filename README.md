@@ -9,3 +9,6 @@ We use the Graphine Dataset Graphine to test and benchmark our algorithm. [Link:
 ### Contributors:
 Muhammad Hassaan Tariq, Rohaan Ahmed
 Both Team Members shall collaboratively maintain documentation and project organization.
+
+### Update (CP2)
+We have identified that the algorithm is quite complex but we can slowly, but surely implement it. We have gone over a few of the lemmas in the article along with other aspects. We would be utilising the same dataset since it fulfils all of our requirements regarding this project (as far as we can tell).
