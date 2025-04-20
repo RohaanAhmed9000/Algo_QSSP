@@ -1,0 +1,2445 @@
+clade name
+mortality rate
+dataset creating
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+material entity
+nalidixic acid
+voriconazole
+ciprofloxacin
+lumefantrine
+hexadecanoic acid
+l - dopa
+arachidonic acid
+quinine
+ddt
+aztreonam
+oleic acid
+urea
+hydrogen peroxide
+carbon dioxide
+carbohydrate
+peptide
+chlorthion
+creatinine
+bilirubin ixalpha
+penicillin
+linoleic acid
+hydrogencarbonate
+chloramphenicol
+gentamycin
+dihydrogen
+artemether
+cefotaxime
+phytogenic insecticide
+cephalosporin
+molecular entity
+drug
+icosenoic acid
+fungicide
+glycoside
+insecticide
+ion
+lactam
+macrolide
+neonicotinoid insectide
+pesticide
+phosphate
+quinolines
+amodiaquine
+amoxicillin
+amphotericin b
+uric acid
+vitamin d
+alpha - linolenic acid
+elaidic acid
+vancomycin
+gamma - linolenic acid
+palmitoleic acid
+icosanoic acid
+octadecanoic acid
+tobramycin
+tetracosanoic acid
+tetradecanoic acid
+docosanoic acid
+ampicillin
+ceftriaxone
+azithromycin
+mannitol
+photon
+dodecanoic acid
+decanoic acid
+bifenthrin
+antimicrobial agent
+antibacterial agent
+aromatic compound
+nucleic acid
+ribonucleic acid
+amino - acid residue
+macromolecule
+carbaryl
+oct - 1 - en - 3 - ol
+chlorpyrifos
+chlorpyrifos - methyl
+dichlorvos
+dieldrin
+diflubenzuron
+dimethoate
+fenitrothion
+fenthion
+paraquat
+permethrin
+phenthoate
+propoxur
+cefpodoxime
+fatty acid
+cephradine
+beta - lactam
+antifungal agent
+triazoles
+phosphate ion
+docosahexaenoic acid
+icosapentaenoic acid
+antibacterial drug
+chloroquine
+co - trimoxazole
+colistin
+antimalarial
+carbamate insecticide
+pirimiphos - methyl
+temephos
+pyrethrins
+clothianidin
+spinosad
+pyriproxyfen
+beta - cyfluthrin
+lambda - cyhalothrin
+alpha - cypermethrin
+beta - cypermethrin
+chlorfenapyr
+etofenprox
+cyfluthrin
+cyhalothrin
+cypermethrin
+deltamethrin
+ ( 15z )  - tetracosenoic acid
+fluconazole
+solvent
+caspofungin
+ergometrine
+erythromycin
+cloxacillin
+retinol
+fipronil
+pivmecillinam
+all - cis - icosa - 8 , 11 , 14 - trienoic acid
+ ( 7z , 10z , 13z , 16z , 19z )  - docosapentaenoic acid
+anidulafungin
+hydroxychloroquine
+imidacloprid
+palmitelaidic acid
+chemical substance
+micafungin
+itraconazole
+racemate
+docosatetraenoic acid
+lactulose
+mefloquine
+posaconazole
+ ( 4z , 7z , 10z , 13z , 16z )  - docosa - 4 , 7 , 10 , 13 , 16 - pentaenoic acid
+malaoxon
+malathion
+insect sterilant
+azole
+trichlorfon
+metronidazole
+icosadienoic acid
+linoelaidic acid
+primaquine
+antifungal drug
+ketotifen
+negative covid - 19 diagnosis conclusion
+cell
+cultured cell
+granulocyte
+erythrocyte
+b cell
+lymphocyte
+monocyte
+experimentally modified cell in vitro
+leukocyte
+basophil
+neutrophil
+mononuclear cell
+diastolic blood pressure
+white blood cell count
+forced expiratory volume
+respiration rate
+partial pressure of blood oxygen  ( po2 )
+disease of metabolism
+bacterial sepsis
+chikungunya
+disease by infectious agent
+cutaneous mycosis
+sensory system disease
+lower respiratory tract disease
+penicilliosis
+primary bacterial infectious disease
+exanthem
+extrapulmonary tuberculosis
+autoimmune disease of musculoskeletal system
+autoimmune disease of skin and connective tissue
+acquired metabolic disease
+angular cheilitis
+inguinal hernia
+mastoiditis
+dental abscess
+bone disease
+physical disorder
+pemphigoid
+sensorineural hearing loss
+osteomyelitis
+mumps
+parotitis
+bacterial infectious disease
+tonsillitis
+common cold
+kidney failure
+otitis media
+salivary gland disease
+herpangina
+tooth disease
+sickle cell anemia
+respiratory failure
+tetanus
+pneumocystosis
+adult respiratory distress syndrome
+bronchial disease
+protein - energy malnutrition
+dengue disease
+marasmus
+malaria
+dysentery
+respiratory syncytial virus infectious disease
+cardiovascular system disease
+paronychia
+acute cystitis
+diarrhea
+typhoid fever
+scrub typhus
+parasitic infectious disease
+cerebral malaria
+cholera
+candidiasis
+pleural disease
+urticaria
+fungal infectious disease
+respiratory system disease
+integumentary system disease
+pneumothorax
+musculoskeletal system disease
+urinary system disease
+epilepsy
+viral hepatitis
+cerebral palsy
+chronic mucocutaneous candidiasis
+constipation
+dental caries
+pharyngitis
+leptospirosis
+gastroenteritis
+anemia
+opportunistic mycosis
+dermatitis
+auditory system disease
+parasitic protozoa infectious disease
+asthma
+immune system disease
+bronchiolitis
+pulmonary tuberculosis
+central nervous system disease
+bone inflammation disease
+periodontal disease
+cellulitis
+skin disease
+pleural empyema
+tuberculosis
+disease
+mouth disease
+nail disease
+hair disease
+pyoderma
+tinea capitis
+allergic rhinitis
+nutritional deficiency disease
+human immunodeficiency virus infectious disease
+intestinal disease
+pneumonia
+eye disease
+bronchitis
+conjunctivitis
+reactive arthritis
+connective tissue disease
+disease of anatomical entity
+hematopoietic system disease
+lymphatic system disease
+gastrointestinal system disease
+septic arthritis
+scabies
+arthritis
+lung disease
+impetigo
+bullous pemphigoid
+herpes zoster
+herpes simplex
+measles
+nervous system disease
+chickenpox
+parasitic helminthiasis infectious disease
+leishmaniasis
+cutaneous leishmaniasis
+visceral leishmaniasis
+amebiasis
+lip disease
+viral infectious disease
+brain disease
+otitis externa
+meningitis
+aphthous stomatitis
+upper respiratory tract disease
+hordeolum
+hypoglycemia
+clinical drug role
+drug product
+drug cream
+drug lotion
+drug solution
+drug suspension
+drug tablet
+drug capsule
+canal
+sea
+lake
+river
+stream
+reservoir
+spring
+watercourse
+pond
+marsh
+hot spring
+fishpond
+water body
+cave
+human construction
+building
+farm
+mountain
+island
+forested area
+elevation
+plateau
+swamp ecosystem
+rice field
+stalagmite
+artificial lake
+biome
+drinking water reservoir
+shoreline
+submerged bed
+city
+rock
+soil
+marine water body
+waste water
+fecal material
+liquid water
+sediment
+dust
+saline water
+fresh water
+sewage
+biofilm
+surface water
+sludge
+compost
+forest soil
+waste material
+hay
+drinking water
+manufactured product
+farm soil
+grassland soil
+orchard soil
+pasture soil
+rhizosphere
+environmental material
+surface layer
+aerosol
+anthropogenic environmental material
+mud
+water well
+sand
+organic material
+environmental system
+layer
+environmental zone
+room
+concrete
+masonry cement
+exterior wall
+building roof
+thatch
+brick
+thatched building roof
+tile
+toilet fixture
+pit latrine
+flush toilet fixture
+ventilated improved pit latrine
+covered pit latrine
+covered pit latrine with slab floor
+composting toilet
+charcoal
+flat - wick lamp
+paraffin lantern
+electric lamp
+battery - powered electric lamp
+candle
+radio device
+cassette player
+television set
+telephone
+mobile phone
+landline telephone
+refrigerator
+table
+chair
+piece of furniture
+sofa
+cabinet
+cupboard
+clock
+pressure lamp
+freshwater spring
+rainwater
+motor vehicle
+water truck
+vehicle
+bicycle
+motorcycle
+lentic water body
+planetary landmass
+human dwelling
+astronomical body part
+eaves
+animal - associated environment
+metallic material
+ecosystem
+poultry manure
+wetland ecosystem
+waste disposal process
+solid surface layer
+surface of an astronomical body
+land
+excreta material
+patient screening
+immunoassay
+laparotomy
+family relationship
+building material
+obsolete_dwelling
+roof material
+floor material
+wall material
+wall brick
+numerical household wealth index
+obsolete_eaves
+air brick
+number of residents in a dwelling
+household having electricity information
+cooking fuel material
+obsolete_lighting material
+number of rooms for sleeping in a dwelling
+land area measurement datum
+number of meals per day
+number of days eating meat in a week
+frequency of not satisfying food needs
+distance to health facility
+glucose 6 phosphate dehydrogenase genotype
+alpha thalassemia genotype
+sickle hemoglobin genotype
+malaria - related diagnosis
+obsolete_presence of bacteria in the blood
+diagnosis of uncomplicated malaria
+obsolete_presence of virus in the blood
+diagnosis of complicated malaria
+diagnoses of complicated malaria with danger signs
+diagnosis of severe malaria
+severe malaria
+severe malaria symptom or sign information
+hemoglobin level
+blood smear reading as positive or negative
+obsolete_clinical visit
+routine clinical visit
+human participant under investigation
+dwelling ventilation
+subcounty in uganda
+medication role
+obsolete_medication material
+malaria medication
+non - malaria medication
+quinine drug product
+obsolete_artemether - lumefantrine drug product
+obsolete_clinical characteristics
+household information
+diagnosis of uncomplicated malaria in the 1st trimester of pregnancy
+diagnosis of asymptomatic microscopic parasitemia
+diagnosis of symptomatic malaria
+clinical visit date
+asexual parasite density in count per ul by microscope
+dwelling information
+household identifier
+human study subject identifier
+study participant information
+febrile
+ventilation function
+dwelling facility
+subjective fever
+elevated temperature
+temperature measurement datum
+participant under investigation
+building material role
+roof material role
+wall material role
+floor material role
+dwelling facility role
+organismal body temperature measurement datum
+floor brick
+age since birth at time of visit
+average asexual parasite density of a participant with asymptomatic microscopic parasitemia
+average asexual parasite density of a participant with malaria
+average number of female anopheles per night
+average number of female anopheles tested for sporozoite
+average number of sporozoite - positive female anopheles
+average percent of female anopheles with plasmodium sporozoites
+age since birth at time of enrollment
+number of clinical visits
+number of clinical visits resulting in a malaria diagnosis
+number of clinical visits resulting in an asymptomatic microscopic parasitemia diagnosis
+number of non - routine clinical visits
+number of routine clinical visits
+sample available information
+blood specimen on filter paper
+peripheral blood mononuclear cell specimen
+red blood cell specimen
+average number of plasmodium parasite - positive female anopheles
+average number of female anopheles tested for plasmodium parasite
+average percent of plasmodium parasite - positive female anopheles
+number of anopheles collections
+sum number of female anopheles in a collection
+sum number of female anopheles funestus in a collection
+sum number of female anopheles gambiae in a collection
+participant observation duration time
+average number of clinical visits per year
+average number of clinical visits with asymptomatic microscopic parasitemia diagnosis per year
+average number of clinical visits with malaria diagnosis per year
+routine clinical visit date
+categorical household wealth index
+household asset information
+antimalarial therapy given outside the study since last seen information
+cause of participant death
+clinical visit when sick
+covered pit latrine without slab
+date of death
+date of participant first enrolled in a study
+date of participant last seen in a study
+days since a clinical visit with a malaria diagnosis
+duration of abdominal pain
+duration of anorexia
+duration of cough
+duration of diarrhea
+duration of fatigue
+duration of headache
+duration of jaundice
+duration of joint pains
+duration of muscle aches
+duration of seizures
+duration of subjective fever
+duration of vomiting
+household animal - drawn cart asset
+household bank account asset
+household bed asset
+household bicycle asset
+household boat without a motor asset
+household car asset
+household cassette player asset
+household chair asset
+household clock asset
+household cupboard asset
+household electricity asset
+household fixed phone asset
+household mobile phone asset
+household motorboat asset
+household motorcycle or scooter asset
+household radio asset
+household refrigerator asset
+household sofa asset
+household table asset
+household television asset
+household watch asset
+incident of malaria episode information
+obsolete_location of clinical visit
+obsolete_location of death
+medical care outside the study clinic since last seen information
+number of days from time of participant enrollment in a study until current visit
+number of fed female anopheles funestus in a collection
+number of fed female anopheles gambiae in a collection
+number of female anopheles dissected for parity in a collection
+number of female null parous anopheles in a collection
+number of female parous anopheles in a collection
+number of gravid or semi - gravid anopheles funestus in a collection
+number of gravid or semi - gravid female anopheles gambiae in a collection
+number of insecticide treated mosquito net ( s )  per person
+number of non - gambiae or funestus female anopheles species in a collection
+number of sleeping places in dwelling with a household
+number of unassessable anopheles funestus in a collection
+number of unassessable anopheles gambiae in a collection
+number of unfed female anopheles funestus in a collection
+number of unfed female anopheles gambiae in a collection
+plasma sample lost information
+presence of plasmodium gametocytes by microscopy
+reason for participant withdrawal
+redraw of a symptom after clinical visit information
+routine clinical visit for t - cell study
+routine clinical visit with finger prick
+routine clinical visit with venipuncture
+routine clinical visit without any routine assessment done
+screened air brick
+severe anemia
+slept in an insecticide treated net last night information
+sum number of female anopheles examined for sporozoites in a collection
+sum number of female anopheles with plasmodium sporozoites in a collection
+time of screening
+uncovered pit latrine with slab
+uncovered pit latrine without slab
+unscreened air brick
+obsolete_muscle aches
+obsolete_solar light source
+drinking water from open public well
+drinking water from open well in yard
+drinking water from pipe into dwelling
+drinking water from pipe into yard
+drinking water from unprotected freshwater spring
+atcc number
+parasite clearance half life
+parasite clearance rate
+parasite clearance time
+haplogroup
+parasitemia start time
+treatment outcome information
+information on dwelling facilities
+information on dwelling physical characteristics
+socioeconomic factor
+aggregated clinical visit information
+human genotype information
+information on participant study details
+hospitalization information
+symptom or sign information
+information on observation details
+clinical visit type information
+aggregated entomological data item
+single catch entomological measurement datum
+scheduled clinical visit
+unscheduled clinical visit
+malaria severity and basis information
+diagnosis of disease other than malaria
+hospital admission information
+date of hospital admission
+date of hospital discharge
+diagnosis at discharge
+anopheles funestus related information
+anopheles gambiae sensu lato related information
+mosquito parity information
+sporozoite testing information
+aggregated sporozoite testing information
+entomological data item
+easting coordinate measurement datum
+northing coordinate measurement datum
+human waste disposal in a household
+number of non - scheduled visits
+number of scheduled visits
+malaria diagnosis and parasite status information
+dwelling animal information
+obsolete_human traveling information
+vector control intervention information
+employment information
+domesticated animal in a human dwelling
+information on when bed net last treated
+obsolete_educational level information
+number of infections with p . vivax in lifetime
+number of infections with p . vivax in the last year
+number of infections with p . falciparum in lifetime
+number of infections with p . falciparum in the last year
+number of days per week at primary job
+number of days per week at secondary job
+job role
+economic activity
+primary economic activity
+secondary economic activity
+primary economic activity description
+secondary economic activity description
+secondary economic activity in last month
+occupation
+primary economic activity pay period
+secondary economic activity  pay period
+information on whether received payment from primary economic activity
+information on whether received payment from secondary economic activity
+salary of primary economic activity
+salary of secondary economic activity
+number of hours per day at primary economic activity
+number of hours per day at secondary economic activity
+obsolete_garbage disposal
+community name
+study location name
+first line malaria medication
+second line malaria medication
+marital status
+information on whether a person plans to move
+relationship to head of household
+years of living in the dwelling
+years of living in the community
+number of common areas in a dwelling
+covered area measured in square meter
+information on kitchen location
+total area measured in square meter
+information on whether occupant owns or pays rent on dwelling
+information on place visited during a trip
+information on travel in the last month
+information on travel before malaria
+bed net material
+date of last fumigation
+information on organization responsible for treating bed nets
+information on contact with malaria
+information on participant status at visit
+number of livestock
+number of pets
+number of insecticide - treated bed nets treated less than 6 months ago
+number of insecticide - treated bed nets treated more than 6 months ago
+number of long last insecticide - treated bed nets
+number of untreated bed net
+proximity to case dwelling datum
+obsolete_clinic organization
+clinic location
+district of india name
+division number
+information on whether antimalarial drugs taken as advised
+information on whether took antimalarial drugs in last 2 weeks
+information on existing illness
+information on whether has existing illness
+fever treatment provider information
+duration of being febrile
+information on whether a person is sick now
+indoor residents information
+frequency of larvicide in use
+information on where malaria diagnosed in last 12 months
+number of asexual parasite
+parasite species information
+birth country name
+information on malaria parasite infection diagnosis past year
+number of malaria diagnosis past year
+number of months since malaria diagnosis
+information on whether antimalarial drug treated last year
+antimalarial drug used date
+information on antimalarial drug used last year
+information on who treated malaria last year
+specimen used for dna pcr
+parasite species identification by pcr assay
+primary health center name
+poverty line
+information that there is no illness
+falcivax rapid diagnostic test
+optimal - it rapid diagnostic test
+personal mosquito repellent
+resident status information
+information on mosquito repellent sprayed in last 12 months
+state name of birth
+take fever suppressant information
+taluk name
+visited country name
+visited district name
+visited state name
+visited taluk name
+visited village name
+traveled information in last 14 days
+healthcare information
+village name
+location zone number
+proportion mapped reads
+diagnosis of asymptomatic parasitemia
+diagnosis of submicroscopic parasitemia
+number of clinical visits resulting in an asymptomatic parasitemia diagnosis
+presence of submicrosopic parasites by loop - mediated isothermal amplification assay
+obsolete_information on blood smear not performed
+negative blood smear and negative lamp
+information on negative blood smear and lamp not done
+average number of clinical visits with asymptomatic parasitemia diagnosis per year
+number of courses of antibiotics given
+family identifier
+dwelling identifier
+information on whether hive treated with tetracyline
+information on whether specimen from mother or child
+number of courses of antibiotics received by mom prior to delivery
+obsolete_16s rrna gene region for sequencing
+lab host
+common name of organism
+information on availability of molecular data
+information on original or follow up specimen collection
+information on informed consent for data collection and usage
+presence of plasmodium falciparum
+presence of gametocyte
+presence of plasmodium knowlesi
+presence of plasmodium malariae
+presence of plasmodium ovale
+presence of parasite
+presence of plasmodium vivax
+days of follow up specimen collection
+gametocyte density by microscope
+gametocyte density by rt - pcr
+gametocyte detection assay
+gametocyte detection protocol
+location where gps coordinates were taken
+information on availabilty of host genetics data
+information on availability of immune response data
+information on availability of parasite genetics data
+information on availability of other molecular data
+irb number
+parasite density by pcr
+parasite density by microscope
+parasite detection assay
+parasite detection by pcr assay
+presence of asexual parasite by pcr
+rapid diagnosis test result as positive or negative
+location of specimen collection
+icemr organization
+organismal body temperature measurement assay
+malaria rapid diagnosis test
+plasmodium falciparum gametocyte density by microscope
+plasmodium vivax gametocyte density by microscope
+plasmodium vivax gametocyte density by rt - pcr
+plasmodium vivax parasite density by pcr
+plasmodium falciparum parasite density by microscope
+plasmodium vivax parasite density by microscope
+plasmodium falciparum parasite density by pcr
+information on informed consent for future use of specimen
+parasite organism genotype information
+virulence score  ( ldt50 )
+virulence score  ( slope )
+bei repository identifier
+vertical distance below a surface measurement datum
+age since birth in days
+information on whether child exposed to antibiotics
+baby delivery
+antibiotics
+information on whether bee colony treated with tetracycline
+child's diet
+child's diet by month
+drug usage information
+environment information
+information on whether a family moved
+host information
+host's diet
+host organism
+information on whether bee larvae treated with tetracycline
+host mass measurement datum at specimen collection
+number of child occupants in a dwelling
+information on disposal of human excreta material
+percent adult occupants in a dwelling
+percent male occupants in a dwelling
+information on whether antibiotics given to mom
+information on class of antibiotics given to mom
+information on trimester antibiotics given to mom
+environmental pets or farm animals information
+sequencing protocol
+sequencing batch information
+summary information of investigation
+participant identifier
+information on weight loss in last three months
+specimen collection protocol
+specimen information
+skin symptom or sign information
+specimen source information
+information specifying human or animal
+specimen collection time post infection
+ear thickness
+transepidermal water loss
+skin type swabbed
+skin pathology score
+number of treatments
+degree of skin thickening
+lesion size
+axillary lesion score before treatment
+axillary lesion score during treatment
+axillary lesion score after treatment
+groin lesion score before treatment
+groin lesion score during treatment
+groin lesion score after treatment
+pinna lesion score before treatment
+pinna lesion score during treatment
+pinna lesion score after treatment
+information on whether skin lesion cured after treatment
+skin lesion duration
+degree of skin redness
+degree of skin inflammation
+corneometry
+degree of hairloss
+information on whether affected by atopic dermatitis
+diagnosis at hospitalization
+study group
+animal cage number for experiment
+mouse cage number
+information on disposal of child excreta material
+stool test for microorganisms
+propagation
+cluster of differentiation 36 genotype
+information on process
+obsolete_environmental history
+malaria treatment
+time to onset
+dna extraction date
+ipcr datum
+end of observation period
+time to first malaria diagnosis
+time to reinfection
+gp60 genotype
+specimen collection time in year
+information on blood smear result
+pathogen organism
+parasite phenotype
+fungal organism genotype information
+fungal strain
+candida albicans strain
+parasite strain
+presence of organism in specimen
+world health organization core health indicator subdomain
+groin lesion score
+axillary lesion score
+pinna lesion score
+obsolete_blood meal source role
+lethal insecticide time 50
+finding of death from covid - 19
+treatment information
+information on whether assay performed
+sporozoite detection assay
+60 day follow - up date
+antibiotic administration process
+information on case matching
+diarrheal treatment immediate history
+information on diarrheal episode
+rehydration treatment
+environment associated with human dwelling
+study participant administrative information
+information on eligibility criterion
+information on relation to participant
+fecal specimen quality data item
+stool collection process
+information specifying antibiotic administered before stool collection
+study center
+location of death
+caretaker and participant combined mass measurement datum
+caretaker of participant mass measurement datum
+mean height
+median height
+first mid - upper arm circumference datum
+second mid - upper arm circumference datum
+third mid - upper arm circumference datum
+mean mid - upper arm circumference
+median mid - upper arm circumference
+axillary temperature measurement datum
+first respiratory rate measurement datum
+second respiratory rate measurement datum
+average respiratory rate
+water container
+chlorine test result
+hand washing location
+indicator of whether receiving medication
+defecation date
+stool consistency
+date of first antibiotic administration
+time of first antibiotic administration to human participant under investigation
+diarrheal episode time measurement datum
+stool volume in ml
+date of rehydration
+time of rehydration
+symptom in last seven days information
+symptom since illness began information
+breastfeeding process
+child study subject identifier at first enrollment
+information on diarrhea treatment before clinical visit
+information on raising money for health care encounter
+information on where diarrheal treatment sought
+anthropometric value range specification
+information on diarrhea treatment in health care facility
+information on diarrhea treatment by prescription
+diagnosis previous to two month follow - up
+information on sex of matched case
+date of birth of matched case
+indicator of participant eligibility for enrollment
+presence of maximum fever temperature of at least 37 .5 degrees
+information on whether adenovirus elisa performed
+information on whether astrovirus elisa performed
+information on whether rotavirus elisa performed
+information on whether modified acid fast staining method performed
+information on whether norovirus rt - pcr performed
+information on whether cryptosporidium elisa performed
+information on whether entamoeba histolytica elisa performed
+information on whether giardia elisa performed
+presence of adenovirus by elisa
+presence of aeromonas by differential medium assay
+presence of ascaris lumbricoides by microscopy
+presence of astrovirus by elisa
+presence of trichuris trichiura by microscopy
+presence of balantidium coli in feces by microscopy assay
+presence of escherichia coli by differential medium assay
+presence of chilomastix mesnili in feces by microscopy assay
+presence of cyclospora by microscopy
+presence of entamoeba histolytica by elisa
+presence of endolimax nana by microscopy
+presence of enterobius vermicularis by microscopy
+presence of hymenolepis diminuta by microscopy
+presence of hymenolepis nana by microscopy
+presence of ancylostomatoidea by microscopy
+presence of iodamoeba butschlii by microscopy
+presence of entamoeba coli by microscopy
+presence of norovirus by rt - pcr
+presence of norovirus gi by rt - pcr
+presence of norovirus gii by rt - pcr
+obsolete_presence of entamoeba histolytica by elisa
+presence of plesiomonas shigelloides by differential medium assay
+presence of rotavirus by elisa
+presence of salmonella in feces by differential medium assay
+presence of schistosoma by microscopy
+presence of shigella by differential medium assay
+presence of strongyloides stercoralis by microscopy
+presence of taenia by microscopy
+presence of vibrio by differential medium assay
+presence of yersinia enterocolitica by microscopy
+presence of bacteria
+presence of pathogen
+presence of virus
+presence of parasite by modified acid stain microscopy
+presence of campylobacter by differential medium assay
+presence of campylobacter by elisa
+presence of cryptosporidium by elisa
+presence of cryptosporidium by modified acid stain microscopy
+presence of giardia by elisa
+presence of isospora by microscopy
+information on breastfeeding process
+calorie intake measurement
+information on acute lower respiratory tract disease
+blood test
+urine test
+information on microscopy assay
+blood ferritin concentration
+taqman threshold cycle for blastocystis in stool
+taqman threshold cycle for clostridium difficile in feces
+taqman threshold cycle for entamoeba in feces
+taqman threshold cycle for hymenolepis nana in feces
+taqman threshold cycle for mycobacterium tuberculosis in feces
+taqman threshold cycle for plesiomonas in feces
+blood retinol concentration
+charcoal cooking fuel
+obsolete_information on drinking water piped into dwelling
+obsolete_information on drinking water piped into yard
+drinking water derived from rainwater
+drinking water derived from bore hole water
+respiratory distress since illness began information
+convulsion since illness began information
+information on cutting food expenses to pay for health care
+information on cutting non - food expenses to pay for health care
+information on using savings to pay for health care
+information on borrowing to pay for health care
+information on selling assets to pay for health care
+information on asking for donations outside the household to pay for health care
+information on health care paid for by relative or friend
+rectal prolapse information
+bipedal edema symptom or sign information
+flaky paint dermatosis information
+diagnosis of diarrhea at discharge
+diagnosis of dysentery at discharge
+diagnosis of pneumonia of lower repiratory tract disease at discharge
+diagnosis of malaria at discharge
+diagnosis of nutritional deficiency disease at discharge
+diagnosis of typhoid fever at discharge
+presence of vibrio cholerae o1 by differential medium assay
+presence of vibrio cholerae inaba by differential medium assay
+presence of vibrio cholerae ogawa by differential medium assay
+presence of vibrio cholerae o139 by differential medium assay
+presence of salmonella typhi by differential medium assay
+presence of salmonella non - typhi by differential medium assay
+presence of sapovirus by rt - pcr
+presence of non - jejuni non - coli campylobacter by differential medium assay
+presence of shigella flexneri 4b by differential medium assay
+presence of shigella flexneri 5b by differential medium assay
+presence of shigella flexneri 6 by differential medium assay
+presence of vibrio cholerae by differential medium assay
+presence of vibrio cholerae non -  ( o1 or o139 )  in feces by differential medium assay
+presence of vibrio non -  ( cholerae or parahaemolyticus )  in feces by differential medium assay
+presence of campylobacter coli by differential medium assay
+presence of campylobacter jejuni by differential medium assay
+presence of shigella flexneri by differential medium assay
+presence of shigella boydii by differential medium assay
+presence of shigella dysenteriae by differential medium assay
+presence of vibrio parahaemolyticus by differential medium assay
+presence of shigella sonnei by differential medium assay
+presence of shigella flexneri 4a by differential medium assay
+presence of shigella flexneri 4c by differential medium assay
+presence of shigella flexneri 5a by differential medium assay
+presence of shigella flexneri x by differential medium assay
+presence of shigella flexneri y by differential medium assay
+presence of astrovirus y by rt - pcr
+taqman threshold cycle for cryptosporidium hominis in feces
+taqman threshold cycle for cryptosporidium parvum in feces
+taqman threshold cycle for cyclospora in feces
+taqman threshold cycle for entamoeba histolyica in feces
+taqman threshold cycle for encephalitozoon intestinalis in feces
+taqman threshold cycle for giardia in feces
+taqman threshold cycle for helicobacter pylori in feces
+taqman threshold cycle for isospora in feces
+taqman threshold cycle for necator in feces
+taqman threshold cycle for rotavirus in feces
+taqman threshold cycle for salmonella in feces
+taqman threshold cycle for sapovirus in feces
+taqman threshold cycle for strongyloides in feces
+taqman threshold cycle for trichuris in feces
+taqman threshold cycle for vibrio cholerae in feces
+presence of ancylostoma duodenale by qpcr
+presence of ascaris lumbricoides by qpcr
+obsolete_presence of escherichia coli by differential medium assay
+presence of helicobacter pylori by immunoassay
+presence of ancylostomatoidea by qpcr
+presence of necator americanus by qpcr
+presence of shigella dysenteria serotype 1 by differential medium assay
+presence of shigella flexneri 7 by differential medium assay
+presence of shigella flexneri 1a by differential medium assay
+presence of shigella flexneri 1b by differential medium assay
+presence of shigella flexneri 2a by differential medium assay
+presence of shigella flexneri 2b by differential medium assay
+presence of shigella flexneri 3a by differential medium assay
+presence of shigella flexneri 3b by differential medium assay
+presence of shigella flexneri 3c by differential medium assay
+presence of shigella flexneri 7a by differential medium assay
+fecal specimen mass measurement datum
+presence of strongyloides stercoralis by qpcr
+stool test for microorganisms date
+presence of vibrio cholerae o1 el tor by differential medium assay
+data about vibrio cholerae o1 by differential medium assay
+data about vibrio cholerae o139 by differential medium assay
+information on cause of death
+livestock animal
+no use of bed net
+bed net not treated
+bed net treated over six months ago
+bed net treated within past six months
+bed net treated with long last insecticide
+information specifying fever treated at clinic in past 2 weeks
+information specifying fever treated by private practicioner in past 2 weeks
+information specifying fever self - treated in past 2 weeks
+no treatment for fever
+no plasmodium by microscopy
+presence of plasmodium falciparum by microscopy
+presence of plasmodium vivax by microscopy
+presence of plasmodium malariae by microscopy
+microscopy assay performed
+plasmodium falciparum diagnosis within past year
+plasmodium vivax diagnosis within past year
+plasmodium malariae diagnosis within past year
+forgot which plasmodium species in diagnosis within past year
+information specifying artesunate as antimalarial drug as most recent treatment within past year
+forgot which antimalarial in most recent treatment
+artesunate / pyrimethamine / sulphadoxine combination as most recent malaria treatment
+chloroquine or primaquine as most recent malaria treatment
+pyrimethamine or sulphadoxine as most recent malaria treatment
+quinine or quinidine as most recent malaria treatment
+tetracycline or doxycycline as most recent malaria treatment
+information on whether treated in clinic
+information on whether treated by private practice
+indicator of self - treated malaria
+forgot where treatment within past year occurred
+no plasmodium by blood sample pcr
+presence of plasmodium falciparum by blood sample pcr
+presence of plasmodium vivax by blood sample pcr
+presence of plasmodium malariae by blood sample pcr
+presence of plasmodium ovale by blood sample pcr
+presence of plasmodium falciparum by falcivax
+presence of plasmodium vivax by falcivax
+no presence of plasmodium by falcivax
+information on whether falcivax performed
+presence of plasmodium falciparum by optimal - it
+presence of pan - plasmodium antigen by optimal - it
+no plasmodium by optimal - it
+information on whether optimal - it performed
+forgot whether used personal mosquito repellent
+no knowledge of insecticide spraying in last 12 months
+public healthcare information
+private healthcare information
+water piped into dwelling
+stream water
+blood specimen in vacutainer
+household data collection date
+information on whether participant has sign
+information on whether participant has symptom
+information on whether had fever in last 48 hours
+information on whether given malaria medication in past 2 weeks
+information on whether had fever in last two weeks
+immediate clinical history
+blood alanine aminotransferase concentration
+blood alkaline phosphatase concentration
+diagnosis of chikungunya at discharge
+diagnosis of dengue disease at discharge
+diagnosis of gastrointestinal infection at discharge
+diagnosis of leptospirosis at discharge
+blood phosphate concentration
+diagnosis of scrub typhus at discharge
+blood urea concentration
+blood uric acid concentration
+diagnosis of viral hepatitis at discharge
+community
+external wall material
+internal wall material
+number of beds with bednet
+household freezer asset
+household blender asset
+household electric stove asset
+household gas stove asset
+household kerosene stove asset
+household coal stove asset
+household black and white television asset
+household color television asset
+household dvd player asset
+househould sound system asset
+household cows asset
+household goats asset
+household chicks asset
+household hens asset
+household roosters asset
+household turkeys asset
+household ducks asset
+household parakeets asset
+household parrots asset
+household monkeys asset
+household pigs asset
+household rabbits asset
+household dogs asset
+household cats asset
+household turtles asset
+traveled within two weeks earlier than most recent malaria episode
+traveled within two weeks earlier than second most recent malaria episode
+traveled within two weeks earlier than third most recent malaria episode
+traveled within two weeks earlier than fourth most recent malaria episode
+duration of most recent trip
+duration of second most recent trip
+duration of third most recent trip
+duration of fourth most recent trip
+rivers traveled on most recent trip
+community visited on most recent trip
+community visited on second most recent trip
+community visited on third most recent trip
+community visited on fourth most recent trip
+duration of current main occupation
+duration of current secondary occupation
+information on whether participant present for clinical visit
+information on most recent travel
+information on second most recent travel
+information on whether specimen collection prompted by sign of fever
+reason besides fever for specimen collection
+qpcr threshold cycle for plasmodium vivax in blood
+qpcr threshold cycle for plasmodium falciparum in blood
+time of most recent bednet treatment
+dwelling lot area measurement datum
+relocation information
+time of participant first enrolled in a study
+presence of bacteria by microscopy
+blood bicarbonate concentration
+blantyre coma score sum
+blood urea nitrogen concentration
+blood creatinine concentration
+information on whether second antimalarial taken
+information on whether discharged from hospital
+plasmodium gametocyte density by microscope
+information on whether third antimalarial taken
+hemoglobin concentration measured in hospital
+information on whether moved in past twelve months
+information on whether moved in past month
+plasmodium falciparum parasitemia measurement datum
+plasmodium malariae parasitemia measurement datum
+plasmodium vivax parasitemia measurement datum
+falcivax rapid diagnostic test in hospital
+presence of plasmodium by thick smear microscopy assay
+presence of plasmodium by thin smear microscopy assay
+information on whether antimalarial treatment initiated
+subnational region relocated from within past month
+subnational region visited within past month
+subnational region relocated from within past 12 months
+information on whether fourth antimalarial taken
+information on whether fifth antimalarial taken
+subnational region visited within past 12 months
+treatment start date
+treatment start time
+60 - day follow - up observation time
+blood bilirubin concentration
+information on participant travel in the last twelve months
+information on whether participant is member of tribe
+information on whether participant died in hospital
+diagnosis of diarrhea
+diagnosis of pneumonia
+diagnosis of upper respiratory tract disease
+diagnosis of malaria
+blood c - reactive protein concentration
+diagnosis of pneumonia at discharge
+diagnosis of bronchiolitis at discharge
+diagnosis of lower respiratory tract disease at discharge
+diagnosis of seizure at discharge
+diagnosis of chronic mucocutaneous candidiasis at discharge
+diagnosis of anemia at discharge
+diagnosis of neonatal sepsis at discharge
+diagnosis of anemic heart failure
+diagnosis of osteomyelitis at discharge
+diagnosis of asthma at discharge
+diagnosis of otitis media at discharge
+diagnosis of neonatal asphyxia at discharge
+diagnosis of pneumocystosis at discharge
+diagnosis of cellulitis at discharge
+diagnosis of pneumothorax at discharge
+diagnosis of cerebral palsy at discharge
+diagnosis of congenital heart disease at discharge
+diagnosis of physical disorder at discharge
+diagnosis of protein - energy malnutrition at discharge
+diagnosis of pleural empyema at discharge
+diagnosis of pulmonary tuberculosis at discharge
+diagnosis of epilepsy at discharge
+diagnosis of septic arthritis at discharge
+diagnosis of bacterial sepsis at discharge
+diagnosis of seizure precipitated by febrile infection at discharge
+diagnosis of sickle cell anemia at discharge
+diagnosis of gastroenteritis at discharge
+diagnosis of parasitic helminthiasis infectious disease at discharge
+diagnosis of human immunodeficiency virus infectious disease at discharge
+diagnosis of urinary system disease at discharge
+diagnosis of immunosuppression at discharge
+diagnosis of upper respiratory tract disease at discharge
+diagnosis of pulmonary tuberculosis at hospitalization
+diagnosis of extrapulmonary tuberculosis at hospitalization
+diagnosis of severe anemia at hospitalization
+diagnosis of bronchiolitis or respiratory syncytial virus infectious disease at hospitalization
+diagnosis of asthma at hospitalization
+diagnosis of measles at hospitalization
+diagnosis of bronchitis at hospitalization
+diagnosis of malaria at hospitalization
+diagnosis of global developmental delay or cerebral palsy at hospitalization
+diagnosis of meningitis at hospitalization
+blood activin a concentration
+milk arachidic acid concentration
+milk arachidonic acid concentration
+milk docosanoic acid concentration
+milk decanoic acid concentration
+milk all - cis - icosa - 8 , 11 , 14 - trienoic acid concentration
+milk docosahexaenoic acid concentration
+milk  ( 7z , 10z , 13z , 16z , 19z )  - docosapentaenoic acid concentration
+milk  ( 4z , 7z , 10z , 13z , 16z )  - docosa - 4 , 7 , 10 , 13 , 16 - pentaenoic acid concentration
+milk docosatetraenoic acid concentration
+milk icosadienoic acid concentration
+milk icosapentaenoic acid concentration
+milk icosenoic acid concentration
+milk elaidic acid concentration
+milk gamma - linolenic acid concentration
+milk dodecanoic acid concentration
+milk tetracosanoic acid concentration
+milk linoelaidic acid concentration
+milk linoleic acid concentration
+milk myristic acid concentration
+milk nervonic acid concentration
+milk oleic acid concentration
+milk palmitelaidic acid concentration
+milk hexadecanoic acid concentration
+milk palmitoleic acid concentration
+milk octadecanoic acid concentration
+blood interferon gamma concentration
+blood interleukin - 10 concentration
+blood interleukin - 1 beta concentration
+blood interleukin - 4 concentration
+blood interleukin - 5 concentration
+blood interleukin - 6 concentration
+blood interleukin - 7 concentration
+blood interleukin - 8 concentration
+blood tumor necrosis factor concentration
+milk eotaxin concentration
+milk granulocyte colony - stimulating factor concentration
+milk granulocyte - macrophage colony - stimulating factor concentration
+milk interleukin - 12 complex concentration
+milk interleukin - 13 concentration
+milk interleukin - 15 concentration
+milk interleukin - 17a concentration
+milk interleukin - 1 receptor antagonist protein concentration
+milk interleukin - 2 concentration
+milk interleukin - 9 concentration
+milk chemokine ligand 10 concentration
+milk c - c motif chemokine 2 concentration
+milk c - c motif chemokine 3 concentration
+milk platelet - derived growth factor complex concentration
+milk c - c motif chemokine 5 concentration
+milk pro - epidermal growth factor concentration
+blood endotoxin concentration
+milk lactadherin concentration
+blood vitamin d concentration
+blood granulocyte colony - stimulating factor concentration
+milk interferon gamma concentration
+milk interleukin - 10 concentration
+blood interleukin - 17a concentration
+milk interleukin - 1 beta concentration
+milk interleukin - 4 concentration
+milk interleukin - 5 concentration
+milk interleukin - 6 concentration
+milk interleukin - 7 concentration
+milk interleukin - 8 concentration
+milk c - c motif chemokine 4 concentration
+milk tumor necrosis factor concentration
+milk alpha - linolenic acid concentration
+blood interleukin - 2 concentration
+indicator of blood smear performed
+obsolete_arthropod attractor role
+alfalfa infusion
+bg - lure scent dispenser
+hay infusion
+information specifying no arthropod attractor used
+obsolete_new jersey light trap
+obsolete_gravid trap
+obsolete_encephalitis virus surveillance trap
+obsolete_bg - counter
+obsolete_centers for disease control and prevention light trap
+obsolete_bg - sentinel trap
+obsolete_barrier trap
+obsolete_onderstepoort veterinary institute light - suction trap
+obsolete_resting box trap
+obsolete_shannon trap
+obsolete_sticky trap
+obsolete_artificial pit shelter
+obsolete_resting bucket
+obsolete_mosquito magnet trap
+obsolete_knockdown arthropod specimen collection process
+obsolete_mosquitrap
+obsolete_sticky resting bucket
+obsolete_light trap for indoor use
+obsolete_knockdown arthropod specimen collection by pyrethrum spray
+obsolete_light trap
+obsolete_live arthropod specimen collection process
+larval specimen collection process
+obsolete_daytime arthropod specimen collection by aspiration
+obsolete_human - biting arthropod specimen collection by aspiration
+obsolete_ovitrap
+obsolete_human - biting indoor arthropod specimen collection by aspiration
+obsolete_human - biting outdoor arthropod specimen collection by aspiration
+obsolete_arthropod specimen collection by aspiration
+obsolete_arthropod resting in animal house specimen collection by aspiration
+obsolete_arthropod resting outdoors specimen collection by aspiration
+obsolete_outlet window trap
+obsolete_adult arthropod specimen collection process
+obsolete_animal - biting arthropod specimen collection by aspiration
+obsolete_arthropod resting outdoors on artificial support specimen collection by aspiration
+obsolete_light trap for outdoor use
+obsolete_arthropod trap
+obsolete_arthropod specimen collection process
+obsolete_animal - biting outdoor arthropod specimen collection by aspiration
+obsolete_arthropod resting outdoors on natural support specimen collection by aspiration
+obsolete_aquatic arthropod specimen collection process
+number of traps
+obsolete_landing arthropod specimen collection process
+hand - held sweep net
+obsolete_trap for emerging adult arthropods
+centers for disease control and prevention gravid trap
+obsolete_arthropod trap containing small non - human animal bait
+obsolete_dipper for arthropod immatures
+obsolete_resting flight - capable arthropod specimen collection process
+free - standing window trap
+obsolete_device for resting of adult arthropods for collection
+arthropod attractor
+obsolete_arthropod resting in human house specimen collection by aspiration
+obsolete_baited net trap
+infused material
+pupal specimen collection process
+obsolete_resting arthropod trap
+duration time of insecticide exposure
+obsolete_uv light source
+obsolete_visible light source
+insecticide resistance datum
+insecticide concentration datum
+insecticide concentration in percent
+insecticide concentration in parts per notation unit
+insecticide concentration in area density unit
+insecticide concentration in mass density unit
+insecticide concentration in mass per standard assay bottle
+lethal insecticide concentration 50
+lethal insecticide concentration 50 in percent
+lethal insecticide concentration 50 in parts per notation unit
+lethal insecticide concentration 50 in area density unit
+lethal insecticide concentration 50 in mass density unit
+lethal insecticide concentration 50 in mass per standard assay bottle
+lethal insecticide concentration 95
+lethal insecticide concentration 95 in percent
+lethal insecticide concentration 95 in parts per notation unit
+lethal insecticide concentration 95 in area density unit
+lethal insecticide concentration 95 in mass density unit
+lethal insecticide concentration 95 in mass per standard assay bottle
+lethal insecticide concentration 99
+lethal insecticide concentration 99 in percent
+lethal insecticide concentration 99 in parts per notation unit
+lethal insecticide concentration 99 in area density unit
+lethal insecticide concentration 99 in mass density unit
+lethal insecticide concentration 99 in mass per standard assay bottle
+lethal insecticide concentration 90
+lethal insecticide concentration 90 in percent
+lethal insecticide time 90
+lethal insecticide time 95
+median knockdown time
+lethal insecticide concentration 90 in parts per notation unit
+lethal insecticide concentration 90 in area density unit
+lethal insecticide concentration 90 in mass density unit
+lethal insecticide concentration 90 in mass per standard assay bottle
+ratio of specimen population mean enzymatic activity to that of reference specimen population
+ratio of specimen population median enzymatic activity to that of reference specimen population
+population fraction with greater enzymatic activity than 99th percentile of reference population
+number of input specimens to assay
+prevalence of kdr l1014f
+prevalence of kdr s989p
+prevalence of kdr i1011m
+prevalence of kdr i1011v
+prevalence of kdr l1014s
+prevalence of kdr l1014c
+prevalence of kdr v1016g
+prevalence of kdr v1016i
+prevalence of kdr i1532t
+prevalence of kdr f1534c
+prevalence of kdr f1534l
+prevalence of kdr f1534s
+prevalence of kdr n1575y
+prevalence of kdr d1763y
+prevalence of ache1 g119s
+prevalence of gste2 l119f
+prevalence of rdl a296g
+prevalence of rdl a296s
+number of entomology collections
+prevalence of wild type kdr l1014
+prevalence of wild type kdr s989
+prevalence of wild type kdr i1011
+prevalence of wild type kdr v1016
+prevalence of wild type kdr i1532
+prevalence of wild type kdr f1534
+prevalence of wild type kdr n1575
+prevalence of wild type kdr d1763
+prevalence of wild type ache1 g119
+prevalence of wild type ache1 f290
+prevalence of wild type ache1 f331
+prevalence of wild type gste2 i114
+prevalence of wild type gste2 l119
+prevalence of wild type rdl a296
+egg specimen collection process
+larval specimen collection process from traps
+organism identification datum
+lethal insecticide concentration 100
+lethal insecticide concentration 100 in percent
+obsolete_well net for arthropod immatures
+obsolete_gravid female arthropod specimen collection process
+obsolete_arthropod collection process with automated identification
+obsolete_flying adult arthropod collection process by passive interception
+bg - lure
+geohash code
+geohash 1
+geohash 2
+geohash 3
+geohash 4
+geohash 5
+geohash 6
+geohash 7
+geohash 32
+blood hydroxychloroquine concentration
+mushroom  ( whole organism )
+liquid
+food  ( solid )
+geographic location
+read coverage
+subnational region
+molecular_function
+catalytic activity
+rna - directed dna polymerase activity
+acetylcholinesterase activity
+glutathione transferase activity
+parturition
+respiratory gaseous exchange by respiratory system
+biological_process
+histone modification
+hydrolase activity ,  acting on ester bonds
+protein - containing complex
+regulation of water loss via skin
+activin a complex
+interleukin - 12 complex
+carboxylic ester hydrolase activity
+ferritin complex
+platelet - derived growth factor complex
+renal insufficiency
+phenotypic abnormality
+abnormality of the genitourinary system
+hydrocephalus
+epistaxis
+deeply set eye
+misalignment of teeth
+restlessness
+hematuria
+abnormality of the skin
+jaundice
+edema
+hyperhidrosis
+pallor
+pruritus
+thickened skin
+lethargy
+coma
+global developmental delay
+failure to thrive
+alopecia
+premature birth
+congestive heart failure
+splenomegaly
+weight loss
+leukopenia
+abnormal bleeding
+fever
+polydipsia
+leukocytosis
+vomiting
+nausea
+abdominal pain
+respiratory distress
+headache
+abnormality of the immune system
+tachypnea
+abnormal blood ion concentration
+myalgia
+back pain
+low back pain
+stridor
+pedal edema
+erythema
+inflammatory abnormality of the skin
+abnormality of higher mental function
+enlargement of parotid gland
+abdominal colic
+pain
+neonatal asphyxia
+ear pain
+wheezing
+nasal flaring
+shock
+flaky paint dermatosis
+health status
+seizure precipitated by febrile infection
+bipedal edema
+barking cough
+neonatal sepsis
+pulmonary edema
+chest pain
+sepsis
+anaphylactic shock
+ocular pain
+pustule
+verrucae
+measurement unit label
+objective specification
+action specification
+datum label
+information carrier
+data item
+symbol
+information content entity
+scalar measurement datum
+directive information entity
+algorithm
+curation status specification
+data set
+data about an ontology part
+plan specification
+measurement datum
+material information bearer
+obsolescence reason specification
+textual entity
+document
+publication
+cartesian spatial coordinate datum
+one dimensional cartesian spatial coordinate datum
+length measurement datum
+denotator type
+mass measurement datum
+time measurement datum
+publishing process
+document in preparation for publication
+documenting
+assigning a centrally registered identifier
+centrally registered identifier symbol
+centrally registered identifier
+centrally registered identifier registry
+identifier
+pathogen role
+pathogenic disposition
+infection prevalence
+pathogen
+endotoxin
+primary infection
+infection
+immunosuppression
+human pathogenicity disposition
+oxidized residue
+iodoacetamide derivatized amino - terminal residue
+reference
+iv fluid
+thick smear technique
+thin smear technique
+summing data transformation
+sum value
+medication material
+buffy coat specimen
+blood specimen volume
+planned process
+biological feature identification objective
+processed material
+investigation
+evaluant role
+reporting party role
+assay
+sample preparation for assay
+culture medium
+reagent role
+material processing
+participant under investigation role
+responsible party role
+principal investigator role
+specimen role
+study group role
+population
+investigation agent role
+reference subject role
+enzymatic cleavage
+organization
+organism feature identification objective
+protocol
+analyte role
+drawing a conclusion based on data
+planning
+contain function
+polymerase chain reaction
+reverse transcriptase
+extract
+averaging objective
+enzyme
+genotyping assay
+analyte measurement objective
+assay objective
+analyte assay
+measure function
+material transformation objective
+study design execution
+reverse transcribed polymerase chain reaction
+manufacturer role
+dna sequencing assay
+material separation objective
+urine specimen
+material combination
+blood specimen
+specimen collection process
+enzyme - linked immunosorbent assay
+sample from organism
+center value
+portioning objective
+average value
+whole organism preparation
+separation into different composition objective
+specimen collection objective
+host role
+restriction enzyme
+material sample role
+material sampling process
+material sample
+material maintenance objective
+informed consent process
+measurement device
+manufacturer
+material maintenance
+hospital
+primary structure of rna molecule
+record of missing knowledge
+record of unknown sex
+real time polymerase chain reaction assay
+sequence feature annotation
+infectious agent
+categorical measurement datum
+service consumer role
+service provider role
+compound treatment design
+processed specimen
+container
+device
+fresh specimen
+sequence data
+administration of material to specimen
+nucleic acid extract
+dna extract
+nucleic acid sequencer
+gel electrophoresis system
+protein sequencer
+individual organism identifier
+age measurement datum
+age since birth measurement datum
+reverse transcription polymerase chain reaction assay
+half life datum  ( t 1 / 2 )
+service
+selective organism creation objective
+selectively maintained organism
+genotyping by high throughput sequencing assay
+genotyping by array assay
+genotype information
+species comparison design
+genetic characteristics information
+genotyping design
+strain comparison design
+cell specimen
+specimen with known storage state
+specimen from organism
+linear amplification
+sampling time measurement datum
+material maintenance service
+sequence assembly algorithm
+material service
+material analysis service
+rate measurement datum
+material storage service
+genbank id
+investigation description
+specimen identifier
+pubmed id
+average depth of sequence coverage
+specimen collection time measurement datum
+latitude coordinate measurement datum
+longitude coordinate measurement datum
+investigation title
+organism identification objective
+organism identification assay
+sequence annotation algorithm
+bioinformatics resource center
+country name
+investigation identifier
+grant identifier
+grant
+contact representative role
+specimen collector role
+cell culture
+organization of specimen provider principal investigator
+organization of bioinformatics resource center contact person
+target material in specimen specification
+bioinformatics resource center contact person
+specimen - based scope of investigation specification
+specimen repository organization
+email address of bioinformatics resource center contact person
+sequencing facility contact person
+specimen provider principal investigator
+email address of specimen collector
+sequencing facility organization
+specification of data to be generated in an investigation
+organization of specimen collector
+email address of sequencing facility contact person
+specimen collector
+investigation assay specification
+organization of sequencing facility contact person
+comment on investigation
+target capture specification
+specimen identifier assigned by specimen repository
+specimen identifier assigned by sequencing facility
+sample preparation for sequencing assay
+email address of specimen provider principal investigator
+sequencing service
+conclusion based on data
+cell freezing medium
+categorical value specification
+scalar value specification
+value specification
+grant agency
+sequence annotation
+sequence annotation provider
+sequence assembly name
+sequence annotation reporting role
+cytometry assay
+illumina hiseq 2000
+collection of specimens
+microscopy assay
+hbv surface antigen assay
+molecular analysis facility organization
+measurand role
+differential medium assay
+medication time value specification
+medication dose value specification
+case role in case - control study
+control role in case - control study
+cerebrospinal fluid specimen
+feces specimen
+digestive system fluid or secretion specimen
+milk specimen
+sputum specimen
+bone marrow specimen
+pleural fluid specimen
+lung specimen
+inverse polymerase chain reaction
+swab specimen
+collecting specimen with swab
+nasopharyngeal swab specimen
+case - control study design
+giemsa stain assay
+individual organism specimen
+blood microbiology assay
+glass bottle
+glass bottle coated with insecticides
+short interspersed nuclear elements polymerase chain reaction
+nested polymerase chain reaction
+immunoelectrophoresis
+counter current immunoelectrophoresis
+ligase detection reaction
+loop - mediated isothermal amplification
+detection of pathogenic organisms objective
+insecticide resistance detection objective
+arthropod meal of blood specimen
+polymerase chain reaction assay
+restriction fragment length polymorphism assay
+dna fingerprinting assay
+insecticide resistance assay
+insecticide resistance by monitoring known mutations assay
+insecticide resistance by detecting enzyme activity assay
+insecticide resistance bioassay
+insecticide resistance by detecting alpha esterase activity assay
+insecticide resistance by detecting beta esterase activity assay
+insecticide resistance by detecting acetylcholinesterase activity assay
+insecticide resistance by detecting glutathione s - transferase activity assay
+insecticide resistance by detecting carboxylic ester hydrolase activity assay
+insecticide resistance by detecting mixed - function oxidase assay
+direct insecticide resistance bioassay
+topical application insecticide resistance bioassay
+direct insecticide resistance diagnostic assay
+insecticide resistance dose response assay
+insecticide resistance time response assay
+centre for disease control and prevention bottle bioassay
+who cone kit diagnostic assay
+who paper kit diagnostic assay
+who larvicide diagnostic assay
+insecticide resistance dose response by bottle assay
+insecticide resistance dose response by survival of larvae assay
+insecticide resistance dose response by who paper kit assay
+insecticide resistance time response by bottle assay
+insecticide resistance time response by who paper kit assay
+insecticide resistance by amplification refractory mutation system assay
+insecticide resistance by primer introduced restriction analysis pcr assay
+insecticide resistance by nested polymerase chain reaction assay
+insecticide resistance by ligase detection reaction assay
+insecticide resistance by ligase detection reaction - fluorescent microsphere assay
+insecticide resistance by pcr amplification of specific alleles assay
+insecticide resistance by fluorogenic pcr assay
+insecticide resistance by pcr - relp assay
+insecticide resistance by short interspersed elements pcr assay
+pathogen detection assay
+vectortest assay
+pathogen detection by rapid analyte measurement platform assay
+pathogen detection by loop - mediated isothermal amplification assay
+blood meal assay
+blood meal by counter current immunoelectrophoresis assay
+dna based blood meal finger printing assay
+organism identification by size assay
+organism identification by cross mating assay
+organism identification by cytological chromosome examination assay
+organism identification by isoenzyme electrophoresis assay
+organism identification by morphological examination assay
+organism identification by pcr assay
+organism identification by specific dna hybridization assay
+organism identification by salinity tolerance assay
+induced sputum specimen
+passage process
+passage history record
+karyotype information
+partial karyotype information
+full karyotype information
+tracheal aspirate specimen
+mid - turbinate nasal swab specimen
+nasal aspirate specimen
+lower respiratory tract aspirate specimen
+upper respiratory specimen
+lower respiratory tract specimen
+anterior nasal swab specimen
+aspiration specimen collection
+surveillance process
+cluster study group role
+compound study group role
+ultraviolet light source
+visible light source
+solar light source
+adult arthropod specimen collection process
+animal - biting arthropod specimen collection by aspiration
+animal - biting outdoor arthropod specimen collection by aspiration
+aquatic arthropod specimen collection process
+arthropod resting in animal house specimen collection by aspiration
+arthropod resting outdoors on artificial support specimen collection by aspiration
+arthropod resting outdoors on natural support specimen collection by aspiration
+arthropod resting outdoors specimen collection by aspiration
+arthropod specimen collection by aspiration
+arthropod specimen collection process
+human - biting arthropod specimen collection by aspiration
+human - biting indoor arthropod specimen collection by aspiration
+human - biting outdoor arthropod specimen collection by aspiration
+knockdown arthropod specimen collection by pyrethrum spray
+knockdown arthropod specimen collection process
+live arthropod specimen collection process
+arthropod trap
+artificial pit shelter
+baited net trap
+barrier trap
+bg - counter
+bg - sentinel trap
+centers for disease control and prevention light trap
+dipper for arthropod immatures
+encephalitis virus surveillance trap
+gravid trap
+light trap
+light trap for indoor use
+light trap for outdoor use
+mosquito magnet trap
+mosquitrap
+new jersey light trap
+onderstepoort veterinary institute light - suction trap
+outlet window trap
+ovitrap
+resting arthropod trap
+resting box trap
+resting bucket
+shannon trap
+sticky resting bucket
+sticky trap
+population based design
+endotracheal tube specimen
+endotracheal aspirate specimen
+altitude measurement datum
+specimen collection duration
+prevalence of pathogen in specimens
+prevalence of blood meal specimens from a host organism
+presence of blood from host organism in blood meal specimen
+blood meal source organism
+blood meal source role
+arthropod attractor role
+arthropod collection process with automated identification
+gravid female arthropod specimen collection process
+resting flight - capable arthropod specimen collection process
+daytime arthropod specimen collection by aspiration
+arthropod resting in human house specimen collection by aspiration
+landing arthropod specimen collection process
+flying adult arthropod collection process by passive interception
+device for resting of adult arthropods for collection
+well net for arthropod immatures
+arthropod trap containing small non - human animal bait
+trap for emerging adult arthropods
+lymphocyte assay
+epstein barr virus transformed b cell
+blood plasma specimen
+organism
+specimen
+cultured cell population
+bronchial alveolar lavage
+data transformation
+data transformation objective
+averaging data transformation
+center calculation data transformation
+observation design
+pool of specimens
+extraction
+storage
+nucleic acid hybridization
+light source
+dna sequencer
+animal cage
+study design
+eligibility criterion
+human subject enrollment
+collecting specimen from organism
+administering substance in vivo
+material component separation
+maintaining cell culture
+establishing cell culture
+sequencing assay
+specific enzymatic cleavage
+dialysis
+electrophoresis
+enzymatic amplification
+nucleic acid extraction
+infection process
+lymph node cell specimen
+organ harvesting
+disposition to infect an organism
+pathologic process
+bodily fluid specimen
+clinical finding
+clinical history
+laboratory finding
+clinical phenotype
+clinical laboratory test
+disease course
+diagnosis
+physical examination finding
+treatment
+health care process
+health care encounter
+diagnostic process
+clinical data item
+antimicrobial agent resistance phenotype
+human social role
+patient role
+health care provider role
+hospital facility
+residence function
+patient discharge
+human traveling information
+employment process
+admission process
+ethnic identity information content entity
+gender identity information content entity
+highest level of education data item
+oocyst stage
+gametocyte stage
+sporozoite stage
+parasite lifecycle stage
+parasite organism
+positive covid - 19 diagnosis conclusion
+age
+concentration of
+biological sex
+length
+mass
+temperature
+time
+female
+male
+absent
+present
+physical quality
+susceptible toward
+resistant to
+physical object quality
+area
+mixed sex
+morbidity
+turgor
+decreased turgor
+mating type
+organismal quality
+virulence
+nulliparous
+lesioned
+parous
+collection of organisms
+household
+number of generations of multicellular organism
+parasite isolate population
+health care prescription
+fruit
+flower
+plant anatomical entity
+protein
+interferon gamma
+tumor necrosis factor
+interleukin - 1 beta
+interleukin - 1 receptor antagonist protein
+interleukin - 17a
+interleukin - 7
+interleukin - 13
+interleukin - 15
+interleukin - 2
+interleukin - 4
+interleukin - 5
+interleukin - 6
+interleukin - 8
+interleukin - 9
+interleukin - 10
+c / c - c motif small inducible chemokine
+cd14 molecule
+c - c motif chemokine 3 / 4
+eotaxin - like cytokine
+c - c motif chemokine 5
+c - c motif chemokine 2
+c - c motif chemokine 3
+c - c motif chemokine 4
+eotaxin
+c - reactive protein
+granulocyte - macrophage colony - stimulating factor
+granulocyte colony - stimulating factor
+pro - epidermal growth factor
+lactadherin
+aspartate aminotransferase
+alkaline phosphatase
+alanine aminotransferase
+insect - type acetylcholinesterase
+sodium channel protein para
+kdr v1016g
+gamma - aminobutyric acid receptor subunit beta
+kdr i1011m
+kdr i1011v
+kdr s989p
+kdr l1014s
+kdr i1532t
+kdr f1534c
+kdr f1534l
+kdr f1534s
+kdr n1575y
+kdr d1763y
+kdr v1016i
+ache1 g119s
+rdl a296g
+rdl a296s
+glutathione s - transferase epsilon 2
+gste2 l119f
+kdr l1014c
+kdr l1014f
+region
+chromosome_arm
+simple_sequence_length_variation
+microsatellite
+sequence_assembly
+experimental_result_region
+gene
+rrna_16s
+genome
+genotype
+assembly
+experimental_feature
+reference_genome
+variant_collection
+gene_variant
+variant_frequency
+variant_phenotype
+inversion
+paracentric_inversion
+count
+subject pairing
+threshold cycle
+bleeding
+wasting
+anorexia
+dizziness
+cough
+fatigue
+zone of skin
+sense organ
+lymph node
+head
+anatomical structure
+organ
+organ part
+larval stage
+pupal stage
+death stage
+proximo - distal subdivision of respiratory tract
+mixed endoderm / mesoderm - derived structure
+life cycle stage
+respiratory tube
+intestine
+oral cavity
+excreta
+blood
+mucosa
+secretion of exocrine gland
+organism substance
+material anatomical entity
+immaterial anatomical entity
+organism subdivision
+anatomical cluster
+tissue
+epithelium
+simple columnar epithelium
+cavitated compound organ
+stomach
+heart
+brain
+cornea
+eye
+hemolymph
+saliva - secreting gland
+midgut
+hindgut
+anatomical entity
+pleural fluid
+urine
+diaphragm
+skeletal muscle tissue
+dorsum
+caecum
+peritoneal cavity
+intestinal mucosa
+cerebrospinal fluid
+arm
+bone element
+upper respiratory tract
+lower respiratory tract
+muscle organ
+nasal cavity
+tongue
+nasopharynx
+pinna
+turbinate bone
+corneal epithelium
+skeletal muscle of trunk
+aqueous humor of eyeball
+nasal cavity mucosa
+saliva
+medulla oblongata
+milk
+semen
+placenta
+feces
+lung
+viscus
+spleen
+liver
+gall bladder
+kidney
+myocardium
+exocrine gland
+endocrine gland
+thymus
+bone marrow
+muscle tissue
+tail
+endochondral bone
+gland
+gill
+larva
+anatomical cavity
+surface structure
+compound organ
+trachea
+gland of digestive tract
+head bone
+facial bone
+thoracic segment muscle
+nasal concha of ethmoid bone
+endoderm - derived structure
+mesoderm - derived structure
+ectoderm - derived structure
+hemopoietic organ
+instar larval stage
+skeletal element
+respiratory tract epithelium
+subdivision of digestive tract
+organ component layer
+immune organ
+muscle structure
+beak
+abdomen element
+trunk region element
+thoracic cavity element
+thoracic segment organ
+nasal cavity epithelium
+endo - epithelium
+middle nasal concha
+heart layer
+bodily fluid
+respiratory system fluid / secretion
+digestive system gland
+sputum
+crop
+ciliated columnar epithelium
+transudate
+inguinal part of abdomen
+gravid organism
+axilla
+digestive tract diverticulum
+multicellular anatomical structure
+oral gland
+neural crest - derived structure
+structure with developmental contribution from neural crest
+endochondral element
+ecto - epithelium
+pseudostratified ciliated columnar epithelium
+subdivision of organism along main body axis
+digestive system element
+lateral structure
+eye epithelium
+abdominal viscera
+prime adult stage
+bladder organ
+skin epithelium
+anterior nasal wall
+left side of back
+right side of back
+length unit
+mass unit
+time unit
+temperature unit
+area unit
+concentration unit
+mass density unit
+area density unit
+volume unit
+parts per notation unit
+density unit
+dimensionless unit
+percent
+count unit
+ratio
+fraction
+cell concentration unit
+catalytic  ( activity )  concentration unit
+volume per unit volume
+dose unit
+route of administration
+antibody
+replicate
+diet
+platelet count
+heart rate
+hematocrit
+fasting blood glucose measurement
+date of birth
+age at death
+parasitemia measurement
+poisoning
+creatine
+macrolide antibiotic
+organochlorine insecticide
+metal atom
+quinolone antibiotic
+triazole antifungal drug
+antibiotic antifungal drug
+negative covid - 19 diagnosis
+solid environmental material
+liquid astronomical body part
+fluid astronomical body part
+compound astronomical body part
+land area measured in acres
+distance to health facility in km
+hemoglobin level in g per dl
+artemether - lumefantrine drug product
+location of clinical visit
+relationship to head of family
+environmental history
+place of death
+information on drinking water piped into dwelling
+information on drinking water piped into yard
+count of beds with bednet
+count of traps
+fungus
+data maintenance service
+positive covid - 19 diagnosis

@@ -1,0 +1,942 @@
+phenotype that is a defect in thermotaxis  ( go:0043052 )  .
+phenotype of males that is a reduction in the proportion of fertilized eggs produced ,  but only to  >  50% of wild - type .
+phenotype of females that is a reduction in the proportion of fertilized eggs produced ,  but only to  >  50% of wild - type .
+genotype g1 is a modifier of variegation if ,  and only if ,  some genotype g2 has a variegated phenotype and the degree of variegation caused by g1g2 is significantly different from that caused by g2 alone .
+phenotype that is the partial or full transformation of one or more segments  ( fbbt:00000003 )  or segmental appendages from one identity to another .
+phenotype that is a defect in dorsal / ventral axis specification  ( go:0009950 )  .
+a phenotype that is an expansion of the developing embryonic nervous system at the expense of developing ventral epidermis .
+the canonical phenotype of a wild - type drosophilid .
+a phenotype that is survival to mature adulthood ,  where mature is defined as after adult stage a3  ( fbdv:00006012 )  .
+a phenotype of a population that is the death of some significant proportion of animals in that population ,  but less that half ,  prior to becoming a mature adult ,  where mature is defined as after adult stage a3  ( fbdv:00006012 )  .
+a phenotype of a population that is the death of all animals in that population at some stage or stages prior to becoming a mature adult ,  where mature is defined as after adult stage a3  ( fbdv:00006012 )  .
+a phenotype of a population that is the death of a majority of animals in that population prior to becoming a mature adult ,  where mature is defined as after adult stage a3  ( fbdv:00006012 )  .
+a phenotype that is a failure of mutant cells to survive .
+a post - embryonic ,  macroscopic ,  anatomical phenotype .
+phenotype that is a defect in eye color compared to wild - type .
+a phenotype that is a defect in body color compared to wild - type .
+a phenotype that is a defect in the size of the whole body or some body part compared to wild - type .
+phenotype that is a decrease in body size compared to identically raised wild - type controls .
+phenotype that is a decrease in the number of cells in a whole animal or in some specific organ ,  tissue or clone of cells compared to wild - type .
+phenotype that is a decrease in the size of cells in a whole animal or in some specific organ ,  tissue or clone of cells compared to wild - type .
+phenotype that is an increase in body size compared to identically raised wild - type controls .
+phenotype that is an increase in the number of cells in a whole animal or in some specific organ ,  tissue or clone of cells compared to wild - type .
+phenotype that is an increase in the size of cells compared to wild - type .
+a phenotype that is the inability to produce a zygote .
+a phenotype that is a reduction in the proportion of fertilized eggs produced to below 50% of wild - type .
+a phenotype that is the inability of females to mate and produce fertilized offspring .
+a phenotype that is a reduction in the proportion of fertilized eggs produced by females to below 50% of wild - type .
+a phenotype of female sterility due to defects in the female germline .
+a phenotype of female sterility due to defects in somatic cells of the ovary  ( fbbt:00006030 )  ,  or of the products of these cells  ( such as eggshell )  .
+a phenotype that is the inability of males to mate and produce fertilized offspring .
+a phenotype that is a reduction in the proportion of fertilized eggs produced by males to below 50% of wild - type .
+a phenotype of male sterility due to defects in the male germline .
+a phenotype of male sterility due to defects in somatic cells of the testis  ( fbbt:00006031 )  or of the products of these cells .
+a phenotype that is the ability to mate and as a result produce fertilized eggs .
+phenotype that is a reduction in the proportion of fertilized eggs produced ,  but only to  >  50% of wild - type .
+a phenotype that is the ability of males to mate and as a result produce fertilized eggs .
+a phenotype that is the ability of females to mate and as a result produce fertilized eggs .
+a phenotype in which all offspring are sterile .
+genotype g1 is an enhancer of variegation if ,  and only if ,  some genotype g2 has a variegated phenotype and the degree of variegation caused by g1g2 is greater than that caused by g2 alone .
+genotype g1 is a non - enhancer of variegation of the phenotype due to genotype g2 if ,  and only if ,  g2 has a variegated phenotype and the degree of variegation caused by g1g2 is not greater than that caused by g2 alone .
+genotype g1 is a suppressor of variegation if ,  and only if ,  some genotype g2 has a variegated phenotype and the degree of variegation caused by g1g2 is less than that caused by to g2 alone .
+genotype g1 is a non - suppressor of variegation of the phenotype due to genotype g2 if ,  and only if ,  g2 has a variegated phenotype and the degree of variegation caused by g1g2 is not less than that caused by g2 alone .
+a phenotype that is the inability to synthesize some organic compound that can be synthesized by wild - type animals ,  and that is required for normal growth and / or development .
+phenotype that is a defect in aging  ( go:0007568 )  .
+phenotype that is a shorter adult life - span than wild - type .
+phenotype that is a longer adult life - span than wild - type .
+phenotype that is a defect in behavior  ( go:0007610 )  .
+phenotype that is a change in the strong tendency ,  seen in wild - type drosophila melanogaster ,  to climb  -  a behavior otherwise known as negative gravitaxis  ( go:0048060  ;  movement away from the source of gravity )  .
+phenotype that is a disposition to paralysis under conditions that do not cause paralysis in a wild - type animal .
+a phenotype consisting of decreased frequency of `multicellular organismal movement`  ( go:0050879 )  compared to wild - type .
+a phenotype exhibited following mechanical shock and consisting of a brief period of intense ,  uncoordinated motor activity  ( legs and wings flailing ,  abdomen coiling )  followed by a prolonged period of paralysis .
+a phenotype consisting of increased frequency of `multicellular organismal movement`  ( go:0050879 )  compared to wild - type .
+phenotype that is a defect in response to pain  ( go:0048265 )  .
+phenotype that is a defect in circadian rhythm  ( go:0007623 )  .
+phenotype that is a defect in locomotor rhythm  ( go:0045475 )  .
+phenotype that is a defect in eclosion rhythm  ( go:0008062 )  .
+phenotype that is a defect in learning  ( go:0007612 )  .
+phenotype that is a defect in memory  ( go:0007613 )  .
+phenotype that is a defect in courtship behavior  ( go:0007619 )  .
+phenotype that is a defect in mating  ( go:0007618 )  .
+phenotype that is a defect in circadian mating behavior  ( go:0035648 )  .
+phenotype that is a defect in male courtship behavior ,  veined wing generated song production  ( go:0045433 )  .
+phenotype that is a defect in chemosensory behavior  ( go:0007635 )  .
+phenotype that is a defect in sensory perception of smell  ( go:0007608 )  .
+phenotype that is a defect in sensory perception of taste  ( go:0050909 )  .
+phenotype that is a failure to exhibit proboscis extension reflex in response to a sugar stimulus via taste sensilla on the tarsus .
+phenotype that is a defect in sensory perception of sound  ( go:0007605 )  .
+phenotype that is a defect in response to stress  ( go:0006950 )  .
+phenotype that is a defect in response to osmotic stress  ( go:0006970 )  .
+phenotype that is a defect in response to heat  ( go:0009408 )  .
+phenotype that is a defect in visual behavior  ( go:0007632 )  .
+phenotype that is a defect in optomotor response: a motor response during flight or walking that serves to stabilize both image formation on the retina and locomotor course .
+phenotype that is a defect in phototaxis  ( go:0042331 )  .
+phenotype that is a defect in locomotory behavior  ( go:0007626 )  .
+phenotype that is a reduced ability to jump or a reduced jump response .
+phenotype that is a lack of normal co - ordination in locomotor activity .
+phenotype that is a defect in flight  ( go:0060361 )  .
+phenotype that is the absence of flight  ( go:0060361 )  .
+phenotype that is a defect in feeding behavior  ( go:0007631 )  .
+phenotype that is a defect in grooming behavior  ( go:0007625 )  .
+phenotype that is reduction in or loss of a stereotypical behavioral response to touch .
+phenotype that is a defect in entrainment of circadian clock by photoperiod  ( go:0043153 )  ,  which is defined as: 'the synchronization of a circadian rhythm to photoperiod ,  the intermittent cycle of light  ( day )  and dark  ( night )  .'
+phenotype that is a defect in dna repair  ( go:0006281 )  .
+phenotype that is a change in the amount of cell death in a whole animal or in some specific organ tissue or clone of cells compared to wild - type .
+phenotype that is an increase in the amount of cell death in a whole animal or in some specific organ tissue or clone of cells compared to wild - type .
+phenotype that is a decrease in the amount of cell death in a whole animal or in some specific organ tissue or clone of cells compared to wild - type .
+phenotype that is a defect in cell growth  ( go:0016049 )  .
+phenotype that is a defect in the size of cells in a whole animal or in some specific organ ,  tissue or clone of cells compared to wild - type .
+phenotype that is a defect in the shape  ( pato:0000052 )  of some cell compared to wild - type .
+phenotype that is a defect in the asymmetric distribution of components within a cell .
+phenotype that is a defect in meiotic cell cycle  ( go:0051321 )  .
+phenotype that is a defect in mitotic cell cycle  ( go:0000278 )  .
+phenotype that is a defect in cytokinesis  ( go:0000910 )  .
+phenotype that is a defect in the electrophysiological properties of some class of neurons ,  muscles or anatomical structure of the nervous system .
+phenotype that is a defect in nervous system  ( fbbt:00005093 )  .
+phenotype that is a defect in sex determination  ( go:0007530 )  .
+phenotype that is a difference in electrophoretic migration of a gene product compared to wild - type .
+phenotype that is a decreased sensitivity  ( compared to wild - type )  to the toxic effects of some specified chemical .
+phenotype that is an increased sensitivity  ( compared to wild - type )  to the toxic effects of some specified chemical .
+phenotype that is a decreased tendency for radiation exposure to cause toxic effects .
+phenotype that is an increased tendency for radiation exposure to cause toxic effects .
+dominant phenotype consisting of short slender bristles and delayed development .
+phenotype that is an increase in size of a tissue or organ due to increased numbers of cells ,  where the affected tissue or organ maintains its normal form .
+phenotype that is characterized by the formation of abnormal masses of tissue  ( tumors )  as the result of neoplasia .
+phenotype characterized by the formation of lumps of melanotic tissue inside the body in the absence of foreign bodies .
+phenotype characterized by closely associated necrosis and melanization .
+phenotype that is a defect in immune response  ( go:0006955 )  .
+phenotype that is a defect in establishment of planar polarity  ( go:0001736 )  .
+phenotype that is a change in the rate of some developmental process  ( go:0032502 )  taking place prior to mature adulthood  ( defined as adult stage a3 )  ,  compared to wild - type .
+phenotype that is a defect in wound healing  ( go:0042060 )  .
+phenotype that is an abnormality in body size compared to wild - type animals raised under the same conditions as the animals exhibiting the phenotype .
+phenotype that is a defect in cell adhesion  ( go:0007155 )  .
+phenotype that is a defect in hatching behavior  ( go:0035187 )  .
+phenotype that is a defect in eclosion  ( go:0007562 )  .
+phenotype that is a defect in cell cycle  ( go:0007049 )  .
+phenotype that is a defect in endomitotic cell cycle  ( go:0007113 )  .
+phenotype that is a defect in circadian behavior  ( go:0048512 )  .
+phenotype that is a defect in proboscis extension reflex  ( go:0007637 )  .
+phenotype that is a defect in sensory perception  ( go:0007600 )  .
+phenotype that is a defect in sensory perception of touch  ( go:0050975 )  .
+phenotype that is a defect in response to temperature stimulus  ( go:0009266 )  .
+phenotype that is a defect in response to cold  ( go:0009409 )  .
+phenotype that is a defect in axis specification  ( go:0009798 )  .
+a phenotype that is a disruption in the wild - type pattern of segments or parasegments of the embryo or larva .
+embryonic / larval segmentation phenotype that is the complete or partial loss of alternate segments or parasegments .
+embryonic / larval segmentation phenotype that is the complete or partial loss of even segments .
+embryonic / larval segmentation phenotype that is the complete or partial loss of odd segments .
+embryonic / larval segmentation phenotype in which some fraction of each segment  ( along the anterior - posterior axis )  is deleted and replaced by a mirror image duplication of the remaining part of the segment .
+embryonic / larval segmentation phenotype that is the complete loss of a contiguous stretch of 2 or more segments .
+phenotype that is a defect in sleep  ( go:0030431 )  .
+phenotype that is a defect in entry into diapause  ( go:0055115 )  .
+phenotype that is a defect in entry into reproductive diapause  ( go:0055116 )  .
+phenotype that is a defect in response to starvation  ( go:0042594 )  .
+phenotype that is an increase or decrease in the number of cells in a whole animal or in some specific organ ,  tissue or clone of cells compared to wild - type .
+phenotype that is a inability to jump .
+phenotype that is a defect in cell migration  ( go:0016477 )  .
+phenotype that is an increase in the rate of cell growth  ( go:0016049 )  in a whole animal or in some specific organ tissue or clone of cells compared to wild - type .
+phenotype that is an decrease in the rate of cell growth  ( go:0016049 )  in a whole animal or in some specific organ tissue or clone of cells compared to wild - type .
+phenotype that is a decrease in size of an initially normally sized organ or tissue due to wasting away of cells .
+phenotype that is a defect or in or absence of a jump response  ( go:0007630 )  .
+phenotype that is a defect in mating behavior  ( go:0007617 )  .
+phenotype that consists of abnormal growth of a tissue or organ due to increased numbers of cells ,  but in which the affected tissue or organ does not maintain its normal form .
+phenotype that is a reduction in size of an organ or tissue compared to wild - type due to reduced numbers of cells being produced during its development or growth .
+phenotype that is a defect in response to oxidative stress  ( go:0006979 )  .
+embryonic / larval segmentation phenotype that is the complete or partial loss of terminal regions of the embryo / larva: the acron ,  telson and immediately adjacent segments .
+a phenotype in which the aging process  ( go:0007568 )  is slower than in wild - type .
+a phenotype in which the aging process  ( go:0007568 )  is accelerated compared to wild - type .
+phenotype that is a defect in endocytosis  ( go:0006897 )  .
+phenotype that is a defect in exocytosis  ( go:0006887 )  .
+a defect in or loss of some anatomical structure or biological process compared to wild - type .
+a phenotype of a population that is the death of all animals in that population at some stage or stages prior to eclosion from the pupal case  ( the end of the p - stage )  .
+a phenotype of a population that is the death of all animals in that population at some stage or stages before the end of the first instar larval stage .
+a phenotype of a population that is the death of all animals in that population at some stage or stages before the end of the larval stage .
+a phenotype of a population that is the death of all animals in that population at some stage or stages before the end of the second instar larval stage .
+a phenotype that is an increase in the rate of death in a population at any stage of life  ( during development or adulthood )  ,  over the rate seen in a wild type control population .
+a phenotype of a population that is the death of all animals in that population during the p - stage .
+a phenotype of a population that is the death of all animals in that population during the first instar larval stage .
+a phenotype of a population that is the death of all animals in that population during the larval stage .
+a phenotype of a population that is the death of all animals in that population during the second instar larval stage .
+a phenotype of a population that is the death of all animals in that population during the third instar larval stage .
+a phenotype of a population that is the death of the majority of animals in that population during the p - stage .
+a phenotype of a population that is the death of the majority of animals in that population during the first instar larval stage .
+a phenotype of a population that is the death of the majority of animals in that population during the larval stage .
+a phenotype of a population that is the death of the majority of animals in that population during the second instar larval stage .
+a phenotype of a population that is the death of the majority of animals in that population during the third instar larval stage .
+a phenotype of a population that is the death of some significant proportion of animals in that population prior to becoming a mature adult ,  where mature is defined as after adult stage a3  ( fbdv:00006012 )  .
+a phenotype of a population that is the death of a significant proportion of animals in that population prior to becoming a mature adult ,  where mature is defined as after adult stage a3  ( fbdv:00006012 )  .
+a phenotype of a population that is the death of a significant proportion of animals in that population during the p - stage .
+a phenotype of a population that is the death of a significant proportion of animals in that population during the first instar larval stage .
+a phenotype of a population that is the death of a significant proportion of animals in that population during the second instar larval stage .
+a phenotype of a population that is the death of a significant proportion of animals in that population during the larval stage .
+a phenotype of a population that is the death of a significant proportion of animals in that population during the third instar larval stage .
+a phenotype of a population that is the death of all animals in that population during the pharate adult stage .
+a phenotype of a population that is the death of all animals in that population at some stage or stages before the end of the prepupal stage .
+a phenotype of a population that is the death of all animals in that population at some stage or stages before the end of the pupal stage .
+a phenotype of a population that is the death of all animals in that population during the pupal stage .
+a phenotype of a population that is the death of all animals in that population during the prepupal stage .
+a phenotype of a population that is the death of all animals in that population at some stage or stages before the end of the embryonic stage .
+a phenotype of a population that is the death of all animals in that population during the embryonic stage .
+a phenotype of a population that is the death of the majority of animals in that population during the pupal stage .
+a phenotype of a population that is the death of the majority of animals in that population during the prepupal stage .
+a phenotype of a population that is the death of the majority of animals in that population during the pharate adult stage .
+a phenotype of a population that is the death of the majority of animals in that population during the embryonic stage .
+a phenotype of a population that is the death of a significant proportion of animals in that population during the pharate adult stage .
+a phenotype of a population that is the death of a significant proportion of animals in that population during the pupal stage .
+a phenotype of a population that is the death of a significant proportion of animals in that population during the prepupal stage .
+a phenotype of a population that is the death of a significant proportion of animals in that population during the embryonic stage .
+a phenotype of a population that is the death of all animals in that population as immature adults  ( after eclosion but before the end of adult stage a3  ( fbdv:00006012 )  )  .
+a phenotype of a population that is the death of the majority of animals in that population as immature adults  ( after eclosion but before the end of adult stage a3  ( fbdv:00006012 )  )  .
+a phenotype of a population that is the death of some significant number of animals in that population as immature adults  ( after eclosion but before the end of adult stage a3  ( fbdv:00006012 )  )  .
+phenotype that is a defect in sensory perception of light stimulus  ( go:0050953 )  .
+phenotype that is a defect in copulation  ( go:0007620 )  .
+phenotype that is an increase in the number of gametes produced .
+phenotype that is a decrease in the number of gametes produced .
+phenotype that is a defect in oviposition  ( go:0007620 )  .
+a phenotype that is an increased occurrence of cell division  ( go:0051301 )  .
+a phenotype that is a decreased occurrence of cell division  ( go:0051301 )  .
+x is preceded by y if and only if the time point at which y ends is before or equivalent to the time point at which x starts .
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+b is a specifically dependent continuant = def .
+b is a generically dependent continuant = def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+biological entity that is either an individual member of a biological species or constitutes the structural organization of an individual member of a biological species .
+material anatomical entity that is a single connected structure with inherent 3d shape generated by coordinated expression of the organism's own genome .
+material anatomical entity in a gaseous ,  liquid ,  semisolid or solid state ;  produced by anatomical structures or derived from inhaled and ingested substances that have been modified by anatomical structures as they pass through the body and that does not have inherent 3d shape generated by coordinated expression of the organism's own genome .
+an anatomical entity that has mass .
+anatomical entity that has no mass .
+anatomical structure that is an individual member of a clade and ,  at some point in its life - cycle ,  consists of more than one cell .
+anatomical structure that has as its parts a maximally connected cell compartment surrounded by a plasma membrane .
+anatomical structure that is part of a cell and that has a granularity level equal to that of a protein complex or higher .
+anatomical structure that is a primary subdivision of whole organism .
+an anatomical structure that has no cells or cell parts as a part .
+a multicellular anatomical structure that is associated with an embryo and derived from the zygote from which it develops ,  but which does not contribute to the embryo proper or to structures that are part of the same organism after embryogenesis .
+a structure consisting of multiple cell components but which is not itself a cell and does not have  ( complete )  cells as a part .
+anatomical structure that is part of a multicellular organism and is at the gross anatomical level ,  e .g .
+material anatomical entity that is a member of an individual species or is a viral or viroid particle .
+an anatomical structure that has more than one cell as a part .
+an individual member of a clade .
+material anatomical entity consisting of multiple anatomical structures that are not connected to each other .
+an anatomical structure consisting of one or more cells .
+entity that is ,  is part of ,  or derived from an organism ,  virus ,  or viroid or a collection of them .
+a chemical entity is a physical entity of interest in chemistry including molecular entities ,  parts thereof ,  and chemical substances .
+a cell that is found in a natural setting ,  which includes multicellular organism cells 'in vivo'  ( i .e .
+a cell found in an organism or derived from an organism exhibiting a phenotype that deviates from the expected phenotype of any native cell type of that organism .
+an abnormal cell exhibiting dysregulation of cell proliferation or programmed cell death and capable of forming a neoplasm ,  an aggregate of cells in the form of a tumor mass or an excess number of abnormal cells  ( liquid tumor )  within an organism .
+a nucleus size quality which is relatively high compared to the amount of cytoplasm present in the same cell .
+an individual member of the species drosophila melanogaster .
+the three main divisions of the whole organism formed from groups of segments .
+one of the repeated divisions of the whole organism .
+any segment  ( fbbt:00000003 )  that is part of some head  ( fbbt:00000004 )  .
+a segment that is anterior to the gnathal segments .
+segment anterior to the intercalary segment .
+a collective term for stages 1 - 4 .
+primordium that is a primary subdivision of the embryo into regions based on tissue and cell - type fate and specification .
+the outermost germ layer of the embryo .
+the region of the ectoderm anterior to the cephalic furrow .
+any tagma  ( fbbt:00000002 )  that is part of some embryo  ( fbbt:00000052 )  .
+any segment  ( fbbt:00000003 )  that is part of some embryo  ( fbbt:00000052 )  .
+any head  ( fbbt:00000004 )  that is part of some embryo  ( fbbt:00000052 )  .
+any segment  ( fbbt:00000003 )  that is part of some embryonic head  ( fbbt:00000155 )  .
+any procephalic segment  ( fbbt:00000007 )  that is part of some embryonic head  ( fbbt:00000155 )  .
+any antennal segment  ( fbbt:00000009 )  that is part of some embryonic head  ( fbbt:00000155 )  .
+primordium of the early extended germ band embryo that will give rise to the larval bolwig organ ,  larval optic anlage and adult eye .
+the ventrally / medially located ectodermal region of the trunk from which neuroblasts delaminate to form the ventral nerve cord .
+an equivalence group of the neurectoderm where all cells can ,  although only one will ,  become a neural progenitor cell .
+embryonic structure that will develop into a larval imaginal tissue ,  which will later form an adult structure  ( cohen ,  1993 )  .
+population of contiguous ,  morphologically distinct cells of the embryo that will proliferate to form an imaginal disc in the larva .
+primordium from which the eye - antennal disc develops .
+any tagma  ( fbbt:00000002 )  that is part of some larva  ( fbbt:00001727 )  .
+any segment  ( fbbt:00000003 )  that is part of some larva  ( fbbt:00001727 )  .
+any head  ( fbbt:00000004 )  that is part of some larva  ( fbbt:00001727 )  .
+any segment  ( fbbt:00000003 )  that is part of some larval head  ( fbbt:00001730 )  .
+any procephalic segment  ( fbbt:00000007 )  that is part of some larval head  ( fbbt:00001730 )  .
+any antennal segment  ( fbbt:00000009 )  that is part of some larval head  ( fbbt:00001730 )  .
+imaginal tissue that is found in the larva and will develop into an adult structure during metamorphosis .
+a sac shaped epithelial structure in the larva that gives rise to part of the adult integumentary system .
+imaginal disc that ,  in the adults ,  gives rise to the eye ,  antenna ,  head capsule  ( including all bristles and external membranes )  and the maxillary palps  ( cohen ,  1993 )  .
+anterior ,  bulbous portion of the eye - antennal disc that gives rise to the eye as well as contributing to the head capsule  ( cohen ,  1993 )  .
+nervous system of the embryo / larva .
+any sense organ  ( fbbt:00005155 )  that is part of some larva  ( fbbt:00001727 )  .
+any sense organ  ( fbbt:00005155 )  that is part of some larval antennal segment  ( fbbt:00001735 )  .
+the prepupa is the name given to the organism at the period of the life cycle that begins at puparium formation and ends when larval / pupal apolysis is complete ,  as indicated by the completion of imaginal head sac eversion and the expulsion of the oral armature of the larva .
+the pupa is the name given to the organism at the period of the life cycle that begins once larval / pupal apolysis is complete ,  as indicated by the expulsion of the larval armature .
+any tagma  ( fbbt:00000002 )  that is part of some adult  ( fbbt:00003004 )  .
+segment of the adult .
+head of the adult organism .
+segment of the adult head .
+any procephalic segment  ( fbbt:00000007 )  that is part of some adult head  ( fbbt:00003007 )  .
+any antennal segment  ( fbbt:00000009 )  that is part of some adult head  ( fbbt:00003007 )  .
+any nervous system  ( fbbt:00005093 )  that is part of some adult  ( fbbt:00003004 )  .
+any sense organ  ( fbbt:00005155 )  that is part of some adult  ( fbbt:00003004 )  .
+any developing material anatomical entity  ( fbbt:00007006 )  that is part of some embryo  ( fbbt:00000052 )  .
+a collective term for stages 11 and 12 .
+a bilaterally paired compound sense organ of the adult head that functions in visual perception .
+a division of the whole organism into specialized systems .
+all the nerve centers and nerve fibers in the central ,  visceral and peripheral nervous systems .
+multicellular anatomical structure with largely bona fide boundary that transduces some sensory stimulus to the nervous system .
+a light sensitive sense organ .
+any somatic cell  ( fbbt:00100318 )  that overlaps some sense organ  ( fbbt:00005155 )  .
+precursor cell that gives rise to an external sensory organ .
+sensory organ that has external structures that detect mechanical or chemical stimuli .
+nuclear divisions 1 and 2 .
+nuclear divisions 3 - 8 .the egg cytoplasm contracts producing a clear separation from the vitelline membrane and empty spaces at the anterior and posterior .
+nuclear division 9 .the cleavage nuclei complete there migration to the periphery .
+a collective term for stages 3 - 5 .
+a blastoderm embryo prior to cellularization  ( corresponds to embryonic stages 3 and 4 )  .
+nuclear division 10 - 13 .polar buds divide twice and become tightly grouped at the posterior pole by the end of this stage .
+stage 5 begins when cellularization starts .
+a collective term for stages 6 - 8 ,  during which complex morphogenetic movements result in the formation of the three germ layers ;  ectoderm ,  mesoderm and endoderm .
+a collective term for stages 9 - 12 .
+a collective term for stages 13 - 15 .
+a collective term for stages 16 and 17 .
+domain that does not yet coincide 1:1 with a later organ .
+anlage in statu nascendi of the visual system in a stage 5 embryo that will give rise to the visual system anlage .
+anlagen are populations of contiguous cells ,  typically arranged in one plane ,  that are morphologically indistinct ,  but that already correspond in extent to a later organ / tissue .
+anlage of the visual system in the gastrula embryo that will give rise to the visual primordium .
+primordia are populations of contiguous cells that are morphologically distinct and already correspond in extent to a later organ / tissue .
+early primordium of the late extended germ band and dorsal closure embryo that will give rise to the adult eye .
+any sense organ  ( fbbt:00005155 )  that is part of some antennal segment  ( fbbt:00000009 )  .
+the developing adult after pupal - adult apolysis ,  i .e .
+material anatomical entity that has inherent 3d shape ,  whose parts are all connected and that is generated by coordinated expression of the organism's own genome .
+anatomical structure ,  that consists of similar cells and intercellular matrix ,  aggregated according to genetically determined spatial relationships .
+portion of tissue ,  that consists of one or more layers of cells with distinct apical - basal polarity ,  connected to each other by cell junctions .
+anatomical structure that has as its parts two or more portions of tissue of at least two different types and which ,  through specific morphogenetic processes ,  forms a single distinct structural unit demarcated by bona fide boundaries from other distinct structural units of different types .
+the region of the ectoderm posterior to the cephalic furrow .
+an anatomical structure consisting of multiple cell cluster organs and which does not contain portions of tissue .
+any compound cell cluster organ  ( fbbt:00007230 )  that capable of some detection of stimulus involved in sensory perception  ( go:0050906 )  .
+compound sense organ that is located within the epidermis .
+material anatomical entity generated by coordinated expression of the organism's own genome and whose component parts are not all connected to each other .
+an anatomical group whose component structures share a common function .
+any sense organ  ( fbbt:00005155 )  that is part of some larval head  ( fbbt:00001730 )  .
+an anatomical system consisting of all of the anatomical entities that function in some part of the sensory perception of sound .
+an anatomical system consisting of all of the anatomical entities that function in some part of the sensory perception of mechanical stimuli .
+an anatomical system consisting of all of the anatomical entities that function in some part of the sensory perception of smell .
+an anatomical system consisting of all of the anatomical entities that function in some part of the sensory perception of chemical stimuli .
+an anatomical system consisting of all of the anatomical entities that function in some part of the sensory perception of taste .
+an anatomical system consisting of all of the anatomical entities that function in some part of the sensory perception .
+a collective term for stages 9 and 10 .
+any germ layer derivative  ( fbbt:00000000 )  that develops from some ectoderm  ( fbbt:00000111 )  .
+any group of similar imaginal cells ,  such as an imaginal disc ,  imaginal ring or imaginal island ,  or a precursor tissue that forms one of them .
+an anatomical system consisting of all of the anatomical entities that function in some part of the sensory perception of light .
+anatomical structure that has multiple cells as parts .
+primordium of the late embryo that develops from the early primordium ,  and will give rise to the adult eye .
+nervous system of the pupa .
+primordium of the embryo that will give rise to the adult eye .
+phenotype that is any abnormality in thermotaxis  ( go:0043052 )  .
+phenotype that is any abnormality in dorsal / ventral axis specification  ( go:0009950 )  .
+phenotype that is any abnormality in eye color compared to wild - type .
+a phenotype that is any abnormality in body color compared to wild - type .
+a phenotype that is any abnormality in the size of the whole body or some body part compared to wild - type .
+phenotype that is a decrease in body size compared to identically raised wild - type controls .
+phenotype that is an increase in body size compared to identically raised wild - type controls .
+phenotype that is any abnormality in aging  ( go:0007568 )  .
+phenotype that is any abnormality in behavior  ( go:0007610 )  .
+phenotype that is a change in the strong tendency ,  seen in wild - type drosophila melanogaster ,  to climb  -  a behavior otherwise known as negative gravitaxis  ( go:0048060  ;  movement away from the source of gravity )  .
+phenotype that is any abnormality in response to pain  ( go:0048265 )  .
+phenotype that is any abnormality in circadian rhythm  ( go:0007623 )  .
+phenotype that is any abnormality in locomotor rhythm  ( go:0045475 )  .
+phenotype that is any abnormality in eclosion rhythm  ( go:0008062 )  .
+phenotype that is any abnormality in learning  ( go:0007612 )  .
+phenotype that is any abnormality in memory  ( go:0007613 )  .
+phenotype that is any abnormality in courtship behavior  ( go:0007619 )  .
+phenotype that is any abnormality in mating  ( go:0007618 )  .
+phenotype that is any abnormality in circadian mating behavior  ( go:0035648 )  .
+phenotype that is any abnormality in male courtship behavior ,  veined wing generated song production  ( go:0045433 )  .
+phenotype that is any abnormality in chemosensory behavior  ( go:0007635 )  .
+phenotype that is any abnormality in sensory perception of smell  ( go:0007608 )  .
+phenotype that is any abnormality in sensory perception of taste  ( go:0050909 )  .
+phenotype that is any abnormality in or absense of proboscis extension reflex in response to a sugar stimulus via taste sensilla on the tarsus .
+phenotype that is any abnormality in sensory perception of sound  ( go:0007605 )  .
+phenotype that is any abnormality in response to stress  ( go:0006950 )  .
+phenotype that is any abnormality in response to osmotic stress  ( go:0006970 )  .
+phenotype that is any abnormality in response to heat  ( go:0009408 )  .
+phenotype that is any abnormality in visual behavior  ( go:0007632 )  .
+phenotype that is any abnormality in optomotor response: a motor response during flight or walking that serves to stabilize both image formation on the retina and locomotor course .
+phenotype that is any abnormality in phototaxis  ( go:0042331 )  .
+phenotype that is any abnormality in locomotory behavior  ( go:0007626 )  .
+phenotype that is a reduced ability to jump or a reduced jump response .
+phenotype that is any abnormality in flight  ( go:0060361 )  .
+phenotype that is any abnormality in feeding behavior  ( go:0007631 )  .
+phenotype that is any abnormality in grooming behavior  ( go:0007625 )  .
+phenotype that is any abnormality in or loss of a stereotypical behavioral response to touch .
+phenotype that is any abnormality in dna repair  ( go:0006281 )  .
+phenotype that is a change in the amount of cell death in a whole animal or in some specific organ tissue or clone of cells compared to wild - type .
+phenotype that is any abnormality in cell growth  ( go:0016049 )  .
+phenotype that is any abnormality in the size of cells in a whole animal or in some specific organ ,  tissue or clone of cells compared to wild - type .
+phenotype that is any abnormality in the shape  ( pato:0000052 )  of some cell compared to wild - type .
+phenotype that is any abnormality in the asymmetric distribution of components within a cell .
+phenotype that is any abnormality in meiotic cell cycle  ( go:0051321 )  .
+phenotype that is any abnormality in mitotic cell cycle  ( go:0000278 )  .
+phenotype that is any abnormality in cytokinesis  ( go:0000910 )  .
+phenotype that is any abnormality in the electrophysiological properties of some class of neurons ,  muscles or other anatomical structure of the nervous system .
+phenotype that is any abnormality in the anatomy of the nervous system  ( fbbt:00005093 )  .
+phenotype that is any abnormality in sex determination  ( go:0007530 )  .
+phenotype that is any abnormality in immune response  ( go:0006955 )  .
+phenotype that is any abnormality in establishment of planar polarity  ( go:0001736 )  .
+phenotype that is a change in the rate of some developmental process  ( go:0032502 )  taking place prior to mature adulthood  ( defined as adult stage a3 )  ,  compared to wild - type .
+phenotype that is any abnormality in wound healing  ( go:0042060 )  .
+phenotype that is an abnormality in body size compared to wild - type animals raised under the same conditions as the animals exhibiting the phenotype .
+phenotype that is any abnormality in cell adhesion  ( go:0007155 )  .
+phenotype that is any abnormality in hatching behavior  ( go:0035187 )  .
+phenotype that is any abnormality in eclosion  ( go:0007562 )  .
+phenotype that is any abnormality in cell cycle  ( go:0007049 )  .
+phenotype that is any abnormality in endomitotic cell cycle  ( go:0007113 )  .
+phenotype that is any abnormality in circadian behavior  ( go:0048512 )  .
+phenotype that is any abnormality in proboscis extension reflex  ( go:0007637 )  .
+phenotype that is any abnormality in sensory perception  ( go:0007600 )  .
+phenotype that is any abnormality in sensory perception of touch  ( go:0050975 )  .
+phenotype that is any abnormality in response to temperature stimulus  ( go:0009266 )  .
+phenotype that is any abnormality in response to cold  ( go:0009409 )  .
+phenotype that is any abnormality in axis specification  ( go:0009798 )  .
+phenotype that is any abnormality in sleep  ( go:0030431 )  .
+phenotype that is any abnormality in entry into diapause  ( go:0055115 )  .
+phenotype that is any abnormality in entry into reproductive diapause  ( go:0055116 )  .
+phenotype that is any abnormality in response to starvation  ( go:0042594 )  .
+phenotype that is an increase or decrease in the number of cells in a whole animal or in some specific organ ,  tissue or clone of cells compared to wild - type .
+phenotype that is any abnormality in cell migration  ( go:0016477 )  .
+phenotype that is any abnormality or in or absence of a jump response  ( go:0007630 )  .
+phenotype that is any abnormality in mating behavior  ( go:0007617 )  .
+phenotype that is any abnormality in response to oxidative stress  ( go:0006979 )  .
+phenotype that is any abnormality in sensory perception of light stimulus  ( go:0050953 )  .
+phenotype that is any abnormality in copulation  ( go:0007620 )  .
+phenotype that is any abnormality in oviposition  ( go:0007620 )  .
+phenotype that is any abnormality in anesthesia - resistant memory  ( go:0007615 )  .
+phenotype that is any abnormality in short - term memory  ( go:0007614 )  .
+phenotype that is any abnormality in medium - term memory  ( go:0072375 )  .
+phenotype that is any abnormality in long - term memory  ( go:0007616 )  .
+phenotype that is any abnormality in body weight compared to identically raised wild - type controls .
+phenotype that is an increase in body weight compared to identically raised wild - type controls .
+phenotype that is a decrease in body weight compared to identically raised wild - type controls .
+a size quality which is relatively high .
+a size quality which is relatively low .
+phenotype that is an increase in the rate of phototaxis  ( go:0042331 )  .
+phenotype that is a decrease in the rate of phototaxis  ( go:0042331 )  .
+phenotype that is an increase in the rate of cell adhesion  ( go:0007155 )  .
+phenotype that is a decrease in the rate of cell adhesion  ( go:0007155 )  .
+phenotype that is an increase in the total amount or frequency of sleep  ( go:0030431 )  over a given time interval ,  compared to wild - type .
+phenotype that is a decrease in the total amount or frequency of sleep  ( go:0030431 )  over a given time interval ,  compared to wild - type .
+phenotype that is an increase in the total amount or frequency of feeding behavior  ( go:0007631 )  over a given time interval ,  compared to wild - type .
+phenotype that is a decrease in the total amount or frequency of feeding behavior  ( go:0007631 )  over a given time interval ,  compared to wild - type .
+the life of an individual of the species drosophila melanogaster ,  from fertilization to death .
+a collective term for stages 1 - 4 .
+a collective term for stages 11 and 12 .
+a temporal subdivision of a developmental process .
+earliest stage of ovarian cyst development  -  lasts while the 16 cell cyst is within the germarium  ( region 3 )  .
+oogenesis stage that begins when the cyst leaves the germarium  ( from this point the cyst is referred to as an egg chamber )  .
+oogenesis stage that begins when the oocyte chromosomes condense into a karyosome attached to a distinctive spherical structure known as an endobody .
+oogenesis stage that begins when the nurse cells chromosomes become bulbous .
+oogenesis stage that begins when nurse cell chromosomes are no longer bulbous  -  the association between homologs weakens so that these chromosomes no longer have a polytene structure .
+oogenesis stage during which follicle cell division ceases .
+oogenesis stage during which polyploidation and enlargement of follicle cells begins .
+oogenesis stage which begins when yolk first appears in the oocyte .
+oogenesis stage that begins when the border cells begin to migrate .
+oogenesis stage that begins when all the oocyte associated follicular epithelium is columnar and all of the nurse cell associated follicular epithelium is completely squamous and ends with the beginning of nurse cell dumping .
+oogenesis stage which begins when all the oocyte associated follicular epithelium is columnar and all of the nurse cell associated follicular epithelium is completely squamous and ends when centripetal follicle migration begins .
+oogenesis stage that begins when the centripetal follicle cells begin to migrate .
+oogenesis stage that begins when nurse cell dumping begins and development of the wax layer begins .
+oogenesis stage that begins when dying nurse cells form an anterior cap to the oocyte .
+innermost chorionic layer and endochorion begin to form in the anterior of the follicle .
+secretion of innermost chorionic layer and endochorion begins in the main follicle cells .
+formation of specialized endochorion structures in the anterior of the follicle: branches in the developing dorsal appendages ;  compact endochorion lacking the pillars seen in the rest of the follicle .
+oogenesis stage that begins when the micropyle begins to form .
+oogenesis stage during which 12 - 15 nurse cell nuclei remain at the anterior of the oocyte .
+oogenesis stage during which 9 - 11 nurse cell nuclei remain at the anterior of the oocyte .
+oogenesis stage during which only 7 - 8 nurse cell nuclei remain at the anterior of the oocyte .
+oogenesis stage during which only 5 - 6 nurse cell nuclei remain at the anterior of the oocyte .
+the last stage of oogenesis .
+secretion and formation of the outer endochorionic network by throughout the follicle .
+secretion of the exochorion begins and ends .
+the stage of the drosophila life - cycle from maturation of an egg to the end of fertilization .
+the stage of the drosophila life - cycle from fertilization to hatching .
+embryonic stage 1 - 3 .
+the embryonic stage that lasts from the end of fertilization to the end of the second nuclear division .
+the first mitotic cell cycle of embryogenesis .
+nuclear divisions 3 - 8 .the egg cytoplasm contracts producing a clear separation from the vitelline membrane and empty spaces at the anterior and posterior .
+the second mitotic cell cycle of embryogenesis .
+the third mitotic cell cycle of embryogenesis .
+the fourth mitotic cell cycle of embryogenesis .
+the fifth mitotic cell cycle of embryogenesis .
+the sixth mitotic cell cycle of embryogenesis .
+the seventh mitotic cell cycle of embryogenesis .
+the eighth mitotic cell cycle of embryogenesis .
+nuclear division 9 .the cleavage nuclei complete their migration to the periphery .
+the ninth mitotic cell cycle of embryogenesis .
+embryonic stages 4 and 5 .
+nuclear division 10 - 13 .polar buds divide twice and become tightly grouped at the posterior pole by the end of this stage .
+cellularization .stage 5 begins when cellularization starts .
+stages during which gastrulation occurs .
+stage 6 begins when the ventral furrow becomes apparent ,  an event which is followed rapidly by the formation of the cephalic furrow .
+stage 7 begins when the pole cells have adopted a dorsal  ( horizontal )  position at the posterior .
+stages during which the germ band is extended  -  9 - 12 .
+stage 8 starts with the rapid phase of germ band extension and ends with the beginning of mesodermal segmentation .
+stage 9 begins when mesodermal segmentation becomes  ( transiently )  visible \  ,  and ends with the appearance of the stomodeal invagination slightly ventral to the anterior pole .
+stage 10 begins with the appearance of the stomodeal invagination ,  slightly ventral to the anterior pole .
+stage 11 begins with the invagination of the tracheal placodes .
+germ band retraction .stage 12 begins when germ - band retraction starts and ends when this process is complete so that the prospective anal plate occupies the posterior pole .
+stage 13 begins at the completion of germ - band retraction ,  when the prospective anal plate occupy the posterior pole .
+stage 14 begins with the initiation of head involution .
+a collective term for stages 13 - 15 .
+stage 15 begins with the appearance of the second midgut constriction .
+embryonic stages 16 - 17 .
+stage 16 begins when the intersegmental grooves can be distinguished at mid - dorsal level ,  and ends when the dorsal ridge  ( frontal sac )  has overgrown the tip of the clypeolabrum ,  which is thereby enclosed in the atrium .
+stage 17 begins when the dorsal ridge  ( frontal sac )  has overgrown the tip of the clypeolabrum ,  which is thereby enclosed in the atrium .
+the stage of the drosophila life - cycle from hatching to the beginning of puparium formation .
+the first larval instar begins at hatching and ends at the first larval molt .
+the second larval instar begins at the first larval molt and ends at the second larval molt .
+the third larval instar begins at the second larval molt and ends at puparium formation .
+third instar larva prior to the wandering stage  ( approximately the first 24 hours of the third instar larval stage under standard conditions at 25'c .
+stage of the third larval instar during which the larva wanders out of the food and climbs .
+the prepupal stage begins at puparium formation and ends when larval / pupal apolysis is complete ,  as indicated by the completion of imaginal head sac eversion and the expulsion of the oral armature of the larva .
+extends from puparium formation through tanning of the pupal cuticle .
+male gonads become less distinct .
+ridge of the operculum becomes distinct .
+prepupal stage p4 begins as the lateral trunk trachea become obscured and ends when the imaginal head sac is everted and the oral armature of the larva is expelled .
+lateral trunk tracheae become obscured .
+bubble is displaced to anterior end of the puparium ,  and pupa withdraws to the posterior end .
+the pupal stage starts once larval / pupal apolysis is complete as indicated by the expulsion of the larval armature .
+pupal stage p5 starts when the legs and wings reach full extension along the abdomen and ends as the malpighian tubules become prominent and green .
+legs and wings reach full extension along abdomen .
+malpighian tubules become prominent and green .
+dark green 'yellow body' appears between the anterior ends of the two malpighian tubule segments ,  mid - dorsally at the anterior of the abdomen .
+the 'yellow body' moves back between the malpighian tubules .
+pale yellow pigmentation spreads inwards across the eye .
+eye color darkens to deep amber ,  then becomes pale pink .
+eyes become bright red .orbital and ocellar bristles and vibrissae darken .
+thoracic bristles become visible ,  and the tips of the wings turn grey .
+dorsal thoracic microchaetes and macrochaetes become visible .
+tips of folded wings become grey .
+pharate adult stage p12 begins as the abdominal tergite bristles become visible ,  and ends as the wings darken to black .
+bristles of the abdominal tergites become visible ,  and the wings become grey .
+sex combs darken in males .
+tarsal bristles darken and claws become black .
+the meconium appears dorsally at the posterior tip of the abdomen .
+pharate adult stage p15 begins with the tanning of the tergites and ends with eclosion .
+tanning of the tergites obscures the malpighian tubules and the 'yellow body' .
+stage which starts when the operculum opens and ends when eclosion is completed .
+the stage of the drosophila life - cycle from eclosion to death .
+newly eclosed adult stage .animal free of pupal case .
+stage ,  shortly after eclosion ,  during which the wings expand .
+the developing adult after pupal - adult apolysis ,  i .e . -  from stage p8  ( when yellow eye color first becomes visible through the pupal case )  ,  to eclosion .
+adult stage immediately after wing expansion ,  during which tanning of the cuticle is completed .
+the stage of the drosophila life - cycle from the formation of the puparium  ( beginning of the prepupal stage )  to eclosion .
+stage which begins when wandering third instar larva stops crawling .
+the anterior spiracles are fully everted ,  with 7 - 9 finger - like projections .
+third instar larva from the beginning of wandering to the beginning of puparium formation .
+a cycle of nuclear division during the embryogenesis of drosophila melanogaster .
+a temporal subdivision of a drosophila life ,  delimited by major transitions in the circumstances of the organism ,  such as: fertilization ;  hatching ;  pupal ecdysis ;  eclosion .
+temporal subdivision of life based on time elapsed since some key developmental transition ,  such as fertilization ,  hatching or eclosion .
+temporal subdivision of adulthood in days post - eclosion .
+the first two hours of embryonic stage 17 at 25'c .
+hours 2 - 4 of embryonic stage 17 at 25'c .
+hours 4 - 6 of embryonic stage 17 at 25'c .
+hours 6 - 8  ( the last two hours )  of embryonic stage 17 at 25'c .
+the substage of the wandering third instar larval stage ,  prior to the beginning of clearance of the gut .
+the substage of the wandering third instar larval stage when the larva has partially cleared its gut contents .
+the substage of the wandering third instar larval stage when the larva has cleared its gut contents .
+the developmental stage that lasts from eclosion of the adult from the pupal case until tanning is complete  ( the end of adult stage a3 )  .
+life stage from the end of adult stage a3 ,  when tanning is complete ,  to death .
+the day of eclosion .
+a collective term for stages 9 and 10 .
+the production of new individuals that contain some portion of genetic material inherited from one or more parent organisms .
+progression through the phases of the mitotic cell cycle ,  the most common eukaryotic cell cycle ,  which canonically comprises four successive phases called g1 ,  s ,  g2 ,  and m and includes replication of the genome and the subsequent segregation of chromosomes into daughter cells .
+the division of a cell nucleus into two nuclei ,  with dna and other nuclear contents distributed between the daughter nuclei .
+the division of the cytoplasm and the plasma membrane of a cell and its partitioning into two daughter cells .
+any process that modulates the frequency ,  rate ,  extent or direction of cell growth .
+coordinated organization of groups of cells in the plane of an epithelium ,  such that they all orient to similar coordinates .
+the morphogenetic process in which the anatomical structures of a polarized epithelium are generated and organized .
+the process in which the anatomical structures of epithelia are generated and organized .
+any process involved in the development or functioning of the immune system ,  an organismal system for calibrated responses to potential internal or invasive threats .
+any process that modulates the frequency ,  rate ,  or extent of an immune system process .
+the pattern specification process that results in the subdivision of an axis or axes in space to define an area or volume in which specific patterns of cell differentiation will take place or in which cells interpret a specific environment .
+a developmental process in which a progressive change in the state of some part of an organism specifically contributes to its ability to form offspring .
+a multicellular organismal process carried out by any of the organs or tissues in an organ system .
+a molecular process that can be carried out by the action of a single macromolecular machine ,  usually via direct physical interactions with other molecular entities .
+the part of a cell or its extracellular environment in which a gene product is located .
+the living contents of a cell ;  the matter contained within  ( but not including )  the plasma membrane ,  usually taken to exclude large vacuoles and masses of secretory or ingested material .
+a membrane - bounded organelle of eukaryotic cells in which chromosomes are housed and replicated .
+any cellular metabolic process involving nucleobases ,  nucleosides ,  nucleotides and nucleic acids .
+any cellular metabolic process involving deoxyribonucleic acid .
+the process of restoring dna after damage .
+any process that modulates the frequency ,  rate or extent of dna repair .
+the chemical reactions and pathways involving aromatic compounds ,  any organic compound characterized by one or more planar rings ,  each of which contains conjugated double bonds and delocalized pi electrons ,  as carried out by individual cells .
+the chemical reactions and pathways involving organic or inorganic compounds that contain nitrogen .
+the directed ,  self - propelled movement of a cell or subcellular component without the involvement of an external agent such as a transporter or a pore .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any immune system process that functions in the calibrated response of an organism to a potential internal or invasive threat .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a cell  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+a process that is carried out at the cellular level which results in the assembly ,  arrangement of constituent parts ,  or disassembly of an organelle within a cell .
+the progression of biochemical and morphological phases and events that occur in a cell during successive cell replication or nuclear replication events .
+any process that modulates the frequency ,  rate or extent of mitosis .
+a mitotic cell cycle in which chromosomes are replicated and sister chromatids separate ,  but spindle formation ,  nuclear membrane breakdown and nuclear division do not occur ,  resulting in an increased number of chromosomes in the cell .
+the attachment of a cell ,  either to another cell or to an underlying substrate such as the extracellular matrix ,  via cell adhesion molecules .
+coordinated organization of groups of cells in a tissue ,  such that they all orient to similar coordinates .
+the biological process whose specific outcome is the progression of a multicellular organism over time from an initial condition  ( e .g .
+any process that modulates the rate or extent of progress through the mitotic cell cycle .
+any developmental process that results in the creation of defined areas or spaces within an organism to which cells respond and eventually are instructed to differentiate .
+any process that establishes and transmits the specification of sexual status of an individual organism .
+the emergence of an adult insect from a pupa case .
+any process that modulates the frequency ,  rate or extent of the emergence of an insect from a pupa - case or of a larva from an egg .
+a developmental process that is a deterioration and loss of function over time .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+the series of events required for an organism to receive a sensory stimulus ,  convert it to a molecular signal ,  and recognize and characterize the signal .
+the series of events required for an organism to receive a visual stimulus ,  convert it to a molecular signal ,  and recognize and characterize the signal .
+the series of events required for an organism to receive an auditory stimulus ,  convert it to a molecular signal ,  and recognize and characterize the signal .
+the series of events required for an organism to receive a sensory chemical stimulus ,  convert it to a molecular signal ,  and recognize and characterize the signal .
+the series of events required for an organism to receive an olfactory stimulus ,  convert it to a molecular signal ,  and recognize and characterize the signal .
+the internally coordinated responses  ( actions or inactions )  of animals  ( individuals or groups )  to internal or external stimuli ,  via a mechanism that involves nervous system activity .
+the acquisition and processing of information and / or the storage and retrieval of this information over time .
+any process in an organism in which a relatively long - lasting adaptive behavioral change occurs as the result of experience .
+the activities involved in the mental information processing system that receives  ( registers )  ,  modifies ,  stores ,  and retrieves informational stimuli .
+the memory process that deals with the storage ,  retrieval and modification of information received a short time  ( up to about 30 minutes )  ago .
+the memory process that results in the formation of consolidated memory resistant to disruption of the patterned activity of the brain ,  without requiring protein synthesis .
+the memory process that deals with the storage ,  retrieval and modification of information a long time  ( typically weeks ,  months or years )  after receiving that information .
+the behavioral interactions between organisms for the purpose of mating ,  or sexual reproduction resulting in the formation of zygotes .
+the pairwise union of individuals for the purpose of sexual reproduction ,  ultimately resulting in the formation of zygotes .
+the behavior of an organism for the purpose of attracting sexual partners .
+the act of sexual union between male and female ,  involving the transfer of sperm .
+the specific behavior of an organism that recur with measured regularity .
+any biological process in an organism that recurs with a regularity of approximately 24 hours .
+the specific behavior of an organism relating to grooming ,  cleaning and brushing to remove dirt and parasites .
+movement from place to place of an organism ."
+the sudden ,  usually upward ,  movement off the ground or other surface through sudden muscular effort in the legs ,  following exposure to an external stimulus .
+behavior associated with the intake of food .
+the behavior of an organism in response to a visual stimulus .
+the behavior of an organism pertaining to movement of the eyes and of objects in the visual field ,  as in nystagmus .
+behavior that is dependent upon the sensation of chemicals .
+the extension ,  through direct muscle actions ,  of the proboscis  ( the trunk - like extension of the mouthparts on the adult external head )  in response to a nutritional stimulus .
+the behavior of a male ,  for the purpose of attracting a sexual partner .
+the timing of the emergence of the adult fly from its pupal case ,  which usually occurs at dawn .
+a biological process represents a specific objective that the organism is genetically programmed to achieve .
+the chemical reactions and pathways ,  including anabolism and catabolism ,  by which living organisms transform chemical substances .
+any biological process that results in permanent cessation of all vital functions of a cell .
+locomotory behavior in a fully developed and mature organism .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+the directed movement of a motile cell or organism in response to physical parameters involved in energy generation ,  such as light ,  oxygen ,  and oxidizable substrates .
+the series of events in which an external stimulus is received by a cell and converted into a molecular signal .
+the series of events in which an  ( non - living )  abiotic stimulus is received by a cell and converted into a molecular signal .
+the series of events in which a light stimulus  ( in the form of photons )  is received and converted into a molecular signal .
+the series of events in which a visible light stimulus is received by a cell and converted into a molecular signal .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+the synchronization of a circadian rhythm to environmental time cues such as light .
+the process in which anatomical structures are generated and organized .
+the process whose specific outcome is the progression of an embryo from its formation until the end of its embryonic life stage .
+the establishment ,  maintenance and elaboration of a pattern along a line or around a point .
+morphogenesis of an animal organ .
+the process whose specific outcome is the progression of a tissue over time ,  from its formation to the mature structure .
+the establishment ,  maintenance and elaboration of the dorsal / ventral axis .
+the regionalization process in which the areas along the dorsal / ventral axis are established that will lead to differences in cell differentiation .
+any process that is carried out at the cellular level ,  but not necessarily restricted to a single cell .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that modulates a cellular process that is involved in the progression of biochemical and morphological phases and events that occur in a cell during successive cell replication or nuclear replication events .
+any process that modulates the rate or frequency of cell death .
+a process that results in the assembly ,  arrangement of constituent parts ,  or disassembly of a cellular component .
+the process in which a cell irreversibly increases in size over time by accretion and biosynthetic production of matter similar to that already present .
+the controlled self - propelled movement of a cell from one site to a destination guided by molecular cues .
+the process during courtship where the male insect vibrates his wings .
+the deposition of eggs  ( either fertilized or not )  upon a surface or into a medium such as water .
+the specific behavior of an organism that is associated with reproduction .
+any cellular process that modulates the frequency ,  rate or extent of the chemical reactions and pathways involving nucleobases ,  nucleosides ,  nucleotides and nucleic acids .
+any process that modulates the frequency ,  rate or extent of the chemical reactions and pathways within a cell or an organism .
+a reproduction process that creates a new organism by combining the genetic material of two gametes ,  which may come from two organisms or from a single organism ,  in the case of self - fertilizing hermaphrodites ,  e .g .
+the cellular process that ensures successive accurate and complete genome replication and chromosome segregation .
+a process ,  occurring at the cellular level ,  that is involved in the reproductive function of a multicellular organism .
+a biological process that directly contributes to the process of producing new individuals by one or two organisms .
+any process that modulates the frequency ,  rate or extent of anatomical structure morphogenesis .
+the attachment of a cell or organism to a substrate ,  another cell ,  or other organism .
+a developmental process in which dormancy  ( sometimes called a dormant state )  is induced ,  maintained or broken .
+any process that modulates the frequency ,  rate or extent of attachment of a cell to another cell or to the extracellular matrix .
+any process that modulates the frequency ,  rate or extent of cell migration .
+any process in which an organism enters and maintains a periodic ,  readily reversible state of reduced awareness and metabolic activity .
+behavior in a fully developed and mature organism .
+any process that modulates the frequency ,  rate or extent of the chemical reactions and pathways by which individual cells transform chemical substances .
+any process that modulates the frequency ,  rate or extent of a neurophysiological process ,  an organ system process carried out by any of the organs or tissues of the nervous system .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a neurophysiological process .
+any process that activates or increases the frequency ,  rate or extent of a neurophysiological process .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+self - propelled movement of a cell or organism from one location to another in a behavioral context ;  the aspect of locomotory behavior having to do with movement .
+any process that modulates the frequency ,  rate or extent of a response to an external stimulus .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a response to an external stimulus .
+any process that activates ,  maintains or increases the rate of a response to an external stimulus .
+any process that modulates the frequency ,  rate or extent of a response to an extracellular stimulus .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a response to an extracellular stimulus .
+any process that activates ,  maintains or increases the rate of a response to an extracellular stimulus .
+any process that modulates the frequency ,  rate or extent of a response to nutrient levels .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a response to nutrient levels .
+any process that activates or increases the frequency ,  rate or extent of a response to nutrient levels .
+any process that modulates the frequency ,  rate or extent of the division of the cytoplasm of a cell and its separation into two daughter cells .
+any biological process ,  occurring at the level of a multicellular organism ,  pertinent to its function .
+a biological process whose specific outcome is the progression of an integrated living unit: an anatomical structure  ( which may be a subcellular structure ,  cell ,  tissue ,  or organ )  ,  or organism over time from an initial condition to a later condition .
+the biological process in which new individuals are produced by one or two multicellular organisms .
+any process that modulates the frequency ,  rate or extent of any process in which a cell ,  a substance ,  or a cellular entity is transported to ,  or maintained in ,  a specific location .
+any process that modulates the frequency ,  rate or extent of a process involved in the formation ,  arrangement of constituent parts ,  or disassembly of an organelle .
+any process that results in a change in state or activity of a cell  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a multicellular organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+the chemical reactions and pathways involving various organic and inorganic nitrogenous compounds ,  as carried out by individual cells .
+the specific behavior of an organism during the emergence from an egg shell .
+the emergence of an immature organism from a protective structure .
+the fluctuation in mating behavior that occurs over an approximately 24 hour cycle .
+the increase in size or mass of an entire organism ,  a part of an organism or a cell .
+any process that modulates the frequency ,  rate or extent of the growth of all or part of an organism so that it occurs at its proper speed ,  either globally or in a specific part of the organism's development .
+self - propelled movement of a cell or organism from one location to another .
+any process that modulates the frequency ,  rate or extent of locomotion of a cell or organism .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of locomotion of a cell or organism .
+any process that activates or increases the frequency ,  rate or extent of locomotion of a cell or organism .
+any process that modulates the frequency ,  rate or extent of meiotic nuclear division ,  the process in which the nucleus of a diploid cell divides twice forming four haploid cells ,  one or more of which usually function as gametes .
+the series of events that restore integrity to a damaged tissue ,  following an injury .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+the directed movement of a motile cell or organism in response to an external stimulus .
+the directed movement of a motile cell or organism in response to light .
+the directed movement of a motile cell or organism in response to gravity .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that modulates the frequency ,  rate or extent of a circadian rhythm .
+any process that activates or increases the frequency ,  rate or extent of a circadian rhythm behavior .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a circadian rhythm behavior .
+the directed movement of a motile cell or organism in response to a temperature gradient .
+the synchronization of a circadian rhythm to photoperiod ,  the intermittent cycle of light  ( day )  and dark  ( night )  .
+the chemical reactions and pathways involving macromolecules ,  any molecule of high relative molecular mass ,  the structure of which essentially comprises the multiple repetition of units derived ,  actually or conceptually ,  from molecules of low relative molecular mass .
+organized structure of distinctive morphology and function .
+organized structure of distinctive morphology and function ,  bounded by a single or double lipid bilayer membrane .
+organized structure of distinctive morphology and function ,  occurring within the cell .
+organized structure of distinctive morphology and function ,  bounded by a single or double lipid bilayer membrane and occurring within the cell .
+any process that modulates the frequency ,  rate or extent of a multi - organism process ,  a process in which an organism has an effect on another organism of the same or different species .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a multi - organism process ,  a process in which an organism has an effect on another organism of the same or different species .
+any process that activates or increases the frequency ,  rate or extent of a multi - organism process ,  a process in which an organism has an effect on another organism of the same or different species .
+any process that modulates the frequency ,  rate or extent of a system process ,  a multicellular organismal process carried out by any of the organs or tissues in an organ system .
+the chemical reactions and pathways by which individual cells transform chemical substances .
+the chemical reactions and pathways involving those compounds which are formed as a part of the normal anabolic and catabolic processes .
+the chemical reactions and pathways involving macromolecules ,  any molecule of high relative molecular mass ,  the structure of which essentially comprises the multiple repetition of units derived ,  actually or conceptually ,  from molecules of low relative molecular mass ,  as carried out by individual cells .
+a biological process that directly contributes to the process of producing new individuals ,  involving another organism .
+the process during wing vibration where the male insect produces a species - specific acoustic signal called a love song .
+the eukaryotic cell cycle in which a cell is duplicated without changing ploidy ,  occurring in the embryo .
+the rhythm of the locomotor activity of an organism during its 24 hour activity cycle .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of eclosion .
+any process that activates or increases the frequency ,  rate or extent of eclosion .
+the chemical reactions and pathways involving heterocyclic compounds ,  those with a cyclic molecular structure and at least two different atoms in the ring  ( or rings )  .
+any process that modulates the frequency ,  rate or extent of the deposition of eggs ,  either fertilized or not ,  upon a surface or into a medium .
+any process that modulates the rate or extent of the response to osmotic stress .
+the directed movement of a motile cell or organism away from the source of gravity .
+the process during courtship where the male insect extends his wings .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+the creation of two or more organelles by division of one organelle .
+any process pertinent to the generation and maintenance of rhythms in the physiology of an organism .
+the specific behavior of an organism that recurs with a regularity of approximately 24 hours .
+development of a tissue or tissues that work together to perform a specific function or functions .
+any process that activates or increases the frequency ,  rate or extent of a biological process .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a biological process .
+any process that activates or increases the frequency ,  rate or extent of behavior ,  the internally coordinated responses  ( actions or inactions )  of whole living organisms  ( individuals or groups )  to internal or external stimuli .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of behavior ,  the internally coordinated responses  ( actions or inactions )  of whole living organisms  ( individuals or groups )  to internal or external stimuli .
+any process that modulates the frequency ,  rate or extent of a response to a stimulus .
+any process that activates ,  maintains or increases the rate of a response to a stimulus .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a response to a stimulus .
+the process ,  occurring above the cellular level ,  that is pertinent to the reproductive function of a multicellular organism .
+the process in which the anatomical structures of a tissue are generated and organized .
+the process whose specific outcome is the progression of an organismal system over time ,  from its formation to the mature structure .
+the biological process whose specific outcome is the progression of an anatomical structure from an initial condition to its mature state .
+any process involved in the controlled self - propelled movement of a cell that results in translocation of the cell from one place to another .
+any process that modulates the frequency ,  rate or extent of the immune response ,  the immunological reaction of an organism to an immunogenic stimulus .
+any process that modulates the frequency ,  rate or extent of a biological process .
+any process that modulates the frequency ,  rate or extent of development ,  the biological process whose specific outcome is the progression of a multicellular organism over time from an initial condition  ( e .g .
+any process that modulates the frequency ,  rate or extent of a cellular process ,  any of those that are carried out at the cellular level ,  but are not necessarily restricted to a single cell .
+"any process that modulates the frequency ,  rate or extent of behavior ,  the specific actions or reactions of an organism in response to external or internal stimuli ."
+a organ system process carried out by any of the organs or tissues of neurological system .
+any physiological process involved in changing the position of a multicellular organism or an anatomical part of a multicellular organism .
+the operation of the mind by which an organism becomes aware of objects of thought or perception ;  it includes the mental activities associated with thinking ,  learning ,  and memory .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+the series of events involved in sensory perception in which a sensory stimulus is received and converted into a molecular signal .
+the series of events involved in visual perception in which a light stimulus is received and converted into a molecular signal .
+the series of events required for an organism to receive a gustatory stimulus ,  convert it to a molecular signal ,  and recognize and characterize the signal .
+the series of events required for an organism to receive a sensory light stimulus ,  convert it to a molecular signal ,  and recognize and characterize the signal .
+the series of events required for an organism to receive a sensory mechanical stimulus ,  convert it to a molecular signal ,  and recognize and characterize the signal .
+the series of events in which a light stimulus is received by a cell and converted into a molecular signal as part of the sensory perception of light .
+the series of events required for an organism to receive a touch stimulus ,  convert it to a molecular signal ,  and recognize and characterize the signal .
+any process that modulates the frequency ,  rate or extent of the chemical reactions and pathways involving dna .
+any process that stops ,  prevents or reduces the rate or extent of development ,  the biological process whose specific outcome is the progression of an organism over time from an initial condition  ( e .g .
+any process that activates or increases the rate or extent of development ,  the biological process whose specific outcome is the progression of an organism over time from an initial condition  ( e .g .
+any process that modulates the frequency ,  rate or extent of a process involved in the formation ,  arrangement of constituent parts ,  or disassembly of cell structures ,  including the plasma membrane and any external encapsulating structures such as the cell wall and cell envelope .
+any process that modulates the frequency ,  rate or extent of the chemical reactions and pathways involving nitrogen or nitrogenous compounds .
+any process in which a cell ,  a substance ,  or a cellular entity ,  such as a protein complex or organelle ,  is transported ,  tethered to or otherwise maintained in a specific location .
+any process that modulates the frequency ,  rate or extent of a multicellular organismal process ,  the processes pertinent to the function of a multicellular organism above the cellular level ;  includes the integrated processes of tissues and organs .
+any process that activates or increases the frequency ,  rate or extent of an organismal process ,  any of the processes pertinent to the function of an organism above the cellular level ;  includes the integrated processes of tissues and organs .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of an organismal process ,  the processes pertinent to the function of an organism above the cellular level ;  includes the integrated processes of tissues and organs .
+any process that modulates the frequency ,  rate or extent of the movement of a cellular component .
+the process resulting in division and partitioning of components of a cell to form more cells ;  may or may not be accompanied by the physical separation of a cell into distinct ,  individually membrane - bounded daughter cells .
+any process that modulates the frequency ,  rate or extent of the physical partitioning and separation of a cell into daughter cells .
+progression through the phases of the meiotic cell cycle ,  in which canonically a cell replicates to produce four offspring with half the chromosomal content of the progenitor cell via two nuclear divisions .
+any process that modulates the rate or extent of progression through the meiotic cell cycle .
+the series of events in which a stimulus is received by a cell or organism and converted into a molecular signal .
+any process in which a cell is transported to ,  and / or maintained in ,  a specific location .
+a biological process which involves another organism of the same or different species .
+any process that results in a change in state or activity of a cell  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that modulates the rate or extent of progression through the cell cycle .
+any process that results in a change in the behavior of an organism as a result of a nutrient stimulus .
+any process that modulates the frequency ,  rate or extent of nuclear division ,  the partitioning of the nucleus and its genetic information .
+any process that modulates the frequency ,  rate or extent of sensory perception ,  the series of events required for an organism to receive a sensory stimulus ,  convert it to a molecular signal ,  and recognize and characterize the signal .
+the dormancy process that results in entry into diapause .
+the dormancy process that results in entry into reproductive diapause .
+an automatic response to a stimulus beginning with a nerve impulse from a receptor and ending with the action of an effector such as a gland or a muscle .
+the specific behavior of a male organism that is associated with reproduction .
+any process that modulates the frequency ,  rate or extent of the chemical reactions and pathways involving macromolecules ,  any molecule of high relative molecular mass ,  the structure of which essentially comprises the multiple repetition of units derived ,  actually or conceptually ,  from molecules of low relative molecular mass .
+any process that modulates the rate ,  frequency or extent of the behavior associated with the intake of food .
+self - propelled movement of an organism from one location to another through the air ,  usually by means of active wing movement .
+the process whose specific outcome is the progression of an epithelium over time ,  from its formation to the mature structure .
+a process which results in the assembly ,  arrangement of constituent parts ,  or disassembly of a membrane .
+any process that modulates the rate ,  frequency ,  or extent of the series of events that restore integrity to a damaged tissue ,  following an injury .
+any process that modulates the rate or extent of the dormancy process that results in entry into reproductive diapause .
+any process that modulates a measurable attribute of any biological process ,  quality or function .
+the developmental process in which an organism emerges from a surrounding protective structure such as an egg or pupa case .
+the chemical reactions and pathways involving an organic substance ,  any molecular entity containing carbon .
+a process that results in the biosynthesis of constituent macromolecules ,  assembly ,  arrangement of constituent parts ,  or disassembly of a cellular component .
+the memory process that deals with the storage ,  retrieval and modification of information received at a time ago that is intermediate between that of short and long term memory  ( 30min  -  7hrs in drosophila melanogaster )  .
+any process that modulates the frequency ,  rate or extent of the chemical reactions and pathways within a cell or an organism involving those compounds formed as a part of the normal anabolic and catabolic processes .
+any process that modulates the frequency ,  rate or extent of a response to stress .
+any process that modulates the frequency ,  rate or extent of a cellular response to stress .
+a process that is carried out at the cellular level which results in the separation of a single continuous membrane into two membranes .
+any process that modulates the rate ,  frequency or extent of the establishment of planar polarity ,  the coordinated organization of groups of cells in a tissue ,  such that they all orient to similar coordinates .
+any cellular metabolic process involving nucleic acids .
+any process that modulates the frequency ,  rate ,  or extent of the self - propelled movement of a cell or organism from one location to another in a behavioral context ;  the aspect of locomotory behavior having to do with movement .
+any process that increases the frequency ,  rate ,  or extent of the self - propelled movement of a cell or organism from one location to another in a behavioral context ;  the aspect of locomotory behavior having to do with movement .
+any process that decreases the frequency ,  rate ,  or extent of the self - propelled movement of a cell or organism from one location to another in a behavioral context ;  the aspect of locomotory behavior having to do with movement .
+a part of a cellular organism that is either an immaterial entity or a material entity with granularity above the level of a protein complex but below that of an anatomical system .
+one of the two nuclear divisions that occur as part of the meiotic cell cycle .
+a mitotic cell cycle process comprising the steps by which the nucleus of a eukaryotic cell divides ;  the process involves condensation of chromosomal dna into a highly compacted form .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of oviposition .
+any process that activates or increases the frequency ,  rate or extent of oviposition .
+the chemical reactions and pathways involving organic cyclic compound .
+any process that modulates the frequency ,  rate or extent of male mating behavior .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of male mating behavior .
+any process that activates or increases the frequency ,  rate or extent of male mating behavior .
+any process that modulates the frequency ,  rate or extent of response to oxidative stress .
+any process that modulates the frequency ,  rate or extent of response to wounding .
+a process that is part of the meiotic cell cycle .
+a process that is part of the mitotic cell cycle .
+any process that modulates the frequency ,  rate or extent of locomotor rhythm .
+any process that modulates the frequency ,  rate or extent of morphogenesis of an epithelium .
+any process that modulates the frequency ,  rate or extent of multicellular organismal development .
+any process that modulates the frequency ,  rate or extent of animal organ morphogenesis .
+any process that modulates the frequency ,  rate or extent of cell motility .
+any process that modulates the frequency ,  rate or extent of reproductive process .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of reproductive process .
+any process that activates or increases the frequency ,  rate or extent of reproductive process .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of feeding behavior .
+any process that activates or increases the frequency ,  rate or extent of feeding behavior .
+any process that modulates the frequency ,  rate or extent of grooming behavior .
+any process that modulates the frequency ,  rate or extent of response to dna damage stimulus .
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+the curation status of the term .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+the reason for which a term has been deprecated .
+a denotator type indicates how a term should be interpreted from an ontological perspective .
+"behavior relate to the usually upward movement off the ground or other surface through sudden muscular effort in the legs ."
+"cognitive perception of a sensation by any of the five senses  -  -  vision ,  touch ,  smell ,  taste ,  and hearing ."
+"the action ,  reaction ,  or performance of an organism in response to external or internal stimuli ."
+"behavior related to the awareness of body balance and movement ."
+"behavior related to the sensations arising from the skin and from the muscles ,  tendons ,  and joints ."
+"movement behavior of the body or its parts ."
+"the coordination of combinations of body movements created with the kinematic  ( such as spatial direction )  and kinetic  ( force )  parameters that result in intended actions ."
+"behavior associated with surface locomotion ."
+"behaviour related to cognitive processes ."
+a dependent entity that inheres in a bearer by virtue of how the bearer is related to other entities .
+a composite chromatic quality composed of hue ,  saturation and intensity parts .
+a quality of a single physical entity inhering in the bearer by virtue of the bearer's size or shape or structure .
+a morphological quality inhering in a bearer by virtue of the bearer's ratios of distances between its features  ( points ,  edges ,  surfaces and also holes etc )  .
+an organismal quality inhering in a bearer by virtue of the bearer's disposition to synthesize a particular organic compound required for its growth .
+a quality of a single process inhering in a bearer by virtue of the bearer's occurrence .
+a quality inhering in a bearer by virtue of the whether the bearer differs from normal or average .
+the number of entities of this type that are part of the whole organism .
+a morphology quality inhering in a bearer by virtue of the bearer's physical magnitude .
+a physical quality that inheres in a bearer by virtue of the proportion of the bearer's amount of matter .
+a spatial quality inhering in a bearer by virtue of the bearer's spatial location relative to other objects in the vicinity .
+a morphology quality inhering in a bearer by virtue of the bearer's relative position ,  shape ,  arrangements and connectivity of an organism's various parts ;  the pattern underlying its form .
+a quality of a single process inhering in a bearer by virtue of the bearer's occurrence per unit time .
+an organismal quality inhering in a bearer or a population by virtue of the bearer's disposition to survive and develop normally or the number of surviving individuals in a given population .
+a reproductive quality inhering in an organism or population by virtue of the bearer's potential reproductive capacity ad measured by the number of gametes .
+a reproductive quality inhering in a bearer by virtue of the bearer's initiating ,  sustaining ,  or supporting reproduction .
+a fertility quality inhering in a female by virtue of the bearer's disposition to initiate ,  sustain ,  or support reproduction .
+a fertility quality of inhering in a male by virtue of the bearer's disposition to initiate ,  sustain ,  or support reproduction .
+a nutritional quality inhering in a bearer by virtue of the bearer's inability to synthesize a particular organic compound required for its growth .
+a quality inhering in a bearer by virtue of the bearer's deviation from normal or average .
+a quality inhering in a bearer by virtue of the bearer's exhibiting no deviation from normal or average .
+a quality denoting the lack of an entity .
+a quality inhering in a bearer by virtue of the bearer's existence .
+an amount which is relatively high .
+a increased size quality inhering in an organ or tissue by virtue of the bearer's exhibiting increased number of cells .
+a decreased size quality inhering in a bearer by virtue of the bearer's exhibiting reduced number of cells within an organ or tissue .
+a viability quality inhering in a population by virtue of the bearer's long term survival inability .
+a rate which is relatively low .
+a rate which is relatively high .
+a quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities .
+a quality inhering in a bearer by virtue of the bearer's disposition to resist to a stimulus .
+a resistance quality inhering in a bearer by virtue of the bearer's resistance to a stimulus .
+a quality which inheres in an process .
+a quality which inheres in a continuant .
+a physical quality that inheres in an bearer by virtue of how that bearer interacts with electromagnetic radiation .
+an em radiation quality in which the em radiation is within the fiat range of the spectrum visible deemed to be light .
+a monadic quality of continuant that exists at the cellular level of organisation .
+a cellular quality inhering in a bearer by virtue of bearer's number of nuclei .
+a nucleate quality inhering in a bearer by virtue of the bearer's having no nucleus .
+a nucleate quality inhering in a bearer by virtue of the bearer's having two nuclei .
+a nucleate quality inhering in a bearer by virtue of the bearer's having one nucleus .
+an organismal quality inhering in a bearer by virtue of the bearer's ability to produce new life or offspring .
+a position which is relatively high .
+a positional which is relatively low .
+the number of parts of a particular type that the bearer entity has .
+a quality of a process inhering in a bearer by virtue of the bearer's lacking a processual part as specified by the additional entity .
+a mass which is lower than normal or average .
+a mass which is higher than normal or average .
+a quality of a process inhering in a bearer by virtue of the bearer's processual parts .
+a size quality inhering in a bearer by virtue of a part or parts of the bearer's being decreased in size due to reduction in tissue mass through wasting .
+a resistance to a stimulus which is relatively high .
+a resistance to a stimulus which is relatively low .
+a quality that inheres in an bearer by virtue of how that bearer interacts with radiation .
+a positional quality inhering in a bearer by virtue of the bearer's location of features or characteristics along an axis .
+a female fertility which is relatively low .
+a female fertility which is relatively high .
+a male fertility which is relatively high .
+a male fertility which is relatively low .
+a fertility which is relatively low .
+a fertility which is relatively high .
+a fertility quality inhering in a bearer by virtue of the bearer's disposition to make its offspring sterile .
+a nucleate quality inhering in a bearer by virtue of the bearer's having more than one nucleus .
+an organismal quality inhering in a bearer by virtue of the bearer's consisting cells .
+a cellularity quality inhering in a bearer by virtue of the bearer's consisting of more than one cell .
+a quality that inheres in an entire organism or part of an organism .
+an amount which is relatively low .
+the bearer of this quality has_part  <  n of the indicated entity type ,  where n is the normal amount for a comparable organism .
+a quality of physical entities inhering in a bearer by virtue of the bearer's lacking a physical part as specified by the additional entity .
+the bearer of this quality has_part  <  n and has_part  >  0 of the indicated entity type ,  where n is the normal amount for a comparable organism .
+the bearer of this quality has_part  >  n of the indicated entity type ,  where n is the normal amount for a comparable organism .
+a structural quality which is held by a bearer when the latter's disposition the presence of abnormally proliferating masses of cells .
+an occurrence which is relatively high .
+an occurrence which is relatively low .
+having extra or fewer parts .
+a quality inhering in a bearer by virtue of the bearer's having or lacking of substances produced by living organisms that have a color resulting from selective color absorption .
+a quality that has a value that is increased compared to normal or average .
+a quality that has a value that is decreased compared to normal or average .
+a quality of a process that has a value that is decreased compared to normal or average .
+a quality of an object that has a value that is decreased compared to normal or average .
+a quality of a process that has a value that is increased compared to normal or average .
+a quality of an object that has a value that is increased compared to normal or average .
+a temporal distribution pattern of process occurrences within a regulation / reference process .
+a nucleate quality inhering in a bearer by virtue of the bearer's having one or more nucleus .
+a material entity that consists of two or more organisms ,  viruses ,  or viroids .
+a collection of organisms ,  all of the same species ,  that live in the same place .
+a multi - species collection of organisms of at least two different species ,  living in a particular area .
+a collection of organisms that has as parts every organism of a species and no organisms of any other species .
+a material entity that has as parts two or more organisms ,  viruses ,  or viroids of the same species and no members of any other species .
+a collection of organisms that consists of two or more organisms from at least two species .
+a material entity that is one or more organisms ,  viruses or viroids .
+a collection of organisms that has as members every organism of a taxon and no organisms of any other equal or higher ranked taxon .

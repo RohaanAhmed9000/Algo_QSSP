@@ -1,0 +1,27 @@
+ontocog
+background data set clustered by cog category
+objective specification
+action specification
+software
+data item
+symbol
+information content entity
+directive information entity
+data set
+plan specification
+planned process
+classified data set
+clustered data set
+background corrected data set
+class prediction data transformation
+background correction data transformation
+statistical hypothesis test
+statistical hypothesis test objective
+data transformation
+data transformation objective
+correction objective
+background correction objective
+class discovery data transformation
+fisher's exact test
+class discovery objective
+chi square test

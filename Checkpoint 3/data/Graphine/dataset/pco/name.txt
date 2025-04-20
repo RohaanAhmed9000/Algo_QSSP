@@ -1,0 +1,148 @@
+continuant
+occurrent
+independent continuant
+obsolete dependent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+material entity
+multicellular organism
+organism or virus or viroid
+organism
+symbiotroph
+parasite
+human dwelling
+tidal mangrove shrubland
+behavior
+biological_process
+social behavior
+interspecies interaction between organisms
+intraspecies interaction between organisms
+multi - organism process
+data item
+curation status specification
+data about an ontology part
+measurement datum
+obsolescence reason specification
+denotator type
+base ontology module
+editors ontology module
+main release ontology module
+bridge ontology module
+import ontology module
+subset ontology module
+curation subset ontology module
+analysis subset ontology module
+single layer subset ontology module
+exclusion subset ontology module
+external import ontology module
+species subset ontology module
+reasoned ontology module
+generated ontology module
+template generated ontology module
+obo basic subset ontology module
+quality
+deviation  ( from_normal )
+amount
+rate
+normal
+present
+increased amount
+decreased rate
+increased rate
+physical quality
+mass density
+dense
+process quality
+physical object quality
+mixed sex
+morbidity
+has number of
+increased mass density
+decreased mass density
+decreased amount
+population quality
+increased quality
+decreased quality
+decreased process quality
+decreased object quality
+increased process quality
+increased object quality
+collection of organisms
+population of organisms
+ecological community
+quality of a population
+quality of an ecological community
+population process
+population birth rate
+population death rate
+population growth rate
+obsolete carrying capacity
+community species richness
+population growth
+logistic population growth
+exponential population growth
+species as a collection of organisms
+single - species collection of organisms
+community species diversity
+family
+population extinction
+species extinction
+community species evenness
+household
+collection of humans
+obsolete community
+multi - species collection of organisms
+obsolete organismal entity
+organismal entity
+biological family
+human social gathering activity
+human community event
+party
+potluck
+wedding
+baby shower
+obsolete tidal mangrove shrubland community
+obsolete invisible to unaided eye
+obsolete collection of microbial organisms
+obsolete multi - species collection of microbes
+obsolete single species collection of microbes
+obsolete microbial population
+tidal mangrove shrubland community
+invisible to unaided eye
+collection of microbial organisms
+multi - species collection of microbes
+single species collection of microbes
+microbial population
+number of generations of multicellular organism
+overcrowded population
+overcrowded human population
+taxon as collection of organisms
+microbial parasite
+parasite isolate population
+shannon diversity index
+simpson diversity index
+inverse simpson diversity index
+pair of interacting organisms
+pair of interacting organisms of the same species
+migratory population
+population migration
+human population migration
+human migratory population
+microbial community
+reciprocal_of
+biological process involved in interspecies interaction between organisms
+biological process involved in intraspecies interaction between organisms
+agricultural household
+alga excluding cyanobacteria
+alpha diversity
+beta diversity
+gamma diversity
+seedling density
+plant density of a population
+plant density of an ecological community
+seedling density of a population
+seedling density of an ecological community
+count

@@ -1,0 +1,53 @@
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+process boundary
+continuant fiat boundary
+process profile
+relational quality
+organism
+genome
+gene
+gene disposition
+protein - coding gene disposition
+rna gene disposition
+rrna gene disposition
+snrna gene disposition
+trna gene disposition
+scrna gene disposition
+snorna gene disposition
+miscrna gene disposition
+ncrna gene disposition
+pseudo gene disposition
+transposon gene disposition
+other gene disposition
+unknown gene disposition
+rna gene
+miscrna gene
+ncrna gene
+rrna gene
+scrna gene
+snorna gene
+snrna gene
+trna gene
+protein - coding gene
+pseudo gene
+transposon gene
+gene with unknown gene disposition
+gene with other gene disposition
+genome of eukaryota
+genome of mus musculus
+gene of eukaryota
+gene of mus musculus
+trna gene of mus musculus
+rrna gene of mus musculus
+snrna gene of mus musculus
+scrna gene of mus musculus
+snorna gene of mus musculus
+protein - coding gene of mus musculus
+pseudo gene of mus musculus
+ncrna gene of mus musculus
+rna gene of mus musculus
+gene of mus musculus with other gene disposition
+gene of mus musculus with unknown gene disposition

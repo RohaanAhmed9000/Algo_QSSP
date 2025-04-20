@@ -1,0 +1,91 @@
+conjugation
+cytokinesis
+hyphal tip
+molecular_function
+dna binding
+rna binding
+motor activity
+helicase activity
+protein kinase activity
+phosphoprotein phosphatase activity
+signal transducer activity
+structural molecule activity
+transporter activity
+protein binding
+cellular_component
+extracellular region
+cell wall
+membrane fraction
+nucleus
+chromosome
+nucleolus
+cytoplasm
+mitochondrion
+mitochondrial envelope
+vacuole
+peroxisome
+endoplasmic reticulum
+golgi apparatus
+microtubule organizing center
+ribosome
+cytoskeleton
+plasma membrane
+cellular bud
+cell cortex
+carbohydrate metabolic process
+generation of precursor metabolites and energy
+dna metabolic process
+transcription
+translation
+protein folding
+protein modification process
+cellular amino acid and derivative metabolic process
+lipid metabolic process
+vitamin metabolic process
+transport
+response to stress
+organelle organization
+nucleus organization
+cytoskeleton organization
+cell wall organization
+cell cycle
+cell budding
+pseudohyphal growth
+cell adhesion
+signal transduction
+biological_process
+peptidase activity
+lipid binding
+pathogenesis
+endomembrane system
+membrane
+cytoplasmic membrane - bounded vesicle
+membrane organization
+rna metabolic process
+vesicle - mediated transport
+oxidoreductase activity
+transferase activity
+nucleotidyltransferase activity
+hydrolase activity
+lyase activity
+isomerase activity
+ligase activity
+cellular homeostasis
+protein catabolic process
+enzyme regulator activity
+site of polarized growth
+filamentous growth
+hyphal growth
+transcription regulator activity
+triplet codon - amino acid adaptor activity
+transposition
+response to chemical stimulus
+ribosome biogenesis
+response to drug
+biofilm formation
+interspecies interaction between organisms
+translation regulator activity
+cellular respiration
+cell development
+spindle envelope
+regulates

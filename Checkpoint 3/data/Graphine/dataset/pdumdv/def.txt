@@ -1,0 +1,22 @@
+a platynereis developmental stage is an occurrent that is a temporal subdivision of a platynereis dumerilii development .
+first developmental stage with the following key events: fertilized egg before the onset of cleavage .
+developmental stage following zygote stage with the following key events: spiral cleavage pattern with individually identifiable blastomeres .
+developmental stage following cleaving embryo stage with the following key events: spherical mass of dividing blastomeres whose cell lineage can no longer be followed by eye .
+developmental stage following stereoblastula  -  stereogastrula stage with the following key events: pre - larva ,  slowly rotating in the jelly driven by the multi - ciliated equatorial prototroch cells .
+developmental stage following protrochophore stage with the following key events: hatching larvae actively swimming in the water column ,  but yet without phototaxis .
+developmental stage following early trochophore stage with the following key events: free - swimming trochophores showing phototaxis .
+developmental stage following mid - trochophore stage with the following key events: distinct stomodeal opening surrounded by stomodeal rosette ,  first chaetae visible within the trunk .
+developmental stage following late trochophore stage with the following key events: formation of the first paratroch at the posterior border of the second chaetigerous segment ,  chaetae reach the body wall .
+developmental stage following early metatrochophore stage with the following key events: pigment of the adult eyes clearly visible lateral - dorsally in the episphere .
+developmental stage following mid - metatrochophore stage with the following key events: parapodia visible but cannot move yet .
+developmental stage following late metatrochophore stage with the following key events: parapodia start moving independently .
+developmental stage following early nectochaete stage with the following key events: formation of the antero - dorsal pair of tentacular cirri ,  anal cirri and antennal stubs .
+developmental stage following mid - nectochaete stage with the following key events: antennae elongate ,  palpi become visible ,  beginning of food intake .
+developmental stage following late nectochaete stage with the following key events: no lipid droplets visible in the gut barrel - shaped midgut filled with food .
+developmental stage following three - segmented errant juvenile stage with the following key events: fourth chaetigerous body segment fully formed ;  fifth chaetigerous segment growing or fully formed .
+developmental stage following 4 -  and 5 - segmented errant juvenile stage with the following key events: loss of chaetae at the first pair of parapodia ,  which marks the beginning of the transformation of the first pair of parapodia into the posterior pair of tentacular cirri .
+developmental stage following cephalic metamorphosis stage with the following key events: cephalic metamorphosis is finished and the posterior pairs of tentacular cirri are formed .
+developmental stage following small atokous worm stage with the following key events: tubicolous worm with more than 50 segments .
+developmental stage following large atokous worm stage with the following key events: end of food intake resulting in an empty gut .
+x preceded_by y iff: end ( y )  before_or_simultaneous_with start ( x ) 
+developmental stage following sexual metamorphosis stage with the following key events: rapid swimming in straight lines .

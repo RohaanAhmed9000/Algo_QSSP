@@ -1,0 +1,68 @@
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+a continuant  that inheres in or is borne by other entities .
+a realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural ,  social or institutional contexts .
+b is a generically dependent continuant = def .
+p is a process boundary =def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+a directive information entity that describes an intended process endpoint .
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+a generically dependent continuant that is about some thing .
+a scalar measurement datum is a measurement datum that is composed of two parts ,  numerals and a unit label .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+is a material entity that is created or changed during material processing .
+material to be added role is a protocol participant role realized by a material which is added into a material bearing the target of material addition role in a material addition process
+target of material addition role is a role realized by an entity into which a material is added in a material addition process
+host role is a role played by an organism and realized by providing nourishment ,  shelter or a means of reproduction to another organism within the organism playing the host role
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a process by which a substance is intentionally given to an organism resulting in exposure of the organism to that substance .
+a genome is a material entity that represents the entirety of an organism's hereditary information .
+a gene is a material entity that represents the entire dna sequence required for synthesis of a functional protein or rna molecule .
+a disposition that a gene can be used as a blueprint for generating a new form of product such as protein .
+a physical quality which inheres in a bearer by virtue of the number of the bearer's repetitive actions in a particular time .
+a quality of a single physical entity that exists through action of continuants at the physical level of organisation .
+a physical object quality which inheres in a single - bearer .
+a quality which inheres in a continuant .
+a vaccine is a processed material with the function that when administered ,  it prevents or ameliorates a disorder in a target organism by inducing or modifying adaptive immune responses specific to the antigens in the vaccine .
+a process of administering substance in vivo that involves in adding a vaccine into a host  ( e .g . ,  human )  in vivo with the intent to invoke a protective or therapeutic adaptive immune response .
+vaccination frequency is a qualitative term that represents how many times vaccination has occurred .
+vaccine function is a function that inheres in a vaccine that induces protective immune response against a disease .
+preventive vaccine function is a vaccine function realized by the process of vaccination and leading to induction of an adaptive immune response to the antigens in a vaccine ,  which protects against a specific disorder .
+immunization is a processual entity that primes or modifies an adaptivie immune response to some antigens .
+active immunization is an immunization process that entails the introduction of a foreign molecule into the body ,  which causes the body itself to generate adaptive immunity against the target .
+artificial active immunization is an active immunization that occurs when a person or animal is vaccinated with a specific vaccine .
+induction of adaptive immune response to antigen is an active immunization process that results in induction of adaptive immune response to some antigens ,  for example ,  in a vaccine .
+disorder prevention is a processual entity that prevents a disorder that is the physical basis of a disease .
+disorder treatment is a processual entity that leads to treat a disorder that is the physical basis of a disease .
+modification of adaptive immune response to antigen is an active immunization process that results in modification of an adaptive immune response to some antigens ,  for example ,  in a therapeutic vaccine .
+a titer  ( or titre )  is a measure of concentration .
+the therapeutic vaccine function is a function realized by the process of vaccination and leading to induction of an adaptive immune response to the antigens in a vaccine ,  which ameliorates a specific disorder .
+immunization objective is the specification of an objective to achieve immunization .
+vaccine preparation is a manufacturing process to produce a vaccine .
+dose is a measurement data that measures the quantity of something that may be eaten by or administered to an organism ,  or that an organism may be exposed to .
+challenge dose is a dose of a virulent pathogen used for a vaccine challenge process .
+reduction of colony - forming unit  ( cfu )  is a titer measurement of viable bacterial or fungal numbers .
+a measurement datum that represents a vaccine strain .
+a measurement datum that represents vaccine viability .
+a measurement datum that indicates the usage of a vaccine adjuvant .
+a measurement datum that represents a specific protective antigen used in a vaccine .
+a measurement datum that represents a specific mutated gene from a vaccine strain .
+a measurement datum that represents a specific mouse strain used for vaccination .
+a measurement datum that represents the biological sex of an animal .
+a measurement datum that represents a specific route  ( e .g . ,  i .p . ) 
+a vaccination dose that is used with the unit of colony forming units  ( cfu )  .
+a measurement datum that represents the animal age  ( unit: day )  at the time of vaccination .
+a measurement datum that represents a specific pathogen strain used for animal challenge study .
+a measurement datum that represents a specific pathogen used for animal challenge study .
+a challenge dose that is represented with the unit of colony forming units  ( cfu )  .
+a measurement datum that represents a length of days as the interval between a vaccination and a challenge in a specific vaccine protection study .
+a colony forming unit  ( cfu )  from the sample of mouse spleen .
+a reduction of cfu that was measured with the unit of colony forming units  ( cfu )  from the sample of mouse spleen .
+a measurement datum that represents a type of vaccine protection efficacy as an outcome of a vaccine protection study .
+a role of host that contains vaccine .
+the objective that intends to produce vaccine via the vaccine preparation process .

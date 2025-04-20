@@ -1,0 +1,4549 @@
+macrolide antibiotic
+fluoroquinolone antibiotic
+tetracycline - resistant ribosomal protection protein
+astromicin
+monobactam
+neomycin
+erythromycin
+dibekacin
+cefoxitin
+tunicamycin
+antibiotic resistance gene cluster ,  cassette ,  or operon
+cloxacillin
+streptothricin
+amikacin
+gentamicin c
+methicillin
+aminoglycoside antibiotic
+lincosamide antibiotic
+viomycin
+carbapenem
+ribostamycin
+polymyxin antibiotic
+enoxacin
+butirosin
+fosfomycin
+streptogramin antibiotic
+roxithromycin
+vancomycin
+teicoplanin
+tigecycline
+antibiotic resistant gene variant or mutant
+cephalosporin
+streptogramin a antibiotic
+sisomicin
+ciprofloxacin
+apramycin
+netilmicin
+spectinomycin
+streptomycin
+bacitracin
+glycylcycline
+carbenicillin
+cephamycin
+acriflavine
+lincomycin
+puromycin
+kanamycin a
+streptogramin b antibiotic
+tetracycline
+tobramycin
+bleomycin
+penicillin
+bicyclomycin
+oxacillin
+telithromycin
+cefazolin
+cefepime
+ceftazidime
+ceftobiprole
+ceftriaxone
+cefuroxime
+amoxicillin
+clarithromycin
+clindamycin
+colistin
+daptomycin
+doxycycline
+ertapenem
+levofloxacin
+linezolid
+meropenem
+moxifloxacin
+nitrofurantoin
+resistance - modifying agents
+tazobactam
+piperacillin
+clavulanic acid
+antibiotic target alteration
+antibiotic target replacement
+antibiotic target protection
+antibiotic inactivation
+antibiotic efflux
+atp - binding cassette  ( abc )  antibiotic efflux pump
+major facilitator superfamily  ( mfs )  antibiotic efflux pump
+small multidrug resistance  ( smr )  antibiotic efflux pump
+resistance - nodulation - cell division  ( rnd )  antibiotic efflux pump
+process or component of antibiotic biology or chemistry
+mechanism of antibiotic resistance
+antibiotic molecule
+determinant of antibiotic resistance
+beta - lactamase
+vanw
+antibiotic without defined classification
+class b  ( metallo -  )  beta - lactamase
+vand
+vanh
+beta - lactam antibiotic
+penam
+vana
+vanx
+protein ( s )  conferring antibiotic resistance via molecular bypass
+vanb
+tem beta - lactamase
+shv beta - lactamase
+ctx - m beta - lactamase
+oxa beta - lactamase
+imi beta - lactamase
+imp beta - lactamase
+vim beta - lactamase
+ristocetin
+aminocoumarin sensitive pare
+pata
+patb
+mepa
+emra
+nucleoside antibiotic
+lipopeptide antibiotic
+tetracycline inactivation enzyme
+hydrolysis of antibiotic conferring resistance
+beta - lactamase inhibitor
+veb beta - lactamase
+component of amr phenotype terminology
+tetracycline antibiotic
+peptide antibiotic
+acridine dye
+sme beta - lactamase
+per beta - lactamase
+ndm beta - lactamase
+mir beta - lactamase
+kpc beta - lactamase
+ind beta - lactamase
+ges beta - lactamase
+fox beta - lactamase
+dha beta - lactamase
+cmy beta - lactamase
+vans
+act beta - lactamase
+acc beta - lactamase
+emrb
+class d beta - lactamase
+class c beta - lactamase
+vany
+class a beta - lactamase
+oxazolidinone antibiotic
+aminonucleoside antibiotic
+glycopeptide antibiotic
+antibiotic biosynthesis
+mox beta - lactamase
+cmy - lat - mox beta - lactamase
+cmy - lat beta - lactamase
+cmy - mox beta - lactamase
+aer beta - lactamase
+bla1
+carb beta - lactamase
+och beta - lactamase
+srt beta - lactamase
+shv - len beta - lactamase
+len beta - lactamase
+pdc beta - lactamase
+gene modulating beta - lactam resistance
+aminocoumarin antibiotic
+phosphorylation of antibiotic conferring resistance
+acylation of antibiotic conferring resistance
+nucleotidylation of antibiotic conferring resistance
+novobiocin
+multidrug and toxic compound extrusion  ( mate )  transporter
+vga - type abc - f protein
+aminoglycoside phosphotransferase  ( aph )
+antibiotic resistant dna topoisomerase subunit pare
+vanz
+antibiotic a47934
+vgab
+edeine
+balhimycin
+aminoglycoside acetyltransferase  ( aac )
+chloramphenicol acetyltransferase  ( cat )
+gramicidin
+meci
+hydrolysis of fosfomycin epoxide ring
+aph ( 3' )
+aph ( 3'' )
+aph ( 2'' )
+edeine a
+clorobiocin
+fosfomycin thiol transferase
+edeine b
+edeine d
+edeine f
+tylosin
+fosa
+coumermycin a1
+aph ( 6 )
+minocycline
+aph ( 9 )
+aph ( 7'' )
+aph ( 4 )
+spiramycin
+rifamycin antibiotic
+azithromycin
+efflux pump complex or subunit conferring antibiotic resistance
+blai
+rrna methyltransferase conferring antibiotic resistance
+tet ( a )
+tet ( b )
+tet ( c )
+tet ( d )
+rifampin
+imipenem
+diaminopyrimidine antibiotic
+fosb
+tet ( e )
+tet ( g )
+tet ( h )
+dirithromycin
+tet ( j )
+tet ( k )
+tet ( l )
+teta ( p )
+tet ( v )
+tet ( y )
+tet ( z )
+chloroeremomycin
+antibiotic target protection protein
+tetm
+hydrolysis of beta - lactam antibiotic by serine beta - lactamase
+trimethoprim
+oritavancin
+teto
+tetq
+tets
+tett
+tetw
+tetb ( p )
+tet32
+tet36
+fosx
+gramicidin d
+gramicidin s
+macrolide inactivation enzyme
+cfr 23s ribosomal rna methyltransferase
+hydrolysis of beta - lactam antibiotic by metallo - beta - lactamase
+tetx
+emrk
+acra
+glycosylation of antibiotic conferring resistance
+antibiotic resistant dna topoisomerase subunit pary
+rifamycin - resistant beta - subunit of rna polymerase  ( rpob )
+ribosomal alteration conferring antibiotic resistance
+mutation conferring antibiotic resistance
+restructuring of bacterial cell wall conferring antibiotic resistance
+hygromycin b
+mecr1
+acrb
+blar1
+aminoglycoside nucleotidyltransferase  ( ant )
+mutant efflux regulatory protein conferring antibiotic resistance
+antibiotic resistant dna topoisomerase subunit gyrb
+lincosamide nucleotidyltransferase  ( lnu )
+gramicidin a
+gramicidin b
+gramicidin c
+ant ( 6 )
+antibiotic resistant folp
+tyrothricin
+ant ( 9 )
+ant ( 4' )
+ant ( 2'' )  - ia
+beta - lactam resistance operon
+ant ( 3'' )  - ia
+streptogramin inactivation enzyme
+glycopeptide resistance gene cluster
+ethambutol resistant embb
+glycopeptide resistance gene cluster vana
+tolc
+glycopeptide resistance gene cluster vanb
+reduced permeability to antibiotic
+rbpa
+glycopeptide resistance gene cluster vanc
+phosphoenolpyruvate  ( pep )  mutase
+dnaa
+chloramphenicol phosphotransferase
+ermc
+msra
+glycopeptide resistance gene cluster vand
+emry
+glycopeptide resistance gene cluster vanf
+glycopeptide resistance gene cluster vanm
+glycopeptide resistance gene cluster vang
+glycopeptide resistance gene cluster vane
+glycopeptide resistance gene cluster vanl
+sigma factor conferring resistance to rifampin
+bla operon
+mara
+emre
+porin ompf
+adp - ribosylation of antibiotic conferring resistance
+mec operon
+brodimoprim
+protein modulating permeability to antibiotic
+antibiotic resistant dna topoisomerase subunit gyra
+antibiotic resistant dna topoisomerase subunit parc
+cephem
+sulfonamide antibiotic
+tetroxoprim
+phosphonopyruvate decarboxylase
+lsaa
+emrd
+mpha
+aac ( 1 )  - i
+mphb
+mphc
+macrolide esterase
+hydrolysis of macrolide macrocycle lactone ring
+aac ( 3 )
+sulfadiazine
+sulfadimidine
+erme
+sulfadoxine
+rrna with mutation conferring antibiotic resistance
+sulfamethoxazole
+sulfisoxazole
+macrolide phosphotransferase  ( mph )
+23s rrna with mutation conferring antibiotic resistance
+iclaprim
+linearization of antibiotic conferring resistance
+aac ( 2' )
+fosfomycin inactivation enzyme
+tap
+emrab - tolc
+aac ( 6' )
+erma
+fosfomycin phosphotransferase
+erea
+ereb
+vanc
+mtrcde
+antibiotic resistant dna topoisomerase subunit
+vant
+emrky - tolc
+ermb
+streptogramin vgb lyase
+mexa
+mexb
+oprm
+fosc
+antibiotic target replacement protein
+azidamfenicol
+acrab - tolc
+chloramphenicol
+mexab - oprm
+phenicol antibiotic
+streptogramin biosynthesis
+streptogramin b biosynthesis
+rifampin adp - ribosyltransferase  ( arr )
+nora
+erm ( 37 )
+glycopeptide biosynthesis
+actinoplanes teichomyceticus teicoplanin gene cluster
+sul1
+sul2
+sul3
+quinolone resistance protein  ( qnr )
+norb
+foma
+rifampin glycosyltransferase
+rpha
+rifampin monooxygenase
+antibiotic - resistant isoleucyl - trna synthetase  ( iles )
+qepa1
+fomb
+hydroxylation of antibiotic conferring resistance
+protein ( s )  and two - component regulatory system modulating antibiotic efflux
+fluoroquinolone resistant dna topoisomerase
+streptogramin vat acetyltransferase
+polymyxin b
+streptogramin a biosynthesis
+thiamphenicol
+aminocoumarin resistant pare
+macrolide glycosyltransferase
+fosfomycin biosynthesis
+florfenicol
+mgta
+gima
+neisseria gonorrhoeae porin pib  ( por )
+ole glycosyltransferase
+dalbavancin
+ndm - 5
+hydroxypropylphosphonic acid epoxidase
+tet ( 31 )
+tet ( 33 )
+aminocoumarin resistant gyrb
+aminocoumarin resistant pary
+tet ( 35 )
+telavancin
+sav1866
+tuberactinomycin
+acrd
+gene involved in self - resistance to antibiotic
+ermd
+vanxy
+ethambutol
+ermf
+acre
+phosphonoacetaldehyde methyltransfererase
+rpob2
+acrf
+acref - tolc
+gols
+mexr
+rifampin - resistant rna polymerase - binding protein
+gadx
+staphylococcus aureus mupb conferring resistance to mupirocin
+evgsa
+emrr
+rifaximin
+crp
+antibiotic target modifying enzyme
+isoniazid
+staphylococcus aureus mupa conferring resistance to mupirocin
+ermg
+cpxar
+antibiotic a40926
+cmer
+polyamine antibiotic
+chlortetracycline
+rifabutin
+baesr
+aminocoumarin biosynthesis
+maca
+rifapentine
+macb
+streptomyces spheroides novobiocin biosynthetic gene cluster
+macab - tolc
+streptomyces roseochromogenus subsp . oscitans clorobiocin biosynthetic gene cluster
+arlrs
+streptomyces rishiriensis strain dsm 40489 coumermycin a1 biosynthetic gene cluster
+ades
+aztreonam
+organoarsenic antibiotic
+arsphenamine
+ader
+mupirocin
+macrolide biosynthesis
+tet ( 44 )
+antibiotic inactivation enzyme
+aden
+erm 23s ribosomal rna methyltransferase
+tet ( 30 )
+tet ( 38 )
+tet ( 39 )
+tet ( 40 )
+subclass b1  ( metallo -  )  beta - lactamase
+tet ( 41 )
+subclass b2  ( metallo -  )  beta - lactamase
+subclass b3  ( metallo -  )  beta - lactamase
+tet ( 42 )
+tet ( 43 )
+vanr
+vanu
+rifampin inactivation enzyme
+bc beta - lactamase
+ccra
+chryseobacterium meningosepticum blab
+spm beta - lactamase
+cpha beta - lactamase
+l1 beta - lactamase
+pristinamycin ia
+quinupristin
+pulvomycin
+sulbactam
+avibactam
+ndm - 1
+ndm - 2
+ermn
+ermq
+ermr
+ermt
+ermx
+erm ( 31 )
+erm ( 33 )
+erm ( 34 )
+erm ( 38 )
+erm ( 39 )
+erm ( 41 )
+erm ( 35 )
+erm ( 36 )
+fez - 1
+gene detected by antibiotic resistance screening microarray
+mefe
+mel
+meca
+fluoroquinolone resistant parc
+adel
+pc1 beta - lactamase  ( blaz )
+colistin a
+colistin b
+polymyxin b1
+polymyxin b2
+polymyxin b3
+polymyxin b4
+bacitracin a
+bacitracin b
+bacitracin f
+benzylpenicillin
+phenoxymethylpenicillin
+propicillin
+dicloxacillin
+flucloxacillin
+ampicillin
+azlocillin
+mezlocillin
+doripenem
+cefalexin
+cefadroxil
+cefotiam
+cefaclor
+cefotaxime
+cefixime
+cefpodoxime
+ceftibuten
+cefditoren
+cefdinir
+ceftaroline
+isepamicin
+g418
+arbekacin
+gentamicin b
+acrs
+paromomycin
+lividomycin
+gatifloxacin
+lomefloxacin
+nalidixic acid
+norfloxacin
+ofloxacin
+trovafloxacin
+grepafloxacin
+sparfloxacin
+demeclocycline
+oxytetracycline
+pristinamycin iia
+pleuromutilin antibiotic
+tiamulin
+madumycin ii
+griseoviridin
+dalfopristin
+pristinamycin ib
+h - ns
+virginiamycin s2
+vernamycin b - gamma
+vernamycin c
+patricin a
+patricin b
+ostreogrycin b3
+sulfacetamide
+mafenide
+arylomycin
+thiostrepton
+moenomycin
+furazolidone
+metronidazole
+bleomycinic acid
+bleomycin a2
+bleomycin b2
+defensin
+magainin
+actinomycin
+dactinomycin
+moenomycin a1
+sulfasalazine
+sulfamethizole
+lividomycin a
+lividomycin b
+acrr
+cefalotin
+isopenicillin n
+penicillin n
+antibiotic mixture
+antibiotic target
+cell wall synthesis enzyme targeted by antibiotic
+cell membrane component targeted by antibiotic
+protein synthesis machinery targeted by antibiotic
+nucleic acid synthesis machinery targeted by antibiotic
+nucleic acid targeted by antibiotic
+folate synthesis enzyme targeted by antibiotic
+isoprenoid synthesis enzyme targeted by antibiotic
+mycolic acid synthesis enzyme targeted by antibiotic
+antibiotic sensitive signal peptidase i
+marr
+bacitracin sensitive isoprenyl pyrophosphate
+acyl - d - alanyl - d - alanine
+cell wall component targeted by antibiotic
+cycloserine sensitive alr
+cycloserine sensitive d - alanine synthetase
+fosfomycin sensitive pyruvyl transferase  ( mura )
+antibiotic sensitive afta
+pentaglycyl bridge
+50s ribosomal subunit
+30s ribosomal subunit
+ribosomal complex
+elongation factor g
+elongation factor tu
+antibiotic sensitive isoleucyl - trna transferase
+fluoroquinolone sensitive gyra
+antibiotic sensitive dna topoisomerase subunit gyrb
+fluoroquinolone sensitive parc
+rho transcription terminator factor
+rifamycin sensitive beta - subunit of rna polymerase  ( rpob )
+deoxyribonucleic acid
+rna guanosine binding site
+ribonucleic acid
+transcription complex dna
+anaerobe dna
+1 - deoxy - d - xylulose 5 - phosphate reductoisomerase
+antibiotic sensitive dihydropteroate synthase
+antibiotic sensitive dihydrofolate reductase
+mepr
+mef
+subunit of efflux pump conferring antibiotic resistance
+beta - lactam sensitive penicillin - binding protein
+protein of two - component regulatory system modulating antibiotic efflux
+abem
+antibiotic sensitive peptidyl transferase  ( 23s rrna )
+antibiotic sensitive 16s rrna
+30s ribosomal subunit p - site
+50s ribosomal subunit p - site
+fosmidomycin
+fusidic acid
+cycloserine
+mecillinam
+pefloxacin
+antibiotic sensitive embc
+antibiotic sensitive emba
+antibiotic sensitive embb
+antibiotic sensitive topoisomerase subunit
+avoparcin
+abes
+pata - patb
+adeabc
+adefgh
+adeijk
+cmeabc
+adea
+adeb
+adef
+adeg
+adeh
+adei
+adej
+adek
+cmea
+cmeb
+cmec
+mdsabc
+mdtabc - tolc
+mdtef - tolc
+mdsa
+mdsb
+mdsc
+mdta
+mdtb
+mdtc
+mdte
+mdtf
+mexcd - oprj
+mexef - oprn
+mexghi - opmd
+mexc
+mexd
+oprj
+mexe
+mexf
+oprn
+mexg
+mexh
+mexi
+opmd
+mtrc
+mtrd
+mtre
+mexs
+mext
+mgra
+mtra
+mtrr
+nalc
+nald
+nfxb
+phopq
+pmra
+rama
+ramr
+rob
+sdia
+soxrs
+baer
+baes
+cpxa
+cpxr
+evga
+evgs
+phop
+phoq
+soxr
+soxs
+arlr
+arls
+john - 1
+cgb - 1
+ebr - 1 beta - lactamase
+mus - 1
+tus - 1
+gim - 1
+sim - 1
+khm - 1
+dim - 1
+sfh - 1
+gob - 1
+thin - b
+aim - 1
+smb - 1
+cau - 1
+bjp - 1
+16s ribosomal rna methyltransferase
+arma
+rmta
+rmtb
+rmtc
+sgm
+defensin resistant mprf
+fluoroquinolone resistant gyrb
+oled
+olei
+oleandomycin
+streptothricin acetyltransferase  ( sat )
+triclosan
+fatty acid synthesis enzyme targeted by antibiotic
+antibiotic sensitive enoyl - acyl carrier reductase
+tem - 1
+tem - 2
+tem - 3
+tem - 4
+tem - 5
+tem - 6
+tem - 7
+tem - 8
+tem - 9
+tem - 10
+tem - 11
+tem - 12
+tem - 13
+tem - 15
+tem - 16
+tem - 17
+tem - 18
+tem - 19
+tem - 20
+tem - 21
+tem - 22
+tem - 24
+tem - 25
+tem - 26
+tem - 27
+tem - 28
+tem - 29
+tem - 30
+tem - 31
+tem - 32
+tem - 33
+tem - 34
+tem - 35
+tem - 36
+tem - 37
+tem - 38
+tem - 39
+tem - 40
+tem - 42
+tem - 43
+tem - 44
+tem - 45
+tem - 46
+tem - 47
+tem - 48
+tem - 49
+tem - 50
+tem - 51
+tem - 52
+tem - 53
+tem - 54
+tem - 55
+tem - 56
+tem - 57
+tem - 58
+tem - 59
+tem - 60
+tem - 61
+tem - 63
+tem - 65
+tem - 66
+tem - 67
+tem - 68
+tem - 70
+tem - 71
+tem - 72
+tem - 73
+tem - 74
+tem - 75
+tem - 76
+tem - 78
+tem - 79
+tem - 80
+tem - 81
+tem - 82
+tem - 83
+tem - 84
+tem - 85
+tem - 86
+tem - 87
+tem - 88
+tem - 89
+tem - 90
+tem - 91
+tem - 92
+tem - 93
+tem - 94
+tem - 95
+tem - 96
+tem - 101
+tem - 102
+tem - 103
+tem - 104
+tem - 105
+tem - 106
+tem - 107
+tem - 108
+tem - 109
+tem - 110
+tem - 111
+tem - 112
+tem - 113
+tem - 114
+tem - 115
+tem - 116
+tem - 117
+tem - 118
+tem - 120
+tem - 121
+tem - 122
+tem - 123
+tem - 124
+tem - 125
+tem - 126
+tem - 127
+tem - 128
+tem - 129
+tem - 130
+tem - 131
+tem - 132
+tem - 133
+tem - 134
+tem - 135
+tem - 136
+tem - 137
+tem - 138
+tem - 139
+tem - 141
+tem - 142
+tem - 143
+tem - 144
+tem - 145
+tem - 146
+tem - 147
+tem - 148
+tem - 149
+tem - 150
+tem - 151
+tem - 152
+tem - 154
+tem - 155
+tem - 156
+tem - 157
+tem - 158
+tem - 159
+tem - 160
+tem - 161
+tem - 162
+tem - 163
+tem - 164
+tem - 165
+tem - 166
+tem - 167
+tem - 168
+tem - 169
+tem - 170
+tem - 171
+tem - 172
+tem - 173
+tem - 174
+tem - 176
+tem - 177
+tem - 178
+tem - 181
+tem - 183
+tem - 186
+tem - 187
+tem - 188
+tem - 189
+tem - 190
+tem - 191
+tem - 192
+tem - 193
+tem - 194
+tem - 195
+tem - 197
+tem - 198
+tem - 199
+shv - 1
+shv - 2
+shv - 2a
+shv - 3
+shv - 4
+shv - 5
+shv - 6
+shv - 7
+shv - 8
+shv - 9
+shv - 10
+shv - 11
+shv - 12
+shv - 13
+shv - 14
+shv - 15
+shv - 16
+shv - 18
+shv - 19
+shv - 20
+shv - 21
+shv - 22
+shv - 23
+shv - 24
+shv - 25
+shv - 26
+shv - 27
+shv - 28
+shv - 29
+shv - 30
+shv - 31
+shv - 32
+shv - 33
+shv - 34
+shv - 35
+shv - 36
+shv - 37
+shv - 38
+shv - 39
+shv - 40
+shv - 41
+shv - 42
+shv - 43
+shv - 44
+shv - 45
+shv - 46
+shv - 48
+shv - 49
+shv - 50
+shv - 51
+shv - 52
+shv - 53
+shv - 55
+shv - 56
+shv - 57
+shv - 59
+shv - 60
+shv - 61
+shv - 62
+shv - 63
+shv - 64
+shv - 65
+shv - 66
+shv - 67
+shv - 69
+shv - 70
+shv - 71
+shv - 72
+shv - 73
+shv - 74
+shv - 75
+shv - 76
+shv - 77
+shv - 78
+shv - 79
+shv - 80
+shv - 81
+shv - 82
+shv - 83
+shv - 84
+shv - 85
+shv - 86
+shv - 89
+shv - 90
+shv - 91
+shv - 92
+shv - 93
+shv - 94
+shv - 95
+shv - 96
+shv - 97
+shv - 101
+shv - 102
+shv - 103
+shv - 104
+shv - 105
+shv - 106
+shv - 107
+shv - 108
+shv - 109
+shv - 110
+shv - 111
+shv - 112
+shv - 113
+shv - 114
+shv - 115
+shv - 116
+shv - 117
+shv - 120
+shv - 121
+shv - 122
+shv - 123
+shv - 124
+shv - 125
+shv - 126
+shv - 127
+shv - 128
+shv - 129
+shv - 133
+shv - 134
+shv - 135
+shv - 137
+shv - 140
+shv - 141
+shv - 142
+shv - 145
+shv - 147
+shv - 148
+shv - 149
+shv - 150
+shv - 151
+shv - 152
+shv - 153
+shv - 154
+shv - 155
+shv - 156
+shv - 157
+shv - 158
+shv - 159
+shv - 160
+shv - 161
+shv - 162
+shv - 163
+shv - 165
+shv - 167
+brp ( mbl )
+antibiotic inactivation by sequestration
+gene involved in antibiotic sequestration
+methicillin resistant pbp2
+mecc
+mdtm
+mdtl
+mdth
+trimethoprim resistant dihydrofolate reductase dfr
+elfamycin antibiotic
+factumycin
+josamycin
+chalcomycin
+midecamycin
+mycinamicin
+megalomycin
+narbomycin
+kitasamycin
+carbomycin
+rosaramicin
+niddamycin
+celesticetin
+methymycin
+pikromycin
+kirromycin
+aurodox
+efrotomycin
+ge2270a
+enacyloxin iia
+kirrothricin
+azimycin
+dihydromocimycin
+phenelfamycin a
+phenelfamycin b
+phenelfamycin c
+phenelfamycin d
+phenelfamycin e
+phenelfamycin f
+unphenelfamycin
+l - 681 , 217
+ge37468
+amythiamicin a
+heneicomycin
+erm ( 30 )
+verdamicin
+vertilimicin
+kasugamycin
+non - erm 23s ribosomal rna methyltransferase  ( g748 )
+tlrb conferring tylosin resistance
+myra
+rlma ( ii )
+chrb
+ermo - srma
+erms
+ermu
+ermw
+vgba
+vgbb
+cyclic thiazolyl peptide elfamycin
+kirromycin - like antibiotics
+elfamycin resistant ef - tu
+fact
+retapamulin
+valnemulin
+azamulin
+pleuromutilin
+macrocyclic antibiotic
+fidaxomicin
+sb22484
+uk - 69 , 753
+phenelfamycin g
+phenelfamycin h
+ganefromycin
+mdtk
+escherichia coli mdfa
+mdtg
+shv - 54
+shv - 58
+shv - 68
+shv - 87
+shv - 88
+shv - 98
+shv - 99
+shv - 100
+shv - 118
+shv - 119
+shv - 132
+shv - 138
+shv - 139
+shv - 143
+shv - 144
+shv - 146
+shv - 164
+shv - 166
+shv - 174
+shv - 180
+shv - 183
+shv - 168
+shv - 169
+shv - 170
+shv - 171
+shv - 172
+shv - 173
+shv - 175
+shv - 176
+shv - 177
+shv - 178
+shv - 179
+shv - 181
+shv - 182
+shv - 184
+tem - 100
+tem - 119
+tem - 140
+tem - 153
+tem - 175
+tem - 179
+tem - 180
+tem - 182
+tem - 185
+tem - 184
+tem - 196
+tem - 200
+tem - 201
+tem - 202
+tem - 203
+tem - 204
+tem - 205
+tem - 206
+tem - 207
+tem - 208
+tem - 209
+tem - 210
+tem - 211
+tem - 212
+tem - 213
+tem - 214
+tem - 215
+tem - 216
+tem - 217
+tem - 218
+oxa - 1
+oxa - 2
+oxa - 3
+oxa - 4
+oxa - 5
+oxa - 6
+oxa - 7
+oxa - 8
+oxa - 9
+oxa - 10
+oxa - 11
+oxa - 12
+oxa - 13
+oxa - 14
+oxa - 15
+oxa - 16
+oxa - 17
+oxa - 18
+oxa - 19
+oxa - 20
+oxa - 21
+oxa - 22
+oxa - 23
+oxa - 24
+oxa - 25
+oxa - 26
+oxa - 27
+oxa - 28
+oxa - 29
+oxa - 31
+oxa - 32
+oxa - 33
+oxa - 34
+oxa - 35
+oxa - 36
+oxa - 37
+oxa - 38
+oxa - 39
+oxa - 41
+oxa - 44
+oxa - 52
+oxa - 67
+oxa - 100
+oxa - 101
+oxa - 115
+oxa - 116
+oxa - 117
+oxa - 121
+oxa - 122
+oxa - 123
+oxa - 124
+oxa - 125
+oxa - 126
+oxa - 127
+oxa - 139
+oxa - 140
+oxa - 148
+oxa - 149
+oxa - 150
+oxa - 151
+oxa - 152
+oxa - 153
+oxa - 154
+oxa - 155
+oxa - 156
+oxa - 157
+oxa - 158
+oxa - 159
+oxa - 165
+oxa - 166
+oxa - 167
+oxa - 168
+oxa - 169
+oxa - 170
+oxa - 171
+oxa - 178
+oxa - 179
+oxa - 180
+oxa - 183
+oxa - 184
+oxa - 185
+oxa - 193
+oxa - 194
+oxa - 195
+oxa - 196
+oxa - 197
+oxa - 205
+oxa - 206
+oxa - 207
+oxa - 208
+oxa - 210
+oxa - 216
+oxa - 217
+oxa - 220
+oxa - 221
+oxa - 222
+oxa - 225
+oxa - 227
+oxa - 233
+oxa - 234
+oxa - 238
+oxa - 239
+oxa - 240
+oxa - 251
+oxa - 252
+oxa - 256
+oxa - 258
+oxa - 309
+oxa - 310
+oxa - 311
+oxa - 318
+oxa - 319
+oxa - 321
+oxa - 322
+oxa - 323
+oxa - 324
+oxa - 325
+oxa - 326
+oxa - 327
+oxa - 328
+oxa - 329
+oxa - 330
+oxa - 331
+oxa - 332
+oxa - 333
+oxa - 334
+oxa - 335
+oxa - 336
+oxa - 337
+oxa - 338
+oxa - 339
+oxa - 340
+oxa - 341
+oxa - 342
+oxa - 343
+oxa - 344
+oxa - 345
+oxa - 346
+oxa - 348
+oxa - 349
+oxa - 350
+oxa - 351
+oxa - 352
+oxa - 353
+oxa - 354
+oxa - 355
+oxa - 356
+oxa - 357
+oxa - 358
+oxa - 359
+oxa - 360
+oxa - 361
+oxa - 362
+oxa - 363
+oxa - 364
+oxa - 365
+oxa - 366
+oxa - 367
+oxa - 368
+oxa - 371
+oxa - 372
+oxa - 373
+oxa - 374
+oxa - 375
+oxa - 376
+oxa - 377
+oxa - 378
+oxa - 379
+oxa - 380
+oxa - 381
+oxa - 382
+oxa - 383
+oxa - 384
+oxa - 385
+oxa - 386
+oxa - 387
+oxa - 388
+oxa - 389
+oxa - 390
+oxa - 391
+oxa - 392
+oxa - 393
+oxa - 394
+oxa - 395
+oxa - 396
+oxa - 397
+oxa - 398
+oxa - 399
+oxa - 400
+oxa - 401
+oxa - 402
+oxa - 403
+oxa - 404
+oxa - 405
+oxa - 406
+oxa - 407
+oxa - 408
+oxa - 409
+oxa - 410
+oxa - 411
+oxa - 412
+oxa - 413
+oxa - 414
+oxa - 415
+oxa - 416
+oxa - 417
+oxa - 114a
+oxa - 243
+oxa - 58
+oxa - 51
+oxa - 64
+oxa - 65
+oxa - 66
+oxa - 68
+oxa - 69
+oxa - 70
+oxa - 71
+oxa - 75
+oxa - 76
+oxa - 77
+oxa - 83
+oxa - 84
+oxa - 89
+oxa - 88
+oxa - 91
+oxa - 93
+oxa - 94
+oxa - 95
+oxa - 96
+oxa - 92
+oxa - 79
+oxa - 80
+oxa - 82
+oxa - 104
+oxa - 106
+oxa - 107
+oxa - 108
+oxa - 109
+oxa - 110
+oxa - 111
+oxa - 112
+oxa - 113
+oxa - 78
+oxa - 98
+oxa - 97
+oxa - 128
+oxa - 99
+oxa - 90
+oxa - 130
+oxa - 131
+oxa - 132
+oxa - 143
+oxa - 138
+oxa - 172
+oxa - 173
+oxa - 174
+oxa - 175
+oxa - 176
+oxa - 177
+oxa - 164
+oxa - 160
+oxa - 203
+oxa - 200
+oxa - 201
+oxa - 202
+oxa - 219
+oxa - 223
+oxa - 231
+oxa - 49
+oxa - 120
+oxa - 248
+oxa - 249
+oxa - 250
+oxa - 235
+oxa - 236
+oxa - 237
+oxa - 241
+oxa - 242
+oxa - 278
+oxa - 254
+oxa - 312
+oxa - 313
+oxa - 314
+oxa - 315
+oxa - 316
+oxa - 317
+oxa - 253
+oxa - 255
+oxa - 228
+oxa - 229
+oxa - 230
+oxa - 257
+oxa - 134
+oxa - 186
+oxa - 187
+oxa - 188
+oxa - 189
+oxa - 190
+oxa - 191
+oxa - 133
+oxa - 86
+oxa - 87
+oxa - 72
+oxa - 102
+oxa - 103
+oxa - 105
+oxa - 182
+oxa - 211
+oxa - 212
+oxa - 213
+oxa - 214
+oxa - 215
+oxa - 259
+oxa - 260
+oxa - 261
+oxa - 262
+oxa - 263
+oxa - 264
+oxa - 265
+oxa - 266
+oxa - 267
+oxa - 268
+oxa - 269
+oxa - 270
+oxa - 271
+oxa - 272
+oxa - 273
+oxa - 274
+oxa - 275
+oxa - 276
+oxa - 277
+oxa - 279
+oxa - 280
+oxa - 281
+oxa - 282
+oxa - 283
+oxa - 284
+oxa - 285
+oxa - 286
+oxa - 287
+oxa - 288
+oxa - 289
+oxa - 290
+oxa - 291
+oxa - 292
+oxa - 293
+oxa - 294
+oxa - 295
+oxa - 296
+oxa - 297
+oxa - 298
+oxa - 299
+oxa - 300
+oxa - 301
+oxa - 302
+oxa - 303
+oxa - 304
+oxa - 305
+oxa - 306
+oxa - 307
+oxa - 308
+oxa - 63
+oxa - 136
+oxa - 192
+oxa - 137
+oxa - 118
+oxa - 42
+oxa - 43
+oxa - 57
+oxa - 59
+oxa - 61
+oxa - 370
+oxa - 119
+oxa - 162
+oxa - 347
+oxa - 232
+oxa - 146
+oxa - 85
+oxa - 47
+oxa - 48
+oxa - 163
+oxa - 181
+oxa - 73
+oxa - 244
+oxa - 245
+oxa - 204
+oxa - 247
+oxa - 62
+oxa - 320
+oxa - 45
+oxa - 56
+oxa - 50
+oxa - 46
+oxa - 74
+oxa - 161
+oxa - 226
+oxa - 147
+oxa - 141
+oxa - 142
+oxa - 145
+oxa - 198
+oxa - 224
+oxa - 246
+oxa - 60
+oxa - 209
+oxa - 53
+oxa - 129
+oxa - 54
+oxa - 55
+oxa - 199
+acc - 1
+acc - 2
+acc - 3
+acc - 4
+acc - 5
+act - 1
+act - 2
+act - 3
+act - 5
+act - 6
+act - 9
+act - 16
+act - 23
+act - 4
+act - 7
+act - 8
+act - 10
+act - 11
+act - 12
+act - 13
+act - 14
+act - 15
+act - 17
+act - 18
+act - 19
+act - 20
+act - 21
+act - 22
+act - 24
+act - 25
+act - 27
+act - 28
+act - 29
+act - 30
+act - 31
+act - 32
+act - 33
+act - 34
+act - 35
+cfe - 1
+lat - 1
+imi - 1
+imi - 2
+imi - 3
+imi - 4
+imi - 5
+imi - 6
+ctx - m - 1
+ctx - m - 2
+ctx - m - 3
+ctx - m - 4
+ctx - m - 5
+ctx - m - 6
+ctx - m - 7
+ctx - m - 8
+ctx - m - 9
+ctx - m - 10
+ctx - m - 11
+ctx - m - 12
+ctx - m - 13
+ctx - m - 14
+ctx - m - 15
+ctx - m - 16
+ctx - m - 17
+ctx - m - 19
+ctx - m - 20
+ctx - m - 21
+ctx - m - 22
+ctx - m - 23
+ctx - m - 24
+ctx - m - 25
+ctx - m - 26
+ctx - m - 27
+ctx - m - 28
+ctx - m - 29
+ctx - m - 30
+ctx - m - 31
+ctx - m - 32
+ctx - m - 33
+ctx - m - 34
+ctx - m - 35
+ctx - m - 36
+ctx - m - 37
+ctx - m - 38
+ctx - m - 39
+ctx - m - 40
+ctx - m - 41
+ctx - m - 42
+ctx - m - 43
+ctx - m - 44
+ctx - m - 45
+ctx - m - 46
+ctx - m - 47
+ctx - m - 48
+ctx - m - 49
+ctx - m - 50
+ctx - m - 51
+ctx - m - 52
+ctx - m - 53
+ctx - m - 54
+ctx - m - 55
+ctx - m - 56
+ctx - m - 58
+ctx - m - 59
+ctx - m - 60
+ctx - m - 61
+ctx - m - 62
+ctx - m - 63
+ctx - m - 64
+ctx - m - 65
+ctx - m - 66
+ctx - m - 67
+ctx - m - 68
+ctx - m - 69
+ctx - m - 70
+ctx - m - 71
+ctx - m - 72
+ctx - m - 73
+ctx - m - 74
+ctx - m - 75
+ctx - m - 76
+ctx - m - 77
+ctx - m - 78
+ctx - m - 79
+ctx - m - 80
+ctx - m - 81
+ctx - m - 82
+ctx - m - 83
+ctx - m - 84
+ctx - m - 86
+ctx - m - 87
+ctx - m - 88
+ctx - m - 89
+ctx - m - 90
+ctx - m - 91
+ctx - m - 92
+ctx - m - 93
+ctx - m - 94
+ctx - m - 95
+ctx - m - 96
+ctx - m - 98
+ctx - m - 99
+ctx - m - 100
+ctx - m - 101
+ctx - m - 102
+ctx - m - 103
+ctx - m - 104
+ctx - m - 105
+ctx - m - 106
+ctx - m - 107
+ctx - m - 108
+ctx - m - 109
+ctx - m - 110
+ctx - m - 111
+ctx - m - 112
+ctx - m - 113
+ctx - m - 114
+ctx - m - 115
+ctx - m - 116
+ctx - m - 117
+ctx - m - 119
+ctx - m - 120
+ctx - m - 121
+ctx - m - 122
+ctx - m - 123
+ctx - m - 124
+ctx - m - 125
+ctx - m - 126
+ctx - m - 127
+ctx - m - 128
+ctx - m - 129
+ctx - m - 130
+ctx - m - 131
+ctx - m - 132
+ctx - m - 134
+ctx - m - 135
+ctx - m - 137
+ctx - m - 136
+ctx - m - 138
+ctx - m - 139
+ctx - m - 140
+ctx - m - 141
+ctx - m - 142
+ctx - m - 143
+ctx - m - 144
+ctx - m - 145
+ctx - m - 146
+ctx - m - 147
+ctx - m - 148
+ctx - m - 150
+ctx - m - 151
+ctx - m - 152
+ctx - m - 153
+ctx - m - 154
+cmy - 1
+cmy - 2
+cmy - 3
+cmy - 4
+cmy - 5
+cmy - 6
+cmy - 7
+cmy - 8
+cmy - 9
+cmy - 10
+cmy - 11
+cmy - 12
+cmy - 13
+cmy - 14
+cmy - 15
+cmy - 16
+cmy - 17
+cmy - 18
+cmy - 19
+cmy - 20
+cmy - 21
+cmy - 22
+cmy - 23
+cmy - 24
+cmy - 25
+cmy - 26
+cmy - 27
+cmy - 28
+cmy - 29
+cmy - 30
+cmy - 31
+cmy - 32
+cmy - 33
+cmy - 34
+cmy - 35
+cmy - 36
+cmy - 37
+cmy - 38
+cmy - 39
+cmy - 40
+cmy - 41
+cmy - 42
+cmy - 43
+cmy - 44
+cmy - 45
+cmy - 46
+cmy - 47
+cmy - 48
+cmy - 49
+cmy - 50
+cmy - 51
+cmy - 52
+cmy - 53
+cmy - 54
+cmy - 55
+cmy - 56
+cmy - 57
+cmy - 59
+cmy - 99
+cmy - 110
+cmy - 58
+cmy - 60
+cmy - 61
+cmy - 62
+cmy - 63
+cmy - 64
+cmy - 65
+cmy - 66
+cmy - 67
+cmy - 68
+cmy - 69
+cmy - 70
+cmy - 71
+cmy - 72
+cmy - 73
+cmy - 74
+cmy - 75
+cmy - 76
+cmy - 77
+cmy - 78
+cmy - 79
+cmy - 80
+cmy - 81
+cmy - 82
+cmy - 83
+cmy - 84
+cmy - 85
+cmy - 86
+cmy - 87
+cmy - 88
+cmy - 89
+cmy - 90
+cmy - 91
+cmy - 92
+cmy - 93
+cmy - 94
+cmy - 95
+cmy - 96
+cmy - 97
+cmy - 98
+cmy - 100
+cmy - 101
+cmy - 102
+cmy - 103
+cmy - 104
+cmy - 105
+cmy - 106
+cmy - 107
+cmy - 108
+cmy - 109
+cmy - 111
+cmy - 112
+cmy - 113
+cmy - 114
+cmy - 115
+cmy - 116
+cmy - 117
+cmy - 118
+cmy - 119
+cmy - 120
+dha - 1
+dha - 2
+dha - 3
+dha - 6
+dha - 7
+dha - 4
+dha - 5
+dha - 8
+dha - 9
+dha - 10
+dha - 11
+dha - 12
+dha - 13
+dha - 14
+dha - 15
+dha - 16
+dha - 17
+dha - 18
+dha - 19
+dha - 20
+dha - 21
+dha - 22
+dha - 23
+fox - 1
+fox - 2
+fox - 3
+fox - 4
+fox - 5
+fox - 7
+fox - 8
+fox - 10
+fox - 9
+fox - 11
+fox - 12
+mir - 1
+mir - 4
+mir - 2
+mir - 3
+mir - 5
+mir - 6
+mir - 7
+mir - 9
+mir - 10
+mir - 11
+mir - 12
+mir - 13
+mir - 14
+mir - 15
+mir - 16
+mox - 1
+mox - 2
+mox - 4
+mox - 6
+mox - 3
+mox - 5
+mox - 7
+mox - 8
+mox - 9
+imp - 1
+imp - 2
+imp - 3
+imp - 4
+imp - 5
+imp - 6
+imp - 7
+imp - 8
+imp - 9
+imp - 10
+imp - 11
+imp - 12
+imp - 13
+imp - 14
+imp - 15
+imp - 16
+imp - 17
+imp - 18
+imp - 19
+imp - 20
+imp - 21
+imp - 22
+imp - 23
+imp - 24
+imp - 25
+imp - 26
+imp - 27
+imp - 28
+imp - 29
+imp - 30
+imp - 31
+imp - 32
+imp - 33
+imp - 34
+imp - 35
+imp - 36
+imp - 37
+imp - 38
+imp - 39
+imp - 40
+imp - 41
+imp - 42
+imp - 43
+imp - 44
+imp - 45
+imp - 46
+imp - 48
+carb - 1
+carb - 2
+carb - 3
+carb - 4
+carb - 5
+carb - 6
+carb - 7
+carb - 8
+carb - 9
+carb - 10
+carb - 12
+carb - 13
+carb - 14
+carb - 15
+carb - 17
+carb - 16
+ind - 1
+ind - 2
+ind - 2a
+ind - 3
+ind - 4
+ind - 5
+ind - 6
+ind - 7
+ind - 8
+ind - 9
+ind - 10
+ind - 11
+ind - 12
+ind - 14
+ind - 15
+vim - 1
+vim - 2
+vim - 3
+vim - 4
+vim - 5
+vim - 6
+vim - 7
+vim - 8
+vim - 9
+vim - 10
+vim - 11
+vim - 12
+vim - 13
+vim - 14
+vim - 15
+vim - 16
+vim - 17
+vim - 18
+vim - 19
+vim - 20
+vim - 21
+vim - 22
+vim - 23
+vim - 24
+vim - 25
+vim - 26
+vim - 27
+vim - 28
+vim - 29
+vim - 30
+vim - 31
+vim - 32
+vim - 33
+vim - 34
+vim - 35
+vim - 36
+vim - 37
+vim - 38
+vim - 39
+vim - 40
+vim - 41
+kpc - 2
+kpc - 3
+kpc - 4
+kpc - 5
+kpc - 6
+kpc - 7
+kpc - 8
+kpc - 9
+kpc - 10
+kpc - 11
+kpc - 12
+kpc - 13
+kpc - 14
+kpc - 15
+kpc - 16
+kpc - 17
+kpc - 18
+kpc - 19
+ges - 1
+ges - 2
+ges - 3
+ges - 4
+ges - 5
+ges - 6
+ges - 7
+ges - 8
+ges - 9
+ges - 10
+ges - 11
+ges - 12
+ges - 13
+ges - 14
+ges - 15
+ges - 16
+ges - 17
+ges - 18
+ges - 19
+ges - 20
+ges - 21
+ges - 22
+ges - 23
+ges - 24
+ndm - 3
+ndm - 4
+ndm - 6
+ndm - 7
+ndm - 8
+ndm - 9
+ndm - 10
+ndm - 11
+ndm - 12
+per - 1
+per - 2
+per - 3
+per - 4
+per - 5
+per - 6
+per - 7
+veb - 1
+veb - 2
+veb - 3
+veb - 4
+veb - 6
+veb - 5
+veb - 7
+veb - 8
+veb - 9
+sme - 1
+sme - 2
+sme - 3
+sme - 4
+sme - 5
+bel beta - lactamase
+bel - 1
+bel - 2
+bel - 3
+oxy beta - lactamase
+oxy - 1 - 1
+oxy - 1 - 2
+oxy - 1 - 3
+oxy - 1 - 4
+oxy - 1 - 6
+oxy - 2 - 1
+oxy - 2 - 2
+oxy - 2 - 3
+oxy - 2 - 4
+oxy - 2 - 5
+oxy - 2 - 6
+oxy - 2 - 7
+oxy - 2 - 8
+oxy - 2 - 9
+oxy - 2 - 10
+oxy - 2 - 11
+oxy - 2 - 12
+oxy - 2 - 13
+oxy - 3 - 1
+oxy - 4 - 1
+oxy - 5 - 1
+oxy - 5 - 2
+oxy - 6 - 1
+oxy - 6 - 2
+oxy - 6 - 3
+oxy - 6 - 4
+okp beta - lactamase
+okp - a - 1
+okp - a - 2
+okp - a - 3
+okp - a - 4
+okp - a - 5
+okp - a - 6
+okp - a - 7
+okp - a - 8
+okp - a - 9
+okp - a - 10
+okp - a - 11
+okp - a - 12
+okp - a - 13
+okp - a - 14
+okp - a - 15
+okp - a - 16
+okp - b - 1
+okp - b - 2
+okp - b - 3
+okp - b - 4
+okp - b - 5
+okp - b - 6
+okp - b - 7
+okp - b - 8
+okp - b - 9
+okp - b - 10
+okp - b - 11
+okp - b - 12
+okp - b - 13
+okp - b - 14
+okp - b - 17
+okp - b - 18
+okp - b - 19
+okp - b - 20
+len - 1
+len - 2
+len - 5
+len - 7
+len - 8
+len - 9
+len - 10
+len - 11
+len - 12
+len - 13
+len - 16
+len - 18
+len - 19
+len - 20
+len - 21
+len - 22
+len - 23
+len - 24
+len - 4
+len - 17
+len - 26
+len - 3
+len - 6
+len - 14
+len - 15
+len - 25
+oxa - 144
+aer - 1
+lra - 1
+lra - 5
+lra - 13
+lra - 2
+lra - 7
+lra - 8
+lra - 9
+lra - 10
+lra - 18
+srt - 1
+srt - 2
+ctx - m - 85
+oxa - 418
+pdc - 1
+pdc - 2
+pdc - 3
+pdc - 4
+pdc - 5
+pdc - 6
+pdc - 7
+pdc - 8
+pdc - 9
+pdc - 10
+lra - 3
+lra - 12
+lra - 17
+lra - 19
+och - 1
+och - 2
+och - 3
+och - 4
+och - 5
+och - 6
+och - 7
+och - 8
+nova
+aac ( 2' )  - ia
+aac ( 2' )  - ib
+aac ( 2' )  - ic
+aac ( 2' )  - id
+aac ( 2' )  - ie
+aac ( 3 )  - ia
+aac ( 3 )  - id
+aac ( 3 )  - ib
+aac ( 3 )  - ic
+aac ( 3 )  - iia
+aac ( 3 )  - iib
+aac ( 3 )  - iic
+aac ( 3 )  - iiia
+aac ( 3 )  - iiib
+aac ( 3 )  - iiic
+aac ( 3 )  - iv
+aac ( 3 )  - via
+aac ( 3 )  - viia
+aac ( 3 )  - viiia
+aac ( 3 )  - ixa
+aac ( 3 )  - xa
+aac ( 6' )  - ia
+aac ( 6' )  - ib
+aac ( 6' )  - ib - cr
+aac ( 6' )  - ic
+aac ( 6' )  - if
+aac ( 6' )  - ig
+aac ( 6' )  - ih
+aac ( 6' )  - ii
+aac ( 6' )  - ij
+aac ( 6' )  - ik
+aac ( 6' )  - ip
+aac ( 6' )  - iq
+aac ( 6' )  - ir
+aac ( 6' )  - is
+aac ( 6' )  - isa
+aac ( 6' )  - it
+aac ( 6' )  - iu
+aac ( 6' )  - iv
+aac ( 6' )  - iw
+aac ( 6' )  - ix
+aac ( 6' )  - iy
+aac ( 6' )  - iz
+aac ( 6' )  - iaa
+aac ( 6' )  - iad
+aac ( 6' )  - iae
+aac ( 6' )  - iaf
+aac ( 6' )  - iai
+aac ( 6' )  - ib3
+aac ( 6' )  - ib4
+aac ( 6' )  - ib7
+aac ( 6' )  - ib8
+aac ( 6' )  - ib9
+aac ( 6' )  - ib10
+aac ( 6' )  - ib11
+aac ( 6' )  - 29a
+aac ( 6' )  - 29b
+aac ( 6' )  - 31
+aac ( 6' )  - 32
+aac ( 6' )  - 33
+aac ( 6' )  - i30
+aac ( 6' )  - iid
+aac ( 6' )  - iih
+aac ( 6' )  - ib - suzhou
+aac ( 6' )  - ib - hangzhou
+aac ( 6' )  - ib - sk
+aac ( 6' )  - iia
+aac ( 6' )  - iib
+aac ( 6' )  - iic
+aac ( 6' )  - ie - aph ( 2'' )  - ia
+ant ( 3'' )  - ii - aac ( 6' )  - iid fusion protein
+aac ( 6' )  - 30 / aac ( 6' )  - ib' fusion protein
+aac ( 3 )  - ib / aac ( 6' )  - ib''
+aada
+aada2
+aada3
+aada4
+aada5
+aada6
+aada7
+aada8
+aada9
+aada11
+aada12
+aada13
+aada14
+aada15
+aada16
+aada17
+aada21
+aada22
+aada23
+aada24
+aada6 / aada10
+ant ( 4' )  - ia
+ant ( 4' )  - iia
+ant ( 4' )  - iib
+ant ( 6 )  - ia
+aadk
+aad ( 6 )
+ant ( 6 )  - ib
+ant ( 9 )  - ia
+spd
+aph ( 2'' )  - ie
+aph ( 2'' )  - iia
+aph ( 2'' )  - iiia
+aph ( 2'' )  - iva
+aph ( 3'' )  - ia
+aph ( 3'' )  - ib
+aph ( 3'' )  - ic
+aph ( 3' )  - ia
+aph ( 3' )  - ib
+aph ( 3' )  - iia
+aph ( 3' )  - iib
+aph ( 3' )  - iic
+aph ( 3' )  - iiia
+aph ( 3' )  - iva
+aph ( 3' )  - va
+aph ( 3' )  - vb
+aph ( 3' )  - vc
+aph ( 3' )  - via
+aph ( 3' )  - vib
+aph ( 3' )  - viia
+aph ( 4 )  - ia
+aph ( 4 )  - ib
+aph ( 6 )  - ia
+aph ( 6 )  - ib
+aph ( 6 )  - ic
+aph ( 6 )  - id
+aph ( 7'' )  - ia
+aph ( 9 )  - ia
+aph ( 9 )  - ib
+npma
+rmtf
+rmtd
+rmtg
+aph ( 2'' )  - ig
+cat
+lactobacillus reuteri cat - tc
+bacillus pumilus cat86
+clostridium butyricum catb
+catb2
+catb3
+pseudomonas aeruginosa catb6
+pseudomonas aeruginosa catb7
+catb8
+catb9
+catd
+cati
+catii
+catiii
+catp
+catq
+cats
+plasmid - encoded cat  ( pp - cat )
+streptomyces lividans cmlr
+salmonella enterica cmla
+cmla1
+cmla4
+cmla5
+cmla6
+cmlb
+cmlb1
+cmlv
+rhodococcus fascians cmr
+cmra
+cmx
+fexa
+flor
+ethambutol resistant embc
+qnra1
+qnra2
+qnra3
+qnra4
+qnra5
+qnra6
+qnra7
+qnrb1
+qnrb2
+qnrb3
+qnrb4
+qnrb5
+qnrb6
+qnrb7
+qnrb8
+qnrb9
+qnrb10
+qnrb11
+qnrb12
+qnrb13
+qnrb14
+qnrb15
+qnrb16
+qnrb17
+qnrb18
+qnrb19
+qnrb20
+qnrb21
+qnrb22
+qnrb23
+qnrb24
+qnrb25
+qnrb26
+qnrb27
+qnrb28
+qnrb29
+qnrb30
+qnrb31
+qnrb32
+qnrb33
+qnrb34
+qnrb35
+qnrb36
+qnrb37
+qnrb38
+qnrb39
+qnrb40
+qnrb41
+qnrb42
+qnrb43
+qnrb44
+qnrb45
+qnrb46
+qnrb47
+qnrb48
+qnrb49
+qnrb50
+qnrb54
+qnrb55
+qnrb56
+qnrb57
+qnrb58
+qnrb59
+qnrb60
+qnrb61
+qnrb62
+qnrb64
+qnrb65
+qnrb66
+qnrb67
+qnrb68
+qnrb69
+qnrb70
+qnrb71
+qnrb72
+qnrb73
+qnrb74
+qnrc
+qnrd1
+qnrd2
+qnrs1
+qnrs2
+qnrs3
+qnrs4
+qnrs5
+qnrs6
+qnrs7
+qnrs8
+qnrs9
+qnrvc1
+qnrvc3
+qnrvc4
+qnrvc5
+qnrvc6
+fosa2
+antibiotic - resistant mura transferase
+pp - flo
+lmrb
+clba
+clbb
+clbc
+cara
+msrb
+msrc
+ermh
+ermv
+ermy
+erea2
+tlrc
+srmb
+vgaa
+vgaalc
+vgac
+vgad
+vgae
+lnua
+lnub
+lnuc
+lnud
+lnuf
+vata
+vatb
+vatc
+vatd
+vate
+vath
+arr - 1
+arr - 2
+arr - 3
+arr - 4
+arr - 5
+arr - 7
+arr - 8
+dfra1
+dfra24
+dfra26
+dfra12
+dfra14
+dfra17
+dfra5
+dfra7
+dfra8
+dfrb1
+dfrc
+dfrd
+dfrf
+dfrg
+dfrk
+tet34
+tet37
+fosa3
+fosb3
+fosc2
+dfre
+ethambutol resistant afta
+bci
+bcii
+ling
+lmrc
+lmrd
+rgt1438
+iri
+otr ( a )
+otr ( b )
+tcr3
+otrc
+sat - 2
+sat - 4
+sat - 3
+vans - vanr two - component regulatory system
+van ligase
+vane
+vanf
+vang
+vanl
+vanm
+vann
+vano
+vanj
+vank
+vanv
+glycopeptide resistance gene cluster vann
+glycopeptide resistance gene cluster vano
+vanra
+vanrb
+vanrc
+vanrd
+vanre
+vanrf
+vanrg
+vanrl
+vanrm
+vanrn
+vanro
+vansa
+vansb
+vansc
+vansd
+vanse
+vansf
+vansg
+vansl
+vansm
+vansn
+vanso
+vanha
+vanhb
+vanhd
+vanhf
+vanhm
+vanho
+vanxa
+vanxb
+vanxf
+vanxm
+vanxo
+vanya
+vanyb
+vanyd
+vanyf
+vanyg1
+vanym
+vanza
+vanzf
+vanwb
+vanwg
+vanxyc
+vanxye
+vanxyl
+vanxyn
+vantc
+vante
+vantg
+vantml
+vantrl
+vantn
+gene ( s )  or protein ( s )  associated with a glycopeptide resistance cluster
+d - ala - d - lac ligase
+d - ala - d - ser ligase
+aspergillomarasmine a
+amrab - oprm
+amra
+amrb
+arna
+baca
+bcra
+bcrb
+aqu beta - lactamase
+aqu - 1
+rob beta - lactamase
+rob - 1
+lcr beta - lactamase
+lcr - 1
+cbla beta - lactamase
+cbla - 1
+cfxa beta - lactamase
+cfxa
+cfxa2
+cfxa3
+cfxa4
+blt
+bmr
+ceoab - opcm
+ceoa
+ceob
+dfra10
+dfra13
+dfra15
+dfra16
+dfra19
+dfra20
+dfra21
+dfra22
+dfra23
+dfra25
+dfrb2
+dfrb3
+dfrb6
+fusidic acid inactivation enzyme
+fush
+lmrab operon
+lmra
+mexvw - oprm
+mexv
+mexw
+mexxy - oprm
+mexy
+mexx
+mfpa
+oleb
+opcm
+mexxy - opra
+opra
+beta - lactam resistant penicillin - binding proteins
+streptococcus pneumoniae pbp1a conferring resistance to amoxicillin
+streptococcus pneumoniae pbp2b conferring resistance to amoxicillin
+streptococcus pneumoniae pbp2x conferring resistance to amoxicillin
+qaca
+qacb
+rosa
+rosb
+smeabc
+smea
+smeb
+smec
+smedef
+smed
+smee
+smef
+tmrb
+tsnr
+vph
+ykkcd
+ykkc
+ykkd
+non - erm 23s ribosomal rna methyltransferase  ( a1067 )
+smer
+smes
+smers
+vanxyg
+vanxd
+mphf
+mphl
+staphylococcus aureus cls conferring resistance to daptomycin
+daptomycin resistant liafsr
+enterococcus faecalis liaf mutant conferring daptomycin resistance
+enterococcus faecium liar mutant conferring daptomycin resistance
+enterococcus faecium lias mutant conferring daptomycin resistance
+daptomycin resistant pgsa
+daptomycin resistant beta - subunit of rna polymerase  ( rpob )
+daptomycin resistant mprf
+enterococcus faecium cls conferring resistance to daptomycin
+cpha3
+imih
+imis
+cfxa5
+cfxa6
+cpha2
+cpha4
+cpha5
+cpha6
+cpha7
+cpha8
+dfra3
+erm ( 42 )
+mef ( b )
+msre
+catb10
+lsab
+lsac
+tem - 221
+tem - 222
+oxa - 427
+oxa - 420
+oxa - 421
+oxa - 428
+oxa - 429
+oxa - 430
+oxa - 431
+oxa - 432
+oxa - 433
+oxa - 434
+oxa - 436
+cmy - 121
+cmy - 122
+cmy - 123
+cmy - 124
+cmy - 125
+cmy - 126
+cmy - 127
+cmy - 128
+cmy - 129
+cmy - 130
+mir - 18
+mox - 10
+mox - 11
+imi - 8
+imi - 9
+kpc - 20
+kpc - 21
+veb - 10
+oxa - 424
+oxa - 425
+oxa - 426
+carb - 20
+carb - 22
+shv - 185
+shv - 186
+shv - 187
+shv - 188
+shv - 189
+tem - 219
+tem - 220
+oxa - 419
+oxa - 422
+oxa - 423
+oxa - 435
+ctx - m - 155
+ctx - m - 156
+ctx - m - 157
+ctx - m - 158
+ctx - m - 159
+ctx - m - 160
+ctx - m - 161
+cmy - 131
+act - 36
+act - 37
+mir - 17
+carb - 18
+carb - 19
+carb - 21
+imi - 7
+vim - 42
+vim - 43
+kpc - 22
+ges - 26
+ndm - 13
+ndm - 14
+per - 8
+ges - 25
+carb - 23
+qnrb75
+qnrb76
+qnrb77
+qnrb78
+qnrb79
+qnrb80
+qnrvc7
+gim - 2
+gim beta - lactamase
+tet ( 45 )
+aada25
+rmth
+aac ( 6' )  - iak
+aac ( 6' )  - ian
+tla beta - lactamase
+tla - 1
+tla - 2
+tla - 3
+erm ( 43 )
+lsae
+fosk
+fosxcc
+fosa5
+fosa4
+16s rrna with mutation conferring antibiotic resistance
+escherichia coli 16s rrna mutation conferring resistance to edeine
+lipid ii
+lipid iii
+mycobacteroides abscessus 16s rrna mutation conferring resistance to kanamycin
+mycobacteroides abscessus 16s rrna mutation conferring resistance to tobramycin
+mycobacteroides abscessus 16s rrna mutation conferring resistance to neomycin
+mycobacteroides abscessus 16s rrna mutation conferring resistance to amikacin
+mycobacteroides abscessus 16s rrna mutation conferring resistance to gentamicin
+teixobactin
+bcrc
+undecaprenyl pyrophosphate
+aminocoumarin sensitive pary
+antibiotic sensitive dna topoisomerase subunit gyra
+antibiotic sensitive dna topoisomerase subunit parc
+antibiotic sensitive dna topoisomerase subunit pary
+antibiotic sensitive dna topoisomerase subunit pare
+aminocoumarin sensitive gyrb
+fluoroquinolone sensitive gyrb
+antibiotic sensitive escherichia coli 16s rrna
+antibiotic sensitive mycobacteroides abscessus 16s rrna
+aminoglycosides sensitive mycobacteroides abscessus 16s rrna
+amikacin sensitive mycobacteroides abscessus 16s rrna mutation
+daptomycin resistant cls
+cell membrane component enzymes targeted by antibiotic
+antibiotic sensitive cls
+daptomycin sensitive cardiolipin synthetase
+antibiotic resistant rpob
+antibiotic sensitive beta - subunit of rna polymerase  ( rpob )
+daptomycin sensitive beta - subunit of rna polymerase  ( rpob )
+antibiotic resistant liafsr system
+antibiotic sensitive mprf
+antibiotic sensitive pgsa
+mycobacterium tuberculosis rpob mutants conferring resistance to rifampicin
+mycobacterium leprae rpob mutations conferring resistance to rifampicin
+staphylococcus aureus rpob mutants conferring resistance to rifampicin
+staphylococcus aureus rpob mutants conferring resistance to daptomycin
+escherichia coli rpob mutants conferring resistance to rifampicin
+antibiotic resistant rpoc
+daptomycin - resistant beta prime subunit of rna polymerase  ( rpoc )
+staphylococcus aureus rpoc conferring resistance to daptomycin
+fluoroquinolone resistant gyra
+escherichia coli gyra conferring resistance to fluoroquinolones
+mycobacterium tuberculosis gyra conferring resistance to fluoroquinolones
+staphylococcus aureus gyra conferring resistance to fluoroquinolones
+bartonella bacilliformis gyra conferring resistance to fluoroquinolones
+mycobacterium leprae gyra conferring resistance to fluoroquinolones
+staphylococcus aureus gyrb conferring resistance to aminocoumarin
+bartonella bacilliformis gyrb conferring resistance to aminocoumarin
+escherichia coli gyrb conferring resistance to aminocoumarin
+mycobacterium leprae gyrb conferring resistance to fluoroquinolones
+ureaplasma urealyticum  gyrb conferring resistance to fluoroquinolones
+morganella morganii gyrb conferring resistance to fluoroquinolones
+salmonella serovars gyrb conferring resistance to fluoroquinolones
+escherichia coli parc conferring resistance to fluoroquinolones
+ureaplasma urealyticum parc conferring resistance to fluoroquinolones
+mycoplasma hominis parc conferring resistance to fluoroquinolones
+streptococcus pneumoniae parc conferring resistance to fluoroquinolones
+staphylococcus aureus parc conferring resistance to fluoroquinolones
+fluoroquinolone resistant pare
+staphylococcus aureus pare conferring resistance to aminocoumarin
+staphylococcus aureus pare conferring resistance to fluoroquinolones
+escherichia coli pare conferring resistance to fluoroquinolones
+salmonella serovars pare conferring resistance to fluoroquinolones
+streptomyces rishiriensis pary mutant conferring resistance to aminocoumarin
+staphylococcus aureus mprf with mutation conferring resistance to daptomycin
+staphylococcus aureus pgsa mutations conferring resistance to daptomycin
+bacillus subtilis mprf
+mycobacterium tuberculosis variant bovis embb with mutation conferring resistance to ethambutol
+mycobacterium tuberculosis embb mutant conferring resistance to ethambutol
+mycobacterium tuberculosis embc mutant conferring resistance to ethambutol
+escherichia coli 16s rrna  ( rrsc )  mutation conferring resistance to kasugamicin
+antibiotic resistant ef - tu
+clostridioides difficile ef - tu mutants conferring resistance to elfamycin
+escherichia coli ef - tu mutants conferring resistance to elfamycin
+streptomyces cinnamoneus ef - tu mutants conferring resistance to elfamycin
+planobispora rosea ef - tu mutants conferring resistance to elfamycin
+planobispora rosea ef - tu mutants conferring resistance to inhibitor ge2270a
+escherichia coli ef - tu mutants conferring resistance to kirromycin
+escherichia coli ef - tu mutants conferring resistance to pulvomycin
+escherichia coli ef - tu mutants conferring resistance to enacyloxin iia
+escherichia coli 16s rrna  ( rrsh )  mutation conferring resistance to spectinomycin
+klebsiella pneumoniae acrr with mutation conferring multidrug antibiotic resistance
+klebsiella aerogenes acrr with mutation conferring multidrug antibiotic resistance
+escherichia coli 16s rrna  ( rrsb )  mutation conferring resistance to spectinomycin
+escherichia coli 16s rrna  ( rrnb )  mutation conferring resistance to spectinomycin
+escherichia coli marr mutant conferring antibiotic resistance
+salmonella enterica ramr mutants
+klebsiella pneumoniae ramr mutants
+escherichia coli soxr with mutation conferring antibiotic resistance
+salmonella enterica soxr with mutation conferring antibiotic resistance
+salmonella serovars soxs with mutation conferring antibiotic resistance
+klebsiella aerogenes omp36
+escherichia coli folp with mutation conferring resistance to sulfonamides
+streptococcus pyogenes folp with mutation conferring resistance to sulfonamides
+dapsone resistant dihydropteroate synthase folp
+mycobacterium leprae folp with mutation conferring resistance to dapsone
+escherichia coli ompf with mutation conferring resistance to beta - lactam antibiotics
+mycobacterium tuberculosis katg mutations conferring resistance to isoniazid
+mycobacterium tuberculosis inha mutations conferring resistance to isoniazid
+mycobacterium tuberculosis pnca mutations conferring resistance to pyrazinamide
+mycobacterium tuberculosis rpsl mutations conferring resistance to streptomycin
+escherichia coli 16s rrna  ( rrsb )  mutation conferring resistance to gentamicin c
+escherichia coli 16s rrna  ( rrsb )  mutation conferring resistance to g418
+undecaprenyl pyrophosphate related proteins
+escherichia coli 16s rrna  ( rrsb )  mutation conferring resistance to kanamycin a
+sulfone antibiotic
+escherichia coli 16s rrna  ( rrsb )  mutation conferring resistance to neomycin
+escherichia coli 16s rrna  ( rrsb )  mutation conferring resistance to paromomycin
+escherichia coli 16s rrna  ( rrsb )  mutation conferring resistance to streptomycin
+escherichia coli 16s rrna  ( rrnb )  mutation conferring resistance to streptomycin
+escherichia coli 16s rrna  ( rrsb )  mutation conferring resistance to tobramycin
+escherichia coli 16s rrna  ( rrsb )  mutation conferring resistance to tetracycline
+escherichia coli 16s rrna  ( rrnb )  mutation conferring resistance to tetracycline
+dapsone
+pyrazinamide
+lff571
+sulfonamide resistant dihydropteroate synthase folp
+isoniazid resistant katg
+antibiotic resistant inha
+pyrazinamide resistant pnca
+antibiotic - resistant rpsl
+antibiotic resistant pgsa
+antibiotic resistant mprf
+antibiotic resistant afta
+antibiotic resistant dihydrofolate reductase
+antibiotic sensitive inha
+porin proteins permeable to antibiotics
+antibiotic sensitive beta - prime subunit of rna polymerase  ( rpoc )
+fluoroquinolone sensitive pare
+antibiotic sensitive ribosomal protein s12  ( rpsl )
+mycobacterium tuberculosis 16s rrna mutation conferring resistance to kanamycin
+mycobacterium tuberculosis 16s rrna mutation conferring resistance to viomycin
+enterococcus faecium ef - tu mutants conferring resistance to ge2270a
+antibiotic sensitive rna polymerase switch region
+mecb
+cfra
+antibiotic resistant tlya
+mycobacterium tuberculosis tlya mutations conferring resistance to aminoglycosides
+antibiotic resistant inia
+ethambutol resistant inia
+mycobacterium tuberculosis inia mutant conferring resistance to ethambutol
+antibiotic resistant inic
+ethambutol resistant inic
+mycobacterium tuberculosis inic mutant conferring resistance to ethambutol
+ethambutol resistant emba
+mycobacterium tuberculosis emba mutant conferring resistance to ethambutol
+ethambutol resistant embr
+mycobacterium tuberculosis embr mutant conferring resistance to ethambutol
+antibiotic resistant etha
+ethionamide resistant etha
+mycobacterium tuberculosis etha with mutation conferring resistance to ethionamide
+mycobacterium tuberculosis gyrb mutant conferring resistance to fluoroquinolones
+antibiotic resistant ndh
+mycobacterium tuberculosis ndh with mutation conferring resistance to isoniazid
+antibiotic resistant kasa
+mycobacterium tuberculosis kasa mutant conferring resistance to isoniazid
+rifamycin - resistant arabinosyltransferase
+mycobacterium tuberculosis embb with mutation conferring resistance to rifampicin
+antibiotic resistant gidb
+mycobacterium tuberculosis gidb mutation conferring resistance to streptomycin
+antibiotic sensitive embr
+ethionamide
+antibiotic sensitive etha
+antibiotic sensitive tlya
+antibiotic sensitive gidb
+antibiotic sensitive kasa
+tetr
+mycobacterium tuberculosis 16s rrna mutation conferring resistance to streptomycin
+mycobacterium tuberculosis 16s rrna mutation conferring resistance to amikacin
+chlamydophila psittaci 16s rrna mutation conferring resistance to spectinomycin
+pasteurella multocida 16s rrna mutation conferring resistance to spectinomycin
+neisseria gonorrhoeae 16s rrna mutation conferring resistance to spectinomycin
+neisseria meningitidis 16s rrna mutation conferring resistance to spectinomycin
+cutibacterium acnes 16s rrna mutation conferring resistance to tetracycline
+borreliella burgdorferi 16s rrna mutation conferring resistance to spectinomycin
+borreliella burgdorferi 16s rrna mutation conferring resistance to kanamycin
+borreliella burgdorferi 16s rrna mutation conferring resistance to gentamicin
+helicobacter pylori 16s rrna mutation conferring resistance to tetracycline
+escherichia coli soxs with mutation conferring antibiotic resistance
+salmonella enterica 16s rrna  ( rrsd )  mutation conferring resistance to spectinomycin
+mycobacteroides chelonae 16s rrna mutation conferring resistance to amikacin
+mycobacteroides chelonae 16s rrna mutation conferring resistance to kanamycin a
+mycobacteroides chelonae 16s rrna mutation conferring resistance to tobramycin
+mycobacteroides chelonae 16s rrna mutation conferring resistance to gentamicin c
+mycobacteroides chelonae 16s rrna mutation conferring resistance to neomycin
+antibiotic sensitive borreliella burgdorferi 16s rrna
+antibiotic sensitive chlamydophila psittaci 16s rrna
+antibiotic sensitive helicobacter pylori 16s rrna
+antibiotic sensitive mycobacteroides chelonae 16s rrna
+antibiotic sensitive mycolicibacterium smegmatis 16s rrna
+antibiotic sensitive neisseria gonorrhoeae 16s rrna
+antibiotic sensitive neisseria meningitidis 16s rrna
+antibiotic sensitive pasteurella multocida 16s rrna
+antibiotic sensitive cutibacterium acnes 16s rrna
+antibiotic sensitive salmonella enterica serovar typhimurium 16s rrna
+antibiotic sensitive mycobacterium tuberculosis 16s rrna
+mycolicibacterium smegmatis 16s rrna  ( rrsa )  mutation conferring resistance to hygromycin b
+mycolicibacterium smegmatis 16s rrna  ( rrsb )  mutation conferring resistance to hygromycin b
+mycolicibacterium smegmatis 16s rrna  ( rrsb )  mutation conferring resistance to streptomycin
+mycolicibacterium smegmatis 16s rrna  ( rrsb )  mutation conferring resistance to kanamycin a
+mycolicibacterium smegmatis 16s rrna  ( rrsa )  mutation conferring resistance to kanamycin a
+mycolicibacterium smegmatis 16s rrna  ( rrsa )  mutation conferring resistance to neomycin
+mycolicibacterium smegmatis 16s rrna  ( rrsb )  mutation conferring resistance to neomycin
+mycolicibacterium smegmatis 16s rrna  ( rrsa )  mutation conferring resistance to viomycin
+mycolicibacterium smegmatis 16s rrna  ( rrsb )  mutation conferring resistance to viomycin
+mdtn
+mdto
+mdtp
+emea
+fusb
+ceps
+tcma
+shw beta - lactamase
+slb - 1
+sfb - 1
+y56 beta - lactamase
+cepa
+sed - 1
+blaf
+rcp - 1
+exo - 1
+r39
+magainin a
+magainin b
+magainin g
+magainin h
+magainin 1
+magainin 2
+lpxa
+lpxc
+lpxd
+epta
+ugd
+pmrf
+basrs
+gene altering cell wall charge
+acinetobacter mutant lpx gene conferring resistance to colistin
+basr
+bass
+klebsiella mutant phop conferring antibiotic resistance to colistin
+charge alteration conferring antibiotic resistance
+nmca
+shv - 190
+shv - 191
+tem - 223
+oxa - 437
+oxa - 438
+oxa - 439
+oxa - 440
+oxa - 441
+oxa - 442
+oxa - 443
+oxa - 444
+oxa - 445
+oxa - 446
+oxa - 447
+oxa - 448
+oxa - 449
+oxa - 450
+oxa - 451
+oxa - 452
+oxa - 453
+oxa - 454
+oxa - 455
+oxa - 456
+oxa - 457
+oxa - 458
+oxa - 459
+oxa - 460
+oxa - 461
+oxa - 462
+oxa - 463
+oxa - 464
+oxa - 465
+oxa - 466
+oxa - 467
+oxa - 468
+oxa - 469
+oxa - 470
+oxa - 471
+oxa - 472
+oxa - 473
+oxa - 474
+oxa - 475
+oxa - 476
+oxa - 477
+oxa - 478
+oxa - 479
+oxa - 480
+oxa - 481
+oxa - 482
+oxa - 483
+oxa - 484
+oxa - 485
+oxa - 486
+oxa - 487
+oxa - 488
+ctx - m - 162
+ctx - m - 163
+ctx - m - 164
+ctx - m - 165
+ctx - m - 166
+cmy - 132
+cmy - 133
+cmy - 134
+act - 38
+imp - 49
+imp - 50
+imp - 51
+vim - 44
+vim - 45
+vim - 46
+ndm - 15
+ndm - 16
+nmcr
+16s rrna with mutation conferring resistance to aminoglycoside antibiotics
+16s rrna with mutation conferring resistance to peptide antibiotics
+16s rrna with mutation conferring resistance to polyamine antibiotics
+16s rrna with mutation conferring resistance to tetracycline derivatives
+pedo - 1
+plazomicin
+aac ( 6' )  - ib'
+aac ( 6' )  - iaj
+triabc - opmh
+tria
+trib
+tric
+opmh
+pseudomonas aeruginosa gyra conferring resistance to fluoroquinolones
+pseudomonas aeruginosa pare conferring resistance to fluoroquinolones
+pseudomonas aeruginosa oprd with mutation conferring resistance to imipenem
+aph ( 3' )  - vi
+pvrr
+mcr - 1 .1
+sitafloxacin
+mexjk - opmh
+mexj
+mexk
+mexjk - oprm
+mexpq - opme
+mexp
+mexq
+opme
+rokitamycin
+pseudomonas aeruginosa gyra and parc conferring resistance to fluoroquinolones
+mexmn - oprm
+mexm
+mexn
+penem
+faropenem
+panipenem
+mexz
+mexl
+veb - 1b
+vcc - 1
+pedo - 2
+pedo - 3
+cps - 1
+esp - 1
+msi - 1
+msi - oxa
+spg - 1
+glycopeptide resistance gene cluster vani
+vani
+vanwi
+vanxi
+vansi
+vanki
+vanri
+fusd
+fusc
+antibiotic resistant fusa
+staphylococcus aureus fusa with mutation conferring resistance to fusidic acid
+antibiotic resistant fuse
+staphylococcus aureus fuse with mutation conferring resistance to fusidic acid
+mphe
+mphg
+vatf
+lnue
+mefc
+optra
+olec
+sala
+escherichia coli nfsa mutations conferring resistance to nitrofurantoin
+eatav
+antibiotic resistant nfsa
+antibiotic resistant nfsb
+escherichia coli nfsb with mutation conferring resistance to nitrofurantoin
+enterococcus faecalis cls with mutation conferring resistance to daptomycin
+staphylococcus aureus iles with mutation conferring resistance to mupirocin
+bifidobacterium bifidum iles conferring resistance to mupirocin
+resistance by absence
+mphm
+gene conferring resistance via absence
+staphylococcus aureus mprf
+listeria monocytogenes mprf
+brucella suis mprf
+clostridium perfringens mprf
+streptococcus agalactiae mprf
+escherichia coli mura with mutation conferring resistance to fosfomycin
+staphylococcus aureus mura with mutation conferring resistance to fosfomycin
+borreliella burgdorferi mura with mutation conferring resistance to fosfomycin
+mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid
+mycobacterium tuberculosis variant bovis ndh with mutation conferring resistance to isoniazid
+nybomycin
+mycobacterium tuberculosis intrinsic mura conferring resistance to fosfomycin
+chlamydia trachomatis intrinsic mura conferring resistance to fosfomycin
+fluoroquinolone self resistant parc
+aminocoumarin self resistant pary
+bacillus subtilis pgsa with mutation conferring resistance to daptomycin
+campylobacter jejuni gyra conferring resistance to fluoroquinolones
+enterococcus faecium liaf mutant conferring daptomycin resistance
+enterococcus faecalis lias mutant conferring daptomycin resistance
+enterococcus faecalis liar mutant conferring daptomycin resistance
+spm - 1
+staphylococcus aureus walk with mutation conferring resistance to daptomycin
+daptomycin resistant walk
+acinetobacter baumannii ampc beta - lactamase
+enterococcus faecalis yybt with mutation conferring daptomycin resistance
+daptomycin resistant yybt
+enterococcus faecalis gdpd with mutation conferring daptomycin resistance
+bcr - 1
+daptomycin resistant gdpd
+staphylococcus aureus agra with mutation conferring resistance to daptomycin
+daptomycin resistant agra
+enterococcus faecalis gshf with mutation conferring daptomycin resistance
+daptomycin resistant gshf
+escherichia coli acrr with mutation conferring multidrug antibiotic resistance
+caro
+acinetobacter baumannii oprd conferring resistance to imipenem
+kirromycin self resistant ef - tu
+adec
+enterococcus faecalis drma with mutation conferring daptomycin resistance
+daptomycin resistant drma
+enterococcus faecalis yvlb with mutation conferring daptomycin resistance
+daptomycin resistant yvlb
+acinetobacter baumannii gyra conferring resistance to fluoroquinolones
+acinetobacter baumannii parc conferring resistance to fluoroquinolones
+mgrb
+bal30072
+battacin
+benzalkonium chloride
+rhodamine
+aminocoumarin resistant alas
+temocillin
+ticarcillin
+cdea
+qach
+gadw
+aminocoumarin resistant cysb
+kdpe
+mus - 2
+leuo
+mfd
+adc beta - lactamase without carbapenemase activity
+adc - 1
+adc - 2
+adc - 3
+adc - 4
+adc - 5
+adc - 6
+adc - 7
+adc - 8
+adc - 10
+adc - 12
+adc - 13
+adc - 14
+adc - 15
+adc - 16
+adc - 17
+adc - 18
+adc - 19
+adc - 20
+adc - 21
+adc - 22
+adc - 23
+adc - 25
+adc - 31
+adc - 39
+adc - 41
+adc - 42
+adc - 43
+enterococcus faecium ef - tu mutants conferring resistance to elfamycin
+adc - 44
+adc - 56
+adc - 61
+adc - 74
+adc - 75
+adc - 76
+adc - 77
+adc - 78
+adc - 79
+adc - 80
+adc - 81
+adc - 82
+escherichia coli glpt with mutation conferring resistance to fosfomycin
+escherichia coli uhpt with mutation conferring resistance to fosfomycin
+escherichia coli uhpa with mutation conferring resistance to fosfomycin
+rm3
+pseudomonas mutant phop conferring resistance to colistin
+pseudomonas mutant phoq conferring resistance to colistin
+tedizolid
+lugdunin
+escherichia coli ptsi with mutation conferring resistance to fosfomycin
+escherichia coli cyaa with mutation conferring resistance to fosfomycin
+staphylococcus aureus glpt with mutation conferring resistance to fosfomycin
+staphylococcus aureus uhpt with mutation conferring resistance to fosfomycin
+thusin
+formicin
+ant ( 4' )  - ib
+cipa
+erm ( 47 )
+lysocin e
+menaquinone
+staphylococcus aureus mena with mutation conferring resistance to lysocin
+apma
+lysocin
+pgpb
+oqxab
+oqxa
+oqxb
+haemophilus parainfluenzae gyra conferring resistance to fluoroquinolones
+haemophilus parainfluenzae parc conferring resistance to fluoroquinolones
+salmonella enterica gyra conferring resistance to fluoroquinolones
+ceftolozane
+neisseria gonorrhoeae gyra conferring resistance to fluoroquinolones
+neisseria gonorrhoeae parc conferring resistance to fluoroquinolones
+rpsj
+capnocytophaga gingivalis gyra conferring resistance to fluoroquinolones
+antibiotic efflux inhibitor
+berberine
+omadacycline
+neisseria meningititis pbp2 conferring resistance to beta - lactam
+penicillin - binding protein mutations conferring resistance to beta - lactam antibiotics
+salmonella enterica parc conferring resistance to fluoroquinolones
+shigella flexneri gyra conferring resistance to fluoroquinolones
+shigella flexneri parc conferring resistance to fluoroquinolones
+abca
+efrab
+efra
+efrb
+msba
+microcin j25
+yoji
+hmrm
+efma
+efpa
+antibacterial free fatty acids
+palmitic acid
+oleic acid
+linoleic acid
+farab
+fara
+farb
+flo
+hp1181
+hp1184
+klebsiella pneumoniae ompk35
+lfra
+klebsiella pneumoniae ompk36
+lmrp
+d - ala - d - ala ligase
+erm ( 44 ) v
+solithromycin
+cutibacterium acnes gyra conferring resistance to fluoroquinolones
+pactamycin
+16s rrna with mutation conferring resistance to pactamycin
+halobacterium salinarum 16s rrna mutation conferring resistance to pactamycin
+chlamydomonas reinhardtii 16s rrna  ( rrns )  mutation conferring resistance to streptomycin
+eravacycline
+teta ( 58 )
+tetb ( 58 )
+llma 23s ribosomal rna methyltransferase
+catu
+baha
+amidohydrolysis of bacitracin undecaprenyl pyrophosphate
+taea
+vati
+aac ( 2' )  - iib
+aac ( 6' )  - 34
+vgbc
+mphi
+rphb
+capreomycin
+cpaa
+clostridioides difficile gyra conferring resistance to fluoroquinolones
+amoxicillin - clavulanic acid
+ampicillin - sulbactam
+cefamandole
+cefetamet
+cefmetazole
+cefonicid
+cefoperazone
+cefotetan
+cefprozil
+ceftiofur
+ceftizoxime
+cephapirin
+cefradine
+cinoxacin
+clinafloxacin
+clofazimine
+fleroxacin
+flomoxef
+gentamicin a
+loracarbef
+moxalactam
+nafcillin
+para - aminosalicylic acid
+piperacillin - sulbactam
+piperacillin - tazobactam
+quinupristin - dalfopristin
+ticarcillin - clavulanic acid
+trimethoprim - sulfamethoxazole
+prothionamide
+tinidazole
+rosab
+tetab ( 46 )
+teta ( 46 )
+tetb ( 46 )
+tetab ( 60 )
+teta ( 60 )
+tetb ( 60 )
+pseudomonas aeruginosa emre
+escherichia coli emre
+rifampin phosphotransferase
+klebsiella pneumoniae acra
+enterobacter cloacae acra
+escherichia coli acra
+antibiotic sensitive fabi
+escherichia coli fabi mutations conferring resistance to isoniazid and triclosan
+kdpde
+kdpd
+mexab - oprm with prematurely terminated mexr conferring resistance to meropenem and ciprofloxacin
+escherichia coli fabg mutations conferring resistance to triclosan
+antibiotic sensitive fabg
+mexab - oprm with nalc mutations conferring resistance to aztreonam
+mexab - oprm with nald mutations conferring resistance to multiple antibiotics
+mexab - oprm with cpxr regulator conferring resistance to ciprofloxacin ,  ceftazidime ,  and aztreonam
+pseudomonas aeruginosa cpxr
+escherichia coli cpxr
+armr
+23s rrna with mutation conferring resistance to linezolid antibiotics
+staphylococcus aureus 23s rrna with mutation conferring resistance to linezolid
+type a nfxb
+type b nfxb
+mexcd - oprj with type a nfxb mutation
+mexcd - oprj with type b nfxb mutation
+edeq
+edeine acetyltransferase
+mexef - oprn with mext mutation conferring resistance to chloramphenicol ,  ciprofloxacin ,  and trimethoprim
+mus beta - lactamase
+mexef - oprn with mexs mutations conferring resistance to chloramphenicol ,  ciprofloxacin ,  and trimethoprim
+mvat
+mexef - oprn with mvat deletion conferring resistance to chloramphenicol and norfloxacin
+opmb
+muxa
+muxb
+muxc
+muxabc - opmb
+pmpm
+escherichia coli acrab - tolc with acrr mutation conferring resistance to ciprofloxacin ,  tetracycline ,  and ceftazidime
+escherichia coli acrab - tolc with marr mutations conferring resistance to ciprofloxacin and tetracycline
+mexab - oprm with mexr mutations confers resistance to multiple antibiotics
+acrad - tolc confers resistance to amikacin ,  gentamicin ,  and tobramycin
+acrad - tolc
+acref - tolc confers resistance to ciprofloxacin
+lnug
+aph ( 3' )  - viiib
+aph ( 3' )  - ix
+lefamulin
+ant ( 3'' )  - iia
+ant ( 3'' )  - iib
+ant ( 3'' )  - iic
+hmb - 1
+ndm - 17
+erm ( 48 )
+daptomycin resistant cdsa
+streptococcus mitis cdsa with mutation conferring daptomycin resistance
+lpeab
+lpea
+lpeb
+mdtnop
+kamb
+qepa2
+tmb beta - lactamase
+tmb - 1
+tmb - 2
+pseudomonas aeruginosa soxr
+enterobacter cloacae rob
+escherichia coli rob
+mcr - 2 .1
+fosa6
+phosphoethanolamine transferase conferring colistin resistance
+fosa7
+porin ompc
+nitroimidazole antibiotic
+nitrofuran antibiotic
+vibrio cholerae ompu
+vibrio cholerae ompt
+cbp c1 - aminomethylene vancomycin
+bpi
+klebsiella pneumoniae ompk37
+burkholderia pseudomallei omp38
+moraxella catarrhalis m35
+23s rrna with mutation conferring resistance to macrolide antibiotics
+escherichia coli lamb
+escherichia coli mipa
+serratia marcescens omp1
+cephaloridine
+balofloxacin
+escherichia coli 23s rrna with mutation conferring resistance to erythromycin and telithromycin
+chlamydomonas reinhardtii 23s rrna with mutation conferring resistance to erythromycin
+brachyspira hyodysenteriae 23s rrna with mutation conferring resistance to tylosin
+helicobacter pylori 23s rrna with mutation conferring resistance to clarithromycin
+mycobacterium tuberculosis inib with mutation conferring resistance to ethambutol
+ethambutol resistant inib
+antibiotic resistant inib
+moraxella catarrhalis 23s rrna with mutation conferring resistance to macrolide antibiotics
+mcr - 3 .1
+hydrolysis of fusidic acid to inactive lactone derivative
+axyxy - oprz
+oprz
+axyx
+axyy
+axyz
+cfrc
+escherichia coli 23s rrna with mutation conferring resistance to clindamycin
+escherichia coli 23s rrna with mutation conferring resistance to chloramphenicol
+aminosalicylate resistant thymidylate synthase
+mycobacterium tuberculosis thya with mutation conferring resistance to para - aminosalicylic acid
+antibiotic sensitive thymidylate synthase
+aminosalicylate resistant dihydrofolate synthase
+antibiotic sensitive dihydrofolate synthase
+mycobacterium tuberculosis folc with mutation conferring resistance to para - aminosalicylic acid
+mycoplasma gallisepticum 23s rrna mutation conferring resistance to pleuromutilin antibiotics
+escherichia coli 23s rrna with mutation conferring resistance to clarithromycin
+propionibacteria 23s rrna with mutation conferring resistance to macrolide antibiotics
+mycobacteroides abscessus 23s rrna with mutation conferring resistance to clarithromycin
+mycobacterium avium 23s rrna with mutation conferring resistance to clarithromycin
+mycobacteroides chelonae 23s rrna with mutation conferring resistance to clarithromycin
+mycobacterium intracellulare 23s rrna with mutation conferring resistance to clarithromycin
+mycobacterium intracellulare 23s rrna with mutation conferring resistance to azithromycin
+mycobacterium kansasii 23s rrna with mutation conferring resistance to clarithromycin
+mycolicibacterium smegmatis 23s rrna with mutation conferring resistance to clarithromycin
+streptococcus pneumoniae 23s rrna with mutation conferring resistance to macrolide antibiotics
+streptomyces ambofaciens 23s rrna with mutation conferring resistance to macrolide antibiotics
+23s rrna with mutation conferring resistance to oxazolidinone antibiotics
+escherichia coli 23s rrna with mutation conferring resistance to oxazolidinone antibiotics
+chlamydia trachomatis 23s rrna with mutation conferring resistance to macrolide antibiotics
+mycoplasma hominis 23s rrna with mutation conferring resistance to macrolide antibiotics
+mycoplasma fermentans 23s rrna with mutation conferring resistance to macrolide antibiotics
+23s rrna with mutation conferring resistance to pleuromutilin antibiotics
+mycoplasma pneumoniae 23s rrna mutation conferring resistance to erythromycin
+halobacterium halobium 23s rrna mutation conferring resistance to chloramphenicol
+streptococcus pneumoniae 23s rrna mutation conferring resistance to macrolides and streptogramins antibiotics
+23s rrna with mutation conferring resistance to streptogramins antibiotics
+aminosalicylate resistant dihydrofolate reductase
+mycobacterium tuberculosis ribd with mutation conferring resistance to para - aminosalicylic acid
+mecd
+23s rrna with mutation conferring resistance to lincosamide antibiotics
+23s rrna with mutation conferring resistance to phenicol antibiotics
+bla2
+blaa beta - lactamase
+aph ( 2'' )  - if
+cepa beta - lactamase
+sed beta - lactamase
+mcr - 1 .2
+nmca beta - lactamase
+vcc beta - lactamase
+blaz beta - lactamase
+r39 beta - lactamase
+ceps beta - lactamase
+ccra beta - lactamase
+blab beta - lactamase
+john beta - lactamase
+cgb beta - lactamase
+ebr beta - lactamase
+tus beta - lactamase
+sim beta - lactamase
+khm beta - lactamase
+dim beta - lactamase
+hmb beta - lactamase
+sfh beta - lactamase
+fez beta - lactamase
+gob beta - lactamase
+gob - 18
+thin - b beta - lactamase
+l1 family beta - lactamase
+aim beta - lactamase
+smb beta - lactamase
+cau beta - lactamase
+bjp beta - lactamase
+subclass b3 pedo beta - lactamase
+cps beta - lactamase
+esp beta - lactamase
+msi beta - lactamase
+spg beta - lactamase
+rm3 family beta - lactamase
+subclass b3 lra beta - lactamase
+subclass b1 pedo beta - lactamase
+class a lra beta - lactamase
+class a bacillus anthracis bla beta - lactamase
+subclass b1 bacillus anthracis bla beta - lactamase
+class c lra beta - lactamase
+ampc - type beta - lactamase
+blaf family beta - lactamase
+exo beta - lactamase
+rcp beta - lactamase
+gima family macrolide glycosyltransferase
+mgt macrolide glycotransferase
+sulfonamide resistant sul
+nps - 1
+nps beta - lactamase
+class d lra beta - lactamase
+msi - oxa family beta - lactamase
+rbpa bacterial rna polymerase - binding protein
+dnaa chromosomal replication initiation protein
+fosc phosphotransferase family
+fom phosphotransferase family
+antibiotic - resistant glpt
+antibiotic - resistant uhpt
+uhpa
+antibiotic - resistant ptsi phosphotransferase
+antibiotic - resistant cya adenylate cyclase
+vanug
+vanvb
+vanj membrane protein
+bleomycin resistant protein
+cpa acetyltransferase
+amp acetyltransferase
+aac ( 1 )
+bah amidohydrolase
+viomycin phosphotransferase
+daptomycin resistant liaf
+daptomycin resistant liar
+daptomycin resistant lias
+lysocin resistant mena
+antibiotic resistant katg
+antibiotic resistant pnca
+mcr phosphoethanolamine transferase
+pmr phosphoethanolamine transferase
+antibiotic resistant fabi
+16s rrna methyltransferase  ( g1405 )
+16s rrna methyltransferase  ( a1408 )
+llm 23s ribosomal rna methyltransferase
+23s ribosomal rna methyltransferase
+ant ( 3'' )
+ant ( 2'' )
+general bacterial porin  ( gbp )
+outer membrane porin  ( opr )
+sugar porin  ( sp )
+mipa - interacting protein
+general bacterial porin with reduced permeability to beta - lactams
+general bacterial porin with reduced permeability to peptide antibiotics
+caro porin
+antibiotic resistant fabg
+tunicamycin resistance protein
+phenotypic variant regulator
+lipid a phosphatase
+subclass b1 vibrio cholerae varg beta - lactamase
+vibrio cholerae varg
+escherichia coli ampc beta - lactamase
+rhodobacter sphaeroides ampc beta - lactamase
+laribacter hongkongensis ampc beta - lactamase
+but beta - lactamase
+but - 1
+lassomycin
+bulgecin a
+antimicrobial phenotype
+intermediate antimicrobial phenotype
+resistant antimicrobial phenotype
+susceptible antimicrobial phenotype
+nonsusceptible antimicrobial phenotype
+susceptible dose dependent antimicrobial phenotype
+multidrug resistance antimicrobial phenotype
+methicillin - resistant staphylococcus aureus
+linezolid - resistant mrsa
+fluoroquinolone - resistant mrsa
+vancomycin - intermediate mrsa
+daptomycin - resistant mrsa
+carbapenem - resistant acinetobacter
+multidrug - resistant acinetobacter
+carbapenem - resistant escherichia coli
+extended - spectrum cephalosporin - resistant escherichia coli
+fluoroquinolone - resistant escherichia coli
+multidrug - resistant escherichia coli
+carbapenem - resistant enterobacter
+extended - spectrum cephalosporin - resistant enterobacter
+multidrug - resistant enterobacter
+carbapenem - resistant klebsiella
+extended - spectrum cephalosporin - resistant klebsiella
+multidrug - resistant klebsiella
+carbapenem - resistant pseudomonas aeruginosa
+extended - spectrum cephalosporin - resistant pseudomonas aeruginosa
+mcr - 4 .1
+fluoroquinolone - resistant pseudomonas aeruginosa
+aminoglycoside - resistant pseudomonas aeruginosa
+pipericillin - resistant pseudomonas aeruginosa
+vancomycin - resistant enterococcus
+daptomycin - resistant enterococcus
+vancomycin - resistant coagulase - negative staphylococci
+mcr - 5 .1
+triclosan resistant gyra
+salmonella enterica gyra with mutation conferring resistance to triclosan
+escherichia coli gyra with mutation conferring resistance to triclosan
+pdc - 73
+pdc - 74
+pdc - 75
+pdc - 76
+pdc - 77
+pdc - 78
+pdc - 79
+pdc - 80
+pdc - 81
+pdc - 82
+pdc - 83
+pdc - 84
+pdc - 85
+pdc - 86
+pdc - 87
+pdc - 88
+pdc - 89
+pdc - 90
+pdc - 91
+pdc - 92
+pdc - 93
+catv
+aci beta - lactamase
+aci - 1
+antimicrobial resistance testing reference standard
+sul4
+oxa - 535
+lipid a acyltransferase
+almg
+british society for antimicrobial chemotherapy  ( bsac )
+clinical and laboratory standards institute  ( clsi )
+deutsches institut für normung  ( din )
+european committee on antimicrobial susceptibility testing  ( eucast )
+société française de microbiologie  ( sfm )
+minimum inhibitory concentration  ( mic )
+mic value
+malacidin a
+malacidin biosynthesis
+bicyclomycin biosynthesis
+microbial susceptibility test
+qepa3
+qepa4
+vaborbactam
+in - vivo microbial susceptibility test
+in - vitro microbial susceptibility test
+reagent or protocol used for testing amr
+antimicrobial resistance test platform
+diffusion method
+thin - layer chromatography  ( tlc )  - bioautography
+time - kill test
+atp bioluminescence assay
+flow cytofluorometric method
+mechanism - specific test
+broth dilution method
+automated testing platform
+manual testing platform
+microscan
+phoenix
+sensitire
+vitek system
+automated testing platform vendor
+becton dickinson
+biomérieux
+siemens
+omron
+trek
+macro broth dilution method
+micro broth dilution method
+disk - diffusion method
+antimicrobial gradient method  ( e - test )
+agar well diffusion method
+agar plug diffusion method
+cross streak method
+agar diffusion bioautography
+direct bioautography
+agar overlay bioautography
+inoculum
+growth medium
+chromogenic cephalosporinase test
+chloramphenicol acetyltransferase assay  ( cat )
+greater than standard inoculum
+less than standard inoculum
+= standard inoculum
+mueller - hinton broth
+co2 supplemented medium
+divalent cation supplemented medium
+nacl supplemented medium
+difco mueller - hinton broth
+bbl mueller - hinton broth
+antimicrobial resistance tissue specificity
+cutaneous abscess
+acute cystitis
+female reproductive organ
+male reproductive organ
+respiratory system disease
+skin disease
+skin epidermis
+skin lesion
+lower respiratory tract disease
+lung disease
+respiratory failure
+adult respiratory distress sydrome
+newborn respiratory distress syndrome
+eucast antimicrobial phenotype
+wild - type
+non wild - type
+amr testing vendor
+component of amr phenotype measurement
+clsi antimicrobial phenotype
+tet ( 59 )
+tet ( w / n / w )
+rsa beta - lactamase
+rsa - 1
+rsa - 2
+haemophilus influenzae pbp3 conferring resistance to beta - lactam antibiotics
+hera beta - lactamase
+hera - 1
+tru beta - lactamase
+tru - 1
+agrobacterium fabrum chloramphenicol acetyltransferase
+bacillus clausii chloramphenicol acetyltransferase
+campylobacter coli chloramphenicol acetyltransferase
+streptococcus suis chloramphenicol acetyltransferase
+enterococcus faecium chloramphenicol acetyltransferase
+staphylococcus intermedius chloramphenicol acetyltransferase
+enterococcus faecalis chloramphenicol acetyltransferase
+vibrio anguillarum chloramphenicol acetyltransferase
+delafloxacin
+ebr - 2
+cfe - 2
+intrinsic colistin resistant phosphoethanolamine transferase
+icr - mc
+ciprofloxacin phosphotransferase
+crpp
+abc - f atp - binding cassette ribosomal protection protein
+poxta
+msr - type abc - f protein
+lsa - type abc - f protein
+tebipenem
+cefiderocol
+vmlr
+eremomycin pyrrolidide
+oxa - 665
+oxa - 664
+bifidobacterium adolescentis rpob mutants conferring resistance to rifampicin
+oxa - 663
+delamanid
+diarylquinoline antibiotic
+bedaquiline
+adc - 68
+imp - 55
+imp - 56
+kpc - 24
+dfrb4
+tosufloxacin
+mcr - 3 .11
+mcr - 6 .1
+mcr - 2 .2
+mcr - 3 .6
+mcr - 3 .10
+mcr - 3 .5
+mcr - 1 .10
+mcr - 1 .9
+mcr - 3 .9
+mcr - 3 .8
+mcr - 3 .7
+mcr - 3 .2
+mcr - 1 .6
+mcr - 1 .3
+mcr - 1 .4
+mcr - 8 .1
+mcr - 7 .1
+mic sign
+ >
+ <
+=
+mic range
+strain type
+resistance determinant in strain
+deletion of resistance determinant
+deletion of resistance determinant with plasmid harbouring resistance determinant
+plasmid harbouring resistance determinant
+resistance determinant not in strain
+insertion of resistance determinant
+strain
+strain source
+clinical source
+environmental source
+agricultural source
+antimicrobial susceptibility test control
+experimental control
+correlative control
+mphh
+experimental source
+mphk
+mphn
+mpho
+mphj
+adc beta - lactamase with carbapenemase activity
+campylobacter jejuni 23s rrna with mutation conferring resistance to erythromycin
+dfra6
+dfra9
+dfrb5
+dfra27
+dfra28
+dfra30
+dfra29
+dfra32
+dfrb7
+cam beta - lactamase
+cam - 1
+murg transferase
+clostridioides difficile murg with mutation conferring resistance to vancomycin
+clostridioides difficile gyrb conferring resistance to fluoroquinolones
+clostridioides difficile rpob with mutation conferring resistance to rifampicin
+beta - lactam potentiator
+tetracyclic indoline
+rifalazil
+ramoplanin
+dfra18
+icr - mo
+pngm beta - lactamase
+pngm - 1
+staphylococcus aureus lmrs
+acinetobacter baumannii abaf
+acinetobacter baumannii abaq
+s - adenosylmethionine  ( sam )  superfamily
+tet ( 61 )
+acinetobacter baumannii amva
+acinetobacter baumannii abuo
+klebsiella pneumoniae kpne
+tet ( 48 )
+tet ( 49 )
+klebsiella pneumoniae kpnf
+tet ( 50 )
+klebsiella pneumoniae kpnef
+tet ( 51 )
+tet ( 52 )
+klebsiella pneumoniae kpng
+tet ( 53 )
+tet ( 54 )
+tet ( 55 )
+erm ( 32 )
+erm ( 45 )
+erm ( 46 )
+klebsiella pneumoniae kpnh
+klebsiella pneumoniae kpngh - tolc
+clcd
+lnuh
+lnup
+tet ( 56 )
+ermz
+erm ( 40 )
+cfr group
+ered
+cfr ( b )  group
+cfr ( c )  group
+escherichia coli ampc1 beta - lactamase
+escherichia coli amph beta - lactamase
+tet ( 47 )
+adc - 11
+mycoplasma genitalium 23s rrna mutations confers resistance to fluoroquinolone and macrolide antibiotics
+adc - 30
+adc - 58
+adc - 59
+adc - 60
+aac ( 3 )  - iie
+qnrs10
+aac ( 3 )  - iid
+qnrs11
+qnrs12
+erm ( 49 )
+qnrs15
+aac ( 2' )  - iia
+aac ( 6' )  - im
+mycoplasma genitalium parc mutations confers resistance to moxifloxacin
+mycoplasma genitalium gyra mutation confers resistance to fluoroquinolones
+adc - 62
+adc - 67
+adc - 73
+aac ( 6' )  - il
+qnre1
+qnre2
+aac ( 6' )  - iag
+corynebacterium striatum teta
+dfra15b
+aaca43
+dfra3b
+erm ( k )
+dfra6 from proteus mirabilis
+dfri
+aqu - 2
+aqu - 3
+cfr ( b )
+tetu
+lin
+erm ( o )  - lrm
+tetr ( g )
+clostridioides difficile 23s rrna with mutation conferring resistance to erythromycin and clindamycin
+catii from escherichia coli k - 12
+cata4
+cata8
+mef ( en2 )
+catb11
+staphylococcus aureus fosb
+mcr - 3 .3
+fusf
+cmla8
+pexa
+staphylococcus aureus nora
+qnras
+emta
+fosb1
+fosb4
+fosb5
+fosb6
+fosd
+apha15
+rmtd2
+rmte
+rmte2
+aph ( 3' )  - viiia
+clostridioides difficile rpoc with mutation conferring resistance to vancomycin
+aada27
+aads
+mcr - 9 .1
+mcr - 1 .5
+mcr - 1 .7
+mcr - 1 .8
+mcr - 1 .11
+mcr - 1 .12
+mcr - 1 .13
+mcr - 3 .4
+aada10
+mcr - 3 .12
+mcr - 4 .2
+mcr - 4 .3
+mcr - 4 .4
+mcr - 4 .5
+mcr - 5 .2
+sta
+mutation in resistance determinant
+ceftazidime - cloxacillin
+cefepime - cloxacillin
+imipenem - cloxacillin
+aada8b
+ceftazidime - clavulanic acid
+mutation in resistance determinant with plasmid harbouring resistance determinant
+cefoxitin - clavulanate
+cefoxitin - sulbactam
+cefoxitin - tazobactam
+cefotaxime - clavulanic acid
+cefotaxime - tazobactam
+ceftazidime - tazobactam
+aztreonam - clavulanate
+aztreonam - tazobactam
+vga ( e )  staphylococcus cohnii
+vanillobiocin
+isovanillobiocin
+declovanillobiocin
+tet ( x3 )
+tet ( x4 )
+mycobacterium tuberculosis rpsa mutations conferring resistance to pyrazinamide
+pyrazinamide resistant rpsa
+gradient plate method
+ceftolozane - tazobactam
+vancomycin - resistant beta prime subunit of rna polymerase  ( rpoc )
+cefpirome
+cefsulodin
+carumonam
+lys228
+tva ( a )
+zabofloxacin
+finefloxacin
+nemonoxacin
+arl - 1
+arl - 2
+arl - 3
+arl - 4
+arl - 5
+arl - 6
+ast - 1
+ast beta - lactamase
+arl beta - lactamase
+mir - 23
+bat beta - lactamase
+bat - 1
+bcl beta - lactamase
+bcl - 1
+bes beta - lactamase
+bes - 1
+bic beta - lactamase
+bic - 1
+bil beta - lactamase
+bil - 1
+bkc beta - lactamase
+bkc - 1
+bpu beta - lactamase
+bpu - 1
+bro beta - lactamase
+bro - 1
+bro - 2
+cbp beta - lactamase
+cbp - 1
+cga beta - lactamase
+cga - 1
+cia beta - lactamase
+cia - 1
+cia - 2
+cia - 3
+cia - 4
+cko beta - lactamase
+cko - 1
+cme beta - lactamase
+cme - 1
+cmh beta - lactamase
+cmh - 1
+cmy - 135
+des beta - lactamase
+des - 1
+erp beta - lactamase
+erp - 1
+far beta - lactamase
+far - 1
+fim beta - lactamase
+fim - 1
+fona beta - lactamase
+fona - 1
+fona - 2
+fona - 3
+fona - 4
+fona - 5
+fona - 6
+fph beta - lactamase
+fph - 1
+fri beta - lactamase
+fri - 1
+fri - 2
+fri - 3
+ftu beta - lactamase
+ftu - 1
+gob - 10
+gob - 11
+gob - 12
+gob - 13
+gob - 14
+gob - 15
+gob - 16
+gob - 2
+gob - 3
+gob - 4
+gob - 5
+gob - 6
+gob - 7
+gob - 8
+gob - 9
+hera - 2
+hera - 3
+hera - 4
+hera - 5
+hera - 6
+hera - 8
+imp - 52
+lap beta - lactamase
+lap - 1
+lap - 2
+len - 35
+len - 36
+len - 37
+neisseria gonorrhoeae pbp2 conferring resistance to beta - lactam antibiotics
+neisseria gonorrhoeae pbp1 conferring resistance to beta - lactam
+neisseria gonorrhoeae pilq gene conferring resistance to beta - lactam
+neisseria gonorrhoeae 23s rrna with mutation conferring resistance to azithromycin
+oxa - 724
+len - 30
+len - 32
+len - 34
+len - 38
+len - 39
+len - 40
+len - 41
+len - 42
+len - 43
+len - 51
+len - 55
+len - 58
+neisseria gonorrhoeae mtrr with mutation conferring resistance
+syn - 1012
+mycobacterium tuberculosis 16s rrna mutation conferring resistance to capreomycin
+cmy - 136
+sco beta - lactamase
+sco - 1
+zoliflodacin
+neisseria gonorrhoeae gyrb conferring resistance to zoliflodacin
+burkholderia dolosa gyra conferring resistance to fluoroquinolones
+ndm - 18
+ndm - 19
+ndm - 20
+ndm - 21
+ndm - 22
+ndm - 23
+ndm - 24
+ndm - 25
+ndm - 26
+ndm - 27
+ndm - 28
+neisseria gonorrhoeae folp with mutation conferring resistance to sulfonamides
+isoniazid resistant inha
+inha with mutations with conferring resistance to ethionamide
+mycobacterium tuberculosis inha mutations conferring resistance to ethionamide
+antibiotic resistant clpc1
+pyrazinamide resistant clpc1
+antibiotic resistant gpsi
+pyrazinamide resistant gpsi
+antibiotic resistant mas
+pyrazinamide resistant mas
+antibiotic resistant ppsc
+pyrazinamide resistant ppsc
+antibiotic resistant ppsd
+pyrazinamide resistant ppsd
+antibiotic resistant fabg1
+ethionamide resistant fabg1
+antibiotic resistant mshc
+ethionamide resistant mshc
+antibiotic resistant nudc
+ethionamide resistant nudc
+antibiotic resistant ahpc
+isoniazid resistant ahpc
+isoniazid resistant fabg1
+antibiotic resistant fura
+isoniazid resistant fura
+antibiotic resistant inbr
+isoniazid resistant inbr
+antibiotic resistant msha
+isoniazid resistant msha
+antibiotic resistant mshb
+isoniazid resistant mshb
+isoniazid resistant mshc
+antibiotic resistant myma
+isoniazid resistant myma
+antibiotic resistant mmaa3
+isoniazid resistant mmaa3
+antibiotic resistant nat
+isoniazid resistant nat
+isoniazid resistant nudc
+antibiotic resistant sigi
+isoniazid resistant sigi
+fluoroquinolone - resistant esx5 secretion system
+subunits of secretion system conferring antibiotic resistance
+fluoroquinolone resistant eccb5
+mycobacterium tuberculosis eccb5 conferring resistance to fluoroquinolones
+mycobacterium tuberculosis eccc5 conferring resistance to fluoroquinolones
+fluoroquinolone resistant eccc5
+mycobacterium tuberculosis ahpc mutations confer resistance to isoniazid
+mycobacterium tuberculosis fabg1 mutations confer resistance to isoniazid
+mycobacterium tuberculosis fura mutations confer resistance to isoniazid
+mycobacterium tuberculosis inbr mutations conferring resistance to isoniazid
+mycobacterium tuberculosis msha mutations conferring resistance to isoniazid
+mycobacterium tuberculosis mshc mutations conferring resistance to isoniazid
+mycobacterium tuberculosis myma mutations conferring resistance to isoniazid
+mycobacterium tuberculosis mmaa3 mutations conferring resistance to isoniazid
+mycobacterium tuberculosis nat mutations conferring resistance to isoniazid
+mycobacterium tuberculosis nudc mutations conferring resistance to isoniazid
+mycobacterium tuberculosis sigi mutations conferring resistance to isoniazid
+mycobacterium tuberculosis fabg1 mutation conferring resistance to ethionamide
+mycobacterium tuberculosis mshc mutations conferring resistance to ethionamide
+mycobacterium tuberculosis nudc mutations conferring resistance to ethionamide
+23s rrna with mutation conferring resistance to aminoglycoside antibiotics
+mycobacterium tuberculosis 23s rrna mutation conferring resistance to capreomycin
+antibiotic resistant ddla
+cycloserine resistant ddla
+mycobacterium tuberculosis ddla mutations confer resistance to cycloserine
+antibiotic resistant ald
+cycloserine resistant ald
+antibiotic resistant alr
+mycobacterium tuberculosis ald mutations confer resistance to cycloserine
+cycloserine resistant alr
+mycobacterium tuberculosis alr with mutation conferring resistance to cycloserine
+antibiotic resistant ubia
+ethambutol resistant ubia
+mycobacterium tuberculosis ubia mutations confer resistance to ethambutol
+mycobacterium tuberculosis afta mutations confer resistance to ethambutol
+thiacetazone
+antibiotic resistant rv0565c
+ethionamide resistant rv0565c
+mycobacterium tuberculosis rv0565c mutation conferring resistance to ethionamide
+neisseria gonorrhoeae rpld
+mycobacterium tuberculosis clpc1 with mutation conferring resistance to pyrazinamide
+antibiotic resistant pona1
+rifamycin resistant pona1
+mycobacterium tuberculosis pona1 mutations confer resistance to rifabutin
+antibiotic resistant eis
+kanamycin resistant eis
+mycobacterium tuberculosis eis mutations confer resistance to kanamycin
+antibiotic resistant whib7
+streptomycin resistant whib7
+kanamycin resistant whib7
+mycobacterium tuberculosis whib7 mutations confer resistance to kanamycin
+mycobacterium tuberculosis whib7 mutation conferring resistance to streptomycin
+antibiotic resistant tap
+streptomycin resistant tap
+mycobacterium tuberculosis tap mutations confer resistance to streptomycin
+antibiotic resistant ppsa
+pyrazinamide resistant ppsa
+mycobacterium tuberculosis ppsc mutations confer resistance to pyrazinamide
+mycobacterium tuberculosis ppsd mutations confer resistance to pyrazinamide
+mycobacterium tuberculosis gpsi with mutations conferring resistance to pyrazinamide
+mycobacterium tuberculosis mas mutations confer resistance to pyrazinamide
+antibiotic resistant rv0191
+pyrazinamide resistant rv0191
+mycobacterium tuberculosis rv0191 mutations confer resistance to pyrazinamide
+antibiotic resistant rv1667
+pyrazinamide resistant rv1667
+mycobacterium tuberculosis rv1667 mutations confer resistance to pyrazinamide
+antibiotic resistant rv2731
+pyrazinamide resistant rv2731
+mycobacterium tuberculosis rv2731 mutations confer resistance to pyrazinamide
+antibiotic resistant rv3008
+pyrazinamide resistant rv3008
+antibiotic resistant rv3169
+pyrazinamide resistant rv3169
+mycobacterium tuberculosis rv3169 mutations confer resistance to pyrazinamide
+mycobacterium tuberculosis rpoc mutations confer resistance to rifampicin
+rifampicin resistant rpoc
+antibiotic sensitive beta - prime subunit of rna polymerase  ( rpoa )
+antibiotic resistant rpoa
+rifampicin resistant rpoa
+mycobacterium tuberculosis rpoa mutations confer resistance to rifampicin
+zoliflodacin resistant gyrb
+50s rrna with mutation conferring resistance to macrolide antibiotics
+antibiotic resistant polyketide synthase genes
+50s rrna with mutation conferring antibiotic resistance
+neisseria gonorrhoeae mtrc with mutation conferring resistance
+antibiotic - resistant emb arabinosyltransferase
+tet ( 57 )
+qnrvc2
+txr
+qace
+qacedelta1
+idc beta - lactamase
+idc - 1
+idc - 2
+vmb beta - lactamase
+vmb - 1
+cmy - 150
+lmb beta - lactamase
+lmb - 1
+imp - 68
+cfr ( d )  group
+cfr ( d )
+cfr ( e )  group
+cfr ( e )
+fosl1
+atp synthase inhibitor
+venturicidin a
+fri - 4
+fri - 5
+fri - 6
+fri - 7
+fri - 8
+fri - 9
+flc - 1
+yrc beta - lactamase
+yrc - 1
+blmt
+adc - 159
+pdc - 65
+pdc - 55
+yajc
+mlaf
+mlad
+cmla9
+ompa
+sata
+mecc - type methicillin resistance repressor meci
+eptb
+crcb
+intrinsic peptide antibiotic resistant lps
+lpsb
+lpsa
+arnt
+tet ( x6 )
+tet ( x5 )
+mlafedb
+lptd
+oxa - 837
+aac ( 3 )  - ivb
+ant ( 3'' )  - ib
+cprr
+cprs
+cprrs
+parrs
+pars
+parr
+rsma
+complestatin
+corbomycin
+rob - 2
+rob - 3
+rob - 4
+rob - 5
+rob - 6
+rob - 7
+rob - 8
+rob - 9
+rob - 10
+thermus thermophilus ul3 mutations conferring resistance to pleuromutilin antibiotics
+ribosomal protein mutation conferring resistance to pleuromutilin antibiotics
+thermus thermophilus 23s rrna conferring resistance to pleuromutilin antibiotics
+dfra31
+aac ( 3 )  - iig
+target protecting fusb - type protein conferring resistance to fusidic acid
+msrf
+msrh
+mef ( d )
+ranb
+rana
+ranaranb
+oxa - 899
+oxa - 898
+gpc beta - lactamase
+has_part

@@ -1,0 +1,1878 @@
+anatomical entity
+anatomical structure
+portion of organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical line
+anatomical point
+anatomical surface
+anatomical system
+multi - cellular organism
+cell
+cell component
+compound organ component
+simple organ
+compound organ
+male organism
+female organism
+hermaphroditic organism
+asexual organism
+organism subdivision
+acellular anatomical structure
+anatomical cluster
+extraembryonic structure
+tissue
+sequential hermaphroditic organism
+synchronous hermaphroditic organism
+gonochoristic organism
+protandrous hermaphroditic organism
+protogynous hermaphroditic organism
+anatomical group
+multi - tissue structure
+cell space
+portion of cell substance
+single cell organism
+basal lamina
+epithelium
+simple cuboidal epithelium
+simple columnar epithelium
+multilaminar epithelium
+simple squamous epithelium
+atypical epithelium
+cavitated compound organ
+unilaminar epithelium
+solid compound organ
+epithelial cell
+multi - cell - component structure
+neuron projection bundle
+neuron projection bundle segment
+neuron projection bundle subsegment
+native cell
+non - terminally differentiated cell
+chondroblast
+ameloblast
+odontoblast
+cementoblast
+osteoblast
+mesenchymal cell
+osteocyte
+chondrocyte
+odontocyte
+cementocyte
+secretory cell
+mesodermal cell
+migratory neural crest cell
+periarticular chondrocyte
+hypertrophic chondrocyte
+bone cell
+terminally differentiated osteoblast
+non - terminally differentiated osteoblast
+connective tissue cell
+embryonic cell
+preameloblast
+skeletogenic cell
+precementoblast
+preodontoblast
+premigratory neural crest cell
+notochordal cell
+chordamesodermal cell
+notochordal sheath cell
+notochordal vacuole cell
+prechondroblast
+preosteoblast
+non - terminally differentiated odontoblast
+terminally differentiated odontoblast
+ossification
+osteoblast differentiation
+intramembranous ossification
+endochondral ossification
+biological_process
+bone mineralization
+biomineral tissue development
+secretion by cell
+bone mineralization involved in bone maturation
+direct ossification
+perichondral ossification
+metaplastic ossification
+replacement ossification
+ligamentous ossification
+intratendonous ossification
+ossification involved in bone maturation
+bone development
+bone morphogenesis
+endochondral bone morphogenesis
+bone maturation
+quality
+color
+ossified
+cartilaginous
+brachet's cleft
+kupffer's vesicle
+ball
+blood
+brain
+cardiac ventricle
+caudal artery
+central nervous system
+cranial ganglia
+dorsal aorta
+dermopalatine
+epiblast
+epiphysis
+forerunner cell group
+hatching gland
+paired fin skeleton
+heart primordium
+hindbrain
+hypochord
+hypothalamus
+lateral line system
+median fin fold
+myotome somite 14
+neural crest
+otic vesicle
+dorsal actinotrichium
+pharynx
+polster
+prechordal plate
+presumptive neural plate
+proctodeum
+rhombomere 6
+somite 1
+somite 5
+somite 26
+swim bladder
+ventral actinotrichium
+telencephalon
+trigeminal neural crest
+yolk
+apical ectodermal ridge pectoral fin bud
+evl
+ysl
+actinotrichium
+apical ectodermal ridge dorsal fin
+blastomere
+blood island
+gill arch 1 - 5 skeleton
+carotid artery
+cerebellum
+diencephalon
+dorsal fin fold
+supramaxilla
+suprapreopercle
+epidermis
+extension
+eye
+fin
+forebrain
+fourth ventricle
+gut
+head mesenchyme
+heart
+heart rudiment
+hypoblast
+hypophysis
+lens placode
+mandibular lateral line neuromast
+centrum
+antorbital
+midbrain
+neural keel
+neural plate
+neural rod
+notochord
+otic lateral line neuromast
+otic placode
+immature otolith
+pectoral fin bud
+peripheral nervous system
+retinal photoreceptor layer
+retinal pigmented epithelium
+pronephric duct
+pronephros
+retina
+rhombomere 8
+sinus venosus
+somite
+somite 20
+somite 30
+urostyle
+third ventricle
+trigeminal placode
+lateral crista
+anal fin skeleton
+anterior macula
+basisphenoid
+basibranchial bone
+interhyal bone
+bulbus arteriosus
+posterior lateral line nerve
+caudal vein
+cleithrum
+common cardinal vein
+otic region
+ganglion
+dentary
+dorsal hypohyal bone
+dorsal root ganglion
+rhinosphenoid
+habenula
+inner ear
+lateral semicircular canal
+infraorbital 1
+quadrate ventral process
+lateral ethmoid
+mesocoracoid bone
+metapterygoid
+male
+neuromast
+opercle
+adipose fin
+orbitosphenoid
+pectoral fin cartilage
+pelvic fin musculature
+mandibular lateral line
+posterior semicircular canal
+precaudal vertebra
+preopercle
+anal fin proximal radial
+maxilla
+radial
+scale
+segmental plate
+hair cell posterior macula
+subopercle
+preopercle horizontal limb
+sphenoid region
+surface structure
+trigeminal ganglion
+ventral hypohyal bone
+female
+vomer
+e - ysl
+anterior semicircular canal
+basihyal bone
+postcranial axial skeleton
+mesethmoid bone
+caudal vertebra
+chorion
+coracoid
+preopercle vertical limb
+basioccipital posterodorsal region
+middle lateral line
+exoccipital posteroventral region
+epipleural
+olfactory region
+gill raker
+hypobranchial bone
+hypural
+nasal bone
+joint
+integument
+dorsal fin actinotrichium
+anal fin actinotrichium
+infraorbital
+macula
+mesenchyme
+nervous system
+occipital lateral line
+ovary
+pectoral girdle
+postcleithrum
+gonad
+pterosphenoid
+retroarticular
+opercular lateral line
+anterior lateral line nerve
+scaphium
+semicircular canal
+skeletal system
+cranial nerve ii
+caudal fin actinotrichium
+parhypural
+supraneural bone
+supraorbital lateral line
+optic tectum
+urohyal
+adipose fin actinotrichium
+weberian ossicle
+otic lateral line
+anguloarticular
+preoptic area
+atrium
+basioccipital
+intercalar
+branchiostegal ray
+posterior cardinal vein
+parietal bone
+ceratobranchial bone
+infraorbital 5
+epineural
+pelvic fin radial
+frontal bone
+hemal arch
+infraorbital lateral line
+intercalarium
+intermuscular bone
+pharyngobranchial bone
+rib
+marginal blastomere
+pectoral fin actinotrichium
+posttemporal
+olfactory epithelium
+preural 1 vertebra
+posterior macula
+parasphenoid
+pelvic girdle
+posterior crista
+premaxilla
+prootic
+pterotic
+anterior ceratohyal
+scapula
+kinethmoid cartilage
+preural 2 vertebra
+sphenotic
+statoacoustic  ( viii )  ganglion
+supracleithrum
+supraoccipital
+pelvic fin actinotrichium
+testis
+uroneural
+ventral aorta
+vertical myoseptum
+protractor hyoidei
+anterior crista
+autopalatine
+quadrate
+barbel
+basipterygium
+posterior ceratohyal
+claustrum cartilage
+cranial nerve
+anal fin distal radial
+ectopterygoid
+entopterygoid
+epibranchial bone
+epural
+exoccipital
+extrascapula
+gill filament
+head kidney
+horizontal myoseptum
+hyomandibula
+hypobranchial artery
+interopercle
+hair cell anterior macula
+neural postzygapophysis
+supraorbital bone
+symplectic
+ceratobranchial 5 tooth
+tripus
+entopterygoid vertical strut
+posterior intestine
+del
+i - ysl
+abducens motor nucleus
+apical ectodermal ridge median fin fold
+epaxial region somite 27
+somite 11
+somite 14
+somite 17
+somite 2
+epaxial region somite 3
+somite 23
+somite 27
+somite 3
+somite 7
+preural vertebra
+hemal postzygapophysis
+cranium
+epaxial region somite 11
+epaxial region somite 5
+epaxial region somite 14
+epaxial region somite 17
+epaxial region somite 2
+epaxial region somite 22
+epaxial region somite 25
+epaxial region somite 28
+epaxial region somite 30
+epaxial region somite 6
+epaxial region somite 9
+epaxial region somite 8
+facio - acoustic neural crest
+hypaxial region somite 11
+hypaxial region somite 14
+hypaxial region somite 17
+hypaxial region somite 2
+hypaxial region somite 22
+hypaxial region somite 25
+hypaxial region somite 28
+hypaxial region somite 30
+hypaxial region somite 6
+hypaxial region somite 9
+mesoderm pectoral fin bud
+myotome somite 11
+myotome somite 15
+myotome somite 18
+myotome somite 20
+myotome somite 23
+myotome somite 26
+myotome somite 29
+myotome somite 4
+myotome somite 7
+neural crest telencephalon
+infraorbital lateral line neuromast
+opercular lateral line neuromast
+vagal neural crest
+rhombomere 2
+rhombomere 5
+sclerotome somite 11
+sclerotome somite 14
+sclerotome somite 17
+sclerotome somite 2
+sclerotome somite 22
+sclerotome somite 25
+sclerotome somite 28
+sclerotome somite 30
+sclerotome somite 6
+sclerotome somite 9
+somite 12
+somite 15
+somite 18
+somite 21
+somite 24
+somite 28
+somite 4
+somite 8
+caudal fin skeleton
+dermatocranium
+epaxial region somite 1
+epaxial region somite 12
+epaxial region somite 15
+epaxial region somite 18
+epaxial region somite 20
+epaxial region somite 23
+epaxial region somite 26
+epaxial region somite 29
+epaxial region somite 4
+epaxial region somite 7
+facial neural crest
+hypaxial region somite 1
+hypaxial region somite 12
+hypaxial region somite 15
+hypaxial region somite 18
+hypaxial region somite 20
+hypaxial region somite 23
+hypaxial region somite 26
+hypaxial region somite 29
+hypaxial region somite 4
+hypaxial region somite 7
+transverse process of neural arch 3
+myotome somite 1
+hypaxial region somite 10
+myotome somite 12
+myotome somite 16
+myotome somite 19
+myotome somite 21
+myotome somite 24
+myotome somite 27
+myotome somite 3
+myotome somite 5
+myotome somite 8
+dorsal fin distal radial
+hypaxial region somite 13
+middle lateral line neuromast
+posterior lateral line neuromast
+pectoral fin skeleton
+posterior lateral line
+hypaxial region somite 16
+dorsal fin proximal radial
+rhombomere 3
+rhombomere 7
+sclerotome somite 1
+sclerotome somite 12
+sclerotome somite 15
+sclerotome somite 18
+sclerotome somite 20
+hypaxial region somite 19
+sclerotome somite 23
+sclerotome somite 26
+sclerotome somite 29
+sclerotome somite 4
+sclerotome somite 7
+hypaxial region somite 21
+somite 10
+somite 13
+somite 16
+somite 19
+somite 22
+hypaxial region somite 24
+somite 25
+somite 29
+somite 6
+somite 9
+hypaxial region somite 27
+hypaxial region somite 3
+hypaxial region somite 5
+hypaxial region somite 8
+epaxial region somite 10
+mesenchyme pectoral fin
+epaxial region somite 13
+epaxial region somite 16
+myotome somite 10
+myotome somite 13
+myotome somite 17
+myotome somite 2
+myotome somite 22
+myotome somite 25
+myotome somite 28
+myotome somite 30
+myotome somite 6
+myotome somite 9
+epaxial region somite 19
+occipital lateral line neuromast
+supraorbital lateral line neuromast
+hypurapophysis
+epaxial region somite 21
+rhombomere 1
+rhombomere 4
+sclerotome somite 10
+sclerotome somite 13
+sclerotome somite 16
+sclerotome somite 19
+epaxial region somite 24
+sclerotome somite 21
+sclerotome somite 24
+sclerotome somite 27
+sclerotome somite 3
+sclerotome somite 5
+sclerotome somite 8
+primordial hindbrain channel
+lateral dorsal aorta
+myotome
+intersegmental vein
+caudal fin
+basidorsal
+primitive mesencephalic artery
+rhombomere
+neural arch
+mesencephalic artery
+intestinal bulb
+thymus primordium
+chordo neural hinge
+unspecified
+body
+hepatic duct
+embryonic structure
+pharyngeal pouch
+ovarian follicle
+head
+trunk
+post - vent region
+urogenital papilla
+dermis
+median fin skeleton
+dorsal fin skeleton
+organizer inducing center
+noninvoluting endocytic marginal cell cluster
+hypodermis
+ventral tooth row
+mediodorsal tooth row
+dorsal tooth row
+tooth 1v
+tooth 5v
+tooth 4v
+tooth 2v
+tooth 3v
+tooth 1md
+tooth 2md
+tooth 1d
+tooth 2d
+tooth 4md
+tooth 3md
+tooth placode
+posterior lateral line primordium
+dorsal scute
+pectoral fin
+anal fin
+vertebra 1
+vertebra 2
+vertebra 3
+vertebra 4
+os suspensorium
+roofing cartilage
+dorsal fin
+pharyngeal epithelium
+dermal deep region
+pelvic fin
+periderm
+collagenous dermal stroma
+weberian apparatus
+vertebra
+weberian vertebra
+supraneural 2 bone
+supraneural 3 bone
+cranial neural crest
+infundibulum
+corpuscles of stannius
+meckel's cartilage
+splanchnocranium
+copula
+anterior copula
+posterior copula
+basibranchial 1 bone
+basibranchial 2 bone
+basibranchial 3 bone
+basibranchial 4 bone
+mandibular arch
+hypobranchial 1 bone
+hypobranchial 4 bone
+hypobranchial 3 bone
+hypobranchial 2 bone
+ceratobranchial 1 bone
+ceratobranchial 5 bone
+ceratobranchial 4 bone
+ceratobranchial 3 bone
+ceratobranchial 2 bone
+epibranchial 1 bone
+epibranchial 5 cartilage
+epibranchial 4 bone
+epibranchial 2 bone
+epibranchial 3 bone
+exocrine pancreas
+pharyngobranchial 2 bone
+pharyngobranchial 4 cartilage
+pharyngobranchial 3 bone
+neural arch 2
+medial floor plate
+endocrine pancreas
+gonad primordium
+ovarian follicle stage i
+ovarian follicle stage iv
+ovarian follicle stage ii
+ovarian follicle stage iii
+palatoquadrate arch
+ventral mandibular arch
+coronomeckelian
+sublingual
+anterior chamber swim bladder
+posterior chamber swim bladder
+branchiostegal ray 1
+branchiostegal ray 3
+branchiostegal ray 2
+adenohypophysis
+ciliary marginal zone
+stomodeum
+epiphyseal stalk
+posterior lateral line ganglion
+endocardial cushion
+cardiac jelly
+endocardium
+dorsoventral diencephalic tract
+mid intestine
+neural prezygapophysis
+neuromere
+retinal inner plexiform layer
+retinal outer plexiform layer
+sublingual dorsal and ventral fused
+supradorsal
+neural spine
+nucleus of the tract of the anterior commissure
+nucleus of the tract of the postoptic commissure
+intervening zone
+zona limitans intrathalamica
+interrenal gland
+terminal nerve
+parapineal organ
+basiventral
+parapophysis
+neural complex
+hemal spine
+forebrain midbrain boundary
+migratory slow muscle precursor cell
+hypohyal bone
+epibranchial bone uncinate process
+pelvic fin bud
+apical ectodermal ridge pelvic fin bud
+mesoderm pelvic fin bud
+pelvic fin skeleton
+anterior lateral line ganglia
+parapophysis 1
+parapophysis 2
+neural arch 3
+neural arch 4
+parapophysis  +  rib of vertebra 4
+post - weberian supraneural
+ceratohyal cartilage
+supraethmoid
+preethmoid bone
+ethmoid cartilage
+kinethmoid bone
+infraorbital 2
+infraorbital 3
+infraorbital 4
+orbital region
+sclerotic bone
+epiotic
+occipital region
+dorsal fin lepidotrichium
+dorsal fin pterygiophore
+anal fin pterygiophore
+anal fin lepidotrichium
+hyosymplectic cartilage
+parachordal cartilage
+chondrocranium
+pneumatic duct
+anterior sclerotic bone
+posterior sclerotic bone
+ductus communicans
+rhombic lip
+lower rhombic lip
+upper rhombic lip
+choroid plexus
+apical ectodermal ridge pelvic fin
+zone of polarizing activity pectoral fin bud
+zone of polarizing activity pelvic fin bud
+pectoral fin field
+pelvic fin field
+scapulocoracoid cartilage
+pectoral fin endoskeletal disc
+postcranial axial cartilage
+cranial cartilage
+pelvic fin cartilage
+retinal outer nuclear layer
+anterior lateral line system
+lateral line
+anterior lateral line
+posterior lateral line system
+anterior lateral line neuromast
+deep blastomere
+sublingual dorsal and ventral separate
+sublingual dorsal ossification
+sublingual ventral ossification
+portion of tissue
+lateral line nerve
+dorsal anterior lateral line nerve
+ventral anterior lateral line nerve
+middle lateral line nerve
+middle lateral line ganglion
+superficial blastomere
+esophageal epithelium
+auditory capsule
+cartilage
+epiphyseal bar
+lamina orbitonasalis
+occipital arch cartilage
+taenia marginalis anterior
+tectum synoticum
+trabecula cranii
+trabecula communis
+sclerotic cartilage
+basihyal cartilage
+interhyal cartilage
+dermomyotome
+bone
+taenia marginalis posterior
+ceratobranchial cartilage
+ceratobranchial 2 cartilage
+ceratobranchial 3 cartilage
+ceratobranchial 4 cartilage
+ceratobranchial 1 cartilage
+ceratobranchial 5 cartilage
+hypobranchial cartilage
+hypobranchial 4 cartilage
+hypobranchial 1 cartilage
+hypobranchial 2 cartilage
+hypobranchial 3 cartilage
+epibranchial cartilage
+epibranchial 1 cartilage
+epibranchial 3 cartilage
+epibranchial 2 cartilage
+epibranchial 4 cartilage
+sublingual dorsal cartilage
+pharyngobranchial cartilage
+pharyngobranchial 3 cartilage
+pharyngobranchial 2 cartilage
+mesocoracoid cartilage
+pelvic radial cartilage
+basipterygium cartilage
+pelvic radial 3 cartilage
+pelvic radial 2 cartilage
+pelvic radial 1 cartilage
+paired fin cartilage
+sublingual cartilage
+sublingual ventral cartilage
+neural spine 4
+abdominal scute
+caudal fin lepidotrichium
+pectoral fin lepidotrichium
+pelvic fin lepidotrichium
+lepidotrichium
+epibranchial ganglion
+sympathetic chain ganglion
+pronephric glomerulus
+pronephric tubule
+superior cervical ganglion
+trunk ganglion
+premaxilla ascending process
+anterior dorsomedial process of autopalatine
+ural vertebra 2
+neurocranium
+ural centrum 2
+preural centrum 1 +  ural centrum 1
+caudal procurrent ray
+caudal principal ray
+pectoral fin radial
+pectoral fin proximal radial
+pectoral fin distal radial
+propterygium
+dermal bone
+endochondral bone
+claustrum bone
+caudal fin upper lobe
+caudal fin lower lobe
+maxilla ascending process
+lateral ethmoid palatine process
+caudal scute
+basipterygoid process of parasphenoid
+autopalatine - lateral ethmoid joint
+pharyngobranchial 2 bone uncinate process
+quadrate dorsal process
+quadrate posterodorsal process
+sensory canal
+dorsal fin middle radial
+anal fin middle radial
+sphenotic spine
+lateral ethmoid wing
+trunk sensory canal
+post - otic sensory canal
+lagenar capsule
+otolith
+odontode
+type 1 odontode
+type 2 odontode
+premaxillary tooth
+maxillary tooth
+dentary tooth
+otic sensory canal
+supratemporal sensory canal
+vomerine tooth
+ectopterygoid tooth
+entopterygoid tooth
+pharyngobranchial 1 cartilage
+pharyngobranchial 1 bone
+pharyngobranchial 4 bone
+replacement bone
+perichondral bone
+perichordal bone
+notochordal ossification
+portion of connective tissue
+perichordal connective tissue
+perichondrium
+intramembranous bone
+membrane bone
+pharyngeal tooth plate
+basihyal tooth plate
+basihyal tooth
+pharyngobranchial 2 tooth plate
+pharyngobranchial 2 tooth
+pharyngobranchial 3 tooth plate
+pharyngobranchial 3 tooth
+upper pharyngeal 4 tooth plate
+upper pharyngeal 4 tooth
+upper pharyngeal 5 tooth plate
+upper pharyngeal 5 tooth
+upper pharyngeal tooth plate
+upper pharyngeal tooth
+basibranchial tooth
+basibranchial tooth plate
+basibranchial 4 tooth plate
+basibranchial 4 tooth
+basibranchial 2 tooth plate
+basibranchial 2 tooth
+rudimentary neural arch
+tooth row
+angular bone
+anal fin radial
+dorsal fin radial
+infraorbital 6
+mesethmoid cornu
+mesethmoid - premaxillary joint
+mesethmoid - nasal joint
+mesethmoid - frontal joint
+mesethmoid - lateral ethmoid joint
+mesethmoid - vomer joint
+cornu mesial process
+ligament
+transcapular ligament
+ossified transcapular ligament
+lateral ethmoid - ectopterygoid ligament
+bony shelf above orbit
+interopercular - mandibular ligament
+palatine cartilage
+pterygoquadrate cartilage
+anterior cartilage of palatine
+posterior cartilage of palatine
+median premaxilla
+protractor operculi
+humerovertebral ligament
+mediopharyngobranchial
+gongyloid cartilage
+transverse radial
+anal - fin stay
+dorsal - fin stay
+caudal - fin stay
+basibranchial 5 bone
+infraorbital 7
+infraorbital 8
+infraorbital 9
+infraorbital 10
+infraorbital 11
+infraorbital 12
+dermosphenotic
+infraorbital series
+opercle - interopercle joint
+frontal - pterotic joint
+snout
+caudal principal ray 1
+caudal principal ray 2
+caudal principal ray 3
+caudal principal ray 4
+caudal principal ray 5
+caudal principal ray 6
+caudal principal ray 7
+caudal principal ray 8
+caudal principal ray 9
+caudal principal ray 10
+caudal principal ray 11
+caudal principal ray 12
+caudal principal ray 13
+caudal principal ray 14
+caudal principal ray 15
+caudal principal ray 16
+caudal principal ray 17
+caudal principal ray 18
+caudal principal ray 19
+vertebra 5
+mesethmoid ventral diverging lamella
+posterior process of basipterygium
+scapular foramen
+foramen
+coracoid foramen
+fontanel
+anterior cranial fontanel
+posterior cranial fontanel
+trigeminofacial foramen
+auditory foramen
+fossa
+replacement tooth trench
+premaxilla replacement tooth trench
+dentary replacement tooth trench
+lateral mesethmoid wing
+superficial ophthalmic nerve foramen
+dentary - anguloarticular joint
+rib of vertebra 6
+rib of vertebra 5
+pre - narial cartilage
+posttemporal fossa
+pectoral fin lepidotrichium 1
+pectoral fin lepidotrichium 2
+pectoral fin lepidotrichium 3
+pectoral fin lepidotrichium 4
+pectoral fin lepidotrichium 5
+pectoral fin lepidotrichium 6
+pectoral fin lepidotrichium 7
+retractor tentaculi
+supraoccipital crest
+autopalatine - vomer joint
+pectoral fin spine
+pelvic splint
+dorsal fin spine 1
+dorsal fin spine 2
+pore
+pharyngobranchial 3 bone uncinate process
+pharyngobranchial 4 bone uncinate process
+orbitosphenoid - prootic joint
+ceratohyal foramen
+epibranchial 2 bone uncinate process
+epibranchial 1 bone uncinate process
+epicentral
+recessus lateralis
+cephalic rib
+quadrate - hyomandibula joint
+quadrate - anguloarticular joint
+quadrate - metapterygoid joint
+olfactory nerve foramen
+articular bone
+intracranial diverticulum of swimbladder
+preepiotic fossa
+facial foramen
+trigeminal foramen
+supraorbital sensory canal
+infraorbital sensory canal
+preoperculo - mandibular sensory canal
+preopercular sensory canal
+mandibular sensory canal
+nuchal plate
+anterior nuchal plate
+middle nuchal plate
+posterior nuchal plate
+notochord posterior region
+epibranchial 3 bone uncinate process
+epibranchial 4 bone uncinate process
+lateral line scale
+urohyal lateral process
+urohyal median process
+premaxillary - maxillary ligament
+primordial ligament
+caudal fin dorsal procurrent ray
+caudal fin ventral procurrent ray
+pterosphenoid - orbitosphenoid joint
+parasphenoid - basioccipital joint
+premaxillary tooth row
+process
+tip
+interhyal - epihyal joint
+epihyal - ceratohyal joint
+ceratohyal - dorsal hypohyal joint
+ceratohyal - ventral hypohyal joint
+dorsal hypohyal - ventral hypohyal joint
+inter - ventral hypohyal joint
+dorsal hypohyal - urohyal joint
+ventral hypohyal - urohyal joint
+epihyal - branchiostegal ray joint
+ceratohyal - branchiostegal ray joint
+mandibular symphysis
+postcleithrum 1
+postcleithrum 2
+postcleithrum 3
+hyomandibular condyle for the opercle
+gill ray
+hyoidean artery
+suprapharyngobranchial
+pharyngobranchial 1 tooth plate
+epibranchial 4 - upper pharyngeal toothplate joint
+epibranchial 3 - pharyngobranchial 3 joint
+epibranchial 3 - pharyngobranchial 4 joint
+inter - hypobranchial 3 joint
+basibranchial 1 cartilage
+basibranchial 4 cartilage
+basibranchial 5 cartilage
+post - ceratobranchial cartilage
+hypohyal cartilage
+supraneural 2 cartilage
+supraneural 3 cartilage
+weberian ossicle set
+trunk sensory canal system
+head sensory canal system
+basibranchial 2 cartilage
+basibranchial 3 cartilage
+neural arch 1
+rib of vertebra 2
+rib of vertebra 1
+rib of vertebra 3
+rib of vertebra 4
+accessory neural arch
+neural spine 1
+neural spine 2
+neural spine 3
+supraneural 1 bone
+supraneural 1 cartilage
+skeletal element
+basihyal element
+interhyal element
+hypobranchial element
+hypobranchial 1 element
+hypobranchial 2 element
+hypobranchial 3 element
+hypobranchial 4 element
+ceratobranchial element
+epibranchial element
+pharyngobranchial element
+pharyngobranchial 1 element
+pharyngobranchial 2 element
+pharyngobranchial 3 element
+pharyngobranchial 4 element
+basibranchial element
+basibranchial 1 element
+basibranchial 2 element
+basibranchial 3 element
+basibranchial 4 element
+basibranchial 5 element
+pseudotympanum
+adipose eyelid
+inter - frontal joint
+aortic canal
+occipital artery foramen
+spiracular canal
+posterior myodome
+anterior myodome
+articular fossa of opercle
+epioccipital posterior process
+accessory vomerine tooth plate
+infranuchal scute
+sensory canal tubular ossicle
+sensory canal tubule
+rostral plate
+oral disk
+posterior nasal barbel
+anterior nasal barbel
+maxillary barbel
+inter - basipterygium joint
+vertebra 4 - vertebra 5 joint
+orbitosphenoid - lateral ethmoid joint
+autopalatine - maxillary joint
+metapterygoid - autopalatine ligament
+lateral ethmoid - autopalatine ligament
+mesethmoid - premaxillary ligament
+mesethmoid - maxillary ligament
+hyomandibular - otic region joint
+anal - fin hook
+caudal - fin hook
+inter - premaxillary joint
+skin flap
+dentary tooth row
+epibranchial 1 bone proximal cartilage
+epibranchial 2 bone proximal cartilage
+ceratobranchial 3 bone distal cartilage
+ceratobranchial 4 bone proximal cartilage
+ceratobranchial 4 bone distal cartilage
+ceratobranchial 5 bone distal cartilage
+hypobranchial 1 bone distal cartilage
+hypobranchial 2 bone distal cartilage
+epibranchial 3 bone uncinate process cartilage
+epibranchial 4 bone uncinate process cartilage
+orbit
+outer mental barbel
+inner mental barbel
+upper lip
+parapophysis 4
+intercostal ligament
+tooth cusp
+interorbital septum
+pad
+maxillary tooth row
+hyomandibula - metapterygoid joint
+vertebra 6
+vertebra 7
+vertebra 8
+centrum 1
+centrum 2
+centrum 3
+centrum 4
+centrum 5
+centrum 6
+mandibular - hyoid median cartilage
+epibranchial arborescent organ
+lateral bone
+branched anal fin ray
+branched pectoral fin ray
+gill raker row
+papilla
+parietal - supraoccipital
+posttemporal - supracleithrum
+posterior cleithral process
+posterior dentation of pectoral fin spine
+anterior dentation of pectoral fin spine
+anterior distal serration of pectoral fin spine
+posterior dentation of dorsal fin spine 2
+anterior dentation of dorsal fin spine 2
+canal plate
+axillary pore
+supraneural 4 bone
+neural lamina
+medial cartilage of palatine
+hyoideomandibular nerve
+lateral fontanel of frontal
+dentary foramen
+ascending limb of ceratobranchial 5 bone
+ascending limb of ceratobranchial 5 cartilage
+pharyngobranchial tooth plate
+pharyngobranchial 4 tooth plate
+anterior limb of ceratobranchial 5 bone
+anterior limb of ceratobranchial 5 cartilage
+pterotic - posttemporal - supracleithrum
+hypomaxilla
+ascending process of the parasphenoid
+dermethmoid
+second preethmoid
+mental barbel
+optic foramen
+pectoral fin proximal radial 1
+pectoral fin proximal radial 2
+pectoral fin proximal radial 3
+pectoral fin proximal radial 4
+ventral keel of coracoid
+orbital foramen
+lateral ethmoid - frontal joint
+prootic - pterosphenoid joint
+prootic - exoccipital joint
+nasal capsule
+intromittent organ
+electric organ
+basioccipital - exoccipital joint
+dilatator fossa
+inter - coracoid joint
+parapophysis 6
+parapophysis 5
+posterior limb of parapophysis 4
+anterior limb of parapophysis 4
+foramen magnum
+adult
+juvenile
+larva
+alarm substance cell
+circulus
+prootic depression
+bony plate
+vertebra 5 - vertebra 6 joint
+vertebra 6  -  vertebra 7 joint
+gill opening
+weberian complex centrum
+lower lip
+predorsal vertebra
+branched caudal fin ray
+nuchal plate series
+uroneural 1
+ural centrum 1
+auditory fenestra
+upper hypural set
+lower hypural set
+distal cartilage of posterior process of basipterygium
+internal anterior process of basipterygium
+distal cartilage of internal anterior process of basipterygium
+middle anterior process of basipterygium
+distal cartilage of middle anterior process of basipterygium
+external anterior process of basipterygium
+distal cartilage of external anterior process of basipterygium
+lateral process of basipterygium
+lateropterygium
+hypural plate
+leptocephalous larva
+spina occipitalis
+basal fulcrum
+fringing fulcrum
+pleurostyle
+ural centrum
+pelvic axillary process
+pectoral axillary process
+interhaemal bone
+gular plate
+median caudal cartilage
+rostral cartilage
+palate
+dorsal fin pterygiophore 1
+bony plate series
+sensory canal pore series
+lateral line scale series
+rib series
+branchiostegal ray series
+epibranchial series
+ceratobranchial series
+ampullary organ
+electrosensory lateral line lobe
+eminentia granularis
+medullary command nucleus
+buccal papilla
+cheek
+cotylephore
+ovipositor
+pouch scale
+nuptial tubercle
+caudal - fin organ
+caudal - fin ray pump
+myorhabdoid bone
+caudal rod
+caudal appendage
+horizontal septum
+dorsal organ
+adipose tissue
+abductor muscle
+adductor muscle
+arteriole
+annular ligament
+white matter
+anterior catecholaminergic tract
+anterior swim bladder bud
+apical ectodermal ridge
+xanthoblast
+vertebra 9
+vertebra 10
+vertebra 11
+vertebra 12
+nephron
+opercular cavity
+bowman's layer
+brainstem
+descemet's membrane
+palatine
+caudal basal fulcrum
+ural centrum 3
+ural centrum 4
+ural vertebra
+ural vertebra 1
+caudal principal ray set
+caudal procurrent ray set
+pseudourostyle
+stegural
+preural centrum 1  +  ural centrum 1  +  ural centrum 2
+peripheral nucleus of ventral telencephalon
+central nucleus of ventral telencephalon
+cephalic flexure
+cerebellar granule cell
+cerebellar white matter
+cerebral spinal fluid
+climbing fiber
+corneal epithelium
+corneal primordium
+corneal stroma
+dorsolateral motor nucleus of vagal nerve
+dorsolateral septum
+endolymphatic duct
+epidermal placode
+floor plate midbrain region
+grey matter
+head muscle
+hindbrain commissure
+hypobranchial muscle
+immature eye
+intermediate nucleus
+lateral nucleus of ventral telencephalon
+lens vesicle
+mesonephric podocyte
+olfactory granule cell
+optic nerve head
+pericardial cavity
+preglomerular nucleus
+presumptive atrioventricular canal
+presumptive bulbus arteriosus
+presumptive cardiac ventricle heart tube
+presumptive endocardium
+presumptive sinus venosus
+pronephric podocyte
+tunica externa
+tunica interna
+ventricular endocardium
+chin
+ocular side
+blind side
+condyle
+premaxillary - maxillary joint
+interarcual cartilage
+ctenoid scale
+transforming ctenoid scale
+jakubowski's organ
+median fin
+paired fin
+preopercle - opercle joint
+body marking
+cycloid scale
+gular region
+surangular
+aqueous humor
+sclera
+vitreous
+fulcrum
+epaxial basal fulcrum
+hypaxial basal fulcrum
+scute
+posterior communicating artery
+aortic arch 3
+aortic arch 4
+aortic arch 5
+mid cerebral vein
+pseudobranchial artery
+concurrent branch afferent branchial artery
+recurrent branch afferent branchial artery
+aortic arch 6
+primordial midbrain channel
+central artery
+cerebellar central artery
+opercular artery
+dorsal longitudinal anastomotic vessel
+primary head sinus
+posterior cerebral vein
+ventral wall of dorsal aorta
+rostral blood island
+dorsal longitudinal vein
+optic vein
+parachordal vessel
+supraintestinal artery
+nevi
+optic artery
+hyaloid artery
+hyaloid vein
+primitive prosencephalic artery
+prosencephalic artery
+palatocerebral artery
+communicating vessel palatocerebral artery
+anterior mesencephalic central artery
+median palatocerebral vein
+palatocerebral vein
+epicardium
+ventricular epicardium
+trabecular layer
+ventricular myocardium
+compact layer of ventricle
+atrioventricular valve
+bulbus arteriosus outer layer
+bulbus arteriosus middle layer
+bulbus arteriosus inner layer
+central cardiac conduction system
+peripheral cardiac conduction system
+middle mesencephalic central artery
+posterior mesencephalic central artery
+anterior mesenteric artery
+metencephalic artery
+nasal artery
+pectoral artery
+posterior mesenteric artery
+swim bladder artery
+hepatic sinusoid
+choroidal vascular plexus
+central ray artery
+ray vein
+intervessel commissure
+interray vessel
+lymph vessel
+dorsal lateral line
+dorsal lateral line neuromast
+primary posterior lateral line primordium
+secondary posterior lateral line primordium
+anterior lateral line primordium
+middle lateral line primordium
+barbel primordium
+peritoneum
+gut epithelium
+intestinal epithelium
+intestinal villus
+intestinal bulb epithelium
+mid intestine epithelium
+posterior intestine epithelium
+mesentery
+dorsal mesentery
+parietal peritoneum
+visceral peritoneum
+ventral mesentery
+dental epithelium
+primary dental epithelium
+inner dental epithelium
+outer dental epithelium
+dental organ
+dental mesenchyme
+dental papilla
+tooth pulp
+enameloid
+dentine
+ampullary nerve
+muscle
+area postrema
+regenerating tissue
+apical epidermal cap
+distal epidermal cap
+basal regeneration epithelium
+gold iridophore
+silver iridophore
+synovial joint
+synovial fluid
+fibrous joint
+tela chorioidea tectal ventricle
+tela chorioidea fourth ventricle
+tela chorioidea third ventricle
+tela chorioidea telencephalic ventricle
+hepatic artery
+common bile duct
+cystic duct
+hepatopancreatic ampulla
+central vein
+intrahepatic bile duct
+extrahepatic duct
+left liver lobe
+right liver lobe
+ventral liver lobe
+copa
+cosa
+cob
+midbrain interneuron
+cav
+choroid plexus vascular circuit
+median fin radial
+cobl
+cid
+cola
+kolmer - agduhr neuron
+multiciliated epithelial cell
+single ciliated epithelial cell
+inter - parietal joint
+regeneration fibroblast
+cia
+lymphatic capillary
+renal glomerular capsule epithelium
+intervillus pockets
+lymph vessel endothelium
+continuous blood vessel endothelium
+fenestrated blood vessel endothelium
+sinusoidal blood vessel endothelium
+hyomandibula - opercle joint
+pterotic fossa
+erector muscle
+preopercle horizontal limb - symplectic joint
+hypophyseal fenestra
+depressor muscle
+flexor muscle
+immature gonad
+intestinal mucosal muscle
+smooth muscle
+hyomandibular foramen
+skeletal muscle
+preopercle vertical limb - hyomandibula joint
+enteric circular muscle
+renal corpuscle
+renal capsular space
+glomerular capillary
+glomerular basement membrane
+lamina densa
+lamina rara interna
+lamina rara externa
+proximal convoluted tubule
+proximal straight tubule
+distal late tubule
+distal early tubule
+collecting duct
+cranial blood vessel
+pronephric glomerular capsule epithelium
+pronephric capsular space
+venule
+fin fold pectoral fin bud
+pectoral fin fold
+renal principal cell
+ionocyte
+gill ionocyte
+integument ionocyte
+nak ionocyte
+vh ionocyte
+iridoblast
+leucoblast
+pigment erythroblast
+cyanoblast
+lip epithelium
+posterior recess
+endohypothalamic tract
+extrapancreatic duct
+pars superior ear
+pars inferior ear
+transverse canal
+inner ear foramen
+serous membrane
+intermediate hypothalamus
+dorso - rostral cluster
+ventro - rostral cluster
+ventro - caudal cluster
+epiphysial cluster
+hemal prezygapophysis
+lip
+pallium
+nerve
+eminentia thalami
+vagal root
+preplacodal ectoderm
+hyohyoideus
+dorsal adductor hyomandibulae
+roof plate
+neural crest hindbrain
+hyoid neural crest
+glossopharyngeal neural crest
+spermatocyte
+sperm
+spermatogonium
+hematopoietic stem cell
+erythroid progenitor cell
+monoblast
+neutrophilic myeloblast
+multi fate stem cell
+common myeloid progenitor
+megakaryocyte erythroid progenitor cell
+common lymphocyte progenitor
+totipotent stem cell
+myoblast
+fibroblast
+ependymal cell
+circulating cell
+blood cell
+t cell
+osteoclast
+granulocyte
+mature neutrophil
+interneuron
+motor neuron
+bipolar neuron
+mononuclear phagocyte
+purkinje cell
+glial cell
+astrocyte
+oligodendrocyte
+microglial cell
+corneal endothelial cell
+fat cell
+professional antigen presenting cell
+melanocyte
+exocrine cell
+goblet cell
+endocrine cell
+neuroendocrine cell
+chromaffin cell
+hepatocyte
+pericyte
+muscle cell
+smooth muscle cell
+pain receptor cell
+mechanoreceptor cell
+thermoreceptor cell
+chemoreceptor cell
+photoreceptor cell
+electrically active cell
+absorptive cell
+lining cell
+barrier cell
+sertoli cell
+schwann cell
+motile cell
+ectodermal cell
+endodermal cell
+phagocyte
+macrophage
+b cell
+merkel cell
+glial cell  ( sensu vertebrata )
+somatotropin secreting cell
+keratinocyte
+neural crest cell
+blastoderm cell
+gastrula cell
+epidermal cell
+electrically responsive cell
+electrically signaling cell
+xanthophore
+iridophore
+prolactin secreting cell
+melanocyte stimulating hormone secreting cell
+dendritic cell
+adrenocorticotropic hormone secreting cell
+thyroid stimulating hormone secreting cell
+stromal cell
+granulosa cell
+d cell
+theca cell
+cardiac muscle myoblast
+smooth muscle myoblast
+skeletal muscle myoblast
+perineuronal satellite cell
+afferent neuron
+efferent neuron
+nitrergic neuron
+neuron
+melanoblast
+lymphocyte
+granulocyte monocyte progenitor cell
+reticulocyte
+promonocyte
+band form neutrophil
+amacrine cell
+nucleate erythrocyte
+neutrophilic promyelocyte
+leucophore
+retinal cone cell
+erythrophore
+monocyte
+neutrophilic myelocyte
+peritoneal macrophage
+neutrophilic metamyelocyte
+odontoclast
+skeletal muscle satellite cell
+pyramidal cell
+pressoreceptor cell
+retinal rod cell
+natural killer cell
+folliculostellate cell
+gut absorptive cell
+radial glial cell
+m cell
+ependymoglial cell
+perijunctional fibroblast
+terminal schwann cell
+neuroglioform cell
+cajal - retzius cell
+dopaminergic neuron
+sustentacular cell
+endothelial tip cell
+choroid plexus epithelial cell
+leptomemingeal cell
+urothelial cell
+leukocyte
+retinal ganglion cell
+spinal accessory motor neuron
+columnar chondrocyte
+horizontal cell
+cyanophore
+retinal bipolar neuron
+on - bipolar cell
+off - bipolar cell
+rod bipolar cell
+cone retinal bipolar cell
+thrombocyte
+myeloid cell
+erythroid lineage cell
+myeloid leukocyte
+neutrophil
+immature neutrophil
+mononuclear osteoclast
+mononuclear odontoclast
+mature b cell
+plasma cell
+memory b cell
+naive b cell
+alpha - beta t cell
+gamma - delta t cell
+immature gamma - delta t cell
+mature gamma - delta t cell
+gamma - delta intraepithelial t cell
+immature t cell
+mature t cell
+memory t cell
+immature b cell
+pre - b cell
+transitional stage b cell
+immature natural killer cell
+mature natural killer cell
+natural killer cell progenitor
+pro - b cell
+pro - t cell
+thromboblast
+neutrophil progenitor cell
+myeloblast
+hematopoietic progenitor cell
+lymphoid progenitor cell
+myeloid progenitor cell
+mononuclear cell
+ciliated olfactory receptor neuron
+microvillous olfactory receptor neuron
+crypt olfactory receptor neuron
+serotonergic neuron
+neuromast mantle cell
+neuromast support cell
+olfactory epithelial support cell
+interneuromast cell
+hair cell
+neuromast hair cell
+slow muscle myoblast
+fast muscle myoblast
+cartilage element
+mode of ossification
+permanent cartilage
+opercle bone
+cell condensation
+skeletal tissue
+connective tissue
+chordablast
+mineralized extracellular matrix
+proteinaceous extracellular matrix
+extracellular matrix
+odontogenic papilla
+skeleton
+integumentary papilla
+oropharyngeal papilla
+musculoskeletal system
+muscular system
+dermal skeleton
+endoskeleton
+chordoblast
+cartilage tissue
+skeletal subdivision
+osteoid
+bone tissue
+cranial skeleton
+dense regular connective tissue
+lepidosteoid scale
+ganoid scale
+vacuolated notochordal tissue
+perichordal tissue
+polypteroid scale
+axial skeleton
+bone element
+avascular gag - rich matrix
+cementum
+odontoid tissue
+enamel
+pre - enamel
+elasmoid scale
+pre - dentine
+tendon
+palaeoniscoid scale
+appendicular skeleton
+chondroid tissue
+odontode scale
+keratin - based scale
+cosmoid scale
+craniofacial skeleton
+secondary cartilage tissue
+mineralized cartilage tissue
+non - mineralized cartilage tissue
+integumentary skeleton
+elastic cartilage tissue
+chondrogenic condensation
+hyaline cartilage tissue
+orthodentine
+fibrocartilage
+ganoine
+limiting layer of elasmoid scale
+vasodentine
+elasmodine
+non - mineralized hyaline cartilage tissue
+mineralized hyaline cartilage tissue
+pre - enameloid
+mineralized bone tissue
+cellular bone tissue
+non - mineralized avascular gag - rich matrix
+mineralized avascular gag - rich matrix
+acellular bone tissue
+odontode tissue
+gastralium
+appendicular ossicle
+ossicle
+axial ossicle
+ossified tendon
+replacement element
+sesamoid
+ligamentous replacement element
+endochondral element
+transient cartilaginous element
+pelvic girdle skeleton
+pectoral girdle skeleton
+ossified ligament
+anocleithrum
+interclavicle
+scapular complex
+articular system
+suprabranchial fin
+vertebral centrum
+vertebral element
+vertebral column
+femur
+pectoral appendage / girdle complex
+appendage / girdle complex
+pelvic appendage / girdle complex
+free limb skeleton
+limb / fin skeleton
+girdle skeleton
+appendage girdle region
+pelvic girdle region
+pectoral girdle region
+appendicular skeletal system
+stylopodial skeleton
+zeugopodial skeleton
+autopodial skeleton
+mesopodial skeleton
+metapodial skeleton
+produces

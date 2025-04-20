@@ -1,0 +1,789 @@
+continuant
+occurrent
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+material entity
+anatomical surface
+anatomical axis
+anterior - posterior axis
+apical - basal axis relative to substrate
+proximal - distal axis
+dorsal - ventral axis
+left - right axis
+transverse plane
+horizontal plane
+antero - dorsal region
+antero - ventral region
+postero - lateral region
+antero - lateral region
+postero - dorsal region
+postero - ventral region
+anatomical side
+anterior side
+posterior side
+apical side
+basal side
+dorsal side
+ventral side
+anatomical region
+anterior region
+posterior region
+apical region
+basal region
+dorsal region
+dorso - lateral region
+lateral region
+ventral region
+ventro - lateral region
+medial - external axis
+oral - aboral axis
+anterior surface
+posterior surface
+apical surface
+basal surface
+dorsal surface
+lateral surface
+ventral surface
+anatomical plane
+sagittal plane
+medial - lateral axis
+anatomical entity
+anatomical structure
+material anatomical entity
+immaterial anatomical entity
+anatomical line
+anatomical boundary
+reproduction
+mitotic g1 phase
+mitotic s phase
+mitotic g2 phase
+mitotic m phase
+mitotic prophase
+mitotic metaphase
+mitotic anaphase
+mitotic telophase
+leptotene
+zygotene
+pachytene
+diplotene
+diakinesis
+mitotic cell cycle
+m phase
+nuclear division
+developmental process involved in reproduction
+cellular_component
+organelle organization
+cell cycle
+meiotic prophase i
+meiotic metaphase i
+meiotic anaphase i
+meiotic telophase i
+meiotic prophase ii
+meiotic metaphase ii
+meiotic anaphase ii
+meiotic telophase ii
+biological_process
+cellular process
+cellular component organization
+cell cycle process
+cell cycle phase
+reproductive process
+developmental process
+pigmentation
+biological phase
+organelle fission
+anatomical structure development
+cell division
+g1 phase
+g2 phase
+s phase
+meiotic cell cycle
+anaphase
+metaphase
+prophase
+interphase
+telophase
+meiotic m phase
+meiotic interphase
+mitotic interphase
+meiotic g1 phase
+meiotic g2 phase
+meiotic s phase
+cellular component organization or biogenesis
+meiotic cell cycle phase
+mitotic cell cycle phase
+meiosis i cell cycle phase
+meiosis ii cell cycle phase
+meiotic nuclear division
+mitotic nuclear division
+meiotic cell cycle process
+mitotic cell cycle process
+data item
+symbol
+information content entity
+curation status specification
+data set
+data about an ontology part
+obsolescence reason specification
+denotator type
+centrally registered identifier symbol
+centrally registered identifier
+centrally registered identifier registry
+quality
+morphology
+shape
+orientation
+position
+physical quality
+physical object quality
+triangular
+cuneate
+2 - d shape
+longitudinal orientation
+plug shaped
+stage 1
+stage 2
+stage 3
+stage 4
+stage 5
+stage 6
+stage 7
+stage 8
+sigma neoblast
+protonephridial progenitor cell
+neural progenitor cell
+visceral musculature
+zeta neoblast
+non ciliated epithelial cell
+pharynx
+photoreceptor neuron
+category 4 cell
+muscle progenitor cell
+protonephridia
+biotype
+category 5 cell
+embryonic pharynx
+smed asexual biotype
+nervous system
+gut
+smed sexual biotype
+category 2 cell
+primitive ectoderm
+midline
+pigment cup cell
+dorsal midline
+epidermal progenitor cell
+epidermis
+category 3 cell
+eye
+ventral midline
+gamma neoblast
+aboral hemisphere
+anterior primary gut branch
+dorsal ventral margin of the whole animal
+cephalic ganglia
+circular muscle cell
+clonogenic neoblast
+collecting duct
+diagonal muscle cell
+digestive system
+distal tubule
+dorsal region of the epidermis
+dorsal stripe
+ectolecithal embryo
+embryonic digestive system
+embryonic gut cell
+embryonic wall
+enteric musculature
+esophagus
+extraembryonic structure
+flame bulb
+flame cell
+gastrodermis
+goblet cell
+embryonic gut cavity
+inner longitudinal muscle cell
+intestinal phagocyte
+longitudinal muscle cell
+mouth
+oocyte
+optic cup
+oral hemisphere
+outer longitudinal muscle cell
+parenchymal musculature
+peripheral nervous system
+pharynx pouch
+posterior primary gut branch
+primitive gut cell
+proximal tubule
+renal system
+secondary gut branch
+sperm
+yolk syncytium
+tertiary gut branch
+trail cell
+ventral epidermis
+ventral nerve cord
+zygote
+neuron
+epithelial cell
+muscle cell
+central nervous system
+rhabdite
+secretory cell
+ciliated epithelial cell
+yolk cell
+pharynx progenitor cell
+proximal tubule epithelial cell
+tissue
+anatomical system
+distal tubule epithelial cell
+embryo
+embryonic structure
+collecting duct epithelial cell
+terminally differentiated cell
+progenitor cell
+stem cell
+gamete
+embryonic cell
+visual system
+sensory system
+reproductive system
+oviduct epithelial cell
+sperm duct epithelial cell
+circular muscle progenitor cell
+primordium
+mechanoreceptor cell
+longitudinal muscle progenitor cell
+female primordial germ cell
+whole organism
+regeneration
+hyman vesicle
+anterior region of the whole animal
+dorsal region of the whole animal
+posterior region of the whole animal
+ventral region of the whole animal
+bursal canal
+gonopore
+ovary
+oviduct
+penis papilla
+sperm duct
+testis
+primitive ectoderm cell
+juvenile
+reproductive system product
+egg capsule
+gonad
+male primordial germ cell
+spermatogonial stem cell
+spermatogonium
+spermatocyte
+spermatid
+oogonial stem cell
+cement gland
+germ cell
+male germ cell
+female germ cell
+tuba
+vitelline gland
+copulatory apparatus
+copulatory bursa
+seminal vesicle
+round spermatid
+elongate spermatid
+oogonial cell
+body wall musculature
+pharynx longitudinal muscle cell
+pharynx lumen
+digestive tract lumen
+oral opening
+pharynx pouch cavity
+apical surface of the epidermis
+basal surface of the epidermis
+gastrodermis surface
+pharynx inner epithelium surface
+pharynx outer epithelium surface
+pharynx pouch epithelial surface
+definitive organism subdivision
+head region
+prepharyngeal region
+parapharyngeal region
+tail region
+tail stripe
+embryonic subdivision
+multicellular anatomical structure
+musculature system
+neoblast
+epithelial cell component
+organ
+optic chiasm
+anterior commissure
+lateral branch
+sensory cell
+cholinergic neuron
+gabaergic neuron
+pharynx nerve plexus
+subepidermal nerve plexus
+submuscular nerve plexus
+gastrodermal plexus
+neuropil
+pharynx outer epithelium
+pharynx outer circular muscle cell
+pharynx inner circular muscle cell
+pharynx inner longitudinal muscle cell
+pharynx outer longitudinal muscle cell
+pharynx radial muscle cell
+pharynx musculature
+pharynx inner nerve plexus
+pharynx outer nerve plexus
+serotonergic neuron
+dopaminergic neuron
+octopaminergic neuron
+secretory system
+gland cell
+secretory pore
+acidophilic gland cell
+basophilic gland cell
+nerve plexus
+brain commissure
+blastema
+cell
+cell projection
+actin - based cell projection
+microvillus
+cell - cell contact zone
+cell junction
+cell - cell junction
+cell - cell adhesion
+intracellular part
+cytoplasm
+cytoplasmic part
+cytoplasmic vesicle part
+vacuole
+intracellular organelle
+intracellular non - membrane - bounded organelle
+membrane
+bounding membrane of organelle
+membrane part
+plasma membrane part
+organelle membrane
+organelle
+membrane - bounded organelle
+intracellular membrane - bounded organelle
+golgi apparatus
+nucleus
+secretory vesicle
+non - membrane - bounded organelle
+nuclear part
+nucleolus
+chromatin
+heterochromatin
+euchromatin
+ribosome
+axon tract
+electrically responsive cell
+electrically signaling cell
+nerve
+neuron projection bundle
+afferent neuron
+bipolar neuron
+commissural neuron
+efferent neuron
+excitatory motor neuron
+interneuron
+sensory neuron
+motor neuron
+neurosecretory neuron
+sympathetic neuron
+unipolar neuron
+multipolar neuron
+neuron associated cell  ( sensu nematoda and protostomia )
+central nervous system neuron
+peripheral nervous system neuron
+autonomic neuron
+enteric neuron
+basal lamina of epidermis
+adenal rhabdite
+adherens junction
+adhesive papilla
+amputation
+anterior gut branch
+anterior tip
+antrum
+auricle
+axon
+axoneme
+basal body
+brain visual center
+bulbar cavity
+category 1 cell
+cell body
+cephalic ganglia lobe
+cephalic ganglia neuron
+chemical amputation
+chemical pharynx amputation
+chemosensory neuron
+chromatoid body
+chromosome
+chromosome arm
+ciliated epithelium
+cilium
+commissure
+cut
+dendrite
+dorsal - ventral muscle cell
+early female germ cell
+early male germ cell
+embryonic gut
+epidermal cell
+epidermal rhabdite
+er membrane
+eumelanin
+excretory cell
+extracellular matrix
+extracellular space
+fission
+flagellum
+gap junction
+genital atrium
+germ cell cyst
+germline stem cell
+glycogen granule
+incision
+pharynx inner epidermal cell
+inner zone of gland cells
+intercellular junction
+linear amputation
+linear incision
+lipid droplet
+lumen
+marginal adhesive zone
+mechanosensory neuron
+medial muscle cell
+meiotic germ cell
+melanosome
+mucus
+nephridiopore
+neurite
+neuropeptidergic neuron
+non - ciliated epidermis
+nuclear envelope
+nuclear inner membrane
+nuclear lumen
+nuclear outer membrane
+nuclear periphery
+ommochrome pigment cell
+optic nerve
+pharynx outer epidermal cell
+phagocytic cell
+pharynx tip
+pigment cell
+pigment granule
+plug amputation
+point incision
+pore
+post - meiotic germ cell
+postsynaptic cell
+premeiotic germ cell
+presynaptic cell
+presynaptic terminal
+presynaptic vesicle
+primary gut branch
+primitive gut
+quarternary gut branch
+reproductive organ
+reproductive structure
+rhabdome
+rhabdomere
+secretory duct
+secretory granule
+somatic cell
+somatic gonadal cell
+specialized neoblast
+stalk
+surgical wound
+synapse
+synaptic cleft
+synaptic vesicle
+synaptonemal complex
+tail tip
+telomere
+septate junction
+wedge amputation
+wound
+x1 cell
+x1 ( fs )  cell
+x2 cell
+xins cell
+postpharyngeal region
+post - blastema region
+fission fragment
+epithelium
+gut branch
+extraembryonic organ
+chromosome part
+perturbation
+chromosomal_structural_element
+thick fragment
+thin fragment
+fragment
+longitudinal region
+chemical wound
+plug wound
+wedge wound
+regenerating fragment
+sagittal orientation
+parasagittal orientation
+syncytium
+intracellular granule
+facs sorted cell population
+derived cell population
+pharynx pouch epithelium
+sperm duct epithelial surface
+parenchyma
+dorsal region of tail
+lateral region of the whole animal
+anterior region of the eye
+posterior region of the eye
+prepharyngeal midline
+testis cell
+ventral epidermis cell
+visual system cell
+eye cell
+enteric muscle cell
+dorsal epidermis cell
+adhesion gland cell
+body wall muscle cell
+gastrodermal cell
+anterior pole cell
+pharynx neuron
+pharynx epithelial cell
+pharynx muscle cell
+pharynx pouch epithelial cell
+melanin pigment granule
+ommochrome pigment granule
+parenchymal cell
+parapharyngeal cell
+prepharyngeal cell
+g1 phase neoblast
+s phase neoblast
+g2 phase neoblast
+prophase neoblast
+metaphase neoblast
+anaphase neoblast
+telophase neoblast
+g1 phase spermatogonial stem cell
+s phase spermatogonial stem cell
+g2 phase spermatogonial stem cell
+prophase spermatogonial stem cell
+metaphase spermatogonial stem cell
+anaphase spermatogonial stem cell
+telophase spermatogonial stem cell
+g1 phase oogonial stem cell
+s phase oogonial stem cell
+g2 phase  oogonial stem cell
+prophase  oogonial stem cell
+metaphase oogonial stem cell
+anaphase oogonial stem cell
+telophase  oogonial stem cell
+g1 phase spermatogonium
+s phase spermatogonium
+g2 phase spermatogonium
+prophase spermatogonium
+metaphase spermatogonia
+anaphase spermatogonia
+telophase spermatogonium
+g1 phase oogonial cell
+s phase oogonial cell
+g2 phase oogonial cell
+prophase oogonial cell
+metaphase oogonial cell
+anaphase oogonial cell
+telophase oogonial cell
+g1 phase germ cell cyst
+s phase germ cell cyst
+g2 phase germ cell cyst
+prophase germ cell cyst
+metaphase germ cell cyst
+anaphase germ cell cyst
+telophase germ cell cyst
+meiotic s phase spermatocyte
+meiotic g1 phase spermatocyte
+meiotic g2 phase spermatocyte
+meiotic prophase i spermatocyte
+leptotene stage spermatocyte
+zygotene stage spermatocyte
+pachytene stage spermatocyte
+diplotene stage spermatocyte
+diakinesis stage spermatocyte
+meiotic metaphase 1 stage spermatocyte
+meiotic anaphase i stage spermatocyte
+meiotic telophase i spermatocyte
+meiosis ii stage spermatocyte
+meiotic prophase ii spermatocyte
+meiotic metaphase 2 spermatocyte
+meiotic anaphase ii spermatocyte
+meiotic telophase ii spermatocyte
+cephalic ganglia primordium
+eye primordium
+pharynx primordium
+pigment cup primordium
+testis primordium
+gonad primoridium
+ovary primordium
+protonephridial lumen
+testis lumen
+ovary lumen
+flame cell lumen
+cephalic ganglia progenitor cell
+dorsal epidermis progenitor cell
+optic cup progenitor cell
+ventral epidermis progenitor cell
+testis somatic gonadal cell progenitor cell
+head fragment
+trunk fragment
+tail fragment
+prepharyngeal fragment
+postpharyngeal fragment
+anterior fragment
+posterior fragment
+lateral fragment
+longitudinal fragment
+plug fragment
+wedge fragment
+dorsal region of head fragment
+ventral region of head fragment
+anterior region of head fragment
+posterior region of head fragment
+dorsal region of trunk fragment
+ventral region of trunk fragment
+anterior region of trunk fragment
+posterior region of trunk fragment
+dorsal region of tail fragment
+ventral region of tail fragment
+anterior region of tail fragment
+posterior region of tail fragment
+dorsal region of prepharyngeal fragment
+ventral region of prepharyngeal fragment
+anterior region of prepharyngeal fragment
+posterior region of prepharyngeal fragment
+dorsal region of postpharyngeal fragment
+ventral region of postpharyngeal fragment
+anterior region of postpharyngeal fragment
+posterior region of postpharyngeal fragment
+dorsal region of anterior fragment
+ventral region of anterior fragment
+anterior region of anterior fragment
+posterior region of anterior fragment
+dorsal region of posterior fragment
+ventral region of posterior fragment
+anterior region of posterior fragment
+posterior region of posterior fragment
+dorsal region of lateral fragment
+ventral region of lateral fragment
+anterior region of lateral fragment
+posterior region of lateral fragment
+dorsal region of longitudinal fragment
+ventral region of longitudinal fragment
+anterior region of longitudinal fragment
+posterior region of longitudinal fragment
+dorsal region of plug fragment
+ventral region of plug fragment
+anterior region of plug fragment
+posterior region of plug fragment
+anterior region of wedge fragment
+posterior region of wedge fragment
+anterior photoreceptor neuron
+posterior photoreceptor neuron
+lateral muscle cell
+anterior muscle cell
+posterior muscle cell
+head blastema
+tail blastema
+regenerating head fragment
+regenerating trunk fragment
+regenerating tail fragment
+regenerating prepharyngeal fragment
+regenerating postpharyngeal fragment
+regenerating anterior fragment
+regenerating posterior fragment
+regenerating lateral fragment
+regenerating longitudinal fragment
+regenerating plug fragment
+regenerating wedge fragment
+adult hermaphrodite
+asexual adult
+testis somatic gonadal cell
+ovarian somatic gonadal cell
+oral - aboral axis of the embryo
+primitive ectoderm surface
+primtive gut cell surface
+embryonic gut cell surface
+embryonic pharynx lumen epithelial surface
+blastomere
+extraembryonic cell
+embryonic pharynx neuron
+embryonic pharynx radial muscle cell
+embryonic pharynx epithelial cell
+embryonic pharynx circular muscle cell
+copulatory region
+pharynx epithelium
+integumental system
+oviduct lumen
+sperm duct lumen
+oviduct epithelium
+sperm duct epithelium
+tuba lumen
+sagittal plane of the whole animal
+plasma membrane
+extracellular organelle
+mitochondrion
+endoplasmic reticulum
+rough endoplasmic reticulum
+smooth endoplasmic reticulum
+nuclear pore
+lysosome
+anterior - posterior axis of the whole animal
+dorsal - ventral axis of the whole animal
+left - right axis of the whole animal
+medial - lateral axis of the whole animal
+proximal - distal axis of the whole animal
+anterior pole
+posterior pole
+glial cell
+ganglion
+pharynx inner epithelium
+pharynx circular muscle cell
+adhesion gland
+anchor cell
+viscid gland cell
+releasing gland cell
+trpa +  central nervous system neuron
+cintillo +  sensory neuron
+trpa +  neural progenitor cell
+anterior pole progenitor cell
+transverse commissure
+serotonergic neural progenitor cell
+klf +  sensory neuron progenitor cell
+nu neoblast
+lateral nerve
+pax3 / 7 +  neural progenitor cell
+embryonic pharynx lumen
+testis nerve plexus
+fission plane
+ovary nerve plexus
+head margin
+glutamatergic neuron
+sexual organism
+asexual organism
+non - ciliated neuron
+cilated neuron
+embryo stage
+life cycle stage
+organism subdivision
+acellular anatomical structure
+anatomical cavity
+ventral to

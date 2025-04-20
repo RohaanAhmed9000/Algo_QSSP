@@ -1,0 +1,90 @@
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+a realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural ,  social or institutional contexts .
+b is a generically dependent continuant = def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+b is a relational quality = def .
+a bacterial infectious disease that results_in infection by bacteria as a result of their presence or activity within the normal ,  healthy host ,  and their intrinsic virulence is ,  in part ,  a necessary consequence of their need to reproduce and spread .
+a primary bacterial infectious disease that is caused by the bacteria of the genus brucella ,  when humans come in contact with contaminated animals or animal products or ingestion of infected food products .
+a brucellosis that involves an infection caused by brucella melitensis  [ ncbitaxon:29459 ]  in cattle ,  goats ,  sheep and humans .
+a brucellosis that involves an infection caused by brucella abortus  [ ncbitaxon:235 ]  in cattle and humans .
+a primary bacterial infectious disease that is located_in lungs ,  located_in lymph nodes ,  located_in pericardium ,  located_in brain ,  located_in pleura or located_in gastrointestinal tract ,  has_material_basis_in mycobacterium tuberculosis ,  which is transmitted_by droplets released into the air when an infected person coughs or sneezes .
+a disease is a disposition  ( i )  to undergo pathological processes that  ( ii )  exists in an organism because of one or more disorders in that organism .
+a reference to a place on the earth ,  by its name or by its geographical location .
+any immune system process that functions in the calibrated response of an organism to a potential internal or invasive threat .
+a biological process represents a specific objective that the organism is genetically programmed to achieve .
+a directive information entity that describes an intended process endpoint .
+a directive information entity that describes an action the bearer will take
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+an information content entity that is a mark ( s )  or character ( s )  used as a conventional representation of another entity .
+an information content entity is an entity that is generically dependent on some artifact and stands in relation of aboutness to some entity
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+the curation status of the term .
+a data item that is an aggregate of other data items of the same type that have something in common .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+a textual entity that expresses the results of reasoning about a problem ,  for instance as typically found towards the end of scientific papers .
+the reason for which a term has been deprecated .
+a textual entity is a part of a manifestation  ( frbr sense )  ,  a generically dependent continuant whose concretizations are patterns of glyphs intended to be interpreted as words ,  formulas ,  etc .
+a textual entity intended to identify a particular institution
+a collection of information content entities intended to be understood together as a whole
+a textual entity that is used as directive to deliver something to a person ,  or organization
+a planned process in which a document is created or added to by including the specified input in it .
+a pathological bodily process that occurs after a medical intervention .
+medical intervention is a planned process that has the goal of diagnosing ,  preventing or relieving illness or injury .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+is a material entity that is created or changed during material processing .
+a planned process that consists of parts: planning ,  study design execution ,  documentation and which produce conclusion ( s )  .
+a role that inheres in a material entity that is realized in an assay in which data is generated about the bearer of the evaluant role
+a planned process with the objective to produce information about the material entity that is the evaluant ,  by physically examining it or its proxies .
+a sample_preparation_for_assay is a protocol_application including material_enrollments and biomaterial_transformations .
+diagnosis is an assessment of a disease or injury ,  its likely prognosis and treatment .
+a role inhering in a biological or chemical entity that is intended to be applied in a scientific technique to participate  ( or have molecular components that participate )  in a chemical reaction that facilitates the generation of data about some entity distinct from the bearer ,  or the generation of some specified material output distinct from the bearer .
+a planned process which results in physical changes in a specified input material
+an entity that can bear roles ,  has members ,  and has a set of organization rules .
+a plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents ,  so that different investigation agents will reliably be able to independently reproduce the process .
+a planned process in which data gathered in an investigation is evaluated in the context of existing knowledge with the objective to generate more general conclusions or to conclude that the data does not allow one to draw general conclusion
+a process of creating or modifying a plan specification
+is an investigation with the goal to test one or more hypothesis
+is an investigation in which data is generated and analyzed with the purpose of generating new hypothesis
+a contain function is a function to constrain a material entities location in space
+an objective specification to determine a specified type of information about an evaluated entity  ( the material entity bearing evaluant role ) 
+an objective specifiction that creates an specific output object from input materials .
+a planned process that carries out a study design
+a device that can be used to restrict the location of material entities over time
+a material entity that is designed to perform a function in a scientific investigation ,  but is not a reagent .
+an information content entity that is inferred from data .
+an information content entity that specifies a value within a classification scheme or on a quantitative scale .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a processed material which has the function to define a bounded habitat which is amenable to keeping animals .
+a plan specification comprised of protocols  ( which may specify how and what kinds of data will be gathered )  that are executed as part of an investigation and is realized during a study design execution .
+a series of statements representing health - relevant qualities of a patient and of a patient's family .
+a bodily process that is clinically abnormal .
+the totality of all processes through which a given disease instance is realized .
+the representation of a conclusion of a diagnostic process .
+a processual entity whose completion is hypothesized  ( by a healthcare provider )  to alleviate the signs and symptoms associated with a disorder
+an animal organism that is used as an animal model of a human or animal disease in translational and biomedical research .
+a role that inheres in an animal that is used as a model for human or animal research .
+an investigation that uses a non - human laboratory animal in a study
+first described by w . m . s . russell and r . l . burch in 1959 ,  the three rs  ( 3rs )  in relation to science are guiding principles for more ethical use of animals in testing .
+as one of the three rs ,  the replacement principle suggests the usage of methods to avoid or replace the use of animals in research
+as one of the three rs ,  the reduction principle suggests the usage of methods to enable researchers to obtain comparable levels of information from fewer animals ,  or to obtain more information from the same number of animals .
+as one of the three rs ,  the refinement principle proposes the usage of methods to alleviate or minimize potential pain ,  suffering or distress ,  and enhance animal welfare for the animals used
+an animal cage that keeps mouse
+a laboratory animal that is used for human disease research
+a laboratory animal that is used for tuberculosis disease research
+a laboratory animal that is used for zoonotic disease research
+a laboratory animal that is used for zoonotic brucellosis research
+a laboratory animal that is used for hiv / aids research
+a planned process that intentionally puts an animal to death or allows to die by withholding extreme medical measures
+an euthanasia process that follows the best practice principle
+a planned process that supports the well - being of nonhuman animal
+a laboratory animal that is used for study of zoonotic plague disease ,  which is caused by the bacterium yersinia pestis
+a public health process that involves clean drinking water and adequate treatment and disposal of human and animal excreta and sewage .
+an amino acid chain that is produced de novo by ribosome - mediated translation of a genetically - encoded mrna .
+a caspase - 8 - like protease that is a translation product of the human casp10 gene or a 1:1 ortholog thereof .

@@ -1,0 +1,248 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+material entity
+deoxyribonucleic acid
+molecular entity
+nucleic acid
+ribonucleic acid
+cell
+epithelial cell
+macrophage
+protein complex assembly
+protein acetylation
+apoptotic process
+biological_process
+cell death
+programmed cell death
+phosphorylation
+protein myristoylation
+protein oligomerization
+data item
+information content entity
+pathogen role
+pathogen
+host role
+interaction network
+interaction
+pathway
+bayesian network
+regulator role
+up - regulation
+interaction regulator
+input interactor role
+output interactor role
+activator role
+mutual information network
+node
+edge
+interactor role
+interactor
+activator
+organism - organism interaction
+two - way interaction
+human molecular pathway
+up - regulation of secretion
+human molecular interaction
+activation
+gene - cell interaction
+protein activation
+cell - cell interaction
+protein activation by mutant
+antagonism
+gene - enviroment interaction
+regulation of protein location
+regulation of transcription
+attenuation
+regulation of translation
+autophosphorylation
+regulation of gene activation
+positive regulation of gene expression
+negative regulation of gene expression
+human biochemical reaction
+negative regulation of gene transcription
+negative regulation of protein translation
+gene expression regulation
+protein translation
+inhibition of gene transcription
+chemical reaction catalyst
+coimmunoprecipitation
+positive regulation of gene transcription
+competition
+activation of gene transcription
+activation of gene transcription by low level protein
+positive regulation of protein translation
+antigen - antibody interaction
+regulation of protein activity
+downexpression
+controling
+conversion
+cooperation
+coprecipitation
+correlation
+cell - environment interaction
+cross - immunoprecipitation interaction
+organism - environment interaction
+negative regulation of protein activity
+negative regulation
+chemical reaction catalyst role
+inhibition of protein activity
+regulation of transcription by binding to promoter
+positive regulation of transcription by binding to promoter
+decrease
+negative regulation of transcription by binding to promoter
+gene activation
+biochemical degradation
+co - regulation of transcription
+activation of gene transcription by high level protein
+promoter - based regulation of transcription
+activation of gene transcription by phosphorylated protein
+destabilization
+gene expression inhibition
+dominant regulation
+protein dimerization
+co - regulation
+disruption
+down - regulation
+gene expression up - regulation
+gene expression down - regulation
+induction of production
+elimination
+bacterial conjugation
+hydrogen binding
+regulation of assembly
+human molecular control interaction
+gene expression
+accessory regulation
+positive regulation of protein activity
+host - pathogen interaction
+gene fusion
+host cell - pathogen interaction
+induction by binding to protein
+macrophage - pathogen interaction
+protein heterodimerization
+protein homodimerization
+macrophage - pathogen protein - protein interaction
+overexpression
+immuno - precipitation
+impairment
+inactivation
+increase
+induction
+inhibition
+input interactor
+interference
+host gene mutant - pathogen interaction
+human molecular conversion
+host
+positive regulator role
+pathway step
+negative regulator role
+macrophage - pathogen ppi inducing cell death
+neutralization
+positive regulator
+host - pathogen mutant interaction
+negative regulator
+deactivator role
+motivator role
+precedence
+hygiene factor role
+output interactor
+epithelial cell - pathogen interaction
+reactivation
+recruitment
+regulation
+interaction network model
+stabilization
+synergization
+termination
+transactivation
+gene transcription
+genetic transduction
+translocation
+deregulation
+one - way interaction
+export
+import
+secretion
+protein - protein interaction
+gene - protein interaction
+organism
+acetylation reaction
+amidation reaction
+cleavage reaction
+covalent binding
+deacetylation reaction
+defarnesylation reaction
+deformylation reaction
+degeranylation reaction
+demyristoylation reaction
+depalmitoylation reaction
+dephosphorylation reaction
+deubiquitination reaction
+farnesylation reaction
+formylation reaction
+geranylgeranylation reaction
+hydroxylation reaction
+lipid addition
+lipid cleavage reaction
+methylation reaction
+palmitoylation reaction
+ubiquitination reaction
+colocalization
+direct interaction
+disulfide bond
+enzymatic reaction
+transglutamination reaction
+adp ribosylation reaction
+deglycosylation reaction
+glycosylation reaction
+sumoylation reaction
+neddylation reaction
+desumoylation reaction
+deneddylation reaction
+protein cleavage
+mrna cleavage
+dna cleavage
+dna strand elongation
+phosphotransfer reaction
+demethylation reaction
+nucleoside triphosphatase reaction
+atpase reaction
+gtpase reaction
+rna cleavage
+nucleic acid cleavage
+association
+physical association
+noninteractive
+oxidoreductase activity electron transfer reaction
+phosphopantetheinylation
+deamination reaction
+nucleic acid strand elongation reaction
+rna strand elongation
+diphtamidation reaction
+predicted interaction
+self interaction
+putative self interaction
+carboxylation reaction
+decarboxylation reaction
+aminoacylation reaction
+phospholipase reaction
+uridylation reaction
+proline isomerization  reaction
+isomerase reaction
+methylmalonyl - coa isomerase reaction
+de - adp - ribosylation reaction
+sulfurtransfer reaction
+gene
+protein
+classic metabolic pathway
+signaling pathway
+regulatory pathway
+disease pathway
+drug pathway

@@ -1,0 +1,680 @@
+cell differentiation
+phosphorylation
+translocation
+proteasome degradation
+dephosphorylation
+ubiquitination
+nuclear import
+nuclear export
+wnt signaling pathway
+jak stat pathway
+dimerization of stat in cytosol
+nuclear import of stat dimer
+autophosphorylation of jak in cytosol
+apoptosis  ( inhibition of cell survival )
+dormancy
+seed dormancy
+cell proliferation
+cell cycle
+cell cycle arrest
+cytokinesis
+transdifferentiation
+adipocyte differentiation
+myoblast differentiation
+osteoblast differentiation
+inhibition of adipocyte differentiation
+negative regulation of myoblast differentiation
+negative regulation of osteoblast differentiation
+cell growth
+cytoskeleton organization
+lamellipodium biogenesis
+stress fiber formation
+cell death
+immune response
+programmed cell death
+m phase
+cell motion
+cell migration
+cell adhesion
+behavior
+b cell receptor signaling pathway
+erk cascade
+negative feedback regulation of ras - raf - mapk signaling by sprouty  ( drosophila )
+negative feedback regulation of ras - raf - mapk signaling by spred  ( drosophila )
+sumoylation
+rhodopsin mediated signaling pathway
+proteasome mediated protein degradation signaling
+integrin signaling pathway
+glutamate receptor signaling pathway
+flower development
+growth
+negative regulation of jak stat pathway
+estrogen receptor signaling pathway
+notch signaling pathway
+gene expression
+transcription
+hydrolysis
+ikk - nf - kappab cascade
+nuclear import of nf - kappab
+translation
+myristoylation
+gdp - gtp exchange
+jnk cascade
+phosphorylation of mkk4 / 7 by mapkkk in cytosol
+phosphorylation of c - jun by jnk_p in inner space of nucleus
+activation of ikk complex by pkc theta in cytosol
+cell cycle process
+g2 - m - phase transition
+dna replication
+lignin biosynthesis
+embryonic development
+post embryonic development
+transmethylation
+hydroxylation
+mapkkk cascade
+anatomical structure morphogenesis
+hematopoiesis
+negative regulation of ras - raf - mapk signaling by spred  ( drosophila )
+igf signaling pathway
+t cell receptor signaling pathway
+toll - like receptor signaling pathway
+binding of plc gamma and pip3 in cytosol
+phosphorylation of mapkk by mapkkk in cytosol
+phosphorylation of mapk by mapkk in cytosol
+phosphorylation of transcriptional regulator by mapk_p in inner space of nucleus
+nuclear import of mapk  ( through mapkkk cascade )
+insulin receptor signaling pathway
+negative regulation of insulin signaling pathway
+phosphorylation of plc gamma1 by itk in cytosol
+interaction in nucleus
+regulation of insulin receptor signaling pathway
+positive regulation of insulin receptor signaling pathway
+regulation of jak stat pathway
+positive regulation of jak stat pathway
+regulation of ras - raf - mapk signaling by spred  [ drosophila ]
+positive regulation of ras - raf - mapk signaling by spred  ( drosophila )
+embryonic morphogenesis
+post - embryonic morphogenesis
+organ morphogenesis
+flower morphogenesis
+tissue regeneration
+binding of fak and pi3k in cytosol
+phosphorylation of mapkkk by mapkkkk in cytosol
+actin polymerization and / or depolymerization
+actin filament depolymerization
+actin filament polymerization
+y - 27632 medication
+phosphorylation of myosin phosphatase by p160rock in cytosol
+gpcr signaling pathway
+small gtpase mediated signaling
+regulation of small gtpase mediated signaling
+positive regulation of small gtpase mediated signaling
+negative regulation of small gtpase mediated signaling
+hydrolysis of atp to camp by adenylate cyclase in cytosol
+negative regulation of ras mediated signaling
+adp ribosylation
+diarrhea
+whooping cough
+heterotrimeric gpcr signaling pathway  ( through photon ,  rhodopsin ,  g alpha t and cgmp pde )
+ion transport through ion channel
+visual perception
+neurological system process
+neurotransmitter secretion
+adaptation of rhodopsin mediated signaling
+deactivation of rhodopsin mediated signaling
+cytosolic calcium ion concentration elevation  ( through ip3 receptor )
+circadian rhythm
+pkc activation signaling
+phosphorylation of ikk complex by mekk3 in cytosol
+phosphorylation of ikk complex by tak1 in cytosol
+phosphorylation of mkk4 / 7 by ask1 in cytosol
+phosphorylation of elk - 1 by erk_p in inner space of nucleus
+phosphorylation of mek1 / 2 ( mkk1 / 2 )  by raf in cytosol
+binding of ral - gtp and ralbp1 in cytosol
+rtk signaling pathway
+bmp signaling pathway
+tgf beta signaling pathway
+egf receptor signaling pathway
+ngf receptor signaling pathway
+dna repair
+regulation of tgf beta signaling pathway
+negative regulation of tgf beta signaling pathway
+positive regulation of tgf beta signaling pathway
+regulation of bmp signaling pathway
+negative regulation of bmp signaling pathway
+positive regulation of bmp signaling pathway
+r - smad degradation signaling
+nuclear export of mrna
+ligation
+transference
+oxidation / reduction
+isomerization
+lyase process
+palmitoylation
+farnesylation
+geranylgeranylation
+apoptotic factor activation signaling
+cytochrome c mediated signaling
+dna fragmentation during apoptosis
+interaction in cytosol
+interaction in unidentified cellular location
+g1 - s - phase transition
+regulation of s phase
+cyclin d degradation signaling
+binding of p16 and cdk4 / 6 in cytosol
+binding of p15 and cdk4 / 6 in cytosol
+binding of p27 and cdk2 in inner space of nucleus
+binding of p21 and cdk2 in inner space of nucleus
+binding of gadd45 and pcna in cytosol
+binding of p18 and cdk4 / 6 in cytosol
+binding of p19 and cdk4 / 6 in cytosol
+s phase
+dephosphorylation cdk2 by cdc25a in cytosol
+phosphorylation of cdk2 by cdk7 in cytosol
+dna damage
+g1 phase
+dephosphorylation cdc2 by cdc25c in cytosol
+phosphorylation of cdc2 by wee1 in cytosol
+negative regulation of g2 - m - phase transition
+regulation of g2 - m - phase transition
+positive regulation of g2 - m - phase transition
+translocation from golgi to plasma membrane
+hydrolysis of notch by adam in plasma membrane
+hydrolysis of notch by presenilin in plasma membrane
+regulation of notch signaling pathway
+negative regulation of notch signaling pathway
+positive regulation of notch signaling pathway
+activation of deltex  [ mammalian ]
+activation of deltex  [ drosophila ]
+activation of numb  [ mammalian ]
+complex formation of bcr complex and coreceptor in plasma membrane
+actomyosin structure organization and biogenesis
+steroid receptor signaling pathway
+androgen receptor signaling pathway
+cytosolic calcium ion concentration elevation
+notch receptor processing
+receptor recycling
+pdgf receptor signaling pathway
+ras mediated signaling
+rac mediated signaling
+rho mediated signaling
+ral mediated signaling
+regulation of ikk - nf - kappab signaling
+negative regulation of ikk - nf - kappab signaling
+positive regulation of ikk - nf - kappab signaling
+complex formation of b cell coreceptor in plasma membrane
+regulation of b cell receptor signaling
+negative regulation of b cell receptor signaling
+positive regulation of b cell receptor signaling
+phosphorylation of ig alpha:beta by non - receptor tyrosine kinase in cytosol
+binding of ig alpha and syk in cytosol
+nuclear import of nf - at
+lymphocyte differentiation
+lymphocyte proliferation
+g2 phase
+cell communication
+cellular component organization
+cytoplasm organization
+organelle organization
+actin cytoskeleton organization and biogenesis
+actin filament organization
+cell morphogenesis
+multicellular organismal process
+rhythmic behavior
+seed development
+response to stimulus
+response to biotic stimulus
+response to endogenous stimulus
+response to external stimulus
+response to stress
+flower formation
+response to wounding
+wound healing
+binding of il - 2 and il - 2 receptor and conformational change of receptors in plasma membrane
+binding of il3 and il3 receptor and conformational change of receptors in plasma membrane
+binding of il4 and il4 receptor and conformational change of receptors in plasma membrane
+binding of il - 12 and il - 12 receptor and conformational change of receptors in plasma membrane
+binding of il - 10 and il - 10 receptor and conformational change of receptors in plasma membrane
+phosphorylation of egfr by pkc in cytosol
+regulation of egf signaling pathway
+negative regulation of egf receptor signaling pathway
+positive regulation of egf signaling pathway
+tyrosine biosynthesis
+activation of c - raf1 by pkc beta in cytosol
+raf activation signaling  ( through rkip )
+phosphorylation of rkip by pkc in cytosol
+dissociation of rkip and raf1 in cytosol
+phosphorylation of rkip by cpkc in cytosol
+phosphorylation of rkip by apkc in cytosol
+activation of c - raf1 by pkc alpha in cytosol
+activation of c - raf1 by pkc eta in cytosol
+activation of ikk beta by pkc theta in cytosol
+phosphorylation of ikk complex by nik in cytosol
+regulation of t cell receptor signaling pathway
+negative regulation of t cell receptor signaling pathway
+positive regulation of t cell receptor signaling pathway
+regulation of toll - like receptor pathway
+regulation of ras mediated signaling
+positive regulation of ras mediated signaling
+regulation of cell cycle process
+negative regulation of cell cycle process
+positive regulation of cell cycle process
+alanine and aspartate metabolism
+glutamate metabolism
+glycine ,  serine and threonine metabolism
+glycolysis and gluconeogenesis
+pentose phosphate pathway
+citrate cycle  ( tca cycle )
+fructose and mannose metabolism
+galactose metabolism
+ascorbate and aldarate metabolism
+starch and sucrose metabolism
+aminosugars metabolism
+carbohydrate metabolism
+nucleotide sugars metabolism
+pyruvate metabolism
+glyoxylate and dicarboxylate metabolism
+inositol metabolism
+inositol phosphate metabolism
+oxidative phosphorylation
+atp synthesis
+photosynthesis
+methane metabolism
+sulfur metabolism
+fatty acid biosynthesis
+fatty acid elongation in mitochondria
+fatty acid metabolism
+ketone bodies metabolism
+steroid biosynthesis
+bile acid biosynthesis
+c21 - steroid hormone metabolism
+glycerolipid metabolism
+glycerophospholipid metabolism
+arachidonic acid metabolism
+purine metabolism
+pyrimidine metabolism
+valine ,  leucine and isoleucine degradation
+valine ,  leucine and isoleucine biosynthesis
+lysine biosynthesis
+lysine degradation
+arginine and proline metabolism
+histidine metabolism
+tyrosine metabolism
+phenylalanine metabolism
+tryptophan metabolism
+phenylalanine biosynthesis
+urea cycle and metabolism of amino groups
+beta - alanine metabolism
+methionine and cysteine metabolism
+aminophosphonate metabolism
+cyanoamino acid metabolism
+d - glutamine and d - glutamate metabolism
+d - arginine and d - ornithine metabolism
+d - alanine metabolism
+glutathione metabolism
+chondroitin sulfate biosynthesis
+keratan sulfate biosynthesis
+glycosaminoglycan degradation
+lipopolysaccharide biosynthesis
+peptidoglycan biosynthesis
+glycosylphosphatidylinositol ( gpi )  - anchor biosynthesis
+sphingolipid metabolism
+glycosphingolipid biosynthesis - globoseries
+glycosphingolipid biosynthesis - ganglioseries
+biosynthesis of ansamycins
+receptor internalization
+thiamine metabolism
+riboflavin metabolism
+vitamin b6 metabolism
+nicotinate and nicotinamide metabolism
+pantothenate biosynthesis
+biotin metabolism
+folate metabolism
+retinol metabolism
+porphyrin and chlorophyll metabolism
+ubiquinone biosynthesis
+terpenoid biosynthesis
+monoterpenoid biosynthesis
+limonene and pinene degradation
+diterpenoid biosynthesis
+indole and ipecac alkaloid biosynthesis
+stilbene ,  coumarine and lignin biosynthesis
+flavonoid biosynthesis
+alkaloid biosynthesis
+penicillins and cephalosporins biosynthesis
+streptomycin biosynthesis
+tetracycline biosynthesis
+clavulanic acid biosynthesis
+puromycin biosynthesis
+novobiocin biosynthesis
+caprolactam degradation
+biphenyl degradation
+toluene and xylene degradation
+1 , 1 , 1 - trichloro - 2 , 2 - bis ( 4 - chlorophenyl ) ethane degradation
+2 , 4 - dichlorobenzoate degradation
+1 , 2 - dichloroethane degradation
+tetrachloroethene degradation
+styrene degradation
+1 , 4 - dichlorobenzene degradation
+ethylbenzene degradation
+fluorene degradation
+carbazole degradation
+benzoate degradation via coa ligation
+benzoate degradation via hydroxylation
+atrazine degradation
+lipid metabolism
+nucleotide metabolism
+metabolism of cofactors and vitamins
+amino acid metabolism
+amino acid derivative metabolism
+glycan biosynthesis and metabolism
+polyketide biosynthesis
+xenobiotics biodegradation and metabolism
+interaction in the inner space of the nuclear
+positive signal transduction regulation pathway
+negative signal transduction regulation pathway
+negative regulation of toll - like receptor pathway
+positive regulation of toll - like receptor pathway
+regulation of wnt signaling pathway
+negative regulation of wnt signaling pathway
+positive regulation of wnt signaling pathway
+deacetylation
+regulation of igf signaling pathway
+negative regulation of igf receptor signaling pathway
+positive regulation of igf signaling pathway
+akt signaling
+binding of 14 - 3 - 3 and hdac5 in inner space of nucleus
+beta catenin degradation signaling
+gene expression of pias4  ( induced by tgf - beta )
+regulation of estrogen receptor signaling pathway
+negative regulation of estrogen receptor signaling pathway
+positive regulation of estrogen receptor signaling pathway
+blood circulation
+regulation of blood vessel size
+vasoconstriction
+muscle cell differentiation
+smooth muscle cell differentiation
+regulation of transcription
+positive regulation of transcription
+regulation of gene expression
+positive regulation of gene expression
+negative regulation of gene expression
+negative regulation of transcription
+negative regulation of translation
+positive regulation of translation
+regulation of translation
+signaling pathway
+tryptophan biosynthesis
+camp mediated signaling
+adenylate cyclase activation signaling
+phosphorylation of jnk by mkk_p in cytosol
+autophosphorylation of jak2 in cytosol
+cellulose biosynthesis
+actin filament reorganization during cell cycle
+lif signaling pathway
+wnt signaling pathway  ( xenopus )
+wnt signaling pathway  ( mammalia )
+wnt signaling pathway  ( drosophila )
+c . elegans endoderm induction wnt signaling pathway
+transcription by beta - catenin tcf complex and smad4  ( xenopus )
+transcription by beta - catenin tcf complex  ( mammals )
+transcription by beta - catenin tcf complex  ( drosophila )
+transcription by beta - catenin tcf complex and smad4  ( mammals )
+transcription by beta - catenin tcf complex  ( xenopus )
+binding of il - 7 and il - 7 receptor and conformational change of receptors in plasma membrane
+drosophila toll - like receptor signaling
+binding of pgrp - sa and gnbp1  [ drosophila ]
+binding of pgrp - sa:gnbp1 and pgn  [ drosophila ]
+binding of pgrp - sd and pgn  [ drosophila ]
+binding of gnbp3 and beta1 - 3 glucan  [ drosophila ]
+activation of serine protease  [ drosophila ]
+activation of psh by gnbp3  [ drosophila ]
+activation of spaetzle by serine protease  [ drosophila ]
+activation of spaetzle by psh  [ drosophila ]
+binding of toll and spaetzle  [ drosophila ]
+dimerization of toll by spaetzle  [ drosophila ]
+binding of toll and dmyd88:tube  [ drosophila ]
+binding of toll:dmyd88:tube and pelle  [ drosophila ]
+autophosphorylation of pelle  [ drosophila ]
+dissociation of toll:dmyd88:tube and pelle  [ drosophila ]
+phosphorylation of dtraf2 by pelle_p  [ drosophila ]
+binding of dtraf2 and ref ( 2 ) :dapkc  [ drosophila ]
+nuclear import of dtraf2:ref ( 2 ) p:dapkc  [ drosophila ]
+phosphorylation of cactus  [ drosophila ]
+dissociation of cactus_p and dif  [ drosophila ]
+dissociation of cactus_p and dorsal:dif  [ drosophila ]
+nuclear import of dif  [ drosophila ]
+nuclear import of dorsal  [ drosophila ]
+nuclear import of dorsal:dif  [ drosophila ]
+activation of dif  [ drosophila ]
+activation of dorsal  [ drosophila ]
+activation of dif:dorsal  [ drosophila ]
+binding of dif and nf - kappab binding sequence  [ drosophila ]
+binding of dorsal and nf - kappab binding sequence  [ drosophila ]
+binding of dif:dorsal and nf - kappab binding sequence  [ drosophila ]
+transcription of antimicrobial peptide by dif  [ drosophila ]
+transcription of antimicrobial peptide by dorsal  [ drosophila ]
+transcription of antimicrobial peptide by dif:dorsal  [ drosophila ]
+dif signaling  [ drosophila ]
+dorsal signaling  [ drosophila ]
+dif:dorsal signaling  [ drosophila ]
+expression of antimicrobial peptide by relish  [ drosophila ]
+expression of drosomycin by relish  [ drosophila ]
+expression of cecropin by relish  [ drosophila ]
+expression of diptericin by relish  [ drosophila ]
+drosophila imd pathway  [ drosophila ]
+binding of pgrp - lc and pgn  [ drosophila ]
+binding of pgrp - lc and lps  [ drosophila ]
+binding of pgrp - le and pgn  [ drosophila ]
+binding of pgrp - lc and imd  [ drosophila ]
+binding of imd and dfadd  [ drosophila ]
+binding of dfadd and dredd  [ drosophila ]
+binding of dnr - 1 and dredd  [ drosophila ]
+activation of tak1 by imd  [ drosophila ]
+phosphorylation of dmikk by tak1  [ drosophila ]
+phosphorylation of relish by ikk  [ drosophila ]
+cleavage and activation of relish by dredd  [ drosophila ]
+nuclear import of relish  [ drosophila ]
+binding of relish and nf - kappab binding sequence  [ drosophila ]
+transcription of antimicrobial peptide by relish  [ drosophila ]
+expression of drosocin by relish  [ drosophila ]
+expression of attacin by relish  [ drosophila ]
+expression of defensin by dif:relish  [ drosophila ]
+dissociation of cactus_p and dorsal  [ drosophila ]
+transacetylation
+dissociation of nf - kappab and i - kappab  [ mammals ]
+phosphorylation of i - kappab_p by ikk complex_p  [ mammals ]
+binding of dif:relish and nf - kappab binding sequence  [ drosophila ]
+transcription of defensin by dif:relish  [ drosophila ]
+regulation of drosophila toll receptor signaling
+negative regulation of toll receptor signaling
+positive regulation of toll receptor signaling
+cellular defense  ( activated blood cell )
+filopodium formation
+cell fate determination
+mesodermal cell fate determination
+mesoderm development
+endoderm development
+endodermal cell fate determination
+wnt signaling pathway  ( c . elegans )
+transcription by beta - catenin tcf complex  ( c . elegans )
+glycosylation
+hedgehog signaling pathway
+cleavage
+intercellular transport
+cell fate commitment
+cell - cell signaling involved in cell fate commitment
+induction
+lateral inhibition
+cell - cell signaling
+dissociation of axin ,  apc ,  gsk3beta and beta - catenin
+fgf receptor signaling pathway
+hgf receptor signaling pathway
+vegf receptor signaling pathway
+translation of defensin  [ drosophila ]
+transcription of drosocin by relish  [ drosophila ]
+translation of drosocin  [ drosophila ]
+transcription of attacin by relish  [ drosophila ]
+translation of attacin  [ drosophila ]
+transcription of cecropin by relish  [ drosophila ]
+translation of cecropin  [ drosophila ]
+transcription of diptericin by relish  [ drosophila ]
+translation of diptericin  [ drosophila ]
+transcription of drosomycin by relish  [ drosophila ]
+translation of drosomycin  [ drosophila ]
+transcription of antimicrobial peptide  [ drosophila ]
+covalent binding
+colocalization
+disulfide binding
+transglutamination
+dna cleavage
+lipid cleavage
+defarnesylation
+degeranylation
+demyristoylation
+depalmitoylation
+mrna cleavage
+protein cleavage
+deglycosylation
+formylation
+amidation
+deformylation
+neddylation
+deneddylation
+desumoylation
+deubiquitination
+lipid addition
+genetic interaction
+suppression
+suppression expression alteration
+suppression overexpression
+suppression underexpression
+suppression mutation
+suppression knockout
+suppression partial alteration
+synthetic phenotype
+synthetic lethal
+synthetic growth effect
+conditional synthetic lethal
+suppression scalable
+conditional synthetic lethal nutrition - sensitivity
+conditional synthetic lethal temperature - sensitivity
+synthetic growth defect
+synthetic growth increase
+nervous system malformation
+neural tube defect
+nervous system disease
+spinal dysraphism
+morphogenesis of embryonic epithelium
+embryonic epithelial tube formation
+morphogenesis of an epithelium
+neural tube formation
+neural tube closure
+neural plate morphogenesis
+nervous system development
+tube morphogenesis
+organ development
+tube development
+nonenzymatic reaction
+enzymatic reaction
+fgf8 signaling pathway ( xenopus )
+fgf8 signaling pathway ( mouse )
+expression of antimicrobial peptide by dif  [ drosophila ]
+expression of cecropin by dif  [ drosophila ]
+expression of drosomycin by dif  [ drosophila ]
+expression of diptericin by dif  [ drosophila ]
+expression of antimicrobial peptide by dif:dorsal  [ drosophila ]
+expression of antimicrobial peptide by dorsal  [ drosophila ]
+expression of drosomycin by dorsal  [ drosophila ]
+transcription of drosomycin by dorsal  [ drosophila ]
+transcription of cecropin by dif  [ drosophila ]
+transcription of drosomycin by dif  [ drosophila ]
+transcription of diptericin by dif  [ drosophila ]
+cell division
+elongation
+phosphotransfer
+synthetic interaction
+asynthetic interaction
+suppressive interaction
+epistatic interaction
+conditional interaction
+enhancement interaction
+additive interaction
+single nonmonotonic interaction
+double nonmonotonic interaction
+cleavage of spaetzle by serine protease  [ drosophila ]
+cleavage of spaetzle by psh  [ drosophila ]
+demethylation
+nucleoside triphosphatase reaction
+atpase reaction
+gtpase reaction
+toll receptor signaling
+regulation of toll receptor signaling
+binding of tgf beta super family:type ii receptor and type i receptor in plasma membrane
+rna cleavage
+nucleic acid cleavage
+circulatory system process
+muscle system process
+skeletal muscle atrophy
+signal transduction regulation pathway
+phosphorylation of transcriptional regulator by mapk_p in cytosol
+eye development
+compound eye development
+vulval development
+multicellular organismal development
+larval development
+reproductive process in a multicellular organism
+multicellular organism reproduction
+ovulation
+regulation of hedgehog signaling pathway
+negative regulation of hedgehog signaling pathway
+autocleavage and cholesterol modification of hedgehog in er
+hedgehog cleavage and lipidation
+mesoderm migration
+open tracheal system development
+respiratory system development
+trachea development
+system development
+anatomical structure development
+tissue development
+reproductive structure development
+sex differentiation
+reproductive developmental process
+negative regulation of fgf receptor signaling pathway
+bmk cascade
+receptor clustering
+nonribosomal peptide biosynthesis
+neurotransmitter transport
+rhythmic process
+circadian behavior
+carboxylic acid metabolism
+alcohol metabolism
+amino acid and derivative metabolism
+amide metabolism
+nucleobase ,  nucleoside ,  nucleotide and nucleic acid metabolism
+coa biosynthesis
+b cell proliferation
+t cell proliferation
+t cell differentiation
+cell activation
+lymphocyte activation
+nk cell activation
+amnioserosa formation
+ectoderm formation
+ectoderm development
+lung development
+skin development
+male gonad development
+chemotaxis
+mitosis
+epithelial cell differentiation
+endothelial cell differentiation
+epithelium development
+endothelium development
+epidermis development
+palate development
+glial cell differentiation
+oligodendrocyte development
+blood vessel morphogenesis
+artery morphogenesis
+regulates

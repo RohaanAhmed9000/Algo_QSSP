@@ -1,0 +1,45 @@
+a statement providing information about the confidence in an assertion ,  meaning ,  an information about the level of certainty that an assertion is correct .
+a confidence information statement defined from a single evidence .
+a confidence information statement defined from a set of evidence lines .
+a confidence statement from single evidence related to assertions supported by a highly reliable evidence .
+a confidence statement from single evidence related to assertions supported by moderately trusted evidence .
+a confidence statement from single evidence related to assertions supported by not - trusted evidence .
+a confidence statement from multiple evidence lines ,  all using a same experimental or computational type .
+a confidence statement from multiple evidence lines ,  of different experimental or computational types .
+a confidence statement from multiple evidence lines of multiple types ,  that are all congruent .
+a confidence statement from multiple evidence lines of multiple types ,  some of which being contradictory .
+a confidence statement from conflicting evidence lines of multiple types ,  where evidence lines are in strong contradiction ,  meaning that the supporting evidence lines yield different conclusion ,  several of them being equally likely to be true .
+a confidence statement from conflicting evidence lines of multiple types ,  where evidence lines are in weak contradiction ,  meaning that the overall supported assertion is believed to be true ,  but a subset of less - reliable evidence lines are in contradiction .
+a confidence statement from congruent evidence lines of multiple types ,  of an overall high confidence level .
+a confidence statement from congruent evidence lines of multiple types ,  of an overall moderately trusted confidence level .
+a confidence statement from congruent evidence lines of multiple types ,  of an overall not - trusted confidence level .
+confidence statement from multiple evidence lines of same type ,  some of which being contradictory .
+confidence statement from multiple evidence lines of same type ,  that are all congruent .
+a confidence statement from congruent evidence lines of same type ,  of an overall high confidence level .
+a confidence statement from congruent evidence lines of same type ,  of an overall not - trusted confidence level .
+a confidence statement from congruent evidence lines of same type ,  of an overall moderately trusted confidence level .
+confidence statement from conflicting evidence lines of same type ,  where evidence lines are in strong contradiction ,  meaning that the supporting evidence lines yield different conclusion ,  several of them being equally likely to be true .
+confidence statement from conflicting evidence lines of same type ,  where evidence lines are in weak contradiction ,  meaning that the overall supported assertion is believed to be true ,  but a subset of less - reliable evidence lines are in contradiction .
+confidence statement from weakly conflicting evidence lines of same type ,  of an overall high confidence level .
+confidence statement from weakly conflicting evidence lines of same type ,  of an overall not - trusted confidence level .
+confidence statement from weakly conflicting evidence lines of same type ,  of an overall moderately trusted confidence level .
+confidence statement from weakly conflicting evidence lines of multiple types ,  of an overall high confidence level .
+confidence statement from weakly conflicting evidence lines of multiple types ,  of an overall not - trusted confidence level .
+confidence statement from weakly conflicting evidence lines of multiple types ,  of an overall moderately trusted confidence level .
+a confidence information element representing the different levels of confidence ,  used to compose confidence information statements .
+a confidence level representing a high trust in an evidence .
+a confidence level representing a moderate trust in an evidence .
+a confidence level representing an absence of trust in an evidence .
+a confidence information element representing the type of concordance of evidence lines supporting an assertion ,  used to compose confidence information statements .
+an evidence concordance of multiple evidence lines that are congruent .
+an evidence concordance of multiple evidence lines that are conflicting .
+a conflicting concordance for evidence lines that are strongly conflicting .
+a conflicting concordance for evidence lines that are weakly conflicting .
+an evidence type concordance for evidence lines that are from a same type .
+an evidence type concordance for evidence lines that are from different types .
+a confidence statement from single evidence related to assertions that have been rejected ,  for instance ,  following paper retraction ,  author misinterpretation ,  or curator misinterpretation .
+confidence information element represent intrinsic properties of confidence information statements ,  allowing to compose them .
+a confidence information element representing the concordance of experimental or computational types of evidence lines supporting an assertion ,  used to compose confidence information statements .
+an evidence concordance for confidence information about an assertion produced from a single evidence .
+x provides greater confidence than y iff both x and y provide a confidence information level ,  and the level of confidence provided by x is greater than the level of confidence provided by y .
+an evidence concordance for confidence information about an assertion produced from multiple evidence lines .

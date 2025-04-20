@@ -1,0 +1,178 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+gross anatomical part
+peptide
+deoxyribonucleic acid
+molecular entity
+nucleic acid
+ribonucleic acid
+macromolecule
+cell
+cultured cell
+experimentally modified cell in vitro
+environmental material
+geographic location
+biological_process
+measurement unit label
+objective specification
+action specification
+datum label
+data item
+symbol
+information content entity
+scalar measurement datum
+directive information entity
+algorithm
+curation status specification
+data set
+data about an ontology part
+plan specification
+measurement datum
+textual entity
+document
+publication
+publication about an investigation
+time measurement datum
+documenting
+assigning a centrally registered identifier
+centrally registered identifier symbol
+centrally registered identifier
+centrally registered identifier registry
+human pathogenicity disposition
+planned process
+biological feature identification objective
+processed material
+investigation
+evaluant role
+reporting party role
+assay
+sample preparation for assay
+culture medium
+material processing
+responsible party role
+principal investigator role
+specimen role
+investigation agent role
+organization
+protocol
+drawing a conclusion based on data
+planning
+extract
+averaging objective
+assay objective
+material transformation objective
+study design execution
+material separation objective
+specimen collection process
+sample from organism
+portioning objective
+average value
+separation into different composition objective
+specimen collection objective
+material sample role
+material sample
+material maintenance objective
+material maintenance
+sequence feature annotation
+infectious agent
+service consumer role
+service provider role
+sequence data
+individual organism identifier
+age measurement assay
+age measurement datum
+service
+tissue specimen
+material maintenance service
+sequence assembly algorithm
+material service
+material analysis service
+material storage service
+genbank id
+investigation description
+specimen identifier
+pubmed id
+average depth of sequence coverage
+specimen collection time measurement datum
+latitude coordinate measurement datum
+longitude coordinate measurement datum
+investigation title
+organism identification objective
+organism identification assay
+sequence annotation algorithm
+bioinformatics resource center
+country name
+investigation identifier
+grant identifier
+grant
+contact representative role
+specimen collector role
+organization of specimen provider principal investigator
+organization of bioinformatics resource center contact person
+target material in specimen specification
+bioinformatics resource center contact person
+specimen - based scope of investigation specification
+specimen repository organization
+email address of bioinformatics resource center contact person
+sequencing facility contact person
+specimen provider principal investigator
+email address of specimen collector
+sequencing facility organization
+specification of data to be generated in an investigation
+organization of specimen collector
+email address of sequencing facility contact person
+specimen collector
+investigation assay specification
+organization of sequencing facility contact person
+comment on investigation
+target capture specification
+specimen identifier assigned by specimen repository
+specimen identifier assigned by sequencing facility
+sample preparation for sequencing assay
+email address of specimen provider principal investigator
+sequencing service
+conclusion based on data
+cell freezing medium
+scalar value specification
+value specification
+grant agency
+sequence annotation
+sequence annotation provider
+sequence assembly name
+sequence annotation reporting role
+organism
+specimen
+cultured cell population
+data transformation
+data transformation objective
+averaging data transformation
+extraction
+storage
+study design
+collecting specimen from organism
+material component separation
+maintaining cell culture
+establishing cell culture
+sequencing assay
+nucleic acid extraction
+infection
+disposition to infect an organism
+pathologic process
+disease
+age
+biological sex
+quality of a single physical entity
+organismal quality
+protein
+region
+sequence_assembly
+assembly
+time unit

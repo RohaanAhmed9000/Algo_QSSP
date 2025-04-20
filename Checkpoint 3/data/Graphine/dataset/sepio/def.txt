@@ -1,0 +1,92 @@
+b is an independent continuant = def .
+p is a process = def .
+b is a specifically dependent continuant = def .
+b is a generically dependent continuant = def .
+a database is an organized collection of data ,  today typically in digital form .
+a label is a symbol that is part of some other datum and is used to either partially define  the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+a report that is published in a journal
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+a generically dependent continuant that is about some thing .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective .
+a document assembled by an author for the purpose of providing information for the audience .
+a data item that is an aggregate of other data items of the same type that have something in common .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+a textual entity that contains a two - dimensional arrangement of texts repeated at regular intervals across a spatial range ,  such that the spatial relationships among the constituent texts expresses propositions
+an information content entity consisting of a two dimensional arrangement of information content entities such that the arrangement itself is about something .
+a collection of information content entities intended to be understood together as a whole
+a document that has been accepted by a publisher
+a document that has been accepted by a patent authority
+a processual entity that realizes a plan which is the concretization of a plan specification .
+a planned process that consists of parts: planning ,  study design execution ,  documentation and which produce conclusion ( s )  .
+a quantitative confidence value that represents the probability of obtaining a result at least as extreme as that actually obtained ,  assuming that the actual value was the result of chance alone .
+a population is a collection of individuals from the same taxonomic class living ,  counted or sampled at a particular site or in a particular area
+a quantitative confidence value which is the standard deviations of the sample in a frequency distribution ,  obtained by dividing the standard deviation by the total number of cases in the frequency distribution .
+a planned process in which data gathered in an investigation is evaluated in the context of existing knowledge with the objective to generate more general conclusions or to conclude that the data does not allow one to draw general conclusion
+a measurement datum that is reported on a categorical scale
+a label that is part of a categorical datum and that indicates the value of the data item on the categorical scale .
+an assay with the objective to characterize the disposition of two or more material entities to form a complex .
+a value specification that is specifies one category out of a fixed number of nominal categories
+an information content entity that specifies a value within a classification scheme or on a quantitative scale .
+an assay that determines the specific location of a protein .
+a information content entity that has undergone a digital curation performed by a curator for accuracy checks and compliance with curation requirements .
+a material entity that consists of two or more organisms ,  viruses ,  or viroids .
+a domestic group ,  or a number of domestic groups linked through descent  ( demonstrated or stipulated )  from a common ancestor ,  marriage ,  or adoption .
+an abstract entity representing the sharable meaning of what is expressed in a particular assertion .
+an information content entity representing a statement made by a particular agent on a particular occasion that a particular proposition is true ,  based on the evaluation of one or more lines of evidence .
+an evidence line represents an independent and meaningful argument for or against a particular proposition ,  that is based on the interpretation of one or more pieces of information as evidence .
+an act of interpreting evidence to make an assertion of belief that a particular proposition is true
+a planned process executed in the performance of scientific research wherein systematic investigations are performed to establish facts and reach new conclusions about phenomena in the world .
+a directive information entity that specifies an algorithm or heuristics for evaluating evidence in the process of making an assertion .
+a role borne by a  person ,  group ,  organization ,  or information processing entity  ( e .g .
+a role inhering in any material or information artifact that is used by an agent as specified input into a planned process .
+an assertion process performed through algorithmic analysis by a computational agent ,  independent of human review .
+the process history leading to the creation and current condition of an artifact .
+a study that involves primary research of subjects or specimens in a natural ,  cliniclal ,  or laboratory setting .
+formal clinical study performed using cohorts of multiple patients
+a research dtudy perfomred using an experimental model system such as a cell line ,  or model organism .
+a study based only on analysis of existing data ,  as found in artifacts such as community / curated databases ,  raw datasets ,  or publications .
+a curation - based study that uses only one or more literature publication as input data source .
+a study based on analysis of data gathered from baseline studies of a 	population group of apparently unaffected individuals to assess allele frequencies
+a planned proccess that executes some study design or protocol to generate scientific data that is interpreted to test or generate a hypothesis .
+a group of individuals  ( organisms ,  specimens ,  samples )  that are subjects in an observational or intervention study ,  and whose members represent experimental replicates as defined in a study design by the same independent variable specifications  ( i .e .
+a planned process in which existing data is collected ,  organized ,  and improved in preparation for subsequent use .
+a categorical value indicating the degree of support an agent believes an evidence line to provide for a particular proposition .
+a study that documents observations or findings from a single patent .
+an information content entity that is used as evidence to evaluate the validity of a target assertion or proposition .
+an autonomous computer program that carries out tasks on behalf of users .
+the actions taken by a particular agent in the creation ,  modification ,  assessment ,  or descruction of an artifact .
+a statement about the outcome of a scientific experiment or study ,  describing what an agent observed ,  what a device recorded ,  or mathematical calculations derived .
+an information content entity expressing a declarative sentence that is either true or false .
+a statement describing something that was observed or recorded .
+a statement  ( ie an assertion or finding )  that is used as evidence to evaluate the validity of a target assertion or proposition .
+research data ,  or a product derived from research data such as data sets or figures ,  that are used as evidence to evaluate the validity of a target assertion or proposition .
+a study with the goal of assessing and documenting phenotypes exhibited by one or more patients .
+a categorical value indicating the degree to which the observation or proposition made in a statement is beleived to be true .
+a data item that is about the frequency with which a phenomenon occurs .
+chi - squared statistic is a statistic computed from observations and used to produce a p - value in statistical test when compared to a chi - squared distribution .
+a statistic is a measurement datum to describe a dataset or a variable .
+effect size estimate is a data item about the direction and strength of the consequences of a causative agent as explored by statistical methods .
+a z - score  ( also known as z - value ,  standard score ,  or normal score )  is a measure of the divergence of an individual experimental result from the most probable result ,  the mean .
+r2 is a correlation coefficient which is computed over the frequency of 2 dichotomous variable and is used as a measure of linkage disequilibrium and as input data item to the creation of an ld plot
+the correlation coefficient of two variables in a data sample is their covariance divided by the product of their individual standard deviations .
+t - statistic is a statistic computed from observations and used to produce a p - value in statistical test when compared to a student's t distribution .
+a ratio is a data item which is formed with two numbers r and s is written r / s ,  where r is the numerator and s is the denominator .
+is a population whose individual members realize  ( may be expressed as )  a combination of  inclusion rule values specifications or resulting from a sampling process  ( e .g .
+a tetrachoric correlation coefficient is a polychoric correlation coefficient for 2 dichotomous variables used as proxy for correlation between 2 continuous latent variables .
+kendall's correlation coefficient is a correlation coefficient between 2 ordinal variables  ( natively or following a ranking procedure )  and may be used when the conditions for computing pearson's correlation are not met  ( e .g linearity ,  normality of the 2 continuous variables ) 
+relative risk is a measurement datum which denotes the risk of an 'event' relative to an 'exposure' .
+polychoric correlation coefficient is a correlation coefficient which is computed over 2 variables to characterise an association by proxy with 2   ( latent )  variables which are assumed to be continuous and normally distributed .
+f statistic is a statistic computed from observations and used to produce a p - value in statistical test when compared to a f distribution .
+root - mean - square standardized effect is a data item which denotes effect size in the context of analysis of variance and corresponds to the square root of the arithmetic average of p  standardized effects   ( effects normalized to be expressed in standard deviation units )  .
+eta - squared is a biased estimator of the variance explained by the model in the population  ( it estimates only the effect size in the sample )  .
+omega - squared is a effect size estimate for variance explained which is less biased than the eta - squared coefficient .
+hedges's g is an estimator of effect size which is similar to cohen's d and is a measure based on a standardized difference however the denominator  ,  corresponding to a pooled standard deviation ,  is computed differently from cohen's d coefficient ,  by applying a correction factor  ( which involves a gamma function ) 
+glass's delta is an estimator of effect size which is similar to cohen's d but where the denominator corresponds only to the standard deviation of the control group  ( or second group )  .
+associations are a form of proposition ,  framed as a tuple linking two  ( or more )  entities through defined relationships .
+the number of elements of a finite set of objects .
+the biological quality of membership in a social group based on a common heritage
+an ethnic group is a group of people whose members identify with each other through a common heritage ,  consisting of a common culture ,  including a shared language or dialect
+an activity is something that occurs over a period of time and acts upon or with entities ;  it may include consuming ,  processing ,  transforming ,  modifying ,  relocating ,  using ,  or generating entities .
+an agent is something that bears some form of responsibility for an activity taking place ,  for the existence of an entity ,  or for another agent's activity .
+a human being regarded as an individual .

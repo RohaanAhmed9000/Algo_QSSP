@@ -1,0 +1,716 @@
+formation of a covalent bond between a substrate and a formyl group .
+formation of a covalent bond between a substrate and an silyl group .
+formation of a covalent bond between a substrate and an alkyl group .
+formation of a covalent bond between a substrate and a hydrocarbyl group .
+formation of a covalent bond between a substrate and an aryl group .
+formation of a covalent bond between a substrate and an allyl group .
+formation of a covalent bond between a substrate and an organyl group .
+formation of a covalent bond between a substrate and an acyl group .
+formation of a covalent bond between a substrate and a sulfonyl group .
+a process in which at least one of the participants is a molecule .
+formation of a covalent bond between a substrate and a halo group .
+formation of a covalent bond between a substrate and an imino group .
+formation of a covalent bond between a substrate and a nitro group .
+formation of a ring in a molecule from a chain by formation of a new bond .
+a molecular process where two or more unsaturated molecules or parts of the same molecule combine to form a cyclic adduct in which there is a net reduction of bond multiplicity .
+a cycloaddition in which each participant contributes two electrons to the transformation of reactants to products .
+a molecular process in which a cyclic system decomposes into two or more unsaturated molecules or parts of the same molecule and there is a net increase in bond multiplicity .
+a cycloaddition in which one participant contributes four electrons and the other participant contributes two electrons to the transformation of reactants to products .
+formation of a covalent bond between a substrate and a group .
+breaking of a covalent bond between a substrate and a group .
+the complete ,  net removal of one or mole electrons from a molecular entity ,  corresponding to an increase in the oxidation number of any atom within any substrate .
+the complete transfer of one or more electrons to a molecular entity .
+the transfer of an electron to a molecular entity ,  resulting in a molecular entity of increased negative charge .
+a reduction in which an aldehyde is reduced to form a primary alcohol .
+an oxidation process where an alcohol is transformed into a carbonyl compound .
+an oxidation process where a primary alcohol is transformed into an aldehyde .
+an oxidation process where a secondary alcohol is transformed into a ketone .
+an oxidation process where an amine is transformed into an imine .
+a reduction process where an imine is transformed into an amine .
+a reduction process where the oxidation state carbonyl carbon in the ester functionality is reduced .
+an ester reduction where the product is the corresponding aldehyde .
+an ester reduction where the product is the corresponding primary alcohol .
+a reduction process where a ketone is reduced to a secondary alcohol .
+an oxidation process where the oxidation state of at least one doubly - bonded carbon atom increases .
+an alkene oxidation where the product is the corresponding 1 , 2 - diol .
+an alkene oxidation where the reagent is ozone and the product is the corresponding ozonide .
+an alkene oxidation process where the reactant is a primary alkene and the products are carboxylic acid and carbon dioxide .
+an alkene oxidation where the reactant is a tertiary alkene and the products are the corresponding carboxylic acid and ketone .
+an alkene oxidation process where the reactant is a secondary alkene and the products are the corresponding aldehydes .
+an alkene oxidation process where the reactant is a secondary terminal alkene and the products are carbon dioxide and the corresponding ketone .
+an alkene oxidation process where the reactant is a quaternary alkene and the products are the corresponding ketones .
+a reduction process that involves addition of hydrogen atoms across a double bond .
+formation of a covalent bond between a substrate and a pseudohalo group .
+a reaction in which two or more reactants or remote reactive sites within the same molecular entity yield a single main product with accompanying formation of a small molecule .
+a condensation reaction where the small molecule produced is water .
+formation of a covalent bond between a substrate and an amino group .
+a molecular process where two groups are lost with concomitant formation of an unsaturation in the molecule or formation of a new ring .
+a cyclisation that results in the formation of an epoxide .
+an oxidation process where the oxidation state of at least one sulfur atom increases .
+an oxidation process where the oxidation state of at least one nitrogen atom increases .
+a formal account of the degree of oxidation of an atom .
+formation of a covalent bond between a molecule and a carboxy group .
+oxidation of a carbonyl group to an alkyne .
+a cycloaddition in which one participant contributes three electrons and the other participant contributes two electrons to the transformation of reactants to products .
+molecular process in which an aldehyde or ketone tautomerises to form an enol .
+disposition that is realised in the process of enolisation
+a carbonyl compound that bears the disposition to be enolised .
+breaking of a covalent bond between an alkyl group and an oxygen atom .
+a cycloaddition in which two participants contribute two electrons and the other participant contributes one electron to the transformation of reactants to products .
+a reaction in which two or more reactants or remote reactive sites within the same molecular entity yield a single main product with accompanying formation of a carbon dioxide molecule .
+a reaction in which two or more reactants or remote reactive sites within the same molecular entity yield a single main product with accompanying formation of an ethanol molecule .
+catalysis of a reaction where the catalyst either donates a hydron or accepts an electron pair .
+a reaction in which one singly - bonded group ,  but not the hydrogen atom ,  is replaced by another singly - bonded group .
+a substitution reaction in which one singly - bonded substituent on an aromatic skeleton is replaced by another singly - bonded substituent .
+a substitution reaction in an allylic system with concomitant migration of the allyl double bond .
+a substitution reaction where the reactive centre is a nitrogen atom .
+a substitution reaction where the reactive centre is an oxygen atom .
+a substitution reaction where the reactive centre is a sulfur atom .
+formation of a covalent bond with a group where the free valence is on a nitrogen centre .
+breaking of a covalent bond between an alkyl group and a substrate .
+breaking of a covalent bond between a substrate and an organyl group .
+breaking of a covalent bond between a substrate and a halo group .
+breaking of a covalent bond between a molecule and a carboxy group .
+formation of a covalent bond between a nitrogen atom in a substrate and a methyl group .
+formation of a covalent bond between a nitrogen atom in a substrate and an alkyl group .
+formation of a covalent bond between a nitrogen atom in a substrate and an aryl group .
+formation of a covalent bond between a nitrogen atom in a substrate and an acyl group .
+formation of a covalent bond between a nitrogen atom in a substrate and a sulfonyl group .
+formation of a covalent bond between an oxygen atom in a substrate and a silyl group .
+formation of a covalent bond between an oxygen atom in a substrate and an acyl group .
+formation of a covalent bond between an oxygen atom in a substrate and a sulfonyl group .
+the formation of a covalent bond between a phosphorus atom and an alkyl group .
+a reaction where the number of atoms in the molecular skeleton increases .
+a molecular process with which the experimenters aim to achieve a particular molecular transformation .
+a reaction where a bond is formed between two carbon atoms .
+an aldol condensation where an aryl aldehyde reacts with an acid anhydride to form a cinnamic acid .
+a reaction in which the number of atoms in any ring changes between the reactant and the products .
+a planned reaction step where the product contains a ring that was not in any of the reactants .
+a  [ 4 + 2 ]  cycloaddition reaction where a diene reacts with a compound containing a double or triple bond  ( a dienophile )  to form an unsaturated six - membered ring compound .
+a joining reaction where an alkene with an allylic hydrogen reacts with a compound containing a multiple bond  ( an enophile )  to form a substituted alkene .
+a joining reaction where a nucleophile adds to the beta - carbon of an alpha , beta - unsaturated system  ( or an activated carbon - carbon bond )  .
+a conjugate addition reaction where a carbon nucleophile adds to the beta - carbon of an alpha , beta - unsaturated system  ( or an activated carbon - carbon bond )  .
+a reaction where the number of atoms in the skeleton ,  and their connectivity ,  remain the same .
+a reaction in which a functional group undergoes a change that does not affect the number of atoms in  ( or connectivity of )  the skeleton of the molecule .
+a functional group modification reaction where a functional group is oxidised .
+a functional group oxidation where an aromatic amine is transformed into an aromatic diazonium salt .
+a carbon - carbon coupling reaction where a grignard reagent reacts with a compound containing an electrophilic carbon atom .
+a carbon - carbon coupling reaction where a carbonyl compound reacts with a phosphonium ylide to give an alkene .
+a carbon - carbon coupling reaction where an enol or enolate reacts with a carbonyl compound to form a beta - hydroxy ketone .
+an aldol addition where an enol or enolate reacts with a carbonyl compound to form an alpha , beta - unsaturated ketone .
+a ring formation reaction where a 1 , 3 - dipolar compound reacts with an alkene or alkyne to form a five - membered ring compound .
+an aromatic substitution reaction where an aryl diazonium salt reacts with a copper ( i )  halide or pseudohalide to form an aromatic halide or pseudohalide .
+an aromatic substitution reaction where an aryl diazonium salt reacts with copper powder and hydrochloric acid or hydrobromic acid to form an aromatic chloride or bromide .
+an aromatic substitution reaction where an aryl diazonium salt reacts with a copper ( ii )  halide to form an aromatic halide .
+a carbon - carbon coupling reaction where an organohalide or triflate couples to a terminal olefin to produce an internal olefin ,  catalysed by palladium .
+a reaction which preserves the number of rings and number of skeletal atoms and in which the molecule rearranges so that one or more atoms or groups of atoms move from one atom to another .
+a rearrangement where an oxime rearranges to form an amide .
+a  [ 3 , 3 ]  - sigmatropic rearrangement where a 1 , 5 - hexadiene rearranges to form a 1 , 5 - hexadiene .
+a  [ 3 , 3 ]  - sigmatropic rearrangement of a 3 - hydroxy - 1 , 5 - hexadiene rearranges to form a 5 , 6 - unsaturated carbonyl compound .
+a joining reaction in which one or more atoms are added to the middle of a chain .
+a reaction of a ketone to give an ester ,  in which an alkyl ,  benzyl or phenyl group migrates from one of the alpha - carbon centres to an adjacent oxygen ,  displacing an oxygen - based leaving group ;  the result is a formal insertion of an oxygen atom .
+a carbon - carbon coupling reaction where ammonia or an amine reacts with a non - enolisable aldehyde ,  often methanal ,  and an enolisable carbonyl compound to form a beta - amino carbonyl compound .
+a substitution where an alcohol is converted into something else .
+a carbon - carbon coupling reaction where a stannane reacts with an organohalide or organotriflate .
+a carbon - carbon coupling reaction where an aldehyde or amine reacts with a alpha - halo ester and zinc to form a beta - hydroxy ester .
+a functional group modification reaction where a functional group is reduced .
+a functional group reduction where an aldehyde or ketone carbonyl group is reduced to a methylene with zinc - mercury amalgam and hydrochloric acid .
+a joining reaction where a carbon - carbon bond is formed between like moieties .
+a carbon - carbon homocoupling reaction of an aryl halide mediated by copper .
+a reaction in which two or more groups of atoms are added to the molecule ,  resulting in a change of skeletal bond order .
+addition of hydrogen atoms to aromatic rings by means of alkali metals in liquid ammonia .
+a carbon - carbon coupling reaction of an ester and a carbonyl compound to form a beta - keto ester .
+a carbon - carbon coupling reaction of an aldehyde and a methylene compound .
+a carbon - carbon coupling reaction between an arene and a carbonyl compound  ( usually an acyl halide )  to give an aryl ketone .
+a carbon - carbon coupling reaction between an arene and an alkyl halide / alkene / alcohol  ( anything that can form a carbocation )  to give a substituted arene .
+an oxidation of a secondary alcohol to a ketone involving an equilibrium between the alcohol and a reagent ketone present in excess ,  catalysed by a metal alkoxide .
+a carbon - carbon coupling between formaldehyde and an alkene to give a 1 , 3 - diol or an allylic alcohol ,  catalysed by acid .
+a reaction between formaldehyde and an alkene to give a 1 , 3 - dioxane ,  catalysed by acid .
+a rearrangement of a 1 , 2 - diol to give a carbonyl compound ,  catalysed by acid .
+a rearrangement of a diazoketone to give a ketene ,  with the elimination of molecular nitrogen .
+a reaction in which a fused ring system is present in a product that was not present in any of the reactants .
+a cyclodehydration of a beta - phenethylamide to give a 3 , 4 - dihydroisoquinoline .
+a rearrangement of an acyl azide to give an isocyanate by pyrolysis ,  with the elimination of molecular nitrogen .
+a formylation of an activated arene with a disubstituted formamide to give an arenecarbaldehyde .
+a carbon - carbon coupling reaction between a phosphonate and a carbonyl compound to give an olefin .
+a joining reaction between a phosphine oxide and a carbonyl compound to give an olefin .
+a reaction between an alcohol or alkene and a nitrile to give an amide ,  catalysed by a bronsted acid .
+a condensation - cyclisation of a beta - phenethylamine with an aldehyde to give a tetrahydroisoquinoline .
+the alkylation of a trialkyl phosphite with an alkyl halide or acyl halide to give an alkyl phosphonate .
+an aldol condensation between an aldehyde or ketone and a silyl enol ether  ( also known as a ketene silyl acetal )  to give a beta - hydroxy carbonyl compound .
+a condensation between an aromatic amine and glycerol to give a quinoline .
+a homologation reaction of a carboxylic acid to give the homologated carboxylic acid via acyl chloride and diazoketone intermediates .
+reaction of an aldehyde or ketone with a phenylhydrazine to give an indole .
+an intramolecular cyclisation of a diester to give a cyclic beta - ketoester .
+a joining of an organic azide and a tertiary phosphine to give a phosphazo compound .
+a rearrangement of a hydrazobenzene to give a diaminobiphenyl compound .
+a rearrangement of a p - substituted hydrazobenzene to give a p - aminodiphenylamine .
+a rearrangement of a heterocyclic compound in which endocyclic and exocyclic heteroatoms swap places .
+a molecular skeleton joining reaction in which a chain part of a molecular skeleton is lengthened .
+a cleaving reaction in which a peptide is treated with phenylisothiocyanate ,  removing the terminal amino acid group ,  to form the chain - shortened amine and a phenylthiohydantoin .
+a formylation reaction between a phenol and chloroform  ( for example ,  to form an ortho - formyl phenol )  .
+a reaction where atoms are lost from the molecular skeleton .
+a carbon - carbon homocoupling reaction of two molecules of an alkyl halide with sodium to give a symmetrical product .
+a rearrangement of a 1 , 2 - diketone to an alpha - hydroxy carboxylic acid .
+a carbon - carbon coupling of an aldehyde to an activated alkene in the presence of a nucleophilic base to give an alpha - hydroxyalkylated compound .
+a coupling of an aldehyde or ketone with an alpha - halo ester to form an alpha , beta - epoxy ester ,  which hydrolyses to yield aldehydes or ketones by elimination of carbon dioxide .
+a reaction in which a functional group is modified by converting it into a protecting group ,  in order to make subsequent reactions more selective .
+a protection reaction in which an amine is converted into a tert - butoxycarbonyl compound .
+a carbon - carbon coupling reaction in which an alpha - silyl carbanion reacts with an aldehyde or a ketone to give an alkene ,  proceeding via a beta - hydroxysilane .
+a coupling reaction in which a phenol is coupled to an aryl halide to give a diaryl ether in the presence of a copper compound .
+a coupling reaction in which an acetanilide is coupled to an aryl halide to give an n - acetyl diaryl amine in the presence of a copper compound .
+a photochemical cycloaddition between an aldehyde or ketone and an alkene to give an oxetane .
+a joining reaction between an aldehyde or ketone and an alkyl halide or aryl halide or vinyl halide or allyl halide in the presence of metal to give a secondary or tertiary alcohol .
+a reductive coupling reaction between two esters to give an acyloin  ( an alpha - hydroxyketone )  .
+a carbon - carbon coupling reaction between a nitroalkane and an aldehyde or ketone to give a beta - hydroxy nitroalkane .
+the photolytic oxidation of a nitrate ester to give a gamma - nitroalcohol .
+a carbon - carbon coupling reaction between an organohalide or organotriflate and an organozinc compound .
+a reduction of an aldehyde or ketone to an alcohol involving an equilibrium between the aldehyde or ketone and a reagent alcohol present in excess ,  catalysed by a metal alkoxide .
+the reaction between an alkyl halide or alkyl sulfate and a metal alkoxide to give an ether .
+a carbon - carbon coupling reaction where a carbonyl compound reacts with a phosphonium ylide to give a terminal alkene .
+a diels - alder reaction between a diene and an imine or an azadiene and an alkene to give a six - membered nitrogen - containing ring compound .
+a cleaving reaction in which a skeletal atom or group of atoms is removed from the middle of a molecule .
+the reaction of an alpha - halosulfone to give an alkene ,  with the extrusion of sulfur dioxide .
+the rearrangement of an aromatic nitrosamine to a para - nitrosoaniline .
+a coupling reaction of a diazonium salt with a phenol or aniline to give an azo compound .
+a carbon - carbon coupling reaction where an imine reacts with a alpha - halo ester and zinc to form a beta - amino ester .
+a coupling reaction between two molecules of a terminal alkyne catalysed by cu ( i )  salts .
+a coupling reaction between two molecules of a terminal alkyne using stoichiometric cu ( ii )  salts .
+a coupling reaction between a terminal alkyne and an alkynyl halide catalysed by cu ( i )  salts .
+the reductive amination of ketones or aldehydes with an ammonium formate or formamide to form an amine .
+the reductive amination of ketones or aldehydes with an amine and formic acid to form amines .
+the reaction of primary alkyl halides with sodium or potassium phthalimide ,  followed by hydrolysis ,  to give the corresponding primary amine .
+the reaction of primary alkyl halides with sodium or potassium phthalimide ,  followed by treatment with hydrazine ,  to give the corresponding primary amine .
+a reaction in which a single skeletal atom is removed from the end of a chain .
+the decarboxylation of silver carboxylates with halogens to give organic halides .
+a carbon - carbon coupling reaction between a dialkyl malonate and an alkyl halide ,  to give a substituted acetic acid .
+a reaction in which an existing ring is increased in size .
+the reaction between isatin and an alpha - methylene carbonyl compound to give a substituted quinoline - 4 - carboxylic acid .
+a reaction in which the parent molecule breaks up into three or more products .
+the fragmentation of a molecule that takes place when an electron - donating fragment  ( x )  and an electron - accepting fragment  ( x' )  are situated at positions 1 and 3 on an aliphatic chain ,  to give a cationic fragment ,  a neutral fragment  ( e .g .
+the rearrangement of an alpha -  ,  beta -  or gamma - hydroxy silane to give a silyl ether .
+the reaction of a propargylic cation  ( stabilised with dicobalt octacarbonyl )  with a nucleophile to give a substituted alkyne .
+the reaction of a propargylic cation  ( stabilised with dicobalt octacarbonyl )  with a hydride or amine or enamine to give a substituted alkyne .
+the reaction of a propargylic cation  ( stabilised with dicobalt octacarbonyl )  with a nucleophilic carbon centre  ( on e .g .
+a carbon - carbon coupling reaction between a phenyl sulfone and an aldehyde or ketone to give a  ( typically trans )  alkene .
+the oxidation of a benzylic halide to give an aldehyde .
+the reduction of an ester using sodium to give two alcohols .
+a base - catalysed isomerisation of a 2 , 3 - epoxyalcohol ,  with inversion of configuration at c2 .
+a base - catalysed isomerisation of a 2 , 3 - epoxyamine to form a hydroxy aziridine ,  with inversion of configuration at c2 .
+the base - catalysed rearrangement of an o - acetoxyacetophenone to give a hydroxyphenyl - 1 , 3 - diketone .
+a reaction in which two or more groups of atoms are removed from the molecule ,  resulting in a change of skeletal bond order .
+the reaction of a tosylhydrazone of an aldehyde or ketone with a strong base to give an olefin .
+the reaction of a tosylhydrazone of an aldehyde or ketone with an alkyllithium or grignard reagent to give an olefin .
+the reaction between an aromatic amine ,  an aldehyde and pyruvic acid on heating to give a quinoline 4 - carboxylic acid  ( cinchoninic acid )  .
+the conversion of an aromatic amine to the corresponding fluoride via the diazonium fluoroborate .
+the decarboxylation and coupling of a carboxylate or mixture of carboxylates to give a dimer .
+reaction of a ketone or aldehyde ,  amine ,  an isocyanide and carboxylic acid to form a bisamide .
+the oxidation of a terminal alkene or ethene to a methyl ketone or acetaldehyde ,  catalysed by pdcl2 and cucl2 ,  and using molecular oxygen as the oxidant .
+the oxidation of ethene to acetaldehyde ,  catalysed by pdcl2 and cucl2 ,  and using molecular oxygen as the oxidant .
+the reaction of formaldehyde with methanol to form acetic acid ,  catalysed by a rhodium complex .
+the reaction of formaldehyde with methanol to form acetic acid ,  catalysed by an iridium complex .
+the deoxygenation of an alcohol to the corresponding alkane using a thiochloroformate .
+the decarboxylation of a carboxylic acid to the lower homologue alkane using a pyridine thione .
+the hydrogenolysis of an acyl halide to the corresponding aldehyde ,  catalysed by palladium - on - barium sulfate .
+a carbon - carbon coupling reaction where a terminal alkyne reacts with an aryl halide to give an aryl alkyne .
+a reaction between two aromatic aldehydes to give a benzoin  ( an alpha - hydroxyketone )  .
+the formylation of an arene with hydrogen cyanide to give an aryl aldehyde or ketone .
+the coupling of a boronic acid or boronic ester with an unsaturated halide ,  triflate or sulfonate catalysed by a palladium ( 0 )  complex .
+the epoxidation of an allylic alcohol to give a beta , gamma - epoxy alcohol ,  with control of absolute stereochemistry at the two new stereocentres .
+the dihydroxylation of an alkene to give an alpha , beta - diol ,  with control of absolute stereochemistry at the two new stereocentres .
+the aminohydroxylation of an alkene to give a beta - amino alcohol ,  with control of absolute stereochemistry at the two new stereocentres .
+a cross - coupling reaction between a grignard reagent and an activated  ( aryl or vinyl )  halide or triflate .
+the degradation of a carboxylic acid to its next lower homologous carboxylic acid .
+a homologation reaction of an aldehyde to yield a terminal alkyne .
+a reduction of a quaternary ammonium salt containing at least one unsaturated substituent ,  to give a tertiary amine .
+the  [ 3 , 3 ]  - sigmatropic rearrangement of an allyl vinyl ether to give a gamma , delta - unsaturated carbonyl compound .
+the enolisation and subsequent  [ 3 , 3 ]  - sigmatropic rearrangement of an allylic acetate to give a gamma , delta - unsaturated carboxylic acid .
+a reaction in which one or more atoms are added to the molecular skeleton and a skeletal rearrangement occurs .
+the coupling and subsequent  [ 3 , 3 ]  - sigmatropic rearrangement of an allylic ether or allylic thioether or allylic amine and a ketene to give the corresponding gamma , delta - unsaturated carbonyl compound .
+the coupling and subsequent  [ 3 , 3 ]  - sigmatropic rearrangement of an allylic alcohol and alpha , alpha - dialkoxy ethylamine to give a gamma , delta - unsaturated dialkyl amide .
+the coupling and subsequent  [ 3 , 3 ]  - sigmatropic rearrangement of an allylic alcohol and trimethyl orthoacetate to give a gamma , delta - unsaturated alkyl ester .
+the oxidation of a primary alcohol or secondary alcohol to an aldehyde or ketone respectively .
+the conversion of an alkyl chloride ,  alkyl bromide or alkyl sulfonate ester to an alkyl iodide by sn2 substitution .
+the derivatisation  ( for example with tosyl chloride )  and subsequent rearrangement of a hydroxamic acid to give an isocyanate .
+the conversion of a primary nitroalkane or secondary nitroalkane to an aldehyde or ketone ,  respectively .
+the reaction of a doubly activated methylene compound that has at least one carbonyl substituent with an aryl azide to give a hydrazone .
+the formation of a quinoline from a primary aromatic amine and an alpha , beta - unsaturated carbonyl compound .
+the protection of an amine  ( often a peptide )  as its 9h - fluoren - 9 - ylmethoxycarbonyl derivative .
+the cyclisation of a 1 , 4 - dicarbonyl compound with another molecule to give a five - membered aromatic ring compound .
+the cyclisation of a 1 , 4 - dicarbonyl compound with an acid catalyst to give a furan .
+the cyclisation of a 1 , 4 - dicarbonyl compound with phosphorus pentasulfide to give a thiophene .
+the cyclisation of a 1 , 4 - dicarbonyl compound with an amine to give a pyrrole .
+the coupling of an alcohol or amine with an acyl chloride to give an ester or amide .
+the elimination of a methylated amine from an alkylamine to form an olefin .
+the esterification of a carboxylic acid with an alcohol .
+the degradation of an alpha - hydroxy amide or an alpha , beta - unsaturated amide to the lower homologue aldehyde ,  especially in carbohydrate chemistry .
+the reaction of ortho -  or para - phenolic  ( or ortho -  or para - anilinic )  aldehydes or ketones with hydrogen peroxide to form bisphenols  ( or hydroxy anilines )  and carboxylic acids .
+the reaction of a carboxylic acid with hydrazoic acid to give the lower homologue amine ,  with the loss of the terminal carbon atom .
+the reaction of a ketone with hydrazoic acid with the insertion of an nh group between the carbonyl carbon and one of the r groups to form an amide .
+the reaction of a tertiary alcohol with hydrazoic acid with rearrangement to form an imide .
+the reaction of an alkene with hydrazoic acid with rearrangement to form an imide .
+the  [ 2 , 3 ]  - sigmatropic rearrangement of a benzyl quaternary ammonium salt to form an aniline .
+the reaction of an amino acid with an acid anhydride to give an alpha - acylamido ketone .
+the cleavage of an oxime to the corresponding nitrile and an alkyl halide .
+the transfer of a hydrogen or halogen atom from a haloalkane to an alkene ,  giving the chain - extended halogenated alkane .
+the allylic oxidation of an alkene with a peroxy ester or a peroxide to give the corresponding allylic alcohol derivative .
+the oxidation of a phenol to give a  ( predominantly para )  diphenol using potassium persulfate .
+the oxidation of a methyl - substituted aromatic compound to the corresponding benzaldehyde using potassium persulfate .
+the oxidation of an aromatic amine to give a  ( predominantly ortho )  amino aryl sulfate using potassium persulfate followed by hydrolysis to yield the corresponding aminophenol .
+the  ( predominantly ortho )  carboxylation of a phenoxide .
+the reaction between an alpha - halocarbonyl compound and a trialkyl phosphite to give an enol phosphate .
+the oxidation of a primary or secondary alcohol to the corresponding aldehyde or ketone respectively using dimethyl sulfoxide ,  1 , 3 - dicyclohexylcarbodiimide and acid .
+the conversion of an aryl alkyl ketone to an amide and / or an ammonium salt of a carboxylic acid using ammonium polysulfide .
+the conversion of an aryl alkyl ketone to an amide using sulfur and dry ammonia or a primary or secondary amine .
+the formation of an ester from two aldehydes via a disproportionation process using a metal alkoxide to oxidise one aldehyde and reduce the other .
+the reaction between a methylene ketone and a polynitro aromatic compound .
+the rearrangement of the sulfonic ester of a ketoxime in base to give an alpha - amino ketone .
+a coupling reaction of an aldehyde to an allyl ,  vinyl or aryl halide or triflate in the presence of chromium ( ii )  .
+a reaction in which an aryl halide or aryl triflate reacts with a primary or secondary amine in the presence of base to give a secondary or tertiary amine .
+a carbon - carbon coupling reaction where an organosilane reacts with an organic halide or triflate .
+the 1 , 2 - rearrangement of an alpha - methylene ammonium salt or alpha - methylene sulfonium salt to an amine or sulfide in the presence of strong base .
+the 1 , 2 - rearrangement of an alpha - methylene ammonium salt to an amine in the presence of strong base .
+the 1 , 2 - rearrangement of an alpha - methylene sulfonium salt to a sulfide in the presence of strong base .
+a  [ 3 , 3 ]  - sigmatropic rearrangement where an aza - 1 , 5 - hexadiene rearranges to form an aza - 1 , 5 - hexadiene .
+the rearrangement of a 2 - aza - 1 , 5 - hexadiene to form an imine .
+the rearrangement of a 3 - aza - 1 , 5 - hexadiene to form a delta , epsilon - unsaturated imine .
+the rearrangement of a delta , epsilon - unsaturated imine to form a 3 - aza - 1 , 5 - hexadiene .
+the rearrangement of an oxazolyl carbonate to a c - carboxyazlactone .
+a reaction in which the number of rings in a molecule stays the same but the connectivity of the atoms in at least one ring changes .
+a reaction in which a protecting group is modified by converting it into a functional group .
+a joining reaction in which two carbon - carbon multiple bonds are redistributed among two fragments .
+a planned reaction step in which the product has fewer rings than the reactants .
+a planned reaction step in which an existing ring is reduced in size .
+an addition reaction between a carbonyl compound ,  an inorganic cyanide and an ammonium salt ,  followed by hydrolysis ,  to give an alpha - amino carboxylic acid .
+the  [ 3 , 3 ]  - sigmatropic rearrangement ,  and subsequent re - aromatisation ,  of an allyl aryl ether to give an ortho - allyl phenol .
+the acid - catalysed cyclisation of a divinylketone to give a cyclopentenone .
+the stereospecific oxidation of a  ( phenyldimethylsilyl ) alkane to the corresponding alcohol using bromine ,  usually generated in situ from potassium bromide and peracetic acid .
+the stereospecific oxidation of a  ( halosilyl ) alkane to the corresponding alcohol using potassium fluoride and hydrogen peroxide .
+a carbon - carbon coupling reaction in which an aldehyde or ketone reacts with allyltrimethylsilane to form a homoallylic alcohol .
+a carbon - carbon coupling reaction in which an enone reacts with allyltrimethylsilane to form a delta , epsilon - unsaturated carbonyl compound .
+a carbon - carbon coupling reaction in which an acid chloride reacts with allyltrimethylsilane to form a gamma , delta - unsaturated ketone .
+a carbon - carbon coupling reaction in which an acetal or ketal reacts with allyltrimethylsilane to form a homoallylic ether .
+a carbon - carbon coupling reaction in which an imine reacts with allyltrimethylsilane to form a homoallylic amine .
+a ring - breaking reaction in which an epoxide reacts with allyltrimethylsilane to form a hydroxy alkene .
+the disproportionation of a non - enolisable aldehyde to the corresponding carboxylic acid and alcohol .
+the reaction between two different non - enolisable aldehydes to give a carboxylic acid and an alcohol .
+the conversion of a sulfoxide with an alpha - hydrogen to an alpha - substituted thioether .
+the reaction of a tertiary amine oxide with an anhydride or acyl chloride to give an n , n - disubstituted acetamide and an aldehyde .
+the reaction of a tertiary amine oxide with trifluoroacetic anhydride to give an n , n - disubstituted acetamide and an aldehyde .
+the alkylation of a tertiary amine with an alkyl halide to the corresponding ammonium salt .
+the deamination and decarboxylation of amino acids to imines and then to aldehydes or ketones ,  in the presence of a carbonyl compound  ( especially an alpha , beta - dicarbonyl compound or a reducing sugar such as glucose )  .
+the allylic or benzylic bromination of hydrocarbons using an n - bromoimide and a radical initiator ,  to give an allylic or benzylic bromide .
+the reduction of an aldehyde or ketone to the corresponding methylene compound ,  using hydrazine hydrate and a base .
+the reduction of an aldehyde or ketone to the corresponding methylene compound ,  using hydrazine hydrate and a base in refluxing ethylene glycol .
+the reduction of an ester to the corresponding alcohol ,  using sodium methoxide in dry methanol .
+the rearrangement of an o - alkenyl acetal to give the corresponding beta - alkoxy carbonyl compound .
+the rearrangement of an o - alkenyl hemiaminal ether to give the corresponding beta - amino carbonyl compound .
+a joining reaction where an n=c system with an allylic hydrogen reacts with a compound containing a multiple bond  ( an enophile )  to form a substituted alkene .
+the alkylation of an amine with a boronic acid and an aldehyde to give a substituted amine .
+a rearrangement of a furfuryl alcohol derivative to a dihydropyranone ,  from which monosaccharides may be synthesised .
+a rearrangement of a furfuryl amine derivative to a tetrahydropyridinone .
+a carbon - carbon coupling reaction between a nitroalkane and an imine to give a beta - amino nitroalkane .
+a three - component coupling of a beta - keto ester ,  an aldehyde and urea to give a 3 , 4 - dihydropyrimidinone .
+the coupling of an alpha - bromo ester with a nitrile to give a beta - ketoester ,  in the presence of zinc .
+the substitution of an amine with a nucleophile using a pyrylium salt .
+the rearrangement of a 3 - aza - 4 - metalla - 1 , 5 - hexadiene to form a delta , epsilon - unsaturated metallaimine .
+the cyclisation of an ene - diyne to give a 1 , 4 - diradical cyclohexatriene .
+a conjugate addition reaction where a carbon nucleophile adds to an alpha , beta - unsaturated nitro compound .
+the homogeneous asymmetric catalytic hydrogenation of a c=c double bond using a ruthenium ( ii )  binap catalyst .
+the homogeneous asymmetric catalytic hydrogenation of a carbonyl bond using a ruthenium ( ii )  binap catalyst .
+the reaction between an isonitrile ,  a carboxylic acid and aldehyde or ketone to give an alpha - acyloxy amide .
+a joining reaction in which two carbon - carbon double bonds in the same molecule are redistributed to give a cycloalkene .
+a joining reaction ,  the objective of which is that a large number of monomers react together to produce a polymer consisting of repeating units .
+a joining reaction in which two carbon - carbon double bonds are redistributed among two fragments ,  i .e .
+an adaptation of the claisen rearrangement that transforms a beta - keto allyl ester into a gamma , delta - allyl ketone .
+a mitsunobu reaction ,  where an alcohol is converted to something else with inversion at the stereocentre ,  using diphenylphosphoryl azide .
+the rearrangement of a 2 - bromoalkene into an alkyne ,  mediated by strong base .
+a carbon - carbon coupling reaction where an aldehyde reacts with a phosphonium salt to give a z - iodoalkene .
+the reduction of a 2 - nitrobiaryl compound to give a carbazole .
+the arylation of an arylamine mediated by isopentyl nitrite .
+the reaction between a 1 , 9 - diformyldipyrromethane and a dipyrromethane to give a porphodimethene .
+the carbon - carbon homocoupling reaction of a pair of alkyne molecules using a borane and iodine .
+the oxidation of a primary alcohol to an aldehyde or a secondary alcohol to a ketone using the dess - martin periodinane .
+the oxidative cleavage of an alpha , beta - diol using lead tetraacetate to give the corresponding carbonyl compounds .
+a ring formation reaction where an alkene reacts with a dihalomethane in the presence of a metal atom or metal complexes to form a cyclopropane .
+any of a family of sigmatropic rearrangements that involve the migration of a group on an electronegative atom  ( o or n )  to a carbon atom .
+a base - mediated 1 , 2 - sigmatropic rearrangement of an ether to give an alcohol .
+a base - mediated 2 , 3 - sigmatropic rearrangement of an allyl ether to give a homoallylic alcohol .
+a base - mediated 1 , 2 - sigmatropic rearrangement of a tertiary amine to give a secondary amine .
+a base - mediated 2 , 3 - sigmatropic rearrangement of an activated tertiary allyl amine ,  to give a secondary homoallylic amine .
+a carbon - carbon coupling of an imine to an activated alkene in the presence of a nucleophilic base to give an allylic amine .
+reaction of a carbonyl compound with a phosphazene to give an imine .
+an oxidation reaction involving fenton's reagent .
+a ring - forming reaction between two equivalents of a beta - ketoester ,  an aldehyde and ammonia  ( or an ammonium salt )  ,  to give a dihydropyridine .
+a  [ 3 + 2 ]  cycloaddition reaction between an azide and an alkyne to give a 1 , 2 , 3 - triazole ,  needing only heat to proceed .
+a  [ 3 + 2 ]  cycloaddition reaction between an azide and an alkyne to give a 1 , 2 , 3 - triazole as a single regioisomer .
+a process in which carbon monoxide and hydrogen  ( 'syngas' )  are converted into various liquid hydrocarbons .
+the reaction of hydrogen and carbon monoxide with an alkene ,  to give an aldehyde ,  catalysed by a rhodium or cobalt catalyst .
+the reverse of a  [ 4 + 2 ]  cycloaddition reaction ,  in which an unsaturated six - membered ring compound fragments to give a diene and a compound containing a double or triple bond  ( a dienophile )  .
+the reverse of an aldol addition ,  in which a beta - hydroxy ketone fragments to form a carbonyl compound and the enolate of an alpha - acidic carbonyl compound .
+a hydrogenation in which a metal - ligating group distant from the reacting alkene directs the attack of hydrogen ,  giving preferentially one stereoisomer of the product .
+the insertion of alkenes  ( usually ethene )  into the al - c bond of an aluminium alkyl ,  to give a long - chain aluminium alkyl that can go on to react again ,  or can decompose into the corresponding terminal alkene .
+the reaction of an aluminium alkyl with an alkene ,  to give an intermediate aluminium species that can give various products after work - up .
+the reaction of two alkenes to give an elongated alkene ,  employing a transition - metal - based catalyst .
+the reaction of a 1 , 3 - diene with an alkene to give a 1 , 4 - diene ,  usually employing a cobalt - based catalyst  ( see hilt and luers ,  synthesis ,  2002 ,  609 )  .
+a joining reaction in which two carbon - carbon double bonds are redistributed among two fragments ,  i .e .
+a joining reaction in which two carbon - carbon triple bonds are redistributed among two fragments ,  i .e .
+a joining reaction in which a carbon - carbon double bond and a carbon - carbon triple bond are redistributed among two fragments ,  i .e .
+a joining reaction in which a carbon - carbon double bond and a carbon - carbon triple bond in the same molecule are redistributed to give a alkene - substituted cycloalkene .
+a ring - breaking reaction in which two carbon - carbon double bonds are redistributed among two fragments ,  i .e .
+a carbon - carbon coupling reaction where an aldehyde or ketone reacts with an allyl halide and zinc to give a homoallylic alcohol .
+the chemoselective reduction of an enone to give an allylic alcohol ,  using sodium borohydride and an lanthanoid chloride ,  typically cerium chloride .
+the oxidation of an aldehyde to a carboxylic acid with chlorite .
+a carbon - carbon coupling reaction where an aryl halide reacts with copper ( i )  cyanide to give an aryl nitrile .
+the formation of urea from ammonium cyanate .
+the addition of a hydrosilane across the double bond of an alkene or alkyne to give a more substituted silane .
+the addition of the n - h bond of an amine across a double bond of an alkene or alkyne ,  to give a more substituted amine .
+the addition of a boron hydride across a double bond of an alkene or alkyne .
+the formal addition of water across a double bond of an alkene or alkyne by formation of an organoborane and in situ oxidation ,  typically with basic peroxide .
+the reaction of any of a number of metal hydride species with an alkene or alkyne ,  to give an intermediate organometal species that can give various products after work - up .
+the reaction of a organozirconium hydride with an alkene or alkyne ,  to give an intermediate zirconium species that can give various products after work - up .
+the reaction of a organotin hydride with an alkene or alkyne ,  to give an intermediate tin species that can give various products after work - up .
+the reaction of a organotellurium hydride with an alkyne ,  to give a  ( usually  ( z )  - configured )  vinyltellurium species .
+the oxidation of a primary alcohol to an aldehyde or a secondary alcohol to a ketone using fetizon's reagent .
+the substitution of an acylated sugar with a silylated base to give a nucleoside .
+the addition of a thiol across the double bond of an alkene to give a thioether .
+the nickel - catalysed carbon - carbon coupling of a dihaloaromatic compound or aromatic bistriflate to give a polymer .
+the thermally induced addition of a hydrosilane across the double bond of an alkene or alkyne to give a more substituted silane ,  usually applied to cases where the hydrosilane is part of a silicon surface .
+the photochemically induced addition of a hydrosilane across the double bond of an alkene or alkyne to give a more substituted silane ,  usually applied to cases where the hydrosilane is part of a silicon surface .
+a carbon - carbon coupling reaction between a tetrazole sulfone and an aldehyde or ketone to give a  ( typically trans )  alkene .
+the conversion of a selenoxide with an alpha - hydrogen to an alpha - subtituted selenoether .
+a carbon - carbon coupling reaction where an organohalide or triflate couples to an alkene in the same molecule ,  catalysed by palladium .
+an intramolecular heck reaction of an ortho - halo - aniline with an alkene ,  catalysed by palladium .
+the intramolecular esterification of a carboxylic acid group with an alcohol group using 2 , 4 , 6 - trichlorobenzoyl chloride  ( yamaguchi reagent )   -  an intramolecular yamaguchi esterification .
+the esterification of a carboxylic acid with an alcohol using 2 , 4 , 6 - trichlorobenzoyl chloride  ( yamaguchi reagent )  .
+a diels - alder reaction between a diene and an aldehyde or ketone to give a six - membered oxygen - containing ring compound .
+a carbon - carbon coupling reaction in which a nucleophile reacts with an allyl acetate ,  allyl halide ,  allyl carbonate ,  allyl carbamate ,  allyl phosphate ,  allyl sulfone or allyl nitro compound to give an allyl compound .
+a ring rearrangement reaction where an amine reacts with a 2 , 5 - dialkoxytetrahydrofuran to give a pyrrole .
+a  [ 4 + 2 ]  cycloaddition reaction where a diene  ( or heterocyclic analogue )  reacts with a dienophile to form an unsaturated heterocyclic six - membered ring compound .
+a carbon - carbon coupling reaction that is catalysed by a palladium atom .
+a condensation reaction that results in the production of an ester .
+a deprotection reaction where the reactive centre is an amino nitrogen atom .
+a protection reaction where the reactive centre is an amino nitrogen atom .
+an amino group protection where the amino nitrogen atom is protected by reaction with benzylamine .
+a protection reaction where the reactive centre is a hydroxyl oxygen atom .
+a hydroxyl group protection where the hydroxyl oxygen atom is protected by formation of a benzyl ether .
+a protection reaction where the reactive centre is a carboxy oxygen .
+an amino group deprotection reaction where a tertbutoxycarbonyl group is removed in acid conditions .
+an amino group deprotection reaction where a benzylamine group is removed by hydrogenation .
+a hydroxyl group protection where the hydroxyl oxygen atom is protected by formation of a silyl ether .
+an experimental procedure with the aim of producing a portion of a given compound or mixture .
+a hydroxyl group protection where the hydroxyl oxygen atom is protected by formation of an acetate ester .
+a functional modification step in which one singly - bonded substituent ,  but not a hydrogen ,  is replaced by another singly - bonded substituent .
+a substitution step where one singly - bonded substituent on an aromatic skeleton is replaced by another singly - bonded substituent .
+an aromatic substitution reaction where an aryl diazonium salt reacts with a copper ( i )  halide to form an aromatic halide .
+an aromatic substitution reaction where an aryl diazonium salt reacts with a copper ( ii )  pseudohalide to form an aromatic pseudohalide .
+a functional group modification where a carbonyl oxygen is replaced by an amine .
+a reduction reaction where a nitro group is reduced to an amino group .
+a reduction process where an amide is transformed into an amine .
+a hydrogenation reaction where an alkene is reduced to an alkane .
+an n - alkylation where the reactive centre is an amide nitrogen .
+an n - alkylation where the reactive centre is an aniline nitrogen .
+a reduction where a nitrile is replaced by an amine function .
+a reduction reaction where an imine function is replaced by an amine .
+an alkene oxidation where the carbon - carbon double bond is cleaved .
+an n - alkylation reaction where the reactive centre is an azacycle ring nitrogen .
+a ring formation reaction where the intended product contains an oxacycle that was not in any of the reactants .
+a ring formation reaction where the intended product contains an azacycle that was not in any of the reactants .
+a ring formation reaction where the intended product contains an thiacycle that was not in any of the reactants .
+a ring formation reaction where the intended product contains a heterocycle that was not in any of the reactants .
+a hydrogenation reaction where an alkyne is reduced to an alkane .
+a hydrogenation reaction where an aryl ring is reduced to a cycloalkyl ring .
+a hydrogenation reaction where a heteroaryl is reduced to a saturated heterocycle .
+an alcohol oxidation where the alcohol centre is replaced with a carboxy group .
+an oxidation reaction where a carbon centre bonded to the benzene ring is oxidized to a carboxyl group .
+an oxidation reaction where an allylic c - h bond is replaced by a c=o bond .
+an oxidation reaction where an alcohol is oxidized to the corresponding carbonyl compound by a dichromate ion .
+an acylation reaction where a nitrogen atom is acylated to form an amide .
+an acylation reaction where a nitrogen atom is acylated to form a urea .
+an n - acylation reaction where a nitrogen centre is acylated to form a carbamate .
+an o - acylation reaction where an oxygen centre is acylated to result in an ester .
+a functional group modification where a nitrile reacts with an alcohol under acid catalysis to form an amidine or ester .
+an oxidation reaction where a nitrile reacts with an alcohol to form an alkyl imidate .
+a functional group modification where an amide is converted to an imidoyl chloride .
+a functional group modification where an alcohol is converted to a halide .
+a functional group modification where a carboxylic acid is converted to an acid chloride .
+a functional group modification where a nitrile is transformed into a carboxylic acid .
+a functional group modification where a carbonyl compound is converted to an imine .
+oxidation of an alkene to an allene by heating with formaldehyde ,  an amine and an inorganic salt .
+a carbon - carbon coupling reaction between an arene and a carbonyl compound  ( an acylation )  or an alkyl compound that can form a carbocation  ( an alkylation )  to form a substituted arene .
+a functional group modification of a nitrile to a 1h - tetrazole by addition of sodium azide .
+a diazotisation that proceeds by the addition of nitrous acid ,  nitric acid and water ,  resulting in a diazonium nitrate salt .
+an n - arylation reaction where the reactive centre is an azacycle ring nitrogen .
+a planned reaction step in which a covalent bond is formed between the molecular skeleton and a functional group and where the skeletal bond order is unchanged .
+arylation of an amine or an alcohol with an arylboronic acid ,  stannane or siloxane in air with a copper acetate catalyst .
+n - methylation of a primary or secondary amine with formic acid and formaldehyde to yield a tertiary amine .
+coupling of two aromatic rings in the presence of a lewis acid catalyst .
+scholl reaction within a single molecule to form a larger ring system .
+scholl reaction between two aromatic molecules to form a single molecule .
+reaction of a cyclohexanone with methyl vinyl ketone to form a fused - ring cyclohexenone .
+rearrangement of a beta - amino alcohol to yield a carbonyl compound .
+substitution reaction of a primary amine via deazotisation to yield a mixture of the corresponding primary alcohol and secondary alcohol .
+base - catalysed rearrangement of a cyclic alpha - haloketone to the ring - contracted cyclic carboxylic acid .
+base - catalysed rearrangement of an alpha - haloketone to a carboxylic acid or ester or amide .
+favorskii rearrangement of a cyclic alpha - dibromoketone followed by decarboxylation to yield a ring - contracted cyclic ketone .
+reaction of a carbonyl compound with a dimethyl diazomethyl phosphonate under basic conditions to yield an alkyne .
+reaction of an aldehyde with a dimethyl diazomethyl phosphonate under basic conditions to yield a terminal alkyne .
+reaction of a ketone with a dimethyl diazomethyl phosphonate under basic conditions to yield a terminal alkyne .
+seyferth - gilbert aldehyde homologation where the seyferth - gilbert reagent is generated in situ by reaction with methanol and potassium carbonate .
+synthesis of a pyrazole by condensation of a 1 , 3 - dicarbonyl compound with a hydrazine ,  hydrazide ,  semicarbazide or aminoguanidine .
+a reaction in which the intended product is a pyrazole that was not present in any of the reactants .
+a reaction in which the intended product is a quinoline that was not present in any of the reactants .
+synthesis of an alpha - hydroxyquinoline by reaction of a beta - ketoester and an arylamine then dehydration with concentrated sulfuric acid .
+a reaction in which the intended product is an indole that was not present in any of the reactants .
+palladium - catalysed synthesis of a 2 , 3 - substituted indole by reaction of an ortho - iodoaniline with an internal alkyne .
+reaction of an organic diazo compound with an acetylene to yield a pyrazole .
+a reaction in which the intended product is a benzimidazole that was not present in any of the reactants .
+reaction of an ortho - diaminobenzene with a carboxylic acid under heat to yield a benzimidazole .
+a reaction in which the intended product is a pyrimidine that was not present in any of the reactants .
+a reaction in which the intended product is a triazine that was not present in any of the reactants .
+reaction of a 1 , 3 - dicarbonyl compound with an amidine to yield a pyrimidine .
+reaction of aryl amidines or halogenated aliphatics amidines with phosgene to yield a 2 - hydroxy - 4 , 6 - diaryl - s - triazine with loss of ammonia .
+cyclisation - condensation of a beta - arylethanol with an aldehyde to yield an ortho , peri - fused aryl - oxacycle .
+epoxidation of an alkene by reaction with a peroxy acid .
+conversion of an alcohol to an alkyl halide with triphenylphosphine and a halide source .
+conversion of an alcohol to an alkyl iodide with triphenylphosphine and tetraiodomethane .
+conversion of an alcohol to an alkyl chloride with triphenylphosphine and tetrachloromethane .
+conversion of an alcohol to an alkyl bromide with triphenylphosphine and tetrabromomethane or bromine .
+rearrangement of a primary carboxylic amide to an isocyanate .
+conversion of a primary carboxylic amide to the lower homologue primary amine .
+rearrangement of an o - aryl thiocarbamate to an s - aryl thiocarbamate by migration of the aryl group .
+substitution of phenol ortho -  or para - bromo or iodo groups by a nitro group on treatment with nitrous acid or a nitrite in acetic acid .
+a coupling of an aldehyde with an alpha - haloethanoate ester to form the next homologous aldehyde .
+a coupling of a ketone with an alpha - haloethanoate ester to replace the oxo group with a formyl group .
+protection of a primary amino group by reaction with phthalic anhydride .
+conversion of a phthalimide into the corresponding primary amine .
+condensation of a 1 , 5 - diketone with ammonium acetate in acetic acid to form a pyridine .
+a gattermann halogenation where the aryl diazonium salt reacts with copper powder and hydrochloric acid to yield an aromatic chloride .
+a gattermann halogenation where the aryl diazonium salt reacts with copper powder and hydrobromic acid to yield an aromatic bromide .
+a joining reaction between an aldehyde and an alkyl halide or aryl halide or vinyl halide or allyl halide in the presence of metal to give a secondary alcohol .
+a joining reaction between an ketone and an alkyl halide or aryl halide or vinyl halide or allyl halide in the presence of metal to give a tertiary alcohol .
+protection of a hydroxy group by reaction with pivaloyl chloride ,  resulting in formation of a pivaloyl ester .
+a hydroxy group deprotection where a pivalate group is removed in acid or base conditions .
+a deprotection reaction where the reactive centre is an oxygen atom .
+a carboxylic acid reduction where the product is the corresponding primary alcohol .
+a carboxy group protection where the product is a tert - butyl ester .
+a deprotection reaction where the reactive centre is a carboxy oxygen atom .
+a deprotection reaction where the reactant is a tert - butyl ester and the product is a carboxylic acid .
+a deprotection reaction where the reactant is a methyl ester and the product is a carboxylic acid .
+a deprotection reaction where the reactant is an ethyl ester and the product is a carboxylic acid .
+an objective specification that describes how a molecule's skeleton and substituents are to be transformed by a given experiment .
+a molecular transformation specification that specifies that atoms should be lost from the molecular skeleton .
+a molecular transformation specification that specifies that the product should contain a ring that was not in any of the reactants .
+a molecular transformation specification that specifies that atoms should be added to the molecular skeleton .
+a molecular transformation specification that specifies that the number of rings and number of skeletal atoms should be preserved and that one or more atoms or groups of atoms move from one atom to another .
+a molecular transformation specification that specifies that the substituents of a molecule should be changed but the number of atoms in the skeleton and their connectivity ,  but not necessarily the bond orders ,  should remain the same .
+reaction of allyltrimethylsilane with a carbon electrophile to allylate the carbon electrophile .
+rearrangement of the acyl group in a phenolate ester to the ortho -  and / or para - position .
+rearrangement of the acyl group in a phenolate ester to the ortho - position .
+rearrangement of the acyl group in a phenolate ester to the para - position .
+formylation of a phenol or aromatic amine with hexamethylenetetramine in acidic conditions .
+a molecular skeleton joining adjective that is satisfied by a chain part of a molecular skeleton being lengthened .
+a molecular skeleton transformation objective that is satisfied by a reaction where the product has fewer rings than the reactants .
+a molecular skeleton transformation objective that is satisfied by a reaction where an existing ring is reduced in size .
+a carbon - carbon coupling reaction in which an aldehyde reacts with allyltrimethylsilane to form a homoallylic alcohol .
+a carbon - carbon coupling reaction in which a ketone reacts with allyltrimethylsilane to form a homoallylic alcohol .
+a molecular skeleton transformation objective that is satisfied by a reaction in which a functional group undergoes a change that does not affect the number of atoms in  ( or connectivity of )  the skeleton of the molecule .
+a molecular skeleton transformation objective that is satisfied by a reaction in which a single skeletal atom is removed from the end of a chain .
+a functional group modification objective that is satisfied by a reaction in which a functional group is reduced .
+a functional modification objective that is satisfied by a reaction in which two or more groups of atoms are added to the molecule ,  resulting in a change of skeletal bond order .
+a molecular transformation objective that is satisfied by a reaction in which an existing skeletal ring is increased in size .
+a molecular transformation objective that is satisfied by a reaction in which the number of skeletal rings in a molecule stays the same but the connectivity of the atoms in at least one ring changes .
+a carbon - carbon coupling reaction between a beta - ketoester and an alkyl halide to yield an alpha - alkylated ester .
+a reductive coupling reaction between two ester groups in the same molecule to give an acyloin  ( an alpha - hydroxyketone )  .
+a reductive coupling reaction between two ester groups in different molecules to give an acyloin  ( an alpha - hydroxyketone )  .
+a molecular transformation objective that is satisfied by a cleaving reaction in which a skeletal atom or group of atoms is removed from the middle of a molecule .
+a molecular transformation objective that is satisfied by a reaction in which the parent molecule breaks up into three or more products .
+a  [ 2 + 2 + 1 ]  cycloaddition between an alkyne ,  an alkene and carbon monoxide to form an alpha - beta - unsaturated cyclopentenone .
+a molecular transformation objective that is satisfied by a reaction in which a fused ring system is present in a product that was not present in any of the reactants .
+a molecular transformation objective that is satisfied by a reaction in which a large number of monomers react together to product a polymer consisting of repeating units .
+a fused - ring - system formation reaction where a flavonol is produced by oxidation of a chalcone with alkaline hydrogen peroxide .
+a molecular transformation objective that is satisfied by a reaction in which one singly - bonded substituent ,  but not a hydrogen ,  is replaced by another singly - bonded substituent .
+reaction of ortho - hydroxyaryl ketones with aromatic carboxylic acid anhydrides to yield a flavone .
+reaction of ortho - hydroxyaryl ketones with aromatic carboxylic acid anhydrides to yield an isoflavone .
+rearrangement of an aldose n - glycoside to a ketose n - glycoside by acid or base catalysis .
+reaction of a ketone with ethoxyacetylene to form an alkoxyethynyl alcohol .
+ring expansion of a 2 - bromo - 2 -  ( alpha - bromobenzyl )  - 1 - benzofuran to a flavonol in alcoholic alkali .
+reaction of ortho - hydroxyaryl ketones with aromatic acid anhydrides to yield a flavone or isoflavone .
+rearrangement of a propargyl alcohol to an alpha , beta - unsaturated carbonyl compound via an allene intermediate to yield the gamma - substituted product .
+rearrangement of a propargyl alcohol to an alpha , beta - unsaturated carbonyl compound via an enyne intermediate to yield the beta - substituted product .
+a horner - wadsworth - emmons reaction that uses phosphonates with electron - withdrawing groups and dissociating conditions to produce predominantly z - olefins .
+a molecular skeleton joining reaction where the connection formed is a carbon - carbon double bond .
+reaction of an aldehyde or ketone or carboxylic ester or amide with the tebbe reagent to yield an olefin or an enol ether or an enamine .
+cyclization of a enynyl allene to yield a toluene biradical with radical centres on the methyl group and at the meta position .
+cyclization of a enynyl allene to yield a 1 - methyl - 5 - methylenecyclopenta - 1 , 3 - diene biradical with radical centres on the methyl group and methylene group .
+copper - catalysed reaction of benzene with a nitrosylating agent and hydrogen peroxide to form an o - nitrosophenol .
+a functional modification objective that is satisfied by deprotecting some functional group .
+a functional modification objective that is satisfied by protecting some functional group .
+a functional modification objective that is satisfied by a reaction in which two or more groups of atoms are removed from the molecule ,  resulting in a change of skeletal bond order .
+a molecular skeleton joining objective that is satisfied by a reaction in which one or more atoms are added to the middle of a chain .
+a molecular skeleton joining objective that is satisfied by a reaction in which one or more atoms are added to the molecular skeleton and a skeletal rearrangement occurs .
+a functional modification objective that is satisfied by a reaction in which a covalent bond is formed between the molecular skeleton and a functional group and where the skeletal bond order is unchanged .
+a functional group modification objective that is satisfied by a reaction in which a functional group is oxidised .
+cyclisation of a propargyl alpha , beta - unsaturated ketone where the reactant rearranges to an allenyl vinyl ketone ,  followed by a nazarov cyclisation in which a nucleophile 'intercepts' the intermediate carbocation to yield a cyclopentenone substituted at the alpha position opposite the double bond .
+rearrangement of an n - phenylhydroxamine in acid to yield a para - aminophenol .
+reaction of an aromatic diazonium compound with an alkali arsenite in the presence of copper or silver to yield an aromatic arsonic acid .
+reaction of an ortho - substituted nitroarene with a vinyl grignard reagent to yield a 7 - substituted indole .
+reaction of an aldehyde or ketone with a thioaldehyde or thioketone via a 1 , 3 , 4 - thiadiazoline intermediate to yield an olefin .
+reaction of a nitroalkene with an alpha - isocyanoacetate to yield a substituted pyrrole .
+a reaction in which the intended product is a pyrrole that was not present in any of the reactants .
+reduction of an aromatic nitro compound to the corresponding arene by iron in some form in aqueous acid .
+reaction of a benzofurazan 1 - oxide with an enamine or enolate to yield a quinoxaline - 1 , 4 - dioxide .
+reaction of a beta - aminovinylketone with a grignard reagent to yield a substituted alpha , beta - unsaturated carbonyl compound .
+reaction of an alpha - haloketone or alpha - haloether with a 1 , 3 - dicarbonyl compound in the presence of pyridine to yield a substituted furan .
+rearrangement of a mancude eight - membered system containing a pentacycle into a different pentacycle where two of the ring atoms are ring atoms in the original molecule .
+rearrangement of an azapentacycle containing a  - n= system where there is an unsaturated three - heavy - atom substituent xyz on the substituent double - bonded to the nitrogen ,  to a new azapentacycle where the pivotal nitrogen has broken its single bond and formed a new bond with atom z .
+rearrangement of a mancude bicyclo [ 4 .3 .0 ]  compound with an unsaturated two - heavy - atom substituent on the six - membered ring alpha to the bridgehead to form a new mancude bicyclo [ 4 .3 .0 ]  compound where the five - membered ring has been formed from the two - heavy - atom substituent and the original five - membered ring has been broken .
+reaction of a primary nitro compound with phenyl isocynatate and triethylamine to yield a nitrile oxide .
+reaction of an aldehyde or ketone with a sodium acetylide to yield a propargyl alcohol .
+reaction of an ester with an electron - withdrawing group alpha -  to the ester functionality with a metal halide or pseudohalide to yield the shorter homologous system .
+reaction of an aromatic nitro compound with an unsaturated substituent at the alpha - position to form a fused - ring nitrogen heterocycle .
+a cadogan cyclization that results in an indole .
+addition of hydrogen atoms to unsaturated rings by means of alkali metals in low - molecular weight amines .
+reaction of an n -  ( 2 - alkylphenyl ) alkanamide with strong base to form an indole .
+reaction of a n -  ( 2 - alkylphenyl )  - trimethylsilylamine with two equivalents of organolithium and an ester or carboxylic acid to form an indole .
+rearrangement of an acyl imidate to form a carboximide .
+rearrangement of an aryl imino ether to yield an n , n - diaryl amide .
+reaction of an acetylated amino acid with an aldehyde then with a second amino acid ,  then hydrogenation and hydrolysis to form a dipeptide .
+removal of a terminal amino acid residue from a peptide by benzoylation ,  azidation ,  treatment with benzyl alcohol ,  hydrogenation and hydrolysis .
+removal of a terminal amino acid residue from a peptide .
+ring formation reaction where the intended product is an acridine .
+reaction of a diarylamine in an organic acid or anhydride in the presence of zinc chloride to yield a 9 - substituted acridine .
+ring formation reaction where the intended product is a pyridine .
+ring formation reaction where the intended product is a carbazole .
+reaction of a phenol ,  an aromatic aldehyde and a primary aromatic or heterocyclic amine to yield a betti's base ,  also known as an alpha - aminobenzylphenol .
+reaction of a terminal hydroxyketone or terminal halogenoketone with an aromatic amine to yield a 2 - substituted indole .
+cyclisation of an o - acylaminoacetophenone in alcoholic sodium hydroxide to form a substituted hydroxyquinoline .
+palladium - catalysed coupling of copper ( i )  acetylides with aryl halides to yield arylacetylenes .
+reaction of carbonyl compounds with ammonia or an amine to yield a pyridine .
+reaction of an azacycle with an alkali - metal amide to yield an aminated azacycle .
+reaction of a carboxylic ester with a magnesium iodide alkylamide to yield a carboxamide .
+condensation of beta - phenylethylmagnesium bromide with a cyclohexanone followed by cyclisation and dehydration in concentrated sulfuric acid to yield an octahydrophenanthrene .
+reaction of a hydroxylated anthraquinone with fuming sulfuric acid or sulfuric acid in boric acid in the presence of a mercury or selenium catalyst to form a more hydroxylated anthraquinone .
+etherification of an aldehyde followed by bromination and reaction with a grignard reagent followed by treatment with zinc to eliminate the halogen and alkoxy groups to produce an olefin .
+rearrangement of a cyclohexanone phenylhydrazone followed by oxidation to yield a carbazole .
+reaction of an organomagnesium or organolithium compound with an n , n' - disubstituted formamide to yield the next homologous aldehyde .
+diels - alder reaction of a dienophile with a cationic aromatic azadiene to yield a bridged - ring system .
+reaction of an ortho - acyldiarylmethane ,  catalysed by acid ,  to yield an anthracene .
+reaction of a bromoarene that has an electrophilic group at the para - position with lithium bromide or lithium iodide followed by intramolecular cyclisation to yield a fused - ring system .
+reaction of an aliphatic aldehyde with a phenolic ether and hydrochloric acid to yield an alpha - chloroalkylphenolic ether .
+elimination of a water molecule from a secondary alcohol to yield an olefin .
+elimination of a hydroxylamine from an amine oxide by pyrolysis to yield an olefin .
+reaction of an aniline with a nitrile in the presence of boron trichloride and a lewis acid to yield an ortho - acylated aniline .
+a cross - coupling reaction between a grignard reagent and an activated  ( aryl or vinyl )  halide or triflate .
+a cross - coupling reaction between a grignard reagent and an activated  ( aryl or vinyl )  halide or triflate .
+reaction of a 1 , 2 - diol with triethoxymethane under heat to yield an olefin .
+reaction of silyl enol ethers with palladium acetate in acetonitrile to yield an alpha , beta - unsaturated ketone .
+reaction of diphenylthiourea with lead carbonate and potassium cyanide to form a cyanoformidine followed by ring closure and acid hydrolysis to yield isatin .
+reaction of aniline ,  hydroxylamine and chloral hydrate to form an aniline intermediate followed by cyclization in acid and hydrolysis to yield isatin .
+oxidation of an alcohol with a pyridine - chromium trioxide complex to yield a carbonyl compound .
+oxidation of a primary alcohol with a pyridine - chromium trioxide complex to yield an aldehyde .
+oxidation of a secondary alcohol with a pyridine - chromium trioxide complex to yield a ketone .
+oxidation of a primary alcohol with a pyridine - chromium trioxide complex in dichloromethane to yield an aldehyde .
+a functional group modification where a carbonyl oxygen is replaced by an imine .
+reductive amination of an aldehyde with ammonium formate or formamide to form an amine .
+reductive amination of a ketone with ammonium formate or formamide to form an amine .
+conversion of an alcohol to an alkyl bromide with triphenylphosphine and tetrabromomethane .
+conversion of an alcohol to an alkyl bromide with triphenylphosphine and bromine .
+reaction of an aldehyde with tetrabromomethane and triphenylphosphine to yield a terminal dibromoolefin .
+a beckmann rearrangement which produces a cyclic product .
+a dess - martin oxidation of a primary alcohol to an aldehyde .
+a dess - martin oxidation of a secondary alcohol to a ketone .
+synthesis of a quinoline by reaction of a 2 - aminobenzaldehyde with a ketone .
+reaction of an aldehyde or ketone with an alpha - cyanoester to form a 2 - aminothiophene .
+a sonogashira coupling where the aryl halide is an aryl iodide .
+a suzuki coupling where the halide is an iodide .
+a suzuki - type coupling where the halide is an iodide .
+a halolactionization where the halide is an iodide .
+an azacycle synthesis where the product is a 4 - oxo - 3 , 4 - dihydroquinazoline and the reactants are a 2 - aminobenzoic acid and an amide .
+a quinoline synthesis where the product is a gamma - hydroxyquinoline and the reactants are a 2 - aminobenzoic acid and an aldehyde or ketone .
+an azacycle synthesis where the product is an isoquinoline and the reactants are a benzaldehyde and a 2 , 2 - dialkoxyethylamine .
+an o - acylation to ester where dicyclohexylcarbodiimide is used as a coupling reagent and 4 - dimethylaminopyridine as a catalyst .
+a sonogashira coupling where the role of the halide is played by a triflyloxy group .
+a suzuki coupling where the rule of the halide is played by a triflyloxy group .
+a suzuki - type coupling where the rule of the halide is played by a triflyloxy group .
+synthesis of an aziridine by dehydrating a beta aminoalcohol with sulfuric acid .
+reaction of an alpha - diketone with a dialkyl thiodiacetate to form a thiophene dicarboxylic acid .
+the coupling of a boronic acid or boronic ester with an unsaturated halide ,  triflate or sulfonate .
+addition of a carboxylic acid oxygen and halogen across a carbon - carbon double bond to form a lactone .
+expansion of a pyrrole ring by heating with a halogeno compond to form a 3 - halogenopyridine .
+condensation of an aromatic aldehyde with an aliphatic aldehyde or ketone in the presence of a relatively strong base to from an alpha , beta - unsaturated aldehyde or ketone .
+enantioselective reduction of a ketone to an alcohol with a chiral oxazaborolidine .
+reaction of a sulfur ylide with a double - bond to produce a three - membered ring .
+reaction of a sulfur ylide with a ketone to produce an epoxide .
+reaction of a sulfur ylide with an olefin to produce a cyclopropane .
+reaction of a sulfur ylide with an imine to produce an aziridine .
+reaction of a sulfur ylide with a thione to produce a thiirane .
+a joining reaction where a carbon - carbon bond is formed between unlike moieties .
+a cross - coupling reaction where a thioester and a boronic acid react to form a ketone .
+a cross - coupling reaction where a thioester and an organozinc halide react to form a ketone .
+the conversion of an alkyl chloride to an alkyl iodide by sn2 substitution .the reaction relies upon the equilibrium being pushed to completion by precipitation .
+the conversion of an alkyl bromide to an alkyl iodide by sn2 substitution .the reaction relies upon the equilibrium being pushed to completion by precipitation .
+the conversion of an alkyl sulfonate ester to an alkyl iodide by sn2 substitution .the reaction relies upon the equilibrium being pushed to completion by precipitation .
+an aromatic substitution reaction where an aryl diazonium salt reacts with a copper ( i )  fluoride to form an aromatic fluoride .
+an aromatic substitution reaction where an aryl diazonium salt reacts with a copper ( i )  chloride to form an aromatic chloride .
+an aromatic substitution reaction where an aryl diazonium salt reacts with a copper ( i )  bromide to form an aromatic bromide .
+an aromatic substitution reaction where an aryl diazonium salt reacts with a copper ( i )  iodide to form an aromatic iodide .
+a planned reaction in which one of the products contains an imidazole system that was not in any of the reactants .
+a planned reaction in which one of the products contains an indazole system that was not in any of the reactants .
+a planned reaction in which one of the products contains a piperazine system that was not in any of the reactants .
+a planned reaction in which one of the products contains a piperidine system that was not in any of the reactants .
+a planned reaction in which one of the products contains a pyrrolidine system that was not in any of the reactants .
+an azacycle synthesis in which pyrrolidines or piperidines are formed by decomposition of protonated n - haloamines .
+a hofmann - löffler - freytag reaction in which the product is a piperidine .
+a hofmann - löffler - freytag reaction in which the product is a pyrrolidine .
+an alpha - halogenation reaction where a carboxylic acid reacts with dibromine to form an alpha - bromocarboxylic acid .
+meerwein - ponndorf - verley reduction of an aldehyde to the corresponding primary alcohol .
+meerwein - ponndorf - verley reduction of a ketone to the corresponding secondary alcohol .
+a carbon - carbon coupling reaction where an organohalide or triflate couples to a terminal olefin to produce an internal olefin .
+a heck reaction where an organobromide couples to a terminal olefin to produce an internal olefin ,  catalysed by palladium .
+a heck reaction where an organochloride couples to a terminal olefin to produce an internal olefin ,  catalysed by palladium .
+a heck reaction where an organoiodide couples to a terminal olefin to produce an internal olefin ,  catalysed by palladium .
+a heck reaction where an organotriflate couples to a terminal olefin to produce an internal olefin ,  catalysed by palladium .
+a heck - type reaction where an organobromide couples to a terminal olefin to produce an internal olefin .
+a heck - type reaction where an organochloride couples to a terminal olefin to produce an internal olefin .
+a beckmann rearrangement where an acyclic amide is formed .
+an indole synthesis where an ortho - nitrocinnamic acid reacts with iron powder in a basic solution to form an indole .
+a sonogashira coupling where the aryl halide is an aryl bromide .
+a suzuki coupling where the halide is a bromide .
+a suzuki - type coupling where the halide is a bromide .
+a halolactionization where the halide is a bromide .
+a sonogashira coupling where the aryl halide is an aryl chloride .
+a suzuki coupling where the halide is a chloride .
+a suzuki - type coupling where the halide is a chloride .
+a halolactionization where the halide is a chloride .
+reaction of an arylamine wtih a beta - ketoester to yield a 4 - hydroxyquinoline .
+reaction of a beta - diketone with a primary arylamine to yield a quinoline .
+a 1 , 3 - dipolar cycloaddition reaction where a fullerene reacts with an aldehyde and an amino acid to form a pyrrolidinofullerene .
+a rearrangement of a 2 - furylcarbinol to a 4 - hydroxycyclopentenone .
+a ring - breaking reaction where a pyrrolidinofullerene yields a fullerene .
+a cycloaddition where a fullerene reacts with diethyl bromomalonate to form a methanofullerene .
+a cyclisation where a hydroxyl group acts as the nucleophile in a wacker - tsuji oxidation accompanied by beta - hydride elimination ,  forming a ring .
+a cyclisation where an amino group acts as the nucleophile in a wacker - tsuji oxidation accompanied by beta - hydride elimination ,  forming a ring .
+a cleaving reaction where an olefin is dihydroxylated with osmium tetroxide and undergoes a malaprade reaction to yield two aldehydes ,  two ketones ,  or an aldehyde and a ketone .
+a cleaving reaction of a 1 , 2 - diol using periodic acid to give the corresponding carbonyl compounds .
+the oxidation of a 1 , 2 - glycol with fenton's reagent  ( hydrogen peroxide and iron salts )  to give an alpha - hydroxy aldehyde .
+the oxidation of an alpha - hydroxy carboxylic acid with fenton's reagent to give an alpha - keto carboxylic acid .
+the reaction of the components of fenton's reagent ,  viz .
+a molecular process where a molecule is broken up by reaction with a molecule that is part of the solvent material .
+a solvolysis reaction where the solvent material is water .
+a reaction in which two or more reactants or remote reactive sites within the same molecular entity yield a single main product with accompanying formation of an alcohol molecule .
+a relation between a planned reaction step and a molecular entity participating in that process .
+a disposition which is realised in a  [ 4 + 2 ]  reaction with a double - bonded system .
+a photochemical cycloaddition between an aldehyde or ketone and an alkene to give an oxetane .
+the reaction of an alpha - halosulfone to give an alkene ,  with the extrusion of sulfur dioxide .
+oxidation of an alkene to an allene by heating with formaldehyde ,  an amine and an inorganic salt .
+condensation of a 1 , 5 - diketone with ammonium acetate in acetic acid to form a pyridine .
+reduction of an aromatic nitro compound to the corresponding arene by iron in some form in aqueous acid .
+reaction of a beta - aminovinylketone with a grignard reagent to yield a substituted alpha , beta - unsaturated carbonyl compound .
+reaction of an alpha - haloketone or alpha - haloether with a 1 , 3 - dicarbonyl compound in the presence of pyridine to yield a substituted furan .
+reaction of a terminal hydroxyketone or terminal halogenoketone with an aromatic amine to yield a 2 - substituted indole .
+an azacycle synthesis where the product is an isoquinoline and the reactants are a benzaldehyde and a 2 , 2 - dialkoxyethylamine .
+an azacycle synthesis in which pyrrolidines or piperidines are formed by decomposition of protonated n - haloamines .
+a hofmann - lã¶ffler - freytag reaction in which the product is a piperidine .
+a hofmann - lã¶ffler - freytag reaction in which the product is a pyrrolidine .
+an indole synthesis where an ortho - nitrocinnamic acid reacts with iron powder in a basic solution to form an indole .

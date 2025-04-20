@@ -1,0 +1,272 @@
+ligand
+cytokine
+growth factor
+tgf - beta superfamily
+bmp family
+insulin
+receptor
+fgfr
+mhc class i molecule
+mhc class ii molecule
+integrin
+enzyme
+jak
+mapk
+erk1 / 2
+npkc
+apkc
+rsk
+pka
+mek1 / 2 ( mkk1 / 2 )
+mkk4 / 7 ( jnkk1 / 2 )
+mkk3 / 6
+small gtpase
+26s proteasome
+g - alpha - o
+deubiquitinating enzyme
+adaptor protein
+sh2 / sh3 adaptor protein
+crk
+grb2 family
+nck family
+docking protein
+transcription factor
+smad
+r - smad
+co - smad
+i - smad
+stat1
+nf - kappab
+drtf1 / e2f
+nf1
+gata
+pebp2 / cbf
+ap - 1
+bcl - 6
+nf - at
+signal regulator
+rgs
+sos
+bcl - 2 family
+14 - 3 - 3
+antigen
+cd28
+kir2 .2
+kv
+kv1 - shaker
+kv2 - shab
+kv3 - shaw
+fibrillar collagen
+fibril - associated collagen
+proteoglycan
+gadd45
+kv4 - shal
+channel
+gads
+crk family
+l - type ca2 +  channel
+l - type ca2 +  channel alpha - 1 subunit
+n - type ca2 +  channel
+t - type ca2 +  channel
+cd80
+cd86
+eif2
+eif2b
+eif3
+eif4a
+eif4f
+eif4g
+11s regulatory complex
+transporter
+nucleoside transporter
+concentrative nucleoside transporter
+equilibrative nucleoside transporter
+spliceosome
+lysophosphatidic acid acyltransferase
+acyl - coa dehydrogenase
+pyruvate dehydrogenase complex
+complex ii
+membrane transport protein
+importin / exportin
+lit - 1
+nucleotide
+pi ( 4 , 5 ) p2
+pi ( 3 , 4 , 5 ) p3
+pi ( 3 , 4 ) p2
+lipid
+kdc2_drome
+dco_drome
+gab
+isgf3
+gaf
+dock
+lps
+carbohydrate
+ion
+mapkapk2 / 3
+amin
+amino acid
+glycoside
+peptidoglycan
+peptide
+vinculin
+talin
+gas
+peptidoglycan recognition protein
+beta - 1 , 3 - glucan
+pattern recognition receptor
+gram - negative bacteria binding protein
+tube_drome
+q9nhg0_drome
+nfkb1_drome
+bambi
+frs2
+fringe
+oaz
+epac
+sprouty
+immunoglobulin
+light chain
+biogenic amine
+ski / snon family
+bam32
+nonclassical mhc class i molecule
+nonclassical mhc class ii molecule
+hexokinase
+inositol 1 , 4 , 5 - trisphosphate 3 - kinase
+methionine adenosyltransferase
+deoxyribonucleoside kinase
+uridine - cytidine kinase
+creatine kinase
+npp
+cd39 / ntpdase family
+pyruvate dehydrogenase
+adenosine receptor
+igfbp
+ampk
+foxo
+insulin family
+dilp
+insr_caeel
+ins
+stat_drome
+q8iny1_drome
+sumo e3 ligase
+pias
+ken_drome
+ihog / boi / cdo / boc
+hip
+migm / migd
+cd80 / cd86
+arrow / lrp5 / lrp6
+lrp5 / lrp6
+rhomboid
+star_drome
+spitz_drome
+gil_drome
+egfr_drome
+drk_drome
+ras1_drome
+kraf1_drome
+dsor1_drome
+erka_drome
+pnt2_drome
+pok_drome
+q7k119_drome
+q9vk54_drome
+csw_drome
+o96757_drome
+fgfr2_drome
+fgfr1_drome
+p91672_drome
+q6q7i9_drome
+b9zw35_drome
+srf
+gap1_caeel
+let23_caeel
+let60_caeel
+q965j5_caeel
+lin3_caeel
+mek2_caeel
+sur1_caeel
+q9n5d3_caeel
+egl15_caeel
+q9y042_caeel
+o76282_caeel
+su ( fu )
+bmp - 1 / tld family
+bmp - 2 subfamily
+bmp - 5 subfamily
+gdf - 5 subfamily
+nucleoside diphosphate kinase
+eif
+deoxycytidine kinase
+deoxyguanosine kinase
+galactokinase
+thymidine kinase 1
+thymidine kinase 2
+dihydrolipoamide dehydrogenase - binding protein
+eif3j
+second messenger
+calcitonin
+cholecystokinin
+gastric inhibitory polypeptide
+motilin
+prolactin - releasing hormone
+thyrotropin - releasing hormone
+growth hormone - releasing hormone
+beta - msh
+gastrin - releasing peptide
+vasoactive intestinal peptide
+gastrointestinal hormones
+peptide yy
+secretin
+pancreatic hormone
+glucagon
+hypothalamic hormone
+pituitary hormone
+placental hormone ,  peptide
+gonadotropin
+pituitary hormone release inhibiting hormone
+pituitary hormone - releasing hormone
+gonadotropin - releasing hormone
+pituitary hormone ,  anterior
+glycoprotein hormone ,  alpha subunit
+gonadotropin ,  pituitary
+follicle stimulating hormone
+luteinizing hormone
+growth hormone
+pituitary hormone ,  posterior
+oxytocin
+placental lactogen
+chorionic gonadotropin
+amino acid neurotransmitter
+biogenic amine neurotransmitter
+adenosine
+peptide - neurotransmitter
+tachykinin
+somatomedin
+kinin
+endothelin
+glutathione
+sphingosine - 1 - phosphate
+prolactin
+corticotropin
+alpha - msh
+lipotropin
+msh
+gamma - msh
+thyrotropin
+vasopressin
+gastrin
+pancreatic polypeptide
+somatostatin
+erk5
+mapkapk
+mapkapk5
+mnk
+toxin
+cpkc
+smad2 / 3
+smad1 / 5 / 8
+ifna6_mouse

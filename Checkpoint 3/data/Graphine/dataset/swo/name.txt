@@ -1,0 +1,764 @@
+ontology
+heat map
+gene expression data
+image
+clustered gene expression profiles
+taverna workflow format
+genbank format
+html
+xml
+obo flat file format
+sbml
+mage - tab
+copasiml
+query and retrieval
+genome annotation
+modelling and simulation
+generalization specification
+continuant
+occurrent
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+material entity
+programming language
+data item
+symbol
+information content entity
+directive information entity
+algorithm
+data format specification
+plan specification
+version name
+planned process
+organization
+data transformation
+data visualization
+stavrox
+proteomicstools
+chromeleon
+analyzerpro
+swath software
+supernovo
+peaks db
+htseq
+rna - seqc
+rseqc
+samtools
+fastqc
+cutadapt
+obsolete_information processing
+software
+licence
+obsolete information processing
+microsoft excel 2007
+matlab
+omnioutliner
+racket
+intellij idea
+copasi
+microsoft excel 2003
+operating system
+adobe illustrator 10
+obo - edit
+agilent scan control
+'annotationdbi'
+applied biosystems 1700 expression array system software
+arraygauge
+arraynorm
+'arraytools'
+arrayvision
+blast +  2 .2 .26
+bac
+binning clustering method
+clustal
+clustal omega
+crg tcoffee
+ebi tcoffee web tool
+crg rcoffee web tool
+crg tcoffee web tool
+crg mcoffee web tool
+crg expresso web tool
+crg psicoffee web tool
+crg tcoffee 9 .02 .r1228
+q
+spss
+sequence alignment and modeling system
+cytoscape
+plugin
+cel binary format
+gene expression atlas at ebi r statistics package
+python
+david
+psi - blast
+entrez
+web content search
+search engine
+weka
+postgresql
+data storage
+segway 1 .2
+python 2 .6
+python 2 .7
+mac os
+os x
+ibiosim
+vcell
+cobra
+cobrapy
+cobra toolbox
+libsbml
+gnu octave
+ggtools
+glad
+gleams software
+gostats
+gseabase
+gsealm
+genedata expressionist analyst v4 .0 .5
+gene pix
+gener
+generegionscan
+generfold
+geneselectmmd
+geneselector
+genespring
+genetac analyser
+genetraffic
+geneticsbase
+geneticsdesign
+geneticsped
+genomegraphs
+globalancova
+gosemsim
+graphat
+graphalignment
+gridgrinder
+help
+hem
+hidden variable dynamic modelling hvdm )
+harshlight
+heatplus
+hilbertvis
+hilbertvisgui
+iranges
+italics
+imagequant
+imagene
+initial microarray data processing  ( data filtering ,  local normalisation and quality control )
+jaguar
+kcsmart
+keggsoap
+kegggraph
+kolmogorov smirnov rank - sum based algorithm
+lbe
+lmgene
+lpe
+lpeadj
+publisher role
+maanova v1 .2 package for matlab
+manor
+microarray analysis suite
+mcr algorithm
+mcrestimate
+medme
+mlinterfaces
+mmd
+mvcclass
+mantelcorr
+massspecwavelet
+measurementerror .cor
+mergemaid
+mfuzz
+mipp
+nested effects models
+ocplus
+olin
+olingui
+optiquant
+orderedlist
+outlierd
+pannbuilder
+pcpheno
+pgsea
+'plm'
+plpe
+propagation of uncertainty in microarray analysis
+pathways 2 .01 software
+quantarray scanner software
+rbgl
+rbioinf
+recursive feature elimination  ( rfe )
+rlmm
+rmaexpress
+rmageml
+rnaither
+roc
+rwebservices
+rankprod
+rbcbook1
+rdbi
+rdbipgsql
+rdisop
+refplus
+resourcerer
+rgraphviz
+ringo
+rintact
+rmagpie
+rosetta resolver
+rpsixml
+rredland
+rtreemix
+ruuid
+sagx
+sas / stat software ,  version 8
+sbmlr
+sim
+slgi
+slqpcr
+smap
+snpchip
+spia
+semantic similarity measures
+sspa
+software developer role
+software developer organization
+software publisher organization
+50 - 50 manova algorithm
+arrayexpress bioconductor
+scisi
+scanalyze
+scanarray
+scanning software g2565aa version a6 .3 .1
+shortread
+silicon genetics genespring
+spotfinder  [ tigr ]
+spotfire
+tas software
+targetsearch
+typeinfo
+vanillaice
+xde
+xdotsreader
+array comparative genomic hybridization
+acuity
+affxparser
+affycontam
+affyimgui
+'affyplm'
+affypara
+affyqcreport
+affytiling
+'affycoretools'
+affyio
+affypdnn
+altcdfenvs
+annaffy
+'annotate'
+annotationtools
+'apcomplex'
+aroma .light
+arraymvout
+arrayquality
+arrayqualitymetrics
+arrayworx
+'beadarray'
+'beadarraysnp'
+'betr'
+bgafun
+bgx
+biodist
+'biocdatasets'
+'biocgraph'
+'biocviews'
+biomart
+'bridge'
+'cellhts'
+'cellhts2'
+cghmcr
+cls
+'clusterstab'
+'codelink'
+convert
+copa
+cosmo
+cosmogui
+database creation
+crlmm
+ctc
+dchip
+dama
+'diffgeneanalysis'
+'domainsignatures'
+'dualks'
+dyebias
+ecolitk
+edd
+'edger'
+exonmap
+'explorase'
+'externalvector'
+factdesign
+fbat
+fdrame
+flagme
+flowclust
+flowcore
+flowflowjo
+flowq
+flowstats
+flowutils
+flowviz
+gaga
+'gaggle'
+gcrma quantification
+gcrma
+gct
+'genarise'
+gene2pathway
+generecommender
+genefilter
+genemeta
+geneplotter
+genomeintervals
+global test
+globaltest
+goprofiles
+gotools
+gpls
+graph
+hexbin
+hopach
+hypergraph
+icens
+idiogram
+impute
+iterativebma
+iterativebmasurv
+keggorth
+lapmix
+limma
+limmagui
+logicfs
+logitt
+lumi
+macorrplot
+madb
+masigpro
+maanova
+macat
+made4
+maigespack
+makeplatformdesign
+makecdfenv
+marray
+matchprobes
+mdqc
+metaarray
+metahdep
+mirnapath
+microrna
+minet
+multiple testing
+multtest
+nem
+nnnorm
+nudge
+occugene
+oligo
+oligoclasses
+onechannelgui
+ontotools
+pamr
+panp
+parody
+pathrender
+pcamethods
+pcot2
+pdinfobuilder
+pdmclass
+pgutils
+pickgene
+pkgdeptools
+plgem
+plier
+plw
+ppistats
+prada
+preprocesscore
+puma
+qpcrnorm
+qpgraph
+quantsmooth
+qvalue
+rhvdm
+rmat
+rama
+rbsurv
+reb
+rflowcyt
+rsbml
+rtracklayer
+safe
+sagenhaft
+seqlogo
+sigpathway
+siggenes
+simpleaffy
+simulatorapms
+sizepower
+xmapbridge
+snapcgh
+snpmatrix
+spikeli
+spktools
+splicegear
+splots
+spotsegmentation
+sscore
+ssize
+stam
+statistical tests
+stepnorm
+tilingarray
+timecourse
+topgo
+tspair
+twilight
+vbmp
+vsn
+weaver
+webbioc
+widgettools
+xcms
+xps
+yaqcaffy
+50 - 50 manova
+abarray
+'acme'
+algorithms for calculating microarray enrichment
+affymetrix expression console
+ancova
+'anova'
+'affycompatible'
+'affyexpress'
+affymetrix genechip operating software
+agi4x44preprocess
+'bcrank'
+bgl
+'bgmix'
+blast
+bpmap
+brb - arraytools
+'bsgenome'
+bzscan
+basreader 3 .01
+beadstudio
+'bicare'
+'biomvcclass'
+'biobase'
+'bioccasestudies'
+bioconductor software
+'biostrings'
+bluefuse
+'bufferedmatrix'
+'bufferedmatrixmethods'
+'calib'
+'camera'
+cdf binary format
+'cma'
+cma
+'correp'
+crlmm algorithm
+carmaweb
+category
+'chemminer'
+chipreader 3 .1
+chipskipper
+multiscan
+affy
+affycomp
+pcmg
+annotation - driven clustering
+r software
+bcrank
+non - linear functional regression model
+'cocitestats'
+codelink expression analysis software
+codelink expression scanning software
+cyber - t
+'deds'
+'dfp'
+discriminant fuzzy pattern algorithm
+'dnacopy'
+'ebimage'
+'ebarrays'
+expert 2100
+facs data
+agilent feature extraction software
+gack
+gc - rma quantification
+gemtools 2 .4
+geometadb
+geoquery
+ggbase
+atlasimage
+cbs
+'cghbase'
+'cghcall'
+'cghregions'
+chp binary format
+'dyndoc'
+bcbio
+shinyngs
+seurat
+graphpad prism
+salmon
+clause
+attribution clause
+derivatives clause
+source code clause
+platform clause
+number of installations clause
+number of users clause
+time clause
+usage clause
+no restrictions on derivatives
+restrictions on derivative software
+derivatives not allowed
+derivative code same license
+source code available
+source code unavailable
+platform restricted
+platform unrestricted
+number of installations restricted
+number of installations unrestricted
+number of users restricted
+number of users unrestricted
+time for use restricted
+time for use unrestricted
+usage unrestricted
+usage restricted
+non - commercial use only
+academic use only
+derivative code linked same license
+software interface
+saem
+dynamic bayesian network model
+ode algorithm
+gillespie's stochastic simulation algorithm
+monte carlo
+dae algorithm
+pde algorithm
+spreadsheet format
+xls spreadsheet
+xml spreadsheet
+rdf
+rdf - xml
+dwg
+dxf
+bmp
+cgm
+pdf
+tiff
+jpeg
+png
+gif
+raster image format
+vector image format
+postscript
+tex
+outline document format
+omnioutline format
+opml
+jpeg 2000
+microsoft word doc
+ .java file
+ .class file
+obsolete copasiml
+owl - xml
+owl2 - xml
+tab delimited file format
+sif
+gml
+xgmml
+interaction data
+knowledge representation role
+cdf ascii format
+bar
+cel ascii format
+affymetrix - compliant data
+data file standard for flow cytometry
+fcs3 .0
+dna nucleotide sequence
+biological sequence data
+amino acid protein sequence data
+blastn
+tabix file format
+genomedata format
+bedgraph
+gmtk parameter data
+mathml 2 .0
+fieldml
+wkn
+web user interface
+desktop graphical user interface
+soap service
+rest service
+json web service
+web service
+graphical user interface
+command - line interface
+application programming interface
+distribution clause
+distribution restricted
+distribution unrestricted
+derivatives allowed
+apache license version 2 .0
+academic free license version 3
+freebsd
+gnu project free license type
+gnu gpl compatible license type
+copyleft
+gnu gpl v3
+gnu gpl v2
+cc0 1 .0
+cc by 2 .0
+attribution required
+cc by - sa 2 .0
+lppl v1 .3c
+lppl v1 .2
+mpl v2 .0
+artistic license 2 .0
+purchase cost
+free
+not free
+free to use license
+cc by 4 .0
+attribution not required
+cc by 2 .0 uk
+gnu lgpl v3
+gnu agpl v3
+gnu lgpl v2 .1
+cc by 2 .1 jp
+cc by 2 .5
+cc by 3 .0 au
+cc by 3 .0
+cc by 3 .0 us
+cc by - nd 3 .0
+cc by - nd 4 .0
+cc by - nc 3 .0
+cc by - nc 4 .0
+cc by - nc - nd 3 .0
+cc by - nc - nd 2 .5
+cc by - nc - nd 2 .5 ch
+cc by - nc - nd 4 .0
+cc by - nc - sa 2 .5
+cc by - nc - sa 3 .0
+cc by - nc - sa 3 .0 us
+cc by - nc - sa 2 .5 in
+cc by - nc - sa 4 .0
+cc by - sa 2 .1 jp
+cc by - sa 3 .0
+cc by - sa 3 .0 us
+cc by - sa 4 .0
+odbl v1 .0
+dbcl v1 .0
+emblem elm academic license
+flowrepository open access terms of use
+odc - by v1 .0
+pddl v1 .0
+obsolete_modified bsd license
+vendor - specific license
+nida nih data access policy
+addgene terms of use
+cas information use policy
+cellfinder copyright
+lincs data policy
+genenetwork conditions of use
+gmd academic license
+geneprof academic license
+european medicines agency copyright
+mirtabase data license
+gbif data sharing agreement
+iupac / inchi - trust inchi licence no . 1 .0
+labome copyright
+ctd legal notice and terms of data use
+loinc relma terms of use
+miaca full copyright
+orcid mit - style license  ( mit )
+nih genomic data sharing policy
+facebase data access policy
+orcid terms of use
+ppdb academic license
+scicrunch terms and conditions
+prodom commercial license
+sbgn open license with attribution
+nlm open license with attribution
+regenbase terms of use
+sabio - rk non - commercial purpose license
+terms of use for embl - ebi services
+ucum terms of use
+umls metathesaurus license
+mhas data policy
+alfred copyright
+commercial use only
+fee - based commercial license
+brenda license
+tcga data use certification
+non - commercial no - fee license
+drugbank academic license
+ucsc genome browser commercial software license
+permission required for commercial use
+permission required for derivative work
+xenbase academic conditions of use
+riken copyright
+design science license
+university of concordia terms of use
+ome software conditons of use
+immport conditions of use
+distribution with notices
+mit license
+gnu lgpl
+artistic license 1 .0
+epl v1
+modified bsd
+opl v1 .0
+development status
+alpha
+beta
+release candidate
+live
+obsolete
+superseded
+first release
+latest release
+maintained
+laboratory information management
+manage computer operations
+text editing
+averaging
+center calculation
+class discovery
+class prediction
+correction
+background correction
+error correction
+curve fitting
+data normalization
+decision tree induction
+descriptive statistical calculation
+feature extraction
+software publishing process
+software development
+ensemble specification
+clustering algorithm
+pattern specification
+clustering specification
+predictive modeling algorithm
+pattern discovery algorithm
+predictive model specification
+probability distribution specification
+single generalization specification

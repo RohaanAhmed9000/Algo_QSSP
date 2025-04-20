@@ -1,0 +1,1708 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+generically dependent continuant
+relational quality
+biological_process
+cell death
+cellular process
+death
+single - organism process
+single - organism cellular process
+necrotic cell death
+adverse event
+medical intervention
+adverse drug event
+drug administration
+contusion ae
+flushing ae
+pain in extremity ae
+musculoskeletal or connective tissue ae
+fatigue ae
+myocardial infarction ae
+injury ae
+skin warm ae
+nystagmus ae
+hot flushes ae
+tumor ae
+wheezing ae
+metabolism ,  endocrine or exocrine system ae
+discomfort ae
+female reproductive system ae
+male reproductive system ae
+cardiac disorder ae
+vascular disorder ae
+influenza like illness ae
+sensory neuropathy ae
+tremor ae
+circulatory shock ae
+thrombosis ae
+cell death ae
+phlebitis ae
+pancreatitis ae
+necrosis ae
+ischemia ae
+hair ,  skin or nail ae
+hair ae
+nail ae
+endocrine system ae
+paresis ae
+hepatitis ae
+ulcer ae
+bradycardia ae
+arterial disorder ae
+peripheral arterial disease ae
+stress ae
+abdominal discomfort ae
+abdominal distension ae
+abnormal dreams ae
+acne ae
+activated partial thromboplastin time prolonged ae
+acute pulmonary edema ae
+aggression ae
+agranulocytosis ae
+alanine aminotransferase level abnormal ae
+alanine aminotransferase level increased ae
+amenorrhoea ae
+angina pectoris ae
+aplastic anaemia ae
+henoch - schonlein purpura ae
+abdominal pain upper ae
+ageusia ae
+anxiety ae
+atrial flutter ae
+balance disorder ae
+cellulitis ae
+convulsion ae
+dysgeusia ae
+dyskinesia ae
+dyspnea ae
+eye irritation ae
+eye pruritus ae
+conduction system disorder ae
+hypoesthesia ae
+arterial thrombosis ae
+influenza ae
+arteriosclerosis coronary artery ae
+joint swelling ae
+kidney ae
+lip swelling ae
+muscular weakness ae
+musculoskeletal stiffness ae
+nasal congestion ae
+nasopharyngitis ae
+peripheral neuropathy ae
+otitis media ae
+pericarditis ae
+pharyngeal edema ae
+pharyngitis ae
+respiratory distress ae
+rhinitis ae
+rhinorrhea ae
+shoulder pain ae
+sinus congestion ae
+sneezing ae
+tachycardia ae
+upper respiratory tract infection ae
+varicella ae
+fever ae
+rash ae
+infection ae
+syndrome ae
+agitation ae
+pruritus ae
+pain ae
+myalgia ae
+urticaria ae
+headache ae
+respiratory system ae
+leukocyte cell number increased ae
+leukocyte cell number decreased ae
+abnormal blood pressure ae
+asthenia ae
+maculo - papular rash ae
+arthralgia ae
+dizziness ae
+edema limbs ae
+malaise ae
+somnolence ae
+paresthesia ae
+chills ae
+anorexia ae
+face edema ae
+cough ae
+flu syndrome ae
+syncope ae
+sweating ae
+hypertension ae
+myasthenia ae
+chest pain ae
+twitching ae
+asthma ae
+neck pain ae
+back pain ae
+alopecia ae
+gastrointestinal hemorrhage ae
+neuropathy ae
+muscle twitch ae
+skin discoloration ae
+shingles ae
+speech disorder ae
+hemorrhage ae
+personality disorder ae
+lung ae
+muscle ae
+hepatobiliary or pancreatic ae
+digestive system ae
+confusion ae
+joint disorder ae
+eye ae
+sedimentation rate increased ae
+amblyopia ae
+mental retardation ae
+erythema multiforme ae
+sgot increased ae
+sgpt increased ae
+thinking abnormality ae
+dyspepsia ae
+gastrointestinal disorder ae
+vertigo ae
+cardiac arrest
+bronchitis ae
+liver function test abnormal ae
+ear  ae
+viral infection ae
+jaundice ae
+eye pain ae
+palpitation ae
+tongue edema ae
+ear pain ae
+angioedema ae
+immune system ae
+antinuclear antibody present ae
+migraine ae
+amnesia ae
+voice alteration ae
+purpura ae
+acute brain syndrome ae
+coma ae
+hyperkinesia ae
+cardiovascular ae
+encephalopathy ae
+urine abnormality ae
+gastroenteritis ae
+urinary tract infection ae
+increased salivation ae
+depression ae
+diabetes mellitus ae
+laryngitis ae
+dry mouth ae
+epistaxis ae
+lupus ae
+photophobia ae
+abnormal salivary gland physiology ae
+hallucination ae
+tongue disorder
+neuralgia ae
+thirst ae
+bone ae
+emotional liability ae
+muscle spasm ae
+tendon disorder ae
+visual field defect ae
+myopathy ae
+apathy ae
+pustular rash ae
+blood creatine phosphokinase level increased ae
+intracranial hypertension ae
+abnormal stool ae
+bone pain ae
+cerebrovascular accident ae
+flatulence ae
+liver damage ae
+sore throat ae
+weight loss ae
+skin ae
+abnormal gait ae
+dehydration ae
+abnormal fluid regulation ae
+hyperglycemia ae
+cyanosis ae
+anemia ae
+hypotension ae
+irregular heartbeat ae
+electrolyte blood test abnormal ae
+abnormal digestion ae
+homeostasis ae
+edema ae
+inflammation ae
+eye inflammation ae
+conjunctivitis ae
+liver inflammation ae
+lung inflammation ae
+respiratory system inflammation ae
+vasculitis ae
+salivary gland inflammation ae
+sinusitis ae
+allergy ae
+nervous system ae
+abnormal respiration ae
+apnea ae
+deafness ae
+gustatory system ae
+polyuria ae
+blindness ae
+abnormal vision ae
+seizure ae
+behavioral and neurological ae
+movement disorder ae
+glucose homeostasis ae
+hypersensitivity ae
+hyperventilation ae
+hypoventilation ae
+hematopoietic system ae
+mydriasis ae
+increased heart rate ae
+joint inflammation ae
+increased lactate dehydrogenase level ae
+arthritis ae
+dysphagia ae
+platelet count decreased ae
+nausea ae
+constipation ae
+abnormal defecation ae
+urinary incontinence ae
+pallor ae
+tinnitus ae
+stomatitis ae
+abnormal muscle tone ae
+hypertonia ae
+myositis ae
+muscle inflammation ae
+diarrhea ae
+hypoxia ae
+hematuria ae
+abnormal enzyme level ae
+decreased heart rate ae
+urinary system ae
+abnormal body temperature ae
+neuritis ae
+investigation result abnormal ae
+nervous ae
+ecchymosis ae
+serious adverse event
+death ae
+erythema ae
+sinus headache ae
+pneumonia ae
+hematoma ae
+reproductive system ae
+aspartate aminotransferase level increased ae
+atrial fibrillation ae
+arrhythmia ae
+full blood count abnormal ae
+hyporeflexia ae
+sensation of heaviness ae
+stomach discomfort ae
+stridor ae
+skin ulceration ae
+vaginal hemorrhage ae
+blepharitis ae
+blood alkaline phosphatase level abnormal ae
+blood alkaline phosphatase increased ae
+blood bilirubin level abnormal ae
+blood bilirubin level increased ae
+blood calcium decreased
+blood cholesterol increased ae
+blood creatine phosphokinase level abnormal ae
+blood creatinine level increased ae
+blood glucose level decreased ae
+blood glucose level increased ae
+blood lactate dehydrogenase level increased ae
+blood phosphorus decreased
+blood potassium decreased
+blood sodium decreased
+blood urea level increased ae
+blood uric acid level increased ae
+bone marrow depression ae
+bone marrow disorder ae
+breast cancer ae
+bronchospasm ae
+burning sensation ae
+cardiac failure ae
+cardiac failure congestive ae
+cardiac ventricular disorder ae
+cardiomyopathy ae
+cataract ae
+cerebral hemorrhage ae
+cerebral ischemia ae
+chest discomfort ae
+cholestasis ae
+circulatory collapse ae
+colitis ae
+conjunctival hemorrhage ae
+connective tissue disorder ae
+coombs' test positive ae
+cystitis hemorrhagic ae
+delirium ae
+dermatitis exfoliative ae
+disturbance in attention ae
+drug eruption ae
+drug withdrawal syndrome ae
+dry skin ae
+duodenal ulcer ae
+dysphonia ae
+dysuria ae
+eating disorder ae
+eczema ae
+electrocardiogram result abnormal ae
+electrocardiogram qrs complex abnormal ae
+electrocardiogram qt prolonged ae
+electrolyte imbalance ae
+emotional disorder ae
+eosinophilia ae
+erectile dysfunction ae
+eye hemorrhage ae
+fall ae
+feeling abnormal ae
+feeling hot ae
+fluid overload ae
+full blood count decreased ae
+gamma - glutamyltransferase level abnormal ae
+gamma - glutamyltransferase level increased ae
+gastric ulcer ae
+gastritis ae
+gingival swelling ae
+glossodynia ae
+granulocytopenia ae
+gynaecomastia ae
+hematemesis ae
+hematocrit decreased ae
+hemoglobin level abnormal ae
+hemorrhoids ae
+hemoglobin level decreased ae
+hepatic enzyme increased ae
+hepatic failure ae
+hepatic necrosis ae
+acanthosis nigricans ae
+hepatomegaly ae
+hepatotoxicity ae
+hypercalcemia ae
+hyperhidrosis ae
+hyperkalemia ae
+hyperuricemia ae
+hypoglycemia ae
+glascow coma scale abnormal ae
+hypothyroidism ae
+hypovolemia ae
+ileus ae
+intestinal obstruction ae
+intracranial pressure increased ae
+irritability ae
+jaundice cholestatic ae
+le cells present ae
+leukocytoclastic vasculitis ae
+leukocyturia ae
+leukopenia ae
+libido disorder ae
+lichen planus ae
+liver ae
+lung infiltration ae
+lymphadenopathy ae
+coronary artery disorder ae
+melena ae
+metabolic disorder ae
+mouth ulceration ae
+muscle cramp ae
+musculoskeletal chest pain ae
+myocarditis ae
+nail infection ae
+nephrotic syndrome ae
+neutropenia ae
+neutrophil count abnormal ae
+neutrophil count decreased ae
+esophagitis ae
+pain of skin ae
+pancytopenia ae
+periodontal disease ae
+peripheral ischemia ae
+petechiae ae
+photosensitivity reaction ae
+atrioventricular block ae
+pleural effusion ae
+pollakiuria ae
+prinzmetal angina ae
+productive cough ae
+protein total abnormal ae
+prothrombin time prolonged ae
+psychotic disorder ae
+pulmonary edema ae
+pulse absent ae
+rales ae
+rectal hemorrhage ae
+renal failure ae
+acute kidney injury ae
+renal impairment ae
+respiratory disorder ae
+respiratory tract infection ae
+rhabdomyolysis ae
+scleral hyperemia ae
+sinus disorder ae
+sinus tachycardia ae
+sleep disorder ae
+sputum increased ae
+stevens - johnson syndrome ae
+gastric hemorrhage ae
+superinfection ae
+supraventricular extrasystoles ae
+supraventricular tachycardia ae
+tachycardia paroxysmal ae
+tachypnea ae
+thrombocytopenia ae
+thrombophlebitis ae
+heart rate irregular ae
+toothache ae
+hepatic function abnormal ae
+transaminase level increased ae
+upper gastrointestinal hemorrhage ae
+urinary retention ae
+urine output decreased ae
+uterine hemorrhage ae
+vaginal infection ae
+vision blurred ae
+visual acuity reduced ae
+weight increased ae
+xanthopsia ae
+osteoporosis ae
+ventricular fibrillation ae
+first degree atrioventricular block ae
+brain ae
+restlessness ae
+fussiness ae
+tiredness ae
+cardiovascular investigation result abnormal ae
+second degree atrioventricular block ae
+electrolyte lab test abnormal ae
+blood potassium abnormal ae
+blood potassium increased
+blood sodium increased
+blood magnesium increased
+blood calcium abnormal ae
+blood calcium increased
+renal and urinary tract investigation and urinalysis result abnormal ae
+blood creatinine level abnormal ae
+blood urea level abnormal ae
+lipid analysis result abnormal ae
+blood cholesterol abnormal ae
+blood cholesterol decreased ae
+low density lipoprotein abnormal ae
+low density lipoprotein increased ae
+immunology and allergy investigation result abnormal ae
+metabolic and nutritional investigation result abnormal ae
+blood glucose level abnormal ae
+blood uric acid level abnormal ae
+blood gas investigation result abnormal ae
+behavioral and neurological test abnormal ae
+physical examination result abnormal ae
+endocrine investigation result abnormal ae
+protein and chemistry analysis result abnormal ae
+c - reactive protein level abnormal ae
+protein total decreased ae
+enzyme investigation result abnormal ae
+hematology investigation result abnormal ae
+red blood cell profile abnormal ae
+white blood cell profile abnormal ae
+neutrophil percentage abnormal ae
+leukocyte cell number abnormal ae
+blood lactate dehydrogenase level abnormal ae
+liver related investigation result abnormal ae
+transaminase level abnormal ae
+aspartate aminotransferase level abnormal ae
+prothrombin time abnormal ae
+hematocrit abnormal ae
+platelet count abnormal ae
+platelet count increased ae
+eosinophil count abnormal ae
+ventricular extrasystoles ae
+cardiac embolism ae
+embolism ae
+severity of adverse event
+cerebral artery thrombosis ae
+stroke ae
+ischemic stroke ae
+psychiatric disorder ae
+ae severity g1
+ae severity g2
+ae severity g3
+ae severity g4
+ae severity g5
+gastric disorder ae
+thyroiditis ae
+glucosuria ae
+numbness ae
+interstitial pneumonia ae
+skin necrosis ae
+systemic lupus erythematosus ae
+urgent urination ae
+precordialgia ae
+dyshidrosis ae
+ankle swelling ae
+renal dysfunction ae
+epiphora ae
+hemolytic anemia ae
+somniloquy ae
+cholelithiasis ae
+blepharoptosis ae
+grand mal ae
+erythema simplex ae
+pelvic pain ae
+extrasystoles ae
+heartburn ae
+tonsillitis ae
+non - insulin - dependent diabetes mellitus ae
+areflexia ae
+mastauxe ae
+uveitis ae
+sexual dysfunctions ae
+hypomnesia ae
+phobia ae
+lymphadenectasis ae
+asterixis ae
+parageusia ae
+brain damage ae
+hyperprolactinemia ae
+galactorrhea ae
+sitophobia ae
+ejection murmur ae
+hypoactive sexual desire disorder ae
+bigotry ae
+somnambulism ae
+hyperphagia ae
+corneal pigmentation ae
+chromatosis ae
+subclavian steal syndrome ae
+allergic rhinitis ae
+ventricular ectopic beats ae
+sjogren syndrome ae
+nocturia ae
+night sweat ae
+increased appetite ae
+vascular dilatation headache ae
+bundle - branch block ae
+unstable diabetes ae
+tendon rupture ae
+tendovaginitis ae
+loose stools ae
+cystitis ae
+eructation ae
+glossolalia ae
+leg pain ae
+stomach ache ae
+conduction block ae
+photodermatitis ae
+pygalgia ae
+throat irritation ae
+interstitial nephritis ae
+hoarseness ae
+photosensitization ae
+fanconi syndrome ae
+keratoconjunctivitis ae
+hepatic insufficiency ae
+hypoxemia ae
+irritant contact dermatitis ae
+pitting edema ae
+acute bronchitis ae
+renal calculus ae
+clouding of consciousness ae
+reflex tachycardia ae
+joint sprain ae
+epicondylitis ae
+melanoglosia ae
+ventricular tachycardia ae
+granulomatous hepatitis ae
+hypogeusia ae
+dysphoria ae
+oneirism ae
+podalgia ae
+brachialgia ae
+coxalgia ae
+limb injury ae
+polymyalgia rheumatica ae
+fibromyalgia ae
+hepatic encephalopathy ae
+chorea ae
+nightmare ae
+depersonalization ae
+apatheia ae
+parosmia ae
+xerophthalmia ae
+chondropathy ae
+teratogenesis ae
+parotitis ae
+glossitis ae
+genital edema ae
+orgasm incapacity ae
+sedation ae
+sinus bradycardia ae
+cardiac output decreased ae
+steatorrhea ae
+malabsorption syndrome ae
+sialadenitis ae
+parkinson's disease ae
+urinary calculus ae
+sinoatrial block ae
+hyperthyroidism ae
+akathisia ae
+retinopathy ae
+sinus arrest ae
+st segment depression ae
+t - wave inversion ae
+hyperthermia ae
+priapism ae
+gingival bleeding ae
+hearing loss ae
+muscle fatigue ae
+regurgitation ae
+skin irritation ae
+herpes simplex ae
+measles ae
+hypercholesteremia ae
+toxic epidermal necrolysis ae
+atrioventricular junctional rhythm ae
+unconsciousness ae
+pemphigus ae
+onychomycosis ae
+miosis ae
+optic atrophy ae
+albuminuria ae
+enuresis ae
+gum hypertrophy ae
+contact dermatitis ae
+necrotizing vasculitis ae
+carpal tunnel syndrome ae
+erythromelalgia ae
+raynaud's syndrome ae
+extrapyramidal syndrome ae
+sodium retention ae
+complex regional pain syndrome ae
+sciatica ae
+joint stiffness ae
+breast engorgement ae
+nervous tension ae
+nervousness ae
+osteoarthritis ae
+methemoglobinemia ae
+hemiageusia ae
+skin swelling ae
+fibrosing alveolitis ae
+hypochloremic alkalosis ae
+erythema annulare centrifugum ae
+irritation ae
+neuroticism ae
+hyperirritability ae
+rhinostenosis ae
+sino - auricular heart - block ae
+anisosphygmia ae
+rubefaction ae
+myodystony ae
+allotriosmia ae
+pharyngotonsillitis ae
+hypersensitivity pneumonitis ae
+stagger ae
+myocardial anoxia ae
+biliary colic ae
+hyperemia ae
+abdominal pain lower ae
+fecal incontinence ae
+allergic eruption ae
+erythrodermia ae
+mycotic dermatitis ae
+peritendinitis symptom ae
+orthostatic hypotension ae
+carcinogenesis ae
+anaphylactic shock ae
+fatty infiltration ae
+epigastric discomfort ae
+acute intravascular hemolysis ae
+allergic hepatitis ae
+paranoid anxietas ae
+glaucoma ae
+anaphylaxis ae
+seasonal allergy ae
+skin redness ae
+angina ae
+aggravating angina ae
+severe hypotension caused angina symptom aggravating ae
+blink ae
+dazzling ae
+ventricular rhythm ae
+extrapyramidal signs ae
+hearing disorder ae
+yellow urine ae
+epidermal necrosis ae
+arthromeningitis ae
+increased defecation frequency ae
+symptomatic hypotension ae
+non - specific gastrointestinal dysfunction ae
+abnormal sclerotin ae
+fast and weak heart beat ae
+pain over the liver ae
+increased biliary calculus ae
+muscle function disorder ae
+accidental fall ae
+accidental injury ae
+abnormal ejaculation ae
+distention of head ae
+water - sodium retention ae
+dizziness when standing up ae
+change of gustation ae
+vascular stimulation of pain ae
+vascular pain ae
+heaviness sense of arm ae
+breast swelling ae
+gastrointestinal cramp ae
+heart discomfort ae
+angiectopia of skin ae
+joint discomfort ae
+eye discomfort ae
+instability of gait ae
+pemphigoid injury ae
+pulse frequency change ae
+inhibition of myocardial contraction force ae
+decreased of atrial conduction velocity ae
+spasm of lower limbs ae
+electrocardiogram prolonged pr interval ae
+qrs wave broadening ae
+edema of lower limbs ae
+accelerated pulse ae
+bitter taste of mouth ae
+skin irritant reaction ae
+vitreous suspended substance ae
+dreaminess ae
+abdominal spasm ae
+coronary contraction ae
+lower extremity edema caused by blood vessels ae
+asthenia of lower limbs ae
+small bronchial lumen occlusion ae
+prolonged orthostatic hypotension ae
+cross allergic reaction ae
+deep venous thrombophlebitis ae
+change of hematology ae
+cardiac depression ae
+side limb numbness ae
+numbness of tongue ae
+numbness of the limbs ae
+lip numbness ae
+reflex increased pulse rate ae
+irritation of the digestive tract ae
+unconscious chorea ae
+phlebectasia of limbs ae
+heart beat skip ae
+fatal liver cell necrosis ae
+warm and hot feeling in the neck ae
+facial warm feeling ae
+increased peripheral vascular resistance ae
+venous ischemia ae
+increased blood creatine ae
+increased nonprotein nitrogen ae
+soft feces ae
+increased hepatic function ae
+knee pain ae
+loss of libido ae
+over sedation ae
+finger tremor ae
+leg cramp ae
+insomnia ae
+terminal insomnia ae
+bone marrow granuloma ae
+cholestatic liver injury ae
+distant heart sounds ae
+pink skin ae
+acute laryngeal edema ae
+hypoplastic bone marrow ae
+bleeding and coagulation disorders ae
+polymorphic ventricular tachycardia ae
+respiratory tract symptoms ae
+clammy skin ae
+abnormal visual accommodation ae
+skin allergy ae
+heaviness of the head ae
+rheumatoid factor positive ae
+retinal detachment ae
+arm pain ae
+peripheric paresthesia ae
+edema of glottis ae
+prolonged qrs complex ae
+prolonged bleeding time ae
+acute generalized exanthematous pustulosis ae
+upper and lower limbs flare ae
+abnormal blood sugar with empty stomach ae
+increased blood sugar with empty stomach ae
+hydrochloric acid in gastric juice secretion increased ae
+torsades de pointes ae
+proximal myasthenia ae
+dilated skin vessels ae
+numbness of oral mucosa ae
+orthostatic dizziness ae
+acid reflux ae
+jugular phlebectasia ae
+laryngeal edema ae
+flatus ae
+continuous polymorphic ventricular tachycardia ae
+intermittent polymorphic ventricular tachycardia ae
+aggravated ulcer ae
+heart failure increased ae
+aggravated angina symptoms ae
+aggravated renal injury ae
+aggravated fatigue ae
+persistent nausea ae
+aggravated raynaud's syndrome ae
+increased gastric acid secretion with high dose ae
+persistent vomiting ae
+hypoacusis ae
+lip cyanosis ae
+nail cyanosis ae
+lip angioedema ae
+tongue angioedema ae
+acousma ae
+eye burning ae
+worsening renal function ae
+mild change of hematology ae
+moderate change of hematology ae
+severe lower blood pressure ae
+elevated blood transaminase reversibility ae
+mild gastrointestinal tract reaction ae
+temporary abdominal distention ae
+transient nausea ae
+persistent tachycardia ae
+mild headache ae
+transient hypoxemia ae
+transient neuroticism ae
+constant irritability ae
+abnormal atony ae
+secondary hypotension ae
+transient elevated serum transaminase ae
+transient elevated blood urea nitrogen ae
+apparent increased blood creatine phosphokinase ae
+severe rhabdomyolysis ae
+mild gastrointestinal bleeding ae
+occult gastrointestinal tract bleeding ae
+nitrate headache ae
+pantomorphia erythema exudativum ae
+high hypodynamia ae
+short - time nausea ae
+slightly increased aspartic transaminase ae
+slightly increased alanine aminotransferase ae
+slightly increased lactic dehydrogenase ae
+slightly increased alkaline phosphatase ae
+slightly increased glutamic - oxalacetic transaminase ae
+slightly increased glutamic pyruvic transaminase ae
+transient ischemic stroke ae
+evidently increased hepatic lipase ae
+mild decline in blood pressure ae
+transient cerebral ischemic attacks ae
+transient hypotension ae
+obviously decreased blood pressure ae
+transient dizzy ae
+short - time hepatic function disorder ae
+a slightly elevated plasma creatinine level ae
+sudden fall of blood pressure ae
+severe hypertension ae
+severe arrhythmia ae
+clinically significant rise of serum transaminase ae
+instantaneous sand - blind ae
+moderately increased urinary nitrogen ae
+slightly increased urinary nitrogen ae
+moderately elevated serum creatinine ae
+slightly increased aminotransferase ae
+severe dizziness ae
+mild abdominal discomfort ae
+serum potassium concentration of moderately reduced
+rebound increased blood pressure ae
+excessive lowering of blood pressure ae
+short - time increased blood sugar ae
+mild nausea ae
+significant and persistent rise of serum transaminase ae
+elevated serum transaminase reversibility ae
+reversible increased creatine phosphokinase ae
+persistent and significant increase of serum transaminase ae
+severe bradycardia ae
+apparent hypotensive reaction ae
+severe skin flush ae
+transient sinus cardiac arrest ae
+low - grade gastralgia ae
+severe headache ae
+persistent headache ae
+proarrhythmic effect ae
+increased tendency of biliary calculus ae
+temporarily lose consciousness ae
+increase breast cancer occurrence ae
+anticholinergic effect ae
+neutrophilopenia ae
+abnormal leucocyte neutrophil ae
+abnormal eosinocyte ae
+eosinopenia ae
+aggravated peptic ulcer ae
+local tissue necrosis ae
+hepatic enzyme abnormal ae
+autoimmune disorder ae
+epileptic seizure ae
+optic neuropathy ae
+ventricular arrhythmia ae
+blood glucose decreased
+blood glucose increased
+cranial neuropathy ae
+cardiac function test abnormal ae
+injury or procedural complication ae
+herpes viral infection ae
+abnormal reflex ae
+stomach pain ae
+esophagus ae
+duodenum ae
+uterine ae
+planned process
+pathological bodily process
+behavioral quality
+physical quality
+process quality
+physical object quality
+organismal quality
+quality of a substance
+nose
+islet of langerhans
+peripheral nervous system
+zone of skin
+anatomical boundary
+endocrine pancreas
+exocrine pancreas
+sense organ
+tube
+appendage
+head
+serous membrane
+tendon
+ganglion
+vessel
+ureter
+urethra
+duct
+anatomical wall
+anatomical structure
+organ
+organ subunit
+organ part
+respiratory tract
+fully formed stage
+embryo stage part
+embryo stage
+death stage
+proximo - distal subdivision of respiratory tract
+regional part of nervous system
+subdivision of skeletal system
+external ectoderm
+mesonephros
+metanephros
+mesonephric tubule
+ureteric bud
+post - embryonic stage
+membrane organ
+life cycle
+life cycle stage
+zygote stage
+cleavage stage
+blastula stage
+gastrula stage
+neurula stage
+organogenesis stage
+respiratory tube
+lung bud
+neuron projection bundle
+neural nucleus
+cranial nerve nucleus
+intestine
+orifice
+cloaca
+embryonic cloaca
+primitive urogenital sinus
+mouth
+oral opening
+oral cavity
+pair of lungs
+respiration organ
+excreta
+blood
+haemolymphatic fluid
+blastula
+breast
+duodenal mucosa
+gastric gland
+gut wall
+throat
+mucosa
+parenchyma
+musculature of body
+serous gland
+mucous gland
+bodily secretion
+organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical system
+multicellular organism
+compound organ component
+female reproductive system
+organism subdivision
+acellular anatomical structure
+anatomical cluster
+tissue
+multi - tissue structure
+epithelium
+simple columnar epithelium
+multilaminar epithelium
+simple squamous epithelium
+cavitated compound organ
+unilaminar epithelium
+mucus
+thoracic segment of trunk
+abdomen
+embryo
+germ layer
+ectoderm
+endoderm
+mesoderm
+stomodeum
+proctodeum
+stomach
+heart
+endocrine system
+brain
+eye
+neck
+leg
+skeletal joint
+reproductive system
+gonad
+female gonad
+oviduct
+uterus
+vagina
+skin epidermis
+respiratory system
+respiratory airway
+digestive system
+renal system
+circulatory system
+adipose tissue
+musculature
+nervous system
+central nervous system
+nerve
+sensory system
+gustatory system
+foregut
+chordate pharynx
+esophagus
+saliva - secreting gland
+midgut
+hindgut
+primordium
+neural tube
+anatomical entity
+ventral pancreatic duct
+urine
+synovial fluid
+lobe of liver
+right lobe of liver
+left lobe of liver
+cardiac muscle tissue
+skeletal muscle tissue
+mesothelium
+dorsum
+cystic duct
+body of stomach
+pyloric antrum
+pylorus
+wall of stomach
+wall of small intestine
+portal lobule
+hepatic acinus
+biliary tree
+common bile duct
+common hepatic duct
+right hepatic duct
+left hepatic duct
+hepatic artery
+mucosa of stomach
+pyloric sphincter
+mucosa of small intestine
+renal pelvis
+intestinal mucosa
+anus
+interlobular bile duct
+urinary bladder
+wall of intestine
+pancreatic acinus
+pancreas
+pelvic girdle region
+epithelium of stomach
+portal triad
+liver parenchyma
+intralobular bile duct
+anal region
+skeletal system
+hindlimb skeleton
+chest
+skeleton of pes
+face
+hip
+bone element
+articular capsule
+digestive tract
+lower urinary tract
+upper respiratory tract
+lower respiratory tract
+coronary artery
+muscle organ
+artery
+vein
+ear
+nail
+jaw skeleton
+lower jaw region
+cranial ganglion
+tongue
+larynx
+vagus nerve
+spinal nerve
+cranial nerve
+lip
+saliva
+forebrain
+midbrain
+telencephalon
+metencephalon
+medulla oblongata
+midbrain tegmentum
+blood plasma
+bile
+venule
+arteriole
+blood vessel
+capillary
+portal vein
+gray matter
+hindbrain
+striated muscle tissue
+cerebellum
+thyroid gland
+lung
+vasculature
+embryonic structure
+dermis
+hypodermis
+viscus
+postcranial axial skeleton
+appendicular skeleton
+skin of body
+trunk
+limb
+hindlimb
+visual system
+vestibulo - auditory system
+liver
+small intestine
+gall bladder
+kidney
+duodenum
+pronephros
+right lung
+left lung
+bronchus
+hemolymphoid system
+integument
+vasculature of trunk
+musculoskeletal system
+synovial joint
+thoracic cavity
+spinal cord
+olfactory organ
+biliary system
+brainstem
+nucleus of brain
+coelemic cavity lumen
+notochord
+somite
+exocrine system
+neural crest
+neurectoderm
+myocardium
+conducting system of heart
+sinoatrial node
+pelvic region of trunk
+exocrine gland
+endocrine gland
+bone marrow
+connective tissue
+muscle tissue
+pes
+hematopoietic system
+bile duct
+immune system
+integumental system
+abdominal segment of trunk
+cartilage tissue
+hepatobiliary system
+limb bone
+autopod region
+zeugopod
+stylopod
+bone tissue
+long bone
+endochondral bone
+limb segment
+gland
+paired fin bud
+epiblast  ( generic )
+paired fin
+pharyngeal arch
+digit
+cranial placode
+anatomical cavity
+regional part of brain
+olfactory placode
+midbrain - hindbrain boundary
+periderm
+pre - chordal neural plate
+chordal neural plate
+presomitic mesoderm
+pronephric duct
+blood island
+intermediate mesoderm
+pharyngeal arch 2
+axial mesoderm
+mesonephric duct
+neural plate
+paraxial mesoderm
+lateral plate mesoderm
+myotome
+heart primordium
+sclerotome
+thyroid primordium
+cranial neural crest
+female organism
+male organism
+surface structure
+compound organ
+mesenchyme
+pharyngeal arch 3
+pharyngeal arch 6
+trachea
+cranium
+skull
+reproductive organ
+female reproductive organ
+metanephric mesenchyme
+phalanx
+endoderm of foregut
+skeleton of lower jaw
+gland of foregut
+epithelium of mucosa
+gland of gut
+pelvic appendage bud mesenchyme
+thoracic cavity vein
+heart blood vessel
+arterial blood vessel
+trunk blood vessel
+thoracic cavity blood vessel
+brain gray matter
+limb long bone
+limb joint
+extrahepatic bile duct
+intrahepatic bile duct
+neural tissue
+recurrent laryngeal nerve
+metapodium bone
+thoracic segment blood vessel
+autopod joint
+neural tube lumen
+mesencephalic neural crest
+telencephalon neural crest
+rhombencephalon neural crest
+spinal cord neural crest
+presumptive ganglion
+future coelemic cavity lumen
+intraembryonic coelom
+liver primordium
+epithelial tube
+kidney mesenchyme
+venous blood vessel
+pancreas primordium
+pancreatic epithelial bud
+dorsal pancreatic bud
+ventral pancreatic bud
+digestive system duct
+digestive tract epithelium
+internal female genitalia
+dermatome
+germinal neuroepithelium
+biliary ductule
+neural tube ventricular layer
+neural tube mantle layer
+neural tube marginal layer
+neural tube basal plate
+vena cava
+anatomical conduit
+pharyngeal pouch
+endoderm - derived structure
+mesoderm - derived structure
+ectoderm - derived structure
+genitourinary system
+cardiogenic plate
+primary heart field
+heart tube
+cardiac chamber
+septum transversum
+internal genitalia
+external genitalia
+endodermal part of digestive tract
+skeleton
+dermomyotome
+heart rudiment
+distal phalanx
+middle phalanx
+proximal phalanx
+primitive streak
+limb bud
+apical ectodermal ridge
+paired limb / fin bud
+pharyngeal arch 1
+bone of free limb or fin
+skeleton of limb
+entire sense organ system
+cardiac muscle tissue of myocardium
+anatomical projection
+cardiovascular system
+blood vasculature
+systemic arterial system
+arterial system
+systemic artery
+venous system
+sphincter muscle
+liver lobule
+paired limb / fin
+pelvic appendage
+conceptus
+segmental subdivision of nervous system
+segmental subdivision of hindbrain
+gastrula
+skeletal tissue
+skeletal element
+articular system
+gastrointestinal system mucosa
+respiratory tract epithelium
+respiratory system epithelium
+gastrointestinal system epithelium
+upper respiratory tract epithelium
+kidney epithelium
+splanchnic layer of lateral plate mesoderm
+somatopleure
+nephrogenic cord
+urogenital fold
+chordamesoderm
+articulation
+upper digestive tract
+hepatopancreatic ampulla
+duodenal papilla
+subdivision of digestive tract
+organ component layer
+mucosa of pylorus
+neural groove
+neural fold
+neural rod
+metanephric ureteric bud
+ureter ureteric bud
+ectodermal placode
+muscle structure
+mesonephric epithelium
+epithelial bud
+reproductive structure
+epithelial fold
+multi cell part structure
+hepatic duct
+abdomen element
+abdominal segment element
+dorsal region element
+trunk region element
+thoracic cavity element
+pelvic region element
+thoracic segment organ
+trunk mesenchyme
+myelencephalon
+embryonic tissue
+alimentary part of gastrointestinal system
+hindlimb bud
+pelvic appendage bud
+sulcus limitans of neural tube
+neural tube lateral wall
+primitive heart tube
+gonad primordium
+lung primordium
+pronephric mesoderm
+olfactory system
+pelvic appendage field
+fin field
+paired limb / fin field
+limb field
+caudal part of nephrogenic cord
+rostral part of nephrogenic cord
+acellular membrane
+basement membrane of epithelium
+nephric ridge
+portal system
+developing mesenchymal condensation
+cartilaginous condensation
+pre - cartilage condensation
+mandibular prominence
+autopodial extension
+serous sac
+endo - epithelium
+axial skeleton plus cranial skeleton
+heart layer
+coronary vessel
+integumentary adnexa
+multi - limb segment region
+rhombic lip
+cloacal membrane
+foregut - midgut junction
+future brain
+future forebrain
+gall bladder primordium
+notochordal plate
+notochordal process
+bodily fluid
+renal duct
+excretory tube
+pharynx
+presumptive endoderm
+presumptive structure
+presumptive ectoderm
+presumptive mesoderm
+interphalangeal joint
+mesopodium region
+autopodial skeleton
+median lingual swelling
+lateral lingual swelling
+glandular epithelium
+surface groove
+terminal part of digestive tract
+footplate
+vasculature of organ
+lumen of digestive tract
+squamous epithelium
+stomach glandular epithelium
+digestive gland
+glandular columnar epithelium
+stomach glandular region mucosa
+vascular cord
+anatomical surface
+cardiac mesoderm
+cleaving embryo
+primary circulatory organ
+pharyngeal pouch 2
+neural keel
+tracheobronchial tree
+pelvic appendage skeleton
+presumptive hindbrain
+presumptive midbrain hindbrain boundary
+presumptive segmental plate
+presumptive neural plate
+presumptive paraxial mesoderm
+presumptive pronephric mesoderm
+pancreatic lobule
+pancreatic duct
+outer epithelium
+stratum compactum
+enveloping layer of ectoderm
+epithelial sac
+epithelial tube open at both ends
+epithelial vesicle
+dense mesenchyme tissue
+migrating mesenchyme population
+ciliated columnar epithelium
+ciliated epithelium
+layer of synovial tissue
+synovial cavity of joint
+anatomical junction
+kidney field
+anlage
+thyroid diverticulum
+serous fluid
+vascular system
+craniocervical region
+appendage girdle region
+pelvic girdle skeleton
+cartilage element
+regular connective tissue
+dense regular connective tissue
+lower limb segment
+pharyngeal arch system
+embryonic head
+hepatic diverticulum
+pyloric canal
+pyloric gastric gland
+splanchnocranium
+fin
+stomach region
+indifferent gonad
+entire embryonic mesenchyme
+nephric duct
+epithelium of foregut - midgut junction
+endoderm of foregut - midgut junction
+distal segment of digit
+distal limb integumentary appendage
+presumptive midbrain
+hindbrain nucleus
+limb mesenchyme
+distal interphalangeal joint
+glandular acinus
+digestive tract diverticulum
+zone of stomach
+metapodium region
+mesopodial skeleton
+neurogenic placode
+multicellular anatomical structure
+cell cluster organ
+food storage organ
+oral gland
+future tongue
+future common hepatic duct
+future dermis
+future metencephalon
+future myelencephalon
+autopod plate
+conducting tissue of heart
+protuberance
+midbrain basal plate
+midbrain neural tube
+neural crest - derived structure
+structure with developmental contribution from neural crest
+cranial skeletal system
+paired limb / fin bud mesenchyme
+endochondral element
+ecto - epithelium
+mesenchyme from somatopleure
+pseudostratified columnar epithelium
+pseudostratified ciliated columnar epithelium
+microcirculatory vessel
+paired limb / fin segment
+acropodial skeleton
+metapodial skeleton
+digit mesenchyme
+appendage girdle complex
+pelvic complex
+limb skeleton subdivision
+paired fin skeleton
+girdle skeleton
+bone of appendage girdle complex
+subdivision of organism along appendicular axis
+limb cartilage element
+limb bone pre - cartilage condensation
+subdivision of skeleton
+nonsynovial joint
+axial skeletal system
+post - cranial axial skeletal system
+synovial limb joint
+upper urinary tract
+facial skeleton
+primary subdivision of skull
+gastrointestinal sphincter
+central nervous system cell part cluster
+organ system subdivision
+appendicular skeletal system
+autopod bone
+paired limb / fin skeleton
+stylopodial skeleton
+zeugopodial skeleton
+cell condensation
+jaw region
+subdivision of organism along main body axis
+embryonic cardiovascular system
+vagus nerve nucleus
+nerve of head region
+irregular connective tissue
+dense irregular connective tissue
+dense connective tissue
+loose connective tissue
+acinus of exocrine gland
+epimysium
+stomach glandular region
+coelom
+digitopodium region
+skeleton of digitopodium
+columnar epithelium
+meso - epithelium
+embryonic cloacal fold
+embryonic facial prominence
+fin skeleton
+acropodium region
+digitopodium bone
+hemopoietic tissue
+skeleton of pelvic complex
+serous acinus
+embryonic urethral groove
+space surrounding organism
+subdivision of oviduct
+anatomical conduit space
+main body axis
+body proper
+integumentary projection
+integumentary system layer
+venous blood
+digestive system element
+great vessel of heart
+future telencephalon
+thoracic skeleton
+interlobular duct
+intralobular duct
+skeletal muscle organ
+primordial vasculature
+phalanx endochondral element
+limb endochondral element
+autopod endochondral element
+autopod cartilage
+lateral structure
+circulatory organ
+foregut epithelium
+pit
+future central nervous system
+future nervous system
+entire extraembryonic component
+transitional anatomical structure
+developing mesenchymal structure
+abdominal viscera
+layer of muscle tissue
+heart vasculature
+bladder organ
+developing neuroepithelium
+proliferating neuroepithelium
+differentiating neuroepithelium
+cranial neuron projection bundle
+morphological feature
+bodily gas
+air in respiratory system
+multi organ part structure
+cell cluster
+anatomical collection
+external soft tissue zone
+epithelium of biliary system
+gas in respiratory system
+laryngeal nerve
+future mouth
+preplacodal ectoderm
+external integument structure
+digit plus metapodial segment
+individual digit of digitopodial skeleton

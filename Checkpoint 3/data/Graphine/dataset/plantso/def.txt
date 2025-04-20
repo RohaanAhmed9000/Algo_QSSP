@@ -1,0 +1,332 @@
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+elementary particle not affected by the strong force having a spin 1 / 2 ,  a negative elementary charge and a rest mass of 0 .000548579903 ( 13 )  u ,  or 0 .51099906 ( 15 )  mev .
+a monoatomic or polyatomic species having one or more elementary charges of the electron .
+any constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer etc . ,  identifiable as a separately distinguishable entity .
+a chemical entity is a physical entity of interest in chemistry including molecular entities ,  parts thereof ,  and chemical substances .
+a role played by the molecular entity or part thereof within a biological context .
+a defined linked collection of atoms or a single atom within a molecular entity .
+a salt is an assembly of cations and anions .
+a molecular entity having a net electric charge .
+a particle not known to have substructure .
+a chemical entity constituting the smallest component of an element having the chemical properties of the element .
+a nucleus is the positively charged central portion of an atom ,  excluding the orbital electrons .
+heavy nuclear particle: proton or neutron .
+a nutrient is a food component that an organism uses to survive and grow .
+any p - block element atom that is in group 15 of the periodic table: nitrogen ,  phosphorus ,  arsenic ,  antimony and bismuth .
+an atom belonging to one of the main groups  ( found in the s -  and p -  blocks )  of the periodic table .
+an atom of an element that exhibits typical metallic properties ,  being typically shiny ,  with high electrical and thermal conductivity .
+any main group element atom belonging to the p - block of the periodic table .
+lepton is a fermion that does not experience the strong force  ( strong interaction )  .
+baryon is a fermion that does experience the strong force  ( strong interaction )  .
+particle of half - integer spin quantum number following fermi - dirac statistics .
+a particle smaller than an atom .
+a subatomic particle known to have substructure  ( i .e .
+hadron is a subatomic particle which experiences the strong force .
+a nucleus or any of its constituents in any of their energy states .
+any molecular entity consisting of more than one atom .
+a monoatomic or polyatomic species having one or more elementary charges of the proton .
+a molecular entity consisting of two or more chemical elements .
+a role is particular behaviour which a material entity may exhibit .
+any substance that is distributed in foodstuffs .
+any process specifically pertinent to the functioning of integrated living units: cells ,  tissues ,  organs ,  and organisms .
+a plant experimental condition  ( peco:0007359 )  or set of conditions describing the application of an abiotic  ( peco:0007191 )  or biotic plant exposure  ( peco:0007357 )  or the combinatorial application thereof .
+a plant exposure  ( peco:0001001 )  and / or study type  ( peco:0007231 )  applied to a whole plant  ( po:0000003 )  ,  a plant structure  ( po:00090119 )  ,  and / or a plant population as part of an experiment to evaluate the plant response .
+a plant structure  ( po:0005679 )  which is a whole organism .
+a phyllome primordium  ( po:0025128 )  that develops from a vascular leaf anlagen  ( po:0025431 )  and is part of a vegetative shoot apex  ( po:0025223 )  and is committed to the development of a vascular leaf  ( po:0009025 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of an ovule  ( po:0020003 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of a gynoecium  ( po:0009062 )  .
+a phyllome primordium  ( po:0025128 )  that develops from a petal anlagen  ( po:0025484 )  and is committed to the development of a petal  ( po:0009032 )  .
+a shoot axis  ( po:0025029 )  that is the most distal part of a shoot system  ( po:0009006 )  and has as parts a shoot apical meristem  ( po:0020148 )  and the youngest primordia  ( po:0025127 )  .
+a portion of leaf epidermis that is part of a petiole .
+an undeveloped shoot system  ( po:0009006 )  .
+a bud  ( po:0000055 )  that develops into a vegetative shoot system  ( po:0025607 )  .
+a portion of shoot system epidermis  ( po:0006035 )  that is part of a shoot axis  ( po:0025029 )  .
+a portion of meristem tissue  ( po:0009013 )  which is the organogenic region of the meristem ,  characterized by higher rates of cell division .
+a portion of reproductive shoot apical meristem tissue  ( po:0008028 )  that gives rise to the floral organs  ( po:0025395 )  .
+a unicellular or multicellular plant structure  ( po:0009011 )  that forms a non - sclerified outgrowth from the epidermis  ( po:0005679 )  .
+an initial cell  ( po:0004011 )  that is part of an epidermis  ( po:0005679 )  and gives rise to specialized cell types of the epidermis .
+a plant embryo development stage  ( po:0007631 )  during the interval between when a plant embryo  ( po:0009009 )  has stopped developmental growth involved in morphogenesis  ( go:0060560 )  and one of the following: the beginning of the seed germination stage  ( po:0007057 )  in seed plants ,  formation of the first vascular leaf  ( po:0009025 )  in pteridophytes ,  the beginning of development of a sporangium  ( po:0025094 )  in bryophytes ,  or the beginning of the formation of a plant organ  ( po:0009008 )  such as a root  ( po:0009005 )  ,  shoot axis  ( po:0025029 )  ,  or vascular leaf  ( po:0009025 )  in a cultured plant embryo  ( po:0000010 )  .
+a reproductive shoot system development stage  ( po:0025530 )  that has as primary participant a inflorescence  ( po:0009049 )  .
+a sporophyte development stage  ( po:0007134 )  that occurs during the interval between fertilization and the first cell division of the plant zygote  ( po:0000423 )  .
+a portion of shoot system epidermis  ( po:0006035 )  that has as parts two guard cells  ( po:0000293 )  and a stomatal pore  ( po:0008032 )  .
+a native plant cell  ( po:0025606 )  synthesizing protoplasm and producing new cells by division and with only a primary cell wall .
+a meristematic cell  ( po:0004010 )  that by division gives rise to two cells ,  one of which remains meristematic ,  while the other is added to the plant body .
+a portion of secondary xylem  ( po:0005848 )  that has as parts living secondary xylem parenchyma cells  ( po:0004525 )  .
+a portion of plant tissue  ( po:0009007 )  outside the vascular cambium  ( po:0005598 )  or the xylem  ( po:0005352 )  ;  in older trees may be divided into dead outer bark and living inner bark ,  which consists of secondary phloem  ( po:0005043 )  .
+a portion of parenchyma  ( po:0005421 )  tissue that is part of a portion of secondary xylem  ( po:0005848 )  and has as parts secondary xylem parenchyma cells  ( po:0004525 )  .
+a swollen shoot axis  ( po:0025029 )  that grows horizontally at or below the substrate surface and produces shoots above and roots or rhizoids below .
+a shoot axis  ( po:0025029 )  that develops from a branch  ( po:0025073 )  and is radially enlarged for storage .
+a shoot system that is initiated from a shoot .
+a shoot axis tuber  ( po:0004543 )  that develops below ground .
+a phyllome primordium  ( po:0025128 )  that develops from a carpel anlagen  ( po:0006005 )  and is committed to the development of a carpel  ( po:0009030 )  .
+a phyllome primordium  ( po:0025128 )  that develops from a stamen anlagen  ( po:0025486 )  and is committed to the development of a stamen  ( po:0009029 )  .
+a bud  ( po:0000055 )  that develops from an axillary bud meristem  ( po:0000232 )  .
+an axillary bud  ( po:0004712 )  that develops into a shoot system  ( po:0009006 )  that has as organ parts only vegetative organs .
+a bud that develops from a shoot apical meristem .
+an axillary shoot system  ( po:0006343 )  that is part of a stem base  ( po:0008039 )  .
+a cardinal organ part  ( po:0025001 )  of a shoot axis  ( po:0025029 )  that is between two shoot axis nodes  ( po:0005004 )  .
+a primordium  ( po:0025127 )  that develops from a root anlagen  ( po:0025433 )  and is committed to the development of a root  ( po:0009005 )  .
+a portion of phloem  ( po:0005417 )  tissue that develops from a vascular cambium  ( po:0005598 )  .
+a portion of vascular tissue  ( po:0009015 )  that has as part one or more tracheary elements  ( po:0000290 )  .
+a portion of vascular tissue  ( po:0009015 )  that has as parts sieve elements  ( po:0025406 )  .
+a portion of ground tissue  ( po:0025059 )  composed of polyhedral cells typically with thin ,  non - lignified cellulosic cell walls and nucleate ,  living protoplasts .
+a lateral meristem  ( po:0020145 )  that has as part a single layer of cambial initial cells  ( po:0000295 )  and their derivatives ,  arranged orderly in radial files .
+a cambium  ( po:0005597 )  that is located between and gives rise to secondary xylem  ( po:0005848 )  and secondary phloem  ( po:0005043 )  .
+a portion of plant tissue  ( po:0009007 )  composed of epidermal cells  ( po:0004013 )  that develops from the protoderm  ( po:0006210 )  and covers the surface of a plant structure  ( po:0009011 )  .
+a portion of xylem  ( po:0005352 )  tissue that develops from a vascular cambium  ( po:0005598 )  .
+a lateral plant organ  ( po:0009008 )  produced by a shoot apical meristem  ( po:0020148 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a carpel primordium  ( po:0004703 )  and is part of a peripheral zone  ( po:000225 )  of a flower meristem  ( po:0000229 )  .
+a portion of phyllome epidermis  ( po:0025157 )  that is part of a leaf  ( po:0025034 )  .
+a portion of epidermis  ( po:0005679 )  that is part of a shoot system  ( po:0009006 )  and arises from the meristem l1 layer  ( po:0009020 )  .
+a portion of epidermis  ( po:0005679 )  that is part of a root  ( po:0009005 )  .
+a portion of phyllome epidermis  ( po:0025157 )  that is part of a petal  ( po:0009032 )  .
+a portion of epidermis  ( po:0005679 )  that is part of a seed coat  ( po:0009088 )  .
+a portion of meristem tissue  ( po:0009013 )  that is part of a shoot system  ( po:0009006 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of an anther  ( po:0009066 )  .
+a maximal portion of parenchyma  ( po:0005421 )  in the center of a shoot axis  ( po:0025029 )  or root  ( po:0009005 )  .
+a portion of meristem tissue  ( po:0009013 )  that is the outer layer of an apical meristem  ( po:0020144 )  ,  or the outer layer of a plant embryo proper  ( po:0000001 )  ,  and gives rise to a portion of epidermis  ( po:0005679 )  .
+a shoot - borne shoot system  ( po:0004545 )  that develops from an axillary bud  ( po:0004709 )  .
+a peduncle of a maize ear ,  below the lowest ear node .
+a plant structure development stage  ( po:0009012 )  that has as primary participant a whole plant  ( po:0000003 )  .
+a sporophyte development stage  ( po:0028002 )  that occurs during the interval between the first division of a plant zygote  ( po:0000423 )  and the formation of a sporangium  ( po:0025094 )  .
+a sporophyte vegetative stage  ( po:0007134 )  that occurs during the interval between the first cell division of a plant zygote  ( po:0000423 )  and one of the following: the beginning of the seed germination stage  ( po:0007057 )  in seed plants ,  formation of the first vascular leaf  ( po:0009025 )  in pteridophytes ,  the beginning of development of a sporangium  ( po:0025094 )  in bryophytes ,  or the beginning of the formation of a plant organ  ( po:0009008 )  such as a root  ( po:0009005 )  ,  shoot axis  ( po:0025029 )  ,  or vascular leaf  ( po:0009025 )  in a cultured plant embryo  ( po:0000010 )  .
+a shoot apical meristem  ( po:0020148 )  that gives rise to the apical growth of vegetative tissues and organs .
+a shoot apical meristem  ( po:0020148 )  that gives rise to the apical growth of reproductive tissues and organs .
+a multi - tissue plant structure  ( po:0025496 )  that develops from a gynoecium  ( po:0009062 )  ,  or a single carpel  ( po:0009030 )  ,  and at maturity may have as parts one or more seeds  ( po:0009010 )  .
+a cell which is a plant structure  ( po:0009011 )  .
+a plant axis  ( po:0025004 )  that lacks shoot axis nodes  ( po:0005004 )  and usually grows indeterminately .
+a collective plant organ structure  ( po:0025007 )  that produces shoot - borne portions of meristem tissue  ( po:0009013 )  and the plant structures  ( po:0009011 )  that arise from them .
+a plant structure  ( po:0009011 )  that consists predominantly of similarly specialized plant cells  ( po:0009002 )  of one or more types .
+a multi - tissue plant structure  ( po:0025496 )  that is a functional unit ,  is a proper part of a whole plant  ( po:0000003 )  ,  and includes portions of plant tissue  ( po:0009007 )  of at least two different types that derive from a common developmental path .
+a whole plant  ( po:0000003 )  that participates in the plant embryo stage  ( po:0007631 )  .
+a multi - tissue plant structure  ( po:0025496 )  that develops from a plant ovule  ( po:0020003 )  and has as parts a plant embryo  ( po:0009009 )  enclosed in a seed coat  ( po:0009088 )  .
+a plant anatomical entity  ( po:0025131 )  that is ,  or was ,  part of a plant ,  or was derived from a part of a plant .
+a stage in the life of a plant structure  ( po:0009011 )  during which the plant structure undergoes developmental processes .
+a portion of plant tissue  ( po:0009007 )  in which plant cells  ( po:0009002 )  have retained their embryonic characteristics ,  or have reverted to them secondarily ,  and that divide to produce new cells that can undergo differentiation to form mature tissues ,  i .e .
+a portion of plant tissue  ( po:0009007 )  that has as part one or more tracheary elements  ( po:0000290 )  or sieve elements  ( po:0025406 )  .
+a portion of meristem tissue  ( po:0009013 )  that is the outermost layer of a shoot apical meristem  ( po:0020148 )  and gives rise to a shoot system epidermis  ( po:0006035 )  .
+a leaf  ( po:0025034 )  in a vascular plant .
+a leaf - like organ on which one or more sporangia are borne .
+a structure upon which  ( or in the axil of which )  one or more megasporangia are borne ;  in flowering plants ,  a carpel .
+a structure on which one or more microsporangia are borne ;  in flowering plants ,  the stamen .
+a microsporophyll bearing one or more microsporangia .
+a megasporophyll ,  almost always at the center of a flower ,  its margins more or less fused together or with other carpels to enclose the ovule ( s )  .
+a phyllome  ( po:0006001 )  that is part of the corolla  ( po:0009059 )  ,  and is usually colored  ( not green )  .
+a bract  ( po:0009055 )  that subtends a perianth  ( po:0009058 )  that is part of a flower  ( po:0009046 )  .
+one of a pair of inflorescence bracts that is part of a spikelet and subtends the two florets .
+a determinate reproductive shoot system  ( po:0025082 )  that has as part at least one carpel  ( po:0009030 )  or at least one stamen  ( po:0009029 )  and does not contain any other determinate shoot system  ( po:0009006 )  as a part .
+a shoot axis  ( po:0025029 )  that is the primary axis of a plant .
+a reproductive shoot system  ( po:0025082 )  that has as parts all of the shoot axes  ( po:0025029 )  and flowers  ( po:0009046 ;  must have two or more )  distal to the most distal leaf  ( po:0009025 )  .
+a reproductive shoot system  ( po:0025082 )  that is the ultimate and congested ,  higher order inflorescence axis  ( po:0009081 )  of the grasses .
+a shoot axis that extends from the last foliage leaf on a stem or branch until the next distal node .
+a bract  ( po:0009055 )  subtending a branch of the inflorescence  ( po:0009049 )  or borne on the inflorescence axis  ( po:0020122 )  below any branch  ( po:0025073 )  or flower  ( po:0009046 )  .
+a phyllome that subtends a reproductive structure .
+a collective phyllome structure  ( po:0025023 )  that includes as parts the corolla  ( po:0009059 )  and / or the calyx  ( po:0009060 )  ;  or one or more tepals  ( po:0009033 )  .
+a collective phyllome structure  ( po:0025023 )  that is composed of one or more petals  ( po:0009032 )  ,  comprising the inner whorl of non - reproductive floral organs  ( po:0025395 )  and surrounds the androecium  ( po:0009061 )  and the gynoecium  ( po:0009062 )  .
+a collective phyllome structure  ( po:0025023 )  that is composed of one or more sepals  ( po:0009031 )  ,  and comprises the outer whorl of non - reproductive floral organs  ( po:0025395 )  .
+a collective phyllome structure  ( po:0025023 )  composed all of the stamens  ( po:0009029 )  in a flower  ( po:0009046 )  .
+a collective phyllome structure  ( po:0025023 )  composed all of the carpels  ( po:0009030 )  in a flower  ( po:0009046 )  .
+a collective plant organ structure  ( po:0025007 )  that is the pollen - bearing part of a stamen  ( po:0009029 )  .
+a cardinal organ part  ( po:0025001 )  ,  usually apical ,  that is part of a carpel  ( po:0009030 )  or group of fused carpels on which the pollen  ( po:0025281 )  germinates .
+a portion of plant tissue that is the covering of a seed derived from ovular  -  mainly integumentary  -  tissue .
+a plant organ  ( po:0009008 )  that has as parts a nucellus  ( po:0020020 )  in which a female gametophyte  ( po:0025279 )  is located ,  one or two integuments  ( po:0020021 )  ,  and a funicle  ( po:0020006 )  .
+a stalk  ( po:0025066 )  of a vascular leaf  ( po:0009025 )  .
+that part of the seed coat that develops from the outer integument ,  or from the single integument when there is only one .
+a stem internode  ( po:0020142 )  below the cotyledonary node  ( po:0025321 )  and transitional to a root  ( po:0009005 )  of a plant embryo  ( po:0009009 )  or a seedling  ( po:0000003 )  .
+a shoot axis  ( po:0025029 )  that is part of an inflorescence  ( po:0009049 )  .
+a pistillate inflorescence  ( po:0025598 )  in zea species that is highly compacted and bears the ear spikelets  ( po:0006320 )  on a lateral inflorescence axis  ( po:0020122 )  .
+a shoot axis internode  ( po:0005005 )  that is part of a stem  ( po:0009047 )  .
+a maximal portion of meristem tissue  ( po:0009013 )  located at a shoot apex  ( po:0000037 )  or root tip  ( po:0000025 )  .
+a portion of meristem  ( po:0009013 )  tissue located parallel to the sides of a shoot axis  ( po:0025029 )  or root  ( po:0009005 )  that participates in lateral growth .
+a shoot system meristem  ( po:0006079 )  formed at the apex of the shoot axis  ( po:0025029 )  ,  including those originating from an axillary bud meristem  ( po:0000232 )  .
+a cardinal part of multi - tissue plant structure  ( po:0025498 )  that is a proper part of a plant organ  ( po:0009008 )  and includes portions of plant tissue  ( po:0009007 )  of at least two different types .
+an axial plant organ  ( po:0009008 )  .
+a collective plant structure  ( po:0025497 )  that is a proper part of a whole plant  ( po:0000003 )  ,  and is composed of two or more adjacent plant organs  ( po:0009008 )  and the associated portions of plant tissue  ( po:0009007 )  .
+a collective phyllome structure  ( po:0025023 )  composed of two or more leaves  ( po:0025034 )  .
+a collective plant organ structure  ( po:0025007 )  that consists of two or more phyllomes  ( po:0006001 )  originating from the same node or from one or more adjacent nodes with compressed shoot internodes  ( po:0005005 )  .
+a collective plant organ structure  ( po:0025007 )  that produces root meristems  ( po:0006085 )  ,  the plant structures  ( po:0009011 )  that arise from them and the parts thereof .
+a native plant cell  ( po:0025606 )  that is part of a plant embryo  ( po:0009009 )  .
+a plant axis  ( po:0025004 )  that is part of a shoot system  ( po:0009006 )  .
+a phyllome  ( po:0006001 )  that is not associated with a reproductive structure .
+an axillary vegetative bud  ( po:0004712 )  that is part of a shoot axis tuber  ( po:0004543 )  .
+a tuber axillary vegetative bud that is part of a subterranean tuber .
+any portion of plant tissue  ( po:0009007 )  other than epidermis  ( po:0005679 )  or vascular tissue  ( po:0009015 )  .
+a cardinal organ part  ( po:0025001 )  that is elongated and sub - cylindrical to cylindrical and supports another cardinal organ part .
+a shoot axis  ( po:00025029 )  that develops from an axillary bud meristem  ( po:0000232 )  or from equal divisions of a meristematic apical cell  ( po:0030007 )  .
+a shoot system  ( po:0009006 )  in the sporophytic phase that has as part at least one sporangium  ( po:0025094 )  .
+a reproductive shoot system  ( po:0025082 )  consisting of a number of sporophylls  ( po:0009026 )  or plant ovule  ( po:0020003 )  - bearing modified leaves  ( po:0025034 )  grouped terminally on a stem  ( po:0009047 )  .
+a plant organ  ( po:0009008 )  in which plant spores  ( po:0025017 )  are produced .
+a portion of phyllome epidermis  ( po:0025157 )  that is part of a carpel  ( po:0009030 )  .
+a portion of phyllome epidermis  ( po:0025157 )  that is part of a stamen  ( po:0009029 )  .
+a plant structure  ( po:0009011 )  that is part of an plant embryo  ( po:0009009 )  .
+an inflorescence axis  ( po:0020122 )  that is the primary or main axis of an inflorescence  ( po:0009049 )  .
+a portion of meristem tissue  ( po:0009013 )  that has as parts protoderm  ( po:0006210 )  and sub - epidermal meristematic tissue and is committed to the development of a particular plant structure  ( po:0009011 )  .
+a primordium  ( po:0025127 )  that develops from a phyllome anlagen  ( po:0025430 )  and is part of a shoot apex  ( po:0000037 )  and is committed to the development of a phyllome  ( po:0006001 )  .
+an anatomical entity that is or was part of a plant .
+a portion of shoot system epidermis  ( po:0006035 )  that is part of a phyllome  ( po:0006001 )  .
+a portion of phyllome epidermis  ( po:0025157 )  that is part of a bract  ( po:0009055 )  .
+a branch that is a sclerified ,  pointed outgrowth .
+a portion of shoot axis epidermis  ( po:0000112 )  that is part of a stem  ( po:0009047 )  .
+a portion of shoot axis epidermis  ( po:0006035 )  that is part of a branch  ( po:0025073 )  .
+a cardinal organ part  ( po:0025001 )  that is the central column of a plant axis that consists of the primary vascular tissue and associated ground tissue .
+a sporangium  ( po:0025094 )  in which microspores  ( po:0020048 )  are produced .
+a shoot apex that has as part a reproductive shoot apical meristem .
+a shoot apex po:0000037 )  that has as part a vegetative shoot apical meristem  ( po:0008016 )  .
+a portion of plant tissue  ( po:0009007 )  that is part of a plant embryo  ( po:0009009 )  .
+a microsporangium that is part of a sporophyll and where the pollen grains develop and are located after they develop .
+a reproductive shoot system  ( po:0025082 )  that is a second order inflorescence  ( po:0025240 )  ,  or higher ,  in which the inflorescence branch  ( po:0009081 )  bears two or more flowers  ( po:0009046 )  ,  but is not elongated .
+a maximal whole plant development stage .
+a plant structure development stage  ( po:0009012 )  that has as primary participant a collective plant structure  ( po:0025497 )  .
+a cardinal organ part that is a slender ,  more or less straight and stiff ,  fine - pointed ,  terminal or subterminal appendage of a glume ,  lemma ,  or palea .
+a shoot system  ( po:0009006 )  that has as parts a short ,  enlarged stem  ( po:0009047 )  in which the shoot internodes  ( po:0005005 )  do not elongate ,  and one or more buds  ( po:0000055 )  .
+a short ,  enlarged shoot system  ( po:0009006 )  that has as parts a short stem  ( po:0009047 )  in which the shoot internodes  ( po:0005005 )  do not elongate ,  and one or more buds  ( po:0000055 )  enclosed by fleshy leaves  ( po:0009025 )  or leaf bases  ( po:0020040 )  .
+a plant organ  ( po:0009008 )  that is part of a flower  ( po:0009046 )  .
+a portion of vascular tissue  ( po:0009015 )  that develops from a vascular cambium  ( po:0005598 )  .
+a portion of meristem tissue  ( po:0009013 )  that is part of a peripheral zone  ( po:0000225 )  of a shoot apical meristem  ( po:0020148 )  and will give rise to a phyllome primordium  ( po:0025128 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a vascular leaf primordium  ( po:0000017 )  and is part of a peripheral zone  ( po:0000225 )  of a shoot apical meristem  ( po:0020148 )  .
+a portion of meristem tissue  ( po:0009013 )  that is committed to the development of a root primordium  ( po:0005029 )  .
+a primordium  ( po:0025127 )  that is committed to the development of a floral organ  ( po:0025395 )  and is part of a reproductive shoot apex  ( po:0025222 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of an androecium  ( po:0009061 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a bract primordium  ( po:0025487 )  and is part of a peripheral zone  ( po:000225 )  of a reproductive shoot apical meristem  ( po:0008028 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a petal primordium  ( po:0000021 )  and is part of a peripheral zone  ( po:000225 )  of a flower meristem  ( po:0000229 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a stamen primordium  ( po:0004705 )  and is part of a peripheral zone  ( po:000225 )  of a flower meristem  ( po:0000229 )  .
+a phyllome primordium  ( po:0025487 )  that is committed to the development of a flower bract  ( po:0009055 )  .
+a bract primordium  ( po:0025128 )  is committed to the development of a flower bract  ( po:0009034 )  .
+a bract primordium  ( po:0025128 )  is committed to the development of an inflorescence bract  ( po:0009054 )  .
+a plant structure  ( po:0009011 )  that has as parts two or more portions of plant tissue  ( po:0009007 )  of at least two different types and which through specific morphogenetic processes forms a single structural unit demarcated by primarily bona - fide boundaries from other structural units of different types .
+a plant structure  ( po:0009011 )  that is a proper part of a whole plant  ( po:0000003 )  and includes two or more adjacent plant organs  ( po:0009008 )  or adjacent cardinal organ parts  ( po:0025001 )  ,  along with any associated portions of plant tissue  ( po:0009007 )  .
+a plant structure  ( po:0009011 )  that is a proper part of a multi - tissue plant structure  ( po:0025496 )  and includes portions of plant tissues  ( po:0009007 )  of at least two different types .
+a plant axis  ( po:0025004 )  that is radially enlarged .
+a collective plant organ structure development stage  ( po:0025338 )  that begins with the onset of the plant organ development stage  ( po:0025339 )  and ends with either gametophyte senescent stage  ( po:0025343 )  or sporophyte senescent stage  ( po:0007017 )  or death .
+a shoot system development stage  ( po:0025527 )  that has as primary participant a bud  ( po:0009006 )  .
+a shoot system development stage  ( po:0025527 )  that has as primary participant a reproductive shoot system  ( po:0025082 )  .
+a portion of meristem tissue  ( po:0009013 )  that gives rise to a portion of ground tissue  ( po:0025059 )  .
+an inflorescence  ( po:0009049 )  that includes as part only pistillate flowers  ( po:0025599 )  .
+a flower  ( po:0009046 )  that includes as part a single carpel  ( po:0009030 )  or a gynoecium  ( po:0009062 )  ,  but the androecium  ( po:0009061 )  is absent or has aborted during development .
+a plant cell  ( po:0009002 )  that is either part of a multicellular whole plant  ( po:0000003 )  'in vivo' or a unicellular organism 'in natura'  ( i .e .
+a collective leaf structure  ( po:0025022 )  consisting of a group of rosette leaves  ( po:0000014 )  ,  generally borne at the base of the plant ,  that are separated by very short stem internodes  ( po:0020142 )  .
+a whole plant development stage  ( po:0007033 )  that has as primary participant a whole plant  ( po:0000003 )  during the interval between fertilization  ( or apogamy )  and death .
+a fruit  ( po:0009001 )  which develops from a carpel  ( po:0009030 )  and at maturity comprises a dry exocarp  ( po:0009085 )  ,  dry mesocarp  ( po:0009087 )  ,  and dry endocarp  ( po:0009086 )  that dehisce along a single fruit valve  ( po:0000033 )  .
+an inflorescence  ( po:0009049 )  with a monopodial growth habit ,  which at flowering stage  ( po:0007616 )  is composed of a radially - enlarged ,  determinate ,  first order inflorescence axis  ( po:0025104 )  with sessile flowers  ( po:0009046 )  .
+an inflorescence  ( po:0009049 )  with a monopodial growth habit ,  which at flowering stage  ( po:0007616 )  is composed of a radially - enlarged inflorescence axis  ( po:0020122 )  ,  and sessile flowers  ( po:0009046 )  on determinate higher order inflorescence axes  ( po:0009081 )  with basal involucral bracts  ( po:0009045 )  .
+a biological process of some plant  ( po whole plant ,  or ncbi viridiplantae )  caused by exposure to an environment containing some stressor agent .
+a biotic plant stress caused by exposure to an environment containing a biological stress agent .
+a viridiplantae disease process caused by exposure to a plant experimental condition containing bacteria affecting a plant structure
+a viridiplantae disease process caused by exposure to a plant experimental condition containing fungi affecting a plant structure
+a viridiplantae disease process caused by exposure to a plant experimental condition containing viruses affecting a plant structure
+a viridiplantae disease process caused by exposure to a plant experimental condition containing nematoda affecting a plant structure
+a viridiplantae disease process caused by exposure to a plant experimental condition containing oomycota affecting a plant structure
+a viridiplantae disease process caused by exposure to a plant experimental condition containing insecta affecting a plant structure
+a viridiplantae disease process caused by exposure to a plant experimental condition containing viridiplantae affecting a plant structure
+a viridiplantae disease process caused by exposure to a plant experimental condition containing eukaryota affecting a plant structure
+a gerbera jamesonii disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a streptocarpus ionanthus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a medicago sativa disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a prunus dulcis disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a anemone coronaria disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a malus domestica disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a prunus armeniaca disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a asparagus officinalis disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a persea americana disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a rhododendron disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a musa disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a hordeum vulgare disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a phaseolus vulgaris disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a beta vulgaris disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a campanula carpatica disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a juglans nigra disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a clerodendrum thomsoniae disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a vaccinium disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a schizanthus pinnatus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a theobroma cacao disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a rubus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a dianthus caryophyllus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a daucus carota disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a manihot esculenta disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a cattleya disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a apium graveolens disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a cicer arietinum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a chrysanthemum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a cineraria disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a citrus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a cocos nucifera disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a coffea canephora disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a hydrangea macrophylla disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a zea mays disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a gossypium disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a vaccinium macrocarpon disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a brassica disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a citrullus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a zizania palustris disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a cyclamen persicum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a phoenix dactylifera disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a pseudotsuga menziesii disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a ulmus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a juglans regia disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a corylus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a linum usitatissimum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a acanthaceae disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a fuchsia disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a dahlia sp . ( in: viridiplantae )  disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a pelargonium disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a vitis disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a cannabis sativa disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a schlumbergera disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a humulus lupulus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a impatiens  < subgenus >  disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a solanum pseudocapsicum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a kalanchoe blossfeldiana disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a lens culinaris disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a lactuca sativa disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a vaccinium vitis - idaea disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a eustoma exaltatum subsp .russellianum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a mangifera indica disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a mimulus  < eudicots >  disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a mentha disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a brassica juncea disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a avena sativa disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a allium cepa disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a carica papaya disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a passiflora disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a pisum sativum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a prunus persica disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a arachis hypogaea disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a pyrus communis disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a cenchrus americanus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a carya illinoinensis disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a capsicum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a exacum affine disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a cajanus cajan disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a ananas comosus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a pistacia vera disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a calceolaria crenatiflora disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a euphorbia pulcherrima disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a solanum tuberosum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a primula disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a brassica napus var .napus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a trifolium pratense disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a oryza sativa disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a rosa disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a secale cereale disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a carthamus tinctorius disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a browallia speciosa disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a sorghum bicolor disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a glycine max disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a spinacia oleracea disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a fragaria x ananassa disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a saccharum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a helianthus annuus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a prunus avium disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a liquidambar disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a ipomoea batatas disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a platanus disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a camellia sinensis disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a nicotiana tabacum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a solanum lycopersicum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a verbena disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a triticum disease process caused by exposure to a plant experimental condition containing root affecting a plant structure
+a process occurring within or in the vicinity of an organism that exerts some causal influence on the organism via the interaction between an exposure stimulus and an exposure receptor .

@@ -1,0 +1,67 @@
+data item
+information content entity
+curation status specification
+data about an ontology part
+obsolescence reason specification
+denotator type
+clinical finding
+clinical history
+clinical picture
+image finding
+laboratory finding
+preclinical finding
+symptom
+manifestation of a disease
+phenotype
+sign
+clinical manifestation of a disease
+preclinical manifestation of a disease
+clinical phenotype
+disease phenotype
+vital sign
+predisposition to disease of type x
+disease
+genetic predisposition to disease of type x
+acquired genetic disease
+constitutional genetic disease
+obsolete_infectious disease
+abnormal homeostasis
+normal homeostasis
+configuration
+pathological physical configuration
+disorder
+epigenetic disorder
+genetic disorder
+obsolete_infectious disorder
+obsolete_secondary infection
+acquired genetic disorder
+constitutional genetic disorder
+obsolete_standardized clinical process
+clinical history taking
+laboratory test
+physical examination
+etiological process
+pathological bodily process
+disease course
+chronic disease course
+progressive disease course
+transient disease course
+diagnosis
+normal value
+pathological formation
+pathological anatomical structure
+portion of pathological body substance
+pathological transformation
+pathological derivation
+pathological invasion
+physical examination finding
+organism population
+pain
+syndrome
+extended organism
+patient symptom report
+congenital malformation
+treatment
+convalescence
+life course
+prognosis

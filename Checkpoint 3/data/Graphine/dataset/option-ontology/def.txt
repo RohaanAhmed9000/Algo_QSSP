@@ -1,0 +1,213 @@
+a planned process that has specified output a software product and that involves the creation of source code .
+a measurement datum that is the output of counting .
+the planned process of finding the number of elements in a finite set of objects .
+a document that comprises at least one source code module and provenance data about who contributed the set of files making up the module ( s )  ,  and optionally comprises also multiple versions of files with detailed change history about who committed files and when ,  a license for the software ,  readme files ,  documentation ,  executables ,  etc .
+a planned process that converts human - written or curated software into a machine - executable or interpretable set of instructions .
+a planned process that has a data set as its specified output .
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+a continuant  that is either dependent on one or other independent continuant  bearers or inheres in or is borne by other entities .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+a realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural ,  social or institutional contexts .
+b is a generically dependent continuant = def .
+p is a process boundary =def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+b is a continuant fiat boundary = def .
+b is a process_profile =def .
+b is a relational quality = def .
+a directive information entity that specifies what should happen if the trigger condition is fulfilled .
+a measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure .
+a directive information entity that describes an intended process endpoint .
+a narrative object is an information content entity that is a set of propositions .
+a directive information entity that describes an action the bearer will take .
+a label is a symbol that is part of some other datum and is used to either partially define  the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+software is a plan specification composed of a series of instructions that can be  interpreted by or directly executed by a processing unit .
+a digital entity is an information entity which is a collection of bits that can be interpreted by a computer .
+a report that is published in a journal .
+a quality of an information bearer that imparts the information content
+a model number is an information content entity specifically borne by catalogs ,  design specifications ,  advertising materials ,  inventory systems and similar  that is about manufactured objects of the same class .
+a binary digital entity is a digital entity that is encoded in a way that is not easily human readable and that contains other than text characters .
+a unit of measure is the quality of some material entity compared to which another quality is some multiple of .
+a language in which source code is written that is intended to be executed / run by a software interpreter .
+an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+an information content entity that is a mark ( s )  or character ( s )  used as a conventional representation of another entity .
+a symbol that denotes a number .
+a generically dependent continuant that is about some thing .
+a numeral that denotes an integer
+a scalar measurement datum is a measurement datum that is composed of two parts ,  numerals and a unit label .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a study interpretation is a textual entity about the implications of a study result .
+a dot plot is a report graph which is a graphical representation of data where each data point is represented by a single dot placed on coordinates corresponding to data point values in particular dimensions .
+a diagram that presents one or more tuples of information by mapping those tuples in to a two dimensional space in a non arbitrary way .
+a text based digital entity is a digital entity that is encoded so that it only contains text characters .
+a rule is an executable which guides ,  defines ,  restricts actions .
+a report figure is a report display element that has some aspect of illustration ,  but may be a composite of figures ,  images ,  and other elements
+a plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective .
+a software interpreter is a software application that executes some specified input software .
+the curation status of the term .
+a density plot is a report graph which is a graphical representation of data where the tint of a particular pixel corresponds to some kind of function corresponding the the amount of data points relativelly with their distance from the the pixel .
+a document assembled by an author for the purpose of providing information for the audience .
+a report element is a narrative object in which information is presented and consumed by a human being ,  and is part of a report .
+binary executable is a digital entity consisting of the binary representation of machine instructions of a specific processor or they may be binary pseudocode for a virtual machine .
+a source code module is a directive information entity that specifies ,  using a programming language ,  some algorithm .
+a report table is a report display element consisting of a matrix of cells layed out in a grid ,  some set of which are filled with some information content
+a data format specification is the information content borne by the document published defining the specification .
+a data item that is an aggregate of other data items of the same type that have something in common .
+an image is an affine projection to a two dimensional surface ,  of measurements of some quality of an entity or entities repeated at regular intervals across a spatial range ,  where the measurements are represented as color and luminosity on the projected on surface .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a digital document is a digital entity consisting of an electronic file which can be rendered into human - readable form by one or more computational applications .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+a version number is an information content entity which is a sequence of characters borne by part of each of a class of manufactured products or its packaging and indicates its order within a set of other products having the same name .
+a serial number is an information content entity which is a unique sequence of characters borne by part of manufactured product or its packaging that is assigned to each individual in some class of products ,  and so can serve as a way to identify an individual product within the class .
+a lot number is an information content entity which is an identical sequence of character borne by part of manufactured product or its packaging for each instances of a product class in a discrete batch of an item .
+a settings datum is a datum that denotes some configuration of an instrument .
+a textual entity that expresses the results of reasoning about a problem ,  for instance as typically found towards the end of scientific papers .
+a material entity in which a concretization of an information content entity inheres .
+a histogram is a report graph which is a statistical description of a distribution in terms of occurrence frequencies of different event classes .
+a heatmap is a report graph which is a graphical representation of data where the values taken by a variable ( s )  are shown as colors in a two - dimensional map .
+a venn diagram is a report graph showing all hypothetically possible logical relations between a finite collection of sets .
+a survival curve is a report graph which is a graphical representation of data where the percentage of survival is plotted as a function of time .
+a dendrogram is a report graph which is a tree diagram frequently used to illustrate the arrangement of the clusters produced by a clustering algorithm .
+a scatterplot is a graph which uses cartesian coordinates to display values for two variables for a set of data .
+a photograph is created by projecting an image onto a photosensitive surface such as a chemically treated plate or film ,  ccd receptor ,  etc .
+a photographic print is a material entity upon which a photograph generically depends .
+the reason for which a term has been deprecated .
+a textual entity is a part of a manifestation  ( frbr sense )  ,  a generically dependent continuant whose concretizations are patterns of glyphs intended to be interpreted as words ,  formulas ,  etc .
+a textual entity intended to identify a particular publication .
+a textual entity intended to identify a particular author
+a textual entity intended to identify a particular institution
+a textual entity that describes a figure
+a textual entity that names a document
+a textual entity that contains a two - dimensional arrangement of texts repeated at regular intervals across a spatial range ,  such that the spatial relationships among the constituent texts expresses propositions
+a table where the constituent texts are abbreviations and their expansions
+an information content entity consisting of a two dimensional arrangement of information content entities such that the arrangement itself is about something .
+a figure that expresses one or more propositions
+a collection of information content entities intended to be understood together as a whole
+a document that has been accepted by a publisher
+a publication that is about an investigation
+a document that has been accepted by a patent authority
+an information content entity that is part of a document .
+a summary of the entire document that is substantially smaller than the document it summarizes .
+a part of a publication about an investigation that is about the objective specification  ( why the investigation is being done ) 
+a part of a publication about an investigation that is about the study design of the investigation
+a part of a publication about an investigation that is about a study design execution
+a part of a publication about an investigation that is about the study interpretation of the investigation
+a part of a document that has citations as parts
+a part of a document that enumerates the authors of the document
+a part of a document that has parts that are institution identifications associated with the authors of the document
+a part of a publication that is about the specific contributions of each author
+part of a publication that is about the contributions of people or institutions other than the authors .
+a part of a document that is about a specific other part of the document .
+a part of a document that is segregated from the rest of the document due to its size
+a table that relates document parts to specific locations in a document  ( usually page numbers )  .
+a table that relates figures in a document to specific locations in that document  ( usually page numbers )  .
+a shorter version of a document title
+a document part that describes  legal restrictions on making or distributing copies of the document
+a cartesian spatial coordinate datum is a representation of a point in a spatial region ,  in which equal changes in the magnitude of a coordinate value denote length qualities with the same magnitude
+a cartesion spatial coordinate datum that  uses one value to specify a position along a one dimensional spatial region
+a cartesion spatial coordinate datum that  uses two values to specify a position within a two dimensional spatial region
+a cartesion spatial coordinate datum that  uses three values to specify a position within a three dimensional spatial region
+a scalar measurement datum that is the result of measurement of length quality
+a denotator type indicates how a term should be interpreted from an ontological perspective .
+a scalar measurement datum that is the result of measurement of mass quality
+a textual entity that expresses an assertion that is intended to be tested .
+a scalar measurement datum that is the result of measuring a temporal interval
+a textual entity that is used as directive to deliver something to a person ,  or organization
+a role inhering in a person or organization that is realized when the bearer participates in the work which is the basis of the document ,  in the writing of the document ,  and signs it with their name .
+a planned process in which journal articles are read or processed and data items are extracted ,  typically for further analysis or indexing
+a planned process in which a document is created or added to by including the specified input in it .
+a line graph is a type of graph created by connecting a series of data points together with a line .
+a planned process in which a new crid is created ,  associated with an entity ,  and stored in the crid registry thereby registering it as being associated with some entity
+a planned process in which a crid registry associates an information content entity with a crid symbol
+a planned process with the objective to establish a system that allows to refer to specific entities of a certain kind and store information about them ,  by establishing a crid registry and plan specifications for the process of 1 )  assigning a crid and 2 )  looking up a crid .
+a symbol that is part of a crid and that is sufficient to look up a record from the crid's registry .
+an information content entity that consists of a crid symbol and additional information about the crid registry to which it belongs .
+a crid registry is a dataset of crid records ,  each consisting of a crid symbol and additional information which was recorded in the dataset through a assigning a centrally registered identifier process .
+a planned process in which a request to a crid registry is made to return the information associated with a crid symbol
+a data set that is an aggregate of data recording some measurement at a number of time points .
+a textual entity that denotes a particular in reality .
+a software method  ( also called subroutine ,  subprogram ,  procedure ,  method ,  function ,  or routine )  is software designed to execute a specific task .
+a software module is software composed of a collection of software methods .
+a software library is software composed of a collection of software modules and / or software methods in a form that can be statically or dynamically linked to some software application .
+a software application is software that can be directly executed by some processing unit .
+a software script is software whose instructions can be executed using a software interpreter .
+a textual entity listing abbreviations and their expansions that are used in a document .
+a part of a document where abbreviations and their long - forms used within the document are listed .
+a part of a document about the authors that provides biographical information and may discuss how the authors' professional experiences are relevant to the work described in the document .
+a textual entity expression information about an author of a document .
+a part of a document ,  distinct from the abstract ,  that describes the significance and broader context of the document content .
+a textual entity ,  distinct from the abstract ,  that describes the significance and broader context of the document content .
+a part of a document about a resource described in the document ,  e .g .
+a textual entity expressing the location of a resource ,  e .g .
+a part of a document about the medical history of a specific patient as it relates to the topic of the document .
+a textual entity that expresses a detailed account of a portion of the medical history for a specific patient .
+a part of a document used to summarize the findings discussed in the document .
+a part of a document used to declare any competing interests regarding the authors and / or funding organization for the work described in the document .
+a textual entity that expresses a situation involving one or more of the authors ,  or the funding source of a document whereby the authors or funding source stand to potentially gain  ( typically financially )  from the results reported in the document .
+a part of a document about the consent process that was used to enroll patients in a study .
+a textual entity that documents the consenting process used to enroll patients in a study .
+a part of a document about the governance body responsible for approving the work discussed in a document on an ethical basis .
+a textual entity that documents the ethical approval of some study design .
+a part of a document that contains one or more figures .
+a part of a document used to detail information regarding the source of funding used in support of the generation of the document content .
+a textual entity documenting the source of funding that supported some study .
+a part of a document detailing extensions of the described work that may be implemented at some future point in time .
+a textual entity expressing ideas regarding future work relevant to work described in a document that could be done .
+a document part announcing the publication of a novel draft genome sequence .
+a textual entity that describes the generation and public release of a novel ,  draft genome sequence .
+a textual entity listing keywords indicating the major theme ( s )  of a document .
+a part of a document where keywords selected by the author to categorize the major theme ( s )  of a document are listed .
+a part of a document about biases or short comings related to the study design and execution .
+a textual entity addressing a shortcoming or bias of a study design or execution .
+a part of a document about the materials required to reproduce the content of the document .
+a part of a document containing typically short notes about the document itself and / or the authors .
+a part of a document about the patients that participated in a study .
+a textual entity expressing information regarding the patients used in a study .
+a part of the document about the publication history of a document .
+a textual entity that expresses the pre - publication history  ( submission dates ,  reviewer comments ,  etc )  for a document ,  often including a hyperlink to a web page detailing the information .
+a part of a document about work in other publications that is relevant to the content of the document .
+a textual entity that discusses work from other publications and expresses their relevancy to the content of a document .
+a part of a document about a resource described in the document ,  e .g .
+a textual entity that expresses the requirements necessary to use a resource ,  e .g .
+a textual entity documenting statistical analysis tools and techniques employed .
+a part of the document used to describe the statistical methodologies employed in the work presented in the document .
+a part of a document that contains one or more tables .
+an identifier that denotes some postal delivery route ,  some aggregate of postal delivery routes or a geographical region and was created for the purpose of sorting and delivering mail .
+a plan specification that if realized ,  is realized by the delivery of mail to some facility or mailbox within some geographical region .
+a postal code that is used in the united states for the purpose of sorting and delivering mail ,  and that denotes some postal delivery route or some aggregate of postal delivery routes .
+a planned process which takes as input a database and fills another database by extracting concretizations of information entities from the first ,  transforming them ,  and loading the transformed concretizations into the second .
+an identifier is an information content entity that is the outcome of a dubbing process and is used to refer to one instance of entity shared by a group of people to refer to that individual entity .
+an ontology module that comprises only of asserted axioms local to the ontology ,  excludes import directives ,  and excludes axioms or declarations from external ontologies .
+an ontology module that is intended to be directly edited ,  typically managed in source control ,  and typically not intended for direct consumption by end - users .
+an ontology module that is intended to be the primary release product and the one consumed by the majority of tools .
+an ontology module that consists entirely of axioms that connect or bridge two distinct ontology modules .
+a subset ontology module that is intended to be imported from another ontology .
+an ontology module that is extracted from a main ontology module and includes only a subset of entities or axioms .
+a subset ontology that is intended as a whitelist for curators using the ontology .
+an ontology module that is intended for usage in analysis or discovery applications .
+a subset ontology that is largely comprised of a single layer or strata in an ontology class hierarchy .
+a subset of an ontology that is intended to be excluded for some purpose .
+an imported ontology module that is derived from an external ontology .
+a subset ontology that is crafted to either include or exclude a taxonomic grouping of species .
+an ontology module that contains axioms generated by a reasoner .
+an ontology module that is automatically generated ,  for example via a sparql query or via template and a csv .
+an ontology module that is automatically generated from a template specification and fillers for slots in that template .
+a subset ontology that is designed for basic applications to continue to make certain simplifying assumptions ;  many of these simplifying assumptions were based on the initial version of the gene ontology ,  and have become enshrined in many popular and useful tools such as term enrichment tools .
+a process that realizes a plan which is the concretization of a plan specification .
+a planned process that consists of parts: planning ,  study design execution ,  documentation and which produce conclusion ( s )  .
+a planned process that carries out a study design
+a planned process that produces output data from input data .
+a plan specification comprised of protocols  ( which may specify how and what kinds of data will be gathered )  that are executed as part of an investigation and is realized during a study design execution .
+a quality of a single physical entity inhering in the bearer by virtue of the bearer's size or shape or structure .
+a 1 - d extent quality which is equal to the distance between two points .
+a physical quality that inheres in a bearer by virtue of the proportion of the bearer's amount of matter .
+a quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities .
+a quality which inheres in a continuant .
+a unit which is a standard measure of the distance between two points .
+a unit which is a standard measure of the amount of matter / energy of a physical object .
+a unit which is a standard measure of the dimension in which events occur in sequence .
+a parameter is a quality of an algorithm implementation , and it refers to one of the pieces of data provided as input to the algorithm implementation .

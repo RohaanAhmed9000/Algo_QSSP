@@ -1,0 +1,291 @@
+b is an independent continuant = def .
+p is a process = def .
+b is a specifically dependent continuant = def .
+b is a generically dependent continuant = def .
+a cultured cell population that represents a genetically stable and homogenous population of cultured cells that shares a common propagation history  ( i .e .
+a position that is exactly known .
+a genomic genotype that does not specify the sex determining chromosomal features of its bearer  ( i .e .
+an allele that varies in it sequence from what is considered the reference or canonical sequence at that location .
+a genomic feature set representing all 'variant single locus complements' in a single genome ,  which together constitute the 'variant' component of a genomic genotype .
+a reference genome that represents the sequence of a genome from which a variant genome is derived   ( through the introduction of sequence alterations )  .
+a genomic feature that represents one of a set of versions of a gene  ( i .e .
+a sequence that serves as a standard against which other sequences at the same location are compared .
+a collection of more than one sequence feature .
+a sequence feature collection comprised of discontiguous sequences from a single genome
+a single locus complement that serves as a standard against which 'variant' sequences are compared
+a single locus complement in which at least one member allele is considered variant ,  and / or the total number of features in the complement deviates from the normal poloidy of the reference genome  ( e .g .
+a genome that varies at one or more loci from the sequence of some reference genome .
+an allele whose sequence matches what is consdiered to be the reference sequence at that location in the genome .
+a genomic feature known to exist ,  but remaining uncharacterized with respect to its identity  ( e .g .
+a junction found at a chromosomal position where an insertion has occurred on the homologous chromosome ,  such that the junction represents the reference feature paired with the hemizygously inserted feature .
+a gene that originates from the genome of a danio rerio .
+a gene that originates from the genome of a homo sapiens .
+a gene that originates from the genome of a mus musculus .
+a version / allele of a gene that serves as a standard against which variant genes are compared .
+a transgene that has been integrated into a chrromosome in the host genome .
+a nucleic acid macromolecule that is part of a cell or virion and has been inherited from an ancestor cell or virion ,  and / or is capable of being replicated and inherited through successive generations of progeny .
+a material entity that represents all genetic material in a cell or virion .
+a population of homo sapiens grouped together in virtue of their sharing some commonality  ( either an inherent attribute or an externally assigned role ) 
+a maximal collection of organisms of a single species that have been bred or experimentally manipulated with the goal of being genetically identical .
+sequence attribute that can inhere only in a collection of more than one sequence features
+a quality inhering in a collection of discontinuous sequence features in a single genome that reside on the same macromolecule  ( eg the same chromosomes )  .
+a quality inhering in a collection of discontinuous sequence features in a single genome that reside on different macromolecules  ( e .g .
+an allelic state that describes the degree of similarity of features at a particular location in the genome  ( i .e .
+the disposition of an entity to be transmitted to subsequent generations following a genetic replication or organismal reproduction event .
+the pattern in which a genetic trait or condition is passed from one generation to the next ,  as determined by genetic interactions between alleles of the causal gene ,  and interactions between these alleles and the environment .
+disposition inhering in a genetic locus variant that is realized in its inheritance by some offspring such that at least a partial variant - associated phenotype is apparent in heterozygotes
+an autosomal dominant inheritance pattern wherein a heterozygous individual simultaneously expresses the distinct traits associated with each allele in the heterozygous locus .
+an autosomal dominant inheritance pattern wherein the trait associated with one allele completely masks the trait associated with a different allele found at that locus .
+an autosomal dominant inheritance pattern wherein the trait expressed in a heterozygous individual is intermediate between the trait expressed in individuals homozygous for either allele in the heterozygous locus .
+an x - linked inheritance pattern wherein the trait manifests in heterozygotes .
+an inheritance pattern wherein a trait caused by alleles of an autosomal gene manifests in heterozygotes .
+an inheritance pattern wherein a trait caused by alleles of an autosomal gene manifests in homozygous but not heterozygote individuals .
+an x - linked inheritance pattern wherein a trait caused by alleles of a gene on the x - chromosome manifests in homozygous but not heterozygote individuals .
+the reference is the resource that the position value is anchored to .
+a single locus complement that represents the collection of all chromosome sequences for a given chromosome in a single genome
+a complete chromosome that has been abnormally duplicated in a genome ,  typically as the result of a meiotic non - disjunction event or unbalanced translocation
+a 'deletion' resulting from the loss of a complete chromosome ,  typically as the result of a meiotic non - disjunction event or unbalanced translocation .
+a large deletion or terminal addition of part of some non - homologous chromsosome ,  as the result of an unbalanced translocation .
+a part of some non - homologous chromosome that has been gained as the result of an unbalanced translocation event .
+a deletion of a terminal portion of a chromosome resulting from an unbalanced translocation to another chromosome .
+a complete chromosome that has been abnormally duplicated ,  or the absense of a chromosome that has been lost ,  typically as the result of a non - disjunction event or unbalanced translocation
+a heterozygous quality inhering in a single locus complement comprised of two different varaint alleles and no wild type locus .
+a sequence feature that references some biological macromolecule applied as a reagent in an experiment or technique  ( e .g .
+a structurally or functionally defined component of a transgene  ( e .g .
+an attribute inhering in a sequence feature that varies from some designated reference in virtue of alterations in its sequence or expression level
+an attribute inhereing in a sequence feature for which there is more than one version fixed in a population at some significant percentage  ( typically 1% or greater )  ,  where the locus is not considered to be either reference or a variant .
+an attribute inhering in a feature bearing a sequence alteration that is present at very low levels in a given population  ( typically less than 1% )  ,  or that has been experimentally generated to alter the feature with respect to some reference sequence .
+a sequence feature  ( continuous extent of biological sequence )  that is of genomic origin  ( i .e .
+a nucleic acid molecule that contains one or more sequences serving as a template for gene expression in a biological system  ( ie a cell or virion )  .
+an allele that is variant with respect to some wild - type allele ,  in virtue of its being very rare in a population  ( typically  < 1% )  ,  or being an experimentally - induced alteration that derives from a wild - type feature in a given strain .
+a sequence alteration that is very rare allele in a population  ( typically  < 1% )  ,  or an experimentally - induced variation that derives from a wild - type feature in a given strain .
+a genetic feature that is not part of the chromosomal genome of a cell or virion ,  but rather a stable and heritable element that is replilcated and passed on to progeny  ( e .g .
+an allele that is fixed in a population at some stable level ,  typically  >  1% .
+a polymorphic allele  that is present at the highest frequency relative to other polymorphic variants at the same genomic location .
+a polymorphic allele that is not present at the highest frequency among all fixed variants at the locus  ( i .e .
+a polymorphic allele that is determined from the sequence of a recent ancestor in a phylogentic tree .
+an allele representing a highly common varaint  ( typically  > 99% in a population )  ,  that typically exhibits canonical function ,  and against which rare and / or non - functional mutant alleles are often compared .
+a gene altered in its expression level in the context of some experiment as a result of being targeted by gene - knockdown reagent ( s )  such as a morpholino or rnai .
+a transgene that is delivered as part of a dna expression construct into a cell or organism in order to transiently express a specified product  ( i .e .
+an allele attribute describing a highly common variant  ( typically  > 99% in a population )  ,  that typically exhibits canonical function ,  and against which rare and / or non - functional mutant alleles are compared .
+one of a set of sequence features known to exist at a particular genomic location .
+a sequence attribute of a chromosome or chromosomal region that has been abnormally duplicated or lost ,  as the result of a non - disjunction event or unbalanced translocation .
+an allele of a gene that contains some sequence alteration .
+a set representing the complement of all sequence features occupying a particular genomic location across all homologous chromosomes in the genome of a single organism .
+a specification of the known state of gene expression across a genome ,  and how it varies from some baseline / reference state .
+a genotype that describes the total intrinsic and extrinsic variation across a genome at the time of a phenotypic assessment  ( where 'intrinsic' refers to variation in genomic sequence ,  as mediated by sequence alterations ,  and 'extrinsic' refers to variation in gene expression ,  as mediated through transient gene - specific interventions such as gene knockdown reagents or overexpression constructs )  .
+a set comprised of *all* reagent - targeted genes in a single genome in the context of a given experiment  ( e .g .
+the set of all transgenes trransiently expressed in a biological system in the context of a given experiment .
+a gene altered in its expression level relative to some baseline of normal expression in the system under investigation  ( e .g .
+a region within a gene that is specifically targeted by a gene knockdown reagent ,  typically in virtue of bearing sequence complementary to the reagent .
+a specification of the genetic state of an organism ,  whether complete  ( defined over the whole genome )  or incomplete  ( defined over a subset of the genome )  .
+an allelic state where a single allele exists at a particular location in the organellar genome  ( mitochondrial or plastid )  of a cell / organism .
+an allelic state where more than one type of allele exists at a particular location in the organellar genome  ( mitochondrial or plastid )  of a cell / organism .
+a genomic genotype that specifies the baseline sequence of a genome from which a variant genome is derived  ( through the introduction of sequence alterations )  .
+an extended part of a chromosome representing a term of convenience in order to hierarchically organize morphologically defined chromosome features: chromosome  >  arm  >  region  >  band  >  sub - band .
+a chromosome arm that is the shorter of the two arms of a given chromosome .
+a chromosome arm that is the longer of the two arms of a given chromosome .
+a transgene part whose sequence regulates the synthesis of a functional product ,  but which is not itself transcribed .
+a transgene part whose sequence is expressed in a gene product through transcription and / or translation .
+a transgene whose product is used as a selectable marker .
+a genotype that describes what is known about variation in a genome at a gross structural level ,  in terms of the number and appearance of chromosomes in the nucleus of a eukaryotic cell .
+a genomic genotype where the genomic background specifies a male or female sex chromosome complement .
+a genomic genotype here the genomic background specifies a male sex chromosome complement .
+a genomic genotype here the genomic background specifies a female sex chromosome complement .
+a background genotype whose sequence or identity is not known or specified .
+a set of sequence features .
+a set of genomic features  ( i .e .
+a genomic feature that is part of a gene ,  and delineated by some functional or structural function or role it serves  ( e .g .a promoter element ,  coding region ,  etc )  .
+a transgene that codes for a product used as a reporter of gene expression or activity .
+a genomic feature that has an extent of zero .
+an extrachromosomal replicon that is variant in a genome in virtue of its being a novel addition to the genome  -  i .e .
+a genomic feature that represents an entirely new replicon in the genome ,  e .g .
+an attribute of a genomic feature that represents a feature not previously found in a given genome ,  e .g .
+a sequence feature representing the end of a sequence that is bounded only on one side  ( e .g .
+a sequence feature or a set of such features .
+a linear ordering of units representing monomers of a biological macromolecule  ( e .g .
+a sequence feature  ( or collection of features )  whose identity is dependent on the context or state of its material bearer  ( in addition to its sequence an position )  .
+a qualified sequence feature that carries sequence derived from the genome of a cell or organism .
+a set of qualified sequence features that carry genomic sequence .
+a genotype that describes the total variation in heritable genomic sequence of a cell or organism ,  typically in terms of alterations from some reference or background genotype .
+a sequence feature whose identity is additionally dependent on  the cellular or anatomical location of the genetic material bearing the feature .
+a sequence feature whose identity is additionally dependent on factors specifically influencing its level of expression in the context of a biological system  ( e .g .
+a sequence feature position based on a genomic coordinate system ,  where the position specifies start and end coordinates based on its alignment with some reference genomic sequence .
+a sequence attribute inhering in a feature whose identity is not specified .
+an attribute describing a type of variation inhering in a sequence feature or collection .
+an intrinsic genotype that specifies variation from a defined reference genome .
+an information entity that is intented to represent some biological sequence ,  sequence feature ,  qualified sequence feature ,  or a collection of one or more of these entities .
+an attribute ,  quality ,  or state of a sequence feature or collection .
+the location of a sequence feature as defined by its start and end position on some reference coordinate system .
+a sequence feature whose identity is additionally dependent on a chemical modification made to the genetic material bearing the feature  ( e .g .
+a genotype that specifies the 'allelic state' at a particular location in the genome  -  i .e .
+a sequence alteration within the coding sequence of a gene .
+a construct that contains a mobile p - element ,  holding sequences to be delivered to a target cell or genome .
+an engineered region that is used to transfer foreign genetic material into a host cell .
+a transgene that is not chromosomally integrated in the host genome ,  but instead exists as part of an extra - chromosomal construct .
+a set of discrete ,  genetically - linked sequence alterations that reside on the same chromosomal strand and are typically co - inherited within a haplotype block .
+a set of genomic sequences  ( a biological sequence that is of genomic origin )  .
+a relation used to describe  an environment contextualizing the identity of an entity .
+a relation used to describe  a process contextualizing the identity of an entity .
+a quality inhering in an 'allelic complement'  ( aka a 'single locus complement' )  that describes the allelic variability found at a particular locus in the genome of a single cell / organism
+a quality inhering in an allele that describes its genetic origin  ( how it came to be part of a cell's genome )  ,  i .e .
+describes an allele that is inherited from a female parent in virtue of the allele being present in the mother's egg .
+describes an allele that is inherited from a male parent in virtue of the allele being present in the father's sperm .
+describes an attribute describing an allele that originated through a mutation event in a germ cell of one of the parents ,  or in the fertilized egg itself during early embryogenesis .
+describes an allele  whose origin is not known .
+describes an allele that result from some spontaneous mutation event in a somatic cell after fertilization ,  and thus are not present in every cell in the body .
+a quality inhering in a feature in virtue of its presence only in the genome of gametes  ( germ cells )  .
+an allelic genotype specifying the set of two alleles present at a particular location in a diploid genome  ( i .e . ,  a diploid 'single locus complement' )  \ n \ nalt: a sequence feature complement comprised of two haplotypes at a particular location on paired homologous chromosomes in a diploid genome .
+a quality inhering in a collection of discontinuous sequence features in a single genome in virtue of their relative position on the same or separate chromosomes .
+describes an allele that is inherited from a parent in virtue of the allele being present in one or both of the parent's germ cells  ( sperm or egg )  .
+an inheritance pattern that is not determined or not known .
+one of a set of sequence features or haplotypes that exist at a particular genetic locus .
+an informational artifact that describes a canonical allele by defining its sequence and position relative to a particular reference sequence .
+a mitochondrial inheritance pattern whereby manifestation of a trait is observed when some inherited mitochondria contian the causative allele and some do not .
+a mitochondrial inheritance pattern whereby manifestation of a trait occurs when only mitochondria containing the causative allele are inherited .
+an generically dependent continuant that carries biological sequence that is part of or derived from a genome .
+a sequence feature representing a region of the genome over which there is little evidence for historical recombination ,  such that sequence alterations it contains are typically co - inherited across generations .
+a genotype that describes the total variation in heritable genomic sequence of a cell or organism ,  typically in terms of alterations from some reference or background genotype .
+a quality inhering in a particular allele in virtue of its presence only in a particular type of cell in an organism  ( e .g .
+the location of a sequence feature in a genome ,  defined by its start and end position on some reference genomic coordinate system
+a material entity that is an organism ,  derived from an organism ,  or composed of organisms  ( e .g .
+the molecular product resulting from transcription of a single gene  ( either a protein or rna molecule ) 
+a genome whose sequence is identical to that of a genome sequence considered to be the reference .
+a haplotype is an allele that represents one of many possible versions of a 'haplotype block' ,  which defines a region of genomic sequence that is typically 'co - inherited' across generations due to a lack of historically observed recombination within it .
+a sequence feature representing a region of the genome over which there is little evidence for historical recombination ,  such that sequences it contain are typically co - inherited / transmitted across generations .
+an allelic state that describes the number of different alleles of a gene from an organellar genome  ( i .e .
+a sequence feature whose identity is additionally dependent on the context or state of the material sequence molecule in which the feature is concretized .
+a set of qualified seqeunce features .
+a biolocical sequence ,  or set of such sequences .
+a set of biological sequences .
+a set of all features representing *functional* versions of a specified sequence  ( typically that of a gene )  in a particular genome .
+a sequence feature attribute that reflects feature - level characteristics that depend only on the sequence ,  location ,  or genomic context of a feature  or  collection ,  but are independent of how it may be concretized in physical form .
+a sequence feature attribute that reflects characteristics of the physical molecule in which the feature is concretized  ( e .g .
+a quality inhering in an allele reflecting whether it is found in all cells of an organism's body ,  or just some clonal subset  ( e .g .
+a cellular distribution in which an allele is found in all cells of an organism's body ,  typically in virtue of its germline origin .
+a cellular distribuution in which an allele is found only in some clonal subset of cells in an organism ,  typically in virtue of its somatic origin .
+an inheritance pattern that depends on a mixture of major and minor genetic determinants  ( i .e .
+a multifactorial inheritance pattern that is determined by the simultaneous action of alleles in two genes .
+a multifactorial inheritance pattern that is determined by the simultaneous action of alleles in few genes .
+a multifactorial inheritance pattern that is determined by the simultaneous action of alleles a large number of genes .
+an inheritance pattern wherein the trait is determined by alleles of a single causal gene ,  possibly together with environmental factors .
+an inheritance pattern wherein the trait is determined by alleles of a single causal gene on a non - sex chromosome .
+an inheritance pattern wherein the trait is determined by alleles of a single causal gene on a sex chromosome .
+an inheritance pattern wherein the trait is determined by alleles of a single causal gene on an x - chromosome .
+an x - linked dominant inheritance pattern wherein the trait associated with one allele completely masks the trait associated with a different allele found at that locus .
+an x - linked dominant inheritance pattern wherein the trait expressed in a heterozygous individual is intermediate between the trait expressed in individuals homozygous for either allele in the heterozygous locus .
+an x - linked dominant inheritance pattern wherein a heterozygous individual simultaneously expresses the distinct traits associated with each allele in the heterozygous locus .
+an inheritance pattern wherein the trait is determined by alleles of a single causal gene on a y - chromosome .
+an inheritance pattern wherein the trait is determined by alleles of a single causal gene on a z - chromosome .
+a z - linked inheritance pattern wherein the trait manifests in heterozygotes .
+a z - linked dominant inheritance pattern wherein the trait associated with one allele completely masks the trait associated with a different allele found at that locus .
+a z - linked dominant inheritance pattern wherein the trait expressed in a heterozygous individual is intermediate between the trait expressed in individuals homozygous for either allele in the heterozygous locus .
+an z - linked dominant inheritance pattern wherein a heterozygous individual simultaneously expresses the distinct traits associated with each allele in the heterozygous locus .
+a z - linked inheritance pattern wherein a trait caused by alleles of a gene on the z - chromosome manifests in homozygous but not heterozygote individuals .
+an inheritance pattern wherein the trait is determined by alleles of a single causal gene on a w - chromosome .
+an inheritance pattern observed for traits related to a gene encoded on the mitochondrial genome .
+an autosomal dominant inheritance pattern wherein the trait manifests in heterozygotes in a sex - specific manner  ( i .e .
+an autosomal recessive inheritance pattern wherein the trait manifests only in homozygotes ,  and in a sex - specific manner  ( i .e .
+a set of discrete alleles within a particular genome .
+a copy number complement' that has an abnormal number of members  ( e .g .
+a set of all features in a particular genome whose sequence aligns with a particular location on a reference genome .
+a biological sequence that is of genomic origin  ( i .e .
+a set representing the complement of all copies of a particular biological sequence  ( typically at the scale of complete genes or larger )  present in a particular genome .
+a 'copy number complement' that has an abnormal number of members ,  as the result of deletion or duplication event ( s )  .
+a set representing the complement of all functional versions of a specified sequence  ( typically that of a gene )  in a particular genome .
+a pair of integers representing start and end position of a location on a sequence coordinate system .
+an inheritance pattern wherein the trait is determined by inheritance of extra ,  missing ,  or re - arranged chromosomes possibly together with environmental factors .
+an inheritance pattern wherein the trait is determined by inheritance of missing sections of one or more chromosomes ,  encompassing either 0 or multiple genes ,  possibly together with environmental factors .
+an inheritance pattern wherein the trait is determined by inheritance of duplicated sections of one or more chromosomes ,  encompassing either 0 or multiple genes ,  possibly together with environmental factors .
+an inheritance pattern wherein the trait is determined by inheritance of translocation or inversion of sections of one or more chromosomes ,  possibly together with environmental factors .
+a biological process whose specific outcome is the progression of an integrated living unit: an anatomical structure  ( which may be a subcellular structure ,  cell ,  tissue ,  or organ )  ,  or organism over time from an initial condition to a later condition .
+an information content entity is an entity that is generically dependent on some artifact and stands in relation of aboutness to some entity
+the curation status of the term .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+the reason for which a term has been deprecated .
+a denotator type indicates how a term should be interpreted from an ontological perspective .
+an ontology module that comprises only of asserted axioms local to the ontology ,  excludes import directives ,  and excludes axioms or declarations from external ontologies .
+an ontology module that is intended to be directly edited ,  typically managed in source control ,  and typically not intended for direct consumption by end - users .
+an ontology module that is intended to be the primary release product and the one consumed by the majority of tools .
+an ontology module that consists entirely of axioms that connect or bridge two distinct ontology modules .
+a subset ontology module that is intended to be imported from another ontology .
+an ontology module that is extracted from a main ontology module and includes only a subset of entities or axioms .
+a subset ontology that is intended as a whitelist for curators using the ontology .
+an ontology module that is intended for usage in analysis or discovery applications .
+a subset ontology that is largely comprised of a single layer or strata in an ontology class hierarchy .
+a subset of an ontology that is intended to be excluded for some purpose .
+an imported ontology module that is derived from an external ontology .
+a subset ontology that is crafted to either include or exclude a taxonomic grouping of species .
+an ontology module that contains axioms generated by a reasoner .
+an ontology module that is automatically generated ,  for example via a sparql query or via template and a csv .
+an ontology module that is automatically generated from a template specification and fillers for slots in that template .
+a subset ontology that is designed for basic applications to continue to make certain simplifying assumptions ;  many of these simplifying assumptions were based on the initial version of the gene ontology ,  and have become enshrined in many popular and useful tools such as term enrichment tools . \ n \ nexamples of such assumptions include: traversing the ontology graph ignoring relationship types using a naive algorithm will not lead to cycles  ( i .e .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+a population is a collection of individuals from the same taxonomic class living ,  counted or sampled at a particular site or in a particular area
+a material entity that consists of two or more organisms ,  viruses ,  or viroids .
+a domestic group ,  or a number of domestic groups linked through descent  ( demonstrated or stipulated )  from a common ancestor ,  marriage ,  or adoption .
+superclass for the general concept of a position on a sequence .
+a region describes a length of sequence with a start position and end position that represents a feature on a sequence ,  e .g .
+morpholino oligos are synthesized from four different morpholino subunits ,  each of which contains one of the four genetic bases  ( a ,  c ,  g ,  t )  linked to a 6 - membered morpholine ring .
+a region of the chromosome between the centromere and the telomere .
+any extent of continuous biological sequence .
+a region of known length which may be used to manufacture a longer region .
+a contiguous sequence derived from sequence assembly .
+the point at which one or more contiguous nucleotides were excised .
+a regulatory_region composed of the tss ( s )  and binding sites for tf_complexes of the basal transcription machinery .
+a region of nucleotide sequence that has translocated to a new position .
+a repeat_region containing repeat_units of 2 to 10 bp repeated in tandem .
+structural unit composed of a nucleic acid molecule which controls its own replication through the interaction of specific proteins at one or more origins of replication .
+a cytologically distinguishable feature of a chromosome ,  often made visible by staining ,  and usually alternating light and dark .
+the sequence of one or more nucleotides added between two adjacent nucleotides in the sequence .
+snps are single base pair positions in genomic dna at which different sequence alternatives exist in normal individuals in some population ( s )  ,  wherein the least frequent variant has an abundance of 1% or greater .
+a region  ( or regions )  that includes all of the sequence elements necessary to encode a functional transcript .
+a quantitative trait locus  ( qtl )  is a polymorphic locus which contains alleles that differentially affect the expression of a continuously distributed phenotypic trait .
+an attribute to describe a region that was modified in vitro .
+an extended region of sequence corresponding to a defined feature that is a proper part of a chromosome ,  e .g .
+a gene that has been transferred naturally or by any of a number of genetic engineering techniques into a cell or organism where it is foreign  ( i .e .
+a multiple nucleotide polymorphism with alleles of common length  >  1 ,  for example aaa / ttt .
+a variation that increases or decreases the copy number of a given region .
+a collection of sequence features  ( typically a collection of chromosomes )  that covers the sum genetic material within a cell or virion  ( where 'genetic material' refers to any nucleic acid that is part of a cell or virion and has been inherited from an ancestor cell or virion ,  and / or can be replicated and inherited by its progeny ) 
+a sequence_alteration is a sequence_feature whose extent is the deviation from another sequence .
+an insertion that derives from another organism ,  via the use of recombinant dna technology .
+a region which is the result of some arbitrary experimental procedure .
+a construct which is designed to integrate into a genome and produce a fusion transcript between exons of the gene into which it inserts and a reporter element in the construct .
+a construct which is designed to integrate into a genome and express a reporter when inserted in close proximity to a promoter element .
+a construct which is designed to integrate into a genome and express a reporter when the expression from a basic minimal promoter is enhanced by genomic enhancer elements .
+snvs are single base pair positions in genomic dna at which different sequence alternatives exist .
+a biological_region characterized as a single heritable trait in a phenotype screen .
+a genome sequence that is used as a standard against which other genome sequences are compared ,  or into which alterations are intentionally introduced .
+a sequence alteration whereby the copy number of a given regions is greater than the reference sequence .
+a sequence alteration whereby the copy number of a given region is less than the reference sequence .
+uniparental disomy is a sequence_alteration where a diploid individual receives two copies for all or part of a chromosome from one parent and no copies of the same chromosome or region from the other parent .
+uniparental disomy is a sequence_alteration where a diploid individual receives two copies for all or part of a chromosome from the mother and no copies of the same chromosome or region from the father .
+uniparental disomy is a sequence_alteration where a diploid individual receives two copies for all or part of a chromosome from the father and no copies of the same chromosome or region from the mother .
+a structural sequence alteration where there are multiple equally plausible explanations for the change .
+any change in genomic dna caused by a single event .
+when no simple or well defined dna mutation event describes the observed dna change ,  the keyword  \  \  \ "complex \  \  \ " should be used .
+a single nucleotide change which has occurred at the same position of a corresponding nucleotide in a reference sequence .
+change of a pyrimidine nucleotide ,  c or t ,  into an other pyrimidine nucleotide ,  or change of a purine nucleotide ,  a or g ,  into an other purine nucleotide .
+a substitution of a pyrimidine ,  c or t ,  for another pyrimidine .
+a transition of a cytidine to a thymine .
+the transition of cytidine to thymine occurring at a pcpg site as a consequence of the spontaneous deamination of 5' - methylcytidine .
+a substitution of a purine ,  a or g ,  for another purine .
+a transition of an adenine to a guanine .
+a transition of a guanine to an adenine .
+change of a pyrimidine nucleotide ,  c or t ,  into a purine nucleotide ,  a or g ,  or vice versa .
+change of a pyrimidine nucleotide ,  c or t ,  into a purine nucleotide ,  a or g .
+a transversion from cytidine to adenine .
+a transversion from t to a .
+a transversion from t to g .
+change of a purine nucleotide ,  a or g  ,  into a pyrimidine nucleotide c or t .
+a transversion from adenine to cytidine .
+a transversion from adenine to thymine .
+a transversion from guanine to cytidine .
+a transversion from guanine to thymine .
+a sequence alteration which included an insertion and a deletion ,  affecting 2 or more bases .
+one or more nucleotides are added between two adjacent nucleotides in the sequence ;  the inserted sequence derives from ,  or is identical in sequence to ,  nucleotides adjacent to insertion point .
+a continuous nucleotide sequence is inverted in the same position .
+a tandem duplication where the individual regions are in the same orientation .
+a tandem duplication where the individual regions are not in the same orientation .
+a duplication consisting of 2 identical adjacent regions .
+animals exhibit variations compared to a given control .

@@ -1,0 +1,77 @@
+contains acquisition parameters such as magnification ,  voltage ,  spherical aberration ,  amplitude contrast ,  dose per frame and inital dose ,  optics group ,  and beam tilt
+file representing an atomic structure  ( pdb ,  mmcif ,   . . . ) 
+x , y coordinate of a particle in a micrograph
+contains a minimum description of the microscope contrast transfer function with parameters like the two defoci ,  the defocus angle ,  phase shift and an image of the power spectrum density
+defines a min and maximum defocus that belongs to this group .
+fourier shell correlation
+it has an index and filename to point to the physical image .
+this is the result of a normal mode analysis on an atomic or pseudoatomic structure
+protein sequence
+transformation matrix .it is valid for images and volumes
+any import protocol
+any operation on a set of micrographs
+any protocol that takes a set of movies
+operations on sets
+this is a set of classes 2d ,  3d or vol
+creates a 2d mask
+protocols dealing with particles and restricted to 2d
+performs any 3d analysis on a set of particles
+protocols whose main input is a volume or a set of volumes
+extracts coordinates from a set of particles
+takes a set of micrographs and produces a set of coordinates with particle candidates
+produces a difference between two sets of coordinates
+imports a set of averages
+produces a set of coordinates
+imports a set of ctfs and assigns it to a set of micrographs
+imports a 2d or 3d mask .
+imports a set of micrographs
+import micrographs tilt pairs
+imports a set of movies
+import a set of particles
+imports an atomic structure
+imports sequence
+imports a volume
+assigns an already computed set of ctfs to a set of micrographs or particles
+computes the ctf of a set of micrographs
+operations like cropping ,  resizing ,  inverting contrast ,   . . .
+aligns a set of movies into a set of micrographs
+computes the average of a set of movies into a set of micrographs
+extracts a set of movieparticles from a set of movies and a set of particles
+assigns a gain to a set of movies
+creates a consensus of a set of classes
+creates an fsc
+splits a set into several pieces
+computes a subset of a set
+computes the union of several sets
+mask 2d
+map
+mask 3d
+special protocol used in batch mode
+performs some other kind of 2d analysis
+takes a set of micrographs and coordinates and extract the particles
+the input may be a set of particles or a set of averages  ( which can be regarded as a summary of a set of particles ) 
+reconstruct a map from a set of particles
+refine the angular alignment of a set of particles
+align volumes
+create a 3d mask
+filter volumes
+apply a mask to a volume  ( the mask can be defined by a description ,  for instance ,  a geometrical object ) 
+preprocess volumes  ( filters ,   . . . ) 
+performs an operation with one or two volumes  ( calculator ) 
+a subclass of particle picking algorithms that can perform this operation completely automatically .
+importing coordinates for tilt pairs
+computes a subset of particles according to a set of micrographs
+computes a subset of another set by a graphical intervention of the user
+this is a set of 2d averages
+this is a set of images corresponding to a single particle in each ones of the frames .
+aligns a set of 2d images
+classifies a set of particles in 2d classes
+any protocol that applies a transformation to a setofparticles
+extracts particles from a set of tilt pairs
+this is a set of particles and its 2d representative
+this is a set of particles and its 3d representative
+this is a set of volumes and its 3d representative
+assigns a 2d alignment to a setofparticles
+applies a filter
+applies a mask
+other operations on a setofparticles not considered on the other branches

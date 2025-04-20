@@ -1,0 +1,3679 @@
+vertebrate trait
+head size trait
+adipose morphology trait
+forelimb conformation trait
+heart right atrium size trait
+esophagus size trait
+heart atrium appendage configuration trait
+red blood cell quantity
+abdominal fat pad morphology trait
+cloaca septation extent
+heart left atrium size trait
+adipose distribution trait
+tracheal - esophageal septation extent
+hindlimb conformation trait
+outer ear size trait
+heart ventricle membranous septum morphology trait
+heart right atrium morphology trait
+heart left atrium morphology trait
+outer ear prominence
+outer ear shape trait
+ear orientation trait
+heart atrium appendage morphology trait
+atrioventricular valve morphology trait
+inner ear morphology trait
+head width
+pars superior vestibularis morphology trait
+malleus morphology trait
+tympanic ring morphology trait
+cochlea morphology trait
+mitral valve morphology trait
+vestibule morphology trait
+membranous labyrinth morphology trait
+tricuspid valve morphology trait
+lateral semicircular canal morphology trait
+head length
+otic capsule morphology trait
+aortic valve morphology trait
+endolymphatic duct size trait
+organ of corti morphology trait
+total urine molecular amount
+pulmonary valve morphology trait
+hair cell morphology trait
+sulcus ampullaris morphology trait
+head circumference
+stria vascularis morphology trait
+middle ear morphology trait
+pancreas / salivary gland morphology trait
+testis physiology trait
+ear unfolding initiation trait
+ear emergence initiation trait
+urine trait
+ossification trait
+heart muscle compact layer morphology trait
+osteoclast development trait
+ossification initiation trait
+cardiomyocyte morphology trait
+heart muscle trabeculae morphology trait
+heart ventricle papillary muscle morphology trait
+secondary bone resorption trait
+medullary cavity morphology trait
+pancreas / salivary gland physiology trait
+blood morphology trait
+blood mineral amount
+embryo trait
+bone physiology trait
+axial skeleton cell quantity
+bone elasticity trait
+lifetime offspring quantity
+neurocranium morphology trait
+blood - brain barrier morphology trait
+calvaria morphology trait
+interparietal bone morphology trait
+supraoccipital bone morphology trait
+basilar bone morphology trait
+exoccipital bone morphology trait
+cranial suture closure initiation trait
+fontanelle morphology trait
+blood - cerebrospinal fluid barrier morphology trait
+capillary morphology trait
+vomer bone morphology trait
+ethmoid bone morphology trait
+nasal bone morphology trait
+sphenoid bone morphology trait
+basisphenoid morphology trait
+frontal bone morphology trait
+parietal bone morphology trait
+tooth development trait
+tooth primordium development trait
+tooth eruption trait
+bite alignment trait
+cardiovascular system development trait
+blood vessel development trait
+tooth quantity
+heart tube morphology trait
+tooth strength trait
+molar growth trait
+cancellous bone morphology trait
+long bone epiphysis morphology trait
+epiphysis width
+long bone metaphysis morphology trait
+compact bone thickness
+outflow tract morphology trait
+microglial cell morphology trait
+vertebra morphology trait
+vertebra quantity
+transverse process morphology trait
+pedicle morphology trait
+vertebral body morphology trait
+outer ear thickness
+scapula morphology trait
+rib morphology trait
+atrioventricular canal partitioning trait
+proximal rib morphology trait
+blood circulatory physiology trait
+lymph circulatory physiology trait
+rib attachment trait
+sternum morphology trait
+xiphoid process morphology trait
+cartilage morphology trait
+cartilage development trait
+hypertrophic chondrocyte zone morphology trait
+chondrocyte morphology trait
+chondrocyte quantity
+blood vessel physiology trait
+blood physiology trait
+bone marrow cell quantity
+lymph vessel physiology trait
+lymph physiology trait
+hemodynamics trait
+blood molecular composition trait
+blood cholesterol amount
+blood ldl cholesterol amount
+blood flow trait
+blood pressure trait
+blood hdl cholesterol amount
+blood flow velocity
+blood shear trait
+triglyceride amount
+blood glucose amount
+blood vessel distensibility trait
+blood vessel permeability trait
+mineral amount
+blood vessel proliferation trait
+blood vessel reactivity trait
+vasodilation trait
+vasoconstriction trait
+blood albumin amount
+blood alkaline phosphatase amount
+blood aspartate transaminase amount
+leukocyte quantity
+neutrophil quantity
+monocyte quantity
+thrombopoiesis trait
+megakaryocyte development trait
+heart excitatory physiology trait
+blood cell quantity
+common myeloid progenitor cell quantity
+hematopoiesis location trait
+heart electrical impulse generation trait
+cardiac output amount
+erythropoiesis trait
+erythrocyte size trait
+cerebrospinal fluid amount
+regional blood flow trait
+capillary permeability trait
+hemostasis trait
+arterial blood flow trait
+venous blood flow trait
+capillary blood flow trait
+heart morphology trait
+heart development trait
+vibrissa quantity
+heart tube looping morphogenesis trait
+aorta morphology trait
+heart right ventricle cell size trait
+heart shape trait
+heart valve morphology trait
+pericardium morphology trait
+blood - inner ear barrier physiology trait
+urine hemoglobin amount
+endolymph physiology trait
+endolymph production trait
+granulocyte quantity
+mast cell quantity
+perilymph physiology trait
+bile color
+cajal - retzius cell morphology trait
+aerobic fitness trait
+vestibular system physiology trait
+limb quantity
+mast cell morphology trait
+mast cell protease storage trait
+mast cell histamine storage trait
+cochlear microphonics trait
+hearing electrophysiology trait
+brainstem auditory evoked potential
+coat / hair morphology trait
+cochlear frequency tuning trait
+hair follicle quantity
+hair follicle orientation trait
+hair follicle organization trait
+hair follicle size trait
+hair follicle root sheath morphology trait
+phalanx quantity
+hair retention trait
+hair amount
+hair length
+hair growth trait
+eyelash retention trait
+hair cycle trait
+craniofacial morphology trait
+palatine process morphology trait
+palatine shelf morphology trait
+head morphology trait
+skull morphology trait
+snout morphology trait
+snout shape trait
+snout length
+nasal bridge width
+mouth morphology trait
+jaw morphology trait
+maxilla morphology trait
+mandible morphology trait
+presacral vertebra quantity
+gastrointestinal system morphology trait
+esophageal epithelium cell quantity
+esophagus morphology trait
+esophageal epithelium morphology trait
+esophageal squamous epithelium morphology trait
+stomach morphology trait
+stomach epithelium morphology trait
+stomach squamous epithelium morphology trait
+stomach glandular epithelium morphology trait
+foregut morphology trait
+cochlear nerve fiber response trait
+intestine morphology trait
+intestine development trait
+intestinal cell morphology trait
+intestinal cell quantity
+fibula length
+sensorineural hearing physiology trait
+pulmonary artery morphology trait
+otoacoustic response trait
+intestinal epithelium morphology trait
+large intestine morphology trait
+crypt of lieberkuhn morphology trait
+rectum morphology trait
+cecum morphology trait
+colon morphology trait
+small intestine morphology trait
+small intestine orientation trait
+digestive secretion trait
+digestive mucosecretion trait
+intestinal mucosa morphology trait
+urinary system morphology trait
+kidney cortex morphology trait
+kidney tubule quantity
+kidney pyramid size trait
+kidney development trait
+kidney development initiation trait
+kidney blood vessel morphology trait
+ureter morphology trait
+ureter luminal epithelial cell quantity
+urethra morphology trait
+urinary bladder morphology trait
+urinary bladder size trait
+urinary bladder epithelium morphology trait
+urinary bladder transitional epithelium morphology trait
+urinary bladder transitional epithelium thickness
+limb length
+forelimb morphology trait
+radius morphology trait
+carpus morphology trait
+hindlimb morphology trait
+tibia morphology trait
+femur morphology trait
+interdigital webbing trait
+autopod morphology trait
+hind paw size trait
+foot pad morphology trait
+nail morphology trait
+nail shape trait
+nail length
+tail diameter
+liver development trait
+liver morphology trait
+liver size trait
+sinusoidal space size trait
+liver pigmentation trait
+hepatocyte quantity
+hepatocyte morphology trait
+hepatocyte organization trait
+liver physiology trait
+salivary gland morphology trait
+palatine gland morphology trait
+palatine gland ductal branching morphology trait
+salivary gland mucosal cell quantity
+salivary gland epithelial cell quantity
+salivary duct morphology trait
+salivation trait
+mammary gland morphology trait
+mammary gland development trait
+neuroendocrine gland morphology trait
+pineal gland morphology trait
+pituitary gland morphology trait
+cochlear hair cell development trait
+adrenal gland morphology trait
+adrenal central medulla morphology trait
+adrenocortical cell morphology trait
+sebaceous gland morphology trait
+sebaceous gland size trait
+sex gland morphology trait
+sex gland size trait
+prostate size trait
+lateral prostate size trait
+ventral prostate size trait
+mammary ductal tree branching trait
+coagulating gland ductal branching trait
+prostate duct quantity
+sweat gland morphology trait
+palmar eccrine gland morphology trait
+parathyroid gland morphology trait
+thyroid gland morphology trait
+immune system morphology trait
+spleen morphology trait
+peyer's patch morphology trait
+lymph node quantity
+lymph node size trait
+thymus morphology trait
+thymus development trait
+vestibular hair cell development trait
+reichert's cartilage development trait
+thymocyte quantity
+immune system cell morphology trait
+lymphocyte quantity
+skeletal myogenesis trait
+muscular system development trait
+skeletal myogenesis initiation trait
+myotome development trait
+smooth muscle contractility trait
+detrusor smooth muscle contractility trait
+ileal smooth muscle contractility trait
+skeletal muscle morphology trait
+diaphragm thickness
+tongue morphology trait
+filiform papillae morphology trait
+tongue epithelium morphology trait
+tongue squamous epithelium morphology trait
+smooth muscle morphology trait
+common crus morphology trait
+brain size trait
+inferior colliculus morphology trait
+inferior colliculus size trait
+nervous system tract morphology trait
+cochlea basement membrane morphology trait
+corpus callosum morphology trait
+corpus callosum size trait
+forebrain morphology trait
+forebrain cell quantity
+telencephalon cell quantity
+neuroepithelial layer differentiation trait
+telencephalon morphology trait
+cerebral cortex morphology trait
+cerebral cortex thickness
+cerebral cortex layer morphology trait
+cortical marginal zone morphology trait
+parietal lobe morphology trait
+postcentral gyrus morphology trait
+sensory dissociation area morphology trait
+supramarginal gyrus morphology trait
+frontal lobe morphology trait
+precentral gyrus morphology trait
+prefrontal gyrus morphology trait
+temporal lobe morphology trait
+superior temporal gyrus morphology trait
+transverse gyrus of heschl morphology trait
+occipital lobe morphology trait
+visual cortex morphology trait
+hippocampus morphology trait
+hippocampus development trait
+dentate gyrus morphology trait
+hippocampus layer morphology trait
+ammon gyrus morphology trait
+cochlear hair cell stereociliary bundle morphology trait
+amygdala morphology trait
+olfactory bulb morphology trait
+choroid plexus morphology trait
+choroid plexus cell quantity
+brain ventricle morphology trait
+lateral ventricle morphology trait
+lateral ventricle size trait
+third ventricle morphology trait
+third ventricle size trait
+fourth ventricle morphology trait
+fourth ventricle size trait
+diencephalon morphology trait
+diencephalon cell quantity
+thalamus morphology trait
+thalamus cell quantity
+subthalamus morphology trait
+subthalamic nucleus morphology trait
+substantia nigra morphology trait
+hypothalamus morphology trait
+cochlear hair cell inter - stereocilial links trait
+hypothalamus cell quantity
+epithalamus morphology trait
+hindbrain morphology trait
+superior olivary complex morphology trait
+facial nuclei cell quantity
+pontine flexure morphology trait
+medulla oblongata morphology trait
+metencephalon morphology trait
+pons morphology trait
+cerebellum morphology trait
+cerebellum cell quantity
+cerebellum size trait
+cerebellum development trait
+interlobular fissure development trait
+cerebellum plate morphology trait
+cerebellum foliation trait
+somatosensory cortex morphology trait
+primary somatosensory cortex morphology trait
+barrel cortex organization trait
+secondary somatosensory cortex morphology trait
+cerebellum vermis morphology trait
+cerebellum vermis size trait
+cerebellum vermis cell quantity
+cerebellum anterior vermis morphology trait
+cerebellum anterior vermis size trait
+cerebellum posterior vermis morphology trait
+cerebellum vermis lobule viii morphology trait
+cerebellum vermis lobule ix morphology trait
+cerebellum external granule cell layer morphology trait
+cerebellum external granule cell layer thickness
+cerebellar purkinje cell layer morphology trait
+purkinje cell morphology trait
+purkinje cell quanitity
+cochlear hair bundle ankle links morphology trait
+cochlear hair bundle horizontal top connectors morphology trait
+cochlear hair bundle tip links morphology trait
+purkinje cell layer lamination integrity trait
+cerebellar granule layer morphology trait
+granule layer lamination integrity trait
+cerebellar molecular layer morphology trait
+cerebellar molecular layer thickness
+cochlear hair cell stereociliary bundle orientation trait
+cochlear hair cell stereocilia quantity
+cochlear hair cell stereocilia size trait
+cochlear inner hair cell afferent innervation pattern trait
+cochlear inner hair cell efferent innervation pattern trait
+midbrain morphology trait
+midbrain cell quantity
+corpora quadrigemina morphology trait
+corpora quadrigemina size trait
+corpora quadrigemina organization trait
+superior colliculus morphology trait
+superior colliculus size trait
+trigeminal v mesencephalic nucleus morphology trait
+trigeminal v mesencephalic nucleus size trait
+facial motor nucleus morphology trait
+facial motor nucleus size trait
+trigeminal motor nucleus morphology trait
+trigeminal motor nucleus size trait
+brain development trait
+myelination trait
+roof plate morphology trait
+floor plate morphology trait
+floor plate size trait
+rhombomere morphology trait
+telencephalon development trait
+telencephalic vesicle development trait
+telencephalic vesicle size trait
+motor neuron morphology trait
+motor neuron quantity
+motor neuron innervation pattern trait
+motor neuron target finding trait
+motor neuron axon outgrowth trait
+cochlear outer hair cell afferent innervation morphology trait
+central nervous system glial cell morphology trait
+oligodendrocyte morphology trait
+oligodendrocyte progenitor quantity
+spinal cord morphology trait
+somatic sensory system morphology trait
+sensory ganglion morphology trait
+dorsal root ganglion morphology trait
+dorsal root ganglion organization trait
+dorsal root ganglion size trait
+sensory neuron morphology trait
+sensory neuron innervation pattern trait
+nociceptor morphology trait
+polymodal receptor morphology trait
+thermoreceptor morphology trait
+mechanoreceptor morphology trait
+cutaneous / subcutaneous mechanoreceptor morphology trait
+hair guard neuron morphology trait
+hair guard cell innervation pattern trait
+hair - tylotrich neuron morphology trait
+hair - tylotrich cell innervation pattern trait
+hair - down neuron morphology trait
+hair - down cell innervation pattern trait
+meissner's corpuscle morphology trait
+meissner's corpuscle size trait
+meissner's corpuscle innervation pattern trait
+merkel's receptor morphology trait
+merkel's receptor quantity
+merkel's receptor innervation pattern trait
+pacinian corpuscle morphology trait
+ruffini's corpuscle morphology trait
+skeletal muscle mechanoreceptor morphology trait
+primary muscle spindle morphology trait
+primary muscle spindle size trait
+secondary muscle spindle morphology trait
+secondary muscle spindle size trait
+joint capsule morphology trait
+golgi tendon organ morphology trait
+chemoreceptor morphology trait
+taste bud morphology trait
+olfactory receptor morphology trait
+retinal photoreceptor morphology trait
+retinal rod cell morphology trait
+retinal cone cell morphology trait
+sympathetic nervous system morphology trait
+sympathetic ganglion morphology trait
+paravertebral ganglion cell quantity
+prevertebral ganglion cell quantity
+superior cervical ganglion morphology trait
+superior cervical ganglion size trait
+middle cervical ganglion morphology trait
+stellate ganglion morphology trait
+cochlear outer hair cell efferent innervation morphology trait
+l4 dorsal root ganglion morphology trait
+l4 ganglion size trait
+l5 dorsal root ganglion morphology trait
+l5 ganglion size trait
+sympathetic neuron morphology trait
+adrenergic neuron morphology trait
+adrenergic innervation pattern trait
+cochlear outer hair cell stereociliary bundle morphology trait
+outer hair cell stereocilia quantity
+peptidergic neuron morphology trait
+parasympathetic nervous system morphology trait
+parasympathetic ganglion morphology trait
+submandibular ganglion morphology trait
+submandibular ganglion size trait
+parasympathetic neuron morphology trait
+cholinergic neuron morphology trait
+cholinergic innervation pattern trait
+lacrimal gland cholinergic innervation pattern trait
+sublingual salivary gland cholinergic innervation pattern trait
+parotid salivary gland cholinergic innervation pattern trait
+enteric nervous system morphology trait
+enteric ganglion morphology trait
+enteric neuron morphology trait
+enteric cholinergic neuron morphology trait
+enteric neuron quantity
+enteric cholinergic innervation pattern trait
+somatic motor system morphology trait
+muscle innervation pattern trait
+neuromuscular synapse morphology trait
+cranial nerve morphology trait
+optic nerve size trait
+oculomotor nerve morphology trait
+oculomotor nerve size trait
+trochlear nerve morphology trait
+trochlear nerve size trait
+trigeminal nerve morphology trait
+mandibular nerve morphology trait
+mandibular nerve branching morphology trait
+abducens nerve morphology trait
+facial nerve morphology trait
+vestibulocochlear nerve morphology trait
+glossopharyngeal nerve morphology trait
+vagus nerve morphology trait
+accessory nerve morphology trait
+hypoglossal nerve morphology trait
+spinal nerve morphology trait
+phrenic nerve morphology trait
+cranial ganglion morphology trait
+geniculate ganglion morphology trait
+geniculate ganglion size trait
+petrosal ganglion morphology trait
+petrosal ganglion size trait
+nodose ganglion morphology trait
+nodose ganglion size trait
+nodose ganglion neuron quantity
+outer hair cell stereocilia size trait
+trigeminal ganglion morphology trait
+trigeminal ganglion cell size trait
+trigeminal ganglion size trait
+glossopharyngeal ganglion morphology trait
+superior glossopharyngeal ganglion morphology trait
+superior glossopharyngeal ganglion size trait
+vagus ganglion morphology trait
+superior vagus ganglion morphology trait
+superior vagus ganglion size trait
+peripheral nervous system glial cell morphology trait
+schwann cell morphology trait
+schwann cell quantity
+female reproductive system morphology trait
+uterus morphology trait
+oocyte morphology trait
+ovary morphology trait
+ovary size trait
+ovarian folliculogenesis trait
+ovarian follicle morphology trait
+luteal cell differentiation trait
+cervix morphology trait
+cervix epithelium morphology trait
+cervix squamous epithelium morphology trait
+vagina morphology trait
+vagina epithelium morphology trait
+vaginal epithelium thickness
+vaginal opening morphology trait
+vaginal opening size trait
+male reproductive system morphology trait
+testis morphology trait
+testis size trait
+scrotum size trait
+foreskin size trait
+seminiferous tubule size trait
+spermatogenesis trait
+prostate morphology trait
+coagulating gland morphology trait
+prostate epithelium morphology trait
+bulbourethral gland morphology trait
+bulbourethral gland size trait
+bulbourethral gland ductal cell quantity
+lung morphology trait
+lung development trait
+lung cell quantity
+alveolar septum thickness
+inner hair cell stereociliary bundle morphology trait
+respiratory alveoli size trait
+skin thickness
+skin translucence
+skin cell quantity
+epidermis morphology trait
+epidermis thickness
+epidermis cell quantity
+epidermis development trait
+epidermis stratum basale morphology trait
+epidermis stratum spinosum morphology trait
+epidermis stratum spinosum cell size trait
+epidermis stratum spinosum thickness
+epidermis stratum granulosum morphology trait
+epidermis stratum corneum morphology trait
+epidermis stratum corneum thickness
+dermis morphology trait
+dermis thickness
+connective tissue morphology trait
+dermis stratum papillare morphology trait
+body height
+body length
+body mass
+vibrissa shape trait
+vibrissa organization trait
+vibrissa retention trait
+vibrissa length
+vibrissa density
+eye development trait
+lens induction trait
+hyaloid capillary system development trait
+time of eyelid opening
+lens vesicle development trait
+eye orientation trait
+distance between the eyes
+inner hair cell stereocilia quantity
+lens morphology trait
+lens clarity trait
+lens size trait
+lens polarity trait
+conjunctiva morphology trait
+cornea morphology trait
+cornea clarity trait
+pupil morphology trait
+pupil clarity trait
+pupil shape trait
+pupil size trait
+iris morphology trait
+inner hair cell stereocilia size trait
+eye pigmentation trait
+retina morphology trait
+retinal layer organization trait
+retina cell quantity
+optic nerve morphology trait
+optic nerve innervation pattern trait
+optic tract size trait
+inner hair cell synaptic ribbon morphology trait
+active - zone - anchored inner hair cell synaptic ribbon morphology trait
+eye moisture amount
+eyelid morphology trait
+meibomian gland size trait
+lacrimal gland morphology trait
+lacrimal gland physiology trait
+tear production trait
+organ of corti patterning trait
+social investigation trait
+deiters cell quantity
+pillar cell quantity
+ejaculation trait
+penile erection physiology trait
+spiral ligament size trait
+stationary movement trait
+locomotor behavior trait
+strial basal cell tight junction morphology trait
+scratching trait
+strial marginal cell quantity
+tectorial membrane size trait
+scala media size trait
+drinking behavior trait
+eating behavior trait
+swallowing reflex trait
+grooming behavior trait
+scala tympani size trait
+vestibular hair cell stereociliary bundle morphology trait
+nest - building behavior trait
+learning / memory trait
+vestibular hair bundle inter - stereocilial link morphology trait
+vestibular hair bundle shaft connector morphology trait
+vestibular hair cell stereocilia quantity
+vestibular hair cell stereocilia size trait
+otic capsule size trait
+vestibular dark cell morphology trait
+vestibule size trait
+incus size trait
+malleus size trait
+sleep behavior trait
+behavioral circadian rhythm trait
+posture trait
+body posture trait
+motor coordination / balance trait
+balance trait
+vocalization trait
+caudal vertebra quantity
+osteoclast physiology trait
+bone strength trait
+cardiovascular system physiology trait
+lipid amount
+blood free fatty acid amount
+blood insulin amount
+blood calcium amount
+blood phosphate amount
+blood bilirubin amount
+blood enzyme amount
+blood alanine transaminase amount
+erythrocyte quantity
+blood hemoglobin amount
+myelopoiesis trait
+blood vessel morphology trait
+symphysis menti morphology trait
+total life span
+gastrointestinal system physiology trait
+digestion trait
+nutrient absorption trait
+carbohydrate absorption trait
+fructose absorption trait
+glucose absorption trait
+mineral absorption trait
+vitamin absorption trait
+germ layer development trait
+ectoderm development trait
+apical ectodermal ridge development trait
+mesoderm development trait
+axial mesoderm development trait
+endoderm development trait
+somite development trait
+somite differentiation initiation trait
+somite shape trait
+gastrulation trait
+embryo size trait
+embryo turning trait
+dorsal - ventral axis patterning trait
+proximal - distal axis patterning trait
+left - right axis patterning trait
+amniotic fold morphology trait
+placenta morphology trait
+placenta development trait
+placenta labyrinth morphology trait
+yolk sac morphology trait
+blood island morphology trait
+yolk sac color
+yolk sac vascular plexus morphology trait
+extraembryonic endoderm morphology trait
+umbilical cord morphology trait
+allantois morphology trait
+embryo implantation trait
+postnatal growth trait
+secretion by adrenal gland trait
+epinephrine secretion trait
+corticosterone secretion trait
+secretion by pituitary trait
+adrenocorticotropin secretion trait
+secretion by hypothalamus trait
+hypothalamus corticotropin - releasing hormone secretion trait
+blood corticotropin - releasing hormone amount
+urine production trait
+urine molecular composition trait
+urine glucose amount
+homeostasis trait
+ion homeostasis trait
+iron amount
+blood magnesium amount
+selenium amount
+blood sodium amount
+body temperature regulation trait
+brown adipose amount
+white adipose amount
+fluid regulation trait
+immune system physiology trait
+macrophage phagocytosis trait
+blood immunoglobulin g amount
+blood immunoglobulin a amount
+immune system cell physiology trait
+t cell activation trait
+effector t cell quantity
+antigen presentation trait
+epidermis stratum spinosum cell quantity
+lymphatic vessel morphology trait
+mammary gland physiology trait
+lactation trait
+mammary alveoli morphology trait
+mammary duct morphology trait
+hippocampus physiology trait
+long - term synaptic depression trait
+synaptic plasticity trait
+dopamine amount
+cerebellum physiology trait
+somatosensory cortex physiology trait
+nmda receptor mediated synaptic activity in barrel cortex
+cerebrospinal fluid production trait
+reproductive system physiology trait
+male fertility trait
+female fertility trait
+estrous cycle trait
+ovulation trait
+gametogenesis trait
+meiosis trait
+oogenesis trait
+spermiogenesis trait
+single birth offspring quantity
+time of sexual maturation trait
+testis cell quantity
+lung capacity
+respiration trait
+pancreas morphology trait
+bronchoconstriction trait
+mucociliary clearance trait
+reflex trait
+auditory threshold
+tactile sensory behavior trait
+pain threshold
+olfactory system physiology trait
+olfaction trait
+gustatory system physiology trait
+taste sensitivity trait
+visual acuity trait
+seminal gland morphology trait
+conditioning behavior trait
+learning / memory / conditioning trait
+sensation behavior trait
+parental behavior trait
+consumption behavior trait
+hair physiology trait
+hair texture trait
+hair follicle morphology trait
+developmental patterning trait
+embryonic cell / tissue morphology trait
+extraembryonic tissue morphology trait
+vision trait
+eye morphology trait
+cornea / lens morphology trait
+skin pigmentation trait
+skin morphology trait
+vibrissa morphology trait
+tooth morphology trait
+ear morphology trait
+hearing physiology trait
+muscular system physiology trait
+muscular system morphology trait
+limb morphology trait
+digit morphology trait
+tail morphology trait
+axial skeleton morphology trait
+skeleton extremities morphology trait
+craniofacial bone morphology trait
+lipid homeostasis trait
+metabolism trait
+hematopoiesis trait
+red blood cell trait
+cardiovascular system morphology trait
+blood circulation trait
+respiratory system morphology trait
+respiratory system physiology trait
+kidney morphology trait
+kidney physiology trait
+hepatobiliary system morphology trait
+hepatobiliary system physiology trait
+b cell development trait
+t cell development trait
+neural tube morphology / development trait
+brain morphology trait
+reproductive system morphology trait
+female fecundity trait
+gland morphology trait
+gland physiology trait
+gastrulation movement trait
+brain mass
+outer ear morphology trait
+brain cell morphology trait
+astrocyte morphology trait
+innervation trait
+fibula morphology trait
+artery morphology trait
+brain commissure morphology trait
+brain ventricle / choroid plexus morphology trait
+neurotransmitter amount
+cns synaptic transmission trait
+long - term potentiation trait
+germ cell morphology trait
+germ cell quantity
+sex determination trait
+primary sex determination trait
+secondary sex determination trait
+seminiferous tubule morphology trait
+immune system organ size trait
+spleen size trait
+spleen capsule morphology trait
+spleen trabecular vein morphology trait
+primitive streak development trait
+primitive streak morphology trait
+nose morphology trait
+pharynx morphology trait
+external nares morphology trait
+internal nares morphology trait
+nasal cavity morphology trait
+nasal mucosa morphology trait
+nasal septum morphology trait
+paranasal sinus morphology trait
+laryngeal mucosa goblet cell morphology trait
+olfactory mucosa morphology trait
+vomeronasal organ morphology trait
+turbinated bone morphology trait
+ethmoid sinus morphology trait
+frontal sinus morphology trait
+sphenoid sinus morphology trait
+larynx morphology trait
+hypopharynx morphology trait
+nasopharynx morphology trait
+oropharynx morphology trait
+pharyngeal muscle morphology trait
+glottis morphology trait
+laryngeal cartilage morphology trait
+arytenoid cartilage morphology trait
+cricoid cartilage morphology trait
+epiglottis morphology trait
+thyroid cartilage morphology trait
+laryngeal mucosa morphology trait
+nasal mucosa goblet cell morphology trait
+laryngeal muscle morphology trait
+bronchus morphology trait
+left major bronchus morphology trait
+right major bronchus morphology trait
+bronchiole morphology trait
+terminal bronchiole morphology trait
+respiratory alveolus morphology trait
+respiratory alveolar duct morphology trait
+nervous system electrophysiology trait
+respiratory alveolar epithelial cell morphology trait
+type i pneumocyte morphology trait
+type ii pneumocyte morphology trait
+lung interstitium morphology trait
+respiratory mucosa morphology trait
+respiratory muscle morphology trait
+diaphragm morphology trait
+intercostal muscle morphology trait
+respiratory mucosa goblet cell morphology trait
+trachea morphology trait
+tracheal smooth muscle morphology trait
+tracheal ciliated epithelium morphology trait
+gestation period duration
+pulmonary blood flow trait
+respiratory mechanics trait
+respiratory transport trait
+blood - air barrier morphology trait
+respiratory function trait
+blood gas amount
+exercise endurance trait
+pulmonary gas exchange trait
+pulmonary ventilation trait
+lymph node morphology trait
+axillary lymph node morphology trait
+lymph node trabecula morphology trait
+lymph node cortex morphology trait
+lymph node b cell domain morphology trait
+lymph node primary follicle morphology trait
+lymph node secondary follicle morphology trait
+lymph node t cell domain morphology trait
+lymph node medulla morphology trait
+afferent lymphatic vessel morphology trait
+efferent lymphatic vessel morphology trait
+cervical lymph node morphology trait
+popliteal lymph node morphology trait
+inguinal lymph node morphology trait
+spleen trabecular artery morphology trait
+spleen red pulp morphology trait
+spleen white pulp morphology trait
+spleen periarteriolar lymphoid sheath morphology trait
+spleen germinal center morphology trait
+spleen b cell corona morphology trait
+spleen central arteriole morphology trait
+spleen marginal zone morphology trait
+spleen marginal sinus morphology trait
+thymus size trait
+thymus lobule morphology trait
+thymus capsule morphology trait
+thymus subcapsular epithelium morphology trait
+thymus trabecula morphology trait
+thymus cortex morphology trait
+thymus medulla morphology trait
+dendritic cell physiology trait
+mucosa - associated lymphoid tissue morphology trait
+gut - associated lymphoid tissue morphology trait
+oropharyngeal lymphoid tissue morphology trait
+tonsil morphology trait
+nasopharyngeal tonsil morphology trait
+lingual tonsillar tissue morphology trait
+tubal tonsil morphology trait
+peyer's patch epithelium morphology trait
+peyer's patch follicle morphology trait
+peyer's patch germinal center morphology trait
+bronchus - associated lymphoid tissue morphology trait
+bone marrow cell morphology trait
+pluripotent precursor cell morphology trait
+multipotent stem cell morphology trait
+lymphopoiesis trait
+pre - b cell morphology trait
+double - negative t cell morphology trait
+double - positive t cell morphology trait
+myeloblast morphology trait
+neutrophil development trait
+proerythroblast morphology trait
+innate immune response trait
+basophil morphology trait
+mast cell physiology trait
+reticulocyte morphology trait
+semicircular canal morphology trait
+blood cell morphology trait
+cd4 - positive t cell morphology trait
+t - helper 1 cell morphology trait
+t - helper 2 cell morphology trait
+effector t cell morphology trait
+cd8 - positive ,  alpha - beta cytotoxic t cell morphology trait
+plasma cell morphology trait
+memory b cell morphology trait
+granulocyte morphology trait
+leukocyte physiology trait
+eosinophil development trait
+t cell physiology trait
+mononuclear leukocyte differentiation trait
+macrophage morphology trait
+erythrocyte morphology trait
+immune system organ development trait
+macrophage physiology trait
+b cell antigen presentation trait
+macrophage antigen presentation trait
+dendritic cell antigen presentation trait
+langerhans cell antigen presentation trait
+b cell quantity
+b cell physiology trait
+blood immunoglobulin amount
+granulocyte physiology trait
+neutrophil physiology trait
+basophil physiology trait
+eosinophil physiology trait
+neutrophil phagocytosis trait
+complement physiology trait
+complement alternative pathway physiology trait
+complement classical pathway physiology trait
+acute phase protein physiology trait
+c - reactive protein physiology trait
+serum amyloid protein physiology trait
+blood immunoglobulin d amount
+blood immunoglobulin e amount
+serotonin activity
+phalanx length
+digit length
+blood coagulation trait
+conspecific interaction trait
+sexual interaction trait
+behavioral response to addictive substance trait
+emotion / affect behavior trait
+enamel morphology trait
+secondary lens fiber morphology trait
+ileum morphology trait
+extraembryonic tissue organization trait
+eosinophil quantity
+basophil quantity
+lymphocyte morphology trait
+monocyte morphology trait
+cochlear hair cell morphology trait
+vestibular hair cell morphology trait
+heart left ventricle cell size trait
+endocochlear potential trait
+epididymis morphology trait
+sensorimotor gating trait
+time of vaginal opening
+uterus size trait
+erythrocyte shape trait
+blood triglyceride amount
+cholesterol absorption trait
+enamel delamination trait
+enamel rod organization trait
+ameloblast development trait
+sciatic nerve morphology trait
+ependyma morphology trait
+keratinocyte morphology trait
+keratinocyte development trait
+liver regeneration trait
+caput epididymis morphology trait
+corpus epididymis morphology trait
+cauda epididymis morphology trait
+blastocele development trait
+blood adrenocorticotropin amount
+blood potassium amount
+scrotum morphology trait
+sperm quantity
+sperm motility trait
+corpus luteum morphology trait
+corpus luteum quantity
+mature ovarian follicle quantity
+onset of fertility
+spermatogonia proliferation trait
+molar morphology trait
+pancreas gland physiology trait
+secretion by pancreas trait
+blood glucagon amount
+eye size trait
+sclera morphology trait
+vitreous body morphology trait
+vitreous body clarity
+kidney tubule morphology trait
+kidney tubule size trait
+kidney size trait
+kidney mass
+glycogen catabolism trait
+preputial gland size trait
+preputial gland morphology trait
+inner cell mass morphology trait
+immune system organ morphology trait
+immune serum protein activity trait
+vein morphology trait
+pulmonary vein morphology trait
+inner ear canal morphology trait
+colon size trait
+thermal nociception trait
+mechanical nociception trait
+chemical nociception trait
+olfactory bulb development trait
+olfactory bulb size trait
+submandibular lymph node size trait
+semilunar valve morphology trait
+autonomic nervous system morphology trait
+somatic nervous system morphology trait
+heart left ventricle size trait
+heart right ventricle size trait
+cerebral cortex pyramidal cell quantity
+tail length
+caudal vertebra morphology trait
+hippocampus mossy fiber morphology trait
+vas deferens morphology trait
+blood luteinizing hormone amount
+secretion by sex gland trait
+secretion by testes trait
+secretion by ovary trait
+sertoli cell morphology trait
+leydig cell quantity
+leydig cell morphology trait
+blood follicle stimulating hormone amount
+retina blood vessel morphology trait
+skin barrier function trait
+spinal cord size trait
+tooth mineralization trait
+dentin morphology trait
+pulp cavity morphology trait
+premaxillary bone morphology trait
+rib development trait
+chorioallantoic fusion trait
+notochord morphology trait
+kidney corpuscle morphology trait
+glomerular capsule morphology trait
+juxtaglomerular apparatus morphology trait
+cranial suture morphology trait
+chorion morphology trait
+lens fiber morphology trait
+aorta mass
+aorta capacity
+glomerular filtration trait
+blood sulfate amount
+cochlear ganglion morphology trait
+vestibular ganglion morphology trait
+posterior semicircular canal morphology trait
+tail bud morphology trait
+ocular fundus morphology trait
+blood anti - insulin autoantibody amount
+urine albumin amount
+thyroid gland physiology trait
+corticospinal tract morphology trait
+neuron morphology trait
+branchial arch development trait
+ampa - mediated synaptic current trait
+glutamate receptor current trait
+nmda - mediated synaptic current trait
+urine keto acid amount
+otolith morphology trait
+otolithic membrane morphology trait
+bone mineralization trait
+stamina trait
+urine phosphate amount
+blood parathyroid hormone amount
+parturition trait
+adrenal gland physiology trait
+excitatory postsynaptic current
+inhibitory postsynaptic potential
+excitatory postsynaptic potential
+pns synaptic transmission trait
+endplate potential activity
+synaptic depression trait
+paired - pulse facilitation trait
+post - tetanic potential
+central nervous system synapse formation trait
+bile duct morphology trait
+bile duct development trait
+joint morphology trait
+synovial blood flow trait
+inhibitory postsynaptic current
+time of axon outgrowth
+neuron specification trait
+neural crest cell development trait
+neural crest cell migration trait
+axon guidance trait
+white adipose morphology trait
+brown adipose morphology trait
+blood vessel smooth muscle size trait
+germ cell migration trait
+retinal ganglion cell quantity
+urine calcium amount
+urine solute amount
+ureter length
+sebaceous gland physiology trait
+sebaceous lipid secretion trait
+seminal gland size trait
+bone remodeling trait
+hippocampus fimbria morphology trait
+hippocampus fornix morphology trait
+cytokine secretion trait
+dark adaptation trait
+kidney medulla morphology trait
+blood bicarbonate amount
+blood chloride amount
+blood acidity - alkalinity balance trait
+basement membrane development trait
+thoracic vertebra morphology trait
+tail shape trait
+epiphyseal plate morphology trait
+hyoid bone morphology trait
+epicardium morphology trait
+hepatic copper amount
+superior semicircular canal morphology trait
+metatarsus morphology trait
+metacarpus morphology trait
+metacarpus quantity
+soleus morphology trait
+gastrocnemius morphology trait
+tibialis anterior morphology trait
+skeletal muscle fiber morphology trait
+egg cylinder morphology trait
+prepulse inhibition trait
+muscle progenitor cell migration trait
+corneal stroma thickness
+anterior stroma morphology trait
+posterior stroma morphology trait
+corneal stroma development trait
+cornea light - scattering trait
+retinal attachment trait
+sclera thickness
+skull size trait
+heart atrium morphology trait
+behavioral response to novelty trait
+processus brevis morphology trait
+parathyroid gland size trait
+parathyroid gland pigmentation trait
+respiratory system development trait
+tracheal - esophageal septation trait
+tracheal - bronchial branching morphogenesis trait
+gastrointestinal system development trait
+tracheal cartilage morphology trait
+cloaca septation trait
+vulva morphology trait
+clitoris morphology trait
+early pro - b cell quantity
+late pro - b cell quantity
+reticulocyte quantity
+heart atrium size trait
+otolith size trait
+otolith quantity
+otolithic membrane attachment trait
+cochlear coil quantity
+tectorial membrane morphology trait
+tectorial membrane attachment trait
+tunnel of corti morphology trait
+soft palate morphology trait
+leukocyte migration trait
+esophageal smooth muscle morphology trait
+esophagus development trait
+lateral semicircular canal size trait
+posterior semicircular canal size trait
+superior semicircular canal size trait
+scala tympani morphology trait
+scala vestibuli morphology trait
+scala media morphology trait
+platelet quantity
+pulmonary endothelial cell surface area
+angiotensin i - converting enzyme activity
+neuron apoptosis trait
+neuromere morphology trait
+pulmonary elastic fiber morphology trait
+heart elastic fiber morphology trait
+aorta elastic tissue morphology trait
+sinus venosus morphology trait
+yolk sac vasculature morphology trait
+placenta vascular morphology trait
+forebrain development trait
+alisphenoid morphology trait
+lens capsule morphology trait
+lens epithelium morphology trait
+hippocampus neuron quantity
+cerebral cortex neuron quantity
+basal ganglion neuron quantity
+dopaminergic neuron morphology trait
+dopaminergic neuron quantity
+gaba neuron morphology trait
+gaba neuron quantity
+glutaminergic neuron morphology trait
+glutaminergic neuron quantity
+muscle fatty acid amount
+bile duct physiology trait
+bile duct size trait
+abdominal wall morphology trait
+duodenum morphology trait
+digestive organ orientation trait
+large intestine orientation trait
+intestinal peristalsis trait
+cochlea sensory epithelium morphology trait
+modiolus morphology trait
+modiolus size trait
+urine amino acid amount
+perineum morphology trait
+portal blood pressure
+auditory tube morphology trait
+pancreatic beta cell quantity
+rib quantity
+pectoralis muscle morphology trait
+blood renin amount
+blood thyroid hormone amount
+luteinization trait
+granulosa cell differentiation trait
+hypaxial muscle morphology trait
+hypaxial muscle cell quantity
+blood gonadotropin amount
+blood glucocorticoid amount
+blood estrogen amount
+blood mineralcorticoid amount
+menarche initiation trait
+vitreal fibrous tissue morphology trait
+gluconeogenesis trait
+ventral body wall morphology trait
+body wall morphology trait
+embryonic hematopoiesis trait
+skeletal muscle size trait
+skeletal muscle fiber size trait
+tail bud size trait
+liver mass
+platelet shape trait
+central nervous system regeneration trait
+hypertrophic chondrocyte zone thickness
+afterhyperpolarization trait
+endochondral ossification initiation trait
+intramembranous ossification initiation trait
+thyroid gland development trait
+neuronal precursor differentiation trait
+optic vesicle development trait
+parathyroid gland physiology trait
+carotid body morphology trait
+blood glycerol amount
+neurotransmitter uptake trait
+kidney cell quantity
+intestinal goblet cell morphology trait
+pancreas size trait
+parotid gland morphology trait
+tail size trait
+blood ketone body amount
+single cell response trait
+single cell response threshold
+single cell response intensity
+summary potential trait
+summary potential threshold
+summary potential intensity
+nerve fiber response trait
+nerve fiber response threshold
+nerve fiber response intensity
+channel response trait
+channel response threshold
+channel response intensity
+voluntary movement trait
+involuntary movement trait
+thyroid gland cell quantity
+iodide oxidation trait
+growth hormone secretion trait
+ovary physiology trait
+blood dihydrotestosterone amount
+labium morphology trait
+labia size trait
+interlabial sulcus morphology trait
+labia majora morphology trait
+labia majora size trait
+labia majora shape trait
+labia minora morphology trait
+labia minora size trait
+labia minora shape trait
+vulva size trait
+clitoris size trait
+vagina development trait
+hymen development trait
+foreskin morphology trait
+pancreatic beta cell physiology trait
+pancreatic alpha cell physiology trait
+insulin secretion trait
+glucagon secretion trait
+uterine lumen morphology trait
+uterus development trait
+oviduct morphology trait
+oviduct size trait
+ovary development trait
+ureter size trait
+ureter width
+ureter physiology trait
+urethra width
+urethra size trait
+penis size trait
+nephron physiology trait
+prostate physiology trait
+scrotum cell quantity
+kidney medulla development trait
+urinary bladder cell quantity
+cervical opening size trait
+urine color
+urine output
+kidney medulla cell quantity
+leukocyte tethering or rolling trait
+leukocyte adhesion trait
+urothelium morphology trait
+nervous system morphology trait
+nervous system physiology trait
+glial cell morphology trait
+synaptic transmission trait
+cochlear ganglion cell quantity
+lung size trait
+muscle fatigue trait
+oligodendrocyte quantity
+radial glial cell morphology trait
+kidney shape trait
+axon outgrowth trait
+skin elasticity trait
+erythrocyte physiology trait
+locus ceruleus morphology trait
+epiphyseal plate proliferative zone morphology trait
+behavioral response to thermal stimulus trait
+sperm capacitation trait
+periodontal ligament morphology trait
+glomerular capsule size trait
+eyelid aperture
+ureter development trait
+inguinal canal morphology trait
+ear lobe morphology trait
+ear lobe size trait
+inferior olivary complex morphology trait
+cardiac ganglion morphology trait
+eye muscle morphology trait
+intraocular muscle morphology trait
+glia physiology trait
+microglial cell physiology trait
+embryo hatching trait
+zona pellucida morphology trait
+male reproductive system physiology trait
+female reproductive system physiology trait
+sister chromatid exchange trait
+vestibulocochlear ganglion morphology trait
+hair follicle development trait
+hypodermis morphology trait
+ear rotation trait
+neural tube closure trait
+ureter quantity
+long bone morphology trait
+blood autoantibody amount
+retinal layer morphology trait
+retinal photoreceptor layer morphology trait
+photoreceptor outer segment morphology trait
+photoreceptor inner segment morphology trait
+retinal outer nuclear layer morphology trait
+retinal outer plexiform layer morphology trait
+retinal inner nuclear layer morphology trait
+retinal inner plexiform layer morphology trait
+outer ear cartilage morphology trait
+auditory ossicle size trait
+facial morphology trait
+orofacial morphology trait
+mouth mucosa morphology trait
+mouth shape trait
+palate morphology trait
+hard palate morphology trait
+palate width
+palate length
+immune system organ physiology trait
+thymus physiology trait
+palate depth
+lip morphology trait
+lip shape trait
+lip vermillion border width
+minor salivary gland morphology trait
+major salivary gland morphology trait
+submandibular gland morphology trait
+somite formation initation trait
+bone structure trait
+cortical bone morphology trait
+compact bone morphology trait
+harderian gland pigmentation trait
+macrophage migration trait
+digit quantity
+nucleotide metabolism trait
+hair shaft morphology trait
+hair cuticle morphology trait
+hair cortex morphology trait
+hair medulla morphology trait
+hair quantity
+pituitary gland development trait
+rathke's pouch morphology trait
+eye muscle development trait
+pillar cell morphology trait
+mullerian duct morphology trait
+wolffian duct morphology trait
+testis development trait
+satellite cell quantity
+adrenergic chromaffin cell morphology trait
+milk secretion trait
+coronal suture morphology trait
+lambdoid suture morphology trait
+metopic suture morphology trait
+sagittal suture morphology trait
+squamosal suture morphology trait
+lens bow organization trait
+thymocyte activation trait
+skin water amount
+forelimb stylopod morphology trait
+forelimb zeugopod morphology trait
+hindlimb stylopod morphology trait
+hindlimb zeugopod morphology trait
+harderian gland physiology trait
+nervous system development trait
+midbrain development trait
+myelin sheath morphology trait
+cerebrum physiology trait
+serotonergic neuron morphology trait
+ear physiology trait
+hair cell physiology trait
+central pattern generator physiology trait
+nephron morphology trait
+stomach size trait
+rostral - caudal body axis extension trait
+embryonic epiblast morphology trait
+hepatocyte apoptosis trait
+embryonic - extraembryonic boundary morphology trait
+gastric gland morphology trait
+hepatocyte proliferation trait
+purkinje cell innervation pattern trait
+aorta elastin amount
+heart right ventricle morphology trait
+heart left ventricle morphology trait
+tooth hard tissue morphology trait
+molar crown morphology trait
+cementum morphology trait
+pancreas development trait
+craniofacial development trait
+reproductive system development trait
+ear development trait
+myotome morphology trait
+dermatome morphology trait
+skin development trait
+urinary system development trait
+hepatobiliary system development trait
+lymphocyte physiology trait
+cholesterol amount
+blood lipid amount
+copper homeostasis trait
+copper amount
+reichert's membrane morphology trait
+ultimobranchial body morphology trait
+endocardium morphology trait
+blood carnitine amount
+embryonic growth trait
+cochlear ganglion size trait
+vestibular ganglion size trait
+barrel cortex morphology trait
+ventral spinal root morphology trait
+dorsal spinal root morphology trait
+jejunum morphology trait
+intestinal smooth muscle contractility trait
+jejunal smooth muscle contractility trait
+lung blood vessel morphology trait
+gaba - mediated receptor current
+amniotic fluid amount
+rod electrophysiology trait
+cone electrophysiology trait
+interventricular groove morphology trait
+sublingual gland morphology trait
+ph regulation trait
+milk trait
+kidney sympathetic nerve activity
+periocular mesenchyme morphology trait
+heart right atrium capacity
+heart left atrium capacity
+primitive node morphology trait
+heart ventricle trabeculae morphology trait
+muscle spindle morphology trait
+schwann cell precursor morphology trait
+schwann cell precursor quantity
+vitelline vascular remodeling trait
+striatum morphology trait
+caudate nucleus morphology trait
+putamen morphology trait
+nucleus accumbens morphology trait
+globus pallidus morphology trait
+habenula morphology trait
+muscle cell morphology trait
+sarcoplasmic reticulum morphology trait
+sarcomere morphology trait
+z line morphology trait
+z line configuration trait
+m line morphology trait
+eyelash morphology trait
+midbrain - hindbrain boundary development trait
+cerebellar cortex morphology trait
+cerebellar granule cell morphology trait
+cerebellar glomerulus morphology trait
+spinal cord interneuron morphology trait
+brain interneuron morphology trait
+dorsal striatum morphology trait
+ventral striatum morphology trait
+eye shape trait
+thoracic duct morphology trait
+esophageal peristalsis trait
+sertoli cell development trait
+coronary artery morphology trait
+aortic arch morphology trait
+atrioventricular node morphology trait
+sinoatrial node morphology trait
+atrioventricular bundle morphology trait
+baroreceptor morphology trait
+sarcolemma morphology trait
+impulse conducting system morphology trait
+purkinje fiber morphology trait
+hypodermis thickness
+adipocyte morphology trait
+muscle cell glucose uptake trait
+embryonic cilia morphology trait
+thorax morphology trait
+mammary gland embryonic development trait
+tongue muscle morphology trait
+gastric surface mucous cell morphology trait
+mucous neck cell morphology trait
+gastric parietal cell morphology trait
+chief cell morphology trait
+enteroendocrine cell morphology trait
+muscle tone
+muscle electrophysiology trait
+porphyrin amount
+blood iron amount
+kidney tubule apoptosis trait
+mammillary body morphology trait
+adenophysis morphology trait
+neurohypophysis morphology trait
+lateral geniculate nucleus morphology trait
+limbic system morphology trait
+cingulate gyrus morphology trait
+parahippocampal gyrus morphology trait
+fornicate gyrus morphology trait
+orbitofrontal cortex morphology trait
+pallium development trait
+subpallium development trait
+intervertebral disk morphology trait
+vertebral column orientation trait
+spermiation trait
+sympathetic nervous system physiology trait
+baroreceptor physiology trait
+adipocyte glucose uptake trait
+area postrema morphology trait
+timing of embryo turning
+alveolar process morphology trait
+direction of embryo turning
+kidney pyramid morphology trait
+kidney papilla morphology trait
+kidney pelvis morphology trait
+kidney calyx morphology trait
+fetal growth trait
+cranial flexure morphology trait
+stapes size trait
+dermomyotome development trait
+sweet taste sensitivity trait
+bitter taste sensitivity trait
+sour taste sensitivity trait
+salty taste sensitivity trait
+umami taste sensitivity trait
+long bone diaphysis morphology trait
+peripheral nervous system regeneration trait
+iridocorneal angle morphology trait
+trabecular meshwork size trait
+canal of schlemm size trait
+embryonic erythropoiesis trait
+embryonic erythrocyte morphology trait
+masticatory muscle morphology trait
+masseter muscle morphology trait
+masseter muscle size trait
+pterygoid muscle morphology trait
+pterygoid muscle size trait
+temporalis muscle morphology trait
+temporalis muscle size trait
+plasmacytoid dendritic cell morphology trait
+motor nerve terminal sprouting trait
+spontaneous abortion trait
+extensor digitorum longus morphology trait
+epaxial muscle morphology trait
+crista ampullaris morphology trait
+heart tube looping direction
+spongiotrophoblast layer morphology trait  ( sensu rodentia )
+placenta maternal decidual layer morphology trait
+placenta mass
+placenta size trait
+embryonic neuroepithelium morphology trait
+physical strength trait
+limb posture trait
+extraembryonic tissue physiology trait
+placental transport trait
+placenta color
+optic tract morphology trait
+optic stalk morphology trait
+optic cup morphology trait
+paw / hand / foot / hoof morphology trait
+basement membrane morphology trait
+basal lamina morphology trait
+embryonic / fetal subventricular zone morphology trait
+postnatal subventricular zone morphology trait
+medial ganglionic eminence morphology trait
+lateral ganglionic eminence morphology trait
+caudal ganglionic eminence morphology trait
+oculomotor nucleus morphology trait
+hypoglossal nucleus morphology trait
+descemet membrane morphology trait
+internal auditory canal morphology trait
+spiral limbus morphology trait
+spiral ligament morphology trait
+bony labyrinth morphology trait
+stapes footpiece morphology trait
+conductive hearing physiology trait
+spiral ligament fibrocyte morphology trait
+type i spiral ligament fibrocyte morphology trait
+type ii spiral ligament fibrocyte morphology trait
+type iii spiral ligament fibrocyte morphology trait
+type iv spiral ligament fibrocyte morphology trait
+proprioceptive neuron morphology trait
+organ of corti supporting cell morphology trait
+deiters cell morphology trait
+hensen cell morphology trait
+rosenthal canal morphology trait
+rosenthal canal size trait
+basilar membrane morphology trait
+otic vesicle size trait
+otic vesicle cell quantity
+vestibulocochlear ganglion size trait
+saccule size trait
+sternum shape trait
+sternum length
+sternebra morphology trait
+sternum size trait
+vestibular hair cell quantity
+saccular macula morphology trait
+utricular macula morphology trait
+utricle size trait
+clavicle cell quantity
+clavicle size trait
+scapula length
+scapula size trait
+scapula bone cell quantity
+acromion morphology trait
+scapular spine morphology trait
+femur length
+humerus length
+deltoid tuberosity morphology trait
+radius length
+radius cell quantity
+tibia length
+tibia curvature trait
+ulna curvature trait
+stria vascularis size trait
+strial basal cell morphology trait
+strial marginal cell morphology trait
+strial intermediate cell morphology trait
+stria vascularis blood vessel morphology trait
+ulna length
+femur curvature trait
+fibula curvature trait
+humerus curvature trait
+radius curvature trait
+prechordal plate morphology trait
+respiratory bronchiole morphology trait
+bronchoalveolar duct junction morphology trait
+respiratory conducting tube morphology trait
+cd8 - positive t cell physiology trait
+cochlear inner hair cell morphology trait
+cochlear inner hair cell quantity
+cochlear outer hair cell morphology trait
+cochlear outer hair cell quantity
+cochlear hair cell quantity
+ampullary crest neuroepithelium morphology trait
+cochlear potential trait
+cochlear nerve compound action potential
+squama temporalis morphology trait
+otolith organ morphology trait
+cochlear labyrinth morphology trait
+vestibular labyrinth morphology trait
+type i vestibular cell morphology trait
+type ii vestibular cell morphology trait
+claudius cell morphology trait
+hair cell mechanoelectric transduction trait
+cochlear hair cell physiology trait
+cochlear inner hair cell physiology trait
+cochlear outer hair cell physiology trait
+cochlear outer hair cell electromotility trait
+vestibular hair cell physiology trait
+presphenoid bone morphology trait
+pterygoid process morphology trait
+pterygoid bone morphology trait
+orbitosphenoid morphology trait
+cochlear outer hair cell length
+zygomatic arch morphology trait
+oval window morphology trait
+round window morphology trait
+conjunctival epithelium morphology trait
+interdental cell morphology trait
+outer hair cell stereociliary bundle orientation trait
+inner hair cell stereociliary bundle orientation trait
+cochlea size trait
+blood anti - double stranded dna antibody amount
+blood anti - single stranded dna antibody amount
+blood anti - nuclear antigen antibody amount
+blood anti - histone antibody amount
+blood anti - erythrocyte antigen antibody amount
+class switch recombination trait
+blood anti - chromatin antibody amount
+t cell selection trait
+negative t cell selection trait
+positive t cell selection trait
+b cell morphology trait
+b - 1 b cell morphology trait
+regulatory t cell morphology trait
+b cell selection trait
+b cell positive selection trait
+b cell negative selection trait
+regulatory t cell physiology trait
+spleen mass
+thymus mass
+regulatory t cell quantity
+b - 1 b cell quantity
+b cell clonal deletion trait
+immune tolerance trait
+clonal deletion trait
+t cell clonal deletion trait
+lymphocyte anergy trait
+self tolerance trait
+osteoblast physiology trait
+bone mineral mass
+osteoblast development trait
+cd8 - positive t cell morphology trait
+early pro - b cell morphology trait
+late pro - b cell morphology trait
+immature b cell morphology trait
+trophectoderm morphology trait
+amnion morphology trait
+trophoblast layer morphology trait
+ectoplacental cone morphology trait
+trophoblast giant cell morphology trait
+anus morphology trait
+thymus cortex area
+eosinophil morphology trait
+neutrophil morphology trait
+natural killer cell morphology trait
+natural killer cell physiology trait
+natural killer cell cytolysis trait
+granulocyte migration trait
+granulocyte bactericidal activity
+cytotoxic t cell physiology trait
+cytotoxic t cell cytolysis trait
+dermis stratum reticulare morphology trait
+epidermis stratum lucidum morphology trait
+biliary tract morphology trait
+gall bladder morphology trait
+gall bladder physiology trait
+bile amount
+double - negative t cell quantity
+double - positive t cell quantity
+erythroblast quantity
+choroid morphology trait
+ciliary body morphology trait
+choroid pigmentation trait
+iris pigmentation trait
+tarsus morphology trait
+auditory ossicle morphology trait
+incus morphology trait
+stapes morphology trait
+ulna morphology trait
+talus morphology trait
+talus size trait
+anterior horn morphology trait
+anterior horn cell quantity
+blood pituitary hormone amount
+blood thyroid - stimulating hormone amount
+blood growth hormone amount
+blood prolactin amount
+blood vldl cholesterol amount
+gubernaculum morphology trait
+b cell proliferation trait
+ovary cell quantity
+urine protein amount
+female meiosis trait
+male meiosis trait
+blood testosterone amount
+blood estradiol amount
+blood progesterone amount
+penis morphology trait
+perineum length
+anterior eye segment morphology trait
+anterior uvea morphology trait
+posterior eye segment morphology trait
+posterior uvea morphology trait
+uvea morphology trait
+aqueous drainage system morphology trait
+retinal pigment epithelium morphology trait
+trabecular meshwork morphology trait
+canal of schlemm morphology trait
+eye anterior chamber morphology trait
+aqueous humor morphology trait
+aqueous vein morphology trait
+iris stroma morphology trait
+gastric mucosa morphology trait
+gastric mucosa thickness
+islet of langerhans morphology trait
+pancreatic alpha cell morphology trait
+pancreatic beta cell morphology trait
+pancreatic delta cell morphology trait
+exocrine pancreas morphology trait
+rostral - caudal axis patterning trait
+somite size trait
+rostral - caudal axis somite development trait
+left - right axis somite development trait
+vertebra development trait
+vertebral arch development trait
+vertebral body development trait
+vertebral body / neural arch fusion trait
+intervertebral disk development trait
+brachial lymph node morphology trait
+mesenteric lymph node morphology trait
+olfactory lobe morphology trait
+olfactory nerve morphology trait
+olfactory tract morphology trait
+bruch membrane morphology trait
+amacrine cell morphology trait
+retinal ganglion layer morphology trait
+orbit morphology trait
+extraocular muscle morphology trait
+harderian gland morphology trait
+palatine bone morphology trait
+sertoli cell quantity
+meibomian gland morphology trait
+eye physiology trait
+visual axis alignment trait
+intraocular pressure
+blood urea nitrogen amount
+olfactory cortex morphology trait
+occipital bone morphology trait
+zygomatic bone morphology trait
+lacrimal bone morphology trait
+temporal bone morphology trait
+cranial base morphology trait
+viscerocranium morphology trait
+skin tensile strength trait
+brainstem morphology trait
+cholesterol homeostasis trait
+adipose fatty acid amount
+adipose unsaturated fatty acid amount
+adipose saturated fatty acid amount
+heart ventricle morphology trait
+humerus morphology trait
+clavicle morphology trait
+eye posterior chamber morphology trait
+corneal stroma morphology trait
+corneal endothelium morphology trait
+urinary bladder physiology trait
+coagulating gland size trait
+phalanx morphology trait
+blood ammonia amount
+salivary gland physiology trait
+blood amino acid amount
+tactition trait
+kidney glomerulus morphology trait
+podocyte morphology trait
+mesangial cell morphology trait
+blood creatinine amount
+heart muscle morphology trait
+fat pad morphology trait
+gonadal fat pad morphology trait
+inguinal fat pad morphology trait
+retroperitoneal fat pad morphology trait
+lipid absorption trait
+blood corticosterone amount
+blood aldosterone amount
+patella morphology trait
+ilium morphology trait
+thyroid gland size trait
+incisor morphology trait
+incisor growth trait
+pituitary gland size trait
+langerhans cell physiology trait
+muscular system trait
+life span trait
+embryonic development trait
+head trait
+respiratory system trait
+reproductive system trait
+vision system trait
+nociception system trait
+olfactory system trait
+action potential trait
+nerve conduction trait
+axon morphology trait
+heart size trait
+fertilization trait
+blood protein amount
+blood hormone amount
+somatic nervous system physiology trait
+body movement coordination trait
+macrophage quantity
+oocyte quantity
+pro - b cell morphology trait
+blood glycogen amount
+cerebral cortex pyramidal cell morphology trait
+ethanol metabolism trait
+retinol metabolism trait
+neurotransmitter release trait
+synaptic epinephrine release trait
+synaptic norepinephrine release trait
+energy balance trait
+energy expenditure trait
+adipose amount
+leukopoiesis trait
+dendritic cell morphology trait
+mast cell development trait
+cd4 - positive t cell physiology trait
+platelet physiology trait
+t - helper 1 physiology trait
+t - helper 2 physiology trait
+blood thyroxine amount
+blood triiodothyronine amount
+bronchial epithelial cell quantity
+club cell quantity
+stomach epithelial cell quantity
+macrophage recruitment trait
+olfactory system morphology trait
+gustatory system morphology trait
+skin physiology trait
+urinary system physiology trait
+tendon morphology trait
+ligament morphology trait
+blood atrial natriuretic factor amount
+kidney plasma flow trait
+body temperature trait
+cerebral aqueduct morphology trait
+iris stromal pigmentation trait
+cornea thickness trait
+lens development trait
+muller cell morphology trait
+eye electrophysiology trait
+blood total protein amount
+renin activity
+enzyme / coenzyme activity trait
+meckel's cartilage development trait
+blood vessel smooth muscle morphology trait
+blood vessel smooth muscle contractility trait
+blood vessel smooth muscle dilation trait
+blood vessel smooth muscle physiology trait
+neuron size trait
+blood antidiuretic hormone amount
+meninges morphology trait
+lung mass
+mineral homeostasis trait
+iron homeostasis trait
+hypothalamus physiology trait
+pituitary gland physiology trait
+sex gland physiology trait
+limb bud morphology trait
+gonad rudiment morphology trait
+neural plate morphology trait
+blood epinephrine amount
+blood norepinephrine amount
+adipose physiology trait
+blood leptin amount
+arterial trunk division extent
+gall bladder size trait
+corneal epithelium morphology trait
+interneuron morphology trait
+interneuron quantity
+sensory neuron quantity
+basal ganglion morphology trait
+neurogenesis trait
+neuron migration trait
+endolymphatic duct morphology trait
+endolymphatic sac size trait
+tympanic membrane morphology trait
+tympanic membrane size trait
+tympanic ring size trait
+reissner membrane morphology trait
+reissner membrane size trait
+terminal bronchiole tube size trait
+respiratory alveolus development
+bronchiole branching trait
+sclerotome morphology trait
+otic vesicle morphology trait
+branchial pouch morphology trait
+ureteric bud morphology trait
+external auditory canal morphology trait
+urine myoglobin amount
+blood vessel endothelial cell morphology trait
+blood vessel endothelial cell quantity
+heart atrium symmetry
+vena cava morphology trait
+inferior vena cava morphology trait
+superior vena cava morphology trait
+heart orientation trait
+horizontal cell morphology trait
+retinal neuronal layer morphology trait
+retinal photoreceptor quantity
+retinal progenitor cell development trait
+retinal bipolar cell morphology trait
+retinal rod bipolar cell morphology trait
+retinal cone bipolar cell morphology trait
+blood homocysteine amount
+nipple morphology trait
+blood vessel elastic tissue morphology trait
+blood phospholipid amount
+saccule morphology trait
+utricle morphology trait
+olfactory epithelium morphology trait
+olfactory neuron morphology trait
+retinal bipolar cell quantity
+cerebellum lobule development trait
+granule layer thickness
+tegmentum morphology trait
+tegmentum size trait
+midbrain roof plate morphology trait
+tectum morphology trait
+tectum size trait
+atrioventricular canal morphology trait
+hindbrain development trait
+heart septum morphology trait
+outflow tract development trait
+great vessel orientation trait
+cornea curvature trait
+eyelid thickness
+epicanthal fold morphology trait
+myeloid dendritic cell morphology trait
+isthmic organizer morphology trait
+choroid size trait
+conjunctival blood vessel morphology trait
+eyeball orientation trait
+vertical eye alignment trait
+orbit size trait
+orbit width
+orbit depth
+orbit symmetry
+optic disc morphology trait
+optic disc size trait
+optic nerve fiber quantity
+iris cell quantity
+iris development trait
+iris size trait
+iris stroma cell quantity
+pupil quantity
+choroid blood vessel morphology trait
+pupil orientation trait
+lens orientation trait
+line of schwalbe morphology trait
+ability to open eyelids
+gustatory papillae morphology trait
+fungiform papillae morphology trait
+circumvallate papillae morphology trait
+foliate papillae morphology trait
+gustatory papillae taste bud morphology trait
+urine sodium amount
+autonomic nervous system physiology trait
+parasympathetic nervous system physiology trait
+limb development trait
+digit development trait
+tail development trait
+posterior horn morphology trait
+memory t cell morphology trait
+t cell quantity
+t cell apoptosis trait
+heart apex orientation trait
+atrioventricular cushion morphology trait
+atrioventricular cushion size trait
+atrioventricular cushion thickness
+atrioventricular canal formation extent
+atrioventricular canal configuration trait
+interatrial septum configuration trait
+cardiomyocyte quantity
+mitral valve configuration trait
+tricuspid valve configuration trait
+aortic valve configuration trait
+pulmonary valve configuration trait
+heart left atrium configuration trait
+heart left atrium mass
+heart right atrium mass
+heart mass
+heart left ventricle capacity
+heart left ventricle mass
+heart right ventricle capacity
+heart right ventricle mass
+pericardium orientation trait
+atrioventricular cushion orientation trait
+heart tube orientation trait
+aorta configuration trait
+aorta elastic tissue molecular composition trait
+aortic arch configuration trait
+heart left ventricle wall thickness
+interatrial septum morphology trait
+heart ventricle septum morphology trait
+heart ventricle septum configuration trait
+heart ventricle septum thickness
+heart left ventricle posterior wall thickness
+heart right ventricle wall thickness
+heart right ventricle posterior wall thickness
+aorta size trait
+aorta root width
+dermis mast cell morphology trait
+nk t cell morphology trait
+t cell morphology trait
+nk t cell quantity
+nk t cell physiology trait
+natural killer cell quantity
+memory t cell quantity
+memory t cell physiology trait
+natural killer cell development trait
+uterine natural killer cell morphology trait
+cd4 - positive t cell quantity
+cd4 - positive t cell development trait
+cd8 - positive t cell quantity
+cd8 - positive t cell development trait
+single - positive t cell quantity
+t - helper 1 cell quantity
+t - helper 1 cell differentiation trait
+t - helper 2 cell quantity
+t - helper 2 cell differentiation trait
+memory b cell quantity
+memory b cell development trait
+plasma cell quantity
+plasma cell development trait
+granulocyte development trait
+monocyte development trait
+macrophage development trait
+kupffer cell morphology trait
+dendritic cell development trait
+langerhans cell morphology trait
+langerhans cell quantity
+myeloid dendritic cell quantity
+plasmacytoid dendritic cell quantity
+dendritic cell quantity
+peyer's patch quantity
+peyer's patch size trait
+b - 1a b cell morphology trait
+b - 1b b cell morphology trait
+b - 2 b cell morphology trait
+b - 1a b cell quantity
+b - 1b b cell quantity
+mature b cell morphology trait
+follicular b cell morphology trait
+follicular b cell quantity
+germinal center b cell morphology trait
+germinal center b cell quantity
+marginal zone b cell morphology trait
+marginal zone b cell quantity
+naive b cell morphology trait
+naive b cell quantity
+transitional stage b cell morphology trait
+transitional stage b cell quantity
+follicular b cell physiology trait
+germinal center b cell physiology trait
+marginal zone b cell physiology trait
+memory b cell physiology trait
+antigen presenting cell morphology trait
+follicular dendritic cell morphology trait
+follicular dendritic cell physiology trait
+follicular dendritic cell antigen presentation trait
+follicular dendritic cell quantity
+b - 2 b cell quantity
+pro - b cell quantity
+pre - b cell quantity
+mature b cell quantity
+immature b cell quantity
+b cell activation trait
+pro - b cell development trait
+spleen marginal zone macrophage morphology trait
+metallophilic macrophage morphology trait
+perivascular macrophage morphology trait
+peritoneal macrophage morphology trait
+alveolar macrophage morphology trait
+leukocyte morphology trait
+mononuclear phagocyte morphology trait
+common lymphoid progenitor morphology trait
+phagocyte morphology trait
+multinucleated phagocyte morphology trait
+gamma - delta t cell morphology trait
+mature gamma - delta t cell morphology trait
+gamma - delta t cell quantity
+gamma - delta intraepithelial t cell morphology trait
+gamma - delta intraepithelial t cell quantity
+mature gamma - delta t cell quantity
+gamma - delta t cell development trait
+cd4 - positive ,  gamma - delta intraepithelial t cell morphology trait
+cd8 - positive ,  gamma - delta intraepithelial t cell morphology trait
+cd4 - positive ,  cd25 - positive ,  alpha - beta regulatory t cell morphology trait
+cd8 - positive ,  alpha - beta regulatory t cell morphology trait
+alpha - beta intraepithelial t cell morphology trait
+cd4 - positive ,  alpha - beta intraepithelial t cell morphology trait
+cd8 - positive ,  alpha - beta intraepithelial t cell morphology trait
+peripheral lymph node morphology trait
+mesenteric lymph node size trait
+spleen b cell follicle morphology trait
+spleen primary b follicle morphology trait
+spleen secondary b follicle morphology trait
+spleen follicular dendritic cell network morphology trait
+spleen germinal center quantity
+spleen germinal center size trait
+blood immunoglobulin g1 amount
+blood immunoglobulin g2a amount
+blood immunoglobulin g2b amount
+blood immunoglobulin g3 amount
+lymph node germinal center morphology trait
+cervical lymph node size trait
+blood interferon amount
+blood interferon - alpha amount
+blood interferon - beta amount
+blood interferon - gamma amount
+blood tumor necrosis factor amount
+interferon secretion trait
+tumor necrosis factor secretion trait
+interferon - alpha secretion trait
+interferon - beta secretion trait
+interferon - gamma secretion trait
+interleukin secretion trait
+blood interleukin amount
+blood interleukin - 1 amount
+blood interleukin - 10 amount
+blood interleukin - 6 amount
+blood interleukin - 2 amount
+blood interleukin - 4 amount
+blood interleukin - 7 amount
+blood interleukin - 13 amount
+blood interleukin - 15 amount
+blood interleukin - 17 amount
+blood interleukin - 12 amount
+blood interleukin - 23 amount
+blood interleukin - 3 amount
+blood interleukin - 5 amount
+blood interleukin - 9 amount
+blood interleukin - 16 amount
+blood interleukin - 18 amount
+blood interleukin - 1 alpha amount
+blood interleukin - 1 beta amount
+blood interleukin - 12a amount
+blood interleukin - 12b amount
+blood interleukin - 23a amount
+interleukin - 1 secretion trait
+interleukin - 1 alpha secretion trait
+interleukin - 1 beta secretion trait
+interleukin - 10 secretion trait
+interleukin - 12 secretion trait
+interleukin - 12a secretion trait
+interleukin - 12b secretion trait
+interleukin - 13 secretion trait
+interleukin - 15 secretion trait
+interleukin - 16 secretion trait
+interleukin - 17 secretion trait
+interleukin - 18 secretion trait
+interleukin - 2 secretion trait
+interleukin - 23 secretion trait
+interleukin - 23a secretion trait
+interleukin - 3 secretion trait
+interleukin - 4 secretion trait
+interleukin - 5 secretion trait
+interleukin - 6 secretion trait
+interleukin - 7 secretion trait
+interleukin - 9 secretion trait
+cytokine amount
+neutrophil recruitment trait
+neutrophil migration trait
+chemokine amount
+eosinophil recruitment trait
+eosinophil migration trait
+spleen physiology trait
+spleen iron amount
+b cell anergy trait
+central b cell anergy trait
+peripheral b cell anergy trait
+t cell anergy trait
+central t cell anergy trait
+peripheral t cell anergy trait
+interferon amount
+interleukin amount
+tumor necrosis factor amount
+t cell receptor v ( d ) j recombination trait
+immunoglobulin v ( d ) j recombination trait
+t cell receptor alpha chain v - j recombination trait
+t cell receptor gamma chain v - j recombination trait
+t cell receptor beta chain v ( d ) j recombination trait
+t cell receptor delta chain v ( d ) j recombination trait
+immunoglobulin heavy chain v ( d ) j recombination trait
+immunoglobulin light chain v - j recombination trait
+b cell receptor editing trait
+plasmacytoid dendritic cell physiology trait
+lymphangiogenesis trait
+b cell apoptosis trait
+uterine natural killer cell quantity
+intraepithelial t cell morphology trait
+intraepithelial t cell quantity
+blood immunoglobulin g2c amount
+interleukin - 21 secretion trait
+blood interleukin - 21 amount
+thymocyte apoptosis trait
+spleen development trait
+splenocyte morphology trait
+splenocyte physiology trait
+splenocyte proliferation trait
+splenocyte apoptosis trait
+hassall's corpuscle morphology trait
+thymus corticomedullary boundary morphology trait
+thymus epithelium morphology trait
+inguinal lymph node size trait
+abdominal lymph node morphology trait
+celiac lymph node morphology trait
+submandibular lymph node morphology trait
+brachial lymph node size trait
+axillary lymph node size trait
+popliteal lymph node size trait
+cellular extravasation trait
+transitional stage t1 b cell morphology trait
+transitional stage t2 b cell morphology trait
+transitional stage t3 b cell morphology trait
+transitional stage t1 b cell quantity
+transitional stage t2 b cell quantity
+mammary gland progenitor cell quantity
+mammary gland size trait
+bone morphology trait
+milk flow trait
+bone development trait
+adipose molecular composition trait
+skin adnexa morphology trait
+skin adnexa development trait
+femur mass
+femur strength trait
+femur mineral mass
+humerus strength trait
+humerus mass
+femur circumference
+tibia mass
+adipocyte quantity
+white adipose mass
+mammary gland symmetry
+epididymis mass
+seminiferous tubule diameter
+muscle molecular composition trait
+metacarpus length
+forelimb length
+hindlimb length
+milk fatty acid c12:1 ( n - 3 )  amount
+milk fatty acid c15:0 amount
+milk fatty acid c24:0 amount
+milk total protein amount
+milk alpha - lactalbumin amount
+udder height
+immune serum protein secretion trait
+chemokine secretion trait
+complement protein amount
+immune serum protein amount
+acute phase protein amount
+c - reactive protein amount
+serum amyloid protein amount
+adrenergic nerve fiber quantity
+adrenergic nerve fiber organization trait
+lymphatic system physiology trait
+cholinergic nerve fiber organization trait
+sperm morphology trait
+ovarian follicle physiology trait
+intramuscular adipose amount
+subcutaneous adipose amount
+fatty acid amount
+tendon physiology trait
+muscle saturated fatty acid amount
+muscle unsaturated fatty acid amount
+muscle fatty acid c17:0 amount
+muscle fatty acid c14:0 amount
+muscle fatty acid c16:0 amount
+muscle fatty acid c18:0 amount
+muscle fatty acid trans - 11 - c18:1 amount
+muscle fatty acid c20:2 amount
+muscle fatty acid cis - 11 - c20:1 amount
+muscle fatty acid cis - 9 , cis - 12 - c18:2 amount
+muscle fatty acid c18:3 n - 3 amount
+muscle fatty acid cis - 9 - c18:1 amount
+muscle fatty acid cis - 9 - c16:1 amount
+brown adipocyte morphology trait
+cholinergic nerve fiber quantity
+visceral adipose mass
+connective tissue physiology trait
+connective tissue development trait
+henle's loop morphology trait
+convoluted tubule morphology trait
+kidney collecting duct morphology trait
+proximal convoluted tubule morphology trait
+distal convoluted tubule morphology trait
+lymphatic system morphology trait
+lymphatic system development trait
+esophagus length
+enteric cholinergic nerve fiber quantity
+occipitomastoid suture morphology trait
+parietomastoid suture morphology trait
+sphenofrontal suture morphology trait
+sphenoparietal suture morphology trait
+sphenozygomatic suture morphology trait
+skeletal muscle physiology trait
+maxillary sinus morphology trait
+zygomatic process of maxilla morphology trait
+frontal process of maxilla morphology trait
+long lived plasma cell morphology trait
+short lived plasma cell morphology trait
+vertebral column morphology trait
+ischium morphology trait
+pubis morphology trait
+shoulder girdle morphology trait
+pelvic girdle morphology trait
+appendicular skeleton morphology trait
+thoracic cage morphology trait
+costal cartilage morphology trait
+osteoblast morphology trait
+osteoclast morphology trait
+osteoblast quantity
+osteocyte morphology trait
+osteoclast quantity
+enteric cholinergic nerve fiber organization trait
+lacrimal gland cholinergic nerve fiber organization trait
+medullary cavity development trait
+vertebral column development trait
+parotid salivary gland cholinergic nerve fiber organization trait
+forelimb long bone morphology trait
+hindlimb long bone morphology trait
+limb muscle morphology trait
+hindlimb muscle morphology trait
+hippocampus pyramidal cell morphology trait
+hippocampus pyramidal cell quantity
+heart muscle physiology trait
+smooth muscle physiology trait
+intercalated disc morphology trait
+masticatory muscle size trait
+intercostal muscle size trait
+diaphragm size trait
+pectoralis muscle size trait
+longissimus thoracis size trait
+muscle cellular composition trait
+skeletal muscle cellular composition trait
+protein amount
+sublingual salivary gland cholinergic nerve fiber organization trait
+somite morphology trait
+lacrimal gland cholinergic nerve fiber quantity
+parotid salivary gland cholinergic nerve fiber quantity
+celiac lymph node size trait
+sublingual salivary gland cholinergic nerve fiber quantity
+bursa of fabricius size trait
+sensory nerve fiber quantity
+esophagus mass
+dn1 thymic pro - t cell quantity
+cecum mass
+dn2 thymocyte quantity
+gizzard capacity
+dn3 thymocyte quantity
+gizzard muscle thickness
+dn4 thymocyte quantity
+sensory nerve fiber organization trait
+lymphatic vessel cell quantity
+immune response trait
+small intestine mass
+optic nerve fiber organization trait
+nerve fiber organization trait
+nerve fiber quantity
+pancreas mass
+rectum mass
+mannose - binding protein physiology trait
+inflammatory mediator physiology trait
+merkel's receptor nerve fiber organization trait
+chemokine physiology trait
+merkel's receptor nerve fiber quantity
+purkinje cell nerve fiber quantity
+chemotactic interleukin physiology trait
+interleukin - 8 physiology trait
+purkinje cell nerve fiber organization trait
+cochlear inner hair cell afferent nerve fiber organization trait
+cytokine physiology trait
+cochlear inner hair cell efferent nerve fiber organization trait
+interferon physiology trait
+interleukin physiology trait
+tumor necrosis factor - alpha physiology trait
+interleukin - 1 physiology trait
+interleukin - 10 physiology trait
+interleukin - 2 physiology trait
+interleukin - 6 physiology trait
+interleukin - 2 activity
+induced interleukin - 2 activity
+complement protein physiology trait
+c1 physiology trait
+c2 physiology trait
+c3 physiology trait
+c4 physiology trait
+c5 physiology trait
+c6 physiology trait
+c7 physiology trait
+c8 physiology trait
+c9 physiology trait
+factor b physiology trait
+factor d physiology trait
+immune system development trait
+bone marrow cell development trait
+myeloblast development trait
+blood cell development trait
+platelet morphology trait
+lymphocyte proliferation trait
+cochlear inner hair cell afferent nerve fiber quantity
+cochlear inner hair cell efferent nerve fiber quantity
+meissner's corpuscle nerve fiber quantity
+meissner's corpuscle nerve fiber organization trait
+muscle nerve fiber organization trait
+basophil development trait
+immune system cell quantity
+cd4 - negative ,  cd8 - negative ,  alpha - beta intraepithelial t cell morphology trait
+colon length
+colon mass
+intestine length
+intestine mass
+duodenum length
+duodenum mass
+stomach capacity
+stomach mass
+stomach muscle thickness
+stomach epithelium thickness
+proventriculus morphology trait
+proventriculus capacity
+proventriculus mass
+proventriculus mucosa thickness
+duodenum muscle thickness
+duodenum mucosa thickness
+duodenum villi length
+duodenum crypt of lieberkuhn depth
+duodenum crypt of lieberkuhn width
+jejunum length
+jejunum mass
+jejunum muscle thickness
+jejunum mucosa thickness
+jejunum villi length
+jejunum crypt of lieberkuhn depth
+jejunum crypt of lieberkuhn width
+large intestine length
+large intestine mass
+duodenum mucosa morphology trait
+jejunum mucosa morphology trait
+ileum mucosa morphology trait
+ileum length
+ileum mass
+ileum muscle thickness
+ileum mucosa thickness
+ileum villi length
+ileum crypt of lieberkuhn depth
+ileum crypt of lieberkuhn width
+colon muscle thickness
+colon mucosa thickness
+cecum muscle thickness
+cecum mucosa thickness
+forestomach morphology trait
+forestomach capacity
+forestomach mass
+crop morphology trait
+crop mass
+reticulo - rumen morphology trait
+reticulo - rumen capacity
+reticulo - rumen mass
+reticulo - rumen epithelium thickness
+rumen papillae morphology trait
+omasum morphology trait
+omasum capacity
+omasum mass
+hemolymphoid system trait
+blood cell physiology trait
+hematopoietic system morphology trait
+hemolymphoid system development trait
+hemolymphoid system morphology trait
+hemolymphoid system physiology trait
+hematopoietic system physiology trait
+hematopoietic system development trait
+colostrum trait
+colostrum immunoglobulin amount
+colostrum immunoglobulin a amount
+colostrum immunoglobulin g amount
+colostrum immunoglobulin m amount
+milk fat amount
+muscle nerve fiber quantity
+erythrocyte precursor morphology trait
+colostrum amount
+colostrum somatic cell quantity
+milk beta - lactoglobulin amount
+milk whey acidic protein amount
+milk lactoferrin amount
+colostrum hormone amount
+colostrum steroid amount
+colostrum leptin amount
+colostrum prolactin amount
+colostrum growth factor amount
+milk hormone amount
+milk steroid amount
+milk leptin amount
+milk prolactin amount
+milk growth factor amount
+milk casein amount
+milk alpha - s1 - casein amount
+milk alpha - s2 - casein amount
+milk kappa - casein amount
+milk beta - casein amount
+milk nitrogen amount
+motor nerve fiber organization trait
+milk lactose amount
+milk mineral amount
+motor nerve fiber quantity
+milk calcium amount
+milk potassium amount
+milk sodium amount
+milk phosphorus amount
+milk chloride amount
+milk magnesium amount
+sympathetic nerve fiber quantity
+sympathetic nerve fiber organization trait
+heart ventricle size trait
+angiogenesis
+vasculogenesis
+heart physiology trait
+blood uric acid amount
+milk fatty acid amount
+milk saturated fatty acid amount
+milk unsaturated fatty acid amount
+milk fatty acid c4:0 amount
+milk fatty acid c5:0 amount
+milk fatty acid c6:0 amount
+milk fatty acid c7:0 amount
+milk fatty acid c8:0 amount
+milk fatty acid c9:0 amount
+milk fatty acid c10:0 amount
+milk fatty acid c11:0 amount
+milk fatty acid c12:0 amount
+milk fatty acid c14:0 amount
+milk fatty acid c16:0 amount
+milk fatty acid c17:0 amount
+milk fatty acid c18:0 amount
+milk fatty acid c20:0 amount
+milk fatty acid c22:0 amount
+milk trans fatty acid amount
+milk omega - 3 fatty acid amount
+milk omega - 6 fatty acid amount
+milk conjugated linoleic acid amount
+milk fatty acid cis - 9 , cis - 12 - c18:2 amount
+milk fatty acid cis - 9 - c14:1 amount
+milk fatty acid cis - 11 - c16:1 amount
+milk fatty acid cis - 9 - c17:1 amount
+milk fatty acid trans - 11 - c18:1 amount
+milk fatty acid trans - 4 - c18:1 amount
+milk fatty acid trans - 5 - c18:1 amount
+milk fatty acid trans - 6 - 8 - c18:1 amount
+milk fatty acid trans - 9 - c18:1 amount
+milk fatty acid trans - 10 - c18:1 amount
+milk fatty acid trans - 13 - 14 - c18:1 amount
+milk fatty acid cis - 14 / trans - 16 - c18:1 amount
+milk fatty acid cis - 11 - c18:1 amount
+milk fatty acid cis - 12 - c18:1 amount
+milk fatty acid cis - 13 - c18:1 amount
+milk fatty acid cis - 15 - c18:1 amount
+milk fatty acid cis - 9 , trans - 13 - c18:2 amount
+milk fatty acid cis - 9 , trans - 12 - c18:2 amount
+milk fatty acid trans - 9 , cis - 12 - c18:2 amount
+milk fatty acid trans - 9 , trans - 12 - c18:2 amount
+milk fatty acid trans - 9 , trans - 14 - c18:2 amount
+milk fatty acid trans - 11 , cis - 15 - c18:2 amount
+milk fatty acid trans - 11 , trans - 15 - c18:2 amount
+milk fatty acid cis - 9 , cis - 11 - c18:2 amount
+milk fatty acid cis - 9 , trans - 11 - c18:2 amount
+milk fatty acid cis - 12 , trans - 14 - c18:2 amount
+milk fatty acid trans - 7 , cis - 9 - c18:2 amount
+milk fatty acid trans - 8 , cis - 10 - c18:2 amount
+milk fatty acid trans - 9 , cis - 11 - c18:2 amount
+milk fatty acid trans - 10 , cis - 12 - c18:2 amount
+milk fatty acid trans - 11 , cis - 13 - c18:2 amount
+milk fatty acid trans - 12 , cis - 14 - c18:2 amount
+milk fatty acid trans - 7 , trans - 9 - c18:2 amount
+milk fatty acid trans - 8 , trans - 10 - c18:2 amount
+milk fatty acid trans - 9 , trans - 11 - c18:2 amount
+milk fatty acid trans - 10 , trans - 12 - c18:2 amount
+milk fatty acid trans - 11 , trans - 13 - c18:2 amount
+milk fatty acid trans - 12 , trans - 14 - c18:2 amount
+milk fatty acid cis - 8 - c20:1 amount
+milk fatty acid cis - 11 - c20:1 amount
+milk fatty acid c20:4 ( n - 6 )  amount
+milk fatty acid c20:5 ( n - 3 )  amount
+milk fatty acid c22:5 ( n - 3 )  amount
+milk fatty acid c22:6 ( n - 3 )  amount
+milk fatty acid c18:3 ( n - 3 )  amount
+milk fatty acid c20:2 amount
+milk fatty acid cis - 9 - c18:1 amount
+milk fatty acid cis - 9 - c16:1 amount
+milk monounsaturated fatty acid amount
+milk polyunsaturated fatty acid amount
+ovary diameter
+milk soluble calcium amount
+milk free calcium amount
+milk colloidal calcium amount
+milk epithelial cell quantity
+milk beta - carotene amount
+milk retinol amount
+milk triglyceride amount
+milk cholesterol amount
+oviduct length
+milk diacylglycerol amount
+milk monoacylglycerol amount
+milk phospholipid amount
+milk polyphenol amount
+milk butyrophilin amount
+milk xanthine oxidoreductase amount
+milk adipophilin amount
+milk mucin 1 amount
+milk cd36 molecule amount
+uterine horn morphology trait
+endometrium thickness
+milk stomatin amount
+milk fat globule - egf factor 8 protein amount
+milk plasmin amount
+milk urea amount
+milk ammonia amount
+ovarian follicle size trait
+corpus luteum size trait
+cervical opening shape trait
+cervical fold quantity
+sperm size trait
+sperm flagellum size trait
+sperm head size trait
+bulbourethral gland physiology trait
+placenta physiology trait
+gonadotropin - releasing hormone secretion trait
+secretion by placenta trait
+chorionic gonadotropin secretion trait
+luteinizing hormone secretion trait
+follicle - stimulating hormone secretion trait
+prolactin secretion trait
+seminal gland physiology
+leukocyte proliferation trait
+cd8 - positive ,  cd25 - positive ,  alpha - beta regulatory t cell morphology trait
+cd8 - positive ,  cd25 - positive ,  alpha - beta regulatory t cell quantity
+adrenal gland mass
+epididymal fat pad mass
+femoral fat pad mass
+gonadal fat pad mass
+inguinal fat pad mass
+interscapular fat pad mass
+mammary fat pad mass
+mesenteric fat pad mass
+parametrial fat pad mass
+renal fat pad mass
+retroperitoneal fat pad mass
+uterine fat pad mass
+milk fatty acid cis - 14 - c18:1 amount
+milk fatty acid trans - 16 - c18:1 amount
+response to infection trait
+response to bacterial infection trait
+response to fungal infection trait
+response to parasitic infection trait
+response to prion infection trait
+response to viral infection trait
+bacteria quantity
+parasite quantity
+behavior trait
+cerebrospinal fluid homeostasis trait
+kinesthetic behavior trait
+social interaction trait
+nesting behavior trait
+emission behavior trait
+forelimb muscle mass
+hindlimb muscle mass
+cognitive behavior trait
+stress - related behavior trait
+heterospecific interaction trait
+abdominal wall mass
+rhythmic behavior trait
+cerebrospinal fluid mineral amount
+platelet size trait
+outer ear area
+behavioral response to novel environment trait
+behavioral response to novel food trait
+excretion behavior trait
+defecation behavior trait
+coat / hair pigmentation trait
+fertility trait
+adipocyte free fatty acid secretion trait
+prostate mass
+lateral prostate mass
+ventral prostate mass
+pancreas molecular composition trait
+pancreas insulin amount
+exploratory behavior trait
+compulsivity behavior trait
+impulsivity behavior trait
+blood non - hdl cholesterol amount
+blood amylase amount
+blood glutamate dehydrogenase amount
+blood lactate dehydrogenase amount
+blood lipase amount
+blood insulin - like growth factor amount
+blood osteocalcin amount
+blood immunoglobulin m amount
+body fat mass
+body lean mass
+serotonin amount
+venous return trait
+cardiac output trait
+response to xenobiotic stimulus trait
+response to addictive substance trait
+response to alcohol trait
+aorta blood flow trait
+heart left ventricle anterior wall thickness
+heart left ventricle diameter
+heart left atrium diameter
+lumbar vertebra morphology trait
+inguinal lymph node mass
+pituitary gland mass
+liver molecular composition trait
+liver cholesterol amount
+calcium amount
+platelet calcium amount
+islet of langerhans physiology trait
+urine catecholamine amount
+blood idl cholesterol amount
+blood hdl phospholipid amount
+blood ldl phospholipid amount
+blood idl phospholipid amount
+blood vldl phospholipid amount
+neurocranium mass
+neurocranium mineral mass
+lumbar vertebra mass
+lumbar vertebra mineral mass
+histocompatibility type
+blood ferritin amount
+blood transferrin amount
+blood fibronectin amount
+blood glutathione amount
+neurocranium size trait
+lumbar vertebra size trait
+liver triglyceride amount
+spleen periarteriolar lymphoid sheath cell quantity
+spleen b cell follicle cell quantity
+axillary lymph node cell quantity
+cervical lymph node cell quantity
+seminal gland mass
+blood vessel smooth muscle cell quantity
+aorta physiology trait
+associative learning trait
+avoidance learning behavior trait
+contextual fear conditioning behavior trait
+cued fear conditioning behavior trait
+operant conditioning behavior trait
+active avoidance behavior trait
+passive avoidance behavior trait
+erythrocyte ion transport trait
+erythrocyte ion amount
+rostral migratory stream morphology trait
+lateral septum morphology trait
+lateral septum size trait
+urine potassium amount
+urine creatinine amount
+orosomucoid 1 amount
+enamel thickness
+catecholamine amount
+kidney glomerulus quantity
+blood adiponectin amount
+kidney glomerulus integrity trait
+liver integrity trait
+joint integrity trait
+cerebrum integrity trait
+hypodermis integrity trait
+uvea integrity trait
+mammary gland integrity trait
+tongue integrity trait
+intestine integrity trait
+thymus integrity trait
+aorta elastic tissue integrity trait
+brain electrophysiology trait
+kidney molecular composition trait
+kidney renin amount
+pancreas integrity trait
+heart left ventricle molecular composition trait
+forelimb integrity trait
+hindlimb integrity trait
+heart right ventricle dna amount
+heart left ventricle dna amount
+nervous system integrity trait
+thoracic aorta morphology trait
+thoracic aorta molecular composition trait
+quadriceps morphology trait
+lumbar vertebra area
+prostate integrity trait
+testis integrity trait
+vertebra strength trait
+lumbar vertebra strength trait
+uterus integrity trait
+urine epinephrine amount
+spinal cord molecular composition trait
+pituitary gland integrity trait
+brain integrity trait
+kidney integrity trait
+sterol amount
+blood sterol amount
+brain sterol amount
+liver sterol amount
+brain molecular composition trait
+brain cholesterol amount
+blood phytosterol amount
+blood campesterol amount
+blood sitosterol amount
+brain phytosterol amount
+brain campesterol amount
+brain sitosterol amount
+liver phytosterol amount
+liver campesterol amount
+liver sitosterol amount
+heart left ventricle natriuretic peptide a amount
+blood murinoglobulin 1 amount
+thoracic aorta cellular protein amount
+brain ventricle integrity trait
+aorta integrity trait
+stomach integrity trait
+urine chloride amount
+urine norepinephrine amount
+urine vanillylmandelic acid amount
+blood gamma - glutamyltransferase amount
+thyroid gland mass
+areola morphology trait
+areola quantity
+uterus mass
+cranium morphology trait
+cranium size trait
+cranium mineral mass
+blood lactate amount
+blood pyruvate amount
+urine creatine amount
+liver glutathione amount
+liver malondialdehyde amount
+urine taurine amount
+blood xenobiotic amount
+blood acetaminophen amount
+blood superoxide dismutase amount
+blood malondialdehyde amount
+blood vitamin amount
+blood vitamin a amount
+blood globulin amount
+bulbourethral gland mass
+blood glutathione peroxidase amount
+amino acid metabolism trait
+carbohydrate metabolism trait
+lipid metabolism trait
+peptide metabolism trait
+xenobiotic pharmacokinetics trait
+vitamin and cofactor metabolism trait
+energy metabolism trait
+xenobiotic metabolism trait
+artery integrity trait
+thoracic aorta integrity trait
+renal artery morphology trait
+renal artery integrity trait
+iliac artery morphology trait
+iliac artery integrity trait
+biceps brachii muscle mass
+biceps femoris muscle mass
+forelimb muscle morphology trait
+muscle glycogen amount
+adipose beta - carotene amount
+blood haptoglobin amount
+tyrosinase activity
+muscle mineral amount
+muscle iron amount
+muscle zinc amount
+feather length
+comb morphology trait
+comb size trait
+comb shape trait
+feather tract morphology trait
+feather tract width
+hoof pigmentation trait
+toll - like receptor 2 protein amount
+toll - like receptor 9 protein amount
+semimembranosus mass
+gluteus medius mass
+milk alpha - casein amount
+phagocytosis trait
+muscle dry matter amount
+longissimus thoracis width
+nadp +  - malate dehydrogenase activity
+tarsometatarsus morphology trait
+tarsometatarsus mass
+tarsometatarsus length
+tarsometatarsus circumference
+semimembranosus size trait
+semimembranosus width
+glycated serum protein amount
+adipose protein amount
+tarsometatarsus diameter
+glucose - 6 - phosphatase activity
+lactate dehydrogenase activity
+inguinal canal integrity trait
+abdominal wall integrity trait
+peritoneum morphology trait
+peritoneum pigmentation trait
+blood calcidiol amount
+response to heat trait
+milk osteopontin amount
+pericardial fat pad morphology trait
+pericardial fat pad mass
+subscapular fat pad morphology trait
+subscapular fat pad mass
+longissimus muscle morphology trait
+blood fructosamine amount
+blood ghrelin amount
+preovulatory follicle quantity
+blood chylomicron cholesterol amount
+blood hdl triglyceride amount
+blood ldl triglyceride amount
+blood vldl triglyceride amount
+blood chylomicron triglyceride amount
+blood lipoprotein particle size
+blood hdl particle size
+blood ldl particle size
+blood vldl particle size
+kidney glutathione amount
+kidney malondialdehyde amount
+sheltering behavior trait
+behavioral response to novel object trait
+milk copper amount
+milk iron amount
+milk manganese amount
+milk selenium amount
+milk zinc content
+fear - related behavior trait
+anxiety - related behavior trait
+response to amphetamine trait
+response to cocaine trait
+response to methamphetamine trait
+response to morphine trait
+response to nicotine trait
+withdrawal response to addictive substance trait
+conditioned place preference behavior trait
+urine ketone body amount
+startle reflex trait
+wildness behavior trait
+spatial reference memory trait
+discrimination learning trait
+olfactory discrimination memory trait
+locomotor coordination trait
+gait trait
+head movement trait
+trigeminal nerve integrity trait
+anorectal integrity trait
+urination behavior trait
+wound healing trait
+skin molecular composition trait
+skin mineral amount
+skin chloride amount
+skin potassium amount
+skin sodium amount
+blood cystatin amount
+blood cystatin c amount
+urine podocalyxin amount
+heart left ventricle integrity trait
+coronary artery integrity trait
+heart left ventricle interstitial collagen amount
+stereotypic behavior trait
+heart blood pressure trait
+heart left ventricular blood pressure trait
+response to methylenedioxymethamphetamine trait
+blood angiotensin ii amount
+urine urea amount
+kidney adrenomedullin amount
+heart molecular composition trait
+heart lactate dehydrogenase activity
+heart integrity trait
+heart left ventricle end - diastolic diameter
+heart left ventricle end - systolic diameter
+nitric oxide amount
+kidney lipid peroxide amount
+catalase activity
+superoxide dismutase activity
+liver lipid amount
+head and neck integrity trait
+gluthathione peroxidase activity
+kidney glutathione peroxidase activity
+kidney superoxide dismutase activity
+paraoxonase 1 activity
+kidney paraoxonase 1 activity
+retina integrity trait
+central nervous system integrity trait
+peripheral nervous system integrity trait
+ornithine decarboxylase activity
+liver ornithine decarboxylase activity
+blood alpha - fetoprotein amount
+serum alpha - fetoprotein amount
+plasma alpha - fetoprotein amount
+blood integrity trait
+cerebrovascular system morphology trait
+cerebrovascular system integrity trait
+pulmonary arterial blood pressure trait
+urinary system integrity trait
+blood oxygen amount
+blood carbon dioxide amount
+mesenteric artery morphology trait
+eicosanoid amount
+blood alpha - n - acetylgalactosaminidase amount
+adrenal gland molecular composition trait
+adrenal gland ribonucleic acid amount
+brain ribonucleic acid amount
+heart ribonucleic acid amount
+kidney ribonucleic acid amount
+liver ribonucleic acid amount
+lung molecular composition trait
+lung ribonucleic acid amount
+muscle ribonucleic acid amount
+spleen molecular composition trait
+spleen ribonucleic acid amount
+testis molecular composition trait
+testis ribonucleic acid amount
+thymus molecular composition trait
+thymus ribonucleic acid amount
+uterus molecular composition trait
+uterus ribonucleic acid amount
+quadriceps mass
+feather pigmentation trait
+milk sulfur amount
+urine sorbital dehydrogenase amount
+blood pyrophosphate amount
+heart left ventricle interstitial epinephrine amount
+heart left ventricle interstitial norepinephrine amount
+heart left ventricle interstitial bradykinin amount
+heart left ventricle interstitial angiotensin ii amount
+urine hormone amount
+urine aldosterone amount
+comb length
+comb height
+comb pigmentation trait
+comb mass
+oviduct mass
+blood inhibin amount
+milk lactoperoxidase amount
+milk iodine amount
+tongue size trait
+tongue length
+tongue mass
+tissue epinephrine amount
+cervical spinal cord epinephrine amount
+medulla oblongata epinephrine amount
+midbrain / pons epinephrine amount
+hypothalamus epinephrine amount
+forebrain epinephrine amount
+tissue dihydroxyphenylacetic acid  ( dopac )  amount
+tissue homovanillic acid amount
+tissue 5 - hydroxyindoleacetic acid amount
+tissue norepinephrine amount
+tissue serotonin amount
+tissue dopamine amount
+cervical spinal cord dihyroxyphenylacetic acid  ( dopac )  amount
+medulla oblongata dihydroxyphenylacetic acid  ( dopac )  amount
+midbrain / pons dihydroxyphenylacetic acid  ( dopac )  amount
+hypothalamus dihydroxyphenylacetic acid  ( dopac )  amount
+forebrain dihydroxyphenylacetic acid  ( dopac )  amount
+cervical spinal cord homovanillic acid amount
+medulla oblongata homovanillic acid amount
+midbrain / pons homovanillic acid amount
+hypothalamus homovanillic acid amount
+forebrain homovanillic acid amount
+cervical spinal cord 5 - hydroxyindoleacetic acid amount
+medulla oblongata 5 - hydroxyindoleacetic acid amount
+midbrain / pons 5 - hydroxyindoleacetic acid amount
+hypothalamus 5 - hydroxyindoleacetic acid amount
+forebrain 5 - hydroxyindoleacetic acid amount
+cervical spinal cord norepinephrine amount
+medulla oblongata norepinephrine amount
+midbrain / pons norepinephrine amount
+hypothalamus norepinephrine amount
+forebrain norepinephrine amount
+cervical spinal cord serotonin amount
+medulla oblongata serotonin amount
+midbrain / pons serotonin amount
+hypothalamus serotonin amount
+forebrain serotonin amount
+cervical spinal cord dopamine amount
+medulla oblongata dopamine amount
+midbrain / pons dopamine amount
+hypothalamus dopamine amount
+forebrain dopamine amount
+blood enzyme inhibitor amount
+brain epinephrine amount
+brain dihydroxyphenylacetic acid  ( dopac )  amount
+brain homovanillic acid amount
+brain 5 - hydroxyindoleacetic acid amount
+brain norepinephrine amount
+brain serotonin amount
+brain dopamine amount
+blood bile acid amount
+blood reactive oxygen metabolite amount
+serum reactive oxygen metabolite amount
+blood oxidized ldl amount
+serum oxidized ldl amount
+muscle triglyceride amount
+blood flavanone amount
+urine urotensin ii amount
+blood urotensin ii amount
+blood bradykinin amount
+tissue protein amount
+tissue enzyme amount
+intestine trypsin amount
+blood sorbital dehydrogenase amount
+heart right ventricular blood pressure trait
+ovary molecular composition trait
+colon molecular composition trait
+gastrocnemius molecular composition trait
+femur area
+abdominal adipose mass
+leukocyte integrity trait
+bone marrow cell integrity trait
+leydig cell integrity trait
+colorectal integrity trait
+blood eicosanoid amount
+blood carbohydrate or carbohydrate derivative amount
+tissue oxygen amount
+brain oxygen amount
+lung integrity trait
+blood copper amount
+urine copper amount
+blood ceruloplasmin amount
+skeletal muscle capillary amount
+glomerular capillary morphology trait
+epididymal fat pad morphology trait
+femoral fat pad morphology trait
+interscapular fat pad morphology trait
+mammary fat pad morphology trait
+mesenteric fat pad morphology trait
+parametrial fat pad morphology trait
+renal fat pad morphology trait
+uterine fat pad morphology trait
+total fat pad mass
+white adipocyte morphology trait
+white adipocyte lipid droplet size trait
+white adipocyte size trait
+aggression - related behavior trait
+depression - related behavior trait
+allogrooming behavior trait
+neuron quantity
+craniofacial physiology trait
+organ of corti supporting cell differentiation trait
+outer ear development trait
+behavioral response to xenobiotic stimulus trait
+behavioral response to alcohol trait
+auditory cortex morphology trait
+reproductive life span
+gland development trait
+coat / hair development trait
+body width
+egg production trait
+milk amount
+beak morphology trait
+thoracic cavity morphology trait
+hippocampus neuron morphology trait
+head development trait
+limb regeneration trait
+tail regeneration trait
+paravertebral ganglion morphology trait
+prevertebral ganglion morphology trait
+surface structure trait
+opercular flap morphology trait
+lumbar dorsal root ganglion morphology trait
+cloaca morphology trait
+cloaca respiration trait
+head physiology trait
+brain physiology trait
+thorax trait
+rump trait
+thorax development trait
+parasympathetic postganglionic fiber morphology trait
+parasympathetic preganglionic fiber morphology trait
+gustatory system trait
+surface structure morphology trait
+surface structure development trait
+surface structure physiology trait
+appendage development trait
+appendage physiology trait
+appendage morphology trait
+fin morphology trait
+fin regeneration trait
+organ system trait
+styloid process of temporal bone morphology trait
+subarcuate fossa morphology trait
+molecule homeostasis trait
+blood homeostasis trait
+sterol homeostasis trait
+cerebellum vermis lobule morphology trait
+urine mineral amount
+vitamin metabolism trait
+glucose metabolism trait
+alcohol metabolism trait
+artery molecular composition trait
+hearing system trait
+equilibrioception system trait
+sensory trait
+equilibrioception system morphology trait
+equilibrioception system physiology trait
+nociception system morphology trait
+nociception system physiology trait
+proprioception system trait
+parasympathetic cholinergic neuron morphology trait
+sympathetic cholinergic neuron morphology trait
+hippocampus pyramidal cell layer morphology trait
+cerebrum morphology trait
+neocortex morphology trait
+sympathetic neuron innervation pattern trait
+neurite morphology trait
+dendrite morphology trait
+synapse morphology trait
+inner ear development trait
+humerus size trait
+tibia size trait
+connective tissue trait
+organism subdivision trait
+body size trait
+anatomical relation trait
+growth trait
+urine enzyme amount
+kidney blood vessel physiology trait
+circulatory system development trait
+circulatory system morphology trait
+circulatory system physiology trait
+integumentary system development trait
+integumentary system physiology trait
+integumentary system morphology trait
+mammary alveoli size trait
+mammary alveoli diameter
+mammary alveoli epithelial cell quantity
+mammary gland fetal development trait
+mammary gland cistern morphology trait
+mammary gland cistern capacity
+nipple shape trait
+nipple diameter
+nipple angle
+mammary blood flow trait
+mammary gland circumference
+mammary gland mass
+udder size trait
+mammary alveoli capacity
+body conformation trait
+food conversion trait
+blood creatine kinase amount
+total heart ventricle morphology trait
+troponin t amount
+chest circumference
+hip width
+udder morphology trait
+milk somatic cell quantity
+bone mass
+intercostal muscle thickness
+lumbar vertebra quantity
+thoracic vertebra quantity
+adipose thickness
+internal adipose amount
+subcutaneous adipose thickness
+longissimus thoracis mass
+intercostal muscle mass
+wellness / fitness trait
+total milk fat amount
+milk protein amount
+viable offspring quantity
+offspring quantity
+estrus intensity
+stillborn offspring quantity
+nipple length
+nipple quantity
+scrotum circumference
+abdominal adipose amount
+pectoralis muscle mass
+gizzard mass
+feather development trait
+fear / anxiety - related behavior trait
+feather pecking trait
+receiving feather pecking trait
+social tendency trait
+humerus area
+humerus mineral mass
+humerus width
+tibia area
+tibia mineral mass
+tibia strength trait
+tibia elasticity trait
+tibia width
+egg quantity
+cannon bone circumference
+femur size trait
+total vertebra quantity
+muscle androstenone amount
+diaphragm mass
+glycolytic potential
+total foot mass
+head mass
+small intestine length
+skin mass
+muscle lactate amount
+muscle cholesterol amount
+muscle indole amount
+muscle water amount
+muscle protein amount
+muscle skatole amount
+muscle conductivity trait
+skeletal muscle conductivity trait
+adipose androstenone amount
+intermuscular adipose amount
+intestinal adipose mass
+subcutaneous adipose mass
+muscle lipid amount
+intramuscular adipose mass
+adipose fatty acid trans - 11 - c18:1 amount
+adipose fatty acid c20:2 amount
+adipose fatty acid cis - 11 - c20:1 amount
+adipose fatty acid c17:0 amount
+adipose fatty acid cis - 9 , cis - 12 - c18:2 amount
+adipose fatty acid c18:3 n - 3 amount
+adipose fatty acid c14:0 amount
+adipose fatty acid cis - 9 - c18:1 amount
+adipose fatty acid c16:0 amount
+adipose fatty acid cis - 9 - c16:1 amount
+adipose fatty acid c18:0 amount
+longissimus thoracis muscle area
+longissimus thoracis muscle thickness
+longissimus thoracis length
+skeletal muscle myosin heavy chain type i amount
+skeletal muscle myosin heavy chain type iia amount
+type iib muscle fiber quantity
+functional nipple quantity
+uterine horn length
+uterine horn mass
+ovary mass
+uterus length
+sperm production trait
+testis mass
+lactation duration
+feather morphology trait
+femur width
+gizzard morphology trait
+blood cortisol amount
+total heart ventricle size trait
+total heart ventricle mass
+muscle ph
+paw / hand / foot / hoof mass
+forelimb mass
+metatarsus mass
+hindlimb mass
+muscle glycogen homeostasis trait
+udder cleft morphology trait
+udder height ,  floor to tarsal joint
+mammary gland length
+mammary gland width
+longissimus thoracis morphology trait
+abdominal fat pad mass
+skeletal muscle mass
+skeletal muscle myosin heavy chain type iib amount
+nonfunctional nipple quantity
+back conformation trait
+chest width
+chest depth
+heel depth
+hoof diagonal
+hoof angle
+temperament trait
+hind leg set
+limb conformation trait
+rump morphology trait
+rump width
+rump angle
+sarcomere length
+skeletal muscle fiber quantity
+skeletal muscle myosin isoform amount
+type i muscle fiber quantity
+type iia muscle fiber quantity
+muscle nitrogen amount
+muscle myoglobin amount
+integumentary system trait
+alimentary system trait
+urinary system trait
+nervous / sensory system trait
+endocrine / exocrine system trait
+immune system trait
+circulatory system trait
+arterial blood pressure trait
+capillary blood pressure trait
+venous blood pressure trait
+regional blood pressure trait
+coronary blood flow trait
+cerebral blood flow trait
+renal blood flow trait
+lymph flow trait
+heart pumping trait
+venous return amount
+heart electrical impulse conduction trait
+heart muscle contractility trait
+heart muscle relaxation trait
+heart muscle contractile force
+platelet adhesion trait
+platelet activation trait
+platelet aggregation trait
+fibrin formation trait
+blood viscosity trait
+coat / hair physiology trait
+skin layer morphology trait
+endocrine pancreas morphology trait
+mucous gland morphology trait
+part_of
+urine homeostasis trait
+kidney tubule molecule reabsorption trait
+blood glucagon - like peptide amount
+peritoneum integrity trait
+blood gastric inhibitory polypeptide amount
+bile acid amount
+liver bile acid amount
+feces bile acid amount
+cerebral artery morphology trait
+cerebral artery size trait
+liver iron amount
+cerebral cortex integrity trait
+blood amount
+kidney glomerulus size trait
+blood plasminogen activator inhibitor 1 amount
+blood complement amount

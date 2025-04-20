@@ -1,0 +1,102 @@
+reproduction
+nucleotide binding
+molecular_function
+nucleic acid binding
+dna binding
+chromatin binding
+transcription factor activity
+rna binding
+motor activity
+catalytic activity
+nuclease activity
+signal transducer activity
+receptor activity
+receptor binding
+structural molecule activity
+transporter activity
+binding
+protein binding
+cellular_component
+extracellular region
+proteinaceous extracellular matrix
+extracellular space
+cell wall
+intracellular
+cell
+nucleus
+nuclear envelope
+nucleoplasm
+nucleolus
+cytoplasm
+mitochondrion
+lysosome
+endosome
+vacuole
+peroxisome
+endoplasmic reticulum
+golgi apparatus
+cytosol
+ribosome
+cytoskeleton
+plasma membrane
+carbohydrate metabolic process
+generation of precursor metabolites and energy
+nucleobase ,  nucleoside ,  nucleotide and nucleic acid metabolic process
+dna metabolic process
+transcription
+translation
+protein modification process
+cellular amino acid and derivative metabolic process
+lipid metabolic process
+transport
+response to stress
+cell cycle
+cell communication
+signal transduction
+cell - cell signaling
+multicellular organismal development
+behavior
+translation factor activity ,  nucleic acid binding
+biological_process
+metabolic process
+cell death
+lipid binding
+catabolic process
+biosynthetic process
+plastid
+thylakoid
+response to external stimulus
+tropism
+response to biotic stimulus
+response to abiotic stimulus
+anatomical structure morphogenesis
+response to endogenous stimulus
+embryonic development
+post - embryonic development
+ripening
+abscission
+pollination
+pollen - pistil interaction
+flower development
+cellular process
+response to extracellular stimulus
+photosynthesis
+membrane
+cellular component organization
+cell growth
+death
+kinase activity
+transferase activity
+hydrolase activity
+protein metabolic process
+cellular homeostasis
+secondary metabolic process
+oxygen binding
+cell differentiation
+enzyme regulator activity
+carbohydrate binding
+external encapsulating structure
+transcription regulator activity
+growth
+regulation of gene expression ,  epigenetic
+regulates

@@ -1,0 +1,857 @@
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+a realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural ,  social or institutional contexts .
+b is a generically dependent continuant = def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+amide derived from two or more amino carboxylic acid molecules  ( the same or different )  by formation of a covalent bond from the carbonyl carbon of one to the nitrogen atom of another with formal loss of water .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing deoxyribose and linked by phosphodiester bonds ;  dna contain the genetic information of organisms .
+any constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer etc . ,  identifiable as a separately distinguishable entity .
+a chemical entity constituting the smallest component of an element having the chemical properties of the element .
+a macromolecule made up of nucleotide units and hydrolysable into certain pyrimidine or purine bases  ( usually adenine ,  cytosine ,  guanine ,  thymine ,  uracil )  ,  d - ribose or 2 - deoxy - d - ribose and phosphoric acid .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing ribose and linked by phosphodiester bonds ;  rna is central to the synthesis of proteins .
+a macromolecule is a molecule of high relative molecular mass ,  the structure of which essentially comprises the multiple repetition of units derived ,  actually or conceptually ,  from molecules of low relative molecular mass .
+a material entity of anatomical origin  ( part of or deriving from an organism )  that has as its parts a maximally connected cell compartment surrounded by a plasma membrane .
+a cell in vitro that is or has been maintained or propagated as part of a cell culture .
+a cell in vitro that has undergone physical changes as a consequence of a deliberate and specific experimental procedure .
+a molecular process that can be carried out by the action of a single macromolecular machine ,  usually via direct physical interactions with other molecular entities .
+catalysis of a biochemical reaction at physiological temperatures .
+a biological process represents a specific objective that the organism is genetically programmed to achieve .
+the process in which a gene's sequence is converted into a mature gene product or products  ( proteins or rna )  .
+a stable macromolecular complex composed  ( only )  of two or more polypeptide subunits along with any covalently attached molecules  ( such as lipid anchors or oligosaccharide )  or non - protein prosthetic groups  ( such as nucleotides or metal ions )  .
+a directive information entity that specifies what should happen if the trigger condition is fulfilled
+a measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure .
+a directive information entity that describes an intended process endpoint .
+a directive information entity that describes an action the bearer will take
+a label is a symbol that is part of some other datum and is used to either partially define  the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+a quality of an information bearer that imparts the information content
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+an information content entity that is a mark ( s )  or character ( s )  used as a conventional representation of another entity .
+a generically dependent continuant that is about some thing .
+a scalar measurement datum is a measurement datum that is composed of two parts ,  numerals and a unit label .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a dot plot is a report graph which is a graphical representation of data where each data point is represented by a single dot placed on coordinates corresponding to data point values in particular dimensions .
+a diagram that presents one or more tuples of information by mapping those tuples in to a two dimensional space in a non arbitrary way .
+a rule is an executable which guides ,  defines ,  restricts actions
+a plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective .
+the curation status of the term .
+a data item that is an aggregate of other data items of the same type that have something in common .
+an image is an affine projection to a two dimensional surface ,  of measurements of some quality of an entity or entities repeated at regular intervals across a spatial range ,  where the measurements are represented as color and luminosity on the projected on surface .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+a version number is an information content entity which is a sequence of characters borne by part of each of a class of manufactured products or its packaging and indicates its order within a set of other products having the same name .
+a textual entity that expresses the results of reasoning about a problem ,  for instance as typically found towards the end of scientific papers .
+a scatterplot is a graph which uses cartesian coordinates to display values for two variables for a set of data .
+a textual entity is a part of a manifestation  ( frbr sense )  ,  a generically dependent continuant whose concretizations are patterns of glyphs intended to be interpreted as words ,  formulas ,  etc .
+a textual entity that contains a two - dimensional arrangement of texts repeated at regular intervals across a spatial range ,  such that the spatial relationships among the constituent texts expresses propositions
+an information content entity consisting of a two dimensional arrangement of information content entities such that the arrangement itself is about something .
+a figure that expresses one or more propositions
+a collection of information content entities intended to be understood together as a whole
+a cartesian spatial coordinate datum is a representation of a point in a spatial region ,  in which equal changes in the magnitude of a coordinate value denote length qualities with the same magnitude
+a cartesion spatial coordinate datum that  uses one value to specify a position along a one dimensional spatial region
+a cartesion spatial coordinate datum that  uses two values to specify a position within a two dimensional spatial region
+a scalar measurement datum that is the result of measurement of mass quality
+a scalar measurement datum that is the result of measuring a temporal interval
+a planned process in which a document is created or added to by including the specified input in it .
+a line graph is a type of graph created by connecting a series of data points together with a line .
+a symbol that is part of a crid and that is sufficient to look up a record from the crid's registry .
+an information content entity that consists of a crid symbol and additional information about the crid registry to which it belongs .
+a crid registry is a dataset of crid records ,  each consisting of a crid symbol and additional information which was recorded in the dataset through a assigning a centrally registered identifier process .
+a data set that is an aggregate of data recording some measurement at a number of time points .
+a measurement datum that represents the output of a scanner measuring the intensity value for each fluorescent reporter .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+biological_feature_identification_objective is an objective role carried out by the proposition defining the aim of a study designed to examine or characterize a particular biological feature .
+is a material entity that is created or changed during material processing .
+a planned process that consists of parts: planning ,  study design execution ,  documentation and which produce conclusion ( s )  .
+a role that inheres in a material entity that is realized in an assay in which data is generated about the bearer of the evaluant role
+a planned process with the objective to produce information about the material entity that is the evaluant ,  by physically examining it or its proxies .
+a data item which is used to indicate the degree of uncertainty about a measurement .
+a processed material that provides the needed nourishment for microorganisms or cells grown in vitro .
+a role inhering in a biological or chemical entity that is intended to be applied in a scientific technique to participate  ( or have molecular components that participate )  in a chemical reaction that facilitates the generation of data about some entity distinct from the bearer ,  or the generation of some specified material output distinct from the bearer .
+a planned process which results in physical changes in a specified input material
+a role that is realized through the execution of a study design in which the bearer of the role participates and in which data about that bearer is collected .
+a role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation
+sequence_feature_identification_objective is a biological_feature_identification_objective role describing a study designed to examine or characterize molecular features exhibited at the level of a macromolecular sequence ,  e .g .
+an intervention design is a study design in which a controlled process applied to the subjects  ( the intervention )  serves as the independent variable manipulated by the experimentalist .
+a data set of the names or identifiers of genes that are the outcome of an analysis or have been put together for the purpose of an analysis .
+molecular_feature_identification_objective is a biological_feature_identification_objective role describing a study designed to examine or characterize molecular features of a biological system ,  e .g .
+mixed population of cdnas  ( complementarydna )  made from mrna from a defined source ,  usually a specific cell type .
+a quantitative confidence value that represents the probability of obtaining a result at least as extreme as that actually obtained ,  assuming that the actual value was the result of chance alone .
+a population is a collection of individuals from the same taxonomic class living ,  counted or sampled at a particular site or in a particular area
+an imaging assay is an assay to produce a picture of an entity .
+an entity that can bear roles ,  has members ,  and has a set of organization rules .
+a molecular label role which inheres in a material entity and which is realized in the process of detecting a molecular dye that imparts color to some material of interest .
+a plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents ,  so that different investigation agents will reliably be able to independently reproduce the process .
+is a process with the objective to place a material entity bearing the 'material to be added role' into a material bearing the 'target of material addition role' .
+a measurand role borne by a molecular entity or an atom and realized in an analyte assay which achieves the objective to measure the magnitude / concentration / amount of the analyte in the entity bearing evaluant role .
+material to be added role is a protocol participant role realized by a material which is added into a material bearing the target of material addition role in a material addition process
+a planned process in which data gathered in an investigation is evaluated in the context of existing knowledge with the objective to generate more general conclusions or to conclude that the data does not allow one to draw general conclusion
+a process of creating or modifying a plan specification
+a light emission function is an excitation function to excite a material to a specific excitation state that it emits light .
+a contain function is a function to constrain a material entities location in space
+a heat function is a function that increases the internal kinetic energy of a material
+a material separation function is a function that increases the resolution between two or more material entities .
+a excitation function is a function  to inject energy by bombarding a material with energetic particles  ( e .g . ,  photons )  thereby imbuing internal material components such as electrons with additional energy .
+a filter function is a function to prevent the flow of certain entities based on a quality or qualities of the entity while allowing entities which have different qualities to pass through
+a cool function is a function to decrease the internal kinetic energy of a material below the initial kinetic energy of that type of material .
+a solid support function is a function of a device on which an entity is kept in a defined position and prevented in its movement
+an environmental control function is a function that regulates a contained environment within specified parameter ranges .
+a sort function is a function to distinguish material components based on some associated physical quality or entity and to partition the separate components into distinct fractions according to a defined order .
+a material to be added role played by a small ,  self - replicating dna or rna molecule  -  usually a plasmid or chromosome  -  and realized in a process whereby foreign dna or rna is inserted into the vector during the process of cloning .
+cloning insert role is a role which inheres in dna or rna and is realized by the process of being inserted into a cloning vector in a cloning process .
+an extract is a material entity which results from an extraction process
+an assay which aims to provide information about gene expression and transcription activity using ribonucleic acids collected from a material entity using a range of techniques and instrument such as dna sequencers ,  dna microarrays ,  northern blot
+an averaging objective is a data transformation objective where the aim is to perform mean calculations on the input of the data transformation .
+ ( protein or rna )  or has_part  ( protein or rna )  and has_function some go:0003824  ( catalytic activity ) 
+is the specification of an objective to add a material into a target material .
+an assay which generates data about a genotype from a specimen of genomic dna .
+an assay objective to determine the presence or concentration of an analyte in the evaluant
+an objective specification to determine a specified type of information about an evaluated entity  ( the material entity bearing evaluant role ) 
+an assay with the objective to capture information about the presence ,  concentration ,  or amount of an analyte in an evaluant .
+target of material addition role is a role realized by an entity into which a material is added in a material addition process
+a data set that is produced as the output of a normalization data transformation .
+measure function is a function that is borne by a processed material  and realized in a process in which information about some entity is expressed relative to some reference .
+an objective specifiction that creates an specific output object from input materials .
+a planned process that carries out a study design
+dna sequencing is a sequencing process which uses deoxyribonucleic acid as input and results in a the creation of dna sequence information artifact using a dna sequencer instrument .
+is an objective to transform a material entity into spatially separated components .
+a data set that is produced as the output of a class discovery data transformation and consists of a data set with assigned discovered class labels .
+a data set that is produced as the output of a descriptive statistical calculation data transformation and consists of producing a data set that represents one or more features of interest about the input data set .
+a differential expression analysis data transformation is a data transformation that has objective differential expression analysis and that consists of
+is a material processing with the objective to combine two or more material entities as input into a single material entity as output .
+a planned process with the objective of collecting a specimen .
+a data set that is produced as the output of an error correction data transformation and consists of producing a data set which has had erroneous contributions from the input to the data transformation removed  ( corrected for )  .
+an error correction data transformation is a data transformation that has the objective of error correction ,  where the aim is to remove  ( correct for )  erroneous contributions from the input to the data transformation .
+a material obtained from an organism in order to be a representative of the whole
+a statistical hypothesis test data transformation is a data transformation that has objective statistical hypothesis test .
+the median is that value of the variate which divides the total frequency into two halves .
+is a data transformation objective where the aim is to estimate statistical significance with the aim of proving or disproving a hypothesis by means of some data transformation
+a material separation objective aiming to separate material into multiple portions ,  each of which contains a similar composition of the input material .
+the arithmetic mean is defined as the sum of the numerical values of each and every observation divided by the total number of observations .
+a material separation objective aiming to separate a material entity that has parts of different types ,  and end with at least one output that is a material with parts of fewer types  ( modulo impurities )  .
+a objective specification to obtain a material entity for potential use as an input during an investigation .
+is an objective to obtain an output material that contains several input materials .
+is a collection of short paired tags from the two ends of dna fragments are extracted and covalently linked as ditag constructs
+a k - nearest neighbors is a data transformation which achieves a class discovery or partitioning objective ,  in which an input data object with vector y is assigned to a class label based upon the k closest training data set points to y ;  where k is the largest value that class label is assigned .
+a recombinant vector is created by a recombinant vector cloning process ,  and contains nucleic acids that can be amplified .
+is a collection of short tags from dna fragments ,  are extracted and covalently linked as single tag constructs
+a cloning vector is an engineered material that is used as an input material for a recombinant vector cloning process to carry inserted nucleic acids .
+studen't t - test is a data transformation with the objective of a statistical hypothesis test in which the test statistic has a student's t distribution if the null hypothesis is true .
+a material sample role is a specimen role borne by a material entity that is the output of a material sampling process .
+a specimen gathering process with the objective to obtain a specimen that is representative of the input material entity
+a material entity that has the material sample role
+a directive information entity that is part of a study design .
+dependent variable specification is part of a study design .
+a measurement data that represents the percentage of people or animals in a study or treatment group who are alive for a given period of time after diagnosis or initiation of monitoring .
+a multiple testing correction objectives is a data transformation objective where the aim is to correct for a set of statistical inferences considered simultaneously
+an objective specification maintains some or all of the qualities of a material over time .
+a quality of a dna molecule that inheres in its bearer due to the order of its dna nucleotide residues .
+a device in which a measure function inheres .
+a process with that achieves the objective to maintain some or all of the characteristics of an input material over time
+a rna extraction process typically involving the use of poly dt oligomers in which the desired output material is polya rna .
+likelihood - ratio is a data transformation which tests whether there is evidence of the need to move from a simple model to a more complicated one  ( where the simple model is nested within the complicated one )  ;  tests of the goodness - of - fit between two models .
+a survival curve is a report graph which is a graphical representation of data where the percentage of survival is plotted as a function of time .
+a cytometry assay in which an input cell population is put in solution ,  is passed by a laser ,  and optical sensors are used to detect scattering of the laser light and / or fluorescence of specific markers to count and characterize the particles in solution .
+a specimen  that has been modified in order to be able to detect it in future experiments
+the part of the execution of an intervention design study which is varied between two or more subjects in the study
+a device with a separation function realized in a planed process
+a measurement datum that is reported on a categorical scale
+a specimen that has been intentionally physically modified .
+a label that is part of a categorical datum and that indicates the value of the data item on the categorical scale .
+an assay in which a measurement is made by observing entities located in a live cell .
+a device that can be used to restrict the location of material entities over time
+a material entity that is designed to perform a function in a scientific investigation ,  but is not a reagent .
+a measurement datum that representing the primary structure of a macromolecule ( it's sequence )  sometimes associated with an indicator of confidence of that measurement .
+a measurement datum that measures the quantity of something that may be administered to an organism or that an organism may be exposed to .
+an extract that is the output of an extraction process in which nucleic acid molecules are isolated from a specimen .
+a device which has a function to emit light .
+an environmental control device is a device which has the function to control some aspect of the environment such as temperature ,  or humidity .
+a labeled specimen that is the output of a labeling process and has grain labeled nucleic acid for detection of the nucleic acid in future experiments .
+a data item of paired values ,  one indicating the dose of a material ,  the other quantitating a measured effect at that dose .
+a genetic characteristics information which is a part of genotype information that identifies the population of organisms
+a quantitative confidence value resulting from a multiple testing error correction method which adjusts the p - value used as input to control for type i error in the context of multiple pairwise tests
+an assay in which sequencing technology  ( e .g .
+a genetic characteristics information that is about the genetic material of an organism and minimally includes information about the genetic background and can in addition contain information about specific alleles ,  genetic modifications ,  etc .
+a molecular feature identification objective that aims to characterize the abundance of transcripts
+a genetic alteration information that about one of two or more alternative forms of a gene or marker sequence and differing from other alleles at one or more mutational sites based on sequence .
+a genetic characteristics information that is about known changes or the lack thereof from the genetic background ,  including allele information ,  duplication ,  insertion ,  deletion ,  etc .
+a data item that is about genetic material including polymorphisms ,  disease alleles ,  and haplotypes .
+a quantitative confidence value that measures the minimum false discovery rate that is incurred when calling that test significant .
+a study design that classifies an individual or group of individuals on the basis of alleles ,  haplotypes ,  snps .
+a specimen that derives from an anatomical part or substance arising from an organism .
+an assay in which a material's fluorescence is determined .
+a scalar measurement datum that represents the number of events occuring over a time interval
+a sequence data item that is about the primary structure of dna
+a directive information entity which defines and states a principle of standard by which selection process may take place .
+a planned process in which new information is inferred from existing information .
+a device made to be used in an analyte assay for immobilization of substances that bind the analyte at regular spatial positions on a surface .
+an information content entity that is inferred from data .
+a processed material that serves as a liquid vehicle for freezing cells for long term quiescent stroage ,  which contains chemicls needed to sustain cell viability across freeze - thaw cycles .
+a value specification that is specifies one category out of a fixed number of nominal categories
+a value specification that consists of two parts: a numeral and a unit label
+an information content entity that specifies a value within a classification scheme or on a quantitative scale .
+a material entity that is the specified output of an addition of molecular label process that aims to label some molecular target to allow for its detection in a detection of molecular label assay
+an assay that measures properties of cells .
+a container with an environmental control function .
+a role borne by a material entity and realized in an assay which achieves the objective to measure the magnitude / concentration / amount of the measurand in the entity bearing evaluant role .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a material entity that has the specimen role .
+a processed material comprised of a collection of cultured cells that has been continuously maintained together in culture and shares a common propagation history .
+a screening library is a collection of materials engineered to identify qualities of a subset of its members during a screening process?
+a planned process that produces output data from input data .
+a differential expression analysis objective is a data transformation objective whose input consists of expression levels of entities  ( such as transcripts or proteins )  ,  or of sets of such expression levels ,  under two or more conditions and whose output reflects which of these are likely to have different expression across such conditions .
+a data transformation process in which the benjamini and hochberg method sequential p - value procedure  is applied with the aim of correcting false discovery rate
+a k - means clustering is a data transformation which achieves a class discovery or partitioning objective ,  which takes as input a collection of objects  ( represented as points in multidimensional space )  and which partitions them into a specified number k of clusters .
+a hierarchical clustering is a data transformation which achieves a class discovery objective ,  which takes as input data item and builds a hierarchy of clusters .
+an average linkage hierarchical clustering is an agglomerative hierarchical clustering which generates successive clusters based on a distance measure ,  where the distance between two clusters is calculated as the average distance between objects from the first cluster and objects from the second cluster .
+an agglomerative hierarchical clustering which generates successive clusters based on a distance measure ,  where the distance between two clusters is calculated as the maximum distance between objects from the first cluster and objects from the second cluster .
+a single linkage hierarchical clustering is an agglomerative hierarchical clustering which generates successive clusters based on a distance measure ,  where the distance between two clusters is calculated as the minimum distance between objects from the first cluster and objects from the second cluster .
+a data transformation in which the benjamini and yekutieli method is applied with the aim of correcting false discovery rate
+a dimensionality reduction is data partitioning which transforms each input m - dimensional vector  ( x_1 ,  x_2 ,   . . . ,  x_m )  into an output n - dimensional vector  ( y_1 ,  y_2 ,   . . . ,  y_n )  ,  where n is smaller than m .
+a principal components analysis dimensionality reduction is a dimensionality reduction achieved by applying principal components analysis and by keeping low - order principal components and excluding higher - order ones .
+a data transformation that performs more than one hypothesis test simultaneously ,  a closed - test procedure ,  that  controls the familywise error rate for all the k hypotheses at level α in the strong sense .
+a family wise error rate correction method is a multiple testing procedure that controls the probability of at least one false positive .
+a descriptive statistical calculation objective is a data transformation objective which concerns any calculation intended to describe a feature of a data set ,  for example ,  its center or its variability .
+a data transformation objective which has the data transformation aims to model time to event data  ( where events are e .g .
+a multiple testing correction method is a hypothesis test performed simultaneously on m  >  1 hypotheses .
+a logarithmic transformation is a data transformation consisting in the application of the logarithm function with a given base a  ( where a > 0 and a is not equal to 1 )  to a  ( one dimensional )  positive real number input .
+regression analysis is a descriptive statistics technique that examines the relation of a dependent variable  ( response variable )  to specified independent variables  ( explanatory variables )  .
+the principal component regression method is a regression analysis method that combines the principal component analysis  ( pca ) spectral decomposition with an inverse least squares  ( ils )  regression method to create a quantitative model for complex samples .
+an planned process that creates images ,  diagrams or animations from the input data .
+a mode calculation is a descriptive statistics calculation in which the mode is calculated which is the most common value in a data set .
+a median calculation is a  descriptive statistics calculation in which the midpoint of the data set  ( the 0 .5 quantile )  is calculated .
+an agglomerative hierarchical clustering is a hierarchical clustering which starts with separate clusters and then successively combines these clusters until there is only one cluster remaining .
+a divisive hierarchical clustering is a hierarchical clustering which starts with a single cluster and then successively splits resulting clusters until only clusters of individual objects remain .
+the false discovery rate is a  data transformation used in multiple hypothesis testing to correct for multiple comparisons .
+an objective specification to transformation input data into output data
+a normalization objective is a data transformation objective where the aim is to remove systematic sources of variation to put the data on equal footing in order to create a common base for comparisons .
+a correction objective is a data transformation objective where the aim is to correct for error ,  noise or other impairments to the input of the data transformation or derived from the data transformation itself
+a normalization data transformation is a data transformation that has objective normalization .
+an averaging data transformation is a data transformation that has objective averaging .
+a partitioning data transformation is a data transformation that has objective partitioning .
+a partitioning objective is a data transformation objective where the aim is to generate a collection of disjoint non - empty subsets whose union equals a non - empty input set .
+a class discovery data transformation  ( sometimes called unsupervised classification )  is a data transformation that has objective class discovery .
+a center calculation objective is a data transformation objective where the aim is to calculate the center of an input data set .
+a class discovery objective  ( sometimes called unsupervised classification )  is a data transformation objective where the aim is to organize input data   ( typically vectors of attributes )  into classes ,  where the number of classes and their specifications are not known a priori .
+a center calculation data transformation is a data transformation that has objective of center calculation .
+a descriptive statistical calculation data transformation is a data transformation that has objective descriptive statistical calculation and which concerns any calculation intended to describe a feature of a data set ,  for example ,  its center or its variability .
+an error correction objective is a data transformation objective where the aim is to remove  ( correct for )  erroneous contributions arising from the input data ,  or the transformation itself .
+adata visualization which has input of a gene list and produces an output of a report graph which is capable of rendering data of this type .
+a data transformation which has the objective of performing survival analysis .
+the chi - square test is a data transformation with the objective of statistical hypothesis testing ,  in which the sampling distribution of the test statistic is a chi - square distribution when the null hypothesis is true ,  or any in which this is asymptotically true ,  meaning that the sampling distribution  ( if the null hypothesis is true )  can be made to approximate a chi - square distribution as closely as desired by making the sample size large enough .
+anova or analysis of variance is a data transformation in which a statistical test of whether the means of several groups are all equal .
+observation design is a study design in which subjects are monitored in the absence of any active intervention by experimentalists .
+a material separation in which a desired component of an input material is separated from the remainder
+a group assignment which relies on chance to assign materials to a group of materials in order to avoid bias in experimental set up .
+a planned process by which totally or partially complementary ,  single - stranded nucleic acids are  combined into a single molecule called heteroduplex or homoduplex to an extent depending on the amount of complementarity .
+aparatus in the fluidic subsystem where the sheath and sample meet .
+a flow_cytometer is an instrument for counting ,  examining and sorting microscopic particles in suspension .
+a light source is an optical subsystem that provides light for use in a distant area using a delivery system  ( e .g . ,  fiber optics )  .
+an obscuration bar is a an optical subsystem which is a strip of metal or other material that serves to block out direct light from the illuminating beam .
+an optical filter is an optical subsystem that selectively transmits light having certain properties  ( often ,  a particular range of wavelengths ,  that is ,  range of colours of light )  ,  while blocking the remainder .
+a photodetector is a device used to detect and measure the intensity of radiant energy through photoelectric action .
+a dna sequencer is an instrument that determines the order of deoxynucleotides in deoxyribonucleic acid sequences .
+a device which is used to maintain constant contact of a liquid on an array .
+a cytometer is an instrument for counting and measuring cells .
+a processed material that is made to be used in an analyte assay .
+a dna - microarray is a microarray that is used as a physical 2d immobilisation matrix for dna sequences .
+a droplet sorter is part_of a flow cytometer sorter that converts the carrier fluid stream into individual droplets ,  and these droplets are directed into separate locations for recovery  ( enriching the original sample for particles of interest based on qualities determined by gating )  or disposal .
+a plan specification comprised of protocols  ( which may specify how and what kinds of data will be gathered )  that are executed as part of an investigation and is realized during a study design execution .
+a study design which use the same individuals and exposure them to a set of conditions .
+a repeated measure design which ensures that experimental units receive ,  in sequence ,  the treatment  ( or the control )  ,  and then ,  after a specified time interval  ( aka *wash - out periods* )  ,  switch to the control  ( or treatment )  .
+a matched pair design is a study design which use groups of individuals associated  ( hence matched )  to each other based on a set of criteria ,  one member going to one treatment ,  the other member receiving the other treatment .
+a parallel group design or independent measure design is a study design which uses unique experimental unit each experimental group ,  in other word no two individuals are shared between experimental groups ,  hence also known as parallel group design .
+a randomized complete block design is_a study design which assigns randomly treatments to block .
+latin square design is_a study design which allows in its simpler form controlling 2 levels of nuisance variables  ( also known as blocking variables )  .he 2 nuisance factors are divided into a tabular grid with the property that each row and each column receive each treatment exactly once .
+greco - latin square design is a study design which relates to latin square design
+prs to do
+factorial design is_a study design which is used to evaluate two or more factors simultaneously .
+a factorial design which has 2 experimental factors  ( aka independent variables )  and 2 factor levels per experimental factors
+a fractional factorial design is_a study design in which only an adequately chosen fraction of the treatment combinations required for the complete factorial experiment is selected to be run
+an experiment design type where the label orientations are reversed .
+groups of assays that are related as part of a time series .
+a process with the objective to obtain a material entity that was part of an organism for potential future use in an investigation
+a material processing in which components of an input material become segregated in space
+group assignment is a process which has an organism as specified input and during which a role is assigned
+a protocol application in which cells are kept alive in a defined environment outside of an organism .
+a process through which a new type of cell culture or cell line is created ,  either through the isolation and culture of one or more cells from a fresh source ,  or the deliberate experimental modification of an existing cell culture  ( e .g passaging a primary culture to become a secondary culture or line ,  or the immortalization or stable genetic modification of an existing culture or line )  .
+a material processing technique intended to add a molecular label to some input material entity ,  to allow detection of the molecular target of this label in a detection of molecular label assay
+the use of a chemical or biochemical means to infer the sequence of a biomaterial
+a planned process with the objective to insert genetic material into a cloning vector for future replication of the inserted material
+a rna extraction is a nucleic acid extraction where the desired output material is rna
+a material separation to recover the nucleic acid fraction of an input material
+a phage display library is a collection of materials in which a mixture of genes or gene fragments is expressed and can be individually selected and amplified .
+a material that is added to another one in a material combination process
+a material entity into which another is being added in a material combinatino process
+a  ( combination of )  quality ( ies )  of an organism determined by the interaction of its genetic make - up and environment that differentiates specific instances of a species from other instances of the same species .
+a luminous flux quality inhering in a bearer by virtue of the bearer's emitting longer wavelength light following the absorption of shorter wavelength radiation ;  fluorescence is common with aromatic compounds with several rings joined together .
+a physical quality that inheres in a bearer by virtue of the proportion of the bearer's amount of matter .
+an amino acid chain that is produced de novo by ribosome - mediated translation of a genetically - encoded mrna .
+a reagent role inhering in a molecular entity intended to associate with some molecular target to serve as a proxy for the presence ,  abundance ,  or location of this target in a detection of molecular label assay .
+a molecular reagent intended to associate with some molecular target to serve as a proxy for the presence ,  abundance ,  or location of this target in a detection of molecular label assay
+a sequence_feature with an extent greater than zero .
+an electronic file is an information content entity which conforms to a specification or format and which is meant to hold data and information in digital form ,  accessible to software agents
+a balanced design is a an experimental design where all experimental group have the an equal number of subject observations
+a single factor design is a study design which declares exactly 1 independent variable
+x - axis is a cartesian coordinate axis which is orthogonal to the y - axis and the z - axis
+an axis is a line graph used as reference line for the measurement of coordinates .
+y - axis is a cartesian coordinate axis which is orthogonal to the x - axis and the z - axis
+a cartesian coordinate system is a coordinate system that specifies each point uniquely in a plane by a pair of numerical coordinates ,  which are the signed distances from the point to two fixed perpendicular directed lines ,  measured in the same unit of length .
+in geometry ,  a coordinate system is a system which uses one or more numbers ,  or coordinates ,  to uniquely determine the position of a point or other geometric element on a manifold such as euclidean space .
+a cartesian axis is one of 3 the axis in a cartesian coordinate system defining a referential in 3 dimensions .
+z - axis is a cartesian coordinate axis which is orthogonal to the x - axis and the y - axis
+a 2 dimensional cartesian coordinate system is a cartesian coordinate system which defines 2 orthogonal one dimensional axes and which may be used to describe a 2 dimensional spatial region .
+in mathematics ,  a spherical coordinate system is a coordinate system for three - dimensional space where the position of a point is specified by three numbers: the radial distance of that point from a fixed origin ,  its polar angle measured from a fixed zenith direction ,  and the azimuth angle of its orthogonal projection on a reference plane that passes through the origin and is orthogonal to the zenith ,  measured from a fixed reference direction on that plane .
+a cylindrical coordinate system is a three - dimensional coordinate system that specifies point positions by the distance from a chosen reference axis ,  the direction from the axis relative to a chosen reference direction ,  and the distance from a chosen reference plane perpendicular to the axis .
+in mathematics ,  the polar coordinate system is a two - dimensional coordinate system in which each point on a plane is determined by a distance from a fixed point and an angle from a fixed direction .
+wilks' lambda distribution  ( named for samuel s . wilks )  ,  is a probability distribution used in multivariate hypothesis testing ,  especially with regard to the likelihood - ratio test and multivariate analysis of variance .
+a cartesian spatial coordinate datum chosen as a fixed point of reference in a three dimensional spatial region .
+normal distribution hypothesis is a goodness of fit hypothesis stating that the distribution computed from the sample population fits a normal distribution .
+a cartesian spatial coordinate datum chosen as a fixed point of reference in a two dimensional spatial region .
+a confidence interval which covers 90% of the sampling distribution ,  meaning that there is a 90% risk of false positive  ( type i error ) 
+a one dimensional cartesian coordinate system is a cartesian coordinate system which defines a one dimensional axis and which may be used to describe a one dimensional spatial region ,  i .e .
+the studentized range  ( q )  distribution is a probability distribution used by the tukey honestly significant difference test .
+a three dimensional cartesian coordinate system is a cartesian coordinate system which defines 3 orthogonal one dimensional axes and which may be used to describe a 3 dimensional spatial region .
+a cartesian spatial coordinate datum chosen as a fixed point of reference in a one dimensional spatial region .
+a cartesian spatial coordinate datum chosen as a fixed point of reference in a spatial region .
+linkage between 2 categorical variable test is a statistical test which evaluates if there is an association between a predictor variable assuming discrete values and a response variable also assuming discrete values
+measure of variation or statistical dispersion is a data item which describes how much a theoritical distribution or dataset is spread .
+a measure of central tendency is a data item which attempts to describe a set of data by identifying the value of its centre .
+chi - squared statistic is a statistic computed from observations and used to produce a p - value in statistical test when compared to a chi - squared distribution .
+binary classification  ( or binomial classification )  is a data transformation which aims to cast members of a set into 2 disjoint groups depending on whether the element have a given property / feature or not .
+the mode is a data item which corresponds to the most frequently occurring number in a set of numbers .
+a model parameter is a data item which is part of a model and which is meant to characterize an theoritecal or unknown population .
+the range is a measure of variation which describes the difference between the lowest score and the highest score in a set of numbers  ( a data set ) 
+outliers are deviant scores that have been legitimately gathered and are not due to equipment failures .
+the standard error of the mean  ( sem )  is data item denoting the standard deviation of the sample - mean's estimate of a population mean .
+a set of 2 subjects which result from a pairing process which assigns subject to a set based on a pairing rule / criteria
+a statistic is a measurement datum to describe a dataset or a variable .
+an ma plot is a scatter plot of the log intensity ratios m = log_2 ( t / r )  versus the average log intensities a = log_2 ( t*t )  / 2 ,  where t and r represent the signal intensities in the test and reference channels respectively .
+the anderson–darling test is a statistical test of whether a given sample of data is drawn from a given probability distribution .
+one - way anova is an analysis of variance where the different groups being compared are associated with the factor levels of only one independent variable .
+two - way anova is an analysis of variance where the different groups being compared are associated the factor levels of exatly 2 independent variables .
+a block design is a kind of study design which declares a blocking variable  ( also known as nuisance variable )  in order to account for a known source of variation and reduce its impact on the acquisition of the signal
+a count is a data item denoted by an integer and represented the number of instances or occurences of an entity
+multi - way anova is an analysis of variance where the difference groups being compared are associated to the factor levels of more than 2 independent variables .
+hardy - weinberg equilibrium hypothesis is a good of fit hypothesis which states that allele and genotype frequencies in a population will remain constant from generation to generation in the absence of other evolutionary influences  ( non - random mating ,  mutation ,  selection ,  genetic drift ,  gene flow and meiotic drive )  .
+signal to noise ratio is a measurement datum comparing the amount of meaningful ,  useful or interesting data  ( the signal )  to the amount of irrelevant or false data  ( the noise )  .
+poisson distribution is a probability distribution used to model the number of events occurring within a given time interval .
+z - test is a statistical test which evaluate the null hypothesis that the means of 2 populations are equal and returns a p - value .
+a false positive rate is a data item which accounts for the proportion of incorrect rejection of a true null hypothesis .
+homoskedasticity states that all variances under consideration are homogenous .
+chromosome coordinate system is a genomic coordinate which uses chromosome of a particular assembly build process to define start and end positions .
+a null hypothesis which states that no linkage exists between 2 categorical variables
+a null hypothesis is a statistical hypothesis that is tested for possible rejection under the assumption that it is true  ( usually that observations are the result of chance )  .
+goodness of fit hypothesis is a null hypothesis stating that the distribution computed from the sample population fits a theoretical distribution or that a dataset can be correctly explained by a model
+the student's t distribution is a continuous probability distribution which  arises when estimating the mean of a normally distributed population in situations where the sample size is small and population standard deviation is unknown .
+hypergeometric distribution is a probability distribution that describes the probability of  k successes in n draws from a finite population of size  n containing  k successes without replacement
+it is a null hypothesis stating that there are no differences observed between group of subjects .
+is a null hypothesis stating that there are no difference observed across a series of measurements made one same subject .
+genomic coordinate datum is a data item which denotes a genomic position expressed using a genomic coordinate system
+sequence read count is a data item determining how many sequence reads generated by a dna sequencing assay for a given stretch of dna can counted
+in statistics ,  a statement that can be tested .
+cleveland dot plot is a dot plot which plots points that each belong to one of several categories .
+a continuousprobability distribution is a probability distribution which is defined by a probability density function
+skewness is a data item indicating of the degree of asymmetry of a  distribution .
+the number degree of freedom is a count evaluating the number of values in a calculation that can vary .
+yate's corrected chi - squared test is a statistical test which is used to test the association / linkage / independence of 2 dichotomous variables while introducing a correction for using the continous chi - squared distribution for the test .
+reaction rate is a measurement datum which represents the speed of a chemical reaction turning reactive species into product species of event  ( i .e the number of such conversions ) s occuring over a time interval
+substrate concentration is a scalar measurement datum which denotes the amount of molecular entity   involved in an enzymatic reaction  ( or catalytic chemical reaction )  and whose role in that reaction is as substrate .
+fisher's exact test is a statistical test used to determine if there are nonrandom associations between two categorical variables .
+cochran - mantel - haenzel test for repeated tests of independence is a statitiscal test which allows the comparison of two groups on a dichotomous / categorical response .
+a rarefaction curve is a graph used for estimating species richness in ecology studies
+the mann - whitney u - test is a null hypothesis statistical testing procedure which allows two groups  ( or conditions or treatments )  to be compared without making the assumption that values are normally distributed .
+shapiro - wilk test is a goodness of fit test which evaluates the null hypothesis that the sample is drawn from a population following a normal distribution
+levene's test is a null hypothesis statistical test which evaluates the null hypothesis of equality of variance in several populations .
+bartlett's test  ( see snedecor and cochran ,  1989 )  is used to test if k samples are from populations with equal variances .
+the brown forsythe test is a statistical test which evaluates if the variance of different groups are equal .
+pearson's chi - squared test is a statistical null hypothesis test which is used to either evaluate goodness of fit of dataset to a chi - squared distribution or used to test independence  of 2 categorical variables  ( ie absence of association between those variables )  .
+a fixed effect model is a statistical model which represents the observed quantities in terms of explanatory variables that are treated as if the quantities were non - random .
+kolmogorov - smirnov test is a goodness of fit test which evaluates the null hypothesis that a sample is drawn from a population that follows a specific continuous probability distribution .
+multinomial logistic regression model is a model which attempts to explain data distribution associated with *polychotomous* response / dependent variable in terms of values assumed by the independent variable uses a function of predictor / independent variable ( s ) : the function used in this instance of regression modeling is probit function .
+effect size estimate is a data item about the direction and strength of the consequences of a causative agent as explored by statistical methods .
+an f - test is a statistical test which evaluates that the computed test statistics follows an f - distribution under the null hypothesis .
+a polychotomous variable  is a categorical variable  which is defined to have minimally 2 categories or possible values
+statistical sample size is a count evaluating the number of individual experimental units
+a case - control study design is a observation study design which assess the risk of particular outcome  ( a trait or a disease )  associated with an event  ( either an exposure or endogenous factor )  .
+a dichotomous variable  is a categorical variable  which is defined to have only 2 categories or possible values
+genome wide association study is a kind of study whose objective is to detect association between genetic markers  ( snp or otherwise )  accross the genome and a trait which may be a disease or another phenotype  ( e .g .
+the wilcoxon signed rank test is a statistical test which tests the null hypothesis that the median difference between pairs of observations is zero .
+information about a calendar date or timestamp indicating day ,  month ,  year and time of an event .
+the kruskal–wallis test is a null hypothesis statistical testing objective which  allows multiple  ( n > =2 )  groups  ( or conditions or treatments )  to be compared ,  without making the assumption that values are normally distributed .
+paired t - test is a statistical test which is specifically designed to analysis differences between paired observations in the case of studies realizing repeated measures design with only 2 repeated measurements per subject  ( before and after treatment for example ) 
+stratification is a planned process which executes a stratification rule using as input a population and assign it member to mutually exclusive subpopulation based on the values defined by the stratification rule
+a stastical test power analysis is a data transformation which aims to determine the size of a statistical sample required to reach a desired significance level given a particular statistical test
+hotelling's t2 test is a statistical test which is a generalization of student's t - test to a assess if the means of a set of variables remains unchanged when studying 2 populations .
+a random effect ( s )  model ,  also called a variance components model ,  is a kind of hierarchical linear model .
+standardized mean difference is data item computed by forming the difference between two means ,  divided by an estimate of the within - group standard deviation .
+the multinomial distribution is a probability distribution which gives the probability of any particular combination of numbers of successes for various categories defined in the context of  n independent trials each of which leads to a success for exactly one of k categories ,  with each category having a given fixed success probability .
+a z - score  ( also known as z - value ,  standard score ,  or normal score )  is a measure of the divergence of an individual experimental result from the most probable result ,  the mean .
+log signal intensity ratio is a data item which corresponding the logarithmitic base 2 of the ratio between 2 signal intensity ,  each corresponding to a condition .
+probit regression model is a model which attempts to explain data distribution associated with *dichotomous* response / dependent variable in terms of values assumed by the independent variable uses a function of predictor / independent variable ( s ) : the function used in this instance of regression modeling is the probit function aka the quantile function ,  i .e . ,  the inverse cumulative distribution function  ( cdf )  ,  associated with the standard normal distribution .
+a statistical model is an information content entity which is a formalization of relationships between variables in the form of mathematical equations .
+linear regression model is a model which attempts to explain data distribution associated with response / dependent variable in terms of values assumed by the independent variable uses a linear function or linear combination of the regression parameters and the predictor / independent variable ( s )  .
+multinomial logistic regression model is a model which attempts to explain data distribution associated with *polychotomous* response / dependent variable in terms of values assumed by the independent variable uses a function of predictor / independent variable ( s ) : the function used in this instance of regression modeling is logistic function .
+a sequence read is a dna sequence data which is generated by a dna sequencer
+a funnel plot is a scatter plot of treatment effect versus a measure of study size and aims to provide a visual aid to detecting bias or systematic heterogeneity .
+variance is a data item about a random variable or probability distribution .
+the process of using statistical analysis for interpreting and communicating "what the data say" .
+a discrete probability distribution is a probability distribution which is defined by a probability mass function where the random variable can only assume a finite number of values or infinitely countable values
+ranking is a data transformation which turns a non - ordinal variable into a ordinal variable by sorting the values of the input variable and replacing their value by their position in the sorting result
+model parameter estimation is a data transformation that finds parameter values  ( the model parameter estimates )  most compatible with the data as judged by the model .
+beanplot is a plot in which  ( one or )  multiple batches  ( "beans" )  are shown .
+the objective of a data transformation to evaluate a null hypothesis of absence of linkage between variables .
+a pedigree chart is a graph which plots parent child relations
+r2 is a correlation coefficient which is computed over the frequency of 2 dichotomous variable and is used as a measure of linkage disequilibrium and as input data item to the creation of an ld plot
+a stratification rule / criteria is a criteria used to determine population strata so that a stratification process implementing the rule can result in any member of the total population being assigned to one and only one stratum
+the dot plot as a representation of a distribution consists of group of data points plotted on a simple scale .
+volcano plot is a kind of scatter plot which graphs the negative log of the p - value  ( significance )  on the y - axis versus log2 of fold - change between 2 conditions on the  x - axis .
+a confidence interval which covers 99% of the sampling distribution ,  meaning that there is a 1% risk of false positive  ( type i error ) 
+altman box and whisker plot is a variation of tukey box and whisker plot which use the criteria of altman to create the 'whisker' of the plot .
+the breslow - day test is a statistical test which evaluates if the odds ratios are homogenous across n 2x2 contingency tables ,  for instance several 2x2 contingency tables associated with different strata of a stratified population when evaluating the relationship between exposure and outcome or associated with the different samples coming from several centres in a multicentric study in clinical trial context .
+a sphericity test is a null hypothesis statistical testing procedure which posits a null hypothesis of equality of the variances of the differences between levels of the repeated measures factor
+hotelling t squared distribution is a probability distribution used in multivariate hypothesis testing ,  which is a univariate distribution proportional to the f - distribution and arises importantly as the distribution of a set of statistics which are natural generalizations of the statistics underlying student's t - distribution .
+a post - hoc analysis is a statistical test carried out following an analysis of variance which ruled out the null hypothesis of absence of difference between group which allows identifying which groups differ .
+specificity is a measurement datum qualifying a binary classification test and is computed by substracting the false positive rate to the integral numeral 1
+strictly standardized mean difference  ( ssms )  is a standardized mean difference which corresponds to the  ratio of mean to the standard deviation of the difference between two groups .
+tarone's test for homogeneity of odds ratio is a statistical test which evaluates the null hypothesis that odds ratio are homogeneous
+an homoskedasticity test is a statistical test aiming at evaluate if the variances from several random samples are similar
+a 2x2 contingency table is a contingency table build for 2 dichotomous variables  ( i .e .
+a subject pairing is a planned process which executes a pairing rule and results in the creation of sets of 2 subjects meeting the pairing criteria
+a contigency table is a data item which displays the  ( multivariate )  frequency distribution of the possible values of categorical variables .
+acute toxicity study is an investigation which use interventions organized according to a factorial design and a parallel group design to observe the effect of use of high dose xenobiotics in animal models or cellular models
+the correlation coefficient of two variables in a data sample is their covariance divided by the product of their individual standard deviations .
+a bayesian model selection is a data transformation which is based on bayesian statistics to compute bayes factor in order to evaluate which model best explains data .
+a model parameter estimate is a data item which results from a model parameter estimation process and which provides a numerical value about a model parameter .
+the geometric distribution is a negative binomial distribution where r is 1 .
+a null hypothesis stating that there are differences observed between group of subjects
+linkage disequilibrium plot is a graph which represents pairwise linkage disequilibrium measures between snp as a heatmap
+the cochran - armitage test is a statistical test used in categorical data analysis when the aim is to assess for the presence of an association between a dichotomous variable  ( variable with two categories )  and a polychotomous variable   ( a variable with k categories )  .
+binomial logistic regression model is a model which attempts to explain data distribution associated with *dichotomous* response / dependent variable in terms of values assumed by the independent variable uses a function of predictor / independent variable ( s ) : the function used in this instance of regression modeling is logistic function .
+a minimum value is a data item which denotes the smallest value found in a dataset or resulting from a calculation .
+maximum value is a data item which denotes the largest value found in a dataset or resulting from a calculation .
+a quartile is a quantile which splits data into sections accrued of 25% of data ,  so the first quartile delineates 25% of the data ,  the second quartile delineates 50% of the data and the third quartile ,  75 % of the data
+the one - sample hotelling’s t2 is the multivariate extension of the common one - sample or paired student’s t - test .
+a violin plot is a plot combining the features of box plot and kernel density plot .
+meta - analysis is a data transformation which uses the effect size estimates from several independent quantitative scientific studies addressing the same question in order to assess finding consistency .
+the scheffe test is a data transformation which evaluates all possible contrasts and adjusting the levels significance by accounting for multiple comparison .
+the lsd test  is a statistical test for multiple comparisons of treatments by means of least significant difference following an anova analysis
+a null hypothesis which states that a linkage exists between 2 categorical variables
+stacked bar chart is a bar which is used to compare overall quantities across items while showing the contribution of category to the total amount .
+the exponential distribution  ( a .k .a .
+variable distribution is data item which denotes the spatial resolution of data point making up a variable .
+the role played by an entity part of study group as defined by an experimental design and realized in a data analysis and data interpretation
+trimmed mean or truncated mean is a measure of central tendency which involves the calculation of the mean after discarding given parts of a probability distribution or sample at the high and low end ,  and typically discarding an equal amount of both
+the interquartile range is a data item which corresponds to the difference between the upper quartile  ( 3rd quartile )  and lower quartile  ( 1st quartile )  .
+a pie chart is a graph in which a circular graph is divided into sector illustrating numerical proportion ,  meaning that the arc length of each sector  ( and consequently its central angle and area )  ,  is proportional to the quantity it represents .
+the bart chart is a graph resulting from plotting rectangular bars with lengths proportional to the values that they represent .
+the first quartile is a quartile which splits the lower 25 % of the data
+a real time quantitative pcr plot is a line graph which plots the signal fluorescence intensity as a function of the number of pcr cycle
+fold change is a number describing how much a quantity changes going from an initial to a final value or one condition to another condition
+the first quartile is a quartile which splits the 75 % of the data
+spear box and whisker plot is a variation of tukey box and whisker plot which use the criteria of spear to create the 'whisker' of the plot .
+expected fragments per kilobase of transcript per million fragments mapped is a metric used to report transcript expression event as generated by rna - seq using paired - end library .
+homogeneity testing objective is the objective of a data transformation to test a null hypothesis that two or more sub - groups of a population share the same distribution of a single categorical variable .
+a forest plot  is a graph designed to illustrate the relative strength of treatment effects in multiple quantitative scientific studies addressing the same question .
+confidence interval calculation is a data transformation which determines a confidence interval for a given statistical parameter
+t - statistic is a statistic computed from observations and used to produce a p - value in statistical test when compared to a student's t distribution .
+the beta distribution is a continuous probability distributions defined on the interval  [ 0 ,  1 ]  parametrized by two positive shape parameters ,  denoted by α and β ,  that appear as exponents of the random variable and control the shape of the distribution
+kurtosis is a data item which denotes the degree of peakedness of a distribution .
+ancova or analysis of covariance is a data transformation which evaluates if population means of a dependent variable are equal across levels of a categorical independent variables while controlling for the effects of other continuous variable s ,  known as covariates .
+standard normal distribution is a normal distribution with variance = 1 and mean=0
+hardy - weinberg equilibrium test is a statistical test which aims to evaluate if a population's proportion of allele is stable or not .
+odds ratio is a ratio that measures effect size ,  that is the strength of association between 2 dichotomous variables ,  one describing an exposure and one describing an outcome .
+sphericity testing objective is a statistical objective of a data transformation which aims to test a null hypothesis of sphericity holds .
+a ratio is a data item which is formed with two numbers r and s is written r / s ,  where r is the numerator and s is the denominator .
+a 2 by n contingency table is a contingency table built for one dichotomous variable  ( a categorical variable with only 2 outcomes )  and one polychotomous variable  ( a polychomotomous variable with at least 2 outcomes ) 
+lineweaver - burk plot is a graph which  is the graphical representation of the lineweaver–burk equation of enzyme kinetics ,  described by hans lineweaver and dean burk in 1934 .
+tukey honestly significant difference  ( hsd )  test is a statistical test used following an anova test yielding a statistically significant p - value in order to determine which means are different ,  to a given level of significance .
+average log signal intensity is a data time which corresponds to the sum of 2 distinct logarithm base 2 transformed signal intensity ,  each corresponding to a distinct condition of signal acquisition ,  divided by 2 .
+a mixed model is a statistical model containing both fixed effects and random effects .
+threshold cycle  ( or ct or cq )  is a count which is defined as the fractional pcr cycle number at which the reporter fluorescence is greater than the threshold in the context of the rt - qpcr assay .
+a goodness of fit statistical test is a statistical test which aim to evaluate if a sample distribution can be considered equivalent to a theoretical distribution used as input
+a cartesian product is a data transformation which operates on a n sets to produce a set of all possible ordered n - tuples where each element of the tuple comes from a set
+is a population whose individual members realize  ( may be expressed as )  a combination of  inclusion rule values specifications or resulting from a sampling process  ( e .g .
+self explanatory
+a non - negative integer defining how many combination of factor levels  ( or treatments in the statistical sense )  are to be used in a study .
+a confidence interval is a data item which defines an range of values in which a measurement or trial falls corresponding to a given probability .
+a genomic coordinate system is a coordinate system to describe position of sequence on a genomic scaffold  ( assembly of chromosome ,  contig . . . . ) 
+a statistical test which makes no assumption about the underlying data distribution
+the mauchly's test for sphericity is a statistical test which evaluates if the variance of the differences between all combinations of the groups are equal ,  a property known as 'sphericity' in the context of repeated measures .
+the statistical test power is data item which is about a statistical test and is obtained by subtracting the false negative rate  ( type ii error rate )  to 1 .
+spearman's rank correlation coefficient is a correlation coefficient which is a nonparametric measure of statistical dependence between two ranked variables .
+within subject comparison statistical test is a kind of statistical test which evaluates if a change occurs within one experimental unit over time following a treatment or an event
+a cohort is a study group population where the members are human beings which meet inclusion criteria and undergo a longitudinal design
+the f - distribution is a continuous probability distribution which arises in the testing of whether two observed samples have the same variance .
+rpkm is a kind of count which numbers the sequence reads found per kilobase of transcript reported to million of sequence reads .
+a planned process which etablishes and states the different  hypothesis to be evaluated during a null hypothesis statistical test
+an alternative hypothesis is an hypothesis defined in a statistical test that is the opposite of the null hypothesis .
+area under curve is a measurement datum which corresponds to the surface define by the x - axis and bound by the line graph represented in a 2 dimensional plot resulting from an integration or integrative calculus .
+is a data item formed by dividing the fluorescence intensity obtained in one channel to that obtained in the other channel ,  typically the case when considering 2 - color microarray data when imaging is done for cy3 and cy5 dyes .
+odds ratio homogeneity hypothesis is a null hypothesis stating that all odds ratio are homogenous ,  that is remain within the same range .
+a tetrachoric correlation coefficient is a polychoric correlation coefficient for 2 dichotomous variables used as proxy for correlation between 2 continuous latent variables .
+discretization as a processing converting a continuous variable into a polychotomous variable by concretizing a set of discretization rules
+a confidence interval which covers 50% of the sampling distribution ,  meaning that there is a 50% risk of false positive  ( type i error ) 
+probit regression model is a model which attempts to explain data distribution associated with *ordinal* response / dependent variable in terms of values assumed by the independent variable uses a function of predictor / independent variable ( s ) : the function used in this instance of regression modeling is the ordered probit function .
+a stratum population is a population resulting from a population stratification prior to sampling process which aims to produce homogenous subpopulations from an heterogeneous population by applying one or more stratification criteria
+a null hypothesis which states that a given matrix is proportional to a wishart - distributed covariance matrix
+model fitting is a data transformation process which evaluates if a model appropriately represents a dataset .
+a real time pcr standard curve is a line graph which plots the fluorescence intensity signal as a function of the concentration of a sample used as reference  and used to determine relative abundance of test samples
+the false negative rate is a data item which denotes the proportion of missed detection of elements known to be meeting the detection criteria
+a random variable  ( or aleatory variable or stochastic variable )  in probability and statistics ,   is a variable whose value is subject to variations due to chance  ( i .e .
+graeco - latin square design is_a study design which allows in its simpler form controlling 3 levels of nuisance variables  ( also known as blocking variables )  .
+group assignment based on blocking variable specification is a kind of group assignment process which takes into account the levels assumed by a blocking variable to allocate subjects or experimental units to a treatment group
+a testing objective to ensure that the sample used in a statistical test actually follows a normal distribution .
+a probability distribution is a information content entity that specifies the probability of the value of a random variable .
+it is a testing objective to ensure the variances of the different groups used in a statistical test are similar  ( i .e .
+a normal distribution is a continuous probability distribution described by a probability distribution function described here: http: /  / mathworld .wolfram .com / normaldistribution .html
+ordinal variable is a categorical variable where  the discrete possible values are ordered or  correspond to an implicit ranking
+chi - square probability distribution with k degrees of freedom is a theoretical probability distribution which  corresponds to the distribution of a sum of the squares of k independent standard normal random variables .
+the expected value  ( or expectation ,  mathematical expectation ,  ev ,  mean ,  or the first moment )  of a random variable is a data item which corresponds to the weighted average of all possible values that this random variable can take on .
+a confidence interval which covers 95% of the sampling distribution ,  meaning that there is a 5% risk of false positive  ( type i error )  .
+number of pcr cycle is a count which enumerates how many iterations of 'annealing ,  renaturation ,  amplification , ' rounds  ( or cycles )  are performed during a polymerase chain reaction  ( pcr )  or an assay relying on pcr .
+sensitivity is a measurement datum qualifying a binary classification test and is computed by substracting the false negative rate to the integral numeral 1
+a residual is a data item which is the output of an error estimate or model fitting process and which is an observable estimate of the unobservable error
+a genetic association study is a kind of study whose objective is to detect associations between phenotypes ,  between a phenotype and a genetic polymorphism or between two genetic polymorphisms .
+the coefficient of variation is a normalized measure of dispersion of a probability distribution of frequency distribution .
+the standard deviation of a random variable ,  statistical population ,  data set ,  or probability distribution is a measure of variation which correspond to the average distance from the mean of the data set to any given point of that dataset .
+high content screening is a kind of investigation which uses a standardized cellular assays to test the effect of substances  ( rnai or small molecules )  held in libraries on a cellular phenotype .
+high throughput screening is a kind of investigation which uses a standardized  assays  ( cell based ,  enzymatic or chemometric )  to test the effect of substances  ( rnai or small molecules )  held in libraries on a very specific and measureable outcome  ( e .g fluorence intensity )  .
+kendall's correlation coefficient is a correlation coefficient between 2 ordinal variables  ( natively or following a ranking procedure )  and may be used when the conditions for computing pearson's correlation are not met  ( e .g linearity ,  normality of the 2 continuous variables ) 
+q - q plot or quantile - quantile plot is the output of a graphical method for comparing two probability distributions by plotting their quantiles against each other
+statistical error is an data item denoting the amount by which an observation differs from the expected value ,  being based on the whole statistical population from which the statistical unit was chosen randomly
+a box plot is a graph which plots datasets relying on their quartiles and the interquartile range to create the box and the whiskers .
+ ( rn  +  )  −  ( rn − )  ,  where rn  +  =  ( emission intensity of reporter dye )  /  ( emission intensity of passive reference dye )  in pcr with template and rn − =  ( emission intensity of reporter dye )  /  ( emission intensity of passive reference dye )  in pcr without template or early cycles of a real - time reaction .
+relative risk is a measurement datum which denotes the risk of an 'event' relative to an 'exposure' .
+woolf's test is a statistical test which evaluates the null hypothesis that odds ratio are the same accross all strata of population under investigation
+odds ratio homogeneity test is a statistical test which aims to evaluate that null the hypothesis of consistency odds ratio accross different strata of population is true or not
+a blocking variable is a independent variable which is used in a blocking process part of an experiment with the purpose of maximizing the signal coming from the main variable .
+a dna microarray hybridization is an assay relying on nucleic acid hybridization  ,  which uses a dna microarray device and a nucleic acid as input .
+group comparison objective is a data transformation objective which aims to determine if 2 or more study group differ with respect to the signal of a response variable
+a continuous variable is one for which ,  within the limits the variable ranges ,  any value is possible .
+a categorical variable  is a variable  which that can only assume a finite number  of value and cast observation in a small number of categories
+the objective of a data transformation to test a null hypothesis of absence of difference within subject holds .
+the allele frequency is a data item which denotes the incidence of a gene variant in a population .
+the objective of a data transformation to test a null hypothesis of absence of difference withing subject holds .
+a manhattan plot for gwas is a kind of scatter plot used to facilitate presentation of genome - wide association study  ( gwas )  data .
+a domestic group ,  or a number of domestic groups linked through descent  ( demonstrated or stipulated )  from a common ancestor ,  marriage ,  or adoption .
+a variable is a data item which can assume any of a set of values ,  either as determined by an agent or as randomly occuring through observation .
+repeated measure anova is a kind of anova specifically developed for non - independent observations as found when repeated measurements on the sample experimental unit .
+the newman–keuls or student–newman–keuls  ( snk )  method is a stepwise multiple comparisons procedure used to identify sample means that are significantly different from each other .
+bernoulli distribution is a binomial distribution where the number of trials is equal to 1 .  notation: b ( 1 , p )   the mean is p  the variance is p*q
+galbraith  ( radial )  plot is a scatter plot which can be used in the meta - analytic context to examine the data for heterogeneity .
+a factor level combination is one a possible sets of factor levels resulting from the cartesian product of sets of factor and their levels as defined in a factorial design
+a factor level is data item which corresponds to one of the value assumed by a factor or independent variable manipulated and set by the experimentalist .
+bayes factor is a ratio between 2 probabilities of observing data according 2 distinct models .
+grouped bar chart is a kind of bar chart which juxtaposes the  discrete values for each of the possible value of a given categorical variable ,  thus providing  within group comparison .
+a gamma distribution is a general type of continous statistical distribution  ( related to the beta distribution )  that arises naturally in processes for which the waiting times between poisson distributed events are relevant .
+polychoric correlation coefficient is a correlation coefficient which is computed over 2 variables to characterise an association by proxy with 2   ( latent )  variables which are assumed to be continuous and normally distributed .
+a full factorial design is a factorial design which ensures that all possible factor level combinations are defined and used so all between group differences can be explored
+permutation numbering is a data tranformation allowing to count the number of possible permutations of elements in a set of size n ,  each element occurring exactly once .
+the michaelis constant  is the substrate concentration at which the reaction rate is at half - maximum ,  and is an inverse measure of the substrate's affinity for the enzyme—as a small  indicates high affinity ,  meaning that the rate will approach  more quickly .
+a population of two parents and a child .
+receiver operational characteristics curve is a graphical plot which illustrates the performance of a binary classifier system as its discrimination threshold  ( aka cut - off point )  is varied by plotting  sensitivity vs  ( 1 − specificity ) 
+the transmission disequilibrium test is a statistical test for genetic linkage between genetic marker and a trait in families .
+the binomial distribution is a discrete probability distribution which describes the probability of k successes in n draws with replacement from a finite population of size n .  the binomial distribution is frequently used to model the number of successes in a sample of size n drawn with replacement from a population of size n .  the binomial distribution gives the discrete probability distribution  of obtaining exactly n successes out of n bernoulli trials  ( where the result of each bernoulli trial is true with probability p and false with probability q=1 - p  )   notation: b ( n , p )   the mean is n*p  the variance is n*p*q
+hit selection is a planned process which in screening processes such as high - throughput screening ,  lead to the identification of perturbing agent which cause the typical signal generated by a standardized assay to significantly differ from the negative control .
+pairing rule is a rule which is specifies the criteria for deciding on how to associated any 2 entities .
+between group comparison statistical test is a statistical test which aims to detect difference  between the means computing for each of the study group populations
+the pearson's correlation coefficient is a correlation coefficient which evaluates two continuous variables for association strength in a data sample .
+f statistic is a statistic computed from observations and used to produce a p - value in statistical test when compared to a f distribution .
+negative binomial probability distribution is a discrete probability distribution of the number of successes in a sequence of bernoulli trials before a specified  ( non - random )  number of failures  ( denoted r )  occur .
+breusch - pagan test is a statistical test which computes a score test of the hypothesis of constant error variance against the alternative that the error variance changes with the level of the response  ( fitted values )  ,  or with a linear combination of predictors .
+hypergeometric test is a null hypothesis test which evaluates if a random variable follows a hypergeometric distribution .
+a one - tailed test is a statistical test which ,  assuming an unskewed probability distribution ,  allocates all of the significance level to evaluate only one hypothesis to explain a difference .
+a two tailed test is a statistical test which assess the null hypothesis of absence of difference assuming a symmetric  ( not skewed )  underlying probability distribution by allocating half of the significance level selected to each of the direction of change which could explain a difference  ( for example ,  a difference can be an excess or a loss )  .
+a null hypothesis which states that no difference exists between 2 or more groups being considered .
+a design matrix is an information content entity which denotes a study design .
+a contrast is the weighted sum of group means ,  the c_j coefficients represent the assigned weights of the means  ( these must sum to 0 for orthogonal contrasts ) 
+a quantile is a data item which corresponds to specific elements x in the range of a variate x . the k - th n - tile p_k is that value of x ,  say x_k ,  which corresponds to a cumulative frequency of nk / n  ( kenney and keeping 1962 )  .
+a decile is a quantile where n=10  and which splits data into sections accrued of 10% of data ,  so the first decile delineates 10% of the data ,  the second decile delineates 20% of the data and the nineth decile ,  90 % of the data
+a percentile is a quantile which splits data into sections accrued of 1% of data ,  so the first percentile delineates 1% of the data ,  the second quartile delineates 2% of the data and the 99th percentile ,  99 % of the data
+absence of negative difference hypothesis is a hypothesis which assumes that a difference  significantly less than a threshold does not exist .
+absence of negative difference hypothesis is a hypothesis which assumes that a difference significantly greater than a threshold does not exist .
+absence of depletion difference hypothesis is a hypothesis which assumes that the representation of an element significantly greater than a threshold does not exist .
+absence of depletion difference hypothesis is a hypothesis which assumes that the representation of an element significantly less than a threshold does not exist .
+a binomial test is a statistical hypothesis test which evaluates if the observations made about a bernoulli experiment  ,  that is an experiment which tests the statistical significance of deviations from a theoretically expected distribution  ( the binomial distribution )  of observations into 2 categories .
+statistical inference is the process of deducing properties of an underlying probability distribution by analysis of data .
+a ratio where the numerator and denominator are expressed in the same unit .
+the covariance is a measurement data item about the strength of correlation between a set  ( 2 or more )  of random variables .
+one sample t - test is a kind of student's t - test which evaluates if a given sample can be reasonably assumed to be taken from the population .
+two sample t - test is a null hypothesis statistical test which is used to reject or accept the hypothesis of absence of difference between the means over 2 randomly sampled populations .
+welch t - test is a two sample t - test used when the variances of the 2 populations / samples are thought to be unequal  ( homoskedasticity hypothesis not verified )  .
+a helmert contrast is a contrast in which the coefficients for the helmert regressors compare each level with the average of the “preceding” ones
+a polynomial contrast is a contrast which . . .
+treatment contrast is a contrast which allows to test how linear model coefficients of categorical variables are interpreted in case where  the “first” level  ( aka ,  the baseline )  is included into the intercept and all subsequent levels have a coefficient that represents their difference from the baseline .
+the sum contrast is a contrast in which each coefficient compares the corresponding level of the factor to the average of the other levels
+pearson's chi - squared test for goodnes of fit is a statistical null hypothesis test which is used to either evaluate goodness of fit of dataset to a chi - squared distribution
+barnard's test is an exact statistical test used to determine if there are nonrandom associations between two categorical variables .
+a central composite design is a study design which contains an imbedded factorial or fractional factorial design with center points that is augmented with a group of so - called 'star points' that allow estimation of curvature .
+the box - behnken design is an independent quadratic design in that it does not contain an embedded factorial or fractional factorial design .
+plackett - burman design is a type of study design optimizing multifactorial experiments characterized by their parsimony  and economy  with the run number a multiple of 4  ( rather than a power of 2 )  .
+upper confidence limit is a data item which is a largest value bounding a confidence interval
+lower confidence limit is a data item which is a lowest value bounding a confidence interval
+root - mean - square standardized effect is a data item which denotes effect size in the context of analysis of variance and corresponds to the square root of the arithmetic average of p  standardized effects   ( effects normalized to be expressed in standard deviation units )  .
+eta - squared is a biased estimator of the variance explained by the model in the population  ( it estimates only the effect size in the sample )  .
+omega - squared is a effect size estimate for variance explained which is less biased than the eta - squared coefficient .
+hedges's g is an estimator of effect size ,  which is similar to cohen's d and is a measure based on a standardized difference .
+glass's delta is an estimator of effect size which is similar to cohen's d but where the denominator corresponds only to the standard deviation of the control group  ( or second group )  .
+probability distribution estimated empirically on the data without assumptions on the shape of the probability distribution .
+a contrast weight is a coefficient which multiplies a group mean ,  part of a linear combinaison defining a constrast as a weighted sum of group means ,  giving a 'weight' to a specific group mean hence the name .
+a contrast weight matrix is a information content entity which holds a set of contrast weight ,  coefficient used in a weighting sum of means defining a contrast
+contrast weight estimate is a model parameter estimate which results from the computation from the data and that is used as input to a model fitting process
+the akaike information criterion  ( aic )  is a measure of the relative quality of a statistical model for a given set of data .
+corrected akaike information criteria is a modified version of the akaike information criterion .
+bayesian information criterion or schwartz's bayesian information criterion is a criterion for model selection among a finite set of models .
+a statistical model selection is a data transformation which is based on computing a relative quality value in order to evaluate and select which model best explains data .
+probability distribution which has no skew so its skewness=0
+probability distribution estimated empirically from all acquired data
+probability distribution estimated empirically on the data following a binning process
+probability distribution estimated using a smooth kernel function to avoid making assumptions about the distribution of the data .
+kernel density estimation  ( kde )  is a non - parametric way to estimate the probability density function of a random variable
+mixture distribution is the probability distribution of a random variable that is derived from a collection of other random variables as follows: first ,  a random variable is selected by chance from the collection according to given probabilities of selection ,  and then the value of the selected random variable is realized .
+probability distribution estimated empirically from a censored lifetime data
+best linear unbiased prediction is a data transformation which predicts  < tdb >  under the assumption that the variable ( s )  under consideration have a random effect
+breeding value estimation is a data transformation process aiming at computing breeding value estimates of an organism given a set of genomic  ( snp )  observations ,  pedigree information and / or phenotypic observations .
+breeding value estimation is a data transformation process aiming at computing breeding value estimates of an organism given a set of genomic  ( snp )  observations .
+breeding value estimation is a data transformation process aiming at computing breeding value estimates of an organism given a set of pedigree information .
+breeding value estimation is a data transformation process aiming at computing breeding value estimates of an organism given a set of phenotypic observations .
+a dataset which is made up of genotypic information ,  that is presenting allele information at specific loci in a set of individuals of an organism .
+a covariance structure is a data item which is part of a regression model and which indicates a pattern in the covariance matrix .
+given two sets of locations computes the matern cross covariance matrix for covariances among all pairings .
+the rational quadratic covariance function is used in spatial statistics ,  geostatistics ,  machine learning ,  image analysis ,  and other fields where multivariate statistical analysis is conducted on metric spaces .
+spatial linear geometric anisotropic covariance structure is a type of covariance structure characterized by its anisotropy ,  i .e . ,  the variation of properties can be different in directions x and y ,  which is this case give linear features .
+spatial spherical geometric anisotropic covariance structure is a type of covariance structure characterized by its anisotropy ,  i .e . ,  the variation of properties can be different in directions x and y ,  which is this case give spherical features .
+spatial gaussian geometric anisotropic covariance structure is a type of covariance structure characterized by its anisotropy ,  i .e . ,  the variation of properties can be different in directions x and y ,  which is this case give gaussian features .
+spatial exponential geometric anisotropic covariance structure is a type of covariance structure characterized by its anisotropy ,  i .e . ,  the variation of properties can be different in directions x and y ,  which is this case give exponential features .
+spatial exponential anisotropic covariance structure is a type of covariance structure characterized by its anisotropy ,  i .e . ,  the variation of properties can be different in directions x and y ,  which is this case give exponential features .
+the banded heterogeneous toeplitz covariance structure is a type of coviance structure which is often used to  analyzed and intepret repeated measure design .
+this covariance structure has heterogenous variances and heterogenous correlations between elements .
+a banded toeplitz structure ,  defined by parameter q ,  can be viewed as a moving - average structure with order q - 1 .
+the toeplitz covariance structure has homogenous variances and heterogenous correlations between elements .
+a form of covariance structure used to provide analysis ground s in the context of repeated measures datasets  ( longitudinal ,  time series ) 
+factor - analytic structure is a covariance structure which is specified for q factors  equal diagonal factor - analytic covariance structure is a type of factor analytic covariance structure specified for q factors ,  which includes a diagonal component for repeated measures .
+no diagonal factor - analytic covariance structure is a type of factor analytic covariance structure specified for q factors ,  which does not include a diagonal component for repeated measures .
+factor - analytic structure is a type of heterogeneous covariance structure which is specified for q factors
+compound symmetry covariance structure is a covariance structure which means that all the variances are equal and all the covariances are equal .
+heterogenous compound symmetry structure is a compound symmetry covariance structure which has a different variance parameter for each diagonal element ,  and it uses the square roots of these parameters in the off - diagonal entries .
+first order autoregressive moving average covariance structure is a type of covariance structure which is used in the context of time series analysis
+first order autoregressive covariance structure is a covariance structure where correlations among errors decline exponentially with distance
+this is an homogeneous structure ,  i .e .
+ante - dependence covariance structure is a covariance structure which specifies that the covariance between two time points is a function of the product of variances at both points  ( hence allowing hetrogenity of error variance across measures to affect the correlation )  and the product of the correlations at the distances up to the one chosen .
+mallows' cp is a data item which compares the precision and bias of the full model to models with a subset of the predictors thus helping to choose between multiple regression models .
+repeated measure analysis is a kind of data transformation which deals with signals measured in the same experimental units at different times and ,  possibly ,  under different conditions over a period of time .
+the ordinary least squares estimation is a model parameter estimation for a linear regression model when the errors are uncorrelated and equal in variance .
+the weighted least squares estimation is a model parameter estimation for a linear regression model with errors that independent but have heterogeneous variance .
+the generalized least squares estimation is a model parameter estimation for a linear regression model with errors that are dependent and  ( possibly )  have heterogeneous variance .
+the iteratively reweighted least squares estimation is a model parameter estimation which is a practical implementation of weighted least squares ,  where the heterogeneous variances of the errors are estimated from the residuals of the regression model ,  providing an estimate for the weights .
+the feasible generalized least squares estimation is a model parameter estimation which is a practical implementation of generalised least squares ,  where the covariance of the errors is estimated from the residuals of the regression model ,  providing the information needed to whiten the data and model .
+a residual mean square is a data item which is obtained by dividing the sum of squared residuals  ( ssr )  by the number of degrees of freedom
+z - statistic is a statistic computed from observations and used to produce a p - value when compared to a standard normal distribution in a statistical test called the z - test .
+deviance is an indicator of fit and can be estimated by computing   - 2 times the log - likelihood ratio of the fitted model compared to a saturated ( full )  model .
+the deviance information criterion  ( dic )  is a hierarchical modeling generalization of the aic  ( akaike information criterion )  and bic  ( bayesian information criterion ,  also known as the schwarz criterion )  .
+the focused information criterion is a measurement data item which aims at facilitating model selection .
+a data transformation that finds a contrast value  ( the contrast estimate )  by computing the weighted sum of model parameter estimates using a set of contrast weights .
+estimate of a contrast obtained by computing the weighted sum of model parameter estimates using a set of contrast weights .
+an estimate of the standard deviation of a contrast estimate sampling distribution .
+a scree plot is a graphical display of the variance of each component in the dataset which is used to determine how many components should be retained in order to explain a high percentage of the variation in the data
+a scatterplot matrix contains all the pairwise scatter plots of a set of variables on a single page in a matrix format .
+the alpha distribution is a continuous probability distribution whose density function is as defined at: https: /  / docs .scipy .org / doc / scipy - 1 .0 .0 / reference / tutorial / stats / continuous_alpha .html
+a power - law probability distribution is a probability distribution whose density function  ( or mass function in the discrete case )  has the form  p ( x )  = l ( x )   .
+a regression model is a statistical model used in a type of analysis knowns as regression analysis ,  whereby a function is used to determine the relation between a response variable and an independent variable  ,  with a set of unknown parameters .
+the pareto distribution is a continuous probability distribution ,  which is defined by the follwoing probability density  ( 1 )  function and distribution function  ( 2 )    ( 1 ) : p ( x ) = ( ab^a )  /  ( x^ ( a + 1 )  ) 	   ( 2 ) : d ( x ) =1 -  ( b / x ) ^a	  defined over the interval x > =b .
+the pareto type - ii probability distribution is a continuous probability distribution which is defined by a probability density function characterized by 2 parameters ,  alpha and lambda ,  2 real ,  strictly positive numbers .
+the pareto ( iii )  distribution is a continous probability distribution which is described with a cumulative distribution function of the following form:  f ( x )  = 1 −  [ 1  +   (  ( x − mu )  / sigma ) 1 / gamma ] −1 for x  >  mu ,  sigma  >  0 ,  gamma  >  0 and s =1 .
+the pareto ( iv )  distribution is a continous probability distribution which is described with a cumulative distribution function of the following form:  f ( y )  = 1 −  [ 1  +   (  ( y − a )  / b ) 1 / g ] −s for y  >  a ,  b  >  0 ,  g  >  0 and s  >  0 .   a is the location parameter ,   b is the scale parameter ,   g is the inequality parameter s is the shape parameter  the distribution is used in actuarial science ,  economics ,  finance and telecommunications ,  but not restricted to those fields .
+the geometric mean is defined as the nth root of the product of n numbers ,  i .e . ,  for a set of numbers  \ {x_i \ }_{i=1}^n ,  the geometric mean is defined as  \ left (  \ prod_{i=1}^n x_i \ right ) ^{1 / n} .
+the harmonic mean is a kind of mean which is calculated by dividing the total number of observations by the reciprocal of each number in a series .
+the weighted arithmetic mean is a measure of central tendency that is the sum of the products of each observed value and their respective non - negative weights ,  divided by the sum of the weights ,  such that the contribution of each observed value to the mean may defer according to its respective weight .
+the interquartile mean  ( iqm )   ( or midmean )  is a statistical measure of central tendency based on the truncated mean of the interquartile range .
+the root mean square  ( abbreviated rms or rms )  ,  also known as the quadratic mean ,  in statistics is a statistical measure of central tendency defined as the square root of the mean of the squares of a sample .
+the sample mean of sample of size n with n observations is an arithmetic mean computed over n number of observations on a statistical sample .
+the population mean or distribution mean is a parameter of a probability distribution or population indicative of the data dispersion .
+a covariance structure where no restrictions are made on the covariance between any pair of measurements .
+the yuen's t - test is a two sample t - test with populations of unequal variance which provides a more robust t - test procedure under normal distribution and long tailed distributions .
+fagan nomogram is a graph plotting pre - test probabilities ,  likelyhood ratios and post - test probabilities on 3 parallel axis .
+two - step fagan nomogram ,  which adds two extra axis between the lr axis that represents sensibility and specificity to calculate negative and positive likelihood ratios in the same nomogram
+the likelihood ratio is a ratio which is formed by dividing the post - test odds with the pre - test odds in the context of a bayesian formulation
+the likelihood ratio of negative results is a ratio which is formed  by dividing the difference between 1 and sensitivity of the test by the specificity value of a test . .
+the likelihood ratio of positive results is a ratio which is form by dividing the sensitivity value of a test by the difference between 1 and specificity of the test .
+prevalence is a ratio formed by the number of subjects diagnosed with a disease divided by the total population size .
+incidence is the ratio of the number of new cases of a disease divided by the number of persons at risk for the disease .
+mortality is a ratio  formed by the number of deaths due to a disease divided by the total population size .
+in the context of binary classification ,  accuracy is defined as the proportion of true results  ( both true positives and true negatives )  to the total number of cases examined  ( the sum of true positive ,  true negative ,  false positive and false negative )  .
+precision or positive predictive value is defined as the proportion of the true positives against all the positive results  ( both true positives and false positives ) 
+the probability of a patient having the target disorder before a diagnostic test result is known
+a measure of heterogeneity in meta - analysis  is a data item which aims to describe the variation in study outcomes between studies .
+the cochran's q  statistic is a measure of heterogeneity accros study computed by summing the squared deviations of each study's estimate from the overall meta - analytic estimate ,  weighting each study's contribution in the same manner as in the meta - analysis .
+the quantity called i2 ,  describes the percentage of total variation across studies that is due to heterogeneity rather than chance .
+tau - squared is an estimate of the between - study variance in a random - effects meta - analysis .
+the l’abbé plot was introduced in 1987 in the context of meta - analyses of clinical trials with dichotomous  ( binary )  outcomes ,  as a plot of observed risks in the treatment group against observed risks in the control group .
+the proportion of individuals in a population with the outcome of interest
+the risk difference is the difference between the observed risks  ( proportions of individuals with the outcome of interest )  in the two groups .
+sidik - jonkman estimator is a data item computed to estimate heterogeneity parameter  ( estimate of between - study variance )  in a random effect model for meta analysis .
+hunter - schmidt estimator is a data item computed to estimate heterogeneity parameter  ( estimate of between - study variance )  in a random effect model for meta analysis .
+restricted maximum likelihood estimation is a kind of maximum likelihood estimation data transformation which estimates the variance components of random - effects in univariate and multivariate meta - analysis .
+maximum likelihood estimation  ( mle )  is a method of estimating the parameters of a statistical model ,  given observations .
+dersimonian - laird estimator s a data item computed to estimate heterogeneity parameter  ( estimate of between - study variance )  in a random effect model for meta analysis .
+a random effect meta analysis procedure defined by hartung and knapp and by sidik and jonkman which performs better than dersimonian and laird approach ,  especially when there is heterogeneity and the number of studies in the meta - analysis is small .
+a meta analysis which relies on the computation of the dersimonian and leard estimator as a measure of heterogeneity over a set of studies .
+a meta analysis which relies on the computation of the hunter and schmidt estimator as a measure of heterogeneity over a set of studies by considering the weighted mean of the raw correlation coefficient .
+mcnemar's test is a statistical test used on paired nominal data .
+cochran's q test is a statistical test used for unreplicated randomized block design experiments with a binary response variable and paired data .
+a probability distribution scale parameter is a measure of variation which is set by the operator when selecting a parametric probability distribution and which defines how spread the distribution is .
+a probability distribution shape parameter is a data item which is set by the operator when selecting a parametric probability distribution and which dictates the way the profile but not the location or size of the distribution plot looks like .
+a scale estimator is a measurement datum  ( a statistic )  which is calculated to approach the actual scale parameter of a probability distribution from observed data .
+a log - normal  ( or lognormal )  distribution is a continuous probability distribution of a random variable whose logarithm is normally distributed .
+outlier detection testing objective is a statistical objective of a data transformation which aims to test a null hypothesis that an observation is not an outlier .
+dixon test is a statistical test used to detect outliers in a univariate data set assumed to come from a normally distributed population .
+grubbs' test is a statistical test used to detect one outlier in a univariate data set assumed to come from a normally distributed population .
+tietjen - moore test for outlier is a statistical test used to detect outliers and corresponds to a generalization of the grubb's test ,  thus allowing detection of more than one outlier  in a univariate data set assumed to come from a normally distributed population .
+the extreme studentized deviate test  is a statistical test used to detect outliers in a univariate data set assumed to come from a normally distributed population .
+a split - plot design is kind of factorial design  which is used when running a full factorial completely randomized design is inpractical ,  either for cost or practicalities  ( e .g .
+a split split plot design is a study design where restricted randomization affect 2 study factors  ( and not 1 as in split - plot design )  .
+restricted randomization is a kind of randomization which is used or occured when hard to change factors exist in a study design .
+a 'whole plot number' is a data item used to count and identify the actual piece of land  ( in the case of real field based trials )  used in a split plot design experiment and receiving treatments corresponding to the levels of a factor whose randomization is restricted  ( these factors are known as 'hard to change' factors )  .
+a 'sub plot number' is a data item used to count and identify the actual piece of land located within a 'whole plot' ,  in the case of real field based trials using a split - plot design ,  and received  completely randomized treatments corresponding to the factor levels combinations of the remainder factors declared in the experiment .
+a 'sub sub - plot number' is a data item used to count and identify the actual piece of land located within a 'sub plot' ,  in the case of real field based trials using a split - split - plot design ,  and received  completely randomized treatments corresponding to the factor levels combinations of the remainder factors declared in the experiment .
+"wilks'  lambda  is  a  test  statistic  used  in  multivariate  analysis  of  variance  ( manova )   to  test  whether  there  are  differences  between  the  means  of identified  groups  of  subjects  on  a  combination  of  dependent  variables ."
+"pillai proposed the trace test for the following three tests:  ( a )  equality of mean vectors of lp‐variate normal distributions with the common but unknown covariance matrix ,   ( b )  independence between two sets of variates distributed jointly as a normal distribution with unknown mean vector ,  and  ( c )  equality of covariance matrices of two p‐variate normal distributions with unknown mean vectors ."
+"the lawley–hotelling trace is used to test the equality of mean vectors of k p‐variate normal distributions with common but unknown covariance matrix .
+"roy's maximum root test finds the maximum characteristic root or eigenvalue statistic for testing equality of k p - variate normal distributions with same covariance matrix ,  independence between two sets of variables jointly distributed as a normal distribution ,  equality of covariance matrices of two p - variate normal distributions ,  whether the covariance matrix of a p - variabte normal distribution with unknown mean vector equals a specified matrix"
+"the multivariate analysis of variance ,  or manova ,  is a procedure for comparing multivariate sample means .
+in bayesian statistics context ,  a credible interval is an interval of a posterior distribution which is such that the density at any point inside the interval is greater than the density at any point outside and that the area under the curve for that interval is equal to a prespecified probability level .
+in bayesian statistics context ,  a 95% credible interval is a credible interval which , given the data ,  includes the true parameter  with probability of 95% .
+"the mean difference ,  or difference in means ,  measures the absolute difference between the mean value in two different groups ."
+in bayesian statistics context ,  a 99% credible interval is a credible interval which ,  given the data ,  includes the true parameter  with probability of 99% .
+group sequential design is a study design used in clinical trial settings in which interim analyses of the data are conducted after groups of patients are recruited .
+interim analysis is a data transformation used to analyzed studies implementing a group - sequential design ,  to evaluate and  interpret the accumulating information during a clinical trial .
+the o'brien - flemming boundary analysis is a kind of interim - analysis method implemented by o'brien and flemming to account for the    as all frequentist methods of the same type ,  it focuses on controlling the type i error rate as the repeated hypothesis testing of accumulating data increases the type i error rate of a clinical trial .
+the pocock boundary analysis gives a p - value threshold for each interim analysis which guides the data monitoring committee on whether to stop the trial .
+the haybittle–peto boundary analysis is an interim analysis where a rule for deciding when to stop a clinical trial prematurely is defined .
+a lnear mixed model is a mixed model containing both fixed effects and random effects and in which factors and covariates are assumed to have a linear relationship to the dependent variable .
+an empirical measure is a random measure arising from a particular realization of a  ( usually finite )  sequence of random variables .
+a model term is a data item set in statistical model formula to apportion source of variation .
+the model random effect term is model term which aims to account for the unwanted variability in the data associated with a range of independent variables which are not the primary interest in the dataset .
+a model fixed effect term is a model term which accounts for  variation explained by an independent variable and its levels .
+a model interaction effect term is a model term which accounts for variation explained by the combined effects of the factor levels of more than one  ( usually 2 )  independent variables .
+a model error term is a model term which accounts for  residual variation not explained by the other components  ( fixed and random effect terms ) 
+a statistic estimator is a data item which is computed from a dataset to provide an approximated value  ( an estimator )  for a 'statistical parameter'   ( a 'characteristics / parameter' of the true underlying distribution )  of a real population .
+an estimate of the number of degrees of freedom .
+the kenward - roger method's fundamental idea is to calculate the approximate mean and variance of their statistic and then match moments with an f distribution to obtain the denominator degrees of freedom .
+satterthwaite degree of freedom approximation is a type of degree of freedom approximation which is used to estimate an “effective degrees of freedom” for a probability distribution formed from several independent normal distributions where only estimates of the variance are known .
+a data transformation to determine the number of degree of freedom
+rr - blup is a data transformation used in the context of estimating breeding value using a bayesian ridge regression .
+a data transformation which calculate predictions of breeding values using an animal model and a relationship matrix calculated from the genomic / genetic markers  ( g matrix )  ,  in constrast to using pedigree information as in blup ,  also known as ablup
+a data transformation which calculate estimates of genomic estimated breeding values  ( gebvs )  on an animal or plant model utilizing trait - specific marker information .
+bayes a is a data transformation used in the context of estimating breeding value ,  which relies on a bayesian model and treats the prior probability π that a snp has zero effect as unknown  ( i .e π=0 ) 
+bayes b is a data transformation used in the context of estimating breeding value ,  which relies on a bayesian model ,  treats the prior probability π that a snp has zero effect to a set value  ( i .e π  > 0 )  and uses a mixture distribution .
+the estimated breeding value of an organism is a data item computed to estimate the true breeding value defined as genetic merit of an organism ,  half of which will be passed on to its progeny .
+additive genetic model is a data item which refer to the contributions to the final phenotype from more than one gene ,  or from alleles of a single gene  ( in heterozygotes )  ,  that combine in such a way that the sum of their effects in unison is equal to the sum of their effects individually .
+additive genetic model is a data item which refer to the contributions to the final phenotype from more than one gene ,  or from alleles of a single gene  ( in heterozygotes )  ,  that combine in such a way that the sum of their effects in unison is equal to the sum of their effects individually and dominance  ( of alleles at a single locus )  .
+additive genetic model ris a data item which refer to the contributions to the final phenotype from more than one gene ,  or from alleles of a single gene  ( in heterozygotes )  ,  that combine in such a way that the sum of their effects in unison is equal to the sum of their effects individually and  additive dominant  (   ( of alleles at a single locus )   )  and  epistasis  ( of alleles at more different loci ) 
+dunn’s multiple comparison test is a post hoc  ( i .e .
+conover - iman test for stochastic dominance is a stastical test for multiple group comparisons and reports the results among multiple pairwise comparisons after a kruskal - wallis test for stochastic dominance among k groups  ( kruskal and wallis ,  1952 )  .
+bayesian lasso is a data transformation where the regression parameters have independent laplace  ( i .e . ,  double - exponential )  priors and are used to interprete lasso estimate for linear regression parameters as bayesian posterior mode estimates in accordance to a bayesian framework .
+a genotype matrix is a kind of genomic relationship matrix in the rawest of form and which simply corresponds to a matrix of individuals genotype for a given set of markers or genomic positions .
+the maf matrix is a genomic relationship matrix which is obtained from the genotype matrix by counting the number of minor alleles at each locus
+the m matrix is a genomic relationship matrix which is obtained by subtracting 1 to every value of the maf matrix  ( gene content matrix )  .
+p matrix is a kind of genomic relationship matrix which contains allele frequencies expressed as a difference from 0 .5 and multiplied by 2 .
+the z - matrix is a genomic relationship matrix which is obtained by substracted the m matrix with the p matrix .
+the degree of freedom numerator is the number of degrees of freedom that the estimate of variance used in the numerator is based on .
+augmented design is a kind of experimental design where the goal is to compare existing  ( control )  treatments with new treatments that have an experimental constraint of "limited replication" .
+a probability distribution location parameter is a data item which is set by the operator when selecting a parametric probability distribution and which dictates the way the location but not the profile or size of the distribution plot looks like .
+the weibull probability distribution is continuous probabibility distribution which is used to model time to fail ,  time to repair and material strength in material science .
+statistical sampling is a planned process which aims at assembling a population of observation units  ( samples )  in as an unbiaised manner as possible in order to obtain or infer information about the actual population these samples have been drawn .
+simple random sampling is a statistical sampling process which creates a sample of a size n entirely by chance .
+line intercept sampling  is a sampling process by which an element in a spatial region is included in a sample if it is intersected by a line chosen by the operator .
+quadrat sampling is a classic tool for the study of ecology ,  especially biodiversity .
+cluster sampling is a sampling plan used when mutually homogeneous yet internally heterogeneous groupings are evident in a statistical population .
+probability proportional to size  ( 'pps' )  sampling is a sampling method in which the selection probability for each element is set to be proportional to its size measure ,  up to a maximum of 1 .
+stratified sampling is a statistical sampling method which divides the population into homogenous subpopulations ,  which are then sampled using random or systematic sampling methods
+systematic sampling is a process for collecting samples and assembling a statistical sample using a system or method  (  .e .g unequal probabilities ,  without replacement ,  fixed sample size )  ,  as opposed to a random sampling .
+quota sampling is a method for selecting survey participants that is a non - probabilistic version of stratified sampling .
+panel sampling is the method of first selecting a group of participants through a random sampling method and then asking that group for  ( potentially the same )  information several times over a period of time .
+snowball sampling  ( or chain sampling ,  chain - referral sampling ,  referral sampling )  is a non - probability sampling technique where existing study subjects recruit future subjects from among their acquaintances .
+the voluntary sampling method is a type of non - probability sampling .
+convenience sampling  ( also known as grab sampling ,  accidental sampling ,  or opportunity sampling )  is a type of non - probability sampling that involves the sample being drawn from that part of the population that is close to hand .
+brewer's sampling is a statistical sampling method which was proposed by brewer in 1975 and uses unequal probabibility sampling technique
+in imbalanced datasets ,  where the sampling ratio does not follow the population statistics ,  one can resample the dataset in a conservative manner called minimax sampling .
+complete randomization is a group randomization where experimental units are randomly assigned to the entire set of groups defined by the experimental treatments .
+data imputation is a data transformation process whereby missing data is replaced with an estimated value for the missing element .
+last observation carried forward data imputation is a type of data imputation which uses a very simple ,  self explanatory method for substituted a missing value for an observation .
+regression data imputation is a type of data imputation where missing values are replaced with the value of a regression function coefficient .
+substitution by the mean data imputation is a type of data imputation where missing values are replaced with the value the variable mean .
+multivariate imputation with chained equations  ( mice )  is a type of data imputation which uses an algorithm devised by stef van buuren and karin groothuis - oudshoorn
+k - nearest neighbour imputation is a data imputation which uses the k - nearest neighbour algorithm to compute a substitution value for the missing values .
+matthews correlation coefficient  ( or mcc )  is a correlation coefficient which is a measure of the quality of binary  ( two - class )  classifications ,  introduced by biochemist brian w . matthews in 1975 .
+a covariance matrix is a square matrix that contains the variances and covariances associated with several variables .
+the numerator relationship matrix is the matrix of *expected* additive genetic relationships between individuals .
+the degree of freedom denominator is the number of degrees of freedom that the estimate of variance used in the denominator is based on .
+a matrix of relationships among a group of individuals ,  which can be used to predict breeding values ,  to manage inbreeding and in genetic conservation .
+a scaled t distribution is a kind of student's t distribution which is shifted by 'mean' and scaled by standard deviation 'sd' .
+a bayesian model is a statistical model  where inference is based on using bayes theorem to obtain a posterior distribution for a quantity  ( or quantities )  of interest for some model  ( such as parameter values )  based on some prior distribution for the relevant unknown parameters and the likelihood from the model .
+a prior probability distribution is a probability distribution used as input to a bayesian model to represent a priori knowledge about a model parameter .
+a posterior probability distribution is a probability distribution computed in a bayesian model approach given a prior distribution and a set of events / observations .
+bayes c pi is a data transformation used to compute estimated breeding values using a bayesian model and which assesses the snp effect using montecarlo markov chain methods .
+genetic inheritance model is a data item defining the assumption used by a breeding value estimation method to consider when running the calculations .
+sampling from a probability distribution is a data transformation which aims at obtaining a sequence of random samples from a probability distribution for which direct sampling is difficult .
+gibbs sampling or a gibbs sampler is a markov chain monte carlo  ( mcmc )  algorithm for obtaining a sequence of observations which are approximated from a specified multivariate probability distribution ,  when direct sampling is difficult .
+the metropolis–hastings algorithm is a markov chain monte carlo  ( mcmc )  method for obtaining a sequence of random samples from a probability distribution for which direct sampling is difficult .
+a continuous multivariate probability distribution is a continuous probability distribution which describes the possible values ,  and corresponding probabilities ,  of two or more  ( usually three or more )  associated random variables .
+a discrete multivariate probability distribution is a discrete probability distribution which describes the possible values ,  and corresponding probabilities ,  of two or more  ( usually three or more )  associated random variables .
+a data transformation that produces a reproducing kernel hilbert space  ( or rkhs )  ,  which is a hilbert space of functions in which point evaluation is a continuous linear functional .
+a state space model is a kind of statistical model which describes the probabilistic dependence between the latent state variable and the observed measurement .
+genomic estimated breeding value  ( gebv )  is an estimated breeding value derived from information in an organism dna  ( genotype )  .
+in a planned experiment where to covariance  ( genotype  x environment )  can be controlled and held at 0 ,  the heritability is defined as the ratio of the variance of the genotypic variables to the variance of the phenotypic variables .
+a particularly important component of the genetic variance is the additive variance ,  var ( a )  ,  which is the variance due to the average effects  ( additive effects )  of the alleles .
+bayes r is a data transformation used in the context of estimating breeding value ,  which relies on a bayesian model to compute 'genomic estimated breeding values' .
+the double exponential distribution  ( a .k .a .
+bootstrapping is the practice of estimating properties of an estimator  ( such as its variance )  by measuring those properties when sampling from an approximating distribution .
+random forest procedure is a type of data transformation used in classification and statistical learning using regression .
+log likelihood is a data item which corresponds to the natural logarithm of the likelihood .
+a data transformation process in which the holm p - value procedure is applied with the aim of correcting false discovery rate
+a data transformation process in which the hommel p - value procedure is applied with the aim of correcting false discovery rate
+number of cross - validation segments is a count which is used as input parameter in a cross validation procedure to evaluate a statistical model .
+number of predictive components is a count used as input to the principle component analysis  ( pca ) 
+number of orthogonal components is a count used as input to the orthogonal partial least square discriminant analysis  ( opls - da ) 
+a statistical model term testing is a data transformation that accounts for the evaluation of a component of a statistical model or model term .
+the wald test is statistical test which computes a wald chi - squared test for 1 or more coefficients ,  given their variance - covariance matrix .
+the rao - scott test is a statistical test which tests the hypothesis that all coefficients associated with a particular regression term are zero  ( or have some other specified values )  .
+the frequency  ( i .e . ,  the proportion )  of possible confidence intervals that contain the true value of their corresponding parameter .
+it is a measure of how precise is an estimate of the statistical parameter is .
+biplots are a type of exploratory graph used in statistics ,  a generalization of the simple two - variable scatterplot .
+the coefficient of determination is a data item measuring the proportion of the variance in the dependent variable that is predictable from the independent variable ( s )  .
+a regression coefficient is a data item generated by a type of data transformation called a regression ,  which aims to model a response variable by expression the predictor variables as part of a function where variable terms are modified by a number .
+an eigenvalue is a data item resulting from a data transformation known as eigen value decomposition .
+factor analysis is a dimension reduction data transformation that is used to describe variability among observed ,  correlated variables in terms of a potentially lower number of unobserved variables called factors .
+in factor analysis ,  factor loadings express the relationship of each variable to the underlying factor .
+the score indicates how sensitive a likelihood function l (  \ theta , x )  is to its parameter  \ theta .
+the selectivity ratio  ( sr )  is defined as the ratio of explained vexpl , i to residual variance vres , i for the variable i on the  target projection  ( tp )  component in the context of partial least squares analysis .
+partial least squares regression  ( pls regression )  is a data transformation that bears some relation to principal components regression ;  instead of finding hyperplanes of maximum variance between the response and independent variables ,  it finds a linear regression model by projecting the predicted variables and the observable variables to a new space .
+a version of pls used for classification ,  where the input y - block are group labels  ( categorical variable )  rather than a continuous variable
+a data transformation which finds principal component  by applying non - linear iterative partial least squares algorithm
+a novel algorithm for partial least squares  ( pls )  regression ,  simpls ,  is proposed which calculates the pls factors directly as linear combinations of the original variables .
+a partial least square regression applied when there is only one variable in y  ( the matrix of response variables )  ,  or it is desirable to model and optimize separately the performance of each of the variables in y .
+a partial least square regression applied to a multivariate response variable .
+improved kernel pls is a data transformation which implement a very fast kernel algorithm for updating pls models in a recursive manner and for exponentially discounting past data .
+variable importance in projection is a measure computed as part of a partial least square regression  to accumulate the importance of each variable j being reflected by w from each component .
+a data transformation which compute the singular - value decomposition of a rectangular matrix .
+best linear unbiased estimator
+a completely randomized design is a type of design of experiment where the observation unit receive treatments  ( independent variable level )  entirely at random .
+the wald statistic is a statistic is used during a wald test ,  a test of significance of the regression coefficient ;  it is based on the asymptotic normality property of maximum likelihood estimates ,  and is computed as:  w = b * 1 / var ( b )  * b  in this formula ,  b stands for the parameter estimates ,  and var ( b )  stands for the asymptotic variance of the parameter estimates .
+degree of freedom calculation is a data transformation which is part of a stastical test and which aims to determine or estimate the number of degrees of freedom in a system .
+a restricted randomized design is a kind of study design which uses randomization to allocate observation unit to treatment but where intuitively poor allocations of treatments to experimental units are avoided ,  while retaining the theoretical benefits of randomization .
+the percentage of variance is an output of principal component analysis which is obtained by forming the ratio of an eigenvalue divided by the sum of all eigenvalues .
+the scaled identity covariance structure is a type of covariance structure which has constant variance .
+anatomical entity that has mass .
+anatomical group that has its parts adjacent to one another .
+a unit which is a standard measure of the distance between two points .
+a unit which is a standard measure of the amount of matter / energy of a physical object .
+a unit which is a standard measure of the dimension in which events occur in sequence .
+pls weight is a information content entity which is generated when performing a partial least square analysis
+a dataset which is made up of pedigree information ,  that is presenting ancestry or lineage information in a set of individuals of an organism .

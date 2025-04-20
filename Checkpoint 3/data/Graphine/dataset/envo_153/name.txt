@@ -1,0 +1,729 @@
+bedding - plane cave
+first - order administrative region
+second - order administrative region
+third - order administrative region
+fourth - order administrative region
+national geopolitical entity
+transport feature
+garden
+hydrographic feature
+cave system
+canal
+ocean
+sea
+saline hydrographic feature
+dry river
+saline lake
+lake
+freshwater lake
+river
+stream
+intermittent stream
+reservoir
+well
+spring
+sand pit
+watercourse
+dead cave
+wadi
+bay
+pond
+rapids
+marsh
+irrigation canal
+ditch
+lagoon
+fjord
+waterfall
+tidal creek
+drainage canal
+wetland
+peatland
+estuary
+hedge
+navigation canal
+geyser
+hot spring
+crater lake
+freshwater marsh
+saline marsh
+saline evaporation pond
+fishpond
+mangrove swamp
+underground lake
+underground river
+underground stream
+underground water body
+populated place
+road
+railway
+man - made tunnel
+cave
+tunnel
+distributary
+constructed feature
+fault cave
+aquaduct
+building
+dam
+bridge
+mine
+farm
+flume
+mountain range
+mountain
+hill range
+hill
+mountain pass
+alpine glacier
+plain
+cliff
+sea cliff
+coastal plain
+beach
+sea beach
+lacustrine beach
+volcanic feature
+lava field
+caldera
+desert
+island
+artificial island
+valley
+delta
+mangrove island
+grassland
+heath
+meadow
+woodland
+lava tunnel
+forest
+tundra
+cultivated habitat
+field
+orchard
+vineyard
+plantation
+planted forest
+track
+political entity
+supranational geopolitical entity
+mineral spring
+sulfur spring
+badland
+dry valley
+stream valley
+reef
+glacial feature
+ice sheet
+glacier
+permafrost
+buffer zone
+demilitiarized zone
+coastal inlet
+cove
+irrigation ditch
+drainage ditch
+bank
+stream bank
+river bank
+aquatic habitat
+ice cap
+snow field
+ocean current
+riffle
+artificial reef
+coral reef
+sabkha
+anabranch
+headwater
+flood meadow
+cirque
+desert oasis
+peat cut
+causeway
+asphalt lake
+atoll
+bar
+blowhole
+canyon
+dune
+river valley
+isthmus
+karst
+elevation
+moraine
+levee
+mesa
+mound
+nunatak
+plateau
+stony desert
+hanging valley
+raised mire
+string mire
+tundra mire
+paisa mire
+peat swamp
+abyssal feature
+mudflat
+scree
+sinkhole
+alkaline flat
+endorheic lake
+subglacial lake
+meromictoc lake
+periglacial lake
+fjord lake
+oxbow lake
+rift lake
+ephemeral spring
+permanent spring
+neritic zone
+oceanic zone
+pelagic zone
+photic zone
+aphotic zone
+bathypelagic zone
+abyssalpelagic zone
+mesopelagic zone
+hadalpelagic zone
+hydrothermal vent
+fumarole
+solfatara
+black smoker
+landlocked sea
+archipelago
+continental island
+oceanic island
+continental shelf
+slightly stratified estuary
+highly stratified estuary
+saline wedge estuary
+vertically mixed estuary
+inverse estuary
+intermittent estuary
+coastal wetland
+moor
+fen
+swamp
+bayou
+carr
+dambo
+hydromorphic / phreatic dambo
+fluvial dambo
+pocasin
+tidal mudflat
+lacustrine mudflat
+freshwater wetland
+abyssal plain
+maar
+volcanic crater
+volcano
+glacial valley
+lateral moraine
+medial moraine
+ground moraine
+terminal moraine
+scroll plane
+till plan
+flood plain
+floodway
+flood fringe
+alluvial plain
+lacustrine plain
+prairie
+savanna
+steppe
+fissure cave
+seamount
+guyot
+pasture
+submarine canyon
+lake bed
+land - tied island
+beaver pond
+chott
+confluence
+continental slope
+continental rise
+ocean trench
+drumlin
+dry lake
+dry stream
+saline pan
+escarpment
+fault escarpment
+esker
+ridge
+quarry
+quicksand area
+polder
+butte
+horst
+graben
+drainage basin
+watershed
+continental divide
+fish farm
+fish hatchery
+rice field
+paddy field
+iceberg
+ice mass
+scrubland
+chaparal
+rift valley
+coast
+shore
+peninsula
+spit
+icefall
+dune slack
+depression
+impact crater
+kettle
+sandur
+blowout
+alluvial fan
+bajada
+intertidal zone
+tidal pool
+high tide zone
+low tide zone
+crevasse
+joint - plane cave
+lava cave
+live cave
+outflow cave
+polje
+sea cave
+speleothem
+vadoze zone
+phreatic zone
+stalagmite
+stalactite
+doline
+subjacent karst
+syngenetic karst
+polygonal karst
+doline karst
+orange juice
+vomit
+piece of rock
+piece of gravel
+ice cap dome
+somma volcano
+volcanic arc
+continental arc
+island arc
+volcanic field
+monogenetic volcanic field
+pyroclastic cone
+lock
+protected area
+natural monument
+national forest
+site of special scientific interest
+marine park
+nature reserve
+national wildlife refuge
+ramsar site
+national nature reserve
+national park
+ephemeral island
+brine pool
+tuya
+complex volcano
+pyroclastic shield volcano
+geothermal field
+wildlife management area
+world heritage site
+biosphere reserve
+artificial lake
+canal head reservoir
+ice shelf
+massif
+lake shore
+stream bed
+river bed
+stream mouth
+river mouth
+intermittent lake
+intermittent watercourse
+intermittent wetland
+land bridge
+ice tongue
+sound
+strait
+channel
+volcanic cone
+ash cone
+cinder cone
+spatter cone
+mud volcano
+shield volcano
+stratovolcano
+submarine volcano
+mid - ocean ridge
+subglacial volcano
+volcanic fissure
+whirlpool
+kipuka
+ford
+pingo
+natural arch
+raised beach
+machair
+ria
+stack
+tombolo
+wave - cut platform
+limestone pavement
+river island
+lake island
+cold seep
+ocean floor
+meander
+biome
+arete
+dirt cone
+drumlin field
+monadnock
+kame terrace
+outwash fan
+proglacial lake
+tunnel valley
+nye channel
+alas
+dell
+rock shelter
+terracette
+maelstrom
+flood control reservoir
+clearing
+transvasement
+terrestrial biome
+marine biome
+hydroelectric reservoir
+drinking water reservoir
+irrigation reservoir
+amenity lake
+ribbon lake
+liman
+turlough
+tarn
+tidewater glacier
+plateau glacier
+valley glacier
+outlet glacier
+penplain
+pseudocrater
+polygenetic volcanic field
+harbor
+artificial harbor
+natural harbor
+university campus
+hydroelectric dam
+research facility
+irrigation dam
+flood control dam
+backwater
+gravel pit
+cut
+inlet
+lake inlet
+mount
+mouth
+peak
+pinnacle
+sea floor
+plunge pool
+polynya
+sea shore
+shoreline
+paternoster lake
+glacial lake
+palsa
+consequent stream
+subsequent stream
+resequent stream
+obsequent stream
+insequent stream
+tributary
+rill
+rincon
+volcanic dike
+trough
+beaver dam
+bed
+intermittent saline lake
+intermittent oxbow lake
+intermittent pond
+underground irrigation canal
+intermittent reservoir
+wadi mouth
+terrace
+blanket bog
+pond bed
+reservoir bed
+crater
+road cut
+hammock
+lost stream
+ditch mouth
+landslide
+rockfall
+canal tunnel
+cutoff
+abandoned watercourse
+canalized stream
+cleft
+interfluve
+ice cap ridge
+beach ridge
+apron
+landfill
+weir
+moatan
+boulder field
+arrugado
+sill
+kame
+swale
+leat
+shingle beach
+waterhole
+intermittent water body
+endorheic basin
+talik
+multipurpose dam
+saddle dam
+check dam
+wing dam
+dry dam
+diversionary dam
+weapons test site
+nuclear weapons test site
+military training area
+park
+pier
+archeological site
+sports facility
+winter sports facility
+calanque
+aerial habitat
+marine habitat
+brackish water habitat
+arboreal habitat
+subterrestrial habitat
+city
+freshwater biome
+endolithic habitat
+rock
+mine drainage
+acid mine drainage
+soil
+slope
+waste water
+food
+feces
+mesoscopic physical object
+air
+water
+sediment
+dust
+terrestrial habitat
+igneous rock
+plutonic rock
+volcanic rock
+sedimentary rock
+metamorphic rock
+sewage
+extreme habitat
+acid habitat
+alkaline habitat
+high pressure habitat
+haline habitat
+high temperature habitat
+cold temperature habitat
+extreme high temperature habitat
+high osmolarity habitat
+anthropogenic habitat
+organism - associated habitat
+carcass
+biofilm
+meteorite
+habitat
+freshwater habitat
+bone
+sludge
+urine
+chondrite
+achondrite
+stony - iron meteorite
+iron meteorite
+limestone
+chalk
+sandstone
+shale
+biosolids
+oil sludge
+oil spill
+oil
+oil seep
+marine sediment
+alkaline hot spring
+acid hot spring
+anaerobic dechlorinating bioreactor
+hypolimnion
+epilimnion
+metalimnion
+pebble
+cobble
+leachate
+superfund site
+fossil
+compost
+neutral hot spring
+yogurt
+animal litter
+oligotrophic water
+eutrophic water
+mesotrophic water
+saline water habitat
+arenosol
+anthrosol
+alisol
+andosol
+albeluvisol
+acrisol
+cambisol
+cryosol
+chernozem
+durisol
+calcisol
+kastanozem
+leptosol
+lixisol
+histosol
+gleysol
+gypsisol
+ferralsol
+nitisol
+luvisol
+phaeozem
+plinthosol
+planosol
+solonchak
+umbrisol
+vertisol
+solonetz
+regosol
+podzol
+loam
+sphagnum bog
+thermocline
+chemocline
+fluvisol
+stagnosol
+technosol
+back - arc basin
+environmental feature
+bagasse
+clay
+silage
+wort
+brine
+butter
+jeotgal
+tempeh
+straw
+flour
+bacon
+buttermilk
+miso
+must
+vinegar
+malt vinegar
+research station
+pickle
+scum
+travertine
+karst field
+rhizosphere
+bulk soil
+animal habitation
+ice rise
+ice piedmont
+strand crack
+fomite
+midden
+environmental matter
+aerosol
+emulsion
+dolomite
+botanical garden
+zoological garden
+ocean time series station
+aquifer
+humus
+mud
+upwelling
+dairy product
+milk
+gravel
+hypodermic needle
+textile
+bedclothing
+pockmark field
+nesting material
+livestock
+cultured habitat
+tissue culture
+cell culture
+plant tissue culture
+organ culture
+bodily fluid
+blood
+amniotic fluid
+excreta
+bile
+aqueous humour
+sweat
+chyme
+blood plasma
+ear wax
+cerebrospinal fluid
+chyle
+breast milk
+vitreous humor
+pleural effusion
+tears
+oronasal secretion
+saliva
+sebum
+pus
+synovial fluid
+mucus
+lymph
+interstitial fluid
+biological product
+siliceous ooze
+calcareous ooze
+animal feed
+contaminated animal feed
+coastal water body
+spinach
+unpasteurized milk
+umbrella
+hide
+bone meal
+plant feed
+egg
+chicken egg
+cloth
+surface soil
+poultry
+letter
+pecorino cheese

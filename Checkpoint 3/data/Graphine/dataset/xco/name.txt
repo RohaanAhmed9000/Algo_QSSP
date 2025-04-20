@@ -1,0 +1,796 @@
+experimental condition
+activity
+resting
+resting on treadmill
+walking on treadmill
+running on treadmill
+swimming
+walking
+running
+controlled atmosphere composition
+air oxygen content
+air temperature
+air carbon dioxide content
+diet
+controlled content diet
+controlled calorie content diet
+nephrectomy
+bilateral nephrectomy
+solid diet
+drink
+water
+controlled sodium content diet
+controlled ethanol content drinking water
+controlled iron content diet
+controlled fat content diet
+surgical removal
+surgical implantation
+caffeinated drink
+controlled carbohydrate content diet
+controlled protein content diet
+controlled calcium content diet
+controlled potassium content diet
+radiation exposure
+ionizing radiation exposure
+gamma ray exposure
+radon exposure
+ultraviolet ray exposure
+x - ray exposure
+non - ionizing radiation exposure
+electromagnetic radiation exposure
+infrared radiation exposure
+sensory stimulus
+auditory stimulus
+visual stimulus
+olfactory stimulus
+taste stimulus
+tactile stimulus
+targeted heat exposure
+targeted cold exposure
+tactile electric shock exposure
+naive control condition
+rebreathed air
+room temperature ambient air
+physical activity
+mental activity
+serial subtraction exercise
+cycling
+cycling ,  stationary
+cycling ,  non - stationary
+hand dynamometer activity
+body position change
+alcoholic drink
+beer
+wine
+liquor
+controlled caffeine content drinking water
+coffee
+tobacco use
+cigar smoking
+cigarette smoking
+tobacco chewing
+body position
+sitting position
+standing position
+supine position
+exercise training program
+chemical
+neoplasm inducing chemical
+7 , 12 - dimethyltetraphene  ( dmba )
+steroid
+17 beta - estradiol
+polycyclic arene
+ovariectomy
+bilateral ovariectomy
+unilateral ovariectomy
+right ovariectomy
+left ovariectomy
+control condition
+sham surgical control condition
+vehicle control condition
+fasting
+glucose solution
+glucose solution ,  2 .8m
+pancreatectomy
+anesthetic / analgesic
+pentobarbital
+pentobarbital ,  sodium
+isoflurane
+prone position
+unilateral nephrectomy
+right nephrectomy
+left nephrectomy
+perfusate
+kreb's solution perfusate
+saline solution perfusate
+perfusate suspended
+amino acid
+inhibitor
+ng - nitroarginine methyl ester
+diuretic
+sulfonamide
+furosemide
+hormone
+angiotensin
+norepinephrine
+water with ng - nitroarginine methyl ester
+ketamine
+xylazine
+acepromazine
+antigen
+methacholine
+receptor agonist
+fapgg
+methylene blue
+vasoactive chemical
+vasodilator
+vasoconstrictor
+sodium nitroprusside
+acetylcholine
+phenylephrine
+controlled oxygen content kreb's solution perfusate
+physiological salt solution perfusate
+controlled oxygen content physiological salt solution perfusate
+ion / salt
+potassium ion
+drug dose time series
+sample resting period
+ion / salt solution
+sodium chloride solution
+0 .9% sodium chloride solution
+physical restraint
+physical restraint in mechanical restrainer
+physical restraint in tube type rodent restrainer
+receptor antagonist
+losartan
+pentolinium
+controlled content drinking water
+controlled sodium content drinking water
+surgical manipulation
+controlled in situ organ condition
+controlled in situ kidney condition
+controlled in situ renal perfusion pressure
+labeled chemical
+fluorescently labeled chemical
+radioactively labeled chemical
+carbohydrate
+polysaccharide
+inulin
+tritiated inulin
+enzyme
+thrombin
+thapsigargin
+ionizing ultraviolet radiation exposure
+non - ionizing ultraviolet radiation exposure
+controlled visible light condition
+controlled exposure to ambient light
+controlled exposure to darkness
+calcium ion
+calcium ion solution
+cytisine
+trimethaphan camsylate
+darodipine
+physical restraint on immobilization board
+angiotensin i
+angiotensin ii
+deoxycorticosterone acetate
+peptide / protein
+antibody
+myelin oligodendrocyte glycoprotein
+glybenclamide
+indicator
+ph indicator
+oxidation - reduction indicator
+4 - methyl - 2 - oxopentanoic acid
+orchiectomy
+unilateral orchiectomy
+bilateral orchiectomy
+testosterone
+mutation inducing chemical
+n - nitrosodiethylamine
+3 - methyl - 4' - dimethylaminoazobenzene
+2 - acetamidofluorene
+activator
+controlled calcium ion content physiological salt solution perfusate
+ion channel activator
+cation channel activator
+4 - alpha - phorbol 12 , 13 - didecanoate
+dihydrocapsaicin
+anion channel agonist
+ion channel inhibitor
+cation channel inhibitor
+anion channel inhibitor
+ruthenium red
+potassium channel inhibitor
+apamin
+charybdotoxin
+peptide hormone
+steroid hormone
+monoamine hormone
+anti - rt6 .1 antibody
+nucleic acid
+ribonucleic acid
+deoxyribonucleic acid
+poly i:c
+pathogen
+viral pathogen
+kilham rat virus
+toxic substance
+toxin
+streptozotocin
+alloxan
+partial pancreatectomy
+controlled fructose content diet
+insulin
+controlled cholesterol content diet
+controlled olive oil content diet
+kidney transplant
+left kidney transplant
+right kidney transplant
+secretagogue
+tolbutamide
+sodium ion
+sodium ion solution
+anti - glomerular basement membrane antibody
+isoproterenol
+controlled hydrogen ion content drinking water
+disease inducing agent
+disease inducing chemical
+peptide / protein antigen
+arthritis inducing chemical
+collagen
+pristane
+freund's adjuvant
+freund's incomplete adjuvant
+freund's complete adjuvant
+peptidoglycan - polysaccharide
+balloon angioplasty
+calcium channel inhibitor
+captopril
+antioxidant
+tempol
+carrageenan
+monosaccharide
+glucose
+hydrocarbon
+cyclic hydrocarbon
+polycyclic hydrocarbon
+terpene
+squalene
+type ii collagen
+anti - thy1 antibody
+visible light stimulus
+controlled visible light exposure
+controlled ng - nitroarginine methyl ester content drinking water
+retinal s - antigen
+interphotoreceptor retinoid - binding protein
+r16 peptide of interphotoreceptor retinoid - binding protein
+r14 peptide of interphotoreceptor retinoid - binding protein
+peripheral myelin protein 2
+peripheral myelin protein 2 peptide 58 - 81
+peripheral nerve myelin
+99mtc - sestamibi
+estrogen / estrogen analog
+diethylstilbestrol
+running on inclined treadmill
+fluid deprivation
+controlled saccharin content drinking water
+controlled ethanol content drinking water with no other optional drink source
+controlled ethanol content drinking water with water as an optional drink source
+lithium ion solution
+lithium chloride solution
+adrenalectomy
+bilateral adrenalectomy
+unilateral adrenalectomy
+cold exposure
+cold ambient air exposure
+heat exposure
+heated ambient air exposure
+guanethidine
+potassium ion solution
+potassium chloride solution
+lithium ion
+buffer
+buffer solution
+calcium - free buffer solution
+buffered calcium ion solution
+surgical construction
+artificial aortocaval fistula
+hexamethonium
+hexamethonium bromide
+hexamethonium chloride
+alcohol
+primary alcohol
+ethanol
+controlled ethanol content saline
+controlled quinine content drinking water
+controlled deoxycorticosterone content drinking water
+controlled deoxycorticosterone content saline drink
+deoxycorticosterone
+ru28362
+controlled ru28362 content drinking water
+controlled ru28362 content saline drink
+left adrenalectomy
+right adrenalectomy
+adrenergic antagonist
+air - jet exposure
+chemical nanoparticle
+titanium dioxide nanoparticles
+solution
+chemical with specified function
+chemical with specified structure
+nitrosourea
+n - propyl - n - nitrosourea
+n - ethyl - n - nitrosourea
+n - methyl - n - nitrosourea
+blood vessel occlusion
+middle cerebral artery occlusion
+arthritis - inducing agent
+streptococcal cell wall
+4 - nitroquinoline n - oxide
+myelin
+central nervous system myelin
+n - methyl - n' - nitro - n - nitrosoguanidine
+controlled n - methyl - n' - nitro - n - nitrosoguanidine content drinking water
+spinal cord homogenate
+walking on inclined treadmill
+diagnostic agent
+sodium p - aminohippurate
+arterial catheter implantation
+left l3 - l5 ventral root avulsion
+physical restraint in plastic bag
+eukaryotic pathogen
+toxoplasma gondii
+toxoplasma gondii cysts
+sham surgical device implantation
+autoimmune disease - inducing chemical
+aurothiopropanol sulfonate
+trichinella spiralis
+trichinella spiralis larvae
+dexamethasone
+surgical denervation
+axotomy
+sciatic nerve axotomy
+saphenous nerve axotomy
+vitamin
+vitamin e
+alpha - tocopherol
+phytyl side chain of alpha - tocopherol
+progesterone
+controlled captopril content drinking water
+controlled losartan content drinking water
+controlled tempol content drinking water
+glomerulonephritis - inducing agent
+collagenase - solubilized glomerular basement membrane
+collagenase - solubilized rat glomerular basement membrane
+acetaminophen
+controlled cigarette smoke content
+antimetabolite
+5 - bromo - 2' - deoxyuridine
+nucleoside / nucleotide
+1 , 2 - dimethylhydrazine
+controlled bile acid content diet
+controlled 4 - nitroquinoline n - oxide content drinking water
+phenolic / phenol derivative
+bisphenol a
+cisplatin
+complex ion
+surgical avulsion
+nerve root avulsion
+habituation to experimental apparatus
+controlled cisplatin content diet
+controlled bisphenol a content diet
+controlled cisplatin content drinking water
+controlled bisphenol a content drinking water
+hypoglycemic agent
+metformin
+controlled metformin content drinking water
+controlled metformin content diet
+reproduction condition
+gestation
+birth
+lactation
+maternal milk
+milk
+controlled phytoestrogen content diet
+phytoestrogen - free diet
+soy - free diet
+controlled in utero environment
+in utero condition
+quinone
+thymoquinone
+benfotiamine
+lactotransferrin
+1h - pyrazole
+lycopene
+fructose
+controlled fructose content drinking water
+silymarin
+disaccharide
+sucrose
+controlled sucrose content drinking water
+octylphenol
+antineoplastic agent
+controlled n - propyl - n - nitrosourea content diet
+controlled n - propyl - n - nitrosourea content drinking water
+candesartan
+controlled 3 - methyl - 4' - dimethylaminoazobenzene content drinking water
+controlled 3 - methyl - 4' - dimethylaminoazobenzene content diet
+controlled 2 - acetamidofluorene content drinking water
+controlled 2 - acetamidofluorene content diet
+controlled dexamethasone content diet
+controlled dexamethasone content drinking water
+phosphate buffered saline
+estrus cycle
+estrus
+metestrus
+diestrus
+proestrus
+herpes simplex virus type 1
+controlled casein content diet
+controlled butter content diet
+controlled oil content diet
+controlled corn oil content diet
+retinyl palmitate
+controlled retinoid content diet
+controlled retinyl palmitate content diet
+controlled light / dark cycle
+subcutaneous interscapular air pouch
+restricted feeding
+light phase of controlled light / dark cycle
+dark phase of controlled light / dark cycle
+controlled ex vivo organ condition
+controlled ex vivo artery condition
+controlled ex vivo artery perfusion pressure
+retinoid
+vitamin a
+isotretinoin
+flavonoid
+quercetin
+chrysin
+naringenin
+alendronate
+bacterial pathogen
+streptococcus pneumoniae
+streptococcus pneumoniae d39
+streptococcus pneumoniae tigr4
+haemophilus influenzae
+nontypeable haemophilus influenzae
+haemophilus influenzae 86 - 028np
+antimicrobial agent
+antibacterial agent
+ceftriaxone
+haemophilus influenzae 86 - 028np h2 mutant
+haemophilus influenzae 86 - 028np c5 mutant
+streptococcus pneumoniae tigr4 luxs mutant
+social environment condition
+temporary social environment condition
+ongoing social environment condition
+controlled exposure to an organism of the same species
+controlled exposure to a juvenile of the same species
+controlled exposure to an adult of the same species
+postmenopause
+neurotoxic substance
+neurotoxin
+parkinson disease inducing chemical
+oxidopamine
+1 - methyl - 4 - phenyl - 1 , 2 , 3 , 6 - tetrahydropyridine
+paraquat
+rotenone
+body part position change
+head position change
+coronal plane rotational acceleration of the head
+anti - inflammatory agent
+non - steroidal anti - inflammatory drug
+carprofen
+audible tone stimulus
+ultrasonic stimulus
+coronal plane rotational velocity of the head
+ester
+teratogen
+dibutyl phthalate
+metoprolol
+metoprolol tartrate
+metoprolol succinate
+anti - transforming growth factor beta antibody
+anti - shiga toxin 1 beta antibody
+anti - shiga toxin 1 beta monoclonal antibody 13c4
+neuromodulation
+direct electrical nerve stimulation
+common peroneal nerve direct electrical stimulation
+enzyme inhibitor
+angiotensin converting enzyme inhibitor
+benazepril
+swimming with water weights
+genetic manipulation
+gene transfer
+gene transfer using adenovirus vector
+gene transfer of the murine angiotensin i converting enzyme 2 gene using an adenovirus vector
+gene transfer of the enhanced green fluorescent protein gene using an adenovirus vector
+protein synthesis inhibitor
+puromycin
+sunitinib
+lisinopril
+angiotensin ii receptor antagonist
+olmesartan medoxomil
+temocapril
+doxorubicin
+delapril
+bosentan
+enalapril
+vitamin d
+vitamin d2
+vitamin d3
+vitamin analog
+paricalcitol
+ramipril
+left anterior descending coronary artery occlusion
+reserpine
+hydralazine
+hydrochlorothiazide
+everolimus
+controlled phosphorus content diet
+controlled lisinopril content drinking water
+amino monosaccharide
+glucosamine
+taxifolin
+melatonin
+controlled melatonin content diet
+antidepressant
+salidroside
+omacor
+meclofenamate
+ipragliflozin
+controlled ipragliflozin content diet
+hydralazine hydrochloride
+tolvaptan
+vancomycin
+meropenem
+proton pump inhibitor
+omeprazole
+controlled in situ gastrointestinal condition
+forced feeding
+oral gavage
+controlled content oral gavage
+controlled omeprazole content  oral gavage
+controlled cecal material content oral gavage
+scrambled control oligodeoxynucleotide
+intracerebroventricular cannula implantation
+perindopril
+moexipril
+icatibant
+quinapril
+cilazapril
+puromycin aminonucleoside
+saralasin
+blood vessel coarctation
+abdominal aorta coarctation
+thoracic aorta coarctation
+aldosterone
+2 , 3 , 7 , 8 - tetrachlorodibenzo - p - dioxin  ( tcdd )
+gene transfer of the rat natriuretic peptide b gene using an adenovirus vector
+rosiglitazone
+hesperetin
+aprotinin
+aflatoxin b1
+amg - 8718
+acetic acid
+allyl isothiocyanate
+4 - methyl - 2 -  ( piperidin - 1 - yl )  quinoline
+morphine
+nifedipine
+endothelin - 1
+adenosine triphosphate
+rolipram
+embolism injection at middle cerebral artery
+verapamil
+quinidine
+sodium channel inhibitor
+digoxin
+vinblastine
+tritiated verapamil
+thiobutabarbital
+urethane
+removal of maxillary molar crown
+spironolactone
+atorvastatin
+carbenoxolone
+cholinergic antagonist
+atropine
+saxagliptin
+hydrocortisone
+antidiuretic
+polyfructosan
+immunosuppressive agent
+cyclosporine a
+capsazepine
+v1 - cal
+controlled in situ myocardial condition
+myocardial reperfusion
+monocrotaline
+anti - t cell receptor antibody
+propofol
+azoxymethane
+darusentan
+clodronic acid
+trans - 4 - hydroxy - l - proline
+controlled cilazapril content drinking water
+e4177
+controlled e4177 content drinking water
+ionotropic glutamate receptor antagonist
+kynurenate
+prion
+ganciclovir
+antiviral agent
+nisoldipine
+controlled nisoldipine content diet
+controlled nisoldipine content drinking water
+one - kidney ,  one - clip occlusion
+two - kidney ,  one - clip occlusion
+two - kidney ,  two - clip occlusion
+adrenergic receptor agonist
+beta - adrenergic agonist
+bronchodilator agent
+clenbuterol
+arterial catheter implantation and controlled hemorrhage
+diazoxide
+pair - fed diet
+doxycycline
+tetracyclines
+alpha - adrenergic agonist
+clonidine
+gene transfer using retrovirus vector
+gene transfer of the rat erb - b2 receptor tyrosine kinase 2 gene using a retrovirus vector
+controlled enalapril content drinking water
+part_of
+specific pathogen - free condition
+candesartan cilexetil
+gene transfer of the rat mer proto - oncogene ,  tyrosine kinase gene using an adenovirus vector
+fenofibrate
+antilipemic agent
+medica 16
+benfluorex
+cholestyramine
+nateglinide
+fat emulsion
+intralipid
+cenicriviroc
+myelin basic protein
+vitamin c
+controlled vitamin content diet
+controlled vitamin c content diet
+carbachol
+cholinergic agonist
+enzyme activator
+soluble guanylate cyclase activator
+soluble guanylate cyclase stimulator
+gsk2181236a
+bay60 - 4552
+controlled gsk2181236a content diet
+controlled bay60 - 4552 content diet
+thiazoles
+2 , 4 , 5 trimethylthiazoline
+carotid artery occlusion
+organic radical
+lithium phthalocyanine
+carvedilol
+controlled carvedilol content diet
+cancer cells
+dhd / k12 / trb cells
+taurolidine
+vasopressin receptor agonist
+desmopressin
+sb - 239063
+mitogen - activated protein kinase inhibitor
+controlled sb - 239063 content diet
+mri contrast agent
+gadolinium - based contrast agents
+gadopentetate dimeglumine
+laser photocoagulation
+eprosartan
+solid food deprivation
+butanol
+carbon - 14 butanol
+cyclodextrin  ( cd )  - clathrated hesperetin
+hesperidin
+splenectomy
+partial splenectomy
+enrasentan
+endothelin receptor antagonist
+controlled enrasentan content diet
+cc531 cells
+sanguinarine
+chemerin - 9
+paclitaxel
+diphtheria toxin
+endotoxin
+lipopolysaccharide
+housing in trios
+housing with pathogen - infected subject
+housing with bacterial pathogen - infected subject
+housing with haemophilus - infected subject
+haemophilus
+housing with haemophilus h21 - infected subject
+housing with haemophilus h35 - infected subject
+housing with pasteurella pneumotropica - infected subject
+housing with pasteurellaceae - infected subject
+protease inhibitor
+phosphoramidon
+diclofenac
+unilateral carotid artery occlusion
+right carotid artery occlusion
+left carotid artery occlusion
+bilateral carotid artery occlusion
+dimethyl sulfoxide
+kolliphor hs 15
+surfactant
+retinoic acid
+26 kda schistosoma mansoni antigen
+biologic
+rat anti - ab2 t cells
+t cells
+rat anti - ab2 t cell line
+rat anti - 26 kda t cells
+rat anti - 26 kda t cell line
+schistosoma mansoni
+schistosoma mansoni cercariae
+antiserum
+rat anti - ab2 antiserum
+rat anti - 26 kda antiserum
+controlled cocoa butter content diet
+controlled soybean oil content diet
+oil
+soybean oil
+fatty acid
+alpha - lipoic acid
+spiroplatin
+rat igm immunocytoma cells
+liposomes
+positively charged liposomes
+negatively charged liposomes
+cytokine
+interleukin - 2
+prob cells
+probr1 cells
+sodium butyrate
+s4mh cells
+methylcellulose
+controlled sodium chloride content drinking water
+standard condition
+emodin
+btb14431
+gene transfer of the lin - 28 homolog b gene using an adenovirus vector
+controlled sodium chloride content diet
+u46619
+y - 27632
+nociceptin
+ether
+iron oxide nanoparticles
+controlled gliadin content diet
+gsk1016790a
+subthreshold laser therapy
+laser therapy
+nondamaging retinal laser therapy
+selective retinal therapy
+tetrahydrocurcumin
+dl - &#945 ;  - aminoadipate
+2 - methyl - 6 -  ( phenylethynyl ) pyridine
+2 - chloro - 5 - hydroxyphenylglycine
+a23187
+controlled hemorrhage
+total body irradiation
+partial body irradiation
+leg - out partial body irradiation
+partial - body irradiation with 5% bone marrow sparing
+whole thorax lung irradiation
+gene transfer using plasmid vector
+gene transfer using plasmid vector pvax2
+gene transfer using empty plasmid vector pvax2
+gene transfer of the rat gdnf gene using the plasmid vector pvax2
+jte - 607
+peanut oil
+pertussis toxin
+cyclophosphamide
+rat anti - hu - mbp t cell line
+rat anti - hu - s102 - 129 t cell line
+human myelin basic protein

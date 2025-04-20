@@ -1,0 +1,373 @@
+all processes related to the phage developmental cycles .
+the set of processes by which a bacteriophage multiplies .
+any process by which a phage loosely binds to its host surface and scans it for receptors with its fibers ,  spikes or a baseplate component .
+process by which a bacteriophage ,  using its tail fibers ,  spikes or a baseplate component ,  recognizes and binds to its specific receptor on the host cell surface .
+process by which a bacteriophage ,  using its tail fibers ,  spikes or a baseplate component ,  initially recognizes and binds to its specific receptor on the host cell surface .
+the process by which conformational changes of virion proteins or injection of virion proteins into the infected cell initially commit infection .
+a set of processes by which temperate bacteriophages establish as a prophage either integrated in the host genome at a more or less specific or random location or as a linear or as a circular plasmid in the host cytoplasm .
+process by which a bacteriophage transfers its dna in the host cell .
+processes leading to the building of a mature phage particle .
+process by which phage heads / capsids are assembled .
+process by which phage tail fibers are assembled .
+process by which tailed phage heads and tails are put together .
+process of dissolution of cells by the action of specific phage encoded enzymes that causes cell rupture and release of the phage progeny .
+process of releasing mature phage particles from the host cell .
+process by which tailed phage tails are assembled .
+process used by some phages as part_of the host cell lysis process .
+process of building the precursor of the phage head / capsid ,  which shall later encapsidate the viral genome .
+process of incorporation of the phage genome into the phage head / capsid .
+processing of replicated dna into a packageable structure ,  often a linear concatemer .
+mode of packaging of double stranded dna phage genomes with terminally redundant and possibly circularly permuted ends .
+mode of packaging of double stranded dna phage genomes with 3' protruding ends .
+mode of packaging of double stranded dna phage genomes with 5' protruding ends .
+process of releasing mature enveloped phage particles  ( plasmaviridae phages )  by formation of a bulge .
+process of replicating the phage genome .
+process of replicating a phage rna genome .
+process of replicating a phage dna genome .
+any process that modulates the frequency ,  rate or extent of the phage genome replication .
+process of dna - dependent dna replication primed by a phage encoded protein bound at the ends of its linear genome to produce two linear daughter dna molecules .
+process of dna - dependent dna replication proceeding by the rolling circle mode ,  i .e .
+process of dna replication proceeding uni or bidirectionally on a circular dna template to produce two daughter circular dna molecules  .
+process of dna - dependent dna replication proceeding by successive rounds of replicative transposition .
+process of dna - dependent dna replication intiated by homologous recombination .
+cascade of transcription and translation of the phage genes .
+cascade of transcription of the phage genes .
+the transcriptional period of the earliest expressed viral genes mainly encoding transcriptional regulators .
+the second round of viral gene transcription ,  usually of replication genes .
+the third round of phage transcription ,  usually of regulators involved in the progression of induction of the phage late gene expression .
+the transcriptional period of the latest expressed viral genes mainly encoding phage capsid components ,  morphogenesis proteins and cell wall degradation enzymes .
+process by which phage gene transcription stops and rna - polymerase is released from the dna template .
+functions to prevent the termination of rna synthesis .
+any process that activates or represses phage gene expression .
+any process that stimulates the frequency ,  rate or extent of the phage genome replication .
+any process that decreases the frequency ,  rate or extent of the phage genome replication .
+any process that activates or represses the transcription of phage genes .
+any process that represses the expression of phage genes at the post - transcriptional level .
+any process that activates the expression of phage genes at the post - transcriptional level .
+any process that activates or represses the expression of phage genes at a post - trasncriptional level .
+any process that represses the expression of phage genes at the transcriptional level .
+any process that activates the expression of phage genes at the transcriptional level .
+any process that up or down - regulates protein activity or stability .
+a process by which a phage genome establishes a repressed prophage in its host cytoplasm as a plasmid .
+process through which a prophage induces a hereditary change in the phenotype or fitness of the lysogen .
+a process by which a phage genome establishes a repressed prophage in its host cytoplasm as a linear plasmid .
+a process by which a phage genome establishes a repressed prophage in its host cytoplasm as a circular plasmid .
+a process by which the phage integrates in the host genomes and establishes as a stable prophage .
+process by which the phage dna integrates into the host genome by recombination .
+process by which a latent prophage blocks the expression of its own lytic genes as well as expression of those genes by a related superinfecting phage with the same immunity .
+to be written .
+process of infection by a phage ,  which does not complete the lytic cycle and produces no viable phage burst .
+simulated lysogeny in a mixed population of phage - infected bacteria ,  non - infected phage - sensitive bacteria ,  and free phages .
+all macromolecules ,  proteins ,  nucleic acids ,  sugars ,  lipids etc .
+process by which a prophage is made to switch from the latent / lysogenic state to the lytic cycle and production of phage progeny .
+process by which a prophage dna is excised from the host genome .
+component of the closed shell  ( head or capsid )  of the phage .
+transient internal component of the phage prohead ,  which allows for its assembly .
+abbreviated mhp ,  the major subunit component that forms the closed shell  ( capsid )  of the phage head .
+also called gate keepers ,  these proteins close the head after packaging and maturation of the phage genome ,  are part of the completed head ,  allow for the binding of the tail and are part of the complete phage particle .
+protein component that forms the junction between the caudovirales phage head and tail and serves as a gate through which dna passes during packaging and translocation .
+component of the phage head / capsid .
+protein component of fiber structures ,  which decorate the head / capsid of some phages .
+protein covalently linked to the ends of dsdna phages that use protein primed dna replication .
+a complex of large and small terminase subunits .
+phage component that forms a complex with the terminase small subunit at the base of the phage head .
+phage component that forms a complex with the terminase large subunit at the base of the phage head .
+protein component of fiber structures appended at the neck at the base of some phage heads .
+protein component of a phage ,  which is injected into the host cytoplasm upon phage infection .
+protein component of a phage ,  which is injected into the host cytoplasm upon phage infection prior to phage dna translocation .
+protein component of a phage ,  which is injected into the host cytoplasm upon phage infection after phage dna translocation .
+protein component of a phage ,  which is injected into the host membrane upon phage infection ,  creating a channel for phage dna translocation .
+biochemical assembly that contains both proteins and lipids and is part_of some  ( tectiviridae )  phage capsids .
+protein component of the assembled tail of tailed phages  ( caudovirale )  .
+abbreviated mtp ,  the term refers to protein component found in large amount ,  easily detectable upon electrophoresis of tailed phage particles of the types myoviridae and siphoviridae .
+protein that forms the internal tube of the contractile tails of myovirirdae phages .
+protein that forms the external contractile envelope of the tails of myoviridae phages .
+protein that forms the tube of the non - contractile tails of siphoviridae phages .
+protein tmp that controls the tail tube length in myoviridae and tail shaft length in siphoviridae .
+protein structure that forms the basal tip of the phage tail and is used by the phage to adsorb to the host cell .
+multiprotein component at the head - distal end of the tail and to which fibers of tailed phages may be attached  ( caudovirales )  .
+protein component of the fiber ,  structure appended to the phage tail and used to scan ,  recognize and attach to the host cell .
+a phage genome after it has established in the host genome in a latent / immune state either as a plasmid or as an integrated island .
+tandem array or branched complex of dna bacteriophage genomes generated in the bacterial host cytoplasm during phage replication and which is the substrate for dna packaging .
+a remnant of an integrated prophage in the host genome or an  \ "island \ " in the host genome that includes phage like - genes .
+a bacterial component to be added in go that had to do with the phage life cycle .
+a bacterial component located on the cell surface and which is specifically recognized and used by the phage for adsorption .
+minor protein component of the phage tail fiber .
+major protein component of the phage tail fiber .
+molecular functions of phage components .
+inhibits holin activity .
+catalysis of the temporally regulated formation of a transmembrane protein hole that directly or indirectly allows murein hydrolyases to access their cell wall substrate .
+inhibition ,  inactivation or degradation of a transcriptional repressor .
+catalysis of the reaction: atp  +  h2o = adp  +  phosphate .
+transcriptional repressor activity involved in switching between lytic and lysogenic transcription .
+cell wall degradation enzyme synthesized by a phage during its lytic cycle and responsible for host cell lysis .
+cell wall hydrolase activity associated with phage structures  ( usually the tail or the base plate )  and which helps dna translocation by damaging the host cell envelope after adsorption .
+catalysis of the hydrolysis of peptide bonds .
+chaperon activity required for the assembly of the phage coat .
+chaperon activity required for the assembly of the phage tail .
+chaperon activity required for the assembly of the phage fibers .
+interacting selectively with dna  ( deoxyribonucleic acid )  .
+interacting selectively with single stranded dna  ( deoxyribonucleic acid )  .
+interacting selectively with double stranded dna  ( deoxyribonucleic acid )  .
+catalysis of a topological transformation in double - stranded dna by a covalent or non - covalent mechanism .
+an accessory subunit of dna polymerase that acts to increase the processivity of polymerization .
+catalysis of the hydrolysis of atp to unwind the dna helix at the replication fork ,  allowing the resulting single strands to be copied .
+catalysis of the reaction: deoxynucleoside triphosphate  +  dna ( n )  = diphosphate  +  dna ( n + 1 )  ;  the synthesis of dna from dna replication .
+catalysis of the reaction: nucleoside triphosphate  +  rna ( n )  = diphosphate  +  rna ( n + 1 )  .
+catalysis of the transfer of a methyl group to a dna molecule .
+catalysis of the synthesis of short rna primers for the okazaki fragments on both dna template strands at the replication fork .
+catalysis of the hydrolysis of ester linkages within nucleic acids by removing nucleotide residues from the 3' or 5' end .
+catalysis of the hydrolysis of ester linkages within nucleic acids by removing nucleotide residues from the 3' end .
+catalysis of the hydrolysis of ester linkages within nucleic acids by removing nucleotide residues from the 5' end .
+dna - binding activity that activates excision by a serine or tyrosine based integrase ,  of a dna segment from another ,  usually larger ,  dna molecule such as a chromosome .
+protease activity involved in head maturation .
+protease activity involved in breaking down of the cell wall as part of the phage lysis process .
+catalysis of dna cleavage involved in the packaging of dna into phage heads .
+catalysis of the hydrolysis of ester linkages within nucleic acids by creating internal breaks .
+any transcription regulator activity that prevents or downregulates transcription .
+antagonizes ribosome - mediated translation of mrna into a polypeptide .
+the processes by which a new genotype is formed by reassortment of genes resulting in gene combinations .
+the formation and repair of double strand breaks through a double holliday junction intermediate that results in the equal exchange of genetic material between a pair of homologous dna fragments  ( chromosome ,  plasmid ,  phage )  .
+recombination between two dna sites begins by the recognition and binding of these sites by the recombinase protein .
+the process by which a segment of dna is incorporated into another by a site - specific recombination event .
+the process by which a segment of dna is incorporated into another ,  usually larger ,  dna molecule such as a chromosome .
+the process by which a segment of dna is separated from another by a site - specific recombination event .
+a process of transpositional recombination ,  which involves the replication of the transposed dna segment .
+a process that moves a dna region from one to another location in a genome via a dna intermediate .
+a process of transpositional recombination ,  which does not involve the replication of the transposed dna segment .
+the repair of damaged dna that involves the exchange ,  reciprocal or nonreciprocal ,  of genetic material between the broken dna molecule and a homologous region of dna .
+a process involving dna breakage and reunion that converts replicated telomeres into covalently closed hairpin telomeres on the ends of linear dna molecules .
+activities related to bacteria ,  phage ,  plasmid and transposon recombination .
+processes related to bacteria ,  phage ,  plasmid and transposon recombination .
+catalysis of cleavage and formation of new phosphodiester bonds between a pair of dna target sequences .
+catalysis of the formation of new phosphodiester bonds between a pair of short ,  unique dna target sequence by cleavage of one dna strand and formation of a covalent phosphotyrosyl enzyme intermediate .
+catalysis of the formation of new phosphodiester bonds between a pair of short ,  unique dna target sequences ;  occurs through a 5 - prime phosphoseryl enzyme intermediate in which the target sequence is first cleaved by nucleophilic attack by a serine in the active site .
+tyrosine based dna breakage and reunion activity that leads to the integration of one dna molecule into another .
+tyrosine based dna breakage and reunion activity that leads to the conversion of one dna molecule into two .
+catalysis of a topological transformation in dna through the cleavage of one dna strand and formation of a covalent 3 - prime - phosphotyrosyl enzyme intermediate to allow passage of another strand ;  changes the linking number by  + 1 per catalytic cycle .
+catalysis of a site - specific breakage and reunion reaction that generates two hairpin telomeres from a replicated telomere substrate .
+tyrosine based dna breakage and reunion activity that moves a dna segment from one to another location in a genome .
+serine based dna breakage and reunion activity that leads to the integration of one dna molecule into another .
+serine based dna breakage and reunion activity that leads to the conversion of one dna molecule into two .
+serine based dna breakage and reunion activity that moves a dna segment from one to another location in a genome .
+recomoinases with adde transposase have a related amino - acid motif  ( the dde motif )  ,  which forms the active site of the transposase and is responsible for coordinating the cleavage and joining steps of transposition .
+any multiprotein recombinogenic complex containing dna ,  recombinase and accessory proteins .
+any multiprotein recombinogenic complex containing dna ,  site - specific tyrosine or serine based integrase and accessory proteins and involved in the intgeration or ecision of dna fragments .
+a multi - component enzymatic machine including a relaxase ,  which mediates cleavage and initiation of rolling circle replication on a doubles stranded dna molecule during conjugation ,  phage replication and transposition .
+a multi - component enzymatic machine ,  which mediates dna transposition ;  it includes the dde  ( ddd? ) 
+a multi - component enzymatic machine including a tyrosine or serine based resolvase ,  which mediates resolution of chromosome dimers and replicon fusions .
+y2 - transposases catalyze the rolling circle transposition .
+movement of a dna segment form one to another location in a genome by a mechanism that resembles rolling - circle replication carried out by many bacterial plasmids and phage .
+the protein coat that surrounds the infective nucleic acid in phage particles .
+activity that represses rna polymerase activity .
+activity that inhibits dna degradation by the phage host protein complex recbcd .
+any process that modulates host gene expression as a result of phage gene expression .
+any process that up - regulates host gene expression as a result of phage gene expression .
+any process that down - regulates host gene expression as a result of phage gene expression .
+activity that inhibits protein breakdown by the phage host protease ftsh .
+activity that modulates the nucleoid associated protein / dna chaperon hns .
+activity that decreases deoxyguanosine triphospho - hydrolase activity .
+any process that activates or represses the activity of a host protein .
+activity that provokes host cell kiling independently of any other phage lytic or plasmid activity .
+to be  ( or already )  transferred to so
+protein that is a major component of the phage particle .
+component of the tailed phages i .e .
+tail fibers are appended at the phage tail tip and serve to scan ,  recognize and attach to the cognate receptor on bacterial host cell surface .
+fiber structures ,  which decorate the head of some phages .
+the precursor protein complex that will evolve into the coat that surrounds the infective nucleic acid in phage particles .
+protein component found in low number of copies in the tail of phage particles of the types myoviridae and siphoviridae .
+phage head / capsid protein component located inside the finished head .
+activity that inhibits the protease activity of the host reca protein .
+chaperon activity required for the assembly of phage components .
+the process by which a segment of dna is separated from another ,  usually larger ,  dna molecule such as a chromosome .
+catalysis of the reaction: nucleoside triphosphate  +  rna  ( n )  = diphosphate  +  rna  ( n + 1 )  ;  uses an rna template .
+any transcription regulator activity that prevents or downregulates transcription .
+protein component found in low number of copies in the shell / head / capsid of phage particles .
+protein that is a minor component of the phage particle .
+protein component of the phage virion .
+usually taken in with food or water contaminated with bacteria that express it ,  the shiga toxin is composed of two subunits ,  a and b .
+one of the two subunits .
+shiga toxin subunit b binds to a component of the cell membrane known as gb3 allowing the complex ab toxin to enter the cell .
+yet . . .
+thioredoxins are proteins that act as antioxidants by facilitating the reduction of other proteins by cysteine thiol - disulfide exchange .
+any process that results into the inhibition of a host restriction .
+the maintenance of the integrity of extrachromosomal plasmid dna ;  includes processes that ensure plasmids are retained in the daughter cells after cell division .
+phage encoded protein that antagonizes ribosome - mediated translation of mrna into a polypeptide .
+any process that controls the number of copies of a plasmid per host cell .
+phage which upon infection has no other choice than entering the lytic cycle .
+phage which upon infection has the choice between going lytic or lysogenic .
+activity resulting in the degradation of hyaluronic acid .
+staphylococcal leukocidin  ( luk )  consists of luks and lukf ,  which cooperatively lyse human polymorphonuclear leukocytes  ( hpmnls )  ,  monocytes ,  and macrophages .
+family of potent immunostimulators able to simultaneously bind to the mhc class 2 molecules and the t cell receptor bacterial ,  resulting in alpha - beta t cell activation .
+staphylokinases  ( sak )  are enzymes ,  which activate plasminogen ,  which in turn can degrade various host proteins during infection .
+streptodornases are dnases secreted by s . pyogenes and which protect the bacteria from being trapped in neutrophil extracellular traps  ( nets )  by digesting the net's web of dna ,  to which are bound neutrophil serine proteases that can kill the bacteria .
+exfoliative toxin a is a staphylococcus aureus protease activity ,  which causes peeling of the skin observed in staphylococcal scalded - skin syndrome .
+protein component of a constriction located below the head and above the tail sheath ,  of phages with contractile tails  ( myoviridae )  .
+protein component of a small disk located below some phage heads .
+protein component of the fibers attached to the collar structure of some phages .
+short stuctures  ( generally 30 nm long )  at the tail tip of some phages and used for attachment .
+genomic island which carries genes encoding proteins related to pathogenicity such as attachment ,  invasion of the host ,  other virulence factors ,  toxins ,  etc .
+number of triangles into which an icosahedral virus capsid can be subdivided .
+short dna sequence ,  which is a target region for site - specific integration and / or excision and which carries binding sites for a site - specific recombinase and accessory proteins as well as the site for specific cleavage by the recombinase .
+integration / excision site of a bacterial chromosome at which a recombinase acts to insert foreign dna containing a cognate integration / excision site .
+attachment site located on the on the phage genome .
+attachment site located on the bacterial chromosome at the left of a prophage region and which is used for prophage site - specific excision .
+a region that results from recombination between attp site and attb site ,  composed of the 5' portion of attp site and the 3' portion of attb site .
+an attachment site located on a conjugative transposon and used for site - specific integration of a conjugative transposon .
+a region within an integron ,  adjacent to an integrase ,  at which site specific recombination involving an attc_site takes place .
+attachment site located on a gene cassette  ( sensu integron )  and used for site - specific integration in an integron .
+target region for site - specific recombination leading to the resolution of a chromosome or plasmid dimer or a cointegrate resulting from replicative transposition .
+region located at either end of an integrated transposon ;  it includes binding sites for the cognate transposase enzyme ,  which nicks the transposon at its last base pair .
+the left transposon end of an is ,  which is part of a composite transposon and is on the inside end of the transposon sequence .
+the left end of an is or a transposon .
+the right end of an is or a transposon .
+the left transposon end of an is ,  which is part of a composite transposon and is on the outside end of the transposon sequence .
+the right transposon end of an is ,  which is part of a composite transposon and is on the outside end of the transposon sequence .
+the right transposon end of an is ,  which is part of a composite transposon and is on the inside end of the transposon sequence .
+to be added .
+a region specifically recognized by a recombinase ,  which inverts the region flanked by a pair of sites .
+component of the inversion site located at the left of a region susceptible to site - specific inversion .
+component of the inversion site located at the right of a region susceptible to site - specific inversion .
+dna region recognized by the terminase small subunit as the first step in synapsis of the double stranded dna phage full head packaging complex .
+dna region recognized by the terminase small subunit as the first step in synapsis of the packaging complex that generates double stranded dna phage genomes with sticky ends .
+dna region recognized by the terminase small subunit as the first step in synapsis of the packaging complex that generates phage genomes with 3' - extended protruding sticky ends .
+dna region recognized by the terminase small subunit as the first step in synapsis of the packaging complex ,  which generates phage genomes with 5' - extended protruding sticky ends .
+chromosomal dna region that has features suggesting a foreign origin .
+a dna region encoding an integrase ,  which acts at an adjacent atti site to insert a gene cassette with an attc site through atti - attc recombination .
+dna region that contains a tyrosine based recombinase gene ,  a primary recombination site atti and a strong outward promoter pc .
+discrete dna region which can exist either as discrete circular region with an attc site ,  or integrated after atti by attc recombination ,  downstream of the integron pc promoter ,  which controls the expression of its usually single encoded gene .
+transposable dna region that encodes mobility and its regulatory functions and other phenotypic traits such as antibiotic resistance ,  catabolic enzymes etc .
+transposon in which mobility genes and phenotypic genes are surrounded by imperfect inverted repeats .
+transposon composed of two identical is sequences in the same or opposite orientation flanking a region containing the phenotypic genes .
+a genomic island which contains genes for integration / excision and intercellular transfer by conjugation .
+a genomic island that contains genes for integration / excision and the gene and site for the initiation of intercellular transfer by conjugation .
+dna region that contains genes for phage head and tail formation but no replication genes .
+dna region flanked by inverted repeats and containing genes coding for transposition enzymes and regulators of transposition .
+a dna region consisting of two fused replicons / plasmids resulting from a replicative transposition event .
+when bacteriophages complete their lytic cycle ,  random bacterial chromosomal dna segments or plasmid dna instead of viral dna may be inserted into the viral capsid .
+while excising from the chromosome incorrectly ,  a prophage can leave part of its dna in the chromosome and pick up adjacent bacterial dna .
+transfer of a dna segment from one to another cell by a virus  ( usually a bacteriophage )  .
+process of releasing mature phage particles  ( filamentous phages )  by passing through bacterial membranes .
+genomic island which carries genes encoding proteins involved in catabolism ,  usually of man - made toxic compounds  ( chlorinated aromatic and aliphatic compounds for instance )  .
+genomic island that carries genes encoding proteins involved in symbiosis ,  usually with plants .
+genomic island whose presence increases the fitness of the host .
+genomic island that carries determinants for integration and excision of the host genome and for inter - cellular transfer by conjugation .
+the nucleotide sequence of a virus that infects bacteria .
+a ds dna phage that integrates and replicates by transpositional recombination .
+virus that infect bacteria .
+components associated with plasmids .
+any process that changes the level of transcription of plasmid genes .
+genome of a ds dna phage that integrates and replicates by transpositional recombination .
+a complex of proteins that permits the transfer of proteins into the extracellular milieu or directly into host cells via the type v secretion system .
+poisonous activity ,  especially of proteins or conjugated proteins produced by certain animals ,  higher plants ,  and pathogenic bacteria .
+a complex of proteins that permits the transfer of nucleoprotein dna conjugation intermediates or proteins directly into host cells or into the extracellular milieu in general the type iv complex forms a multisubunit cell - envelope - spanning structure composed of a secretion channel and often a pilus or other surface filament or protein ( s )  .
+protein associated with the bacterial nucleoid .
+a complex of three secretory proteins that carry out secretion in the type i secretion system: an inner membrane transport atpase  ( termed abc protein for atp - binding cassette )  ,  which provides the energy for protein secretion ;  an outer membrane protein ,  which is exported via the sec pathway ;  and a membrane fusion protein ,  which is anchored in the inner membrane and spans the periplasmic space .
+a large protein complex ,  containing 12 - 15 subunits ,  that spans the cell envelope of gram - negative bacteria and mediates the movement of secreted proteins from the cytoplasm into the extracellular environment .
+a complex nanomachine of approximately 20 proteins that carries out protein secretion in the type iii secretion system .
+process of bidirectional  ( theta )  vegetative replication of a plasmid dna genome .
+process of sigma - type replication of a plasmid dna genome from the origin of transfer orit ,  during conjugation .
+a region of a dna molecule where transfer is initiated during the process of conjugation or mobilization .
+the process of unidirectional  ( polarized )  transfer of genetic information involving direct cellular contact between a donor and recipient cell ;  the contact is followed by the formation of a cellular bridge that physically connects the cells ;  some or all of the chromosome ( s )  of one cell  ( donor )  is then transferred into the other cell  ( recipient )  unidirectional conjugation occurs between cells of different mating types .
+inner membrane atpase  ( trag / vird4 )  that recruits the dna substrate including the conjugative relaxase to the t4ss and powers the intercellular transfer of dna by conjugation .
+alpha - beta fibrous proteins found in pilus structures in bacteria .
+a proteinaceous hair - like appendage on the surface of bacteria ;  range from 2 - 8 nm in diameter .
+structural subunit of the t4ss secretion pilus of the t4ss formed or virb2 / trbc / traa / trax structural subunits ,  some of which when mature assumes a circular configuration .
+outer membrane component  ( trbd / tral )  of the t4ss also involved in mating pair formation prior to unidirectional conjugation .
+heart of the t4ss ,  this complex consists of a walker a -  walker b hexameric atpase  ( virb4 / trwk / trbe / trac / trau )  ,  possibly cytosolic and anchored to the inner membrane through interaction with the integral inner membrane protein  ( virb3 / trwm / ?
+component  ( trbj / trae )  of the t4ss pilus that may be involved in adhesion .
+protein of the t4ss ,  also involved in mating pair formation prior to unidirectional conjugation and that perforates the peptidoglycan cell wall .
+polytopic inner membrane protein  ( virb6 / trbl / trag /  )  ,  which is part of the lumen of the t4ss - mating pair formation channel .
+lipoprotein component  ( virb7 / trbh / trav / trai )  that connects the pilus to the core of the t4ss - mating pair formation complex .
+protein that forms a bridge over the periplasm connecting the inner membrane and outer membrane components of the t4ss - mating pair formation complex .
+periplasm spanning and outer membrane component of t4ss formed of the virb9 / trbg / trak / tran subunit .
+a nodal point connecting the inner and outer membrane components of the t4ss formed of virb10 / trbi / trab / trao subunits .
+hexameric ring shaped ntpase similar to the f1 - atpase molecular motors and that fuels the t4ss and tiiss .
+protein involved in the determination of the length of the needle from the injectisome .
+located in the outer membrane of the bacterial cell this part of the injectisome contains the pilotin  ( yscw ,  mxia )  ,  a lipoprotein ancillary to the secretin  ( yscw )  and the secretin  (  yscc  )   .
+needle component of the tiiiss system ,  which is formed of yscf  ( mxih ,  escf )  proteins and protrudes outside from the bacterial surface by about 60 nm .
+terminal structure of the needle made of protein lcrv  ( pcrv ,  acrv ,  ipad )  serving as a scaffold for the translocation pore yopbd .
+component of the injectisome that spans the outer membrane and contains yscc subunits .
+a set of two hydrophobic  ( yopb / yopd in yersinia ,  popb / popd in pseudomonas aeruginosa )  and one hydrophilic  ( lcrv in yersinia ,  pcrv in p .aeruginosa )  proteins ,  exported by the injectisome and which form a pore in the host cell membrane to allow effector translocation .
+peptidase component of the tiiss system .
+t2sf out etc?
+envelope protein component of tiiss .
+inner membrane ring component of the type iii secretion machine ,  which includes lipoprotein yscj  ( prgk ,  escj )  ,  yscs ,  t ,  u and v and probably the yscr and d subunits .
+cytoplasmic ring component of the type iii secretion machine ,  which includes yscq subunits and probably ysck and yscl and the yscn atpase .
+an origin of vegetative replication in plasmids and phages .
+a self - replicating linear or circular dna molecule that is distinct from a chromosome in the organism .
+the origin of replication ;  starting site for duplication of a nucleic acid molecule to give two identical copies .
+an mge that is integrated into the host chromosome .
+a transposon where the mechanism of transposition is via a dna intermediate .
+the sequence is complementary and repeated on the opposite strand .
+any process by which plasmids are segregated or distributed into daughter cells upon cell division .
+the recombination process that separates plasmid dimers or higher multimers into monomers .
+any process that controls the initiation of bidirectional  ( theta )  vegetative replication of a plasmid dna genome .
+any process that controls plasmid dna conjugation .
+fiber attached to the collar structure of some phages .
+small disk located below some phage heads .
+a constriction located below the head and above the tail sheath ,  of phages with contractile tails  ( myoviridae )  .
+fiber appended at the neck at the base of some phage heads .
+integrated genome of a transposable phage .
+internal activating sequence for transposition in transposable phages .
+process that during assembly of the t4ss removes the c - terminal aa from the pilin and generates the final cyclic pilin product by introducing a new peptide bond .
+ontology for non - phage prokaryotic mobile genetic elements .
+definition?
+the regulated release of proteins from a cell or group of cells .
+relaxase is an enzyme in prokaryotes that is involved bacterial conjugation .
+any step required for the synthesis of an autoinducer  ( ai )  molecule ,  otherwise called a pheromone ,  a signaling molecule used by bacteria participating in quorum sensing .
+lantibiotics are a class of peptide antibiotics that contain polycyclic thioether amino acids as well as the unsaturated amino acids dehydroalanine and 2 - aminoisobutyric acid .
+toxin that exerts its activity within the target eukaryotic cell .
+plasmid - sensu ,  process of increased plasmid prevalence  ( number of plasmid - containing cells / total number of cells )  in growing bacterial populations by selective elimination of daughter cells that did not inherit a plasmid copy at cell division .
+a molecular entity with a toxin disposition \  \  ,  the realization of which damages host cells .
+def to be provided .
+molecular functions associated with plasmids .
+no process ,  component or activity can yet be assigned to this phage function .
+phage ontoloy
+process by which tailed phage base plates are assembled .
+the process by which a segment of dna is inverted from its original orientation .
+the process by which a segment of dna is inverted from its original orientation through the action of a site - specific recombinase .
+the process that converts a linear double stranded dna phage genome into the circular form ,  either by homologous recombination between redundant ends or by association of complementary single stranded ends  ( sticky ends )  .
+any process through which a prophage inhibits the development of an unrelated ,  usually virulent superinfecting phage .
+no process ,  component or activity can yet be assigned to this plasmid function .
+any process through which a plasmid inhibits the development of an infecting phage .
+any process by which a phage activates or represses the expression or the activity of one or more of its host proteins .
+any process by which a plasmid activates or represses the expression or the activity of one or more of its host proteins .
+any process that results in preventing or decreasing the sos response of the bacterial host .
+a protein activity necessary for the correct non - covalent folding or unfolding of another protein .
+cell wall transglycosylase synthesized by a phage during its lytic cycle and responsible for host cell lysis .
+cell wall amidase synthesized by a phage during its lytic cycle and responsible for host cell lysis .
+cell wall endopeptidase synthesized by a phage during its lytic cycle and responsible for host cell lysis .
+nearly ubiquitous among phages of gram - negative hosts ,  these proteins are predicted to span the bacterial host periplasm providing a physical connection between the inner and outer membranes .
+rz / rz1 type spanins are two component spanins .
+t1 type spanins are one component spanins tethered to the bacterial host outer membrane by the fatty acid and lipid moieties of the n - terminal cysteine and to the host inner membrane by a predicted c - terminal transmembrane domain .
+the rz proteins have a predicted n - terminal transmembrane domain ,  which spans the bacterial host inner membrane .
+rz1 - like proteins are tethered to the inner leaflet of the host outer membrane by the fatty acid and lipid moieties of their n - terminal cysteine and interact with the rz - like c - terminal domains through their c - terminal domain .
+tail fiber component ,  which during infection is injected into the host ,  likely piercing a hole in the host cell envelope .
+cell wall transglycosylase synthesized by a phage during its lytic cycle and responsible for host cell lysis .
+component of the transpososme ,  this protein contributes to target site selction .
+any process that controls the process of dna transposition .
+any process that stimulates the process of dna transposition .
+any process that inhibits the process of dna transposition .
+any phage activity that provokes the disruption of the host bacterial nuceloid .
+the process by which genetic material is organized and physically separated and apportioned to two daughter bacterial cells .
+a phage or plasmid - mediated process that prevents entry of an infecting phage into the host cell .
+definition?
+structure found in many t3s nanomachines that possess a stiff needlelike structure of a defined length .
+the process that leads to the assembly of the relaxosome ,  a multi - component enzymatic machine ,  which mediates cleavage and initiation of rolling circle replication on a doubles stranded dna molecule during conjugation ,  phage replication and transposition .
+this is a temporary term: parent to all functions related to plasmid processes ,  components and molecular activities .
+any process that inhibits the process of transcription of plasmid genes .
+any process that stimulates the process of transcription of plasmid genes .
+any process that influences the level of plasmid gene transcription .
+bacteriocins are proteinaceous toxins produced by bacteria to inhibit the growth of similar or closely related bacterial strain ( s )  .
+any step required for the synthesis of cobalamin ,  a term that may refer to several substances depending on the upper axial ligand of the cobalt ion .
+process by which a phage genome reaches a latent state ,  becoming a component of its host genome .
+any process by which a host bacterium stops ,  prevents or reduces the frequency ,  rate or extent of phage transcription ,  the synthesis of rna on either a dna or an rna template .
+any process by which a host bacterium activates the frequency ,  rate or extent of phage transcription ,  the synthesis of rna on either a dna or an rna template .
+the process by which a capsid acquires a membrane envelope .
+lysis inhibition  ( lin )  refers to a highly adaptive attribute of the t4 - related phages ,  which delay lysis for several hours in response to sensing the presence of external related phages attacking the cell .
+a resistance to drug that mitigates the damaging effects of an antibiotic .
+the set of processes by which a bacteriophage produces infectious progeny .
+a molecular entity with a toxin disposition and that is a structural component of a pathogen and is released from the pathogen only upon cytolysis .
+a toxin excreted by a microorganism ,  including bacteria ,  fungi ,  algae ,  and protozoa .
+no process ,  component or activity can yet be assigned to this predicted prophage function .

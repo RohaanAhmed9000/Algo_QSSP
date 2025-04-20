@@ -1,0 +1,4536 @@
+antibiotic resistance gene cluster ,  cassette ,  or operon
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+molecular entity
+chemical entity
+organic amino compound
+nucleotide - excision repair ,  dna damage removal
+conjugation
+dna replication
+biological_process
+integrase activity
+tyrosine - based site - specific recombinase activity
+dna integration
+dna excision
+biological regulation
+rolling circle dna replication
+toxin - antitoxin complex
+integrative and conjugative element
+sxt / r391 family ice
+icepmiusa1 iem
+icepmiusa1 cm
+icepmiusa1 rm
+icepmiusa1 am
+icespupo1 iem
+icespupo1 cm
+icespupo1 rm
+icespupo1 am
+icevchban9 iem
+icevchban9 cm
+icevchban9 rm
+icevchban9 am
+icevchban5 iem
+icevchban5 cm
+icevchban5 rm
+icevchban5 am
+icevchind5  [ icevchhai1 ]  iem
+icevchind5  [ icevchhai1 ]  cm
+icevchind5  [ icevchhai1 ]  rm
+icevchind5  [ icevchhai1 ]  am
+icevchmex1 iem
+icevchmex1 cm
+icevchmex1 rm
+icevchmex1 am
+icevchind4 iem
+icevchind4 cm
+icevchind4 rm
+icevchind4 am
+icevflind1 iem
+icevflind1 cm
+icevflind1 rm
+icevflind1 am
+icepalban1 iem
+icepalban1 cm
+icepalban1 rm
+icepalban1 am
+icepdaspa1 iem
+icepdaspa1 cm
+icepdaspa1 rm
+icepdaspa1 am
+r391 iem
+r391 cm
+r391 rm
+r391 am
+sxt ( mo10 )  iem
+sxt ( mo10 )  cm
+sxt ( mo10 )  rm
+sxt ( mo10 )  am
+icepmichn1 iem
+icepmichn1 cm
+icepmichn1 rm
+icepmichn1 am
+relaxase gene
+antitoxin gene role
+antitoxin role
+relaxase
+toxin gene role
+type iv secretion system protein component
+type iv secretion system protein component role
+integrase gene role
+dde transposase gene
+serine recombinase gene
+tyrosine recombinase gene
+icekp ice
+ice iem for integration
+relaxase gene role
+recombination directionality factor gene role
+recombination directionality factor gene
+gene of type iv coupling protein
+t4ss atpase gene role
+integration and excision module component role
+ice iem for excision
+tn4371 family ice
+ctndot / erl family ice
+iceclc family ice
+icebs1 family ice
+icehin1056 family ice
+papi - 1 family ice
+icemlsym ( r7a )  family ice
+icest1 family ice
+spi - 7 family ice
+ice6013 family ice
+tngbs1 family ice
+tn5253 family ice
+icesa2603 family ice
+iceye1 family ice
+10270 - rd .2 family ice
+tn1207 .3 family ice
+tn1806 family ice
+icea5632 family ice
+icef - i / ii family ice
+iceapg2 family ice
+icem family ice
+integrase
+10270 - rd .1 family ice
+tn5801 family ice
+ppi - 1 family ice
+icef - iii family ice
+tn4371 iem
+tn4371 cm
+tn4371 rm
+tn4371 am
+ice accessory module
+ice - kks iem
+ice - kks cm
+ice - kks rm
+ice - kks am
+ctn341 iem
+ctn341 cm
+ctn341 rm
+ctn341 am
+ice - gi1 iem
+ice - gi1 cm
+ice - gi1 rm
+ice - gi1 am
+antibiotic resistance gene
+ice - gi2 iem
+ice - gi2 cm
+ice - gi2 rm
+ice - gi2 am
+ice - gi3 iem
+ice - gi3 cm
+ice - gi3 rm
+ice - gi3 am
+ice - gi6 iem
+ice - gi6 cm
+ice - gi6 rm
+ice - gi6 am
+ice conjugation module
+iceclc ( b13 )  iem
+iceclc ( b13 )  cm
+iceclc ( b13 )  rm
+iceclc ( b13 )  am
+pagi - 2 iem
+pagi - 2 cm
+pagi - 2 rm
+pagi - 2 am
+icextd iem
+icextd cm
+icextd rm
+icextd am
+icepae690 iem
+icepae690 cm
+icepae690 rm
+icepae690 am
+icebs1 iem
+icebs1 cm
+icebs1 rm
+icebs1 am
+icehin1056 iem
+icehin1056 cm
+icehin1056 rm
+icehin1056 am
+iceapl1 iem
+iceapl1 cm
+iceapl1 rm
+iceapl1 am
+papi - 1 iem
+papi - 1 cm
+papi - 1 rm
+papi - 1 am
+pklc102 iem
+pklc102 cm
+pklc102 rm
+pklc102 am
+pagi - 5 iem
+pagi - 5 cm
+pagi - 5 rm
+pagi - 5 am
+icest1 iem
+icest1 cm
+icest1 rm
+icest1 am
+icest3 iem
+icest3 cm
+icest3 rm
+icest3 am
+spi - 7 iem
+spi - 7 cm
+spi - 7 rm
+spi - 7 am
+icesb1 iem
+icesb1 cm
+icesb1 rm
+icesb1 am
+tn6012 iem
+tn6012 cm
+tn6012 rm
+tn6012 am
+ice6013 iem
+ice6013 cm
+ice6013 rm
+ice6013 am
+tngbs1 iem
+tngbs1 cm
+tngbs1 rm
+tngbs1 am
+ice6094 iem
+ice6094 cm
+ice6094 rm
+ice6094 am
+icesa2603 iem
+icesa2603 cm
+icesa2603 rm
+icesa2603 am
+icessu05zyh33 - 1 iem
+icessu05zyh33 - 1 cm
+icessu05zyh33 - 1 rm
+icessu05zyh33 - 1 am
+icesde3396 iem
+icesde3396 cm
+icesde3396 rm
+icesde3396 am
+icessu32457 iem
+icessu32457 cm
+icessu32457 rm
+icessu32457 am
+icesag37 iem
+icesag37 cm
+icesag37 rm
+icesag37 am
+t4ss - type integrative and conjugative element
+t4ss - type integrative and conjugative element in gram - positive bacteria
+t4ss - type integrative and conjugative element in gram - negative bacteria
+icekp1 family ice
+iceec1 iem
+iceec1 cm
+iceec1 rm
+iceec1 am
+icekp1 iem
+icekp1 iem for integration
+icekp1 cm
+icekp1 rm
+icekp1 am
+iceapl2 iem
+iceapl2 cm
+iceapl2 rm
+iceapl2 am
+icepmichn1586 iem
+icepmichn1586 cm
+icepmichn1586 rm
+icepmichn1586 am
+icepmichn2407 iem
+icepmichn2407 cm
+icepmichn2407 rm
+icepmichn2407 am
+icepmichn4 iem
+icepmichn4 cm
+icepmichn4 rm
+icepmichn4 am
+icepmichn2 iem
+icepmichn2 cm
+icepmichn2 rm
+icepmichn2 am
+icepmichn1809 iem
+icepmichn1809 cm
+icepmichn1809 rm
+icepmichn1809 am
+icepmichn3335 iem
+icepmichn3335 cm
+icepmichn3335 rm
+icepmichn3335 am
+actinomycete integrative and conjugative element
+icespy009 iem
+icespy009 cm
+icespy009 rm
+icespy009 am
+yapi iem
+yapi cm
+yapi rm
+yapi am
+tn1207 .3 iem
+tn1207 .3 cm
+tn1207 .3 rm
+tn1207 .3 am
+icesp1108 iem
+icesp1108 cm
+icesp1108 rm
+icesp1108 am
+icea ( 5632 )  - i iem
+icea ( 5632 )  - i cm
+icea ( 5632 )  - i rm
+icea ( 5632 )  - i am
+icea ( 5632 )  - ii iem
+icea ( 5632 )  - ii cm
+icea ( 5632 )  - ii rm
+icea ( 5632 )  - ii am
+icea ( 5632 )  - iii iem
+icea ( 5632 )  - iii cm
+icea ( 5632 )  - iii rm
+icea ( 5632 )  - iii am
+icef - i iem
+icef - i cm
+icef - i rm
+icef - i am
+tn5801 iem
+tn5801 cm
+tn5801 rm
+tn5801 am
+tngbs2  ( genomic island x )  iem
+tngbs2  ( genomic island x )  cm
+tngbs2  ( genomic island x )  rm
+tngbs2  ( genomic island x )  am
+hhgi1 iem
+hhgi1 cm
+hhgi1 rm
+hhgi1 am
+ctn9343 iem
+ctn9343 cm
+ctn9343 rm
+ctn9343 am
+icepm1 iem
+icepm1 cm
+icepm1 rm
+icepm1 am
+tn6098 iem
+tn6098 cm
+tn6098 rm
+tn6098 am
+icehpyp12 - 1 iem
+icehpyp12 - 1 cm
+icehpyp12 - 1 rm
+icehpyp12 - 1 am
+pphgi - 1 iem
+pphgi - 1 cm
+pphgi - 1 rm
+pphgi - 1 am
+ctnbst iem
+ctnbst cm
+ctnbst rm
+ctnbst am
+ctnscr94 iem
+ctnscr94 cm
+ctnscr94 rm
+ctnscr94 am
+tn6000  ( efctn1 )  iem
+tn6000  ( efctn1 )  cm
+tn6000  ( efctn1 )  rm
+tn6000  ( efctn1 )  am
+iceec2 iem
+iceec2 cm
+iceec2 rm
+iceec2 am
+iceecihe3034 - 1 iem
+iceecihe3034 - 1 cm
+iceecihe3034 - 1 rm
+iceecihe3034 - 1 am
+icese2 iem
+icese2 cm
+icese2 rm
+icese2 am
+tn1549 iem
+tn1549 cm
+tn1549 rm
+tn1549 am
+tn5386 iem
+tn5386 cm
+tn5386 rm
+tn5386 am
+phn island iem
+phn island cm
+phn island rm
+phn island am
+icesp2905 iem
+icesp2905 cm
+icesp2905 rm
+icesp2905 am
+icepmu1 iem
+icepmu1 cm
+icepmu1 rm
+icepmu1 am
+ctnhyb iem
+ctnhyb cm
+ctnhyb rm
+ctnhyb am
+tn6194 - like iem
+tn6194 - like cm
+tn6194 - like rm
+tn6194 - like am
+lpcgi - 2 iem
+lpcgi - 2 cm
+lpcgi - 2 rm
+lpcgi - 2 am
+trb - 1 iem
+trb - 1 cm
+trb - 1 rm
+trb - 1 am
+type iv coupling protein
+icemcsym ( 1271 )  - alpha iem
+icemcsym ( 1271 )  - alpha cm
+icemcsym ( 1271 )  - alpha rm
+icemcsym ( 1271 )  - alpha am
+icemcsym ( 1271 )  - beta iem
+icemcsym ( 1271 )  - beta cm
+icemcsym ( 1271 )  - beta rm
+icemcsym ( 1271 )  - beta am
+mating pair formation
+mpf ( f )
+mpf ( t )
+mpf ( i )
+mpf ( g )
+t4ss atpase
+icemcsym ( 1271 )  - gamma iem
+icemcsym ( 1271 )  - gamma cm
+icemcsym ( 1271 )  - gamma rm
+icemcsym ( 1271 )  - gamma am
+type iv secretion system
+type iv secretion system in gram negative bacteria
+type iv secretion system in gram positive bacteria
+ice integration and excision module
+tyrosine recombinase
+serine recombinase
+dde transposase
+origin of transfer sequence
+recombination attachment site
+attl
+attr
+attb
+insertion site
+icemlsym ( nzp2037 )  - alpha iem
+icemlsym ( nzp2037 )  - alpha cm
+icemlsym ( nzp2037 )  - alpha rm
+icemlsym ( nzp2037 )  - alpha am
+icemlsym ( nzp2037 )  - beta iem
+icemlsym ( nzp2037 )  - beta cm
+icemlsym ( nzp2037 )  - beta rm
+icemlsym ( nzp2037 )  - beta am
+icemlsym ( nzp2037 )  - gamma iem
+icemlsym ( nzp2037 )  - gamma cm
+icemlsym ( nzp2037 )  - gamma rm
+icemlsym ( nzp2037 )  - gamma am
+icesluvan iem
+icesluvan cm
+icesluvan rm
+icesluvan am
+icesp1116 iem
+icesp1116 cm
+icesp1116 rm
+icesp1116 am
+ice_ssaf1 - 4_fda iem
+ice_ssaf1 - 4_fda cm
+ice_ssaf1 - 4_fda rm
+ice_ssaf1 - 4_fda am
+ice_ssaf4 - 2_fda iem
+ice_ssaf4 - 2_fda cm
+ice_ssaf4 - 2_fda rm
+ice_ssaf4 - 2_fda am
+icessu05sc260 iem
+icessu05sc260 cm
+icessu05sc260 rm
+icessu05sc260 am
+icessunc28 iem
+icessunc28 cm
+icessunc28 rm
+icessunc28 am
+recombination directionality factor
+ice regulation module
+toxin–antitoxin system
+dna restriction - modification system
+insertion site role
+icepvuchn2213 iem
+icepvuchn2213 cm
+icepvuchn2213 rm
+icepvuchn2213 am
+icevchnep1 iem
+icevchnep1 cm
+icevchnep1 rm
+icevchnep1 am
+icevchnig1 iem
+icevchnig1 cm
+icevchnig1 rm
+icevchnig1 am
+tn916 family ice
+tn5397 iem
+tn5397 cm
+tn5397 rm
+tn5397 am
+tn916 ( pam120 )  iem
+tn916 ( pam120 )  cm
+tn916 ( pam120 )  rm
+tn916 ( pam120 )  am
+tn925 iem
+tn925 cm
+tn925 rm
+tn925 am
+tn916 ( rst11 )  iem
+tn916 ( rst11 )  cm
+tn916 ( rst11 )  rm
+tn916 ( rst11 )  am
+icespanuf1049 iem
+icespanuf1049 cm
+icespanuf1049 rm
+icespanuf1049 am
+tn6085b iem
+tn6085b cm
+tn6085b rm
+tn6085b am
+tn6085a iem
+tn6085a cm
+tn6085a rm
+tn6085a am
+tn6084 iem
+tn6084 cm
+tn6084 rm
+tn6084 am
+tn6003 iem
+tn6003 cm
+tn6003 rm
+tn6003 am
+tn2010 iem
+tn2010 cm
+tn2010 rm
+tn2010 am
+conjugation module component role
+type iv coupling protein role
+t4ss atpase role
+type iv secretion system gene component role
+integrase role
+origin of transfer role
+recombination attachment site role
+recombination directionality factor role
+regulation module component role
+accessory module component role
+antibiotic resistance gene role
+virulence factor gene role
+relaxase role
+ice in gammaproteobacteria
+tn6087 iem
+tn6087 cm
+tn6087 rm
+tn6087 am
+tn5251  ( part of tn5253 )  iem
+tn5251  ( part of tn5253 )  cm
+tn5251  ( part of tn5253 )  rm
+tn5251  ( part of tn5253 )  am
+tn916 iem
+tn916 cm
+tn916 rm
+tn916 am
+ctn6002 iem
+ctn6002 cm
+ctn6002 rm
+ctn6002 am
+tn6198 iem
+tn6198 cm
+tn6198 rm
+tn6198 am
+iceenispa1 iem
+iceenispa1 cm
+iceenispa1 rm
+iceenispa1 am
+iceenispa2 iem
+iceenispa2 cm
+iceenispa2 rm
+iceenispa2 am
+icepmijpn1 iem
+icepmijpn1 cm
+icepmijpn1 rm
+icepmijpn1 am
+r997 iem
+r997 cm
+r997 rm
+r997 am
+r705 iem
+r705 cm
+r705 rm
+r705 am
+r706 iem
+r706 cm
+r706 rm
+r706 am
+r392 iem
+r392 cm
+r392 rm
+r392 am
+r397 iem
+r397 cm
+r397 rm
+r397 am
+r748 iem
+r748 cm
+r748 rm
+r748 am
+r749 iem
+r749 cm
+r749 rm
+r749 am
+icepspspa1 iem
+icepspspa1 cm
+icepspspa1 rm
+icepspspa1 am
+iceshapor1 iem
+iceshapor1 cm
+iceshapor1 rm
+iceshapor1 am
+pmerph iem
+pmerph cm
+pmerph rm
+pmerph am
+icesh95 iem
+icesh95 cm
+icesh95 rm
+icesh95 am
+icevalpor1 iem
+icevalpor1 cm
+icevalpor1 rm
+icevalpor1 am
+icevalspa1 iem
+icevalspa1 cm
+icevalspa1 rm
+icevalspa1 am
+icevchlao1 iem
+icevchlao1 cm
+icevchlao1 rm
+icevchlao1 am
+icevchmoz5 iem
+icevchmoz5 cm
+icevchmoz5 rm
+icevchmoz5 am
+icevchmoz6 iem
+icevchmoz6 cm
+icevchmoz6 rm
+icevchmoz6 am
+pjy1 iem
+pjy1 cm
+pjy1 rm
+pjy1 am
+icevchmoz2 iem
+icevchmoz2 cm
+icevchmoz2 rm
+icevchmoz2 am
+icevchmoz8 iem
+icevchmoz8 cm
+icevchmoz8 rm
+icevchmoz8 am
+icevchmoz7 iem
+icevchmoz7 cm
+icevchmoz7 rm
+icevchmoz7 am
+icevchmoz9 iem
+icevchmoz9 cm
+icevchmoz9 rm
+icevchmoz9 am
+icevchmoz4 iem
+icevchmoz4 cm
+icevchmoz4 rm
+icevchmoz4 am
+icevchchn6 iem
+icevchchn6 cm
+icevchchn6 rm
+icevchchn6 am
+icevchhko1 iem
+icevchhko1 cm
+icevchhko1 rm
+icevchhko1 am
+sxt ( mcv09 )  iem
+sxt ( mcv09 )  cm
+sxt ( mcv09 )  rm
+sxt ( mcv09 )  am
+icevchang2 iem
+icevchang2 cm
+icevchang2 rm
+icevchang2 am
+icevchmoz3 iem
+icevchmoz3 cm
+icevchmoz3 rm
+icevchmoz3 am
+icevchang3 iem
+icevchang3 cm
+icevchang3 rm
+icevchang3 am
+icevchang1 iem
+icevchang1 cm
+icevchang1 rm
+icevchang1 am
+icevchvie0 iem
+icevchvie0 cm
+icevchvie0 rm
+icevchvie0 am
+icevchban2 iem
+icevchban2 cm
+icevchban2 rm
+icevchban2 am
+icevchban3 iem
+icevchban3 cm
+icevchban3 rm
+icevchban3 am
+icevchind1 iem
+icevchind1 cm
+icevchind1 rm
+icevchind1 am
+sxt ( et )  iem
+sxt ( et )  cm
+sxt ( et )  rm
+sxt ( et )  am
+icevchban1 iem
+icevchban1 cm
+icevchban1 rm
+icevchban1 am
+icevchban4 iem
+icevchban4 cm
+icevchban4 rm
+icevchban4 am
+icevchban6 iem
+icevchban6 cm
+icevchban6 rm
+icevchban6 am
+icevchind2 iem
+icevchind2 cm
+icevchind2 rm
+icevchind2 am
+icevchind3 iem
+icevchind3 cm
+icevchind3 rm
+icevchind3 am
+icevchsaf1 iem
+icevchsaf1 cm
+icevchsaf1 rm
+icevchsaf1 am
+icevchban7 iem
+icevchban7 cm
+icevchban7 rm
+icevchban7 am
+icevchsl1 iem
+icevchsl1 cm
+icevchsl1 rm
+icevchsl1 am
+icevchvie1 iem
+icevchvie1 cm
+icevchvie1 rm
+icevchvie1 am
+icevflh - 08942 iem
+icevflh - 08942 cm
+icevflh - 08942 rm
+icevflh - 08942 am
+icevpachn1 iem
+icevpachn1 cm
+icevpachn1 rm
+icevpachn1 am
+icevpaang1 iem
+icevpaang1 cm
+icevpaang1 rm
+icevpaang1 am
+icevscspa1 iem
+icevscspa1 cm
+icevscspa1 rm
+icevscspa1 am
+icevscspa2 iem
+icevscspa2 cm
+icevscspa2 rm
+icevscspa2 am
+icevscspa3 iem
+icevscspa3 cm
+icevscspa3 rm
+icevscspa3 am
+icevsppor1 iem
+icevsppor1 cm
+icevsppor1 rm
+icevsppor1 am
+icevsppor2 iem
+icevsppor2 cm
+icevsppor2 rm
+icevsppor2 am
+icevspspa1 iem
+icevspspa1 cm
+icevspspa1 rm
+icevspspa1 am
+icevspspa2 iem
+icevspspa2 cm
+icevspspa2 rm
+icevspspa2 am
+icevspspa3 iem
+icevspspa3 cm
+icevspspa3 rm
+icevspspa3 am
+icevsppor3 iem
+icevsppor3 cm
+icevsppor3 rm
+icevsppor3 am
+cw459tet ( m )  iem
+cw459tet ( m )  cm
+cw459tet ( m )  rm
+cw459tet ( m )  am
+iceefa9830414 iem
+iceefa9830414 cm
+iceefa9830414 rm
+iceefa9830414 am
+icellapaa211 iem
+icellapaa211 cm
+icellapaa211 rm
+icellapaa211 am
+icellapaa291 iem
+icellapaa291 cm
+icellapaa291 rm
+icellapaa291 am
+icesau1591 iem
+icesau1591 cm
+icesau1591 rm
+icesau1591 am
+icesau21995 iem
+icesau21995 cm
+icesau21995 rm
+icesau21995 am
+icesau22034 iem
+icesau22034 cm
+icesau22034 rm
+icesau22034 am
+icesau34801 iem
+icesau34801 cm
+icesau34801 rm
+icesau34801 am
+icesau35366 iem
+icesau35366 cm
+icesau35366 rm
+icesau35366 am
+icesau35414 iem
+icesau35414 cm
+icesau35414 rm
+icesau35414 am
+icesau35679 iem
+icesau35679 cm
+icesau35679 rm
+icesau35679 am
+icesau4520 iem
+icesau4520 cm
+icesau4520 rm
+icesau4520 am
+icesau4865 iem
+icesau4865 cm
+icesau4865 rm
+icesau4865 am
+icesau5331 iem
+icesau5331 cm
+icesau5331 rm
+icesau5331 am
+icesau5377 iem
+icesau5377 cm
+icesau5377 rm
+icesau5377 am
+icesau617 iem
+icesau617 cm
+icesau617 rm
+icesau617 am
+icesau7215190 iem
+icesau7215190 cm
+icesau7215190 rm
+icesau7215190 am
+icesau7215311 iem
+icesau7215311 cm
+icesau7215311 rm
+icesau7215311 am
+icesau7312330 iem
+icesau7312330 cm
+icesau7312330 rm
+icesau7312330 am
+icesau7412791 iem
+icesau7412791 cm
+icesau7412791 rm
+icesau7412791 am
+icesau7413093 iem
+icesau7413093 cm
+icesau7413093 rm
+icesau7413093 am
+icesau7413714 iem
+icesau7413714 cm
+icesau7413714 rm
+icesau7413714 am
+icesau7512166 iem
+icesau7512166 cm
+icesau7512166 rm
+icesau7512166 am
+icesau7512986 iem
+icesau7512986 cm
+icesau7512986 rm
+icesau7512986 am
+icesau7611280 iem
+icesau7611280 cm
+icesau7611280 rm
+icesau7611280 am
+icesau7612628 iem
+icesau7612628 cm
+icesau7612628 rm
+icesau7612628 am
+icesau7711730 iem
+icesau7711730 cm
+icesau7711730 rm
+icesau7711730 am
+icesau8797 iem
+icesau8797 cm
+icesau8797 rm
+icesau8797 am
+icesau9877324 iem
+icesau9877324 cm
+icesau9877324 rm
+icesau9877324 am
+icesaust398 iem
+icesaust398 cm
+icesaust398 rm
+icesaust398 am
+icesausw356 iem
+icesausw356 cm
+icesausw356 rm
+icesausw356 am
+icesauusa42 iem
+icesauusa42 cm
+icesauusa42 rm
+icesauusa42 am
+tn1545 iem
+tn1545 cm
+tn1545 rm
+tn1545 am
+tn3872 iem
+tn3872 cm
+tn3872 rm
+tn3872 am
+tn5031 iem
+tn5031 cm
+tn5031 rm
+tn5031 am
+tn5032 iem
+tn5032 cm
+tn5032 rm
+tn5032 am
+tn5033 iem
+tn5033 cm
+tn5033 rm
+tn5033 am
+tn5381 iem
+tn5381 cm
+tn5381 rm
+tn5381 am
+tn5383 iem
+tn5383 cm
+tn5383 rm
+tn5383 am
+tn6009 iem
+tn6009 cm
+tn6009 rm
+tn6009 am
+tn6194  [ ctncd11 ]  iem
+tn6194  [ ctncd11 ]  cm
+tn6194  [ ctncd11 ]  rm
+tn6194  [ ctncd11 ]  am
+tn916s iem
+tn916s cm
+tn916s rm
+tn916s am
+tn919 iem
+tn919 cm
+tn919 rm
+tn919 am
+ctnerl iem
+ctnerl cm
+ctnerl rm
+ctnerl am
+ctndot iem
+ctndot cm
+ctndot rm
+ctndot am
+iceclc ( js705 )  iem
+iceclc ( js705 )  cm
+iceclc ( js705 )  rm
+iceclc ( js705 )  am
+icemlsym ( r7a )  iem
+icemlsym ( r7a )  cm
+icemlsym ( r7a )  rm
+icemlsym ( r7a )  am
+tn5252  ( part of tn5253 )  iem
+tn5252  ( part of tn5253 )  cm
+tn5252  ( part of tn5253 )  rm
+tn5252  ( part of tn5253 )  am
+icespnj93183 iem
+icespnj93183 cm
+icespnj93183 rm
+icespnj93183 am
+icespnj93292 iem
+icespnj93292 cm
+icespnj93292 rm
+icespnj93292 am
+icespnkd6 iem
+icespnkd6 cm
+icespnkd6 rm
+icespnkd6 am
+icespnn24 iem
+icespnn24 cm
+icespnn24 rm
+icespnn24 am
+icespn2531 iem
+icespn2531 cm
+icespn2531 rm
+icespn2531 am
+tn5252 ( sp1000 )  iem
+tn5252 ( sp1000 )  cm
+tn5252 ( sp1000 )  rm
+tn5252 ( sp1000 )  am
+icespna213 iem
+icespna213 cm
+icespna213 rm
+icespna213 am
+tn1311 iem
+tn1311 cm
+tn1311 rm
+tn1311 am
+icespy005iq iem
+icespy005iq cm
+icespy005iq rm
+icespy005iq am
+icesde3396 - like iem
+icesde3396 - like cm
+icesde3396 - like rm
+icesde3396 - like am
+icessuhb1011 iem
+icessuhb1011 cm
+icessuhb1011 rm
+icessuhb1011 am
+icef - ii iem
+icef - ii cm
+icef - ii rm
+icef - ii am
+bph - sal iem
+bph - sal cm
+bph - sal rm
+bph - sal am
+btf - 37 iem
+btf - 37 cm
+btf - 37 rm
+btf - 37 am
+ctn86 iem
+ctn86 cm
+ctn86 rm
+ctn86 am
+ctngerm1 iem
+ctngerm1 cm
+ctngerm1 rm
+ctngerm1 am
+ice - &beta ; ox iem
+ice - &beta ; ox cm
+ice - &beta ; ox rm
+ice - &beta ; ox am
+ice ( ac )  iem
+ice ( ac )  cm
+ice ( ac )  rm
+ice ( ac )  am
+ice_515_trnalys iem
+ice_515_trnalys cm
+ice_515_trnalys rm
+ice_515_trnalys am
+ice_fsls3 - 026_trnalys iem
+ice_fsls3 - 026_trnalys cm
+ice_fsls3 - 026_trnalys rm
+ice_fsls3 - 026_trnalys am
+ice_sagnem316_tngbs1_1 iem
+ice_sagnem316_tngbs1_1 cm
+ice_sagnem316_tngbs1_1 rm
+ice_sagnem316_tngbs1_1 am
+iceea1 iem
+iceea1 cm
+iceea1 rm
+iceea1 am
+icemh1 iem
+icemh1 cm
+icemh1 rm
+icemh1 am
+icesa2603 / icessu32457 iem
+icesa2603 / icessu32457 cm
+icesa2603 / icessu32457 rm
+icesa2603 / icessu32457 am
+icesag236 iem
+icesag236 cm
+icesag236 rm
+icesag236 am
+icesagtr7 iem
+icesagtr7 cm
+icesagtr7 rm
+icesagtr7 am
+icesp2906 iem
+icesp2906 cm
+icesp2906 rm
+icesp2906 am
+iceth1 iem
+iceth1 cm
+iceth1 rm
+iceth1 am
+lpggi - 1 iem
+lpggi - 1 cm
+lpggi - 1 rm
+lpggi - 1 am
+lppi - 1 iem
+lppi - 1 cm
+lppi - 1 rm
+lppi - 1 am
+pbn1_gi15 iem
+pbn1_gi15 cm
+pbn1_gi15 rm
+pbn1_gi15 am
+pcm32 iem
+pcm32 cm
+pcm32 rm
+pcm32 am
+pij110 iem
+pij110 cm
+pij110 rm
+pij110 am
+pij408 iem
+pij408 cm
+pij408 rm
+pij408 am
+pmea100 iem
+pmea100 cm
+pmea100 rm
+pmea100 am
+pmea300 iem
+pmea300 cm
+pmea300 rm
+pmea300 am
+pmr2 iem
+pmr2 cm
+pmr2 rm
+pmr2 am
+prs01 iem
+prs01 cm
+prs01 rm
+prs01 am
+psa1 .1 iem
+psa1 .1 cm
+psa1 .1 rm
+psa1 .1 am
+psam2 iem
+psam2 cm
+psam2 rm
+psam2 am
+pse211 iem
+pse211 cm
+pse211 rm
+pse211 am
+psg1 iem
+psg1 cm
+psg1 rm
+psg1 am
+slp1 iem
+slp1 cm
+slp1 rm
+slp1 am
+tcr emr 7853 iem
+tcr emr 7853 cm
+tcr emr 7853 rm
+tcr emr 7853 am
+tn5030 iem
+tn5030 cm
+tn5030 rm
+tn5030 am
+tn5276 iem
+tn5276 cm
+tn5276 rm
+tn5276 am
+tn5281 iem
+tn5281 cm
+tn5281 rm
+tn5281 am
+tn5301 iem
+tn5301 cm
+tn5301 rm
+tn5301 am
+tn5307 iem
+tn5307 cm
+tn5307 rm
+tn5307 am
+tn5382 ( 5 - f9 )  iem
+tn5382 ( 5 - f9 )  cm
+tn5382 ( 5 - f9 )  rm
+tn5382 ( 5 - f9 )  am
+tn5385 iem
+tn5385 cm
+tn5385 rm
+tn5385 am
+tnb1230 iem
+tnb1230 cm
+tnb1230 rm
+tnb1230 am
+icekpnl201 - 1 iem
+icekpnl201 - 1 iem for integration
+icekpnl201 - 1 iem for excision
+icekpnl201 - 1 cm
+icekpnl201 - 1 rm
+icekpnl201 - 1 am
+icekpn6 - 1 iem
+icekpn6 - 1 iem for integration
+icekpn6 - 1 iem for excision
+icekpn6 - 1 cm
+icekpn6 - 1 rm
+icekpn6 - 1 am
+icekpnkpc160132 - 1 iem
+icekpnkpc160132 - 1 iem for integration
+icekpnkpc160132 - 1 iem for excision
+icekpnkpc160132 - 1 cm
+icekpnkpc160132 - 1 rm
+icekpnkpc160132 - 1 am
+icekpnkpc160121 - 1 iem
+icekpnkpc160121 - 1 iem for integration
+icekpnkpc160121 - 1 iem for excision
+icekpnkpc160121 - 1 cm
+icekpnkpc160121 - 1 rm
+icekpnkpc160121 - 1 am
+icekpnkpc160117 - 1 iem
+icekpnkpc160117 - 1 iem for integration
+icekpnkpc160117 - 1 iem for excision
+icekpnkpc160117 - 1 cm
+icekpnkpc160117 - 1 rm
+icekpnkpc160117 - 1 am
+icekpnkpc160125 - 1 iem
+icekpnkpc160125 - 1 iem for integration
+icekpnkpc160125 - 1 iem for excision
+icekpnkpc160125 - 1 cm
+icekpnkpc160125 - 1 rm
+icekpnkpc160125 - 1 am
+icekpnkpc160125 - 2 iem
+icekpnkpc160125 - 2 iem for integration
+icekpnkpc160125 - 2 iem for excision
+icekpnkpc160125 - 2 cm
+icekpnkpc160125 - 2 rm
+icekpnkpc160125 - 2 am
+icekpnkp18 - 2079 - 1 iem
+icekpnkp18 - 2079 - 1 iem for integration
+icekpnkp18 - 2079 - 1 iem for excision
+icekpnkp18 - 2079 - 1 cm
+icekpnkp18 - 2079 - 1 rm
+icekpnkp18 - 2079 - 1 am
+icekpnntuh - k2044 - 1 iem
+icekpnntuh - k2044 - 1 iem for integration
+icekpnntuh - k2044 - 1 iem for excision
+icekpnntuh - k2044 - 1 cm
+icekpnntuh - k2044 - 1 rm
+icekpnntuh - k2044 - 1 am
+icekpnntuh - k2044 - 2 iem
+icekpnntuh - k2044 - 2 iem for integration
+icekpnntuh - k2044 - 2 iem for excision
+icekpnntuh - k2044 - 2 cm
+icekpnntuh - k2044 - 2 rm
+icekpnntuh - k2044 - 2 am
+icekpnhs11286 - 1 iem
+icekpnhs11286 - 1 iem for integration
+icekpnhs11286 - 1 iem for excision
+icekpnhs11286 - 1 cm
+icekpnhs11286 - 1 rm
+icekpnhs11286 - 1 am
+icekpnhs11286 - 2 iem
+icekpnhs11286 - 2 iem for integration
+icekpnhs11286 - 2 iem for excision
+icekpnhs11286 - 2 cm
+icekpnhs11286 - 2 rm
+icekpnhs11286 - 2 am
+icekpn1084 - 1 iem
+icekpn1084 - 1 iem for integration
+icekpn1084 - 1 iem for excision
+icekpn1084 - 1 cm
+icekpn1084 - 1 rm
+icekpn1084 - 1 am
+icekpn1084 - 2 iem
+icekpn1084 - 2 iem for integration
+icekpn1084 - 2 iem for excision
+icekpn1084 - 2 cm
+icekpn1084 - 2 rm
+icekpn1084 - 2 am
+icekpnjm45 - 1 iem
+icekpnjm45 - 1 iem for integration
+icekpnjm45 - 1 iem for excision
+icekpnjm45 - 1 cm
+icekpnjm45 - 1 rm
+icekpnjm45 - 1 am
+icekpngsu10 - 3dna - 1 iem
+icekpngsu10 - 3dna - 1 iem for integration
+icekpngsu10 - 3dna - 1 iem for excision
+icekpngsu10 - 3dna - 1 cm
+icekpngsu10 - 3dna - 1 rm
+icekpngsu10 - 3dna - 1 am
+icekpnjunp254 - 1 iem
+icekpnjunp254 - 1 iem for integration
+icekpnjunp254 - 1 iem for excision
+icekpnjunp254 - 1 cm
+icekpnjunp254 - 1 rm
+icekpnjunp254 - 1 am
+icekpnatccbaa - 2146 - 1 iem
+icekpnatccbaa - 2146 - 1 iem for integration
+icekpnatccbaa - 2146 - 1 iem for excision
+icekpnatccbaa - 2146 - 1 cm
+icekpnatccbaa - 2146 - 1 rm
+icekpnatccbaa - 2146 - 1 am
+icekpn1158 - 1 iem
+icekpn1158 - 1 iem for integration
+icekpn1158 - 1 iem for excision
+icekpn1158 - 1 cm
+icekpn1158 - 1 rm
+icekpn1158 - 1 am
+icekpnhk787 - 1 iem
+icekpnhk787 - 1 iem for integration
+icekpnhk787 - 1 iem for excision
+icekpnhk787 - 1 cm
+icekpnhk787 - 1 rm
+icekpnhk787 - 1 am
+icekpn30684 / njst258_2 - 1 iem
+icekpn30684 / njst258_2 - 1 iem for integration
+icekpn30684 / njst258_2 - 1 iem for excision
+icekpn30684 / njst258_2 - 1 cm
+icekpn30684 / njst258_2 - 1 rm
+icekpn30684 / njst258_2 - 1 am
+icekpn30660 / njst258_1 - 1 iem
+icekpn30660 / njst258_1 - 1 iem for integration
+icekpn30660 / njst258_1 - 1 iem for excision
+icekpn30660 / njst258_1 - 1 cm
+icekpn30660 / njst258_1 - 1 rm
+icekpn30660 / njst258_1 - 1 am
+icekpnkpnih10 - 1 iem
+icekpnkpnih10 - 1 iem for integration
+icekpnkpnih10 - 1 iem for excision
+icekpnkpnih10 - 1 cm
+icekpnkpnih10 - 1 rm
+icekpnkpnih10 - 1 am
+icekpnkpnih24 - 1 iem
+icekpnkpnih24 - 1 iem for integration
+icekpnkpnih24 - 1 iem for excision
+icekpnkpnih24 - 1 cm
+icekpnkpnih24 - 1 rm
+icekpnkpnih24 - 1 am
+icekpnkpnih1 - 1 iem
+icekpnkpnih1 - 1 iem for integration
+icekpnkpnih1 - 1 iem for excision
+icekpnkpnih1 - 1 cm
+icekpnkpnih1 - 1 rm
+icekpnkpnih1 - 1 am
+icekpnkpr0928 - 1 iem
+icekpnkpr0928 - 1 iem for integration
+icekpnkpr0928 - 1 iem for excision
+icekpnkpr0928 - 1 cm
+icekpnkpr0928 - 1 rm
+icekpnkpr0928 - 1 am
+icekpnpmk1 - 1 iem
+icekpnpmk1 - 1 iem for integration
+icekpnpmk1 - 1 iem for excision
+icekpnpmk1 - 1 cm
+icekpnpmk1 - 1 rm
+icekpnpmk1 - 1 am
+icekpnnz_cp009114 - 1 iem
+icekpnnz_cp009114 - 1 iem for integration
+icekpnnz_cp009114 - 1 iem for excision
+icekpnnz_cp009114 - 1 cm
+icekpnnz_cp009114 - 1 rm
+icekpnnz_cp009114 - 1 am
+icekpnkpnih33 - 1 iem
+icekpnkpnih33 - 1 iem for integration
+icekpnkpnih33 - 1 iem for excision
+icekpnkpnih33 - 1 cm
+icekpnkpnih33 - 1 rm
+icekpnkpnih33 - 1 am
+icekpnkpnih33 - 2 iem
+icekpnkpnih33 - 2 iem for integration
+icekpnkpnih33 - 2 iem for excision
+icekpnkpnih33 - 2 cm
+icekpnkpnih33 - 2 rm
+icekpnkpnih33 - 2 am
+icekpnkpnih32 - 1 iem
+icekpnkpnih32 - 1 iem for integration
+icekpnkpnih32 - 1 iem for excision
+icekpnkpnih32 - 1 cm
+icekpnkpnih32 - 1 rm
+icekpnkpnih32 - 1 am
+icekpnkpnih32 - 2 iem
+icekpnkpnih32 - 2 iem for integration
+icekpnkpnih32 - 2 iem for excision
+icekpnkpnih32 - 2 cm
+icekpnkpnih32 - 2 rm
+icekpnkpnih32 - 2 am
+icekpnkpnih30 - 1 iem
+icekpnkpnih30 - 1 iem for integration
+icekpnkpnih30 - 1 iem for excision
+icekpnkpnih30 - 1 cm
+icekpnkpnih30 - 1 rm
+icekpnkpnih30 - 1 am
+icekpn32192 - 2 iem
+icekpn32192 - 2 iem for integration
+icekpn32192 - 2 iem for excision
+icekpn32192 - 2 cm
+icekpn32192 - 2 rm
+icekpn32192 - 2 am
+icekpn34618 - 1 iem
+icekpn34618 - 1 iem for integration
+icekpn34618 - 1 iem for excision
+icekpn34618 - 1 cm
+icekpn34618 - 1 rm
+icekpn34618 - 1 am
+icekpncav1392 - 2 iem
+icekpncav1392 - 2 iem for integration
+icekpncav1392 - 2 iem for excision
+icekpncav1392 - 2 cm
+icekpncav1392 - 2 rm
+icekpncav1392 - 2 am
+icekpncav1596 - 1 iem
+icekpncav1596 - 1 iem for integration
+icekpncav1596 - 1 iem for excision
+icekpncav1596 - 1 cm
+icekpncav1596 - 1 rm
+icekpncav1596 - 1 am
+icekpndmc1097 - 1 iem
+icekpndmc1097 - 1 iem for integration
+icekpndmc1097 - 1 iem for excision
+icekpndmc1097 - 1 cm
+icekpndmc1097 - 1 rm
+icekpndmc1097 - 1 am
+icekpn500_1420 - 1 iem
+icekpn500_1420 - 1 iem for integration
+icekpn500_1420 - 1 iem for excision
+icekpn500_1420 - 1 cm
+icekpn500_1420 - 1 rm
+icekpn500_1420 - 1 am
+icekpnuhkpc07 - 1 iem
+icekpnuhkpc07 - 1 iem for integration
+icekpnuhkpc07 - 1 iem for excision
+icekpnuhkpc07 - 1 cm
+icekpnuhkpc07 - 1 rm
+icekpnuhkpc07 - 1 am
+icekpnuhkpc33 - 1 iem
+icekpnuhkpc33 - 1 iem for integration
+icekpnuhkpc33 - 1 iem for excision
+icekpnuhkpc33 - 1 cm
+icekpnuhkpc33 - 1 rm
+icekpnuhkpc33 - 1 am
+icekpnu25 - 1 iem
+icekpnu25 - 1 iem for integration
+icekpnu25 - 1 iem for excision
+icekpnu25 - 1 cm
+icekpnu25 - 1 rm
+icekpnu25 - 1 am
+icekpntgh8 - 1 iem
+icekpntgh8 - 1 iem for integration
+icekpntgh8 - 1 iem for excision
+icekpntgh8 - 1 cm
+icekpntgh8 - 1 rm
+icekpntgh8 - 1 am
+icekpnrjf293 - 1 iem
+icekpnrjf293 - 1 iem for integration
+icekpnrjf293 - 1 iem for excision
+icekpnrjf293 - 1 cm
+icekpnrjf293 - 1 rm
+icekpnrjf293 - 1 am
+icekpnrjf999 - 1 iem
+icekpnrjf999 - 1 iem for integration
+icekpnrjf999 - 1 iem for excision
+icekpnrjf999 - 1 cm
+icekpnrjf999 - 1 rm
+icekpnrjf999 - 1 am
+icekpnrjf999 - 2 iem
+icekpnrjf999 - 2 iem for integration
+icekpnrjf999 - 2 iem for excision
+icekpnrjf999 - 2 cm
+icekpnrjf999 - 2 rm
+icekpnrjf999 - 2 am
+icekpnkp38731 - 1 iem
+icekpnkp38731 - 1 iem for integration
+icekpnkp38731 - 1 iem for excision
+icekpnkp38731 - 1 cm
+icekpnkp38731 - 1 rm
+icekpnkp38731 - 1 am
+icekpnkp38731 - 2 iem
+icekpnkp38731 - 2 iem for integration
+icekpnkp38731 - 2 iem for excision
+icekpnkp38731 - 2 cm
+icekpnkp38731 - 2 rm
+icekpnkp38731 - 2 am
+icekpnkpnih36 - 1 iem
+icekpnkpnih36 - 1 iem for integration
+icekpnkpnih36 - 1 iem for excision
+icekpnkpnih36 - 1 cm
+icekpnkpnih36 - 1 rm
+icekpnkpnih36 - 1 am
+icekpnaatzp - 1 iem
+icekpnaatzp - 1 iem for integration
+icekpnaatzp - 1 iem for excision
+icekpnaatzp - 1 cm
+icekpnaatzp - 1 rm
+icekpnaatzp - 1 am
+icekpnny9 - 1 iem
+icekpnny9 - 1 iem for integration
+icekpnny9 - 1 iem for excision
+icekpnny9 - 1 cm
+icekpnny9 - 1 rm
+icekpnny9 - 1 am
+icekpncr14 - 1 iem
+icekpncr14 - 1 iem for integration
+icekpncr14 - 1 iem for excision
+icekpncr14 - 1 cm
+icekpncr14 - 1 rm
+icekpncr14 - 1 am
+icekpncr14 - 2 iem
+icekpncr14 - 2 iem for integration
+icekpncr14 - 2 iem for excision
+icekpncr14 - 2 cm
+icekpncr14 - 2 rm
+icekpncr14 - 2 am
+icekpnskgh01 - 1 iem
+icekpnskgh01 - 1 iem for integration
+icekpnskgh01 - 1 iem for excision
+icekpnskgh01 - 1 cm
+icekpnskgh01 - 1 rm
+icekpnskgh01 - 1 am
+icekpnnz_cp015822 - 1 iem
+icekpnnz_cp015822 - 1 iem for integration
+icekpnnz_cp015822 - 1 iem for excision
+icekpnnz_cp015822 - 1 cm
+icekpnnz_cp015822 - 1 rm
+icekpnnz_cp015822 - 1 am
+icekpnbr - 1 iem
+icekpnbr - 1 iem for integration
+icekpnbr - 1 iem for excision
+icekpnbr - 1 cm
+icekpnbr - 1 rm
+icekpnbr - 1 am
+icekpned2 - 1 iem
+icekpned2 - 1 iem for integration
+icekpned2 - 1 iem for excision
+icekpned2 - 1 cm
+icekpned2 - 1 rm
+icekpned2 - 1 am
+icekpned23 - 1 iem
+icekpned23 - 1 iem for integration
+icekpned23 - 1 iem for excision
+icekpned23 - 1 cm
+icekpned23 - 1 rm
+icekpned23 - 1 am
+icekpn11 - 1 iem
+icekpn11 - 1 iem for integration
+icekpn11 - 1 iem for excision
+icekpn11 - 1 cm
+icekpn11 - 1 rm
+icekpn11 - 1 am
+icekpnkp36 - 1 iem
+icekpnkp36 - 1 iem for integration
+icekpnkp36 - 1 iem for excision
+icekpnkp36 - 1 cm
+icekpnkp36 - 1 rm
+icekpnkp36 - 1 am
+icekpncav1016 - 1 iem
+icekpncav1016 - 1 iem for integration
+icekpncav1016 - 1 iem for excision
+icekpncav1016 - 1 cm
+icekpncav1016 - 1 rm
+icekpncav1016 - 1 am
+icekpnp1428 - 1 iem
+icekpnp1428 - 1 iem for integration
+icekpnp1428 - 1 iem for excision
+icekpnp1428 - 1 cm
+icekpnp1428 - 1 rm
+icekpnp1428 - 1 am
+icekpnkp_goe_822579 - 1 iem
+icekpnkp_goe_822579 - 1 iem for integration
+icekpnkp_goe_822579 - 1 iem for excision
+icekpnkp_goe_822579 - 1 cm
+icekpnkp_goe_822579 - 1 rm
+icekpnkp_goe_822579 - 1 am
+icekpn459 - 1 iem
+icekpn459 - 1 iem for integration
+icekpn459 - 1 iem for excision
+icekpn459 - 1 cm
+icekpn459 - 1 rm
+icekpn459 - 1 am
+icekpnkp_goe_154414 - 1 iem
+icekpnkp_goe_154414 - 1 iem for integration
+icekpnkp_goe_154414 - 1 iem for excision
+icekpnkp_goe_154414 - 1 cm
+icekpnkp_goe_154414 - 1 rm
+icekpnkp_goe_154414 - 1 am
+icekpnkp_goe_154414 - 2 iem
+icekpnkp_goe_154414 - 2 iem for integration
+icekpnkp_goe_154414 - 2 iem for excision
+icekpnkp_goe_154414 - 2 cm
+icekpnkp_goe_154414 - 2 rm
+icekpnkp_goe_154414 - 2 am
+icekpncav1417 - 1 iem
+icekpncav1417 - 1 iem for integration
+icekpncav1417 - 1 iem for excision
+icekpncav1417 - 1 cm
+icekpncav1417 - 1 rm
+icekpncav1417 - 1 am
+icekpncav1453 - 1 iem
+icekpncav1453 - 1 iem for integration
+icekpncav1453 - 1 iem for excision
+icekpncav1453 - 1 cm
+icekpncav1453 - 1 rm
+icekpncav1453 - 1 am
+icekpnkp_goe_62629 - 1 iem
+icekpnkp_goe_62629 - 1 iem for integration
+icekpnkp_goe_62629 - 1 iem for excision
+icekpnkp_goe_62629 - 1 cm
+icekpnkp_goe_62629 - 1 rm
+icekpnkp_goe_62629 - 1 am
+icekpnmncre69 - 1 iem
+icekpnmncre69 - 1 iem for integration
+icekpnmncre69 - 1 iem for excision
+icekpnmncre69 - 1 cm
+icekpnmncre69 - 1 rm
+icekpnmncre69 - 1 am
+icekpnmncre69 - 2 iem
+icekpnmncre69 - 2 iem for integration
+icekpnmncre69 - 2 iem for excision
+icekpnmncre69 - 2 cm
+icekpnmncre69 - 2 rm
+icekpnmncre69 - 2 am
+icekpnmncre78 - 1 iem
+icekpnmncre78 - 1 iem for integration
+icekpnmncre78 - 1 iem for excision
+icekpnmncre78 - 1 cm
+icekpnmncre78 - 1 rm
+icekpnmncre78 - 1 am
+icekpnmncre78 - 2 iem
+icekpnmncre78 - 2 iem for integration
+icekpnmncre78 - 2 iem for excision
+icekpnmncre78 - 2 cm
+icekpnmncre78 - 2 rm
+icekpnmncre78 - 2 am
+icekpnmncre53 - 1 iem
+icekpnmncre53 - 1 iem for integration
+icekpnmncre53 - 1 iem for excision
+icekpnmncre53 - 1 cm
+icekpnmncre53 - 1 rm
+icekpnmncre53 - 1 am
+icekpnmncre53 - 2 iem
+icekpnmncre53 - 2 iem for integration
+icekpnmncre53 - 2 iem for excision
+icekpnmncre53 - 2 cm
+icekpnmncre53 - 2 rm
+icekpnmncre53 - 2 am
+icekpnkp_goe_822917 - 1 iem
+icekpnkp_goe_822917 - 1 iem for integration
+icekpnkp_goe_822917 - 1 iem for excision
+icekpnkp_goe_822917 - 1 cm
+icekpnkp_goe_822917 - 1 rm
+icekpnkp_goe_822917 - 1 am
+icekpnkp_goe_822917 - 2 iem
+icekpnkp_goe_822917 - 2 iem for integration
+icekpnkp_goe_822917 - 2 iem for excision
+icekpnkp_goe_822917 - 2 cm
+icekpnkp_goe_822917 - 2 rm
+icekpnkp_goe_822917 - 2 am
+icekpnkp_goe_33208 - 1 iem
+icekpnkp_goe_33208 - 1 iem for integration
+icekpnkp_goe_33208 - 1 iem for excision
+icekpnkp_goe_33208 - 1 cm
+icekpnkp_goe_33208 - 1 rm
+icekpnkp_goe_33208 - 1 am
+icekpnkp_goe_71070 - 1 iem
+icekpnkp_goe_71070 - 1 iem for integration
+icekpnkp_goe_71070 - 1 iem for excision
+icekpnkp_goe_71070 - 1 cm
+icekpnkp_goe_71070 - 1 rm
+icekpnkp_goe_71070 - 1 am
+icekpnswu01 - 1 iem
+icekpnswu01 - 1 iem for integration
+icekpnswu01 - 1 iem for excision
+icekpnswu01 - 1 cm
+icekpnswu01 - 1 rm
+icekpnswu01 - 1 am
+icekpncav1042 - 1 iem
+icekpncav1042 - 1 iem for integration
+icekpncav1042 - 1 iem for excision
+icekpncav1042 - 1 cm
+icekpncav1042 - 1 rm
+icekpncav1042 - 1 am
+icekpncav1217 - 1 iem
+icekpncav1217 - 1 iem for integration
+icekpncav1217 - 1 iem for excision
+icekpncav1217 - 1 cm
+icekpncav1217 - 1 rm
+icekpncav1217 - 1 am
+icekpnkp_goe_821588 - 1 iem
+icekpnkp_goe_821588 - 1 iem for integration
+icekpnkp_goe_821588 - 1 iem for excision
+icekpnkp_goe_821588 - 1 cm
+icekpnkp_goe_821588 - 1 rm
+icekpnkp_goe_821588 - 1 am
+icekpnkp_goe_821588 - 2 iem
+icekpnkp_goe_821588 - 2 iem for integration
+icekpnkp_goe_821588 - 2 iem for excision
+icekpnkp_goe_821588 - 2 cm
+icekpnkp_goe_821588 - 2 rm
+icekpnkp_goe_821588 - 2 am
+icekpnkp_goe_121641 - 1 iem
+icekpnkp_goe_121641 - 1 iem for integration
+icekpnkp_goe_121641 - 1 iem for excision
+icekpnkp_goe_121641 - 1 cm
+icekpnkp_goe_121641 - 1 rm
+icekpnkp_goe_121641 - 1 am
+icekpnar_0049 - 1 iem
+icekpnar_0049 - 1 iem for integration
+icekpnar_0049 - 1 iem for excision
+icekpnar_0049 - 1 cm
+icekpnar_0049 - 1 rm
+icekpnar_0049 - 1 am
+icekpnbr7 - 1 iem
+icekpnbr7 - 1 iem for integration
+icekpnbr7 - 1 iem for excision
+icekpnbr7 - 1 cm
+icekpnbr7 - 1 rm
+icekpnbr7 - 1 am
+icekpnbr21 - 1 iem
+icekpnbr21 - 1 iem for integration
+icekpnbr21 - 1 iem for excision
+icekpnbr21 - 1 cm
+icekpnbr21 - 1 rm
+icekpnbr21 - 1 am
+icekpnrja166 - 1 iem
+icekpnrja166 - 1 iem for integration
+icekpnrja166 - 1 iem for excision
+icekpnrja166 - 1 cm
+icekpnrja166 - 1 rm
+icekpnrja166 - 1 am
+icekpnrja166 - 2 iem
+icekpnrja166 - 2 iem for integration
+icekpnrja166 - 2 iem for excision
+icekpnrja166 - 2 cm
+icekpnrja166 - 2 rm
+icekpnrja166 - 2 am
+icekpnkpn_kpc_hug_07 - 1 iem
+icekpnkpn_kpc_hug_07 - 1 iem for integration
+icekpnkpn_kpc_hug_07 - 1 iem for excision
+icekpnkpn_kpc_hug_07 - 1 cm
+icekpnkpn_kpc_hug_07 - 1 rm
+icekpnkpn_kpc_hug_07 - 1 am
+icekpnar_0115 - 1 iem
+icekpnar_0115 - 1 iem for integration
+icekpnar_0115 - 1 iem for excision
+icekpnar_0115 - 1 cm
+icekpnar_0115 - 1 rm
+icekpnar_0115 - 1 am
+icekpnar_0098 - 1 iem
+icekpnar_0098 - 1 iem for integration
+icekpnar_0098 - 1 iem for excision
+icekpnar_0098 - 1 cm
+icekpnar_0098 - 1 rm
+icekpnar_0098 - 1 am
+icekpnbwhc1 - 1 iem
+icekpnbwhc1 - 1 iem for integration
+icekpnbwhc1 - 1 iem for excision
+icekpnbwhc1 - 1 cm
+icekpnbwhc1 - 1 rm
+icekpnbwhc1 - 1 am
+icekpnbk13043 - 1 iem
+icekpnbk13043 - 1 iem for integration
+icekpnbk13043 - 1 iem for excision
+icekpnbk13043 - 1 cm
+icekpnbk13043 - 1 rm
+icekpnbk13043 - 1 am
+icekpnbk13043 - 2 iem
+icekpnbk13043 - 2 iem for integration
+icekpnbk13043 - 2 iem for excision
+icekpnbk13043 - 2 cm
+icekpnbk13043 - 2 rm
+icekpnbk13043 - 2 am
+icekpnkpn528 - 1 iem
+icekpnkpn528 - 1 iem for integration
+icekpnkpn528 - 1 iem for excision
+icekpnkpn528 - 1 cm
+icekpnkpn528 - 1 rm
+icekpnkpn528 - 1 am
+icekpnk66 - 45 - 1 iem
+icekpnk66 - 45 - 1 iem for integration
+icekpnk66 - 45 - 1 iem for excision
+icekpnk66 - 45 - 1 cm
+icekpnk66 - 45 - 1 rm
+icekpnk66 - 45 - 1 am
+icekpnar_0047 - 1 iem
+icekpnar_0047 - 1 iem for integration
+icekpnar_0047 - 1 iem for excision
+icekpnar_0047 - 1 cm
+icekpnar_0047 - 1 rm
+icekpnar_0047 - 1 am
+icekpnar_0112 - 1 iem
+icekpnar_0112 - 1 iem for integration
+icekpnar_0112 - 1 iem for excision
+icekpnar_0112 - 1 cm
+icekpnar_0112 - 1 rm
+icekpnar_0112 - 1 am
+icekpnar_0146 - 1 iem
+icekpnar_0146 - 1 iem for integration
+icekpnar_0146 - 1 iem for excision
+icekpnar_0146 - 1 cm
+icekpnar_0146 - 1 rm
+icekpnar_0146 - 1 am
+icekpnar_0146 - 2 iem
+icekpnar_0146 - 2 iem for integration
+icekpnar_0146 - 2 iem for excision
+icekpnar_0146 - 2 cm
+icekpnar_0146 - 2 rm
+icekpnar_0146 - 2 am
+icekpnar_0129 - 1 iem
+icekpnar_0129 - 1 iem for integration
+icekpnar_0129 - 1 iem for excision
+icekpnar_0129 - 1 cm
+icekpnar_0129 - 1 rm
+icekpnar_0129 - 1 am
+icekpnar_0126 - 1 iem
+icekpnar_0126 - 1 iem for integration
+icekpnar_0126 - 1 iem for excision
+icekpnar_0126 - 1 cm
+icekpnar_0126 - 1 rm
+icekpnar_0126 - 1 am
+icekpnar_0113 - 1 iem
+icekpnar_0113 - 1 iem for integration
+icekpnar_0113 - 1 iem for excision
+icekpnar_0113 - 1 cm
+icekpnar_0113 - 1 rm
+icekpnar_0113 - 1 am
+icekpnar_0138 - 1 iem
+icekpnar_0138 - 1 iem for integration
+icekpnar_0138 - 1 iem for excision
+icekpnar_0138 - 1 cm
+icekpnar_0138 - 1 rm
+icekpnar_0138 - 1 am
+icekpnar_0120 - 1 iem
+icekpnar_0120 - 1 iem for integration
+icekpnar_0120 - 1 iem for excision
+icekpnar_0120 - 1 cm
+icekpnar_0120 - 1 rm
+icekpnar_0120 - 1 am
+icekpnar_0120 - 2 iem
+icekpnar_0120 - 2 iem for integration
+icekpnar_0120 - 2 iem for excision
+icekpnar_0120 - 2 cm
+icekpnar_0120 - 2 rm
+icekpnar_0120 - 2 am
+icekpnar_0125 - 1 iem
+icekpnar_0125 - 1 iem for integration
+icekpnar_0125 - 1 iem for excision
+icekpnar_0125 - 1 cm
+icekpnar_0125 - 1 rm
+icekpnar_0125 - 1 am
+icekpnar_0145 - 1 iem
+icekpnar_0145 - 1 iem for integration
+icekpnar_0145 - 1 iem for excision
+icekpnar_0145 - 1 cm
+icekpnar_0145 - 1 rm
+icekpnar_0145 - 1 am
+icekpnar_0152 - 1 iem
+icekpnar_0152 - 1 iem for integration
+icekpnar_0152 - 1 iem for excision
+icekpnar_0152 - 1 cm
+icekpnar_0152 - 1 rm
+icekpnar_0152 - 1 am
+icekpnar_0148 - 1 iem
+icekpnar_0148 - 1 iem for integration
+icekpnar_0148 - 1 iem for excision
+icekpnar_0148 - 1 cm
+icekpnar_0148 - 1 rm
+icekpnar_0148 - 1 am
+icekpnar_0139 - 1 iem
+icekpnar_0139 - 1 iem for integration
+icekpnar_0139 - 1 iem for excision
+icekpnar_0139 - 1 cm
+icekpnar_0139 - 1 rm
+icekpnar_0139 - 1 am
+icekpn704sk6 - 1 iem
+icekpn704sk6 - 1 iem for integration
+icekpn704sk6 - 1 iem for excision
+icekpn704sk6 - 1 cm
+icekpn704sk6 - 1 rm
+icekpn704sk6 - 1 am
+icekpnbic - 1 - 1 iem
+icekpnbic - 1 - 1 iem for integration
+icekpnbic - 1 - 1 iem for excision
+icekpnbic - 1 - 1 cm
+icekpnbic - 1 - 1 rm
+icekpnbic - 1 - 1 am
+icekpnausmdu00008079 - 1 iem
+icekpnausmdu00008079 - 1 iem for integration
+icekpnausmdu00008079 - 1 iem for excision
+icekpnausmdu00008079 - 1 cm
+icekpnausmdu00008079 - 1 rm
+icekpnausmdu00008079 - 1 am
+icekpn911021 - 1 iem
+icekpn911021 - 1 iem for integration
+icekpn911021 - 1 iem for excision
+icekpn911021 - 1 cm
+icekpn911021 - 1 rm
+icekpn911021 - 1 am
+icekpn721005 - 1 iem
+icekpn721005 - 1 iem for integration
+icekpn721005 - 1 iem for excision
+icekpn721005 - 1 cm
+icekpn721005 - 1 rm
+icekpn721005 - 1 am
+icekpnccug70747 - 1 iem
+icekpnccug70747 - 1 iem for integration
+icekpnccug70747 - 1 iem for excision
+icekpnccug70747 - 1 cm
+icekpnccug70747 - 1 rm
+icekpnccug70747 - 1 am
+icekpnst101:960186733 - 1 iem
+icekpnst101:960186733 - 1 iem for integration
+icekpnst101:960186733 - 1 iem for excision
+icekpnst101:960186733 - 1 cm
+icekpnst101:960186733 - 1 rm
+icekpnst101:960186733 - 1 am
+icekpnst2017:950142398 - 1 iem
+icekpnst2017:950142398 - 1 iem for integration
+icekpnst2017:950142398 - 1 iem for excision
+icekpnst2017:950142398 - 1 cm
+icekpnst2017:950142398 - 1 rm
+icekpnst2017:950142398 - 1 am
+icekpntvghcre225 - 1 iem
+icekpntvghcre225 - 1 iem for integration
+icekpntvghcre225 - 1 iem for excision
+icekpntvghcre225 - 1 cm
+icekpntvghcre225 - 1 rm
+icekpntvghcre225 - 1 am
+icekpntvghcre225 - 2 iem
+icekpntvghcre225 - 2 iem for integration
+icekpntvghcre225 - 2 iem for excision
+icekpntvghcre225 - 2 cm
+icekpntvghcre225 - 2 rm
+icekpntvghcre225 - 2 am
+icekpnfdaargos_443 - 1 iem
+icekpnfdaargos_443 - 1 iem for integration
+icekpnfdaargos_443 - 1 iem for excision
+icekpnfdaargos_443 - 1 cm
+icekpnfdaargos_443 - 1 rm
+icekpnfdaargos_443 - 1 am
+icekpnfdaargos_444 - 1 iem
+icekpnfdaargos_444 - 1 iem for integration
+icekpnfdaargos_444 - 1 iem for excision
+icekpnfdaargos_444 - 1 cm
+icekpnfdaargos_444 - 1 rm
+icekpnfdaargos_444 - 1 am
+icekpnfdaargos_446 - 1 iem
+icekpnfdaargos_446 - 1 iem for integration
+icekpnfdaargos_446 - 1 iem for excision
+icekpnfdaargos_446 - 1 cm
+icekpnfdaargos_446 - 1 rm
+icekpnfdaargos_446 - 1 am
+icekpnfdaargos_447 - 1 iem
+icekpnfdaargos_447 - 1 iem for integration
+icekpnfdaargos_447 - 1 iem for excision
+icekpnfdaargos_447 - 1 cm
+icekpnfdaargos_447 - 1 rm
+icekpnfdaargos_447 - 1 am
+icekpnksb1_5d - 1 iem
+icekpnksb1_5d - 1 iem for integration
+icekpnksb1_5d - 1 iem for excision
+icekpnksb1_5d - 1 cm
+icekpnksb1_5d - 1 rm
+icekpnksb1_5d - 1 am
+icekpnda48896 - 1 iem
+icekpnda48896 - 1 iem for integration
+icekpnda48896 - 1 iem for excision
+icekpnda48896 - 1 cm
+icekpnda48896 - 1 rm
+icekpnda48896 - 1 am
+icekpnqs17 - 0161 - 1 iem
+icekpnqs17 - 0161 - 1 iem for integration
+icekpnqs17 - 0161 - 1 iem for excision
+icekpnqs17 - 0161 - 1 cm
+icekpnqs17 - 0161 - 1 rm
+icekpnqs17 - 0161 - 1 am
+icekpninf322 - 1 iem
+icekpninf322 - 1 iem for integration
+icekpninf322 - 1 iem for excision
+icekpninf322 - 1 cm
+icekpninf322 - 1 rm
+icekpninf322 - 1 am
+icekpninf249 - 1 iem
+icekpninf249 - 1 iem for integration
+icekpninf249 - 1 iem for excision
+icekpninf249 - 1 cm
+icekpninf249 - 1 rm
+icekpninf249 - 1 am
+icekpninf249 - 2 iem
+icekpninf249 - 2 iem for integration
+icekpninf249 - 2 iem for excision
+icekpninf249 - 2 cm
+icekpninf249 - 2 rm
+icekpninf249 - 2 am
+icekpninf158 - 1 iem
+icekpninf158 - 1 iem for integration
+icekpninf158 - 1 iem for excision
+icekpninf158 - 1 cm
+icekpninf158 - 1 rm
+icekpninf158 - 1 am
+icekpninf157 - 1 iem
+icekpninf157 - 1 iem for integration
+icekpninf157 - 1 iem for excision
+icekpninf157 - 1 cm
+icekpninf157 - 1 rm
+icekpninf157 - 1 am
+icekpninf042 - 1 iem
+icekpninf042 - 1 iem for integration
+icekpninf042 - 1 iem for excision
+icekpninf042 - 1 cm
+icekpninf042 - 1 rm
+icekpninf042 - 1 am
+icekpninf059 - 1 iem
+icekpninf059 - 1 iem for integration
+icekpninf059 - 1 iem for excision
+icekpninf059 - 1 cm
+icekpninf059 - 1 rm
+icekpninf059 - 1 am
+icekpnksb1_7j - 1 iem
+icekpnksb1_7j - 1 iem for integration
+icekpnksb1_7j - 1 iem for excision
+icekpnksb1_7j - 1 cm
+icekpnksb1_7j - 1 rm
+icekpnksb1_7j - 1 am
+icekpninf163 - 1 iem
+icekpninf163 - 1 iem for integration
+icekpninf163 - 1 iem for excision
+icekpninf163 - 1 cm
+icekpninf163 - 1 rm
+icekpninf163 - 1 am
+icekpninf164 - 1 iem
+icekpninf164 - 1 iem for integration
+icekpninf164 - 1 iem for excision
+icekpninf164 - 1 cm
+icekpninf164 - 1 rm
+icekpninf164 - 1 am
+icekpninf278 - 1 iem
+icekpninf278 - 1 iem for integration
+icekpninf278 - 1 iem for excision
+icekpninf278 - 1 cm
+icekpninf278 - 1 rm
+icekpninf278 - 1 am
+icekpninf274 - 1 iem
+icekpninf274 - 1 iem for integration
+icekpninf274 - 1 iem for excision
+icekpninf274 - 1 cm
+icekpninf274 - 1 rm
+icekpninf274 - 1 am
+icekpncrkp - 2297 - 1 iem
+icekpncrkp - 2297 - 1 iem for integration
+icekpncrkp - 2297 - 1 iem for excision
+icekpncrkp - 2297 - 1 cm
+icekpncrkp - 2297 - 1 rm
+icekpncrkp - 2297 - 1 am
+icekpncrkp - 1215 - 1 iem
+icekpncrkp - 1215 - 1 iem for integration
+icekpncrkp - 1215 - 1 iem for excision
+icekpncrkp - 1215 - 1 cm
+icekpncrkp - 1215 - 1 rm
+icekpncrkp - 1215 - 1 am
+icekpnnh54 - 1 iem
+icekpnnh54 - 1 iem for integration
+icekpnnh54 - 1 iem for excision
+icekpnnh54 - 1 cm
+icekpnnh54 - 1 rm
+icekpnnh54 - 1 am
+icekpnausmdu00003562 - 1 iem
+icekpnausmdu00003562 - 1 iem for integration
+icekpnausmdu00003562 - 1 iem for excision
+icekpnausmdu00003562 - 1 cm
+icekpnausmdu00003562 - 1 rm
+icekpnausmdu00003562 - 1 am
+icekpnausmdu00008119 - 1 iem
+icekpnausmdu00008119 - 1 iem for integration
+icekpnausmdu00008119 - 1 iem for excision
+icekpnausmdu00008119 - 1 cm
+icekpnausmdu00008119 - 1 rm
+icekpnausmdu00008119 - 1 am
+icekpnnu - cre047 - 1 iem
+icekpnnu - cre047 - 1 iem for integration
+icekpnnu - cre047 - 1 iem for excision
+icekpnnu - cre047 - 1 cm
+icekpnnu - cre047 - 1 rm
+icekpnnu - cre047 - 1 am
+icekpnnu - cre047 - 2 iem
+icekpnnu - cre047 - 2 iem for integration
+icekpnnu - cre047 - 2 iem for excision
+icekpnnu - cre047 - 2 cm
+icekpnnu - cre047 - 2 rm
+icekpnnu - cre047 - 2 am
+icekpnsgh10 - 1 iem
+icekpnsgh10 - 1 iem for integration
+icekpnsgh10 - 1 iem for excision
+icekpnsgh10 - 1 cm
+icekpnsgh10 - 1 rm
+icekpnsgh10 - 1 am
+icekpnkp6 - 1 iem
+icekpnkp6 - 1 iem for integration
+icekpnkp6 - 1 iem for excision
+icekpnkp6 - 1 cm
+icekpnkp6 - 1 rm
+icekpnkp6 - 1 am
+icekpnkp7 - 1 iem
+icekpnkp7 - 1 iem for integration
+icekpnkp7 - 1 iem for excision
+icekpnkp7 - 1 cm
+icekpnkp7 - 1 rm
+icekpnkp7 - 1 am
+icekpnkp7 - 2 iem
+icekpnkp7 - 2 iem for integration
+icekpnkp7 - 2 iem for excision
+icekpnkp7 - 2 cm
+icekpnkp7 - 2 rm
+icekpnkp7 - 2 am
+icekpnkp9 - 1 iem
+icekpnkp9 - 1 iem for integration
+icekpnkp9 - 1 iem for excision
+icekpnkp9 - 1 cm
+icekpnkp9 - 1 rm
+icekpnkp9 - 1 am
+icekpnkp11 - 1 iem
+icekpnkp11 - 1 iem for integration
+icekpnkp11 - 1 iem for excision
+icekpnkp11 - 1 cm
+icekpnkp11 - 1 rm
+icekpnkp11 - 1 am
+icekpnkp14 - 1 iem
+icekpnkp14 - 1 iem for integration
+icekpnkp14 - 1 iem for excision
+icekpnkp14 - 1 cm
+icekpnkp14 - 1 rm
+icekpnkp14 - 1 am
+icekpnkp69 - 1 iem
+icekpnkp69 - 1 iem for integration
+icekpnkp69 - 1 iem for excision
+icekpnkp69 - 1 cm
+icekpnkp69 - 1 rm
+icekpnkp69 - 1 am
+icekpnf44 - 1 iem
+icekpnf44 - 1 iem for integration
+icekpnf44 - 1 iem for excision
+icekpnf44 - 1 cm
+icekpnf44 - 1 rm
+icekpnf44 - 1 am
+icekpnjs187 - 1 iem
+icekpnjs187 - 1 iem for integration
+icekpnjs187 - 1 iem for excision
+icekpnjs187 - 1 cm
+icekpnjs187 - 1 rm
+icekpnjs187 - 1 am
+icekpnjs187 - 2 iem
+icekpnjs187 - 2 iem for integration
+icekpnjs187 - 2 iem for excision
+icekpnjs187 - 2 cm
+icekpnjs187 - 2 rm
+icekpnjs187 - 2 am
+icekpn2n3 - 1 iem
+icekpn2n3 - 1 iem for integration
+icekpn2n3 - 1 iem for excision
+icekpn2n3 - 1 cm
+icekpn2n3 - 1 rm
+icekpn2n3 - 1 am
+icekpnls359 - 1 iem
+icekpnls359 - 1 iem for integration
+icekpnls359 - 1 iem for excision
+icekpnls359 - 1 cm
+icekpnls359 - 1 rm
+icekpnls359 - 1 am
+icekpnhs102438 - 1 iem
+icekpnhs102438 - 1 iem for integration
+icekpnhs102438 - 1 iem for excision
+icekpnhs102438 - 1 cm
+icekpnhs102438 - 1 rm
+icekpnhs102438 - 1 am
+icekpnhs102438 - 2 iem
+icekpnhs102438 - 2 iem for integration
+icekpnhs102438 - 2 iem for excision
+icekpnhs102438 - 2 cm
+icekpnhs102438 - 2 rm
+icekpnhs102438 - 2 am
+icekpnls357 - 1 iem
+icekpnls357 - 1 iem for integration
+icekpnls357 - 1 iem for excision
+icekpnls357 - 1 cm
+icekpnls357 - 1 rm
+icekpnls357 - 1 am
+icekpnls357 - 2 iem
+icekpnls357 - 2 iem for integration
+icekpnls357 - 2 iem for excision
+icekpnls357 - 2 cm
+icekpnls357 - 2 rm
+icekpnls357 - 2 am
+icekpnls357 - 3 iem
+icekpnls357 - 3 iem for integration
+icekpnls357 - 3 iem for excision
+icekpnls357 - 3 cm
+icekpnls357 - 3 rm
+icekpnls357 - 3 am
+icekpnls355 - 1 iem
+icekpnls355 - 1 iem for integration
+icekpnls355 - 1 iem for excision
+icekpnls355 - 1 cm
+icekpnls355 - 1 rm
+icekpnls355 - 1 am
+icekpnls355 - 2 iem
+icekpnls355 - 2 iem for integration
+icekpnls355 - 2 iem for excision
+icekpnls355 - 2 cm
+icekpnls355 - 2 rm
+icekpnls355 - 2 am
+icekpngd4 - 1 iem
+icekpngd4 - 1 iem for integration
+icekpngd4 - 1 iem for excision
+icekpngd4 - 1 cm
+icekpngd4 - 1 rm
+icekpngd4 - 1 am
+icekpnk2044 - 1 iem
+icekpnk2044 - 1 iem for integration
+icekpnk2044 - 1 iem for excision
+icekpnk2044 - 1 cm
+icekpnk2044 - 1 rm
+icekpnk2044 - 1 am
+icekpnf1 - 1 iem
+icekpnf1 - 1 iem for integration
+icekpnf1 - 1 iem for excision
+icekpnf1 - 1 cm
+icekpnf1 - 1 rm
+icekpnf1 - 1 am
+icekpnf5 - 1 iem
+icekpnf5 - 1 iem for integration
+icekpnf5 - 1 iem for excision
+icekpnf5 - 1 cm
+icekpnf5 - 1 rm
+icekpnf5 - 1 am
+icekpnf77 - 1 iem
+icekpnf77 - 1 iem for integration
+icekpnf77 - 1 iem for excision
+icekpnf77 - 1 cm
+icekpnf77 - 1 rm
+icekpnf77 - 1 am
+icekpnf127 - 1 iem
+icekpnf127 - 1 iem for integration
+icekpnf127 - 1 iem for excision
+icekpnf127 - 1 cm
+icekpnf127 - 1 rm
+icekpnf127 - 1 am
+icekpnf132 - 1 iem
+icekpnf132 - 1 iem for integration
+icekpnf132 - 1 iem for excision
+icekpnf132 - 1 cm
+icekpnf132 - 1 rm
+icekpnf132 - 1 am
+icekpnf138 - 1 iem
+icekpnf138 - 1 iem for integration
+icekpnf138 - 1 iem for excision
+icekpnf138 - 1 cm
+icekpnf138 - 1 rm
+icekpnf138 - 1 am
+icekpnb12 - an - 1 iem
+icekpnb12 - an - 1 iem for integration
+icekpnb12 - an - 1 iem for excision
+icekpnb12 - an - 1 cm
+icekpnb12 - an - 1 rm
+icekpnb12 - an - 1 am
+icekpnb12 - an - 2 iem
+icekpnb12 - an - 2 iem for integration
+icekpnb12 - an - 2 iem for excision
+icekpnb12 - an - 2 cm
+icekpnb12 - an - 2 rm
+icekpnb12 - an - 2 am
+icekpnkpnih50 - 1 iem
+icekpnkpnih50 - 1 iem for integration
+icekpnkpnih50 - 1 iem for excision
+icekpnkpnih50 - 1 cm
+icekpnkpnih50 - 1 rm
+icekpnkpnih50 - 1 am
+icekpnkpnih48 - 1 iem
+icekpnkpnih48 - 1 iem for integration
+icekpnkpnih48 - 1 iem for excision
+icekpnkpnih48 - 1 cm
+icekpnkpnih48 - 1 rm
+icekpnkpnih48 - 1 am
+icekpnwchkp649 - 1 iem
+icekpnwchkp649 - 1 iem for integration
+icekpnwchkp649 - 1 iem for excision
+icekpnwchkp649 - 1 cm
+icekpnwchkp649 - 1 rm
+icekpnwchkp649 - 1 am
+icekpn16_gr_13 - 1 iem
+icekpn16_gr_13 - 1 iem for integration
+icekpn16_gr_13 - 1 iem for excision
+icekpn16_gr_13 - 1 cm
+icekpn16_gr_13 - 1 rm
+icekpn16_gr_13 - 1 am
+icekpn16_gr_13 - 2 iem
+icekpn16_gr_13 - 2 iem for integration
+icekpn16_gr_13 - 2 iem for excision
+icekpn16_gr_13 - 2 cm
+icekpn16_gr_13 - 2 rm
+icekpn16_gr_13 - 2 am
+icekpn20_gr_12 - 1 iem
+icekpn20_gr_12 - 1 iem for integration
+icekpn20_gr_12 - 1 iem for excision
+icekpn20_gr_12 - 1 cm
+icekpn20_gr_12 - 1 rm
+icekpn20_gr_12 - 1 am
+icekpn2_gr_12 - 1 iem
+icekpn2_gr_12 - 1 iem for integration
+icekpn2_gr_12 - 1 iem for excision
+icekpn2_gr_12 - 1 cm
+icekpn2_gr_12 - 1 rm
+icekpn2_gr_12 - 1 am
+icekpnwchkp8f4 - 1 iem
+icekpnwchkp8f4 - 1 iem for integration
+icekpnwchkp8f4 - 1 iem for excision
+icekpnwchkp8f4 - 1 cm
+icekpnwchkp8f4 - 1 rm
+icekpnwchkp8f4 - 1 am
+icekpnar_0363 - 1 iem
+icekpnar_0363 - 1 iem for integration
+icekpnar_0363 - 1 iem for excision
+icekpnar_0363 - 1 cm
+icekpnar_0363 - 1 rm
+icekpnar_0363 - 1 am
+icekpnar_0361 - 1 iem
+icekpnar_0361 - 1 iem for integration
+icekpnar_0361 - 1 iem for excision
+icekpnar_0361 - 1 cm
+icekpnar_0361 - 1 rm
+icekpnar_0361 - 1 am
+icekpnkphs1249 - 1 iem
+icekpnkphs1249 - 1 iem for integration
+icekpnkphs1249 - 1 iem for excision
+icekpnkphs1249 - 1 cm
+icekpnkphs1249 - 1 rm
+icekpnkphs1249 - 1 am
+icekpnkp30835 - 1 iem
+icekpnkp30835 - 1 iem for integration
+icekpnkp30835 - 1 iem for excision
+icekpnkp30835 - 1 cm
+icekpnkp30835 - 1 rm
+icekpnkp30835 - 1 am
+icekpncfsan054110 - 1 iem
+icekpncfsan054110 - 1 iem for integration
+icekpncfsan054110 - 1 iem for excision
+icekpncfsan054110 - 1 cm
+icekpncfsan054110 - 1 rm
+icekpncfsan054110 - 1 am
+icekpnwchkp13f2 - 1 iem
+icekpnwchkp13f2 - 1 iem for integration
+icekpnwchkp13f2 - 1 iem for excision
+icekpnwchkp13f2 - 1 cm
+icekpnwchkp13f2 - 1 rm
+icekpnwchkp13f2 - 1 am
+icekpnwchkp13f2 - 2 iem
+icekpnwchkp13f2 - 2 iem for integration
+icekpnwchkp13f2 - 2 iem for excision
+icekpnwchkp13f2 - 2 cm
+icekpnwchkp13f2 - 2 rm
+icekpnwchkp13f2 - 2 am
+icekpnwchkp2 - 1 iem
+icekpnwchkp2 - 1 iem for integration
+icekpnwchkp2 - 1 iem for excision
+icekpnwchkp2 - 1 cm
+icekpnwchkp2 - 1 rm
+icekpnwchkp2 - 1 am
+icekpnsckp020143 - 1 iem
+icekpnsckp020143 - 1 iem for integration
+icekpnsckp020143 - 1 iem for excision
+icekpnsckp020143 - 1 cm
+icekpnsckp020143 - 1 rm
+icekpnsckp020143 - 1 am
+icekpnwchkp36 - 1 iem
+icekpnwchkp36 - 1 iem for integration
+icekpnwchkp36 - 1 iem for excision
+icekpnwchkp36 - 1 cm
+icekpnwchkp36 - 1 rm
+icekpnwchkp36 - 1 am
+icekpnscm96 - 1 iem
+icekpnscm96 - 1 iem for integration
+icekpnscm96 - 1 iem for excision
+icekpnscm96 - 1 cm
+icekpnscm96 - 1 rm
+icekpnscm96 - 1 am
+icekpnsckp020046 - 1 iem
+icekpnsckp020046 - 1 iem for integration
+icekpnsckp020046 - 1 iem for excision
+icekpnsckp020046 - 1 cm
+icekpnsckp020046 - 1 rm
+icekpnsckp020046 - 1 am
+icekpnwchkp020030 - 1 iem
+icekpnwchkp020030 - 1 iem for integration
+icekpnwchkp020030 - 1 iem for excision
+icekpnwchkp020030 - 1 cm
+icekpnwchkp020030 - 1 rm
+icekpnwchkp020030 - 1 am
+icekpnwchkp040035 - 1 iem
+icekpnwchkp040035 - 1 iem for integration
+icekpnwchkp040035 - 1 iem for excision
+icekpnwchkp040035 - 1 cm
+icekpnwchkp040035 - 1 rm
+icekpnwchkp040035 - 1 am
+icekpnwchkp7e2 - 1 iem
+icekpnwchkp7e2 - 1 iem for integration
+icekpnwchkp7e2 - 1 iem for excision
+icekpnwchkp7e2 - 1 cm
+icekpnwchkp7e2 - 1 rm
+icekpnwchkp7e2 - 1 am
+icekpnwchkp7e2 - 2 iem
+icekpnwchkp7e2 - 2 iem for integration
+icekpnwchkp7e2 - 2 iem for excision
+icekpnwchkp7e2 - 2 cm
+icekpnwchkp7e2 - 2 rm
+icekpnwchkp7e2 - 2 am
+icekpnkp589 - 1 iem
+icekpnkp589 - 1 iem for integration
+icekpnkp589 - 1 iem for excision
+icekpnkp589 - 1 cm
+icekpnkp589 - 1 rm
+icekpnkp589 - 1 am
+icekpnkp589 - 2 iem
+icekpnkp589 - 2 iem for integration
+icekpnkp589 - 2 iem for excision
+icekpnkp589 - 2 cm
+icekpnkp589 - 2 rm
+icekpnkp589 - 2 am
+icekpnar_0153 - 1 iem
+icekpnar_0153 - 1 iem for integration
+icekpnar_0153 - 1 iem for excision
+icekpnar_0153 - 1 cm
+icekpnar_0153 - 1 rm
+icekpnar_0153 - 1 am
+icekpnar_0079 - 1 iem
+icekpnar_0079 - 1 iem for integration
+icekpnar_0079 - 1 iem for excision
+icekpnar_0079 - 1 cm
+icekpnar_0079 - 1 rm
+icekpnar_0079 - 1 am
+icekpnar_0079 - 2 iem
+icekpnar_0079 - 2 iem for integration
+icekpnar_0079 - 2 iem for excision
+icekpnar_0079 - 2 cm
+icekpnar_0079 - 2 rm
+icekpnar_0079 - 2 am
+icekpnar438 - 1 iem
+icekpnar438 - 1 iem for integration
+icekpnar438 - 1 iem for excision
+icekpnar438 - 1 cm
+icekpnar438 - 1 rm
+icekpnar438 - 1 am
+icekpnl388 - 1 iem
+icekpnl388 - 1 iem for integration
+icekpnl388 - 1 iem for excision
+icekpnl388 - 1 cm
+icekpnl388 - 1 rm
+icekpnl388 - 1 am
+icekpnl491 - 1 iem
+icekpnl491 - 1 iem for integration
+icekpnl491 - 1 iem for excision
+icekpnl491 - 1 cm
+icekpnl491 - 1 rm
+icekpnl491 - 1 am
+icekpnsckp020079 - 1 iem
+icekpnsckp020079 - 1 iem for integration
+icekpnsckp020079 - 1 iem for excision
+icekpnsckp020079 - 1 cm
+icekpnsckp020079 - 1 rm
+icekpnsckp020079 - 1 am
+icekpnsckp040074 - 1 iem
+icekpnsckp040074 - 1 iem for integration
+icekpnsckp040074 - 1 iem for excision
+icekpnsckp040074 - 1 cm
+icekpnsckp040074 - 1 rm
+icekpnsckp040074 - 1 am
+icekpnda33140 - 1 iem
+icekpnda33140 - 1 iem for integration
+icekpnda33140 - 1 iem for excision
+icekpnda33140 - 1 cm
+icekpnda33140 - 1 rm
+icekpnda33140 - 1 am
+icekpn160111 - 1 iem
+icekpn160111 - 1 iem for integration
+icekpn160111 - 1 iem for excision
+icekpn160111 - 1 cm
+icekpn160111 - 1 rm
+icekpn160111 - 1 am
+icekpnar_0087 - 1 iem
+icekpnar_0087 - 1 iem for integration
+icekpnar_0087 - 1 iem for excision
+icekpnar_0087 - 1 cm
+icekpnar_0087 - 1 rm
+icekpnar_0087 - 1 am
+icekpn12208 - 1 iem
+icekpn12208 - 1 iem for integration
+icekpn12208 - 1 iem for excision
+icekpn12208 - 1 cm
+icekpn12208 - 1 rm
+icekpn12208 - 1 am
+icekpnsc - 7 - 1 iem
+icekpnsc - 7 - 1 iem for integration
+icekpnsc - 7 - 1 iem for excision
+icekpnsc - 7 - 1 cm
+icekpnsc - 7 - 1 rm
+icekpnsc - 7 - 1 am
+icekpnar_362 - 1 iem
+icekpnar_362 - 1 iem for integration
+icekpnar_362 - 1 iem for excision
+icekpnar_362 - 1 cm
+icekpnar_362 - 1 rm
+icekpnar_362 - 1 am
+icekpnkpvst101_oxa - 48 - 1 iem
+icekpnkpvst101_oxa - 48 - 1 iem for integration
+icekpnkpvst101_oxa - 48 - 1 iem for excision
+icekpnkpvst101_oxa - 48 - 1 cm
+icekpnkpvst101_oxa - 48 - 1 rm
+icekpnkpvst101_oxa - 48 - 1 am
+icekpn2 - 1 - 1 iem
+icekpn2 - 1 - 1 iem for integration
+icekpn2 - 1 - 1 iem for excision
+icekpn2 - 1 - 1 cm
+icekpn2 - 1 - 1 rm
+icekpn2 - 1 - 1 am
+icekpnwchkp3 - 1 iem
+icekpnwchkp3 - 1 iem for integration
+icekpnwchkp3 - 1 iem for excision
+icekpnwchkp3 - 1 cm
+icekpnwchkp3 - 1 rm
+icekpnwchkp3 - 1 am
+icekpninf125 - 1 iem
+icekpninf125 - 1 iem for integration
+icekpninf125 - 1 iem for excision
+icekpninf125 - 1 cm
+icekpninf125 - 1 rm
+icekpninf125 - 1 am
+icekpnxj - k1 - 1 iem
+icekpnxj - k1 - 1 iem for integration
+icekpnxj - k1 - 1 iem for excision
+icekpnxj - k1 - 1 cm
+icekpnxj - k1 - 1 rm
+icekpnxj - k1 - 1 am
+icekpnar_0076 - 1 iem
+icekpnar_0076 - 1 iem for integration
+icekpnar_0076 - 1 iem for excision
+icekpnar_0076 - 1 cm
+icekpnar_0076 - 1 rm
+icekpnar_0076 - 1 am
+icekpnar_0160 - 1 iem
+icekpnar_0160 - 1 iem for integration
+icekpnar_0160 - 1 iem for excision
+icekpnar_0160 - 1 cm
+icekpnar_0160 - 1 rm
+icekpnar_0160 - 1 am
+icekpnar_0135 - 1 iem
+icekpnar_0135 - 1 iem for integration
+icekpnar_0135 - 1 iem for excision
+icekpnar_0135 - 1 cm
+icekpnar_0135 - 1 rm
+icekpnar_0135 - 1 am
+icekpnar_0075 - 1 iem
+icekpnar_0075 - 1 iem for integration
+icekpnar_0075 - 1 iem for excision
+icekpnar_0075 - 1 cm
+icekpnar_0075 - 1 rm
+icekpnar_0075 - 1 am
+icekpnxj - k2 - 1 iem
+icekpnxj - k2 - 1 iem for integration
+icekpnxj - k2 - 1 iem for excision
+icekpnxj - k2 - 1 cm
+icekpnxj - k2 - 1 rm
+icekpnxj - k2 - 1 am
+icekpninf237 - 1 iem
+icekpninf237 - 1 iem for integration
+icekpninf237 - 1 iem for excision
+icekpninf237 - 1 cm
+icekpninf237 - 1 rm
+icekpninf237 - 1 am
+icekpn675920 - 1 iem
+icekpn675920 - 1 iem for integration
+icekpn675920 - 1 iem for excision
+icekpn675920 - 1 cm
+icekpn675920 - 1 rm
+icekpn675920 - 1 am
+icekpnwchkp015625 - 1 iem
+icekpnwchkp015625 - 1 iem for integration
+icekpnwchkp015625 - 1 iem for excision
+icekpnwchkp015625 - 1 cm
+icekpnwchkp015625 - 1 rm
+icekpnwchkp015625 - 1 am
+icekpnwchkp115069 - 1 iem
+icekpnwchkp115069 - 1 iem for integration
+icekpnwchkp115069 - 1 iem for excision
+icekpnwchkp115069 - 1 cm
+icekpnwchkp115069 - 1 rm
+icekpnwchkp115069 - 1 am
+icekpn4743 - 1 iem
+icekpn4743 - 1 iem for integration
+icekpn4743 - 1 iem for excision
+icekpn4743 - 1 cm
+icekpn4743 - 1 rm
+icekpn4743 - 1 am
+icekpnfdaargos_566 - 1 iem
+icekpnfdaargos_566 - 1 iem for integration
+icekpnfdaargos_566 - 1 iem for excision
+icekpnfdaargos_566 - 1 cm
+icekpnfdaargos_566 - 1 rm
+icekpnfdaargos_566 - 1 am
+icekpnfdaargos_531 - 1 iem
+icekpnfdaargos_531 - 1 iem for integration
+icekpnfdaargos_531 - 1 iem for excision
+icekpnfdaargos_531 - 1 cm
+icekpnfdaargos_531 - 1 rm
+icekpnfdaargos_531 - 1 am
+icekpnl39_2 - 1 iem
+icekpnl39_2 - 1 iem for integration
+icekpnl39_2 - 1 iem for excision
+icekpnl39_2 - 1 cm
+icekpnl39_2 - 1 rm
+icekpnl39_2 - 1 am
+icekpnl482 - 1 iem
+icekpnl482 - 1 iem for integration
+icekpnl482 - 1 iem for excision
+icekpnl482 - 1 cm
+icekpnl482 - 1 rm
+icekpnl482 - 1 am
+icekpncrk0298 - 1 iem
+icekpncrk0298 - 1 iem for integration
+icekpncrk0298 - 1 iem for excision
+icekpncrk0298 - 1 cm
+icekpncrk0298 - 1 rm
+icekpncrk0298 - 1 am
+icekpnkp_norm_bld_2014_104014 - 1 iem
+icekpnkp_norm_bld_2014_104014 - 1 iem for integration
+icekpnkp_norm_bld_2014_104014 - 1 iem for excision
+icekpnkp_norm_bld_2014_104014 - 1 cm
+icekpnkp_norm_bld_2014_104014 - 1 rm
+icekpnkp_norm_bld_2014_104014 - 1 am
+icekpnkp_norm_bld_2015_112126 - 1 iem
+icekpnkp_norm_bld_2015_112126 - 1 iem for integration
+icekpnkp_norm_bld_2015_112126 - 1 iem for excision
+icekpnkp_norm_bld_2015_112126 - 1 cm
+icekpnkp_norm_bld_2015_112126 - 1 rm
+icekpnkp_norm_bld_2015_112126 - 1 am
+icekpnkp17 - 15 - 1 iem
+icekpnkp17 - 15 - 1 iem for integration
+icekpnkp17 - 15 - 1 iem for excision
+icekpnkp17 - 15 - 1 cm
+icekpnkp17 - 15 - 1 rm
+icekpnkp17 - 15 - 1 am
+icekpnkp17 - 16 - 1 iem
+icekpnkp17 - 16 - 1 iem for integration
+icekpnkp17 - 16 - 1 iem for excision
+icekpnkp17 - 16 - 1 cm
+icekpnkp17 - 16 - 1 rm
+icekpnkp17 - 16 - 1 am
+icekpnr210 - 2 - 1 iem
+icekpnr210 - 2 - 1 iem for integration
+icekpnr210 - 2 - 1 iem for excision
+icekpnr210 - 2 - 1 cm
+icekpnr210 - 2 - 1 rm
+icekpnr210 - 2 - 1 am
+icekpnbjcfk909 - 1 iem
+icekpnbjcfk909 - 1 iem for integration
+icekpnbjcfk909 - 1 iem for excision
+icekpnbjcfk909 - 1 cm
+icekpnbjcfk909 - 1 rm
+icekpnbjcfk909 - 1 am
+icekpnkp18 - 29 - 1 iem
+icekpnkp18 - 29 - 1 iem for integration
+icekpnkp18 - 29 - 1 iem for excision
+icekpnkp18 - 29 - 1 cm
+icekpnkp18 - 29 - 1 rm
+icekpnkp18 - 29 - 1 am
+icekpnksh203 - 1 iem
+icekpnksh203 - 1 iem for integration
+icekpnksh203 - 1 iem for excision
+icekpnksh203 - 1 cm
+icekpnksh203 - 1 rm
+icekpnksh203 - 1 am
+icekpnnh34 - 1 iem
+icekpnnh34 - 1 iem for integration
+icekpnnh34 - 1 iem for excision
+icekpnnh34 - 1 cm
+icekpnnh34 - 1 rm
+icekpnnh34 - 1 am
+icekpnc789 - 1 iem
+icekpnc789 - 1 iem for integration
+icekpnc789 - 1 iem for excision
+icekpnc789 - 1 cm
+icekpnc789 - 1 rm
+icekpnc789 - 1 am
+icekpnc1398 - 1 iem
+icekpnc1398 - 1 iem for integration
+icekpnc1398 - 1 iem for excision
+icekpnc1398 - 1 cm
+icekpnc1398 - 1 rm
+icekpnc1398 - 1 am
+icekpnnb5306 - 1 iem
+icekpnnb5306 - 1 iem for integration
+icekpnnb5306 - 1 iem for excision
+icekpnnb5306 - 1 cm
+icekpnnb5306 - 1 rm
+icekpnnb5306 - 1 am
+icekpn18cpo060 - 1 iem
+icekpn18cpo060 - 1 iem for integration
+icekpn18cpo060 - 1 iem for excision
+icekpn18cpo060 - 1 cm
+icekpn18cpo060 - 1 rm
+icekpn18cpo060 - 1 am
+icekpnba33875 - 1 iem
+icekpnba33875 - 1 iem for integration
+icekpnba33875 - 1 iem for excision
+icekpnba33875 - 1 cm
+icekpnba33875 - 1 rm
+icekpnba33875 - 1 am
+icekpnap8555 - 1 iem
+icekpnap8555 - 1 iem for integration
+icekpnap8555 - 1 iem for excision
+icekpnap8555 - 1 cm
+icekpnap8555 - 1 rm
+icekpnap8555 - 1 am
+icekpnccri - 22199 - 1 iem
+icekpnccri - 22199 - 1 iem for integration
+icekpnccri - 22199 - 1 iem for excision
+icekpnccri - 22199 - 1 cm
+icekpnccri - 22199 - 1 rm
+icekpnccri - 22199 - 1 am
+icekpnba1559 - 1 iem
+icekpnba1559 - 1 iem for integration
+icekpnba1559 - 1 iem for excision
+icekpnba1559 - 1 cm
+icekpnba1559 - 1 rm
+icekpnba1559 - 1 am
+icekpnwchkp015093 - 1 iem
+icekpnwchkp015093 - 1 iem for integration
+icekpnwchkp015093 - 1 iem for excision
+icekpnwchkp015093 - 1 cm
+icekpnwchkp015093 - 1 rm
+icekpnwchkp015093 - 1 am
+icekpnwchkp020098 - 1 iem
+icekpnwchkp020098 - 1 iem for integration
+icekpnwchkp020098 - 1 iem for excision
+icekpnwchkp020098 - 1 cm
+icekpnwchkp020098 - 1 rm
+icekpnwchkp020098 - 1 am
+icekpnvba2172 - 1 iem
+icekpnvba2172 - 1 iem for integration
+icekpnvba2172 - 1 iem for excision
+icekpnvba2172 - 1 cm
+icekpnvba2172 - 1 rm
+icekpnvba2172 - 1 am
+icekpnba28434 - 1 iem
+icekpnba28434 - 1 iem for integration
+icekpnba28434 - 1 iem for excision
+icekpnba28434 - 1 cm
+icekpnba28434 - 1 rm
+icekpnba28434 - 1 am
+icekpnbp327 - 1 iem
+icekpnbp327 - 1 iem for integration
+icekpnbp327 - 1 iem for excision
+icekpnbp327 - 1 cm
+icekpnbp327 - 1 rm
+icekpnbp327 - 1 am
+icekpnwchkp2080 - 1 iem
+icekpnwchkp2080 - 1 iem for integration
+icekpnwchkp2080 - 1 iem for excision
+icekpnwchkp2080 - 1 cm
+icekpnwchkp2080 - 1 rm
+icekpnwchkp2080 - 1 am
+icekpnwchkp115068 - 1 iem
+icekpnwchkp115068 - 1 iem for integration
+icekpnwchkp115068 - 1 iem for excision
+icekpnwchkp115068 - 1 cm
+icekpnwchkp115068 - 1 rm
+icekpnwchkp115068 - 1 am
+icekpnwchkp020037 - 1 iem
+icekpnwchkp020037 - 1 iem for integration
+icekpnwchkp020037 - 1 iem for excision
+icekpnwchkp020037 - 1 cm
+icekpnwchkp020037 - 1 rm
+icekpnwchkp020037 - 1 am
+icekpnabfpv - 1 iem
+icekpnabfpv - 1 iem for integration
+icekpnabfpv - 1 iem for excision
+icekpnabfpv - 1 cm
+icekpnabfpv - 1 rm
+icekpnabfpv - 1 am
+icekpnkpnih45 - 1 iem
+icekpnkpnih45 - 1 iem for integration
+icekpnkpnih45 - 1 iem for excision
+icekpnkpnih45 - 1 cm
+icekpnkpnih45 - 1 rm
+icekpnkpnih45 - 1 am
+icekpnst23 - 1 iem
+icekpnst23 - 1 iem for integration
+icekpnst23 - 1 iem for excision
+icekpnst23 - 1 cm
+icekpnst23 - 1 rm
+icekpnst23 - 1 am
+icekpncrkp - i - 1 iem
+icekpncrkp - i - 1 iem for integration
+icekpncrkp - i - 1 iem for excision
+icekpncrkp - i - 1 cm
+icekpncrkp - i - 1 rm
+icekpncrkp - i - 1 am
+icekpncrkp - i - 2 iem
+icekpncrkp - i - 2 iem for integration
+icekpncrkp - i - 2 iem for excision
+icekpncrkp - i - 2 cm
+icekpncrkp - i - 2 rm
+icekpncrkp - i - 2 am
+icekpnkp - 8788 - 1 iem
+icekpnkp - 8788 - 1 iem for integration
+icekpnkp - 8788 - 1 iem for excision
+icekpnkp - 8788 - 1 cm
+icekpnkp - 8788 - 1 rm
+icekpnkp - 8788 - 1 am
+icekpnc2660 - 1 iem
+icekpnc2660 - 1 iem for integration
+icekpnc2660 - 1 iem for excision
+icekpnc2660 - 1 cm
+icekpnc2660 - 1 rm
+icekpnc2660 - 1 am
+icekpnc2414 - 1 iem
+icekpnc2414 - 1 iem for integration
+icekpnc2414 - 1 iem for excision
+icekpnc2414 - 1 cm
+icekpnc2414 - 1 rm
+icekpnc2414 - 1 am
+icekpnr1701 - 1 iem
+icekpnr1701 - 1 iem for integration
+icekpnr1701 - 1 iem for excision
+icekpnr1701 - 1 cm
+icekpnr1701 - 1 rm
+icekpnr1701 - 1 am
+icekpnr1701 - 2 iem
+icekpnr1701 - 2 iem for integration
+icekpnr1701 - 2 iem for excision
+icekpnr1701 - 2 cm
+icekpnr1701 - 2 rm
+icekpnr1701 - 2 am
+icekpnr1761 - 1 iem
+icekpnr1761 - 1 iem for integration
+icekpnr1761 - 1 iem for excision
+icekpnr1761 - 1 cm
+icekpnr1761 - 1 rm
+icekpnr1761 - 1 am
+icekpnlsh - kpn148 - 1 iem
+icekpnlsh - kpn148 - 1 iem for integration
+icekpnlsh - kpn148 - 1 iem for excision
+icekpnlsh - kpn148 - 1 cm
+icekpnlsh - kpn148 - 1 rm
+icekpnlsh - kpn148 - 1 am
+icekpnlsh - kpn25 - 1 iem
+icekpnlsh - kpn25 - 1 iem for integration
+icekpnlsh - kpn25 - 1 iem for excision
+icekpnlsh - kpn25 - 1 cm
+icekpnlsh - kpn25 - 1 rm
+icekpnlsh - kpn25 - 1 am
+icekpnlsh - kpn25 - 2 iem
+icekpnlsh - kpn25 - 2 iem for integration
+icekpnlsh - kpn25 - 2 iem for excision
+icekpnlsh - kpn25 - 2 cm
+icekpnlsh - kpn25 - 2 rm
+icekpnlsh - kpn25 - 2 am
+icekpncr - hvkp1 - 1 iem
+icekpncr - hvkp1 - 1 iem for integration
+icekpncr - hvkp1 - 1 iem for excision
+icekpncr - hvkp1 - 1 cm
+icekpncr - hvkp1 - 1 rm
+icekpncr - hvkp1 - 1 am
+icekpncr - hvkp4 - 1 iem
+icekpncr - hvkp4 - 1 iem for integration
+icekpncr - hvkp4 - 1 iem for excision
+icekpncr - hvkp4 - 1 cm
+icekpncr - hvkp4 - 1 rm
+icekpncr - hvkp4 - 1 am
+icekpncr - hvkp5 - 1 iem
+icekpncr - hvkp5 - 1 iem for integration
+icekpncr - hvkp5 - 1 iem for excision
+icekpncr - hvkp5 - 1 cm
+icekpncr - hvkp5 - 1 rm
+icekpncr - hvkp5 - 1 am
+icekpnkpvst147b_se1_1_ndm - 1 iem
+icekpnkpvst147b_se1_1_ndm - 1 iem for integration
+icekpnkpvst147b_se1_1_ndm - 1 iem for excision
+icekpnkpvst147b_se1_1_ndm - 1 cm
+icekpnkpvst147b_se1_1_ndm - 1 rm
+icekpnkpvst147b_se1_1_ndm - 1 am
+icekpnfdaargos_775 - 1 iem
+icekpnfdaargos_775 - 1 iem for integration
+icekpnfdaargos_775 - 1 iem for excision
+icekpnfdaargos_775 - 1 cm
+icekpnfdaargos_775 - 1 rm
+icekpnfdaargos_775 - 1 am
+icekpnkp202 - 1 iem
+icekpnkp202 - 1 iem for integration
+icekpnkp202 - 1 iem for excision
+icekpnkp202 - 1 cm
+icekpnkp202 - 1 rm
+icekpnkp202 - 1 am
+icekpnkp58 - 1 iem
+icekpnkp58 - 1 iem for integration
+icekpnkp58 - 1 iem for excision
+icekpnkp58 - 1 cm
+icekpnkp58 - 1 rm
+icekpnkp58 - 1 am
+icekpnnku_kleb8a7 - 1 iem
+icekpnnku_kleb8a7 - 1 iem for integration
+icekpnnku_kleb8a7 - 1 iem for excision
+icekpnnku_kleb8a7 - 1 cm
+icekpnnku_kleb8a7 - 1 rm
+icekpnnku_kleb8a7 - 1 am
+icekpnqd23 - 1 iem
+icekpnqd23 - 1 iem for integration
+icekpnqd23 - 1 iem for excision
+icekpnqd23 - 1 cm
+icekpnqd23 - 1 rm
+icekpnqd23 - 1 am
+icekpnklp268 - 1 iem
+icekpnklp268 - 1 iem for integration
+icekpnklp268 - 1 iem for excision
+icekpnklp268 - 1 cm
+icekpnklp268 - 1 rm
+icekpnklp268 - 1 am
+icekpnd1 - 1 iem
+icekpnd1 - 1 iem for integration
+icekpnd1 - 1 iem for excision
+icekpnd1 - 1 cm
+icekpnd1 - 1 rm
+icekpnd1 - 1 am
+icekpnfdaargos_629 - 1 iem
+icekpnfdaargos_629 - 1 iem for integration
+icekpnfdaargos_629 - 1 iem for excision
+icekpnfdaargos_629 - 1 cm
+icekpnfdaargos_629 - 1 rm
+icekpnfdaargos_629 - 1 am
+icekpnkp65 - 1 iem
+icekpnkp65 - 1 iem for integration
+icekpnkp65 - 1 iem for excision
+icekpnkp65 - 1 cm
+icekpnkp65 - 1 rm
+icekpnkp65 - 1 am
+icekpnsmu18037509 - 1 iem
+icekpnsmu18037509 - 1 iem for integration
+icekpnsmu18037509 - 1 iem for excision
+icekpnsmu18037509 - 1 cm
+icekpnsmu18037509 - 1 rm
+icekpnsmu18037509 - 1 am
+icekpntk421 - 1 iem
+icekpntk421 - 1 iem for integration
+icekpntk421 - 1 iem for excision
+icekpntk421 - 1 cm
+icekpntk421 - 1 rm
+icekpntk421 - 1 am
+icekpntk421 - 2 iem
+icekpntk421 - 2 iem for integration
+icekpntk421 - 2 iem for excision
+icekpntk421 - 2 cm
+icekpntk421 - 2 rm
+icekpntk421 - 2 am
+icekpnkp19 - 2029 - 1 iem
+icekpnkp19 - 2029 - 1 iem for integration
+icekpnkp19 - 2029 - 1 iem for excision
+icekpnkp19 - 2029 - 1 cm
+icekpnkp19 - 2029 - 1 rm
+icekpnkp19 - 2029 - 1 am
+icekpn2019036d - 1 iem
+icekpn2019036d - 1 iem for integration
+icekpn2019036d - 1 iem for excision
+icekpn2019036d - 1 cm
+icekpn2019036d - 1 rm
+icekpn2019036d - 1 am
+icekpnk2606 - 1 iem
+icekpnk2606 - 1 iem for integration
+icekpnk2606 - 1 iem for excision
+icekpnk2606 - 1 cm
+icekpnk2606 - 1 rm
+icekpnk2606 - 1 am
+icekpn156070 - 1 iem
+icekpn156070 - 1 iem for integration
+icekpn156070 - 1 iem for excision
+icekpn156070 - 1 cm
+icekpn156070 - 1 rm
+icekpn156070 - 1 am
+icekpn158590 - 1 iem
+icekpn158590 - 1 iem for integration
+icekpn158590 - 1 iem for excision
+icekpn158590 - 1 cm
+icekpn158590 - 1 rm
+icekpn158590 - 1 am
+icekpnkuh - kpnhvl1 - 1 iem
+icekpnkuh - kpnhvl1 - 1 iem for integration
+icekpnkuh - kpnhvl1 - 1 iem for excision
+icekpnkuh - kpnhvl1 - 1 cm
+icekpnkuh - kpnhvl1 - 1 rm
+icekpnkuh - kpnhvl1 - 1 am
+icekpnkuh - kpnhvl1 - 2 iem
+icekpnkuh - kpnhvl1 - 2 iem for integration
+icekpnkuh - kpnhvl1 - 2 iem for excision
+icekpnkuh - kpnhvl1 - 2 cm
+icekpnkuh - kpnhvl1 - 2 rm
+icekpnkuh - kpnhvl1 - 2 am
+icekpnkuh - kpnhvf1 - 1 iem
+icekpnkuh - kpnhvf1 - 1 iem for integration
+icekpnkuh - kpnhvf1 - 1 iem for excision
+icekpnkuh - kpnhvf1 - 1 cm
+icekpnkuh - kpnhvf1 - 1 rm
+icekpnkuh - kpnhvf1 - 1 am
+icekpnkuh - kpnhvf1 - 2 iem
+icekpnkuh - kpnhvf1 - 2 iem for integration
+icekpnkuh - kpnhvf1 - 2 iem for excision
+icekpnkuh - kpnhvf1 - 2 cm
+icekpnkuh - kpnhvf1 - 2 rm
+icekpnkuh - kpnhvf1 - 2 am
+icekpnkp18 - 3 - 8 - 1 iem
+icekpnkp18 - 3 - 8 - 1 iem for integration
+icekpnkp18 - 3 - 8 - 1 iem for excision
+icekpnkp18 - 3 - 8 - 1 cm
+icekpnkp18 - 3 - 8 - 1 rm
+icekpnkp18 - 3 - 8 - 1 am
+icekpnkp8701 - 1 iem
+icekpnkp8701 - 1 iem for integration
+icekpnkp8701 - 1 iem for excision
+icekpnkp8701 - 1 cm
+icekpnkp8701 - 1 rm
+icekpnkp8701 - 1 am
+icekpnkp52 .145 - 1 iem
+icekpnkp52 .145 - 1 iem for integration
+icekpnkp52 .145 - 1 iem for excision
+icekpnkp52 .145 - 1 cm
+icekpnkp52 .145 - 1 rm
+icekpnkp52 .145 - 1 am
+icekpnkpc2 - 1 iem
+icekpnkpc2 - 1 iem for integration
+icekpnkpc2 - 1 iem for excision
+icekpnkpc2 - 1 cm
+icekpnkpc2 - 1 rm
+icekpnkpc2 - 1 am
+icekpn4928stdy7387736 - 1 iem
+icekpn4928stdy7387736 - 1 iem for integration
+icekpn4928stdy7387736 - 1 iem for excision
+icekpn4928stdy7387736 - 1 cm
+icekpn4928stdy7387736 - 1 rm
+icekpn4928stdy7387736 - 1 am
+icekpn4928stdy7387808 - 1 iem
+icekpn4928stdy7387808 - 1 iem for integration
+icekpn4928stdy7387808 - 1 iem for excision
+icekpn4928stdy7387808 - 1 cm
+icekpn4928stdy7387808 - 1 rm
+icekpn4928stdy7387808 - 1 am
+icekpnkpn154 - 1 iem
+icekpnkpn154 - 1 iem for integration
+icekpnkpn154 - 1 iem for excision
+icekpnkpn154 - 1 cm
+icekpnkpn154 - 1 rm
+icekpnkpn154 - 1 am
+icekpn207m1d0 - 1 iem
+icekpn207m1d0 - 1 iem for integration
+icekpn207m1d0 - 1 iem for excision
+icekpn207m1d0 - 1 cm
+icekpn207m1d0 - 1 rm
+icekpn207m1d0 - 1 am
+single stranded deoxyribonucleic acid
+double stranded deoxyribonucleic acid
+organism
+gene
+gene disposition
+protein - coding gene disposition
+rna gene disposition
+rrna gene disposition
+snrna gene disposition
+trna gene disposition
+scrna gene disposition
+snorna gene disposition
+miscrna gene disposition
+ncrna gene disposition
+pseudo gene disposition
+transposon gene disposition
+other gene disposition
+unknown gene disposition
+rna gene
+trna gene
+protein - coding gene
+pseudo gene
+gene with unknown gene disposition
+gene with other gene disposition
+gene of bacteria
+trna gene of pseudomonas aeruginosa ffup_ps_690
+trna gene of klebsiella pneumoniae l201
+trna gene of klebsiella pneumoniae 6
+trna gene of klebsiella pneumoniae kpc160132
+trna gene of klebsiella pneumoniae kpc160121
+trna gene of klebsiella pneumoniae kpc160117
+trna gene of klebsiella pneumoniae kpc160125
+trna gene of klebsiella pneumoniae kp18 - 2079
+trna gene of klebsiella pneumoniae gsu10 - 3 dna
+trna gene of klebsiella pneumoniae junp254
+trna gene of klebsiella pneumoniae pmk1
+trna gene of klebsiella pneumoniae carbapenem - resistant blandm - 1
+trna gene of klebsiella pneumoniae subsp . pneumoniae kpnih33
+trna gene of klebsiella pneumoniae subsp . pneumoniae kpnih32
+trna gene of klebsiella pneumoniae subsp . pneumoniae kpnih30
+trna gene of klebsiella pneumoniae 32192
+trna gene of klebsiella pneumoniae 34618
+trna gene of klebsiella pneumoniae cav1392
+trna gene of klebsiella pneumoniae cav1596
+trna gene of klebsiella pneumoniae u25
+trna gene of klebsiella pneumoniae subsp . pneumoniae tgh8
+trna gene of klebsiella pneumoniae subsp . pneumoniae rjf293
+trna gene of klebsiella pneumoniae subsp . pneumoniae rjf999
+trna gene of klebsiella pneumoniae kp38731
+trna gene of klebsiella pneumoniae kpnih36
+trna gene of klebsiella pneumoniae aatzp
+trna gene of klebsiella pneumoniae ny9
+trna gene of klebsiella pneumoniae cr14
+trna gene of klebsiella pneumoniae skgh01
+trna gene of klebsiella pneumoniae isolate blood sample 2
+trna gene of klebsiella pneumoniae br
+trna gene of klebsiella pneumoniae ed2
+trna gene of klebsiella pneumoniae ed23
+trna gene of klebsiella pneumoniae isolate 11
+trna gene of klebsiella pneumoniae kp36
+trna gene of klebsiella pneumoniae cav1016
+trna gene of klebsiella pneumoniae p1428
+trna gene of klebsiella pneumoniae kp_goe_822579
+trna gene of klebsiella pneumoniae 459
+trna gene of klebsiella pneumoniae isolate kp_goe_154414
+trna gene of klebsiella pneumoniae cav1417
+trna gene of klebsiella pneumoniae cav1453
+trna gene of klebsiella pneumoniae kp_goe_62629
+trna gene of klebsiella pneumoniae mncre69
+trna gene of klebsiella pneumoniae mncre78
+trna gene of klebsiella pneumoniae mncre53
+trna gene of klebsiella pneumoniae kp_goe_822917
+trna gene of klebsiella pneumoniae kp_goe_33208
+trna gene of klebsiella pneumoniae kp_goe_71070
+trna gene of klebsiella pneumoniae swu01
+trna gene of klebsiella pneumoniae cav1042
+trna gene of klebsiella pneumoniae cav1217
+trna gene of klebsiella pneumoniae kp_goe_821588
+trna gene of klebsiella pneumoniae kp_goe_121641
+trna gene of klebsiella pneumoniae ar_0049
+trna gene of klebsiella pneumoniae subsp . pneumoniae br7
+trna gene of klebsiella pneumoniae subsp . pneumoniae br21
+trna gene of klebsiella pneumoniae subsp . pneumoniae rja166
+trna gene of klebsiella pneumoniae subsp . pneumoniae kpn_kpc_hug_07
+trna gene of klebsiella pneumoniae ar_0115
+trna gene of klebsiella pneumoniae ar_0098
+trna gene of klebsiella pneumoniae bwhc1
+trna gene of klebsiella pneumoniae bk13043
+trna gene of klebsiella pneumoniae kpn528
+trna gene of klebsiella pneumoniae k66 - 45
+trna gene of klebsiella pneumoniae ar_0047
+trna gene of klebsiella pneumoniae ar_0112
+trna gene of klebsiella pneumoniae ar_0146
+trna gene of klebsiella pneumoniae ar_0129
+trna gene of klebsiella pneumoniae ar_0126
+trna gene of klebsiella pneumoniae ar_0113
+trna gene of klebsiella pneumoniae ar_0138
+trna gene of klebsiella pneumoniae ar_0120
+trna gene of klebsiella pneumoniae ar_0125
+trna gene of klebsiella pneumoniae ar_0145
+trna gene of klebsiella pneumoniae ar_0152
+trna gene of klebsiella pneumoniae ar_0148
+trna gene of klebsiella pneumoniae ar_0139
+trna gene of klebsiella pneumoniae 704sk6
+trna gene of klebsiella pneumoniae bic - 1
+trna gene of klebsiella pneumoniae subsp . pneumoniae ausmdu00008079
+trna gene of klebsiella pneumoniae 911021
+trna gene of klebsiella pneumoniae 721005
+trna gene of klebsiella pneumoniae ccug 70747
+trna gene of klebsiella pneumoniae subsp . pneumoniae st101:960186733
+trna gene of klebsiella pneumoniae subsp . pneumoniae st2017:950142398
+trna gene of klebsiella pneumoniae tvghcre225
+trna gene of klebsiella pneumoniae fdaargos_443
+trna gene of klebsiella pneumoniae fdaargos_444
+trna gene of klebsiella pneumoniae fdaargos_446
+trna gene of klebsiella pneumoniae fdaargos_447
+trna gene of klebsiella pneumoniae isolate ksb1_5d
+trna gene of klebsiella pneumoniae da48896
+trna gene of klebsiella pneumoniae qs17 - 0161
+trna gene of klebsiella pneumoniae inf322
+trna gene of klebsiella pneumoniae inf249
+trna gene of klebsiella pneumoniae inf158
+trna gene of klebsiella pneumoniae inf157
+trna gene of klebsiella pneumoniae inf042
+trna gene of klebsiella pneumoniae inf059
+trna gene of klebsiella pneumoniae ksb1_7j
+trna gene of klebsiella pneumoniae inf163
+trna gene of klebsiella pneumoniae inf164
+trna gene of klebsiella pneumoniae inf278
+trna gene of klebsiella pneumoniae inf274
+trna gene of klebsiella pneumoniae crkp - 2297
+trna gene of klebsiella pneumoniae crkp - 1215
+trna gene of klebsiella pneumoniae nh54
+trna gene of klebsiella pneumoniae ausmdu00003562
+trna gene of klebsiella pneumoniae ausmdu00008119
+trna gene of klebsiella pneumoniae nu - cre047
+trna gene of klebsiella pneumoniae sgh10
+trna gene of klebsiella pneumoniae kp6
+trna gene of klebsiella pneumoniae kp7
+trna gene of klebsiella pneumoniae kp9
+trna gene of klebsiella pneumoniae kp11
+trna gene of klebsiella pneumoniae kp14
+trna gene of klebsiella pneumoniae kp69
+trna gene of klebsiella pneumoniae f44
+trna gene of klebsiella pneumoniae js187
+trna gene of klebsiella pneumoniae 2n3
+trna gene of klebsiella pneumoniae ls359
+trna gene of klebsiella pneumoniae hs102438
+trna gene of klebsiella pneumoniae ls357
+trna gene of klebsiella pneumoniae ls355
+trna gene of klebsiella pneumoniae subsp . pneumoniae gd4
+trna gene of klebsiella pneumoniae k2044
+trna gene of klebsiella pneumoniae f1
+trna gene of klebsiella pneumoniae f5
+trna gene of klebsiella pneumoniae f77
+trna gene of klebsiella pneumoniae f127
+trna gene of klebsiella pneumoniae f132
+trna gene of klebsiella pneumoniae f138
+trna gene of klebsiella pneumoniae b12 ( an )
+trna gene of klebsiella pneumoniae kpnih50
+trna gene of klebsiella pneumoniae kpnih48
+trna gene of klebsiella pneumoniae wchkp649
+trna gene of klebsiella pneumoniae 16_gr_13
+trna gene of klebsiella pneumoniae 20_gr_12
+trna gene of klebsiella pneumoniae 2_gr_12
+trna gene of klebsiella pneumoniae wchkp8f4
+trna gene of klebsiella pneumoniae ar_0363
+trna gene of klebsiella pneumoniae ar_0361
+trna gene of klebsiella pneumoniae kphs1249
+trna gene of klebsiella pneumoniae kp30835
+trna gene of klebsiella pneumoniae cfsan054110
+trna gene of klebsiella pneumoniae wchkp13f2
+trna gene of klebsiella pneumoniae wchkp2
+trna gene of klebsiella pneumoniae subsp . pneumoniae sckp020143
+trna gene of klebsiella pneumoniae wchkp36
+trna gene of klebsiella pneumoniae scm96
+trna gene of klebsiella pneumoniae subsp . pneumoniae sckp020046
+trna gene of klebsiella pneumoniae wchkp020030
+trna gene of klebsiella pneumoniae wchkp040035
+trna gene of klebsiella pneumoniae wchkp7e2
+trna gene of klebsiella pneumoniae kp589
+trna gene of klebsiella pneumoniae ar_0153
+trna gene of klebsiella pneumoniae ar_0079
+trna gene of klebsiella pneumoniae ar438
+trna gene of klebsiella pneumoniae l388
+trna gene of klebsiella pneumoniae l491
+trna gene of klebsiella pneumoniae subsp . pneumoniae sckp020079
+trna gene of klebsiella pneumoniae subsp . pneumoniae sckp040074
+trna gene of klebsiella pneumoniae da33140
+trna gene of klebsiella pneumoniae 160111
+trna gene of klebsiella pneumoniae ar_0087
+trna gene of klebsiella pneumoniae subsp . pneumoniae 12208
+trna gene of klebsiella pneumoniae subsp . pneumoniae sc - 7
+trna gene of klebsiella pneumoniae ar_362
+trna gene of klebsiella pneumoniae kpvst101_oxa - 48
+trna gene of klebsiella pneumoniae 2 - 1
+trna gene of klebsiella pneumoniae wchkp3
+trna gene of klebsiella pneumoniae inf125 - sc - 2279943
+trna gene of klebsiella pneumoniae xj - k1
+trna gene of klebsiella pneumoniae ar_0076
+trna gene of klebsiella pneumoniae ar_0160
+trna gene of klebsiella pneumoniae ar_0135
+trna gene of klebsiella pneumoniae ar_0075
+trna gene of klebsiella pneumoniae xj - k2
+trna gene of klebsiella pneumoniae inf237
+trna gene of klebsiella pneumoniae 675920
+trna gene of klebsiella pneumoniae wchkp015625
+trna gene of klebsiella pneumoniae wchkp115069
+trna gene of klebsiella pneumoniae 4743
+trna gene of klebsiella pneumoniae fdaargos_566
+trna gene of klebsiella pneumoniae fdaargos_531
+trna gene of klebsiella pneumoniae l39_2
+trna gene of klebsiella pneumoniae l482
+trna gene of klebsiella pneumoniae subsp . pneumoniae crk0298
+trna gene of klebsiella pneumoniae kp_norm_bld_2014_104014
+trna gene of klebsiella pneumoniae kp_norm_bld_2015_112126
+trna gene of klebsiella pneumoniae kp17 - 15
+trna gene of klebsiella pneumoniae kp17 - 16
+trna gene of klebsiella pneumoniae subsp . pneumoniae r210 - 2
+trna gene of klebsiella pneumoniae bjcfk909
+trna gene of klebsiella pneumoniae kp18 - 29
+trna gene of klebsiella pneumoniae isolate ksh203
+trna gene of klebsiella pneumoniae nh34
+trna gene of klebsiella pneumoniae c789
+trna gene of klebsiella pneumoniae c1398
+trna gene of klebsiella pneumoniae nb5306
+trna gene of klebsiella pneumoniae 18cpo060
+trna gene of klebsiella pneumoniae ba33875
+trna gene of klebsiella pneumoniae ap8555
+trna gene of klebsiella pneumoniae subsp . pneumoniae ccri - 22199
+trna gene of klebsiella pneumoniae ba1559
+trna gene of klebsiella pneumoniae subsp . pneumoniae wchkp015093
+trna gene of klebsiella pneumoniae wchkp020098
+trna gene of klebsiella pneumoniae vba2172
+trna gene of klebsiella pneumoniae ba28434
+trna gene of klebsiella pneumoniae bp327
+trna gene of klebsiella pneumoniae wchkp2080
+trna gene of klebsiella pneumoniae wchkp115068
+trna gene of klebsiella pneumoniae wchkp020037
+trna gene of klebsiella pneumoniae abfpv
+trna gene of klebsiella pneumoniae kpnih45
+trna gene of klebsiella pneumoniae st23
+trna gene of klebsiella pneumoniae crkp i
+trna gene of klebsiella pneumoniae subsp . pneumoniae kp - 8788
+trna gene of klebsiella pneumoniae c2660
+trna gene of klebsiella pneumoniae c2414
+trna gene of klebsiella pneumoniae r1701
+trna gene of klebsiella pneumoniae r1761
+trna gene of klebsiella pneumoniae lsh - kpn148
+trna gene of klebsiella pneumoniae lsh - kpn25
+trna gene of klebsiella pneumoniae cr - hvkp1
+trna gene of klebsiella pneumoniae cr - hvkp4
+trna gene of klebsiella pneumoniae cr - hvkp5
+trna gene of klebsiella pneumoniae kpvst147b_se1_1_ndm
+trna gene of klebsiella pneumoniae fdaargos_775
+trna gene of klebsiella pneumoniae kp202
+trna gene of klebsiella pneumoniae kp58
+trna gene of klebsiella pneumoniae nku_kleb8a7
+trna gene of klebsiella pneumoniae qd23
+trna gene of klebsiella pneumoniae klp268
+trna gene of klebsiella pneumoniae d1
+trna gene of klebsiella pneumoniae fdaargos_629
+trna gene of klebsiella pneumoniae kp65
+trna gene of klebsiella pneumoniae smu18037509
+trna gene of klebsiella pneumoniae tk421
+trna gene of klebsiella pneumoniae kp19 - 2029
+trna gene of klebsiella pneumoniae 2019036d
+trna gene of klebsiella pneumoniae k2606
+trna gene of klebsiella pneumoniae 156070
+trna gene of klebsiella pneumoniae 158590
+trna gene of klebsiella pneumoniae subsp . pneumoniae kuh - kpnhvl1
+trna gene of klebsiella pneumoniae subsp . pneumoniae kuh - kpnhvf1
+trna gene of klebsiella pneumoniae kp18 - 3 - 8
+trna gene of klebsiella pneumoniae kp8701
+trna gene of klebsiella pneumoniae str . kp52 .145
+trna gene of klebsiella pneumoniae kpc2
+trna gene of klebsiella pneumoniae 4928stdy7387736
+trna gene of klebsiella pneumoniae 4928stdy7387808
+trna gene of klebsiella pneumoniae kpn154
+trna gene of klebsiella pneumoniae isolate 207m1d0 - sc - 2013 - 04 - 03t11:21:06z - 1606409
+trna gene of streptomyces coelicolor a3 ( 2 )
+trna gene of amycolatopsis methanolica ncib11946
+trna gene of bacteroides fragilis bf - hmw615
+trna gene of pasteurella multocida 36950
+trna gene of klebsiella pneumoniae subsp . pneumoniae kpnih1
+trna gene of klebsiella pneumoniae subsp . pneumoniae kpnih10
+trna gene of klebsiella pneumoniae subsp . pneumoniae hs11286
+trna gene of enterococcus faecalis engen0246
+trna gene of enterococcus faecalis engen0302
+trna gene of enterococcus faecalis ds16
+trna gene of vibrio cholerae o1 strain vc504
+trna gene of vibrio cholerae o1 strain vc833
+trna gene of klebsiella pneumoniae subsp . pneumoniae 1084
+trna gene of klebsiella pneumoniae subsp . pneumoniae kpnih24
+trna gene of klebsiella pneumoniae atcc baa - 2146
+trna gene of vibrio cholerae o1
+trna gene of klebsiella pneumoniae dmc1097
+trna gene of klebsiella pneumoniae uhkpc33
+trna gene of klebsiella pneumoniae uhkpc07
+trna gene of pseudomonas knackmussii b13
+trna gene of klebsiella pneumoniae 500_1420
+trna gene of mannheimia haemolytica 42548
+trna gene of klebsiella pneumoniae subsp . pneumoniae kpr0928
+trna gene of enterococcus faecalis
+trna gene of enterococcus faecium
+trna gene of lactococcus lactis
+trna gene of klebsiella pneumoniae jm45
+trna gene of klebsiella pneumoniae subsp . pneumoniae 1158
+trna gene of klebsiella pneumoniae hk787
+trna gene of klebsiella pneumoniae 30660 / njst258_1
+trna gene of klebsiella pneumoniae 30684 / njst258_2
+trna gene of pseudomonas aeruginosa c
+trna gene of streptococcus pyogenes 2812a
+trna gene of staphylococcus aureus subsp . aureus mu50
+trna gene of shewanella sp . sh95
+trna gene of azoarcus sp . cib
+trna gene of streptococcus agalactiae 2603v / r
+trna gene of pseudomonas aeruginosa ucbpp - pa14
+trna gene of salmonella enterica subsp . enterica serovar typhi str . ty2
+trna gene of streptococcus agalactiae nem316
+trna gene of ralstonia sp . js705
+trna gene of bacillus subtilis subsp . subtilis str . 168
+trna gene of helicobacter hepaticus atcc 51449
+trna gene of shewanella putrefaciens
+trna gene of thermus thermophilus hb27
+trna gene of bacteroides fragilis nctc 9343
+trna gene of clostridium difficile 630
+trna gene of legionella pneumophila strain philadelphia - 1
+trna gene of bacteroides ovatus
+trna gene of bordetella petrii dsm 12804
+trna gene of streptococcus agalactiae 515
+trna gene of vibrio cholerae mo10
+trna gene of mycoplasma agalactiae 5632
+trna gene of acidovorax sp . kks102
+trna gene of shewanella haliotis
+trna gene of pseudoalteromonas sp . bsi20311
+trna gene of streptococcus suis 05zyh33
+trna gene of legionella pneumophila corby
+trna gene of saccharopolyspora erythraea nrrl 2338
+trna gene of azorhizobium caulinodans ors571
+trna gene of streptococcus cristatus
+trna gene of vibrio cholerae o139
+trna gene of klebsiella pneumoniae ntuh - k2044
+trna gene of mycoplasma fermentans pg18
+trna gene of enterovibrio nigricans
+trna gene of staphylococcus rostri rst11
+trna gene of proteus mirabilis hi4320
+trna gene of streptococcus equi subsp . equi 4047
+trna gene of vibrio fluvialis ind1
+trna gene of enterococcus faecium c68
+trna gene of helicobacter pylori p12
+trna gene of proteus mirabilis
+trna gene of proteus vulgaris
+trna gene of providencia rettgeri
+trna gene of vibrio cholerae mj - 1236
+trna gene of vibrio alginolyticus
+trna gene of vibrio cholerae non o1 - o139 mex1
+trna gene of vibrio cholerae o1 ind5
+trna gene of vibrio cholerae o1 ban5
+trna gene of providencia alcalifaciens ban1
+trna gene of vibrio cholerae ind4
+trna gene of vibrio parahaemolyticus
+trna gene of lactococcus lactis subsp . lactis kf147
+trna gene of clostridium difficile 2007855
+trna gene of escherichia coli ihe3034
+trna gene of delftia sp . cs1 - 4
+trna gene of actinobacillus pleuropneumoniae serovar 8
+trna gene of mesorhizobium ciceri wsm1271
+trna gene of bacteroides fragilis
+trna gene of bacteroides thetaiotaomicron
+trna gene of streptococcus agalactiae fsl s3 - 026
+trna gene of mesorhizobium loti nzp2037
+trna gene of mesorhizobium loti r7a
+protein - coding gene of pseudomonas aeruginosa ffup_ps_690
+protein - coding gene of klebsiella pneumoniae l201
+protein - coding gene of klebsiella pneumoniae 6
+protein - coding gene of klebsiella pneumoniae kpc160132
+protein - coding gene of klebsiella pneumoniae kpc160121
+protein - coding gene of klebsiella pneumoniae kpc160117
+protein - coding gene of klebsiella pneumoniae kpc160125
+protein - coding gene of klebsiella pneumoniae kp18 - 2079
+protein - coding gene of klebsiella pneumoniae gsu10 - 3 dna
+protein - coding gene of klebsiella pneumoniae junp254
+protein - coding gene of klebsiella pneumoniae pmk1
+protein - coding gene of klebsiella pneumoniae carbapenem - resistant blandm - 1
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae kpnih33
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae kpnih32
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae kpnih30
+protein - coding gene of klebsiella pneumoniae 32192
+protein - coding gene of klebsiella pneumoniae 34618
+protein - coding gene of klebsiella pneumoniae cav1392
+protein - coding gene of klebsiella pneumoniae cav1596
+protein - coding gene of klebsiella pneumoniae u25
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae tgh8
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae rjf293
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae rjf999
+protein - coding gene of klebsiella pneumoniae kp38731
+protein - coding gene of klebsiella pneumoniae kpnih36
+protein - coding gene of klebsiella pneumoniae aatzp
+protein - coding gene of klebsiella pneumoniae ny9
+protein - coding gene of klebsiella pneumoniae cr14
+protein - coding gene of klebsiella pneumoniae skgh01
+protein - coding gene of klebsiella pneumoniae isolate blood sample 2
+protein - coding gene of klebsiella pneumoniae br
+protein - coding gene of klebsiella pneumoniae ed2
+protein - coding gene of klebsiella pneumoniae ed23
+protein - coding gene of klebsiella pneumoniae isolate 11
+protein - coding gene of klebsiella pneumoniae kp36
+protein - coding gene of klebsiella pneumoniae cav1016
+protein - coding gene of klebsiella pneumoniae p1428
+protein - coding gene of klebsiella pneumoniae kp_goe_822579
+protein - coding gene of klebsiella pneumoniae 459
+protein - coding gene of klebsiella pneumoniae isolate kp_goe_154414
+protein - coding gene of klebsiella pneumoniae cav1417
+protein - coding gene of klebsiella pneumoniae cav1453
+protein - coding gene of klebsiella pneumoniae kp_goe_62629
+protein - coding gene of klebsiella pneumoniae mncre69
+protein - coding gene of klebsiella pneumoniae mncre78
+protein - coding gene of klebsiella pneumoniae mncre53
+protein - coding gene of klebsiella pneumoniae kp_goe_822917
+protein - coding gene of klebsiella pneumoniae kp_goe_33208
+protein - coding gene of klebsiella pneumoniae kp_goe_71070
+protein - coding gene of klebsiella pneumoniae swu01
+protein - coding gene of klebsiella pneumoniae cav1042
+protein - coding gene of klebsiella pneumoniae cav1217
+protein - coding gene of klebsiella pneumoniae kp_goe_821588
+protein - coding gene of klebsiella pneumoniae kp_goe_121641
+protein - coding gene of klebsiella pneumoniae ar_0049
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae br7
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae br21
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae rja166
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae kpn_kpc_hug_07
+protein - coding gene of klebsiella pneumoniae ar_0115
+protein - coding gene of klebsiella pneumoniae ar_0098
+protein - coding gene of klebsiella pneumoniae bwhc1
+protein - coding gene of klebsiella pneumoniae bk13043
+protein - coding gene of klebsiella pneumoniae kpn528
+protein - coding gene of klebsiella pneumoniae k66 - 45
+protein - coding gene of klebsiella pneumoniae ar_0047
+protein - coding gene of klebsiella pneumoniae ar_0112
+protein - coding gene of klebsiella pneumoniae ar_0146
+protein - coding gene of klebsiella pneumoniae ar_0129
+protein - coding gene of klebsiella pneumoniae ar_0126
+protein - coding gene of klebsiella pneumoniae ar_0113
+protein - coding gene of klebsiella pneumoniae ar_0138
+protein - coding gene of klebsiella pneumoniae ar_0120
+protein - coding gene of klebsiella pneumoniae ar_0125
+protein - coding gene of klebsiella pneumoniae ar_0145
+protein - coding gene of klebsiella pneumoniae ar_0152
+protein - coding gene of klebsiella pneumoniae ar_0148
+protein - coding gene of klebsiella pneumoniae ar_0139
+protein - coding gene of klebsiella pneumoniae 704sk6
+protein - coding gene of klebsiella pneumoniae bic - 1
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae ausmdu00008079
+protein - coding gene of klebsiella pneumoniae 911021
+protein - coding gene of klebsiella pneumoniae 721005
+protein - coding gene of klebsiella pneumoniae ccug 70747
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae st101:960186733
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae st2017:950142398
+protein - coding gene of klebsiella pneumoniae tvghcre225
+protein - coding gene of klebsiella pneumoniae fdaargos_443
+protein - coding gene of klebsiella pneumoniae fdaargos_444
+protein - coding gene of klebsiella pneumoniae fdaargos_446
+protein - coding gene of klebsiella pneumoniae fdaargos_447
+protein - coding gene of klebsiella pneumoniae isolate ksb1_5d
+protein - coding gene of klebsiella pneumoniae da48896
+protein - coding gene of klebsiella pneumoniae qs17 - 0161
+protein - coding gene of klebsiella pneumoniae inf322
+protein - coding gene of klebsiella pneumoniae inf249
+protein - coding gene of klebsiella pneumoniae inf158
+protein - coding gene of klebsiella pneumoniae inf157
+protein - coding gene of klebsiella pneumoniae inf042
+protein - coding gene of klebsiella pneumoniae inf059
+protein - coding gene of klebsiella pneumoniae ksb1_7j
+protein - coding gene of klebsiella pneumoniae inf163
+protein - coding gene of klebsiella pneumoniae inf164
+protein - coding gene of klebsiella pneumoniae inf278
+protein - coding gene of klebsiella pneumoniae inf274
+protein - coding gene of klebsiella pneumoniae crkp - 2297
+protein - coding gene of klebsiella pneumoniae crkp - 1215
+protein - coding gene of klebsiella pneumoniae nh54
+protein - coding gene of klebsiella pneumoniae ausmdu00003562
+protein - coding gene of klebsiella pneumoniae ausmdu00008119
+protein - coding gene of klebsiella pneumoniae nu - cre047
+protein - coding gene of klebsiella pneumoniae sgh10
+protein - coding gene of klebsiella pneumoniae kp6
+protein - coding gene of klebsiella pneumoniae kp7
+protein - coding gene of klebsiella pneumoniae kp9
+protein - coding gene of klebsiella pneumoniae kp11
+protein - coding gene of klebsiella pneumoniae kp14
+protein - coding gene of klebsiella pneumoniae kp69
+protein - coding gene of klebsiella pneumoniae f44
+protein - coding gene of klebsiella pneumoniae js187
+protein - coding gene of klebsiella pneumoniae 2n3
+protein - coding gene of klebsiella pneumoniae ls359
+protein - coding gene of klebsiella pneumoniae hs102438
+protein - coding gene of klebsiella pneumoniae ls357
+protein - coding gene of klebsiella pneumoniae ls355
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae gd4
+protein - coding gene of klebsiella pneumoniae k2044
+protein - coding gene of klebsiella pneumoniae f1
+protein - coding gene of klebsiella pneumoniae f5
+protein - coding gene of klebsiella pneumoniae f77
+protein - coding gene of klebsiella pneumoniae f127
+protein - coding gene of klebsiella pneumoniae f132
+protein - coding gene of klebsiella pneumoniae f138
+protein - coding gene of klebsiella pneumoniae b12 ( an )
+protein - coding gene of klebsiella pneumoniae kpnih50
+protein - coding gene of klebsiella pneumoniae kpnih48
+protein - coding gene of klebsiella pneumoniae wchkp649
+protein - coding gene of klebsiella pneumoniae 16_gr_13
+protein - coding gene of klebsiella pneumoniae 20_gr_12
+protein - coding gene of klebsiella pneumoniae 2_gr_12
+protein - coding gene of klebsiella pneumoniae wchkp8f4
+protein - coding gene of klebsiella pneumoniae ar_0363
+protein - coding gene of klebsiella pneumoniae ar_0361
+protein - coding gene of klebsiella pneumoniae kphs1249
+protein - coding gene of klebsiella pneumoniae kp30835
+protein - coding gene of klebsiella pneumoniae cfsan054110
+protein - coding gene of klebsiella pneumoniae wchkp13f2
+protein - coding gene of klebsiella pneumoniae wchkp2
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae sckp020143
+protein - coding gene of klebsiella pneumoniae wchkp36
+protein - coding gene of klebsiella pneumoniae scm96
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae sckp020046
+protein - coding gene of klebsiella pneumoniae wchkp020030
+protein - coding gene of klebsiella pneumoniae wchkp040035
+protein - coding gene of klebsiella pneumoniae wchkp7e2
+protein - coding gene of klebsiella pneumoniae kp589
+protein - coding gene of klebsiella pneumoniae ar_0153
+protein - coding gene of klebsiella pneumoniae ar_0079
+protein - coding gene of klebsiella pneumoniae ar438
+protein - coding gene of klebsiella pneumoniae l388
+protein - coding gene of klebsiella pneumoniae l491
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae sckp020079
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae sckp040074
+protein - coding gene of klebsiella pneumoniae da33140
+protein - coding gene of klebsiella pneumoniae 160111
+protein - coding gene of klebsiella pneumoniae ar_0087
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae 12208
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae sc - 7
+protein - coding gene of klebsiella pneumoniae ar_362
+protein - coding gene of klebsiella pneumoniae kpvst101_oxa - 48
+protein - coding gene of klebsiella pneumoniae 2 - 1
+protein - coding gene of klebsiella pneumoniae wchkp3
+protein - coding gene of klebsiella pneumoniae inf125 - sc - 2279943
+protein - coding gene of klebsiella pneumoniae xj - k1
+protein - coding gene of klebsiella pneumoniae ar_0076
+protein - coding gene of klebsiella pneumoniae ar_0160
+protein - coding gene of klebsiella pneumoniae ar_0135
+protein - coding gene of klebsiella pneumoniae ar_0075
+protein - coding gene of klebsiella pneumoniae xj - k2
+protein - coding gene of klebsiella pneumoniae inf237
+protein - coding gene of klebsiella pneumoniae 675920
+protein - coding gene of klebsiella pneumoniae wchkp015625
+protein - coding gene of klebsiella pneumoniae wchkp115069
+protein - coding gene of klebsiella pneumoniae 4743
+protein - coding gene of klebsiella pneumoniae fdaargos_566
+protein - coding gene of klebsiella pneumoniae fdaargos_531
+protein - coding gene of klebsiella pneumoniae l39_2
+protein - coding gene of klebsiella pneumoniae l482
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae crk0298
+protein - coding gene of klebsiella pneumoniae kp_norm_bld_2014_104014
+protein - coding gene of klebsiella pneumoniae kp_norm_bld_2015_112126
+protein - coding gene of klebsiella pneumoniae kp17 - 15
+protein - coding gene of klebsiella pneumoniae kp17 - 16
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae r210 - 2
+protein - coding gene of klebsiella pneumoniae bjcfk909
+protein - coding gene of klebsiella pneumoniae kp18 - 29
+protein - coding gene of klebsiella pneumoniae isolate ksh203
+protein - coding gene of klebsiella pneumoniae nh34
+protein - coding gene of klebsiella pneumoniae c789
+protein - coding gene of klebsiella pneumoniae c1398
+protein - coding gene of klebsiella pneumoniae nb5306
+protein - coding gene of klebsiella pneumoniae 18cpo060
+protein - coding gene of klebsiella pneumoniae ba33875
+protein - coding gene of klebsiella pneumoniae ap8555
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae ccri - 22199
+protein - coding gene of klebsiella pneumoniae ba1559
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae wchkp015093
+protein - coding gene of klebsiella pneumoniae wchkp020098
+protein - coding gene of klebsiella pneumoniae vba2172
+protein - coding gene of klebsiella pneumoniae ba28434
+protein - coding gene of klebsiella pneumoniae bp327
+protein - coding gene of klebsiella pneumoniae wchkp2080
+protein - coding gene of klebsiella pneumoniae wchkp115068
+protein - coding gene of klebsiella pneumoniae wchkp020037
+protein - coding gene of klebsiella pneumoniae abfpv
+protein - coding gene of klebsiella pneumoniae kpnih45
+protein - coding gene of klebsiella pneumoniae st23
+protein - coding gene of klebsiella pneumoniae crkp i
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae kp - 8788
+protein - coding gene of klebsiella pneumoniae c2660
+protein - coding gene of klebsiella pneumoniae c2414
+protein - coding gene of klebsiella pneumoniae r1701
+protein - coding gene of klebsiella pneumoniae r1761
+protein - coding gene of klebsiella pneumoniae lsh - kpn148
+protein - coding gene of klebsiella pneumoniae lsh - kpn25
+protein - coding gene of klebsiella pneumoniae cr - hvkp1
+protein - coding gene of klebsiella pneumoniae cr - hvkp4
+protein - coding gene of klebsiella pneumoniae cr - hvkp5
+protein - coding gene of klebsiella pneumoniae kpvst147b_se1_1_ndm
+protein - coding gene of klebsiella pneumoniae fdaargos_775
+protein - coding gene of klebsiella pneumoniae kp202
+protein - coding gene of klebsiella pneumoniae kp58
+protein - coding gene of klebsiella pneumoniae nku_kleb8a7
+protein - coding gene of klebsiella pneumoniae qd23
+protein - coding gene of klebsiella pneumoniae klp268
+protein - coding gene of klebsiella pneumoniae d1
+protein - coding gene of klebsiella pneumoniae fdaargos_629
+protein - coding gene of klebsiella pneumoniae kp65
+protein - coding gene of klebsiella pneumoniae smu18037509
+protein - coding gene of klebsiella pneumoniae tk421
+protein - coding gene of klebsiella pneumoniae kp19 - 2029
+protein - coding gene of klebsiella pneumoniae 2019036d
+protein - coding gene of klebsiella pneumoniae k2606
+protein - coding gene of klebsiella pneumoniae 156070
+protein - coding gene of klebsiella pneumoniae 158590
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae kuh - kpnhvl1
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae kuh - kpnhvf1
+protein - coding gene of klebsiella pneumoniae kp18 - 3 - 8
+protein - coding gene of klebsiella pneumoniae kp8701
+protein - coding gene of klebsiella pneumoniae str . kp52 .145
+protein - coding gene of klebsiella pneumoniae kpc2
+protein - coding gene of klebsiella pneumoniae 4928stdy7387736
+protein - coding gene of klebsiella pneumoniae 4928stdy7387808
+protein - coding gene of klebsiella pneumoniae kpn154
+protein - coding gene of klebsiella pneumoniae isolate 207m1d0 - sc - 2013 - 04 - 03t11:21:06z - 1606409
+protein - coding gene of streptomyces coelicolor a3 ( 2 )
+protein - coding gene of amycolatopsis methanolica ncib11946
+protein - coding gene of bacteroides fragilis bf - hmw615
+protein - coding gene of pasteurella multocida 36950
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae kpnih1
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae kpnih10
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae hs11286
+protein - coding gene of enterococcus faecalis engen0246
+protein - coding gene of enterococcus faecalis engen0302
+protein - coding gene of enterococcus faecalis ds16
+protein - coding gene of vibrio cholerae o1 strain vc504
+protein - coding gene of vibrio cholerae o1 strain vc833
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae 1084
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae kpnih24
+protein - coding gene of klebsiella pneumoniae atcc baa - 2146
+protein - coding gene of vibrio cholerae o1
+protein - coding gene of klebsiella pneumoniae dmc1097
+protein - coding gene of klebsiella pneumoniae uhkpc33
+protein - coding gene of klebsiella pneumoniae uhkpc07
+protein - coding gene of pseudomonas knackmussii b13
+protein - coding gene of klebsiella pneumoniae 500_1420
+protein - coding gene of mannheimia haemolytica 42548
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae kpr0928
+protein - coding gene of enterococcus faecalis
+protein - coding gene of enterococcus faecium
+protein - coding gene of lactococcus lactis
+protein - coding gene of klebsiella pneumoniae jm45
+protein - coding gene of klebsiella pneumoniae subsp . pneumoniae 1158
+protein - coding gene of klebsiella pneumoniae hk787
+protein - coding gene of klebsiella pneumoniae 30660 / njst258_1
+protein - coding gene of klebsiella pneumoniae 30684 / njst258_2
+protein - coding gene of pseudomonas aeruginosa c
+protein - coding gene of streptococcus pyogenes 2812a
+protein - coding gene of staphylococcus aureus subsp . aureus mu50
+protein - coding gene of shewanella sp . sh95
+protein - coding gene of azoarcus sp . cib
+protein - coding gene of streptococcus agalactiae 2603v / r
+protein - coding gene of pseudomonas aeruginosa ucbpp - pa14
+protein - coding gene of salmonella enterica subsp . enterica serovar typhi str . ty2
+protein - coding gene of streptococcus agalactiae nem316
+protein - coding gene of ralstonia sp . js705
+protein - coding gene of bacillus subtilis subsp . subtilis str . 168
+protein - coding gene of helicobacter hepaticus atcc 51449
+protein - coding gene of shewanella putrefaciens
+protein - coding gene of thermus thermophilus hb27
+protein - coding gene of bacteroides fragilis nctc 9343
+protein - coding gene of clostridium difficile 630
+protein - coding gene of legionella pneumophila strain philadelphia - 1
+protein - coding gene of bacteroides ovatus
+protein - coding gene of bordetella petrii dsm 12804
+protein - coding gene of streptococcus agalactiae 515
+protein - coding gene of vibrio cholerae mo10
+protein - coding gene of mycoplasma agalactiae 5632
+protein - coding gene of acidovorax sp . kks102
+protein - coding gene of shewanella haliotis
+protein - coding gene of pseudoalteromonas sp . bsi20311
+protein - coding gene of streptococcus suis 05zyh33
+protein - coding gene of legionella pneumophila corby
+protein - coding gene of saccharopolyspora erythraea nrrl 2338
+protein - coding gene of azorhizobium caulinodans ors571
+protein - coding gene of streptococcus cristatus
+protein - coding gene of vibrio cholerae o139
+protein - coding gene of cloning vector pam120
+protein - coding gene of klebsiella pneumoniae ntuh - k2044
+protein - coding gene of mycoplasma fermentans pg18
+protein - coding gene of enterovibrio nigricans
+protein - coding gene of staphylococcus rostri rst11
+protein - coding gene of proteus mirabilis hi4320
+protein - coding gene of streptococcus equi subsp . equi 4047
+protein - coding gene of vibrio fluvialis ind1
+protein - coding gene of enterococcus faecium c68
+protein - coding gene of helicobacter pylori p12
+protein - coding gene of proteus mirabilis
+protein - coding gene of proteus vulgaris
+protein - coding gene of providencia rettgeri
+protein - coding gene of vibrio cholerae mj - 1236
+protein - coding gene of vibrio alginolyticus
+protein - coding gene of vibrio cholerae non o1 - o139 mex1
+protein - coding gene of vibrio cholerae o1 ind5
+protein - coding gene of vibrio cholerae o1 ban5
+protein - coding gene of providencia alcalifaciens ban1
+protein - coding gene of vibrio cholerae ind4
+protein - coding gene of vibrio parahaemolyticus
+protein - coding gene of lactococcus lactis subsp . lactis kf147
+protein - coding gene of clostridium difficile 2007855
+protein - coding gene of escherichia coli ihe3034
+protein - coding gene of delftia sp . cs1 - 4
+protein - coding gene of actinobacillus pleuropneumoniae serovar 8
+protein - coding gene of mesorhizobium ciceri wsm1271
+protein - coding gene of bacteroides fragilis
+protein - coding gene of bacteroides thetaiotaomicron
+protein - coding gene of streptococcus agalactiae fsl s3 - 026
+protein - coding gene of mesorhizobium loti nzp2037
+protein - coding gene of mesorhizobium loti r7a
+rna gene of pseudomonas aeruginosa ffup_ps_690
+rna gene of klebsiella pneumoniae l201
+rna gene of klebsiella pneumoniae 6
+rna gene of klebsiella pneumoniae kpc160132
+rna gene of klebsiella pneumoniae kpc160121
+rna gene of klebsiella pneumoniae kpc160117
+rna gene of klebsiella pneumoniae kpc160125
+rna gene of klebsiella pneumoniae kp18 - 2079
+rna gene of klebsiella pneumoniae gsu10 - 3 dna
+rna gene of klebsiella pneumoniae junp254
+rna gene of klebsiella pneumoniae pmk1
+rna gene of klebsiella pneumoniae carbapenem - resistant blandm - 1
+rna gene of klebsiella pneumoniae subsp . pneumoniae kpnih33
+rna gene of klebsiella pneumoniae subsp . pneumoniae kpnih32
+rna gene of klebsiella pneumoniae subsp . pneumoniae kpnih30
+rna gene of klebsiella pneumoniae 32192
+rna gene of klebsiella pneumoniae 34618
+rna gene of klebsiella pneumoniae cav1392
+rna gene of klebsiella pneumoniae cav1596
+rna gene of klebsiella pneumoniae u25
+rna gene of klebsiella pneumoniae subsp . pneumoniae tgh8
+rna gene of klebsiella pneumoniae subsp . pneumoniae rjf293
+rna gene of klebsiella pneumoniae subsp . pneumoniae rjf999
+rna gene of klebsiella pneumoniae kp38731
+rna gene of klebsiella pneumoniae kpnih36
+rna gene of klebsiella pneumoniae aatzp
+rna gene of klebsiella pneumoniae ny9
+rna gene of klebsiella pneumoniae cr14
+rna gene of klebsiella pneumoniae skgh01
+rna gene of klebsiella pneumoniae isolate blood sample 2
+rna gene of klebsiella pneumoniae br
+rna gene of klebsiella pneumoniae ed2
+rna gene of klebsiella pneumoniae ed23
+rna gene of klebsiella pneumoniae isolate 11
+rna gene of klebsiella pneumoniae kp36
+rna gene of klebsiella pneumoniae cav1016
+rna gene of klebsiella pneumoniae p1428
+rna gene of klebsiella pneumoniae kp_goe_822579
+rna gene of klebsiella pneumoniae 459
+rna gene of klebsiella pneumoniae isolate kp_goe_154414
+rna gene of klebsiella pneumoniae cav1417
+rna gene of klebsiella pneumoniae cav1453
+rna gene of klebsiella pneumoniae kp_goe_62629
+rna gene of klebsiella pneumoniae mncre69
+rna gene of klebsiella pneumoniae mncre78
+rna gene of klebsiella pneumoniae mncre53
+rna gene of klebsiella pneumoniae kp_goe_822917
+rna gene of klebsiella pneumoniae kp_goe_33208
+rna gene of klebsiella pneumoniae kp_goe_71070
+rna gene of klebsiella pneumoniae swu01
+rna gene of klebsiella pneumoniae cav1042
+rna gene of klebsiella pneumoniae cav1217
+rna gene of klebsiella pneumoniae kp_goe_821588
+rna gene of klebsiella pneumoniae kp_goe_121641
+rna gene of klebsiella pneumoniae ar_0049
+rna gene of klebsiella pneumoniae subsp . pneumoniae br7
+rna gene of klebsiella pneumoniae subsp . pneumoniae br21
+rna gene of klebsiella pneumoniae subsp . pneumoniae rja166
+rna gene of klebsiella pneumoniae subsp . pneumoniae kpn_kpc_hug_07
+rna gene of klebsiella pneumoniae ar_0115
+rna gene of klebsiella pneumoniae ar_0098
+rna gene of klebsiella pneumoniae bwhc1
+rna gene of klebsiella pneumoniae bk13043
+rna gene of klebsiella pneumoniae kpn528
+rna gene of klebsiella pneumoniae k66 - 45
+rna gene of klebsiella pneumoniae ar_0047
+rna gene of klebsiella pneumoniae ar_0112
+rna gene of klebsiella pneumoniae ar_0146
+rna gene of klebsiella pneumoniae ar_0129
+rna gene of klebsiella pneumoniae ar_0126
+rna gene of klebsiella pneumoniae ar_0113
+rna gene of klebsiella pneumoniae ar_0138
+rna gene of klebsiella pneumoniae ar_0120
+rna gene of klebsiella pneumoniae ar_0125
+rna gene of klebsiella pneumoniae ar_0145
+rna gene of klebsiella pneumoniae ar_0152
+rna gene of klebsiella pneumoniae ar_0148
+rna gene of klebsiella pneumoniae ar_0139
+rna gene of klebsiella pneumoniae 704sk6
+rna gene of klebsiella pneumoniae bic - 1
+rna gene of klebsiella pneumoniae subsp . pneumoniae ausmdu00008079
+rna gene of klebsiella pneumoniae 911021
+rna gene of klebsiella pneumoniae 721005
+rna gene of klebsiella pneumoniae ccug 70747
+rna gene of klebsiella pneumoniae subsp . pneumoniae st101:960186733
+rna gene of klebsiella pneumoniae subsp . pneumoniae st2017:950142398
+rna gene of klebsiella pneumoniae tvghcre225
+rna gene of klebsiella pneumoniae fdaargos_443
+rna gene of klebsiella pneumoniae fdaargos_444
+rna gene of klebsiella pneumoniae fdaargos_446
+rna gene of klebsiella pneumoniae fdaargos_447
+rna gene of klebsiella pneumoniae isolate ksb1_5d
+rna gene of klebsiella pneumoniae da48896
+rna gene of klebsiella pneumoniae qs17 - 0161
+rna gene of klebsiella pneumoniae inf322
+rna gene of klebsiella pneumoniae inf249
+rna gene of klebsiella pneumoniae inf158
+rna gene of klebsiella pneumoniae inf157
+rna gene of klebsiella pneumoniae inf042
+rna gene of klebsiella pneumoniae inf059
+rna gene of klebsiella pneumoniae ksb1_7j
+rna gene of klebsiella pneumoniae inf163
+rna gene of klebsiella pneumoniae inf164
+rna gene of klebsiella pneumoniae inf278
+rna gene of klebsiella pneumoniae inf274
+rna gene of klebsiella pneumoniae crkp - 2297
+rna gene of klebsiella pneumoniae crkp - 1215
+rna gene of klebsiella pneumoniae nh54
+rna gene of klebsiella pneumoniae ausmdu00003562
+rna gene of klebsiella pneumoniae ausmdu00008119
+rna gene of klebsiella pneumoniae nu - cre047
+rna gene of klebsiella pneumoniae sgh10
+rna gene of klebsiella pneumoniae kp6
+rna gene of klebsiella pneumoniae kp7
+rna gene of klebsiella pneumoniae kp9
+rna gene of klebsiella pneumoniae kp11
+rna gene of klebsiella pneumoniae kp14
+rna gene of klebsiella pneumoniae kp69
+rna gene of klebsiella pneumoniae f44
+rna gene of klebsiella pneumoniae js187
+rna gene of klebsiella pneumoniae 2n3
+rna gene of klebsiella pneumoniae ls359
+rna gene of klebsiella pneumoniae hs102438
+rna gene of klebsiella pneumoniae ls357
+rna gene of klebsiella pneumoniae ls355
+rna gene of klebsiella pneumoniae subsp . pneumoniae gd4
+rna gene of klebsiella pneumoniae k2044
+rna gene of klebsiella pneumoniae f1
+rna gene of klebsiella pneumoniae f5
+rna gene of klebsiella pneumoniae f77
+rna gene of klebsiella pneumoniae f127
+rna gene of klebsiella pneumoniae f132
+rna gene of klebsiella pneumoniae f138
+rna gene of klebsiella pneumoniae b12 ( an )
+rna gene of klebsiella pneumoniae kpnih50
+rna gene of klebsiella pneumoniae kpnih48
+rna gene of klebsiella pneumoniae wchkp649
+rna gene of klebsiella pneumoniae 16_gr_13
+rna gene of klebsiella pneumoniae 20_gr_12
+rna gene of klebsiella pneumoniae 2_gr_12
+rna gene of klebsiella pneumoniae wchkp8f4
+rna gene of klebsiella pneumoniae ar_0363
+rna gene of klebsiella pneumoniae ar_0361
+rna gene of klebsiella pneumoniae kphs1249
+rna gene of klebsiella pneumoniae kp30835
+rna gene of klebsiella pneumoniae cfsan054110
+rna gene of klebsiella pneumoniae wchkp13f2
+rna gene of klebsiella pneumoniae wchkp2
+rna gene of klebsiella pneumoniae subsp . pneumoniae sckp020143
+rna gene of klebsiella pneumoniae wchkp36
+rna gene of klebsiella pneumoniae scm96
+rna gene of klebsiella pneumoniae subsp . pneumoniae sckp020046
+rna gene of klebsiella pneumoniae wchkp020030
+rna gene of klebsiella pneumoniae wchkp040035
+rna gene of klebsiella pneumoniae wchkp7e2
+rna gene of klebsiella pneumoniae kp589
+rna gene of klebsiella pneumoniae ar_0153
+rna gene of klebsiella pneumoniae ar_0079
+rna gene of klebsiella pneumoniae ar438
+rna gene of klebsiella pneumoniae l388
+rna gene of klebsiella pneumoniae l491
+rna gene of klebsiella pneumoniae subsp . pneumoniae sckp020079
+rna gene of klebsiella pneumoniae subsp . pneumoniae sckp040074
+rna gene of klebsiella pneumoniae da33140
+rna gene of klebsiella pneumoniae 160111
+rna gene of klebsiella pneumoniae ar_0087
+rna gene of klebsiella pneumoniae subsp . pneumoniae 12208
+rna gene of klebsiella pneumoniae subsp . pneumoniae sc - 7
+rna gene of klebsiella pneumoniae ar_362
+rna gene of klebsiella pneumoniae kpvst101_oxa - 48
+rna gene of klebsiella pneumoniae 2 - 1
+rna gene of klebsiella pneumoniae wchkp3
+rna gene of klebsiella pneumoniae inf125 - sc - 2279943
+rna gene of klebsiella pneumoniae xj - k1
+rna gene of klebsiella pneumoniae ar_0076
+rna gene of klebsiella pneumoniae ar_0160
+rna gene of klebsiella pneumoniae ar_0135
+rna gene of klebsiella pneumoniae ar_0075
+rna gene of klebsiella pneumoniae xj - k2
+rna gene of klebsiella pneumoniae inf237
+rna gene of klebsiella pneumoniae 675920
+rna gene of klebsiella pneumoniae wchkp015625
+rna gene of klebsiella pneumoniae wchkp115069
+rna gene of klebsiella pneumoniae 4743
+rna gene of klebsiella pneumoniae fdaargos_566
+rna gene of klebsiella pneumoniae fdaargos_531
+rna gene of klebsiella pneumoniae l39_2
+rna gene of klebsiella pneumoniae l482
+rna gene of klebsiella pneumoniae subsp . pneumoniae crk0298
+rna gene of klebsiella pneumoniae kp_norm_bld_2014_104014
+rna gene of klebsiella pneumoniae kp_norm_bld_2015_112126
+rna gene of klebsiella pneumoniae kp17 - 15
+rna gene of klebsiella pneumoniae kp17 - 16
+rna gene of klebsiella pneumoniae subsp . pneumoniae r210 - 2
+rna gene of klebsiella pneumoniae bjcfk909
+rna gene of klebsiella pneumoniae kp18 - 29
+rna gene of klebsiella pneumoniae isolate ksh203
+rna gene of klebsiella pneumoniae nh34
+rna gene of klebsiella pneumoniae c789
+rna gene of klebsiella pneumoniae c1398
+rna gene of klebsiella pneumoniae nb5306
+rna gene of klebsiella pneumoniae 18cpo060
+rna gene of klebsiella pneumoniae ba33875
+rna gene of klebsiella pneumoniae ap8555
+rna gene of klebsiella pneumoniae subsp . pneumoniae ccri - 22199
+rna gene of klebsiella pneumoniae ba1559
+rna gene of klebsiella pneumoniae subsp . pneumoniae wchkp015093
+rna gene of klebsiella pneumoniae wchkp020098
+rna gene of klebsiella pneumoniae vba2172
+rna gene of klebsiella pneumoniae ba28434
+rna gene of klebsiella pneumoniae bp327
+rna gene of klebsiella pneumoniae wchkp2080
+rna gene of klebsiella pneumoniae wchkp115068
+rna gene of klebsiella pneumoniae wchkp020037
+rna gene of klebsiella pneumoniae abfpv
+rna gene of klebsiella pneumoniae kpnih45
+rna gene of klebsiella pneumoniae st23
+rna gene of klebsiella pneumoniae crkp i
+rna gene of klebsiella pneumoniae subsp . pneumoniae kp - 8788
+rna gene of klebsiella pneumoniae c2660
+rna gene of klebsiella pneumoniae c2414
+rna gene of klebsiella pneumoniae r1701
+rna gene of klebsiella pneumoniae r1761
+rna gene of klebsiella pneumoniae lsh - kpn148
+rna gene of klebsiella pneumoniae lsh - kpn25
+rna gene of klebsiella pneumoniae cr - hvkp1
+rna gene of klebsiella pneumoniae cr - hvkp4
+rna gene of klebsiella pneumoniae cr - hvkp5
+rna gene of klebsiella pneumoniae kpvst147b_se1_1_ndm
+rna gene of klebsiella pneumoniae fdaargos_775
+rna gene of klebsiella pneumoniae kp202
+rna gene of klebsiella pneumoniae kp58
+rna gene of klebsiella pneumoniae nku_kleb8a7
+rna gene of klebsiella pneumoniae qd23
+rna gene of klebsiella pneumoniae klp268
+rna gene of klebsiella pneumoniae d1
+rna gene of klebsiella pneumoniae fdaargos_629
+rna gene of klebsiella pneumoniae kp65
+rna gene of klebsiella pneumoniae smu18037509
+rna gene of klebsiella pneumoniae tk421
+rna gene of klebsiella pneumoniae kp19 - 2029
+rna gene of klebsiella pneumoniae 2019036d
+rna gene of klebsiella pneumoniae k2606
+rna gene of klebsiella pneumoniae 156070
+rna gene of klebsiella pneumoniae 158590
+rna gene of klebsiella pneumoniae subsp . pneumoniae kuh - kpnhvl1
+rna gene of klebsiella pneumoniae subsp . pneumoniae kuh - kpnhvf1
+rna gene of klebsiella pneumoniae kp18 - 3 - 8
+rna gene of klebsiella pneumoniae kp8701
+rna gene of klebsiella pneumoniae str . kp52 .145
+rna gene of klebsiella pneumoniae kpc2
+rna gene of klebsiella pneumoniae 4928stdy7387736
+rna gene of klebsiella pneumoniae 4928stdy7387808
+rna gene of klebsiella pneumoniae kpn154
+rna gene of klebsiella pneumoniae isolate 207m1d0 - sc - 2013 - 04 - 03t11:21:06z - 1606409
+rna gene of streptomyces coelicolor a3 ( 2 )
+rna gene of amycolatopsis methanolica ncib11946
+rna gene of bacteroides fragilis bf - hmw615
+rna gene of pasteurella multocida 36950
+rna gene of klebsiella pneumoniae subsp . pneumoniae kpnih1
+rna gene of klebsiella pneumoniae subsp . pneumoniae kpnih10
+rna gene of klebsiella pneumoniae subsp . pneumoniae hs11286
+rna gene of enterococcus faecalis engen0246
+rna gene of enterococcus faecalis engen0302
+rna gene of enterococcus faecalis ds16
+rna gene of vibrio cholerae o1 strain vc504
+rna gene of vibrio cholerae o1 strain vc833
+rna gene of klebsiella pneumoniae subsp . pneumoniae 1084
+rna gene of klebsiella pneumoniae subsp . pneumoniae kpnih24
+rna gene of klebsiella pneumoniae atcc baa - 2146
+rna gene of vibrio cholerae o1
+rna gene of klebsiella pneumoniae dmc1097
+rna gene of klebsiella pneumoniae uhkpc33
+rna gene of klebsiella pneumoniae uhkpc07
+rna gene of pseudomonas knackmussii b13
+rna gene of klebsiella pneumoniae 500_1420
+rna gene of mannheimia haemolytica 42548
+rna gene of klebsiella pneumoniae subsp . pneumoniae kpr0928
+rna gene of enterococcus faecalis
+rna gene of enterococcus faecium
+rna gene of lactococcus lactis
+rna gene of klebsiella pneumoniae jm45
+rna gene of klebsiella pneumoniae subsp . pneumoniae 1158
+rna gene of klebsiella pneumoniae hk787
+rna gene of klebsiella pneumoniae 30660 / njst258_1
+rna gene of klebsiella pneumoniae 30684 / njst258_2
+rna gene of pseudomonas aeruginosa c
+rna gene of streptococcus pyogenes 2812a
+rna gene of staphylococcus aureus subsp . aureus mu50
+rna gene of shewanella sp . sh95
+rna gene of azoarcus sp . cib
+rna gene of streptococcus agalactiae 2603v / r
+rna gene of pseudomonas aeruginosa ucbpp - pa14
+rna gene of salmonella enterica subsp . enterica serovar typhi str . ty2
+rna gene of streptococcus agalactiae nem316
+rna gene of ralstonia sp . js705
+rna gene of bacillus subtilis subsp . subtilis str . 168
+rna gene of helicobacter hepaticus atcc 51449
+rna gene of shewanella putrefaciens
+rna gene of thermus thermophilus hb27
+rna gene of bacteroides fragilis nctc 9343
+rna gene of clostridium difficile 630
+rna gene of legionella pneumophila strain philadelphia - 1
+rna gene of bacteroides ovatus
+rna gene of bordetella petrii dsm 12804
+rna gene of streptococcus agalactiae 515
+rna gene of vibrio cholerae mo10
+rna gene of mycoplasma agalactiae 5632
+rna gene of acidovorax sp . kks102
+rna gene of shewanella haliotis
+rna gene of pseudoalteromonas sp . bsi20311
+rna gene of streptococcus suis 05zyh33
+rna gene of legionella pneumophila corby
+rna gene of saccharopolyspora erythraea nrrl 2338
+rna gene of azorhizobium caulinodans ors571
+rna gene of streptococcus cristatus
+rna gene of vibrio cholerae o139
+rna gene of klebsiella pneumoniae ntuh - k2044
+rna gene of mycoplasma fermentans pg18
+rna gene of enterovibrio nigricans
+rna gene of staphylococcus rostri rst11
+rna gene of proteus mirabilis hi4320
+rna gene of streptococcus equi subsp . equi 4047
+rna gene of vibrio fluvialis ind1
+rna gene of enterococcus faecium c68
+rna gene of helicobacter pylori p12
+rna gene of proteus mirabilis
+rna gene of proteus vulgaris
+rna gene of providencia rettgeri
+rna gene of vibrio cholerae mj - 1236
+rna gene of vibrio alginolyticus
+rna gene of vibrio cholerae non o1 - o139 mex1
+rna gene of vibrio cholerae o1 ind5
+rna gene of vibrio cholerae o1 ban5
+rna gene of providencia alcalifaciens ban1
+rna gene of vibrio cholerae ind4
+rna gene of vibrio parahaemolyticus
+rna gene of lactococcus lactis subsp . lactis kf147
+rna gene of clostridium difficile 2007855
+rna gene of escherichia coli ihe3034
+rna gene of delftia sp . cs1 - 4
+rna gene of actinobacillus pleuropneumoniae serovar 8
+rna gene of mesorhizobium ciceri wsm1271
+rna gene of bacteroides fragilis
+rna gene of bacteroides thetaiotaomicron
+rna gene of streptococcus agalactiae fsl s3 - 026
+rna gene of mesorhizobium loti nzp2037
+rna gene of mesorhizobium loti r7a
+gene of pseudomonas aeruginosa ffup_ps_690
+gene of klebsiella pneumoniae l201
+gene of klebsiella pneumoniae 6
+gene of klebsiella pneumoniae kpc160132
+gene of klebsiella pneumoniae kpc160121
+gene of klebsiella pneumoniae kpc160117
+gene of klebsiella pneumoniae kpc160125
+gene of klebsiella pneumoniae kp18 - 2079
+gene of klebsiella pneumoniae gsu10 - 3 dna
+gene of klebsiella pneumoniae junp254
+gene of klebsiella pneumoniae pmk1
+gene of klebsiella pneumoniae carbapenem - resistant blandm - 1
+gene of klebsiella pneumoniae subsp . pneumoniae kpnih33
+gene of klebsiella pneumoniae subsp . pneumoniae kpnih32
+gene of klebsiella pneumoniae subsp . pneumoniae kpnih30
+gene of klebsiella pneumoniae 32192
+gene of klebsiella pneumoniae 34618
+gene of klebsiella pneumoniae cav1392
+gene of klebsiella pneumoniae cav1596
+gene of klebsiella pneumoniae u25
+gene of klebsiella pneumoniae subsp . pneumoniae tgh8
+gene of klebsiella pneumoniae subsp . pneumoniae rjf293
+gene of klebsiella pneumoniae subsp . pneumoniae rjf999
+gene of klebsiella pneumoniae kp38731
+gene of klebsiella pneumoniae kpnih36
+gene of klebsiella pneumoniae aatzp
+gene of klebsiella pneumoniae ny9
+gene of klebsiella pneumoniae cr14
+gene of klebsiella pneumoniae skgh01
+gene of klebsiella pneumoniae isolate blood sample 2
+gene of klebsiella pneumoniae br
+gene of klebsiella pneumoniae ed2
+gene of klebsiella pneumoniae ed23
+gene of klebsiella pneumoniae isolate 11
+gene of klebsiella pneumoniae kp36
+gene of klebsiella pneumoniae cav1016
+gene of klebsiella pneumoniae p1428
+gene of klebsiella pneumoniae kp_goe_822579
+gene of klebsiella pneumoniae 459
+gene of klebsiella pneumoniae isolate kp_goe_154414
+gene of klebsiella pneumoniae cav1417
+gene of klebsiella pneumoniae cav1453
+gene of klebsiella pneumoniae kp_goe_62629
+gene of klebsiella pneumoniae mncre69
+gene of klebsiella pneumoniae mncre78
+gene of klebsiella pneumoniae mncre53
+gene of klebsiella pneumoniae kp_goe_822917
+gene of klebsiella pneumoniae kp_goe_33208
+gene of klebsiella pneumoniae kp_goe_71070
+gene of klebsiella pneumoniae swu01
+gene of klebsiella pneumoniae cav1042
+gene of klebsiella pneumoniae cav1217
+gene of klebsiella pneumoniae kp_goe_821588
+gene of klebsiella pneumoniae kp_goe_121641
+gene of klebsiella pneumoniae ar_0049
+gene of klebsiella pneumoniae subsp . pneumoniae br7
+gene of klebsiella pneumoniae subsp . pneumoniae br21
+gene of klebsiella pneumoniae subsp . pneumoniae rja166
+gene of klebsiella pneumoniae subsp . pneumoniae kpn_kpc_hug_07
+gene of klebsiella pneumoniae ar_0115
+gene of klebsiella pneumoniae ar_0098
+gene of klebsiella pneumoniae bwhc1
+gene of klebsiella pneumoniae bk13043
+gene of klebsiella pneumoniae kpn528
+gene of klebsiella pneumoniae k66 - 45
+gene of klebsiella pneumoniae ar_0047
+gene of klebsiella pneumoniae ar_0112
+gene of klebsiella pneumoniae ar_0146
+gene of klebsiella pneumoniae ar_0129
+gene of klebsiella pneumoniae ar_0126
+gene of klebsiella pneumoniae ar_0113
+gene of klebsiella pneumoniae ar_0138
+gene of klebsiella pneumoniae ar_0120
+gene of klebsiella pneumoniae ar_0125
+gene of klebsiella pneumoniae ar_0145
+gene of klebsiella pneumoniae ar_0152
+gene of klebsiella pneumoniae ar_0148
+gene of klebsiella pneumoniae ar_0139
+gene of klebsiella pneumoniae 704sk6
+gene of klebsiella pneumoniae bic - 1
+gene of klebsiella pneumoniae subsp . pneumoniae ausmdu00008079
+gene of klebsiella pneumoniae 911021
+gene of klebsiella pneumoniae 721005
+gene of klebsiella pneumoniae ccug 70747
+gene of klebsiella pneumoniae subsp . pneumoniae st101:960186733
+gene of klebsiella pneumoniae subsp . pneumoniae st2017:950142398
+gene of klebsiella pneumoniae tvghcre225
+gene of klebsiella pneumoniae fdaargos_443
+gene of klebsiella pneumoniae fdaargos_444
+gene of klebsiella pneumoniae fdaargos_446
+gene of klebsiella pneumoniae fdaargos_447
+gene of klebsiella pneumoniae isolate ksb1_5d
+gene of klebsiella pneumoniae da48896
+gene of klebsiella pneumoniae qs17 - 0161
+gene of klebsiella pneumoniae inf322
+gene of klebsiella pneumoniae inf249
+gene of klebsiella pneumoniae inf158
+gene of klebsiella pneumoniae inf157
+gene of klebsiella pneumoniae inf042
+gene of klebsiella pneumoniae inf059
+gene of klebsiella pneumoniae ksb1_7j
+gene of klebsiella pneumoniae inf163
+gene of klebsiella pneumoniae inf164
+gene of klebsiella pneumoniae inf278
+gene of klebsiella pneumoniae inf274
+gene of klebsiella pneumoniae crkp - 2297
+gene of klebsiella pneumoniae crkp - 1215
+gene of klebsiella pneumoniae nh54
+gene of klebsiella pneumoniae ausmdu00003562
+gene of klebsiella pneumoniae ausmdu00008119
+gene of klebsiella pneumoniae nu - cre047
+gene of klebsiella pneumoniae sgh10
+gene of klebsiella pneumoniae kp6
+gene of klebsiella pneumoniae kp7
+gene of klebsiella pneumoniae kp9
+gene of klebsiella pneumoniae kp11
+gene of klebsiella pneumoniae kp14
+gene of klebsiella pneumoniae kp69
+gene of klebsiella pneumoniae f44
+gene of klebsiella pneumoniae js187
+gene of klebsiella pneumoniae 2n3
+gene of klebsiella pneumoniae ls359
+gene of klebsiella pneumoniae hs102438
+gene of klebsiella pneumoniae ls357
+gene of klebsiella pneumoniae ls355
+gene of klebsiella pneumoniae subsp . pneumoniae gd4
+gene of klebsiella pneumoniae k2044
+gene of klebsiella pneumoniae f1
+gene of klebsiella pneumoniae f5
+gene of klebsiella pneumoniae f77
+gene of klebsiella pneumoniae f127
+gene of klebsiella pneumoniae f132
+gene of klebsiella pneumoniae f138
+gene of klebsiella pneumoniae b12 ( an )
+gene of klebsiella pneumoniae kpnih50
+gene of klebsiella pneumoniae kpnih48
+gene of klebsiella pneumoniae wchkp649
+gene of klebsiella pneumoniae 16_gr_13
+gene of klebsiella pneumoniae 20_gr_12
+gene of klebsiella pneumoniae 2_gr_12
+gene of klebsiella pneumoniae wchkp8f4
+gene of klebsiella pneumoniae ar_0363
+gene of klebsiella pneumoniae ar_0361
+gene of klebsiella pneumoniae kphs1249
+gene of klebsiella pneumoniae kp30835
+gene of klebsiella pneumoniae cfsan054110
+gene of klebsiella pneumoniae wchkp13f2
+gene of klebsiella pneumoniae wchkp2
+gene of klebsiella pneumoniae subsp . pneumoniae sckp020143
+gene of klebsiella pneumoniae wchkp36
+gene of klebsiella pneumoniae scm96
+gene of klebsiella pneumoniae subsp . pneumoniae sckp020046
+gene of klebsiella pneumoniae wchkp020030
+gene of klebsiella pneumoniae wchkp040035
+gene of klebsiella pneumoniae wchkp7e2
+gene of klebsiella pneumoniae kp589
+gene of klebsiella pneumoniae ar_0153
+gene of klebsiella pneumoniae ar_0079
+gene of klebsiella pneumoniae ar438
+gene of klebsiella pneumoniae l388
+gene of klebsiella pneumoniae l491
+gene of klebsiella pneumoniae subsp . pneumoniae sckp020079
+gene of klebsiella pneumoniae subsp . pneumoniae sckp040074
+gene of klebsiella pneumoniae da33140
+gene of klebsiella pneumoniae 160111
+gene of klebsiella pneumoniae ar_0087
+gene of klebsiella pneumoniae subsp . pneumoniae 12208
+gene of klebsiella pneumoniae subsp . pneumoniae sc - 7
+gene of klebsiella pneumoniae ar_362
+gene of klebsiella pneumoniae kpvst101_oxa - 48
+gene of klebsiella pneumoniae 2 - 1
+gene of klebsiella pneumoniae wchkp3
+gene of klebsiella pneumoniae inf125 - sc - 2279943
+gene of klebsiella pneumoniae xj - k1
+gene of klebsiella pneumoniae ar_0076
+gene of klebsiella pneumoniae ar_0160
+gene of klebsiella pneumoniae ar_0135
+gene of klebsiella pneumoniae ar_0075
+gene of klebsiella pneumoniae xj - k2
+gene of klebsiella pneumoniae inf237
+gene of klebsiella pneumoniae 675920
+gene of klebsiella pneumoniae wchkp015625
+gene of klebsiella pneumoniae wchkp115069
+gene of klebsiella pneumoniae 4743
+gene of klebsiella pneumoniae fdaargos_566
+gene of klebsiella pneumoniae fdaargos_531
+gene of klebsiella pneumoniae l39_2
+gene of klebsiella pneumoniae l482
+gene of klebsiella pneumoniae subsp . pneumoniae crk0298
+gene of klebsiella pneumoniae kp_norm_bld_2014_104014
+gene of klebsiella pneumoniae kp_norm_bld_2015_112126
+gene of klebsiella pneumoniae kp17 - 15
+gene of klebsiella pneumoniae kp17 - 16
+gene of klebsiella pneumoniae subsp . pneumoniae r210 - 2
+gene of klebsiella pneumoniae bjcfk909
+gene of klebsiella pneumoniae kp18 - 29
+gene of klebsiella pneumoniae isolate ksh203
+gene of klebsiella pneumoniae nh34
+gene of klebsiella pneumoniae c789
+gene of klebsiella pneumoniae c1398
+gene of klebsiella pneumoniae nb5306
+gene of klebsiella pneumoniae 18cpo060
+gene of klebsiella pneumoniae ba33875
+gene of klebsiella pneumoniae ap8555
+gene of klebsiella pneumoniae subsp . pneumoniae ccri - 22199
+gene of klebsiella pneumoniae ba1559
+gene of klebsiella pneumoniae subsp . pneumoniae wchkp015093
+gene of klebsiella pneumoniae wchkp020098
+gene of klebsiella pneumoniae vba2172
+gene of klebsiella pneumoniae ba28434
+gene of klebsiella pneumoniae bp327
+gene of klebsiella pneumoniae wchkp2080
+gene of klebsiella pneumoniae wchkp115068
+gene of klebsiella pneumoniae wchkp020037
+gene of klebsiella pneumoniae abfpv
+gene of klebsiella pneumoniae kpnih45
+gene of klebsiella pneumoniae st23
+gene of klebsiella pneumoniae crkp i
+gene of klebsiella pneumoniae subsp . pneumoniae kp - 8788
+gene of klebsiella pneumoniae c2660
+gene of klebsiella pneumoniae c2414
+gene of klebsiella pneumoniae r1701
+gene of klebsiella pneumoniae r1761
+gene of klebsiella pneumoniae lsh - kpn148
+gene of klebsiella pneumoniae lsh - kpn25
+gene of klebsiella pneumoniae cr - hvkp1
+gene of klebsiella pneumoniae cr - hvkp4
+gene of klebsiella pneumoniae cr - hvkp5
+gene of klebsiella pneumoniae kpvst147b_se1_1_ndm
+gene of klebsiella pneumoniae fdaargos_775
+gene of klebsiella pneumoniae kp202
+gene of klebsiella pneumoniae kp58
+gene of klebsiella pneumoniae nku_kleb8a7
+gene of klebsiella pneumoniae qd23
+gene of klebsiella pneumoniae klp268
+gene of klebsiella pneumoniae d1
+gene of klebsiella pneumoniae fdaargos_629
+gene of klebsiella pneumoniae kp65
+gene of klebsiella pneumoniae smu18037509
+gene of klebsiella pneumoniae tk421
+gene of klebsiella pneumoniae kp19 - 2029
+gene of klebsiella pneumoniae 2019036d
+gene of klebsiella pneumoniae k2606
+gene of klebsiella pneumoniae 156070
+gene of klebsiella pneumoniae 158590
+gene of klebsiella pneumoniae subsp . pneumoniae kuh - kpnhvl1
+gene of klebsiella pneumoniae subsp . pneumoniae kuh - kpnhvf1
+gene of klebsiella pneumoniae kp18 - 3 - 8
+gene of klebsiella pneumoniae kp8701
+gene of klebsiella pneumoniae str . kp52 .145
+gene of klebsiella pneumoniae kpc2
+gene of klebsiella pneumoniae 4928stdy7387736
+gene of klebsiella pneumoniae 4928stdy7387808
+gene of klebsiella pneumoniae kpn154
+gene of klebsiella pneumoniae isolate 207m1d0 - sc - 2013 - 04 - 03t11:21:06z - 1606409
+gene of streptomyces coelicolor a3 ( 2 )
+gene of amycolatopsis methanolica ncib11946
+gene of bacteroides fragilis bf - hmw615
+gene of pasteurella multocida 36950
+gene of klebsiella pneumoniae subsp . pneumoniae kpnih1
+gene of klebsiella pneumoniae subsp . pneumoniae kpnih10
+gene of klebsiella pneumoniae subsp . pneumoniae hs11286
+gene of enterococcus faecalis engen0246
+gene of enterococcus faecalis engen0302
+gene of enterococcus faecalis ds16
+gene of vibrio cholerae o1 strain vc504
+gene of vibrio cholerae o1 strain vc833
+gene of klebsiella pneumoniae subsp . pneumoniae 1084
+gene of pectobacterium
+gene of klebsiella pneumoniae subsp . pneumoniae kpnih24
+gene of klebsiella pneumoniae atcc baa - 2146
+gene of staphylococcus
+gene of vibrio cholerae o1
+gene of klebsiella pneumoniae dmc1097
+gene of klebsiella pneumoniae uhkpc33
+gene of klebsiella pneumoniae uhkpc07
+gene of acidovorax
+gene of azoarcus
+gene of streptococcus
+gene of pseudomonas knackmussii b13
+gene of klebsiella pneumoniae 500_1420
+gene of mannheimia haemolytica 42548
+gene of klebsiella pneumoniae subsp . pneumoniae kpr0928
+gene of enterococcus
+gene of enterococcus faecalis
+gene of enterococcus faecium
+gene of lactococcus
+gene of lactococcus lactis
+gene of klebsiella pneumoniae jm45
+gene of bacillus
+gene of klebsiella pneumoniae subsp . pneumoniae 1158
+gene of klebsiella pneumoniae hk787
+gene of klebsiella pneumoniae 30660 / njst258_1
+gene of klebsiella pneumoniae 30684 / njst258_2
+gene of pseudomonas aeruginosa c
+gene of clostridium
+gene of streptococcus pyogenes 2812a
+gene of staphylococcus aureus subsp . aureus mu50
+gene of listeria
+gene of shewanella sp . sh95
+gene of amycolatopsis
+gene of saccharopolyspora
+gene of micromonospora
+gene of enterovibrio
+gene of streptomyces
+gene of azoarcus sp . cib
+gene of streptococcus agalactiae 2603v / r
+gene of pseudomonas aeruginosa ucbpp - pa14
+gene of helicobacter
+gene of salmonella enterica subsp . enterica serovar typhi str . ty2
+gene of mycoplasma
+gene of streptococcus agalactiae nem316
+gene of shewanella
+gene of ralstonia sp . js705
+gene of bacillus subtilis subsp . subtilis str . 168
+gene of helicobacter hepaticus atcc 51449
+gene of shewanella putrefaciens
+gene of thermus thermophilus hb27
+gene of thermus
+gene of bacteroides fragilis nctc 9343
+gene of clostridium difficile 630
+gene of legionella pneumophila strain philadelphia - 1
+gene of bacteroides ovatus
+gene of pseudomonas
+gene of elizabethkingia
+gene of bordetella petrii dsm 12804
+gene of streptococcus agalactiae 515
+gene of vibrio cholerae mo10
+gene of mycoplasma agalactiae 5632
+gene of acidovorax sp . kks102
+gene of shewanella haliotis
+gene of pseudoalteromonas sp . bsi20311
+gene of streptococcus suis 05zyh33
+gene of legionella pneumophila corby
+gene of saccharopolyspora erythraea nrrl 2338
+gene of azorhizobium caulinodans ors571
+gene of legionella
+gene of streptococcus cristatus
+gene of vibrio cholerae o139
+'gene of cloning vector pam120'
+gene of klebsiella pneumoniae ntuh - k2044
+gene of ralstonia
+gene of mycoplasma fermentans pg18
+gene of enterovibrio nigricans
+gene of bordetella
+gene of staphylococcus rostri rst11
+gene of proteus mirabilis hi4320
+gene of pseudoalteromonas
+gene of streptococcus equi subsp . equi 4047
+gene of escherichia
+gene of vibrio fluvialis ind1
+gene of enterococcus faecium c68
+gene of klebsiella
+gene of helicobacter pylori p12
+gene of klebsiella pneumoniae
+gene of proteus
+gene of proteus mirabilis
+gene of proteus vulgaris
+gene of providencia
+gene of providencia rettgeri
+gene of salmonella
+gene of vibrio cholerae mj - 1236
+gene of azorhizobium
+gene of yersinia
+gene of photobacterium
+gene of vibrio
+gene of vibrio alginolyticus
+gene of vibrio cholerae non o1 - o139 mex1
+gene of vibrio cholerae o1 ind5
+gene of vibrio cholerae o1 ban5
+gene of providencia alcalifaciens ban1
+gene of vibrio cholerae ind4
+gene of vibrio parahaemolyticus
+gene of mesorhizobium
+gene of lactococcus lactis subsp . lactis kf147
+gene of clostridium difficile 2007855
+gene of actinobacillus
+gene of escherichia coli ihe3034
+gene of haemophilus
+gene of delftia sp . cs1 - 4
+gene of pasteurella
+gene of actinobacillus pleuropneumoniae serovar 8
+gene of mannheimia
+gene of mesorhizobium ciceri wsm1271
+gene of delftia
+gene of bacteroides
+gene of bacteroides fragilis
+gene of bacteroides thetaiotaomicron
+gene of butyrivibrio
+gene of streptococcus agalactiae fsl s3 - 026
+gene of mesorhizobium loti nzp2037
+gene of mesorhizobium loti r7a
+mpf ( c )
+mpf ( b )
+mpf ( fa )
+mpf ( fata )
+protein
+amino acid chain
+system
+toxin role

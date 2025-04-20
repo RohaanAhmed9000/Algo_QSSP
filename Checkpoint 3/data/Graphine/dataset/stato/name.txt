@@ -1,0 +1,857 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+material entity
+peptide
+deoxyribonucleic acid
+molecular entity
+atom
+nucleic acid
+ribonucleic acid
+macromolecule
+cell
+cultured cell
+experimentally modified cell in vitro
+go:molecular_function
+catalytic activity
+biological_process
+gene expression
+protein complex
+conditional specification
+measurement unit label
+objective specification
+action specification
+datum label
+information carrier
+data item
+symbol
+information content entity
+scalar measurement datum
+directive information entity
+dot plot
+graph
+rule
+algorithm
+curation status specification
+data set
+image
+data about an ontology part
+plan specification
+measurement datum
+version number
+conclusion textual entity
+scatter plot
+textual entity
+table
+figure
+diagram
+document
+cartesian spatial coordinate datum
+one dimensional cartesian spatial coordinate datum
+two dimensional cartesian spatial coordinate datum
+mass measurement datum
+time measurement datum
+documenting
+line graph
+centrally registered identifier symbol
+centrally registered identifier
+centrally registered identifier registry
+time sampled measurement data set
+fluorescent reporter intensity
+planned process
+biological feature identification objective
+processed material
+investigation
+evaluant role
+assay
+quantitative confidence value
+culture medium
+reagent role
+material processing
+participant under investigation role
+specimen role
+sequence feature identification objective
+intervention design
+gene list
+molecular feature identification objective
+cdna library
+p - value
+population
+imaging assay
+organization
+dye role
+protocol
+adding a material entity into a target
+analyte role
+material to be added role
+drawing a conclusion based on data
+planning
+light emission function
+contain function
+heat function
+material separation function
+excitation function
+filter function
+cool function
+solid support function
+environment control function
+sort function
+cloning vector role
+cloning insert role
+extract
+transcription profiling assay
+averaging objective
+enzyme
+adding material objective
+genotyping assay
+analyte measurement objective
+assay objective
+analyte assay
+target of material addition role
+normalized data set
+measure function
+material transformation objective
+study design execution
+dna sequencing
+material separation objective
+clustered data set
+data set of features
+differential expression analysis data transformation
+material combination
+specimen collection process
+error corrected data set
+error correction data transformation
+sample from organism
+statistical hypothesis test
+center value
+statistical hypothesis test objective
+portioning objective
+average value
+separation into different composition objective
+specimen collection objective
+material combination objective
+paired - end library
+k - nearest neighbors
+recombinant vector
+single fragment library
+cloning vector
+student's t - test
+material sample role
+material sampling process
+material sample
+study design independent variable
+study design dependent variable
+survival rate
+multiple testing correction objective
+material maintenance objective
+primary structure of dna macromolecule
+measurement device
+material maintenance
+polya rna extraction
+likelihood - ratio test
+survival curve
+flow cytometry assay
+labeled specimen
+study intervention
+material separation device
+categorical measurement datum
+processed specimen
+categorical label
+in live cell assay
+container
+device
+sequence data
+dose
+nucleic acid extract
+light emission device
+environmental control device
+labeled nucleic acid extract
+dose response curve
+genetic population background information
+fwer adjusted p - value
+rna - seq assay
+genotype information
+transcription profiling identification objective
+allele information
+genetic alteration information
+genetic characteristics information
+q - value
+genotyping design
+specimen from organism
+fluorescence detection assay
+rate measurement datum
+dna sequence data
+selection criterion
+drawing a conclusion
+assay array
+conclusion based on data
+cell freezing medium
+categorical value specification
+scalar value specification
+value specification
+molecular - labeled material
+cytometry assay
+physical store
+measurand role
+organism
+specimen
+cultured cell population
+screening library
+data transformation
+differential expression analysis objective
+benjamini and hochberg false discovery rate correction method
+k - means clustering
+hierarchical clustering
+average linkage hierarchical clustering
+complete linkage hierarchical clustering
+single linkage hierarchical clustering
+benjamini and yekutieli false discovery rate correction method
+dimensionality reduction
+principal components analysis dimensionality reduction
+holm - bonferroni family - wise error rate correction method
+family wise error rate correction method
+descriptive statistical calculation objective
+survival analysis objective
+multiple testing correction method
+logarithmic transformation
+regression analysis method
+principal component regression
+data visualization
+mode calculation
+median calculation
+agglomerative hierarchical clustering
+divisive hierarchical clustering
+false discovery rate correction method
+data transformation objective
+data normalization objective
+correction objective
+normalization data transformation
+averaging data transformation
+partitioning data transformation
+partitioning objective
+class discovery data transformation
+center calculation objective
+class discovery objective
+center calculation data transformation
+descriptive statistical calculation data transformation
+error correction objective
+gene list visualization
+survival analysis data transformation
+chi square test
+anova
+observation design
+extraction
+group randomization
+nucleic acid hybridization
+flow cell
+flow cytometer
+light source
+obscuration bar
+optical filter
+photodetector
+dna sequencer
+hybridization chamber
+cytometer
+microarray
+dna microarray
+droplet sorter
+study design
+repeated measure design
+cross over design
+matched pairs design
+parallel group design
+randomized complete block design
+latin square design
+graeco latin square design
+hyper graeco latin square design
+factorial design
+2x2 factorial design
+fractional factorial design
+dye swap design
+time series design
+collecting specimen from organism
+material component separation
+group assignment
+maintaining cell culture
+establishing cell culture
+addition of molecular label
+sequencing assay
+recombinant vector cloning
+rna extraction
+nucleic acid extraction
+phage display library
+material to be added
+target of material addition
+phenotype
+fluorescence
+mass
+protein
+molecular label role
+molecular label
+region
+digital file
+balanced design
+single factor design
+x - axis
+axis
+y - axis
+cartesian coordinate system
+coordinate system
+cartesian coordinate axis
+z - axis
+two dimensional cartesian coordinate system
+spherical coordinate system
+cylindrical coordinate system
+polar coordinate system
+wilk's lambda distribution
+three dimensional cartesian spatial coordinate origin
+normal distribution hypothesis
+two dimensional cartesian spatial coordinate origin
+90% confidence interval
+one dimensional cartesian coordinate system
+studentized range distribution
+three dimensional cartesian coordinate system
+one dimensional cartesian spatial coordinate origin
+cartesian spatial coordinate origin
+test of association between categorical variables
+measure of variation
+measure of central tendency
+chi - squared statistic
+binary classification
+mode
+model parameter
+range
+outlier
+standard error of the mean
+matched pair of subjects
+statistic
+ma plot
+anderson - darling test
+one - way anova
+two - way anova
+block design
+count
+multiway anova
+hardy - weinberg equilibrium hypothesis
+signal to noise ratio
+poisson distribution
+z - test
+false positive rate
+homoskedasticity hypothesis
+chromosome coordinate system
+absence of association hypothesis
+null hypothesis
+goodness of fit hypothesis
+student's t distribution
+hypergeometric distribution
+absence of between group difference hypothesis
+absence of within subject difference hypothesis
+genomic coordinate datum
+sequence read count
+hypothesis
+cleveland dot plot
+continuous probability distribution
+skewness
+number of degrees of freedom
+yate's corrected chi - squared test
+reaction rate
+substrate concentration
+fisher's exact test
+cochran - mantel - haenzel test for repeated tests of independence
+rarefaction curve
+mann - whitney u - test
+shapiro - wilk test
+levene's test
+barlett's test
+brown forsythe test
+pearson's chi square test of independence between categorical variables
+fixed effect model
+kolmogorov - smirnov test
+multinomial probit regression for analysis of polychotomous dependent variable
+effect size estimate
+f - test
+polychotomous variable
+study group population size
+case - control study design
+dichotomous variable
+genome - wide association study
+wilcoxon signed rank test
+date
+kruskal wallis test
+paired t - test
+population stratification prior to sampling
+statistical test power analysis
+two sample hotelling t2 test
+random effect model
+standardized mean difference
+multinomial distribution
+z - score
+log signal intensity ratio
+probit regression for analysis of polychotomous dependent variable
+statistical model
+linear regression for analysis of continuous dependent variable
+multinomial logistic regression for analysis of dichotomous dependent variable
+sequence read
+funnel plot
+variance
+assess statistical evidence
+discrete probability distribution
+ranking
+model parameter estimation
+bean plot
+association between categorical variables testing objective
+pedigree chart
+r2 measure of linkage desequilibrium
+stratification rule
+wilkinson dot plot
+volcano plot
+99% confidence interval
+altman box and whisker plot
+breslow - day test for homogeneity of odds ratio
+sphericity test
+hotelling t2 distribution
+post - hoc analysis
+true negative rate
+strictly standardized mean difference
+tarone's test for homogeneity of odds ratio
+homoskedasticity test
+2 by 2 contingency table
+subject pairing
+contingency table
+acute toxicity study
+correlation coefficient
+bayesian model selection
+model parameter estimate
+geometric distribution
+presence of between group difference hypothesis
+ld plot
+cochran - armitage test for trend
+binomial logistic regression for analysis of dichotomous dependent variable
+minimum value
+maximum value
+quartile
+one sample hotelling t2 test
+violin plot
+meta analysis
+scheffe test
+least significance different test
+presence of association hypothesis
+stacked bar chart
+exponential distribution
+data distribution
+experimental unit role
+trimmed mean
+inter quartile range
+pie chart
+bar chart
+first quartile
+real time quantitative pcr plot
+fold change
+third quartile
+spear box and whisker plot
+fragments per kilobase of transcript per million fragments mapped
+homogeneity test objective
+forest plot
+confidence interval calculation
+t - statistic
+beta distribution
+kurtosis
+ancova
+standard normal distribution
+hardy - weinberg equilibrium testing
+odds ratio
+sphericity testing objective
+ratio
+2 by n contingency table
+lineweaver - burk plot
+tukey hsd for post - hoc analysis
+average log signal intensity
+mixed effect model
+threshold cycle
+goodness of fit statistical test
+cartesian product
+study group population
+cartesian product 2 sets
+number of factor level combinations
+confidence interval
+genomic coordinate system
+non - parametric test
+mauchly's test for sphericity
+statistical test power
+spearman's rank correlation coefficient
+within subject comparison statistical test
+cohort
+f - distribution
+reads per kilobase of transcript per million fragments mapped
+specifying null and alternate hypothesis
+alternative hypothesis
+area under curve
+channel1 / channel2 fluorescence intensity ratio
+odds ratio homogeneity hypothesis
+tetrachoric correlation coefficient
+continuous variable discretization
+50% confidence interval
+ordered probit regression for analysis of ordinal dependent variable
+stratum population
+sphericity hypothesis
+model fitting
+rt - pcr standard curve
+false negative rate
+random variable
+graeco - latin square design
+group assignment based on blocking variable specification
+goodness of fit testing objective
+probability distribution
+equal variance testing objective
+normal distribution
+ordinal variable
+chi - square probability distribution
+expected value
+95% confidence interval
+number of pcr cycle
+true positive rate
+residual
+genetic association study
+coefficient of variation
+standard deviation
+high - content screening
+high throughput screening
+kendall's correlation coefficient
+q - q plot
+statistical error
+box and whisker plot
+δrn
+relative risk
+woolf's test
+odds ratio homogeneity test
+blocking variable
+dna microarray hybridization
+group comparison objective
+continuous variable
+categorical variable
+within subject comparison objective
+allele frequency
+between group comparison objective
+manhattan plot for gwas
+family
+variable
+repeated measure anova
+newman - keuls test post - hoc analysis
+bernoulli distribution
+galbraith plot
+factor level combination
+factor level
+bayes factor
+grouped bar chart
+gamma distribution
+polychoric correlation coefficient
+full factorial design
+permutation numbering
+michaelis - menten constant
+child - parents trio
+receiver operational characteristics curve
+transmission disequilibrium test
+binomial distribution
+hit selection
+pairing rule
+between group comparison statistical test
+pearson's correlation coefficient
+f - statistic
+negative binomial distribution
+breusch - pagan test
+hypergeometric test
+one tailed test
+two tailed test
+absence of difference hypothesis
+design matrix
+contrast
+quantile
+decile
+percentile
+absence of negative difference hypothesis
+absence of positive difference hypothesis
+absence of enrichment hypothesis
+absence of depletion hypothesis
+exact binomial test
+statistical inference
+dimensionless ratio
+covariance
+one sample t - test
+two sample t - test with equal variance
+two sample t - test with unequal variance
+helmert contrast
+polynomial contrast
+treatment contrast
+sum contrast
+pearson's chi square test of goodness of fit
+barnard's test
+central composite design
+box–behnkens design
+plackett - burman design
+upper confidence limit
+lower confidence limit
+root - mean - square standardized effect
+eta - squared
+omega - squared
+hedges's g
+glass's delta
+non - parametric distribution
+contrast weight
+contrast weight matrix
+contrast weight estimate
+akaike information criterion
+corrected akaike information criterion
+bayesian information criterion
+statistical model selection
+symmetric distribution
+empirical distribution
+histogram distribution
+smooth kernel distribution
+kernel mixture distribution
+mixture distribution
+survival distribution
+best linear unbiased predictor
+breeding value estimation
+breeding value estimation using genotype data
+breeding value estimation using pedigree data
+breeding value estimation using phenotypic data
+genotype data set
+covariance structure
+matern function anisotropic covariance structure
+rational quadratic anisotropic covariance structure
+spatial linear geometric anisotropic covariance structure
+spatial spherical geometric anisotropic covariance structure
+spatial gaussian geometric anisotropic covariance structure
+spatial exponential geometric anisotropic covariance structure
+spatial exponential anisotropic covariance structure
+banded heterogeneous toeplitz covariance structure
+heterogeneous toeplitz covariance structure
+banded toeplitz covariance structure
+toeplitz covariance structure
+huynh - feldt covariance structure
+equal diagonal factor analytic covariance structure
+no diagonal factor analytic covariance structure
+factor analytic covariance structure
+compound symmetry covariance structure
+heterogeneous compound symmetry covariance structure
+first order autoregressive moving average covariance structure
+first order autoregressive covariance structure
+heterogeneous first - order autoregressive covariance structure
+ante - dependence covariance structure
+mallows' cp
+repeated measure analysis
+ordinary least squares estimation
+weighted least squares estimation
+generalized least squares estimation
+iteratively reweighted least squares estimation
+feasible generalized least squares estimation
+residual mean square
+z - statistic
+deviance
+deviance information criterion
+focused information criterion
+contrast estimation
+contrast estimate
+standard error of a contrast estimate
+scree plot
+scatterplot matrix
+alpha distribution
+power law distribution
+regression model
+pareto type - i probability distribution
+pareto type - ii probability distribution
+pareto type - iii probability distribution
+pareto type - iv probability distribution
+geometric mean
+harmonic mean
+weighted arithmetic mean
+interquartile mean
+quadratic mean
+sample mean
+population mean
+unstructured covariance structure
+yuen t - test with trimmed means
+fagan nomogram
+2 step fagan nomogram
+likelihood ratio
+negative likelihood ratio
+positive likelihood ratio
+prevalence
+incidence
+mortality
+accuracy
+precision
+pretest probability
+measure of heterogeneity
+cochran's q statistic
+i - squared
+tau squared
+l'abbe plot
+observed risk
+risk difference
+sidik - jonkman estimator
+hunter - schmidt estimator
+restricted maximum likelihood estimation
+maximum likelihood estimation
+dersimonian - laird estimator
+meta analysis by hartung - knapp - sidik - jonkman method
+meta analysis by dersimonian and leard method
+meta analysis by hunter - schmidt method
+mcnemar test
+cochran's q test for heterogeneity
+probability distribution scale parameter
+probability distribution shape parameter
+scale estimator
+log normal distribution
+outlier detection testing objective
+dixon q test
+grubbs' test
+tietjen - moore test for outliers
+generalized extreme studentized deviate test
+split - plot design
+split split plot design
+restricted randomization
+whole plot number
+sub - plot number
+sub sub - plot number
+wilk's lambda test
+pillai's trace test
+hotelling - lawley trace test
+roy’s maximum root test
+multivariate analysis of variance
+credible interval
+95% credible interval
+mean difference
+99% credible interval
+group sequential design
+interim analysis
+o'brien - flemming boundary analysis
+pocock boundary analysis
+haybittle - peto boundary analysis
+linear mixed model
+empirical measure
+model term
+model random effect term
+model fixed effect term
+model interaction effect term
+model error term
+statistic estimator
+degree of freedom approximation
+kenward - roger degree of freedom approximation
+satterthwaite degree of freedom approximation
+between - within denominator degrees of freedom approximation
+ridge regression best linear unbiaised predictor
+genomic best linear unbiased prediction
+trait - specific relationship matrix best linear unbiaised prediction
+bayes a
+bayes b
+estimated breeding value
+additive genetic inheritance model
+additive dominant genetic inheritance model
+additive dominant genetic and epistatic inheritance model
+dunn’s multiple comparison test
+conover - iman test of multiple comparisons using rank sums
+bayesian least absolute shrinkage and selection operator
+genotype matrix
+maf matrix
+m matrix
+p matrix
+z matrix
+numerator degrees of freedom
+augmented experimental design
+probability distribution location parameter
+weibull probability distribution
+statistical sampling
+simple random sampling
+line intercept sampling
+quadrat sampling
+cluster sampling
+probability - proportional - to - size sampling
+stratified sampling
+systematic sampling
+quota sampling
+panel sampling
+chain - referral sampling
+voluntary sampling
+convenience sampling
+brewer sampling
+minimax sampling
+complete randomization
+data imputation
+last observation carried forward data imputation
+regression data imputation
+substitution by the mean data imputation
+multivariate imputation with chained equations
+k - nearest neighbour data imputation
+matthews correlation coefficient
+covariance matrix
+numerator relationship matrix
+denominator degrees of freedom
+g matrix
+scaled t distribution
+bayesian model
+prior probability distribution
+posterior probability distribution
+bayes c pi
+genetic inheritance model
+sampling from a probability distribution
+gibbs sampling
+metropolis–hastings sampling
+continuous multivariate probability distribution
+discrete multivariate probability distribution
+reproducing kernel hilbert space procedure
+state space model
+genomic estimated breeding value
+heritability
+narrow sense heritability
+bayes r
+laplace probability distribution
+sampling distribution estimation by bootstrapping
+random forest procedure
+log likelihood
+holm false discovery rate correction
+hommel false discovery rate correction
+number of cross - validation segments
+number of predictive components
+number of orthogonal components
+statistical model term testing
+wald test
+rao's score test
+confidence level
+standard error of estimate
+biplot
+coefficient of determination
+regression coefficient
+eigenvalue
+factor analysis
+loadings
+score
+selectivity ratio
+partial least square regression
+partial least square discriminant analysis
+non - iterative partial least squares
+simpls
+pls1
+pls2
+improved kernel pls
+variable importance in projection
+singular value decomposition
+best linear unbiased estimator
+completely randomized design
+wald statistic
+degree of freedom calculation
+restricted randomized design
+percentage of variance
+scaled identity covariance structure
+material anatomical entity
+anatomical cluster
+length unit
+mass unit
+time unit
+pls weight
+pedigree data set

@@ -1,0 +1,524 @@
+variation
+variation affecting protein
+variation affecting protein function
+effect on protein movement
+effect on protein storage
+effect on structural protein
+effect on protein recognition
+effect on catalytic protein function
+effect on transport function of protein
+effect on rna abundance
+effect on protein information transfer
+protein variation type
+protein variation of genetic origin
+amino acid deletion
+protein truncation
+sequence retaining amino acid deletion
+nonsynonymous variation
+amino acid insertion
+amphigoric amino acid insertion
+sequence retaining amino acid insertion
+amino acid substitution
+amino acid indel
+amphigoric amino acid indel
+variation emerging at protein level
+epigenetic protein variation
+protein structural inheritance
+proteinaceous infection
+post translational modification
+sequence retaining amino acid indel
+in - frame indel
+out - of - frame indel
+variation affecting protein property
+effect on protein subcellular localization
+effect on protein stability
+effect on protein solubility
+effect on protein inclusion body formation
+covariant position
+effect on protein aggregation
+protein function change
+protein gain of function
+neomorphic protein variation
+antimorphic protein variation
+protein loss of function
+effect on protein accessibility
+variation exposing buried region
+variation burying exposed region
+association of protein variation to pathogenicity
+effect on protein charge
+effect on protein electrostatics
+effect on protein isoelectric point
+effect on protein degradation
+effect on protein abundance
+effect on protein activity
+effect on protein affinity
+effect on protein specificity
+effect on enzyme reaction kinetics
+conservation of protein variation site
+effect on protein interaction
+effect on protein contact energy
+variation affecting protein structure
+epigenetic protein modification
+prion formation
+epigenetic protein complex structure
+effect on protein 3d structure
+effect on protein dynamics
+effect on structural flexibility
+effect on induced fit
+effect on structural disorder
+effect on allosteric site
+effect on protein tertiary structure
+effect on protein folding rate
+extrachromosomal dna affected
+effect to protein fold
+protein conformational change
+global protein conformation change
+local protein conformation change
+changed domain orientation
+effect on protein disulphide formation
+effect on protein secondary structural element
+effect on protein helix
+effect on left handed protein helix
+effect on right handed protein helix
+effect on pi helix
+effect on three ten helix
+effect on alpha helix
+effect on protein beta strand
+effect on protein antiparallel beta strand
+effect on protein parallel beta strand
+effect on protein turn motif
+effect on protein alpha beta motif
+effect on protein beta turn
+effect on protein st motif
+effect on protein st staple
+effect on protein gamma turn
+effect on protein st turn
+effect on protein schellman loop
+effect on protein nest motif
+effect on protein niche motif
+effect on protein asx motif
+effect on protein beta bulge
+effect on protein asx turn
+effect on protein beta bulge loop
+effect on protein coil
+effect on transmembrane polypeptide
+effect on membrane protein extramembrane region
+effect on membrane protein intramembrane region
+effect on protein post translational modification
+deletion of a post translational modification site
+effect on protein processing
+effect on protein splicing
+variation generating a novel protein processing site
+variation preventing polypeptide processing
+generation of a novel post translational modification site
+effect on amino acid size
+effect on protein packing
+protein cavity formation
+protein overpacking
+effect on protein interaction site
+effect on protein binding site
+effect on protein catalytic site
+effect on protein quaternary structure
+effect on protein quaternary structure forming interaction
+complex 3d structural change
+protein elongation
+c - terminal protein elongation
+n - terminal protein elongation
+dna variation origin
+variation affecting dna
+dna variation type
+dna variation of genetic origin
+genomic variation
+chromosomal variation
+variation of chromosome number
+variation of chromosome structure
+dna chain variation
+dna substitution
+effect on rna tertiary structure
+variant
+mutation
+not changed
+dna deletion
+dna insertion
+dna indel
+dna translocation
+dna inversion
+dna variation of non - genetic origin
+epigenetic dna variation
+variation affecting dna function
+effect on transcription
+effect on dna information transfer
+effect on dna repair
+effect on regulatory function of dna
+chromatin variation
+effect on dna replication
+variation affecting dna structure
+epigenetic dna modification
+epigenetic dna methylation
+nucleosome positioning
+affected dna level
+dna chain affected
+variation in intron
+variation in exon
+variation at intergenic dna
+chromosome affected
+genome affected
+immunological receptor gene rearrangement
+effect on dna form
+somatic hypermutation
+class switch recombination
+immunological receptor gene conversion
+effect on dna tertiary structure
+artificial dna variation
+effect on nucleic acid g - quadruplex
+effect on i motif
+effect on dna triple helix
+chromosome variation
+telomere length change
+telomere shortening
+telomere extension
+chromosome structure variation
+isochromosome
+ring chromosome
+chromosomal amplification
+interspersed repeat
+tandem repeat
+minisatellite
+copy number variation
+microsatellite
+trinucleotide expansion
+mononucleotide expansion
+tetranucleotide expansion
+dna mobile genetic element insertion
+chromosomal deletion
+interstitial deletion
+terminal deletion
+complex chromosomal variation
+chromosomal translocation
+intrachromosomal translocation
+chromosomal inversion
+paracentric inversion
+pericentric inversion
+interchromosomal translocation
+reciprocal chromosomal translocation
+robertsonian translocation
+dinucleotide expansion
+chromosome number variation
+trisomy
+disomy
+uniparental disomy
+isodisomy
+heterodisomy
+nullisomy
+tetrasomy
+monosomy
+chromosome set number variation
+diploidy
+tetraploidy
+polyploidy
+autopolyploidy
+allopolyploidy
+nulliploidy
+triploidy
+pentaploidy
+hexaploidy
+monoploidy
+chromatin structure variation
+variation affecting dna property
+protein fusion
+association of dna variation to pathogenicity
+effect on dna interaction
+conservation of dna variation site
+variation attribute
+conservation
+conserved region
+invariant region
+interaction
+genetic interaction
+genetic interaction defined by inequality
+single nonmonotonic genetic interaction defined by inequality
+missing protein
+rna translocation
+conditional genetic interaction defined by inequality
+additive genetic interaction defined by inequality
+rna inversion
+missing rna
+artificial protein variation
+artificial rna variation
+positive genetic interaction
+double nonmonotonic genetic interaction defined by inequality
+epistatic genetic interaction
+epistatic genetic interaction defined by inequality
+asynthetic genetic interaction defined by inequality
+suppressive genetic interaction defined by inequality
+neutral genetic interaction
+noninteractive genetic interaction defined by inequality
+negative genetic interaction
+synthetic genetic interaction defined by inequality
+structural level of interaction
+intermolecular interaction
+intramolecular interaction
+colocalization
+interactor
+small molecule
+metal
+solvent
+water
+complex
+ribonucleoprotein complex
+protein complex
+protein dna complex
+unknown participant
+gene
+biopolymer
+nucleic acid
+peptide
+polysaccharide
+protein
+association
+interaction physical force
+covalent bond
+disulphide bridge
+non covalent bond
+hydrogen bond
+hydrogen bond network
+hydrophobic interaction
+salt bridge
+van der waals interaction
+electrostatic interaction
+quantity change
+decreased
+increased
+missing
+pathogenicity association
+disease causing
+not related to clinical phenotype
+disease associated
+variation affecting rna
+variation affecting rna property
+effect on rna degradation
+effect on rna folding
+effect on rna stability
+conservation of rna variation site
+polysomy
+association of rna variation to pathogenicity
+effect on rna interaction
+rna variation type
+rna variation of genetic origin
+missense variation
+termination codon change
+nonsense variation
+rna indel
+rna substitution
+transition
+pyrimidine transition
+purine transition
+transversion
+initiation codon change
+silent variation
+rna deletion
+in - frame deletion
+out - of - frame deletion
+dna variation classification
+protein variation origin
+rna variation origin
+protein variation classification
+rna insertion
+out - of - frame insertion
+rna variation classification
+alternative rna form
+mistranslated protein
+alternative form of mrna
+in - frame insertion
+rna variation of non - genetic origin
+rna splicing change
+decayed rna
+modified rna
+modified dna
+variation affecting rna structure
+synonymous variation
+affected rna type
+non - protein coding rna
+protein coding rna
+coding region of mrna
+non - coding region of mrna
+effect on post transcriptional rna modification
+alternatively polyadenylated mrna
+rna sugar variation
+effect on rna splicing
+effect on rna localization
+effect on rna aggregation
+effect on cis splicing
+variation at recursive splice site
+variation at five prime splice site
+variation at canonical five prime splice site
+variation at non canonical five prime splice site
+variation at three prime splice site
+variation at non canonical three prime splice site
+variation at canonical three prime splice site
+cryptic splice site activation
+cryptic splice donor activation
+cryptic splice acceptor activation
+effect on trans splicing
+retrotransposon insertion
+dna transposon
+line
+sine
+effect on rna double helix
+effect on rna secondary structure
+effect on rna multiloop
+effect on rna bulge
+effect on rna interior loop
+effect on rna stem
+effect on rna hairpin loop
+ltr
+pentanucleotide expansion
+effect on dna double helix
+plasmid affected
+insertion sequence
+epigenetic rna variation
+effect on dna cruciform
+variation affecting rna function
+effect on rna splicing function
+effect on catalytic rna activity
+effect on translation
+effect on regulatory function of rna
+effect on amino acid transfer of rna
+effect on rna information transfer
+group i intron
+group ii intron
+dicentric translocation
+edited dna
+rna chimera
+frameshifted rna
+effect on single stranded dna structure
+alternatively spliced rna
+effect on catalytic dna activity
+effect on a dna
+effect on b dna
+effect on c dna
+effect on l dna
+effect on s dna
+effect on d dna
+effect on h dna
+effect on four - stranded dna
+effect on z dna
+effect on intramolecular dna triple helix
+effect on intermolecular dna triple helix
+effect on dna - rna hybrid
+effect on rna triple helix
+effect on four - stranded rna
+type of chromosomal amplification
+genome variation
+complex genomic variation
+nucleotide expansion
+effect on r loop
+effect on t loop
+effect on d loop
+dna sugar variation
+effect on protein reaction kinetics
+mature rna
+alternatively initiated mrna
+epigenetic rna modification
+effect on rna activity
+effect on rna reaction kinetics
+effect on rna affinity
+effect on rna specificity
+alternatively initiated protein
+de novo variation
+germinal variation
+somatic variation
+immunological recognition molecule diversification
+organellar dna affected
+extrachromosomal circular dna
+mitochondrial dna affected
+plastid dna affected
+heptanucleotide expansion
+histone modification
+variation at topology associating domain
+rna genome
+rna virus genome
+viroid genome
+satelletite genome
+pre - mrna
+mrna
+circular rna
+antisense rna
+non - coding sense rna
+functional non - coding rna
+retrotransposon rna intermediate
+translation related non - coding rna
+transfer rna
+large subunit ribosomal rna
+small subunit ribosomal rna
+self - splicing intron
+spliceosomal intron
+intron retention
+telomerase rna
+catalytic rna
+regulatory rna
+microrna
+small intervening rna
+piwi - interacting rna
+signal recognition particle rna
+x - chromosome inactivation center rna
+rna editing related rna
+dna editing related rna
+nuclear non - coding rna
+mitochondrial non - coding rna
+chromatin related non - coding rna
+centromeric non - coding rna
+size of non - coding rna
+short non - coding rna
+ribosomal rna
+long non - coding rna
+very long non - coding rna
+exon
+alternatively terminated mrna
+effect on rna modification
+modified mrna nucleotide
+effect on rna pseudoknot
+rna fragment
+exon skipping
+loss of exon fragment
+inclusion of cryptic exon
+inclusion of intron fragment
+affected splice site
+effect on mode of splicing
+effect on co - transcriptional splicing
+effect on non - sequential splicing
+effect on recursive splicing
+variant_of
+alternative form of rna
+edited rna
+rna modification by editing
+rna substitution editing
+rna insertion editing
+rna deletion editing
+rna degradation by decay
+rna degradation by nonstop decay
+rna degradation by no - go decay
+rna degradation by nonsense - mediated decay
+rna modification by nonsense - associated altered splicing
+non - coding region of protein coding mrna
+rna modification by maturation
+rna polyadenylation
+rna five prime capping
+rna three prime end processing
+rna modification
+rna base modification
+rna nucleoside sugar modification
+rna splicing
+cis splicing
+splicing at recursive splice site
+five prime cis splice site
+canonical five prime splice site
+non canonical five prime splice site
+three prime cis splice site
+non canonical three prime splice site
+canonical three prime splice site
+trans splicing
+self - cleavage by ribozyme activity
+rna degradation by staufen - mediated decay
+matured rna
+alternatively initiated mrna transcript

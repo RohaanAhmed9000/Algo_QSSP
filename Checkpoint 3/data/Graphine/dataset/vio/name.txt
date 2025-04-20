@@ -1,0 +1,68 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+objective specification
+data item
+information content entity
+scalar measurement datum
+directive information entity
+measurement datum
+planned process
+processed material
+material to be added role
+target of material addition role
+host role
+organism
+administering substance in vivo
+genome
+gene
+gene disposition
+frequency
+physical quality
+quality of a single physical entity
+physical object quality
+vaccine
+vaccination
+vaccination frequency
+vaccine function
+preventive vaccine function
+immunization
+active immunization
+vaccine immunization
+induction of adaptive immune response to antigen
+disorder prevention
+disorder treatment
+modification of adaptive immune response to antigen
+titer
+therapeutic vaccine function
+immunization objective
+vaccine preparation
+dose
+challenge dose
+reduction of colony forming unit
+vaccine strain datum
+vaccine viability datum
+vaccine adjuvant usage datum
+vaccine protective antigen datum
+mutated gene in vaccine strain datum
+vaccination mouse strain datum
+biological sex datum
+vaccination route datum
+vaccination dose  ( unit: cfu )
+animal age at vaccination in days
+pathogen strain for challenge datum
+pathogen challenge datum
+challenge dose  ( unit: cfu )
+vaccination - challenge interval in days
+cfu per spleen
+cfu reduction per spleen
+vaccine protection efficacy datum
+vaccine host role
+vaccine target specification

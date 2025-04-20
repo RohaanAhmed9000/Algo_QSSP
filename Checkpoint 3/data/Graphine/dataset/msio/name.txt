@@ -1,0 +1,609 @@
+sample number
+sample state information
+sample mass information
+sample volume
+sample concentration
+nmr instrument model
+instrument customization
+decoupling method
+emulsion
+gas
+liquid
+solid
+solution
+suspension
+sample batch information
+bruker instrument model
+x end value
+nmrprocflow software
+bayesil software
+nmrml assign
+cluster of peaks across samples
+chemical shift
+nmr signal intensity
+chemical shift sorting
+vendor2nmrml_java
+acquisition log file
+metaboanalyst software
+xeasy software
+digital signal processing firmware version
+decimation factor
+group time delay
+nmr data conversion
+sample
+instrument
+varian / agilent instrument model
+instrument attribute
+data file content
+instrument serial number
+file format conversion
+object attribute
+sample attribute
+data file checksum type
+md5
+sha - 1
+nmr raw data file format
+contact attribute
+contact name
+contact address
+contact url
+contact email
+contact organization
+data processing parameter
+data processing completion time
+fid format
+bruker fid format
+custom unreleased software
+sample preparation information
+molecule
+peptide
+chemical compound attribute
+isoelectric point
+predicted isoelectric point
+chemical compound formula
+empirical formula
+molecular formula
+structural formula
+smiles string
+external reference identifier
+pubmed identifier
+chemical compound
+protein
+protein short name
+protein attribute
+protein accession
+protein name
+peptide attribute
+unmodified peptide sequence
+modified peptide sequence
+peptide labeling state
+heavy labeled peptide
+unlabeled peptide
+peptide group label
+data standard
+de facto standard
+minimum information standard
+tab delimited text file
+protein modification
+gene name
+intermediate analysis format
+data stored in database
+analysis software
+data processing software
+data file format
+contact phone number
+contact fax number
+contact toll - free phone number
+digital object identifier  ( doi )
+external reference keyword
+journal article keyword
+submitter keyword
+curator keyword
+nmr acquisition parameter
+hmdb identifier
+chenomx software
+chenomx nmr suite software
+varian fid format
+nmr spectrometer file format
+text file
+acquisition parameter file
+nmr spectrum
+conversion to nmrml
+conversion to jcamp - dx
+ph
+chemical shift reference
+binned spectrum descriptor
+bin label
+bin start
+bin end
+bin area
+assigned chemical compound name
+window function for apodization
+exponential multiplication window function
+nmr sample tube
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+continuant fiat boundary
+process profile
+relational quality
+water
+biotin
+ammonia
+pyridine
+creatinine
+deoxyribonucleic acid
+lipid
+molecular entity
+chemical entity
+biological role
+isoprenoid
+metabolite
+phosphoric acid
+protium atom
+deuterium atom
+atom
+nucleic acid
+ribonucleic acid
+oxygen - 17 atom
+macromolecule
+chloroform
+triphenylphosphane oxide
+nitrogen - 15 atom
+nitrogen - 14 atom
+fluorine - 19 atom
+aluminium - 27 atom
+phosphorus - 31 atom
+silicon - 29 atom
+acetonitrile
+hexafluorobenzene
+trimethyl phosphate
+1 , 4 - dioxane
+biochemical role
+boron - 11
+sodium - 23 atom
+tetramethylammonium bromide
+hexachlorobenzene
+sodium nitrate
+flavonoids
+nitromethane
+n -  ( tert - butyldimethylsilyl )  - n - methyltrifluoroacetamide
+spectroscopy
+mass spectrometry
+gas chromatography - mass spectrometry
+isotope ratio mass spectrometry
+stable isotope ratio mass spectrometry
+liquid chromatography - mass spectrometry
+selective ion monitoring
+tandem mass spectrometry
+nuclear magnetic resonance spectroscopy
+one - dimensional nuclear magnetic resonance spectroscopy
+1h nuclear magnetic resonance spectroscopy
+13c nuclear magnetic resonance spectroscopy
+two - dimensional nuclear magnetic resonance spectroscopy
+correlation spectroscopy
+heteronuclear correlation spectroscopy
+total correlation spectroscopy
+j - spectroscopy
+nuclear overhauser enhancement spectroscopy
+pulsed nuclear magnetic resonance spectroscopy
+carr - purcell - meiboom - gill pulse sequence
+quadrupolar carr - purcell - meiboom - gill pulse sequence
+heteronuclear two - dimensional nuclear magnetic resonance spectroscopy
+1h -  - 1h correlation spectroscopy
+hadamard - encoded nuclear magnetic resonance spectroscopy
+magnetic resonance method
+nuclear magnetic resonance method
+nuclear magnetic resonance pulse sequence
+decoupling pulse sequence
+magic angle spinning decoupling pulse sequence
+flip flop spectroscopy
+heteronuclear hartmann hahn pulse sequence
+solvent suppression pulse sequence
+jump and return pulse sequence
+water elimination fourier transform
+water suppression through gradient tailored excitation
+spin echo pulse sequence
+total suppression of sidebands pulse sequence
+two - dimensional heteronuclear single quantum coherence - nuclear overhauser effect spectroscopy
+13c -  - 13c correlation spectroscopy
+1h -  - 13c heteronuclear correlation spectroscopy
+one - dimensional 1h nuclear magnetic resonance spectroscopy
+cell
+cultured cell
+experimentally modified cell in vitro
+disease
+consent code
+consent code primary category
+consent code secondary category
+no restriction
+general research use and clinical care
+health / medical / biomedical research and clinical care
+disease - specific research and clinical care
+population origins or ancestry research
+research - specific restrictions
+research use only
+no general methods research
+genetic studies only
+data use requirements
+not - for - profit use only
+publication required
+collaboration required
+ethics approval required
+geographical restriction
+publication moratorium
+time limit on use
+user - specific restriction
+project - specific restriction
+institution - specific restriction
+return to database / resource
+geographic location
+molecular_function
+catalytic activity
+biological_process
+gene expression
+protein complex
+conditional specification
+measurement unit label
+objective specification
+action specification
+datum label
+software
+data item
+symbol
+information content entity
+scalar measurement datum
+directive information entity
+graph
+rule
+algorithm
+curation status specification
+data set
+image
+data about an ontology part
+plan specification
+measurement datum
+version number
+conclusion textual entity
+textual entity
+table
+figure
+diagram
+document
+cartesian spatial coordinate datum
+one dimensional cartesian spatial coordinate datum
+two dimensional cartesian spatial coordinate datum
+mass measurement datum
+time measurement datum
+documenting
+line graph
+centrally registered identifier symbol
+centrally registered identifier
+centrally registered identifier registry
+time sampled measurement data set
+openflux2
+chemical reaction
+buffer role
+derivatization agent role
+external standard role
+internal standard role
+long term reference role
+negative control role
+positive control role
+solvent role
+absoluteidq p150 kit
+absoluteidq p180 kit
+absoluteidq stero17 kit
+absoluteidq p400 kit
+ammonium bicarbonate buffer
+buffer
+dilution series reference
+fetal bovine serum
+hepes buffer
+long term reference
+pbs buffer
+quality control material
+reference compound
+reference compound mix
+sample preparation blank
+solvent blank
+study reference material
+carrier gas
+derivatization agent
+isotopic tracer
+positionally labeled isotopic tracer
+uniformly labeled isotopic tracer
+isotopologue
+openflux
+isotopomer
+solvent
+uniformly - labeled  [ u - 13c ]  glucose
+partial isotopomer
+metabolic flux unit
+micromolar per milligram of protein per hour
+13cflux2
+c13
+fiatflux
+fluxomer iterative algorithm
+imat
+inca
+iso2flux
+isodyn
+isodesign
+metran
+midcor
+non - stationary isotopic labeling experiment
+13c5 - 15n2 - glutamine
+openmoebius
+ramid
+sumoflux
+network
+pathway
+stoichiometric coefficient
+cell culture doubling time
+cell seeding density
+cell volume
+confluence level
+dilution factor
+dna content
+interacellular metabolite average content
+metabolite concentration
+metabolite pool size estimate
+passage number
+protein concentration
+protein content
+signal intensity
+maximum m / z values signal intensity with baseline substraction
+total volume of cell culture
+isotopologue distribution matrix
+metabolic flux rate matrix
+stoichiometry matrix
+metabolite identifier
+pathway identifier
+protein identifier
+reaction identifier
+calibration
+quality control
+assessing across studies variability
+assessing instrument conditioning
+assessing within study variability
+assessing study batch to batch variation
+detecting carry over event
+detecting departure from linearity event
+detecting sample degradation event
+metabolomics investigation
+lipidomics investigation
+stable isotope resolved metabolomics study
+metabolite quantitation using high performance liquid chromatography
+targeted metabolite profiling
+untargeted metabolite profiling
+fresh culture medium
+spent culture medium
+metabolism quenching
+direct metabolism quenching by solvent
+metabolism quenching by 13 cd3 - qda in cold ch3cn
+metabolism quenching using precooled 60 percent methanol ammonium bicarbonate buffer
+metabolism quenching using precooled 60 percent methanol hepes buffer
+metabolism quenching using precooled pbs buffer
+elution program
+derivatization
+acetylation
+trifluoroacetylation
+alkylation
+methylation
+oximation
+silylation
+isotopic labeling
+isotopic labeling with positional labeled tracer
+isotopic labeling with uniformly labeled tracer
+collection at cell cycle phase
+collection at cytostatic phase
+collection at logarithmic phase
+collection at specific cell culture passage
+collection at stabilization phase before experiment
+collection at stationary phase
+flux balance analysis
+isotopomer data matrix
+isotope natural abundance correction
+metabolic flux analysis
+steady state 13c metabolic flux analysis
+isotopically non - stationary 13c - metabolic flux analysis
+tracer analysis
+normalization by optimal selection with multiple internal standards
+normalization to a total sum
+normalization to multiple standard with cross contribution compensation
+remove unwanted variation 2 - step normalization
+normalization to a single internal standard
+metabolite extraction
+lipid extraction
+polar metabolite extraction
+cell layer enzymatic digestion
+cell scraping
+centrifugation
+gas chromatography
+high performance liquid chromatography
+biomass
+metabolic flux
+extracellular flux
+metabolite excretion flux
+metabolite uptake flux
+reaction rate
+continuous fermentation cell culture
+double layer cell culture
+monolayer cell culture
+sandwich cell culture
+3d cell culture
+chromatography column
+96 - well microplate
+chemostat
+coated microplate
+constantly fed - batch culture reactor
+exponentially fed - batch culture reactor
+fermenter
+flask
+petri dish
+uncoated microplate
+high dose
+low dose
+lethal dose
+lethal dose 50
+medium dose
+noael dose
+batch cell culture
+fluxomics investigation
+mass isotopomer fractional abundance
+steady state isotopic labeling experiment
+m over z
+corrected m / z
+reference corrected m / z
+reference and adduct corrected m / z
+retention time
+peak area
+normalized corrected peak area
+total m / z signal intensity integrating over the whole peak with baseline substraction
+chemical entity assignment
+assignment by database search
+direct assignment to standard
+indirect assignment to standard
+standard
+planned process
+processed material
+investigation
+evaluant role
+assay
+quantitative confidence value
+culture medium
+reagent role
+material processing
+participant under investigation role
+specimen role
+intervention design
+p - value
+population
+imaging assay
+organization
+dye role
+protocol
+analyte role
+drawing a conclusion based on data
+planning
+contain function
+material separation function
+averaging objective
+enzyme
+analyte measurement objective
+assay objective
+analyte assay
+normalized data set
+measure function
+material transformation objective
+study design execution
+material separation objective
+material combination
+specimen collection process
+error corrected data set
+error correction data transformation
+center value
+portioning objective
+average value
+separation into different composition objective
+specimen collection objective
+material combination objective
+material sample role
+material sampling process
+material sample
+study design independent variable
+study design dependent variable
+survival rate
+multiple testing correction objective
+material maintenance objective
+primary structure of dna macromolecule
+measurement device
+material maintenance
+study intervention
+material separation device
+categorical measurement datum
+categorical label
+container
+device
+dose
+dose response curve
+genetic population background information
+genotype information
+allele information
+genetic alteration information
+genetic characteristics information
+q - value
+rate measurement datum
+selection criterion
+drawing a conclusion
+conclusion based on data
+cell freezing medium
+categorical value specification
+scalar value specification
+value specification
+organism
+specimen
+cultured cell population
+data transformation
+benjamini and hochberg false discovery rate correction method
+benjamini and yekutieli false discovery rate correction method
+multiple testing correction method
+logarithmic transformation
+regression analysis method
+data visualization
+false discovery rate correction method
+data transformation objective
+data normalization objective
+correction objective
+normalization data transformation
+averaging data transformation
+center calculation objective
+center calculation data transformation
+error correction objective
+observation design
+extraction
+group randomization
+study design
+repeated measure design
+cross over design
+time series design
+material component separation
+group assignment
+maintaining cell culture
+establishing cell culture
+phenotype
+mass
+molecular label role
+region
+length unit
+mass unit
+time unit
+kilogram
+second
+kelvin
+gram
+milligram
+microgram
+degree celsius
+minute
+year
+millimolar
+micromolar
+milliliter
+microliter
+milligram per milliliter
+percent
+tesla
+microgram per milliliter
+megahertz
+topic
+metabolism quenching by snap freezing in liquid nitrogen
+normalization to the mean

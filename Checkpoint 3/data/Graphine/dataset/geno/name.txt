@@ -1,0 +1,291 @@
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+cell line
+exact position
+genomic genotype  ( sex - agnostic )
+variant allele
+genomic variation complement
+background genome
+gene allele
+reference sequence
+obsolete sequence feature collection
+obsolete genomic feature collection
+obsolete reference single locus complement
+variant single locus complement
+variant genome
+reference allele
+obsolete unspecified feature
+obsolete reference junction
+danio rerio gene
+homo sapiens gene
+mus musculus gene
+obsolete reference gene allele
+integrated transgene
+genomic material
+material genome
+human population
+strain or breed
+obsolete sequence feature collection attribute
+in cis
+in trans
+zygosity
+heritabililty
+inheritance pattern
+obsolete dominant inheritance
+co - dominant autosomal inheritance
+complete autosomal dominant inheritance
+incomplete autosomal dominant inheritance
+x - linked dominant inheritance
+autosomal dominant inheritance
+autosomal recessive inheritance
+x - linked recessive inheritance
+reference
+obsolete chromosome complement
+gained aneusomic chromosome
+lost aneusomic chromosome
+aneusomic chromosomal part
+gained aneusomic chromosomal segment
+lost aneusomic chromosomal segment
+aneusomic chromosome
+compound heterozygous
+obsolete reagent sequence feature
+transgene part
+variant
+polymorphic
+mutant
+genomic feature
+genetic material
+obsolete mutant allele
+mutation
+extrachromosomal replicon
+polymorphic allele
+major polymorphic allele
+minor polymorphic allele
+ancestral polymorphic allele
+wild - type allele
+reagent targeted gene
+transiently - expressed transgene
+wild - type
+allele
+aneusomic
+variant gene allele
+single locus complement
+extrinsic genotype
+effective genotype
+reagent - targeted gene complement
+transiently - expressed transgene complement
+expression - variant gene
+reagent - targeted gene subregion
+genotype
+homoplasmic
+heteroplasmic
+genomic background
+chromosomal region
+short chromosome arm
+long chromosome arm
+regulatory transgene region
+expressed transgene region
+selectable marker transgene
+karyotype
+genomic genotype  ( sex - qualified )
+male intrinsic genotype
+female intrinsic genotype
+unspecified genomic background
+sequence feature set
+genomic feature set
+gene part
+reporter transgene
+obsolete null feature
+novel extrachromosomal replicon
+novel replicon
+novel
+terminus
+sequence feature or set
+biological sequence
+qualified sequence feature or collection
+qualified genomic feature
+qualified genomic feature set
+intrinsic genotype
+location - qualified sequence feature
+expression - qualified sequence feature
+obsolete genomic position
+obsolete unspecified
+variation attribute
+variant genomic genotype
+obsolete sequence information entity
+sequence feature attribute
+sequence feature location
+modification - qualified sequence feature
+allelic genotype
+obsolete coding sequence alteration
+p - element construct
+engineered genetic construct
+extra - chromosomal transgene
+haplotype
+genomic sequence set
+microsatellite alteration
+repeat region alteration
+allelic state
+allele origin
+maternal allele origin
+paternal allele origin
+de novo allele origin
+unknown allele origin
+somatic allele origin
+obsolete gametic
+diplotype
+allelic phase
+germline allele origin
+undetermined inheritance
+obsolete canonical allele
+obsolete contextual allele
+heteroplasmic mitochondrial inheritance
+homoplasmic mitochondrial inheritance
+genomic entity
+haplotype block
+genomic genotype
+obsolete allele cellular context
+genomic feature location
+organismal entity
+gene product
+reference genome
+obsolete haplotype
+obsolete haplotype block
+organellar plasmy
+qualified sequence feature
+qualified sequence feature set
+biological sequence or set
+biological sequence set
+obsolete functional copy number complement
+obsolete intrinsic sequence feature attribute
+obsolete extrinsic sequence feature attribute
+allelic cellular distribution
+constitutional
+clonal
+multifactorial inheritance
+digenic inheritance
+oligogenic inheritance
+polygenic inheritance
+monogenic inheritance
+autosomal inheritance
+allosomal inheritance
+x - linked inheritance
+complete x - linked dominant inheritance
+incomplete x - linked dominant inheritance
+co - dominant x - linked inheritance
+y - linked inheritance
+z - linked inheritance
+z - linked dominant inheritance
+complete z - linked dominant inheritance
+incomplete z - linked dominant inheritance
+co - dominant z - linked inheritance
+z - linked reccessive inheritance
+w - linked inheritance
+mitochondrial inheritance
+sex - limited autosomal dominant inheritance
+sex - limited autosomal recessive inheritance
+allele set
+obsolete variant copy number complement
+obsolete copy number complement
+genomic sequence
+copy number complement
+variant copy number complement
+functional copy complement
+sequence interval
+chromosomal inheritance
+chromosomal deletion inheritance
+chromosomal duplication inheritance
+chromosomal rearrangement inheritance
+developmental process
+information content entity
+curation status specification
+data about an ontology part
+obsolescence reason specification
+denotator type
+base ontology module
+editors ontology module
+main release ontology module
+bridge ontology module
+import ontology module
+subset ontology module
+curation subset ontology module
+analysis subset ontology module
+single layer subset ontology module
+exclusion subset ontology module
+external import ontology module
+species subset ontology module
+reasoned ontology module
+generated ontology module
+template generated ontology module
+obo basic subset ontology module
+planned process
+population
+collection of organisms
+family
+position
+region
+morpholino_oligo
+chromosome arm
+sequence_feature
+obsolete assembly_component
+obsolete contig
+deletion
+promoter
+translocation
+microsatellite
+chromosome
+chromosome band
+insertion
+snp
+gene
+qtl
+engineered
+chromosome part
+transgene
+mnp
+copy_number_variation
+genome
+sequence_alteration
+transgenic_insertion
+obsolete experimental_feature
+gene_trap_construct
+promoter_trap_construct
+enhancer_trap_construct
+snv
+heritable_phenotypic_marker
+reference genome sequence
+copy_number_gain
+copy_number_loss
+upd
+maternal_uniparental_disomy
+paternal_uniparental_disomy
+complex_structural_alteration
+substitution
+complex_substitution
+point_mutation
+transition
+pyrimidine_transition
+c_to_t_transition
+c_to_t_transition_at_pcpg_site
+purine_transition
+a_to_g_transition
+g_to_a_transition
+transversion
+pyrimidine_to_purine_transversion
+c_to_a_transversion
+t_to_a_transversion
+t_to_g_transversion
+purine_to_pyrimidine_transversion
+a_to_c_transversion
+a_to_t_transversion
+g_to_c_transversion
+g_to_t_transversion
+indel
+duplication
+inversion
+direct_tandem_duplication
+inverted_tandem_duplication
+tandem_duplication
+worm phenotype

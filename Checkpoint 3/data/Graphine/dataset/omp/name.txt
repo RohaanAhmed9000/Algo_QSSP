@@ -1,0 +1,2086 @@
+chemical entity
+biological role
+pesticide
+application
+antimicrobial agent
+role
+reproduction
+cilium or flagellum - dependent cell motility
+cellular_component
+cell
+nucleobase - containing compound metabolic process
+dna metabolic process
+dna replication
+transcription ,  dna - templated
+translation
+cellular aromatic compound metabolic process
+nitrogen compound metabolic process
+cellular component movement
+chemotaxis
+chromosome segregation
+biological_process
+metabolic process
+biosynthetic process
+macromolecule biosynthetic process
+energy taxis
+aerotaxis
+response to external stimulus
+spore germination
+negative regulation of metabolic process
+cellular process
+gene expression
+regulation of gene expression
+negative regulation of macromolecule metabolic process
+negative regulation of gene expression
+rna metabolic process
+gene silencing
+heterocycle biosynthetic process
+regulation of metabolic process
+aromatic compound biosynthetic process
+protein metabolic process
+asexual reproduction
+cell cycle process
+cell differentiation
+sporulation resulting in formation of a cellular spore
+asexual sporulation
+envelope
+transposition
+developmental process
+rna biosynthetic process
+endospore formation
+myxospore formation
+cellular nitrogen compound metabolic process
+cellular macromolecule biosynthetic process
+nucleobase - containing compound biosynthetic process
+growth
+locomotion
+response to chemical
+taxis
+cell projection
+type iv pilus - dependent motility
+heterocyst differentiation
+macromolecule metabolic process
+sporulation
+asexual sporulation resulting in formation of a cellular spore
+cellular metabolic process
+primary metabolic process
+cellular biosynthetic process
+cellular macromolecule metabolic process
+cellular protein metabolic process
+cellular nitrogen compound biosynthetic process
+cell part
+single - organism process
+single - organism metabolic process
+single - organism biosynthetic process
+single - organism cellular process
+single - organism developmental process
+cell cycle dna replication
+heterocycle metabolic process
+negative regulation of biological process
+anatomical structure formation involved in morphogenesis
+cellular developmental process
+cell motility
+regulation of biological process
+response to stimulus
+localization
+regulation of macromolecule metabolic process
+biological regulation
+organic substance metabolic process
+bacterial - type flagellum - dependent cell motility
+cell swimming
+cell gliding
+bacterial - type flagellum - dependent swarming motility
+nucleic acid metabolic process
+archaeal or bacterial - type flagellum - dependent cell motility
+organic cyclic compound metabolic process
+organic cyclic compound biosynthetic process
+organic substance biosynthetic process
+microbial phenotype
+motility phenotype
+decreased motility
+cell arrangement phenotype
+taxis phenotype
+presence of motility
+presence of akinete formation
+absence of akinete formation
+presence of budding
+presence of heterocysts
+absence of heterocysts
+abolished spore germination efficiency
+decreased endospore formation
+increased endospore formation
+decreased heterocyst formation
+delayed spore germination
+presence of endospore formation
+absence of endospore formation
+presence of myxospore formation
+absence of myxospore formation
+decreased myxospore formation
+periplasmic flagellum / flagella
+altered flagellum length
+host - virus interaction phenotype
+flagellum morphology phenotype
+decreased number of pili
+presence of flagellum
+absence of flagellum
+altered flagellum shape
+absence of pilus
+presence of pilus
+malformed pilus
+increased amount of capsule
+increased flagellum length
+o2 effects on population growth phenotype
+decreased cell size
+increased cell size
+anucleoid
+nucleoid number phenotype
+altered cell circularity
+increased motility
+presence of chemotaxis
+aerotaxis phenotype
+chemotaxis phenotype
+presence of aerotaxis
+decreased amount of capsule
+presence of positive chemotaxis
+presence of negative chemotaxis
+absence of positive chemotaxis
+absence of negative chemotaxis
+presence of positive aerotaxis
+presence of negative aerotaxis
+absence of positive aerotaxis
+absence of negative aerotaxis
+presence of quorum sensing
+decreased virulence
+increased virulence
+absence of quorum sensing
+absence of virulence
+abolished virulence
+presence of motility by swarming
+virulence phenotype
+quorum sensing phenotype
+cell development phenotype
+cell morphology phenotype
+filamentous
+cell shape phenotype
+cell size phenotype
+coccus
+rod - shaped cells
+vibrio
+flagellum arrangement phenotype
+monotrichous
+amphitrichous
+lophotrichous
+peritrichous flagella
+cell projection morphology phenotype
+pilus morphology phenotype
+cell envelope morphology phenotype
+spiral cell shape
+facultative anaerobe
+filamentous colony
+budding phenotype
+lifespan phenotype
+sporulation phenotype
+heterocyst formation phenotype
+akinete formation phenotype
+endospore formation phenotype
+spore germination phenotype
+myxospore formation phenotype
+absence of chemotaxis
+altered virulence
+hemolysis test
+colony morphology phenotype
+microbial communication phenotype
+colony opacity phenotype
+colony form phenotype
+colony elevation phenotype
+aerotolerant anaerobe
+colony sheen phenotype
+colony pigmentation phenotype
+colony optical phenotype
+presence of mucoid colonies
+opaque colony
+presence of motility by swimming
+presence of motility by gliding
+presence of motility by twitching
+translucent colony
+transparent colony
+pigmented colony
+diplococcus
+streptococcus
+tetrad
+sarcina
+staphylococcus
+streptobacillus
+coccobacillus cell shape
+spirillum
+spirochete
+trichome - forming
+sheathed
+stalked cell shape
+cuboidal cell shape
+star - shaped cell shape
+lobed cell shape
+pleomorphic cell shape
+absence of motility
+spherical akinete
+akinete envelope attribute
+in vitro nucleoid shape
+non - pigmented colony
+altered cell circularity variability
+dull colony sheen
+nucleoid spacing
+regular nucleoid spacing
+irregular nucleoid spacing
+single nucleoid
+multiple nucleoids
+nucleoid localization
+midcell nucleoid localization
+polar nucleoid localization
+quarter cell nucleoid localization
+colony margin phenotype
+nucleoid phenotype
+entire margin
+doublet nucleoid
+singlet nucleoid
+undulate margin
+lobate margin
+erose margin
+filiform margin
+curled margin
+absence of aerotaxis
+flat colony elevation
+raised colony elevation
+convex colony elevation
+pulvinate colony elevation
+umbonate colony elevation
+increased colony size
+circular colony
+irregular colony
+rhizoid colony
+spindle colony
+microaerophile
+response to chemical stimulus phenotype
+response to stress phenotype
+growth phenotype
+nanotube phenotype
+biofilm formation phenotype
+liquid culture morphology phenotype
+flocculation phenotype
+colony size phenotype
+metabolic phenotype
+colony with diffusible pigment
+gas production test
+anaerobic respiration with sulfate as the terminal acceptor
+obligate anaerobe
+obligate aerobe
+granulation phenotype
+gram positive
+gram negative
+gram variable
+gram stain phenotype
+chemical production phenotype
+catalase positive
+decreased catalase activity
+increased catalase activity
+microbe - host interaction phenotype
+catalase negative
+acid - fast staining phenotype
+colony with non - diffusible pigment
+nanotube mediated communication
+outer membrane vesicles phenotype
+capsule phenotype
+presence of capsule
+forms single species biofilm
+altered hemolysis test result
+serotype phenotype
+absence of hemolysis
+fluorescent colony
+colony surface phenotype
+absence of capsule
+smooth colony surface
+increased number of flagella
+cell staining phenotype
+decreased number of flagella
+aerobic respiration phenotype
+increased hemolysis
+catalase test phenotype
+decarboxylase test phenotype
+oxidase test phenotype
+enzymatic activity phenotype
+urease test phenotype
+energy metabolism phenotype
+carbon dioxide production
+rough colony surface
+colony consistency phenotype
+rugose colony surface
+growth into medium
+iridescent colony
+butyrous colony consistency
+dry colony consistency
+colony odor phenotype
+crateriform colony elevation
+plicate colony surface
+punctiform colony
+decreased colony size
+concentrically ringed surface colony
+sectored colony
+papillated colony
+participates in multi - species biofilm
+presence of nanotubes
+absence of nanotubes
+biofilm architecture phenotype
+decreased hemolysis
+altered cell division
+metabolite accumulation
+gene expression phenotype
+constitutive transcription
+plating morphology phenotype
+macconkey agar phenotype
+red colony on macconkey agar
+increased gene expression
+decreased gene expression
+protein activity phenotype
+antimicrobial agent resistance phenotype
+increased cell length
+decreased population growth rate
+increased population growth rate
+increased number of anucleoid cells
+genetic material phenotype
+genophore phenotype
+dna supercoiling phenotype
+presence of negative supercoiling
+presence of positive supercoiling
+galactose - 1 - phosphate uridyl transferase activity
+increased substrate binding
+macromolecular biosynthesis phenotype
+dna replication phenotype
+over - initiation of dna replication
+biosynthetic phenotype
+small molecule biosynthesis phenotype
+amino acid biosynthesis phenotype
+locomotion phenotype
+macrolide resistance phenotype
+aminopyrimidine resistance phenotype
+increased resistance to aminopyrimidine
+decreased resistance to aminopyrimidine
+beta - lactam resistance phenotype
+resistant to aminopyrimidine
+not resistant to aminopyrimidine
+resistant to ampicillin
+resistant to penicillin
+trace element utilization phenotype
+heme utilization phenotype
+increased heme utilization
+decreased heme utilization
+absence of heme utilization
+alkaloid chemical resistance phenotype
+caffeine resistance phenotype
+resistant to caffeine
+not resistant to caffeine
+increased caffeine resistance
+decreased caffeine resistance
+outer membrane phenotype
+presence of an outer membrane
+increased number of pili
+absence of an outer membrane
+decreased aerotaxis
+increased aerotaxis
+decreased chemotaxis
+increased chemotaxis
+increased negative supercoiling
+decreased negative supercoiling
+phospholipase activity phenotype
+altered caffeine resistance
+temperature effects on population growth phenotype
+hyperthermophile
+thermophile
+mesophile
+psychrotroph
+psychrophile
+ph effects on population growth phenotype
+acidophile
+neutrophile
+alkaliphile
+pressure effects on population growth phenotype
+solute and water activity effects on population growth phenotype
+piezophilic growth
+osmotolerant growth
+halophilic growth
+sos response phenotype
+altered sos response phenotype
+absence of phospholipase activity
+increased basal expression of the sos response
+decreased basal expression of the sos response
+absence of an sos response
+presence of an sos response
+increased induced expression of the sos response
+decreased induced expression of the sos response
+presence of phospholipase activity
+stress - induced mutagenesis phenotype
+altered phospholipase activity
+altered tetracycline resistance
+increased stress - induced mutagenesis
+decreased stress - induced mutagenesis
+presence of stress - induced mutagenesis
+absence of stress - induced mutagenesis
+altered quinolone resistance
+quick - stop dna replication
+slow - stop dna replication
+origin - independent replication
+response to freeze / thaw stress phenotype
+response to acid ph stress phenotype
+response to alkaline ph stress phenotype
+homologous recombination phenotype
+site - specific recombination phenotype
+altered mitotic recombination
+mitotic recombination phenotype
+gene silencing phenotype
+chromosome segregation phenotype
+mutation frequency phenotype
+increased frequency of homologous recombination
+decreased frequency of homologous recombination
+presence of homologous recombination
+absence of homologous recombination
+altered induced expression of the sos response
+altered basal expression of the sos response
+increased frequency of site - specific recombination
+decreased frequency of site - specific recombination
+absence of site - specific recombination
+presence of site - specific recombination
+transposable element transposition phenotype
+decreased frequency of chromosome missegregation
+increased frequency of chromosome missegregation
+increased phospholipase activity
+decreased phospholipase activity
+increased frequency of gene silencing
+decreased frequency of gene silencing
+absence of gene silencing
+presence of gene silencing
+increased mutation frequency
+decreased mutation frequency
+increased mitotic recombination
+decreased mitotic recombination
+absence of mitotic recombination
+presence of mitotic recombination
+increased rate of transposable element transposition
+decreased rate of transposable element transposition
+increased resistance to acidic ph stress
+decreased resistance to acidic ph stress
+increased resistance to alkaline ph stress
+decreased resistance to alkaline ph stress
+response to dessication stress phenotype
+response to radiation stress phenotype
+response to thermotolerance stress phenotype
+response to ionizing radiation phenotype
+resistance to uv radiation phenotype
+resistance to gamma - ray radiation phenotype
+resistance to x - ray radiation
+increased resistance to dessication stress
+decreased resistance to dessication stress
+increased resistance to freeze / thawing stress
+decreased resistance to freeze / thawing stress
+increased resistance to oxidative stress
+decreased resistance to oxidative stress
+increased resistance to gamma - ray radiation
+decreased resistance to gamma - ray radiation
+increased resistance to x - ray radiation
+decreased resistance to x - ray radiation
+increased resistance to uv radiation
+decreased resistance to uv radiation
+response to starvation stress phenotype
+macrolide dependent growth
+aminoglycoside dependent growth
+increased enzymatic activity
+decreased catalytic activity
+abolished resistance to dessication stress
+abolished resistance to freeze / thawing stress
+increased lifespan
+decreased lifespan
+increased cell diameter
+decreased cell diameter
+abolished phospholipase activity
+resistance to killing by host phenotype
+response to sds - edta stress phenotype
+decreased resistance to sds - edta stress
+increased resistance to sds - edta stress
+cell cycle phenotype
+multi - organism process phenotype
+presence of hemolysis
+altered resistance to acidic ph stress phenotype
+altered resistance to alkaline ph stress phenotype
+altered resistance to dessication stress phenotype
+altered resistance to freeze / thaw stress
+altered resistance to oxidative stress
+altered resistance to gamma - ray radiation
+altered resistance to x - ray radiation
+altered uv - radiation resistance
+altered resistance to sds - edta stress
+abolished resistance to acidic ph stress
+abolished resistance to alkaline ph stress
+altered biofilm formation
+altered enzymatic activity
+abolished resistance to oxidative stress
+abolished resistance to gamma ray radiation
+abolished resistance to x - ray radiation
+abolished resistance to uv radiation
+abolished resistance to sds - edta stress
+altered cell cycle
+increased septation
+decreased septation
+presence of  resistance to killing by host
+absence of resistance to killing by host
+altered resistance to killing by host
+increased resistance to killing by host
+decreased resistance to killing by host
+vacuolar morphology phenotype
+altered vacuolar morphology
+decreased vacuolar size
+increased vacuolar size
+ferric reductase activity phenotype
+absence of ferric reductase activity
+altered ferric reductase activity
+decreased ferric reductase activity
+increased ferric reductase activity
+presence of ferric reductase activity
+protein kinase a activity phenotype
+absence of protein kinase a activity
+altered protein kinase a activity
+decreased protein kinase a activity
+increased protein kinase a activity
+presence of protein kinase a activity
+phosphatase activity phenotype
+absence of phosphatase activity
+altered phosphatase activity
+decreased phosphatase activity
+increased phosphatase activity
+presence of phosphatase activity
+superoxide dismutase activity phenotype
+absence of superoxide dismutase activity
+altered superoxide dismutase activity
+decreased superoxide dismutase activity
+increased superoxide dismutase activity
+presence of superoxide dismutase activity
+delayed cell cycle progression
+acid phosphatase activity phenotype
+presence of acid phosphatase activity
+absence of acid phosphatase activity
+altered acid phosphatase activity
+decreased acid phosphatase activity
+abolished acid phosphatase activity
+increased acid phosphatase activity
+cytoskeleton morphology phenotype
+altered cytoskeleton morphology phenotype
+actin cytoskeleton morphology phenotype
+absence of actin cytoskeleton
+presence of actin cytoskeleton
+altered actin cytoskeleton morphology
+decreased cytoskeleton phenotype
+abolished cytoskeleton morphology
+increased cytoskeleton morphology
+anaerobic population growth phenotype
+presence of anaerobic population growth
+absence of anaerobic population growth
+altered anaerobic population growth
+increased anaerobic population growth yield
+decreased anaerobic population growth yield
+abolished anaerobic population growth
+increased anaerobic population growth rate
+decreased anaerobic population growth rate
+alpha - 1 , 3 - mannosyltransferase activity phenotype
+presence of alpha - 1 , 3 - mannosyltransferase activity
+absence of alpha - 1 , 3 - mannosyltransferase activity
+altered alpha - 1 , 3 - mannosyltransferase activity
+increased alpha - 1 , 3 - mannosyltransferase activity
+decreased alpha - 1 , 3 - mannosyltransferase activity
+abolished alpha - 1 , 3 - mannosyltransferase activity
+adhesion phenotype
+adhesion to host phenotype
+absence of adhesion to host
+presence of adhesion to host
+altered adhesion to host
+decreased adhesion to host
+abolished adhesion to host
+increased adhesion to host
+presence of adhesion
+absence of adhesion
+altered adhesion
+increased adhesion
+decreased adhesion
+abolished adhesion
+cell fusion phenotype
+presence of cell fusion
+altered cell fusion
+increased cell fusion
+decreased cell fusion
+abolished cell fusion
+delayed cell fusion
+cell fusion during mating phenotype
+presence of cell fusion during mating
+absence of cell fusion during mating
+altered cell fusion during mating
+increased cell fusion during mating
+decreased cell fusion during mating
+abolished cell fusion during mating
+cell wall morphology phenotype
+altered cell wall morphology
+presence of cell wall
+absence of cell wall
+golgi apparatus phenotype
+golgi apparatus morphology phenotype
+altered golgi morphology
+presence of golgi apparatus
+absence of golgi apparatus
+delayed cell fusion during mating
+filamentous growth phenotype
+altered filamentous growth
+increased filamentous growth
+decreased filamentous growth
+abolished filamentous growth
+presence of filamentous growth
+absence of filamentous growth
+aerobic population growth phenotype
+absence of aerobic population growth
+altered aerobic population growth
+presence of aerobic population growth
+microaerophilic population growth phenotype
+presence of microaerophilic population growth
+absence of microaerophilic growth
+altered microaerophilic population growth
+increased microaerophilic population growth rate
+decreased microaerophilic population growth rate
+transport phenotype
+endocytosis phenotype
+altered endocytosis
+increased endocytosis
+decreased endocytosis
+abolished endocytosis
+delayed onset of endocytosis
+presence of endocytosis
+absence of endocytosis
+endomembrane system phenotype
+endomembrane system morphology phenotype
+altered endomembrane system morphology
+presence of endomembrane system
+absence of endomembrane system
+organic heterocyclic compound resistance phenotype
+altered organic heterocyclic compound resistance
+decreased resistance to organic heterocyclic compound
+abolished resistance to organic heterocyclic compound
+increased resistance to organic heterocyclic compound
+not resistant to organic heterocyclic compound
+resistant to organic heterocyclic compound
+colonization of host tissue phenotype
+presence of colonization of host tissue
+absence of colonization of host tissue
+altered colonization of host tissue
+increased colonization of host tissue
+decreased colonization of host tissue
+abolished colonization of host tissue
+colonization of tissue in an immunocompromised host phenotype
+presence of colonization of tissue in an immunocompromised host
+absence of colonization of tissue in an immunocompromised host
+altered colonization of tissue in an immunocompromised host
+increased colonization of tissue in an immunocompromised host
+decreased colonization of tissue in an immunocompromised host
+abolished colonization of tissue in an immunocompromised host
+colonization of mouse tissue
+presence of colonization of mouse tissue
+absence of colonization of mouse tissue
+altered colonization of mouse tissue
+increased colonization of mouse tissue
+decreased colonization of mouse tissue
+abolished colonization of mouse tissue
+colonization of tissue in an immunocompromised mouse phenotype
+presence of colonization of tissue in an immunocompromised mouse
+absence of colonization of tissue in an immunocompromised mouse
+altered colonization of tissue in an immunocompromised mouse
+increased colonization of tissue in an immunocompromised mouse
+decreased colonization of tissue in an immunocompromised mouse
+abolished colonization of tissue in an immunocompromised mouse
+colonization of rabbit tissue phenotype
+presence of colonization of rabbit tissue
+absence of colonization of rabbit tissue
+altered colonization of rabbit tissue
+increased colonization of rabbit tissue
+decreased colonization of rabbit tissue
+abolished colonization of rabbit tissue
+colonization of tissue in an immunocompromised rabbit phenotype
+presence of colonization of tissue in an immunocompromised rabbit
+absence of colonization of tissue in an immunocompromised rabbit
+altered colonization of tissue in an immunocompromised rabbit
+increased colonization of tissue in an immunocompromised rabbit
+decreased colonization of tissue in an immunocompromised rabbit
+abolished colonization of tissue in an immunocompromised rabbit
+altered cell motility by swarming
+altered cell motility by swimming
+agar invasion phenotype
+presence of agar invasion
+absence of agar invasion
+altered agar invasion
+increased agar invasion
+decreased agar invasion phenotype
+abolished agar invasion
+protein localization phenotype
+altered protein localization
+presence of protein localization
+absence of protein localization
+cell lysis phenotype
+absence of cell lysis
+presence of cell lysis
+altered cell lysis
+decreased cell lysis
+abolished cell lysis
+increased cell lysis
+organic aromatic compound resistance phenotype
+altered organic aromatic compound resistance
+decreased resistance to organic aromatic compounds
+abolished resistance to organic aromatic compounds
+increased resistance to organic aromatic compounds
+not resistant to organic aromatic compounds
+resistant to organic aromatic compounds
+presence of mating
+absence of mating
+altered mating
+increased mating
+decreased mating
+abolished mating
+mating efficiency phenotype
+altered mating efficiency
+increased mating efficiency
+decreased mating efficiency
+abolished mating efficiency
+osmotaxis phenotype
+presence of osmotaxis
+absence of osmotaxis
+presence of positive osmotaxis
+presence of negative osmotaxis
+abolished osmotaxis
+absence of negative osmotaxis
+abolished negative osmotaxis
+absence of positive osmotaxis
+abolished positive osmotaxis
+altered osmotaxis
+decreased osmotaxis
+sporulation frequency phenotype
+increased osmotaxis
+increased negative osmotaxis
+increased positive osmotaxis
+sexual sporulation frequency
+altered sexual sporulation frequency
+increased sexual sporulation frequency
+decreased sexual sporulation frequency
+abolished sexual sporulation frequency
+tail morphology phenotype
+presence of tail
+presence of short tail
+presence of normal tail
+capsid morphology phenotype
+presence of long tail
+presence of contractile tail
+presence of non - contractile tail
+presence of a single tail
+presence of multiple tails
+absence of tail
+pseudo tail morphology phenotype
+polyhedral shape
+icosahedral capsid shape
+isometric capsid
+octahedral capsid
+dodecahedral capsid shape
+secondary metabolite production phenotype
+altered chromosome segregation
+altered homologous recombination
+altered gene silencing
+increased budding
+altered site - specific recombination
+decreased budding
+altered heterocyst formation
+photosynthesis phenotype
+altered myxospore formation
+altered pilus phenotype
+lantibiotic resistance phenotype
+decreased resistance to lantibiotic
+altered transposable element transposition phenotype
+increased resistance to lantibiotic
+presence of transposable element transposition
+absence of transposable element transposition
+altered aminoglycoside resistance
+altered aminopyrimidine resistance
+altered azole resistance
+altered bacteriocin resistance
+altered beta - lactam resistance
+nutrient utilization phenotype
+carbon source utilization phenotype
+presence of organic carbon source utilization
+altered chloramphenicol resistance
+nitrogen source utilization phenotype
+bacteriocin resistance phenotype
+azole antimicrobial agent resistance phenotype
+quinolone resistance phenotype
+dinitrogen utilization phenotype
+altered resistance to macrolide
+altered pteridine resistance
+altered lifespan phenotype
+altered stress - induced mutagenesis
+altered budding
+decreased resistance to macrolide
+increased resistance to macrolide
+not resistant to macrolide
+resistant to macrolide
+decreased resistance to quinolone
+increased resistance to quinolone
+not resistant to quinolone
+resistant to quinolone
+decreased resistance to beta - lactam
+increased resistance to beta - lactam compound
+not resistant to beta - lactam
+resistant to beta - lactam
+decreased resistance to bacteriocin
+increased resistance to bacteriocin
+not resistant to bacteriocin
+resistant to bacteriocin
+decreased resistance to azole
+increased resistance to azole compound
+not resistant to azole
+resistant to azole
+aminoglycoside antimicrobial agent resistance phenotype
+decreased resistance to aminoglycoside
+increased resistance to aminoglycoside
+not resistant to aminoglycoside
+resistant to aminoglycoside
+decreased resistance to tetracycline
+tetracycline resistance phenotype
+increased resistance to tetracycline
+not resistant to tetracycline
+resistant to tetracycline
+chloramphenicol resistance phenotype
+decreased resistance to chloramphenicol
+increased resistance to chloramphenicol
+not resistant to chloramphenicol
+resistant to chloramphenicol
+altered mutation frequency
+not resistant to lantibiotic
+resistant to lantibiotic
+increased resistance to pteridine
+not resistant to pteridine
+resistant to pteridine
+altered catalase test result
+decarboxylase negative
+altered decarboxylase test result
+decarboxylase positive
+increased decarboxylase activity
+decreased decarboxylase activity
+altered oxidase test result
+oxidase negative
+oxidase positive
+increased oxidase activity
+decreased oxidase activity
+altered urease test result
+urease positive
+urease negative
+increased urease activity
+decreased urease activity
+altered quorum sensing phenotype
+abolished decarboxylase activity
+abolished enzymatic activity
+abolished oxidase activity
+abolished urease activity
+abolished aerotaxis
+abolished budding
+abolished motility by swimming
+abolished caffeine resistance
+abolished capsule formation
+abolished organic carbon source utilization
+abolished catalase activity
+antimicrobial peptide production phenotype
+altered antimicrobial peptide production
+presence of outer membrane vesicles
+abolished chemotaxis
+absence of outer membrane vesicles
+abolished endospore formation
+abolished chromosome segregation
+abolished gene silencing
+abolished homologous recombination
+abolished site - specific recombination
+abolished gene expression
+abolished population growth at acidic ph
+abolished population growth at alkaline ph
+decreased antimicrobial peptide production
+abolished hemolysis
+abolished heterocyst formation
+abolished induced expression of the sos response
+abolished uninduced expression of the sos response
+abolished mitotic recombination
+abolished mutation frequency
+abolished myxospore formation
+altered dna supercoiling
+abolished negative dna supercoiling
+abolished positive dna supercoiling
+absence of negative supercoiling
+absence of positive supercoiling
+abolished flagella
+abolished number of pili
+abolished purine requirement
+abolished quorum sensing
+abolished biofilm formation
+abolished transposition
+abolished resistance to aminoglycoside
+abolished resistance to aminopyrimidine
+abolished resistance to azole
+abolished resistance to bacteriocin
+abolished resistance to beta - lactam
+abolished resistance to chloramphenicol
+abolished resistance to lantibiotic
+abolished resistance to macrolide
+abolished resistance to pteridine
+abolished resistance to quinolone
+abolished resistance to tetracycline
+abolished stress - induced mutagenesis
+abolished utilization of dinitrogen
+abolished utilization of inorganic nitrogen
+abolished utilization of inorganic phosphorus
+abolished utilization of inorganic sulfur
+abolished utilization of organic nitrogen
+abolished utilization of organic phosphorus
+abolished utilization of organic sulfur
+altered outer membrane vesicles
+abolished vitamin / enzyme cofactor requirement
+increased outer membrane vesicle production
+decreased outer membrane vesicle production
+abolished outer membrane vesicle
+altered endospore formation
+altered nanotube phenotype
+presence of heme utilization
+altered colony size phenotype
+cylindrical akinete
+presence of binary fission
+abolished motility by swarming
+altered binary fission
+increased binary fission
+decreased binary fission
+abolished binary fission
+increased antimicrobial peptide production
+presence of multiple fission
+altered multiple fission
+decreased multiple fission
+increased multiple fission
+abolished multiple fission
+abolished antimicrobial peptide production
+presence of antimicrobial peptide production
+absence of antimicrobial peptide production
+abolished motility
+altered motility
+decreased positive supercoiling
+increased positive supercoiling
+decreased resistance to pteridine
+decreased negative chemotaxis
+population phenotype
+nutrient import phenotype
+decreased population growth at acidic ph
+increased population growth at acidic ph
+decreased population growth at alkaline ph
+increased population growth at alkaline ph
+presence of inorganic carbon source utilization
+inorganic nitrogen source utilization phenotype
+organic nitrogen source utilization phenotype
+altered nutrient import phenotype
+decreased nutrient import
+abolished nutrient import
+does not require growth factor ( s )
+increased amino acid requirement
+increased biofilm formation
+decreased amino acid requirement
+decreased purine requirement
+increased purine requirement
+increased vitamin / enzyme cofactor requirement
+decreased vitamin / enzyme cofactor requirement
+decreased biofilm formation
+increased quorum sensing
+decreased quorum sensing
+decreased utilization of dinitrogen
+increased utilization of dinitrogen
+presence of dinitrogen utilization
+decreased utilization of inorganic nitrogen source
+increased utilization of inorganic nitrogen source
+utilization of inorganic nitrogen phenotype
+decreased organic nitrogen source utilization
+increased organic nitrogen source utilization
+utilization of organic nitrogen phenotype
+amino acid requirement
+purine requirement
+vitamin / enzyme cofactor requirement
+decreased positive chemotaxis
+sulfur source utilization phenotype
+phosphorus source utilization phenotype
+growth factor requirement phenotype
+inorganic phosphorus source utilization
+organic phosphorus source utilization
+decreased utilization of inorganic phosphorus source
+increased utilization of inorganic phosphorus source
+utilization of inorganic phosphorus phenotype
+decreased utilization of organic phosphorus source
+increased utilization of organic phosphorus source
+utilization of organic phosphorus
+increased positive chemotaxis
+increased negative chemotaxis
+decreased utilization of inorganic sulfur
+increased utilization of inorganic sulfur
+presence of inorganic sulfur utilization
+decreased utilization of organic sulfur source
+increased utilization of organic sulfur
+presence of organic sulfur utilization
+iron source utilization phenotype
+increased heterocyst formation
+increased myxospore formation
+phototrophic phenotype
+pteridine resistance phenotype
+asexual reproduction phenotype
+binary fission phenotype
+multiple fission phenotype
+requires growth factor ( s )
+decreased organic carbon source utilization
+increased organic carbon source utilization
+anaerobic respiration phenotype
+fermentation phenotype
+increased growth factor requirement
+decreased growth factor requirement
+altered aerotaxis
+altered chemotaxis
+altered carbon source utilization
+altered growth factor requirement
+altered gene expression
+altered purine requirement
+altered vitamin / enzyme cofactor requirement
+altered cell size
+decreased cell length
+altered microbial phenotype
+altered sulfur source utilization phenotype
+altered iron source utilization
+altered heme utilization phenotype
+abolished heme utilization
+more rod - like cell shape
+decreased motility by gliding
+decreased motility by swarming
+decreased motility by swimming
+decreased motility by twitching
+increased motility by gliding
+increased motility by swarming
+increased motility by swimming
+increased motility by twitching
+cylindrical cell shape
+spheroid cell shape
+altered cell shape
+more rounded cell shape
+altered cell morphology
+altered nutrient utilization
+altered flagellum
+transcription phenotype
+translation phenotype
+altered transcription
+chemotrophic phenotype
+chemolithotrophic
+chemoorganotrophic
+respiration phenotype
+ferrous iron  ( fe2 +  )  oxidation
+sulfide  ( h2s )  oxidation
+altered population growth rate
+altered cell stalk
+increased transcription
+decreased transcription
+abolished transcription
+decreased transcription of sigma - factor dependent genes
+increased transcription of sigma - factor dependent genes
+altered translation
+increased translation
+decreased translation
+abolished translation
+viscous colony consistency
+altered taxis
+altered cell arrangement
+altered outer membrane vesicle production
+differential test phenotype
+altered differential test result
+decreased flagellum length
+altered capsule phenotype
+altered resistance to an antimicrobial agent
+not resistant to alkaloid
+resistant to alkaloid
+altered alkaloid resistance
+altered effects of ph on population growth
+altered lantibiotic resistance phenotype
+schizogeny phenotype
+presence of schizogeny
+asexual sporulation phenotype
+presence of asexual sporulation
+altered asexual reproduction
+altered asexual sporulation
+altered schizogeny
+altered dna replication
+cytokinesis phenotype
+septation phenotype
+abolished motility by gliding
+altered colony pigmentation
+persister cell phenotype
+altered persister cell phenotype
+increased frequency of persister cells
+decreased frequency of persister cells
+population growth rate phenotype
+altered population growth
+altered response to stress phenotype
+altered response to radiation stress
+altered colony morphology
+regulation phenotype
+gene expression regulation phenotype
+transcription regulation phenotype
+translation regulation phenotype
+altered septation
+altered cytokinesis
+population growth phenotype
+abolished septation
+antimicrobial peptide resistance phenotype
+altered resistance to host defense peptides
+resistant to host defense peptide
+not resistant to host defense peptide
+decreased resistance to host defense peptides
+increased resistance to host defense peptides
+presence of aerobic respiration
+absence of aerobic respiration
+altered aerobic respiration
+increased aerobic respiration
+decreased aerobic respiration
+abolished aerobic respiration
+presence of anaerobic respiration
+absence of anaerobic respiration
+altered anaerobic respiration
+increased anaerobic respiration
+decreased anaerobic respiration
+abolished anaerobic respiration
+quality  ( interim )
+altered_process_quality
+altered_relative_to
+altered dinitrogen utilization
+absence of dinitrogen utilization
+effect of non - nutrient environmental factors on population growth phenotype
+altered_physical_object_quality
+biological process phenotype
+chemical resistance phenotype
+altered akinete formation
+cellular component phenotype
+presence of resistance to uv - a radiation
+presence of resistance to uv - b radiation
+presence of resistance to uv - c radiation
+decreased resistance to uv - c radiation
+abolished resistance to uv - c radiation
+altered gene expression regulation
+decreased resistance to uv - a radiation
+decreased resistance to uv - b radiation
+increased resistance to uv - a
+increased resistance to uv - b
+increased resistance to uv - c
+presence of reca - mediated homologous recombination
+presence of lambda red - mediated recombination
+altered trace element utilization
+altered phosphorus source utilization
+altered inorganic phosphorus source utilization
+altered organic phosphorus source utilization
+rifamycin resistance phenotype
+altered rifamycin resistance
+not resistant to rifamycin
+resistant to rifamycin
+decreased resistance to rifamycin
+increased resistance to rifamycin
+abolished resistance to rifamycin
+growth rate control of transcription
+decreased spore germination efficiency
+endospore location phenotype
+central location of endospore
+terminal location of endospore
+swollen sporangium
+endospore morphology phenotype
+endospore external encapsulating structure phenotype
+endospore exosporium phenotype
+presence of an exosporium
+absence of an exosporium
+absence of binary fission
+absence of budding
+absence of multiple fission
+absence of asexual sporulation
+bacteriophage sensitivity phenotype
+sensitive to bacteriophage
+not sensitive to bacteriophage
+decreased bacteriophage absorption
+post - injection defect
+altered host - virus interaction
+altered bacteriophage sensitivity
+decreased sensitivity to bacteriophage
+abolished sensitivity to bacteriophage
+not resistant to a chemical
+resistant to a chemical
+altered resistance to chemical
+decreased resistance to a chemical
+increased resistance to a chemical
+abolished chemical sensitivity
+colonization of a host phenotype
+presence of colonization of a host
+absence of colonization of a host
+altered colonization of a host
+increased colonization of a host
+decreased colonization of a host
+abolished colonization of a host
+microbial cell viability phenotype
+altered microbial cell viability
+decreased cell viability
+increased cell viability
+drug - dependent population growth phenotype
+presence of drug - dependent population growth
+absence of drug - dependent population growth
+altered drug - dependence of population growth
+increased drug - dependence of population growth
+decreased drug - dependence of population growth
+abolished drug - dependence of population growth
+increased sensitivity to bacteriophage
+decreased absorption of bacteriocin
+bacteriocin tolerant
+mixotrophic carbon source utilization
+altered frequency of reversing direction of flagellar rotation
+increased threshold for positive chemotaxis
+disproportionation of thiosulfate
+altered protein activity phenotype
+presence of enzymatic activity
+absence of enzymatic activity
+presence of uv - radiation resistance
+absence of uv radiation resistance
+presence of virulence
+laccase activity phenotype
+presence of laccase activity
+absence of  laccase activity
+altered laccase activity
+increased laccase activity
+decreased laccase activity
+abolished laccase activity
+altered spore germination efficiency
+increased spore germination efficiency
+diazonium blue b staining phenotype
+presence of diazonium blue b staining
+absence of diazonium blue b staining
+altered diazonium blue b staining
+presence of acid - fast stain
+absence of acid - fast stain
+altered acid - fast stain
+decreased diazonium blue b staining
+increased diazonium blue b staining
+abolished diazonium blue b staining
+altered cell staining phenotype
+altered utilization of inorganic nitrogen source
+presence of inorganic nitrogen source utilization
+absence of inorganic nitrogen utilization
+cell death phenotype
+apoptosis phenotype
+absence of apoptosis
+presence of apoptosis
+altered apoptosis
+decreased apoptosis
+increased apoptosis
+population morphology phenotype
+abolished superoxide dismutase activity
+abolished protein kinase a activity
+abolished ferric reductase activity
+mucoid colony surface phenotype
+absence of mucoid colonies
+altered mucoid colony phenotype
+decreased mucoidy
+abolished mucoidy
+absence of inorganic sulfur utilization
+absence of organic sulfur utilization
+bud morphology phenotype
+altered bud morphology
+bud neck morphology
+altered bud neck morphology
+abolished apoptosis
+cellular process phenotype
+autophagy phenotype
+autophagic vesicle formation phenotype
+altered autophagic vesicle formation
+increased autophagic vesicle formation
+decreased autophagic vesicle formation
+abolished autophagic vesicle formation
+nuclear morphology phenotype
+altered nuclear morphology
+altered cell death
+altered cellular process
+altered autophagy
+nuclear position phenotype
+altered nuclear position
+protein secretion phenotype
+altered protein secretion
+increased protein secretion
+decreased protein secretion
+abolished protein secretion
+altered biological process
+altered cell development
+altered spore germination
+altered amino acid requirement
+abolished amino acid requirement
+quinone resistance phenotype
+altered cellular component phenotype
+nucleoside resistance phenotype
+resistant to a nucleoside
+not resistant to a nucleoside
+altered resistance to a nucleoside
+increased resistance to a nucleoside
+decreased resistance to a nucleoside
+abolished resistance to a nucleoside
+acridine antimicrobial agent resistance phenotype
+resistant to an acridine
+not resistant to an acridine
+altered resistance to an acridine
+increased resistance to an acridine
+decreased resistance to an acridine
+abolished resistance to an acridine
+alkylating agent resistance phenotype
+resistant to alkylating agent
+not resistant to alkylating agent
+altered resistance to an alkylating agent
+increased resistance to alkylating agent
+decreased resistance to alkylating agent
+abolished resistance to alkylating agent
+pyrimidine requirement
+benzamides resistance phenotype
+resistant to benzamides
+not resistant to benzamides
+altered resistance to benzamides
+increased resistance to a benzamide
+decreased resistance benzamides
+abolished resistance to benzamides
+altered pyrimidine requirement
+increased pyrimidine requirement
+decreased pyrimidine requirement
+abolished pyrimidine requirement
+abolished cell viability
+presence of microbial cell viability
+absence of microbial cell viability
+lethality phenotype
+presence of lethality
+absence of lethality
+altered lethality
+decreased lethality
+abolished lethality
+increased lethality
+ascospore formation phenotype
+presence of ascospore formation
+altered microbe - host interaction
+abolished resistance to killing by host
+sexual sporulation phenotype
+sexual reproduction phenotype
+absence of ascospore formation
+altered ascospore formation
+akinete morphology phenotype
+altered akinete morphology
+altered spore morphology
+mating phenotype
+conjugation phenotype
+absence of conjugation
+presence of conjugation
+altered conjugation
+decreased conjugation
+increased conjugation
+abolished conjugation
+increased akinete formation
+decreased akinete formation
+abolished akinete formation
+decreased budding frequency
+increased budding frequency
+absence of schizogeny
+increased schizogeny
+decreased schizogeny
+abolished schizogeny
+increased asexual spore formation
+decreased asexual spore formation
+abolished asexual spore formation
+altered number of flagella
+presence of sexual sporulation
+absence of sexual sporulation
+altered sexual sporulation
+increased sexual sporulation
+decreased sexual sporulation
+abolished sexual sporulation
+presence of sexual reproduction
+absence of sexual reproduction
+altered sexual reproduction
+presence of lethality in mice
+presence of lethality in immunocompromised mice
+absence of lethality in mice
+absence of lethality in immunocompromised mice
+decreased lethality in mice
+decreased lethality in immunocompromised mice
+abolished lethality in mice
+abolished lethality in immunocompromised mice
+increased lethality in mice
+increased lethality in immunocompromised mice
+presence of survival in macrophage
+population viability phenotype
+viable cell population
+nonviable cell population
+altered cell population viability
+viable vegetative cell population
+nonviable vegetative cell population
+colonization of invertebrate host phenotype
+presence of flocculation
+absence of flocculation
+altered flocculation
+increased flocculation
+decreased flocculation
+abolished flocculation
+altered liquid culture morphology
+altered population morphology
+increased ascospore formation
+decreased ascospore formation
+abolished ascospore formation
+phenolic antimicrobial agent resistance phenotype
+resistant to phenols
+not resistant to phenols
+altered resistance to phenols
+increased resistance to phenols
+decreased resistance to phenols
+abolished resistance to phenols
+quaternary ammonium salts antimicrobial agent resistance phenotype
+resistant to quaternary ammonium salt antimicrobial agent
+not resistant to quaternary ammonium salt antimicrobial agent
+altered resistance to quaternary ammonium salt antimicrobial agent
+increased resistance to quaternary ammonium salt antimicrobial agent
+decreased resistance to quaternary ammonium salt antimicrobial agent
+abolished resistance to quaternary ammonium salt antimicrobial agent
+absence of  motility by gliding
+absence of motility by swarming
+absence of motility by swimming
+absence of motility by twitching
+altered motility by gliding
+altered cell motility by twitching
+abolished motility by twitching
+epoxide resistance phenotype
+resistant to an epoxide
+not resistant to an epoxide
+altered epoxide resistance
+increased resistance to an epoxide
+decreased resistance to an epoxide
+abolished resistance to an epoxide
+altered capsule morphology
+altered capsule size
+increased capsule size
+decreased capsule size
+titan cell morphology phenotype
+presence of titan cells
+absence of titan cells
+altered titan cell morphology
+altered titan cell formation
+ascospore morphology phenotype
+altered ascospore morphology
+altered endospore morphology
+decreased negative osmotaxis
+decreased positive osmotaxis
+population growth in high osmolarity phenotype
+presence of population growth in high osmolarity
+absence of population growth in high osmolarity
+altered population growth in high osmolarity
+increased population growth in high osmolarity
+decreased population growth in high osmolarity
+abolished population growth in high osmolarity
+altered population growth range
+presence of lethality in an invertebrate host
+absence of lethality in an invertebrate host
+altered lethality in an invertebrate host
+altered lethality in an amoeba host
+presence of lethality in an amoeba host
+absence of lethality in an amoeba host
+decreased lethality in an amoeba host
+increased lethality in an amoeba host
+abolished lethality in an amoeba host
+urea derivative resistance phenotype
+resistant to a urea derivative
+not resistant to a urea derivative
+altered resistance to a urea derivative
+increased resistance to a urea derivative
+decreased resistance to a urea derivative
+abolished resistance to a urea derivative
+virus phenotype
+virion morphology phenotype
+haploid fruiting phenotype
+presence of haploid fruiting
+absence of haploid fruiting
+altered  haploid fruiting
+increased haploid fruiting
+decreased haploid fruiting
+abolished haploid fruiting
+altered biological process phenotype
+altered population growth  -  duplicate term
+increased rate of haploid fruiting
+decreased rate of haploid fruiting
+clamp cell morphology phenotype
+titan cell formation phenotype
+multicellular microorganism morphology phenotype
+hyphal morphology phenotype
+filamentous growth of a multicellular organism phenotype
+clamp cell formation phenotype
+conidiation phenotype
+meiotic nuclear division phenotype
+presence of meiotic nuclear division
+absence of meiotic nuclear division
+altered meiotic nuclear division
+abolished meiotic nuclear division
+abolished meiosis i
+abolished meiosis ii
+resistance to stress phenotype
+resistance to oxidative stress phenotype
+presence of resistance to oxidative stress
+absence of resistance to oxidative stress
+altered resistance to stress
+resistance to ph shock phenotype
+resistance to alkaline ph stress phenotype
+resistance to dessication stress phenotype
+resistance to radiation stress phenotype
+resistance to chemical stress phenotype
+resistance to cold shock phenotype
+resistance to heat shock phenotype
+presence of resistance to cold shock
+absence of resistance to cold shock
+altered resistance to cold shock
+presence of resistance to heat shock
+absence of resistance to heat shock
+altered resistance to heat
+altered resistance to chemical stress
+increased resistance to cold shock
+decreased resistance to cold shock
+abolished resistance to cold shock
+increased resistance to heat
+decreased resistance to heat shock
+abolished resistance to heat shock
+resistance to freeze - thaw stress phenotype
+altered resistance to radiation stress
+presence of population growth
+absence of population growth
+increased population growth
+decreased population growth
+abolished population growth
+presence of chromosome segregation
+absence of chromosome segregation
+dna break phenotype
+presence of dna breaks
+absence of dna breaks
+altered frequency of dna breaks
+increased frequency of dna breaks
+decreased frequency of dna breaks
+abolished dna breaks
+presence of single - strand dna breaks
+presence of double - strand dna breaks
+absence of single - strand dna breaks
+absence of double - strand dna breaks
+increased frequency of single - strand dna breaks
+increased frequency of double - strand dna breaks
+decreased frequency of single - strand dna breaks
+decreased frequency of double - strand dna breaks
+holliday junction structure phenotype
+presence of holliday junction structures
+absence of holliday junction structures
+altered frequency of holliday junction structures
+increased frequency of holliday junction structures
+decreased frequency of holliday junction structures
+abolished holliday junction structures
+presence of chitin in cell wall
+absence of chitin in cell wall
+altered cell wall chitin level
+increased cell wall chitin level
+decreased cell wall chitin level
+abolished chitin in cell wall
+altered cell wall protein level
+increased cell wall protein level
+cell phenotype
+cellular physical quality phenotype
+altered level of substance in cell
+altered protein level
+altered polysaccharide level
+altered cellular physical quality phenotype
+altered cell phenotype
+decreased cell wall protein level
+abolished cell wall protein level
+population growth yield phenotype
+altered population growth yield
+increased population growth yield
+decreased population growth yield
+microbial lifestyle phenotype
+free - living lifestyle phenotype
+attached lifestyle phenotype
+presence of an attached lifestyle
+mitomycin resistance phenotype
+altered mitomycin resistance
+increased resistance to mitomycin
+decreased resistance to mitomycin
+abolished resistance to mitomycin
+level of cellular reactive oxygen species phenotype
+altered level of cellular reactive oxygen species
+increased level of cellular reactive oxygen species
+increased cell width
+decreased cell width
+bulging cell morphology
+filamenting cell morphology
+presence of transport
+absence of transport
+altered transport
+increased transport
+decreased transport
+abolished transport
+molecular function phenotype
+transporter activity phenotype
+presence of transporter activity
+absence of transporter activity
+altered transporter activity
+decreased transporter activity
+increased transporter activity
+abolished transporter activity
+terminal phenotype
+cell growth phenotype
+presence of cell growth
+absence of cell growth
+altered cell growth
+decreased cell growth
+increased cell growth
+abolished cell growth
+vegetative cell growth phenotype
+presence of vegetative cell growth
+absence of vegetative cell growth
+altered vegetative cell growth
+increased vegetative cell growth
+decreased vegetative cell growth
+abolished vegetative cell growth
+cell population phenotype
+nonviable spore population
+decreased cell population viability
+increased cell population viability
+cell population viability phenotype
+viable spore population
+increased vegetative cell length
+altered vegetative cell shape
+more convex colony
+conjugation without glucose starvation
+conjugation without nitrogen starvation
+branching of vegetative cell
+altered vegetative cell size
+curving vegetative cell
+altered vegetative cell morphology
+viable vegetative cell
+decreased viability of vegetative microbial cell
+abolished viability of vegetative microbial cell
+decreased cell volume
+decreased vegetative cell volume
+increased vegetative cell diameter
+decreased vegetative cell length
+altered vegetative cell viability
+nonviable after spore germination
+abolished spore viability
+tapering vegetative cell
+altered mitotic cell cycle
+altered vegetative cell population viability
+decreased vegetative cell population viability
+abolished vegetative cell population viability
+septation index phenotype
+altered septation index
+decreased septation index
+increased septation index
+more irregular colony margin
+germ tube morphology phenotype
+altered germ tube morphology
+elongated germ tube morphology
+vegetative cell lysis phenotype
+presence of vegetative cell lysis
+absence of vegetative cell lysis
+altered vegetative cell lysis
+vegetative cell phenotype
+altered vegetative cell phenotype
+altered actin cytoskeleton morphology during vegetative growth
+cellular physical quality phenotype during vegetative growth
+altered cellular physical quality phenotype during vegetative growth
+subcellular component phenotype
+altered subcellular component phenotype
+altered cytoskeleton
+altered actin cytoskeleton
+cytoskeleton phenotype
+altered actin cytoskeleton during vegetative growth
+stubby vegetative cell
+more rounded vegetative cell
+actin cytoskeleton phenotype
+microtubule cytoskeleton phenotype
+altered microtubule cytoskeleton
+presence of microtubule cytoskeleton
+absence of microtubule cytoskeleton
+altered microtubule cytoskeleton morphology
+altered actin cortical patch localization
+subcellular component phenotype during vegetative growth
+altered subcellular component phenotype during vegetative growth
+altered septum during vegetative growth
+altered septum morphology during vegetative growth
+multiseptate vegetative cell
+presence of population growth at alkaline ph
+altered vegetative population growth
+presence of population growth on defined medium
+population growth on defined medium phenotype
+altered population growth on defined medium
+decreased population growth on defined medium
+abolished population growth on defined medium
+increased population growth on defined medium
+absence of population growth on defined medium
+absence of microbial vegetative cell viability
+septation following abnormal chromosome segregation during vegetative growth
+cut cell
+cellular process phenotype during vegetative growth
+altered cellular process during vegetative growth
+absence of cellular process during vegetative growth
+altered cell separation after cell division during vegetative growth
+abolished cell separation after cell division during vegetative growth
+decreased frequency of cell separation after cell division during vegetative growth
+dispersed actin cortical patch localization
+absence of cell separation after cell division during vegetative growth
+presence of vegetative cell population growth
+cell population growth phenotype
+vegetative cell population growth phenotype
+decreased vegetative cell population growth at high temperature
+increased vegetative cell population viability
+increased cell population viability upon starvation
+increased cell population viability upon nitrogen starvation
+decreased cell population viability upon nitrogen starvation
+altered cell population growth
+cellular pigment accumulation phenotype
+presence of cellular pigment accumulation
+presence of cellular pigment accumulation during vegetative growth
+altered cellular pigment accumulation
+increased cellular pigment accumulation
+decreased cellular pigment accumulation
+decreased cellular pigment accumulation during vegetative growth
+absence of cellular pigment accumulation
+absence of cellular pigment accumulation during vegetative growth
+nitrofuran resistance phenotype
+resistant to nitrofuran
+not resistant to nitrofuran
+altered nitrofuran resistance
+decreased resistance to nitrofuran
+abolished resistance to nitrofuran
+increased resistance to nitrofuran
+sulfonamide antimicrobial agent resistance phenotype
+resistant to sulfonamide antimicrobial agent
+not resistant to a sulfonamide antimicrobial agent
+altered resistance to a sulfonamide antimicrobial agent
+increased resistance to sulfonamide
+decreased resistance to sulfonamde
+abolished resistance to sulfonamide
+spore viability phenotype
+viable spore
+nonviable spore
+altered spore viability
+decreased spore viability
+increased spore viability
+increased viability of vegetative microbial cell
+presence of germ tube
+absence of germ tube
+curved germ tube morphology
+unseptated germ tube
+organic cyclic antimicrobial agent resistance phenotype
+fosfomycin resistance phenotype
+phenolic chemical resistance phenotype
+mixotrophic energy metabolism
+increased inorganic carbon source utilization
+decreased inorganic carbon source utilization
+abolished inorganic carbon source utilization
+fosmidomycin antimicrobial agent resistance phenotype
+presence of fosfomycin resistance
+absence of fosfomycin resistance
+altered fosfomycin resistance
+increased resistance to fosfomycin
+decreased resistance to fosfomycin
+abolished fosfomycin resistance
+resistant to an antimicrobial agent
+not resistant to an antimicrobial agent
+increased resistance to an antimicrobial agent
+decreased resistance to an antimicrobial agent
+abolished resistance to an antimicrobial agent
+host defense peptides resistance phenotype
+abolished resistance to host defense peptides
+abolished chemical resistance
+resistant to a metal
+not resistant to a metal
+decreased resistance to a metal
+abolished resistance to a metal
+increased resistance to a metal
+altered resistance to a metal
+metal resistance phenotype
+surfactant resistance phenotype
+resistant to a surfactant
+not resistant to a surfactant
+altered resistance to a surfactant
+increased resistance to a surfactant
+decreased resistance to a surfactant
+abolished resistance to a surfactant
+bile acids resistance phenotype
+resistant to bile acids
+not resistant to bile acids
+altered resistance to bile acids
+increased resistance to bile acids
+decreased resistance to bile acids
+abolished resistance to bile acids
+presence of biofilm formation
+absence of biofilm formation
+decreased vegetative cell width
+increased anaerobic population growth
+decreased anaerobic population growth
+commonly used descriptors
+decreased microaerophilic population growth
+increased microaerophilic population growth
+altered population phenotype
+resistance to nutrient limitation stress phenotype
+presence of resistance to nutrient limitation
+absence of resistance to nutrient limitation
+altered resistance to nutrient limitation
+increased ploidy in a vegetative microbial cell
+increased spontaneous diploidization in a vegetative microbial cell
+presence of population growth at acidic ph
+absence of population growth at acidic ph
+presence of growth at alkaline ph
+absence of growth at alkaline ph
+presence of population growth at high temperature
+absence of population growth at high temperature
+altered population growth at high temperature
+presence of cell population growth during nutrient limitation
+absence of cell population growth during nutrient limitation
+cell population growth during nutrient limitation phenotype
+altered cell population growth during nutrient limitation
+increased population growth during nutrient limitation
+decreased cell population growth during nutrient limitation
+abolished population growth during nutrient limitation
+tolerance to an antimicrobial agent phenotype
+altered tolerance to an antimicrobial agent phenotype
+increased tolerance to an antimicrobial agent
+decreased tolerance to an antimicrobial agent
+spore morphology phenotype
+endospore germ cell wall phenotype
+absence of an endospore germ cell wall
+presence of an endospore germ cell wall
+endospore core phenotype
+absence of the endospore core
+presence of a core
+endospore coat phenotype
+absence of an endospore coat
+presence of an endospore coat
+outer endospore membrane phenotype
+absence of an outer endospore membrane
+presence of an outer endospore membrane
+endospore internal structure phenotype
+inner endospore membrane phenotype
+absence of an inner endospore membrane
+presence of an inner endospore membrane
+endospore formation stopped at stage 0
+interrupted endospore formation
+endospore formation stopped at stage ii
+endospore formation stopped at stage iii
+endospore formation stopped at stage iv
+endospore formation stopped at stage v
+endospore formation stopped at stage vi
+endospore cortex phenotype
+absence of an endospore cortex
+presence of a cortex
+altered endospore coat
+genetic transfer phenotype
+altered endospore cortex
+altered endospore germ cell wall
+altered exosporium
+altered outer membrane
+altered core
+altered inner endospore membrane
+natural competence phenotype
+absence of natural competence
+altered natural competence
+presence of natural competence
+decreased natural competence
+increased natural competence
+abolished natural competence
+plaque morphology phenotype
+plaque size phenotype
+altered plaque morphology phenotype
+altered plaque size phenotype
+plaque appearance phenotype
+altered plaque appearance
+more turbid plaque appearance
+clearer plaque appearance
+increased plaque size phenotype
+decreased plaque size phenotype
+turbid plaque appearance
+clear plaque appearance
+bull's eye plaque appearance morphology
+altered to fuzzy edge plaque appearance
+bull's eye plaque appearance
+altered to bull's eye plaque appearance
+quality
+mobility
+concentration of
+frequency
+morphology
+shape
+trophic quality
+occurrence
+spatial pattern
+deviation ( from_normal )
+amount
+size
+length
+orientation
+position
+structure
+temperature
+texture
+rate
+viability
+arrested
+irregular spatial pattern
+branched
+curved
+circular
+unbranched
+auxotrophic
+prototrophic
+regular spatial pattern
+abnormal
+normal
+absent
+present
+increased duration
+decreased duration
+delayed
+increased length
+decreased length
+increased size
+decreased size
+increased thickness
+decreased thickness
+increased volume
+decreased volume
+bent
+mislocalised
+fused with
+unfused from
+continuous
+discontinuous
+premature
+rough
+smooth
+lethal  ( sensu genetics )
+viable
+decreased rate
+increased rate
+thickness
+volume
+sharpness
+elliptic
+permeability
+permeable
+impermeable
+physical quality
+concentrated
+increased concentration
+decreased concentration
+process quality
+physical object quality
+increased temperature
+decreased temperature
+duration
+convex
+lobate
+cellular quality
+nucleate quality
+binucleate
+mononucleate
+sharp
+attachment quality
+wholeness
+broken
+detached from
+sensitivity of a process
+spherical
+delaminated
+increased sensitivity of a process
+decreased sensitivity of a process
+has number of
+lacking processual parts
+having extra processual parts
+extra or missing processual parts
+increased permeability
+decreased permeability
+curvature
+protruding
+aggregated
+dispersed
+stubby
+1 - d extent
+3 - d extent
+split
+kinked
+imperforate
+tangled
+constricted
+concave
+spheroid
+sigmoid
+has normal numbers of parts of type
+multinucleate
+surface feature shape
+organismal quality
+lacks parts or has fewer parts of type
+lacks all parts of type
+has fewer parts of type
+has extra parts of type
+concavity
+2 - d shape
+convex 3 - d shape
+concave 3 - d shape
+branchiness
+structure ,  cavities
+increased occurrence
+decreased occurrence
+altered number of
+perforate
+displaced
+molecular quality
+obclavate
+teardrop - shaped
+pointed
+3 - d shape
+increased quality
+decreased quality
+decreased process quality
+decreased object quality
+increased process quality
+increased object quality
+superelliptic
+temporal distribution quality
+offset quality
+onset quality
+lemon - shaped
+snowman - shaped
+nucleated
+complete structure
+incomplete structure
+c - shaped
+variant_of
+altered cell aspect ratio
+decreased cell aspect ratio
+increased cell aspect ratio
+altered fraction of non - constricted cells
+cell circularity phenotype
+cell aspect ratio phenotype
+cell shape variability phenotype
+altered cell shape variability phenotype
+altered cell division during cell population growth
+acid tolerance response phenotype
+cell - cell self recognition phenotype
+presence of cell - cell self recognition
+increased transcription of gene or operon
+decreased transcription of gene or operon
+abolished transcription of gene or operon
+decreased vegetative cell diameter
+cell size variability
+j - shaped

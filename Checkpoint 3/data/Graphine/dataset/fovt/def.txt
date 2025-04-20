@@ -1,0 +1,1677 @@
+a process in which a person or machine sees or detects a material entity and selects it as worthy of observation ,  and which has as output an information content entity about the selected material entity .
+a role that is borne by some material entity and is realized by the material entity being the input of an observing process .
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+a realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural ,  social or institutional contexts .
+b is a generically dependent continuant = def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+a length measurement of the body that includes the tail .
+a length measurement of the body that does not include the tail .
+a length measurement of a hind foot that includes a cutaneous appendage .
+a length measurement of a hind foot that excludes a cutaneous appendage .
+the length of a line of an ear from a helix of the outer ear to an intertragus insicusure of an ear .
+the length of a line of a femur from a medial condyle of a femur to a greater trochanter of a femur .
+the length of a line of a femur from a medial condyle of a femur to a head of a femur .
+the length of a line of a trochlea of a humerus to a proximal head of a humerus .
+the length of a line of a trochlea of a humerus to a ventral tubercle of a humerus .
+medial - lateral width of the distal end of an astragalus .
+length between the proximal - most points of the medial and lateral trochlear ridges of an astragalus .
+depth of the lateral ridge of a trochlea of an astragalus .
+depth of the medial ridge of a trochlea of an astragalus .
+length of the lateral side of an astragalus .
+length of the medial side of an astragalus .
+the length of a line between the medial - most point on the articular surface for the calcaneum on the astragalus to the lateral - most point of the trochleated head of an astragalus .
+length of the distal end of an astragalus along the cranial - caudal axis .
+the length of a talus .
+the width of a talus .
+the length of a calcaneus .
+the width of a caclcaneus .
+the length of the lateral side of a tibia .
+the width of shaft of a tibia .
+the width of the proximal end of a tibia .
+the width of the distal end of a tibia .
+the depth of the distal end of a tibia .
+the lenght of a tooth row .
+body length measured from tip of nose to cloaca .
+a measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure .
+a directive information entity that describes an intended process endpoint .
+a directive information entity that describes an action the bearer will take
+a label is a symbol that is part of some other datum and is used to either partially define  the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+software is a plan specification composed of a series of instructions that can be  \ ninterpreted by or directly executed by a processing unit .
+a quality of an information bearer that imparts the information content
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+a generically dependent continuant that is about some thing .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a dot plot is a report graph which is a graphical representation of data where each data point is represented by a single dot placed on coordinates corresponding to data point values in particular dimensions .
+a diagram that presents one or more tuples of information by mapping those tuples in to a two dimensional space in a non arbitrary way .
+a plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective .
+the curation status of the term .
+a data format specification is the information content borne by the document published defining the specification . \ nexample: the iso document specifying what encompasses an xml document ;  the instructions in a xsd file
+a data item that is an aggregate of other data items of the same type that have something in common .
+an image is an affine projection to a two dimensional surface ,  of measurements of some quality of an entity or entities repeated at regular intervals across a spatial range ,  where the measurements are represented as color and luminosity on the projected on surface .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a material entity in which a concretization of an information content entity inheres .
+a histogram is a report graph which is a statistical description of a \ ndistribution in terms of occurrence frequencies of different event classes .
+a heatmap is a report graph which is a graphical representation of data \ nwhere the values taken by a variable ( s )  are shown as colors in a \ ntwo - dimensional map .
+a dendrogram is a report graph which is a tree diagram \ nfrequently used to illustrate the arrangement of the clusters produced by a \ nclustering algorithm .
+a scatterplot is a graph which uses cartesian coordinates to display values for two variables for a set of data .
+the reason for which a term has been deprecated .
+an information content entity consisting of a two dimensional arrangement of information content entities such that the arrangement itself is about something .
+a figure that expresses one or more propositions
+a collection of information content entities intended to be understood together as a whole
+a denotator type indicates how a term should be interpreted from an ontological perspective .
+an ontology module that comprises only of asserted axioms local to the ontology ,  excludes import directives ,  and excludes axioms or declarations from external ontologies .
+an ontology module that is intended to be directly edited ,  typically managed in source control ,  and typically not intended for direct consumption by end - users .
+an ontology module that is intended to be the primary release product and the one consumed by the majority of tools .
+an ontology module that consists entirely of axioms that connect or bridge two distinct ontology modules .
+a subset ontology module that is intended to be imported from another ontology .
+an ontology module that is extracted from a main ontology module and includes only a subset of entities or axioms .
+a subset ontology that is intended as a whitelist for curators using the ontology .
+an ontology module that is intended for usage in analysis or discovery applications .
+a subset ontology that is largely comprised of a single layer or strata in an ontology class hierarchy .
+a subset of an ontology that is intended to be excluded for some purpose .
+an imported ontology module that is derived from an external ontology .
+a subset ontology that is crafted to either include or exclude a taxonomic grouping of species .
+an ontology module that contains axioms generated by a reasoner .
+an ontology module that is automatically generated ,  for example via a sparql query or via template and a csv .
+an ontology module that is automatically generated from a template specification and fillers for slots in that template .
+a subset ontology that is designed for basic applications to continue to make certain simplifying assumptions ;  many of these simplifying assumptions were based on the initial version of the gene ontology ,  and have become enshrined in many popular and useful tools such as term enrichment tools . \ n \ nexamples of such assumptions include: traversing the ontology graph ignoring relationship types using a naive algorithm will not lead to cycles  ( i .e .
+the size of a anatomical structure .
+the length of a respiratory tube .
+the size of a respiratory tube .
+the size of a tube .
+the size of a mouth .
+the size of a face .
+the length of a face .
+the size of a dentition .
+the size of a manus .
+the size of a carpal bone .
+the length of a diastema between upper central incisors .
+the length of a skeleton of pes .
+the morphology of a calcaneus .
+the morphology of a cartilage element .
+the size of a appendage girdle complex .
+the length of a long bone .
+the size of a tarsal region .
+the morphology of a forelimb zeugopod bone .
+the size of a facial skeleton .
+the size of a tarsal bone .
+the size of a long bone .
+the size of a forelimb zeugopod bone .
+the length of a pelvic complex .
+the length of a zeugopod .
+the morphology of a tarsal bone .
+the morphology of a external ear .
+the length of a forelimb zeugopod bone .
+the size of a pectoral complex .
+the size of a leg .
+the morphology of a respiratory system epithelium .
+the size of a calcaneus .
+the length of a external ear .
+the size of a ear .
+the morphology of a midface .
+the length of a midface .
+the morphology of a carpal bone .
+the size of a endoderm .
+the morphology of a embryonic tissue .
+the morphology of a bone of appendage girdle complex .
+the size of a jaw skeleton .
+the morphology of a pharyngeal arch .
+the size of a pharyngeal arch .
+the morphology of a shoulder bone .
+the size of a limb bud .
+the morphology of a footplate .
+the morphology of a skeletal system .
+the morphology of a mesenchyme .
+the morphology of a pharyngeal arch 1 .
+the size of a pharyngeal arch 1 .
+the weight of a embryo .
+the morphology of a neural crest .
+the morphology of a maxillary prominence .
+the morphology of a respiratory tract epithelium .
+the size of a respiratory tract epithelium .
+the morphology of a neural fold .
+the morphology of a head mesenchyme .
+the morphology of a limb mesenchyme .
+the morphology of a pharyngeal arch mesenchymal region .
+the morphology of a limb long bone .
+the morphology of a external ectoderm .
+the morphology of a forelimb bud .
+the size of a forelimb bud .
+the morphology of a hindlimb bud .
+the size of a hindlimb bud .
+the size of a head mesenchyme .
+the quality of a anatomical entity .
+the length of a manus .
+the length of a pes .
+the morphology of a endochondral bone .
+the quality of a endochondral bone .
+the quality of a appendage .
+the size of a bone element .
+the quality of a forelimb stylopod .
+the quality of a cartilage of external ear .
+the quality of a respiratory system .
+the quality of a humerus .
+the quality of a tibia .
+the quality of a hindlimb zeugopod .
+the quality of a skull .
+the quality of a talus .
+the quality of a facial skeleton .
+the quality of a upper respiratory tract .
+the quality of a midface .
+the quality of a tarsal bone .
+the quality of a femur .
+the morphology of a ectoderm .
+the morphology of a germ layer .
+the morphology of a mesoderm .
+the morphology of a endoderm .
+the morphology of a embryo .
+the size of a head .
+the size of a external ear .
+the width of a head .
+the length of a head .
+the quality when measured in embryo .
+the morphology of a head .
+the morphology of a skull .
+the morphology of a mouth .
+the morphology of a jaw skeleton .
+the morphology of a digestive system .
+the morphology of a foregut .
+the length of a limb .
+the morphology of a forelimb .
+the morphology of a carpal region .
+the morphology of a hindlimb .
+the morphology of a tibia .
+the morphology of a femur .
+the morphology of a autopod region .
+the size of a pes .
+the height of a multicellular organism .
+the length of a multicellular organism .
+the weight of a multicellular organism .
+the size of a embryo .
+the morphology of a ear .
+the morphology of a limb .
+the morphology of a tail .
+the morphology of a head bone .
+the morphology of a respiratory system .
+the length of a tail .
+the size of a skull .
+the size of a tail .
+the morphology of a long bone .
+the morphology of a cartilage of external ear .
+the morphology of a face .
+the morphology of a forelimb stylopod .
+the morphology of a forelimb zeugopod .
+the morphology of a hindlimb stylopod .
+the morphology of a hindlimb zeugopod .
+the morphology when measured in autopod region .
+the length of a femur .
+the length of a humerus .
+the length of a tibia .
+the morphology of a prechordal plate .
+the morphology of a respiratory tube .
+the morphology of a tarsal region .
+the morphology of a talus .
+the size of a talus .
+the morphology of a facial skeleton .
+the morphology of a humerus .
+the quality of a head .
+the quality when measured in respiratory system .
+the morphology of a limb bud .
+the morphology of a neural plate .
+the morphology of a bone element .
+the length of a forelimb .
+the length of a hindlimb .
+the morphology of a appendicular skeleton .
+the morphology of a forelimb long bone .
+the morphology of a hindlimb long bone .
+the quality when measured in multicellular organism .
+the width of a multicellular organism .
+the quality of a surface structure .
+the morphology of a surface structure .
+the morphology of a appendage .
+the quality when measured in anatomical system .
+the size of a humerus .
+the size of a tibia .
+the quality of a organism subdivision .
+the size of a multicellular organism .
+the morphology of a integumental system .
+the weight of a bone element .
+the width of a humerus .
+the width of a tibia .
+the size of a femur .
+the weight of a head .
+the width of a femur .
+the weight of a forelimb .
+the weight of a hindlimb .
+the quality when measured in integumental system .
+the quality when measured in digestive system .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+a regulatory role involved with making and / or enforcing relevant legislation and governmental orders
+a role which inheres in material entities and is realized in the processes of making ,  enforcing or being defined by legislation or orders issued by a governmental body .
+a role realized through the process of supplying materials such as animal subjects ,  reagents or other materials used in an investigation .
+a data set that is produced as the output of a class prediction data transformation and consists of a data set with assigned class labels .
+is a material entity that is created or changed during material processing .
+a planned process which results in physical changes in a specified input material
+a role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation
+an entity that can bear roles ,  has members ,  and has a set of organization rules .
+a regulatory agency is a organization that has responsibility over or for  the legislation  ( acts and regulations )  for a given sector of the government .
+an objective specifiction that creates an specific output object from input materials .
+manufacturing is a process with the intent to produce a processed material which will have a function for future use .
+is the objective to manufacture a material of a certain function  ( device ) 
+manufacturer role is a role which inheres in a person or organization and which is realized by a manufacturing process .
+a data set that is produced as the output of a class discovery data transformation and consists of a data set with assigned discovered class labels .
+a planned process with the objective of collecting a specimen .
+a class prediction data transformation  ( sometimes called supervised classification )  is a data transformation that has objective class prediction .
+a objective specification to obtain a material entity for potential use as an input during an investigation .
+a support vector machine is a data transformation with a class prediction objective based on the construction of a separating hyperplane that maximizes the margin between two data sets of vectors in n - dimensional space .
+a decision tree induction objective is a data transformation objective in which a tree - like graph of edges and nodes is created and from which the selection of each branch requires that some type of logical decision is made .
+a decision tree building data transformation is a data transformation that has objective decision tree induction .
+a software that provides access to more than 100 tools for gene expression analysis ,  proteomics ,  snp analysis and common data processing tasks .
+peak matching is a data transformation performed on a dataset of a graph of ordered data points  ( e .g .
+a k - nearest neighbors is a data transformation which achieves a class discovery or partitioning objective ,  in which an input data object with vector y is assigned to a class label based upon the k closest training data set points to y ;  where k is the largest value that class label is assigned .
+a cart  ( classification and regression trees )  is a data transformation method for producing a classification or regression model with a tree - based structure .
+a data transformation which assesses how the results of a statistical analysis will generalize to an independent data set .
+a person or organization that has a manufacturer role
+is a role which inheres in a person or organization and is realized in in a planned process which provides access to training ,  materials or execution of protocols for an organization or person
+a specimen that has been intentionally physically modified .
+a label that is part of a categorical datum and that indicates the value of the data item on the categorical scale .
+a document with a set of printed or written questions with a choice of answers ,  devised for the purposes of a survey or statistical study .
+a value specification that is specifies one category out of a fixed number of nominal categories
+an information content entity that specifies a value within a classification scheme or on a quantitative scale .
+a material entity that has two or more specimens as its parts .
+a categorical value specification that is a histologic grade assigned to a tumor slide specimen according to the american joint committee on cancer  ( ajcc )  7th edition grading system .
+a categorical value specification that is a histologic grade assigned to a tumor slide specimen according to the fuhrman nuclear grading system .
+a categorical value specification that is a histologic grade assigned to a ovarian tumor .
+a histologic grade for ovarian tumor that is from a two - tier histological classification of tumors .
+a histologic grade for ovarian tumor that is from a histological classification by the world health organization  ( who )  .
+a categorical value specification that is a pathologic finding about one or more characteristics of colorectal cancer following the rules of the tnm american joint committee on cancer  ( ajcc )  version 7 classification system as they pertain to staging of the primary tumor .
+a categorical value specification that is a pathologic finding about one or more characteristics of lung cancer following the rules of the tnm american joint committee on cancer  ( ajcc )  version 7 classification system as they pertain to staging of the primary tumor .
+a categorical value specification that is a pathologic finding about one or more characteristics of renal cancer following the rules of the tnm ajcc v7 classification system as they pertain to staging of the primary tumor .
+a categorical value specification that is a pathologic finding about one or more characteristics of ovarian cancer following the rules of the tnm ajcc v7 classification system as they pertain to staging of the primary tumor .
+a categorical value specification that is a pathologic finding about one or more characteristics of colorectal cancer following the rules of the tnm ajcc v7 classification system as they pertain to staging of regional lymph nodes .
+a categorical value specification that is a pathologic finding about one or more characteristics of lung cancer following the rules of the tnm ajcc v7 classification system as they pertain to staging of regional lymph nodes .
+a categorical value specification that is a pathologic finding about one or more characteristics of renal cancer following the rules of the tnm ajcc v7 classification system as they pertain to staging of regional lymph nodes .
+a categorical value specification that is a pathologic finding about one or more characteristics of ovarian cancer following the rules of the tnm ajcc v7 classification system as they pertain to staging of regional lymph nodes .
+a categorical value specification that is a pathologic finding about one or more characteristics of colon cancer following the rules of the tnm ajcc v7 classification system as they pertain to distant metastases .
+a categorical value specification that is a pathologic finding about one or more characteristics of lung cancer following the rules of the tnm ajcc v7 classification system as they pertain to distant metastases .
+a categorical value specification that is a pathologic finding about one or more characteristics of renal cancer following the rules of the tnm ajcc v7 classification system as they pertain to distant metastases .
+a categorical value specification that is a  pathologic finding about one or more characteristics of ovarian cancer following the rules of the tnm ajcc v7 classification system as they pertain to distant metastases .
+a categorical value specification that is an assessment of the stage of a cancer according to the american joint committee on cancer  ( ajcc )  v7 staging systems .
+a categorical value specification that is an assessment of the stage of a gynecologic cancer according to the international federation of gynecology and obstetrics  ( figo )  staging systems .
+a categorical value specification that is a pathologic finding about one or more characteristics of ovarian cancer following the rules of the figo classification system .
+a categorical value specification that is an assessment of a participant's performance status  ( general well - being and activities of daily life )  .
+a performance status value specification designed by the eastern cooperative oncology group to assess disease progression and its affect on the daily living abilities of the patient .
+a performance status value specification designed for classifying patients 16 years of age or older by their functional impairment .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a material entity that has the specimen role .
+a planned process that produces output data from input data .
+is a data transformation :  leave - one - out cross - validation  ( loocv )  involves using a single observation from the original sample as the validation data ,  and the remaining observations as the training data .
+a k - means clustering is a data transformation which achieves a class discovery or partitioning objective ,  which takes as input a collection of objects  ( represented as points in multidimensional space )  and which partitions them into a specified number k of clusters .
+a hierarchical clustering is a data transformation which achieves a class discovery objective ,  which takes as input data item and builds a hierarchy of clusters .
+a dimensionality reduction is data partitioning which transforms each input m - dimensional vector  ( x_1 ,  x_2 ,   . . . ,  x_m )  into an output n - dimensional vector  ( y_1 ,  y_2 ,   . . . ,  y_n )  ,  where n is smaller than m .
+a principal components analysis dimensionality reduction is a dimensionality reduction achieved by applying principal components analysis and by keeping low - order principal components and excluding higher - order ones .
+an planned process that creates images ,  diagrams or animations from the input data .
+an objective specification to transformation input data into output data
+a partitioning data transformation is a data transformation that has objective partitioning .
+a partitioning objective is a data transformation objective where the aim is to generate a collection of disjoint non - empty subsets whose union equals a non - empty input set .
+a class discovery data transformation  ( sometimes called unsupervised classification )  is a data transformation that has objective class discovery .
+a class discovery objective  ( sometimes called unsupervised classification )  is a data transformation objective where the aim is to organize input data   ( typically vectors of attributes )  into classes ,  where the number of classes and their specifications are not known a priori .
+a class prediction objective  ( sometimes called supervised classification )  is a data transformation objective where the aim is to create a predictor from training data through a machine learning technique .
+a cross validation objective is a data transformation objective in which the aim is to partition a sample of data into subsets such that the analysis is initially performed on a single subset ,  while the other subset ( s )  are retained for subsequent use in confirming and validating the initial analysis .
+a data visualization which has input of a clustered data set and produces an output of a report graph which is capable of rendering data of this type .
+a dependent entity that inheres in a bearer by virtue of how the bearer is related to other entities
+an organismal quality inhering in a bearer by virtue of the bearer's behavior aggregate of the responses or reactions or movements in a given situation .
+a quality which inheres in a continuant .
+a quality that inheres in an entire organism or part of an organism .
+a behavioral quality inhering ina bearer by virtue of the bearer's unequal distribution of fine motor skill between its left and right hands or feet .
+handedness where the organism preferentially uses the left hand or foot for tasks requiring the use of a single hand or foot or a dominant hand or foot .
+handedness where the organism preferentially uses the right hand or foot for tasks requiring the use of a single hand or foot or a dominant hand or foot .
+handedness where the organism exhibits no overall dominance in the use of right or left hand or foot in the performance of tasks that require one hand or foot or a dominant hand or foot .
+an occurrent  [ span:occurrent ]  that exists in time by occurring or happening ,  has temporal parts and always involves and depends on some entity .
+a layer of dense irregular connective tissue that lines organs and supports the mucosa ,  as well as joins the mucosa to the bulk of underlying smooth muscle .
+a major division of the nervous system that contains nerves which connect the central nervous system  ( cns )  with sensory organs ,  other organs ,  muscles ,  blood vessels and glands .
+any portion of the organ that covers that body and consists of a layer of epidermis and a layer of dermis .
+a non - material anatomical entity of two dimensions .
+an organ of sight that includes the camera - type eyeball and supporting structures such as the lacrimal apparatus ,  the conjunctiva ,  the eyelid .
+an organ that is capable of transducing sensory stimulus to the nervous system .
+any hollow cylindrical anatomical structure containing a lumen through which substances are transported .
+major subdivision of an organism that protrudes from the body [ dos ,  caro ]  .
+the head is the anterior - most division of the body  [ go ]  .
+multi - tissue structure that is comprised of a secretory epithelial layer  ( mesothelium )  and a connective tissue layer .
+dense regular connective tissue that connects muscle to bone [ vsao ]  .
+an eye with one concave chamber .
+a tubular structure that contains ,  conveys body fluid ,  such as blood or lymph .
+a tubular structure that transports secreted or excreted substances .
+organ component adjacent to an organ cavity and which consists of a maximal aggregate of organ component layers .
+material anatomical entity that is a single connected structure with inherent 3d shape generated by coordinated expression of the organism's own genome .
+anatomical structure that performs a specific function or group of functions  [ wp ]  .
+a part of an organ that constitutes a distinct modular sub - unit .
+a multicellular structure that is a part of an organ .
+anatomical structure that is part of the respiratory system .
+the stage of development at which the animal is fully formed ,  including immaturity and maturity .
+a life cycle stage that starts with fertilization and ends with the fully formed embryo .
+end of the life of an organism .
+an section of a respiratory tract .
+any part or collection of parts of the central or peripheral nervous system .
+anatomical cluster consisting of the skeletal elements and articular elements that are part of an individual subdivision of the organism .
+the surface  ( external )  layer of ectoderm which begins to proliferate shortly after separation from the neuroectoderm .
+an anatomical structure that develops from the endoderm and the mesoderm .
+an anatomical structure that develops from the ectoderm ,  mesoderm and endoderm .
+stage succeeding embryo ,  including mature structure
+nonparenchymatous organ that primarily consists of dense connective tissue organized into a sheet which interconnects two or more organs ,  separates two or more body spaces from one another ,  or surrounds an organ or body part .
+an entire span of an organism's life ,  commencing with the zygote stage and ending in the death of the organism .
+a spatiotemporal region encompassing some part of the life cycle of an organism .
+a stage at which the organism is a single cell produced by means of sexual reproduction .
+the first few specialized divisions of an activated animal egg ;  stage consisting of division of cells in the early embryo .
+an early stage of embryonic development in animals .
+a stage defined by complex and coordinated series of cellular movements that occurs at the end of cleavage during embryonic development of most animals .
+staged defined by the formation of a tube from the flat layer of ectodermal cells known as the neural plate .
+a stage at which the ectoderm ,  endoderm ,  and mesoderm develop into the internal organs of the organism .
+a tube in the respiratory system .
+anatomical conduit that connects two adjacent body spaces  ( or a body space with the space surrounding the organism )  [ fma , modified ]  .
+the proximal portion of the digestive tract ,  containing the oral cavity and bounded by the oral opening .
+the orifice that connects the mouth to the exterior of the body .
+anatomical cavity at the start of the digestive tract that that is enclosed by the mouth .
+a fluid that is composed of blood plasma and erythrocytes .
+circulating fluid that is part of the hemolymphoid system .
+a layer of membrane around a tendon .
+organism at the blastula stage  -  an early stage of embryonic development in animals .
+the external portion of an animal body derived from ectoderm and mesoderm layers that encloses the body cavity .
+cartilage pertaining to the tibia .
+the wall of the digestive tract .
+a lining of mostly endodermal origin ,  covered in epithelium ,  which is involved in absorption and secretion .
+a mucosa that is part of a pharynx  [ automatically generated definition ]  .
+the part of the hindlimb between pelvis and the knee ,  corresponding to the femur .
+the subdivision of the musculoskeletal system that consists of all the muscles of the body [ vsao ,  modified ]  .
+tissue that surrounds the lens nucleus
+the core of the crystalline lens ,  surrounded by the cortex .
+a gland in which the principal secretory cells are serous secreting cells .
+an anatomical wall that is part of an artery  [ automatically generated definition ]  .
+a portion of organism substance that is produced by exocrine glands .
+material anatomical entity in a gaseous ,  liquid ,  semisolid or solid state ;  produced by anatomical structures or derived from inhaled and ingested substances that have been modified by anatomical structures as they pass through the body .
+non - material anatomical entity of three dimensions ,  that is generated by morphogenetic or other physiologic processes ;  is surrounded by one or more anatomical structures ;  contains one or more organism substances or anatomical structures .
+anatomical entity that has mass .
+anatomical entity that has no mass .
+multicellular ,  connected anatomical structure that has multiple organs as parts and whose parts work together to achieve some shared function .
+anatomical structure that is an individual member of a species and consists of more than one cell .
+anatomical structure which is a subdivision of a whole organism ,  consisting of components of multiple anatomical systems ,  largely surrounded by a contiguous region of integument .
+anatomical structure that consists of cell parts and cell substances and together does not constitute a cell or a tissue .
+anatomical group that has its parts adjacent to one another .
+a multicellular anatomical structure that is associated with an embryo and derived from the zygote from which it develops ,  but which does not contribute to the embryo proper or to structures that are part of the same organism after embryogenesis .
+multicellular anatomical structure that consists of many cells of one or a few types ,  arranged in an extracellular matrix such that their long - range organisation is at least partly a repetition of their short - range organisation .
+anatomical structure that has as its parts two or more portions of tissue of at least two different types and which through specific morphogenetic processes forms a single distinct structural unit demarcated by bona - fide boundaries from other distinct structural units of different types .
+portion of tissue ,  that consists of one or more layers of epithelial cells connected to each other by cell junctions and which is underlain by a basal lamina .
+unilaminar epithelium that consists of a single layer of cuboidal cells .
+unilaminar epithelium ,  which consists of a single layer of columnar cells .
+epithelium which consists of more than one layer of epithelial cells that may or may not be in contact with a basement membrane .
+unilaminar epithelium which consists of a single layer of squamous cells .
+epithelium that consists of epithelial cells not arranged in one ore more layers .
+compound organ that contains one or more macroscopic anatomical spaces .
+epithelium which consists of a single layer of epithelial cells .
+subdivision of trunk that lies between the head and the abdomen .
+the subdivision of the vertebrate body between the thorax and pelvis .
+anatomical entity that comprises the organism in the early stages of growth and differentiation that are characterized by cleavage ,  the laying down of fundamental tissues ,  and the formation of primitive organs and organ systems .
+a layer of cells produced during the process of gastrulation during the early development of the animal embryo ,  which is distinct from other such layers of cells ,  as an early step of cell differentiation .
+primary germ layer that is the outer of the embryo's three germ layers and gives rise to epidermis and neural tissue .
+primary germ layer that lies remote from the surface of the embryo and gives rise to internal tissues such as gut .
+the middle germ layer of the embryo ,  between the endoderm and ectoderm .
+anterior part of the embryonic digestive tract that develops into a mouth .
+a myogenic muscular circulatory organ found in the vertebrate cardiovascular system composed of chambers of cardiac muscle .
+the brain is the center of the nervous system in all vertebrate ,  and most invertebrate ,  animals .
+the transparent anterior portion of the fibrous coat of the eye that serves as the chief refractory structure
+transparent part of camera - type eye that helps to refract light to be focused on the retina .
+the retina is the innermost layer or coating at the back of the eyeball ,  which is sensitive to light and in which the optic nerve terminates .
+an organ that detects light .
+an organism subdivision that extends from the head to the pectoral girdle ,  encompassing the cervical vertebral column .
+paired endochondral long bone that extends between the pectoral girdle and the skeletal parts of the forelimb .
+the portion of the hindlimb that contains both the stylopod and zeugopod .
+the major preaxial endochondral bone in the posterior zeugopod [ phenoscape ]  .
+endochondral longbone connecting the pelvic girdle with posterior zeugopodium skeleton .
+anatomical cluster that consists of two or more adjacent skeletal structures ,  which may be interconnected by various types of tissue [ vsao ]  .
+a metapodium region that is part of a pes .
+the outer epithelial layer of the skin that is superficial to the dermis .
+functional system which consists of structures involved in respiration .
+an airway through which respiratory air passes in organisms .
+anatomical system that has as its parts the organs devoted to the ingestion ,  digestion ,  and assimilation of food and the discharge of residual wastes .
+organ system that passes nutrients  ( such as amino acids and electrolytes )  ,  gases ,  hormones ,  blood cells ,  etc .
+portion of connective tissue composed of adipocytes enmeshed in areolar tissue
+a subdivision of the muscular system corresponding to a subdisivision of an organism .
+the nervous system is an organ system containing predominantly neuron and glial cells .
+the central nervous system is the core nervous system that serves an integrating and coordinating function .
+anatomical system that overlaps the nervous system and is responsible for receiving and processing sensory information .
+anterior subdivision of a digestive tract .
+a portion of the respiratory and digestive tracts ;  its distal limit is the superior part of the esophagus and it connects the nasal and oral cavities with the esophagus and larynx ;  it contains the valleculae and the pyriform recesses ;  its upper limits are the nasal cavity and cranial base .
+primordia are populations of contiguous cells that are morphologically distinct and already correspond in extent to a later organ / tissue [ fbbt ,  hartenstein ,  v .  ( 2004 )  ]  .
+in the developing vertebrate ,  the neural tube is the embryo's precursor to the central nervous system ,  which comprises the brain and spinal cord .
+biological entity that is either an individual member of a biological species or constitutes the structural organization of an individual member of a biological species .
+a zone of skin that is part of a back  [ automatically generated definition ]  .
+it ascends beneath the anterior margin of the trapezius ,  distributing branches to it ,  and to the neighboring muscles and lymph glands in the neck ,  and anastomosing with the superficial branch of the descending branch of the occipital artery .
+a zone of skin that is part of a head  [ automatically generated definition ]  .
+a zone of skin that is part of a trunk  [ automatically generated definition ]  .
+joint fluid is a transudate of plasma that is actively secreted by synovial cells .
+skeletal element within the mouth  ( or in some species ,  upper part of the digestive tract )  that is composed of dentine and is used in procuring or masticating food .
+muscle tissue that consists primarily of skeletal muscle fibers .
+muscle tissue which is unstriated ,  composed primarily of smooth muscle fibers surrounded by a reticulum of collagen and elastic fibers .
+simple squamous epithelium of mesodermal origin which lines serous membranes .
+a major subdivision of an organism that is the entire part of the organism dorsal to a horizontal plane and bounded on one side by the same transverse plane .
+the organism subdivision that includes the pelvic girdle skeleton and associated soft tissue .
+muscle  ( organ )  which is a part of the pelvis .
+a muscle that is part of the region of the hindlimb between the pelvis and ankle .
+a zone of skin that is part of a pelvis  [ automatically generated definition ]  .
+a zone of skin that is part of an abdomen  [ automatically generated definition ]  .
+a zone of skin that is part of a neck  [ automatically generated definition ]  .
+a zone of skin that is part of a thorax  [ automatically generated definition ]  .
+a zone of skin that is part of a limb  [ automatically generated definition ]  .
+an organism subdivision that includes the pectoral girdle skeleton and associated soft tissue .
+anatomical system that is a multi - element ,  multi - tissue anatomical cluster that consists of the skeleton and the articular system .
+a bone that is part of the carpal skeleton .
+a phalanx that is part of a forelimb autopod [ automatically generated definition ]  .
+the collection of all skeletal elements in a free forelimb region .
+subdivision of skeleton consisting of all skeletal elements in an hindlimb region .
+subdivision of skeleton that is the collection of all skeletal elements in a manus ,  which is the distal section of the anterior forelimb skeleton consisting of the mesopodium ,  the metapodium and the acropodium  ( e .g .
+subdivision of skeleton that is the collection of all skeletal elements in a pes ,  which is the distal section of the posterior hindlimb skeleton consisting of the mesopodium ,  the metapodium and the acropodium  ( e .g .
+a bone that is part of the tarsal skeleton .
+the metatarsus or metatarsal bones are a group of five long bones in the pes located between the tarsal bones of the hind -  and mid - pes and the phalanges of the toes .
+a phalanx that is part of a hindlimb autopod [ automatically generated definition ]  .
+the postaxial bone of the proximal tarsals series [ phenoscape ]  .
+a subdivision of the head that has as parts the layers deep to the surface of the anterior surface ,  including the mouth ,  eyes ,  and nose  ( when present )  .
+a zone of skin that is part of a lip  [ automatically generated definition ]  .
+the part of the forelimb extending from the shoulder to the autopod [ cjm ]  .
+the elbow is the region surrounding the elbow - joint - the ginglymus or hinge joint in the middle of the arm .
+the hip region is located lateral to the gluteal region  ( i .e .
+a digit that is part of a pes  ( foot )  .
+a subdivision of the pectoral complex consisting of the structures in the region of the shoulder joint  ( which connects the humerus ,  scapula and clavicle )  .
+the glenohumeral joint ,  commonly known as the shoulder joint ,  is a multiaxial synovial ball and socket joint and involves articulation between the glenoid fossa of the scapula  ( shoulder blade )  and the head of the humerus  ( upper arm bone )  .
+skeletal element that is composed of bone tissue .
+a carpal bone that proximally_connected_to a forelimb zeugopod skeleton .
+any muscle organ that is part of a shoulder  [ automatically generated definition ]  .
+a zone of skin that is part of a shoulder region .
+an articular capsule  ( or joint capsule )  is an envelope surrounding a synovial joint .
+a skeletal joint that is part of a pes  [ automatically generated definition ]  .
+a joint that connects the hindlimb autopod and zeugopod skeletons .
+a skeletal joint that is part of a manus  ( hand )   [ automatically generated definition ]  .
+a joint that connects the forelimb zeugopod and stylopod skeletons [ obol ]  .
+a joint connecting the forelimb zeugopod skeleton with the carpal skeleton .
+any muscle organ that is part of a pelvic girdle  [ automatically generated definition ]  .
+any muscle organ that is part of a pes  [ automatically generated definition ]  .
+a muscle organ that is part of an arm  [ automatically generated definition ]  .
+any muscle organ that is part of a manus  [ automatically generated definition ]  .
+a zone of skin that is part of a leg  [ automatically generated definition ]  .
+a zone of skin that is part of an ankle  [ automatically generated definition ]  .
+a zone of skin that is part of a pes  [ automatically generated definition ]  .
+a zone of skin that is part of a elbow  [ automatically generated definition ]  .
+a zone of skin that is part of a wrist  [ automatically generated definition ]  .
+a zone of skin that is part of a manus  [ automatically generated definition ]  .
+the dorsal metatarsal veins are veins which drain the metatarsus of the foot .
+a zone of skin that is part of a hip region .
+a tube extending from the mouth to the anus .
+the segment of the respiratory tract that starts proximally with the nose and ends distally with the cricoid cartilage ,  before continuing to the trachea .
+one of two jugular veins that collect the blood from the brain ,  the superficial parts of the face ,  and the neck .
+the ciliary muscle is a ring of smooth muscle in the middle layer of the eye that controls the eye's accommodation for viewing objects at varying distances and regulates the flow of aqueous humour through schlemm's canal .
+organ consisting of a tissue made up of various elongated cells that are specialized to contract and thus to produce movement and mechanical work [ go ]  .
+an epithelial tube or tree of tibes that transports blood away from the heart [ modified from aeo definition ]  .
+any of the tubular branching vessels that carry blood from the capillaries toward the heart .
+the anterior facial vein  ( facial vein )  commences at the side of the root of the nose ,  and is a direct continuation of the angular vein where it also receives a small nasal branch .
+the bone at the lower ,  posterior part of the skull
+sense organ in vertebrates that is specialized for the detection of sound ,  and the maintenance of balance .
+part of the ear external to the tympanum  ( eardrum )  .
+subdivision of skeletal system that surrounds and protects the brain .
+subdivision of skeleton which includes upper and lower jaw skeletons .
+subdivision of head that consists of the upper jaw skeletal elements plus associated soft tissue  ( skin ,  lips ,  muscle )  [ cjm ]  .
+subdivision of head that consists of the lower jaw skeletal elements plus associated soft tissue  ( skin ,  lips ,  muscle )  [ cjm ]  .
+a anatomical space that is enclosed by a pharynx .
+collagen - rich odontogenic tissue characteristic of teeth and tooth - like skeletal elements  ( e .g . ,  odontodes )  ;  mature dentine is mineralized and develops from predentine tissue ;  often  ( but not always )  tubular and acellular .
+a condensation of odontoblasts that forms the part of a tooth germ that gives rise to dentin and pulp in the mature tooth .
+the space in the eye ,  filled with aqueous humor ,  and bounded anteriorly by the cornea and a small portion of the sclera and posteriorly by a small portion of the ciliary body ,  the iris ,  and part of the crystalline lens
+the pigmented middle of the three concentric layers that make up an eye ,  consisting of the iris ,  ciliary body and choroid [ wp , edited ]  .
+the adjustable membrane ,  composed of the stroma and pigmented epithelium ,  located just in front of the crystalline lens within the eye
+the smooth stratified squamous epithelium that covers the outer surface of the cornea
+opaque fibrous outer layer of the eyeball [ zfa , kardong , wp ]  .
+a skeletal muscle organ that is part of the trunk region .
+the thickened portion of the vascular tunic ,  which lies between the choroid and the iris ,  composed of ciliary muscle and ciliary processes
+vascular layer containing connective tissue ,  of the eye lying between the retina and the sclera .
+a double layer covering the ciliary body that produces aqueous humor .
+any of the layers that make up the retina [ mp ]  .
+a thick watery refractive medium that fills the space between the lens and the cornea [ wp ]  .
+any of the parts of the eye that lie in front of ,  or ventral to ,  the lens  ( inclusive ) 
+any of the parts of the eye that lie in back of ,  or dorsal to ,  the lens  ( but not inclusive ) 
+a layer of epithelial cells that is part of the eye .
+the elastic ,  clear ,  membrane - like structure ,  that is outer most layer of the lens
+one of the two fleshy folds which surround the opening of the mouth .
+lip that covers the lower portion of the mouth .
+a cartilage that is part of a external ear  [ automatically generated definition ]  .
+the midbrain is the middle division of the three primary divisions of the developing chordate brain or the corresponding part of the adult brain  ( in vertebrates ,  includes a ventral part containing the cerebral peduncles and a dorsal tectum containing the corpora quadrigemina and that surrounds the aqueduct of sylvius connecting the third and fourth ventricles )  [ go ]  .
+a segment of the developing hindbrain [ zfa ]  .
+organ component of neuraxis that has as its parts the medullary reticular formation ,  inferior olivary complex and cochlear nuclear complex ,  among other structures [ fma ]  .
+an endothelium that is part of a capillary  [ automatically generated definition ]  .
+an endothelium that is part of an arteriole  [ automatically generated definition ]  .
+an endothelium that is part of an artery  [ automatically generated definition ]  .
+an endothelium that is part of a venule  [ automatically generated definition ]  .
+an endothelium that is part of a vein  [ automatically generated definition ]  .
+ventral part of the midbrain ,  separated from the hindbrain by the isthmus [ isbn:0471888893 ]  .
+a multi - tissue structure that is part of a spinal cord .
+the liquid component of blood ,  in which erythrocytes are suspended .
+one of the minute vessels that collect deoxygenated blood from the capillary plexuses returns it to the veins
+the smallest division of the artery located between the muscular arteries and the capillaries [ go ]  .
+a vessel through which blood circulates in the body .
+any of the smallest blood vessels connecting arterioles with venules .
+a monolayer of specialized ,  flattened ,  mitochondria - rich cells that lines the posterior surface of the cornea and faces the anterior chamber of the eye [ wp ]  .
+a layer of epithelium that lines the heart ,  blood vessels  ( endothelium ,  vascular )  ,  lymph vessels  ( endothelium ,  lymphatic )  ,  and the serous cavities of the body [ mesh ]  .
+a nervous system structure composed primarily of nerve cell bodies  ( somas )  .
+the most posterior of the three principal regions of the brain .
+muscle tissue that contains fibers that are divided by transverse bands into striations .
+an interconnected tubular multi - tissue structure contains fluid that is actively transported around the organism [ zfa ]  .
+anatomical structure that is part of an embryo .
+the dermis is a layer of skin between the epidermis  ( with which it makes up the skin )  and subcutaneous tissues ,  and is composed of two layers ,  the papillary and reticular dermis [ wp ]  .
+lowermost layer of the integumentary system in vertebrates .
+an organ that is located within the body cavity  ( or in its extension ,  in the scrotum )  ;  it consists of organ parts that are embryologically derived from endoderm ,  splanchnic mesoderm or intermediate mesoderm ;  together with other organs ,  the viscus constitutes the respiratory ,  gastrointestinal ,  urinary ,  reproductive and immune systems ,  or is the central organ of the cardiovascular system .
+the postcranial subdivision of skeleton structural components forming the long axis of the vertebrate body ;  in danio ,  consisting of the notochord ,  vertebrae ,  ribs ,  supraneurals ,  intermuscular bones ,  and unpaired median fins ;  in human consists of the bones of the vertebral column ,  the thoracic cage and the pelvis [ zfa + fma ]  .
+subdivision of skeleton which which consists of all the skeletal elements in in the pectoral and pelvic appendage complexes [ cjm ]  .
+the organ covering the body that consists of the dermis and epidermis .
+the thin membranous structure between the two heart atria or the thick muscular structure between the two heart ventricles .
+organism subdivision which is the part of the body posterior to the cervical region  ( or head ,  when cervical region not present )  and anterior to the caudal region .
+a paired appendage that is evolved from a paired fin .
+a  ( free )  limb that is connected to a pectoral girdle .
+a  ( free )  limb that is connected to a pelvic girdle region .
+the sensory system subserving the sense of vision .
+sensory system responsible for the perception of spatial orientation and auditory stimuli .
+a portion of smooth muscle tissue that is part of an artery  [ automatically generated definition ]  .
+the endocardium is an anatomical structure comprised of an endothelium and an extracellular matrix that forms the innermost layer of tissue of the heart ,  and lines the heart chambers [ go ]  .
+a portion of adipose tissue that is part of the hypodermis ,  beneath the dermis .
+anatomical cluster consisting of the hematopoietic system and the lymphoid system ,  or its analogs .
+the dermis ,  epidermis and hypodermis .
+vasculature that is part of a head  [ automatically generated definition ]  .
+a vasculature that is part of a trunk  [ automatically generated definition ]  .
+vasculature that is part of the eye region .
+anatomical system that consists of the muscular and skeletal systems .
+nonsynovial joint in which the articulating bones or cartilages are connected by cartilage .
+joint in which the articulating bones or cartilages are connected by an articular capsule which encloses a synovial membrane and a synovial cavity .
+the part of the coelemic cavity lumen that is enclosed by the walls of the thorax .
+a proximal phalanx that is part of a finger  [ automatically generated definition ]  .
+part of the central nervous system located in the vertebral canal continuous with and caudal to the brain ;  demarcated from brain by plane of foramen magnum .
+endoskeletal elements that encase the brain ,  nose ,  inner ear [ cjm ]  .
+stalk - like part of the brain that includes amongst its parts the medulla oblongata of the hindbrain and the tegmentum of the midbrain [ zfa , mp , generalized ]  .
+the ridge - shaped grey matter of the spinal cord that extends longitudunally through the center of each half of the spinal cord ,  and are largely or entirely composed of nerve cell bodies and their dendrites and some supportive tissue .
+the cavity within the body of all animals higher than the coelenterates and certain primitive worms ,  formed by the splitting of the embryonic mesoderm into two layers .
+any muscle organ that is part of a back  [ automatically generated definition ]  .
+a flexible rod - shaped body found in embryos of all chordates .
+somites are spheres of epithelial cells that form sequentially along the anterior - posterior axis of the embryo through mesenchymal to epithelial transition of the presomitic mesoderm .
+anatomical system that consists of the glands and parts of glands that produce exocrine secretions and help to integrate and control bodily metabolic activity .
+a specialized region of ectoderm found between the neural ectoderm  ( neural plate )  and non - neural ectoderm and composed of highly migratory pluripotent cells that delaminate in early embryonic development from the dorsal neural tube and give rise to an astounding variety of differentiated cell types [ mp ]  .
+set of all muscles in abdomen .
+embryonic ectoderm that gives rise to nervous tissue .
+the lower segment of the trunk ,  inferioposterior to the abdomen proper ,  in the transition area between the trunk and the lower limbs .
+a gland that secretes products  ( excluding hormones and other chemical messengers )  into ducts  ( duct glands )  which lead directly into the external environment [ wp ]  .
+a bone that is part of the metacarpal skeleton .
+any skeletal muscle that is part of the head region .
+any muscle that is part of the cervical  ( neck )  region .
+muscle  ( organ )  which is a part of the abdomen .
+tissue with cells that deposit non - polarized extracellular matrix including connective tissue fibers and ground substance .
+muscle tissue is a contractile tissue made up of actin and myosin fibers [ go ]  .
+the middle limb segment of the pectoral free limb ,  between the autopod and stylopod segments .
+distal portion of the hind limb ,  including tarsal region ,  metatarsal region and digits .
+a digit that is part of a manus  ( hand )  .
+anatomical system that is involved in the production of hematopoietic cells .
+a proximal tarsal bone resulting from fusion of intermedium and fibulare .
+distal segment of the fore limb ,  including carpal region ,  metacarpal region and digits .
+an external caudal extension of the body .
+connected anatomical system that forms a barrier between an animal and its environment .
+the abdominal segment of the torso .
+skeletal tissue that is avascular ,  rich in glycosaminoglycans  ( gags )  and typically includes chondrocytes within isolated lacunae .
+a gland that is part of a skin of body  [ automatically generated definition ]  .
+an epithelium that is part of the mouth and lines the oral cavity ,  typically stratified squamous ,  and may be para -  ,  ortho -  or non -  keratinized .
+a zone of skin that is part of an arm  [ automatically generated definition ]  .
+a bone that is part of a limb  [ automatically generated definition ]  .
+a blood vessel that is part of a choroid  [ automatically generated definition ]  .
+terminal segment of free limb ,  immediately distal to the zeugopod region .
+the middle free limb segment ,  between the autopod and stylopod segments .
+the proximal free limb segment .
+skeletal tissue with a collagen - rich extracellular matrix vascularized ,  mineralized with hydroxyapatite and typically including osteocytes located in lacunae that communicate with one another by cell processes  ( in canaliculi )  .
+long bone is a limb bone that is subcylindrical and has a shaft with periosteum separating the ends of the bones .
+an epithelium that is part of a iris  [ automatically generated definition ]  .
+replacement bone that forms within cartilage .
+connective tissue composed of elastic fibers .
+the middle layer of an artery or vein .
+the innermost layer of a blood vessel which is a lining of endothelial cells facing the lumen [ kardong ]  .
+a major subdivision of a mature or developing limb ,  including both skeletal elements  ( or the mesenchyme that gives rise to the skeletal elements )  and associated tissues ,  such as muscle ,  connective tissue ,  integument .
+an organ that functions as a secretory or excretory organ
+in amniote animal embryology ,  the epiblast is a tissue type derived either from the inner cell mass in mammals or the blastodisc in birds and reptiles .
+one of a series of paired bulges that develop along the lateral walls of the foregut .
+a subdivision of the autopod that has as part a series of phalanges together with associated vasculature ,  musculature ,  integument and nerves .
+ectodermal placode that develops in the head into a part of the sensory nervous system .
+anatomical space which contains portions of one or more body substances and is bounded by the internal surface of one maximally connected anatomical structure .
+anatomical divisons of the brain according to one or more criteria ,  e .g .
+a wall ,  dividing a cavity or structure into smaller ones [ wp ]  .
+the part of the brain that is the morphological boundary between the midbrain and hindbrain and that is the location of an organizing center which patterns the midbrain and hindbrain primordia of the neural plate .
+a temporary epithelium that derives from the outer layer of the ectdoerm and is shed once the inner layer differentiates to form a true epidermis .
+the portion of neural plate anterior to the mid - hindbrain junction .
+the portion of neural plate posterior to the mid - hindbrain junction .
+unsegmented field of paraxial mesoderm present posterior to the most recently formed somite pair ,  from which somites will form .
+blood islands are structures in the developing embryo which lead to many different parts of the circulatory system .
+a horseshoe - shaped thickening of the endoderm at the cranial  ( rostral )  end of the primitive streak formed by the involution of spemann's organizer cells which ,  together with the notochord ,  induces the formation of the neural plate from the overlying ectodermal cells and contributes mesodermal type cells to the surrounding tissue
+the axial mesoderm includes the prechordal mesoderm and the chordamesoderm .
+portion of tissue that is part of the anterior neural keel and will form the optic vesicle [ zfa ]  .
+multi - tissue structure that is comprised of neural and non - neural epithelial layers which will form the retina and retinal pigmented epithelium of the mature eye [ zfa ]  .
+a thickened portion of ectoderm which serves as the precursor to the lens .
+a region of embryonic ectodermal cells that lie directly above the notochord .
+the paraxial mesoderm is the mesoderm located bilaterally adjacent to the notochord and neural tube [ go ] 
+portion of the middle of the three primary germ layers of the embryo that resides on the periphery of the embryo ,  is continuous with the extra - embryonic mesoderm ,  splits into two layers enclosing the intra - embryonic coelom ,  and gives rise to body wall structures [ mp ]  .
+a transitional population of migrating mesenchymal cells that derive from somites and that will become muscle cells .
+bilateral groups of cells consisting of three rows: one row of endocardial precursors medially and two rows of myocardical precursors laterally .
+ventral somitic compartment that is a precursor of the axial skeleton [ xao ]  .
+neural crest cells  ( nccs )  originating in the anterior part of the developing embryo and residing between the mid - diencephalon and the forming hindbrain ;  cranial nccs migrate dorsolaterally to form the craniofacial mesenchyme that differentiates into various craniofacial cartilages and bones ,  cranial neurons ,  glia ,  and connective tissues of the face ;  these cells enter the pharyngeal pouches and arches where they give rise to thymic cells ,  bones of the middle ear and jaw  ( mandible )  ,  and the odontoblasts of the tooth primordia ;  like their counterparts in the trunk ,  cranial nccs also contribute to the developing peripheral nervous system ,  along with the pigmented cell  ( i .e .
+anatomical structure that overlaps the outer epithelial layer and is adjacent to the space surrounding the organism .
+anatomical structure that has as its parts two or more multi - tissue structures of at least two different types and which through specific morphogenetic processes forms a single distinct structural unit demarcated by bona fide boundaries from other distinct anatomical structures of different types .
+portion of tissue consisting of loosely organized undifferentiated mesodermal cells that give rise to such structures as connective tissues ,  blood ,  lymphatics ,  bone ,  and cartilage [ xao ]  .
+subdivision of skeleton that includes all dermal bones in the cranial skeleton [ zfa , modified ]  .
+upper portion of the skull that excludes the mandible  ( when present in the organism )  .
+anatomical structure that is part of the head consisting entirely of cranium and mandible [ wp ]  .
+endochondral bones that are often elongate and arranged in rows of articulating elements ,  and form the visible part of the digits .
+an epithelium that is part of a elbow  [ automatically generated definition ]  .
+an epithelium that is part of a wrist  [ automatically generated definition ]  .
+an epithelium that is part of a hip  [ automatically generated definition ]  .
+an epithelium that is part of a shoulder  [ automatically generated definition ]  .
+an epithelium that is part of a upper jaw  [ automatically generated definition ]  .
+an epithelium that is part of a lower jaw  [ automatically generated definition ]  .
+an epithelium that is part of a lower arm  [ automatically generated definition ]  .
+an epithelium that is part of a footplate .
+an endoderm that is part of a foregut  [ automatically generated definition ]  .
+a calcareous tooth that is part of the lower jaw region .
+a portion of skeletal muscle tissue that is part of a eye  [ automatically generated definition ]  .
+a subdivision of the skeleton that corresponds to the upper part of the mouth .
+a subdivision of the skeleton that corresponds to the lower part of the mouth .
+a gland that is part of a foregut  [ automatically generated definition ]  .
+racemose mucous glands beneath the mucous membrane of the pharynx .
+a gland that is part of a integumental system  [ automatically generated definition ]  .
+a blood island that is part of a mesoderm .
+mesenchyme that is part of a developing camera - type eye .
+mesenchyme that is part of a developing elbow  [ automatically generated definition ]  .
+mesenchyme of the carpal region that contributes to the carpal skeleton .
+mesenchyme that is part of a developing hip  [ automatically generated definition ]  .
+mesenchyme that is part of a developing shoulder  [ automatically generated definition ]  .
+mesenchyme that is part of a developing upper jaw  [ automatically generated definition ]  .
+mesenchyme that is part of a developing lower jaw  [ automatically generated definition ]  .
+mesenchyme that is part of a developing lower arm  [ automatically generated definition ]  .
+mesenchyme that is part of a footplate .
+a mucosa that is part of a oral opening  [ automatically generated definition ]  .
+a layer of epithelial cells on the surface of the mucosa .
+an epithelium that is part of a pharynx  [ automatically generated definition ]  .
+an unilaminar epithelium that surrounds a pelvic appendage bud .
+an unilaminar epithelium that surrounds a pectoral appendage bud .
+an ectoderm that is part of a footplate .
+a portion of skeletal muscle tissue that is part of a pharynx  [ automatically generated definition ]  .
+any of the striated muscles that move the eye and include: superior rectus ,  inferior rectus ,  medial rectus ,  lateral rectus ,  superior oblique ,  inferior oblique ,  retractor bulbi
+a zone of skin that is part of a lower arm  [ automatically generated definition ]  .
+a cartilage element that is part of a respiratory system  [ automatically generated definition ]  .
+a gland that is part of a digestive tract  [ automatically generated definition ]  .
+mesenchyme that is part of a pelvic appendage bud .
+mesenchyme that is part of a pectoral appendage bud .
+an adipose tissue that is part of a dermis  [ automatically generated definition ]  .
+a bone that is part of a head  [ automatically generated definition ]  .
+a bone that is part of a neck  [ automatically generated definition ]  .
+a bone that is part of the region of the forelimb that includes the zeugopod and stylopod .
+a bone that is connected via a shoulder joint  ( i .e .
+a bone that is part of a facial skeleton  [ automatically generated definition ]  .
+a bone that is part of a trunk  [ automatically generated definition ]  .
+a bone that is part of a hindlimb region .
+a bone that is part of a lower arm  [ automatically generated definition ]  .
+an artery that is part of a respiratory system  [ automatically generated definition ]  .
+an artery that is part of a thoracic cavity [ cjm ]  .
+a vein that is part of a respiratory system  [ automatically generated definition ]  .
+the inferior labial vein is the vein receiving blood from the lower lip .
+a vein that is part of a thoracic cavity  [ automatically generated definition ]  .
+an endothelium of capillary that is part of a respiratory system  [ automatically generated definition ]  .
+a venule that is part of a respiratory system  [ automatically generated definition ]  .
+an arteriole that is part of a respiratory system  [ automatically generated definition ]  .
+a blood vessel that is part of a head  [ automatically generated definition ]  .
+a blood vessel that is part of an abdomen  [ automatically generated definition ]  .
+a blood vessel that is part of a heart  [ automatically generated definition ]  .
+a blood vessel that is part of a brain  [ automatically generated definition ]  .
+a blood vessel that is part of a cornea  [ automatically generated definition ]  .
+a blood vessel that is part of a retina  [ automatically generated definition ]  .
+a blood vessel that is part of a neck  [ automatically generated definition ]  .
+a blood vessel that is part of a leg  [ automatically generated definition ]  .
+a blood vessel that is part of a respiratory system  [ automatically generated definition ]  .
+a blood vessel that is part of an arm  [ automatically generated definition ]  .
+a blood vessel that is part of a toe  [ automatically generated definition ]  .
+a blood vessel that is part of the arterial system .
+a blood vessel that is part of a iris  [ automatically generated definition ]  .
+a blood vessel that is part of a trunk  [ automatically generated definition ]  .
+a blood vessel that is part of a limb  [ automatically generated definition ]  .
+a blood vessel that is part of a forelimb  [ automatically generated definition ]  .
+a blood vessel that is part of a hindlimb  [ automatically generated definition ]  .
+a blood vessel that is part of a thoracic cavity  [ automatically generated definition ]  .
+a blood vessel that is part of a pelvis  [ automatically generated definition ]  .
+a blood vessel that is part of a foot  [ automatically generated definition ]  .
+a blood vessel that is part of a finger  [ automatically generated definition ]  .
+a blood vessel that is part of a manus  [ automatically generated definition ]  .
+a capillary that is part of a respiratory system  [ automatically generated definition ]  .
+a gray matter that is part of a brain  [ automatically generated definition ]  .
+a zone of skin that is part of a toe  [ automatically generated definition ]  .
+a zone of skin that is part of a forelimb  [ automatically generated definition ]  .
+a zone of skin that is part of a hindlimb  [ automatically generated definition ]  .
+a zone of skin that is part of a finger  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a head  [ automatically generated definition ]  .
+a portion of connective tissue that is part of an abdomen  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a neck  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a leg  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a respiratory system  [ automatically generated definition ]  .
+a portion of connective tissue that is part of an arm  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a elbow  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a wrist  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a hip  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a toe  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a shoulder  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a dermis  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a trunk  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a limb  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a forelimb  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a hindlimb  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a thoracic cavity  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a pelvis  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a foot  [ automatically generated definition ]  .
+a portion of connective tissue that is part of an ankle  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a finger  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a hand  [ automatically generated definition ]  .
+a cartilage that is part of a neck  [ automatically generated definition ]  .
+a skin gland that is part of a camera - type eye  [ automatically generated definition ]  .
+a long bone that is part of a limb  [ automatically generated definition ]  .
+a long bone that is part of a forelimb  [ automatically generated definition ]  .
+a long bone that is part of a hindlimb  [ automatically generated definition ]  .
+the type of heart connective tissue found in the endocardial layer that consists mainly of elastic fibers .
+an elastic tissue that is part of a respiratory system  [ automatically generated definition ]  .
+an elastic tissue that is part of a circulatory system  [ automatically generated definition ]  .
+elastic tissue layer that lines a blood vessel layer .
+an arterial blood vessel that is part of a respiratory system  [ automatically generated definition ]  .
+a bone that is part of a mesopodial skeleton .
+any joint that is part of a  ( free )  limb .
+any muscle organ that is part of a hip  [ automatically generated definition ]  .
+any muscle organ that is part of a toe  [ automatically generated definition ]  .
+any muscle organ that is part of a limb  [ automatically generated definition ]  .
+any muscle organ that is part of a forelimb .
+any muscle organ that is part of a hindlimb  [ automatically generated definition ]  .
+any muscle organ that is part of a finger  [ automatically generated definition ]  .
+a collection of teeth arranged in some pattern in the mouth or other part of the body .
+the part of the ventral body cavity that is within the abdomen proper  ( excluding the pelvic cavity )  .
+in anatomy ,  in the occipital bone ,  the foramen magnum is one of the several oval or circular apertures in the base of the skull ,  through which the medulla oblongata  ( an extension of the spinal cord )  enters and exits the skull vault .
+the metacarpophalangeal joints  ( mcp )  are of the condyloid kind ,  formed by the reception of the rounded heads of the metacarpal bones into shallow cavities on the proximal ends of the first phalanges ,  with the exception of that of the thumb ,  which presents more of the characters of a ginglymoid joint .
+the metatarsophalangeal articulations are the joints between the metatarsal bones of the foot and the proximal bones of the toes  .
+the tissues that surround the organs that are present within the abdominal cavity .
+a joint of the pes that connects the talus and the calcaneus .
+portion of tissue in the nervous system which consists of neurons and glial cells ,  and may also contain parts of the vasculature .
+a mucous membrane that lines the mouth .
+a bone of the metapodial skeleton
+the part of the forelimb between pectoral region and the elbow ,  corresponding to the humerus .
+the middle limb segment of the pelvic free limb ,  between the autopod and stylopod segments .
+a bone that is part of a hindlimb stylopod  [ automatically generated definition ]  .
+a bone that is part of a thorax  [ automatically generated definition ]  .
+a bone that is part of an abdominal segment of trunk  [ automatically generated definition ]  .
+any muscle organ that is part of a thorax  [ automatically generated definition ]  .
+any muscle organ that is part of a respiratory system  [ automatically generated definition ]  .
+a muscle organ that is part of an abdominal segment of trunk  [ automatically generated definition ]  .
+a blood vessel that is part of a thorax  [ automatically generated definition ]  .
+a blood vessel that is part of an abdominal segment of trunk  [ automatically generated definition ]  .
+a skin of body that is part of an abdominal segment of trunk  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a thorax  [ automatically generated definition ]  .
+a portion of connective tissue that is part of an abdominal segment of trunk  [ automatically generated definition ]  .
+a limb joint that is part of a forelimb  [ automatically generated definition ]  .
+a limb joint that is part of a hindlimb  [ automatically generated definition ]  .
+a limb joint that is part of an autopod  [ automatically generated definition ]  .
+an anatomical space that surrounded_by a neural tube .
+epithelium that is part of a developing tooth or dental organ .
+a neural crest that has_potential_to_developmentally_contribute_to a midbrain .
+a neural crest that has_potential_to_developmentally_contribute_to a hindbrain .
+a neural crest that has_potential_to_developmentally_contribute_to a spinal cord .
+a neural plate that develops_from a future spinal cord .
+mesenchyme enclosed by a dental organ that gives rise to an odontogenic papilla .
+mesenchyme that is part of a developing forelimb  [ automatically generated definition ]  .
+mesenchyme that is part of a developing hindlimb  [ automatically generated definition ]  .
+a middle phalanx that is part of a finger  [ automatically generated definition ]  .
+a distal phalanx that is part of a finger  [ automatically generated definition ]  .
+a middle phalanx that is part of a toe  [ automatically generated definition ]  .
+a distal phalanx that is part of a pedal digit  [ automatically generated definition ]  .
+a proximal phalanx that is part of a pedal digit  [ automatically generated definition ]  .
+an anatomical cavity that has the potential to develop into a coelemic cavity lumen .
+the part of the coelom in the embryo between the somatopleuric and splanchnopleuric mesoderm ;  the principal body cavities of the trunk  ( thoracic ,  abdominal ,  and pelvic )  arise from this embryonic part of the coelom
+one of the skeletal muscles of the head and neck ,  spine ,  and ribs .
+a portion of skeletal muscle tissue in the trunk .
+the part of the retina that contains neurons and photoreceptor cells [ go ]  .
+hard bony ,  calcareous ,  or chitinous organ found in the mouth or pharynx of an animal and used in procuring or masticating food .
+epithelial tubes transport gases ,  liquids and cells from one site to another and form the basic structure of many organs and tissues ,  with tube shape and organization varying from the single - celled excretory organ in caenorhabditis elegans to the branching trees of the mammalian kidney and insect tracheal system .
+any endothelium that has the quality of being cylindrical  [ automatically generated definition ]  .
+a blood vessel that carries blood from the capillaries toward the heart
+a duct that is part of a digestive system  [ automatically generated definition ]  .
+an epithelium that lines the lumen of the digestive tract .
+a cartilage element of chondrocranium .
+a cartilage element that is part of the cranial skeleton .
+the slender connective tissue fiber in the extracellular matrix of skin tissue that is composed of microfibrils and amorphous elastin and is characterized by great elasticity
+the connection between the embryo proper and extraembryonic tissues
+a transitional population of migrating mesenchymal cells that derive from somites and that will become dermal cells .
+the single layer of epithelial cells that lines the early neural tube and develops into the nervous system and into the neural crest cells
+the layer of undifferentiated ,  proliferating cells that line the neural tube lumen that is the immediate transformation of the germinal neuroepithelium
+the layer of glia and differentiating neurons that forms as a second layer around the germinal neuroepithium ;  as this develops it comes to lie between the ventricular and marginal layers and includes the basal and alar plates .
+the outermost layer of the neural tube that consists of axons from the developing mantle layer and will form the white matter
+the subdivision of the face that includes the eye  ( eyeball plus adnexa such as eyelids )  and the orbit of the skull and associated parts of the face such as the eyebrows ,  if present
+the middle of the face including the nose and its associated bony structures [ mw ]  .
+joint cavity shared by all the joints of the elbow .
+any tube ,  opening or passage that connects two distinct anatomical spaces .
+a vasculature that is part of a iris  [ automatically generated definition ]  .
+an anatomical structure that develops  ( entirely or partially )  from the endoderm .
+an anatomical structure that develops  ( entirely or partially )  from the mesoderm .
+an anatomical structure that develops  ( entirely or partially )  from the ectoderm .
+the optic vesicle is the evagination of neurectoderm that precedes formation of the optic cup [ go ]  .
+the first recognizable structure derived from the heart field
+a specific region of the lateral mesoderm that will form the primary beating heart tube .
+an epithelial tube that will give rise to the mature heart .
+a cardiac chamber surrounds an enclosed cavity within the heart
+organ that is part of the hematopoietic system .
+a portions of the gut that is derived from endoderm .
+a portion of smooth muscle tissue that is part of a respiratory system  [ automatically generated definition ]  .
+a portion of smooth muscle tissue that is part of a iris  [ automatically generated definition ]  .
+a portion of smooth muscle tissue that is part of an arteriole  [ automatically generated definition ]  .
+smooth muscle found within ,  and composing the majority of the wall of blood vessels .
+a bone that is part of the dorsal region of an animal .
+a bone that is part of a hindlimb digit .
+a bone that is part of a forelimb digit .
+a bone that is part of a forelimb stylopod  [ automatically generated definition ]  .
+a bone that is part of a lower leg  [ automatically generated definition ]  .
+any muscle organ that is part of a hindlimb stylopod  ( upper leg )  [ automatically generated definition ]  .
+any muscle organ that is part of a skin of body  [ automatically generated definition ]  .
+any muscle organ that is part of a forelimb zeugopod  ( lower arm )  [ automatically generated definition ]  .
+any muscle organ that is part of a forelimb stylopod  ( upper arm )  [ automatically generated definition ]  .
+any muscle organ that is part of a hindlimb zeugopod  ( lower leg )   [ automatically generated definition ]  .
+a blood vessel that is part of a hindlimb stylopod  [ automatically generated definition ]  .
+a blood vessel that is part of a back  [ automatically generated definition ]  .
+a blood vessel that is part of a lower arm  [ automatically generated definition ]  .
+a blood vessel that is part of a forelimb stylopod  [ automatically generated definition ]  .
+a blood vessel that is part of a lower leg  [ automatically generated definition ]  .
+a zone of skin that is part of a hindlimb stylopod  [ automatically generated definition ]  .
+a zone of skin that is part of a forelimb stylopod  [ automatically generated definition ]  .
+a zone of skin that is part of a lower leg  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a hindlimb stylopod  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a back  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a lower arm  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a forelimb stylopod  [ automatically generated definition ]  .
+a portion of connective tissue that is part of a lower leg  [ automatically generated definition ]  .
+a muscle that is part of the eye region .
+anatomical cluster that consists of all the skeletal elements  ( eg . ,  bone ,  cartilage ,  and teeth )  of the body .
+the bilaminar epithelium formed from the myotome and dermatome .
+a cone - like structure that is formed when myocardial progenitor cells of the heart field fuse at the midline .
+a blood vessel smooth muscle that is part of a respiratory system  [ automatically generated definition ]  .
+distal - most phalanx within a digit .
+a phalanx located between proximal and distal phalanges .
+proximal - most phalanx within a digit .
+an outgrowth on the lateral trunk of the embryo that develops into a limb .
+the embryonic structure that gives rise to the corneal ectoderm
+multilayered ectodermal region at the distal tip of a limb or fin bud necessary for the proper development of the underlying mesenchyme [ mp , modified ]  .
+an outgrowth on the lateral trunk of the embryo that develops into a limb or paired fin .
+the first of the series of pharyngeal arches that develop into jaw bones or their homologs ,  and their associated nerves and arteries
+a transparent homogeneous acellular layer ,  6 to 9 um thick ,  lying between the basal lamina of the outer layer of stratified epithelium and the substantia propria of the cornea ;  it is considered to be a basement membrane .
+a bone that is part of an appendage  [ automatically generated definition ]  .
+the collection of all skeletal elements in an individual limb .
+a mesopodium that is part of a manus .
+a metapodium region that is part of a manus .
+mesopodial segment of the pes ,  including the tarsal skeleton and associated tissues .
+an embryo at the neurula stage .
+sum of all sensory systems in an organism .
+any collection of skeletal muscles that is part of a head  [ automatically generated definition ]  .
+any collection of muscles that is part of a body wall  [ automatically generated definition ]  .
+any collection of muscles that is part of a hindlimb stylopod  ( upper leg  /  thigh )  [ automatically generated definition ]  .
+any collection of muscles that is part of a thorax  [ automatically generated definition ]  .
+any collection of muscles that is part of a neck  [ automatically generated definition ]  .
+any collection of muscles that is part of a lower leg or upper leg  [ automatically generated definition ]  .
+any collection of muscles that is part of a back  [ automatically generated definition ]  .
+any collection of muscles that is part of a pelvic girdle  [ automatically generated definition ]  .
+a subdivision of the musculature of the body in the pectoral girdle region .
+any collection of muscles that is part of a face .
+any collection of muscles that is part of an arm  [ automatically generated definition ]  .
+the collection of muscles that form attachments to the hip skeleton .
+the collection of muscles that form attachments to the shoulder skeleton .
+any collection of muscles that is part of a trunk  [ automatically generated definition ]  .
+any collection of muscles that is part of a limb  [ automatically generated definition ]  .
+any collection of muscles that is part of a forelimb  [ automatically generated definition ]  .
+any collection of muscles that is part of a hindlimb  [ automatically generated definition ]  .
+any collection of muscles that is part of a lower arm  [ automatically generated definition ]  .
+any collection of muscles that is part of a foot  [ automatically generated definition ]  .
+any collection of muscles that is part of a manus  [ automatically generated definition ]  .
+a vasculature that is part of a muscle organ  [ automatically generated definition ]  .
+a vasculature that is part of a musculoskeletal system  [ automatically generated definition ]  .
+anatomical system that has as its parts the heart and blood vessels .
+a vascular network consisting of blood vessels .
+an artery that is part of a digit  [ automatically generated definition ]  .
+a digital artery that is part of a forelimb  [ automatically generated definition ]  .
+a digital artery that is part of a hindlimb  [ automatically generated definition ]  .
+the part of the cardiovascular system consisting of all arteries .
+the part of the venous system that drains the general body tissues [ kardong ] 
+the part of the cardiovascular system consisting of all venous vessels .
+an endothelium that lines the blood vasculature .
+the costocervical trunk arises from the upper and back part of the subclavian artery ,  behind the scalenus anterior on the right side ,  and medial to that muscle on the left side .
+a portion of smooth muscle tissue that is part of an arterial system  [ automatically generated definition ]  .
+a portion of smooth muscle tissue that is part of a venous system  [ automatically generated definition ]  .
+an endothelium that is part of an arterial system  [ automatically generated definition ]  .
+an endothelium that is part of a venous system  [ automatically generated definition ]  .
+a blood vessel endothelium that is part of a respiratory system  [ automatically generated definition ]  .
+a depression or hollow in a bone [ wp ]  .
+an appendage that is part of an appendage girdle complex .
+paired appendage that consists of the posterior appendicular skeleton and associated soft and hard tissues ,  but excludes the pelvic girdle and its associated soft and hard tissues .
+paired appendage that consists of the anterior appendicular skeleton and associated soft and hard tissues ,  but excludes the pectoral girdle and its associated soft and hard tissues .
+the jugular veins are veins that bring deoxygenated blood from the head back to the heart via the superior vena cava .
+the embryo and its adnexa  ( appendages or adjunct parts )  or associated membranes  ( i .e .
+a transverse unitary subdivision of the neural tube that shares a common dorsoventral structure  ( floor ,  basal ,  alar ,  and roof plates )  ,  but each having differential molecular identities and fates ;  they comprise the secondary prosencephalon ,  diencephalon  ( prosomeres )  ,  the midbrain  ( mesomeres )  ,  and the hindbrain  ( rhombomeres )  .
+any segmental subdivision of a nervous system .
+an organ subunit that is part of a hindbrain  [ automatically generated definition ]  .
+organism at the gastrula stage .
+skeletal element that consists of the scapula and the coracoid [ vsao ,  modified ]  .
+a specialized form of connective tissue in which the extracellular matrix is firm ,  providing the tissue with resilience ,  and / or mineralized and that functions in mechanical and structural support .
+dermis - derived entity that is made of skeletal tissue .
+the primitive cartilagionous skeletal structure of the fetal skull that grows to envelop the rapidly growing embyonic brain .
+organ consisting of skeletal tissue .
+a bone that is part of a cranium .
+any bone that is part of the lower jaw skeleton .
+anatomical system that consists of all the joints of the body .
+a submucosa that is part of a respiratory system  [ automatically generated definition ]  .
+the mucous membrane lining the respiratory tract
+any of the tissue layers that comprise a blood vessel .
+the pseudostratified ciliated epithelium that lines much of the conducting portion of the airway ,  including part of the nasal cavity and larynx ,  the trachea ,  and bronchi
+an epithelium that is part of a respiratory system  [ automatically generated definition ]  .
+an epithelium that is part of a upper respiratory tract  [ automatically generated definition ]  .
+a portion of skeletal muscle tissue that is part of a respiratory system  [ automatically generated definition ]  .
+a portion of skeletal muscle tissue that is part of a lip  [ automatically generated definition ]  .
+an endothelium of artery that is part of a respiratory system  [ automatically generated definition ]  .
+an endothelium of vein that is part of a respiratory system  [ automatically generated definition ]  .
+an endothelium that is part of the cardiovascular system .
+a connective tissue that surrounds a skeletal muscle tissue .
+a gland that is part of a eye .
+a vasculature that is part of a retina  [ automatically generated definition ]  .
+layer of lateral plate mesoderm that forms the circulatory system and future gut wall  -  overlies endoderm [ wp ]  .
+a structure created during embryogenesis when the lateral mesoderm splits into two layers  -  the outer  ( or somatic )  layer becomes applied to the inner surface of the ectoderm ,  and with it forms the somatopleure .
+the central region of trunk mesoderm .
+anatomical cluster that connects two or more adjacent skeletal elements or hardened body parts .
+a portion of the gut that is derived from ectoderm .
+a proximal - distal subdivision of the digestive tract .
+a part of a wall of an organ that forms a layer .
+the tissue underlying the tunica mucosa of the pharynx .
+a mucosa that is part of a lower lip  [ automatically generated definition ]  .
+an organ part that is part of a long bone  [ automatically generated definition ]  .
+a gland that is part of a hemolymphoid system  [ automatically generated definition ]  .
+the median dorsal longitudinal groove formed in the embryo by the neural plate after the appearance of the neural folds .
+one of the two elevated edges of the neural groove [ go , mp ]  .
+a solid rod of neurectoderm derived from the neural keel .
+an anatomical boundary that adjacent_to a hindbrain and adjacent_to a spinal cord .
+a hole in a tube [ go ]  .
+an ectodermal placode is a thickening of the ectoderm that is the primordium of many structures derived from the ectoderm [ go ] 
+an tooth placode is a thickening of the ectoderm that will give rise to the tooth bud [ go ]  .
+muscle structures are contractile cells ,  tissues or organs that are found in multicellular organisms [ go ]  .
+an epithelial sheet bent on a linear axis .
+a structure consisting of multiple cell components but which is not itself a cell and does not have  ( complete )  cells as a part .
+an organ or element that is in the abdomen .
+an organ or element that is part of the adbominal segment of the organism .
+an organ or element that part of the dorsum of the organism .
+a circumscribed mass of ectodermal cells which bud off from the dental lamina ;  it becomes cup - shaped and develops on its internal face the ameloblast layer of cells that produces the enamel cap of a developing tooth .
+an organ or element that part of the trunk region .
+an organ or element that is in the thoracic cavity .
+an organ or element that is part of the pelvic region .
+an organ that part of the thoracic segment region .
+a vein that is part of a thorax  [ automatically generated definition ]  .
+an external ectoderm that is part of a optic eminence  [ automatically generated definition ]  .
+an epithelium that is part of a hindlimb stylopod  [ automatically generated definition ]  .
+an epithelium that is part of a toe  [ automatically generated definition ]  .
+an epithelium that is part of a finger  [ automatically generated definition ]  .
+an epithelium that is part of a forelimb stylopod  [ automatically generated definition ]  .
+an epithelium that is part of a lower leg  [ automatically generated definition ]  .
+an ectoderm that is part of a optic eminence  [ automatically generated definition ]  .
+a gland that is part of a stomodeum .
+portion of primordial embryonic connective tissue of the developing head ,  consisting of mesenchymal cells supported in interlaminar jelly ,  that derive mostly from the mesoderm and contribute to head connective tissue ,  bone and musculature in conjunction with cranial neural crest cells .
+mesenchyme that is part of a developing hindlimb stylopod  [ automatically generated definition ]  .
+mesenchyme that is part of a developing toe  [ automatically generated definition ]  .
+mesenchyme that is part of a developing trunk .
+mesenchyme that is part of a developing finger  [ automatically generated definition ]  .
+mesenchyme that is part of a developing forelimb stylopod  [ automatically generated definition ]  .
+mesenchyme that is part of a developing lower leg  [ automatically generated definition ]  .
+the posterior part of the developing vertebrate hindbrain or the corresponding part of the adult brain composed of the medulla oblongata and a portion of the fourth ventricle ;  as well as the glossopharyngeal nerve  ( cn ix )  ,  vagus nerve  ( cn x )  ,  accessory nerve  ( cn xi )  ,  hypoglossal nerve  ( cn xii )  ,  and a portion of the vestibulocochlear nerve  ( cn viii )  .
+a portion of tissue that is part of an embryo .
+portion of tissue that is contiguous with the embryo and is comprised of portions of tissue or cells that will not contribute to the embryo .
+the endothelial lining of the endocardium .
+an array of photoreceptors and any supporting cells found in an eye .
+a transparent structure that is part of a visual sense organ ,  the function of which is to direct or focus light onto a photoreceptor array .
+a limb bud that develops into a forelimb .
+a limb bud that develops into a hindlimb .
+a limb bud that develops into a forelimb or pectoral fin .
+a limb bud that develops into a hindlimb or pelvic fin .
+an apical ectodermal ridge that is part of a pectoral appendage bud .
+an apical ectodermal ridge that is part of a pelvic appendage bud .
+portion of tissue that is the inner layer of the optic cup and will become the neural retina .
+portion of tissue that gives rise to the lens .
+portion of tissue that is part of the eye and gives rise to the mature ,  fully layered cornea .
+a segment of autopod that is part of a pes .
+a segment of autopod that is part of a manus .
+portion of tissue on the side of the lumen of the neural tube .
+multi - tissue structure that arises from the heart rudiment and will become the heart tube .
+a neural tube lateral wall that is part of a rhombomere .
+somite located in the head region ,  caudal to the otic vesicle
+a somite that is part of a trunk .
+a layer of cuboidal epithelial cells bounded anteriorly by the capsule of the lens and posteriorly by the lens cortex .
+an epithelium that is part of a anterior chamber of eyeball .
+an epithelium that is part of a lens vesicle .
+an anatomical cavity that is part of a lens vesicle .
+mesenchyme that is part of a optic eminence .
+an apical ectodermal ridge that is part of a footplate .
+a venous system that is part of a hindbrain .
+a limb / fin field that has the potential to develop into a pectoral appendage bud mesenchyme .
+a limb / fin field that has the potential to develop into a pelvic appendage bud mesenchyme .
+a ring of cells capable of forming a limb or paired fin [ gilbert , modified ]  .
+a ring of cells capable of forming a limb .
+the outermost layer of a blood vessel ,  composed mainly of fibrous tissue .
+a tunica intima that is part of a artery .
+an outermost connective tissue covering of an organ ,  vessel ,  or other structure [ wp ]  .
+anatomical space that is an opening in a bone ,  usually for passage of blood vessels or nerves .
+a acellular anatomical structure that is the bounding layer of a anatomical structure .
+an acellular membrane that is part of the epithelium ,  lies adjacent to the epithelial cells ,  and is the fusion of the the basal lamina and the reticular lamina .
+a bone tissue that is part of a long bone .
+a delimited region of dense mesenchyme within looser mesenchyme .
+cell condensation that is an aggregation of mesenchymal cells that are committed to differentiate into chondroblasts and chondrocytes .
+a delimited region of dense mesenchyme within looser mesenchyme whose cells are committed to become chondroblasts .
+the paired ventral prominences formed by bifurcation of the first pharyngeal arches in the embryo ;  the two prominences unite ventrally and fuse to form the mandible and lower lip
+the paired dorsal prominences formed by bifurcation of the first pharyngeal arches in the embryo that unite with the ipsilateral medial nasal process to form the upper jaw
+a subdivision of the autopod that corresponds to one or more bones arranged in series branching from the main limb axis .
+a bone that is part of the region of the hindlimb that includes the zeugopod and stylopod .
+a bone that is part of the manus skeleton .
+a bone that is part of the pes skeleton
+anatomical cluster that is located in the posterior region of the cranium and forms the margin of the foramen magnum and occipital condyles .
+organ with organ cavity ,  which has as parts a serous membrane and a serous cavity  .
+epithelium that derives from the endoderm .
+subdivision of skeleton which consists of cranial skeleton ,  set of all vertebrae ,  set of all ribs and sternum [ fma ,  modified ]  .
+the laminar structure of the heart
+any of the arteries or veins that supply blood to the heart or return blood from the heart muscles to the circulation
+anatomical structure embedded in or located in the integument that is part of the integumental system .
+a collection of two or more connected limb segments .
+any collection of muscles that is part of a hindlimb zeugopod .
+the thin bilaminar membrane derived from the prechordal plate that is devoid of mesoderm and formed by the apposition of the stomodeal ectoderm with the foregut endoderm ;  after the embryonic head fold has evolved it lies at the caudal limit of the stomodeum ,  forming a septum between the primitive mouth and pharynx ;  the membrane eventually disappears ,  and thus a communication is established between the mouth and the future pharynx .
+a cartilaginous condensation that has the potential to develop into a carpal bone .
+a pre - cartilage condensation that has the potential to develop into a carpal bone .
+a femur endochondral element that is composed primarily of a pre - cartilage condensation .
+the embryonic precursor of the brain .
+a humerus endochondral element that is composed primarily of cartilage tissue .
+a humerus endochondral element that is composed primarily of a pre - cartilage condensation .
+an anatomical junctions that overlaps the mouth and foregut .
+the notochordal plate is the dorsal part of the notochordal process when the ventral portion breaks down .
+a midline cellular cord formed from the migration of mesenchymal cells from the primitive knot
+a scapula endochondral element that is composed primarily of cartilage tissue .
+a scapula endochondral element that is composed primarily of a pre - cartilage condensation .
+a segment of the eyeball that is filled with refractive media
+body substance in a liquid or semi - solid state in the eyeball which serves to refract light .
+liquid components of living organisms .
+an artery that connects two larger arteries .
+a portion of organism substance that secreted_by a zone of skin .
+a portion of organism substance that secreted_by a respiratory system .
+the pharynx is the part of the digestive system immediately posterior to the mouth [ go ]  .
+presumptive structure of the blastula that will develop into endoderm .
+portion of embryonic tissue determined by fate mapping to become a structure .
+presumptive structure of the blastula that will develop into ectoderm .
+presumptive structure of the blastula that will develop into mesoderm .
+anatomical cavity for the proximal articular surface of the proximal limb or fin element with the scapulocoracoid or equivalent structure .
+a joint that connects one phalanx to another along a proximodistal axis .
+an anatomical boundary that adjacent_to a epithelium .
+the third segment of the limb ,  including either the wrist segment  ( carpus )  or the ankle segment  ( tarsus ) 
+the collection of all skeletal elements in an autopodium region .
+the edge of the cornea where it joins the sclera ;  the limbus is a common site for the occurrence of corneal epithelial neoplasm
+endochondral bone that is dorsoventrally compressed and provides attachment site for muscles of the pectoral appendage .
+the distal elements of the developing limb of vertebrates that will give rise to the pes  ( foot ) 
+an apical ectodermal ridge that is part of a handplate .
+the distal elements of the developing limb of vertebrates that will give rise to the manus  ( hand ) 
+a vasculature that is part of a organ .
+a head mesenchyme that develops_from a mesoderm .
+mesenchyme that is part of a mandibular prominence .
+an anatomical space that surrounded_by a digestive tract .
+an epithelium that is part of a lip .
+an epithelium characterised by its most superficial layer consisting of squamous epithelial cells .
+the vascular cord is the primordial vasculature that will develop into blood vessels by the process of tubulogenesis [ go ]  .
+a capillary that is part of the coronary system .
+a two dimensional anatomical structure that is the boundary between an anatomical structure and an anatomical substance ,  an anatomical space or the organism's environment .
+the splanchnic mesoderm in the cardiogenic region where the heart develops ;  it gives rise to endocardial heart tubes that fuse to form the primordial cardiac tube ,  the heart primordium [ web ]  .
+organism at the cleavage stage .
+cranial neural crest that migrates into the mandibular arch .
+a hollow ,  muscular organ ,  which ,  by contracting rhythmically ,  keeps up the circulation of the blood or analogs [ go , modified ]  .
+an intermediate stage  ( between the neural plate and neural rod )  during the early segmentation period in the morphogenesis of the central nervous system primordium ;  the keel is roughly triangular shaped in cross section .
+mesenchyme that develops_from a cranial neural crest .
+a tunica media that is part of a artery .
+a tunica adventitia that is part of a artery .
+a tunica adventitia that is part of a vein .
+a tunica intima that is part of a vein .
+a tunica media that is part of a vein .
+any collection of muscles that is part of a pectoral appendage .
+any collection of muscles that is part of a pelvic appendage .
+any collection of muscles that is part of an appendage .
+skeletal subdivision consisting of the anterior appendicular limb skeleton ,  excluding the pectoral girdle .
+the collection of all skeletal elements in a pelvic appendage region .
+the rhombencephalon  ( or hindbrain )  is a developmental categorization of portions of the central nervous system in vertebrates .
+a presumptive structure that has the potential to develop into a endocardium .
+embryonic structure that gives rise to the midbrain hindbrain boundary .
+a presumptive structure that has the potential to develop into a presomitic mesoderm .
+a presumptive structure that has the potential to develop into a neural plate .
+the part of the blastula that has the potential to develop into a paraxial mesoderm .
+a blood vessel that is part of a pectoral appendage .
+a blood vessel that is part of a limb / fin .
+a vasculature that is part of a pectoral appendage .
+a vasculature that is part of a chordate pharynx .
+a vasculature that is part of a limb / fin .
+the epidermis is the entire outer epithelial layer of an animal ,  it may be a single layer that produces an extracellular material  ( e .g .
+outermost layer of cells surrounding the embryo .
+a cartilage tissue that is part of a paired limb or fin .
+a cartilage tissue that is part of a pectoral appendage .
+a cartilage tissue that is part of a pelvic appendage .
+an epithelial tube open at both ends that allows fluid flow .
+a closed epithelium with a lumen .
+mesenchyme with little extracellular matrix .
+mesenchyme whose cells are embedded in obvious amounts of extracellular matrix .
+mesenchymal cells that are migrating .
+simple columnar epithelium in which the luminal side of the cells bears cilia .
+epithelium bearing vibratile cilia on the free surface .
+a thin ,  loose vascular connective tissue that makes up the membranes surrounding joints and the sheaths protecting tendons  ( particularly flexor tendons in the hands and feet )  where they pass over bony prominences .
+an anatomical cavity that surrounded_by a synovial joint .
+epithelial layer of the retina ,  ciliary body ,  or iris composed of cells containing pigment granules .
+an anatomical structure that connects two structures
+anlagen are populations of contiguous cells ,  typically arranged in one plane ,  that are morphologically indistinct ,  but that already correspond in extent to a later organ / tissue .
+the interphalangeal articulations of the foot  ( articulations of the phalanges )  are ginglymoid joints ,  and each has a plantar and two collateral ligaments .
+the interphalangeal articulations of hand are hinge - joints of the phalanges of the hand .
+a gland that is part of a epidermis .
+any bodily fluid that has passed through a membrane such as the capillary wall ,  as a result of unbalanced hydrostatic and osmotic forces
+any fluid produced by a serous gland .
+anatomical system that consists of all blood and lymph vessels .
+adipose tissue that is located in the abdominal region .
+the anteriormost subdivision of the body that includes the head ,  jaws ,  pharyngeal region and the neck  ( if present )  .
+an organism subdivision that encompasses the region containing the pectoral or pelvic girdle .
+a bone that is part of a appendage girdle region .
+a bone that is part of a pectoral girdle region .
+a bone element or fused bone that is part of pelvic girdle .
+a subdivision of a limb or fin skeleton consisting of bones which connects the upper limb or fin to the axial skeleton on each side .
+skeletal subdivision consisting of a set of bones linking the axial series to the hindlimb zeugopodium and offering anchoring areas for hindlimb and caudal musculature .
+bone element that arises as a result of intramembranous ossification .
+skeletal element that is composed of cartilage tissue and may be permanent or transient .
+connective tissue ,  which consists of fibroblasts ,  the intercellular matrix of which contains a regular network of collagen and elastic fiber bundles .
+connective tissue that is dominated by collagen fibres organized into a definitive pattern  ( e .g . ,  parallel to one another )  ,  with comparatively fewer cells  ( mostly fibroblasts )  .
+a bone that is part of a craniocervical region .
+a skeletal joint that is part of a appendage girdle region .
+a anatomical surface that is part of a cartilage element .
+any muscle organ that is part of a pectoral girdle region .
+the part of the ventral body cavity that is within the pelvis .
+musculature system of the pharyngeal and head regions .
+a knoblike tooth primordium that develops into the mature tooth and consists of enamel organ ,  dental papilla ,  and dental sac enclosing them .
+an endothelium that is part of a heart  [ automatically generated definition ]  .
+intertarsal articulations are the joints of the tarsus .
+the dorsal venous arch of the foot is a superficial vein that connects the small saphenous vein and the great saphenous vein .
+a limb segment that is part of a hindlimb .
+a limb segment that is part of a forelimb .
+any of the three large depressions in the posterior ,  middle ,  and anterior aspects of the floor of the cranial cavity
+a transient embryonic complex that comprises the pharyngeal arches ,  bulges of tissues of mesoderm and neural crest derivation through which pass nerves and pharyngeal arch arteries .
+a head that is part of a embryo .
+a brain that develops_from a neural tube .
+any skeletal muscle organ in the hypodermis  /  superficial fascia
+subdivision of endoskeleton derived from pharyngeal arches
+skeletal element that forms superficially in the organism ,  usually in association with the ectoderm [ vsao ]  .
+bone element that is adjacent to the notochord .
+a bone that is part of a forelimb region .
+system pertaining to blood vessels in the brain .
+a vein that is part of a craniocervical region .
+sum total of mesenchyme in the embryo .
+the limb epidermis is the outer epithelial layer of the limb ,  it is a complex stratified squamous epithelium .
+an ectoderm that is part of a buccopharyngeal membrane .
+an endoderm that is part of a buccopharyngeal membrane .
+a portion of mesenchymal tissue associated with an individual pharyngeal arch .
+mesenchyme that is part of a handplate .
+mesenchyme that is part of a maxillary prominence .
+a segment of a digit containing the distal phalanx ,  and overlapping the distal interphalangeal joint [ cjm ]  .
+a segment of the manual digit containing the distal phalanx
+a segment of the pedal digit containing the distal phalanx .
+a skeletal joint that connects a mesopodium bone and connects a proximal phalanx .
+mesenchyme that is part of a 1st arch mandibular component .
+a neural plate that develops_from a presumptive midbrain .
+a neural plate that develops_from a presumptive hindbrain .
+a presumptive structure that has the potential to develop into a midbrain .
+bilateral mesenchymal mesoderm parallel and immediately adjacent to the neural tube / notochord ;  it generates a subset of extra - ocular ,  and other head ,  muscles .
+anatomical cluster consisting of adjacent teeth constituting a row .
+a tooth row that is part of a skeleton of lower jaw .
+a tooth row that is part of a skeleton of upper jaw .
+an anatomical cavity that surrounded_by a stomodeum .
+the primordial embryonic connective tissue of the developing limbs ,  autopods and digits ,  consisting of mesenchymal cells supported in interlaminar jelly ,  that derive mostly from the mesoderm and contribute to limb connective tissue ,  bone and musculature in conjunction with myotome cells .
+the embryonic connective tissue made up of loosely aggregated mesenchymal cells ,  supported by interlaminar jelly ,  that gives rise to the developing cardiac structures
+an inter - phalangeal joint that connects a proximal phalanx to either a medial or distal phalanx .
+an inter - phalangeal joint that connects a distal phalanx to either a medial or proximal phalanx .
+the many - lobed berry cluster of cells that is the terminous of a gland where the secretion is produced is acinar in form .
+intermediate segment of the autopod ,  between the mesopodial region and and acropodial region .
+the collection of all skeletal elements in a mesopodium .
+subdivision of skeleton that consists of endochondral elements distal to the zeugopodial skeletal elements which constitute the proximal region of the posterior autopod skeleton [ phenoscape:ad ]  .
+subdivision of skeleton that consists of the endochondral elements distal to the anterior limb / fin zeugopodial skeletal elements which constitute the proximal region of the anterior autopod skeleton [ phenoscape:ad ]  .
+mesenchyme that is part of a developing face .
+a multicellular organism that existence_starts_with a post - embryonic stage .
+an anatomical structure that has more than one cell as a part .
+mesenchyme that is part of a pharyngeal arch 1 .
+mesenchyme that is part of a 1st arch maxillary component .
+the sum total of mesenchymal tissue in the pharyngeal arch region .
+gland of the epithelium lining the oral cavity .
+an epithelium consisting of cuboidal epithelial cells .
+mesenchyme that has the potential to develop into a dermis .
+a developing anatomical structure that has the potential to develop into a myelencephalon .
+a femur endochondral element that is composed primarily of cartilage tissue .
+the distal elements of the developing limb of vertebrates that will give rise to the pedal appendages  ( e .g .
+an anatomical cavity that surrounded_by a blood vessel .
+a roughly circular bulge in a surface .
+an anatomical boundary that corresponds to some physical discontinuity .
+the core globe - shaped component of the camera - type eye .
+mesenchyme that develops_from a neural crest and is part of a 1st arch mandibular mesenchyme .
+mesenchyme that develops_from a neural crest and is part of a 1st arch maxillary mesenchyme .
+mesenchyme that develops_from a rhombencephalon neural crest .
+mesenchyme that develops_from a neural crest and is part of a 1st arch mesenchyme .
+portion of tissue that is dorsolateral to the floor plate and part of the midbrain .
+portion of neural tube that gives rise to the midbrain .
+an endothelium that is part of a sclera .
+mesenchyme surrounding the developing optic cup which develops into the sclera .
+an epithelium that is part of a extraembryonic structure .
+developing anatomical structure that develops into the eyeball and associated structures .
+an anatomical structure that develops from the neural crest .
+an anatomical structure that has some part that develops from the neural crest .
+a skeletal element that is part of a orbital region .
+skeletal subdivision of the head including skull  ( cranium plus mandible )  ,  pharyngeal and / or hyoid apparatus .
+mesenchyme that is part of a limb bud .
+mesenchyme that is part of a limb / fin bud .
+an epithelium that is part of a handplate .
+mesenchyme that develops_from a neural crest and is part of a maxillary process mesenchyme .
+mesenchyme that develops_from a head mesenchyme from mesoderm and is part of a maxillary process mesenchyme .
+mesenchyme that develops_from a neural crest and is part of a mandibular process mesenchyme .
+mesenchyme that develops_from a head mesenchyme from mesoderm and is part of a mandibular process mesenchyme .
+mesenchyme that develops_from a head mesenchyme from mesoderm and is part of a 1st arch maxillary mesenchyme .
+mesenchyme that develops_from a head mesenchyme from mesoderm and is part of a 1st arch mandibular mesenchyme .
+mesenchyme that develops_from a head mesenchyme from mesoderm and is part of a 1st arch mesenchyme .
+mesenchyme that develops_from a neural crest and is part of a entire pharyngeal arch associated mesenchyme .
+mesenchyme that develops_from a head mesenchyme from mesoderm and is part of a entire pharyngeal arch associated mesenchyme .
+skeletal subdivision that undergoes indirect development and includes elements that develop as a replacement or substitution of other elements or tissues .
+a skeletal element that has the potential to participate in endochondral ossification ,  and may participate in intramembranous ossification .
+skeletal subdivision that undergoes direct development and includes elements that either develop in association with the basement membrane of the ectoderm or are homologous with such elements ;  includes dermatocranium ,  components of the appendicular skeleton ,  teeth and tooth - like elements of the oropharynx ,  and integumentary elements .
+skeletal tissue that is part of the exoskeleton and derived from an odontogenic papilla .
+epithelium composed of cells that develops from the ectoderm [ fma , modified ]  .
+mesenchyme that develops_from a somatopleure .
+the integrated unit  ( of the eye )  that consists of the conjunctiva ,  the corneal surface ,  and the ocular mucosal adnexa including the lid margins and the meibomian gland openings ,  the lacrimal glands and the lacrimal drainage system ,  all which are critical to maintain ocular surface integrity and provide protection from external antigens and pathogenic microorganisms .
+the ciliary processes are formed by the inward folding of the various layers of the choroid ,  i .e .
+a bone that is shaped as a broad flat plate and composed of two thin layers of compact tissue enclosing between them a variable quantity of cancellous tissue ,  which is the location of red bone marrow .
+a simple columnar epithelium that looks stratified but is not ,  because its cells are arranged with their nuclei at different levels .
+epithelium composed of a single layer of cells ,  appearing as layered because the column - shaped cells vary in height so the nuclei are at different levels .
+skeletal element that forms as a replacement or substitution of another element or tissue .
+a vessel of the microcirculature ,  lying between the arterioles and venules ;  includes capillaries  ( blood and lymphatic )  ,  metarterioles and arteriovenous anastomoses .
+an appendage segment that is part of a limb / fin .
+a pre - cartilage condensation that has the potential to develop into a tarsal bone .
+a cartilaginous condensation that has the potential to develop into a tarsal bone .
+the subdivision of the skeleton that consists of all the skeletal elements at the distalmost end of the autopodium  -  i .e .
+the metacarpus is the intermediate part of the manus skeleton that is located between the phalanges  ( bones of the fingers )  distally and the carpus which forms the connection to the forearm .
+limb segment that consists of the long bones of the pes .
+subdivision of skeleton that corresponds to metapodium region ,  between acropodial skeleton and mesopdoial skeleton .
+a pre - cartilage condensation that is part of a pedal digit mesenchyme .
+a pre - cartilage condensation that is part of a manual digit mesenchyme .
+a cartilage element that is part of a pedal digit mesenchyme .
+a cartilage element that is part of a manual digit mesenchyme .
+the subdivision of the skeleton that consists of all the skeletal elements at the distalmost end of the manual autopodium  -  i .e .
+mesenchyme of the carpal region that contributes to the tarsal skeleton .
+the subdivision of the skeleton that consists of all the skeletal elements at the distalmost end of the pedal autopodium  -  i .e .
+mesenchyme of the digit region .
+the collection of all skeletal elements in an forelimb zeugopod region .
+an organism subdivision that includes both an appendage and its associated girdle region .
+appendage girdle complex that when present ,  encompasses the pectoral appendicular skeleton and the pectoral girdle .
+appendage girdle complex that when present ,  encompasses the pelvic appendicular skeleton and the pelvic girdle .
+skeletal subdivision that is a segment of the limb skeleton .
+the subdivision of the skeleton of either the pectoral or pelvic girdle .
+subdivision of skeleton consisting of all skeletal elements in an hindlimb zeugopod region .
+a bone that is part of an appendage girdle complex  ( i .e .
+a bone that is part of a pectoral complex .
+a bone that is part of a pelvic complex .
+a major subdivision of an organism that divides an organism along an axis perpedicular to the main body anterior - posterior axis .
+a calcaneum endochondral element that is composed primarily of a pre - cartilage condensation .
+a calcaneum endochondral element that is composed primarily of cartilage tissue .
+a cartilaginous condensation that has the potential to develop into a tibia .
+a pre - cartilage condensation that has the potential to develop into a tibia .
+a skeletal element that is part of a limb and composed of cartilage tissue .
+a skeletal element that is part of a limb and composed of pre - cartilage tissue .
+a cartilaginous condensation that has the potential to develop into a forelimb bone .
+a pre - cartilage condensation that has the potential to develop into a forelimb bone .
+a cartilaginous condensation that has the potential to develop into a hindlimb bone .
+a pre - cartilage condensation that has the potential to develop into a hindlimb bone .
+muscles of the pelvic girdle ,  hindlimb or pelvic fin .
+a muscle of a pectoral girdle ,  pectoral fin or anterior limb .
+anatomical cluster consisting of the skeletal elements  ( i .e .
+any muscle organ that is part of either the head or the neck .
+a cartilage element that is part of a splanchnocranium .
+a synovial joint that is part of a pelvic girdle region .
+a synovial joint that is part of a pectoral girdle region .
+the tarsometatarsal articulations are arthrodial joints in the pes .
+the carpometacarpal joints  ( cmc )  are joints in the wrist that articulates the distal row of carpal bones and the proximal bases of the metacarpal bones .
+a skeletal joint that connects two adjacent metacarpals [ fma , modified ]  .
+a skeletal joint that connects two carpal bones .
+a joint that connects two adjacent metatarsals
+joint in which the articulating bones or cartilages are connected by ligaments or fibrocartilage without an intervening synovial cavity .
+subdivision of the skeletal system which consists of the axial skeleton plus associated joints .
+subdivision of the skeletal system which consists of the postcranial axial skeleton plus associated joints .
+any synovial joint that is part of a  ( free )  limb .
+subdivision of skull that consists of the facial bones .
+the skull can be divided into two: the neurocranium and the facial skeleton
+a bone that is part of a neurocranium  [ automatically generated definition ]  .
+a multi cell part structure that is part of a central nervous system .
+a subdivision of an anatomical system .
+synovial sac which surrounds parts of one or more tendons .
+subdivision of the skeletal system which consists of the appendicular skeleton plus associated joints .
+a bone that is part of a autopod region .
+the part of the trunk that is in the dorsum [ cjm ]  .
+a blood vasculature that is part of a head .
+the collection of all skeletal elements in an individual limb or fin .
+proximal element of a free limb skeleton consisting of the femur and humerus in the forelimb stylopodium and hindlimb stylopodium respectively [ vsao ,  modified ]  .
+section of the forelimb skeleton located between the stylopodium and the autopodium .
+anatomical structure that is an aggregation of similar cells from which cartilages and bones form ,  and from which chondrogenesis and osteogenesis are initiated during repair and / or regeneration .
+odontogenic tissue that is collagen - rich and characteristic of vertebrate teeth and tooth - like structures  ( e .g . ,  odontodes )  deposited by preodontoblasts and odontoblasts that are typically excluded from the matrix .
+a subdivision of the head that corresponds to the jaw skeleton ,  containing both soft tissue ,  skeleton and teeth  ( when present )  .
+any bone that is part of the upper jaw skeleton .
+an epithelium that develops_from a ectoderm and is part of a oral epithelium .
+a major subdivision of an organism that divides an organism along its main body axis  ( typically anterio - posterior axis )  .
+a proximal tarsal bone that articulates with the fibula .
+a tarsal bone that connected_to a hindlimb zeugopod skeleton .
+a cardiovascular system that is part of a conceptus .
+an anatomical space that is part of a bone of lower jaw .
+ectodermal placode that does not develop into a component of the nervous system .
+connective tissue ,  which consists of a population of connective tissue cells ,  the intercellular matrix of which contains an irregular network of collagen and elastic fiber bundles .
+irregular connective tissue is an irregular connective tissue ,  the intercellular matrix of which contains a dense irregular network of collagen and elastic fiber bundles .
+dense connective tissue is mainly composed of collagen type i .
+irregular connective tissue ,  the intercellular matrix of which contains a sparse irregular network of collagen and elastic fiber bundles .
+an acinus that is part of a exocrine gland .
+the connective tissue bundles in the extracellular matrix of bone tissue that are composed of collagen ,  and play a role in tissue strength and elasticity
+the connective tissue bundles in the extracellular matrix of tendon tissue that are composed of collagen ,  and play a role in tissue strength and elasticity
+front  ( ventral )  portion of the vascular ,  pigmentary ,  or middle coat of the eye ,  including the ciliary body and the iris .
+epimysium is a layer of connective tissue which ensheaths the entire muscle .
+an articular capsule that is part of the glenohumeral joint .
+a joint that connects the bones of the crus to the proximal tarsal bones
+the aggregate of the coelemic cavity lumen plus the membranes that line the lumen .
+the cavity within a myotome
+bone that forms as a replacement of another structural tissue .
+a skeletal joint that connects a tibia and connects a talus .
+a space or gap between two teeth .
+anatomical system that consists of the integumental system plus all mucosae and submucosae .
+one of two elements that constitute the basal row of tarsals .
+a segment of the autopod consisting of both acropodial region and metapodial region ,  but excluding the mesopodial / basopodial region .
+a digitopodium region that is part of a manus [ obol ]  .
+a digitopodium region that is part of a pes [ obol ]  .
+a subdivision of the autopod skeleton consisting of both acropodial skeleon and metapodial skeleton ,  but excluding the mesopodial / basopodial skeleton .
+a subdivision of the manus skeleton consisting of both manual acropodial skeleton and metacarpal skeleton ,  but excluding the carpal skeleton .
+a subdivision of the pes skeleton consisting of both pedal acropodial skeleton and metatarsal skeleton ,  but excluding the tarsal skeleton .
+a zone of skin that is part of a craniocervical region .
+an epithelium that consists of columnar epithelial cells .
+epithelium that derives from the mesoderm .
+one of five swellings formed during the development of the face
+an artery of the neck
+the deep cervical artery  ( profunda cervicalis )  is an artery of the neck .
+the segment of the autopod that is distal to the metapodial region and consists of the digits .
+the segment of the manus that is distal to the metacarpal region and consists of the manual digits  ( fingers )  .
+the segment of the pes that is distal to the metatarsal region and consists of the pedal digits  ( toes )  .
+a bone that is part of a the digitopodium skeleton  -  i .e .
+a bone that is part of a the manual digitopodium skeleton  -  i .e .
+a bone that is part of a the pedal digitopodium skeleton  -  i .e .
+a bone element that is part of a jaw region .
+a smooth muscle tissue that is part of a respiratory system venous blood vessel .
+the sclera and cornea form the fibrous tunic of the bulb of the eye ;  the sclera is opaque ,  and constitutes the posterior five - sixths of the tunic ;  the cornea is transparent ,  and forms the anterior sixth .
+the collection of all skeletal elements in a pectoral complex  -  i .e .
+the collection of all skeletal elements in a pelvic complex  -  i .e .
+a vein that is part of a abdomen .
+a vein that drains a lip .
+any vein within the general circulation that transports blood back to the right atrium of the heart .
+the secretory unit of a serous gland .
+anatomical cavity that is the lumen of the skull and contains the brain .
+the space that surrounds an organism .
+short bones are designated as those bones that are as wide as they are long .
+anatomical space that is an opening in a bone of the skull .
+an anatomical space which is the lumen of some anatomical conduit and connects two or more spaces together [ fma , modified ]  .
+vascular endothelium found in blood vessels of the blood - brain - barrier .
+musculature of the head and neck ,  spine ,  and ribs .
+a principle subdivision of an organism that includes all structures along the primary axis ,  typically the anterior - posterior axis ,  from head to tail ,  including structures of the body proper where present  ( for example ,  ribs )  ,  but excluding appendages .
+the region of the organism associated with the visceral organs .
+a tubular passage that extends from the primitive pit into the head process during the early stages of embryonic development in mammals .
+fluid contained within the notochordal canal
+a organ component layer that is part of a integumental system .
+a blood that is part of a artery .
+a blood that is part of a vein .
+a blood that is part of a capillary .
+any of the organs or elements that are part of the digestive system .
+mesenchyme that develops_from the neural crest [ automatically generated definition ]  .
+a proximal mesopodial endochondral element that is composed primarily of a bone tissue .
+subcutaneous adipose tissue that is located in the abdominal region .
+subdivision of skeletal system that consists of all skeletal elements in the thoracic region of the trunk .
+a neuromere that is part of the presumptive midbrain
+a neuromere that is part of the presumptive spinal cord
+any collection of muscles that is part of the forelimb stylopod region  [ automatically generated definition ]  .
+any collection of muscles that is part of a pelvic complex .
+any collection of muscles that is part of a pectoral complex .
+any muscle organ that is part of a pectoral appendage  ( forelimb or pectoral fin )  .
+any muscle organ that is part of a pelvic appendage  ( hindlimb or pelvic fin )  .
+a muscle organ that consists of skeletal muscle tissue ensheathed in epimysium ,  that develops from myotome and that is innervated by some somatic motor neuron .
+a portion of tissue that will develop into vasculature .
+the major preaxial endochondral element in the posterior zeugopod [ phenoscape ]  .
+a calcaneum bone or its cartilage or pre - cartilage precursor .
+a forelimb bone or its cartilage or pre - cartilage precursor .
+a hindlimb bone or its cartilage or pre - cartilage precursor .
+a phalanx bone or its cartilage or pre - cartilage precursor .
+a manual digit phalanx bone or its cartilage or pre - cartilage precursor .
+a pedal digit phalanx bone or its cartilage or pre - cartilage precursor .
+a pedal digit metatarsal bone or its cartilage or pre - cartilage precursor .
+a manual digit metacarpus bone or its cartilage or pre - cartilage precursor .
+a carpus bone or its cartilage or pre - cartilage precursor .
+a tarsus bone or its cartilage or pre - cartilage precursor .
+a femur bone or its cartilage or pre - cartilage precursor .
+a humerus bone or its cartilage or pre - cartilage precursor .
+a scapula bone or its cartilage or pre - cartilage precursor .
+a limb bone or its cartilage or pre - cartilage precursor .
+a endochondral element that is part of a autopod region .
+a autopod endochondral element that is composed primarily of cartilage tissue .
+a proximal mesopodial endochondral element that is part of a forelimb .
+a proximal carpal endochondral element that is composed primarily of cartilage tissue .
+a proximal carpal endochondral element that is composed primarily of a pre - cartilage condensation .
+a proximal mesopodial endochondral element that is part of a hindlimb .
+a proximal tarsal endochondral element that is composed primarily of cartilage tissue .
+a proximal tarsal endochondral element that is composed primarily of a pre - cartilage condensation .
+a gland that is typically found in or near the orbital region ,  in or around either the medial or lateral canthi ,  and is typically associated with secretions onto the eyeball or associated ducts .
+an eye consisting of multiple light - sensing organs
+a region of somite adjacent to presomitic mesoderm .
+epithelium located in the intersomitic region .
+any structure that is placed on one side of the left - right axis of a bilaterian .
+a hollow ,  muscular organ ,  which ,  by contracting rhythmically ,  contributes to the circulation of lymph ,  blood or analogs .
+a zone of skin that is part of a digit  [ automatically generated definition ]  .
+a basement membrane of epithelium that is part of a respiratory system .
+a smooth muscle tissue that is part of a hypodermis .
+any anatomical conduit which is part of the upper respiratory tract
+a zone of skin that is part of a autopod region .
+a portion of connective tissue that is part of a digit .
+a epithelium that is part of a ear .
+a epithelium that is part of a camera - type eye .
+a epithelium that is part of a external ear .
+a epithelium that is part of a foregut .
+a zone of skin that is part of a heel .
+the part of the foot that is the projection of the calcaneus .
+the external part of the developing pharynx that is made of ectoderm .
+a layer of of the central nervous system that is part of gray matter .
+primordium that develops into the central nervous system
+primordium that develops into the nervous system
+the joint that is formed by the union of the humerus ,  the scapula  ( or shoulder blade )  ,  and the clavicle  ( or collarbone )  .
+the part of the conceptus that may be lost before birth or will be discarded at birth ,  or when the embryo becomes an independent organism .
+an embryonic anatomical entity that will turn into one or more other anatomical entities ,  perhaps with other anatomical entities ,  later in development .
+the dorsal part of the body wall
+a mesenchyme - derived anatomical entity undergoing a transtion to become another structure .
+a viscus that is part of a abdomen .
+a mesopodial endochondral element that is in the most proximal part of the mesopodial skeleton ,  connected to the zeugopodial skeleton .
+a proximal mesopodial endochondral element that is composed primarily of cartilage tissue .
+a zone of skin that is part of a lower lip .
+a boundary delimiting a rhombomere .
+any portion of submucosa that lines the digestive tract .
+any organ component layer that consists of muscle tissue .
+an interconnected tubular multi - tissue structure that contains fluid that is actively transported around the heart .
+adipose tissue which is located throughout skeletal muscle and is responsible for the marbling seen in certain cuts of beef .
+any region of epithelium that is part of a skin region .
+the part of the eye that consists of both the retina and the optic choroid
+an exocrine gland that is part of a integumental system .
+single layer of a laminar structure ,  identified by different density ,  arrangement or size of cells and processes arranged in flattened layers or lamina [ cumbo ]  .
+serous membrane layer that is adjacent to and lines an organ .
+serous membrane layer that lines to a body cavity .
+an embryonic or larval epithelium that is committed to form part of the nervous system .
+an epithelium that is undergoing proliferation to provide large numbers of neuronal cells .
+a neuroepithelium some of whose cells are undergoing terminal differentiation to become neuronal cells .
+the area of axial mesoderm that develops into the prechordal plate
+any of the muscles that are responsible for moving the scapula .
+an multicellular anatomical structure that has subparts of multiple organs as a part .
+a cluster of cells ,  largely surrounded by a morphological boundary .
+a collection of anatomical structures that are alike in terms of their morphology or developmental origin .
+an anatomical collection that is arranged in a line .
+any organ component layer that consists of smooth muscle tissue .
+mesenchyme that is part of a developing jaw  [ automatically generated definition ]  .
+a space or gap between the left and right central incisors ,  on either the upper or lower jaw .
+a space or gap between the left and right central incisors on the upper jaw .
+any material entity that is located in the digestive tract .
+anatomical surface ,  which is the external surface of the whole body .
+the part of the circulatory system that lies within the subcutaneous tissue layers close to the surface of the skin .
+any of the veins carrying deoxygenated blood from the subcutaneous tissue layers .
+the part of the circulatory system that lies deep beneath the subcutaneous tissue layers away from the surface of the skin .
+a blood vessel carrying deoxygenated blood far beneath the skin usually accompanying an artery .
+the parts of the orbital region that are outside of the the eyeball ,  including the lacrimal apparatus ,  the extraocular muscles and the eyelids ,  eyelashes ,  eyebrows and the conjunctiva
+the primordial mouth region of the developing head .
+the sum of epicardial and paracardial fat deposits .
+any fat deposit surrounding a visceral organ .
+the part of the ventral body cavity that is within the abdominal segment of the trunk ,  which encompasses the abdomen proper plus pelvic cavity .
+an region of the mesoderm that includes anterior lateral mesoderm of the first heart field plus contiguous pharyngeal mesoderm that gives rise to second - heart - field - derived regions of the heart and branchiomeric muscles .
+material anatomical entity that forms the outermost boundary of an anatomical structure .
+a bodily fluid that is located in the coelom .
+any gland that is part os the respiratory system .
+a notochord that has persisted beyond the embryonic stage .
+a transudate found in the serous sac .
+a mucosa that is part of a lip region  [ automatically generated definition ]  .
+a zone of skin that is part of the face .
+cartilage which is part of the axial skeleton .
+structures of the dermis ,  epidermis ,  glands and pigment cells recognizable on the external surfaces of the integument .
+dermal ,  epidermal ,  glandular and pigment structures of the external head integument .
+dermal ,  epidermal ,  glandular and pigment structures of the body integument .
+dermal ,  epidermal ,  glandular and pigment structures of the limb integument .
+blood vessels in respiratory skin .
+skeletal tissue that is mineralized .
+the region of the astragalus /  talus that carries the articular surface for the navicular .
+an anatomical surface that is part of a bone
+mesenchyme that is part of a forelimb bud .
+mesenchyme that is part of a hindlimb bud .
+a subdivision of the autopod consisting of pedal digit plus the region incorporating a single metapodial element .
+a subdivision of the autopod consisting of manual digit plus the region incorporating a single metapodial element .
+a subdivision of the autopod consisting of digit plus the region incorporating a single metapodial element .
+a subdivision of the skeleton of the autopod consisting of the phalanges of pedal digit plus the associated metapodial element .
+a subdivision of the skeleton of the autopod consisting of the phalanges of manual digit plus the associated metapodial element .
+a subdivision of the skeleton of the autopod consisting of the phalanges of a single digit plus the associated metapodial element .
+a unit which is a standard measure of the distance between two points .
+a unit which is a standard measure of the amount of matter / energy of a physical object .
+a unit which is a standard measure of the dimension in which events occur in sequence .
+a unit which is a standard measure of the average kinetic energy of the particles in a sample of matter .
+a unit which is a standardised quantity of an element or compound with uniform composition .
+a unit which represents a standard measurement of how much of a given substance there is mixed with another substance .
+a unit which is a standard measure of the amount of space occupied by any substance ,  whether solid ,  liquid ,  or gas .
+a unit which is a standard measure of the number of repetitive actions in a particular time .
+a unit which is a standard measure of the volume of fluid which passes through a given surface per unit time  .
+a unit which represents a standard measurement occurrence of a process per unit time .
+x ventral_to y iff x is further along the dorso - ventral axis than y ,  towards the front .
+a thin layer of loose connective tissue which lies beneath the epithelium and together with the epithelium constitutes the mucosa [ wp ]  .
+a potential space between the visceral and parietal layers of the pericardium .
+endocardium that is part of the cardiac ventricle .
+an epicardial layer that lines a cardiac ventricle
+muscular layer of the cardiac ventricle composed of a compact myocardial layer surrounding the trabecular layer .
+muscle tissue composed of cardiac muscle cells ,  forming the muscles of the heart [ zfa , modified ]  .
+cardiac chamber in which blood enters the heart .
+cardiac chamber through which blood leaves the heart .
+endocardium that is part of the atrium .
+the atrial part of middle layer of the heart ,  comprised of involuntary muscle
+a region of the serous membrane that forms the innermost layer of the pericardium and the outer surface of the heart .
+the middle layer of the heart ,  comprised mainly of striated cardiac muscle fibers
+the cardiac conduction system consists of specialized cardiomyocytes that regulate the frequency of heart beat [ go ] 
+serous membrane which is divided into parietal and visceral serous pericardium .
+membrane organ which is attached to the pericardial sac proper and the central tendon of diaphragm and is continuous with the pretracheal fascia .
+a double - walled sac containing the heart and the roots of the great vessels .
+the combination of pericardial sac  ( a double - walled sac containing the heart and the roots of the great vessels )  plus fibrous pericardium .
+parietal serous membrane which is part of the pericardium and forms the outer layer of the pericardial sac .
+transudate contained in the pericardial cavity .
+visceral serous membrane which is continuous with the parietal serous pericardium and is attached to the myocardium [ fma ]  .
+a mesothelium that is part of a pericardium  [ automatically generated definition ]  .
+vein of heart that drains the myocardium
+an embryonic group of progenitor cells that forms from an outpouching of the septum transversum near the venous pole of the heart and gives rise to the epicardium
+a thick plate of mesodermal tissue that occupies the space between the thoracic cavity and yolk stalk in the early embryo ,  forming a transverse partition partially separating the coelomic cavity into thoracic and abdominal portions .
+dense connective tissue that separates the atria from the ventricles and provides physical support for the heart .
+a portion of cardiac muscle tissue that is part of an atrium  [ automatically generated definition ]  .
+a portion of cardiac muscle tissue that is part of a cardiac septum  [ automatically generated definition ]  .
+a portion of cardiac muscle tissue that is part of a myocardium  [ automatically generated definition ]  .
+a lamina propria that is part of a respiratory system  [ automatically generated definition ]  .
+an anatomical wall that is part of a cardiac ventricle  [ automatically generated definition ]  .
+a lamina propria that is part of a mucosa of oral region .
+multi - tissue structure that is part of the heart tube and will become the cardiac ventricle .
+loose connective tissue located at the outer and inner layers of organs .
+the distal elements of the developing limb of vertebrates that will give rise to the pes  ( foot ) 
+the distal elements of the developing limb of vertebrates that will give rise to the manus  ( hand ) 
+a mesothelium that is part of a serous pericardium .
+the distal elements of the developing limb of vertebrates that will give rise to the autopod  ( e .g .
+any portion of cardiac muscle tissue that is part of the conducting system of heart or the purkinje fibers .
+multi - tissue structure that is part of the heart tube and will become the cardiac atrium .
+an anatomical junction that divides and overlaps with and atrium and a ventricle in the heart .
+a layer of tissue between the muscularis and serosa .
+visceral intrapericardial fat contiguous with the myocardial surface .
+fat deposits in the mediastinum outside the parietal pericardium  .
+wall of organ which has as its parts the endocardium ,  myocardium  ,  epicardium ,  and the cardiac septum ,  surrounded by the pericardial sac proper and is continuous with the walls of the systemic and pulmonary arterial and venous trees .
+an anatomical junction between two parts of the digestive tract .
+the length of a line of a femur from a medial condyle of a femur to a greater trochanter of a femur .
+the length of a line of a femur from a medial condyle of a femur to a head of a femur .
+the length of a line of a trochlea of a humerus to a proximal head of a humerus .
+the length of a line of a trochlea of a humerus to a ventral tubercle of a humerus .
+obsolete medial - lateral width of the distal end of an astragalus .
+obsolete length between the proximal - most points of the medial and lateral trochlear ridges of an astragalus .
+the length of the lateral side of a talus along the proximal - distal axis .
+the width of the medial side of a talus along the anterior - posterior axis .
+obsolete length of the lateral side of an astragalus .
+the length of the medial side of a talus along the proximal - distal axis .
+the length of a line between the medial - most point on the articular surface for the calcaneum on the astragalus to the lateral - most point of the trochleated head of an astragalus .
+length of the distal end of an astragalus along the cranial - caudal axis .
+the width of a talus along the medial - lateral axis .
+the maximal length of a calcaneus .
+the width of a caclcaneus along the medial - lateral axis of the distal end .
+the length of a tibia on the lateral side of a tibia along the proximal - distal axis .
+the width of shaft or diaphysis of a tibia .
+the width of the proximal end of a tibia .
+the width of the distal end of a tibia .
+the width of a tibia at the distal end along the medial - lateral axis .
+the length of a line of an ear from a helix of the outer ear to a tragus of an ear .
+the width of a tibia at the distal end along the anterior - posterior axis .
+the width of a tibia at the proximal end along the medial - lateral axis .
+the width of a tibia at the proximal end along the anterior - posterior axis .
+the width of a shaft or diaphysis of a tibia along the medial - lateral axis .
+the width of a shaft or diaphysis of a tibia along the anterior - posterior axis .
+the length of a tibia on the medial side along the proximal - distal axis .
+the greatest length of a tibia from the proximal - most point of a tibia to the distal - most point of a tibia .
+the circumference of the diaphysis of a tibia .
+the width of the proximal end of a femur along the medial - lateral axis .
+the width of the trochanter of a femur along the medial - lateral axis .
+the width of the caput of a femur along the anterior - posterior axis .
+the width of the diaphysis of a femur along the medial - lateral axis .
+the circumference of the diaphysis of a femur .
+the width of the distal end of a femur along the medial - lateral axis .
+the width of the proximal end of a femur along the anterior - posterior axis .
+the width of the distal end of a femur along the anterior - posterior axis .
+the width of the trochlea of a femur along the medial - lateral axis .
+the width of the diaphysis of a femur along the anterior - posterior axis .
+the width of the diaphysis of a humerus along the medial - lateral axis .
+the width of the proximal end of a humerus along the medial - lateral axis .
+the width of the trochlea of a humerus along the medial - lateral axis .
+the width of the distal end of a humerus along the anterior - posterior axis .
+the width of the proximal end of a humerus along the anterior - posterior axis .
+the width of the distal end of a humerus along the medial - lateral axis .
+the width of the diaphysis of a humerus along the anterior - posterior axis .
+the width of the lateral side of a talus along the anterior - posterior axis .
+the width of the distal end of a talus along the medial - lateral axis .
+the length of the trochlea tali of a talus along the proximal - distal axis .
+the width of the trochlea of a talus along the medial - lateral axis .
+the length of the proximal end of a calcaneus along the proximal - distal axis .
+the width of the distal end of a calcaneus along the anterior - posterior axis .

@@ -1,0 +1,371 @@
+genome annotation
+gene
+transcript
+est
+transcript support level
+tsl 1
+tsl 2
+tsl 3
+tsl 4
+tsl 5
+tsl na
+appris
+appris p1
+appris p2
+appris p3
+appris p4
+appris p5
+appris alt1
+appris alt2
+gencode basic
+5' incomplete
+3' incomplete
+ensembl canonical
+ccds
+biotype
+protein coding
+processed transcript
+long non - coding rna  ( lncrna )
+non coding
+3' overlapping ncrna
+antisense
+lincrna  ( long intergenic ncrna )
+retained intron
+sense intronic
+sense overlapping
+macro lncrna
+ncrna
+mirna
+pirna
+rrna
+sirna
+snrna
+snorna
+trna
+vaultrna
+miscrna
+pseudogene
+processed pseudogene
+unprocessed pseudogene
+transcribed pseudogene
+translated pseudogene
+polymorphic pseudogene
+unitary pseudogene
+ig pseudogene
+ig gene
+tr gene
+tec  ( to be experimentally confirmed )
+readthrough
+ig v gene
+ig d gene
+ig j gene
+ig c gene
+tr v gene
+tr d gene
+tr j gene
+tr c gene
+cdna
+cds
+peptide
+protein domain
+exon
+intron
+codon
+constitutive exon
+phase
+flanking sequence
+untranslated region
+5' utr
+3' utr
+homologues
+gene tree
+orthologues
+1 - to - 1 orthologues
+1 - to - many orthologues
+many - to - many orthologues
+paralogues
+between species paralogues
+gene split
+other paralogues
+within species paralogues
+homoeologues
+variant
+qtl
+eqtl
+evidence status
+sequence variant
+structural variant
+snp
+insertion
+deletion
+indel
+substitution
+cnv
+inversion
+translocation
+allele  ( variant )
+allele  ( gene )
+reference allele
+alternative allele
+major allele
+minor allele
+private allele
+ancestral allele
+minor allele frequency
+highest population maf
+global maf
+genotype
+genetic marker
+tandem repeat
+alu insertion
+complex structural alteration
+complex substitution
+interchromosomal breakpoint
+interchromosomal translocation
+intrachromosomal breakpoint
+intrachromosomal translocation
+loss of heterozygosity
+mobile element deletion
+mobile element insertion
+novel sequence insertion
+short tandem repeat variant
+tandem duplication
+probe
+variant consequence
+variant impact
+high impact variant consequence
+moderate impact variant consequence
+low impact variant consequence
+modifier impact variant consequence
+transcript ablation
+splice acceptor variant
+splice donor variant
+stop gained
+frameshift variant
+stop lost
+start lost
+transcript amplification
+inframe insertion
+inframe deletion
+missense variant
+protein altering variant
+splice region variant
+incomplete terminal codon variant
+stop retained variant
+synonymous variant
+coding sequence variant
+mature mirna variant
+5 prime utr variant
+3 prime utr variant
+non coding transcript exon variant
+intron variant
+nmd transcript variant
+non coding transcript variant
+upstream gene variant
+downstream gene variant
+tfbs ablation
+tfbs amplification
+tf binding site variant
+regulatory region ablation
+regulatory region amplification
+feature elongation
+regulatory region variant
+feature truncation
+intergenic variant
+ambiguity code
+flagged variant
+clinical significance
+linkage disequilibrium
+r2
+d'
+haplotype  ( variation )
+transcript haplotype
+genome
+genome assembly
+coverage
+primary assembly
+alternative sequence
+patch
+haplotype  ( genome )
+novel patch
+fix patch
+contig
+scaffold
+cytogenetic band
+clone
+bac
+yac
+cosmid
+base pairs  ( genome size )
+golden path  ( genome size )
+coordinate system
+karyotype
+par
+slice
+toplevel
+placed scaffold
+unplaced scaffold
+ensembl sources
+gene source database
+gencode
+refseq
+uniprot
+imgt
+swissprot
+trembl
+insdc
+ena
+genbank  ( database )
+ddbj
+gene ontology
+hgnc
+rfam
+mirbase
+mgi
+zfin
+sgd
+ucsc genome browser
+epigenome source database
+encode
+blueprint epigenomes
+roadmap epigenomics
+variation source database
+dbsnp
+eva
+dbvar
+dgva
+1000 genomes project
+gnomad
+topmed
+uk10k
+hapmap
+clinvar
+phenotype source database
+omim
+omia
+orphanet
+gwas catalog
+impc
+animal qtldb
+hgmd
+cosmic
+pdb
+algorithm
+ensembl genebuild
+ensembl havana
+ensembl regulatory build
+ensembl gene tree pipeline
+interproscan
+blast
+blat
+dust
+eponine
+genewise
+exonerate
+projection build
+genscan
+sift
+polyphen
+repeatmasker
+blosum 62
+vep
+hgvs nomenclature
+vcf
+bed
+fasta
+bam / cram
+bigbed
+ensembl default  ( vep )
+bedgraph
+gtf
+gff
+psl
+wiggle
+bigwig
+pairwise interactions  ( washu )
+chain
+newick
+embl  ( file format )
+genbank  ( file format )
+emf alignment format
+maf
+mysql
+vep cache
+gvf
+phyloxml
+orthoxml
+rdf
+agp
+repeat masking
+hard masked
+soft masked
+microsatellite
+centromere
+low complexity regions
+rna repeats
+satellite repeats
+simple repeats
+tandem repeats
+ltrs
+type i transposons / line
+type i transposons / sine
+type ii transposons
+unknown repeat
+alignments
+whole genome alignment
+pairwise whole genome alignment
+multiple whole genome alignment
+synteny
+cigar
+identity
+wasabi
+similarity
+pecan
+epo
+progressive cactus
+lastz
+blastz
+translated blat
+regulatory features
+promoters
+promoter flanking regions
+enhancers
+ctcf binding sites
+transcription factor binding sites
+open chromatin regions
+regulatory activity
+active
+poised
+repressed
+inactive
+na
+epigenome evidence
+chip - seq
+dnase sensitivity
+transcription factor
+histone modification
+dna methylation
+bisulfite sequencing
+signal
+peak
+transcription factor binding motif
+epigenome
+marker
+unists
+external reference
+cadd
+revel
+mutationassessor
+metalr
+mane
+mane select
+mane select v0 .5
+tagene
+stop codon readthrough
+forward strand
+reverse strand
+refseq match
+uniprot match
+nonsense mediated decay
+non - atg start
+mane plus clinical

@@ -1,0 +1,226 @@
+continuant
+occurrent
+independent continuant
+obsolete dependent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+continuant fiat boundary
+process profile
+relational quality
+geographic location
+conditional specification
+measurement unit label
+objective specification
+narrative object
+action specification
+datum label
+software
+obsolete2_digital entity
+journal article
+information carrier
+model number
+obsolete2_binary digital entity
+obsolete_unit of measure
+programming language
+data item
+symbol
+numeral
+information content entity
+integer numeral
+scalar measurement datum
+directive information entity
+time trigger
+obsolete_study interpretation
+dot plot
+graph
+obsolete2_text based digital entity
+rule
+obsolete2_report figure
+algorithm
+software interpreter
+curation status specification
+density plot
+report
+obsolete_report element
+obsolete2_binary executable
+source code module
+obsolete_report table
+data format specification
+data set
+image
+data about an ontology part
+plan specification
+obsolete2_digital document
+measurement datum
+version number
+serial number
+lot number
+setting datum
+conclusion textual entity
+material information bearer
+histogram
+heatmap
+venn diagram
+obsolete_survival curve
+dendrogram
+scatter plot
+photograph
+photographic print
+obsolescence reason specification
+textual entity
+citation
+author identification
+institutional identification
+caption
+document title
+table
+table of abbreviations
+figure
+diagram
+document
+publication
+publication about an investigation
+patent
+document part
+abstract
+introduction to a publication about an investigation
+methods section
+results section
+discussion section of a publication about an investigation
+references section
+author list
+institution list
+author contributions section
+acknowledgements section
+footnote
+supplementary material to a document
+table of contents
+table of figures
+running title
+copyright section
+cartesian spatial coordinate datum
+one dimensional cartesian spatial coordinate datum
+two dimensional cartesian spatial coordinate datum
+three dimensional cartesian spatial coordinate datum
+length measurement datum
+denotator type
+mass measurement datum
+hypothesis textual entity
+time measurement datum
+postal address
+author role
+data item extraction from journal article
+documenting
+line graph
+assigning a centrally registered identifier
+associating information with a centrally registered identifier in its registry
+obsolete_establishing a crid registry
+centrally registered identifier symbol
+centrally registered identifier
+centrally registered identifier registry
+looking up a centrally registered identifier
+time sampled measurement data set
+written name
+software method
+software module
+software library
+software application
+software script
+abbreviation textual entity
+abbreviations section
+author information section
+author information textual entity
+author summary section
+author summary textual entity
+availability section
+availability textual entity
+case report section
+case report textual entity
+conclusion section
+conflict of interest section
+conflict of interest textual entity
+consent section
+consent textual entity
+ethical approval section
+ethical approval textual entity
+figures section
+funding source declaration section
+funding source declaration textual entity
+future directions section
+future directions textual entity
+genome announcement section
+genome announcement textual entity
+keyword textual entity
+keywords section
+study limitations section
+study limitations textual entity
+materials section
+notes section
+patients section
+patients textual entity
+pre - publication history section
+pre - publication history textual entity
+related work section
+related work textual entity
+requirements section
+requirements textual entity
+statistical analysis textual entity
+statistical analysis section
+tables section
+database extract ,  transform ,  and load process
+base ontology module
+editors ontology module
+main release ontology module
+bridge ontology module
+import ontology module
+subset ontology module
+curation subset ontology module
+analysis subset ontology module
+single layer subset ontology module
+exclusion subset ontology module
+external import ontology module
+species subset ontology module
+reasoned ontology module
+generated ontology module
+template generated ontology module
+obo basic subset ontology module
+planned process
+investigation
+study design execution
+study design
+morphology
+size
+length
+mass
+physical quality
+physical object quality
+1 - d extent
+length unit
+mass unit
+has member
+software development
+count
+counting
+source code repository
+compiling software
+dataset creating
+publishing process
+document in preparation for publication
+postal code
+postal delivery route
+zone improvement plan code
+descriptive data section
+additional results section
+research participants section
+measurement methods section
+research settings section
+study bias section
+graphical abstract
+identifier
+data transformation
+time unit

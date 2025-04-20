@@ -1,0 +1,469 @@
+reproduction
+nucleotide - excision repair complex
+flocculation
+polarisome
+ubiquitin ligase complex
+nucleotide binding
+exosome  ( rnase complex )
+cell fraction
+nuclear division
+cyclin - dependent protein kinase holoenzyme complex
+transcription export complex
+tho complex
+ssl2 - core tfiih complex
+proteasome complex
+conjugation
+kinetochore
+telomere cap complex
+nucleosome
+condensin complex
+origin recognition complex
+gamma - tubulin complex
+radial spoke
+cell activation
+cytokine production
+pattern binding
+nucleoside binding
+cell killing
+photoreceptor inner segment
+nucleobase binding
+immune system process
+molecular_function
+nucleic acid binding
+chromatin binding
+motor activity
+antigen binding
+catalytic activity
+glycogen debranching enzyme activity
+helicase activity
+monooxygenase activity
+transposase activity
+signal transducer activity
+structural molecule activity
+transporter activity
+binding
+steroid binding
+protein binding
+odorant binding
+cellular_component
+extracellular region
+cell wall
+intracellular
+nucleus
+nuclear pore
+dna replication factor c complex
+transcription factor complex
+spliceosomal complex
+chromosome
+telomerase holoenzyme complex
+nucleolus
+small nucleolar ribonucleoprotein complex
+mitochondrion
+mitochondrial inner membrane presequence translocase complex
+endosome
+vacuole
+endoplasmic reticulum
+translocon complex
+golgi apparatus
+centrosome
+fatty acid synthase complex
+ribosome
+polysome
+mrna cleavage factor complex
+cytoskeleton
+voltage - gated calcium channel complex
+microvillus
+brush border
+cilium
+cellular bud
+mating projection
+phosphoinositide 3 - kinase complex
+glycine cleavage complex
+carbohydrate metabolic process
+polysaccharide metabolic process
+alcohol metabolic process
+cellular aldehyde metabolic process
+organic acid metabolic process
+generation of precursor metabolites and energy
+energy reserve metabolic process
+fermentation
+oxidative phosphorylation
+nucleobase ,  nucleoside ,  nucleotide and nucleic acid metabolic process
+dna metabolic process
+dna replication
+dna ligation
+plasmid maintenance
+dna repair
+dna modification
+dna packaging
+transcription
+rna elongation
+rna processing
+translation
+protein folding
+protein modification process
+proteolysis
+peptide metabolic process
+cellular amino acid and derivative metabolic process
+lipid metabolic process
+glycerol ether metabolic process
+cellular aromatic compound metabolic process
+one - carbon metabolic process
+vitamin metabolic process
+phosphorus metabolic process
+oxygen and reactive oxygen species metabolic process
+xenobiotic metabolic process
+nitrogen compound metabolic process
+transport
+ion transport
+hydrogen transport
+neurotransmitter transport
+amino acid transport
+lipid transport
+autophagy
+cell motion
+muscle contraction
+syncytium formation
+organelle organization
+nucleus organization
+mitochondrion organization
+cytoplasm organization
+endoplasmic reticulum organization
+golgi organization
+peroxisome organization
+endosome organization
+vacuole organization
+cell wall organization
+cell cycle
+chromosome segregation
+cell communication
+cell adhesion
+digestion
+excretion
+blood circulation
+transcription elongation factor complex
+cell recognition
+drug binding
+biological_process
+metabolic process
+peptidase activity
+cohesin complex
+cell proliferation
+protein serine / threonine phosphatase complex
+lipid binding
+f - actin capping protein complex
+bacterial binding
+small protein activating enzyme activity
+carbohydrate transport
+pyrimidine salvage
+integrase activity
+site - specific recombinase activity
+electron carrier activity
+nucleoside metabolic process
+nucleotide metabolic process
+nucleotide - sugar metabolic process
+pilus
+genetic transfer
+amine metabolic process
+acetyl - coa carboxylase complex
+endopeptidase clp complex
+quorum sensing
+toxin metabolic process
+photosystem
+plastid
+thylakoid
+plastid organization
+hormone transport
+cyclase activity
+cell surface
+cellular process
+stomatal movement
+mucilage metabolic process
+pyrophosphate - dependent phosphofructokinase complex
+protein transport
+dna integration
+auxiliary transport protein activity
+gas transport
+polyol transport
+peptide transport
+peptidoglycan transport
+amine transport
+organic acid transport
+siderophore transport
+drug transport
+lipopolysaccharide transport
+nucleobase ,  nucleoside ,  nucleotide and nucleic acid transport
+small ribosomal subunit
+methanogenesis
+nucleobase ,  nucleoside and nucleotide interconversion
+photosynthesis
+dystrophin - associated glycoprotein complex
+membrane
+rhabdomere
+viral reproduction
+cellular component organization
+membrane organization
+cell growth
+vesicle organization
+rna metabolic process
+vesicle - mediated transport
+antioxidant activity
+gene silencing
+proton - transporting two - sector atpase complex
+sodium ion - transporting two - sector atpase complex
+oxidoreductase activity
+metallochaperone activity
+chromatin remodeling complex
+dna - directed rna polymerase ii ,  holoenzyme
+amino acid binding
+nitrogenase complex
+transferase activity
+hydrolase activity
+lyase activity
+isomerase activity
+ligase activity
+insulin - like growth factor binding protein complex
+transcriptional repressor complex
+drug metabolic process
+organometal metabolic process
+virion
+deacetylase activity
+deaminase activity
+protein metabolic process
+secondary metabolic process
+immunoglobulin complex
+oxygen binding
+isoprenoid binding
+vitamin binding
+flagellum
+glycosome
+acidocalcisome
+membrane docking
+cellular component disassembly
+cellular component assembly
+biological adhesion
+light - harvesting complex
+glycocalyx
+s - layer
+ap - type membrane coat adaptor complex
+filopodium
+enzyme regulator activity
+carbohydrate binding
+external encapsulating structure
+cell envelope
+site of polarized growth
+cell septum
+sleep
+midbody
+transcription regulator activity
+ribonucleoprotein complex
+small nuclear ribonucleoprotein complex
+ribonuclease p complex
+preribosome
+noc complex
+rna polymerase complex
+replisome
+retromer complex
+adpg pyrophosphorylase complex
+nadh dehydrogenase complex
+intraflagellar transport particle
+extracellular matrix
+microtubule organizing center organization
+glutamate synthase complex
+programmed dna elimination
+nucleocytoplasmic shuttling complex
+bloc complex
+platelet dense tubular network
+septin complex
+pseudopodium
+endoplasmic reticulum sec complex
+protein acetyltransferase complex
+cell leading edge
+trailing edge
+death - inducing signaling complex
+rnai effector complex
+ubiquitin conjugating enzyme complex
+protein tag
+carboxylic acid binding
+pigment binding
+polyhedral organelle
+mannosyltransferase complex
+pcg protein complex
+killing of cells of another organism
+regulation of protein stability
+vesicle
+energy transducer activity
+bleb
+cell division site
+germ tube
+transposition
+mismatch repair complex
+dna geometric change
+stereocilium bundle
+demethylase activity
+decaprenyl diphosphate synthase complex
+multicellular organismal process
+developmental process
+cellular component morphogenesis
+macromolecular complex
+fc receptor complex
+dna recombinase mediator complex
+attachment organelle
+dna helicase complex
+amide binding
+i - kappab / nf - kappab complex
+cellular macromolecular complex assembly
+histone methyltransferase complex
+cytoneme
+phthalate binding
+growth
+locomotion
+fluid transport
+chemoattractant activity
+neurotransmitter metabolic process
+neurotransmitter binding
+cellular ketone metabolic process
+ribosome biogenesis
+peptide binding
+molting cycle
+pigment metabolic process
+hormone metabolic process
+hormone binding
+hydrogenosome
+dna polymerase complex
+microbody
+periplasmic space
+chorion
+mhc protein complex
+poly ( 3 - hydroxyalkanoate )  metabolic process
+biofilm formation
+pheromone metabolic process
+mhc class i peptide loading complex
+amide transport
+xenobiotic transport
+cell projection
+neuron projection
+ribonucleoprotein binding
+cell soma
+isoamylase complex
+extracellular structure organization
+cellular metabolic compound salvage
+purine salvage
+cell envelope organization
+ion binding
+macromolecule metabolic process
+amine binding
+alcohol binding
+atp - binding cassette  ( abc )  transporter complex
+organelle
+intracellular organelle
+extracellular organelle
+intracellular membrane - bounded organelle
+intracellular non - membrane - bounded organelle
+protein complex
+receptor complex
+laminin complex
+biopolymer metabolic process
+biopolymer biosynthetic process
+biopolymer catabolic process
+catalysis of free radical formation
+biopolymer modification
+cellular alkane metabolic process
+cellular alkene metabolic process
+cellular alkyne metabolic process
+pigmentation
+cell surface binding
+muscle adaptation
+inhibin complex
+trna methyltransferase complex
+endospore external encapsulating structure
+cellular amide metabolic process
+cellular metabolic process
+primary metabolic process
+cellular lipid metabolic process
+interspecies interaction between organisms
+cell part
+apical part of cell
+basal part of cell
+translation regulator activity
+synapse
+external encapsulating structure organization
+capsule organization
+slime layer organization
+tricarboxylic acid cycle enzyme complex
+electron transfer flavoprotein complex
+oxoglutarate dehydrogenase complex
+pyruvate dehydrogenase  ( lipoamide )  phosphatase complex
+pyruvate dehydrogenase complex
+respiratory chain complex ii
+respiratory chain complex iii
+respiratory chain complex iv
+mrna editing complex
+cellular respiration
+fusome organization
+chemorepellent activity
+nutrient reservoir activity
+heterocycle metabolic process
+isopentenyl diphosphate metabolic process
+dosage compensation complex
+virion transport
+host cell surface binding
+isoprenoid transport
+secretion
+tetrapyrrole binding
+cellular ketone body metabolic process
+cofactor binding
+activin complex
+middle lamella - containing extracellular matrix
+organelle fusion
+organelle fission
+organelle inheritance
+cell maturation
+holliday junction resolvase complex
+ribulose bisphosphate carboxylase complex
+signal recognition particle
+rhythmic process
+pigment granule organization
+tissue remodeling
+depsipeptide metabolic process
+coagulation
+water binding
+extracellular matrix binding
+neurological system process
+regulation of body fluid levels
+multicellular organismal movement
+endocrine process
+response to stimulus
+localization
+vitamin transport
+cofactor transport
+cofactor metabolic process
+prosthetic group metabolic process
+dioxygenase activity
+establishment of localization
+protein polymerization
+protein depolymerization
+chromosome organization
+cell division
+metal cluster binding
+protein maturation
+detection of stimulus
+organelle localization
+cellular localization
+intraspecies interaction between organisms
+multi - organism process
+behavioral interaction between organisms
+phytoalexin metabolic process
+symplast
+molecular transducer activity
+molecular adaptor activity
+macromolecular complex assembly
+biological regulation
+transforming growth factor beta1 - type ii receptor complex
+transforming growth factor beta1 - type ii receptor - type i receptor complex
+interleukin12 - interleukin - 12 receptor complex
+cd19 - vav - pik3r1 complex
+interleukin4 - interleukin - 4 receptor complex
+cell hair
+dna replication factor c core complex
+regulates

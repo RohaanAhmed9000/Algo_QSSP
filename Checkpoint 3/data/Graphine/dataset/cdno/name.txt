@@ -1,0 +1,950 @@
+dietary nutritional component
+dry plant matter
+available carbohydrate
+free sugar
+dietary fibre
+soluble dietary fibre
+resistant starch
+insoluble dietary fibre
+seed storage protein
+macro element
+trace element
+plant secondary metabolite
+amylopectin derived from starch
+amylose derived from starch
+galacturonan derived from pectin
+rhamnogalacturonan derived from pectin
+mannan derived from hemicellulose
+xylan derived from hemicellulose
+xyloglucan derived from hemicellulose
+glucomannan derived from hemicellulose
+arabinoxylan derived from hemicellulose
+fructan derived from hemicellulose
+arabinan derived from hemicellulose
+galactomannan derived from hemicellulose
+galactan derived from hemicellulose
+glucose derived from amylopectin derived from starch
+glucose derived from amylose derived from starch
+glucose derived from sucrose
+fructose derived from sucrose
+glucose derived from maltose
+galacturonic acid derived from galacturonan derived from pectin
+rhamnose derived from rhamnogalacturonan derived from pectin
+apiose derived from rhamnogalacturonan derived from pectin
+galacturonic acid derived from rhamnogalacturonan derived from pectin
+fucose derived from rhamnogalacturonan derived from pectin
+xylose derived from rhamnogalacturonan derived from pectin
+arabinose derived from rhamnogalacturonan derived from pectin
+galactose derived from rhamnogalacturonan derived from pectin
+raffinose derived from raffinose family of oligosaccharide  ( rfo )
+galactose derived from raffinose derived from raffinose family of oligosaccharide  ( rfo )
+glucose derived from raffinose derived from raffinose family of oligosaccharide  ( rfo )
+fructose derived from raffinose derived from raffinose family of oligosaccharide  ( rfo )
+stachyose derived from raffinose family of oligosaccharide  ( rfo )
+galactose derived from stachyose derived from raffinose family of oligosaccharide  ( rfo )
+glucose derived from stachyose derived from raffinose family of oligosaccharide  ( rfo )
+fructose derived from stachyose derived from raffinose family of oligosaccharide  ( rfo )
+verbascose derived from raffinose family of oligosaccharide  ( rfo )
+galactose derived from verbascose derived from raffinose family of oligosaccharide  ( rfo )
+glucose derived from verbascose derived from raffinose family of oligosaccharide  ( rfo )
+fructose derived from verbascose derived from raffinose family of oligosaccharide  ( rfo )
+glucose derived from cellulose
+mannose derived from mannan derived from hemicellulose
+glucose derived from xylan derived from hemicellulose
+xylose derived from xylan derived from hemicellulose
+glucose derived from xyloglucan derived from hemicellulose
+xylose derived from xyloglucan derived from hemicellulose
+glucose derived from glucomannan derived from hemicellulose
+mannose derived from glucomannan derived from hemicellulose
+arabinose derived from arabinoxylan derived from hemicellulose
+xylose derived from arabinoxylan derived from hemicellulose
+inulin derived from fructan
+fructose derived from inulin derived from fructan
+amino acid derived from protein
+concentration of dietary nutritional component in plant structure
+concentration of water in plant structure
+concentration of dry plant matter in plant structure
+concentration of ash in plant structure
+concentration of carbohydrate in plant structure
+concentration of polysaccharide in plant structure
+concentration of starch in plant structure
+concentration of pectin in plant structure
+concentration of cellulose in plant structure
+concentration of hemicellulose in plant structure
+concentration of inulin in plant structure
+concentration of monosaccharide in plant structure
+concentration of glucose in plant structure
+concentration of fructose in plant structure
+concentration of rhamnose in plant structure
+concentration of apiose in plant structure
+concentration of galacturonic acid in plant structure
+concentration of fucose in plant structure
+concentration of xylose in plant structure
+concentration of arabinose in plant structure
+concentration of galactose in plant structure
+concentration of mannose in plant structure
+concentration of ribose in plant structure
+concentration of disaccharide in plant structure
+concentration of sucrose in plant structure
+concentration of trehalose in plant structure
+concentration of maltose in plant structure
+concentration of oligosaccharide in plant structure
+concentration of raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of raffinose in plant structure
+concentration of stachyose in plant structure
+concentration of verbascose in plant structure
+concentration of available carbohydrate in plant structure
+concentration of free sugar in plant structure
+concentration of dietary fibre in plant structure
+concentration of soluble dietary fibre in plant structure
+concentration of resistant starch in plant structure
+concentration of insoluble dietary fibre in plant structure
+concentration of fructan in plant structure
+concentration of protein in plant structure
+concentration of seed storage protein in plant structure
+concentration of albumin type in plant structure
+concentration of globulin type in plant structure
+concentration of prolamin in plant structure
+concentration of cruciferin in plant structure
+concentration of glutenin in plant structure
+concentration of alanine in plant structure
+concentration of arginine in plant structure
+concentration of asparagine in plant structure
+concentration of aspartic acid in plant structure
+concentration of cysteine in plant structure
+concentration of glutamic acid in plant structure
+concentration of glutamine in plant structure
+concentration of glycine in plant structure
+concentration of histidine in plant structure
+concentration of hydroxyproline in plant structure
+concentration of isoleucine in plant structure
+concentration of leucine in plant structure
+concentration of lysine in plant structure
+concentration of methionine in plant structure
+concentration of phenylalanine in plant structure
+concentration of proline in plant structure
+concentration of serine in plant structure
+concentration of threonine in plant structure
+concentration of tryptophan in plant structure
+concentration of tyrosine in plant structure
+concentration of valine in plant structure
+concentration of lipid in plant structure
+concentration of diglyceride in plant structure
+concentration of cis - fatty acid in plant structure
+concentration of octanoic acid in plant structure
+concentration of pentadecanoic acid in plant structure
+concentration of tetracosanoic acid in plant structure
+concentration of lauric acid in plant structure
+concentration of myristic acid in plant structure
+concentration of palmitic acid in plant structure
+concentration of heptadecanoic acid in plant structure
+concentration of stearic acid in plant structure
+concentration of arachidic acid in plant structure
+concentration of behenic acid in plant structure
+concentration of lignoceric acid in plant structure
+concentration of propionic acid in plant structure
+concentration of myristoleic acid in plant structure
+concentration of palmitoleic acid in plant structure
+concentration of oleic acid in plant structure
+concentration of palmitelaidic acid in plant structure
+concentration of elaidic acid in plant structure
+concentration of vaccenic acid in plant structure
+concentration of gondoic acid in plant structure
+concentration of erucic acid in plant structure
+concentration of nervonic acid in plant structure
+concentration of omega - 3 - fatty acid in plant structure
+concentration of stearidonic acid in plant structure
+concentration of eicosatrienoic acid in plant structure
+concentration of eicosatetraenoic acid in plant structure
+concentration of 6z , 9z , 12z , 15z , 18z , 21z - tetracosahexaenoic acid in plant structure
+concentration of alpha - linolenic acid in plant structure
+concentration of icosapentaenoic acid in plant structure
+concentration of docosapentaenoic acid in plant structure
+concentration of docosahexaenoic acid in plant structure
+concentration of linolenic acid in plant structure
+concentration of omega - 6 fatty acid in plant structure
+concentration of linoleic acid in plant structure
+concentration of homo - gamma - linolenic acid in plant structure
+concentration of gamma - linolenic acid in plant structure
+concentration of eicosadienoic acid in plant structure
+concentration of arachidonic acid in plant structure
+concentration of docosadienoic acid in plant structure
+concentration of docosatetraenoic acid in plant structure
+concentration of trans - fatty acid in plant structure
+concentration of capsaicin in plant structure
+concentration of phospholipid in plant structure
+concentration of phosphatidylcholine in plant structure
+concentration of phosphatidylethanolamine in plant structure
+concentration of phosphatidyl - l - serine in plant structure
+concentration of phosphatidylinositol in plant structure
+concentration of lysophosphatidylcholine in plant structure
+concentration of glycolipid in plant structure
+concentration of glycoglycerolipid in plant structure
+concentration of sterol in plant structure
+concentration of campestanol in plant structure
+concentration of cholesterol in plant structure
+concentration of lupeol in plant structure
+concentration of phytosterol in plant structure
+concentration of avenasterol in plant structure
+concentration of delta5 - avenasterol in plant structure
+concentration of delta7 - avenasterol in plant structure
+concentration of brassicasterol in plant structure
+concentration of campesterol in plant structure
+concentration of ergosterol in plant structure
+concentration of sitosterol in plant structure
+concentration of stigmastanol in plant structure
+concentration of stigmasterol in plant structure
+concentration of delta7 - stigmasterol in plant structure
+concentration of mineral nutrient in plant structure
+concentration of macro element in plant structure
+concentration of calcium in plant structure
+concentration of chloride in plant structure
+concentration of magnesium in plant structure
+concentration of nitrogen in plant structure
+concentration of phosphorus in plant structure
+concentration of potassium in plant structure
+concentration of sodium in plant structure
+concentration of sulfur in plant structure
+concentration of trace element in plant structure
+concentration of aluminium in plant structure
+concentration of antimony in plant structure
+concentration of arsenic in plant structure
+concentration of boron in plant structure
+concentration of cadmium in plant structure
+concentration of chromium in plant structure
+concentration of cobalt in plant structure
+concentration of copper in plant structure
+concentration of fluoride in plant structure
+concentration of iodine in plant structure
+concentration of iron in plant structure
+concentration of lead in plant structure
+concentration of lithium in plant structure
+concentration of manganese in plant structure
+concentration of mercury in plant structure
+concentration of molybdenum in plant structure
+concentration of nickel in plant structure
+concentration of rubidium in plant structure
+concentration of selenium in plant structure
+concentration of strontium in plant structure
+concentration of tin in plant structure
+concentration of titanum in plant structure
+concentration of vanadium in plant structure
+concentration of zinc in plant structure
+concentration of barium in plant structure
+concentration of caesium atom in plant structure
+concentration of bismuth in plant structure
+concentration of lanthanum in plant structure
+concentration of salt in plant structure
+concentration of sodium chloride in plant structure
+concentration of inorganic nitrate salt in plant structure
+concentration of bromide in plant structure
+concentration of vitamin in plant structure
+concentration of water soluble vitamin in plant structure
+concentration of vitamin b in plant structure
+concentration of 5 - formyltetrahydrofolic acid in plant structure
+concentration of  ( 6r )  - 5 , 10 - methenyltetrahydrofolate in plant structure
+concentration of thiamine  ( b1 )  in plant structure
+concentration of riboflavin  ( b2 )  in plant structure
+concentration of niacin  ( b3 )  in plant structure
+concentration of pantothenic acid  ( b5 )  in plant structure
+concentration of pyridoxine  ( b6 )  in plant structure
+concentration of biotin  ( b7 )  in plant structure
+concentration of b9 folate in plant structure
+concentration of cyanocobalamin  ( b12 )  in plant structure
+concentration of vitamin c in plant structure
+concentration of l - ascorbic acid in plant structure
+concentration of fat soluble vitamin in plant structure
+concentration of vitamin a in plant structure
+concentration of carotenoid in plant structure
+concentration of alpha - carotene in plant structure
+concentration of beta - carotene in plant structure
+concentration of trans - beta - carotene in plant structure
+concentration of beta - carotene - cis in plant structure
+concentration of vitamin d in plant structure
+concentration of calcidiol in plant structure
+concentration of vitamin e in plant structure
+concentration of tocopherol in plant structure
+concentration of alpha - tocopherol in plant structure
+concentration of beta - tocopherol in plant structure
+concentration of gamma - tocopherol in plant structure
+concentration of delta - tocopherol in plant structure
+concentration of tocotrienol in plant structure
+concentration of alpha - tocotrienol in plant structure
+concentration of beta - tocotrienol in plant structure
+concentration of gamma - tocotrienol in plant structure
+concentration of delta - tocotrienol in plant structure
+concentration of vitamin k in plant structure
+concentration of plant secondary metabolite in plant structure
+concentration of alkaloid in plant structure
+concentration of caffeine in plant structure
+concentration of mescaline in plant structure
+concentration of theobromine in plant structure
+concentration of phenols in plant structure
+concentration of polyphenol in plant structure
+concentration of tannin in plant structure
+concentration of chlorogenic acid in plant structure
+concentration of condensed tannin in plant structure
+concentration of hydrolysable tannin in plant structure
+concentration of ellagitannin in plant structure
+concentration of gallotannin in plant structure
+concentration of phlorotannin in plant structure
+concentration of catechol in plant structure
+concentration of phloroglucinol in plant structure
+concentration of  (  -  )  - epigallocatechin 3 - gallate in plant structure
+concentration of phenolic acid in plant structure
+concentration of gallic acid in plant structure
+concentration of hydroxybenzoic acid in plant structure
+concentration of salicylic acid in plant structure
+concentration of arbutin in plant structure
+concentration of vanillic acid in plant structure
+concentration of syringic acid in plant structure
+concentration of phenolic ketone in plant structure
+concentration of acetophenone in plant structure
+concentration of phenylacetic acid in plant structure
+concentration of hydroxycinnamates in plant structure
+concentration of caffeic acid in plant structure
+concentration of sinapic acid in plant structure
+concentration of chromones in plant structure
+concentration of chicoric acid in plant structure
+concentration of coumaric acid in plant structure
+concentration of p - coumaric acid in plant structure
+concentration of o - coumaric acid in plant structure
+concentration of m - coumaric in plant structure
+concentration of ferulic acid in plant structure
+concentration of scopoletin in plant structure
+concentration of phenylpropane in plant structure
+concentration of napthoquinone in plant structure
+concentration of 1 , 2 - napthoquinone in plant structure
+concentration of 1 , 4 - napthoquinone in plant structure
+concentration of juglone in plant structure
+concentration of stilbenoid in plant structure
+concentration of stilbene in plant structure
+concentration of anthraquinone in plant structure
+concentration of aglycone in plant structure
+concentration of emodin in plant structure
+concentration of xanthones in plant structure
+concentration of simple oxygenated xanthones in plant structure
+concentration of xanthone glycoside in plant structure
+concentration of prenylated and related xanthones in plant structure
+concentration of xanthonolignoid in plant structure
+concentration of flavonoids in plant structure
+concentration of flavonoid in plant structure
+concentration of malvidin in plant structure
+concentration of kaempferol in plant structure
+concentration of flavan in plant structure
+concentration of flavanone in plant structure
+concentration of 6 - prenylnaringenin in plant structure
+concentration of sophoraflavanone b in plant structure
+concentration of eriocitrin in plant structure
+concentration of eriodictyol in plant structure
+concentration of hesperetin in plant structure
+concentration of hesperidin in plant structure
+concentration of homoeriodictyol in plant structure
+concentration of isosakuranetin in plant structure
+concentration of naringenin in plant structure
+concentration of naringin in plant structure
+concentration of narirutin in plant structure
+concentration of neoeriocitrin in plant structure
+concentration of neohesperidin in plant structure
+concentration of pinocembrin in plant structure
+concentration of poncirin in plant structure
+concentration of sakuranetin in plant structure
+concentration of flavone in plant structure
+concentration of 6 - hydroxyluteolin in plant structure
+concentration of 6 - hydroxyluteolin 7 - o - rhamnoside in plant structure
+concentration of 4' , 7 - dihydroxyflavone in plant structure
+concentration of apigenin in plant structure
+concentration of baicalein in plant structure
+concentration of chrysin in plant structure
+concentration of cirsilineol in plant structure
+concentration of cirsimaritin in plant structure
+concentration of diosmin in plant structure
+concentration of dihydromyricetin in plant structure
+concentration of eupatorin in plant structure
+concentration of gardenin b in plant structure
+concentration of geraldone in plant structure
+concentration of hispidulin in plant structure
+concentration of isovitexin in plant structure
+concentration of jaceosidin in plant structure
+concentration of luteolin in plant structure
+concentration of luteolin 7 - o - beta - glucoside in plant structure
+concentration of myricitrin in plant structure
+concentration of nobiletin in plant structure
+concentration of quercetin in plant structure
+concentration of rhoifolin in plant structure
+concentration of scutellarein in plant structure
+concentration of sinensetin in plant structure
+concentration of tangeretin in plant structure
+concentration of vitexin in plant structure
+concentration of dihydroflavanol in plant structure
+concentration of flavanols in plant structure
+concentration of catechin in plant structure
+concentration of  (  +  )  - catechin 3 - o - gallate in plant structure
+concentration of  (  +  )  - gallocatechin in plant structure
+concentration of  (  -  )  - epicatechin in plant structure
+concentration of  (  +  )  - epicatechin in plant structure
+concentration of  (  -  )  - gallocatechin in plant structure
+concentration of  (  -  )  - epicatechin - 3 - o - gallate in plant structure
+concentration of  (  -  )  - epigallocatechin in plant structure
+concentration of 3' - o - methylepicatechin in plant structure
+concentration of 4' - o - methylepigallocatechin - 3 - o - gallate in plant structure
+concentration of 4' - o - methylepigallocatechin in plant structure
+concentration of proanthocyanidin in plant structure
+concentration of cinnamtannin a2 in plant structure
+concentration of procyanidins in plant structure
+concentration of procyanidin dimer b1 in plant structure
+concentration of procyanidin dimer b2 in plant structure
+concentration of procyanidin dimer b3 in plant structure
+concentration of procyanidin dimer b4 in plant structure
+concentration of procyanidin dimer b5 in plant structure
+concentration of procyanidin dimer b6 in plant structure
+concentration of procyanidin trimer c1 in plant structure
+concentration of procyanidin trimer c2 in plant structure
+concentration of theaflavin in plant structure
+concentration of peltogynoid in plant structure
+concentration of dihydrochalcone in plant structure
+concentration of 3 - hydroxyphloretin - 2' - o - xylosyl - glucoside in plant structure
+concentration of phloretin in plant structure
+concentration of phlorizin in plant structure
+concentration of chalcone in plant structure
+concentration of butein in plant structure
+concentration of xanthohumol in plant structure
+concentration of aurone in plant structure
+concentration of anthocyanidin in plant structure
+concentration of cyanidin in plant structure
+concentration of cyanidin 3 - o - galactoside in plant structure
+concentration of cyanidin 3 - o - rutinoside in plant structure
+concentration of cyanidin 3 - o - sambubioside in plant structure
+concentration of cyanidin 3 - o - sophoroside in plant structure
+concentration of isopeonidin 3 - rutinoside in plant structure
+concentration of pelargonidin in plant structure
+concentration of pelargonidin 3 - o - rutinoside in plant structure
+concentration of anthocyanin in plant structure
+concentration of anthocyanin chlorides in plant structure
+concentration of cyanidin 3 - o - beta - d - galactoside chloride in plant structure
+concentration of cyanidin 3 - o - rutinoside chloride in plant structure
+concentration of cyanin chloride in plant structure
+concentration of pelargonidin 3 - o - beta - d - glucoside chloride in plant structure
+concentration of beta - d - glucoside in plant structure
+concentration of delphinidin 3 - o - beta - d - glucoside in plant structure
+concentration of petunidin 3 - o - beta - glucoside in plant structure
+concentration of malvidin 3 - o - beta - d - glucoside in plant structure
+concentration of isoflavonoid in plant structure
+concentration of isoflavan in plant structure
+concentration of isoflavanone in plant structure
+concentration of isoflavone in plant structure
+concentration of hydroxyisoflavone in plant structure
+concentration of daidzein in plant structure
+concentration of genistein in plant structure
+concentration of glycitein in plant structure
+concentration of glucoside in plant structure
+concentration of daidzin in plant structure
+concentration of genistin in plant structure
+concentration of glycitin in plant structure
+concentration of glycosyloxyisoflavone in plant structure
+concentration of malonyl daidzin in plant structure
+concentration of malonyl genistin in plant structure
+concentration of malonyl glycitin in plant structure
+concentration of acetyl glycitin in plant structure
+concentration of rotenoid in plant structure
+concentration of coumestans in plant structure
+concentration of coumestan in plant structure
+concentration of coumestrol in plant structure
+concentration of 3 - arylcoumarin in plant structure
+concentration of pterocarpans in plant structure
+concentration of pterocarpan in plant structure
+concentration of  (  -  )  - phaseolin in plant structure
+concentration of  (  +  )  - pisatin in plant structure
+concentration of neoflavonoid in plant structure
+concentration of biflavonoid in plant structure
+concentration of phenylpropanoid in plant structure
+concentration of lignan in plant structure
+concentration of silymarin in plant structure
+concentration of neolignan in plant structure
+concentration of lignin in plant structure
+concentration of melanin in plant structure
+concentration of catechol melanin in plant structure
+concentration of allomelanin in plant structure
+concentration of terpenoid in plant structure
+concentration of monoterpenoid in plant structure
+concentration of sesquiterpoid in plant structure
+concentration of diterpenoid in plant structure
+concentration of xanthophyll in plant structure
+concentration of zeaxanthin in plant structure
+concentration of alpha - cryptoxanthin in plant structure
+concentration of beta - cryptoxanthin in plant structure
+concentration of lutein in plant structure
+concentration of phytoene in plant structure
+concentration of neoxanthin in plant structure
+concentration of violaxanthin in plant structure
+concentration of lycopene in plant structure
+concentration of cis - lycopene in plant structure
+concentration of retinol in plant structure
+concentration of triterpenoid in plant structure
+concentration of organic acid in plant structure
+concentration of acetic acid in plant structure
+concentration of citric acid in plant structure
+concentration of lactic acid in plant structure
+concentration of d - lactic acid in plant structure
+concentration of l - lactic acid in plant structure
+concentration of malic acid in plant structure
+concentration of malonic acid in plant structure
+concentration of ascorbic acid in plant structure
+concentration of l - dehydroascorbic acid in plant structure
+concentration of oxalic acid in plant structure
+concentration of phytic acid in plant structure
+concentration of quinic acid in plant structure
+concentration of pyruvic acid in plant structure
+concentration of shikimic acid in plant structure
+concentration of succinic acid in plant structure
+concentration of tartaric acid in plant structure
+concentration of isocitric acid in plant structure
+concentration of oxaloacetic acid in plant structure
+concentration of inositol in plant structure
+concentration of taurine in plant structure
+concentration of glycine betaine in plant structure
+concentration of polyol in plant structure
+concentration of mannitol in plant structure
+concentration of xylitol in plant structure
+concentration of glucitol in plant structure
+concentration of choline in plant structure
+concentration of polyunsaturated fatty acid in plant structure
+concentration of glucomannan in plant structure
+concentration of glycerol in plant structure
+concentration of triglyceride in plant structure
+concentration of xyloglucan in plant structure
+concentration of arabinan in plant structure
+concentration of galacturonan in plant structure
+concentration of monounsaturated fatty acid in plant structure
+concentration of rhamnogalacturonan in plant structure
+concentration of saturated fatty acid in plant structure
+concentration of galactomannan in plant structure
+concentration of amylopectin in plant structure
+concentration of amylose in plant structure
+concentration of arabinoxylan in plant structure
+concentration of mannan in plant structure
+concentration of amino acid in plant structure
+concentration of fatty acid in plant structure
+concentration of galactan in plant structure
+concentration of xylan in plant structure
+concentration of glucan in plant structure
+concentration of amylopectin derived from starch in plant structure
+concentration of amylose derived from starch in plant structure
+concentration of galacturonan derived from pectin in plant structure
+concentration of rhamnogalacturonan derived from pectin in plant structure
+concentration of mannan derived from hemicellulose in plant structure
+concentration of xylan derived from hemicellulose in plant structure
+concentration of xyloglucan derived from hemicellulose in plant structure
+concentration of glucomannan derived from hemicellulose in plant structure
+concentration of arabinoxylan derived from hemicellulose in plant structure
+concentration of fructan derived from hemicellulose in plant structure
+concentration of arabinan derived from hemicellulose in plant structure
+concentration of galactomannan derived from hemicellulose in plant structure
+concentration of galactan derived from hemicellulose in plant structure
+concentration of glucose derived from amylopectin derived from starch in plant structure
+concentration of glucose derived from amylose derived from starch in plant structure
+concentration of glucose derived from sucrose in plant structure
+concentration of fructose derived from sucrose in plant structure
+concentration of glucose derived from maltose in plant structure
+concentration of galacturonic acid derived from galacturonan derived from pectin in plant structure
+concentration of rhamnose derived from rhamnogalacturonan derived from pectin in plant structure
+concentration of apiose derived from rhamnogalacturonan derived from pectin in plant structure
+concentration of galacturonic acid derived from rhamnogalacturonan derived from pectin in plant structure
+concentration of fucose derived from rhamnogalacturonan derived from pectin in plant structure
+concentration of xylose derived from rhamnogalacturonan derived from pectin in plant structure
+concentration of arabinose derived from rhamnogalacturonan derived from pectin in plant structure
+concentration of galactose derived from rhamnogalacturonan derived from pectin in plant structure
+concentration of raffinose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of galactose derived from raffinose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of glucose derived from raffinose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of fructose derived from raffinose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of stachyose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of galactose derived from stachyose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of glucose derived from stachyose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of fructose derived from stachyose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of verbascose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of galactose derived from verbascose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of glucose derived from verbascose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of fructose derived from verbascose derived from raffinose family of oligosaccharide  ( rfo )  in plant structure
+concentration of glucose derived from cellulose in plant structure
+concentration of mannose derived from mannan derived from hemicellulose in plant structure
+concentration of glucose derived from xylan derived from hemicellulose in plant structure
+concentration of xylose derived from xylan derived from hemicellulose in plant structure
+concentration of glucose derived from xyloglucan derived from hemicellulose in plant structure
+concentration of xylose derived from xyloglucan derived from hemicellulose in plant structure
+concentration of glucose derived from glucomannan derived from hemicellulose in plant structure
+concentration of mannose derived from glucomannan derived from hemicellulose in plant structure
+concentration of arabinose derived from arabinoxylan derived from hemicellulose in plant structure
+concentration of xylose derived from arabinoxylan derived from hemicellulose in plant structure
+concentration of inulin derived from fructan in plant structure
+concentration of fructose derived from inulin derived from fructan in plant structure
+concentration of amino acid derived from protein in plant structure
+alpha - cryptoxanthin
+beta - cryptoxanthin
+ (  -  )  - phaseolin
+vitamin a
+7 , 10 , 13 , 16 - docosatetraenoic acid
+1 , 2 - naphthoquinones
+1 , 4 - naphthoquinones
+acetyl glycitin
+theaflavin
+eupatorin
+4 - hydroxy - all - trans - beta - carotene
+choline
+cysteine
+acetic acid
+water
+glycine
+5 - formyltetrahydrofolic acid
+succinic acid
+hexadecanoic acid
+juglone
+arachidonic acid
+luteolin
+sterol
+taurine
+niacin  ( b3 )
+lycopene
+biotin
+phosphatidylethanolamine
+chlorogenic acid
+cholesterol
+shikimic acid
+oleic acid
+phloroglucinol
+quercetin
+phospholipid
+alanine
+raffinose
+carbohydrate
+pyridoxine
+mineral nutrient
+cyanidin 3 - o - rutinoside chloride
+methionine
+salicylic acid
+ergosterol
+vitexin
+oxalic acid
+riboflavin
+glucomannan
+xylitol
+stachyose
+glucose
+phloretin
+maltose
+pectin
+linoleic acid
+myo - inositol hexakisphosphate
+cyanocob ( iii ) alamin
+scopoletin
+beta - carotene
+ferulic acid
+glycine betaine
+glycerol
+serine
+triglyceride
+calcidiol
+sucrose
+chloride
+diglyceride
+lipid
+catechol
+polysaccharide
+2 - coumaric acid
+gamma - tocopherol
+tyrosine
+xylose
+xyloglucan
+glutamic acid
+iron
+phosphatidyl - l - serine
+arbutin
+isovitexin
+apigenin
+6 - hydroxyluteolin
+alkaloid
+alpha - tocopherol
+arabinan
+asparagine
+aspartic acid
+beta - d - glucoside
+carotenoid
+catechin
+chalcone
+chromones
+coumaric acid
+diterpenoid
+ellagitannin
+fat soluble vitamin
+gallotannin
+hydroxybenzoic acid
+hydroxycinnamates
+hydroxyproline
+inositol
+iodine
+salt
+isoleucine
+leucine
+lignan
+linolenic acid
+lysine
+monoterpenoid
+monounsaturated fatty acid
+naphthoquinone
+neolignan
+neoxanthin
+omega - 3 fatty acid
+pelargonidin
+phenylpropanoid
+phytosterol
+polyol
+polyphenol
+polyunsaturated fatty acid
+condensed tannin
+proline
+pterocarpans
+quinic acid
+rhamnose
+saturated fatty acid
+sesquiterpenoid
+sodium chloride
+stilbenoid
+tannin
+terpenoid
+threonine
+tocopherol
+trehalose
+valine
+violaxanthin
+vitamin d
+xanthophyll
+alpha - linolenic acid
+b9 folate
+cyanidin 3 - o - beta - d - galactoside
+4' - methoxy - 5 , 7 - dihydroxyflavanone
+6 - prenylnaringenin
+histidine
+procyanidin b4
+acetophenone
+cobalt
+galactomannan
+sitosterol
+caffeine
+myristoleic acid
+cyanidin
+tryptophan
+isoflavanone
+l - dehydroascorbic acid
+elaidic acid
+starch
+phenylalanine
+amylopectin
+cyanidin 3 - o - rutinoside
+chromium
+genistein
+amylose
+nickel
+pinocembrin
+daidzein
+hesperetin
+galactose
+glutamine
+mescaline
+vitamin k
+eriodictyol
+alpha - carotene
+arabinoxylan
+kaempferol
+verbascose
+gamma - linolenic acid
+narirutin
+eriocitrin
+palmitoleic acid
+fructose
+hesperidin
+erucic acid
+fructan
+naringin
+arachidic acid
+stigmasterol
+octanoic acid
+octadecanoic acid
+lignoceric acid
+phosphatidylinositol
+myristic acid
+dihydromyricetin
+sakuranetin
+behenic acid
+theobromine
+arginine
+l - ascorbic acid
+4' , 7 - dihydroxyflavone
+baicalein
+mannitol
+oxaloacetic acid
+phenylacetic acid
+propionic acid
+citric acid
+gallic acid
+malonic acid
+dodecanoic acid
+vanillic acid
+isocitric acid
+ (  +  )  - gallocatechin
+apigenin 7 - o - neohesperidoside
+delphinidin 3 - o - beta - d - glucoside
+brassicasterol
+malvidin 3 - o - beta - d - glucoside
+pelargonidin 3 - o - rutinoside
+petunidin 3 - o - beta - d - glucoside
+heptadecanoic acid
+butein
+all - cis - octadeca - 6 , 9 , 12 , 15 - tetraenoic acid
+ ( 11z )  - icos - 11 - enoic acid
+pyruvic acid
+vitamin
+vitamin e
+tocotrienol
+alpha - tocotrienol
+beta - tocotrienol
+delta - tocotrienol
+gamma - tocotrienol
+glycolipid
+amino acid
+phenols
+ribose
+fucose
+glycitein
+fatty acid
+monosaccharide
+docosahexaenoic acid
+icosapentaenoic acid
+omega - 6 fatty acid
+vaccenic acid
+protein
+4 - coumaric acid
+pelargonidin 3 - o - beta - d - glucoside chloride
+disaccharide
+caffeic acid
+triterpenoid
+glucan
+galactan
+xylan
+cirsilineol
+cyanidin 3 - o - beta - d - galactoside chloride
+mannose
+cyanin chloride
+flavan
+anthocyanidin
+anthocyanin
+anthocyanin chlorides
+hydroxyisoflavone
+isoflavone
+coumestrol
+ ( r )  - lactic acid
+ ( s )  - lactic acid
+daidzein 7 - o - beta - d - glucoside
+emodin
+ (  -  )  - epigallocatechin
+flavone
+pentadecanoic acid
+ ( 15z )  - tetracosenoic acid
+diosmin
+ ( r )  - pantothenic acid
+beta - tocopherol
+delta - tocopherol
+flavonoid
+3 - coumaric acid
+aurone
+dihydroflavanol
+ (  -  )  - epigallocatechin 3 - gallate
+biflavonoid
+naringenin
+sophoraflavanone b
+retinol
+oligosaccharide
+flavanone
+isoflavonoid
+xanthones
+methyl ketone
+geraldone
+all - cis - icosa - 11 , 14 , 17 - trienoic acid
+all - cis - icosa - 8 , 11 , 14 - trienoic acid
+ ( 6r )  - 5 , 10 - methenyltetrahydrofolate
+neohesperidin
+palmitelaidic acid
+lysophosphatidylcholine
+docosapentaenoic acid
+hemicellulose
+7 , 7' , 9 , 9' - tetra - cis - lycopene
+amorphous cellulose
+phosphatidylcholine
+lignin
+organic acid
+lupeol
+6 - hydroxyluteolin 7 - o - laminaribioside
+jaceosidin
+xanthohumol
+malic acid
+malvidin
+ ( 2s )  - poncirin
+9 - cis - beta - carotene
+ (  +  )  - pisatin
+syringic acid
+myricitrin
+ (  -  )  - epicatechin - 3 - o - gallate
+phlorotannin
+ (  -  )  - gallocatechin
+dihydrochalcone
+rotenoid
+neoflavonoid
+flavanols
+flavonoids
+isoflavan
+coumestans
+coumestan
+9 - hydroxy - 5e , 7z , 11z , 14z - eicosatetraenoic acid
+eicosadienoic acid
+pterocarpan
+glycosyloxyisoflavone
+cyanidin 3 - o - beta - d - sambubioside
+homoeriodictyol
+raffinose family of oligosaccharide  ( rfo )
+neoeriocitrin
+chrysin
+docosadienoic acid
+procyanidin b6
+procyanidin b5
+procyanidin b3
+procyanidin b2
+procyanidin b1
+procyanidin c1
+procyanidin c2
+b vitamin
+hispidulin
+nobiletin
+ (  +  )  - epicatechin
+ (  +  )  - catechin 3 - o - gallate
+sinapic acid
+ ( 6z , 9z , 12z , 15z , 18z , 21z )  - tetracosahexaenoic acid
+luteolin 7 - o - beta - d - glucoside ( 1 -  )
+2 - hydroxypropanoic acid
+hydrolysable tannin
+gardenin b
+malonyl daidzin
+malonyl genistin
+glycitin
+malonyl glycitin
+phlorizin
+cinnamtannin a2
+cirsimaritin
+xanthone glycoside
+3 - hydroxyphloretin 2' - o - xylosylglucoside
+stigmastanol
+ (  -  )  - epicatechin
+scutellarein
+sinensetin
+tangeretin
+ash
+concentration of
+plant structure

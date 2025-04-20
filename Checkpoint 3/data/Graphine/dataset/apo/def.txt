@@ -1,0 +1,304 @@
+the direction of change in the mutant compared to wild type .
+the observed phenotype is detectably different from that in the wild type .
+the observed feature is decreased compared to that in the wild type  ( slower ,  weaker ,  lower ,  smaller ,  etc .
+the observed feature is increased compared to that in the wild type  ( faster ,  stronger ,  higher ,  larger ,  etc .
+the observed feature is not detectable in the mutant .
+a description of the effect of the mutation on the gene product function .
+the mutation results in expression of the gene product at a developmental stage ,  in a cell type ,  or at a subcellular location different from that at which the wild - type gene is expressed .
+the mutation causes expression of the otherwise normal gene product to higher levels than wild - type .
+the mutation increases the normal activity of a gene product .
+the mutation confers a new activity on the gene product .
+the mutation abolishes completely the function of the gene product .
+the mutation leads to reduction of levels of the gene product ,  often through the use of a repressible promoter .
+the mutation reduces the activity of the gene product .
+the activity of the gene product is normal under some conditions and altered under others .
+the mutation type is not specified in the reference .
+obsolete .this term was not defined before being made obsolete .
+features of ascomycete fungal cells ,  cultures ,  or colonies that can be detected ,  observed ,  measured ,  or monitored .
+a description of the experimental approach .
+obsolete .robotic generation and analysis of large - scale ,  genome - wide knockout sets .
+phenotypic analysis of one or a few mutant strains in small - scale ,  focused experiments that do not require knowledge of the entire genome sequence .
+quantitative data on survival of a mutant strain ,  obtained in large scale experiments where mutants are grown together with wild type or other mutants for many generations .
+the enzymatic or other activity of a protein .
+developmental processes .
+the formation of a bud ,  which develops into a daughter cell during asexual reproduction .
+localization of the newly emerging bud near the site of the previous bud .
+localization of the emerging bud at the cell pole opposite the previous bud site .
+growth in a threadlike ,  filamentous shape .
+penetration of cells into a solid substrate during filamentous growth .
+growth in a pattern that occurs in conditions of nitrogen limitation and abundant fermentable carbon source .
+the duration of the life of an individual organism .
+the process of sexual reproduction .
+the interaction between organisms leading to mating .
+the fusion of individual cells from each partner during mating .
+the proportion of cells within a population that are able to mate .
+the fusion of the nuclei of two mating cells .
+the production of mating pheromones .
+sensitivity to mating pheromones produced by cells of the opposite mating type .
+an alteration of morphology such that the cell has a mating projection ,  formed in response to mating pheromone by cells of saccharomyces and other fungi with similar life cycles .
+a specialized cell division in which a single diploid cell undergoes two nuclear divisions following a single round of dna replication in order to produce four daughter cells that contain half the number of chromosomes as the diploid cell .
+the exchange of genetic material between non - sister chromatids in a pair of homologous chromosomes during meiosis .
+the formation of ascospores ,  which are the products of meiosis .
+the production of viable cells arising from sexual spores .
+the biogenesis of specialized cell walls around developing ascospores .
+the percentage of diploid cells in a population that undergo meiosis and form spores under sporulation - inducing conditions .
+the sterile phenotype is the inability to mate with cells of the opposite mating type under conditions that normally promote mating .
+repression of transcription by altering the structure of chromatin ,  e .g .
+integration of a transposable element  into new positions in the genome .
+the ability to cause disease in another organism .
+the size or shape of subcellular structures ,  cells ,  or multicellular structures .
+the size or shape of cells .
+the shape of the cell .
+the size of the cell .
+the size ,  shape ,  or appearance of the cell wall .
+the size ,  shape ,  or appearance of the cytoskeleton .
+the size ,  shape ,  or appearance of the mitochondria .
+the size or shape of the bud neck ,  which is the region where the bud joins the mother cell .
+the size ,  shape ,  or appearance of the nucleus .
+the size ,  shape ,  or appearance of the peroxisomes .
+the size ,  shape ,  or appearance of the vacuole .
+the appearance of colonies of cells growing on a solid substrate .
+the color of colonies of cells growing on a solid substrate .
+the shape of colonies of cells growing on a solid substrate .
+the size of colonies of cells growing on a solid substrate .
+the appearance of a liquid culture of cells .
+adhesion and aggregation of cells in liquid culture to produce clumps of cells .
+processes occurring at the cellular level .
+obsolete .this term was not defined before being made obsolete .
+obsolete .this term was not defined before being made obsolete .
+obsolete .this term was not defined before being made obsolete .
+obsolete .this term was not defined before being made obsolete .
+the division of the cytoplasm and the plasma membrane of a cell and its separation into two daughter cells .
+a cycle of dna replication and cell division via mitosis .
+transport of substances within cells .
+the delivery and degradation of autophagy markers to the vacuole via the autophagic pathway .
+the uptake and delivery of external materials or membrane constituents by the invagination of a small region of the plasma membrane to form a new membrane - bounded vesicle .
+import of proteins into mitochondria .
+transport of proteins or rnas into or out of the nucleus .
+transport of proteins out of the cell by fusion of a membrane - bounded vesicle containing the proteins by fusion of the vesicle with the plasma membrane .
+transport of proteins into the vacuole .
+the level of resistance to stress conditions .
+the level of resistance to killer toxin ,  which is encoded on double - stranded rna viruses carried by some yeast strains .
+the level of resistance to high or low osmolarity .
+the level of resistance to oxidative stress .
+the level of resistance to radiation .
+the level of resistance to ultraviolet radiation .
+the level of resistance to x ray exposure .
+the level of resistance to exposure to chemicals .
+obsolete .this term was not defined before being made obsolete .
+the percentage or fraction of budded cells in a population .
+the level of resistance to a specific metal or metals .
+the level of resistance to starvation conditions .
+sensitivity to temperatures that are higher or lower than optimal growth temperature .
+the ability to survive a period of exposure to extremely high temperature  ( heat shock )  .
+processes relating to metabolism and growth .
+the production and / or storage of a specified chemical compound .
+the ability to utilize specified substances as nutrients .
+the inability of an organism to synthesize a specified organic compound required for its growth .
+the ability to utilize the specified compound as a carbon source .
+the ability to utilize the specified compound as a source of nitrogen .
+uptake of nutrients into a cell .
+growth with energy derived from fermentation ;  growth on a fermentable carbon source such as glucose .
+growth with energy derived from respiration ;  growth on a non - fermentable carbon source .
+obsolete .
+the frequency with rho -   ( rho minus )  mutations occur ,  in this process ,  all of the mitochondrial genome except for a relatively short segment is lost .
+the maintenance of a stable and complete mitochondrial genome .
+growth under standard culture conditions  ( liquid or solid media )  .
+obsolete: growth rate in liquid culture during the exponential phase .
+obsolete: growth rate in liquid culture during the post - diauxic phase .
+the rate of survival in liquid stationary phase cultures .
+the ability of a mutant strain to grow or survive under conditions of direct competition with wild type or other mutants .
+the proportion of cells in a sample that are viable ,  i .e .
+the inability to grow under standard growth conditions .
+the ability to grow under standard growth conditions .
+generation and analysis of genome - wide sets of mutants that typically utilizes robotic methods .
+obsolete .this term defined as 'novel techniques' has been obsoleted as it was a remnant of the original mutant types that has not been used .
+obsolete .this term was not defined before being made obsolete .
+the observed phenotype shows no detectable difference between the mutant and the wild type .
+the location of the nucleus or nuclei within a cell or between separating cells .
+the size of the nucleus .
+the size ,  shape ,  or appearance of the actin cytoskeleton .
+obsolete: this term was not defined before being obsoleted .
+obsolete .this term was not defined before being made obsolete .
+resumption of the cell cycle after the arrest that occurs in response to the presence of mating pheromones from cells of the opposite mating type .
+arrest of the cell cycle that occurs in response to the presence of mating pheromones from cells of the opposite mating type .
+the ability to utilize the specified compound as a source of phosphorus .
+transport of proteins or rnas into or out of the nucleus .
+export of proteins or rnas from the nucleus .
+import of proteins into peroxisomes .
+delivery of proteins to specific locations .
+transport of small molecules into ,  out of ,  or within the cell .
+the covalent modification of a specified protein .
+localization of specific rnas within the cell .
+obsolete .this term was not defined before being made obsolete .
+obsolete .this term was not defined before being made obsolete .
+obsolete .this term was not defined before being made obsolete .
+obsolete .this term was not defined before being made obsolete .
+obsolete .this term was not defined before being made obsolete .
+obsolete .this term was not defined before being made obsolete .
+obsolete .this term was not defined before being made obsolete .
+obsolete .this term was not defined before being made obsolete .
+the cell volume  ( or size )  which must be attained before cells can pass through start ,  a checkpoint which operates in g1 ,  and commit to a full round of cell division .
+the cell volume  ( or size )  which must be attained before cells can pass from g2 into m phase and commit to the completion of mitosis .
+the stable maintenance of chromosomes or plasmids .
+the average length of telomeres .
+the oxidation of nutrients to generate atp ,  performed by enzymes of the mitochondrial inner membrane .
+obsolete .this term was not defined before being made obsolete .
+sensitivity to temperatures that are higher than optimal growth temperature .
+sensitivity to temperatures that are lower than optimal growth temperature .
+abundance of a specified peptide / protein ;  production to a certain level .
+obsolete .mutation abolishes function of both alleles of the gene in a diploid strain .
+obsolete .mutation abolishes function of one allele of the gene in a diploid strain .
+the heterozygous diploid displays a decreased growth rate relative to a diploid that is homozygous wild type at that locus .
+the formation of smaller than wild - type colonies on fermentable carbon sources  ( e .g . ,  glucose )  ,  due to a respiratory defect .
+the petite - negative phenotype arises from mutation in a nuclear gene that is not essential in an otherwise wild - type strain with an intact mitochondrial genome ,  but becomes essential in strains lacking the mitochondrial genome ,  referred to as rho -  or rho0 .
+an energy - dependent ,  programmed form of cell death that is characterized by phenotypic markers such as increased levels of reactive oxygen species  ( often detected via dhe staining )  ,  externalization of phosphatidylserine  ( measured by annexin v staining )  ,  and dna fragmentation  ( detected using the tunel assay )  .
+obsolete: the rate of growth in the presence of a fermentable carbon source .
+the ability to utilize the specified compound as a source of iron .
+the appearance of a population of cells .
+the ability to form a layer on solid surfaces with or without other microorganisms .
+obsolete .this term was not defined before being made obsolete .
+the level of resistance to treatment with enzymes .
+the level of resistance to ionizing radiation .
+the level of resistance to gamma radiation .
+conversion of a cell of one mating type to a different mating type .
+formation of wedge - shaped sectors ,  with a different color or appearance ,  in colonies of cells growing on a solid substrate .
+the frequency with which mutations occur .
+the pattern of chitin deposition in the cell wall .
+the pattern with which buds emerge from a mother cell .
+the level of resistance to acidic ph .
+the level of resistance to alkaline ph .
+the level of resistance to low osmolarity .
+the level of resistance to high osmolarity .
+the level of resistance to ionic stress .
+classical genetics experiments carried out in a diploid background ,  where alleles of the gene being described are not identical .
+classical genetics experiments carried out in a diploid background ,  where both alleles of the gene being described are identical .
+the physical separation of chromosomes and their distribution to two or more sets during mitosis or meiosis .
+the location ( s )  where the specified protein is found within the cell .
+metabolism during growth in the absence of oxygen .
+obsolete: the rate of growth in the absence of oxygen .
+the size or shape of the bud .
+the size ,  shape ,  or appearance of the mitotic or meiotic spindle .
+the position of the mitotic or meiotic spindle pole body .
+the level of resistance to toxins ,  poisonous compounds that are produced by cells or organisms .
+the ability of an organism to reproduce and to produce viable progeny .
+the essentiality of a gene for survival under standard conditions for growth of that organism .
+the balance of oxidized and reduced molecules in the cell .
+the ability to utilize the specified compound as a source of sulfur .
+a form of cell death that is distinct from apoptosis .
+formation of a septum between dividing cells .
+the excretion from the cell of a specified chemical compound .
+the outward appearance or shape of the mating projection .
+abundance of a specified rna or class of rnas .
+measures of the rate of recombination or total recombination observed during the mitotic cell cycle .
+the size ,  shape ,  or appearance of subcellular organelles or structures .
+obsolete .arrest of cells in the s phase of the cell cycle ,  the phase in which dna replication occurs .
+the mutation results in a gene product that interferes with the function of the normal ,  wild - type gene product .
+any large - scale survey where the experiments are carried out in a homozygous diploid background .
+any large - scale survey where the experiments carried our are in a heterozygous diploid background .
+any competitive growth experiment carried out in a homozygous diploid background .
+any competitive growth experiment carried out in a heterozygous diploid background .
+robotic generation and analysis of large - scale ,  genome - wide haploid knockout sets .
+robotic generation and analysis of large - scale ,  genome - wide knockout sets carried out in a homozygous diploid background .
+robotic generation and analysis of large - scale ,  genome - wide mutation sets carried out in a heterozygous diploid .
+obsolete .arrest of cells at the transition between the g2 and m phases of the mitotic cell cycle .
+a form of autophagy selective for peroxisomes that occurs in response to starvation ,  damage or as a homeostatic mechanism to regulate the levels of this organelle .
+a form of autophagy selective for mitochondria that occurs in response to starvation ,  damage or during a shift in environmental conditions .
+the level of resistance to one or more cycles of freezing and thawing .
+the size ,  shape ,  or appearance of lipid particles or droplets ,  subcellular structures consisting of a hydrophobic core of neutral lipids  ( triacylglycerol and steryl esters )  ,  surrounded by a phospholipid monolayer with a small quantity of embedded proteins including enzymes involved in lipid biosynthesis .
+the size ,  shape or appearance of the golgi apparatus or its parts .
+observed feature is decreased with respect to time compared to that in the wild type  ( slower )  .
+observed feature is increased with respect to time compared to that in the wild type  ( faster ,  accelerated )  .
+observed feature occurs over a decreased period of time relative to wild type .
+observed feature occurs over an increased period of time relative to wild type .
+observed feature occurs after being postponed for a period of time relative to wild type .
+observed feature does not occur in a given time period relative to wild type .
+observed feature occurs too soon ,  existing before the proper or usual time compared to wild type .
+observed feature occurs at the same time relative to wild type .
+progression of cells through the mitotic cell cycle .
+progression of cells through the g2 phase or second gap phase of the mitotic cell cycle ,  the interval between the completion of dna synthesis and the beginning of mitosis .
+progression of cells through the g1 or first gap phase of the mitotic cell cycle ,  the interval between the completion of mitosis and the beginning of dna synthesis .
+passage of cells through cell cycle control point or checkpoint located late in the g1 phase of the mitotic cell cycle just prior to s phase entry ;  passage through start results in commits cells to progression through the entire cell cycle .
+progression of cells from g2 phase to m phase of the mitotic cell cycle .
+progression of cells through the m phase of the mitotic cell cycle ,  the phase in which mitosis occurs .
+progression of cells from metaphase to anaphase during m phase of the mitotic cell cycle .
+progression of cells through anaphase during m phase of the mitotic cell cycle .
+progression of cells through early anaphase during m phase of the mitotic cell cycle .
+progression of cells through mid anaphase during m phase of the mitotic cell cycle .
+progression of cells through late anaphase during m phase of the mitotic cell cycle .
+progression of cells through metaphase during m phase of the mitotic cell cycle .
+progression of cells through telophase ,  the last of the stages of mitosis during m phase of the mitotic cell cycle .
+progression of cells through s phase ,  the part of the mitotic cell cycle where dna synthesis occurs .
+entry of cells into the g0 or stationary phase of the mitotic cell cycle ,  where they enter a quiescent state .
+exit of cells from the g0 or stationary phase of the mitotic cell cycle ,  where they move from a quiescent state to one where growth and division resumes in the g1 phase of the mitotic cell cycle .
+progression of cells from g1 phase to s phase of the mitotic cell cycle .
+the size ,  shape ,  or appearance of the endoplasmic reticulum  ( er )  or its parts .
+covalent modification of a specified rna ;  type of modification specified .
+the size ,  shape ,  or appearance of the nucleolus or its parts .
+the presence or absence of prions .
+the transmission of prions from a mother cell to a daughter cell during budding .
+the conversion from the state of being prion - free to the state of having prions .
+the conversion from the state of having prions to the state of being prion - free .
+observed feature does not change with respect to time compared to that in the wild type .
+any classical genetics experiment carried out in a haploid background .
+any competitive growth experiment carried out in a haploid background .
+any large - scale survey experiment carried out in a haploid background .
+any classical genetics experiment carried out in an aneuploid background ,  where the strain carries more or fewer copies than normal of a large chromosomal region ,  or of one or more entire chromosomes .
+any large - scale survey experiment carried out in an aneuploid background .
+any competitive growth experiment carried out in an aneuploid background .
+robotic generation and analysis of large - scale ,  genome - wide knockout sets carried out in a haploid background .
+robotic generation and analysis of large - scale ,  genome - wide knockout sets carried out in an aneuploid background .
+processes relating to interaction with the environment or with a host organism .
+adherence to a substrate in the environment or in a host .
+the response to visible light .
+obsolete: the induction of an allergic response in the host organism .
+the development of a discrete anatomical structure .
+the production of secondary metabolites ,  which are compounds that are not directly involved in normal growth ,  development or reproduction .
+the ability to utilize the specified compound as a source of zinc .
+the ability to utilize the specified compound as a source of magnesium .
+the formation of conidia ,  which are asexual spores .
+the localization and placement of a particular organelle .
+the localization and placement of mitochondria within a cell or between separating cells .
+the localization and placement of peroxisomes within a cell or between separating cells .
+the localization and placement of vacuoles within a cell or between separating cells .
+the localization and placement of endoplasmic reticulum  ( er )  within a cell or between separating cells .
+the localization and placement of the golgi apparatus within a cell or between separating cells .
+the localization and placement of secretory ,  endocytic ,  or undefined vesicles within a cell or between separating cells .
+the size ,  shape ,  or appearance of components of the endomembrane system ,  which includes the nuclear envelope ,  endoplasmic reticulum ,  golgi apparatus ,  peroxisomes ,  vacuoles ,  and endocytic and exocytic vesicles .
+any classical genetics experiment carried out in a heterozygous diploid background .
+any classical genetics experiment carried out in a homozygous diploid background .
+the production of viable cells arising from conidia ,  or asexual spores .
+growth in the absence of oxygen .
+growth while utilizing a fermentable carbon source .
+growth while utilizing a nonfermentable carbon source .
+growth in liquid culture during the exponential phase .
+growth in liquid culture during the post - diauxic phase .
+the cessation of the life of an individual cell .
+a regulated form of cell death that occurs in stationary phase mycelial cultures of filamentous fungi ,  often in response to carbon starvation .
+the breaking apart of a fully formed cell .
+the size ,  shape ,  or appearance of the plasma membrane .
+the number of days that a culture remains viable in stationary phase .
+the number of divisions that a cell undergoes before dying .
+an interaction is inferred when a bait protein ,  tagged with luciferase ,  is enzymatically detected in immunoprecipitates of the prey protein as light emission .
+formation of chlamydospores ,  which are large ,  asexual ,  one - celled spores with a thickened ,  refractile cell wall that are borne on the ends of suspensor cells attached to hyphae or pseudohyphae .
+formation of an elongated evagination that develops from a yeast - form cell and continues growth to become a hyphal cell .
+the ability to undergo a reversible change from one distinct phenotype to another ,  resulting from changes in gene expression rather than from mutation .
+the ability of a pathogen to survive an attack by host cells such as neutrophils .
+the ability of a pathogen to evade or escape phagocytosis by host cells such as macrophages .
+the level of resistance to air - drying or desiccation stress .
+the level of resistance to increased hydrostatic pressure .
+any classical genetics experiment carried out in a background where the ploidy of the mutation or strain is unknown .
+the induction of host immune cell differentiation ,  cytokine secretion ,  cytokine transcriptional regulation or other related host responses to infection by or contact with a microbe .
+the heterozygous diploid displays an increased growth rate relative to a diploid that is homozygous wild type at that locus .
+the formation of a coating of extracellular polysaccharide material ,  as in fungi such a cryptococcus .
+formation of a protrusion in a subapical hyphal cell that fuses with a clamp cell to form a fused clamp ,  in basidiomycetes .
+the ability to survive a period of exposure to an acute heat shock after brief pretreatment at a mildly elevated temperature .
+the natural or innate ability of a cell to survive a period of exposure to an acute heat shock without pretreatment .
+the size of the nucleolus .
+the gain or loss of a chromosome ,  so that the cell has a number of chromosomes that is not a multiple of the usual complement .
+the gain of an entire set or sets of chromosomes beyond the usual complement .
+a form of microautophagy selective for the nucleusâ that occurs in response to starvation ,  damage or during a shift in environmental conditions .
+a form of macroautophagy selective for ribosomes that occurs in response to starvation ,  damage or during a shift in environmental conditions .
+a form of macroautophagy selective for the endoplasmic reticulum that occurs in response to starvation ,  er stress ,  aggregate accumulation or during a shift in environmental conditions .
+selective degradation of nucleoplasm that occurs upon nitrogen starvation ,  in which parts of the nucleus and perinuclear er are packaged into autophagosomes and delivered to the vacuole for degradation .
+the autophagic degradation of bulk nucleoplasm that occurs after prolonged nitrogen starvation .

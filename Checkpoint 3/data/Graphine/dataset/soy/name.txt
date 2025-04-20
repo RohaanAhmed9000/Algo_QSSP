@@ -1,0 +1,1824 @@
+0 germination
+2 axillary shoot formation
+4 inflorescence formation
+6 flowering
+7 - 8 fruit formation and maturation
+9 senescence
+00 dry seed
+06 elongation of radical and root hair formation
+05 radical emergence from seed coat
+07 shoot emergence
+0 .07 .01 cotyledons and hypocotyl emerge
+1 .00 cotyledon visible po:0007049 ,  bbch 10 100
+1 .01 unifoliolate leaves unfolded po:0007094 ,  bbch 11 101
+1 .02 first trifoliolate leaf unfolded po:0007094 ,  bbch 12 102
+1 .03 2nd trifoliolate leaf unfolded po:0007106 ,  bbch 13 103
+1 .04 3rd trifoliolate leaf unfolded po:0007115 ,  bbch 14 104
+1 .05 4th trifoliolate leaf unfolded po:0007065 ,  bbch 15 105
+1 .06 5th trifoliolate leaf unfolded po:0007123 ,  bbch 16 106
+1 .07 6th trifoliolate leaf unfolded po:0007063 ,  bbch 17 107
+1 .08 7th trifoliolate leaf unfolded po:0007095 ,  bbch 18 108
+1 .09 8th trifoliolate leaf unfolded po:0007101 ,  bbch 19 109
+1 .10 9th trifoliolate leaf unfolded po:0007103 ,  bbch 19 110
+1 .11 10th trifoliolate leaf unfolded po:0007116 ,  bbch 19 111
+1 .12 11th trifoliolate leaf unfolded po:0007064 ,  bbch 19 112
+1 .13 12th trifoliolate leaf unfolded po:0007083 ,  bbch 19 113
+1 .14 13th trifoliolate leaf unfolded po:0007085 ,  bbch 19 114
+1 .15 14th trifoliolate leaf unfolded po:0007104 ,  bbch 19 115
+1 .16 15th trifoliolate leaf unfolded po:0007119 ,  bbch 19 116
+1 .17 16th trifoliate leaf unfolded po:0007067 ,  bbch 19 117
+1 .18 17th trifoliolate leaf unfolded po:0007072 ,  bbch 19 118
+1 .19 18th trifoliolate leaf unfolded po:0007120 ,  bbch 19 119
+1 .20 19th trifoliolate leaf unfolded po:0007082
+1 .21 20th trifoliplate leaf unfolded po:0007082
+1 .22 21st trifoliolate leaf unfolded po:0007082
+1 .23 22nd trifoliolate leaf unfolded po:0007082
+1 .24 23rd trifoliolate leaf unfolded po:0007082
+1 .26 25 or more trifoliolate leaves unfolded po:0007082
+2 .01 main shoot and axillary shoot visible at one node
+2 .02 main shoot and axillary shoots visible at 2 nodes
+2 .03 main shoot and axillary shoots visible at 3 nodes
+2 .04 main shoot and axillary shoots visible at 4 nodes
+2 .05 main shoot and axillary shoots visible at 5 nodes
+2 .06 main shoot and axillary shoots visible at 6 nodes
+2 .07 main shoot and axillary shoots visible at 7 nodes
+2 .08 main shoot and axillary shoots visible at 8 nodes
+2 .09 main shoot and axillary shoots visible at 9 or more nodes
+3 .00 stem elongation begins
+3 .01 one node visible
+3 .02 2 nodes / internode visible
+3 .03 3 nodes / internodes visible
+3 .04 4 nodes / internodes visible
+3 .05 5 nodes / internodes visible
+3 .06 6 nodes / internodes visible
+3 .07 7 nodes / internodes visible
+3 .08 8 nodes / internodes visible
+3 .09 9 nodes / internodes visible
+3 .10 10 nodes / internodes visible
+3 .11 11 nodes / internodes visible
+3 .12 12 nodes / internodes visible
+3 .13 13 nodes / internodes visible
+3 .14 14 nodes / internodes visible
+3 .15 15 nodes / internodes visible
+3 .16 16 or more nodes / internodes visible
+3 .99 maximum stem length reached
+4 .01 inflorescence just visible .
+4 .02 1 / 4 of inflorescence length reached
+4 .03 1 / 2 of inflorescence length reached
+4 .04 full inflorescence length reached
+leaf number
+6 .00 1st flowers on main stem open po:0007026 ,  bbch 60 600
+6 .02 1 / 4 of flowers open
+6 .07 3 / 4 of flowers open
+6 .08 full flowering approx . equiv . po:0007052
+6 .09 end of flowering
+7 pod formation
+8 bean development
+7 .01 pod 10% of final length approx . equiv . r3 ,  po:0007032
+7 .02 pod 30% of final length
+7 .03 pod 50% of final length po:0007029 ,  approx . equiv . r4
+7 .07 pod 70% of final length
+7 .08 pod 75% of final length
+7 .09 pod full size
+8 .01 beginning of bean ripening po:0007001 approx . equiv . r5
+8 .03 early ripening
+8 .05 mid ripening approx . equiv . po:0007031 ,  r6
+8 .07 late ripening approx . equiv . po:0007050 ,  r7 ,  bbch 79 709
+8 .09 final ripening approx . equiv . po:0007038 ,  r8 ,  bbch 89 909
+01 beginning of seed imbibition
+03 seed imbibition complete
+0 .07 .02 hypocotyl emerges above soil
+0 .07 .03 cotyledons emerge
+6 .05 1 / 2 of flowers on main stem open po:0007053 ,  bcch 65 605
+7 .10 pod mature
+1 .25 24th trifoliolate leaf unfolded po:0007082
+soybean whole plant growth stages
+soybean structure terms
+soybean trait terms
+m1
+m2
+m3
+m4
+m5
+m6
+m7
+m8
+m9
+m10
+m11
+m12
+m13
+m14
+m15
+m16
+m1 - 1
+m2 - 1
+m3 - 1
+m4 - 1
+m5 - 1
+m6 - 1
+m7 - 1
+m8 - 1
+m9 - 1
+m10 - 1
+m11 - 1
+m12 - 1
+m13 - 1
+m14 - 1
+m15 - 1
+m16 - 1
+m1 - 2
+m2 - 2
+m4 - 2
+m5 - 2
+m6 - 2
+m7 - 2
+m8 - 2
+m10 - 2
+m11 - 2
+m12 - 2
+m13 - 2
+m14 - 2
+m15 - 2
+m16 - 2
+m1 - 3
+m2 - 3
+m3 - 3
+m7 - 3
+m8 - 3
+m9 - 3
+m10 - 3
+m11 - 3
+m12 - 3
+m13 - 3
+m14 - 3
+m15 - 3
+m16 - 3
+m1 - 4
+m2 - 4
+m3 - 4
+m4 - 4
+m5 - 4
+m6 - 4
+m7 - 4
+m8 - 4
+m9 - 4
+m10 - 4
+m11 - 4
+m12 - 4
+m13 - 4
+m14 - 4
+m15 - 4
+m16 - 4
+m1 - f0
+m2 - f0
+m3 - f0
+m4 - f0
+m5 - f0
+m6 - f0
+m7 - f0
+m8 - f0
+m9 - f0
+m10 - f0
+m11 - f0
+m12 - f0
+m13 - f0
+m14 - f0
+m15 - f0
+m16 - f0
+m1 - f1
+m2 - f1
+m3 - f1
+m4 - f1
+m5 - f1
+m6 - f1
+m7 - f1
+m8 - f1
+m9 - f1
+m10 - f1
+m11 - f1
+m12 - f1
+m6 - f3 .1
+m13 - f1
+m14 - f1
+m15 - f1
+m16 - f1
+m1 - f2
+m2 - f2
+m3 - f2
+m4 - f2
+m5 - f2
+m6 - f2
+m7 - f2
+m8 - f2
+m9 - f2
+m10 - f2
+m11 - f2
+m12 - f2
+m13 - f2
+m14 - f2
+m15 - f2
+m16 - f2
+m1 - f3
+m2 - f3
+m3 - f3
+m4 - f3
+m5 - f3
+m6 - f3
+m7 - f3
+m8 - f3
+m9 - f3
+m10 - f3
+m11 - f3
+m12 - f3
+m13 - f3
+m14 - f3
+m15 - f3
+m16 - f3
+main stem structures
+axillary shoot metamers
+axillary inflorescence structures
+main stem metamers
+main stem inflorescences
+m0
+axillary shoot structures
+leaf developmental stages
+0 .1 bud break
+0 .2 blades visible
+0 .3 leaflets visible
+0 .4 leaflets unfurled
+0 .5 leaflets partially open
+0 .6 leaflets half open
+0 .7 leaflets fully open
+0 .8 leaflets mature size
+0 .9 leaflets senescent
+pod developmental stages
+pod just visible
+m1 .1
+m1 .2
+m1 .3
+m1 .4
+m1 .5
+m1 .6
+m1 .7
+m1 .8
+m1 .9
+m10 .1
+m10 .2
+m10 .3
+m10 .4
+m10 .5
+m10 .6
+m10 .7
+m10 .8
+m10 .9
+m11 .1
+m11 .2
+m11 .3
+m11 .4
+m11 .5
+m11 .6
+m11 .7
+m11 .8
+m11 .9
+m12 .1
+m12 .2
+m12 .3
+m12 .4
+m12 .5
+m12 .6
+m12 .7
+m12 .8
+m12 .9
+m13 .1
+m13 .2
+m13 .3
+m13 .4
+m13 .5
+m13 .6
+m13 .7
+m13 .8
+m13 .9
+m14 .1
+m14 .2
+m14 .3
+m14 .4
+m14 .5
+m14 .6
+m14 .7
+m14 .8
+m14 .9
+m15 .1
+m15 .2
+m15 .3
+m15 .4
+m15 .5
+m15 .6
+m15 .7
+m15 .8
+m15 .9
+m16 .1
+m16 .2
+m16 .3
+m16 .4
+m16 .5
+m16 .6
+m16 .7
+m16 .8
+m16 .9
+m2 .1
+m2 .2
+m2 .3
+m2 .4
+m2 .5
+m2 .6
+m2 .7
+m2 .8
+m2 .9
+m3 .1
+m3 .2
+m3 .3
+m3 .4
+m3 .5
+m3 .6
+m3 .7
+m3 .8
+m3 .9
+m4 .1
+m4 .2
+m4 .3
+m4 .4
+m4 .5
+m4 .6
+m4 .7
+m4 .8
+m4 .9
+m5 .1
+m5 .2
+m5 .3
+m5 .4
+m5 .5
+m5 .6
+m5 .7
+m5 .8
+m5 .9
+m6 .1
+m6 .2
+m6 .3
+m6 .4
+m6 .5
+m6 .6
+m6 .7
+m6 .8
+m6 .9
+m7 .1
+m7 .2
+m7 .3
+m7 .4
+m7 .5
+m7 .6
+m7 .7
+m7 .8
+m7 .9
+m8 .1
+m8 .2
+m8 .3
+m8 .4
+m8 .5
+m8 .6
+m8 .7
+m8 .8
+m8 .9
+m9 .1
+m9 .2
+m9 .3
+m9 .4
+m9 .5
+m9 .6
+m9 .7
+m9 .8
+m9 .9
+m1 - f0 .1
+m1 - f0 .2
+m1 - f0 .3
+m1 - f0 .4
+m1 - f0 .5
+m1 - f0 .6
+m1 - f0 .7
+m1 - f0 .8
+m1 - f0 .9
+m2 - f0 .1
+m2 - f0 .2
+m2 - f0 .3
+m2 - f0 .4
+m2 - f0 .5
+m2 - f0 .6
+m2 - f0 .7
+m2 - f0 .8
+m2 - f0 .9
+m3 - f0 .1
+m3 - f0 .2
+m3 - f0 .3
+m3 - f0 .4
+m3 - f0 .5
+m3 - f0 .6
+m3 - f0 .7
+m3 - f0 .8
+m3 - f0 .9
+m4 - f0 .1
+m4 - f0 .2
+m4 - f0 .3
+m4 - f0 .4
+m4 - f0 .5
+m4 - f0 .6
+m4 - f0 .7
+m4 - f0 .8
+m4 - f0 .9
+m5 - f0 .1
+m5 - f0 .2
+m5 - f0 .3
+m5 - f0 .4
+m5 - f0 .5
+m5 - f0 .6
+m3 - 2
+m5 - f0 .7
+m5 - f0 .8
+m5 - f0 .9
+m6 - f0 .1
+m6 - f0 .2
+m6 - f0 .3
+m6 - f0 .4
+m6 - f0 .5
+m6 - f0 .6
+m6 - f0 .7
+m6 - f0 .8
+m6 - f0 .9
+m7 - f0 .1
+m7 - f0 .2
+m7 - f0 .3
+m7 - f0 .4
+m7 - f0 .5
+m7 - f0 .6
+m7 - f0 .7
+m7 - f0 .8
+m7 - f0 .9
+m8 - f0 .1
+m8 - f0 .2
+m8 - f0 .3
+m8 - f0 .4
+m8 - f0 .5
+m8 - f0 .6
+m8 - f0 .7
+m8 - f0 .8
+m8 - f0 .9
+m9 - f0 .1
+m9 - f0 .2
+m9 - f0 .3
+m9 - f0 .4
+m9 - f0 .5
+m9 - f0 .6
+m9 - f0 .7
+m9 - f0 .8
+m9 - f0 .9
+m10 - f0 .1
+m10 - f0 .2
+m10 - f0 .3
+m10 - f0 .4
+m10 - f0 .5
+m10 - f0 .6
+m10 - f0 .7
+m10 - f0 .8
+m10 - f0 .9
+m11 - f0 .1
+m11 - f0 .2
+m11 - f0 .3
+m11 - f0 .4
+m11 - f0 .5
+m11 - f0 .6
+m11 - f0 .7
+m11 - f0 .8
+m11 - f0 .9
+m12 - f0 .1
+m12 - f0 .2
+m12 - f0 .3
+m9 - 2
+m12 - f0 .4
+m12 - f0 .5
+m12 - f0 .6
+m12 - f0 .7
+m12 - f0 .8
+m12 - f0 .9
+m13 - f0 .1
+m13 - f0 .2
+m13 - f0 .3
+m13 - f0 .4
+m13 - f0 .5
+m13 - f0 .6
+m13 - f0 .7
+m13 - f0 .8
+m13 - f0 .9
+m14 - f0 .1
+m14 - f0 .2
+m14 - f0 .3
+m14 - f0 .4
+m14 - f0 .5
+m14 - f0 .6
+m14 - f0 .7
+m14 - f0 .8
+m14 - f0 .9
+m15 - f0 .1
+m15 - f0 .2
+m15 - f0 .3
+m15 - f0 .4
+m15 - f0 .5
+m15 - f0 .6
+m15 - f0 .7
+m15 - f0 .8
+m15 - f0 .9
+m16 - f0 .1
+m16 - f0 .2
+m16 - f0 .3
+m16 - f0 .4
+m16 - f0 .5
+m16 - f0 .6
+m16 - f0 .7
+m16 - f0 .8
+m16 - f0 .9
+m1 - 1 .1
+m1 - 1 .2
+m1 - 1 .3
+m1 - 1 .4
+m1 - 1 .5
+m1 - 1 .6
+m1 - 1 .7
+m1 - 1 .8
+m1 - 1 .9
+m1 - 2 .1
+m1 - 2 .2
+m1 - 2 .3
+m1 - 2 .4
+m1 - 2 .5
+m1 - 2 .6
+m1 - 2 .7
+m1 - 2 .8
+m1 - 2 .9
+m1 - 3 .1
+m1 - 3 .2
+m1 - 3 .3
+m1 - 3 .4
+m1 - 3 .5
+m1 - 3 .6
+m1 - 3 .7
+m1 - 3 .8
+m1 - 3 .9
+m1 - f1 .1
+m1 - f1 .2
+m1 - f1 .3
+m1 - f1 .4
+m1 - f1 .5
+m1 - f1 .6
+m1 - f1 .7
+m1 - f1 .8
+m1 - f1 .9
+m1 - f2 .1
+m1 - f2 .2
+m1 - f2 .3
+m1 - f2 .4
+m1 - f2 .5
+m1 - f2 .6
+m1 - f2 .7
+m1 .f2 .8
+m1 - f2 .9
+m1 - f3 .1
+m1 - f3 .2
+m1 - f3 .3
+m1 - f3 .4
+m1 - f3 .5
+m1 - f3 .6
+m1 - f3 .7
+m1 - f3 .8
+m1 - f3 .9
+m10 - f1 .1
+m10 - f1 .2
+m10 - f1 .3
+m10 - f1 .4
+m10 - f1 .5
+m10 - f1 .6
+m10 - f1 .7
+m10 - f1 .8
+m10 - f1 .9
+m10 - f2 .1
+m10 - f2 .2
+m10 - f2 .3
+m10 - f2 .4
+m10 - f2 .5
+m4 - 3
+m10 - f2 .6
+m10 - f2 .7
+m10 - f2 .8
+m10 - f2 .9
+m10 - f3 .1
+m10 - f3 .2
+m10 - f3 .3
+m10 - f3 .4
+m10 - f3 .5
+m10 - f3 .6
+m5 - 3
+m10 - f3 .7
+m10 - f3 .8
+m10 - f3 .9
+m11 - f1 .1
+m11 - f1 .2
+m11 - f1 .3
+m11 - f1 .4
+m11 - f1 .5
+m11 - f1 .6
+m11 - f1 .7
+m6 - 3
+m11 - f1 .8
+m11 - f1 .9
+m11 - f2 .1
+m11 - f2 .2
+m11 - f2 .3
+m11 - f2 .4
+m11 - f2 .5
+m11 - f2 .6
+m11 - f2 .7
+m11 - f2 .8
+m11 - f2 .9
+m11 - f3 .1
+m11 - f3 .2
+m11 - f3 .3
+m11 - f3 .4
+m11 - f3 .5
+m11 - f3 .6
+m11 - f3 .7
+m11 - f3 .8
+m11 - f3 .9
+m12 - f1 .1
+m12 - f1 .2
+m12 - f1 .3
+m12 - f1 .4
+m12 - f1 .5
+m12 - f1 .6
+m12 - f1 .7
+m12 - f1 .8
+m12 - f1 .9
+m12 - f2 .1
+m12 - f2 .2
+m12 - f2 .3
+m12 - f2 .4
+m12 - f2 .5
+m12 - f2 .6
+m12 - f2 .7
+m12 - f2 .8
+m12 - f2 .9
+m12 - f3 .1
+m12 - f3 .2
+m12 - f3 .3
+m12 - f3 .4
+m12 - f3 .5
+m12 - f3 .6
+m12 - f3 .7
+m12 - f3 .8
+m12 - f3 .9
+m13 - f1 .1
+m13 - f1 .2
+m13 - f1 .3
+m13 - f1 .4
+m13 - f1 .5
+m13 - f1 .6
+m13 - f1 .7
+m13 - f1 .8
+m13 - f1 .9
+m13 - f2 .1
+m13 - f2 .2
+m13 - f2 .3
+m13 - f2 .4
+m13 - f2 .5
+m13 - f2 .6
+m13 - f2 .7
+m13 - f2 .8
+m13 - f2 .9
+m13 - f3 .1
+m13 - f3 .2
+m13 - f3 .3
+m13 - f3 .4
+m13 - f3 .5
+m13 - f3 .6
+m13 - f3 .7
+m13 - f3 .8
+m13 - f3 .9
+m14 - f1 .1
+m14 - f1 .2
+m14 - f1 .3
+m14 - f1 .4
+m14 - f1 .5
+m14 - f1 .6
+m14 - f1 .7
+m14 - f1 .8
+m14 - f1 .9
+m14 - f2 .1
+m14 - f2 .2
+m14 - f2 .3
+m14 - f2 .4
+m14 - f2 .5
+m14 - f2 .6
+m14 - f2 .7
+m14 - f2 .8
+m14 - f2 .9
+m14 - f3 .1
+m14 - f3 .2
+m14 - f3 .3
+m14 - f3 .4
+m14 - f3 .5
+m14 - f3 .6
+m14 - f3 .7
+m14 - f3 .8
+m14 - f3 .9
+m15 - f1 .1
+m15 - f1 .2
+m15 - f1 .3
+m15 - f1 .4
+m15 - f1 .5
+m15 - f1 .6
+m15 - f1 .7
+m15 - f1 .8
+m15 - f1 .9
+m15 - f2 .1
+m15 - f2 .2
+m15 - f2 .3
+m15 - f2 .4
+m15 - f2 .5
+m15 - f2 .6
+m15 - f2 .7
+m15 - f2 .8
+m15 - f2 .9
+m15 - f3 .1
+m15 - f3 .2
+m15 - f3 .3
+m15 - f3 .4
+m15 - f3 .5
+m15 - f3 .6
+m15 - f3 .7
+m15 - f3 .8
+m15 - f3 .9
+m16 - f1 .1
+m16 - f1 .2
+m16 - f1 .3
+m16 - f1 .4
+m16 - f1 .5
+m16 - f1 .6
+m16 - f1 .7
+m16 - f1 .8
+m16 - f1 .9
+m16 - f2 .1
+m16 - f2 .2
+m16 - f2 .3
+m16 - f2 .4
+m16 - f2 .5
+m16 - f2 .6
+m16 - f2 .7
+m16 - f2 .8
+m16 - f2 .9
+m16 - f3 .1
+m16 - f3 .2
+m16 - f3 .3
+m16 - f3 .4
+m16 - f3 .5
+m16 - f3 .6
+m16 - f3 .7
+m16 - f3 .8
+m16 - f3 .9
+m2 - f1 .1
+m2 - f1 .2
+m2 - f1 .3
+m2 - f1 .4
+m2 - f1 .5
+m2 - f1 .6
+m2 - f1 .7
+m2 - f1 .8
+m2 - f1 .9
+m2 - f2 .1
+m2 - f2 .2
+m2 - f2 .3
+m2 - f2 .4
+m2 - f2 .5
+m2 - f2 .6
+m2 - f2 .7
+m2 - f2 .8
+m2 - f2 .9
+m2 - f3 .1
+m2 - f3 .2
+m2 - f3 .3
+m2 - f3 .4
+m2 - f3 .5
+m2 - f3 .6
+m2 - f3 .7
+m2 - f3 .
+m2 - f3 .8
+m2 - f3 .9
+m3 - f1 .1
+m3 - f1 .2
+m3 - f1 .3
+m3 - f1 .4
+m3 - f1 .5
+m3 - f1 .6
+m3 - f1 .7
+m3 - f1 .8
+m3 - f1 .9
+m3 - f2 .1
+m3 - f2 .2
+m3 - f2 .3
+m3 - f2 .4
+m3 - f2 .5
+m3 - f2 .6
+m3 - f2 .7
+m3 - f2 .8
+m3 - f2 .9
+m3 - f3 .1
+m3 - f3 .2
+m3 - f3 .3
+m3 - f3 .4
+m3 - f3 .5
+m3 - f3 .6
+m3 - f3 .7
+m3 - f3 .8
+m3 - f3 .9
+m4 - f1 .1
+m4 - f1 .2
+m4 - f1 .3
+m4 - f1 .4
+m4 - f1 .5
+m4 - f1 .6
+m4 - f1 .7
+m4 - f1 .8
+m4 - f1 .9
+m4 - f2 .1
+m4 - f2 .2
+m4 - f2 .3
+m4 - f2 .4
+m4 - f2 .5
+m4 - f2 .6
+m4 - f2 .7
+m4 - f2 .8
+m4 - f2 .9
+m4 - f3 .1
+m4 - f3 .2
+m4 - f3 .3
+m4 - f3 .4
+m4 - f3 .5
+m4 - f3 .6
+m4 - f3 .7
+m4 - f3 .8
+m4 - f3 .9
+m5 - f1 .1
+m5 - f1 .2
+m5 - f1 .3
+m5 - f1 .4
+m5 - f1 .5
+m5 - f1 .6
+m5 - f1 .7
+m5 - f1 .8
+m5 - f1 .9
+m1 - 4 .1
+m1 - 4 .2
+m1 - 4 .3
+m1 - 4 .4
+m1 - 4 .5
+m1 - 4 .6
+m1 - 4 .7
+m1 - 4 .8
+m1 - 4 .9
+m10 - 1 .1
+m10 - 1 .2
+m10 - 1 .3
+m10 - 1 .4
+m10 - 1 .5
+m10 - 1 .6
+m10 - 1 .7
+m10 - 1 .8
+m10 - 1 .9
+m10 - 2 .1
+m10 - 2 .2
+m10 - 2 .3
+m10 - 2 .4
+m10 - 2 .5
+m10 - 2 .6
+m10 - 2 .7
+m10 - 2 .8
+m10 - 2 .9
+m10 - 3 .1
+m10 - 3 .2
+m10 - 3 .3
+m10 - 3 .4
+m10 - 3 .5
+m10 - 3 .6
+m10 - 3 .7
+m10 - 3 .8
+m10 - 3 .9
+m10 - 4 .1
+m10 - 4 .2
+m10 - 4 .3
+m10 - 4 .4
+m10 - 4 .5
+m10 - 4 .6
+m10 - 4 .7
+m10 - 4 .8
+m10 - 4 .9
+m11 - 1 .1
+m11 - 1 .2
+m11 - 1 .3
+m11 - 1 .4
+m11 - 1 .5
+m11 - 1 .6
+m11 - 1 .7
+m11 - 1 .8
+m11 - 1 .9
+m11 - 2 .1
+m11 - 2 .2
+m11 - 2 .3
+m11 - 2 .4
+m11 - 2 .5
+m11 - 2 .6
+m11 - 2 .7
+m11 - 2 .8
+m11 - 2 .9
+m11 - 3 .1
+m11 - 3 .2
+m11 - 3 .3
+m11 - 3 .4
+m11 - 3 .5
+m11 - 3 .6
+m11 - 3 .7
+m11 - 3 .8
+m11 - 3 .9
+m11 - 4 .1
+m11 - 4 .2
+m11 - 4 .3
+m11 - 4 .4
+m11 - 4 .5
+m11 - 4 .6
+m11 - 4 .7
+m11 - 4 .8
+m11 - 4 .9
+m12 - 1 .1
+m12 - 1 .2
+m12 - 1 .3
+m12 - 1 .4
+m12 - 1 .5
+m12 - 1 .6
+m12 - 1 .7
+m12 - 1 .8
+m12 - 1 .9
+m12 - 2 .1
+m12 - 2 .2
+m12 - 2 .3
+m12 - 2 .4
+m12 - 2 .5
+m12 - 2 .6
+m12 - 2 .7
+m12 - 2 .8
+m12 - 2 .9
+m12 - 3 .1
+m12 - 3 .2
+m12 - 3 .3
+m12 - 3 .4
+m12 - 3 .5
+m12 - 3 .6
+m12 - 3 .7
+m12 - 3 .8
+m12 - 3 .9
+m12 - 4 .1
+m12 - 4 .2
+m12 - 4 .3
+m12 - 4 .4
+m12 - 4 .5
+m12 - 4 .6
+m12 - 4 .7
+m12 - 4 .8
+m12 - 4 .9
+m13 - 1 .1
+m13 - 1 .2
+m13 - 1 .3
+m13 - 1 .4
+m13 - 1 .5
+m13 - 1 .6
+m13 - 1 .7
+m13 - 1 .8
+m13 - 1 .9
+m13 - 2 .1
+m13 - 2 .2
+m13 - 2 .3
+m13 - 2 .4
+m13 - 2 .5
+m13 - 2 .6
+m13 - 2 .7
+m13 - 2 .8
+m13 - 2 .9
+m13 - 3 .1
+m13 - 3 .2
+m13 - 3 .3
+m13 - 3 .4
+m13 - 3 .5
+m13 - 3 .6
+m13 - 3 .7
+m13 - 3 .8
+m13 - 3 .9
+m13 - 4 .1
+m13 - 4 .2
+m13 - 4 .3
+m13 - 4 .4
+m13 - 4 .5
+m13 - 4 .6
+m13 - 4 .7
+m13 - 4 .8
+m13 - 4 .9
+m14 - 1 .1
+m14 - 1 .2
+m14 - 1 .3
+m14 - 1 .4
+m14 - 1 .5
+m14 - 1 .6
+m14 - 1 .7
+m14 - 1 .8
+m14 - 1 .9
+m14 - 2 .1
+m14 - 2 .2
+m14 - 2 .3
+m14 - 2 .4
+m14 - 2 .5
+m14 - 2 .6
+m14 - 2 .7
+m14 - 2 .8
+m14 - 2 .9
+m14 - 3 .1
+m14 - 3 .2
+m14 - 3 .3
+m14 - 3 .4
+m14 - 3 .5
+m14 - 3 .6
+m14 - 3 .7
+m14 - 3 .8
+m14 - 3 .9
+m14 - 4 .1
+m14 - 4 .2
+m14 - 4 .3
+m14 - 4 .4
+m14 - 4 .5
+m14 - 4 .6
+m14 - 4 .7
+m14 - 4 .8
+m14 - 4 .9
+m15 - 1 .1
+m15 - 1 .2
+m15 - 1 .3
+m15 - 1 .4
+m15 - 1 .5
+m15 - 1 .6
+m15 - 1 .7
+m15 - 1 .8
+m15 - 1 .9
+m15 - 2 .1
+m15 - 2 .2
+m15 - 2 .3
+m15 - 2 .4
+m15 - 2 .5
+m15 - 2 .6
+m15 - 2 .7
+m15 - 2 .8
+m15 - 2 .9
+m15 - 3 .1
+m15 - 3 .2
+m15 - 3 .3
+m15 - 3 .4
+m15 - 3 .5
+m15 - 3 .6
+m15 - 3 .7
+m15 - 3 .8
+m15 - 3 .9
+m15 - 4 .1
+m15 - 4 .2
+m15 - 4 .3
+m15 - 4 .4
+m15 - 4 .5
+m15 - 4 .6
+m15 - 4 .7
+m15 - 4 .8
+m15 - 4 .9
+m16 - 1 .1
+m16 - 1 .2
+m16 - 1 .3
+m16 - 1 .4
+m16 - 1 .5
+m16 - 1 .6
+m16 - 1 .7
+m16 - 1 .8
+m16 - 1 .9
+m16 - 2 .1
+m16 - 2 .2
+m16 - 2 .3
+m16 - 2 .4
+m16 - 2 .5
+m16 - 2 .6
+m16 - 2 .7
+m16 - 2 .8
+m16 - 2 .9
+m16 - 3 .1
+m16 - 3 .2
+m16 - 3 .3
+m16 - 3 .4
+m16 - 3 .5
+m16 - 3 .6
+m16 - 3 .7
+m16 - 3 .8
+m16 - 3 .9
+m16 - 4 .1
+m16 - 4 .2
+m16 - 4 .3
+m16 - 4 .4
+m16 - 4 .5
+m16 - 4 .6
+m16 - 4 .7
+m16 - 4 .8
+m16 - 4 .9
+m5 - f2 .1
+m5 - f2 .2
+m5 - f2 .3
+m5 - f2 .4
+m5 - f2 .5
+m5 - f2 .6
+m5 - f2 .7
+m5 - f2 .8
+m5 - f2 .9
+m5 - f3 .1
+m5 - f3 .2
+m5 - f3 .3
+m5 - f3 .4
+m5 - f3 .5
+m5 - f3 .6
+m5 - f3 .7
+m5 - f3 .8
+m5 - f3 .9
+m6 - f1 .1
+m6 - f1 .2
+m6 - f1 .3
+m6 - f1 .4
+m6 - f1 .5
+m6 - f1 .6
+m6 - f1 .7
+m6 - f1 .8
+m6 - f1 .9
+m6 - f2 .1
+m6 - f2 .2
+m6 - f2 .3
+m6 - f2 .4
+m6 - f2 .5
+m6 - f2 .6
+m6 - f2 .7
+m6 - f2 .8
+m6 - f2 .9
+root structures
+m6 - f3 .2
+m6 - f3 .3
+m6 - f3 .4
+m6 - f3 .5
+m6 - f3 .6
+m6 - f3 .7
+m6 - f3 .8
+m6 - f3 .9
+m7 - f1 .1
+m7 - f1 .2
+m7 - f1 .3
+m7 - f1 .4
+m7 - f1 .5
+m7 - f1 .6
+m7 - f1 .7
+m7 - f1 .8
+m7 - f1 .9
+m7 - f2 .1
+m7 - f2 .2
+m7 - f2 .3
+m7 - f2 .4
+m7 - f2 .5
+m7 - f2 .6
+m7 - f2 .7
+m7 - f2 .8
+m7 - f2 .9
+m7 - f3 .1
+m7 - f3 .2
+m7 - f3 .3
+m7 - f3 .4
+m7 - f3 .5
+m7 - f3 .6
+m7 - f3 .7
+m7 - f3 .8
+m7 - f3 .9
+m8 - f1 .1
+m8 - f1 .2
+m8 - f1 .3
+m8 - f1 .4
+m8 - f1 .5
+m8 - f1 .6
+m8 - f1 .7
+m8 - f1 .8
+m8 - f1 .9
+m8 - f2 .1
+m8 - f2 .2
+m8 - f2 .3
+m8 - f2 .4
+m8 - f2 .5
+m8 - f2 .6
+m8 - f2 .7
+m8 - f2 .8
+m8 - f2 .9
+m8 - f3 .1
+m8 - f3 .2
+m8 - f3 .3
+m8 - f3 .4
+m8 - f3 .5
+m8 - f3 .6
+m8 - f3 .7
+m8 - f3 .8
+m8 - f3 .9
+m9 - f1 .1
+m9 - f1 .2
+m9 - f1 .3
+m9 - f1 .4
+m9 - f1 .5
+m9 - f1 .6
+m9 - f1 .7
+m9 - f1 .8
+m9 - f1 .9
+m9 - f2 .1
+m9 - f2 .2
+m9 - f2 .3
+m9 - f2 .4
+m9 - f2 .5
+m9 - f2 .6
+m9 - f2 .7
+m9 - f2 .8
+m9 - f2 .9
+m9 - f3 .1
+m9 - f3 .2
+m9 - f3 .3
+m9 - f3 .4
+m9 - f3 .5
+m9 - f3 .6
+m9 - f3 .7
+m9 - f3 .8
+m9 - f3 .9
+flower developmental stages
+f0 .1 flower bud just visible
+f0 .2 flower petals just visible
+f0 .3 closed flower
+f0 .4 open flower
+f0 .5 flower petals senescent
+f0 .6 pod just visible
+f0 .7 small size pod
+f0 .8 pod medium size
+f0 .9 full size pod
+seed developmental stages
+s1 .00 resting zygote
+s1 .01 pro - embryo stage 1
+s1 .02 pro - embryo stage 2
+s1 .03 pro - embryo stage 3
+s1 .04 spherical embryo stage
+s1 .05 heart stage
+s1 .06 cotyledon stage
+s1 .07 early maturity stage 1
+s1 .08 early maturity stage 2
+s1 .09 mid seed maturity
+s1 .10 late seed maturity
+taproot
+secondary root
+tertiary root
+quarternary root
+root nodule
+root hair
+bacterial root nodule
+shattering
+reaction to xanthomonas campestris pv phaseoli infection
+abnormal seedling
+adventitious roots
+adventitious shoots
+reaction to alfalfa mosaic virus infection  ( amv )
+reaction to alternaria alternata infection
+aluminum tolerance
+antibiosis
+antixenosis
+reaction to pseudomonas syringae infection
+water use efficiency
+reaction to bean yellow mosaic virus infection  ( bymv )
+reaction to colaspis brunnea damage
+r5 beginning seed
+brachytic stem
+branching
+reaction to phytophthora nicotianae infection
+reaction to phialophora gregata infection
+reaction to tobacco ringspot virus infection  ( trsv )
+reaction to phyllophaga congrua damage
+reaction to diabrotica undecimpunctata howardi damage
+canopy height
+canopy width
+carbon isotope discrimination
+chasmogamy
+chlorimuron ethyl sensitivity
+chlorosis score
+cleistogamy
+reaction to helicoverpa zea damage
+cotyledon color
+reaction to cowpea chlorotic mottle virus infection  ( ccmv )
+reaction to cowpea mild mottle virus infection  ( cmmv )
+reaction to heterodera glycines damage
+reaction to diaporthe phaseolorum infection
+reaction to xanthomonas phaseoli infection
+reaction to xanthomonas axonopodis infection
+reaction to pseudomonas adropogonis infection
+reaction to pseudomonas savastanoi infection
+hilum abscission
+leaf abscission
+chlorosis
+seed cysteine content
+seed daidzein content
+disease resistance
+reaction to peronospora manshurica infection
+early shattering score
+reaction to achrya rantalis damage
+fasciated stem
+flooding tolerance
+flower color
+flowering date
+leaflet chlorosis
+stem chlorosis
+seed basic glycinin subunit content
+seed acidic glycinin subunit content
+asynapsis
+desynapsis
+s1 .11 dry seed stage
+reaction to fusarium oxysporum f sp tracheiphilum infection
+seed genistein content
+seed glycitein content
+reaction to cerotoma trifurcata damage
+plant height
+height / lodging
+hilum color
+hypocotyl color
+hypocotyl length
+index of parasitism
+reaction to insect damage
+iodine number
+iron efficiency
+reaction to meloidogyne damage
+reaction to meloidogyne javanica damage
+reaction to hoplolaimus columbus damage
+late shattering score
+leaf  necrosis
+leaflet length
+leaflet ash content
+reaction to phyllophaga implicita damage
+leaf scorch
+reaction to phyllophaga rugosa damage
+leaflet area
+leaflet arrangement
+leaflet color
+leaflet number
+leaflet shape
+reaction to melanagromyza sojae damage
+seed linoleic acid content
+seed linolenic acid content
+lodging
+long juvenile
+cpdna diversity
+soybean morphology and anatomy traits
+soybean stature or vigor traits
+soybean stress resistance traits
+biotic stress resistance
+fungal disease resistance traits
+bacterial disease resistance traits
+nematode resistance
+viral disease resistance
+abiotic stress resistance
+soybean yield traits
+soybean growth and development traits
+soybean quality traits
+soybean biochemical traits
+miscellaneous soybean traits
+soybean fertility or sterility traits
+reaction to ophiomyia phaseoli damage
+seed coat color
+seed coat hardness
+seed coat luster
+seed shape
+seed quality
+seed set
+reaction to ascochyta sajaecola infection
+reaction to colletotrichum dematium infection
+reaction to curvularia lunata infection
+reaction to diaporthe sojae infection
+reaction to diaporthe phaseolorum var sojae infection
+reaction to pseudomonas savastanoi pv glycinea infection
+reaction to xanthomonas axonopodis pv glycines infection
+reaction to pseudomonas syringae pv glycinea infection
+reaction to xanthomonas campestris pv glycines infection
+reaction to xanthomonas phaseoli var sojensis infection
+reaction to curtobacterium flaccumfaciens pv flaccumfaciens infection
+reaction to pseudomonas syringae pv tobaci infection
+reaction to pseudomonas solanacearum infection
+reaction to ralstonia solanacearum infection
+reaction to corynebacterium floccumfaciens infection
+reaction to bacillus subtilis infection
+reaction to alternaria tenussima infection
+reaction to colletotrichum truncatum infection
+reaction to colletotrichum coccodes infection
+reaction to glomerella glycines infection
+reaction to spodoptera exigua damage
+reaction to glomerella cingulata infection
+reaction to aristastoma comarographioides infection
+reaction to aristastoma guttulosom infection
+reaction to arkoola nigra infection
+reaction to mycosphaerella uspenskajae infection
+reaction to mycosphaerella phaseolorum infection
+reaction to botrytis cinerae infection
+reaction to cercospora kikuchii infection
+reaction to ascochyta sojae infection
+reaction to ascochyta phaseolorum infection
+reaction to curvularia lunata var aeria infection
+reaction to peronospora sojae infection
+reaction to drechslera glycini infection
+reaction to fusarium oxysporum f sp vasinfectum infection
+reaction to fusarium pallidoroseum infection
+reaction to fusarium solani infection
+reaction to diaporthe longicolla infection
+reaction to diaporthe phaseolorum var caulivora infection
+reaction to diaporthe phaseolorum var meridionalis infection
+reaction to fusarium solani f sp glycines infection
+reaction to phytophthora megasperma f sp glycinea infection
+reaction to pythium aphanidermatum infection
+reaction to pythium debaryanum infection
+reaction to pythium irregulare infection
+reaction to pythium ultimum infection
+reaction to choanephora infundibulifera infection
+reaction to leptosphaerulina trifolii infection
+reaction to pleosphaerulina sojicola infection
+reaction to dactuliochaeta glycines infection
+reaction to thanatephorus cucumeris infection
+reaction to phakopsora meibomiae infection
+reaction to phakopsora pachyrhizi infection
+reaction to sphaceloma glycines infection
+reaction to pleospora tarda infection
+reaction to pleospora herbarum infection
+reaction to pleospora allii infection
+reaction to corynespora cassiicola infection
+reaction to macrophomina phaseolina infection
+reaction to sclerotinia sclerotiorum infection
+reaction to athelia rolfsii infection
+reaction to thielaviopsis basicola infection
+reaction to gliochadium roseum infection
+reaction to mycoleptodiscus terrestris infection
+reaction to neocosmospora vasinfecta infection
+reaction to myrothecium roridum infection
+reaction to myrothecium verrucaria infection
+reaction to microsphaera diffusa infection
+reaction to pseudomonas adropogonis pv sojae infection
+reaction to black gram mottle virus infection  ( bmov )
+reaction to bean pod mottle virus infection  ( bpmv )
+reaction to cowpea severe mosaic virus infection  ( cpsmv )
+reaction to soybean stunt virus infection  ( ssv )
+reaction to peanut stunt virus infection  ( psv )
+reaction to soybean yellow vein virus infection  ( sbyvv )
+reaction to tobacco streak virus infection  ( tsv )
+reaction to indonesian soybean dwarf virus infection  ( isdv )
+reaction to soybean dwarf virus infection  ( sbdv )
+reaction to soybean severe stunt virus infection  ( sssv )
+reaction to peanut mottle virus infection  ( pemov )
+reaction to peanut stripe virus infection  ( pstv )
+reaction to soybean mosaic virus infection  ( smv )
+reaction to tobacco mosaic virus infection  ( tmv )
+reaction to african soybean dwarf virus infection  ( sbdv )
+reaction to mung bean yellow mosaic virus infection  ( mymv )
+reaction to soybean crinkle leaf virus infection  ( sclv )
+reaction to soybean chlorotic mottle virus infection   ( sbcmv )
+reaction to soybean mild mosaic virus infection  ( smmv )
+reaction to cucumber mosaic virus infection  ( cumv )
+reaction to azuki mosaic virus infection  ( azmv )
+reaction to abutilon mosaic virus infection  ( abmv )
+reaction to bean chlorotic ringspot virus infection  ( bcrv )
+reaction to bean common mosaic virus infection  ( bcmv )
+reaction to blackeye cowpea mosaic virus infection  ( bicmv )
+phytoplasma disease resistance traits
+bud proliferation
+machismo
+witches broom
+reaction to phoma exigua infection
+reaction to colias eurytheme damage
+reaction to rhopalosiphum maidis damage
+reaction to aphis spraecola damage
+reaction to myzus persicae damage
+reaction to rhapalosiphum padi damage
+reaction to aphis craccivora damage
+reaction to aphis gossypii damage
+reaction to spodoptera frugiperda damage
+reaction to spodoptera ornithogalli damage
+reaction to diabrotica balteata damage
+reaction to epicauta funebris damage
+reaction to hypera punctata damage
+reaction to agotis ipsilon damage
+reaction to feltia ducens damage
+reaction to peridroma saucia damage
+reaction to dectes texanus ssp . texanus damage
+reaction to halticus bractatus damage
+reaction to ophiomyia centrosematis damage
+reaction to melanoplus femurrubrum damage
+reaction to melanoplus differentialis damage
+reaction to plathypena scabra damage
+reaction to calomycterus setarius damage
+reaction to popilliae japnoica damage
+reaction to elasmopalpus lignosellus damage
+reaction to pseudoplusia includens damage
+reaction to trichoplusia ni damage
+reaction to epilachna varivestis damage
+reaction to vanessa cardui damage
+reaction to lygus lineolaris damage
+reaction to empoasca fabae damage
+reaction to delia platura damage
+reaction to odontota horni damage
+reaction to odontota dorsalis damage
+reaction to sumitosis rosea damage
+reaction to rivellia quadrifasciata damage
+reaction to sericothrips variabilis damage
+reaction to frankliniella tritici damage
+reaction to colaspis louisianae damage
+reaction to colaspis floridana damage
+reaction to papaipema nebris damage
+reaction to nezara viridula damage
+reaction to acrosternum hilare damage
+reaction to euschistus servus damage
+reaction to spissistilus festinus damage
+reaction to tetranychus urticae damage
+reaction to tetranychus pacificus damage
+reaction to anticarsia gemmatalis damage
+reaction to bemisia tabaci damage
+reaction to phyllophaga damage
+reaction to melanotus damage
+reaction to spilosma virginica damage
+reaction to alternaria infection
+reaction to aristastoma infection
+reaction to ascochyta infection
+reaction to cercospora infection
+reaction to colletotrichum infection
+reaction to diaporthe infection
+reaction to curvularia infection
+reaction to fusarium infection
+reaction to mycosphaerella infection
+reaction to myrothecium infection
+reaction to peronospora infection
+reaction to phakopsora infection
+reaction to phytophthora infection
+reaction to pleospora infection
+reaction to pythium species infection
+reaction to hoplolaimus damage
+reaction to hoplolaimus galeatus damage
+reaction to hoplolaimus magnistylus damage
+reaction to meloidogyne arenaria damage
+reaction to meloidogyne hapla damage
+reaction to meloidogyne incognita damage
+chromosome number
+reaction to spodoptera litura damage
+reaction to pseudomonas syringae pv phaseolicola infectiion
+seed filling 1
+seed filling 2
+seed filling period
+seed width
+seed height
+seed length
+seed volume
+manganese ion sensitivity
+shoot phosphorus content
+seed arabinose content
+seed
+reaction to aphis species damage
+reaction to colaspis species damage
+reaction to diabrotica species damage
+pod maturity date
+sodium ion sensitivity
+female sterile
+male sterile
+supernodulation
+leaflet width
+seed soluble oligosaccharides
+twining date
+upper pubescence type
+reaction to heliothis virescens damage
+yield / height
+yield
+seed sucrose content
+main stem diameter
+main stem length
+seed stearic acid content
+sprout yield
+specific leaflet weight
+seed weight
+seed number
+seed nitrogen content
+seed structures
+hilum
+micropyle
+seed coat
+seed stachyose content
+leaflet morphology
+reproductive stage
+flower development trait
+first flower
+seed raffinose content
+seed raphe
+reaction to fusarium oxysporum infection
+r3 beginning pod
+r7 beginning maturity
+r8 full maturity
+brittle bean syndrome
+hilar groove
+seed arabinose - galactose content
+soybean development stages
+seed beta conglycinin protein fraction
+seed alpha - prime conglycinin fraction
+cell wall polysaccharide composition
+seed conglycinin protein content
+reaction to cercospora sojina infection
+seed fucose content
+seed morphology
+seed galactose content
+pod morphology
+seed glucose content
+main stem morphology
+seed glycinin content
+main stem number
+seed meal content
+main stem architecture
+lateral branch morphology
+isoflavone content
+seed oil content
+lateral branch diameter
+lateral branch length
+seed oleic acid content
+lateral branch architecture
+seed palmitic acid content
+saccharide:mono content
+hypocotyl morphology
+seed protein content
+hypocotyl architecture
+secondary branching
+internode length
+reaction to bacillus infection
+reaction to corynebacterium infection
+reaction to curtobacterium infection
+reaction to pseudomonas infection
+reaction to ralstonia infection
+reaction to xanthomonas infection
+reaction to xanthomonas campestris infection
+reaction to sclerotinia species infection
+stem termination type
+seed oil / protein ratio
+3 , 4 - dichloropropionanilide sensitivity
+pectin content
+seed phytate content
+leaflet trigonelline content
+photoperiod sensitivity
+reaction to melanoplus species damage
+reaction to rhapalosiphum species damage
+reaction to spodoptera species damage
+reaction to odontota species damage
+reaction to rotylenchulus reniformis damage
+reaction to cowpea mosaic virus infection  ( cpmv )
+drought tolerance
+reaction to cercospora daizu infection
+reaction to cercospora melonis infection
+reaction to cercospora vignicola infection
+reaction to glomerella infection
+reaction to fusarium tricinctum infection
+maturity group
+seed methionine content
+metribuzin sensitivity
+bentazon sensitivity
+pendimethalin sensitivity
+seed coat mottling
+peroxidase activity
+pod color
+reaction to phytophthora sojae infection
+pod length
+pubescence traits
+pubescence color
+pubescence form
+pubescence density
+pubescence tip type
+adventitious leaves
+floral abscission
+ovule abortion
+embryo abortion
+germination time
+podless
+root morphology
+shoot morphology
+primary root morphology
+lateral root morphology
+lateral root length
+lateral root size
+lateral root shape
+lateral root density
+flower number
+pod number
+lateral roots absent
+root weight
+plant weight
+root surface area
+shoot weight
+primary root size
+primary root shape
+primary root length
+root to shoot ratio
+drought susceptibility index
+node number
+pods per node
+ph sensitivity
+reaction to acidity
+reaction to alkalinity
+amino acid composition
+seed alanine content
+seed valine content
+seed lysine content
+seed proline content
+seed histidine content
+seed glutamine content
+seed arginine content
+seed glycine content
+seed asparagine content
+seed threonine content
+seed tryptophan content
+seed serine content
+seed phenylalanine content
+seed tyrosine content
+petiole morphology
+petiole length
+petiole shape
+petiole size
+petiolule morphology
+petiolule length
+petiolule shape
+petiolule size
+determinant stem
+indeterminant stem
+seed leucine content
+seed isoleucine content
+seed aspartic acid content
+seed glutamic acid content
+stem strength
+seed oil plus protein content
+seed weight per plant
+seed hardness
+root nodulation
+leaflet margin
+seed cadmium concentration
+root nodule growth
+determinate root nodule growth habit
+indeterminate root nodule growth habit
+pubescence length
+flower form
+somatic embryogenesis
+phototropism
+gravitropism
+heliotropism
+root gravitropism
+stem gravitropism
+inorganic salt sensitivity
+chloride ion sensitivity
+herbicide sensitivity
+rhizobium response
+response to bradyrhizobium species .
+response to sinorhizobium species .
+response to mesorhizobium species .
+response to bradyrhizobium japonicum .
+response to bradyrhizobium elkanii .
+response to bradyrhizobium liaoningense .
+response to sinorhizobium fredii .
+response to mesorhizobium tianshanense .
+reproductive period
+somatic embryos per explant
+reaction to nematospora coryli infection
+somatic embryogenesis efficiency
+reaction to nematospora infection
+reaction to nematospora lycopersici infection
+seed nitrogen content at growth stage r5
+seed nitrogen content at growth stage r6
+seed nitrogen content at growth stage r7
+phosphorus content
+leaf phosphorus content
+seed phosphorus content
+root phosphorus content
+seed methionine and cysteine content
+manganese induced leaf necrosis
+manganese induced root necrosis
+chilling induced seed coat color
+enzymatic activity
+seed coat peroxidase activity
+nitrogen content
+seed isoflavone content

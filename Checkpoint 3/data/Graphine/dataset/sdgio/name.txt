@@ -1,0 +1,353 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+material entity
+organism or virus or viroid
+gas molecular entity
+water
+dihydrogen
+molecular entity
+chemical entity
+biological role
+hydroxides
+inorganic molecular entity
+elemental molecule
+molecule
+elemental molecular entity
+chalcogen molecular entity
+main group molecular entity
+s - block molecular entity
+p - block molecular entity
+hydrides
+polyatomic entity
+heteroatomic molecular entity
+chemical role
+persistent organic pollutant
+food component
+environmental contaminant
+environmental food contaminant
+anthropogenic geographic feature
+first - order administrative region
+second - order administrative region
+third - order administrative region
+fourth - order administrative region
+national geopolitical entity
+hydrographic feature
+ocean
+sea
+lake
+river
+stream
+watercourse
+populated place
+water body
+construction
+political entity
+supranational geopolitical entity
+area of protected biodiversity
+biome
+terrestrial biome
+weapons test site
+nuclear weapons test site
+city
+marine water body
+waste water
+mesoscopic physical object
+fresh water
+sewage
+waste material
+environmental feature
+drinking water
+manufactured product
+environmental material
+marine pelagic feature
+anthropogenic terrestrial biome
+cropland biome
+village biome
+rangeland biome
+dense settlement biome
+urban biome
+environmental system
+water vapour
+atmospheric water vapour
+anthropogenic environment
+environmental zone
+atmospheric carbon dioxide
+atmospheric ozone
+lentic water body
+lotic water body
+climate change
+volcanic eruption
+outer space
+slum
+explosive eruption
+effusive eruption
+dense settlement
+waste role
+earthquake
+tectonic earthquake
+megathrust earthquake
+polluted lake
+coast
+tsunami
+mass wasting
+avalanche
+landslide process
+geological subsidence
+mass wasting flow
+mudflow
+lahar
+sturzstrom
+ash fall process
+coastal flooding
+riverine flooding
+flash flooding
+flood
+coastal flood
+riverine flood
+flash flood
+storm surge
+meteotsunami
+storm surge process
+areal flooding
+urban flooding
+lava flow process
+recycling process
+carbon - bearing gas emission process
+land consumption process
+human dwelling
+sparsely populated settlement
+rural settlement
+formal settlement
+informal settlement
+illegal settlement
+carbon dioxide emission process
+carbon dioxide emission
+rural area
+village
+key biodiversity area
+public infrastructure
+illegal informal settlement
+material extraction process
+gaseous environmental material
+astronomical body
+astronomical object
+astronomical body part
+liquid environmental material
+biosphere
+precipitation process
+ecological corridor
+natural environment
+anthropisation
+mass liquid flow
+technosphere
+manufacturing process
+construction process
+environmental system determined by a quality
+environmental system determined by a material
+environmental system determined by an organism
+animal - associated environment
+environment associated with an animal part or small animal
+environment associated with a plant part or small plant
+ecosystem
+terrestrial environmental zone
+anthropised terrestrial environmental zone
+saline water body
+advective transport process
+environmental system process
+desertification
+flooding
+land degradation
+afforestation
+deforestation
+reforestation
+anthropogenic modulatory intervention process
+anthropogenic environmental process
+hydrological process
+environmental pollution
+air pollution
+soil pollution
+water pollution
+plastic pollution
+environmental monitoring
+pollution control
+pollution monitoring
+urban pollution
+material transport process
+gas emission process
+hydrocarbon gas emission process
+foodon product type
+food product type  ( to be processed )
+drinking water  ( purified )
+nonalcoholic beverage  ( us cfr )
+beverage  ( us cfr )
+soft drink  ( us cfr )
+alcoholic beverage  ( us cfr )
+product type ,  usa
+food product type
+product type ,   u .s . code of federal regulations ,  title 21
+biological_process
+data item
+information content entity
+curation status specification
+data about an ontology part
+obsolescence reason specification
+denotator type
+organism
+quality
+age
+morphology
+deviation ( from_normal )
+size
+position
+time
+old
+young
+decreased size
+physical quality
+physical object quality
+quality of a solid
+quality of a gas
+quality of a liquid
+protruding
+protruding out of
+edibility
+quality of a substance
+decreased quality
+decreased object quality
+collection of organisms
+population of organisms
+ecological community
+single - species collection of organisms
+household
+community
+multi - species collection of organisms
+agricultural household
+organismal entity
+whole plant
+plant structure
+plant anatomical entity
+system
+anatomical structure
+material anatomical entity
+multicellular organism
+anatomical entity
+multicellular anatomical structure
+sustainable development goal
+sustainable development target
+sustainable development indicator
+sustainable development goal indicator value
+sustainable development process
+access system
+sustainable access system
+access
+right of access
+ability to access
+permission to access
+use of a resource
+approaching a resource
+resource
+exposure process
+exposure to flooding
+exposure to coastal flooding
+exposure to contaminated environmental material
+exposure to contaminated water
+exposure to the flooding of a contaminated lake
+risk
+hazard disposition
+risk of flooding
+risk of drowning
+vulnerability
+affordable housing
+vulnerability towards flooding
+vulnerability towards drowning
+resilience strengthening process
+sanitation service
+tourism
+provisioning ecosystem service
+regulating ecosystem service
+supporting ecosystem service
+cultural ecosystem service
+exposed tangible asset
+vulnerability towards respiratory disease
+own - account worker role
+self - employed role
+contributing family worker role
+producer cooperative member role
+self - employed person
+own - account worker
+member of a producer cooperative
+contributing family worker
+disaster risk
+education process
+employee role
+employer role
+employment process
+employed person
+essential service
+process of educating
+process of being educated
+educator role
+educatee role
+inadequate housing
+medicine role
+medicine
+health care service
+social protection service
+resource role
+owner role
+water - borne disease
+fragile state
+resilience
+secure right
+established and operational policy
+right bearer
+basic service
+unemployed
+ownership process
+owner
+employment status
+employed
+rural entity
+rural population
+formal employment process
+informal employment process
+safe
+essential medicine
+habitability
+affordable
+access to basic services
+net permanent forest loss
+energy intensity
+ambient water quality
+good ambient water quality
+asset
+asset role
+inclusiveness
+wealth
+inclusive wealth
+natural capital
+natural asset
+domestic resource consumption
+industrialisation
+material footprint
+resource consumption
+direct material input
+material trade balance
+material intensity of an economy
+material footprint per capita
+material input per capita
+material trade balance per capita
+student
+natural asset role
+processual asset
+service
+ecosystem service
+educator
+waste management service
+transportation service

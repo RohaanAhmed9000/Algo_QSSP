@@ -1,0 +1,1633 @@
+count
+counting
+age data by age brackets
+orcid
+continuant
+occurrent
+independent continuant
+obsolete dependent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+continuant fiat boundary
+process profile
+relational quality
+fentanyl
+ethanol
+peptide
+formaldehyde
+deoxyribonucleic acid
+dinitrogen oxide
+morphine
+nicotine
+molecular entity
+alcohol
+bupivacaine
+atom
+antimicrobial agent
+nucleic acid
+ribonucleic acid
+macromolecule
+steroid
+opioid analgesic
+sedative
+local anaesthetic
+anaesthetic
+propofol
+droperidol
+etomidate
+diazepam
+fixative
+antiemetic
+muscle relaxant
+lormetazepam
+sodium citrate
+hydromorphone
+ketamine
+succinylcholine chloride  ( anhydrous )
+lidocaine
+antacid
+pethidine
+methohexital sodium
+pancuronium
+procaine
+ranitidine
+thiopental sodium
+vecuronium
+cell line cell
+immortal cell line cell
+cell line
+immortal cell line
+cell
+primary cultured cell
+cultured cell
+erythrocyte
+reticulocyte
+experimentally modified cell in vitro
+leukocyte
+cell type cancer
+lung combined type small cell adenocarcinoma
+ovarian serous carcinoma
+ovarian clear cell carcinoma
+medullary colon carcinoma
+mixed mucinous and nonmucinous bronchioloalveolar adenocarcinoma
+mucinous bronchioloalveolar adenocarcinoma
+nonmucinous bronchioloalveolar adenocarcinoma
+colon carcinoma
+cancer
+sex cord - gonadal stromal tumor
+ovary epithelial cancer
+colon adenocarcinoma
+ovarian cancer
+granulosa cell tumor
+ovarian mucinous cystadenocarcinoma
+lung carcinoma
+lung squamous cell carcinoma
+lung adenocarcinoma
+ovary transitional cell carcinoma
+malignant ovarian brenner tumor
+renal cell carcinoma
+renal carcinoma
+collecting duct carcinoma
+papillary renal cell carcinoma
+clear cell renal cell carcinoma
+chromophobe renal cell carcinoma
+bronchiolo - alveolar adenocarcinoma
+colon squamous cell carcinoma
+ovarian squamous cell carcinoma
+lung papillary adenocarcinoma
+adenosquamous colon carcinoma
+ovarian serous cystadenocarcinoma
+endometrioid ovary carcinoma
+ovarian mucinous neoplasm
+ovarian carcinosarcoma
+neuroblastoma
+environmental material
+in vitro transcription
+freezer
+medical device
+ashkenazi jew
+african
+mixed ethnicity
+family relationship
+biological family relationship
+child relationship
+specimen barcode
+anatomical location
+subnational entity
+geopolitical dependency
+sovereign state
+governmental organization
+immune response
+biological_process
+immunoglobulin complex
+protein - containing complex
+conditional specification
+measurement unit label
+objective specification
+action specification
+datum label
+data item
+symbol
+numeral
+information content entity
+scalar measurement datum
+directive information entity
+algorithm
+curation status specification
+data set
+image
+data about an ontology part
+plan specification
+measurement datum
+version number
+lot number
+setting datum
+conclusion textual entity
+material information bearer
+obsolescence reason specification
+textual entity
+document title
+figure
+document
+running title
+length measurement datum
+denotator type
+mass measurement datum
+time measurement datum
+postal address
+documenting
+centrally registered identifier symbol
+centrally registered identifier
+centrally registered identifier registry
+postal code
+identifier
+dubbing process
+personal name
+given name
+family name
+identity document
+documented identity
+authentication
+credential role
+base ontology module
+editors ontology module
+main release ontology module
+bridge ontology module
+import ontology module
+subset ontology module
+curation subset ontology module
+analysis subset ontology module
+single layer subset ontology module
+exclusion subset ontology module
+external import ontology module
+species subset ontology module
+reasoned ontology module
+generated ontology module
+template generated ontology module
+obo basic subset ontology module
+informed consent form
+completely filled informed consent form
+partially filled informed consent form
+act of authorizing
+obsolete authorization document
+eligibility of candidate participation
+candidate eligible for study role
+candidate ineligible for study role
+pathogenic disposition
+immunosuppressed organism
+pathogen
+immunosuppression
+pathologic immunosuppression
+immunosuppressive disposition
+pregnancy - induced immunosuppression
+immunosuppressed human experiencing hiv - based immunosuppression
+immunosuppressed human experiencing chronic systemic steroid use - based immunosuppression
+immunosuppressed human experiencing drug - based immunosuppression due to organ transplant
+birth control method
+tubulocystic renal cell carcinoma
+central african
+north african
+south african
+southeast asian
+central asian
+australian
+new zealander
+scandinavian
+australian / new zealand ethnicity
+prior radiation therapy
+adjuvant therapy
+prior immunotherapy
+prior chemotherapy
+prior hormone therapy
+cancer therapeutic procedure
+renal cell carcinoma associated with xp11 .2 translocations / tfe3 gene fusions
+tobacco smoking history
+borderline ovarian mucinous tumor ,  intestinal type
+borderline ovarian mucinous tumor ,  endocervical - like
+borderline ovarian clear cell tumor
+borderline ovarian transitional cell tumor
+south asian
+european
+ovarian undifferentiated carcinoma
+lung squamous cell carcinoma ,  papillary variant
+lung squamous cell carcinoma ,  clear cell variant
+lung squamous cell carcinoma ,  small cell variant
+lung colloid adenocarcinoma
+lung signet ring cell carcinoma
+borderline ovarian serous tumor
+solid lung adenocarcinoma
+colon undifferentiated carcinoma
+borderline ovarian seromucinous tumor / atypical proliferative ovarian seromucinous tumor
+pack year
+mediterranean
+western european
+eastern european
+middle eastern
+borderline ovarian endometrioid tumor / atypical proliferative ovarian endometrioid tumor
+alcohol use history
+colectomy
+biobank description in english
+sample collection identifier
+freezer shelf
+discarding
+human subject recuiter role
+cryovial box
+trash container
+freezer rack
+blood spot card box
+data confirm questionnaire
+form filling
+filled patient questionnaire
+patient questionnaire
+collection packet with specimen and information material
+blood additive role
+lab technician role
+collection packet with specimen
+collection packet with empty container
+medication role
+filled data confirm questionnaire
+collection packet
+medication material
+blood spot card
+cryovial
+vacutainer
+specimen receiving
+adding specimen into a container
+blood spotting
+buffy coat specimen
+blood specimen on blood spot card
+collection packet with empty container and unfilled information material
+duration time of smoking regularly
+average daily use of cigarette datum
+nicotine patch
+cigarette
+nicotine gum or lozenge
+cigar
+chewing tobacco
+nicotine material
+smoking pipe
+nicotine e - cigarette
+smoking start date
+pipe smoking behavior
+duration time of smoking
+smoking end date
+pipe tobacco
+tobacco
+tobacco material
+location below resection
+location adjacent to tissue fixation
+time in fixative measurement
+postmortem collecting specimen from organism
+collecting specimen from organism during organ donation
+internal body temperature measurement assay
+rectal temperature measurement assay
+organ temperature measurement assay
+anesthesia probe temperature measurement assay
+collection packet identifier
+prosector role
+standard operating procedure
+specimen transport sop
+tissue procurement sop
+case report form completion sop
+sop memorandum
+sop adjustment
+first blood draw date
+first tissue removed date
+date of form data verification
+blood draw time
+first blood draw time
+first tissue removed time
+time of surgical ligature for specimen collection
+form data verification process
+surgical ligature process
+organization conducting specimen collection from organism
+specimen collected with specific collection packet
+autolysis value specification
+followup required for specimen collection issue
+resolved specimen collection issue
+reason for not collecting frozen specimens
+comment on resolved specimen collection issue
+specimen donor body refrigerated indicator
+time donor body refrigerated measurement
+cessation of brain activity death
+cessation of cardiac activity death
+positive serological assay result
+negative serological assay result
+indeterminate serological assay result
+non - performance of an assay
+date of surgical removal of specimen
+preoperative intravenous administration of sedative
+preoperative intravenous administration of opioid analgesic
+preoperative intravenous administration of antiemetic
+preoperative intravenous administration of antacid
+preoperative intravenous administration of medication
+administration of local anaesthetic
+administration of regional anaesthetic
+administration of intravenous anaesthetic
+intravenous administration of opioid analgesic
+intravenous administration of muscle relaxant
+administration of inhalation anaesthetic
+administration of anaesthetic
+administration of insulin during surgery
+administration of steroid during surgery
+administration of antimicrobial agent during surgery
+administration of medication during surgery
+time of first surgical incision
+abdominoperineal resection
+left hemicolectomy
+sigmoid colectomy
+right hemicolectomy
+subtotal colectomy
+total colectomy
+transverse colectomy
+low anterior resection
+proctectomy
+proctocolectomy
+rectosigmoidectomy
+time of first clamp for specimen removal
+time of second clamp for specimen removal
+in vivo intraoperative ischemic period
+vital sign blood pressure variance early in organ excision
+vital sign blood pressure variance late in organ excision
+first temperature recorded in operating room of specimen donor
+second temperature recorded in operating room of specimen donor
+oxygen desaturation epochs prior to organ excision description
+carbon dioxide level of specimen donor recorded at time closest to organ excision
+albumin volume administered intraoperatively
+amount of packed red blood cells administered intraoperatively
+platelet volume administered intraoperatively
+amount of fresh frozen plasma administered intraoperatively
+specimen donor intraoperative blood loss volume measurement datum
+specimen donor intraoperative blood loss prior to organ excision volume measurement datum
+specimen donor intraoperative blood loss at end of surgery volume measurement datum
+specimen donor intraoperative urine excreted volume measurement datum
+specimen donor intraoperative urine excreted prior to organ excision volume measurement datum
+specimen donor intraoperative urine excreted at end of surgery volume measurement datum
+indicator of ascites fluid collection during surgery
+ascites fluid from specimen donor during surgery volume measurement datum
+duration of fasting by specimen donor prior to surgery
+comment on donor pre - operative bowel preparation prior to surgery
+comment on notable events during donor surgery
+time specimen left operating room
+hysterectomy with bilateral salpingo - oophorectomy
+hysterectomy with left salpingo - oophorectomy
+hysterectomy with right salpingo - oophorectomy
+bilateral oophorectomy
+left oophorectomy
+right oophorectomy
+pelvic exenteration
+pelvic mass excision
+bilateral salpingo - oophorectomy
+left salpingo - oophorectomy
+right salpingo - oophorectomy
+surgical method
+abdominal surgical method
+vaginal surgical method
+laparoscopic surgical method
+laparoscopically assisted vaginal surgical method
+supracervical hysterectomy
+robotic surgical method
+indicator of pelvic washings collected during ovarian surgery
+left kidney biopsy
+right kidney biopsy
+left kidney mass excision
+left partial nephrectomy
+left radical nephrectomy
+left nephroureterectomy
+right kidney mass excision
+right partial nephrectomy
+right radical nephrectomy
+right nephroureterectomy
+open surgical method
+left lung biopsy
+right lung biopsy
+left lung lobectomy
+right lung lobectomy
+left lung mass excision
+right lung mass excision
+left pneumonectomy
+right pneumonectomy
+wedge resection of left lung
+wedge resection of right lung
+indicator of collected and banked pre - operative blood specimens
+reason for not banking pre - operative blood specimen
+blood not received in biobank
+minimum amount of required pre - op blood not drawn
+minimum number of aliquots not banked
+blood was hemolyzed or not useable
+receipt and dissection of surgical specimen sop
+data and time of biobank receipt of specimen
+name of biobank person receiving specimen
+comment from specimen receipt
+parent specimen id
+name of dissector of parent specimen
+beginning time of parent specimen dissection .
+ending time of parent specimen dissection .
+specimen gross appearance
+specimen gross appearance of tumor
+obsolete_fine needle biopsy
+obsolete_core needle biopsy
+paxgene fixation reagent
+neutral buffered formalin
+buffer formula for specimen fixative
+medical product expiration date
+fixative product manufacturer
+commercial manufacturer
+in - house manufacturer
+recycled buffered formalin condition
+buffered formalin condition
+fresh buffered formalin condition
+blood specimen collection and processing sop
+minimum required pre - operative blood tubes collected
+approval to proceed with collection
+phlebotomist role
+anesthesiologist role
+nurse anesthetist role
+operating room technician
+date and time of blood collection
+pre - operative blood specimen collection
+blood specimen collection
+name of person performing blood draw
+blood specimen container with edta
+paxgene dna vacutainer
+paxgene rna vacutainer
+blood specimen volume
+fresh venous needle blood specimen collection
+comment from blood specimen collection
+data and time of laboratory receipt of specimen
+name of person receiving blood specimen in laboratory
+temperature in lab when blood specimen was received
+humidity in lab when blood specimen was received
+vacutainer specimen barcode
+time of specimen freezing at approximately  - 20 degrees c
+time of specimen freezing at  - 70 to  - 80 degrees c
+name of person storing specimen
+specimen was collected and stored in accordance with the specified sop
+comment from blood specimen storage
+time of blood processing
+conical centrifuge tube identifier
+blood specimen volume in conical centrifuge tube
+blood plasma specimen barcode
+blood plasma specimen volume
+time of blood plasma specimen placement on dry ice
+cryovial specimen barcode
+time of blood plasma specimen transfer to freezer
+name of person processing blood plasma specimen aliquots
+name of person transferring blood plasma specimens to freezer
+specimen was processed in accordance with the specified sop
+comment from blood specimen processing
+presence of gross hemolysis of plasma observed
+cell pellet volume
+cell pellet specimen barcode
+time of completion of blood cell pellet processing
+time of blood cell pellet transfer to storage
+name of person processing blood cell pellet specimen
+date of specimen placement on dry ice for transport
+time of specimen placement on dry ice for transport
+date of specimen freezing at  - 70 to  - 80 degrees c
+date of specimen transport
+time of specimen transport
+specimen transporting organization
+specimen receiving organization
+name of person responsible for specimen transport
+name of iata - trained person verifying specimen transport
+date of receiving specimen transport
+time of receiving specimen transport
+temperature of specimen collection packet at time of receipt
+name of person receiving specimen shipment
+specimen shipment received in good condition
+specimen shipment received in poor condition
+comment on specimen integrity after transport
+date of specimen receipt for pathologist processing
+time of receipt for pathologist processing
+name of quality control inspector of specimen
+name of data entry person for tissue recovery form
+name of team leader for filling out tissue recovery form
+ffpe tissue processing sop
+equipment maintained as per manufacturer recommendations
+comment on maintenance discrepancy from manufacturer recommendations
+ffpe clearing agent role
+adherence of alcohol stage duration to ffpe tissue processing sop
+ffpe alcohol stage duration
+adherence of dehydration process duration to ffpe tissue processing sop
+ffpe dehydration process duration
+adherence of dehydration process temperature to ffpe tissue processing sop
+ffpe dehydration process temperature
+adherence of stage and replicate numbers to ffpe tissue processing sop
+number of ffpe stages / replicates
+adherence of duration in clearing agent to ffpe tissue processing sop
+ffpe clearing agent duration
+adherence of temperature of clearing agent to ffpe tissue processing sop
+ffpe clearing agent temperature
+adherence to paraffin impregnation method in ffpe tissue processing sop
+ffpe paraffin impregnation method
+adherence of paraffin temperature to ffpe tissue processing sop
+ffpe paraffin temperature
+comment on ffpe tissue processing
+ffpe tissue paraffin embedding sop
+ffpe paraffin processing for embedding temperature
+fresh paraffin
+age of paraffin
+total time ffpe freshly poured blocks were cooled
+ffpe tissue block handling ,  tracking ,  and storage sop
+adherence to ffpe tissue block storage sop
+comment on ffpe tissue block storage
+comment on paraffin embedding of ffpe tissue
+name of specimen slide preparation technician
+ffpe tissue section preparation sop
+microtome blade age
+fresh microtome blade
+preparation of ffpe block face for sectioning protocol
+description of glass slide charge
+charged glass slide indicator
+uncharged glass slide indicator
+ffpe water bath temperature
+microtome maintenance frequency
+daily microtome maintenance
+comment on deviations from microtome daily maintenance sop
+water bath maintenance frequency
+daily water bath maintenance
+comment on deviations from water bath daily maintenance sop
+comment on preparation of ffpe tissue section
+ffpe tissue section h&e staining and mounting sop
+ffpe tissue section h&e staining in oven duration
+oven temperature during ffpe tissue section h&e staining
+ffpe tissue section h&e deparaffinization protocol
+ffpe tissue section h&e staining protocol
+ffpe tissue section h&e clearing protocol
+ffpe tissue section h&e cover slip protocol
+manual ffpe tissue section h&e deparaffinization
+manual ffpe tissue section h&e staining
+manual ffpe tissue section h&e clearing
+manual ffpe tissue section h&e cover slipping
+comment on preparation of ffpe h&e stained slide
+h&e staining equipment maintenance performed and recorded frequency
+h&e staining equipment maintenance performed and recorded frequency value specification
+comment on deviations from h&e equipment maintenance sop
+specimen randomization key id
+manager of human research protocol requirements role
+transplant alert associated with specimen donor
+serology alert associated with specimen donor
+data and time parent specimen id was recorded
+comment on tissue specimen processing
+human brain biobank
+central biobank
+laboratory ,  data analysis ,  and coordinating center for human specimens
+pathology research center
+time specimen place in stabilizer
+collection packet component id
+data and time specimen was frozen in liquid nitrogen
+weight of frozen tissue specimen
+ffpe fixation protocol
+ffpe fixation delay protocol
+ffpe tissue cassette id
+data and time ffpe tissue cassette id was recorded
+date and time ffpe tissue cassette placed in fixative
+placement of tissue cassette in ffpe fixative delay duration
+date and time ffpe tissue cassette placed in processor
+date and time ffpe tissue processor cycle ended
+time in ffpe fixative measurement
+date and time ffpe tissue cassette removed from processor
+date and time ffpe tissue embedding started
+measurement of time between ffpe tissue processor cycle completion and embedding
+date and time ffpe tissue cassette was frozen
+ffpe freezing protocol
+ffpe freezing by dry ice protocol
+ffpe freezing by ln2 vapor phase protocol
+date and time ffpe tissue cassette transferred to storage
+name of dissector of normal adjacent tissue to tumor for ffpe
+specimen was processed in accordance with the ffpe sop
+date and time ffpe tissue was preserved
+specimen was processed in accordance with the ffpe sop including  < 1 hour delay to fixation and 23 hour time in fixative
+comment on procurement site restriction
+specimen image id
+comment on ffpe slide image
+name of submitter of pathology case summary report .
+date of submission of pathology case summary report
+name of reviewer of pathology case summary report .
+date of review of pathology case summary report
+pathologist submitted specimen procurement feedback
+greatest tumor dimension on slide
+percentage of cross - sectional surface area of entire slide composed of tumor focus
+percentage of tumor cellularity by cell count of the entire slide .
+percentage of cross - sectional surface area of entire slide composed of necrotic tissue
+histologic profile quantitative assessment of tumor slide specimen surface area
+percentage of viable tumor slide specimen by surface area
+percentage of necrotic tumor slide specimen by surface area
+percentage of tumor slide specimen stroma by surface area
+percentage of non - cellular component of tumor slide specimen by surface area
+non - cellular component of tumor slide specimen description
+confirmation of histologic type of ffpe h&e tumor slide
+ffpe slide meets necrosis percentage and tumor content criteria
+ffpe slide findings that do not meet microscopic analysis criteria
+comment from pathology review of ffpe slide
+ffpe slide consistent with findings of diagnostic pathology report
+ffpe slide inconsistencies with findings of diagnostic pathology report
+name of reviewing pathologist at organization conducting specimen collection
+date of ffpe slide review by the pathologist
+name of data entry person for local pathology review form
+presence of sarcomatoid features on specimen slide
+sarcomatoid features observed on ffpe slide
+name of person in gross room receiving or specimen
+specimen transport from or to gross room sop
+specimen transport from or to gross room was performed as per sop
+specimen transport from or to gross room issues or deviations from sop
+temperature in gross room when specimen arrived from or
+humidity in gross room when specimen arrived from or
+name of performer of gross evaluation of resected tissue specimen
+resected tissue specimen mass measurement datum
+gross appearance of disease in resected tissue
+comment on gross evaluation of resected tissue specimen
+gross diagnosis of resected tissue
+photograph of tissue was taken in pathology gross room
+reason for not taking a photograph of resected tissue in pathology gross room
+pathology ink used on resected tissue specimen
+ink used for marking surgical margin
+tumor tissue was released to the biobank
+explanation of why tumor tissue specimen was not released to a biobank
+percentage of gross area of necrosis of a specimen sent to biobank
+percentage of tumor content of specimen sent to biobank
+second piece of tumor tissue was collected
+dimensions of each specimen meet the criteria specified within the relevant tissue procurement sop
+comment on deviations in specimen dimensions from a tissue procurement sop
+normal adjacent tissue released to the biobank in addition to tumor tissue
+time of specimen transfer from pathology gross room to a biobank
+no recurrence of tumor
+follow - up on donor outcome comment from tissue procurement
+participant signed and dated informed consent form
+specimen collection quality review comment
+minimum required pre - operative rna and dna paxgene tubes were collected
+desired plasma and serum aliquots were obtained
+top priority tumor specimen was obtained and processed with a particular ffpe fixation delay protocol
+additional tumor specimen was obtained and processed with a particular ffpe fixation delay protocol
+local pathology review of qc ffpe tumor tissue h&e slide was completed
+local pathology review was consistent with site of tissue procurement diagnostic pathology report
+specimen donor clinical data entry was completed
+tumor specimen satisfied criteria of necrosis percentage and tumor content
+all requirements for an investigation are met enabling release of specimen for shipment .
+activity related to a particular specimen donor was stopped .
+activity related to a particular specimen donor was stopped because not enough blood collected
+activity related to a particular specimen donor was stopped because not enough tissue
+activity related to a particular specimen donor was stopped because tissue was too necrotic
+activity related to a particular specimen donor was stopped because tissue was benign
+activity related to a particular specimen donor was stopped because tissue was not released to a biobank
+research authorization for post mortem specimen donation
+research authorization obtainer role for post mortem donation of specimens from a legally authorized representative
+research authorization documentation for post mortem specimen donation
+research authorization for post mortem specimen donation was obtained
+research authorization documentation for post mortem specimen donation that is affirmative
+research authorization documentation for post mortem specimen donation that is negative
+research authorization for post mortem specimen donation not obtained due to religious reasons
+research authorization for post mortem specimen donation not obtained due to surgeon's recommendation
+research authorization for post mortem specimen donation not obtained because  legally authorized representative felt pressured
+research authorization for post mortem specimen donation not obtained because  legally authorized representative felt too distraught
+research authorization for post mortem specimen donation not obtained because  legally authorized representative needed more time to make a decision
+research authorization for post mortem specimen donation not obtained because  legally authorized representative was uncomfortable with the risks
+research authorization for post mortem specimen donation not obtained because legally authorized representative was afraid the decision might affect the surgery plans of donor
+research authorization for post mortem specimen donation not obtained because  legally authorized representative did not agree with the activity of biobanking .
+research authorization for post mortem specimen donation not obtained because  legally authorized representative  did not show up to the appointment as scheduled .
+date of research protocol approval as determined by an institutional review board
+date of research protocol expiration as determined by an institutional review board
+identification number of a protocol at a particular site
+date that research authorization for post mortem specimen donation was witnessed
+date of research authorization verification
+name of person screening specimen donors
+name of person obtaining authorization from legally authorized representative for post - mortem specimen donation
+date on which research authorization was obtained from legally authorized representative
+identifier for legally authorized representative
+relationship between person signing research authorization and specimen donor
+specimen donor's date of birth
+donor's biological sex
+post mortem  donor role
+age of specimen donor at time that authorization from legally authorized representative was obtained
+indicator of whether specimen donor has reached the age of majority
+comments related to research authorization process
+willingness to be contacted for a research study
+agreement to a specified research addendum
+authorization documentation for postmortem specimen donation for a specified purpose
+authorization for postmortem specimen donation for transplantation purposes only
+authorization for postmortem specimen donation for transplantation and research
+authorization not obtained for whole brain donation
+limitations on research authorization for use of donated specimens
+presence of metastatic tumor exclusion criterion
+presence of a tumor larger than a specified size exclusion criterion
+authorization to collect of minimum number of organ / tissue types for a specific study inclusion criterion
+tissue collection timing and placed in fixative inclusion criterion
+time since radiation therapy was received prior to surgery
+time since chemotherapy was received prior to surgery
+time since immunotherapy was received prior to surgery
+time since hormonal therapy was received prior to surgery
+date of radiation therapy prior to surgery
+date of chemotherapy prior to surgery
+date of immunotherapy prior to surgery
+date of hormonal therapy prior to surgery
+lifelong non - drinker of alcohol
+current non - drinker of alcohol
+moderate alcohol consumption history
+greater than moderate alcohol consumption history
+duration of greater than moderate alcohol consumption prior to enrollment
+lifelong non - smoker history
+current smoker history
+current reformed smoker for more than 15 years history
+current reformed smoker for less than 15 years history
+timing of scoring performance status
+preoperative performance status score
+pre - adjuvant performance status score
+post adjuvant performance status score
+comment from clinical data entry form
+pill - based hormonal birth control method
+injection - based hormonal birth control method
+intrauterine device - based hormonal birth control method
+patch - based hormonal birth control method
+vaginal ring - based hormonal birth control method
+duration of hormonal birth control use prior to enrollment
+time since last usage of hormonal birth control
+comment on the use of hormonally based birth control
+duration of hormone replacement therapy prior to enrollment
+time since last usage of hormone replacement therapy
+comment on the use of hormone replacement therapy
+comment on exposure to environmental and workplace carcinogens
+colorectal cancer risk factor
+high meat diet colorectal cancer risk factor
+obesity colorectal cancer risk factor
+type ii diabetes colorectal cancer risk factor
+previous colorectal polyps colorectal cancer risk factor
+familial adenomatous polyposis colorectal cancer risk factor
+estrogen alone hormone replacement therapy
+estrogen with progestin hormone replacement therapy
+progestin alone hormone replacement therapy
+testosterone hormone replacement therapy
+clinical history of sepsis
+clinical history of pneumonia
+clinical history of open wounds
+clinical history of high unexplained fever
+clinical history of positive blood cultures
+clinical history of abnormal white blood cell levels
+clinical history of fungal infections
+clinical history of ascites
+clinical history of cellulitis
+clinical history of blood transfusion in foreign country
+clinical history of human tissue transplant
+clinical history of animal tissue xenotransplant
+clinical history of smallpox vaccination
+a clinical history of contact with someone with smallpox
+clinical history of dialysis
+clinical history of cancer at death
+clinical history of cancer within a time period before death
+clinical history of tuberculosis
+clinical history of meningitis at death
+clinical history of encephalitis
+clinical history of long term steroid use
+clinical history of osteomyelitis
+clinical history of unexplained seizures
+clinical history of unexplained weakness and fatigue
+clinical history of exposure to toxins
+clinical history of exposure to rabies
+indication of heroin use
+indication of recent cocaine use
+indication of male homosexual sexual activity
+an indication of illegal injectable drug use
+clinical history of clotting disorders
+clinical history of growth hormone use
+clinical history of inability to have human immunodeficiency virus testing due to hemodilution
+clinical history of unexplained weight loss
+clinical history of night sweats
+clinical history of blue or purple spots on skin or mucous membranes
+clinical history of unexplained lymphadenopathy
+clinical history of a prolonged fever
+clinical history of an unexplained cough or shortness of breath
+clinical history of opportunistic infections
+clinical history of sexually transmitted disease
+clinical history of drug abuse
+clinical history of severe acute respiratory syndrome
+clinical history of exposure to severe acute respiratory syndrome
+clinical history of west nile virus
+clinical history of west nile virus exposure
+clinical history of gonorrhea
+clinical history of syphilis
+clinical history of hepatitis b
+clinical history of hepatitis c
+clinical history of human immunodeficiency virus
+clinical history of lupus
+clinical history of sarcoidosis
+clinical history of scleroderma
+clinical history of reye's syndrome
+clinical history of rheumatoid arthritis
+clinical history of idiopathic heart disease
+clinical history of alzheimer's disease
+clinical history of dementia of unknown cause
+clinical history of multiple sclerosis
+clinical history of amyotrophic lateral sclerosis
+indication of having resided in a northern european military base
+indication of having resided in europe during a specific time frame
+indication of performing sexual acts in exchange for money or drugs
+indication of time in jail
+indication of a tattoo from unregulated tattoo parlor
+indication of illegal prescription drug use
+indication of intravenous drug use
+indication of having lived in the united kingdom during specific time frame
+indication of body piercing from non - professional
+indication of tattoo from non - professional
+indication of residence in state - run group home at time of death
+indication of having resided in europe during specific time frame
+planned process
+regulator role
+regulatory role
+material supplier role
+processed material
+investigation
+evaluant role
+assay
+culture medium
+reagent role
+patient role
+material processing
+participant under investigation role
+responsible party role
+principal investigator role
+specimen role
+worker role
+filter paper
+population
+investigation agent role
+organization
+dna extraction
+plan
+protocol
+adding a material entity into a target
+analyte role
+material to be added role
+drawing a conclusion based on data
+planning
+contain function
+heat function
+material separation function
+filter function
+mechanical function
+transfer function
+cool function
+image acquisition function
+image creation device
+solid support function
+environment control function
+extract
+averaging objective
+adding material objective
+needle
+analyte measurement objective
+assay objective
+analyte assay
+target of material addition role
+measure function
+material transformation objective
+manufacturing
+manufacturing objective
+study design execution
+manufacturer role
+material separation objective
+urine specimen
+material combination
+blood specimen
+specimen collection process
+sample from organism
+portioning objective
+average value
+separation into different composition objective
+specimen collection objective
+material combination objective
+material sample role
+material sample
+material maintenance objective
+informed consent process
+measurement device
+manufacturer
+test tube
+material maintenance
+record of missing knowledge
+pre - mortem specimen
+rna extract
+freezing storage
+nasal swab specimen
+frozen specimen
+lyophilization storage
+material separation device
+service consumer role
+service provider role
+paraffin specimen
+processed specimen
+reagent application function
+lyophilized specimen
+container
+device
+fresh specimen
+paraffin storage
+agar stab specimen
+computed tomography scanner
+questionnaire
+agar stab storage
+image creation
+nucleic acid extract
+environmental control device
+dna extract
+automatic tissue processor
+age since planting measurement datum
+age since hatching measurement datum
+age since egg laying measurement datum
+age since germination measurement datum
+age since eclosion measurement datum
+age since sowing measurement datum
+age since coitus measurement datum
+age measurement datum
+age since fertilization measurement datum
+age since birth measurement datum
+service
+genetic characteristics information
+specimen with known storage state
+specimen from organism
+specimen with pre -  or post - mortem status
+material service
+material analysis service
+material transport service
+specimen collection time measurement datum
+selection criterion
+secondary cultured cell
+establishing cell line
+reagent
+secondary cultured cell population
+conclusion based on data
+cell freezing medium
+selection
+categorical value specification
+scalar value specification
+value specification
+molecular - labeled material
+specimen position
+specimen integrity
+specimen weight
+specimen slide id
+surgical cancer treatment
+specimen gross appearance of metastatic tumor
+specimen gross appearance of tumor center
+specimen gross appearance of tumor edge
+research authorization for post mortem specimen donation for a specific tissue or fluid
+tissue specimen suitability for molecular analysis
+collection of specimens
+specimens derived from shared ancestor
+containing a specimen function
+specimen container
+physical store
+specimen family creation
+ihc slide staining
+h&e slide staining
+h&e - stained fixed tissue slide specimen
+ihc - stained fixed tissue slide specimen
+rna integrity number calculation
+rna integrity number value specification
+temperature value specification
+volume value specification
+temperature measurement assay
+volume measurement assay
+antigen specific antibodies assay
+hiv antibody assay
+hiv group o antibody assay
+surface hbv antibody assay
+core hbv antibody assay
+core hbv igm antibody assay
+hcv antibody assay
+ebv igg antibody assay
+ebv igm antibody assay
+cmv antibody assay
+venereal disease research laboratory test
+rapid plasma reagin test
+hbv surface antigen assay
+hiv - 1 nucleic acid testing
+hcv nucleic acid testing
+courier organization
+courier tracking number
+leica peloris rapid tissue processor
+microm ergostar hm200
+microtome blade
+sakura low profile accu - edge microtome blade
+tissue section thickness
+molecular analysis facility organization
+reason for lack of data item
+cannot be assessed determination
+determination if assay will provide reliable results
+gx
+ptx
+pnx
+histologic grade according to ajcc 7th edition
+histologic grade according to the fuhrman nuclear grading system
+histologic grade for ovarian tumor
+histologic grade for ovarian tumor according to a two - tier grading system
+histologic grade for ovarian tumor according to the world health organization
+pathologic primary tumor stage for colon and rectum according to ajcc 7th edition
+pathologic primary tumor stage for lung according to ajcc 7th edition
+pathologic primary tumor stage for kidney according to ajcc 7th edition
+pathologic primary tumor stage for ovary according to ajcc 7th edition
+pathologic lymph node stage for colon and rectum according to ajcc 7th edition
+pathologic lymph node stage for lung according to ajcc 7th edition
+pathologic lymph node stage for kidney according to ajcc 7th edition
+pathologic lymph node stage for ovary according to ajcc 7th edition
+pathologic distant metastases stage for colon according to ajcc 7th edition
+pathologic distant metastases stage for lung according to ajcc 7th edition
+pathologic distant metastases stage for kidney according to ajcc 7th edition
+pathologic distant metastases stage for ovary according to ajcc 7th edition
+clinical tumor stage group according to ajcc 7th edition
+international federation of gynecology and obstetrics cervical cancer stage value specification
+international federation of gynecology and obstetrics ovarian cancer stage value specification
+performance status value specification
+eastern cooperative oncology group score value specification
+karnofsky score vaue specification
+clinical history of cancer
+clinical history devoid of cancer
+unknown clinical history of cancer
+diagnosis of cancer
+family clinical history of cancer
+aunt clinical history of cancer
+brother clinical history of cancer
+daughter clinical history of cancer
+father clinical history of cancer
+mother clinical history of cancer
+sister clinical history of cancer
+son clinical history of cancer
+uncle clinical history of cancer
+grandmother clinical history of cancer
+grandfather clinical history of cancer
+nephew clinical history of cancer
+niece clinical history of cancer
+diagnosis of infectious disease
+diagnosis of hepatitis b
+diagnosis of hepatitis c
+diagnosis of hiv
+clinical history of repeated hiv assays
+exposure to second hand smoke
+exposure to second hand smoke in household during childhood
+exposure to second hand smoke in current household
+pregnancy history
+number of pregnancies
+number of live births
+age when gave birth to first child
+gynecologic surgery history
+hysterectomy history
+unilateral oophorectomy history
+neither hysterectomy nor oophorectomy history
+hormonal birth control use history
+hormonal birth control former use history
+hormonal birth control current use history
+no hormonal birth control use history
+hormonal replacement therapy history
+delivery form for hormonal replacement therapy
+pill delivery form for hormonal replacement therapy
+patch delivery form for hormonal replacement therapy
+cream delivery form for hormonal replacement therapy
+menopausal status
+indeterminate menopausal status
+premenopausal status
+perimenopausal status
+postmenopausal status
+exposure to environmental and workplace carcinogens history
+exposure to arsenic history
+exposure to asbestos history
+exposure to diesel exhaust history
+exposure to chromium history
+exposure to silica history
+indicator of whether an inclusion criterion was met
+indicator of whether all inclusion criteria were met
+age of majority inclusion criterion
+chemotherapy treatment exclusion criterion
+radiation treatment exclusion criteria
+chemotherapy treatment within the recent past exclusion criterion
+radiation treatment within the recent past exclusion criterion
+bmi range inclusion criterion
+blood transfusion exclusion criterion
+history of metastatic cancer exclusion criterion
+intravenous drug use exclusion criterion
+history of sex with someone with a history of blood borne infection  exclusion criterion
+history of sex with someone with a history of intravenous drugs exclusion criterion
+hiv exclusion criterion
+exposure to blood borne infectious disease exclusion criterion
+measurand role
+health status inclusion criterion
+clinically relevant lifestyle inclusion criterion
+clinically relevant exposure inclusion criterion
+gravidity inclusion criterion
+defined population inclusion criterion
+age since culture seeding measurement datum
+amniotic fluid specimen
+bile specimen
+cerebrospinal fluid specimen
+feces specimen
+digestive system fluid or secretion specimen
+milk specimen
+pericardial fluid specimen
+saliva specimen
+sputum specimen
+sweat specimen
+synovial fluid specimen
+vitreous humor specimen
+bone marrow specimen
+placenta specimen
+peritoneal fluid specimen
+pleural fluid specimen
+brain specimen
+hair specimen
+prostate gland specimen
+skeletal muscle tissue specimen
+heart specimen
+renal medulla specimen
+adrenal gland specimen
+breast specimen
+urinary bladder specimen
+tibial artery specimen
+skin of body specimen
+pancreas specimen
+stomach specimen
+pituitary gland specimen
+adipose tissue specimen
+cortex of kidney specimen
+esophagus mucosa specimen
+colon specimen
+lung specimen
+esophagus muscularis mucosa specimen
+cerebral cortex specimen
+thyroid gland specimen
+cerebellum specimen
+tibial nerve specimen
+coronary artery specimen
+spleen specimen
+aorta specimen
+atrial appendage specimen
+esophagogastric junction specimen
+ileum specimen
+liver specimen
+minor salivary gland specimen
+omentum specimen
+ovary specimen
+sigmoid colon specimen
+suprapubic skin specimen
+testis specimen
+uterus specimen
+vagina specimen
+age group inclusion criterion
+minimum age value specification
+maximum age value specification
+use of medication inclusion criterion
+hospital patient inclusion criterion
+family status inclusion criterion
+sex inclusion criterion
+country of residence inclusion criteria
+ethnicity inclusion criterion
+swab specimen
+collecting specimen with swab
+areolar swab specimen
+breast swab specimen
+cheek swab specimen
+nasopharyngeal swab specimen
+oral swab specimen
+oropharyngeal swab specimen
+rectal swab specimen
+tongue swab specimen
+vagina swab specimen
+fecal swab specimen
+environmental swab specimen
+birth cohort study design
+disease specific study design
+genealogical record
+national registry
+national biomedical registry
+biopsy
+image guided biopsy
+computed tomography assisted biopsy
+ultrasound - guided needle biopsy
+needle biopsy
+fine needle aspiration biopsy
+core needle biopsy
+surgical biopsy
+abdominal wall fat pad biopsy
+tail biopsy
+bone marrow biopsy
+skinpunch biopsy
+vacuum - assisted biopsy needle
+molecular label role
+molecular label
+vacuum - assisted biopsy
+induced sputum specimen
+platelet - poor plasma specimen
+platelet - poor plasma preparation process
+blood plasma specimen
+blood serum specimen
+organism
+specimen
+cultured cell population
+bronchial alveolar lavage
+data transformation
+data transformation objective
+averaging data transformation
+pool of specimens
+edited document
+extraction
+filtration
+centrifugation
+staining
+storage
+document editing
+digital curation
+centrifuge
+microtome
+study design
+eligibility criterion
+inclusion criterion
+exclusion criterion
+human subject enrollment
+collecting specimen from organism
+material component separation
+pooling specimens
+material portioning
+maintaining cell culture
+establishing cell culture
+cell culture splitting
+addition of molecular label
+lavage
+dialysis
+rna extraction
+nucleic acid extraction
+cell pellet
+donor
+target of material addition
+ffpe specimen
+uterine cervix specimen
+urethra specimen
+cervical mucus specimen
+throat specimen
+eye specimen
+respiratory system specimen
+upper respiratory tract specimen
+nasopharynx specimen
+semen specimen
+bodily fluid specimen
+chorionic villus specimen
+meconium specimen
+umbilical cord blood specimen
+arterial blood specimen
+venous blood specimen
+capillary blood specimen
+erythrocyte specimen
+reticulocyte specimen
+leukocyte specimen
+clinical history
+phenotype
+disease
+disorder
+diagnosis
+treatment
+health care encounter
+diagnostic process
+biobank
+human biobank
+settlement part of address of sample collection or study contact
+biobank proper name
+iso 3166 - 1 alpha - 2 code
+biobank idenfier with iso 3166 - 1 alpha - 2 code
+obsolete_sample collection or study identifier
+iso 3166 - 1 alpha - 2 code for sample collection or study contact
+biobank organization
+contacting
+contact role
+biobank contact person
+name of biobank contact person
+email address of biobank contact person
+postal address of biobank contact person
+department
+department of biobank contact
+unique resource locator
+biobank's unique resource locator
+telephone number
+telephone number of biobank contact
+post - office box number
+post - office box
+telephone number of sample collection or study contact
+obsolete_postal code
+postal code of biobank contact
+iso 3166 - 1 alpha - 2 code for biobank contact person
+settlement part of address
+settlement part of address biobank contact
+intra - settlement specification part of address
+intra - settlement specification part of address of biobank contact
+hosted study collection
+name of hosted study collection
+email address of sample collection or study contact
+sample collection or study aim description
+study proper name
+name of sample collection responsible or principal investigator
+name of sample collection or study contact person
+department of sample collection or study contact
+street
+intra - settlement specification part of address of sample collection or study contact
+postal code for sample collection or study contact
+biobank location iso 3166 - 1 alpha - 2 code
+ctep organization identifier
+biobank identifier with iso 3166 - 1 alpha - 2 code and ctep organization identifier
+obsolete_bone marrow specimen
+fixed tissue specimen
+fixed tissue block specimen
+fixed tissue slide specimen
+flash frozen specimen
+fresh tissue specimen
+frozen tissue block specimen
+frozen tissue slide specimen
+microdissected specimen
+survey data
+sampling specimens for biobank
+biobank contact role
+sample collection or study contact role
+sample collection or study contact person
+obsolete_study principle investigator or responsible
+specimen disease state datum
+diseased state specimen datum
+mixed state specimen datum
+normal state specimen datum
+obsolete_unknown state specimen data
+fixation
+obsolete_addition of molecular label
+age interval information
+average age
+patient registry data
+obsolete_survey data
+date of data entry
+date of data update
+end date of sampling for biobank
+start date of sampling for biobank
+comorbidity
+primary diagnosis
+count of current sampled human study participant
+count of current total human study participant
+physiological measurement data
+storage temperature setting
+omics experiment on specimen
+number of sampled human study participants objective
+number of total human study participant objective
+case control study design
+cross sectional study design
+longitudinal study design
+cohort study design
+panel study design
+population based study design
+quality control study design
+twin study design
+survey plan specification
+medical record
+sample medical record
+sample handling summary
+age interval information for sampled donors
+donor patient registry data
+study subject survey data
+sample collection data entry
+sample collection data update
+survey execution
+temperature regulating
+comment from tissue procurement
+specimen measurement
+date of specimen collection
+specimen meeting specification
+surgical procedure
+specimen preparation contact
+time in formalin measurement
+specimen surgical removal
+specimen freezing
+specimen id
+case id
+specimen measurement specification
+time of specimen freezing
+time of surgical removal of specimen
+normal specimen
+obsolete_cerebrospinal fluid specimen
+obsolete_faeces specimen
+obsolete_saliva specimen
+hosting biobank
+specimen donor
+sample handling
+start of sampling specimens for biobank
+end of sampling specimens for biobank
+human health care role
+health care provider role
+nurse role
+collection of humans
+role in human social processes
+aggregate of organizations
+legal person role
+social identity information content entity
+ethnic identity information content entity
+omb ethnic identity information content entity
+omb hispanic or latino identity information content entity
+omb not hispanic or latino identity information content entity
+gender identity information content entity
+female gender identity information content entity
+male gender identity information content entity
+non - binary identity information content entity
+racial identity information content entity
+omb racial identity information content entity
+omb american indian or alaska native identity information content entity
+omb asian identity information content entity
+omb black or african american identity information content entity
+omb native hawaiian or other pacific islander identity information content entity
+omb white identity information content entity
+age
+biological sex
+morphology
+size
+height
+length
+mass
+weight
+position
+temperature
+time
+viability
+volume
+physical quality
+physical object quality
+alive
+dead
+wholeness
+3 - d extent
+frozen
+organismal quality
+humidity
+collection of organisms
+protein
+insulin gene translation product
+obsolete molecular label
+region
+uterine cervix
+pituitary gland
+lymph node
+urethra
+large intestine
+organ part
+mouth
+amniotic fluid
+blood
+breast
+cervical mucus
+throat
+renal medulla
+organism substance
+material anatomical entity
+testis
+anatomical cluster
+tissue
+multi - tissue structure
+stomach
+aorta
+heart
+brain
+cerebral cortex
+eye
+reproductive system
+ovary
+uterus
+vagina
+respiratory system
+adipose tissue
+strand of hair
+esophagus
+rectum
+pleural fluid
+urine
+sweat
+synovial fluid
+right lobe of liver
+right lobe of thyroid gland
+left lobe of thyroid gland
+skeletal muscle tissue
+body of pancreas
+caecum
+colon
+ascending colon
+transverse colon
+descending colon
+sigmoid colon
+body of stomach
+cortex of kidney
+right adrenal gland
+left adrenal gland
+urinary bladder
+pancreas
+peritoneal fluid
+tibial nerve
+cerebrospinal fluid
+gastrocnemius
+ascending aorta
+upper respiratory tract
+cheek
+coronary artery
+tongue
+nasopharynx
+oropharynx
+vitreous humor
+minor salivary gland
+lower lip
+saliva
+milk
+semen
+bile
+blood vessel
+placenta
+feces
+areola
+cerebellum
+thyroid gland
+lung
+right cardiac atrium
+cardiac atrium
+heart left ventricle
+skin of body
+spleen
+liver
+small intestine
+kidney
+ileum
+right ovary
+left ovary
+right lung
+left lung
+integument
+peritoneum
+prostate gland
+endocrine gland
+adrenal gland
+bone marrow
+pericardial fluid
+tail
+esophagus mucosa
+omentum
+neural tissue
+fallopian tube
+left kidney
+right kidney
+esophagus muscularis mucosa
+greater omentum
+bodily fluid
+atrium auricular region
+chorionic villus
+meconium
+sputum
+tibial artery
+esophagogastric junction
+lingula of left lung
+body of uterus
+omental fat pad
+umbilical cord blood
+arterial blood
+venous blood
+capillary blood
+splenic flexure of colon
+hepatic flexure of colon
+esophagogastric junction muscularis mucosa
+life - death temporal boundary
+suprapubic skin
+rectosigmoid junction
+length unit
+mass unit
+time unit
+laboratory
+ethnic group
+obsolete_african american
+obsolete_asian
+obsolete_asian indian
+obsolete_chinese
+obsolete_japanese
+obsolete_latino
+obsolete_hispanic
+risk factor
+hormone replacement therapy
+smoking behavior
+chewing tobacco behavior
+date of birth
+date of diagnosis

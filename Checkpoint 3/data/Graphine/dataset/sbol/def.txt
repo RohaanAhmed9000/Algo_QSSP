@@ -1,0 +1,38 @@
+pictogram that serves as representation of a dnacomponent ,  indicating the function of the dnacomponent in the enclosing design .
+symbol to represent a regulatory_region composed of the tss ( s )  and binding sites for tf_complexes of the basal transcription machinery .
+symbol to represent a region of dna sequence formed from the ligation of two sticky ends where the palindrome is broken and no longer comprises the recognition site and thus cannot be re - cut by the restriction enzymes used to create the sticky ends .
+symbol to represent a regulatory element of an operon to which activators or repressors bind thereby effecting translation of genes in that operon .
+symbol to represent a contiguous sequence which begins with ,  and includes ,  a start codon and ends with ,  and includes ,  a stop codon .
+symbol to represent a region in mrna where ribosome assembles .
+symbol to represent the sequence of dna located either at the end of the transcript that causes rna polymerase to terminate transcription .
+symbol to represent a transcriptional cis regulatory region that when located between a cm and a gene's promoter prevents the crm from modulating that genes expression .
+symbol to represent a region of dna sequence that codes for a ribonuclease cleavage site on the rna transcript .
+symbol to represent a rna secondary structure that affects the stability of an rna molecule .
+symbol to represent a polypeptide_region that codes for a protease cleavage site .
+symbol to represent a polypeptide region that proves structure in a protein that affects the stability of the protein .
+symbol to represent the origin of replication ;  starting site for duplication of a nucleic acid molecule to give two identical copies .
+symbol to represent a non - covalent primer binding site for initiation of replication ,  transcription ,  or reverse transcription .
+symbol to represent a nucleotide region  ( usually a palindrome )  that is recognized by a restriction enzyme .
+symbol to represent a restriction enzyme recognition site that ,  when cleaved ,  results in no overhangs .
+symbol to represent a restriction enzyme recognition site that ,  when cleaved ,  results in 5 - prime overhangs .
+symbol to represent a restriction enzyme recognition site that ,  when cleaved ,  results in 3 - prime overhangs .
+symbol to represent a terminal region of dna sequence where the end of the region is not blunt ended and the exposed single strand terminates at the 3' end .
+symbol to represent a terminal region of dna sequence where the end of the region is not blunt ended and the exposed single strand terminates at the 3' end .
+symbol to represent a region of dna sequence where developer information is encoded .
+symbol to represent a region of a dna sequence not covered by other sbol visual symbols .
+a dna component represents a segment of dna that serves to  abstract the dna sequence as an individual object ,  which can then be manipulated ,  combined ,  and reused in engineering new biological systems .
+collection a collection is an organizational container ,  a group of dnacomponents .
+dna sequence the dna sequence is a contiguous sequence of nucleotides .
+sequence annotation the sequence annotation is the position and strand orientation of a notable sub - sequence found within the dnacomponent being described .
+zero or more values of type uri  ( ietf rfc 2396 )  referencing the sequence ontology  ( see appendix for commonly used terms )  .
+a regulatory element of an operon to which activators or repressors bind thereby effecting translation of genes in that operon .
+region in mrna where ribosome assembles .
+the sequence of dna located either at the end of the transcript that causes rna polymerase to terminate transcription .
+a regulatory_region composed of the tss ( s )  and binding sites for tf_complexes of the basal transcription machinery .
+the origin of replication ;  starting site for duplication of a nucleic acid molecule to give two identical copies .
+a contiguous sequence which begins with ,  and includes ,  a start codon and ends with ,  and includes ,  a stop codon .
+a region in the 5' utr that pairs with the 16s rrna during formation of the preinitiation complex .
+a transcriptional cis regulatory region that when located between a cm and a gene's promoter prevents the crm from modulating that genes expression .
+a kind of ribosome entry site ,  specific to eukaryotic organisms that overlaps part of both 5' utr and cds sequence .
+the nucleotide region  ( usually a palindrome )  that is recognized by a restriction enzyme .
+reference image symbolizes represented entity .

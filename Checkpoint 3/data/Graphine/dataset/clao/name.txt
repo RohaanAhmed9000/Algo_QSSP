@@ -1,0 +1,897 @@
+cuticular cavity
+filter chamber
+gnathal pouch
+mandibular cavity
+nephridial aperture
+labial nephridium
+ventral groove
+pseudocellar medial groove
+labial margin
+labro - labial cleft
+labial cleft
+pseudocellus circular suture
+ocellus a
+ocellus b
+ocellus c
+ocellus d
+ocellus e
+ocellus f
+ocellus g
+ocellus h
+postantennal organ
+pyloric sphincter
+cephalic endoskeleton
+cuticular fulcro - tentorium
+arms of folsom
+endosternite
+frontal sclerite
+fulcrum
+frontal organ
+np - sensillum
+maxillary muscle
+tp - sensillum
+wp - sensillum
+subapical antennal organ
+tentoriocardinal muscle
+dorsal suspensory muscle
+oblique endoskeletal muscle
+ventral suspensory muscle
+antennal motor nerve
+antennal nerve
+corpora cardiacum nerve
+hypopharyngeal nerve
+intercalary nerve
+labial nerve
+mandibular nerve
+maxillar nerve
+nerve of hoffmann
+nerve of leydig
+optic nerve
+postantennal nerve
+tentorium - ocular muscle nerve
+ventral longitudinal muscle nerve
+mouth region
+posterior region of the midgut
+pyloric region
+rectal sac
+postrectal sac
+alveolus septum
+ventricular septum
+antennal vessel
+circumesophageal vessel ring
+rhabdom
+urospherite
+rough - surfaced cytoplasmic reticulum
+area a1
+area a2
+area a3
+area a4
+area a5
+area a6
+area a7
+area a8
+area a9
+whorl i
+whorl ii
+whorl iii
+whorl iv
+cardo
+cervical area
+clypeal area
+basiantennal area
+ante - clypeus
+post - clypeus
+frontoclypeal area
+furcal area
+genal area
+dermastra
+secretory wax rod
+inter - antennal area
+interocular area
+labial triangle
+basolateral labial field
+basomedian labial field
+mesonotal disc
+molar plate
+occipital area
+parietal area
+female genital plate
+male genital plate
+plica oralis
+dorso - lateral oesophageal dilator muscle
+pseudocellus
+postocular area
+prelabrum
+labial papilla a
+labial papilla b
+labial papilla c
+labial papilla d
+labial papilla e
+labial papilla h
+manubrial hook
+acroseme
+peduncle
+mesounguis
+metaunguis
+postoccipital spur
+unguis
+prounguis
+unguiculus
+apical mandibular tooth
+antenno - frontal tubercle
+clypeal tubercle
+dental tubercle
+dorsoexternal tubercle
+dorsointernal tubercle
+dorsolateral tubercle
+ocular tubercle
+subocular tubercle
+pseudocellar lid
+clypeofrons
+clypeolabrum
+urotergite
+subdorsal area
+medial area t1
+lateral area t2
+whorl te
+whorl ti
+whorl v
+ventral post - labial area
+vertical area
+wall
+chaeta a .l .1
+chaeta a .l .0
+chaeta a .l .2
+chaeta m3 .lb
+chaeta m2 .lb
+chaeta m1 .lb
+chaeta l2 .lb
+chaeta l1 .lb
+chaeta g
+chaeta e .lb
+chaeta a5 .lb
+chaeta a3 .lb
+chaeta a2 .lb
+chaeta a1 .lb
+chaeta a0 .h
+chaeta a1
+chaeta a1 .ab1
+chaeta a1 .ab5
+chaeta a1 .h
+chaeta a1 .t2
+chaeta a1 .t3
+chaeta a2
+chaeta a2 .ab1
+chaeta a2 .ab3
+chaeta a2 .h
+chaeta a2 .t2
+chaeta a2 .t3
+chaeta a2a .h
+chaeta a2p .ab2
+chaeta a3
+chaeta a3 .ab1
+chaeta a3 .ab2
+chaeta a3 .ab3
+chaeta a3 .ab5
+chaeta a3 .h
+chaeta a3 .t2
+chaeta a3 .t3
+chaeta a4 .lb
+chaeta a4
+chaeta a4 .t2
+chaeta a4 .t3
+chaeta a4a
+chaeta a5
+chaeta a5 .ab1
+chaeta a5 .ab2
+chaeta a5 .ab3
+chaeta a5 .ab5
+chaeta a5 .h
+chaeta a6
+chaeta a6 .ab1
+chaeta a6 .ab2
+chaeta a6 .ab3
+chaeta a6 .ab5
+chaeta a6 .t2
+chaeta a6 .t3
+chaeta a7 .ab2
+chaeta a7 .ab3
+chaeta a7 .t2
+chaeta a7 .t3
+chaeta ae
+chaeta ae1
+chaeta ae2
+chaeta ae3
+chaeta ae4
+chaeta ae5
+chaeta ai
+chaeta aii
+chaeta aiii
+chaeta am6 .ab3
+chaeta an1
+chaeta an1a
+chaeta an2
+chaeta an2a
+chaeta an3
+chaeta an3a
+chaeta ap
+chaeta ape
+chaeta api
+chaeta as .ab2
+chaeta b1
+chaeta b2
+chaeta b3
+chaeta b4
+chaeta b5
+chaeta b6
+chaeta b7
+chaeta ba
+chaeta bb
+chaeta be1
+chaeta be2
+chaeta be3
+chaeta bm1
+chaeta bm2
+chaeta bm3
+chaeta c1
+chaeta c1p
+chaeta c2
+chaeta c3
+chaeta c4
+chaeta c5
+chaeta d1
+chaeta d2
+chaeta d3
+chaeta d3p
+chaeta d4
+chaeta d5
+chaeta de1
+chaeta de3
+chaeta e1
+chaeta e2
+chaeta e3
+chaeta e4
+chaeta e4p
+chaeta e4p2
+centroposterior chaeta
+chaeta ee10
+chaeta ee11
+chaeta ee12
+chaeta ee2
+chaeta ee3
+chaeta ee4
+chaeta ee5
+chaeta ee6
+chaeta ee7
+chaeta ee8
+chaeta ee9
+chaeta emp .ab3
+chaeta f1
+chaeta f2
+chaeta f3
+chaeta f4
+chaeta f5
+chaeta f6
+chaeta fe1
+chaeta fe2
+chaeta fe3
+chaeta fe4
+chaeta fe5
+chaeta fe6
+chaetotaxy
+chaeta g1
+chaeta g2
+chaeta g3
+chaeta g4
+chaeta g5
+chaeta im .ab3
+chaeta li .ab2
+chaeta li .ab3
+chaeta ll .ab3
+chaeta lm .ab2
+chaeta lm .ab3
+chaeta m0
+chaeta m1 .t2
+chaeta m1 .t3
+chaeta m1i .t2
+chaeta m2 .ab1
+chaeta m2 .ab2
+chaeta m2 .ab3
+chaeta m2 .ab5
+chaeta m2 .t2
+chaeta m2 .t3
+chaeta m3 .ab1
+chaeta m3 .ab2
+chaeta m3 .ab3
+chaeta m3 .ab5
+chaeta m3 .t2
+chaeta m3 .t3
+chaeta m3a .ab5
+chaeta m3e .ab2
+chaeta m4 .ab1
+chaeta m4 .ab2
+chaeta m4 .t2
+chaeta m4 .t3
+chaeta m5 .ab1
+chaeta m5 .ab2
+chaeta m5 .ab3
+chaeta m5 .ab5
+chaeta m5 .t2
+chaeta m5 .t3
+chaeta m5a .ab5
+chaeta m5e .ab5
+chaeta m6 .ab1
+chaeta m6 .ab2
+chaeta m6 .t3
+chaeta m6e .t2
+chaeta m7 .ab2
+chaeta m7 .ab3
+chaeta m7 .t2
+chaeta m7 .t3
+chaeta m7e .ab3
+chaeta mi .ab2
+chaeta mi .ab3
+chaeta ml .ab3
+chaeta p1 .ab5
+chaeta p1 .t3
+chaeta p2 .t2
+chaeta p2 .t3
+chaeta p3 .ab3
+chaeta p3 .ab5
+chaeta p3 .t2
+chaeta p3 .t3
+chaeta p4 .ab3
+chaeta p4 .ab5
+chaeta p4 .t2
+chaeta p4 .t3
+chaeta p5 .ab1
+chaeta p5 .ab2
+chaeta p5 .ab3
+chaeta p5 .ab5
+chaeta p5 .t2
+chaeta p5 .t3
+chaeta p5a .ab5
+chaeta p5p .ab2
+chaeta p6 .ab1
+chaeta p6 .ab2
+chaeta p6 .ab3
+chaeta p6 .ab5
+chaeta p6 .t2
+chaeta p6 .t3
+chaeta p7 .ab2
+chaeta p7 .ab3
+chaeta p7 .t2
+chaeta p7 .t3
+chaeta pa2
+chaeta pa4
+chaeta pa5
+chaeta pa6
+chaeta pe
+chaeta pe3
+chaeta pi
+chaeta pm1
+chaeta pm3
+chaeta pm6 .ab3
+chaeta pp1
+chaeta pp2
+chaeta pp3
+chaeta pp4
+chaeta pp5
+chaeta pp6
+chaeta ps2
+chaeta ps3
+chaeta ps5
+chaeta s0
+chaeta s1
+chaeta s2
+chaeta s3
+chaeta s4
+chaeta s5
+chaeta s6
+chaeta sa1
+chaeta sa2
+chaeta sa3
+chaeta sa4
+chaeta sa5
+chaeta sb1
+chaeta sb3
+chaeta sb4
+chaeta sb5
+chaeta sb6
+chaeta sb7
+chaeta sd1
+chaeta sd2
+chaeta sd3
+chaeta sd4
+chaeta sd5
+chaeta t1
+chaeta t2
+chaeta t3
+chaeta t4
+chaeta t5
+chaeta t6
+chaeta t7
+chaeta te3
+chatea sb2
+tenent hair
+base of tenent hair
+axial chaeta
+basal process
+centroapical chaeta
+dorsolateral process
+pseudonychium
+antennotentorial muscle
+anal spine
+preanal spine
+basal spine
+dental spine
+spinelete
+abdominal chaeta
+adanal chaeta
+adult vestiture
+aggenital chaeta
+anal chaeta
+anal valve chaeta
+antennal chaeta
+fifth abdominal segment chaeta
+anterior chaeta
+first abdominal segment chaeta
+fourth abdominal segment chaeta
+inmature vestiture
+first instar vestiture
+interocular chaeta
+labial chaeta
+labral chaeta
+labral proximal chaeta
+leg chaeta
+manubrial chaeta
+mesothoracic chaeta
+metathoracic chaeta
+plurichaetosis
+second abdominal segment chaeta
+tibiotarsal chaeta
+third abdominal segment chaeta
+thoracic chaeta
+anal crown
+anal spines
+antennal segment 3 sense organ
+anterior spines
+bothriotrical complex
+anterior bothriotrichal complex
+posterior bothriotrichal complex
+circumanal chaeta
+collar
+collophore chaeta
+cup - like organ
+dental chaeta
+dental scale
+centromedial chaeta
+dorsal chaeta
+eye patch
+facial chaeta
+frontoclypeal chaeta
+furcula chaeta
+genital plate chaeta
+guard chaeta
+labral basal chaeta
+lateral chaeta
+lateral tuft
+male ventral organ
+medial chaeta
+median ocellar chaeta
+mucronal chaeta
+neosminthuroid chaeta
+ocular chaeta
+p3 complex
+postantennal chaeta
+postlabial chaeta
+postoccipital anterior chaetae
+postsutural chaeta
+prefrontal chaeta
+pregenital chaeta
+prelabral chaeta
+pretarsus chaeta
+cephalic groove row
+row a
+row a .ab1
+row a .ab2
+row a .ab3
+row ae
+row ai
+row b
+row be
+row c
+row d
+row de
+row e
+row ee
+row f
+row fe
+row m .ab1
+row m .ab2
+row m .ab3
+row p .ab1
+row p .ab2
+row p .ab3
+row t
+clypeal chaetae
+a clypleal row
+b clypleal row
+c clypleal row
+d clypleal row
+e clypleal row
+f clypleal row
+dorsal cephalic chaetae
+a dorsal row
+alfa inter antennal row
+antennal row
+b dorsal row
+beta inter antennal row
+c dorsal row
+d dorsal row
+frontal chaetae
+interocular row
+subcoxal chaetae
+row a .mt1
+row a .t3
+row m .t2
+row m .t3
+row p .t2
+row p .t3
+row ga
+row gai
+row ge
+row gi
+row gae
+row gpe
+row gpi
+anterior craniomandibular muscle
+trunk chaetae
+alfa row
+beta row
+delta row
+dzeta row
+epsilon row
+eta row
+gamma row
+row p .mt2
+row p .mt1
+second row of papillae
+collophore
+eversible sac
+furcula
+hind leg
+mid leg
+excretory system
+antennal segment 1
+antennal segment 2
+antennal segment 3
+antennal segment 4
+apical subsegment
+basal subsegment
+abdominal segment 1
+abdominal segment 2
+abdominal segment 3
+abdominal segment 4
+abdominal segment 5
+abdominal segment 6
+great abdomen
+small abdomen
+furcula segment
+dens
+dt1 dental subsegment
+dt2 dental subsegment
+dt3 dental subsegment
+manubrium
+mucro
+mucrodens
+epicoxa
+subcoxa
+tibiotarsus
+mesotibiotarsus
+metatibiotarsus
+protibiotarsus
+medial subsegment
+retinaculum segment
+corpus
+ramus
+trunk
+tibiotarsal whorl
+maxilla
+retinaculum
+posterior pseudotentorium
+chaeta a2 .ab2
+labial muscle
+manubrial plate
+sublobal plate
+mesotrochanter
+metatrochanter
+protrochanter
+posterior chaeta
+row a .mt2
+s - chaeta
+subadanal chaeta
+sublobal chaeta
+craniumcardinal muscle
+supplementary chaeta
+trochanteral organ
+mesotrochanteral organ
+metatrochanteral organ
+protrochanteral organ
+ventrocentral chaeta
+ventroexternal chaeta
+ventroexternoanterior chaeta
+ventroexternocentral chaeta
+ventroexternointernal chaeta
+ventroexternolateral chaeta
+ventroexternomedial chaeta
+ventroexteroposterior chaeta
+ventrointernal chaeta
+ventrolateral chaeta
+digestive tract diverticulum
+caecum
+cell
+membrane
+organism subdivision
+apophysis
+foramen
+tagma
+tubercle
+mouthparts
+labial palp
+thorax
+abdominal segment
+anatomical cluster
+anatomical group
+anatomical system
+antennal muscle
+antennal rim
+antennal sclerite
+antennal segment
+articular surface
+basal lamina
+femur
+leg
+mandible
+coronal suture
+cuticular invagination
+epicranial suture
+fore leg
+female genitalia
+male genitalia
+genitalia
+frontal suture
+genital segment
+head capsule
+intersegmental membrane
+labial suture
+leg segment
+condyle
+mandibular condyle
+apodeme
+muscle attachment site
+occipital foramen
+oral foramen
+portion of tissue
+connective tissue
+suture
+preoral cavity
+salivary gland
+excretory gland
+neuroendocrine gland
+prothoracic gland
+corpus allatum
+corpus cardiacum
+segment
+antennomere
+embryonic segment
+embryionic mandibular segment
+embryonic antennal segment
+embryonic maxillary segment
+gnathal segment
+intercalary segment
+abdomen
+head
+anapleurite
+stipe
+labrum
+parietal
+pleurite
+antenna
+ridge
+appendage
+area
+protuberance
+carina
+cervix
+clypeus
+conjunctiva
+coxa
+mesocoxa
+metacoxa
+procoxa
+cuticle
+cuticulin layer
+epicranium
+epipharynx
+endocuticle
+adult pore canal
+epicuticle
+exocuticle
+gena
+postgena
+subgena
+gland
+brain
+cell cluster organ
+ganglion
+suboesophageal ganglion
+groove
+integument
+labium
+line
+lobe
+margin
+mesofemur
+metafemur
+profemur
+pretarsus
+mesonotum
+pronotum
+mesosternum
+sternum
+mesothorax
+metathorax
+prothorax
+thoracic segment
+muscle
+notch
+notum
+occiput
+ocellus
+palp
+procuticle
+prosternum
+rim
+row
+sclerite
+sensillum
+somite
+tergite
+tergum
+trochanter
+sculpture
+adult midgut
+adult rectum
+crop
+oesophagus
+pharynx
+proctodaeum
+stomodaeum
+ventriculus
+cardiac valve
+adult rectal valve
+cuticular projection
+epidermal cell
+dendrite
+spicule
+chaeta
+gonopore
+filament
+spine
+scale
+tooth
+vestiture
+thecogen cell
+tormogen cell
+trichogen cell
+sperm
+gonad
+ovary
+testis
+intestinal epithelium
+abductor muscle
+adductor muscle
+acellular anatomical structure
+anatomical conduit
+anatomical entity
+anatomical space
+anatomical structure
+region of organ component
+cephalic region
+body region
+circulatory system
+digestive system
+endocrine system
+muscular system
+nervous system
+reproductive system
+respiratory system
+compound organ
+digestive tube
+ectoderm - derived structure
+epithelial vesicle
+excretory tube
+immaterial anatomical entity
+instar larval stage
+material anatomical entity
+epithelium
+midgut epithelium
+multi - tissue structure
+multicellular organism
+muscle organ
+organ part
+organ system subdivision
+sense organ
+embryo
+tissue
+organ
+organ of special sense part
+eye part
+stomatogastric nervous system
+deutocerebrum
+neuromere
+protocerebrum
+tritocerebral commissure
+tritocerebrum
+ventral nerve cord
+segmental subdivision of nervous system
+multicellular structure
+adult
+cornea
+pigment
+orifice
+anus
+tube
+proventriculus
+nephridium
+endoskeleton
+subdivision of digestive tract
+valve
+nerve
+papilla
+gut section
+sac
+septum
+vessel
+dorsal vessel
+ostium
+biological macromolecule
+carbohydrate
+polysaccharide
+chitin
+glycogen
+cell part
+cellular component
+cell projection assembly
+cilium
+microvillus
+rhabdomere
+cytoplasmic organelle
+chromatin
+chromosomal part
+cytoplasm
+cytoplasmic structures
+cytoskeleton
+nucleus
+stress fiber
+golgi complex
+corneagenous cell
+external encapsulating structure
+glycocalyx
+mitochondrion
+neurosecretory cell
+pigment cell
+ribosome
+smooth endoplasmic reticulum
+vacuole
+vesicle
+axoneme
+motile cilium
+ocular area
+neurosecretory system
+primary pigment cell
+peritrophic membrane
+fiat object part
+part_of
+object aggregate

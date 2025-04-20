@@ -1,0 +1,114 @@
+an anatomical structure that forms all or part of a fungus .
+a multicellular fungal structure composed of cells from more than one species .
+a spore - producing structure found in a basidiomycete ;  formed when the terminal cell of a dikaryotic hyphal branch inflates and undergoes karyogamy and meiosis .
+an ascus that is associated with an ascocarp .
+the placeholder class 'obsolete' has been made obsolete ,  as this is not tracked with an explicit obsoletion flag in obo format .
+the stalk or stem that supports the cap of a mushroom .
+any specialized structure which bears or contains sexually or asexually derived spores .
+a structure within ,  or at the surface of ,  which an ascus develops in ascomycetes .
+the structure on which spore - bearing tissue is carried in sexually - derived fruiting bodies .
+a multicellular anatomical structure that functions in the production of spores ,  which are directly borne upon or within sporogenous cells that form part of the sporophore .
+a group or mass of discrete hyphae ;  the vegetative structure of many fungi .
+a large fruiting body that is composed of masses of intertwined hyphal elements and produces basidia and basidiospores .
+an ascospore that is contained in an ascus associated with an ascocarp .
+a sac - like structure containing sexual spores formed by ascomycotina ;  mature asci may have little or no cytoplasm or cytoplasmic contents ,  and no nucleus outside of the spores .
+an ascus that is not associated with an ascocarp ,  and is usually derived from a single cell .
+an ascospore that is contained in a free ascus  ( i .e .
+a spore formed following meiosis .
+a fungal structure that comprises a single cell .
+a spore produced by a fungus .
+a thick - walled spore that forms in an ascus .
+a thick - walled spore formed externally on extrusions of a basidium following sexual reproduction ;  found in basidiomycetes .
+a diploid spore with a thick ,  pigmented ,  sculpted cell wall ,  and extracellular peptidoglycan spikes that is formed during growth in a plant host by some basidiomycete species ,  including pathogenic smut  ( ustilaginales )  and rust  ( pucciniales )  fungi .
+a spore formed following one or more rounds of mitosis ,  without meiosis .
+an asexual ,  nonmotile spore formed by higher fungi .
+a conidium that has only one nucleus .
+a thin - walled spore that is formed in a uredinium and is the primary dispersal mode for rust - causing basidiomycete fungi .
+a mononucleate spore formed on specialized cells or projections  ( sterigma )  of a conidiophore head .
+the smaller of two types of asexual spores formed by some fungi .
+a macroconidium that has only one nucleus .
+a blastoconidium that has only one nucleus .
+an arthroconidium that has only one nucleus .
+a single cell that is in the vegetative growth stage of an organism's life cycle ,  in which metabolism and growth predominate ,  and is not undergoing sexual processes .
+a conidium that has more than one nucleus .
+a composite structure that forms the vegetative portion of a lichen ;  minimally composed of at least one fungal species  ( the mycobiont )  and an alga or cyanobacterium  ( the photobiont )  .
+a macroconidium that has more than one nucleus .
+a blastoconidium that has more than one nucleus .
+an arthroconidium that has more than one nucleus .
+the larger of two types of asexual spores formed by some fungi ;  usually round or oblong .
+an asexual spore formed by oomycetes ;  formed upon fertilization of an oosphere .
+a thick - walled ,  sexual ,  resting spore that forms in a zygosporangium ;  typical of zygomycetes .
+a cylindrical spore formed by development and compartmentation of hyphae ;  the hyphae are often supporting blastoconidiophores .
+an oblong or round asexual reproductive spore formed specifically by budding .
+a specialized hypha ,  often aerial ,  that gives rise to asexual spores known as conidia .
+a small hyphal branch or structure which supports a sporangium ,  a conidium ,  or a basidiospore .
+a specialized cell that buds from a metula on a developing conidiophore .
+a specialized cell borne on a conidiophore that gives rise to phialides during the process of conidiation .
+a completely closed fruiting body formed by some fungi of the ascomycota ,  containing asci .
+a specialized multinucleate cell that originates from a nest - like aggregation of hyphae during sexual development .
+the swollen region at the apex of a conidiophore ,  bearing multiple metulae .
+the elongated part of the conidiophore that extends ,  often aerially ,  from the growth substrate and supports the structures that bear conidia .
+an asexual spore that is produced on very simple hyphae that protrude a short distance into the substrate .
+a structure within which spores develop .
+a thick - walled structure that arises from a zygote formed by the fusion or conjugation of two hyphal branches ,  produces spores ,  and is characteristic of the zygomycetes .
+a dikaryotic spore ,  typically of a rust fungus ,  that is produced in an aecium ;  in heteroecious rusts ,  the aeciospore is a spore stage that infects the alternate host .
+a nonmotile ,  asexual spore ,  usually a sporangiospore ,  common in the phycomycetes .
+a cuplike structure of some rust fungi that contains chains of aeciospores .
+a teliospore - bearing sorus of the rust fungi .
+a reddish ,  pustule - like structure formed by a rust fungus ,  in which urediniospores are produced .
+a tubular structure that connects two individuals during conjugation ,  through which the transfer of genetic material can occur .
+a hyphal cell that forms a clamp connection ,  a structure that separates differing nuclei ,  which have been obtained through mating of hyphae of differing sexual types ,  into distinct hyphal segments that are separated by septa  ( cross walls )  .
+a structure produced in a dikaryotic hypha upon migration of the nuclei after mating of hyphae of differing sexual types .
+a structure that separates the nuclei within monokaryotic hyphae into distinct hyphal segments .
+a large ,  highly polyploid cell that has altered capsule structure ,  a thickened cell wall ,  and increased resistance to nitrosative and oxidative stresses relative to yeast - form cells of the same species .
+a forcibly discharged asexual spore .
+a binucleate cell observed in some fungi that forms when two compatible nuclei ,  each originating from one of the cells ,  pair off after plasmogamy and cohabit without karyogamy within a hyphal compartment .
+the appendage or portion of a commensal or parasitic fungus  ( the hyphal tip )  that penetrates the host's tissue and draws nutrients from it .
+a large ,  thick - walled resting spore with condensed cytoplasm ,  formed within hyphae or at hyphal tips in several kinds of fungi .
+a long ,  branching filamentous structure formed by a vegetatively growing fungus .
+a chain of cells ,  formed under specific growth conditions ,  in which yeast - form fungal cells become elongated ,  bud only at the cellular pole distal to the mother cell ,  and fail to separate after division .
+a hypha that forms part of a mycelium .
+a hypha that is divided internally by septa ,  or lateral cell walls ,  and that exists as part of a mycelium .
+a thick strand of hyphae oriented in parallel to each other ,  with a central channel through which nutrients are conducted .
+a thick strand of hyphae oriented in parallel to each other ,  with specialized channels through which nutrients are conducted .
+a compact hyphal mass ,  on or in which fruiting bodies are formed .
+a mycelial resting body ,  resistant to adverse environmental conditions .
+a hypha that is divided internally by septa ,  or lateral cell walls .
+a hypha whose growing portion contains multiple nuclei but is not divided internally by septa ,  or lateral cell walls .
+the growing end of a hypha .
+the growing end of a hypha that is part of a mycelium .
+a hypha that is divided by dolipore septa and is part of a mycelium .
+a hypha that is part of a mycelium ,  and whose growing portion contains multiple nuclei but is not divided internally by septa .
+the growing end of an aseptate hypha that is part of a mycelium .
+the growing end of an aseptate hypha that is part of a mycelium .
+the growing end of a hypha that is divided internally by dolipore septa and is part of a mycelium .
+a hypha that is divided by dolipore septa .
+the growing end of a hypha that is divided by dolipore septa .
+the growing end of a hypha that is part of a mycelium ,  and whose growing portion contains multiple nuclei but is not divided internally by septa .
+the growing end of a hypha that is not divided internally by septa ,  or cross - walls .
+a cell engaged in or about to engage in the process of mating ;  exhibits different morphology from a vegetative cell due to the action of mating pheromones .
+an elongated ,  asymmetric cell formed before mating ,  in response to mating pheromone ,  by saccharomyces species and other fungi with similar life cycles .
+a mass of hyphae ,  usually in wood or bark ;  visible with the naked eye .
+obsolete .the fungal component of the lichen partnership ,  absorbing nutrients and providing structural support for the plant .
+a composite structure formed by the symbiotic association of the mycelium of a fungus with the roots of a seed plant .
+a fruiting body formed by some cellular slime moulds ;  has a stalk and a spore mass .
+a multinucleate plasmodium - like body formed by aggregation of myxamoebae without fusion of their protoplasm .
+an invasive mycelium that forms within a solid or semi - solid substrate such as wood ,  soil or agar .
+a mycelium that forms prior to sporulation and extends aerially ,  or perpendicular ,  to its substrate .
+an open or expanded fruiting body that has asci contained on its exposed surface ;  found in lichens and actinomycetous fungi .
+an ascocarp that is composed of a loose network of mycelia through which ascospores filter and are released at maturity ;  its reproductive organs are in the form of naked asci .
+a flask - shaped fruiting body that forms a pore for the escape of spores ;  found in some molds and ascomycetous fungi .
+an outgrowth produced by germinating spores in certain species of spore - releasing fungi .
+the nodule from which a mushroom develops .
+a very small sclerotium .
+a spherical fungal structure that is formed in the sexual phase of ascomycetous fungi such as neurospora crassa and sordaria macrospora .
+a fungal structure that comprises more than one cell .
+a multicellular fungal structure composed of two or more cells of a single unicellular organism .
+a multicellular fungal structure composed of two or more cells of a single multicellular organism .
+a modified hypha that forms a specialized structure used by a fungus to penetrate a target .
+a spore - producing structure that is formed following same - sex  ( self )  mating .
+a specialized cell with an enlarged cell wall that develops from a hyphal cell in a septate mycelium and swells at the aerial terminus to form a conidiophore vesicle .
+a short ,  thin ,  unbranched tubular structure that emerges from a conidium and grows towards ,  and then fuses with ,  a similar tube growing from another conidium or conidial germling .
+a  large ,  round ,  thick - walled structure that contains endospores such as those produced by coccidioides species within a host .
+a fungal structure that develops during mating and contributes to sexual reproduction .
+a hypha that emerges from a yeast - form cell upon stimulation by the pheromone of a compatible mating partner .

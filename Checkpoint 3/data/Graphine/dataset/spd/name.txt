@@ -1,0 +1,793 @@
+anatomical entity
+multi - cellular organism
+prosoma
+opisthosoma
+cuticle
+carapace
+pedicel
+portion of organism substance
+spinneret
+anal tubercle
+stage
+tagma
+organ system
+eye
+cephalic area
+thoracic area
+thoracic fovea
+chelicera
+female palp
+leg 1
+leg 2
+leg 3
+leg 4
+pedicel sternite
+pedicel tergite
+anterior booklung
+epigyne
+vulva
+epiandrum
+posterior lateral respiratory structure
+posterior tracheal spiracle
+epigastric furrow
+ams - cribellum - colulus
+anterior lateral spinneret
+posterior median spinneret
+posterior lateral spinneret
+chilum
+clypeus
+anal tubercle tergite
+anal tubercle sternite
+integument
+female genitalia
+male palp
+setal shaft
+anterior median eye
+anterior lateral eye
+posterior median eye
+posterior lateral eye
+carapace posterior margin
+silk cable
+silk fiber
+opisthosomal segment
+epigastric area
+postepigastric area
+posterior respiratory system
+posterior booklung
+clypeal gland
+suprapalpal pit gland
+posterior median respiratory structure
+median trachea
+entapophysis 3
+fang
+paturon
+posterior booklung spiracle
+posterior booklung leaf
+intercheliceral sclerite
+intercheliceral articulation
+female palpal coxa
+female palpal trochanter
+female palpal femur
+female palpal patella
+female palpal tibia
+female palpal tarsus
+palpal claw
+heart ostium
+anterior median spinneret
+coxa 1
+trochanter 1
+femur 1
+patella 1
+tibia 1
+metatarsus 1
+tarsus 1
+claw 1
+coxa 2
+trochanter 2
+femur 2
+patella 2
+tibia 2
+metatarsus 2
+tarsus 2
+claw 2
+coxa 3
+trochanter 3
+femur 3
+patella 3
+tibia 3
+metatarsus 3
+tarsus 3
+claw 3
+coxa 4
+trochanter 4
+femur 4
+patella 4
+tibia 4
+metatarsus 4
+tarsus 4
+claw 4
+foregut
+cribellum
+coxal gland
+colulus
+spigot of anterior median spinneret
+lateral trachea
+article of posterior median spinneret
+basal article of anterior lateral spinneret
+median article of anterior lateral spinneret
+distal article of anterior lateral spinneret
+spinning field of anterior lateral spinneret
+spinning field of posterior median spinneret
+basal article of posterior lateral spinneret
+distal article of posterior lateral spinneret
+spinning field of posterior lateral spinneret
+heart
+posterior midgut
+stercoral pocket
+lateral lobe
+median field
+anterior copulatory duct
+copulatory opening
+anterior fertilization duct
+primary spermatheca
+bennett's gland
+accessory bulb
+stalk of spermatheca
+nubbin
+epigynal cuticular glands
+male palpal coxa
+spigot base
+male palpal trochanter
+male palpal femur
+male palpal patella
+male palpal tibia
+spigot shaft
+male palpal tibia dorsal process
+male palpal tibia prolateral process
+male palpal tibia retrolateral apophysis
+male palpal tibia ventral process
+cymbium
+tarsal organ of cymbium
+base of major ampullate gland spigot
+cymbium dorsal chemosensory seta
+cymbium apical seta
+alveolus
+alveolus retromargin
+alveolus promargin
+paracymbium
+cymbial dorsal process
+copulatory bulb
+petiolus
+basal hematodocha
+subtegulum
+fundus
+tegulum
+median hematodocha
+embolic division
+embolus
+spermophor
+median apophysis
+conductor
+terminal hematodocha
+sclerite of copulatory bulb
+shaft of major ampullate gland spigot
+base of piriform gland spigot
+cheliceral boss
+promargin
+retromargin
+cheliceral gland
+cheliceral stridulatory file
+shaft of piriform gland spigot
+shaft of aciniform gland spigot of posterior lateral spinneret
+anterior median eye retina
+anterior lateral eye tapetum
+posterior median eye tapetum
+posterior lateral eye tapetum
+venom outlet
+serrula
+endite apical tuft seta
+maxillary gland
+base of aciniform gland spigot of posterior lateral spinneret
+female palpal tarsus ventral seta
+female palpal tarsus apical seta
+female palpal tarsus dorsal chemosensory seta
+retrocoxal hymen 1
+base of cylindrical gland spigot of posterior lateral spinneret
+shaft of cylindrical gland spigot of posterior lateral spinneret
+shaft of modified gland spigot of posterior lateral spinneret
+base of modified gland spigot of posterior lateral spinneret
+base of paracribellar gland spigot of posterior lateral spinneret
+shaft of paracribellar gland spigot of posterior lateral spinneret
+shaft of gland spigot of posterior lateral spinneret
+base of gland spigot of posterior lateral spinneret
+aggregate gland spigot
+tactile hair appendages prosoma
+scale appendages prosoma
+scopular seta
+socket of scopular seta
+tenent barb of scopular seta
+claw tuft seta
+claw tuft shaft base
+tenent barb of claw tuft seta
+proclaw 1
+retroclaw 1
+inferior claw 1
+proclaw 2
+retroclaw 2
+inferior claw 2
+proclaw 3
+retroclaw 3
+inferior claw 3
+proclaw 4
+retroclaw 4
+inferior claw 4
+calamistrum
+calamistrum seta
+sustentaculum
+tarsal setal comb 4
+female palp femoral thorn
+lyra
+base of aciniform gland spigot of posterior median spinneret
+shaft of aciniform gland spigot of posterior median spinneret
+base of cylindrical gland spigot of posterior median spinneret
+booklung cover
+anterior booklung leaf
+booklung leaves internal spacer
+shaft of cylindrical gland spigot of posterior median spinneret
+epiandric spigot
+spigot of anterior lateral spinneret
+major ampullate gland spigot
+major ampullate field
+sensillum of major ampullate field
+piriform gland spigot
+spigot of posterior median spinneret
+minor ampullate gland spigot
+aciniform gland spigot of posterior median spinneret
+cylindrical gland spigot of posterior median spinneret
+aciniform gland spigot of posterior lateral spinneret
+cylindrical gland spigot of posterior lateral spinneret
+modified gland spigot of posterior lateral spinneret
+paracribellar gland spigot of posterior lateral spinneret
+triad of posterior lateral spinneret
+paracribellar gland spigot of posterior median spinneret
+embolus tip
+sperm outlet
+male palpal femoral thorn
+socket of male palpal femoral thorn
+base of minor ampullate gland spigot
+shaft of minor ampullate gland spigot of posterior median spinneret
+seta appendage prosoma
+cribellar spigot
+spigot of posterior lateral spinneret
+seta anal tubercle
+base of paracribellar gland spigot of posterior median spinneret
+bursa
+shaft of paracribellar gland spigot of posterior median spinneret
+epigastric furrow posterior apodeme
+posterior diverticulum
+uterus externus
+male palpal patellar process
+chemosensory seta
+labral tongue
+labrum
+labium
+labial sigilla
+sternum
+sternal sigilla
+base of gland spigot of posterior median spinneret
+shaft of gland spigot of posterior median spinneret
+precoxal triangle
+intercoxal sclerite
+base of aggregate gland spigot
+shaft of aggregate gland spigot
+superior claw 1
+pleural area
+vertical intercoxal bar
+pleural bar
+anterior midgut
+anterior midgut diverticle
+opisthosomal seta
+scale opisthosoma
+maxillary cusple
+opisthosomal dorsal sigilla
+tarsal organ
+scopula
+claw tuft
+trichobothria
+superior claw 2
+macroseta
+cymbial retrolateral - medial process
+chorion
+silk structure
+cribellate silk band
+cribellate fiber
+dragline
+baseplate of attachment disk
+eggsac layer
+sticky composed line
+trochanter eclosion tooth
+attachment disk
+egg
+anterior booklung spiracle
+venom gland
+sigilla
+appendage of prosoma
+superior claw 3
+superior claw 4
+palp
+indirect eye
+tapetum
+postembryo
+fang furrow
+cusple
+bothrium
+trichobothria shaft
+socket of macroseta
+macroseta shaft
+setal barb
+tibial gland
+opisthosomal cuticle
+opisthosomal tergite
+opisthosomal sternite
+seta
+setal socket
+urticating hair
+tactile hair appendages prosoma shaft
+spinning field
+spigot
+aciniform gland spigot
+pumpkiniform spigot
+cylindrical gland spigot
+ampullate gland spigot
+paracribellar gland spigot
+tartipore
+scopular seta shaft
+leg
+coxa
+trochanter
+femur
+patella
+tibia
+metatarsus
+tarsus
+podotarsite
+claw
+superior claw
+proclaw
+retroclaw
+inferior claw
+bothrium distal plate
+metatarsus dorsal stopper
+bothrium proximal plate
+direct eye
+anterior median eye lens
+anterior lateral eye lens
+posterior lateral eye lens
+posterior median eye lens
+eye lens
+tactile hair
+scale carapace
+scale
+labial cusple
+cribellate band axial line
+cribellate band reserve wrap
+ac silk fiber
+maamp silk fiber
+miamp silk fiber
+pc silk fiber
+ms silk fiber
+cy silk fiber
+pi silk fiber
+cribellar silk fiber
+flagelliform gland spigot
+pseudoflagelliform gland spigot
+base of flagelliform gland spigot
+shaft of flagelliform gland spigot
+base of pseudoflagelliform gland spigot
+shaft of pseudoflagelliform gland spigot
+opisthosomal segment 1
+opisthosomal segment 2
+opisthosomal segment 3
+opisthosomal segment 4
+opisthosomal segment 5
+tracheal system
+booklung
+booklung spiracle
+booklung leaf
+booklung atrium
+posterior booklung atrium
+anterior booklung atrium
+trachea
+tracheal spiracle
+lateral respiratory structure
+median respiratory structure
+opisthosomal entapophysis
+anterior respiratory system
+epigastric median trachea
+leg cuticle
+fang base
+fang shaft
+fang shaft serrula
+cribellate silk carding behavior
+pretarsus
+leg article
+pretarsus 1
+pretarsus 2
+pretarsus 3
+pretarsus 4
+acellular anatomical structure
+plagula ventralis
+basal expansion of trichobothria shaft
+claw tuft seta shaft
+socket of claw tuft seta
+tarsal organ capsule
+tarsal organ sensillum
+cuticle sculpture cell
+claw lever
+claw lever 1
+claw lever 2
+claw lever 3
+claw lever 4
+thoracic furrow
+promarginal escort seta
+retromarginal escort seta
+promarginal rake seta
+palpal pretarsus
+palpal claw lever
+slit sensillum
+coxal muscle sclerite
+patellar indentation
+coxal hair plate
+lyriform organ
+tarsal dorsobasal step
+vibration sense organ
+calamistrum seta tooth
+claw tuft plate
+foot slit
+foot slit suture
+claw lever file
+elongated pedicillate seta
+prosoma cuticle
+tenent barb
+cluster of setae
+tenent seta
+female palpal chemosensory patch
+cymbial chemosensory patch
+pseudotenent seta
+scale shaft
+socket of scale
+apical pore of chemosensory seta
+socket of chemosensory seta
+chemosensory seta shaft
+lorum 1
+lorum 2
+booklung atrium mesh
+interpulmonary fold
+apodeme
+tracheal mesh
+tracheole
+tracheal cuticle
+entapophysis 2
+entapophysis 4
+entapophysis 5
+strain sensillum of cuticle
+flanking spigots of triad
+piriform field
+pore of spigot shaft
+spigot end piece
+opisthosomal segment 11
+anus
+cuticular sheet of chemosensory seta
+hematodocha
+division of copulatory bulb
+basal division of copulatory bulb
+median division of copulatory bulb
+radix
+process of cymbium
+seta of cymbium
+male palpal tibial process
+male palpal femoral process
+male palpal ventral - medial process
+male palpal ventral - basal process
+male palpal ventral - apical process
+male palpal patella dorsal process
+male palpal patella retrolateral process
+gland of male palpal tibia
+groove of cymbium
+apical cymbial groove
+retrolateral cymbial groove
+wall of spermophor
+embolar process
+male palpal tibia dorsal basal process
+male palpal tibia ventral apical process
+duct of epigynal cuticular gland
+pore of epigynal cuticular gland
+epigynal fold
+anterior spermatheca
+duct of female genitalia
+duct of accessory bulb
+mating plug
+gland of posterior diverticulum
+receptacle
+anterior receptacle
+gland of anterior receptacle
+postepigastric invagination
+anterior section of female genitalia
+posterior section of female genitalia
+gland pore of accessory bulb
+duct of gland of accessory bulb
+gland of spermatheca
+female accessory gland
+gland of accessory bulb
+cribellum base
+spinning field of cribellum
+cheliceral whisker seta
+cheliceral escort seta
+retina
+vitreous body
+ocular area
+eye cup
+anterior median eye cup
+anterior lateral eye cup
+retrocoxal hymen
+shaft of aciniform gland spigot
+base of aciniform gland spigot
+base of cylindrical gland spigot
+shaft of cylindrical gland spigot
+gonopore
+eggsac
+posterior lateral eye cup
+posterior median eye cup
+lorum posterior apodeme
+pedicel slit sensillum
+lorum anterior apodeme
+pedicel sensilla stripe
+reproductive system
+male reproductive system
+female reproductive system
+valve
+testis
+deferent duct
+ejaculatory duct
+uterus
+uterus internus
+ovary
+male genitalia
+posterior spermatheca
+posterior fertilization duct
+posterior copulatory duct
+epigynal scape
+gland of copulatory duct
+gland of fertilization duct
+cluster of glandular units
+peg tooth
+opisthosomal endosternite 5
+heart ostium 1
+heart ostium 2
+heart ostium 3
+heart ostium 4
+heart ostium 5
+preying web
+orb web
+digestive system
+circulatory system
+hemolymph vascular system
+hemolymph lacunar system
+sinus
+lacuna
+anterior aorta
+posterior aorta
+cardiac artery
+respiratory system
+nervous system
+central nervous system
+peripheral nervous system
+brain
+central body
+corpora pedunculata
+subesophageal ganglion
+malpighian tubule
+midgut
+esophagus
+sucking stomach
+silk gland
+excretory system
+spinning apparatus
+palpal femur
+major ampullate gland
+piriform gland
+aciniform gland
+cylindrical gland
+flagelliform gland
+aggregate gland
+palpal femoral thorn
+palpal patella
+palpal tarsus
+palpal tibia
+palpal trochanter
+gut
+pharynx
+serrate accessory claw seta
+sensory  organ
+appendage
+claw tuft clasper
+claw tuft seta clasping fold
+claw tuft clasping mechanism
+metatarsal preening comb
+leg cusple
+bursal membranous sac
+tarsal organ of female palp
+calamistrum seta comb
+tarsal organ of leg
+process
+conjunctiva
+sclerite
+depression
+adult
+muscular system
+muscle
+tendon
+article
+joint
+eudesmatic joint
+adesmatic joint
+mouthparts
+material anatomical entity
+anatomical structure
+anatomical group
+anatomical cluster
+anatomical system
+gland
+spermophor gland
+bulb gland
+fickert's gland
+spiracle
+stridulatory organ
+plectrum
+stridulatory file
+segment
+organism subdivision
+portion of tissue
+immaterial anatomical entity
+anatomical space
+cheliceral diastema
+tarsal pseudosegment
+cheliceral tooth
+cheliceral lamina
+rastellum
+palpal muscle m30
+palpal muscle m29
+spermatheca
+fertilization duct
+copulatory duct
+procursus
+suprategulum
+fulcrum
+stipes
+pars pendula
+paramedian apophysis
+tibial crack
+scutum
+sulcus
+minor ampullate gland
+paracribellar gland
+cribellar gland
+pseudoflagelliform gland
+pumpkiniform gland
+gonad
+compound organ
+seminal fluid
+cell
+cell component
+sperm
+spermatid
+spermatocyte
+spermatogonium
+somatic cell
+organelle
+membrane - bounded organelle
+non - membrane - bounded organelle
+cytoplasmic vesicle
+cytoplasm
+secretory granule
+acrosomal vacuole
+vesicle
+subacrosomal space
+acrosomal complex
+germ cell
+acrosomal filament
+cytoskeleton
+cytoskeletal part
+male germ cell
+female germ cell
+gamete
+muscle cell
+somatic cell of testis
+hemocyte
+syncytium
+axoneme
+mitochondrion
+nucleus
+sperm nucleus
+postcentriolar elongation of the nucleus
+anterior part of the sperm nucleus
+anterior indentation of the sperm nucleus
+centriole
+manchette of microtubules
+midpiece
+nuclear canal
+golgi apparatus
+endoplasmic reticulum
+sperm conjugate
+coenospermium
+rouleau
+primary sperm conjugate
+secondary sperm conjugate
+synspermium
+seminal vesicle
+seminal secretion
+sperm transfer form
+cleistospermium
+oocyte
+oogonial cell
+oviduct
+funicle
+hindgut
+epithelium
+anatomical conduit
+tube
+epithelial tube
+epidermis
+socket of tactile hair
+integumental tube
+midgut gland
+posterior midgut diverticle
+embryonic cell
+early embryonic cell
+zygote
+embryo
+immature
+penultimate
+implantation fossa
+chromosome
+chromosomal part
+chromatin
+microtubule
+cytoplasmic part
+glycogen granule
+neural cell
+neuron
+afferent neuron
+efferent neuron
+sensory neuron
+motor neuron
+interneuron
+mechanoreceptor cell
+chemoreceptor cell
+secretory cell
+exocrine cell
+excretory cell
+dorso - ventral abdominal muscle 1
+dorso - ventral abdominal muscle 2
+dorso - ventral abdominal muscle 3
+dorso - ventral abdominal muscle 4
+pretarsal levator leg muscle
+pretarsal depressor leg muscle
+pretarsal depressor leg tendon
+pretarsal levator leg tendon
+foot
+articular membrane
+condyle
+acetabulum
+articular surface
+podomere
+pseudopodomere
+pretarsal median septum
+cuticular structure
+pretarsal dorsal pulley
+levator cuticular guide
+depressor cuticular guide
+pretarsal ventral pulley
+levator sheath
+part of
+depressor sheath

@@ -1,0 +1,2031 @@
+continuant
+occurrent
+independent continuant
+process
+material entity
+reaction
+enzymatic - reaction
+beta - alanine from l - aspartate: step 1 / 1
+ ( r )  - pantoate from 3 - methyl - 2 - oxobutanoate: step 1 / 2
+ ( r )  - pantoate from 3 - methyl - 2 - oxobutanoate: step 2 / 2
+ ( r )  - pantothenate from  ( r )  - pantoate and beta - alanine: step 1 / 1
+l - histidine from 5 - phospho - alpha - d - ribose 1 - diphosphate: step 1 / 9
+l - histidine from 5 - phospho - alpha - d - ribose 1 - diphosphate: step 2 / 9
+l - histidine from 5 - phospho - alpha - d - ribose 1 - diphosphate: step 3 / 9
+l - histidine from 5 - phospho - alpha - d - ribose 1 - diphosphate: step 4 / 9
+l - histidine from 5 - phospho - alpha - d - ribose 1 - diphosphate: step 5 / 9
+l - histidine from 5 - phospho - alpha - d - ribose 1 - diphosphate: step 6 / 9
+l - histidine from 5 - phospho - alpha - d - ribose 1 - diphosphate: step 7 / 9
+l - histidine from 5 - phospho - alpha - d - ribose 1 - diphosphate: step 8 / 9
+l - histidine from 5 - phospho - alpha - d - ribose 1 - diphosphate: step 9 / 9
+ ( s )  - tetrahydrodipicolinate from l - aspartate: step 1 / 4
+ ( s )  - tetrahydrodipicolinate from l - aspartate: step 2 / 4
+ ( s )  - tetrahydrodipicolinate from l - aspartate: step 3 / 4
+ ( s )  - tetrahydrodipicolinate from l - aspartate: step 4 / 4
+ll - 2 , 6 - diaminopimelate from  ( s )  - tetrahydrodipicolinate  ( succinylase route ) : step 1 / 3
+ll - 2 , 6 - diaminopimelate from  ( s )  - tetrahydrodipicolinate  ( succinylase route ) : step 2 / 3
+ll - 2 , 6 - diaminopimelate from  ( s )  - tetrahydrodipicolinate  ( succinylase route ) : step 3 / 3
+ll - 2 , 6 - diaminopimelate from  ( s )  - tetrahydrodipicolinate  ( acetylase route ) : step 1 / 3
+ll - 2 , 6 - diaminopimelate from  ( s )  - tetrahydrodipicolinate  ( acetylase route ) : step 2 / 3
+ll - 2 , 6 - diaminopimelate from  ( s )  - tetrahydrodipicolinate  ( acetylase route ) : step 3 / 3
+dl - 2 , 6 - diaminopimelate from ll - 2 , 6 - diaminopimelate: step 1 / 1
+dl - 2 , 6 - diaminopimelate from  ( s )  - tetrahydrodipicolinate: step 1 / 1
+l - lysine from dl - 2 , 6 - diaminopimelate: step 1 / 1
+l - alpha - aminoadipate from 2 - oxoglutarate: step 1 / 5
+l - alpha - aminoadipate from 2 - oxoglutarate: step 2 / 5
+l - alpha - aminoadipate from 2 - oxoglutarate: step 4 / 5
+l - alpha - aminoadipate from 2 - oxoglutarate: step 5 / 5
+l - lysine from l - alpha - aminoadipate  ( fungal route ) : step 1 / 3
+l - lysine from l - alpha - aminoadipate  ( fungal route ) : step 2 / 3
+l - lysine from l - alpha - aminoadipate  ( fungal route ) : step 3 / 3
+l - lysine from l - alpha - aminoadipate  ( thermus route ) : step 1 / 5
+l - lysine from l - alpha - aminoadipate  ( thermus route ) : step 2 / 5
+l - lysine from l - alpha - aminoadipate  ( thermus route ) : step 3 / 5
+l - lysine from l - alpha - aminoadipate  ( thermus route ) : step 4 / 5
+l - lysine from l - alpha - aminoadipate  ( thermus route ) : step 5 / 5
+l - tryptophan from chorismate: step 1 / 5
+l - tryptophan from chorismate: step 2 / 5
+l - tryptophan from chorismate: step 3 / 5
+l - tryptophan from chorismate: step 4 / 5
+l - tryptophan from chorismate: step 5 / 5
+taxol from baccatin iii: step 3 / 3
+2 - oxobutanoate from l - threonine: step 1 / 1
+l - isoleucine from 2 - oxobutanoate: step 1 / 4
+l - isoleucine from 2 - oxobutanoate: step 2 / 4
+l - isoleucine from 2 - oxobutanoate: step 3 / 4
+l - isoleucine from 2 - oxobutanoate: step 4 / 4
+l - valine from pyruvate: step 1 / 4
+l - valine from pyruvate: step 2 / 4
+l - valine from pyruvate: step 3 / 4
+l - valine from pyruvate: step 4 / 4
+l - threonine from l - aspartate: step 3 / 5
+l - threonine from l - aspartate: step 4 / 5
+l - threonine from l - aspartate: step 5 / 5
+2 - oxobutanoate from pyruvate: step 1 / 3
+2 - oxobutanoate from pyruvate: step 2 / 3
+2 - oxobutanoate from pyruvate: step 3 / 3
+l - leucine from 3 - methyl - 2 - oxobutanoate: step 1 / 4
+l - leucine from 3 - methyl - 2 - oxobutanoate: step 2 / 4
+l - leucine from 3 - methyl - 2 - oxobutanoate: step 3 / 4
+l - leucine from 3 - methyl - 2 - oxobutanoate: step 4 / 4
+o - acetyl - l - homoserine from l - homoserine: step 1 / 1
+o - succinyl - l - homoserine from l - homoserine: step 1 / 1
+l - homocysteine from s - adenosyl - l - homocysteine: step 1 / 1
+l - cystathionine from o - succinyl - l - homoserine: step 1 / 1
+l - homocysteine from l - cystathionine: step 1 / 1
+l - homocysteine from o - acetyl - l - homoserine: step 1 / 1
+s - adenosyl - l - methionine from l - methionine: step 1 / 1
+l - methionine from l - homocysteine  ( meth route ) : step 1 / 1
+l - methionine from l - homocysteine  ( mete route ) : step 1 / 1
+l - methionine from l - homocysteine  ( bhmt route ) : step 1 / 1
+chorismate from d - erythrose 4 - phosphate and phosphoenolpyruvate: step 1 / 7
+chorismate from d - erythrose 4 - phosphate and phosphoenolpyruvate: step 2 / 7
+chorismate from d - erythrose 4 - phosphate and phosphoenolpyruvate: step 3 / 7
+chorismate from d - erythrose 4 - phosphate and phosphoenolpyruvate: step 4 / 7
+chorismate from d - erythrose 4 - phosphate and phosphoenolpyruvate: step 5 / 7
+chorismate from d - erythrose 4 - phosphate and phosphoenolpyruvate: step 6 / 7
+chorismate from d - erythrose 4 - phosphate and phosphoenolpyruvate: step 7 / 7
+1 - deoxy - d - xylulose 5 - phosphate from d - glyceraldehyde 3 - phosphate and pyruvate: step 1 / 1
+isopentenyl diphosphate from 1 - deoxy - d - xylulose 5 - phosphate: step 1 / 6
+isopentenyl diphosphate from 1 - deoxy - d - xylulose 5 - phosphate: step 2 / 6
+isopentenyl diphosphate from 1 - deoxy - d - xylulose 5 - phosphate: step 3 / 6
+isopentenyl diphosphate from 1 - deoxy - d - xylulose 5 - phosphate: step 4 / 6
+isopentenyl diphosphate from 1 - deoxy - d - xylulose 5 - phosphate: step 5 / 6
+isopentenyl diphosphate from 1 - deoxy - d - xylulose 5 - phosphate: step 6 / 6
+isopentenyl diphosphate from  ( r )  - mevalonate: step 1 / 3
+isopentenyl diphosphate from  ( r )  - mevalonate: step 2 / 3
+isopentenyl diphosphate from  ( r )  - mevalonate: step 3 / 3
+ ( r )  - mevalonate from acetyl - coa: step 1 / 3
+ ( r )  - mevalonate from acetyl - coa: step 2 / 3
+ ( r )  - mevalonate from acetyl - coa: step 3 / 3
+dimethylallyl diphosphate from isopentenyl diphosphate: step 1 / 1
+dimethylallyl diphosphate from  ( 2e )  - 4 - hydroxy - 3 - methylbutenyl diphosphate: step 1 / 1
+n ( 2 )  - acetyl - l - ornithine from l - glutamate: step 1 / 4
+n ( 2 )  - acetyl - l - ornithine from l - glutamate: step 2 / 4
+n ( 2 )  - acetyl - l - ornithine from l - glutamate: step 3 / 4
+n ( 2 )  - acetyl - l - ornithine from l - glutamate: step 4 / 4
+l - ornithine from n ( 2 )  - acetyl - l - ornithine  ( linear ) : step 1 / 1
+l - ornithine and n - acetyl - l - glutamate from l - glutamate and n ( 2 )  - acetyl - l - ornithine  ( cyclic ) : step 1 / 1
+l - arginine from l - ornithine and carbamoyl phosphate: step 1 / 3
+l - arginine from l - ornithine and carbamoyl phosphate: step 2 / 3
+l - arginine from l - ornithine and carbamoyl phosphate: step 3 / 3
+ ( s )  - dihydroorotate from bicarbonate: step 1 / 3
+ ( s )  - dihydroorotate from bicarbonate: step 2 / 3
+ ( s )  - dihydroorotate from bicarbonate: step 3 / 3
+orotate from  ( s )  - dihydroorotate  ( o2 route ) : step 1 / 1
+ump from orotate: step 1 / 2
+ump from orotate: step 2 / 2
+l - ectoine from l - aspartate 4 - semialdehyde: step 1 / 3
+l - ectoine from l - aspartate 4 - semialdehyde: step 2 / 3
+l - ectoine from l - aspartate 4 - semialdehyde: step 3 / 3
+n ( 1 )  -  ( 5 - phospho - d - ribosyl ) glycinamide from 5 - phospho - alpha - d - ribose 1 - diphosphate: step 1 / 2
+n ( 1 )  -  ( 5 - phospho - d - ribosyl ) glycinamide from 5 - phospho - alpha - d - ribose 1 - diphosphate: step 2 / 2
+n ( 2 )  - formyl - n ( 1 )  -  ( 5 - phospho - d - ribosyl ) glycinamide from n ( 1 )  -  ( 5 - phospho - d - ribosyl ) glycinamide  ( 10 - formyl thf route ) : step 1 / 1
+n ( 2 )  - formyl - n ( 1 )  -  ( 5 - phospho - d - ribosyl ) glycinamide from n ( 1 )  -  ( 5 - phospho - d - ribosyl ) glycinamide  ( formate route ) : step 1 / 1
+5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole from n ( 2 )  - formyl - n ( 1 )  -  ( 5 - phospho - d - ribosyl ) glycinamide: step 1 / 2
+5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole from n ( 2 )  - formyl - n ( 1 )  -  ( 5 - phospho - d - ribosyl ) glycinamide: step 2 / 2
+5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxylate from 5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole  ( carboxylase route ) : step 1 / 1
+5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxamide from 5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxylate: step 1 / 2
+5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxamide from 5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxylate: step 2 / 2
+5 - formamido - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxamide from 5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxamide  ( 10 - formyl thf route ) : step 1 / 1
+5 - formamido - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxamide from 5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxamide  ( formate route ) : step 1 / 1
+imp from 5 - formamido - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxamide: step 1 / 1
+4 - amino - 2 - methyl - 5 - diphosphomethylpyrimidine from 5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole: step 1 / 3
+4 - amino - 2 - methyl - 5 - diphosphomethylpyrimidine from 5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole: step 2 / 3
+4 - amino - 2 - methyl - 5 - diphosphomethylpyrimidine from 5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole: step 3 / 3
+4 - methyl - 5 -  ( 2 - phosphoethyl )  - thiazole from 5 -  ( 2 - hydroxyethyl )  - 4 - methylthiazole: step 1 / 1
+4 - methyl - 5 -  ( 2 - phosphoethyl )  - thiazole from 1 - deoxy - d - xylulose 5 - phosphate: step 1 / 1
+thiamine phosphate from 4 - amino - 2 - methyl - 5 - diphosphomethylpyrimidine and 4 - methyl - 5 -  ( 2 - phosphoethyl )  - thiazole: step 1 / 1
+thiamine diphosphate from thiamine phosphate: step 1 / 1
+acetyl - coa from myo - inositol: step 1 / 7
+acetyl - coa from myo - inositol: step 2 / 7
+acetyl - coa from myo - inositol: step 3 / 7
+acetyl - coa from myo - inositol: step 5 / 7
+acetyl - coa from myo - inositol: step 6 / 7
+acetyl - coa from myo - inositol: step 7 / 7
+4 - aminobenzoate from chorismate: step 1 / 2
+4 - aminobenzoate from chorismate: step 2 / 2
+7 , 8 - dihydroneopterin triphosphate from gtp: step 1 / 1
+2 - amino - 4 - hydroxy - 6 - hydroxymethyl - 7 , 8 - dihydropteridine diphosphate from 7 , 8 - dihydroneopterin triphosphate: step 1 / 4
+2 - amino - 4 - hydroxy - 6 - hydroxymethyl - 7 , 8 - dihydropteridine diphosphate from 7 , 8 - dihydroneopterin triphosphate: step 2 / 4
+2 - amino - 4 - hydroxy - 6 - hydroxymethyl - 7 , 8 - dihydropteridine diphosphate from 7 , 8 - dihydroneopterin triphosphate: step 3 / 4
+2 - amino - 4 - hydroxy - 6 - hydroxymethyl - 7 , 8 - dihydropteridine diphosphate from 7 , 8 - dihydroneopterin triphosphate: step 4 / 4
+7 , 8 - dihydrofolate from 2 - amino - 4 - hydroxy - 6 - hydroxymethyl - 7 , 8 - dihydropteridine diphosphate and 4 - aminobenzoate: step 1 / 2
+7 , 8 - dihydrofolate from 2 - amino - 4 - hydroxy - 6 - hydroxymethyl - 7 , 8 - dihydropteridine diphosphate and 4 - aminobenzoate: step 2 / 2
+5 , 6 , 7 , 8 - tetrahydrofolate from 7 , 8 - dihydrofolate: step 1 / 1
+8 - amino - 7 - oxononanoate from pimeloyl - coa: step 1 / 1
+7 , 8 - diaminononanoate from 8 - amino - 7 - oxononanoate  ( sam route ) : step 1 / 1
+biotin from 7 , 8 - diaminononanoate: step 1 / 2
+biotin from 7 , 8 - diaminononanoate: step 2 / 2
+1 , 4 - dihydroxy - 2 - naphthoate from chorismate: step 1 / 7
+1 , 4 - dihydroxy - 2 - naphthoate from chorismate: step 2 / 7
+1 , 4 - dihydroxy - 2 - naphthoate from chorismate: step 4 / 7
+1 , 4 - dihydroxy - 2 - naphthoate from chorismate: step 5 / 7
+1 , 4 - dihydroxy - 2 - naphthoate from chorismate: step 6 / 7
+menaquinol from 1 , 4 - dihydroxy - 2 - naphthoate: step 1 / 2
+menaquinol from 1 , 4 - dihydroxy - 2 - naphthoate: step 2 / 2
+formate from 10 - formyl - 5 , 6 , 7 , 8 - tetrahydrofolate: step 1 / 1
+carbamoyl phosphate from bicarbonate: step 1 / 1
+5 - phospho - alpha - d - ribose 1 - diphosphate from d - ribose 5 - phosphate  ( route i ) : step 1 / 1
+5 - phospho - alpha - d - ribose 1 - diphosphate from d - ribose 5 - phosphate  ( route ii ) : step 1 / 3
+5 - phospho - alpha - d - ribose 1 - diphosphate from d - ribose 5 - phosphate  ( route ii ) : step 2 / 3
+5 - phospho - alpha - d - ribose 1 - diphosphate from d - ribose 5 - phosphate  ( route ii ) : step 3 / 3
+3 - dehydroquinate from d - quinate  ( nad (  +  )  route ) : step 1 / 1
+3 - dehydroquinate from d - quinate  ( pqq route ) : step 1 / 1
+3 , 4 - dihydroxybenzoate from 3 - dehydroquinate: step 1 / 2
+3 , 4 - dihydroxybenzoate from 3 - dehydroquinate: step 2 / 2
+d - glyceraldehyde 3 - phosphate and glycerone phosphate from d - glucose: step 1 / 4
+d - glyceraldehyde 3 - phosphate and glycerone phosphate from d - glucose: step 2 / 4
+d - glyceraldehyde 3 - phosphate and glycerone phosphate from d - glucose: step 3 / 4
+d - glyceraldehyde 3 - phosphate and glycerone phosphate from d - glucose: step 4 / 4
+pyruvate from d - glyceraldehyde 3 - phosphate: step 1 / 5
+pyruvate from d - glyceraldehyde 3 - phosphate: step 2 / 5
+pyruvate from d - glyceraldehyde 3 - phosphate: step 3 / 5
+pyruvate from d - glyceraldehyde 3 - phosphate: step 4 / 5
+pyruvate from d - glyceraldehyde 3 - phosphate: step 5 / 5
+d - glyceraldehyde 3 - phosphate from glycerone phosphate: step 1 / 1
+gdp - l - fucose from gdp - alpha - d - mannose: step 1 / 2
+gdp - l - fucose from gdp - alpha - d - mannose: step 2 / 2
+2 -  ( alpha - d - mannosyl )  - d - glycerate from gdp - alpha - d - mannose  ( mpg route ) : step 1 / 2
+2 -  ( alpha - d - mannosyl )  - d - glycerate from gdp - alpha - d - mannose  ( mpg route ) : step 2 / 2
+l - asparagine from l - aspartate  ( ammonia route ) : step 1 / 1
+l - asparagine from l - aspartate  ( l - gln route ) : step 1 / 1
+l - serine from 3 - phospho - d - glycerate: step 1 / 3
+l - serine from 3 - phospho - d - glycerate: step 2 / 3
+l - serine from 3 - phospho - d - glycerate: step 3 / 3
+l - cysteine from l - serine: step 1 / 2
+l - cysteine from l - serine: step 2 / 2
+l - cysteine from l - homocysteine and l - serine: step 1 / 2
+l - cysteine from l - homocysteine and l - serine: step 2 / 2
+prephenate from chorismate: step 1 / 1
+sulfite from sulfate: step 1 / 3
+sulfite from sulfate: step 2 / 3
+sulfite from sulfate: step 3 / 3
+hydrogen sulfide from sulfite  ( nadph route ) : step 1 / 1
+hydrogen sulfide from sulfite  ( ferredoxin route ) : step 1 / 1
+glutathione from l - cysteine and l - glutamate: step 1 / 2
+glutathione from l - cysteine and l - glutamate: step 2 / 2
+precorrin - 2 from uroporphyrinogen iii: step 1 / 1
+cob ( ii ) yrinate a , c - diamide from precorrin - 2  ( aerobic route ) : step 1 / 10
+cob ( ii ) yrinate a , c - diamide from precorrin - 2  ( aerobic route ) : step 2 / 10
+cob ( ii ) yrinate a , c - diamide from precorrin - 2  ( aerobic route ) : step 3 / 10
+cob ( ii ) yrinate a , c - diamide from precorrin - 2  ( aerobic route ) : step 4 / 10
+cob ( ii ) yrinate a , c - diamide from precorrin - 2  ( aerobic route ) : step 5 / 10
+cob ( ii ) yrinate a , c - diamide from precorrin - 2  ( aerobic route ) : step 6 / 10
+cob ( ii ) yrinate a , c - diamide from precorrin - 2  ( aerobic route ) : step 7 / 10
+cob ( ii ) yrinate a , c - diamide from precorrin - 2  ( aerobic route ) : step 8 / 10
+cob ( ii ) yrinate a , c - diamide from precorrin - 2  ( aerobic route ) : step 9 / 10
+cob ( ii ) yrinate a , c - diamide from precorrin - 2  ( aerobic route ) : step 10 / 10
+sirohydrochlorin from precorrin - 2: step 1 / 1
+cob ( ii ) yrinate a , c - diamide from sirohydrochlorin  ( anaerobic route ) : step 1 / 10
+cob ( ii ) yrinate a , c - diamide from sirohydrochlorin  ( anaerobic route ) : step 2 / 10
+cob ( ii ) yrinate a , c - diamide from sirohydrochlorin  ( anaerobic route ) : step 3 / 10
+cob ( ii ) yrinate a , c - diamide from sirohydrochlorin  ( anaerobic route ) : step 4 / 10
+cob ( ii ) yrinate a , c - diamide from sirohydrochlorin  ( anaerobic route ) : step 6 / 10
+cob ( ii ) yrinate a , c - diamide from sirohydrochlorin  ( anaerobic route ) : step 7 / 10
+cob ( ii ) yrinate a , c - diamide from sirohydrochlorin  ( anaerobic route ) : step 8 / 10
+cob ( ii ) yrinate a , c - diamide from sirohydrochlorin  ( anaerobic route ) : step 9 / 10
+cob ( ii ) yrinate a , c - diamide from sirohydrochlorin  ( anaerobic route ) : step 10 / 10
+adenosylcobalamin from cob ( ii ) yrinate a , c - diamide: step 1 / 7
+adenosylcobalamin from cob ( ii ) yrinate a , c - diamide: step 2 / 7
+adenosylcobalamin from cob ( ii ) yrinate a , c - diamide: step 3 / 7
+adenosylcobalamin from cob ( ii ) yrinate a , c - diamide: step 4 / 7
+adenosylcobalamin from cob ( ii ) yrinate a , c - diamide: step 5 / 7
+adenosylcobalamin from cob ( ii ) yrinate a , c - diamide: step 6 / 7
+adenosylcobalamin from cob ( ii ) yrinate a , c - diamide: step 7 / 7
+penicillin g from l - alpha - aminoadipate and l - cysteine and l - valine: step 1 / 3
+penicillin g from l - alpha - aminoadipate and l - cysteine and l - valine: step 2 / 3
+penicillin g from l - alpha - aminoadipate and l - cysteine and l - valine: step 3 / 3
+clavulanate from d - glyceraldehyde 3 - phosphate and l - arginine: step 1 / 8
+clavulanate from d - glyceraldehyde 3 - phosphate and l - arginine: step 2 / 8
+clavulanate from d - glyceraldehyde 3 - phosphate and l - arginine: step 3 / 8
+clavulanate from d - glyceraldehyde 3 - phosphate and l - arginine: step 4 / 8
+clavulanate from d - glyceraldehyde 3 - phosphate and l - arginine: step 5 / 8
+clavulanate from d - glyceraldehyde 3 - phosphate and l - arginine: step 6 / 8
+clavulanate from d - glyceraldehyde 3 - phosphate and l - arginine: step 7 / 8
+clavulanate from d - glyceraldehyde 3 - phosphate and l - arginine: step 8 / 8
+2 - hydroxy - 2 , 4 - pentadienoate and benzoate from biphenyl: step 1 / 4
+2 - hydroxy - 2 , 4 - pentadienoate and benzoate from biphenyl: step 2 / 4
+2 - hydroxy - 2 , 4 - pentadienoate and benzoate from biphenyl: step 3 / 4
+2 - hydroxy - 2 , 4 - pentadienoate and benzoate from biphenyl: step 4 / 4
+catechol from benzoate: step 1 / 2
+catechol from benzoate: step 2 / 2
+3 , 4 - dihydroxybenzoate from benzoate: step 1 / 2
+3 , 4 - dihydroxybenzoate from benzoate: step 2 / 2
+5 - oxo - 4 , 5 - dihydro - 2 - furylacetate from catechol: step 1 / 3
+5 - oxo - 4 , 5 - dihydro - 2 - furylacetate from catechol: step 2 / 3
+5 - oxo - 4 , 5 - dihydro - 2 - furylacetate from catechol: step 3 / 3
+3 - oxoadipate from 5 - oxo - 4 , 5 - dihydro - 2 - furylacetate: step 1 / 1
+acetyl - coa and succinyl - coa from 3 - oxoadipate: step 1 / 2
+acetyl - coa and succinyl - coa from 3 - oxoadipate: step 2 / 2
+3 - carboxy - cis , cis - muconate from 3 , 4 - dihydroxybenzoate: step 1 / 1
+5 - oxo - 4 , 5 - dihydro - 2 - furylacetate from 3 - carboxy - cis , cis - muconate: step 1 / 2
+5 - oxo - 4 , 5 - dihydro - 2 - furylacetate from 3 - carboxy - cis , cis - muconate: step 2 / 2
+3 - oxoadipate from 3 , 4 - dihydroxybenzoate: step 1 / 4
+3 - oxoadipate from 3 , 4 - dihydroxybenzoate: step 2 / 4
+3 - oxoadipate from 3 , 4 - dihydroxybenzoate: step 3 / 4
+l - ornithine and urea from l - arginine: step 1 / 1
+l - citrulline from l - ornithine and carbamoyl phosphate: step 1 / 1
+ ( n ( omega )  - l - arginino ) succinate from l - aspartate and l - citrulline: step 1 / 1
+l - arginine and fumarate from  ( n ( omega )  - l - arginino ) succinate: step 1 / 1
+udp from ump  ( umk / cmk route ) : step 1 / 1
+udp from ump  ( umpk route ) : step 1 / 1
+ctp from udp: step 1 / 2
+ctp from udp: step 2 / 2
+3 - oxoadipate from 3 , 4 - dihydroxybenzoate: step 4 / 4
+l - glutamate and succinate from l - arginine: step 1 / 5
+l - glutamate and succinate from l - arginine: step 2 / 5
+l - glutamate and succinate from l - arginine: step 3 / 5
+l - glutamate and succinate from l - arginine: step 4 / 5
+l - glutamate and succinate from l - arginine: step 5 / 5
+agmatine from l - arginine: step 1 / 1
+n - carbamoylputrescine from agmatine: step 1 / 1
+putrescine from n - carbamoylputrescine  ( amidase route ) : step 1 / 1
+putrescine from agmatine: step 1 / 1
+putrescine from l - ornithine: step 1 / 1
+4 - aminobutanal from putrescine  ( amine oxidase route ) : step 1 / 1
+4 - aminobutanal from putrescine  ( transaminase route ) : step 1 / 1
+1 , 3 - diaminopropane and 4 - aminobutanal from spermidine: step 1 / 1
+4 - aminobutanoate from 4 - aminobutanal: step 1 / 1
+succinate semialdehyde from 4 - aminobutanoate: step 1 / 1
+xmp from imp: step 1 / 1
+gmp from xmp  ( l - gln route ) : step 1 / 1
+gmp from xmp  ( ammonia route ) : step 1 / 1
+pyridoxal 5' - phosphate from pyridoxal: step 1 / 1
+pyridoxamine 5' - phosphate from pyridoxamine: step 1 / 1
+pyridoxine 5' - phosphate from pyridoxine: step 1 / 1
+pyridoxal from pyridoxal 5' - phosphate: step 1 / 1
+pyridoxamine from pyridoxamine 5' - phosphate: step 1 / 1
+pyridoxine from pyridoxine 5' - phosphate: step 1 / 1
+pyridoxal 5' - phosphate from pyridoxamine 5' - phosphate: step 1 / 1
+pyridoxal 5' - phosphate from pyridoxine 5' - phosphate: step 1 / 1
+pyridoxal from pyridoxamine: step 1 / 1
+pyridoxal from pyridoxine  ( dehydrogenase route ) : step 1 / 1
+3 - carboxy - cis , cis - muconate from 3 - carboxy - 2 , 5 - dihydro - 5 - oxofuran - 2 - acetate: step 1 / 1
+pyridoxine 5' - phosphate from d - erythrose 4 - phosphate: step 1 / 5
+pyridoxine 5' - phosphate from d - erythrose 4 - phosphate: step 2 / 5
+pyridoxine 5' - phosphate from d - erythrose 4 - phosphate: step 3 / 5
+pyridoxine 5' - phosphate from d - erythrose 4 - phosphate: step 4 / 5
+pyridoxine 5' - phosphate from d - erythrose 4 - phosphate: step 5 / 5
+spermidine from putrescine: step 1 / 1
+spermine from spermidine: step 1 / 1
+5 - aminolevulinate from l - glutamyl - trna ( glu ) : step 1 / 2
+5 - aminolevulinate from l - glutamyl - trna ( glu ) : step 2 / 2
+coproporphyrinogen - iii from 5 - aminolevulinate: step 1 / 4
+coproporphyrinogen - iii from 5 - aminolevulinate: step 2 / 4
+coproporphyrinogen - iii from 5 - aminolevulinate: step 3 / 4
+coproporphyrinogen - iii from 5 - aminolevulinate: step 4 / 4
+protoporphyrinogen - ix from coproporphyrinogen - iii  ( o2 route ) : step 1 / 1
+protoporphyrinogen - ix from coproporphyrinogen - iii  ( adomet route ) : step 1 / 1
+protoporphyrin - ix from protoporphyrinogen - ix: step 1 / 1
+protoheme from protoporphyrin - ix: step 1 / 1
+iminoaspartate from l - aspartate  ( oxidase route ) : step 1 / 1
+quinolinate from iminoaspartate: step 1 / 1
+quinolinate from l - kynurenine: step 1 / 3
+quinolinate from l - kynurenine: step 2 / 3
+quinolinate from l - kynurenine: step 3 / 3
+nicotinate d - ribonucleotide from quinolinate: step 1 / 1
+deamido - nad (  +  )  from nicotinate d - ribonucleotide: step 1 / 1
+nad (  +  )  from deamido - nad (  +  )   ( ammonia route ) : step 1 / 1
+nad (  +  )  from deamido - nad (  +  )   ( l - gln route ) : step 1 / 1
+amp from imp: step 1 / 2
+amp from imp: step 2 / 2
+acetoacetate and fumarate from l - phenylalanine: step 1 / 6
+acetoacetate and fumarate from l - phenylalanine: step 2 / 6
+acetoacetate and fumarate from l - phenylalanine: step 4 / 6
+acetoacetate and fumarate from l - phenylalanine: step 5 / 6
+acetoacetate and fumarate from l - phenylalanine: step 6 / 6
+l - arogenate from prephenate  ( l - asp route ) : step 1 / 1
+l - arogenate from prephenate  ( l - glu route ) : step 1 / 1
+l - phenylalanine from l - arogenate: step 1 / 1
+phenylpyruvate from prephenate: step 1 / 1
+l - phenylalanine from phenylpyruvate  ( pdh route ) : step 1 / 1
+l - phenylalanine from phenylpyruvate  ( arat route ) : step 1 / 1
+l - tyrosine from  ( 4 - hydroxyphenyl ) pyruvate: step 1 / 1
+pimeloyl - coa from pimelate: step 1 / 1
+coa from  ( r )  - pantothenate: step 1 / 5
+coa from  ( r )  - pantothenate: step 2 / 5
+coa from  ( r )  - pantothenate: step 3 / 5
+coa from  ( r )  - pantothenate: step 4 / 5
+coa from  ( r )  - pantothenate: step 5 / 5
+l - proline from l - ornithine: step 1 / 1
+l - glutamate 5 - semialdehyde from l - ornithine: step 1 / 1
+l - glutamate 5 - semialdehyde from l - glutamate: step 1 / 2
+l - glutamate 5 - semialdehyde from l - glutamate: step 2 / 2
+l - proline from l - glutamate 5 - semialdehyde: step 1 / 1
+acetoacetate and fumarate from l - phenylalanine: step 3 / 6
+n - acetylputrescine from putrescine: step 1 / 1
+carbamoyl phosphate from l - arginine: step 1 / 2
+carbamoyl phosphate from l - arginine: step 2 / 2
+co ( 2 )  and nh ( 3 )  from carbamoyl phosphate: step 1 / 1
+ ( s )  - 3 - hydroxy - 3 - methylglutaryl - coa from  ( r )  - mevalonate: step 1 / 1
+geranyl diphosphate from dimethylallyl diphosphate and isopentenyl diphosphate: step 1 / 1
+farnesyl diphosphate from geranyl diphosphate and isopentenyl diphosphate: step 1 / 1
+co ( 2 )  and nh ( 3 )  from urea  ( urease route ) : step 1 / 1
+co ( 2 )  and nh ( 3 )  from urea  ( allophanate route ) : step 1 / 2
+co ( 2 )  and nh ( 3 )  from urea  ( allophanate route ) : step 2 / 2
+l - glutamate from l - proline: step 1 / 2
+l - glutamate from l - proline: step 2 / 2
+5 - aminolevulinate from glycine: step 1 / 1
+siroheme from sirohydrochlorin: step 1 / 1
+d - xylulose 5 - phosphate from l - ascorbate: step 1 / 4
+d - xylulose 5 - phosphate from l - ascorbate: step 2 / 4
+d - xylulose 5 - phosphate from l - ascorbate: step 3 / 4
+d - xylulose 5 - phosphate from l - ascorbate: step 4 / 4
+betaine from glycine: step 1 / 3
+betaine from glycine: step 2 / 3
+betaine from glycine: step 3 / 3
+betaine from choline: step 1 / 1
+betaine aldehyde from choline  ( cytochrome c reductase route ) : step 1 / 1
+betaine from betaine aldehyde: step 1 / 1
+glycolate from 1 , 2 - dichloroethane: step 1 / 4
+glycolate from 1 , 2 - dichloroethane: step 2 / 4
+glycolate from 1 , 2 - dichloroethane: step 3 / 4
+glycolate from 1 , 2 - dichloroethane: step 4 / 4
+catechol from benzene: step 1 / 2
+catechol from benzene: step 2 / 2
+3 - methylcatechol from toluene: step 1 / 2
+3 - methylcatechol from toluene: step 2 / 2
+sarcosine from creatinine: step 1 / 3
+sarcosine from creatinine: step 2 / 3
+sarcosine from creatinine: step 3 / 3
+formaldehyde and glycine from sarcosine: step 1 / 1
+2 - hydroxy - 3 - oxobutyl phosphate from d - ribulose 5 - phosphate: step 1 / 1
+5 - amino - 6 -  ( d - ribitylamino ) uracil from gtp: step 1 / 4
+5 - amino - 6 -  ( d - ribitylamino ) uracil from gtp: step 2 / 4
+5 - amino - 6 -  ( d - ribitylamino ) uracil from gtp: step 3 / 4
+5 - amino - 6 -  ( d - ribitylamino ) uracil from gtp: step 4 / 4
+riboflavin from 2 - hydroxy - 3 - oxobutyl phosphate and 5 - amino - 6 -  ( d - ribitylamino ) uracil: step 1 / 2
+riboflavin from 2 - hydroxy - 3 - oxobutyl phosphate and 5 - amino - 6 -  ( d - ribitylamino ) uracil: step 2 / 2
+fmn from riboflavin  ( atp route ) : step 1 / 1
+fad from fmn: step 1 / 1
+d - ribulose 5 - phosphate from d - glucose 6 - phosphate  ( oxidative stage ) : step 1 / 3
+d - ribulose 5 - phosphate from d - glucose 6 - phosphate  ( oxidative stage ) : step 2 / 3
+d - ribulose 5 - phosphate from d - glucose 6 - phosphate  ( oxidative stage ) : step 3 / 3
+d - xylulose 5 - phosphate from d - ribulose 5 - phosphate  ( non - oxidative stage ) : step 1 / 1
+d - ribose 5 - phosphate from d - ribulose 5 - phosphate  ( non - oxidative stage ) : step 1 / 1
+d - glyceraldehyde 3 - phosphate and beta - d - fructose 6 - phosphate from d - ribose 5 - phosphate and d - xylulose 5 - phosphate  ( non - oxidative stage ) : step 1 / 3
+d - glyceraldehyde 3 - phosphate and beta - d - fructose 6 - phosphate from d - ribose 5 - phosphate and d - xylulose 5 - phosphate  ( non - oxidative stage ) : step 2 / 3
+d - glyceraldehyde 3 - phosphate and beta - d - fructose 6 - phosphate from d - ribose 5 - phosphate and d - xylulose 5 - phosphate  ( non - oxidative stage ) : step 3 / 3
+pyruvate and succinate semialdehyde from 4 - hydroxyphenylacetate: step 1 / 7
+pyruvate and succinate semialdehyde from 4 - hydroxyphenylacetate: step 2 / 7
+pyruvate and succinate semialdehyde from 4 - hydroxyphenylacetate: step 3 / 7
+pyruvate and succinate semialdehyde from 4 - hydroxyphenylacetate: step 4 / 7
+pyruvate and succinate semialdehyde from 4 - hydroxyphenylacetate: step 5 / 7
+pyruvate and succinate semialdehyde from 4 - hydroxyphenylacetate: step 6 / 7
+pyruvate and succinate semialdehyde from 4 - hydroxyphenylacetate: step 7 / 7
+alpha - d - mannose 1 - phosphate from d - fructose 6 - phosphate: step 1 / 2
+alpha - d - mannose 1 - phosphate from d - fructose 6 - phosphate: step 2 / 2
+gdp - alpha - d - mannose from alpha - d - mannose 1 - phosphate  ( gdp route ) : step 1 / 1
+glycine from l - allo - threonine: step 1 / 1
+glycine from glyoxylate: step 1 / 1
+acetaldehyde and glycine from l - threonine: step 1 / 1
+betaine aldehyde from choline  ( monooxygenase route ) : step 1 / 1
+choline from choline sulfate: step 1 / 1
+sarcosine from betaine: step 1 / 2
+sarcosine from betaine: step 2 / 2
+d - fructose 6 - phosphate from d - ribulose 5 - phosphate and formaldehyde: step 1 / 2
+d - fructose 6 - phosphate from d - ribulose 5 - phosphate and formaldehyde: step 2 / 2
+d - glycero - alpha - d - manno - heptose 7 - phosphate and d - glycero - beta - d - manno - heptose 7 - phosphate from sedoheptulose 7 - phosphate: step 1 / 1
+adp - l - glycero - beta - d - manno - heptose from d - glycero - beta - d - manno - heptose 7 - phosphate: step 1 / 4
+adp - l - glycero - beta - d - manno - heptose from d - glycero - beta - d - manno - heptose 7 - phosphate: step 2 / 4
+adp - l - glycero - beta - d - manno - heptose from d - glycero - beta - d - manno - heptose 7 - phosphate: step 3 / 4
+adp - l - glycero - beta - d - manno - heptose from d - glycero - beta - d - manno - heptose 7 - phosphate: step 4 / 4
+ ( s )  - reticuline from  ( s )  - norcoclaurine: step 1 / 4
+ ( s )  - reticuline from  ( s )  - norcoclaurine: step 2 / 4
+ ( s )  - reticuline from  ( s )  - norcoclaurine: step 3 / 4
+ ( s )  - reticuline from  ( s )  - norcoclaurine: step 4 / 4
+palmatine from columbamine: step 1 / 1
+berbamunine from  ( r )  - n - methylcoclaurine and  ( s )  - n - methylcoclaurine: step 1 / 1
+3alpha ( s )  - strictosidine from secologanin and tryptamine: step 1 / 1
+l - cystathionine from o - acetyl - l - homoserine: step 1 / 1
+l - homocysteine from o - succinyl - l - homoserine: step 1 / 1
+ ( s )  - scoulerine from  ( s )  - reticuline: step 1 / 1
+s - adenosylmethioninamine from s - adenosyl - l - methionine: step 1 / 1
+indole and pyruvate from l - tryptophan: step 1 / 1
+l - kynurenine from l - tryptophan: step 1 / 2
+l - kynurenine from l - tryptophan: step 2 / 2
+l - alanine and anthranilate from l - kynurenine: step 1 / 1
+iminoaspartate from l - aspartate  ( dehydrogenase route ) : step 1 / 1
+nicotinate d - ribonucleotide from nicotinate: step 1 / 1
+acetyl - coa from acetate: step 1 / 2
+acetyl - coa from acetate: step 2 / 2
+l - threonine from l - aspartate: step 1 / 5
+l - homoserine from l - aspartate: step 1 / 3
+l - threonine from l - aspartate: step 2 / 5
+l - homoserine from l - aspartate: step 2 / 3
+l - homoserine from l - aspartate: step 3 / 3
+ll - 2 , 6 - diaminopimelate from  ( s )  - tetrahydrodipicolinate  ( aminotransferase route ) : step 1 / 1
+d - glyceraldehyde 3 - phosphate and acetaldehyde from 2 - deoxy - alpha - d - ribose 1 - phosphate: step 1 / 2
+d - glyceraldehyde 3 - phosphate and acetaldehyde from 2 - deoxy - alpha - d - ribose 1 - phosphate: step 2 / 2
+sulfoacetaldehyde from phosphoenolpyruvate and sulfite: step 1 / 4
+sulfoacetaldehyde from phosphoenolpyruvate and sulfite: step 2 / 4
+sulfoacetaldehyde from phosphoenolpyruvate and sulfite: step 3 / 4
+sulfoacetaldehyde from phosphoenolpyruvate and sulfite: step 4 / 4
+3 - deoxy - d - manno - octulosonate from d - ribulose 5 - phosphate: step 1 / 3
+3 - deoxy - d - manno - octulosonate from d - ribulose 5 - phosphate: step 2 / 3
+3 - deoxy - d - manno - octulosonate from d - ribulose 5 - phosphate: step 3 / 3
+cmp - 3 - deoxy - d - manno - octulosonate from 3 - deoxy - d - manno - octulosonate and ctp: step 1 / 1
+lipid iv ( a )  from  ( 3r )  - 3 - hydroxytetradecanoyl -  [ acyl - carrier - protein ]  and udp - n - acetyl - alpha - d - glucosamine: step 1 / 6
+lipid iv ( a )  from  ( 3r )  - 3 - hydroxytetradecanoyl -  [ acyl - carrier - protein ]  and udp - n - acetyl - alpha - d - glucosamine: step 2 / 6
+lipid iv ( a )  from  ( 3r )  - 3 - hydroxytetradecanoyl -  [ acyl - carrier - protein ]  and udp - n - acetyl - alpha - d - glucosamine: step 3 / 6
+lipid iv ( a )  from  ( 3r )  - 3 - hydroxytetradecanoyl -  [ acyl - carrier - protein ]  and udp - n - acetyl - alpha - d - glucosamine: step 4 / 6
+lipid iv ( a )  from  ( 3r )  - 3 - hydroxytetradecanoyl -  [ acyl - carrier - protein ]  and udp - n - acetyl - alpha - d - glucosamine: step 5 / 6
+lipid iv ( a )  from  ( 3r )  - 3 - hydroxytetradecanoyl -  [ acyl - carrier - protein ]  and udp - n - acetyl - alpha - d - glucosamine: step 6 / 6
+kdo ( 2 )  - lipid a from cmp - 3 - deoxy - d - manno - octulosonate and lipid iv ( a ) : step 1 / 4
+kdo ( 2 )  - lipid a from cmp - 3 - deoxy - d - manno - octulosonate and lipid iv ( a ) : step 2 / 4
+kdo ( 2 )  - lipid a from cmp - 3 - deoxy - d - manno - octulosonate and lipid iv ( a ) : step 3 / 4
+kdo ( 2 )  - lipid a from cmp - 3 - deoxy - d - manno - octulosonate and lipid iv ( a ) : step 4 / 4
+6 - hydroxypseudooxynicotine from nicotine  ( s - isomer route ) : step 1 / 2
+6 - hydroxypseudooxynicotine from nicotine  ( r - isomer route ) : step 2 / 2
+2 , 6 - dihydroxypyridine and 4 -  ( methylamino ) butanoate from 6 - hydroxypseudooxynicotine: step 1 / 2
+2 , 6 - dihydroxypyridine and 4 -  ( methylamino ) butanoate from 6 - hydroxypseudooxynicotine: step 2 / 2
+udp - alpha - d - glucuronate from udp - alpha - d - glucose: step 1 / 1
+udp - 4 - deoxy - 4 - formamido - beta - l - arabinose from udp - alpha - d - glucuronate: step 1 / 3
+udp - 4 - deoxy - 4 - formamido - beta - l - arabinose from udp - alpha - d - glucuronate: step 2 / 3
+udp - 4 - deoxy - 4 - formamido - beta - l - arabinose from udp - alpha - d - glucuronate: step 3 / 3
+4 - amino - 4 - deoxy - alpha - l - arabinose undecaprenyl phosphate from udp - 4 - deoxy - 4 - formamido - beta - l - arabinose and undecaprenyl phosphate: step 1 / 2
+4 - amino - 4 - deoxy - alpha - l - arabinose undecaprenyl phosphate from udp - 4 - deoxy - 4 - formamido - beta - l - arabinose and undecaprenyl phosphate: step 2 / 2
+d - alanine from l - alanine: step 1 / 1
+nh ( 3 )  and pyruvate from d - alanine: step 1 / 1
+cyanurate from atrazine: step 1 / 3
+cyanurate from atrazine: step 2 / 3
+cyanurate from atrazine: step 3 / 3
+biuret from cyanurate: step 1 / 1
+phosphatidylglycerol from cdp - diacylglycerol: step 1 / 2
+phosphatidylglycerol from cdp - diacylglycerol: step 2 / 2
+glycine from l - threonine: step 1 / 2
+glycine from l - threonine: step 2 / 2
+propanoate from l - threonine: step 1 / 4
+propanoate from l - threonine: step 2 / 4
+propanoate from l - threonine: step 3 / 4
+propanoate from l - threonine: step 4 / 4
+cdp - 3 , 6 - dideoxy - d - mannose from ctp and alpha - d - glucose 1 - phosphate: step 1 / 5
+cdp - 3 , 6 - dideoxy - d - mannose from ctp and alpha - d - glucose 1 - phosphate: step 2 / 5
+cdp - 3 , 6 - dideoxy - d - mannose from ctp and alpha - d - glucose 1 - phosphate: step 3 / 5
+cdp - 3 , 6 - dideoxy - d - mannose from ctp and alpha - d - glucose 1 - phosphate: step 4 / 5
+cdp - 3 , 6 - dideoxy - d - mannose from ctp and alpha - d - glucose 1 - phosphate: step 5 / 5
+alpha - ribazole from 5 , 6 - dimethylbenzimidazole: step 1 / 2
+alpha - ribazole from 5 , 6 - dimethylbenzimidazole: step 2 / 2
+d - glyceraldehyde 3 - phosphate and pyruvate from d - galactonate: step 1 / 3
+d - glyceraldehyde 3 - phosphate and pyruvate from d - galactonate: step 2 / 3
+d - glyceraldehyde 3 - phosphate and pyruvate from d - galactonate: step 3 / 3
+vindoline from tabersonine: step 1 / 6
+vindoline from tabersonine: step 2 / 6
+vindoline from tabersonine: step 3 / 6
+vindoline from tabersonine: step 4 / 6
+vindoline from tabersonine: step 5 / 6
+vindoline from tabersonine: step 6 / 6
+d - glucuronate from myo - inositol: step 1 / 1
+alpha - d - glucosamine 6 - phosphate from d - fructose 6 - phosphate: step 1 / 1
+n - acetyl - alpha - d - glucosamine 1 - phosphate from alpha - d - glucosamine 6 - phosphate  ( route i ) : step 1 / 2
+n - acetyl - alpha - d - glucosamine 1 - phosphate from alpha - d - glucosamine 6 - phosphate  ( route i ) : step 2 / 2
+n - acetyl - alpha - d - glucosamine 1 - phosphate from alpha - d - glucosamine 6 - phosphate  ( route ii ) : step 1 / 2
+n - acetyl - alpha - d - glucosamine 1 - phosphate from alpha - d - glucosamine 6 - phosphate  ( route ii ) : step 2 / 2
+udp - n - acetyl - alpha - d - glucosamine from n - acetyl - alpha - d - glucosamine 1 - phosphate: step 1 / 1
+d - glucose from alpha , alpha - trehalose: step 1 / 1
+hypotaurine from 2 - aminoethanethiol: step 1 / 1
+hypotaurine from l - cysteine: step 1 / 2
+hypotaurine from l - cysteine: step 2 / 2
+taurine from hypotaurine: step 1 / 1
+taurine from l - cysteine: step 1 / 2
+taurine from l - cysteine: step 2 / 2
+aminoacetaldehyde and sulfite from taurine: step 1 / 1
+acetyl phosphate and sulfite from taurine: step 1 / 2
+acetyl phosphate and sulfite from taurine: step 2 / 2
+sucrose from d - fructose 6 - phosphate and udp - alpha - d - glucose: step 1 / 2
+sucrose from d - fructose 6 - phosphate and udp - alpha - d - glucose: step 2 / 2
+3 , 4' , 5 - trihydroxystilbene from trans - 4 - coumarate: step 1 / 2
+3 , 4' , 5 - trihydroxystilbene from trans - 4 - coumarate: step 2 / 2
+n - formimidoyl - l - glutamate from l - histidine: step 1 / 3
+n - formimidoyl - l - glutamate from l - histidine: step 2 / 3
+n - formimidoyl - l - glutamate from l - histidine: step 3 / 3
+l - glutamate from n - formimidoyl - l - glutamate  ( hydrolase route ) : step 1 / 1
+l - glutamate from n - formimidoyl - l - glutamate  ( deiminase route ) : step 1 / 2
+l - glutamate from n - formimidoyl - l - glutamate  ( deiminase route ) : step 2 / 2
+l - glutamate from n - formimidoyl - l - glutamate  ( transferase route ) : step 1 / 1
+staphyloxanthin from farnesyl diphosphate: step 1 / 5
+staphyloxanthin from farnesyl diphosphate: step 2 / 5
+staphyloxanthin from farnesyl diphosphate: step 3 / 5
+staphyloxanthin from farnesyl diphosphate: step 4 / 5
+staphyloxanthin from farnesyl diphosphate: step 5 / 5
+cob ( ii ) yrinate a , c - diamide from sirohydrochlorin  ( anaerobic route ) : step 5 / 10
+ethylene from s - adenosyl - l - methionine: step 1 / 2
+ethylene from s - adenosyl - l - methionine: step 2 / 2
+geranylgeranyl diphosphate from farnesyl diphosphate and isopentenyl diphosphate: step 1 / 1
+d - xylulose 5 - phosphate from l - arabinose  ( bacterial route ) : step 1 / 3
+d - xylulose 5 - phosphate from l - arabinose  ( bacterial route ) : step 2 / 3
+d - xylulose 5 - phosphate from l - arabinose  ( bacterial route ) : step 3 / 3
+2 - dehydro - 3 - deoxy - l - arabinonate from l - arabinose: step 1 / 3
+2 - dehydro - 3 - deoxy - l - arabinonate from l - arabinose: step 2 / 3
+2 - dehydro - 3 - deoxy - l - arabinonate from l - arabinose: step 3 / 3
+glycolaldehyde and pyruvate from 2 - dehydro - 3 - deoxy - l - arabinonate: step 1 / 1
+2 - oxoglutarate from 2 - dehydro - 3 - deoxy - l - arabinonate: step 1 / 2
+2 - oxoglutarate from 2 - dehydro - 3 - deoxy - l - arabinonate: step 2 / 2
+d - xylulose 5 - phosphate from l - arabinose  ( fungal route ) : step 1 / 5
+d - xylulose 5 - phosphate from l - arabinose  ( fungal route ) : step 2 / 5
+d - xylulose 5 - phosphate from l - arabinose  ( fungal route ) : step 3 / 5
+d - xylulose 5 - phosphate from l - arabinose  ( fungal route ) : step 4 / 5
+d - xylulose 5 - phosphate from l - arabinose  ( fungal route ) : step 5 / 5
+creatine from l - arginine and glycine: step 1 / 2
+creatine from l - arginine and glycine: step 2 / 2
+pentalenene from farnesyl diphosphate: step 1 / 1
+aristolochene from farnesyl diphosphate: step 1 / 1
+germacradienol from farnesyl diphosphate: step 1 / 1
+germacrene d from farnesyl diphosphate: step 1 / 1
+nh ( 3 )  and pyruvate from l - alanine: step 1 / 1
+pyruvate from l - alanine: step 1 / 1
+betaine aldehyde from choline  ( dehydrogenase route ) : step 1 / 1
+4 - pyridoxate from pyridoxal: step 1 / 2
+4 - pyridoxate from pyridoxal: step 2 / 2
+pyridoxal from pyridoxine  ( oxidase route ) : step 1 / 1
+crotonoyl - coa from l - glutamate: step 1 / 5
+protein n ( 6 )  -  ( lipoyl ) lysine from octanoyl -  [ acyl - carrier - protein ] : step 1 / 2
+protein n ( 6 )  -  ( lipoyl ) lysine from octanoyl -  [ acyl - carrier - protein ] : step 2 / 2
+protein n ( 6 )  -  ( lipoyl ) lysine from lipoate: step 1 / 2
+protein n ( 6 )  -  ( lipoyl ) lysine from lipoate: step 2 / 2
+thiamine phosphate from thiamine: step 1 / 1
+thiamine diphosphate from thiamine: step 1 / 1
+co ( 2 )  and formate from oxalate: step 1 / 2
+co ( 2 )  and formate from oxalate: step 2 / 2
+nad (  +  )  from nicotinamide d - ribonucleotide: step 1 / 1
+glycerone phosphate from l - rhamnose: step 1 / 3
+glycerone phosphate from l - rhamnose: step 2 / 3
+glycerone phosphate from l - rhamnose: step 3 / 3
+lactose 6 - phosphate from lactose  ( pts route ) : step 1 / 1
+d - galactose 6 - phosphate and beta - d - glucose from lactose 6 - phosphate: step 1 / 1
+gdp - d - glycero - alpha - d - manno - heptose from d - glycero - alpha - d - manno - heptose 7 - phosphate: step 1 / 3
+gdp - d - glycero - alpha - d - manno - heptose from d - glycero - alpha - d - manno - heptose 7 - phosphate: step 2 / 3
+gdp - d - glycero - alpha - d - manno - heptose from d - glycero - alpha - d - manno - heptose 7 - phosphate: step 3 / 3
+cyclic 2 , 3 - diphosphoglycerate from 2 - phospho - d - glycerate: step 1 / 2
+cyclic 2 , 3 - diphosphoglycerate from 2 - phospho - d - glycerate: step 2 / 2
+ ( s )  - lactate from pyruvate: step 1 / 1
+cdp - diacylglycerol from sn - glycerol 3 - phosphate: step 1 / 3
+cdp - diacylglycerol from sn - glycerol 3 - phosphate: step 2 / 3
+cdp - diacylglycerol from sn - glycerol 3 - phosphate: step 3 / 3
+phosphatidylethanolamine from cdp - diacylglycerol: step 1 / 2
+phosphatidylethanolamine from cdp - diacylglycerol: step 2 / 2
+acetate and pyruvate from l - glutamate: step 1 / 4
+acetate and pyruvate from l - glutamate: step 2 / 4
+acetate and pyruvate from l - glutamate: step 3 / 4
+acetate and pyruvate from l - glutamate: step 4 / 4
+formate from formaldehyde  ( glutathione route ) : step 1 / 3
+formate from formaldehyde  ( glutathione route ) : step 2 / 3
+formate from formaldehyde  ( glutathione route ) : step 3 / 3
+l - lactaldehyde and glycerone phosphate from l - fucose: step 1 / 3
+l - lactaldehyde and glycerone phosphate from l - fucose: step 2 / 3
+l - lactaldehyde and glycerone phosphate from l - fucose: step 3 / 3
+2 , 5 - dioxopentanoate from d - glucarate: step 1 / 2
+2 , 5 - dioxopentanoate from d - glucarate: step 2 / 2
+d - glycerate from galactarate: step 1 / 3
+d - glycerate from galactarate: step 2 / 3
+d - glycerate from galactarate: step 3 / 3
+uridine from cytidine: step 1 / 1
+uracil from uridine  ( phosphorylase route ) : step 1 / 1
+uracil from uridine  ( hydrolase route ) : step 1 / 1
+uracil from cytosine: step 1 / 1
+ump from uracil: step 1 / 1
+ump from uridine: step 1 / 1
+dtmp from thymine: step 1 / 2
+dtmp from thymine: step 2 / 2
+ctp from cytidine: step 1 / 3
+ctp from cytidine: step 2 / 3
+ctp from cytidine: step 3 / 3
+malonate and urea from uracil: step 1 / 3
+malonate and urea from uracil: step 2 / 3
+malonate and urea from uracil: step 3 / 3
+amp from adenine: step 1 / 1
+imp from inosine: step 1 / 1
+imp from hypoxanthine: step 1 / 1
+amp from adp: step 1 / 1
+ ( s )  - allantoin from urate: step 1 / 3
+ ( s )  - allantoin from urate: step 2 / 3
+ ( s )  - allantoin from urate: step 3 / 3
+allantoate from  ( s )  - allantoin: step 1 / 1
+ ( s )  - ureidoglycolate from allantoate  ( aminidohydrolase route ) : step 1 / 1
+ ( s )  - ureidoglycolate from allantoate  ( amidohydrolase route ) : step 1 / 1
+glyoxylate from  ( s )  - ureidoglycolate: step 1 / 1
+oxalurate from  ( s )  - ureidoglycolate: step 1 / 1
+xmp from xanthine: step 1 / 1
+amp from adenosine: step 1 / 1
+xanthine from guanine: step 1 / 1
+urate from hypoxanthine: step 1 / 2
+urate from hypoxanthine: step 2 / 2
+imp from amp: step 1 / 1
+phosphatidate from cdp - diacylglycerol: step 1 / 1
+dump from dctp  ( dutp route ) : step 1 / 2
+dump from dctp  ( dutp route ) : step 2 / 2
+dump from dctp: step 1 / 1
+glycerone phosphate from glycerol  ( oxidative route ) : step 1 / 2
+glycerone phosphate from glycerol  ( oxidative route ) : step 2 / 2
+propane - 1 , 3 - diol from glycerol  ( reductive route ) : step 1 / 2
+propane - 1 , 3 - diol from glycerol  ( reductive route ) : step 2 / 2
+sn - glycerol 3 - phosphate from glycerol: step 1 / 1
+glycerone phosphate from sn - glycerol 3 - phosphate  ( anaerobic route ) : step 1 / 1
+glycerone phosphate from sn - glycerol 3 - phosphate  ( aerobic route ) : step 1 / 1
+ ( r )  - lactate from methylglyoxal: step 1 / 2
+ ( r )  - lactate from methylglyoxal: step 2 / 2
+ ( r , r )  - butane - 2 , 3 - diol from pyruvate: step 1 / 3
+ ( r , r )  - butane - 2 , 3 - diol from pyruvate: step 2 / 3
+ ( r , r )  - butane - 2 , 3 - diol from pyruvate: step 3 / 3
+d - fructose 6 - phosphate from n - acetylneuraminate: step 1 / 5
+d - fructose 6 - phosphate from n - acetylneuraminate: step 2 / 5
+d - fructose 6 - phosphate from n - acetylneuraminate: step 3 / 5
+d - fructose 6 - phosphate from n - acetylneuraminate: step 4 / 5
+d - fructose 6 - phosphate from n - acetylneuraminate: step 5 / 5
+crotonoyl - coa from l - glutamate: step 2 / 5
+crotonoyl - coa from l - glutamate: step 3 / 5
+crotonoyl - coa from l - glutamate: step 4 / 5
+crotonoyl - coa from l - glutamate: step 5 / 5
+l - glutamate from 2 - oxoglutarate and l - glutamine  ( nadp (  +  )  route ) : step 1 / 1
+l - glutamate from 2 - oxoglutarate and l - glutamine  ( nad (  +  )  route ) : step 1 / 1
+l - glutamate from 2 - oxoglutarate and l - glutamine  ( ferredoxin route ) : step 1 / 1
+5 , 10 - methenyl - 5 , 6 , 7 , 8 - tetrahydromethanopterin from co ( 2 ) : step 1 / 3
+5 , 10 - methenyl - 5 , 6 , 7 , 8 - tetrahydromethanopterin from co ( 2 ) : step 2 / 3
+5 , 10 - methenyl - 5 , 6 , 7 , 8 - tetrahydromethanopterin from co ( 2 ) : step 3 / 3
+5 , 10 - methylene - 5 , 6 , 7 , 8 - tetrahydromethanopterin from 5 , 10 - methenyl - 5 , 6 , 7 , 8 - tetrahydromethanopterin  ( coenzyme f420 route ) : step 1 / 1
+5 , 10 - methylene - 5 , 6 , 7 , 8 - tetrahydromethanopterin from 5 , 10 - methenyl - 5 , 6 , 7 , 8 - tetrahydromethanopterin  ( hydrogen route ) : step 1 / 1
+methyl - coenzyme m from 5 , 10 - methylene - 5 , 6 , 7 , 8 - tetrahydromethanopterin: step 1 / 2
+methyl - coenzyme m from 5 , 10 - methylene - 5 , 6 , 7 , 8 - tetrahydromethanopterin: step 2 / 2
+methane from methyl - coenzyme m: step 1 / 1
+coenzyme b and coenzyme m from coenzyme m - coenzyme b heterodisulfide: step 1 / 1
+formate from formaldehyde  ( h ( 4 ) mpt route ) : step 1 / 5
+formate from formaldehyde  ( h ( 4 ) mpt route ) : step 2 / 5
+formate from formaldehyde  ( h ( 4 ) mpt route ) : step 3 / 5
+formate from formaldehyde  ( h ( 4 ) mpt route ) : step 4 / 5
+formate from formaldehyde  ( h ( 4 ) mpt route ) : step 5 / 5
+dinitrogen from nitrate: step 1 / 4
+dinitrogen from nitrate: step 2 / 4
+dinitrogen from nitrate: step 3 / 4
+dinitrogen from nitrate: step 4 / 4
+acetyl - coa from malonyl - coa: step 1 / 1
+malonyl - coa from acetyl - coa: step 1 / 1
+heme o from protoheme: step 1 / 1
+heme a from heme o: step 1 / 1
+d - tagatose 6 - phosphate from d - galactose 6 - phosphate: step 1 / 1
+d - glyceraldehyde 3 - phosphate and glycerone phosphate from d - tagatose 6 - phosphate: step 1 / 2
+d - glyceraldehyde 3 - phosphate and glycerone phosphate from d - tagatose 6 - phosphate: step 2 / 2
+isocitrate from oxaloacetate: step 1 / 2
+isocitrate from oxaloacetate: step 2 / 2
+ ( s )  - malate from isocitrate: step 1 / 2
+ ( s )  - malate from isocitrate: step 2 / 2
+oxaloacetate from  ( s )  - malate: step 1 / 1
+phenylacetate from l - phenylalanine: step 1 / 3
+phenylacetate from l - phenylalanine: step 2 / 3
+phenylacetate from l - phenylalanine: step 3 / 3
+trans - cinnamate from l - phenylalanine: step 1 / 1
+kynurenate from l - kynurenine: step 1 / 2
+kynurenate from l - kynurenine: step 2 / 2
+3 , 4 - dihydroxybenzoate from phthalate: step 1 / 3
+3 , 4 - dihydroxybenzoate from phthalate: step 2 / 3
+3 , 4 - dihydroxybenzoate from phthalate: step 3 / 3
+1 , 3 - diaminopropane from l - aspartate 4 - semialdehyde: step 1 / 2
+1 , 3 - diaminopropane from l - aspartate 4 - semialdehyde: step 2 / 2
+dopamine from l - tyrosine: step 1 / 2
+dopamine from l - tyrosine: step 2 / 2
+ ( r )  - noradrenaline from dopamine: step 1 / 1
+ ( r )  - adrenaline from  ( r )  - noradrenaline: step 1 / 1
+phosphocholine from choline: step 1 / 1
+phosphocholine from phosphoethanolamine: step 1 / 1
+phosphatidylcholine from phosphocholine: step 1 / 2
+phosphatidylcholine from phosphocholine: step 2 / 2
+phosphatidylethanolamine from ethanolamine: step 1 / 3
+phosphatidylethanolamine from ethanolamine: step 2 / 3
+phosphatidylethanolamine from ethanolamine: step 3 / 3
+dhurrin from l - tyrosine: step 1 / 3
+dhurrin from l - tyrosine: step 2 / 3
+dhurrin from l - tyrosine: step 3 / 3
+amp from 3' , 5' - cyclic amp: step 1 / 1
+gmp from 3' , 5' - cyclic gmp: step 1 / 1
+5 - valerolactone from cyclopentanol: step 1 / 2
+5 - valerolactone from cyclopentanol: step 2 / 2
+lanosterol from farnesyl diphosphate: step 1 / 3
+lanosterol from farnesyl diphosphate: step 2 / 3
+lanosterol from farnesyl diphosphate: step 3 / 3
+zymosterol from lanosterol: step 1 / 6
+zymosterol from lanosterol: step 2 / 6
+zymosterol from lanosterol: step 3 / 6
+zymosterol from lanosterol: step 4 / 6
+zymosterol from lanosterol: step 5 / 6
+zymosterol from lanosterol: step 6 / 6
+ergosterol from zymosterol: step 1 / 5
+ergosterol from zymosterol: step 2 / 5
+ergosterol from zymosterol: step 3 / 5
+ergosterol from zymosterol: step 4 / 5
+ergosterol from zymosterol: step 5 / 5
+dehydro - d - arabinono - 1 , 4 - lactone from d - arabinose: step 1 / 2
+dehydro - d - arabinono - 1 , 4 - lactone from d - arabinose: step 2 / 2
+acetate from ethanol: step 1 / 2
+acetate from ethanol: step 2 / 2
+d - glucose 6 - phosphate and lysine from fructoselysine: step 1 / 2
+d - glucose 6 - phosphate and lysine from fructoselysine: step 2 / 2
+udp - alpha - d - xylose from udp - alpha - d - glucuronate: step 1 / 1
+udp - l - arabinose from udp - alpha - d - xylose: step 1 / 1
+all - trans - phytoene from geranylgeranyl diphosphate: step 1 / 1
+capsanthin from antheraxanthin: step 1 / 1
+capsorubin from violaxanthin: step 1 / 1
+2 - hydroxy - 2 , 4 - pentadienoate and salicylate from dibenzofuran: step 1 / 3
+2 - hydroxy - 2 , 4 - pentadienoate and salicylate from dibenzofuran: step 2 / 3
+2 - hydroxy - 2 , 4 - pentadienoate and salicylate from dibenzofuran: step 3 / 3
+2 - hydroxymuconate and catechol from dibenzo - p - dioxin: step 1 / 3
+2 - hydroxymuconate and catechol from dibenzo - p - dioxin: step 2 / 3
+2 - hydroxymuconate and catechol from dibenzo - p - dioxin: step 3 / 3
+d - sorbitol 6 - phosphate from d - sorbitol: step 1 / 1
+d - fructose 6 - phosphate from d - sorbitol 6 - phosphate: step 1 / 1
+d - sorbitol from d - fructose and d - glucose: step 1 / 1
+d - gluconate from d - glucono - 1 , 5 - lactone: step 1 / 1
+histamine from l - histidine: step 1 / 1
+myo - inositol from d - glucose 6 - phosphate: step 1 / 2
+myo - inositol from d - glucose 6 - phosphate: step 2 / 2
+trans - 4 - coumarate from trans - cinnamate: step 1 / 1
+nicotinate from nicotinamide: step 1 / 1
+3 -  ( 2 , 3 - dihydroxyphenyl ) propanoate from 3 -  ( 3 - hydroxyphenyl ) propanoate: step 1 / 1
+3 -  ( 2 , 3 - dihydroxyphenyl ) propanoate from 3 - phenylpropanoate: step 1 / 2
+3 -  ( 2 , 3 - dihydroxyphenyl ) propanoate from 3 - phenylpropanoate: step 2 / 2
+acetaldehyde and pyruvate from 3 -  ( 2 , 3 - dihydroxyphenyl ) propanoate: step 1 / 4
+acetaldehyde and pyruvate from 3 -  ( 2 , 3 - dihydroxyphenyl ) propanoate: step 2 / 4
+acetaldehyde and pyruvate from 3 -  ( 2 , 3 - dihydroxyphenyl ) propanoate: step 3 / 4
+acetaldehyde and pyruvate from 3 -  ( 2 , 3 - dihydroxyphenyl ) propanoate: step 4 / 4
+acetyl - coa from acetaldehyde: step 1 / 1
+serotonin from l - tryptophan: step 1 / 2
+2 - hydroxy - 3 - oxosuccinate from l - tartrate: step 1 / 1
+2 - hydroxy - 3 - oxosuccinate from meso - tartrate: step 1 / 1
+d - glycerate from 2 - hydroxy - 3 - oxosuccinate: step 1 / 1
+d - glycerate from l - tartrate: step 1 / 1
+3 - hydroxypyruvate from d - glycerate: step 1 / 1
+4 - amino - 5 - hydroxymethyl - 2 - methylpyrimidine and 5 -  ( 2 - hydroxyethyl )  - 4 - methylthiazole from thiamine: step 1 / 1
+taxa - 4 ( 20 )  , 11 - dien - 5alpha - ol from geranylgeranyl diphosphate: step 1 / 2
+taxa - 4 ( 20 )  , 11 - dien - 5alpha - ol from geranylgeranyl diphosphate: step 2 / 2
+10 - deacetyl - 2 - debenzoylbaccatin iii from taxa - 4 ( 20 )  , 11 - dien - 5alpha - ol: step 1 / 3
+10 - deacetyl - 2 - debenzoylbaccatin iii from taxa - 4 ( 20 )  , 11 - dien - 5alpha - ol: step 2 / 3
+baccatin iii from 10 - deacetyl - 2 - debenzoylbaccatin iii: step 1 / 2
+baccatin iii from 10 - deacetyl - 2 - debenzoylbaccatin iii: step 2 / 2
+taxol from baccatin iii: step 1 / 3
+taxol from baccatin iii: step 2 / 3
+serotonin from l - tryptophan: step 2 / 2
+melatonin from serotonin: step 1 / 2
+melatonin from serotonin: step 2 / 2
+10 - deacetyl - 2 - debenzoylbaccatin iii from taxa - 4 ( 20 )  , 11 - dien - 5alpha - ol: step 3 / 3
+7 , 8 - dihydrofolate from folate: step 1 / 1
+tetrahydrobiopterin from 7 , 8 - dihydroneopterin triphosphate: step 1 / 3
+tetrahydrobiopterin from 7 , 8 - dihydroneopterin triphosphate: step 2 / 3
+tetrahydrobiopterin from 7 , 8 - dihydroneopterin triphosphate: step 3 / 3
+tetrahydrobiopterin from biopterin: step 1 / 1
+2 - dehydro - 3 - deoxy - d - gluconate from pectin: step 1 / 5
+2 - dehydro - 3 - deoxy - d - gluconate from pectin: step 2 / 5
+2 - dehydro - 3 - deoxy - d - gluconate from pectin: step 3 / 5
+2 - dehydro - 3 - deoxy - d - gluconate from pectin: step 4 / 5
+2 - dehydro - 3 - deoxy - d - gluconate from pectin: step 5 / 5
+d - glyceraldehyde 3 - phosphate and pyruvate from 2 - dehydro - 3 - deoxy - d - gluconate: step 1 / 2
+d - glyceraldehyde 3 - phosphate and pyruvate from 2 - dehydro - 3 - deoxy - d - gluconate: step 2 / 2
+3 - phospho - d - glycerate from glycolate: step 1 / 4
+3 - phospho - d - glycerate from glycolate: step 2 / 4
+3 - phospho - d - glycerate from glycolate: step 3 / 4
+3 - phospho - d - glycerate from glycolate: step 4 / 4
+glycolate from 2 - phosphoglycolate: step 1 / 1
+glutaryl - coa from l - lysine: step 1 / 6
+glutaryl - coa from l - lysine: step 2 / 6
+glutaryl - coa from l - lysine: step 3 / 6
+glutaryl - coa from l - lysine: step 4 / 6
+glutaryl - coa from l - lysine: step 5 / 6
+glutaryl - coa from l - lysine: step 6 / 6
+glutarate from l - lysine: step 1 / 6
+glutarate from l - lysine: step 2 / 6
+glutarate from l - lysine: step 3 / 6
+glutarate from l - lysine: step 4 / 6
+glutarate from l - lysine: step 5 / 6
+glutarate from l - lysine: step 6 / 6
+2 , 4 - dihydroxy - 1 , 4 - benzoxazin - 3 - one from indoleglycerol phosphate: step 1 / 5
+2 , 4 - dihydroxy - 1 , 4 - benzoxazin - 3 - one from indoleglycerol phosphate: step 2 / 5
+2 , 4 - dihydroxy - 1 , 4 - benzoxazin - 3 - one from indoleglycerol phosphate: step 3 / 5
+2 , 4 - dihydroxy - 1 , 4 - benzoxazin - 3 - one from indoleglycerol phosphate: step 4 / 5
+2 , 4 - dihydroxy - 1 , 4 - benzoxazin - 3 - one from indoleglycerol phosphate: step 5 / 5
+benzoate from  ( r )  - mandelate: step 1 / 4
+benzoate from  ( r )  - mandelate: step 2 / 4
+benzoate from  ( r )  - mandelate: step 3 / 4
+benzoate from  ( r )  - mandelate: step 4 / 4
+tetrahydrobiopterin from dihydrobiopterin: step 1 / 1
+4 - methyl - 2 - oxopentanoate from l - leucine  ( aminotransferase route ) : step 1 / 1
+4 - methyl - 2 - oxopentanoate from l - leucine  ( dehydrogenase route ) : step 1 / 1
+3 - isovaleryl - coa from 4 - methyl - 2 - oxopentanoate: step 1 / 1
+ ( s )  - 3 - hydroxy - 3 - methylglutaryl - coa from 3 - isovaleryl - coa: step 1 / 3
+ ( s )  - 3 - hydroxy - 3 - methylglutaryl - coa from 3 - isovaleryl - coa: step 2 / 3
+ ( s )  - 3 - hydroxy - 3 - methylglutaryl - coa from 3 - isovaleryl - coa: step 3 / 3
+acetoacetate from  ( s )  - 3 - hydroxy - 3 - methylglutaryl - coa: step 1 / 1
+ ( 1s , 4r )  - 1 - hydroxylimonen - 2 - one from  ( 4r )  - limonene: step 1 / 3
+ ( 1s , 4r )  - 1 - hydroxylimonen - 2 - one from  ( 4r )  - limonene: step 2 / 3
+ ( 1s , 4r )  - 1 - hydroxylimonen - 2 - one from  ( 4r )  - limonene: step 3 / 3
+ ( 1r , 4s )  - isodihydrocarvone from  ( 4r )  - limonene: step 1 / 3
+ ( 1r , 4s )  - isodihydrocarvone from  ( 4r )  - limonene: step 2 / 3
+ ( 1r , 4s )  - isodihydrocarvone from  ( 4r )  - limonene: step 3 / 3
+formaldehyde from methylamine: step 1 / 1
+s - methyl - 5 - thio - alpha - d - ribose 1 - phosphate from s - methyl - 5' - thioadenosine  ( hydrolase route ) : step 1 / 2
+s - methyl - 5 - thio - alpha - d - ribose 1 - phosphate from s - methyl - 5' - thioadenosine  ( hydrolase route ) : step 2 / 2
+s - methyl - 5 - thio - alpha - d - ribose 1 - phosphate from s - methyl - 5' - thioadenosine  ( phosphorylase route ) : step 1 / 1
+l - methionine from s - methyl - 5 - thio - alpha - d - ribose 1 - phosphate: step 1 / 6
+l - methionine from s - methyl - 5 - thio - alpha - d - ribose 1 - phosphate: step 2 / 6
+l - methionine from s - methyl - 5 - thio - alpha - d - ribose 1 - phosphate: step 3 / 6
+l - methionine from s - methyl - 5 - thio - alpha - d - ribose 1 - phosphate: step 4 / 6
+l - methionine from s - methyl - 5 - thio - alpha - d - ribose 1 - phosphate: step 5 / 6
+l - methionine from s - methyl - 5 - thio - alpha - d - ribose 1 - phosphate: step 6 / 6
+4 - aminobutanoate from putrescine: step 1 / 4
+4 - aminobutanoate from putrescine: step 2 / 4
+4 - aminobutanoate from putrescine: step 3 / 4
+4 - aminobutanoate from putrescine: step 4 / 4
+ppgpp from gtp: step 1 / 2
+ppgpp from gtp: step 2 / 2
+ppgpp from gdp: step 1 / 1
+gmp from guanine: step 1 / 1
+d - ribose 5 - phosphate from beta - d - ribopyranose: step 1 / 2
+d - ribose 5 - phosphate from beta - d - ribopyranose: step 2 / 2
+nicotinamide d - ribonucleotide from 5 - phospho - alpha - d - ribose 1 - diphosphate and nicotinamide: step 1 / 1
+formate from pyruvate: step 1 / 1
+stachyose from raffinose: step 1 / 1
+formaldehyde from methanol: step 1 / 1
+acetoacetyl - coa from succinyl - coa: step 1 / 1
+l - seryl - trna ( sec )  from l - serine and trna ( sec ) : step 1 / 1
+selenocysteinyl - trna ( sec )  from l - seryl - trna ( sec )   ( bacterial route ) : step 1 / 1
+selenocysteinyl - trna ( sec )  from l - seryl - trna ( sec )   ( archaeal / eukaryal route ) : step 1 / 2
+selenocysteinyl - trna ( sec )  from l - seryl - trna ( sec )   ( archaeal / eukaryal route ) : step 2 / 2
+5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxamide from 5 -  [  ( 5 - phospho - 1 - deoxyribulos - 1 - ylamino ) methylideneamino ]  - 1 -  ( 5 - phosphoribosyl ) imidazole - 4 - carboxamide: step 1 / 1
+1 , 4 - dihydroxy - 2 - naphthoate from chorismate: step 3 / 7
+acetaldehyde and pyruvate from p - cumate: step 1 / 7
+acetaldehyde and pyruvate from p - cumate: step 2 / 7
+acetaldehyde and pyruvate from p - cumate: step 3 / 7
+acetaldehyde and pyruvate from p - cumate: step 4 / 7
+acetaldehyde and pyruvate from p - cumate: step 5 / 7
+acetaldehyde and pyruvate from p - cumate: step 6 / 7
+acetaldehyde and pyruvate from p - cumate: step 7 / 7
+succinyl - coa from propanoyl - coa: step 1 / 3
+succinyl - coa from propanoyl - coa: step 2 / 3
+succinyl - coa from propanoyl - coa: step 3 / 3
+glycine from 2 - phosphoglycolate: step 1 / 3
+glycine from 2 - phosphoglycolate: step 2 / 3
+glycine from 2 - phosphoglycolate: step 3 / 3
+3 - phospho - d - glycerate from glycine: step 1 / 4
+3 - phospho - d - glycerate from glycine: step 2 / 4
+3 - phospho - d - glycerate from glycine: step 3 / 4
+3 - phospho - d - glycerate from glycine: step 4 / 4
+6 - hydroxypseudooxynicotine from nicotine  ( r - isomer route ) : step 1 / 2
+6 - hydroxypseudooxynicotine from nicotine  ( s - isomer route ) : step 2 / 2
+acetyl - coa from myo - inositol: step 4 / 7
+2 - deoxystreptamine from d - glucose 6 - phosphate: step 1 / 4
+2 - deoxystreptamine from d - glucose 6 - phosphate: step 2 / 4
+2 - deoxystreptamine from d - glucose 6 - phosphate: step 3 / 4
+2 - deoxystreptamine from d - glucose 6 - phosphate: step 4 / 4
+ ( 4s )  - limonene from geranyl diphosphate: step 1 / 1
+ ( 4r )  - limonene from geranyl diphosphate: step 1 / 1
+ (  -  )  - alpha - pinene from geranyl diphosphate: step 1 / 1
+ (  -  )  - beta - pinene from geranyl diphosphate: step 1 / 1
+fmn from riboflavin  ( ctp route ) : step 1 / 1
+gdp - alpha - d - mannose from alpha - d - mannose 1 - phosphate  ( gtp route ) : step 1 / 1
+l - ascorbate from gdp - alpha - d - mannose: step 1 / 5
+l - ascorbate from gdp - alpha - d - mannose: step 2 / 5
+l - ascorbate from gdp - alpha - d - mannose: step 3 / 5
+l - ascorbate from gdp - alpha - d - mannose: step 4 / 5
+l - ascorbate from gdp - alpha - d - mannose: step 5 / 5
+l - ascorbate from udp - alpha - d - glucuronate: step 1 / 4
+l - ascorbate from udp - alpha - d - glucuronate: step 2 / 4
+l - ascorbate from udp - alpha - d - glucuronate: step 3 / 4
+l - ascorbate from udp - alpha - d - glucuronate: step 4 / 4
+phosphatidylcholine from choline: step 1 / 1
+putrescine from n - carbamoylputrescine  ( transferase route ) : step 1 / 1
+5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxylate from 5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole  ( n5 - cair route ) : step 1 / 2
+5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole - 4 - carboxylate from 5 - amino - 1 -  ( 5 - phospho - d - ribosyl ) imidazole  ( n5 - cair route ) : step 2 / 2
+7 , 8 - diaminononanoate from 8 - amino - 7 - oxononanoate  ( lys route ) : step 1 / 1
+orotate from  ( s )  - dihydroorotate  ( nad (  +  )  route ) : step 1 / 1
+orotate from  ( s )  - dihydroorotate  ( quinone route ) : step 1 / 1
+none
+l - tyrosine from l - arogenate  ( nad (  +  )  route ) : step 1 / 1
+l - tyrosine from l - arogenate  ( nadp (  +  )  route ) : step 1 / 1
+ ( 4 - hydroxyphenyl ) pyruvate from prephenate  ( nad (  +  )  route ) : step 1 / 1
+ ( 4 - hydroxyphenyl ) pyruvate from prephenate  ( nadp (  +  )  route ) : step 1 / 1
+2 - oxoglutarate from isocitrate  ( nadp (  +  )  route ) : step 1 / 1
+2 - oxoglutarate from isocitrate  ( nad (  +  )  route ) : step 1 / 1
+succinyl - coa from 2 - oxoglutarate  ( dehydrogenase route ) : step 1 / 1
+succinyl - coa from 2 - oxoglutarate  ( synthase route ) : step 1 / 1
+succinate from succinyl - coa  ( ligase route ) : step 1 / 1
+succinate from succinyl - coa  ( transferase route ) : step 1 / 1
+succinate from 2 - oxoglutarate  ( transferase route ) : step 1 / 2
+succinate from 2 - oxoglutarate  ( transferase route ) : step 2 / 2
+fumarate from succinate  ( bacterial route ) : step 1 / 1
+fumarate from succinate  ( eukaryal route ) : step 1 / 1
+ ( s )  - malate from fumarate: step 1 / 1
+oxaloacetate from  ( s )  - malate  ( quinone route ) : step 1 / 1
+beta - d - fructofuranosyl alpha - d - mannopyranoside from d - fructose 6 - phosphate and gdp - alpha - d - mannose: step 1 / 2
+beta - d - fructofuranosyl alpha - d - mannopyranoside from d - fructose 6 - phosphate and gdp - alpha - d - mannose: step 2 / 2
+6 - hydroxynicotinate from nicotinate: step 1 / 1
+propanoate and pyruvate from 6 - hydroxynicotinate: step 1 / 8
+propanoate and pyruvate from 6 - hydroxynicotinate: step 2 / 8
+propanoate and pyruvate from 6 - hydroxynicotinate: step 3 / 8
+propanoate and pyruvate from 6 - hydroxynicotinate: step 4 / 8
+propanoate and pyruvate from 6 - hydroxynicotinate: step 5 / 8
+propanoate and pyruvate from 6 - hydroxynicotinate: step 6 / 8
+propanoate and pyruvate from 6 - hydroxynicotinate: step 7 / 8
+propanoate and pyruvate from 6 - hydroxynicotinate: step 8 / 8
+4 - hydroxybenzoate from 4 - chlorobenzoate: step 1 / 3
+4 - hydroxybenzoate from 4 - chlorobenzoate: step 2 / 3
+4 - hydroxybenzoate from 4 - chlorobenzoate: step 3 / 3
+glycine from l - serine: step 1 / 1
+l - aspartate from oxaloacetate: step 1 / 1
+l - glutamine from l - glutamate: step 1 / 1
+catechol from anthranilate: step 1 / 1
+l - alpha - aminoadipate from 2 - oxoglutarate: step 3 / 5
+15 - cis - phytoene from geranylgeranyl diphosphate: step 1 / 1
+1 , 4 - dihydroxy - 2 - naphthoate from chorismate: step 7 / 7
+linear sub - pathway
+biological process
+2 - deoxy - d - ribose 1 - phosphate degradation
+uridine metabolism
+thymidine metabolism
+1 , 3 - dichloropropene degradation
+1 , 2 - dibromoethane degradation
+haloalkane degradation
+atrazine degradation
+anthocyanin biosynthesis
+1 , 3 - diaminopropane biosynthesis
+mycobactin biosynthesis
+taurine biosynthesis
+bacillibactin biosynthesis
+aerobactin biosynthesis
+amonabactin biosynthesis
+anguibactin biosynthesis
+enterobactin biosynthesis
+ornibactin biosynthesis
+pyoverdin biosynthesis
+rhizobactin biosynthesis
+vulnibactin biosynthesis
+vibriobactin biosynthesis
+alcaligin biosynthesis
+pseudomonine biosynthesis
+salicylate biosynthesis
+metabolism
+xenobiotic metabolism
+ ( r )  - pantothenate biosynthesis
+staphyloxanthin biosynthesis
+lipopolysaccharide biosynthesis
+l - histidine biosynthesis
+udp - 4 - deoxy - 4 - formamido - beta - l - arabinose biosynthesis
+l - lysine biosynthesis via aaa pathway
+l - lysine biosynthesis via dap pathway
+l - tryptophan biosynthesis
+4 - amino - 4 - deoxy - alpha - l - arabinose undecaprenyl phosphate biosynthesis
+4 - amino - 4 - deoxy - beta - l - arabinose - lipid a biosynthesis
+udp - alpha - d - glucuronate biosynthesis
+acetoin biosynthesis
+acetoin degradation
+d - glycero - d - manno - heptose 7 - phosphate biosynthesis
+d - alanine biosynthesis
+d - alanine degradation
+l - threonine degradation via aldolase pathway
+nitrogen metabolism
+l - threonine degradation via oxydo - reductase pathway
+l - isoleucine biosynthesis
+l - leucine biosynthesis
+l - valine biosynthesis
+l - threonine biosynthesis
+l - methionine biosynthesis via de novo pathway
+l - threonine degradation via propanoate pathway
+chorismate biosynthesis
+daunorubicin biosynthesis
+cdp - 3 , 6 - dideoxy - d - mannose biosynthesis
+isopentenyl diphosphate biosynthesis via dxp pathway
+isopentenyl diphosphate biosynthesis via mevalonate pathway
+ ( r )  - mevalonate biosynthesis
+dimethylallyl diphosphate biosynthesis
+thiamine diphosphate biosynthesis
+alpha - ribazole biosynthesis
+steroid biosynthesis
+cholesterol biosynthesis
+1 - deoxy - d - xylulose 5 - phosphate biosynthesis
+5 , 6 , 7 , 8 - tetrahydromethanopterin biosynthesis
+streptomycin biosynthesis
+ectoine biosynthesis
+l - arginine biosynthesis
+5 , 6 , 7 , 8 - tetrahydrosarcinapterin biosynthesis
+ump biosynthesis via de novo pathway
+coenzyme f420 biosynthesis
+coenzyme f0 biosynthesis
+l - arginine degradation
+imp biosynthesis via de novo pathway
+amp biosynthesis via de novo pathway
+myo - inositol degradation into acetyl - coa
+tetrahydrofolate biosynthesis
+biotin biosynthesis
+menaquinone biosynthesis
+methanofuran biosynthesis
+d - galactonate degradation
+naphthalene degradation
+3 - chlorocatechol degradation
+phosphatidylglycerol biosynthesis
+phospholipid metabolism
+alpha - glycerophosphate cycle
+5 - phospho - alpha - d - ribose 1 - diphosphate biosynthesis
+3 , 4 - dihydroxybenzoate biosynthesis
+deoxyribonucleotide biosynthesis
+abscisate biosynthesis
+photosynthesis
+electron transfer
+abscisic acid degradation
+fatty acid biosynthesis
+oleic acid biosynthesis
+sulfur metabolism
+sulfate assimilation
+l - proline biosynthesis
+phenazine biosynthesis
+bacilysin biosynthesis
+candicidin biosynthesis
+gramicidin s biosynthesis
+l - sorbose degradation
+creatine biosynthesis
+xenobiotic degradation
+nicotine degradation
+nicotine biosynthesis
+glycolysis
+cocaine degradation
+myo - inositol degradation into d - glucuronate
+clavulanate biosynthesis
+udp - n - acetyl - alpha - d - glucosamine biosynthesis
+xylan degradation
+pentose phosphate pathway
+calvin cycle
+carnitine metabolism
+carnitine biosynthesis
+xanthosine degradation
+prephenate biosynthesis
+l - phenylalanine biosynthesis
+l - tyrosine biosynthesis
+biopolymer modification
+dtdp - l - rhamnose biosynthesis
+l - rhamnose metabolism
+gdp - alpha - d - mannose biosynthesis
+anthracycline biosynthesis
+gdp - l - fucose biosynthesis via de novo pathway
+gdp - l - fucose biosynthesis via salvage pathway
+2 -  ( alpha - d - mannosyl )  - d - glycerate biosynthesis
+beta - alanine biosynthesis
+l - ascorbate biosynthesis
+l - alanine biosynthesis
+l - asparagine biosynthesis
+l - serine biosynthesis
+l - cysteine biosynthesis
+monoterpene degradation
+gluconeogenesis
+l - phenylalanine degradation
+hydrogen sulfide biosynthesis
+l - arabinose degradation via l - arabinono - 1 , 4 - lactone pathway
+glutathione biosynthesis
+protein ubiquitination
+proteasomal ubiquitin - dependent pathway
+l - arabinose degradation via l - ribulose
+l - arabinose degradation via l - arabinitol
+methane degradation
+adenosylcobalamin biosynthesis
+penicillin g biosynthesis
+maltose degradation
+auxin biosynthesis
+starch biosynthesis
+starch degradation
+flavonoid biosynthesis
+biphenyl degradation
+benzoate degradation via hydroxylation
+beta - ketoadipate pathway
+urea cycle
+ctp biosynthesis via de novo pathway
+tocopherol biosynthesis
+lincomycin biosynthesis
+vancomycin biosynthesis
+glycogen metabolism
+glycogen biosynthesis
+glycogen degradation
+mersacidin biosynthesis
+heptaketide naphthopyrone ywa1 biosynthesis
+phosphinothricin biosynthesis
+beta - lactam biosynthesis
+trisporate biosynthesis
+pentalenene biosynthesis
+cephalosporin c biosynthesis
+actinorhodin biosynthesis
+tetracenomycin c biosynthesis
+granaticin biosynthesis
+curamycin biosynthesis
+aristolochene biosynthesis
+monensin biosynthesis
+bacitracin biosynthesis
+tyrocidine biosynthesis
+surfactin biosynthesis
+carbapenem biosynthesis
+cephamycin c biosynthesis
+fortimicin biosynthesis
+l - arginine degradation via ast pathway
+agmatine biosynthesis
+putrescine biosynthesis
+putrescine degradation
+gmp biosynthesis
+b6 vitamer interconversion
+alkane degradation
+b6 vitamer degradation
+tetrahydrofolate interconversion
+thyroid hormone biosynthesis
+epi - isozizaene biosynthesis
+glycosylphosphatidylinositol - anchor biosynthesis
+bialaphos biosynthesis
+dna modification
+fatty acid metabolism
+stilbene ,  coumarine and lignin biosynthesis
+l - glutamate metabolism
+fructose metabolism
+methylnaphthalene degradation
+glutathione metabolism
+propanoate metabolism
+ethanol fermentation
+nylon - 6 oligomer degradation
+4 - hydroxyphenylacetate degradation
+geosmin biosynthesis
+purine nucleotide metabolism
+spermine degradation
+polyhydroxyalkanoate biosynthesis
+terpenoid biosynthesis
+galactose metabolism
+nucleotide - sugar metabolism
+amino - sugar metabolism
+vanillyl - alcohol degradation
+l - methionine metabolism
+peptidoglycan biosynthesis
+phosphatidylinositol phosphate biosynthesis
+bile acid biosynthesis
+sphingolipid metabolism
+tricarboxylic acid cycle
+tryptophan metabolism
+lysine degradation
+entner - doudoroff pathway
+glyoxylate and dicarboxylate metabolism
+xylene degradation
+c21 - steroid hormone metabolism
+glycerolipid metabolism
+pyruvate metabolism
+ubiquinone biosynthesis
+benzoate degradation via coa ligation
+enniatin biosynthesis
+pyocyanine biosynthesis
+2 , 4 - dichlorobenzoate degradation
+beta - glucoside metabolism
+sucrose metabolism
+quinoline degradation
+erythromycin biosynthesis
+coenzyme a biosynthesis
+hexose metabolism
+pyridoxine 5' - phosphate biosynthesis
+pyridoxal 5' - phosphate biosynthesis
+pentose and glucuronate interconversion
+4 - aminobutanoate biosynthesis
+spermidine biosynthesis
+spermine biosynthesis
+spermidine degradation
+protoporphyrin - ix biosynthesis
+protoheme biosynthesis
+nad (  +  )  biosynthesis
+l - arginine degradation via adi pathway
+stachydrine degradation
+triacylglycerol degradation
+ ( r )  - mevalonate degradation
+urea degradation
+geranyl diphosphate biosynthesis
+farnesyl diphosphate biosynthesis
+l - proline degradation into l - glutamate
+siroheme biosynthesis
+l - ascorbate degradation
+betaine biosynthesis
+1 , 2 - dichloroethane degradation
+iron - sulfur cluster biosynthesis
+trichothecene biosynthesis
+bluish - green pigment biosynthesis
+heme a biosynthesis
+quinolate metabolism
+ommochrome biosynthesis
+benzene degradation
+toluene degradation
+creatinine degradation
+riboflavin biosynthesis
+fmn biosynthesis
+fad biosynthesis
+betalain biosynthesis
+bile acid degradation
+n - glycan degradation
+lps o - antigen biosynthesis
+triacylglycerol biosynthesis
+germacradienol biosynthesis
+los oligosaccharide biosynthesis
+germacrene d biosynthesis
+alginate biosynthesis
+aflatoxin biosynthesis
+glycine biosynthesis
+amine and polyamine biosynthesis
+choline biosynthesis
+betaine degradation
+sarcosine degradation
+d - ribose 5 - phosphate biosynthesis
+formaldehyde assimilation via rump pathway
+antibiotic biosynthesis
+cholesterol metabolism
+dicyanocobinamide salvage pathway
+siderophore metabolism
+trehalose biosynthesis
+trehalose degradation
+lps oligosaccharide biosynthesis
+siderophore biosynthesis
+atropine degradation
+nucleotide - sugar biosynthesis
+alkene biosynthesis
+ ( s )  - reticuline biosynthesis
+palmatine biosynthesis
+berbamunine biosynthesis
+violacein biosynthesis
+ajmaline biosynthesis
+3alpha ( s )  - strictosidine biosynthesis
+nucleotide salvage pathway
+pyrimidine nucleotide metabolism
+l - homocysteine biosynthesis
+s - adenosyl - l - methionine biosynthesis
+biopolymer metabolism
+morphine degradation
+codeine degradation
+ ( s )  - scoulerine biosynthesis
+biopolymer biosynthesis
+c3 acid pathway
+c4 acid pathway
+cam pathway
+bacterial outer membrane biogenesis
+hydrocarbon metabolism
+dna replication
+ergot alkaloid biosynthesis
+secologanin biosynthesis
+pyrrolizidine alkaloid biosynthesis
+tropane alkaloid biosynthesis
+s - adenosylmethioninamine biosynthesis
+l - tryptophan degradation via pyruvate pathway
+l - tryptophan degradation via kynurenine pathway
+l - kynurenine degradation
+ [ nife ]  hydrogenase maturation
+taurine degradation via aerobic pathway
+hopanoid biosynthesis
+alkanesulfonate degradation
+mannose metabolism
+acetyl - coa biosynthesis
+hyaluronan biosynthesis
+n - acetylmuramate degradation
+1 , 6 - anhydro - n - acetylmuramate degradation
+molybdopterin biosynthesis
+polypeptide chain elongation
+dibenzothiophene degradation
+hydrocarbon biosynthesis
+2 -  ( 2 , 4 - dichlorophenoxy ) propanoate degradation
+chitin degradation
+beta - d - glucan degradation
+l - glutamate degradation
+hydrocarbon degradation
+carbohydrate sulfation
+eif5a hypusination
+coenzyme m biosynthesis
+adp - l - glycero - beta - d - manno - heptose biosynthesis
+3 - deoxy - d - manno - octulosonate biosynthesis
+cmp - 3 - deoxy - d - manno - octulosonate biosynthesis
+lipid iv ( a )  biosynthesis
+kdo ( 2 )  - lipid a biosynthesis
+d - allose degradation
+l - valine degradation
+l - leucine degradation
+l - isoleucine degradation
+vindoline biosynthesis
+thiocyanate degradation
+testosterone biosynthesis
+ethylene biosynthesis
+tabtoxinine - beta - lactam biosynthesis
+sulfite reduction
+sucrose biosynthesis
+3 , 4' , 5 - trihydroxystilbene biosynthesis
+pinosylvin biosynthesis
+hydropinosylvin biosynthesis
+wybutosine - trna ( phe )  biosynthesis
+auxin conjugation
+sterigmatocystin biosynthesis
+protein glycosylation
+l - histidine degradation into l - glutamate
+d - arabinitol metabolism
+brassinosteroid biosynthesis
+oxylipin biosynthesis
+arachidonate metabolism
+ethylene biosynthesis via s - adenosyl - l - methionine
+ethylene biosynthesis via 2 - oxoglutarate
+carotenoid biosynthesis
+astaxanthin biosynthesis
+neoxanthin biosynthesis
+geranylgeranyl diphosphate biosynthesis
+gibberellin biosynthesis
+7 - cyano - 7 - deazaguanine biosynthesis
+trna - queuosine biosynthesis
+archaeosine - trna biosynthesis
+urate degradation
+ ( s )  - allantoin degradation
+aminophosphonate metabolism
+aminophosphonate biosynthesis
+cofactor metabolism
+cofactor biosynthesis
+purine base metabolism
+amino - acid metabolism
+amino - acid biosynthesis
+proteinogenic amino - acid biosynthesis
+l - lysine biosynthesis
+myo - inositol degradation
+nonprotein amino - acid biosynthesis
+ureide metabolism
+ketone metabolism
+ketone biosynthesis
+ketone degradation
+carbohydrate metabolism
+carbohydrate biosynthesis
+carbohydrate degradation
+alkaloid metabolism
+metabolic intermediate biosynthesis
+isoprenoid biosynthesis
+isopentenyl diphosphate biosynthesis
+carotene biosynthesis
+xantophyll biosynthesis
+lipid biosynthesis
+phytoalexin biosynthesis
+stilbenoid biosynthesis
+terpene metabolism
+nucleotide biosynthesis
+nucleoside biosynthesis
+energy metabolism
+amino - acid degradation
+lipid degradation
+l - arginine metabolism
+fatty acid degradation
+branched - chain amino - acid degradation
+plant chemical defense
+aromatic compound metabolism
+hormone metabolism
+hormone biosynthesis
+lipid metabolism
+plant hormone metabolism
+plant hormone biosynthesis
+plant hormone degradation
+steroid hormone biosynthesis
+glycan metabolism
+glycan degradation
+trehalose metabolism
+glucan metabolism
+one - carbon metabolism
+alkaloid biosynthesis
+alkaloid degradation
+terpene biosynthesis
+sesquiterpene biosynthesis
+activated methyl cycle
+lipopolysaccharide metabolism
+lipopolysaccharide degradation
+gdp - l - fucose biosynthesis
+oligopeptide biosynthesis
+amine and polyamine metabolism
+amine and polyamine degradation
+putrescine metabolism
+protein biosynthesis
+pheromone biosynthesis
+protein modification
+post - translational protein modification
+small protein conjugation
+l - arabinose degradation
+secondary metabolite biosynthesis
+secondary metabolite metabolism
+biopolymer degradation
+protein metabolism
+protein degradation
+lincosamide biosynthesis
+lantibiotic biosynthesis
+lantibiotic a biosynthesis
+lantibiotic b biosynthesis
+polyketide biosynthesis
+penicillin biosynthesis
+cephalosporin biosynthesis
+toxin biosynthesis
+phytotoxin biosynthesis
+mycotoxin biosynthesis
+antifungal biosynthesis
+rna modification
+trna modification
+trna post - transcriptional modification
+cofactor degradation
+glycan biosynthesis
+genetic information processing
+nucleotide metabolism
+polyester biosynthesis
+purine nucleotide biosynthesis
+alanine metabolism
+histidine metabolism
+alanine degradation
+l - histidine degradation
+l - threonine degradation
+glycerolipid degradation
+glycerolipid biosynthesis
+metabolic intermediate metabolism
+ ( r )  - mevalonate metabolism
+metabolic intermediate degradation
+pigment biosynthesis
+lipooligosaccharide metabolism
+lipooligosaccharide biosynthesis
+alginate metabolism
+choline metabolism
+steroid metabolism
+glycolipid metabolism
+glycolipid biosynthesis
+tropane alkaloid metabolism
+tropane alkaloid degradation
+isoquinoline alkaloid metabolism
+isoquinoline alkaloid biosynthesis
+terpenoid indole alkaloid metabolism
+terpenoid indole alkaloid biosynthesis
+pyrimidine nucleotide biosynthesis
+isoquinoline alkaloid degradation
+carbon fixation
+protein maturation
+hydrogenase maturation
+hopanoid metabolism
+hyaluronan metabolism
+organosulfur metabolism
+organosulfur biosynthesis
+organosulfur degradation
+heterocycle metabolism
+purine base biosynthesis
+aromatic amino - acid biosynthesis
+l - tryptophan degradation
+l - alanine degradation via dehydrogenase pathway
+l - alanine degradation via transaminase pathway
+betaine biosynthesis via choline pathway
+betaine biosynthesis via glycine pathway
+l - proline metabolism
+l - proline degradation
+l - glutamate degradation via hydroxyglutarate pathway
+putrescine biosynthesis via agmatine pathway
+putrescine biosynthesis via l - ornithine pathway
+protein lipoylation
+protein lipoylation via exogenous pathway
+protein lipoylation via endogenous pathway
+pyrroloquinoline quinone biosynthesis
+oxalate degradation
+l - rhamnose degradation
+lactose degradation
+gdp - d - glycero - alpha - d - manno - heptose biosynthesis
+peptidoglycan recycling
+pectin degradation
+cell wall metabolism
+cell wall biogenesis
+cell wall degradation
+peptidoglycan degradation
+thermoadapter biosynthesis
+cyclic 2 , 3 - diphosphoglycerate biosynthesis
+cytidine metabolism
+fermentation
+pyruvate fermentation to lactate
+cytochrome c assembly
+lipoteichoic acid biosynthesis
+cdp - diacylglycerol biosynthesis
+phosphatidylethanolamine biosynthesis
+peptidyl - diphthamide biosynthesis
+ethanolamine degradation
+l - glutamate degradation via mesaconate pathway
+formaldehyde degradation
+l - fucose degradation
+d - glucarate degradation
+galactarate degradation
+enterobacterial common antigen biosynthesis
+bioluminescence
+bacterial bioluminescence
+fatty acid reduction for biolumincescence
+pyrimidine metabolism
+pyrimidine biosynthesis
+ump biosynthesis
+pyrimidine salvage
+ump biosynthesis via salvage pathway
+dttp biosynthesis
+ctp biosynthesis
+dtmp biosynthesis
+dtmp biosynthesis via salvage pathway
+ctp biosynthesis via salvage pathway
+pyrimidine degradation
+uracil degradation
+uracil degradation via oxidative pathway
+purine metabolism
+purine biosynthesis
+purine degradation
+purine biosynthesis via salvage pathway
+adenine biosynthesis via salvage pathway
+amp biosynthesis via salvage pathway
+inosine biosynthesis via salvage pathway
+hypoxanthine biosynthesis via salvage pathway
+imp biosynthesis via salvage pathway
+amp biosynthesis
+purine biosynthesis via de novo pathway
+inosine biosynthesis
+purine base degradation
+second messenger metabolism
+second messenger biosynthesis
+cyclic nucleotide biosynthesis
+3' , 5' - cyclic di - gmp biosynthesis
+xmp biosynthesis
+xmp biosynthesis via de novo pathway
+xmp biosynthesis via salvage pathway
+guanine degradation
+hypoxanthine degradation
+purine nucleoside metabolism
+purine nucleoside salvage
+purine nucleoside degradation
+purine nucleoside biosynthesis
+cdp - diacylglycerol degradation
+dump biosynthesis
+alcohol metabolism
+alcohol degradation
+polyol metabolism
+polyol degradation
+glycerol metabolism
+glycerol degradation
+glycerol fermentation
+glycerol degradation via glycerol kinase pathway
+methylglyoxal degradation
+propanediol metabolism
+1 , 2 - propanediol degradation
+alcohol biosynthesis
+polyol biosynthesis
+glycerol biosynthesis
+ ( r , r )  - butane - 2 , 3 - diol metabolism
+ ( r , r )  - butane - 2 , 3 - diol biosynthesis
+amino - sugar degradation
+n - acetylneuraminate metabolism
+n - acetylneuraminate degradation
+n - acetylneuraminate biosynthesis
+exopolysaccharide biosynthesis
+teichoic acid biosynthesis
+l - glutamate biosynthesis
+l - glutamate biosynthesis via glt pathway
+l - glutamate biosynthesis via gdh pathway
+beta - glucan biosynthesis
+osmoregulated periplasmic glucan  ( opg )  biosynthesis
+nitric oxide reduction
+methanogenesis
+methanogenesis from co ( 2 )
+methanogenesis from methanol
+methanogenesis from acetate
+methanogenesis from methylamine
+methanogenesis from dimethylamine
+methanogenesis from trimethylamine
+methyl - coenzyme m reduction
+coenzyme m - coenzyme b heterodisulfide reduction
+imp biosynthesis
+amino - sugar biosynthesis
+methanogenesis from methylated amine
+3 - deoxy - d - manno - octulosonate 4 - phosphate biosynthesis
+nitrate reduction  ( denitrification )
+nitrate reduction  ( assimilation )
+nitrate reduction
+malonyl - coa biosynthesis
+short - chain fatty acid metabolism
+rhamnolipid biosynthesis
+polyunsaturated fatty acid biosynthesis
+fatty acid beta - oxidation
+mitochondrial fatty acid beta - oxidation
+peroxisomal fatty acid beta - oxidation
+prostaglandin biosynthesis
+lipoprotein biosynthesis
+lipoprotein biosynthesis  ( diacylglyceryl transfer )
+lipoprotein biosynthesis  ( signal peptide cleavage )
+lipoprotein biosynthesis  ( n - acyl transfer )
+l - arabinan degradation
+chlorophyll biosynthesis
+bacteriochlorophyll biosynthesis
+chlorophyll biosynthesis  ( light - independent )
+bacteriochlorophyll biosynthesis  ( light - independent )
+pigment metabolism
+pigment degradation
+chlorophyll degradation
+heterocycle biosynthesis
+heterocycle degradation
+porphyrin - containing compound metabolism
+porphyrin - containing compound biosynthesis
+porphyrin - containing compound degradation
+macrocycle metabolism
+macrocycle degradation
+macrocycle biosynthesis
+spheroidene biosynthesis
+protoheme degradation
+ ( 2 , 4 - dichlorophenoxy ) acetate degradation
+ ( 2 , 4 , 5 - trichlorophenoxy ) acetate degradation
+dichloromethane degradation
+gamma - hexachlorocyclohexane degradation
+hexachlorocyclohexane degradation
+pentachlorophenol degradation
+cellulose metabolism
+cellulose biosynthesis
+bacterial cellulose biosynthesis
+plant cellulose biosynthesis
+cellulose degradation
+hemicellulose degradation
+organic acid metabolism
+organic acid degradation
+organic acid biosynthesis
+lactate oxidation
+d - galactose 6 - phosphate degradation
+glyoxylate cycle
+d - tagatose 6 - phosphate degradation
+oxidative phosphorylation
+aromatic compound degradation
+cresol metabolism
+p - cresol degradation
+flavonoid metabolism
+phenylpropanoid metabolism
+phenylpropanoid biosynthesis
+phenylpropanoid degradation
+trans - cinnamate biosynthesis
+3 - phenylpropanoate degradation
+terpenoid degradation
+monoterpene metabolism
+monoterpene biosynthesis
+d - camphor metabolism
+ ( r )  - camphor degradation
+ ( r )  - camphor biosynthesis
+linalool degradation
+steroid degradation
+flavonoid degradation
+quercetin degradation
+scopolamine biosynthesis
+phthalate degradation
+coronatine biosynthesis
+phenol degradation
+2 - methylthio - n - 6 -  ( cis - hydroxy ) isopentenyl adenosine - trna biosynthesis
+carboxydiphenyl ether degradation
+sabinene hydrate biosynthesis
+4 - aminobutanoate metabolism
+4 - aminobutanoate degradation
+acetylacetone degradation
+opine metabolism
+mannopine biosynthesis
+octopine degradation
+1 , 5 - anhydro - d - fructose degradation
+benzoyl - coa degradation
+3 - chloro - 1 , 2 - epoxypropane degradation
+glucosinolate biosynthesis
+phenylglucosinolate biosynthesis
+butanol biosynthesis
+galactose biosynthesis
+catecholamine biosynthesis
+dopamine biosynthesis
+ ( r )  - noradrenaline biosynthesis
+ ( r )  - adrenaline biosynthesis
+catechol degradation
+phospholipid biosynthesis
+phospholipid degradation
+phosphatidylcholine biosynthesis
+aromatic compound biosynthesis
+chondroitin sulfate biosynthesis
+heparan sulfate biosynthesis
+dhurrin biosynthesis
+nucleotide degradation
+cyclic nucleotide metabolism
+cyclic nucleotide degradation
+purine nucleotide degradation
+3' , 5' - cyclic amp degradation
+3' , 5' - cyclic gmp degradation
+cyclopentanol degradation
+ecdysteroid biosynthesis
+sterol biosynthesis
+lanosterol biosynthesis
+ergosterol biosynthesis
+estrogen biosynthesis
+zymosterol biosynthesis
+d - erythroascorbate biosynthesis
+decaprenyl phosphate biosynthesis
+epidermin biosynthesis
+epothilone biosynthesis
+alkene degradation
+propylene degradation
+alkene metabolism
+ethanol biosynthesis via fermentation pathway
+ethanol metabolism
+ethanol degradation
+ether lipid biosynthesis
+fe - mo cofactor biosynthesis
+ferrichrome biosynthesis
+fructoselysine degradation
+melanin biosynthesis
+sphingolipid biosynthesis
+galactosylceramide biosynthesis
+glucocorticoid biosynthesis
+poly ( glucopyranosyl n - acetylgalactosamine 1 - phosphate )  teichoic acid biosynthesis
+poly ( ribitol phosphate )  teichoic acid biosynthesis
+aldonic acid degradation
+d - gluconate degradation
+l - idonate degradation
+aldaric acid degradation
+glucosylglycerol biosynthesis
+udp - alpha - d - xylose biosynthesis
+udp - l - arabinose biosynthesis
+zeaxanthin diglucoside biosynthesis
+phytoene biosynthesis
+neurosporene biosynthesis
+delta - carotene biosynthesis
+beta - carotene biosynthesis
+lycopene biosynthesis
+alpha - zeacarotene biosynthesis
+beta - zeacarotene biosynthesis
+capsanthin biosynthesis
+capsorubin biosynthesis
+dibenzofuran degradation
+dibenzo - p - dioxin degradation
+d - xylose degradation
+vi - antigen biosynthesis
+d - sorbitol degradation
+aldonic acid biosynthesis
+d - gluconate biosynthesis
+d - sorbitol biosynthesis
+dtdp - 6 - deoxy - l - altrose biosynthesis
+dtdp - 4 - acetamido - 4 , 6 - dideoxygalactose biosynthesis
+cdp - ascarylose biosynthesis
+spermidine metabolism
+lacto - n - neotetraose biosynthesis
+exopolysaccharide eps i biosynthesis
+histamine biosynthesis
+myo - inositol biosynthesis
+salicylate degradation
+trans - 4 - coumarate biosynthesis
+spermine metabolism
+poly ( glycerol phosphate )  teichoic acid biosynthesis
+poly ( glucosyl n - acetylgalactosamine 1 - phosphate )  teichoic acid biosynthesis
+quinol / quinone biosynthesis
+nicotinate biosynthesis
+protein ubiquitination  ( ubiquitin activation )
+protein ubiquitination  ( e2 ubiquitin transfer )
+protein ubiquitination  ( ubiquitin transfer )
+heme o biosynthesis
+3 -  ( 3 - hydroxyphenyl ) propanoate degradation
+3 -  ( 2 , 3 - dihydroxyphenyl ) propanoate degradation
+melatonin biosynthesis
+amoeba cellulose biosynthesis
+tartrate degradation
+thiamine metabolism
+thiamine degradation
+taxol biosynthesis
+zeaxanthin biosynthesis
+teichuronic acid biosynthesis
+pectin biosynthesis
+serotonin biosynthesis
+pteridine biosynthesis
+7 , 8 - dihydroneopterin triphosphate biosynthesis
+tetrahydrobiopterin biosynthesis
+tetrahydrofolylpolyglutamate biosynthesis
+mitomycin c biosynthesis
+morphine biosynthesis
+nisin biosynthesis
+nonprotein amino - acid degradation
+nopaline degradation
+2 - dehydro - 3 - deoxy - d - gluconate degradation
+carbohydrate acid metabolism
+carbohydrate acid degradation
+carbohydrate acid biosynthesis
+glycosaminoglycan metabolism
+glycosaminoglycan biosynthesis
+heparin biosynthesis
+butanoate metabolism
+glycolate degradation
+glycolate biosynthesis
+ehrlich pathway
+l - lysine degradation
+l - lysine degradation via saccharopine pathway
+l - lysine degradation via acetylation pathway
+l - lysine degradation via acetate pathway
+benzoxazinone biosynthesis
+2 , 4 - dihydroxy - 1 , 4 - benzoxazin - 3 - one biosynthesis
+ ( r )  - mandelate degradation
+hc - toxin biosynthesis
+lovastatin biosynthesis
+leukotriene biosynthesis
+leukotriene a4 biosynthesis
+leukotriene b4 biosynthesis
+leukotriene c4 biosynthesis
+leukotriene d4 biosynthesis
+hydroperoxy eicosatetraenoic acid biosynthesis
+leukotriene degradation
+leukotriene b4 degradation
+leukotriene metabolism
+protein neddylation
+protein sumoylation
+auxin metabolism
+limonene degradation
+melamine degradation
+secondary metabolite degradation
+lignin metabolism
+lignin degradation
+lignin biosynthesis
+diglucosyl - diacylglycerol biosynthesis
+methylamine degradation
+ ( s )  - 3 - hydroxy - 3 - methylglutaryl - coa degradation
+isoflavonoid phytoalexin biosynthesis
+glyceollin biosynthesis
+phenylpropanoid phytoalexin biosynthesis
+methoxydianthramide b biosynthesis
+pterocarpan phytoalexin biosynthesis
+medicarpin biosynthesis
+l - methionine biosynthesis
+l - methionine biosynthesis via salvage pathway
+aminoacyl - trna biosynthesis
+selenocysteinyl - trna ( sec )  biosynthesis
+2 - deoxystreptamine biosynthesis
+ppgpp biosynthesis
+gmp biosynthesis via salvage pathway
+sulfatase oxidation
+retinoid metabolism
+retinol metabolism
+isoprenoid metabolism
+myo - inositol metabolism
+mycolic acid biosynthesis
+d - ribose degradation
+poly -  ( r )  - 3 - hydroxybutanoate biosynthesis
+patulin biosynthesis
+2 - oxosuberate biosynthesis
+pyruvate fermentation
+mrna processing
+mrna capping
+nitrobenzene degradation
+oleoresin biosynthesis
+stachyose biosynthesis
+oxytetracycline biosynthesis
+formaldehyde assimilation via serine pathway
+methanol degradation
+succinyl - coa degradation
+phenylacetate degradation
+cellular component biogenesis
+cell surface structure biogenesis
+capsule biogenesis
+capsule polysaccharide biosynthesis
+slime biogenesis
+slime polysaccharide biosynthesis
+p - cumate degradation
+membrane lipid biosynthesis
+membrane lipid metabolism
+glycerophospholipid metabolism
+n - acetylgalactosamine degradation
+biological regulation
+signal transduction
+phosphatidylinositol signaling pathway
+propanoyl - coa degradation
+propanoate degradation
+glycerophospholipid biosynthesis
+phosphatidylserine biosynthesis
+phosphatidylinositol metabolism
+spore coat biogenesis
+photorespiration
+proanthocyanidin biosynthesis
+spore coat polysaccharide biosynthesis
+vitamin d biosynthesis
+cholecalciferol biosynthesis
+l - fucose metabolism
+n - glycan metabolism
+lps core biosynthesis
+phosphorus metabolism
+phosphonate biosynthesis
+ginkgolide biosynthesis
+l - cysteine metabolism
+cell wall polysaccharide biosynthesis
+butirosin biosynthesis
+kanamycin biosynthesis
+aminoglycoside antibiotic biosynthesis
+gentamicin biosynthesis
+lividomycin biosynthesis
+neomycin biosynthesis
+paromomycin biosynthesis
+tobramycin biosynthesis
+ribostamycin biosynthesis
+lps lipid a biosynthesis
+pentalenolactone biosynthesis
+prenylquinone biosynthesis
+los core biosynthesis
+s - layer biogenesis
+flagellum biogenesis
+calcium - dependent antibiotic biosynthesis
+colanic acid biosynthesis
+quinolobactin biosynthesis
+limonene biosynthesis
+ ( 4r )  - limonene biosynthesis
+ ( 4s )  - limonene biosynthesis
+ (  -  )  - alpha - pinene biosynthesis
+ (  -  )  - beta - pinene biosynthesis
+ ( 4r )  - limonene degradation
+5 - methoxycarbonylmethyl - 2 - thiouridine - trna biosynthesis
+n ( 7 )  - methylguanine - trna biosynthesis
+l - ascorbate biosynthesis via gdp - alpha - d - mannose pathway
+l - ascorbate biosynthesis via udp - alpha - d - glucuronate pathway
+endocannabinoid biosynthesis
+2 - arachidonoylglycerol biosynthesis
+phylloquinone biosynthesis
+carbamoyl phosphate degradation
+proteasomal pup - dependent pathway
+protein pupylation
+pimeloyl - coa biosynthesis
+tetrahydrofolate metabolism
+bacilysocin biosynthesis
+polychlorinated biphenyl degradation
+bacillaene biosynthesis
+palatinose degradation
+petrobactin biosynthesis
+mannosylfructose biosynthesis
+oligosaccharide metabolism
+oligosaccharide biosynthesis
+nicotinate metabolism
+nicotinate degradation
+4 - chlorobenzoate degradation
+l - aspartate biosynthesis
+l - glutamine biosynthesis
+ergothioneine biosynthesis
+anthranilate degradation
+anthranilate degradation via hydroxylation
+xanthan biosynthesis
+tylosin biosynthesis
+mycinamicin biosynthesis
+dafachronic acid biosynthesis
+neopentalenolactone biosynthesis
+branched - chain fatty acid metabolism
+15 - methylhexadecasphinganine base metabolism
+octadecasphinganine base metabolism
+dodecasphinganine base metabolism
+plastidic glycolysis
+spirilloxanthin biosynthesis
+l - pyrrolysine biosynthesis
+rifamycin b biosynthesis
+4 - nitrophenol degradation
+carbazole degradation
+1 , 8 - cineol degradation
+4 - chloronitrobenzene degradation
+aminocoumarin biosynthesis
+novobiocin biosynthesis
+kanosamine biosynthesis
+saturated fatty acid biosynthesis
+monounsaturated fatty acid biosynthesis
+branched - chain fatty acid biosynthesis
+carminomycin biosynthesis
+doxorubicin biosynthesis
+rhodomycin biosynthesis
+aclacinomycin biosynthesis
+xyloglucan metabolism
+xyloglucan degradation
+d - galacturonate metabolism
+d - galacturonate degradation
+d - galacturonate degradation via prokaryotic reductive pathway
+d - galacturonate degradation via prokaryotic isomerase pathway
+d - galacturonate degradation via prokaryotic oxidative pathway
+d - galacturonate degradation via eukaryotic pathway
+glycosphingolipid biosynthesis
+phylloquinone metabolism
+phylloquinone degradation
+quinol / quinone metabolism
+quinol / quinone degradation
+1 , 4 - dihydroxy - 2 - naphthoate biosynthesis
+cholesterol degradation
+compound
+uniprot super - pathway

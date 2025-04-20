@@ -1,0 +1,789 @@
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+an occurrent that has temporal proper parts and for some time t ,  p s - depends_on some material entity at t .
+a continuant that inheres in or is borne by other entities .
+b is a generically dependent continuant = def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+a 2d surface of an anatomical continuant .
+a straight line through space ,  intersecting an anatomical entity .
+an axis that extends through an organism from head end to opposite end of body or tail .
+an axis that extends through an organism or organism part from the part of the organism or organism part attached to a substrate  ( basal )  to the furthest from the attachment  ( apical )  .
+an axis that extends from the point of attachment of a structure  ( proximal )  to the  point furthest away from the plane of attachment  ( distal )  .
+an axis that is approximately perpendicular to the anterior - posterior axis and that extends through the horizontal plane of the body .
+an axis that bisects an organism from left to right sides of body ,  through a sagittal plane .
+anatomical plane that divides body into anterior and posterior parts .
+anatomical plane that divides bilateral body into dorsal and ventral parts .
+anatomical region that overlaps the anterior and dorsal regions of a body or body part .
+anatomical region that overlaps the anterior and ventral regions of a body or body part .
+anatomical region that overlaps the posterior and lateral regions of the body or body part .
+anatomical region that overlaps the anterior and lateral regions of a body or body part .
+anatomical region that overlaps the posterior and dorsal regions of the body or body part .
+anatomical region that overlaps the posterior and ventral regions of a body or body part .
+an anatomical region bounded by a plane perpendicular to an axis through the middle .
+an anatomical region that is the entire part of an anatomical structure anterior to a transverse plane and bounded on one side by the same transverse plane .
+an anatomical region that is the entire part of an anatomical structure posterior to a transverse plane and bounded on one side by the same transverse plane .
+anatomical side that is located on the apical end of an organism or structure .
+anatomical side that is located on the basal end of an organism or structure .
+an anatomical region that is the entire part of an anatomical structure dorsal to a horizontal plane and bounded on one side by the same transverse plane .
+an anatomical region that is the entire part of an anatomical structure ventral to a horizontal plane and bounded on one side by the same horizontal plane .
+a subdivision of an anatomical compartment .
+anatomical region anteriorly located on the body or body part .
+anatomical region posteriorly located on the body or body part .
+anatomical region located on the apical end on the body or body part .
+anatomical region located basally on the body or body part .
+anatomical region dorsally located on the body or body part .
+anatomical region that overlaps the dorsal and lateral regions of a body or body part .
+anatomical region laterally located on the body or body part .
+anatomical region ventrally located on the body or body part .
+anatomical region that overlaps the ventral and lateral regions of a body or body part .
+an anatomical axis that extends from the center of the body outwards or externally .
+an axis that extends from the oral opening to the furthest point in an organism that is directly opposite .
+anatomical surface that is located on the anterior side of the body or body part .
+anatomical surface that is located on the posterior side of the body or body part .
+anatomical surface that is located on the apical side of the body or body part .
+anatomical surface that is located on the basal side of the body or body part .
+anatomical surface that located on the dorsal side of the body or body part .
+anatomical surface that located on the lateral side of the body or body part .
+anatomical surface that is located on the ventral side of the body or body part .
+a flat 2d plane intersecting an anatomical continuant ,  dividing it into two adjacent portions .
+anatomical plane that divides a bilateral body into left and right parts ,  not necessarily of even size .
+an axis that extends from the center of organism to one or other side .
+biological entity that is either an individual member of a biological species or constitutes the structural organization of an individual member of a biological species .
+material anatomical entity that is a single connected structure with inherent 3d shape generated by coordinated expression of the organism's own genome .
+anatomical entity that has mass .
+an anatomical entity that has no mass .
+a one dimensional ,  immaterial anatomical entity .
+a non - material anatomical entity of two dimensions .
+the production of new individuals that contain some portion of genetic material inherited from one or more parent organisms .
+the cell cycle 'gap' phase which is the interval between the completion of dna segregation by mitosis and the beginning of dna synthesis .
+the cell cycle phase ,  following g1 ,  during which dna synthesis takes place as part of a mitotic cell cycle .
+the cell cycle 'gap' phase which is the interval between the completion of dna synthesis and the beginning of dna segregation by mitosis .
+a cell cycle phase during which nuclear division occurs ,  and which is comprises the phases: prophase ,  metaphase ,  anaphase and telophase and occurs as part of a mitotic cell cycle .
+the cell cycle phase which is the first stage of m phase of mitosis and during which chromosomes condense and the two daughter centrioles and their asters migrate toward the poles of the cell .
+the cell cycle phase ,  following prophase ,  during which chromosomes become aligned on the equatorial plate of the cell as part of a mitotic cell cycle .
+the cell cycle phase during which chromosomes separate and migrate towards the poles of the spindle the as part of a mitotic cell cycle .
+the cell cycle phase which follows anaphase during m phase of mitosis and during which the chromosomes arrive at the poles of the cell and the division of the cytoplasm starts .
+the cell cycle phase which is the first stage of prophase i in meiosis ,  and during which the chromosomes first become visible .
+the cell cycle phase which follows leptotene during prophase i of meiosis ,  and during which each chromosome pairs with its homolog ;  the two become aligned and crossing over may occur .
+the cell cycle phase which follows zygotene during prophase i of meiosis ,  and during which crossing over occurs between a chromatid in one partner and another chromatid in the homologous chromosome .
+the cell cycle phase which follows pachytene during prophase i of meiosis ,  during which the homologous chromosomes begin to separate and the synaptonemal complex dissolves .
+the cell cycle phase which follows diplotene during prophase i of meiosis ,  the separation of homologous chromosomes is complete and crossing over has occurred .
+progression through the phases of the mitotic cell cycle ,  the most common eukaryotic cell cycle ,  which canonically comprises four successive phases called g1 ,  s ,  g2 ,  and m and includes replication of the genome and the subsequent segregation of chromosomes into daughter cells .
+a cell cycle phase during which nuclear division occurs ,  and which is comprises the phases: prophase ,  metaphase ,  anaphase and telophase .
+the division of a cell nucleus into two nuclei ,  with dna and other nuclear contents distributed between the daughter nuclei .
+a developmental process in which a progressive change in the state of some part of an organism specifically contributes to its ability to form offspring .
+a location ,  relative to cellular compartments and structures ,  occupied by a macromolecular machine when it carries out a molecular function .
+a process that is carried out at the cellular level which results in the assembly ,  arrangement of constituent parts ,  or disassembly of an organelle within a cell .
+the progression of biochemical and morphological phases and events that occur in a cell during successive cell replication or nuclear replication events .
+the cell cycle phase which is the first stage of meiosis i and during which chromosomes condense and the two daughter centrioles and their asters migrate toward the poles of the cell .
+the cell cycle phase ,  following prophase i ,  during which chromosomes become aligned on the equatorial plate of the cell as part of meiosis i .
+the cell cycle phase during which chromosomes separate and migrate towards the poles of the spindle the as part of meiosis i .
+the cell cycle phase which follows anaphase i of meiosis and during which the chromosomes arrive at the poles of the cell and the division of the cytoplasm starts .
+the cell cycle phase which is the first stage of meiosis ii and during which chromosomes condense and the two daughter centrioles and their asters migrate toward the poles of the cell .
+the cell cycle phase ,  following prophase ii ,  during which chromosomes become aligned on the equatorial plate of the cell as part of meiosis ii .
+the cell cycle phase during which chromosomes separate and migrate towards the poles of the spindle the as part of meiosis ii .
+the cell cycle phase which follows anaphase ii of meiosis and during which the chromosomes arrive at the poles of the cell and the division of the cytoplasm starts .
+a biological process represents a specific objective that the organism is genetically programmed to achieve .
+any process that is carried out at the cellular level ,  but not necessarily restricted to a single cell .
+a process that results in the assembly ,  arrangement of constituent parts ,  or disassembly of a cellular component .
+the cellular process that ensures successive accurate and complete genome replication and chromosome segregation .
+one of the distinct periods or stages into which the cell cycle is divided .
+a biological process that directly contributes to the process of producing new individuals by one or two organisms .
+a biological process whose specific outcome is the progression of an integrated living unit: an anatomical structure  ( which may be a subcellular structure ,  cell ,  tissue ,  or organ )  ,  or organism over time from an initial condition to a later condition .
+the accumulation of pigment in an organism ,  tissue or cell ,  either by increased deposition or by increased number of cells .
+a distinct period or stage in a biological process or cycle .
+the creation of two or more organelles by division of one organelle .
+the biological process whose specific outcome is the progression of an anatomical structure from an initial condition to its mature state .
+the process resulting in division and partitioning of components of a cell to form more cells ;  may or may not be accompanied by the physical separation of a cell into distinct ,  individually membrane - bounded daughter cells .
+the cell cycle 'gap' phase which is the interval between the completion of dna segregation  ( usually by mitosis or meiosis )  and the beginning of dna synthesis .
+the cell cycle 'gap' phase which is the interval between the completion of dna synthesis and the beginning of dna segregation  ( usually by mitosis or meiosis )  .
+the cell cycle phase ,  following g1 ,  during which dna synthesis takes place .
+progression through the phases of the meiotic cell cycle ,  in which canonically a cell replicates to produce four offspring with half the chromosomal content of the progenitor cell via two nuclear divisions .
+the cell cycle phase ,  following metaphase ,  during which the chromosomes separate and migrate towards the poles of the spindle .
+the cell cycle phase ,  following prophase or prometaphase in higher eukaryotes ,  during which chromosomes become aligned on the equatorial plate of the cell .
+the cell cycle phase which is the first stage of m phase of meiosis and mitosis and during which chromosomes condense and the two daughter centrioles and their asters migrate toward the poles of the cell .
+the cell cycle phase following cytokinesis which begins with g1 phase ,  proceeds through s phase and g2 phase and ends when prophase of meiosis or mitosis begins .
+the cell cycle phase which follows anaphase during m phase of mitosis and meiosis and during which the chromosomes arrive at the poles of the cell and the division of the cytoplasm starts .
+a cell cycle phase during which nuclear division occurs ,  and which is comprises the phases: prophase ,  metaphase ,  anaphase and telophase and occurs as part of a meiotic cell cycle .
+the cell cycle phase which begins after cytokinesis and ends when meiotic prophase begins .
+the cell cycle phase following cytokinesis which begins with g1 phase ,  proceeds through s phase and g2 phase and ends when mitotic prophase begins .
+the cell cycle 'gap' phase which is the interval between the completion of dna segregation by meiosis and the beginning of dna synthesis .
+the cell cycle 'gap' phase which is the interval between the completion of dna synthesis and the beginning of dna segregation by meiosis .
+the cell cycle phase ,  following g1 ,  during which dna synthesis takes place as part of a meiotic cell cycle .
+a process that results in the biosynthesis of constituent macromolecules ,  assembly ,  arrangement of constituent parts ,  or disassembly of a cellular component .
+one of the distinct periods or stages into which the meiotic cell cycle is divided .
+one of the distinct periods or stages into which the mitotic cell cycle is divided .
+a meiotic cell cycle phase prior to a during which some part of meiosis i nuclear division or the proceeding cytokinesis occurs .
+a meiotic cell cycle phase that occurs after meiosis i  ( the first meiotic nuclear division )  .
+one of the two nuclear divisions that occur as part of the meiotic cell cycle .
+a mitotic cell cycle process comprising the steps by which the nucleus of a eukaryotic cell divides ;  the process involves condensation of chromosomal dna into a highly compacted form .
+a process that is part of the meiotic cell cycle .
+a process that is part of the mitotic cell cycle .
+an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+an information content entity that is a mark ( s )  or character ( s )  used as a conventional representation of another entity .
+a generically dependent continuant that is about some thing .
+the curation status of the term .
+a data item that is an aggregate of other data items of the same type that have something in common .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+the reason for which a term has been deprecated .
+a denotator type indicates how a term should be interpreted from an ontological perspective .
+a symbol that is part of a crid and that is sufficient to look up a record from the crid's registry .
+an information content entity that consists of a crid symbol and additional information about the crid registry to which it belongs .
+a crid registry is a dataset of crid records ,  each consisting of a crid symbol and additional information which was recorded in the dataset through a assigning a centrally registered identifier process .
+a dependent entity that inheres in a bearer by virtue of how the bearer is related to other entities
+a quality of a single physical entity inhering in the bearer by virtue of the bearer's size or shape or structure .
+a morphological quality inhering in a bearer by virtue of the bearer's ratios of distances between its features  ( points ,  edges ,  surfaces and also holes etc )  .
+a spatial quality inhering in a bearer by virtue of the bearer's placement which is defined by the angle between the bearer and an axis ,  or the angle between the bearer and another object .
+a spatial quality inhering in a bearer by virtue of the bearer's spatial location relative to other objects in the vicinity .
+a quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities .
+a quality which inheres in a continuant .
+a shape quality inhering in a bearer by virtue of the bearer's having three angles .
+a shape quality inhering in a bearer by virtue of the bearer's being narrowly triangular ,  wider at the apex and tapering toward the base .
+a shape that inheres in a 2 dimensional entity ,  such as a cross section or projection of a 3 dimensional entity .
+an orientation quality inhering in a bearer by virtue of the bearer having a position that is directed along the longitudinal or anterior - posterior axis .
+a shape that is in the form of a plug ,  being tube - like and expanded on one end .
+a stage of smed embryonic development ,  0  -  2 days post - egg capsule deposition at 20˚c .
+a stage of smed embryonic development defined by a unique gene expression signature and morphology ,  2  -  3 days post - egg capsule deposition at 20˚c .
+a stage of smed embryonic development defined by a unique gene expression signature and morphology ,  2  -  4 days post - egg capsule deposition at 20˚c .
+a stage of smed embryonic development defined by a unique gene expression signature and morphology ,  3  -  5 days post - egg capsule deposition at 20˚c .
+a stage of smed embryonic development defined by a unique gene expression signature and morphology ,  5 - 7 days post - egg capsule deposition at 20˚c .
+a stage of smed embryonic development defined by a unique gene expression signature and morphology ,  7  -  9 days post - egg capsule deposition at 20˚c .
+a stage of smed embryonic development defined by a unique gene expression signature and morphology ,  9  -  11 days post - egg capsule deposition at 20˚c .
+a stage of smed embryonic development defined by a unique gene expression signature and morphology ,  13  -  15 days post - egg capsule deposition at 20˚c .
+a heterogeneous subpopulation of neoblasts with enriched expression of soxp - 1 and soxp - 2 thought to contain both pluripotent stem cells and tissue - specific progenitors .
+neoblasts and post - mitotic ,  differentiating daughters coexpressing pou2 - 3 ,  six1 / 2 - 2 ,  sal1 ,  eya and osr , required for maintenance and regeneration of protonephridial cell types .
+neoblasts and their differentiating daughters implicated in maintenance and regeneration of different tissues in the nervous system .
+musculature surrounding internal organs of the body .
+an abundant neoblast subclass consisting of p53 +  ,  zfp1 +  progenitors required for maintenance and regeneration of epidermal cell type ( s )  .
+an epithelial cell lacking cilia .
+a plicate and protrusible organ that is the sole point of entry and exit for the triclad gut .
+bipolar photoreceptor neurons with dendritic projections into the optic cup and axons that innervate the underlying brain .
+post - mitotic ,  mesenchymally and epidermally located progenitors downstream of the category 3 cells .
+progenitor neoblasts implicated in the maintenance and regeneration of muscle fibers .
+excretory organs consisting of flame cells ,  proximal tubules ,  and distal tubules connected to a mesenchymal collecting duct .
+organisms sharing a specified genotype or karyotype .
+post - mitotic ,  ciliated epidermal cells .
+an innervated ,  muscular pump that ingests yolk cells into the gut cavity .
+asexual animal strains that reproduce solely through fission followed by whole body regeneration .
+the nervous system is an organ system containing predominantly neuron and glial cells .
+the planarian triclad gut contains a central anterior gut branch connected to two posterior gut branches arranged around the pharynx .
+strains of cross - fertilizing hemaphrodites that reproduce sexually and do not undergo fission .
+post - mitotic ,  mesenchymally located epidermal progenitors downstream of the zeta neoblasts .
+a single cell layer of extraembryonic ,  post - mitotic ectodermal cells bounding the embryo .
+the median line /  plane of bilateral symmetry along the anteroposterior axis .
+non - neuronal ,  pigmented cells arrayed along the proximal side of the optic cup .
+the median line / plane of bilateral symmetry along the anteroposterior axis on the dorsal surface of the animal .
+mitotically active zeta neoblasts and their post - mitotic descendants which undergo progressive differentiation and outward directed movement through the mesenchyme prior to incorporation into the epidermis ,  where terminal differentiation occurs .
+a single cell layer of post - mitotic epithelial cells containing ciliated and non - ciliated cell types forming the exterior surface of the animal .
+post - mitotic ,  mesenchymally located epidermal progenitors downstream of the category 2 cells .
+an organ that detects light .
+the median line /  plane of bilateral symmetry along the anteroposterior axis on the ventral surface of the animal .
+an abundant neoblast subclass ,  exhibiting enriched expression of gata456a ,  hnf4 ,  prox - 1 and nkx2 .2 ,  implicated in maintenance and regeneration of the definitive gut .
+stage 3 - 5 embryo hemisphere centered around the pole opposite the embryonic pharynx .
+the single ,  central gut branch of the triclad gut anterior to the pharynx .
+region along the edge of the animal where the dorsal and ventral surfaces meet .
+the planarian brain ,  consisting of two bilaterally symmetric lobes occupying a ventral position in the head .
+body wall muscle fibers arrayed around the dorsoventral axis .
+pluripotent piwi - 1 +  stem cells that self - renew ,  form expanding colonies and produce differentiating daughters that contribute to multiple organ systems .
+non - ciliated tubules associated with the distal tubules ,  which cross the basement membrane and terminate in the dorsal epidermis .
+body wall muscle fibers arrayed diagonally along the anteroposterior axis .
+anatomical system that has as its parts the organs devoted to the ingestion ,  digestion ,  and assimilation of food and the discharge of residual wastes .
+sinusoidal ,  non - ciliated tubules connected to proximal tubules within the parenchyma .
+single cell layer of dorsal ,  post - mitotic ,  epithelial cells containing the dorsal stripe .
+ciliated epithelial cells along the dorsal midline .
+turbellarian  ( freshwater flatworm )  embryos that undergo a modified form of cleavage due to separation of oocyte and yolk .
+a cryptic digestive system in stage 3 - 6 embryos comprised of temporary embryonic cell types and organs ,  including the embryonic pharynx and primitive gut cells .
+dispersed ,  phagocytic gut cells that appear during stage 4 and ultimately generate a honeycomb - like lattice surrounding the central gut cavity in stage 5 embryos .
+the parenchymal space between the gut cavity and the primitive ectoderm containing undifferentiated blastomeres in stage 3 - 5 embryos .
+visceral muscle surrounding the gut .
+attachment between the triclad gut and the proximal end of the pharynx .
+a multicellular anatomical structure that is associated with an embryo and derived from the zygote from which it develops ,  but which does not contribute to the embryo proper or to structures that are part of the same organism after embryogenesis .
+terminal structure of protonephridia unit ;  consists of flame cells .
+terminal structure of the protonephridia unit ,  capping the proximal tubules .
+the single cell layer columnar epithelial lining of the intestine .
+secretory cells that release digestive enzymes into the lumen of the intestine .
+cavity encompassed by the embryonic digestive tract ,  prior to formation of the branched defintive gut .
+inner most body wall muscle fibers arrayed along the anteroposterior axis .
+absorptive digestive cells that engulf food particles for intracellular digestion .
+body wall muscle fibers arrayed along the anteroposterior axis .
+the sole point of entry and exit for the triclad planarian flatworm gut .
+a female germ cell that has entered meiosis .
+a portion of the eye containing pigment cells and dendritic projections from photoreceptor neurons .
+stage 3 - 5 embryo hemisphere centered around the embryonic pharynx .
+body wall muscle fibers arrayed along the anteroposterior axis .
+muscles that are present through the mesenchyme ,  inclusing dorsal - ventral muscles ,  intestinal muscles and pharynx muscles .
+a major division of the nervous system that contains nerves which connect the central nervous system  ( cns )  with sensory organs ,  other organs ,  muscles ,  blood vessels and glands .
+an epithelial structure housing the pharynx ,  connected to the esophagus and mouth .
+the primary gut branches of the triclad gut lateral and posterior to the pharynx and pharyngeal pouch .
+a phagocytic cell closely associated with the embryonic pharynx .
+ciliated epithelial cells form tubules ,  generating coiled ,  branching units terminating in flame bulbs .
+the renal system is an anatomical system that maintains fluid balance and contributes to electrolyte balance ,  acid / base balance ,  and disposal of nitrogenous waste products .
+gut branches ,  originating from and connected to the primary gut branches ,  that extend laterally towards the body edge .
+a mature male germ cell that develops from a spermatid .
+fused yolk cells surrounding blastomeres undergoing dispersed cleavage during stages 1 and 2 .
+gut branches originating from and connected to the secondary gut branches .
+ovo +  neoblasts and post - mitotic eye progenitors that simultaneously migrate and differentiate into photoreceptor neurons and non - neuronal pigment cup cells comprising the optic cup .
+single cell layer of ventral ,  post - mitotic ,  heavily ciliated epithelial cells
+the pair of closely united ventral longitudinal nerves with their segmental ganglia that is characteristic of many elongate invertebrates  ( as earthworms )  [ bto ]  .
+diploid cell resulting from the fusion of male and female gametes at fertilization .
+the basic cellular unit of nervous tissue .
+a cell that is usually found in a two - dimensional sheet with a free surface .
+a mature contractile cell ,  commonly known as a myocyte .
+the central nervous system is the core nervous system that serves an integrating and coordinating function .
+straight or curved rod - like structures within the epidermal cells ,  oriented with long axis at right angles to the epidermal surface ,  that are discharged into mucous secretions .
+a cell that specializes in controlled release of one or more substances .
+an epithelial cell that has cilia .
+an extraembryonic cell ,  produced by somatic vitellogenic glands in adult hermaphrodites ,  that provides nutrition to the developing embryo .
+foxa1 +  neoblasts and their post - mitotic ,  differentiating daughters required for maintenance and regeneration of the pharynx .
+ciliated epithelial cells that assemble into proximal tubules .
+multicellular anatomical structure that consists of many cells of one or a few types ,  arranged in an extracellular matrix such that their long - range organisation is at least partly a repetition of their short - range organisation .
+multicellular ,  connected anatomical structure that has multiple organs as parts and whose parts work together to achieve some shared function .
+nonciliated epithelial cells that assemble into protonephridial distal tubules .
+anatomical entity that comprises the organism in the early stages of growth and differentiation that are characterized by cleavage ,  the laying down of fundamental tissues ,  and the formation of primitive organs and organ systems .
+anatomical structure that is part of an embryo .
+nonciliated epithelial cells that assemble into collecting ducts .
+a post - mitotic ,  terminally differentiated cell type found in planarian embryos ,  juveniles and / or adult animals .
+a cycling neoblast and / or post - mitotic cell that is primed or irreversibly committed to a tissue - specific differentation program
+a relatively undifferentiated cell that retains the ability to divide and proliferate throughout life to provide progenitor cells that can differentiate into specialized cells .
+a mature sexual reproductive cell having a single set of unpaired chromosomes .
+a cell of the embryo .
+the sensory system subserving the sense of vision .
+anatomical system that overlaps the nervous system and is responsible for receiving and processing sensory information .
+anatomical system that has as its parts the organs concerned with reproduction .
+ciliated epithelial cells that assemble into the oviduct .
+ciliated epithelial cells comprising the sperm ducts .
+piwi - 1 +  ,  nkx1 - 1 +  progenitor neoblasts required for specification of circular muscle fibers .
+primordia are populations of contiguous cells that are morphologically distinct and already correspond in extent to a later organ / tissue .
+a cell specialized to transduce mechanical stimuli and relay that information centrally in the nervous system .
+piwi - 1 +  ,  myod +  ,  snail - 1 +  progenitor neoblasts required for specification and creation of longitudinal muscle fibers .
+cells expressing nanos that are located ventrally in the location that the ovaries form .
+anatomical structure that is an individual member of schmidtea mediterranea or any other flatworm of the class turbellaria .
+the regrowth of a lost or destroyed body part ,  such as an organ or tissue .
+prog - 2 - 5 positive granules that range in size from 0 .5um to 1um present in epithelia and epithelia progenitor cells .
+compartment along the anteroposterior axis closer to the head rather than the tail ,  from the head margin to the esophagus .
+three dimensional compartment along the dorsoventral axis that is above the anteroposterior axis ,  containing the eyes .
+three dimensional compartment along the anteroposterior axis that is closer to the tail rather than the head ,  from the anterior boundary of the pharyngeal pouch to the tip of the tail .
+compartment along the dorsoventral axis that is below the anteroposterior axis .
+the passageway connecting the genital atrium to the copulatory bursa .
+the gonopore ,  a component of the copulatory apparatus ,  is an opening located on the ventral side of the animal posterior to the pharynx .
+a gonad containing female germline stem cells which fuel oocyte production .
+ciliated tubes adjacent to the ventral nerve cords ,  adjoining the tuba and the bursal canal ,  that transport fertilized oocytes to the genital atrium .
+a rounded protuberance ,  connected to the seminal vesicles ,  responsible for transferring semen into a mating partner's bursal canal .
+a network of tubes that transport sperm from the testes to the seminal vesicles .
+a gonad containing male germline stem cells which fuel sperm production .
+primitive ectoderm cells differentiate from the blastomere population ,  exit the cell cycle and interact to boud the embryo during stage 2 .
+a sexually immature member of the schmidtea mediterranea sexuallly reproducing biotype .
+products of the reproductive system include gametes ,  zygotes ,  yolk cells and egg capsules .
+a proteinaceous ,  semi - permeable shell housing yolk cells and one or more embryos .egg capsules are anchored to a substrate via a stalk .
+reproductive organ that produces and releases eggs  ( ovary )  or sperm  ( testis )  .
+cells coexpressing piwi - 1 and nanos that are required for male gonad formation .
+gh4 +  ,  nanos +  cells residing at the testis periphery that self - renew and give rise to differentiating daughters that will ultimately produce haploid sperm .
+an euploid male germ cell of an early stage of spermatogenesis .
+a tektin - 1 +  male germ cell that develops from spermatogonia .
+a male germ cell that develops from the haploid secondary spermatocytes .
+a piwi - 1 +  ,  nanos +  cell residing in the ovary that self - renews and give rise to oogonial cells that differentiate into oocytes .
+glands surrounding the genital atrium that are required for production of the proteinaceous egg capsule shell and stalk .
+1 .a gamete  ( as an egg or sperm cell )  or one of its antecedent cells .
+a male germ cell is a germ cell that supports male gamete production .
+female germ cell is a germ cell that supports female gamete production .
+a sperm storage organ located immediately posterior to the ovary ,  at the anterior end of the oviduct .
+glands surrounding the oviducts which produce yolk cells .
+accessory reproductive structures involved in copulation ,  egg capsule development and laying .
+an organ that receives and stores sperm from mating partners .
+glandular pouches adjoining the sperm ducts which produce seminal fluid .
+a cyst of 8 interconnected spermatocytes undergoes meiosis ,  producing 32 haploid round spermatids .
+spermatids expressing protein kinase a undergoing morphogenic changes to make mature sperm .
+an undifferentiated germ cell that proliferates rapidly and gives rise to oocytes .
+any collection of muscles that is part of a body wall  [ automatically generated definition ]  .
+pharynx muscle fibers running anteroposterior  ( proximal to distal )  .
+anatomical space enclosed by the pharynx inner epithelium .
+an anatomical space that is surrounded by a digestive tract .
+the orifice that connects the mouth to the exterior of the body .
+anatomical space between the pharynx and the epithelial cells comprising parapharyngeal pouch .
+the apical surface of the single layered epidermis that is in contact with the environment .
+the basal surface of the epidermis in direct contact with the basal lamina .
+the surface of the gastrodermis in contact with the gut lumen .
+the epithelial surface lining the interior of the pharynx ,  facing the lumen .
+epithelial surface covering the outside of the pharynx .
+the surface of the parapharyngeal pouch facing the pharynx .
+anatomical structure which is a subdivision of a whole adult or juvenile organism ,  consisting of components of multiple anatomical systems .
+the head is the anterior - most division of the body  [ go ]  .
+region of the juvenile or adult animal between the posterior end of the cephalic ganglia and the anterior end of the pharynx .
+region of the animal lateral to and surrounding the pharynx .
+caudal region ,  beginning at the mouth and ending at posterior pole .
+medial region of the tail ;  the parenchymal space between the posterior primary gut branches .
+anatomical structure which is a subdivision of a whole developing /  embryonic organism ,  consisting of components of multiple anatomical systems .
+an anatomical structure that has more than one cell as a part .
+total musculature of the planarian body .
+a heterogeneous population of pluripotent ,  somatic adult stem cells and lineage primed progenitors that are required for maintenance and regeneration of all cell types in planaria ,  including the germline .
+a part of an epithelial cell .
+anatomical structure that performs a specific function or group of functions .
+a decussation of the diencephalon where the fibers of the optic nerve cross
+a bundle of nerve fibers connecting the two cephalic ganglia .
+nerve branches that extend from the lateral side of each cephalic ganglia lobe .
+a cell that performs a sensory function .
+neurons that express choline acetyltransferase .
+neurons that express glutamine decarboxylase .
+plexus of nerves located in the pharynx comprised of inner and outer wall rings .
+plexus of nerves located just between the epidermis and the body wall musculature .
+plexus of nerves that innervate the body wall musculature .
+a thin net of single nerve fibers located around the gut .
+a cluster of neurites that is part of a nervous system and forms a network of dendrites and axons where synapses are present and in which neuronal somata do not occur .
+heavily ciliated epidermal cells covering the outer surface of the pharynx shaft .
+pharynx muscle fibers thar run circumferentially about the pharynx and lie just beneath the outer longitudinal pharynx muscles .
+pharynx muscle fiber that runs circumferentially about the pharynx and lies just beneath the inner logitudinal pharynx muscle fibers .
+pharynx muscle fibers running anteroposterior which lie beneath both the inner circular muscle fibers and the apical ,  ciliated portion of the epithium lining the lumenal surface .
+pharynx muscle fibers running anteroposterior which lie just underneath the apical ,  cilaited portion of the outer epithelium .
+pharynx muscle fibers that run radially ,  connecting the outer muscle fibers and epithelia with their inner counterparts .
+the total musculature within the pharynx .
+ring of the pharynx nerve plexus that is proximal to the lumen .
+ring of the pharynx nerve plexus that is proximal to the exterior surface .
+neurons that express the neurotransmitter serotonin .
+a neuron that expresses the neurotransmitter dopamine .
+neurons that express the biogenic amine octopamine .
+anatomical system that has as its parts cells and glands devoted to the discharge of substances such as mucus .
+specialized insunk epithelial cells located in the mesenchyme that participate in mucus secretion .
+the opening by which the gland cells secrete mucus to the exterior of the animal .
+one of two distinct histochemical classes of gland cells ,  these can be found throughout the body but primarily form clusters of subepidermal marginal adhesive glands along the dorsoventral border of the animal .
+one of two distinct histochemical classes of gland cells ,  these are found near the ventral mesenchyme ,  the pharynx and in the dorsal region of the head .
+anatomical junction where subdivisions of two or more neural trees interconnect with one another to form a network through which nerve fibers of the constituent nerve trees become regrouped ;  together with other nerve plexuses ,  nerves and ganglia ,  it constitutes the peripheral nervous system .
+any of the nerve fiber tracts that span the longitudinal fissure between the cerebral and / or cerebellar hemispheres of the brain
+a regenerating tissue composed of a proliferative mass of undifferentiated progenitor cells from which new differentiated structures arise .
+a material entity of anatomical origin  ( part of or deriving from an organism )  that has as its parts a maximally connected cell compartment surrounded by a plasma membrane .
+a prolongation or process extending from a cell .
+a cell projection supported by an assembly of actin filaments .
+thin cylindrical membrane - covered projections on the surface of an animal cell containing a core bundle of actin filaments .
+extended zone of intimate apposition between two cells containing one or more types of intercellular junctions .
+a cellular component that forms a specialized region of connection between two or more cells or between a cell and the extracellular matrix .
+a cell junction that forms a connection between two or more cells in a multicellular organism ;  excludes direct cytoplasmic junctions such as ring canals .
+the attachment of one cell to another cell via adhesion molecules .
+any constituent part of the living contents of a cell ;  the matter contained within  ( but not including )  the plasma membrane ,  usually taken to exclude large vacuoles and masses of secretory or ingested material .
+all of the contents of a cell excluding the plasma membrane and nucleus ,  but including other subcellular structures
+any constituent part of the cytoplasm ,  all of the contents of a cell excluding the plasma membrane and nucleus ,  but including other subcellular structures .
+any constituent part of cytoplasmic vesicle ,  a vesicle formed of membrane or protein ,  found in the cytoplasm of a cell .
+a closed structure ,  found only in eukaryotic cells ,  that is completely surrounded by unit membrane and contains liquid material .
+organized structure of distinctive morphology and function ,  occurring within the cell .
+organized structure of distinctive morphology and function ,  not bounded by a lipid bilayer membrane and occurring within the cell .
+a lipid bilayer along with all the proteins and protein complexes embedded in it an attached to it .
+examples include the outer membranes of double membrane bound organelles such as mitochondria as well as the bounding membranes of single - membrane bound organelles such as lysosomes .
+any constituent part of a membrane ,  a double layer of lipid molecules that encloses all cells ,  and ,  in eukaryotes ,  many organelles ;  may be a single or double lipid bilayer ;  also includes associated proteins .
+any constituent part of the plasma membrane ,  the membrane surrounding a cell that separates the cell from its external environment .
+a membrane that is one of the two lipid bilayers of an organelle envelope or the outermost membrane of single membrane bound organelle .
+organized structure of distinctive morphology and function .
+organized structure of distinctive morphology and function ,  bounded by a single or double lipid bilayer membrane .
+organized structure of distinctive morphology and function ,  bounded by a single or double lipid bilayer membrane and occurring within the cell .
+a compound membranous cytoplasmic organelle of eukaryotic cells ,  consisting of flattened ,  ribosome - free vesicles arranged in a more or less regular stack .
+a membrane - bounded organelle of eukaryotic cells in which chromosomes are housed and replicated .
+a cytoplasmic ,  membrane bound vesicle that is capable of fusing to the plasma membrane to release its contents into the extracellular space .
+organized structure of distinctive morphology and function ,  not bounded by a lipid bilayer membrane .
+any constituent part of the nucleus ,  a membrane - bounded organelle of eukaryotic cells in which chromosomes are housed and replicated .
+a small ,  dense body one or more of which are present in the nucleus of eukaryotic cells .
+the ordered and organized complex of dna ,  protein  ( histones )  ,  and sometimes rna ,  that forms the chromosome .
+a compact and highly condensed form of chromatin .
+a dispersed and relatively uncompacted form of chromatin .
+organized structure of distinctive morphology and function ,  not bounded by a lipid bilayer membrane .
+a group of axons linking two or more neuropils and having a common origin ,  termination
+a cell whose function is determined by its response to an electric signal .
+a cell that initiates an electrical signal and passes that signal to another cell .
+an enclosed ,  cable - like bundle of axons in the peripheral nervous system originating in a nerve root in the central nervous system  ( or a condensed nervous structure )  connecting with peripheral structures .
+a fasciculated bundle of neuron projections  ( go:0043005 )  ,  largely or completely lacking synapses .
+a neuron which conveys sensory information centrally from the periphery .
+a type of interneuron that has two neurites ,  usually an axon and a dendrite ,  extending from opposite poles of an ovoid cell body .
+a neuron that has an axon which crosses the midline .
+a neuron which sends impulses peripherally to activate muscles or secretory cells .
+a motor neuron that is capable of directly inducing muscle contraction .
+most generally any neuron which is not motor or sensory .
+any neuron having a sensory function ;  an afferent neuron conveying sensory impulses .
+an efferent neuron that passes from the central nervous system or a ganglion toward or to a muscle and conducts an impulse that causes or inhibits movement .
+neuronal cells which synthesize ,  store and release neurohormones .
+sympathetic neurons are part of the sympathetic nervous system and are primarily adrenergic producing the neurotransmitter noradrenalin along with other neuropeptides .
+neuron with one neurite that extends from the cell body .
+neuron with an axon and two or more dendrites .
+cells that are in close proximity to neurons .
+any neuron that is part of a central nervous system .
+any neuron that is part of a peripheral nervous system .
+a neruon whose cell body is within an autonomic ganglion .
+a neruon whose cell body is within an autonomic ganglion .
+acellular anatomical structure that consists of a thin sheet of fibrous proteins that underlie and support the cells of an epithelium .
+rhabdites that are located basally to the epidermis ,  in the mesenchyme .
+a cell junction at which anchoring proteins  ( cadherins or integrins )  extend through the plasma membrane and are attached to actin filaments .
+finger - like processes at the terminal pore of adhesive gland cells around the marginal adhesive zone .
+a wound resulting in two or more separate tissue fragments .
+a branch of the triclad gut located anterior to the pharynx .
+the anterior - medial region of the head margin .
+a chamber formation in an organ .
+a sense organ located along the dorsolateral head margin .
+the long process of a neuron that conducts nerve impulses ,  usually away from the cell body to the terminals and varicosities ,  which are sites of storage and release of neurotransmitter .
+the bundle of microtubules and associated proteins that forms the core of cilia  ( also called flagella )  in eukaryotic cells and is responsible for their movements .
+a membrane - tethered ,  short cylindrical array of microtubules and associated proteins found at the base of a eukaryotic cilium  ( also called flagellum )  that is similar in structure to a centriole and derives from it .
+region of the cephalic ganglia innervated by the optic nerve  ( posterior - projecting photoreceptor neuron fasiculated axons )  .
+an enlarged portion of the seminal vesicle ,  comprised of secretory epithelial cells ,  that connects to the ejaculatory duct within the penis papilla .
+irradiation - sensitive ,  mesenchymal cells that are absent from the head region anterior to the eyes and the pharynx .
+the portion of a cell bearing surface projections such as axons ,  dendrites ,  cilia ,  or flagella that includes the nucleus ,  but excludes all cell projections .
+one of two bilaterally symmetric structures comprising the planarian brain .
+a central nervous system neuron located within the planarian brain .
+amputation carried out by application of chemicals .
+amputation of the phaynx ,  including the esophagus ,  by treatment with sodium azide .
+any neuron that capable of some detection of chemical stimulus involved in sensory perception .
+a membrane - less ,  cytoplasmic ribonucleoprotein granule present in neoblasts and germ cells implicated in post - transcriptional regulation .
+a structure composed of a very long molecule of dna and associated proteins  ( e .g .
+under the microscope chromosomes appear as thin ,  thread - like structures .
+epithelium bearing vibratile cilia on the free surface .
+a specialized eukaryotic organelle that consists of a filiform extrusion of the cell surface and of some cytoplasmic parts .
+a bundle of nerve fibers crossing from one side to the other side of the brain or spinal cord .
+a wound or cleft resulted from tissue separation into parts or laid open or penetrated with a sharp edge or instrument .
+a neuron projection that has a short ,  tapering ,  morphology .
+a muscle cell that runs in the transverse plane that connects the dorsal and ventral sides of the animal .
+a premeiotic female germ cell  ( i .e . ,  a diploid female germline stem cell or transit amplifying oogonial cell )  .
+a premeiotic male germ cell  ( i .e . ,  a spermatogonial stem cell or transit amplifying spermatogonial cell )  .
+a cryptic digestive cavity comprised of phagocytic embryonic gut cells .
+an epithelial cell of the integument  ( the outer layer of an organism )  .
+rhabdites located within epidermal cells .
+the lipid bilayer surrounding the endoplasmic reticulum .
+the black pigment that gives non - neuronal pigment cells of the optic cup their characteristic color .
+a cell involved in the elimination of metabolic and foreign toxins ,  and in maintaining the ionic ,  acid - base and water balance of biological fluids .
+a structure lying external to one or more cells ,  which provides structural support ,  biochemical or biomechanical cues for cells or tissues .
+that part of a multicellular organism outside the cells proper ,  usually taken to be outside the plasma membranes ,  and occupied by fluid .
+a form of asexual reproduction resulting in self - amputation of posterior tissue ,  generating an anterior fragment and a fission fragment .
+planarian undulipodia consisting of spermatazoa cell posterior protrusions .
+a cell - cell junction composed of pannexins or innexins and connexins ,  two different families of channel - forming proteins .
+a chamber where egg capsules are formed .
+a clonally - related group of interconnected spermatogonial or oogonial cells ,  enveloped by somatic gonadal cells .
+stem cell that is the precursor of gametes .
+cytoplasmic bead - like structures of animal cells ,  visible by electron microscope .
+a breach of the epidermis made with a defined edge or point .
+epithelial cells lining the inside of the pharynx .
+gland or secretory cells sandwiched between muscle and epidermal layers in the pharynx .
+a cell junction that forms a connection between two or more cells in a multicellular organism ;  excludes direct cytoplasmic junctions such as ring canals .
+an amputation performed with a transverse ,  oblique or longitudinal cut .
+a breach of the epidermis and optionally down into other structures though an insult with a knife or other instrument ,  such that the movement includes the z direction and one or more of the x y direction .
+an intracellular non - membrane - bounded organelle comprising a matrix of coalesced lipids surrounded by a phospholipid monolayer .
+the cavity or channel within a tube or tubular organ such as a blood vessel or the intestine .
+zone present along the lateral dorsoventral boundary that sits just underneath the animal ,  in contact with substrates .
+any neuron that is capable of some detection of mechanical stimulus involved in sensory perception .
+subset of dorsal - ventral muscle cells located in the medial body region .
+a germ cell undergoing meiosis .
+a tissue - specific ,  membrane - bounded cytoplasmic organelle within which melanin pigments are synthesized and stored .
+a secreted ,  mucin - rich extracellular substance coating the epidermal surface of the animal implicated in gliding locomotion ,  substrate adhesion ,  innate immunity and predator avoidance .
+the external opening and terminus of a protonephridium made by a terminal cell .
+cell appendage of the neuron which includes the axon and the dendrite .
+a neuron that produces and releases neuropeptides at chemical synapses .
+differentiating ,  immature epidermal cells lacking cilia .
+the double lipid bilayer enclosing the nucleus and separating its contents from the rest of the cytoplasm ;  includes the intermembrane space ,  a gap of width 20 - 40 nm  ( also called the perinuclear space )  .
+the inner ,  i .e .lumen - facing ,  lipid bilayer of the nuclear envelope .
+the volume enclosed by the nuclear inner membrane .
+the outer ,  i .e .cytoplasm - facing ,  lipid bilayer of the nuclear envelope ;  continuous with the endoplasmic reticulum of the cell and sometimes studded with ribosomes .
+the portion of the nuclear lumen proximal to the inner nuclear membrane .
+parenchymal cells that synthesize and contain brown ommonchrome pigment .
+a neuron projection bundle that connects the retina or its analog in the eye with the brain .
+heavily ciliated ,  insunk epithelial cells bounding the outside of the pharynx .
+a cell that engulfs large particles or cells via invagination of the plasma membrane and creation of a phagosome .
+the distal - most end of the pharnyx containing an opening to the pharynx lumen .
+a pigment cell is a cell that contains pigment granules .
+a small ,  subcellular membrane - bounded vesicle containing pigment and / or pigment precursor molecules .
+an amputation of tissue ,  usually though the whole depth of the animal encompassing both dorsal and ventral sides ,  often made with a biopsy punch .
+a breach of the epidermis made with a defined edge or point .
+an anatomical space that is an opening ,  usually at the end of a canal or duct ,  on the surface of the integument or the lining of an internal anatomical space .
+a haploid gamete undergoing terminal differentiation .
+a specialized area of membrane facing the presynaptic membrane on the tip of the nerve ending and separated from it by a minute cleft  ( the synaptic cleft )  .
+a diploid germline stem cell or transit amplifying germ cell that has not committed to undergoing meiotic dna replication ,  reductive divisions or terminal differentiation .
+the part of a synapse that is part of the presynaptic cell .
+terminal inflated portion of the axon ,  containing the specialized apparatus necessary to release neurotransmitters .
+a secretory organelle ,  typically 50 nm in diameter ,  of presynaptic nerve terminals ;  accumulates in high concentrations of neurotransmitters and secretes these into the synaptic cleft by fusion with the 'active zone' of the presynaptic plasma membrane .
+the largest branch of the triclad intestine .
+four large phagocytic cells associated with the embryonic pharynx .
+gut branches originating from and connected to the tertiary gut branches .
+an organ involved in reproduction
+any anatomical structure that is part of the reproductive system .
+the light sensing structure consisting of photoreceptor neuron dendrites that project into the optic lumen and show close associations with eumelanin - containing pigment cup cells .
+the dendritic process of a bipolar photoreceptor neuron that projects into the optic cup lumen and senses light .
+a tubular structure that transports secreted or excreted substances .
+a small subcellular vesicle ,  surrounded by a membrane ,  that is formed from the golgi apparatus and contains a highly concentrated protein destined for secretion .
+one of the cells of the body that compose the tissues ,  organs ,  and parts of that individual other than the germ cells .
+a non - germline cell within the ovary or testis .
+a presumptive progenitor cell that expresses both pan - neoblast markers and pro - differentiation gene ( s )  ,  frequently developmental transcription factors ,  implicated in lineage commitment and tissue - specific differentiation programs .
+a thin ,  flexible rod that anchors an egg capsule to a solid substrate .
+a wound produced by non - autonomous physical means .
+the junction between a nerve fiber of one neuron and another neuron ,  muscle fiber or glial cell .
+the narrow gap that separates the presynaptic and postsynaptic membranes ,  into which neurotransmitter is released .
+a secretory organelle ,  typically 50 nm in diameter ,  of presynaptic nerve terminals ;  accumulates in high concentrations of neurotransmitters and secretes these into the synaptic cleft by fusion with the 'active zone' of the presynaptic plasma membrane .
+a proteinaceous scaffold found between homologous chromosomes during meiosis .
+the posterior - medial region of the tail margin .
+the terminal region of a linear chromosome that includes the telomeric dna repeats and associated proteins .
+a cell - cell junction  in invertebrates that seals cells together in an epithelium in a way that prevents even small molecules from leaking from one side of the sheet to the other .
+a piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures .
+an injury that breaches the epidermis .
+a sorted cell population enriched for irradiation - sensitive ,  cycling cells  ( 4n cells ,  with high levels of hoescht 33342 staining )  with scant cytoplasm  ( low levels of calcein - am staining )  .
+a heterogeneous sorted cell population of unstained planarian cells with similar size and complexity to irradiation - sensitive ,  cycling cells contained in the x1 gate .
+a sorted cell population containing irradiation - sensitive and irradiation - insensitive cells ,  characterized by weak hoescht 33342 and calcein - am staining .
+a sorted cell population of irradiation - insensitive cells that contains a variety of post - mitotic ,  differentiated cell types .
+posterior to the pharynx .
+adjacent to blastema ,  or proximal to blastema .
+a fragment derived from a spontaneous or induced fission event .
+the avascular cellular layers that cover body surfaces and cavities and may form glands .
+the triclad planarian gut is serially bifrucated into connected lumens where each bifrucation is a branch .
+organ that is associated with an embryo and derived from the zygote from which it develops ,  but which does not contribute to the embryo proper or to structures that are part of the same organism after embryogenesis .
+this is a manufactured term ,  that serves the purpose of allow the parts of a chromosome to have an is_a path to the root .
+an event or occurrence that causes damage to a tissue or organ .
+structural element of a chromosome ,  for example ,  a telomere and a centromere
+a longitudinal fragment containing the preexisting midline and medial structures .
+a longitudinal fragment lacking a midline and medial structures .
+a piece of tissue isolated from the body .
+a region bounded by any sagittal plane though the animal and the left or right side of the animal .
+an intentional wound produced by non - autonomous chemical means .
+a wound resulting from the removal of tissue ,  usually though the whole depth of the animal encompassing both dorsal and ventral sides ,  often made with a biopsy punch .
+a wound resulting from the removal of a piece of tissue from the lateral margin at any given point that extends interiorly to more medial structures .
+a fragment that has undergone wound healing and is undergoing tissue replacement and morphallaxis .
+an orientation quality inhering in a bearer by virtue of the bearer having a position that is in the sagittal plane .
+an orientation quality inhering in a bearer by virtue of the bearer having a position that is in the parasagittal plane ,  which runs longitudinally ,  and is never medial .
+an anatomical entity consisting of a single or a few multinucleated structures
+cytoplasmic part which forms a distinctive granular particle ,  which may or may not be visible using light microscopy .
+any number of cells from dissociated planarian tissue sorted via a facs sorter for any parameter .
+cells isolated from dissociated planarian tissue .
+an epithelial monolayer lining the pharynx pouch cavity .
+epithelial surface lining the sperm duct .
+a loosely organized collection of connective tissue and cells ,  including neoblasts and their immediate progeny ,  located in the space outside of the organs between the body wall musculature and the gut .
+the dorsal region of the tail .
+the lateral region of the medio - lateral axis of the whole animal .
+the anterior region of the eye .
+the posterior region of the eye .
+the center - most region just anterior to the pharynx
+cell which is part of the testis
+cell which is part of the ventral epidermis
+cell which is part of the visual system
+cell which is part of the eye
+cell which is part of the enteric musculature
+cell which is part of the dorsal region of the epidermis
+cell which is part of the adhesion gland
+cell which is part of the body wall musculature
+cell which is part of the gastrodermis
+cell which is part of the anterior pole
+neuron which is part of the pharynx
+epithelial cell which is part of the pharynx
+muscle cell which is part of the pharynx
+epithelial cell which is part of the pharynx pouch
+pigment granule which is part of the eumelanin
+pigment granule which is part of the ommochrome pigment cell
+cell which is part of the parenchyma
+cell which is part of the parapharyngeal region
+cell which is part of the prepharyngeal region
+neoblast undergoing mitotic g1 phase
+neoblast undergoing mitotic s phase
+neoblast undergoing mitotic g2 phase
+neoblast undergoing mitotic prophase
+neoblast undergoing mitotic metaphase
+neoblast undergoing mitotic anaphase
+neoblast undergoing mitotic telophase
+spermatogonial stem cell undergoing mitotic g1 phase
+spermatogonial stem cell undergoing mitotic s phase
+spermatogonial stem cell undergoing mitotic g2 phase
+spermatogonial stem cell undergoing mitotic prophase
+spermatogonial stem cell undergoing mitotic metaphase
+spermatogonial stem cell undergoing mitotic anaphase
+spermatogonial stem cell undergoing mitotic telophase
+oogonial stem cell undergoing mitotic g1 phase
+oogonial stem cell undergoing mitotic s phase
+oogonial stem cell undergoing mitotic g2 phase
+oogonial stem cell undergoing mitotic prophase
+oogonial stem cell undergoing mitotic metaphase
+oogonial stem cell undergoing mitotic anaphase
+oogonial stem cell undergoing mitotic telophase
+spermatogonium undergoing mitotic g1 phase
+spermatogonium undergoing mitotic s phase
+spermatogonium undergoing mitotic g2 phase
+spermatogonium undergoing mitotic prophase
+spermatogonium undergoing mitotic metaphase
+spermatogonium undergoing mitotic anaphase
+spermatogonium undergoing mitotic telophase
+oogonial cell undergoing mitotic g1 phase
+oogonial cell undergoing mitotic s phase
+oogonial cell undergoing mitotic g2 phase
+oogonial cell undergoing mitotic prophase
+oogonial cell undergoing mitotic metaphase
+oogonial cell undergoing mitotic anaphase
+oogonial cell undergoing mitotic telophase
+germ cell cyst undergoing mitotic g1 phase
+germ cell cyst undergoing mitotic s phase
+germ cell cyst undergoing mitotic g2 phase
+germ cell cyst undergoing mitotic prophase
+germ cell cyst undergoing mitotic metaphase
+germ cell cyst undergoing mitotic anaphase
+germ cell cyst undergoing mitotic telophase
+spermatocyte undergoing meiotic s phase
+spermatocyte undergoing meiotic g1 phase
+spermatocyte undergoing meiotic g2 phase
+spermatocyte undergoing meiotic prophase i
+spermatocyte undergoing leptotene
+spermatocyte undergoing zygotene
+spermatocyte undergoing pachytene
+spermatocyte undergoing diplotene
+spermatocyte undergoing diakinesis
+spermatocyte undergoing meiotic metaphase i
+spermatocyte undergoing meiotic anaphase i
+spermatocyte undergoing meiotic telophase i
+spermatocyte undergoing meiosis ii cell cycle phase
+spermatocyte undergoing meiotic prophase ii
+spermatocyte undergoing meiotic metaphase ii
+spermatocyte undergoing meiotic anaphase ii
+spermatocyte undergoing meiotic telophase ii
+this primordium develops into cephalic ganglia
+this primordium develops into eye
+this primordium develops into pharynx
+this primordium develops into optic cup
+this primordium develops into testis
+this primordium develops into gonad
+this primordium develops into ovary
+lumen which is part of the protonephridia
+lumen which is part of the testis
+lumen which is part of the ovary
+lumen which is part of the flame cell
+a progenitor cell that gives rise to one or more of the cell type ( s )  in the nervous system .
+a progenitor cell that gives rise to one or more of the cell type ( s )  in the dorsal epidermis .
+a progenitor cell that gives rise to optic cup cells of the eye .
+a progenitor cell that gives rise to one or more of the cell type ( s )  in the epidermis .
+this progenitor cell develops into testis somatic gonadal cell
+a fragment derived from a prepharyngeal amputation encompassing the head .
+a fragment derived from pre -  and post - pharyngeal amputations ,  encompassing the pharynx and parapharyngeal region .
+a fragment derived from a postpharyngeal amputation encompassing the tail .
+a fragment derived from two prepharyngeal amputations ,  removing the head and posterior regions of the animal .
+a fragment derived from two postpharyngeal amputations ,  removing the anterior region and the tail tip .
+a fragment encompassing all or part of the anterior region of the animal .
+a fragment encompassing all or part of the posterior region of the animal .
+a fragment derived from an amputation parallel to or along any edge ,  which overlaps the lateral region ,  dorso - lateral region ,  ventro - lateral region ,  antero - lateral margin ,  lateral margin ,  ventro - lateral margin ,  postero - lateral margin ,  dorso - lateral margin ,  antero - lateral region ,  postero - lateral region .
+a fragment derived from an amputation parallel to the midline .
+a 3d piece of tissue ,  usually though the whole depth of the animal encompassing both dorsal and ventral sides ,  often made with a biopsy punch .
+a piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures .
+the dorsal region of a fragment derived from a prepharyngeal amputation encompassing the head .
+the ventral region of a fragment derived from a prepharyngeal amputation encompassing the head .
+the anterior region of a fragment derived from a prepharyngeal amputation encompassing the head .
+the posterior region of a fragment derived from a prepharyngeal amputation encompassing the head .
+the dorsal region of a fragment derived from pre -  and post - pharyngeal amputations ,  encompassing the pharynx and parapharyngeal region .
+the ventral region of a fragment derived from pre -  and post - pharyngeal amputations ,  encompassing the pharynx and parapharyngeal region .
+the anterior region of a fragment derived from pre -  and post - pharyngeal amputations ,  encompassing the pharynx and parapharyngeal region .
+the posterior region of a fragment derived from pre -  and post - pharyngeal amputations ,  encompassing the pharynx and parapharyngeal region .
+the dorsal region of a fragment derived from a postpharyngeal amputation encompassing the tail .
+the ventral region of a fragment derived from a postpharyngeal amputation encompassing the tail .
+the anterior region of a fragment derived from a postpharyngeal amputation encompassing the tail .
+the posterior region of a fragment derived from a postpharyngeal amputation encompassing the tail .
+the dorsal region of a fragment derived from two prepharyngeal amputations ,  removing the head and posterior regions of the animal .
+the ventral region of a fragment derived from two prepharyngeal amputations ,  removing the head and posterior regions of the animal .
+the anterior region of a fragment derived from two prepharyngeal amputations ,  removing the head and posterior regions of the animal .
+the posterior region of a fragment derived from two prepharyngeal amputations ,  removing the head and posterior regions of the animal .
+the dorsal region of a fragment derived from two postpharyngeal amputations ,  removing the anterior region and the tail tip .
+the ventral region of a fragment derived from two postpharyngeal amputations ,  removing the anterior region and the tail tip .
+the anterior region of a fragment derived from two postpharyngeal amputations ,  removing the anterior region and the tail tip .
+the posterior region of a fragment derived from two postpharyngeal amputations ,  removing the anterior region and the tail tip .
+the dorsal region of a fragment encompassing all or part of the anterior region of the animal .
+the ventral region of a fragment encompassing all or part of the anterior region of the animal .
+the anterior region of a fragment encompassing all or part of the anterior region of the animal .
+the posterior region of a fragment encompassing all or part of the anterior region of the animal .
+the dorsal region of a fragment encompassing all or part of the posterior region of the animal .
+the ventral region of a fragment encompassing all or part of the posterior region of the animal .
+the anterior region of a fragment encompassing all or part of the posterior region of the animal .
+the posterior region of a fragment encompassing all or part of the posterior region of the animal .
+the dorsal region of a fragment derived from an amputation parallel to or along any edge ,  which overlaps the lateral region ,  dorso - lateral region ,  ventro - lateral region ,  antero - lateral margin ,  lateral margin ,  ventro - lateral margin ,  postero - lateral margin ,  dorso - lateral margin ,  antero - lateral region ,  postero - lateral region .
+the ventral region of a fragment derived from an amputation parallel to or along any edge ,  which overlaps the lateral region ,  dorso - lateral region ,  ventro - lateral region ,  antero - lateral margin ,  lateral margin ,  ventro - lateral margin ,  postero - lateral margin ,  dorso - lateral margin ,  antero - lateral region ,  postero - lateral region .
+the anterior region of a fragment derived from an amputation parallel to or along any edge ,  which overlaps the lateral region ,  dorso - lateral region ,  ventro - lateral region ,  antero - lateral margin ,  lateral margin ,  ventro - lateral margin ,  postero - lateral margin ,  dorso - lateral margin ,  antero - lateral region ,  postero - lateral region .
+the posterior region of a fragment derived from an amputation parallel to or along any edge ,  which overlaps the lateral region ,  dorso - lateral region ,  ventro - lateral region ,  antero - lateral margin ,  lateral margin ,  ventro - lateral margin ,  postero - lateral margin ,  dorso - lateral margin ,  antero - lateral region ,  postero - lateral region .
+the dorsal region of a fragment derived from an amputation parallel to the midline .
+the ventral region of a fragment derived from an amputation parallel to the midline .
+the anterior region of a fragment derived from an amputation parallel to the midline .
+the posterior region of a fragment derived from an amputation parallel to the midline .
+the dorsal region of a piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures .
+the ventral region of a piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures .
+the anterior region of a 3d piece of tissue ,  usually though the whole depth of the animal encompassing both dorsal and ventral sides ,  often made with a biopsy punch .
+the posterior region of a 3d piece of tissue ,  usually though the whole depth of the animal encompassing both dorsal and ventral sides ,  often made with a biopsy punch .
+the anterior region of a piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures .
+the posterior region of a piece of tissue removed from the lateral margin at any given point that extendes interiorly to more medial structures .
+photoreceptor neuron is contained in the anterior region of the eye
+photoreceptor neuron is contained in the posterior region of the eye
+muscle cell is contained in the lateral region
+muscle cell is contained in the anterior region
+muscle cell is contained in the posterior region
+blastema which develops into head region
+blastema which develops into tail region
+a head fragment that is regenerating
+a trunk fragment that is regenerating
+a tail fragment that is regenerating
+a prepharyngeal fragment that is regenerating
+a postpharyngeal fragment that is regenerating
+a anterior fragment that is regenerating
+a posterior fragment that is regenerating
+a lateral fragment that is regenerating
+a longitudinal fragment that is regenerating
+a plug fragment that is regenerating
+a wedge fragment that is regenerating
+a fully formed ,  sexually mature organism that reproduces through cross - fertilization .
+asexually reproducing schmidtea mediterranea exist as constitutive adults ,  undergoing successive cycles of fission and whole animal regeneration .
+dmd - 1 +  expressing somatic cells within the testis that promote male gsc maintenance .
+ophis +  somatic cells  ( gh4 -  ,  nanos -  )  in the ovary that may provide trophic support to female germline stem cells and differentiating oogonia .
+axis that runs from the oral pole and to the aboral pole of the spherical embryo  ( stage 3 through early stage 6 )  .
+the apical surface of the single layered primitive ectoderm that is in contact with the environment .
+the surface of the primitive gut cells in contact with the embryonic wall .
+the surface of phagocytic embryonic gut cells in contact with ingested yolk cells .
+the epithelial cell surface lining the embryonic pharynx lumen .
+an undifferentiated ,  cycling embryonic cell in stage 1 - 5 embryos that expresses piwi - 1 ,  numerous adult asexual neoblast enriched genes ,  and early embryo enriched genes .
+post - mitotic ,  terminally differentiated cells which ,  give rise to temporary embryonic tissues .
+a neuronal cell innervating the embryonic pharynx .
+differentiated radial muscle cell present in the embryonic pharynx .
+foxa1 +  epithelial cell contained in the embryonic pharynx .
+differentiated muscle cell present in a circular muscle fiber of the embryonic pharynx .
+portion of the sexual biotype body plan immediately posterior to the parapharyngeal region ,  and immediately anterior to the tail .
+epithelia associated with the pharynx organ .
+connected anatomical system that forms a barrier between an animal and its environment .
+anatomical space enclosed by the oviduct epithelium .
+anatomical space enclosed by the sperm duct epithelium .
+ciliated epithelium lining the oviduct .
+ciliated epithelium lining the sperm duct .
+anatomical space enclosed by tuba .
+anatomical plane which divides the body into right and left parts .
+the membrane surrounding a cell that separates the cell from its external environment .
+organized structure of distinctive morphology and function ,  occurring outside the cell .
+a spherical to rod shaped organelle that generates the majority of a cell's supply of atp via cellular respiration .
+network of interconnected ,  flattened ,  and / or tubular membrane ,  known as cisternae .
+network of interconnected ,  flattened ,  and / or tubular membrane ,  known as cisternae .
+endoplamic reticulum that does not contain ribosomes ,  which synthesizes lipids ,  phospholipids ,  and steroids .
+any of the numerous similar discrete openings in the nuclear envelope of a eukaryotic cell ,  where the inner and outer nuclear membranes are joined .
+the digestive component of the cell .
+axis that runs along the long axis of the animal from anterior  ( head )  to posterior  ( tail )  .
+axis that runs along the short axis of the animal ,  perpendicular to the anteroposterior axis ,  running from the dorsal  ( back )  side of the animal to the ventral  ( belly )  side of the animal .
+axis perpendicular to both the anteroposterior and dorsoventral axis that runs from the left side of the animal ,  through the medial region  ( center )  and out to the right side .
+axis that runs from the center of the body ,  starting at the anteroposterior axis and out to the lateral  ( left ,  right ,  dorsal or ventral )  surface of the animal .
+axis that starts at the distal part of an appendage ,  closest to the body ,  and runs to the proximal part of an appendage ,  farthest from the body .
+distinct anterior cluster of muscle cells located at the midline which express notum ,  follistatin ,  zic - 1 ,  and foxd .
+distinct posterior cluster of muscle cells located at the midline which express wnt1 .
+a non - neuronal cell of the nervous system .
+a biological tissue mass of nerve cell bodies .
+heavily ciliated epidermal cells covering the inner surface of the pharynx shaft .
+pharynx muscle fibers running circumferentially about the pharynx .
+groupings of specialized epithelial cells located along the dorsal ventral margin .
+specialized epithelial cell located along the dorsoventral margin that surrounds the viscid and releasing gland cells .
+a specialized insunk epithelial cell that is part of the adhesion glands which is responsible for production and excretion of the viscid substance allowing adherence to a substrate .
+specialized insunk epithelial cell that is part of the adhesion gland which is responsible for production of releasing substance .
+a subset of trpa +  neurons ,  located medially in the cephalic ganglia ,  whose formation is dependent on function of runt - 1 and ap2 .
+a subset of sensory neurons located along the dorsal head margin .
+piwi - 1 +  ,  runt - 1 +  ,  ap2 +  progenitor neoblasts required for production of trpa +  neurons .
+piwi - 1 +  ,  foxd +  ,  prep +  progenitor neoblasts required for formation of the anterior pole .
+axon tracts from ganglia that cross the midline ,  connecting the two ventral nerve cords .
+piwi - 1 +  ,  lhx1 / 5 - 1 +  ,  pitx +  progenitor neoblasts required for specification of tph +  serotonergic neurons .
+piwi - 1 +  ,  klf +  progenitor neoblasts required for production of cintillo +  sensory neurons .
+a population of piwi - 2 +  ,  ston - 2 +  ,  elav - 2 +  ,  ptprd - 9 +  and msi - 1 +  progenitors that give rise to one or more neuronal  ( pc - 2 +  ,  synapsin +  )  lineages .
+a nerve extending laterally from the ventral nerve cord that innervates the submuscular plexus .
+piwi - 1 +  ,  pax3 / 7 +  progenitor neoblasts implicated in the production of dbh +  ventral midline neurons .
+a lumen enclosed by the embryonic pharynx epithelial cells through which yolk cells are transported into the embryonic gut cavity .
+nerve plexus surrounding the testis .
+transverse anatomical plane ,  located approximately 1 - 2 mm from the posterior extremity of an adult animal ,  at which fission occurs .
+nerve plexus surrounding the ovary .
+peripheral region of the head .
+neurons that express the biogenic amine glutamate .
+an individual member of the sexual biotype of schmidtea mediterranea .
+an individual member of the asexual biotype of schmidtea mediterranea .
+a neuron cell that does not have cilia .
+a neuron that has cilia .
+a life cycle stage that starts with fertilization and ends with the fully formed embryo .
+a spatiotemporal region encompassing some part of the life cycle of an organism .
+anatomical structure which is a subdivision of a whole organism ,  consisting of components of multiple anatomical systems ,  largely surrounded by a contiguous region of integument .
+anatomical structure that consists of cell parts and cell substances and together does not constitute a cell or a tissue .
+anatomical space which contains portions of one or more body substances and is bounded by the internal surface of one maximally connected anatomical structure .
+x ventral to y iff x is further along the dorso - ventral axis than y ,  towards the front .

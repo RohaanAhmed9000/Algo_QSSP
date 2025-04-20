@@ -1,0 +1,408 @@
+a process in which a person or machine sees or detects a material entity and selects it as worthy of observation ,  and which has as output an information content entity about the selected material entity .
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a continuant that inheres in or is borne by other entities .
+b is a generically dependent continuant = def .
+the production of new individuals that contain some portion of genetic material inherited from one or more parent organisms .
+a developmental process in which a progressive change in the state of some part of an organism specifically contributes to its ability to form offspring .
+the biological process whose specific outcome is the progression of a multicellular organism over time from an initial condition  ( e .g .
+a developmental process that is a deterioration and loss of function over time .
+any process specifically pertinent to the functioning of integrated living units: cells ,  tissues ,  organs ,  and organisms .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+the process whose specific outcome is the progression of the organism over time ,  from the completion of embryonic development to the mature structure .
+the controlled shedding of a body part .
+the physiological and developmental changes that occur in a seed commencing with water uptake  ( imbibition )  and terminating with the elongation of the embryonic axis .
+the process whose specific outcome is the progression of the flower over time ,  from its formation to the mature structure .
+protection mechanism used by plants under conditions of excess energy absorption as a consequence of the light reactions of photosynthesis .
+a biological process that directly contributes to the process of producing new individuals by one or two organisms .
+a developmental process in which dormancy  ( sometimes called a dormant state )  is induced ,  maintained or broken .
+any biological process ,  occurring at the level of a multicellular organism ,  pertinent to its function .
+a biological process whose specific outcome is the progression of an integrated living unit: an anatomical structure  ( which may be a subcellular structure ,  cell ,  tissue ,  or organ )  ,  or organism over time from an initial condition to a later condition .
+a biological process that involves only one organism .
+a biological process that directly contributes to the process of producing new individuals ,  involving a single organism .
+a biological process occurring within a single ,  multicellular organism .
+a biological process whose specific outcome is the progression of an integrated living unit: an anatomical structure  ( which may be a subcellular structure ,  cell ,  tissue ,  or organ )  ,  or organism over time from an initial condition to a later condition ,  involving only one organism .
+the process whose specific outcome is the progression of the shoot system over time ,  from its formation to the mature structure .
+the process whose specific outcome is the progression of the floral organ over time ,  from its formation to the mature structure .
+the reproductive developmental process whose specific outcome is the progression of structures that will be used in the process of creating new individuals from one or more parents ,  from their formation to the mature structures .
+the process whose specific outcome is the progression of an organismal system over time ,  from its formation to the mature structure .
+the biological process whose specific outcome is the progression of an anatomical structure from an initial condition to its mature state .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+the controlled shedding of a leaf .
+the progression of the reproductive system over time from its formation to the mature structure .
+an organ senescence that has as a participant a floral organ .
+the process whose specific outcome is the progression of the seedling over time ,  beginning with seed germination and ending when the first adult leaves emerge .
+the process whose specific outcome is the progression of a reproductive shoot system over time ,  from its formation to the mature structure .
+the process that occurs in a plant organ near the end of its active life that is associated with the dismantling of cell components and membranes ,  and an overall decline in metabolism .
+a dormancy process in which dormancy  ( sometimes called a dormant state )  is induced ,  maintained or broken in a bud .
+the dormancy process that results in entry into dormancy .
+the dormancy process that results in exit from dormancy .
+development of a plant organ ,  a multi - tissue plant structure that forms a functional unit .
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+a generically dependent continuant that is about some thing .
+the curation status of the term .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+the reason for which a term has been deprecated .
+a denotator type indicates how a term should be interpreted from an ontological perspective .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+a dependent entity that inheres in a bearer by virtue of how the bearer is related to other entities
+a plant structure  ( po:0005679 )  which is a whole organism .
+a phyllome primordium  ( po:0025128 )  that develops from a cotyledon anlagen  ( po:0025432 )  and is part of a vegetative shoot apex  ( po:0025223 )  and is committed to the development of a cotyledon  ( po:0020030 )  .
+a phyllome primordium  ( po:0025128 )  that develops from a vascular leaf anlagen  ( po:0025431 )  and is part of a vegetative shoot apex  ( po:0025223 )  and is committed to the development of a vascular leaf  ( po:0009025 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of an ovule  ( po:0020003 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of a gynoecium  ( po:0009062 )  .
+a shoot axis  ( po:0025029 )  that is the most distal part of a shoot system  ( po:0009006 )  and has as parts a shoot apical meristem  ( po:0020148 )  and the youngest primordia  ( po:0025127 )  .
+an undeveloped shoot system  ( po:0009006 )  .
+a bud that develops into a flower .
+a bud that develops into an inflorescence .
+a bud  ( po:0000055 )  that develops into a vegetative shoot system  ( po:0025607 )  .
+a portion of meristem tissue  ( po:0009013 )  which is the organogenic region of the meristem ,  characterized by higher rates of cell division .
+a portion of reproductive shoot apical meristem tissue  ( po:0008028 )  that gives rise to the floral organs  ( po:0025395 )  .
+a multi - tissue plant structure development stage  ( po:0025571 )  that has as primary participant a single fruit  ( po:0009001 )  .
+a phyllome development stage  ( po:0025579 )  during which the development of vascular leaves  ( po:0009025 )  and non - vascular leaves  ( po:0025075 )  occurs .
+a vascular leaf development stage  ( po:0025570 )  which begins with the onset of the vascular leaf anlagen formation stage  ( po:0001003 )  and ends with the termination of the vascular leaf primordium polarity determination stage  ( po:0001052 )  .
+a vascular leaf development stage  ( po:0025570 )  during which vascular leaf size increases primarily through cell expansion .
+a vascular leaf development stage  ( po:0025570 )  that begins when the vascular leaf  ( po:0009025 )  is fully expanded and ends with the onset of the vascular leaf senescence stage  ( po:0001054 )  .
+a vascular leaf development stage  ( po:0025570 )  that begins with the formation of a abscission zone at the base of a vascular leaf  ( po:0009025 )  and ends with leaf separation and death .
+a reproductive shoot system development stage  ( po:0025530 )  that has as primary participant a inflorescence  ( po:0009049 )  .
+a sporophyte development stage  ( po:0007134 )  that occurs during the interval between fertilization and the first cell division of the plant zygote  ( po:0000423 )  .
+a multi - tissue plant structure development stage  ( po:0025571 )  that has as primary participant a seed  ( po:0009010 )  .
+a native plant cell  ( po:0025606 )  synthesizing protoplasm and producing new cells by division and with only a primary cell wall .
+the earliest stage of seed development immediately following double fertilization .
+stage of seed development characterized by seed growth and differentiation .
+a shoot system that is initiated from a shoot .
+a phyllome primordium  ( po:0025128 )  that develops from a stamen anlagen  ( po:0025486 )  and is committed to the development of a stamen  ( po:0009029 )  .
+a strobilus  ( po:0025083 )  that bears only pollen  ( po:0025281 )  .
+a strobilus  ( po:0025083 )  that bears only plant ovules  ( po:0020003 )  .
+a lateral plant organ  ( po:0009008 )  produced by a shoot apical meristem  ( po:0020148 )  .
+a portion of meristem tissue  ( po:0009013 )  that is part of a shoot system  ( po:0009006 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of an anther  ( po:0009066 )  .
+a portion of meristem tissue  ( po:0009013 )  that is the outer layer of an apical meristem  ( po:0020144 )  ,  or the outer layer of a plant embryo proper  ( po:0000001 )  ,  and gives rise to a portion of epidermis  ( po:0005679 )  .
+a sporophyte reproductive stage  ( po:0007130 )  during which a flower  ( po:0009046 )  on a whole plant  ( po:0000003 )  is open .
+a plant structure development stage  ( po:0009012 )  that has as primary participant a whole plant  ( po:0000003 )  .
+a sporophyte vegetative stage  ( po:0007134 )  which begins with the onset of a seed imbibition stage  ( po:0007022 )  and ends with a radicle emergence stage  ( po: 0007015 )  ,  or a coleorhiza emergence stage  ( po:0025475 )  ,  as a result of the growth by the plant embryo  ( po:0004537 )  in a seed  ( po:0009010 )  .
+a sporophyte development stage that occurs during the interval between the initiation of a sporangium and the onset of senescence .
+a sporophyte development stage  ( po:0028002 )  that occurs during the interval between the first division of a plant zygote  ( po:0000423 )  and the formation of a sporangium  ( po:0025094 )  .
+a reproductive shoot system development stage  ( po:0025530 )  that occurs in an individual flower  ( po:000904 )  during the interval between the onset of a flower meristem transition stage  ( po:0025588 )  and the end of a flowering stage  ( po:0007616 )  .
+a flower development stage  ( po:0007615 )  that begins when pollen  ( po:0025281 )  is released by anther dehiscence  ( go:0009901 )  and / or the stigma  ( po:0009073 )  is receptive and ends with the process of pollination  ( go:0009856 )  and / or floral organ senescence  ( go:0080187 )  .
+stage during which the seed storage products  ( storage proteins ,  lipids and starch )  are being accumulated ,  either in the cotyledons or in the endosperm .
+stages of development of the endosperm .
+a shoot apical meristem  ( po:0020148 )  that gives rise to the apical growth of vegetative tissues and organs .
+a shoot apical meristem  ( po:0020148 )  that gives rise to the apical growth of reproductive tissues and organs .
+a multi - tissue plant structure  ( po:0025496 )  that develops from a gynoecium  ( po:0009062 )  ,  or a single carpel  ( po:0009030 )  ,  and at maturity may have as parts one or more seeds  ( po:0009010 )  .
+a cell which is a plant structure  ( po:0009011 )  .
+a collective plant organ structure  ( po:0025007 )  that produces shoot - borne portions of meristem tissue  ( po:0009013 )  and the plant structures  ( po:0009011 )  that arise from them .
+a plant structure  ( po:0009011 )  that consists predominantly of similarly specialized plant cells  ( po:0009002 )  of one or more types .
+a multi - tissue plant structure  ( po:0025496 )  that is a functional unit ,  is a proper part of a whole plant  ( po:0000003 )  ,  and includes portions of plant tissue  ( po:0009007 )  of at least two different types that derive from a common developmental path .
+a whole plant  ( po:0000003 )  that participates in the plant embryo stage  ( po:0007631 )  .
+a multi - tissue plant structure  ( po:0025496 )  that develops from a plant ovule  ( po:0020003 )  and has as parts a plant embryo  ( po:0009009 )  enclosed in a seed coat  ( po:0009088 )  .
+an anatomical structure that is or was part of a plant ,  or was derived from a part of a plant .
+a stage in the life of a plant structure  ( po:0009011 )  during which the plant structure undergoes developmental processes .
+a portion of plant tissue  ( po:0009007 )  in which plant cells  ( po:0009002 )  have retained their embryonic characteristics ,  or have reverted to them secondarily ,  and that divide to produce new cells that can undergo differentiation to form mature tissues ,  i .e .
+a leaf  ( po:0025034 )  in a vascular plant .
+a leaf - like organ on which one or more sporangia are borne .
+a structure on which one or more microsporangia are borne ;  in flowering plants ,  the stamen .
+a microsporophyll bearing one or more microsporangia .
+a bract  ( po:0009055 )  that subtends a perianth  ( po:0009058 )  that is part of a flower  ( po:0009046 )  .
+the lower ,  usually larger ,  of the pair of flower bracts  ( po:0009034 )  enclosing a  ( po:0009082 )  spikelet floret .
+the upper  ( distal )  ,  usually smaller ,  of the pair of flower bracts  ( po:0009034 )  enclosing a  ( po:0009082 )  spikelet floret .
+one of a pair of inflorescence bracts that is part of a spikelet and subtends the two florets .
+a determinate reproductive shoot system  ( po:0025082 )  that has as part at least one carpel  ( po:0009030 )  or at least one stamen  ( po:0009029 )  and does not contain any other determinate shoot system  ( po:0009006 )  as a part .
+a reproductive shoot system  ( po:0025082 )  that has as parts all of the shoot axes  ( po:0025029 )  distal to the most distal foliage leaf  ( po:0009025 )  of a shoot axis and all of the flowers  ( po:0009046 )  borne by those axes .
+a reproductive shoot system  ( po:0025082 )  that is the ultimate and congested inflorescence branch  ( po:0009081 )  of the grasses .
+a bract  ( po:0009055 )  subtending a branch of the inflorescence  ( po:0009049 )  or borne on the inflorescence axis  ( po:0020122 )  below any branch  ( po:0025073 )  or flower  ( po:0009046 )  .
+a phyllome that subtends a reproductive structure .
+a collective phyllome structure  ( po:0025023 )  composed all of the stamens  ( po:0009029 )  in a flower  ( po:0009046 )  .
+a collective phyllome structure  ( po:0025023 )  composed all of the carpels  ( po:0009030 )  in a flower  ( po:0009046 )  .
+a collective plant organ structure  ( po:0025007 )  that is the pollen - bearing part of a stamen  ( po:0009029 )  .
+a small flower  ( po:0009046 )  that is part of a spikelet  ( po:0009051 )  .
+a plant organ  ( po:0009008 )  that has as parts a nucellus  ( po:0020020 )  in which a female gametophyte  ( po:0025279 )  is located ,  one or two integuments  ( po:0020021 )  ,  and a funicle  ( po:0020006 )  .
+a vascular leaf  ( po:0009025 )  formed at the first shoot node  ( po:0005004 )  of a plant embryo  ( po:0009009 )  or a seedling  ( po:0000003 )  .
+a maximal portion of meristem tissue  ( po:0009013 )  located at a shoot apex  ( po:0000037 )  or root tip  ( po:0000025 )  .
+a shoot system meristem  ( po:0006079 )  formed at the apex of the shoot axis  ( po:0025029 )  ,  including those originating from an axillary bud meristem  ( po:0000232 )  .
+an axial plant organ  ( po:0009008 )  .
+a collective plant structure  ( po:0025497 )  that is a proper part of a whole plant  ( po:0000003 )  ,  and is composed of two or more adjacent plant organs  ( po:0009008 )  and the associated portions of plant tissue  ( po:0009007 )  .
+a collective plant organ structure  ( po:0025007 )  that consists of two or more phyllomes  ( po:0006001 )  originating from the same node or from one or more adjacent nodes with compressed shoot internodes  ( po:0005005 )  .
+a native plant cell  ( po:0025606 )  that is part of a plant embryo  ( po:0009009 )  .
+a plant axis  ( po:0025004 )  that is part of a shoot system  ( po:0009006 )  .
+a phyllome  ( po:0006001 )  that is not associated with a reproductive structure .
+a shoot system  ( po:0009006 )  in the sporophytic phase that has as part at least one sporangium  ( po:0025094 )  .
+a reproductive shoot system  ( po:0025082 )  consisting of a number of sporophylls  ( po:0009026 )  or plant ovule  ( po:0020003 )  - bearing modified leaves  ( po:0025034 )  grouped terminally on a stem  ( po:0009047 )  .
+a bud that develops into a reproductive shoot system .
+a plant organ  ( po:0009008 )  in which plant spores  ( po:0025017 )  are produced .
+a plant structure  ( po:0009011 )  that is part of an plant embryo  ( po:0009009 )  .
+a portion of meristem tissue  ( po:0009013 )  that has as parts protoderm  ( po:0006210 )  and sub - epidermal meristematic tissue and is committed to the development of a particular plant structure  ( po:0009011 )  .
+a primordium  ( po:0025127 )  that develops from a phyllome anlagen  ( po:0025430 )  and is part of a shoot apex  ( po:0000037 )  and is committed to the development of a phyllome  ( po:0006001 )  .
+a sporangium  ( po:0025094 )  in which microspores  ( po:0020048 )  are produced .
+a shoot apex that has as part a reproductive shoot apical meristem .
+a shoot apex po:0000037 )  that has as part a vegetative shoot apical meristem  ( po:0008016 )  .
+a portion of plant tissue  ( po:0009007 )  that is part of a plant embryo  ( po:0009009 )  .
+a microsporangium that is part of a sporophyll and where the pollen grains develop and are located after they develop .
+a maximal whole plant development stage .
+a plant structure development stage  ( po:0009012 )  that has as primary participant a collective plant structure  ( po:0025497 )  .
+a multi - tissue plant structure development stage  ( po:0025571 )  that has as primary participant a plant organ  ( po:0009008 )   .
+a plant organ  ( po:0009008 )  that is part of a flower  ( po:0009046 )  .
+a portion of meristem tissue  ( po:0009013 )  that is part of a peripheral zone  ( po:0000225 )  of a shoot apical meristem  ( po:0020148 )  and will give rise to a phyllome primordium  ( po:0025128 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a vascular leaf primordium  ( po:0000017 )  and is part of a peripheral zone  ( po:0000225 )  of a shoot apical meristem  ( po:0020148 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a cotyledon primordium  ( po:0000015 )  and is part of a peripheral zone  ( po:000225 )  of an embryo shoot apical meristem  ( po:0006362 )  .
+a primordium  ( po:0025127 )  that is committed to the development of a floral organ  ( po:0025395 )  and is part of a reproductive shoot apex  ( po:0025222 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of an androecium  ( po:0009061 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a bract primordium  ( po:0025487 )  and is part of a peripheral zone  ( po:000225 )  of a reproductive shoot apical meristem  ( po:0008028 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a stamen primordium  ( po:0004705 )  and is part of a peripheral zone  ( po:000225 )  of a flower meristem  ( po:0000229 )  .
+a phyllome primordium  ( po:0025487 )  that is committed to the development of a flower bract  ( po:0009055 )  .
+a bract primordium  ( po:0025128 )  is committed to the development of a flower bract  ( po:0009034 )  .
+a bract primordium  ( po:0025128 )  is committed to the development of an inflorescence bract  ( po:0009054 )  .
+a plant structure  ( po:0009011 )  that has as parts two or more portions of plant tissue  ( po:0009007 )  of at least two different types and which through specific morphogenetic processes forms a single structural unit demarcated by primarily bona - fide boundaries from other structural units of different types .
+a plant structure  ( po:0009011 )  that is a proper part of a whole plant  ( po:0000003 )  and includes two or more adjacent plant organs  ( po:0009008 )  or adjacent cardinal organ parts  ( po:0025001 )  ,  along with any associated portions of plant tissue  ( po:0009007 )  .
+a fruit development stage  ( po:0001002 )  during which a single fruit  ( po:0009001 )  participates in the process of fruit ripening  ( go:0009835 )  .
+a collective plant organ structure development stage  ( po:0025338 )  that begins with the onset of the plant organ development stage  ( po:0025339 )  and ends with either gametophyte senescent stage  ( po:0025343 )  or sporophyte senescent stage  ( po:0007017 )  or death .
+a shoot system development stage  ( po:0025527 )  that has as primary participant a bud  ( po:0009006 )  .
+a shoot system development stage  ( po:0025527 )  that has as primary participant a reproductive shoot system  ( po:0025082 )  .
+a bud development stage  ( po:0025528 )  during which a bud  ( po:0009006 )  enlarges due to growth of the shoot system  ( po:0009006 )  .
+a shoot system development stage  ( po:0025527 )  during which a shoot system  ( po:0009006 )  emerges from the bud  ( po:0009006 )  .
+a leaf development stage  ( po:0001050 )  that occurs during the interval between the onset of the vascular leaf initiation stage  ( po:0001051 )  and the termination of the vascular leaf senescent stage  ( po:0001054 )  .
+a plant structure development stage  ( po:0009012 )  that has as primary participant a multi - tissue plant structure  ( po:0025496 )  .
+a vascular leaf development stage  ( po:0025570 )  that begins with the formation of procambium  ( po:0025275 )  and protoderm  ( po:0006210 )  and ends with the formation and differentiation of the leaf epidermis  ( po:0006016 )  and leaf vascular system  ( po:0000036 )  and all the specialized cells of the vascular leaf .
+a plant organ development stage  ( po:0025339 )  that has a primary participant a phyllome  ( po:0025023 )  .
+a flower development stage  ( po:0007615 )  that occurs in an individual flower  ( po:000904 )  during the interval between the onset of a floral organ meristem development stage  ( po:0007601 )  and the onset of a flowering stage  ( po:0007616 )  .
+a flower development stage  ( po:0007615 )  which begins with the transition of a portion of meristem tissue  ( po:0009013 )  to a flower meristem  ( po:0000229 )  and ends with the onset of the floral organ formation stage  ( po:0025585 )  .
+a plant cell  ( po:0009002 )  that is either part of a multicellular whole plant  ( po:0000003 )  'in vivo' or a unicellular organism 'in natura'  ( i .e .
+a shoot system  ( po:0009006 )  that has as parts only vegetative tissues and organs .
+a whole plant development stage  ( po:0007033 )  that has as primary participant a whole plant  ( po:0000003 )  during the interval between fertilization  ( or apogamy )  and death .
+a 'vegetative shoot system'  ( po:0025607 )  that does not yet have any unfolded true leaves  ( ppo:0001015 )  .
+a po:'vegetative bud'  ( po:0000058 )  that is participating in a go:'bud dormancy process'  ( go:0097207 )  .
+a po:'vegetative bud'  ( po:0000058 )  that is not participating in a go:'bud dormancy process'  ( go:0097207 )  .
+a 'non - dormant leaf bud'  ( ppo:0001010 )  that is in the 'bud swell stage'  ( po:0025531 )  .
+a 'non - dormant leaf bud'  ( ppo:0001010 )  that is in the 'bud burst stage'  ( po:0025532 )  .
+a 'vascular leaf'  ( po:0009025 )  that is not a 'cotyledon'  ( po:0020030 )  .
+a 'expanding true leaf'  ( ppo:0001022 )  that is in the 'vascular leaf unfolding stage'  ( ppo:0007005 )  .
+a 'true leaf'  ( ppo:0001013 )  that is in the 'vascular leaf expanding unfolded stage'  ( ppo:0007006 )  or 'vascular leaf post - expansion stage'  ( po:0001053 )  or 'vascular leaf senescent stage'  ( po:0001054 )  .
+a 'unfolded true leaf'  ( ppo:0001015 )  that is in the 'vascular leaf expanding unfolded stage'  ( ppo:0007006 )  or 'vascular leaf post - expansion stage'  ( po:0001053 )  .
+a 'unfolded true leaf'  ( ppo:0001015 )  that is in the 'vascular leaf senescent stage'  ( po:0001054 )  .
+a 'non - senescing unfolded true leaf'  ( ppo:0001016 )  that is in the 'vascular leaf expanding unfolded stage'  ( ppo:0007006 )  or 'vascular leaf expanded immature stage'  ( ppo:0007007 )  .
+a 'non - senescing unfolded true leaf'  ( ppo:0001016 )  that is in the 'vascular leaf mature stage'  ( ppo:0007008 )  .
+a 'expanding true leaf'  ( ppo:0001022 )  that is in the 'vascular leaf expanding unfolded stage'  ( ppo:0007006 )  .
+a 'immature unfolded true leaf'  ( ppo:0001018 )  that is in the 'vascular leaf expanded immature stage'  ( ppo:0007007 )  .
+a 'true leaf'  ( ppo:0001013 )  that is in the 'vascular leaf expansion stage'  ( po:0001052 )  .
+a 'plant structure'  ( po:0009011 )  that is either a 'reproductive shoot system'  ( po:0025082 )  or a 'fruit'  ( po:0009001 )  .
+a 'seed'  ( po:0009010 )  that has participated in a 'seed maturation stage'  ( po:0007632 )  .
+a 'floral structure'  ( ppo:0001025 )  that has completed 'floral organ senescence'  ( go:0080187 )  .
+a 'flower'  ( po:0009046 )  in which all the petaloid floral organs  ( po:0025395 )  have not completed 'floral organ senescence'  ( go:0080187 )  .
+a 'non - senesced flower'  ( ppo:0001031 )  that is in the 'unopened flower stage'  ( ppo:0007009 )  .
+a 'non - senesced flower'  ( ppo:0001031 )  that is in the 'open flower stage'  ( ppo:0007010 )  .
+an 'open flower'  ( ppo:0001033 )  that is in the 'pollen - releasing flower stage'  ( ppo:0007011 )  .
+a 'flower'  ( po:0009046 )  in which all of the petaloid floral organs  ( po:0025395 )  have completed 'floral organ senescence'  ( go:0080187 )  .
+an 'inflorescence'  ( po:0009049 )  with at least one 'non - senesced flower'  ( ppo:0001031 )  .
+a 'non - senesced flower head'  ( ppo:0001036 )  in which all flowers are unopened flowers  ( ppo:0001032 )  .
+a 'non - senesced flower head'  ( ppo:0001036 )  with at least one 'open flower'  ( ppo:0001033 )  .
+an 'open flower head'  ( ppo:0001038 )  with at least one 'pollen - releasing flower'  ( ppo:0001034 )  .
+an 'inflorescence'  ( po:0009049 )  on which there are no remaining non - senesced flowers  ( ppo:0001031 )  .
+a 'simple fruit or compound fruit'  ( ppo:0001042 )  that is in the po:'fruit ripening stage'  ( po:0025502 )  .
+a 'ripening fruit'  ( ppo:0001043 )  that is in the 'fruit unripe stage'  ( ppo:0007012 )  .
+a 'ripening fruit'  ( ppo:0001043 )  that is in the 'fruit ripe stage'  ( ppo:0007013 )  .
+a 'microsporangiate strobilus'  ( po:0005031 )  that has not yet completed the 'pollen - releasing strobilus stage'  ( ppo:0007016 )  .
+a 'fresh pollen cone'  ( ppo:0001046 )  that is in the 'open microsporangiate strobilus stage'  ( ppo:0007015 )  .
+a 'open pollen cone'  ( ppo:0001047 )  that is in the 'pollen - releasing strobilus stage'  ( ppo:0007016 )  .
+a 'megasporangiate strobilus'  ( po:0005032 )  that has not yet been abscised and has not yet releases all of its seeds .
+a 'fresh seed cone'  ( ppo:0001049 )  that is in the 'megasporangiate strobilus ripening stage'  ( ppo:0007017 )  .
+a 'ripening seed cone'  ( ppo:0001050 )  that is in the 'megasporangiate strobilus unripe stage'  ( ppo:0007018 )  .
+a 'ripening seed cone'  ( ppo:0001050 )  that is in the 'megasporangiate strobilus ripe stage'  ( ppo:0007019 )  .
+a po:'plant structure'  ( po:0009011 )  that is not a whole organism ;  i .e .
+a pato:'quality'  ( pato:0000001 )  of a 'portion of a plant'  ( ppo:0001053 )  or a 'whole plant'  ( po:0000003 )  that provides phenologically relevant information about the 'portion of a plant' or the 'whole plant' .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of some 'plant structure'  ( po:0009011 )  that are part of a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of some 'plant structure'  ( po:0009011 )  that a 'whole plant'  ( po:0000003 )  has abscised or that have been removed from a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of new shoot systems  ( ppo:0001003 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of new above - ground shoot - borne shoot systems  ( ppo:0001004 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of new shoot systems emerging from ground  ( ppo:0001005 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of new shoot systems emerging from ground in first growth cycle  ( ppo:0001006 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by whether or not a 'whole plant'  ( po:0000003 )  is a 'seedling'  ( ppo:0001007 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of new shoot systems emerging from ground in later growth cycle  ( ppo:0001008 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of vegetative buds  ( po:0000058 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of dormant leaf buds  ( ppo:0001009 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of non - dormant leaf buds  ( ppo:0001010 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of swelling leaf buds  ( ppo:0001011 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of breaking leaf buds  ( ppo:0001012 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of vascular leaves  ( po:0009025 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of true leaves  ( ppo:0001013 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of unfolding true leaves  ( ppo:0001014 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of unfolded true leaves  ( ppo:0001015 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of non - senescing unfolded true leaves  ( ppo:0001016 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of senescing true leaves  ( ppo:0001017 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of immature unfolded true leaves  ( ppo:0001018 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of mature true leaves  ( ppo:0001019 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of expanding unfolded true leaves  ( ppo:0001020 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of expanded immature true leaves  ( ppo:0001021 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of expanding true leaves  ( ppo:0001022 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of reproductive structures  ( ppo:0001023 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of floral structures  ( ppo:0001025 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of non - senesced floral structures  ( ppo:0001026 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of unopened floral structures  ( ppo:0001027 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of open floral structures  ( ppo:0001028 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of pollen - releasing floral structures  ( ppo:0001029 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of senesced floral structures  ( ppo:0001030 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of flowers  ( po:0009046 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of non - senesced flowers  ( ppo:0001031 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of unopened flowers  ( ppo:0001032 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of open flowers  ( ppo:0001033 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of pollen - releasing flowers  ( ppo:0001034 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of senesced flowers  ( ppo:0001035 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of inflorescences  ( po:0009049 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of non - senesced flower heads  ( ppo:0001036 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of unopened flower heads  ( ppo:0001037 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of open flower heads  ( ppo:0001038 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of pollen - releasing flower heads  ( ppo:0001039 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of senesced flower heads  ( ppo:0001040 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of simple fruit or compound fruits  ( ppo:0001042 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of ripening fruits  ( ppo:0001043 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of unripe fruits  ( ppo:0001044 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of ripe fruits  ( ppo:0001045 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of cones  ( strobili )   ( po:0025083 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of pollen cones  ( po:0005031 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of fresh pollen cones  ( ppo:0001046 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of open pollen cones  ( ppo:0001047 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of pollen - releasing pollen cones  ( ppo:0001048 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of seed cones  ( po:0005032 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of fresh seed cones  ( ppo:0001049 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of ripening seed cones  ( ppo:0001050 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of unripe seed cones  ( ppo:0001051 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of ripe seed cones  ( ppo:0001052 )  on a 'whole plant'  ( po:0000003 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of true leaves  ( ppo:0001013 )  that a 'whole plant'  ( po:0000003 )  has abscised .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of a whole plant's ripe fruits  ( ppo:0001045 )  that have been abscised or removed by an herbivore and / or the number of ripe fruits on a 'whole plant'  ( po:0000003 )  that have abscised at least one 'mature seed'  ( ppo:0001024 )  .
+a 'plant phenological trait'  ( ppo:0002000 )  that is measured by the number of a whole plant's ripe seed cones  ( ppo:0001052 )  that have been abscised or removed by an herbivore and / or the number of ripe seed cones on a 'whole plant'  ( po:0000003 )  that have abscised at least one 'mature seed'  ( ppo:0001024 )  .
+a 'plant structure presence'  ( ppo:0002001 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one of some 'plant structure'  ( po:0009011 )  .
+an 'new shoot system presence'  ( ppo:0002003 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'new shoot system'  ( ppo:0001003 )  .
+a 'new above - ground shoot - borne shoot system presence'  ( ppo:0002004 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'new above - ground shoot - borne shoot system'  ( ppo:0001004 )  .
+a 'new shoot system emerging from ground presence'  ( ppo:0002005 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'new shoot system emerging from ground'  ( ppo:0001005 )  .
+a 'new shoot system emerging from ground in first growth cycle presence'  ( ppo:0002006 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'new shoot system emerging from ground in first growth cycle'  ( ppo:0001006 )  .
+a 'seedling presence'  ( ppo:0002007 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that is a 'seedling'  ( ppo:0001007 )  .
+a 'new shoot system emerging from ground in later growth cycle presence'  ( ppo:0002008 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'new shoot system emerging from ground in later growth cycle'  ( ppo:0001008 )  .
+a 'leaf bud presence'  ( ppo:0002009 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one po:'vegetative bud'  ( po:0000058 )  .
+a 'dormant leaf bud presence'  ( ppo:0002010 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'dormant leaf bud'  ( ppo:0001009 )  .
+a 'non - dormant leaf bud presence'  ( ppo:0002011 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'non - dormant leaf bud'  ( ppo:0001010 )  .
+a 'swelling leaf bud presence'  ( ppo:0002012 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'swelling leaf bud'  ( ppo:0001011 )  .
+a 'breaking leaf bud presence'  ( ppo:0002013 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'breaking leaf bud'  ( ppo:0001012 )  .
+a 'vascular leaf presence'  ( ppo:0002014 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'vascular leaf'  ( po:0009025 )  .
+a 'true leaf presence'  ( ppo:0002015 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'true leaf'  ( ppo:0001013 )  .
+an 'unfolding true leaf presence'  ( ppo:0002016 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'unfolding true leaf'  ( ppo:0001014 )  .
+an 'unfolded true leaf presence'  ( ppo:0002017 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'unfolded true leaf'  ( ppo:0001015 )  .
+a 'non - senescing unfolded true leaf presence'  ( ppo:0002018 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'non - senescing unfolded true leaf'  ( ppo:0001016 )  .
+a 'senescing true leaf presence'  ( ppo:0002019 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'senescing true leaf'  ( ppo:0001017 )  .
+an 'immature unfolded true leaf presence'  ( ppo:0002020 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'immature unfolded true leaf'  ( ppo:0001018 )  .
+an 'mature true leaf presence'  ( ppo:0002021 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'mature true leaf'  ( ppo:0001019 )  .
+an 'expanding unfolded true leaf presence'  ( ppo:0002022 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'expanding unfolded true leaf'  ( ppo:0001020 )  .
+an 'expanded immature true leaf presence'  ( ppo:0002023 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'expanded immature true leaf'  ( ppo:0001021 )  .
+an 'expanding true leaf presence'  ( ppo:0002024 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'expanding true leaf'  ( ppo:0001022 )  .
+a 'reproductive structure presence'  ( ppo:0002025 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'reproductive structure'  ( ppo:0001023 )  .
+a 'floral structure presence'  ( ppo:0002026 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'floral structure'  ( ppo:0001025 )  .
+a 'non - senesced floral structure presence'  ( ppo:0002027 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'non - senesced floral structure'  ( ppo:0001026 )  .
+an 'unopened floral structure presence'  ( ppo:0002028 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'unopened floral structure'  ( ppo:0001027 )  .
+an 'open floral structure presence'  ( ppo:0002029 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'open floral structure'  ( ppo:0001028 )  .
+a 'pollen - releasing floral structure presence'  ( ppo:0002030 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'pollen - releasing floral structure'  ( ppo:0001029 )  .
+a 'senesced floral structure presence'  ( ppo:0002031 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'senesced floral structure'  ( ppo:0001030 )  .
+a 'flower presence'  ( ppo:0002032 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one po:'flower'  ( po:0009046 )  .
+a 'non - senesced flower presence'  ( ppo:0002033 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'non - senesced flower'  ( ppo:0001031 )  .
+an 'unopened flower presence'  ( ppo:0002034 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'unopened flower'  ( ppo:0001032 )  .
+an 'open flower presence'  ( ppo:0002035 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'open flower'  ( ppo:0001033 )  .
+a 'pollen - releasing flower presence'  ( ppo:0002036 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'pollen - releasing flower'  ( ppo:0001034 )  .
+a 'senesced flower presence'  ( ppo:0002037 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'senesced flower'  ( ppo:0001035 )  .
+a 'flower head presence'  ( ppo:0002038 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one po:'inflorescence'  ( po:0009049 )  .
+a 'non - senesced flower head presence'  ( ppo:0002039 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'non - senesced flower head'  ( ppo:0001036 )  .
+an 'unopened flower head presence'  ( ppo:0002040 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'unopened flower head'  ( ppo:0001037 )  .
+an 'open flower head presence'  ( ppo:0002041 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'open flower head'  ( ppo:0001038 )  .
+a 'pollen - releasing flower head presence'  ( ppo:0002042 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'pollen - releasing flower head'  ( ppo:0001039 )  .
+a 'senesced flower head presence'  ( ppo:0002043 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'senesced flower head'  ( ppo:0001040 )  .
+a 'fruit presence'  ( ppo:0002044 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'simple fruit or compound fruit'  ( ppo:0001042 )  .
+a 'ripening fruit presence'  ( ppo:0002045 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'ripening fruit'  ( ppo:0001043 )  .
+an 'unripe fruit presence'  ( ppo:0002046 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'unripe fruit'  ( ppo:0001044 )  .
+a 'ripe fruit presence'  ( ppo:0002047 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'ripe fruit'  ( ppo:0001045 )  .
+a 'cone presence'  ( ppo:0002048 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one cone  ( po:0025083 )  .
+a 'pollen cone presence'  ( ppo:0002049 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one pollen cone  ( po:0005031 )  .
+a 'fresh pollen cone presence'  ( ppo:0002050 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'fresh pollen cone'  ( ppo:0001046 )  .
+an 'open pollen cone presence'  ( ppo:0002051 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'open pollen cone'  ( ppo:0001047 )  .
+a 'pollen - releasing pollen cone presence'  ( ppo:0002052 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'pollen - releasing pollen cone'  ( ppo:0001048 )  .
+a 'seed cone presence'  ( ppo:0002053 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one po:'megasporangiate strobilus'  ( po:0005032 )  .
+a 'fresh seed cone presence'  ( ppo:0002054 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'fresh seed cone'  ( ppo:0001049 )  .
+a 'ripening seed cone presence'  ( ppo:0002055 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'ripening seed cone'  ( ppo:0001050 )  .
+an 'unripe seed cone presence'  ( ppo:0002056 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'unripe seed cone'  ( ppo:0001051 )  .
+a 'ripe seed cone presence'  ( ppo:0002057 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that has at least one 'ripe seed cone'  ( ppo:0001052 )  .
+an 'abscised plant structure presence'  ( ppo:0002002 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  from which at least one of some 'plant structure'  ( po:0009011 )  has been abscised or removed .
+an 'abscised leaf presence'  ( ppo:0002058 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  from which at least one 'true leaf'  ( ppo:0001013 )  has been 'abscised'  ( ppo:0000005 )  .
+an 'abscised fruit or seed presence'  ( ppo:0002059 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  from which at least one 'ripe fruit'  ( ppo:0001045 )  has been abscised or removed by an herbivore or that has at least one 'ripe fruit'  ( ppo:0001045 )  that has abscised at least one 'mature seed'  ( ppo:0001024 )  .
+an 'abscised cone or seed presence'  ( ppo:0002060 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  from which at least one 'ripe seed cone'  ( ppo:0001052 )  has been abscised or removed by an herbivore or that has at least one ripe seed cone that has 'abscised'  ( ppo:0000005 )  at least one 'mature seed'  ( ppo:0001024 )  .
+a 'new shoot system presence'  ( ppo:0002003 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any new shoot systems  ( ppo:0001003 )  .
+a 'new above - ground shoot - borne shoot system presence'  ( ppo:0002004 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any new above - ground shoot - borne shoot systems  ( ppo:0001004 )  .
+a 'new shoot system emerging from ground presence'  ( ppo:0002005 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any new shoot systems emerging from ground  ( ppo:0001005 )  .
+a 'new shoot system emerging from ground in first growth cycle presence'  ( ppo:0002006 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any new shoot systems emerging from ground in first growth cycle  ( ppo:0001006 )  .
+an 'seedling presence'  ( ppo:0002007 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that is not a 'seedling'  ( ppo:0001007 )  .
+a 'new shoot system emerging from ground in later growth cycle presence'  ( ppo:0002008 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any new shoot systems emerging from ground in later growth cycle  ( ppo:0001008 )  .
+a 'leaf bud presence'  ( ppo:0002009 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any vegetative buds  ( po:0000058 )  .
+a 'dormant leaf bud presence'  ( ppo:0002010 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any dormant leaf buds  ( ppo:0001009 )  .
+a 'non - dormant leaf bud presence'  ( ppo:0002011 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any non - dormant leaf buds  ( ppo:0001010 )  .
+a 'swelling leaf bud presence'  ( ppo:0002012 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any swelling leaf buds  ( ppo:0001011 )  .
+a 'breaking leaf bud presence'  ( ppo:0002013 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any breaking leaf buds  ( ppo:0001012 )  .
+a 'vascular leaf presence'  ( ppo:0002014 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any vascular leaves  ( po:0009025 )  .
+a 'true leaf presence'  ( ppo:0002015 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any true leaves  ( ppo:0001013 )  .
+an 'unfolding true leaf presence'  ( ppo:0002016 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any unfolding true leaves  ( ppo:0001014 )  .
+an 'unfolded true leaf presence'  ( ppo:0002017 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any unfolded true leaves  ( ppo:0001015 )  .
+a 'non - senescing unfolded true leaf presence'  ( ppo:0002018 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any non - senescing unfolded true leaves  ( ppo:0001016 )  .
+a 'senescing true leaf presence'  ( ppo:0002019 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any senescing true leaves  ( ppo:0001017 )  .
+an 'immature unfolded true leaf presence'  ( ppo:0002020 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any immature unfolded true leaves  ( ppo:0001018 )  .
+a 'mature true leaf presence'  ( ppo:0002021 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any mature true leaves  ( ppo:0001019 )  .
+an 'expanding unfolded true leaf presence'  ( ppo:0002022 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any expanding unfolded true leaves  ( ppo:0001020 )  .
+an 'expanded immature true leaf presence'  ( ppo:0002023 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any expanded immature true leaves  ( ppo:0001021 )  .
+an 'expanding true leaf presence'  ( ppo:0002024 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any expanding true leaves  ( ppo:0001022 )  .
+a 'reproductive structure presence'  ( ppo:0002025 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any reproductive structures  ( ppo:0001023 )  .
+a 'floral structure presence'  ( ppo:0002026 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any floral structures  ( ppo:0001025 )  .
+a 'non - senesced floral structure presence'  ( ppo:0002027 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any non - senesced floral structures  ( ppo:0001026 )  .
+an 'unopened floral structure presence'  ( ppo:0002028 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any unopened floral structures  ( ppo:0001027 )  .
+an 'open floral structure presence'  ( ppo:0002029 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any open floral structures  ( ppo:0001028 )  .
+a 'pollen - releasing floral structure presence'  ( ppo:0002030 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any pollen - releasing floral structures  ( ppo:0001029 )  .
+a 'senesced floral structure presence'  ( ppo:0002031 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any senesced floral structures  ( ppo:0001030 )  .
+a 'flower presence'  ( ppo:0002032 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any po:flowers  ( po:0009046 )  .
+a 'non - senesced flower presence'  ( ppo:0002033 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any non - senesced flowers  ( ppo:0001031 )  .
+an 'unopened flower presence'  ( ppo:0002034 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any unopened flowers  ( ppo:0001032 )  .
+an 'open flower presence'  ( ppo:0002035 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any open flowers  ( ppo:0001033 )  .
+a 'pollen - releasing flower presence'  ( ppo:0002036 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any pollen - releasing flowers  ( ppo:0001034 )  .
+a 'senesced flower presence'  ( ppo:0002037 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any senesced flowers  ( ppo:0001035 )  .
+a 'flower head presence'  ( ppo:0002038 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any po:inflorescences  ( po:0009049 )  .
+a 'non - senesced flower head presence'  ( ppo:0002039 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any non - senesced flower heads  ( ppo:0001036 )  .
+an 'unopened flower head presence'  ( ppo:0002040 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any unopened flower heads  ( ppo:0001037 )  .
+an 'open flower head presence'  ( ppo:0002041 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any open flower heads  ( ppo:0001038 )  .
+a 'pollen - releasing flower head presence'  ( ppo:0002042 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any pollen - releasing flower heads  ( ppo:0001039 )  .
+a 'senesced flower head presence'  ( ppo:0002043 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any senesced flower heads  ( ppo:0001040 )  .
+a 'fruit presence'  ( ppo:0002044 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any simple fruits or compound fruits  ( ppo:0001042 )  .
+a 'ripening fruit presence'  ( ppo:0002045 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any ripening fruits  ( ppo:0001043 )  .
+an 'unripe fruit presence'  ( ppo:0002046 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any unripe fruits  ( ppo:0001044 )  .
+a 'ripe fruit presence'  ( ppo:0002047 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any ripe fruits  ( ppo:0001045 )  .
+a 'cone presence'  ( ppo:0002048 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any cones  ( po:0025083 )  .
+a 'pollen cone presence'  ( ppo:0002049 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any pollen cones  ( po:0005031 )  .
+a 'fresh pollen cone presence'  ( ppo:0002050 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any fresh pollen cones  ( ppo:0001046 )  .
+an 'open pollen cone presence'  ( ppo:0002051 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any open pollen cones  ( ppo:0001047 )  .
+a 'pollen - releasing pollen cone presence'  ( ppo:0002052 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any pollen - releasing pollen cones  ( ppo:0001048 )  .
+a 'seed cone presence'  ( ppo:0002053 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any seed cones  ( po:0005032 )  .
+a 'fresh seed cone presence'  ( ppo:0002054 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any fresh seed cones  ( ppo:0001049 )  .
+a 'ripening seed cone presence'  ( ppo:0002055 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any ripening seed cones  ( ppo:0001050 )  .
+an 'unripe seed cone presence'  ( ppo:0002056 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any unripe seed cones  ( ppo:0001051 )  .
+a 'ripe seed cone presence'  ( ppo:0002057 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  that does not have any ripe seed cones  ( ppo:0001052 )  .
+an 'abscised plant structure presence'  ( ppo:0002002 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  from which none of some 'plant structure'  ( po:0009011 )  have been abscised or removed .
+an 'abscised leaf presence'  ( ppo:0002058 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  from which no true leaves  ( ppo:0001013 )  have been 'abscised'  ( ppo:0000005 )  .
+an 'abscised fruit or seed presence'  ( ppo:0002059 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  from which no ripe fruits  ( ppo:0001045 )  have been abscised or removed by herbivores and that does not have any ripe fruits that have 'abscised'  ( ppo:0000005 )  any mature seeds  ( ppo:0001024 )  .
+an 'abscised cone or seed presence'  ( ppo:0002060 )  trait that is a 'quality of'  ( ro:0000080 )  a 'whole plant'  ( po:0000003 )  from which no ripe seed cones  ( ppo:0001052 )  have been abscised or removed by herbivores and that does not have any ripe seed cones that have 'abscised'  ( ppo:0000005 )  any mature seeds  ( ppo:0001024 )  .
+a 'whole plant development stage'  ( po:0007033 )  that begins with 'seed germination'  ( go:0009845 )  or 'exit from dormancy'  ( go:0097438 )  ,  ends with death or 'entry into dormancy'  ( go:0097436 )  ,  and during which the participant plant is not dormant .
+a 'plant growth cycle'  ( ppo:0007000 )  that begins with 'seed germination'  ( go:0009845 )  .
+a 'plant growth cycle'  ( ppo:0007000 )  that begins with 'exit from dormancy'  ( go:0097438 )  of the participating plant .
+an 'observing process'  ( bco:0000003 )  that has as input a 'portion of a plant'  ( ppo:0001053 )  or a 'whole plant'  ( po:0000003 )  and has as output a 'measurement datum'  ( iao:0000109 )  that is a 'quality datum of'  ( ppo:0000007 )  some 'plant phenological trait'  ( ppo:0002000 )  .
+a 'vascular leaf expansion stage'  ( po:0001052 )  during which a 'vascular leaf'  ( po:0009025 )  participates in the process of unfolding .
+a 'vascular leaf expansion stage'  ( po:0001052 )  during which a 'vascular leaf'  ( po:0009025 )  has completed the process of unfolding but is still expanding in size .
+a 'fruit ripening stage'  ( po:0025502 )  in which the 'ripening fruit'  ( ppo:0001043 )  has not yet reached the 'fruit ripe stage'  ( ppo:0007013 )  .
+a 'fruit ripening stage'  ( po:0025502 )  in which the 'ripening fruit'  ( ppo:0001043 )  has completed ripening to the taxon - specific point at which it is widely considered by botanical experts to have seeds  ( po:0009010 )  that are developed enough to be ready for dispersal ,  or ,  in the case of agricultural crops ,  the point at which the 'fruit'  ( po:0009001 )  is considered palatable for human consumption .
+a 'megasporangiate strobilus ripening stage'  ( ppo:0007017 )  in which the 'ripening seed cone'  ( ppo:0001050 )  has not yet reached the 'megasporangiate strobilus ripe stage'  ( ppo:0007019 )  .
+a 'megasporangiate strobilus ripening stage'  ( ppo:0007017 )  in which the 'ripening seed cone'  ( ppo:0001050 )  has completed ripening to the taxon - specific point at which it is widely considered by botanical experts to have seeds  ( po:0009010 )  that are developed enough to be ready for dispersal .
+an occurrent  [ span:occurrent ]  that exists in time by occurring or happening ,  has temporal parts and always involves and depends on some entity .
+end of the life of an organism .
+a spatiotemporal region encompassing some part of the life cycle of an organism .

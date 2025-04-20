@@ -1,0 +1,3408 @@
+electrical resistance
+molecular property  ( general )
+molecular property
+charge flow rate
+continuant
+occurrent
+independent continuant
+obsolete dependent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+continuant fiat boundary
+process profile
+relational quality
+water
+atp
+biotin
+peptide
+deoxyribonucleic acid
+hydrogensulfite
+glucose
+5' - adenylyl sulfate
+molecular entity
+n - ethyl - n - nitrosourea
+proton
+luciferin
+sodium chloride
+lead ( 0 )
+acrylamide
+hydroxyl
+deuterium atom
+ruthenium atom
+egta
+fluorescein
+gadodiamide hydrate
+gadoteridol
+phenol red
+sodium citrate dihydrate
+calcium chloride
+atom
+rhodium atom
+gadolinium atom
+terbium atom
+nucleic acid
+ribonucleic acid
+amino acid
+macromolecule
+xe991
+gadodiamide
+phosphorus - 32 atom
+phosphorus - 33 atom
+digoxigenin
+ethylenediaminetetraacetic acid
+hepes
+5 - bromo - 2' - deoxyuridine
+chromium - 51
+alexa fluor 532
+alexa fluor 546
+alexa fluor 555
+cobalt chloride
+tritiated thymidine
+dimethyl sulfate
+diethyl pyrocarbonate
+1 , 1 - dihydroxy - 3 - ethoxy - 2 - butanone
+n - cyclohexyl - n' -  ( 2 -  ( 4 - morpholinyl ) ethyl ) carbodiimide
+n - methylisatoic anhydride
+ ( s )  - 1 -  ( 4 - bromoacetamidobenzyl ) edta
+edta methidiumpropylamide
+bromophenol blue
+chemical substance
+mixture
+oxygen radical
+cesium chloride
+magnesium chloride
+solution
+tetraethyl ammonium chloride
+tris
+fluorescence microscopy
+confocal fluorescence microscopy
+light microscopy
+liquid chromatography - tandem mass spectrometry
+cell line cell
+mortal cell line cell
+immortal cell line cell
+cell line
+immortal cell line
+mortal cell line
+cell
+primary cultured cell
+native cell
+cultured cell
+fibroblast
+epithelial cell
+t cell
+mast cell
+sensory epithelial cell
+hepatocyte
+receptor cell
+auditory hair cell
+erythrocyte
+macrophage
+b cell
+dendritic cell
+lymphocyte
+experimentally modified cell in vitro
+outer hair cell
+cd4 - positive ,  alpha - beta t cell
+cd8 - positive ,  alpha - beta t cell
+basophil
+plasma cell
+alpha - beta t cell
+cd8 - positive ,  alpha - beta cytotoxic t cell
+mature nk t cell
+mononuclear cell
+auditory epithelial cell
+soil
+podzol
+environmental material
+zone of bone organ
+zone of flat bone
+zone of temporal bone
+zone of organ
+zone of petrous part of temporal bone
+subdivision of bony labyrinth
+right cochlea
+left cochlea
+subdivision of cochlea
+anatomical structure
+organ region
+cardinal organ part
+geographic location
+core promoter binding
+action potential
+antibody - dependent cellular cytotoxicity
+type iv hypersensitivity
+cytokine production
+cell killing
+t cell mediated cytotoxicity
+adaptive immune response
+cytokine production involved in immune response
+platelet activating factor production
+tolerance induction
+b cell tolerance induction
+t cell tolerance induction
+hypersensitivity
+cytokine production involved in inflammatory response
+go:molecular_function
+antigen binding
+catalytic activity
+rna - directed dna polymerase activity
+ion channel activity
+cellular_component
+chromosome
+mitochondrion
+glucose metabolic process
+dna replication
+dna methylation
+chromatin remodeling
+phagocytosis
+immune response
+cellular response to dna damage stimulus
+cell cycle
+blood coagulation
+biological_process
+opsonization
+cell proliferation
+fertilization
+cellular process
+gene expression
+vascular endothelial growth factor production
+immunoglobulin mediated immune response
+histone modification
+immunoglobulin complex
+b cell receptor complex
+antigen processing and presentation
+protein domain specific binding
+actin filament polymerization
+hemopoiesis
+connective tissue growth factor production
+chemokine production
+granulocyte macrophage colony - stimulating factor production
+hepatocyte growth factor production
+type i interferon production
+interferon - alpha production
+interferon - beta production
+interferon - gamma production
+interleukin - 1 alpha production
+interleukin - 1 beta production
+interleukin - 1 production
+interleukin - 10 production
+interleukin - 11 production
+interleukin - 12 production
+interleukin - 13 production
+interleukin - 14 production
+interleukin - 15 production
+interleukin - 16 production
+interleukin - 17 production
+interleukin - 18 production
+interleukin - 19 production
+interleukin - 2 production
+interleukin - 20 production
+interleukin - 21 production
+interleukin - 22 production
+interleukin - 23 production
+interleukin - 24 production
+interleukin - 25 production
+interleukin - 26 production
+interleukin - 27 production
+interleukin - 3 production
+interleukin - 4 production
+interleukin - 5 production
+interleukin - 6 production
+interleukin - 7 production
+interleukin - 8 production
+interleukin - 9 production
+trail production
+tumor necrosis factor production
+lymphotoxin a production
+transforming growth factor beta1 production
+transforming growth factor beta2 production
+transforming growth factor beta3 production
+macromolecule localization
+dna polymerase activity
+type iii interferon production
+chemokine  ( c - x - c motif )  ligand 9 production
+helper t cell enhancement of adaptive immune response
+helper t cell enhancement of t cell mediated immune response
+helper t cell enhancement of b cell mediated immune response
+granzyme a production
+perforin production
+granulysin production
+chemokine  ( c - c motif )  ligand 20 production
+regulation of gene expression ,  epigenetic
+regulation of molecular function ,  epigenetic
+t cell proliferation
+t cell receptor complex
+t cell activation
+immunoglobulin complex ,  circulating
+dna polymerase complex
+peptide antigen binding
+mhc protein complex
+membrane - bounded organelle
+protein complex
+cytotoxic t cell degranulation
+sequence - specific dna binding
+regulation of dna methylation
+macrophage migration inhibitory factor production
+oncostatin m production
+chemokine  ( c - c motif )  ligand 17 production
+biological phase
+cellular developmental process
+response to stimulus
+chromosome organization
+estrous cycle phase
+diestrus
+proestrus
+estrus
+metestrus
+actin polymerization - dependent cell motility
+transforming growth factor beta production
+monocyte chemotactic protein - 1 production
+chemokine  ( c - c motif )  ligand 4 production
+macrophage inflammatory protein - 1 gamma production
+macrophage inflammatory protein - 1 alpha production
+chemokine  ( c - c motif )  ligand 5 production
+chemokine  ( c - c motif )  ligand 1 production
+granulocyte colony - stimulating factor production
+ip - 10 production
+granzyme b production
+tumor necrosis factor superfamily cytokine production
+chemokine  ( c - c motif )  ligand 22 production
+tumor necrosis factor  ( ligand )  superfamily member 11 production
+interleukin - 17a production
+interleukin - 17f production
+complement - dependent cytotoxicity
+histamine secretion mediated by immunoglobulin
+immune complex formation
+immunoglobulin - mediated neutralization
+chemokine  ( c - c motif )  ligand 19 production
+chemokine  ( c - c motif )  ligand 21 production
+chemokine  ( c - x - c motif )  ligand 12 production
+chemokine  ( c - x - c motif )  ligand 13 production
+chemokine  ( c - x - c motif )  ligand 16 production
+neuron part
+insulin resistance
+conditional specification
+measurement unit label
+objective specification
+narrative object
+action specification
+datum label
+software
+obsolete2_digital entity
+journal article
+information carrier
+model number
+obsolete2_binary digital entity
+obsolete_unit of measure
+programming language
+data item
+symbol
+numeral
+information content entity
+integer numeral
+scalar measurement datum
+directive information entity
+time trigger
+obsolete_study interpretation
+dot plot
+graph
+obsolete2_text based digital entity
+rule
+obsolete2_report figure
+algorithm
+software interpreter
+curation status specification
+density plot
+report
+obsolete_report element
+obsolete2_binary executable
+source code module
+obsolete_report table
+data format specification
+data set
+image
+data about an ontology part
+plan specification
+obsolete2_digital document
+measurement datum
+version number
+serial number
+lot number
+setting datum
+conclusion textual entity
+material information bearer
+histogram
+heatmap
+venn diagram
+obsolete_survival curve
+dendrogram
+scatter plot
+photographic print
+obsolescence reason specification
+textual entity
+citation
+author identification
+institutional identification
+caption
+document title
+table
+table of abbreviations
+figure
+diagram
+document
+publication
+publication about an investigation
+patent
+document part
+abstract
+introduction to a publication about an investigation
+methods section
+results section
+discussion section of a publication about an investigation
+references section
+author list
+institution list
+author contributions section
+acknowledgements section
+footnote
+supplementary material to a document
+table of contents
+table of figures
+running title
+copyright section
+cartesian spatial coordinate datum
+one dimensional cartesian spatial coordinate datum
+two dimensional cartesian spatial coordinate datum
+three dimensional cartesian spatial coordinate datum
+length measurement datum
+denotator type
+mass measurement datum
+hypothesis textual entity
+time measurement datum
+postal address
+author role
+data item extraction from journal article
+documenting
+line graph
+assigning a centrally registered identifier
+associating information with a centrally registered identifier in its registry
+obsolete_establishing a crid registry
+centrally registered identifier symbol
+centrally registered identifier
+centrally registered identifier registry
+looking up a centrally registered identifier
+time sampled measurement data set
+written name
+software method
+software module
+software library
+software application
+software script
+abbreviation textual entity
+abbreviations section
+author information section
+author information textual entity
+author summary section
+author summary textual entity
+availability section
+availability textual entity
+case report section
+case report textual entity
+conclusion section
+conflict of interest section
+conflict of interest textual entity
+consent section
+consent textual entity
+ethical approval section
+ethical approval textual entity
+figures section
+funding source declaration section
+funding source declaration textual entity
+future directions section
+future directions textual entity
+genome announcement section
+genome announcement textual entity
+keyword textual entity
+keywords section
+study limitations section
+study limitations textual entity
+materials section
+notes section
+patients section
+patients textual entity
+pre - publication history section
+pre - publication history textual entity
+related work section
+related work textual entity
+requirements section
+requirements textual entity
+statistical analysis textual entity
+statistical analysis section
+tables section
+database extract ,  transform ,  and load process
+infection
+human pathogenicity disposition
+analog camera
+mammalian phenotype
+pigmentation phenotype
+absent skin pigmentation
+abnormal skin pigmentation
+normal phenotype
+caviidae
+cavia porcellus
+concentration
+ratio
+cell diameter
+cell size
+cell surface area
+cell surface morphology
+cochlear hair cell morphology trait
+cochlear outer hair cell morphology trait
+cochlear outer hair cell length
+role of being consumer safety officer
+fluorescent reporter intensity
+planned process
+regulator role
+biological feature identification objective
+regulation - assigned role
+regulatory role
+material supplier role
+contract research organization role
+list - mode data file
+classified data set
+reference substance role
+cytological stain role
+centrifuge pellet role
+clinical research coordinator role
+supernatant role
+chromatography column
+drug role
+pump valve switch
+xenotransplantation
+physical document
+waiting
+processed material
+chromatography device
+mass spectrometer
+obsolete_platform
+liquid chromatography mass spectrometry platform
+microarray platform
+ratio of collected to emitted light
+software optimization objective
+notified body role
+allotransplantation
+gamma counter
+trial monitor role
+positive reference substance role
+polyethylene glycol p -  ( 1 , 1 , 3 , 3 - tetramethylbutyl )  - phenyl ether
+investigation
+evaluant role
+reporting party role
+assay
+quantitative confidence value
+sample preparation for assay
+diagnosis textual entity
+unplanned occurrence effecting an investigation
+emedical record
+culture medium
+electronic case report tabulation
+polystyrene tube
+reagent role
+role of regulator of chemical manufacturer
+detector reagent role
+role of certified irb professional
+patient role
+material processing
+protocol testing objective
+participant under investigation role
+obsolete_role of being first subject treated
+measured expression level
+responsible party role
+principal investigator role
+transplantation
+biological vector role
+ph indicator dye role
+specimen role
+sequence feature identification objective
+intervention design
+worker role
+bernoulli trial
+gene list
+number of particles in subset
+number of lost events electronic
+calibration substance role
+molecular feature identification objective
+hardware testing objective
+incubator
+obsolete_label role
+baseline participant role
+role of independent data monitoring committee
+pathologist role
+supernatant collection system harvesting frame
+filter paper
+cell co - culturing
+role of institutional review board
+esource document
+crossover population role
+complete nutrient role
+radiolabel role
+cdna library
+electronic case report form
+placebo role
+autotransplantation
+parameter threshold
+study group role
+p - value
+population
+nuclear magnetic resonance 3d structure determination assay
+imaging assay
+protocol optimization objective
+role of pathology review board
+microtiter plate
+role of impartial witness
+chromatin immunoprecipitation
+biological replicate role
+radioactivity detection
+investigation agent role
+nutrient role
+obsolete_dropout role
+health care provider role
+methodology testing objective
+analytical cytology data file
+proxy respondent role
+fluorescence compensation matrix
+negative reference substance role
+role of legally acceptable representative
+investigation results report
+cellular feature identification objective
+reference subject role
+vital dye role
+obsolete_blinded medication role
+sub - investigator role
+data encoding
+enzymatic cleavage
+hardware optimization objective
+obsolete_defined_material
+trial statistician role
+standard error
+antigen role
+software testing objective
+sponsor role
+organization
+feed role
+technical replicate role
+dye role
+cluster
+cohort role
+artificially induced nucleic acid hybridization
+dna extraction
+plan
+obsolete_sample population
+organism feature identification objective
+number of lost events computer
+protocol
+role of regulator of consumables and medical devices
+adding a material entity into a target
+analyte role
+disease stage
+intraperitoneal injection
+precipitate
+protein - protein interaction detection
+transcription factor binding site assay
+obsolete_enrollment
+adverse event trigger
+eluate
+material to be added role
+obsolete_peritoneum
+drawing a conclusion based on data
+planning
+histological sample preparation
+inductive reasoning
+mass analyzer
+hypothesis driven investigation
+hypothesis generating investigation
+ion source
+ion detector
+metabolite profiling
+light emission function
+record function
+magnify function
+contain function
+heat function
+material separation function
+ionize process
+excitation function
+freeze function
+synthesizing function
+perturb function
+filter function
+mechanical function
+gas filter function
+liquid filter function
+transfer function
+electricity supply function
+ionization function
+cool function
+connection function
+isoelectric focusing device
+thermostatic circulator
+energy supply function
+information processor function
+signal conversion function
+blot module
+signal amplification function
+image acquisition function
+image creation device
+solid support function
+display function
+environment control function
+sort function
+gel dryer
+primer role
+pcr product
+viral rna extraction
+nucleic acid template role
+recombinant plasmid
+cloning vector role
+cell cycle synchronization
+polymerase chain reaction
+cloning insert role
+measuring glucose concentration in blood serum
+reverse transcriptase
+obsolete_trypsinized material
+syringe
+extract
+transcription profiling assay
+averaging objective
+injection
+enzyme
+intraperitoneal administration
+plasmid
+injection into organ section
+polyacrylamide gel
+dna sequence feature detection
+adding material objective
+genotyping assay
+needle
+analyte measurement objective
+dna sequence variation detection
+agarose gel
+assay objective
+obsolete_heart
+analyte assay
+target of material addition role
+mass measurement assay
+obsolete_identification
+intra cellular electrophysiology recording
+packed column
+obsolete_defined_output
+regulatory agency
+normalized data set
+measure function
+extracellular electrophysiology recording
+consume data function
+material transformation objective
+manufacturing
+manufacturing objective
+column chromatography detector
+bruker autosampler
+organic acid column
+thermal conductivity detector
+bruker us 2 nmr magnet
+protein column
+solvent mixer
+mass spectrometry assay
+study design execution
+bruker nmr case sample changer
+nano pump system
+bruker autoclean system
+manual injection system
+varian gemini spectrometer
+column connector
+solid nmr probe
+bruker high resolution probe
+chromatography detector
+normal phase column
+apollo console
+nmr sample holder
+chromatography instrument
+continuous wave nmr instrument
+fourier transformation nmr instrument
+nitrogen phosphorous detector
+cation exchange column
+direct detection nmr probe
+bruker b - acs system
+rapid resolution column
+liquid chromatography autosampler
+vacuum degasser
+capillary column
+sample inlet
+nmr tube washing system
+nmr console
+dual loop autosampler
+variable wavelength detector
+bruker lc - nmr platform
+sample injection system
+multiple wavelength detector
+photoionization detector
+gas generator
+column jacket
+electron capture detector
+reversed phase column
+injector lubricant
+isolation of cell population
+discovery console
+bruker amx series nmr instrument
+chromatofocusing column
+nmr probe
+nmr magnet
+trap column
+flow probe
+clinical chemistry assay
+flame ionization detector
+vial
+magic angle spinning rotor
+varian vxr spectrometer
+splitless gc injector
+preparative autosampler
+flow high resolution probe
+liquid chromatography valve
+jeol nmr probe
+bruker ultrashield plus nmr magnet
+bruker cryoprobe
+column cartridge
+affinity column
+tecmag nmr instrument
+gel filtration column
+fraction collector
+copy number variation profiling
+in - line filter
+imaging nmr probe
+isolation of adherent cells
+bruker ac series nmr instrument
+gas chromatography equipment
+syringe filter
+bruker samplerail system
+column compartment
+capillary pump system
+evaporative light scattering detector
+isolation of pbmcs
+column cartridger
+nitrogen generator
+needle assembly
+reverse transcribed polymerase chain reaction
+bruker capillary lc - nmr platform
+gas chromatography oven
+autosampler
+isocratic pump system
+flash pump system
+varian unity inova spectrometer
+liquid nmr probe
+ion exchange column
+bruker nmr probe
+anion trap column
+fluorescene detector
+tecmag eagle probe
+electrical conductivity detector
+nmr instrument
+bruker ultrashield nmr magnet
+piston - seal
+mass selective detector
+spin column
+manufacturer role
+transfer line
+gradient pump system
+high temperature column
+bruker ultrastabilized nmr magnet
+scattered molecular aggregate
+obsolete_molecular concentration
+nmr sample tube
+varian unity spectrometer
+avance ii spectrometer
+y - column connector
+bruker lc - nmr / ms platform
+refractive index detector
+anion exchange column
+plunger column
+flame photometric detector
+chromatography pump system
+bruker 1mm microprobe
+bruker best nmr system
+chromatography detector filter
+cation trap column
+column adapter
+pulsed amperometric detector
+bruker nmr instrument
+bruker nmr magnet
+ozone - induced chemiluminescence detector
+tecmag nmr console
+jeol nmr instrument
+chromatography consumable
+column frit
+liquid chromatography column
+detector lamp
+chart recorder
+open tubular column
+high resolution magic angle spin probe
+hydrogen generator
+glass column
+auto injector
+varian nmr instrument
+bruker match tube holder system
+bruker spe - nmr platform
+guard column
+protein expression profiling
+high resolution probe with automatic tuning and matching
+fluorine - induced chemiluminescence detector
+size exclusion column
+chromatography splitter
+bruker micro imaging probe
+custom made column
+gel permeation column
+nmr spectroscopy
+bruker samplejet system
+jeol ecx nmr spectrometer
+dna sequencing
+quaternary pump system
+carbon nanotube column
+bruker solid magic angle spinning probe
+hematology
+varian mercury spectrometer
+bruker metabolic profiler
+column heater
+dna methylation profiling assay
+jeol capnmr probe
+acquisition computer
+gas chromatography detector
+gas purifier
+material separation objective
+indirect detection probe
+jeol eca nmr spectrometer
+atomic emission detector
+clustered data set
+data set of features
+differential expression analysis data transformation
+urine specimen
+material combination
+fuzzy clustering objective
+device setting
+blood specimen
+data set of predicted values according to fitted curve
+data representational model
+specimen collection process
+background corrected data set
+enzyme - linked immunosorbent assay
+error corrected data set
+class prediction data transformation
+brdu incorporation assay
+obsolete intracellular cytokine staining assay
+background correction data transformation
+obsolete mhc multimer staining assay
+error correction data transformation
+tritiated thymidine incorporation assay
+sample from organism
+statistical hypothesis test
+center value
+statistical hypothesis test objective
+reduced dimension data set
+portioning objective
+average value
+whole organism preparation
+separation into different composition objective
+obsolete_study result
+specimen collection objective
+creating a mixture of molecules in solution
+material combination objective
+nucleotide overhang cloning
+rodent care protocol
+454 genome sequence 20
+immunoprecipitation
+abi 377 automated sequencer
+recombination enzyme based cloning
+medip - seq assay
+animal feeding
+chain termination sequencing
+ab solid system
+helicos sequencing
+obsolete_dna ligase
+survival assessment
+support vector machine
+self - organizing map
+454 genome sequencer flx
+illumina genome analyzer ii
+decision tree induction objective
+edman degradation
+solid sequencing
+decision tree building data transformation
+laboratory animal care
+yeast artificial chromosome vector
+li - cor 4300 dna analysis system
+library preparation
+pathogen challenge
+genepattern software
+graph of vertices
+animal care protocol
+chip - seq assay
+heliscope single molecule sequencer
+pathogen role
+vaccine preparation
+immunologic adjuvant role
+glucose tolerance test
+paired - end library
+dna sequencing by ligation
+solexa sequencing
+host role
+peak matching
+k - nearest neighbors
+rodent care
+cloning plasmid
+pyrosequencing
+recombinant vector
+restriction enzyme
+dna sequencing by synthesis
+ntp - 2000
+single fragment library
+cloning vector
+restriction enzyme based cloning
+student's t - test
+material sample role
+topologically preserved clustered data set
+nucleic acid restriction enzyme digest
+immune response assay
+material sampling process
+material sample
+bisulfite sequencing
+cart
+study design independent variable
+study design dependent variable
+anticoagulant - containing test tube
+human antithrombin - iii  ( at - iii )  in blood assay
+fluorescently labeled mhc multimer
+survival rate
+recombinant bac cloning
+multiple testing correction objective
+statistical model validation
+double blind study execution
+glucometer
+purification objective
+obsolete_primary structure of protein
+capsule shell
+recombinant phage cloning
+cross linking
+spike train datum
+prothrombin time assay
+denaturing
+informing investigator of subject study arm
+antithrombin - iii  ( at - iii )  berichrome assay
+material maintenance objective
+presentation of stimulus
+spectrolyse heparin antifactor - xa assay
+amplified dna
+informed consent process
+primary structure of dna macromolecule
+measuring neural activity in the caudate nucleus
+to be treated with active ingredient role
+guar gum
+berichrom ( r )  antithrombin iii  ( a )  kit
+micro electrode
+fucoidan
+calibration
+anticoagulant tube storage of blood specimen
+activated partial thromboplastin time  ( aptt )  assay
+filled capsule
+single blind study execution
+thrombin time assay
+recombinant yac cloning
+to be treated with placebo role
+treatment portion of study execution
+pill
+research organization
+obsolete_primary structure of sequence macromolecule
+dna residue methylation
+measurement device
+high molecular weight dna extract
+manufacturer
+test tube
+oral ingestion of pill
+material maintenance
+labeled oligonucleotide
+unblinding process
+subject agrees they understand informed consent document
+informing subject of study arm
+sysmex ca - 6000 coagulation analyzer
+hospital
+primary structure of rna molecule
+test substance role
+polya rna extraction
+organellar rna extraction
+record of missing knowledge
+western blot analysis
+total rna extraction
+obsolete intracellular material detection by flow cytometry assay
+complementary nucleotide probe role
+record of unknown sex
+cytoplasmic rna extraction
+northern blot analysis
+likelihood - ratio test
+nuclear rna extract
+96 - well neutralization assay
+establishing cancer cell line
+pattern matching objective
+polya rna extract
+single - nucleotide - resolution nucleic acid structure mapping assay
+viral hemagglutination assay
+serum neutralization of viral infectivity assay
+pre - mortem specimen
+detection of specific nucleic acid polymers with complementary probes
+viral hemagglutination inhibition assay
+cytoplasmic rna extract
+cell line immortalization
+random primed dna labeling
+rna extract
+cell - cell killing assay
+in vivo cell killing assay
+secondary structure of sequence macromolecule
+nuclear rna extraction
+survival curve
+cell proliferation assay
+southern blot analysis
+real time polymerase chain reaction assay
+protein extract
+total rna extract
+depc structure mapping assay
+organellar rna extract
+post mortem specimen
+in vitro cell killing assay
+reporter cell line analyte detection bioassay
+sequence feature annotation
+induced hemagglutination
+supplying
+labeled dna extract
+cloacal specimen
+radio immuno assay
+real time reverse - transcription polymerase chain reaction  assay
+x - ray crystallography assay
+promoter activity detection by reporter gene assay
+nasopharyngeal aspirate specimen
+freezing storage
+flow cytometry assay
+nasal swab specimen
+dulbecco's modified eagle medium
+animal euthanization
+cytometric bead array assay
+labeled rna extract
+frozen specimen
+surface plasmon resonance binding assay
+labeled specimen
+infectious agent
+lyophilization storage
+material combination function
+obsolete_training service provider role
+calorimeter
+study intervention
+material separation device
+positron emission tomography scanner
+intramuscular injection
+micromanipulator
+obsolete_material access provider role
+categorical measurement datum
+training process
+optical microscope
+service consumer role
+intradermal injection
+chemical cleavage
+handedness assay
+vibration isolation table
+sterilization function
+service provider role
+oscilloscope
+accessed material role
+paraffin specimen
+compound treatment design
+oral administration
+processed specimen
+subcutaneous injection
+electrode puller
+self reported handedness assessment
+vibrotome
+reagent application function
+addition of molecular tracer function
+training objective
+categorical label
+in live cell assay
+lyophilized specimen
+in live organism assay
+container
+device
+dose specification
+scalar score from composite inputs
+fresh specimen
+obsolete_electrically powered device
+sequence data
+cell - cell binding detection by flow cytometry assay
+handedness categorical measurement datum
+paraffin storage
+in container assay
+obsolete_protocol service provider role
+agar stab specimen
+computed tomography scanner
+intranasal mucosal administration
+dose
+growth condition intervention design
+obsolete_dna sequencing training service
+performing a diagnosis
+pcr instrument
+electron microscope
+edinburgh score
+dna sequencing service
+service provision objective
+intravenous injection
+administration of material to specimen
+device creation objective
+growth environment
+questionnaire
+edinburgh handedness assay
+faraday cage
+agar stab storage
+rnase cl3 structure mapping assay
+cmct structure mapping assay
+image creation
+mpe - fe ( ii )  structure mapping assay
+obsolete_qualitative binding detection assay
+nucleic acid extract
+enu structure mapping assay
+rnase v1 structure mapping assay
+kethoxal structure mapping assay
+single - nucleotide - resolution nucleic acid structure mapping assay using enzymatic probing
+dms structure mapping assay
+dnase 1 structure mapping assay
+single - nucleotide - resolution nucleic acid structure mapping assay using chemical probing
+rhodium dna structure mapping assay
+rna ada i rna structure mapping assay
+lead structure mapping assay
+rnase t2 structure mapping assay
+gene dosage assay
+fe - babe rna structure mapping assay
+rnase u2 structure mapping assay
+binding constant determination assay
+nmia rna structure mapping assay
+terbium rna structure mapping assay
+feature extraction
+oh - radical structure mapping assay
+rnase t1 structure mapping assay
+array image creation
+light emission device
+perturbation device
+environmental control device
+nuclease s1 structure mapping assay
+specimen fixation function
+obsolete_specimen fixation function
+ruthenium structure mapping assay
+inline probing rna structure mapping
+current amplification function
+stabilization function
+pump function
+cell transfer function
+angiograph
+capillary blotter
+bioreactor
+ph meter
+digital camera
+chip spotting device
+rna extraction / purification instrument
+dna extract
+two - photon laser / detector
+electrophoresis system
+pet synthesizer
+spinning - disk confocal microscope
+dna synthesizer
+high performance liquid chromatography instrument
+microplate reader
+elisa microplate reader
+spot cutter
+microwave synthesis system
+densitometer
+automatic staining machine
+automatic tissue processor
+stereo microscope
+top loading balance
+perfusion station
+spect scanner
+array manufacturer role
+scintillation counter
+programmable array microscope
+cryostat
+microtome knife maker
+cryofixation device
+hybridization oven
+incubator shaker
+small - animal image acquisition device
+infrared image acquisition device
+confocal microscope
+patch clamp device
+gel imaging system
+protein separation apparatus
+multichannel electronic pipette
+vitrification apparatus
+radiography instrument
+radiation measurement device
+lyophilizer
+tandem mass spectrometer
+microhardness tester
+multimode microplate reader
+mechanical balance
+computer cluster
+microtome knife sharpener
+plate shaker
+coagulation analyzer
+laser capture microdissection microscope
+liquid extraction robot
+ultrasound machine
+immunoblot scanner
+microcentrifuge
+electronic repeater pipette
+electron paramagnetic resonance spectrometer
+rocker
+analytical balance
+scanning force microscope
+pulsed - field gel electrophoresis system
+tissue embedding station
+nucleic acid sequencer
+bead array reader
+real - time pcr machine
+paraffin oven
+autoclave
+microplate washer
+nucleic acid extraction / purification instrument
+elisa microplate washer
+vacuum manifold
+dna extraction / purification instrument
+multichannel pipette
+cell harvester
+portable fluorometer
+gel electrophoresis system
+diffractometer
+microdissection instrument
+micropipette puller
+laser scanning confocal microscope
+digital microscope
+freeze substitution system
+micropipette
+voltage clamp device
+vacuum oven
+slide warmer
+capillary electrophoresis instrument
+denaturing high - performance liquid chromatography instrument
+agarose gel electrophoresis system
+balance
+surface plasmon resonance instrument
+protein sequencer
+x - ray source
+liquid chromatography instrument
+spike - in quality control role
+individual organism identifier
+dye swap quality control role
+labeled nucleic acid extract
+binding constant
+3d structure determination of bound complex assay
+binding assay
+cell culture expansion
+gene knock out
+gene knock in
+chromosomal substitution
+genetically modified material
+transfection
+genetic transformation objective
+induced mutation
+3d structural organization datum
+age since planting measurement datum
+age since hatching measurement datum
+age measurement assay
+age since egg laying measurement datum
+assay validation objective
+age since germination measurement datum
+validation by reverse transcription pcr design
+age since eclosion measurement datum
+age since sowing measurement datum
+age since coitus measurement datum
+validation by real time pcr design
+age measurement datum
+age since fertilization measurement datum
+age since birth measurement datum
+reverse transcription polymerase chain reaction assay
+half life datum  ( t 1 / 2 )
+dose response curve
+service
+passive immunization
+selective organism creation objective
+individual epitope immunization in vivo
+rna sequencing
+efficacy of epitope intervention experiment
+epitope protection from infectious challenge experiment
+half maximal effective concentration  ( ec50 )
+binding datum
+negative binding datum
+epitope protection from tumor challenge experiment
+epitope protection experiment
+selectively maintained organism
+epitope protection from infectious challenge experiment based on pathogen burden
+infectious agent detection assay
+epitope disease exacerbation experiment
+epitope protection experiment based on survival
+epitope treatment experiment
+half maximal inhibitory concentration  ( ic50 )
+epitope specific immune intervention
+epitope specific cytokine production by t cells
+elispot assay measuring epitope specific transforming growth factor - beta production by t cells
+operator variation design
+cytometric bead array assay measuring epitope specific ip - 10 production by t cells
+comparative genome hybridization by array design
+biological activity assay measuring epitope specific interleukin - 27 production by t cells
+in vivo design
+genotyping by high throughput sequencing design
+epitope specific tolerance induction by t cells
+innate behavior design
+detection of specific nucleic acids with complementary probes assay measuring epitope specific transforming growth factor - beta production by t cells
+snp microarray
+cell component comparison design
+elispot assay measuring epitope specific granulocyte macrophage colony - stimulating factor production by t cells
+epitope specific macrophage inflammatory protein - 1 alpha production by t cells
+epitope specific t cell activation
+biological activity assay measuring epitope specific interleukin - 10 production by t cells
+cytometric bead array assay measuring epitope specific transforming growth factor - beta production by t cells
+ex vivo design
+epitope specific type iv hypersensitivity by t cells
+normalization testing design
+intracellular material detection assay measuring epitope specific perforin release
+cell culture analyte detection bioassay measuring epitope specific interleukin - 2 production by t cells
+biological activity assay measuring epitope specific interleukin - 22 production by t cells
+biological activity assay measuring epitope specific interleukin - 8 production by t cells
+epitope specific chemokine  ( c - c motif )  ligand 1 production by t cells
+cell culture analyte detection bioassay measuring epitope specific interleukin - 10 production by t cells
+chip - chip by snp array assay
+elisa measuring epitope specific rantes production by t cells
+cytometric bead array assay measuring epitope specific interleukin - 1 beta production by t cells
+genetic population background information
+environmental history design
+elispot assay measuring epitope specific interleukin - 6 production by t cells
+biological activity assay measuring epitope specific helper t cell enhancement of a b cell mediated immune response
+plasmon resonance assay measuring the dissociation constant  [ kd ]  of a t cell epitope:mhc:tcr complex
+biological activity assay measuring epitope specific interleukin - 5 production by t cells
+elisa measuring epitope specific transforming growth factor - beta production by t cells
+biological activity assay measuring epitope specific rantes production by t cells
+biological activity assay measuring epitope specific granulocyte macrophage colony stimulating factor production by t cells
+epigenetic modification identification objective
+transcription profiling by tiling array assay
+elisa measuring epitope specific interleukin - 22 production by t cells
+biological activity assay measuring epitope specific interleukin - 21 production by t cells
+elisa measuring epitope specific interleukin - 9 production by t cells
+transcription profiling by high throughput sequencing design
+intracellular cytokine staining assay measuring epitope specific interleukin - 6 production by t cells
+cell culture analyte detection bioassay measuring epitope specific interleukin - 4 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific tumor necrosis factor production by t cells
+cytometric bead array assay measuring epitope specific monocyte chemotactic protein - 1 production by t cells
+elisa measuring epitope specific interleukin - 23 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific perforin release
+elisa measuring epitope specific tumor necrosis factor superfamily cytokine production by t cells
+genotyping by high throughput sequencing assay
+chip - chip assay
+epitope specific t cell tolerance induction
+obsolete intracellular material detection by flow cytometry assay  of epitope specific cytotoxic t cell degranulation
+biological activity assay measuring epitope specific interleukin - 13 production by t cells
+array platform variation design
+biological activity assay measuring interleukin - 9 production by t cells
+epitope specific interleukin - 3 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 5 production by t cells
+epitope specific lymphotoxin a production by t cells
+epitope specific interleukin - 1 alpha production by t cells
+chip - seq design
+translational bias design
+elisa measuring epitope specific interleukin - 3 production by t cells
+elisa measuring epitope specific interleukin - 1 alpha production by t cells
+epitope specific interleukin - 27 production by t cells
+biological activity assay measuring epitope specific helper t cell enhancement of a t cell mediated immune response
+biological activity assay measuring epitope specific transforming growth factor - beta production by t cells
+fwer adjusted p - value
+dna methylation profiling by high throughput sequencing assay
+epitope specific transforming growth factor - beta production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 12 production by t cells
+biological activity assay measuring epitope specific cytotoxic t cell degranulation
+cell culture analyte detection bioassay measuring epitope specific transforming growth factor - beta production by t cells
+rna - seq assay
+elispot assay measuring epitope specific tumor necrosis factor superfamily cytokine production by t cells
+cell culture analyte detection bioassay measuring epitope specific interleukin - 5 production by t cells
+genotyping by array assay
+epitope specific interleukin - 16 production by t cells
+biological activity assay measuring epitope specific chemokine  ( c - c motif )  ligand 1 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 2 production by t cells
+dna methylation profiling by array design
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 22 production by t cells
+biological activity assay measuring epitope specific interleukin - 16 production by t cells
+elisa measuring epitope specific ip - 10 production by t cells
+translation profiling assay
+elisa measuring epitope specific interleukin - 15 production by t cells
+cytometric bead array assay measuring epitope specific interleukin - 12 production by t cells
+in vitro design
+rnai profiling by array design
+elisa measuring epitope specific lymphotoxin a production by t cells
+cytometric bead array assay measuring epitope specific interleukin - 5 production by t cells
+transcription profiling by array design
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 17 production by t cells
+biological activity assay measuring epitope specific interleukin - 15 production by t cells
+disease state design
+wild type organism genotype information
+biological activity assay measuring epitope specific interleukin - 17 production by t cells
+cytometric bead array assay measuring epitope specific interleukin - 17 production by t cells
+cytometric bead array assay measuring epitope specific interleukin - 10 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 21 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 5 production by t cells
+cytometric bead array assay measuring epitope specific interleukin - 2 production by t cells
+cell culture analyte detection bioassay measuring epitope specific interleukin - 16 production by t cells
+elisa measuring epitope specific macrophage inflammatory protein - 1 alpha production by t cells
+intracellular cytokine staining assay measuring epitope specific granulocyte macrophage colony - stimulating factor production by t cells
+rnai profiling by array assay
+genotype information
+rna stability design
+tiling microarray
+biological activity assay measuring epitope specific ip - 10 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 13 production by t cells
+species comparison design
+x - ray crystallography assay determining the 3d structure of a t cell epitope:mhc:tcr complex
+transcription profiling by rt - pcr design
+epitope specific t cell enhancement of b cell mediated immune response
+elisa measuring epitope specific chemokine  ( c - c motif )  ligand 1 production by t cells
+epitope specific interleukin - 21 production by t cells
+flow cytometry assay measuring cell - cell binding of a t cell epitope:mhc:tcr complex
+proteomic profiling by array assay
+cell culture analyte detection bioassay measuring epitope specific interferon - gamma production by t cells
+elispot assay measuring epitope specific granzyme b release by t cells
+microrna profiling by array design
+in vivo assay measuring t cell epitope specific tolerance induction
+detection of specific nucleic acids with complementary probes assay measuring epitope specific rantes production by t cells
+cytometric bead array assay measuring epitope specific interleukin - 4 production by t cells
+biological activity assay measuring epitope specific lymphotoxin a production by t cells
+organism development design
+family history design
+elisa measuring epitope specific chemokine  ( c - x - c motif )  ligand 9 production by t cells
+transcription profiling identification objective
+dna methylation profiling by array assay
+biological activity assay measuring epitope specific macrophage inflammatory protein - 1 alpha production by t cells
+epitope specific granulocyte colony stimulating factor production by t cells
+microrna profiling by array assay
+quality control testing design
+clinical history design
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 4 production by t cells
+cell culture analyte detection bioassay measuring epitope specific granulocyte macrophage colony - stimulating factor production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 21 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific monocyte chemotactic protein - 1 production by t cells
+elisa measuring epitope specific monocyte chemotactic protein - 1 production by t cells
+biological activity assay measuring epitope specific chemokine  ( c - c motif )  ligand 4 production by t cells
+elisa measuring epitope specific interleukin - 21 production by t cells
+in vivo skin test assay measuring t cell epitope specific type iv hypersensitivity
+cytometric bead array assay measuring epitope specific interleukin - 13 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interferon - gamma production by t cells
+epitope specific tumor necrosis factor superfamily cytokine production by t cells
+allele information
+cytometric bead array assay measuring epitope specific tumor necrosis factor production by t cells
+elispot assay measuring epitope specific interleukin - 17 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interferon - beta production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific granulocyte macrophage colony - stimulating factor production by t cells
+post - transcriptional modification design
+elisa measuring epitope specific interleukin - 8 production by t cells
+cytometric bead array assay measuring epitope specific interleukin - 6 production by t cells
+transcription profiling by rt - pcr assay
+epitope specific chemokine  ( c - c motif )  ligand 4 production by t cells
+biological activity assay measuring epitope specific interleukin - 23 production by t cells
+genetic alteration information
+cellular process design
+epitope specific rantes production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 10 production by t cells
+cytometric bead array assay measuring epitope specific tumor necrosis factor superfamily cytokine production by t cells
+wild type allele information
+intracellular cytokine staining assay measuring epitope specific chemokine  ( c - c motif )  ligand 4 production by t cells
+epitope specific granzyme b production by t cells
+epitope specific interleukin - 8 production by t cells
+injury design
+intracellular cytokine staining assay measuring epitope specific interleukin - 3 production by t cells
+organism status comparison design
+elisa measuring epitope specific chemokine  ( c - c motif )  ligand 4 production by t cells
+cytometric bead array assay measuring epitope specific interferon - gamma production by t cells
+biological activity assay measuring epitope specific interleukin - 18 production by t cells
+epitope specific interleukin - 23 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 27 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific ip - 10 production by t cells
+cell culture analyte detection bioassay measuring epitope specific interleukin - 3 production by t cells
+intracellular cytokine staining assay measuring epitope specific tumor necrosis factor superfamily cytokine production by t cells
+epitope specific monocyte chemotactic protein - 1 production by t cells
+genotyping by array design
+biological activity assay measuring epitope specific interleukin - 1 alpha production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 6 production by t cells
+biological activity assay measuring epitope specific interferon - beta production by t cells
+biological activity assay measuring epitope specific interleukin - 12 production by t cells
+in vivo assay measuring epitope specific t cell killing
+comparative genomic hybridization by array assay
+epitope specific cytotoxic t cell degranulation
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 23 production by t cells
+stimulus or stress design
+cytometric bead array assay measuring epitope specific granulocyte colony stimulating factor production by t cells
+protein and dna interaction identification objective
+epitope specific interleukin - 22 production by t cells
+biological activity assay measuring epitope specific tumor necrosis factor superfamily cytokine production by t cells
+protocol optimization design
+promoter activity detection by reporter gene assay measuring epitope specific interleukin - 2 production by t cells
+chip - chip design
+genetic characteristics information
+cytometric bead array assay measuring epitope specific macrophage inflammatory protein - 1 alpha production by t cells
+biological activity assay measuring epitope specific interleukin - 3 production by t cells
+biological activity assay measuring epitope specific t cell activation
+imprinting design
+cell cycle design
+translation profiling design
+cell type comparison design
+cytometric bead array assay measuring epitope specific rantes production by t cells
+cell culture analyte detection bioassay measuring epitope specific interleukin - 6 production by t cells
+biological activity assay measuring epitope specific interferon - gamma production by t cells
+epitope specific interleukin - 9 production by t cells
+biological activity assay measuring epitope specific tumor necrosis factor production by t cells
+chip - chip by tiling array design
+dose response design
+chip - chip by tiling array assay
+epitope specific helper t cell enhancement of t cell mediated immune response
+epitope specific interferon - beta production by t cells
+organism part comparison design
+intracellular material detection measuring epitope specific granzyme b release by t cells
+protein binding site identification design
+sex comparison design
+transcription profiling by tiling array design
+cell differentiation design
+transcription profiling design
+operon identification design
+radio immuno assay measuring epitope specific interferon - gamma production by t cells
+dna methylation profiling by high throughput sequencing design
+biological activity assay measuring epitope specific granzyme b release by t cells
+intracellular cytokine staining assay measuring epitope specific chemokine  ( c - x - c motif )  ligand 9 production by t cells
+elisa measuring epitope specific macrophage inflammatory protein - 1 gamma production by t cells
+epitope specific chemokine  ( c - x - c motif )  ligand 9 production by t cells
+all pairs design
+proteomic profiling by array design
+q - value
+genotyping design
+biological activity assay measuring epitope specific interleukin - 2 production by t cells
+epitope specific interleukin - 15 production by t cells
+epitope specific macrophage inflammatory protein - 1 gamma production by t cells
+individual genetic characteristics comparison design
+biological activity assay measuring epitope specific interleukin - 1 beta production by t cells
+biological activity assay measuring epitope specific interleukin - 4 production by t cells
+biological activity assay measuring epitope specific interleukin - 6 production by t cells
+cell culture analyte detection bioassay measuring epitope specific tumor necrosis factor production by t cells
+intracellular cytokine staining assay measuring epitope specific lymphotoxin a production by t cells
+pathogenicity design
+elispot assay measuring epitope specific interleukin - 5 production by t cells
+biological activity assay measuring epitope specific macrophage inflammatory protein - 1 gamma production by t cells
+cytometric bead array assay measuring epitope specific interleukin - 8 production by t cells
+biological activity assay measuring epitope specific chemokine  ( c - x - c motif )  ligand 9 production by t cells
+genetic modification design
+elisa measuring epitope specific granzyme b release by t cells
+epitope specific ip - 10 production by t cells
+transcription profiling by array assay
+strain comparison design
+biological activity assay measuring epitope specific monocyte chemotactic protein - 1 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 12 production by t cells
+in vivo assay measuring t cell epitope specific disease exacerbation
+cell specimen
+monospecific t cell recognition assay measuring mhc ligand processing and presentation
+epitope specific interleukin - 17f production by t cells
+t cell epitope specific immune intervention
+specimen with known storage state
+in vivo assay measuring t cell epitope specific protection from tumor challenge
+lowess group transformation
+in vivo assay measuring t cell epitope specific protection from infectious challenge based on pathogen burden
+phage display binding assay
+lowess transformation
+mass spectrometry assay measuring mhc ligand processing and presentation
+specimen from organism
+phage display library panning
+lowess global transformation
+intracellular cytokine staining assay measuring epitope specific transforming growth factor - beta production by t cells
+cell collecting
+biological activity assay measuring t cell epitope specific in vivo activity
+purified mhc molecule preparation
+disposition to be bound by an mhc protein complex
+b cell epitope specific immune intervention
+epitope tolerance induction experiment
+mass spectrometry assay measuring mhc ligand processing and presentation of mhc ligands eluted from cellular mhc
+cytometric bead array measuring epitope specific granulocyte macrophage colony - stimulating factor production by t cells
+radioactivity detection binding assay
+in vivo assay measuring t cell epitope specific protection based on survival
+cell bound mhc competitive binding assay of a mhc:ligand complex using t cell epitope recognition
+linear amplification
+biological activity assay measuring epitope specific t cell helper activity
+intracellular cytokine staining assay measuring epitope specific interleukin - 22 production by t cells
+biological activity assay measuring epitope specific perforin release by t cells
+atmosphere
+fluorescence detection binding assay
+coelution assay measuring mhc ligand processing and presentation using t cell recognition of hplc fractionated eluate compared to synthetic ligand
+fluorescence detection assay
+epitope specific perforin production by t cells
+mhc protein complex binding to ligand
+dissection
+purification
+specimen with pre -  or post - mortem status
+in vivo assay measuring t cell epitope specific treatment of disease
+sampling time measurement datum
+edman degradation assay measuring mhc ligand processing and presentation
+mass spectrometry assay measuring mhc ligand processing and presentation of mhc ligands eluted from secreted mhc
+disposition to be a product of antigen processing and presentation
+cytometric bead array assay measuring epitope specific interleukin - 17a production by t cells
+purified mhc competitive binding assay of a mhc:ligand complex using radioactivity detection
+minimal inhibitory concentration
+material maintenance service
+cell lysate mhc direct binding assay measuring half maximal effective concentration  [ ec50 ]  of a mhc:ligand complex using radioactivity detection
+cell bound mhc competitive binding assay measuring half maximal inhibitory concentration  [ ic50 ]  of a mhc:ligand complex using radioactivity detection
+epitope specific tumor necrosis factor  ( ligand )  superfamily member 11 production by t cells
+cell lysate mhc direct binding assay of a mhc:ligand complex using fluorescence detection
+cell bound mhc competitive binding assay measuring half maximal inhibitory concentration  [ ic50 ]  of a mhc:ligand complex using fluorescence detection
+elisa measuring epitope specific granulocyte colony stimulating factor production by t cells
+sequence assembly algorithm
+cytometric bead array assay measuring epitope specific interleukin - 17f production by t cells
+cell bound mhc direct binding assay measuring equilibrium association constant  [ ka ]  of a mhc:ligand complex using fluorescence detection
+pdb file
+epitope specific interleukin - 17a production by t cells
+support service
+material service
+data analysis service
+data service
+purified mhc direct binding assay measuring half life of a mhc:ligand complex using fluorescence detection
+cytometric bead array assay measuring epitope specific interleukin - 9 production by t cells
+data storage service
+purified mhc competitive binding assay measuring binding of a mhc:ligand complex using fluorescence detection
+epitope specific interleukin - 7 production by t cells
+equilibrium dissociation constant  ( kd )
+purified mhc competitive binding assay measuring equilibrium dissociation constant  [ kd ]  of a mhc:ligand complex using fluorescence detection
+training service
+cell bound mhc competitive binding assay measuring equilibrium dissociation constant  [ kd ]  of a mhc:ligand complex using fluorescence detection
+obsolete t cell recognition of eluted mhc ligand assay
+purified mhc direct binding assay measuring binding on rate  [ kon ]  of a mhc:ligand complex using fluorescence detection
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 13 production by t cells
+purified mhc direct binding assay measuring equilibrium dissociation constant  [ kd ]  of a mhc:ligand complex approximated by ec50 using fluorescence detection
+cell lysate mhc competitive binding assay measuring equilibrium dissociation constant  [ kd ]  of a mhc:ligand complex using radioactivity detection
+intracellular cytokine staining assay measuring epitope specific macrophage inflammatory protein - 1 alpha production by t cells
+comparative phenotypic assessment
+material analysis service
+equilibrium association constant  ( ka )
+cell bound mhc competitive binding assay measuring equilibrium dissociation constant  [ kd ]  of a mhc:ligand complex using radioactivity detection
+cell bound mhc binding assay measuring binding of a mhc:ligand complex
+access service
+intracellular cytokine staining assay measuring epitope specific tumor necrosis factor  ( ligand )  superfamily member 11 production by t cells
+assay measuring a binding constant of a mhc:ligand complex
+rate measurement datum
+purified mhc binding assay measuring binding of a mhc:ligand complex
+cell lysate mhc direct binding assay of a mhc:ligand complex using radioactivity detection
+material storage service
+cell bound mhc direct binding assay measuring half life of a mhc:ligand complex using radioactivity detection
+cell bound mhc direct binding assay measuring half life of a mhc:ligand complex using fluorescence detection
+obsolete cell lysate mhc binding constant determination assay
+cell bound mhc direct binding assay measuring half maximal effective concentration  [ ec50 ]  of a mhc:ligand complex using fluorescence detection
+intracellular cytokine staining assay measuring epitope specific interleukin - 17f production by t cells
+material processing service
+purified mhc competitive binding assay measuring equilibrium dissociation constant  [ kd ]  of a mhc:ligand complex approximated by ic50 using radioactivity detection
+cell lysate mhc direct binding assay measuring half life of a mhc:ligand complex using radioactivity detection
+50% dissociation of binding temperature  ( tm )
+cell lysate mhc direct binding assay measuring binding off rate  [ koff ]  of a mhc:ligand complex using radioactivity detection
+purified mhc competitive binding assay measuring half maximal inhibitory concentration  [ ic50 ]  of a mhc:ligand complex using radioactivity detection
+purified mhc direct binding assay measuring binding off rate  [ koff ]  of a mhc:ligand complex using fluorescence detection
+biological activity assay measuring epitope specific vascular endothelial growth factor production by t cells
+equilibrium dissociation constant  ( kd )  approximated by ic50
+obsolete cell bound mhc binding constant determination assay
+dna sequence data
+obsolete cell lysate mhc competitive binding assay using radioactivity detection
+assigning gene property based on phenotypic assessment
+obsolete purified mhc binding constant determination assay
+cytometric bead array assay measuring epitope specific intracellular cytokine staining  ( ics )  il - 22 production by t cells
+elisa measuring epitope specific vascular endothelial growth factor production by t cells
+cell lysate mhc binding assay measuring binding of a mhc:ligand complex
+material transport service
+equilibrium dissociation constant  ( kd )  approximated by ec50
+obsolete cell bound mhc direct binding assay
+half life of binding datum
+purified mhc direct binding assay measuring binding of a mhc:ligand complex using phage display
+cytometric bead array assay measuring epitope specific interleukin - 7 production by t cells
+purified mhc direct binding assay measuring half life of a mhc:ligand complex using radioactivity detection
+biological activity assay measuring epitope specific interleukin - 7 production by t cells
+binding
+intracellular cytokine staining assay measuring epitope specific interleukin - 17a production by t cells
+purified mhc direct binding assay measuring binding of a mhc:ligand complex using fluorescence detection
+direct binding assay
+purified mhc direct binding assay measuring half maximal effective concentration  [ ec50 ]  of a mhc:ligand complex using fluorescence detection
+competitive inhibition of binding assay
+cell bound mhc competitive binding assay of a mhc:ligand complex using fluorescence detection
+x - ray crystallography assay determining the 3d structure of a mhc:ligand complex
+pdb file chain
+cell bound mhc competitive binding assay measuring half maximal inhibitory concentration  [ ic50 ]  of a mhc:ligand complex using t cell epitope recognition
+data maintenance service
+cell bound mhc competitive binding assay of a mhc:ligand complex using radioactivity detection
+biological activity assay measuring epitope specific granulocyte colony stimulating factor production by t cells
+cytometric bead array assay measuring epitope specific intracellular cytokine staining  ( ics )  il - 21 production by t cells
+cell bound mhc direct binding assay of a mhc:ligand complex using radioactivity detection
+binding off rate measurement datum  ( koff )
+purified mhc direct binding assay measuring 50% dissociation of binding temperature  [ tm ]  of a mhc:ligand complex using fluorescence detection
+binding on rate measurement datum  ( kon )
+cell bound mhc direct binding assay of a mhc:ligand complex using fluorescence detection
+biological activity assay measuring epitope specific tumor necrosis factor  ( ligand )  superfamily member 11 production by t cells
+purified mhc direct binding assay of a mhc:ligand complex using radioactivity detection
+intracellular cytokine staining assay measuring epitope specific interleukin - 8 production by t cells
+cytometric bead array assay measuring epitope specific intracellular cytokine staining  ( ics )  il - 223 production by t cells
+obsolete purified mhc direct binding assay
+epitope specific vascular endothelial growth factor production by t cells
+purified mhc competitive binding assay measuring half maximal inhibitory concentration  [ ic50 ]  of a mhc:ligand complex using fluorescence detection
+genbank id
+investigation description
+specimen identifier
+pubmed id
+average depth of sequence coverage
+specimen collection time measurement datum
+latitude coordinate measurement datum
+longitude coordinate measurement datum
+investigation title
+organism identification objective
+organism identification assay
+sequence annotation algorithm
+bioinformatics resource center
+country name
+investigation identifier
+grant identifier
+analytical chromatography
+electron microscopy imaging assay
+immuno staining assay
+purified material
+calorimetric binding assay
+antibody binding detection by fluorescence quenching
+grant
+antigen inhibition assay measuring the dissociation constant  [ kd ]  of a b cell epitope:antibody complex approximated by ic50
+biological activity assay measuring epitope specific ig - mediated histamine release
+biological activity assay measuring epitope specific immunoglobulin - mediated antigen activation
+biological activity assay measuring epitope specific complement - dependent cytotoxicity
+biological activity assay measuring epitope specific antibody - dependent cellular cytotoxicity
+biological activity assay measuring epitope specific immunoglobulin - mediated neutralization
+biological activity assay measuring epitope specific opsonization
+calorimetry assay measuring binding of a b cell epitope:antibody complex
+electron microscopy assay determining the 3d structure of a b cell epitope:antibody complex
+nmr assay determining the 3d structure of a b cell epitope:antibody complex
+cross blocking assay measuring binding of a b cell epitope:antibody complex
+ria measuring binding of a b cell epitope:antibody complex
+immunoblot assay measuring binding of a b cell epitope:antibody complex
+plasmon resonance assay measuring binding of a b cell epitope:antibody complex
+immuno staining assay measuring binding of a b cell epitope:antibody complex
+immunoprecipitation assay measuring binding of a b cell epitope:antibody complex
+mass spectrometry assay measuring binding of a b cell epitope:antibody complex
+phage display assay measuring binding of a b cell epitope:antibody complex
+electron microscopy assay measuring binding of a b cell epitope:antibody complex
+elisa measuring binding of a b cell epitope:antibody complex
+elispot assay measuring binding of a b cell epitope:antibody complex
+flow cytometry assay measuring binding of a b cell epitope:antibody complex
+intracellular material detection assay measuring epitope specific granzyme a release by t cells
+chromatography assay measuring binding of a b cell epitope:antibody complex
+nmr assay measuring binding of a b cell epitope:antibody complex
+elisa measuring epitope specific granulysin release by t cells
+intracellular material detection assay measuring epitope specific granulysin release by t cells
+cell bound mhc direct binding assay measuring the off rate  [ koff ]  of a mhc:ligand complex using fluorescence detection
+cell bound mhc direct binding assay measuring binding on rate  [ kon ]  of a mhc:ligand complex using fluorescence detection
+purified mhc competitive binding assay measuring equilibrium dissociation constant  [ kd ]  of a mhc:ligand complex approximated by ic50 using fluorescence detection
+split - ubiquitin assay
+far - western blot
+rna protection assay
+electrophoretic mobility shift assay
+gene knock - down assay
+nano - cap analysis of gene expression
+cap analysis of gene expression
+elisa measuring epitope specific interleukin - 17a production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 7 production by t cells
+epitope specific granulysin production by t cells
+epitope specific granzyme a production by t cells
+yeast 2 - hybrid
+sos - recruitment assay
+yeast one - hybrid
+bacterial one - hybrid
+chromosome organization assay by fluorescence in situ hybridization
+methylation - specific polymerase chain reaction
+amplification of intermethylated sites  ( aims )  assay
+in situ hybridization
+contact representative role
+cytochalasin - induced inhibition of actin polymerization assay
+molecular function identification objective
+cellular structure feature identification objective
+in vivo assay measuring b cell epitope specific protection from fertility
+in vivo assay measuring b cell epitope specific tolerance induction
+in vivo assay measuring b cell epitope specific induction of hypersensitivity
+biological activity assay measuring epitope specific immune complex formation
+in vivo assay measuring b cell epitope specific protection based on survival
+in vivo assay measuring b cell epitope specific treatment of disease
+biological activity assay measuring b cell epitope specific in vivo activity
+antibody cross - blocking assay
+immunoprecipitation assay
+antigen inhibition assay measuring binding of a b cell epitope:antibody complex
+immunoglobulin binding to epitope
+assay measuring qualitiative binding of a b cell epitope:antibody complex
+biological activity assay measuring epitope specific activation of additional immune response in vitro
+biological activity assay measuring epitope specific antigen inhibition of antibody activity
+assay measuring b cell epitope specific biological activity
+immunoglobulin mediated histamine release
+assay measuring the dissociation constant  [ kd ]  of a b cell epitope:antibody complex
+assay measuring a binding constant of a b cell epitope:antibody complex
+in vivo assay measuring b cell epitope specific protection from challenge
+in vivo assay measuring b cell epitope specific disease exacerbation
+obsolete b cell epitope direct binding assay
+b cell epitope specific opsonization
+b cell epitope specific immunoglobulin - mediated neutralization
+obsolete b cell epitope competitive binding assay
+b cell epitope specific complement - dependent cytotoxicity
+b cell epitope specific antibody - dependent cellular cytotoxicity
+assay measuring the on rate  [ kon ]  of a b cell epitope:antibody complex
+assay measuring the association constant  [ ka ]  of a b cell epitope:antibody complex
+b cell epitope specific immune complex formation
+3d structure determining assay of a 3d b cell epitope:antibody complex
+b cell epitope specific hypersensitivity
+assay measuring the off rate  [ koff ]  of a b cell epitope:antibody complex
+biological activity assay measuring epitope specific hemagglutination inhibition
+b cell epitope specific histamine secretion mediated by immunoglobulin
+quenching assay measuring binding of a b cell epitope:antibody complex
+ria measuring the dissociation constant  [ kd ]  of a b cell epitope:antibody complex
+elisa measuring the dissociation constant  [ kd ]  of a b cell epitope:antibody complex
+quenching assay measuring the dissociation constant  [ kd ]  of a b cell epitope:antibody complex
+surface plasmon resonance assay measuring the association constant  [ ka ]  of a b cell epitope:antibody complex
+surface plasmon resonance assay measuring the dissociation constant  [ kd ]  of a b cell epitope:antibody complex
+quenching assay measuring the association constant  [ ka ]  of a b cell epitope:antibody complex
+calorimetry assay measuring the association constant  [ ka ]  of a b cell epitope:antibody complex
+calorimetry assay measuring the dissociation constant  [ kd ]  of a b cell epitope:antibody complex
+elisa measuring the association constant  [ ka ]  of a b cell epitope:antibody complex
+ria measuring the association constant  [ ka ]  of a b cell epitope:antibody complex
+obsolete b cell epitope specific x - ray crystallography assay
+x - ray crystallography assay determining the 3d structure of a b cell epitope:antibody complex
+surface plasmon resonance assay measuring the off rate  [ koff ]  of a b cell epitope:antibody complex
+quenching assay measuring the off rate  [ koff ]  of a b cell epitope:antibody complex
+surface plasmon resonance assay measuring the on rate  [ kon ]  of a b cell epitope:antibody complex
+quenching assay measuring the on rate  [ kon ]  of a b cell epitope:antibody complex
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 1 beta production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 1 alpha production by t cells
+elispot assay measuring epitope specific interleukin - 1 alpha production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 1 alpha production by t cells
+cytometric bead array assay measuring epitope specific interleukin - 1 alpha production by t cells
+elispot assay measuring epitope specific interferon - beta production by t cells
+intracellular cytokine staining assay measuring epitope specific interferon - beta production by t cells
+intracellular cytokine staining assay measuring epitope specific granulocyte colony stimulating factor production by t cells
+elisa measuring epitope specific interferon - beta production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific granulocyte colony stimulating factor production by t cells
+elispot assay measuring epitope specific granulocyte colony stimulating factor production by t cells
+cytometric bead array assay measuring epitope specific chemokine  ( c - x - c motif )  ligand 9 production by t cells
+selection criterion
+elispot assay measuring epitope specific chemokine  ( c - x - c motif )  ligand 9 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine  ( c - x - c motif )  ligand 9 production by t cells
+elispot assay measuring epitope specific chemokine  ( c - c motif )  ligand 4 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine  ( c - x - c motif )  ligand 12 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine  ( c - x - c motif )  ligand 13 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine  ( c - x - c motif )  ligand 16 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine  ( c - c motif )  ligand 21 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine  ( c - c motif )  ligand 22 production by t cells
+cytometric bead array assay measuring epitope specific chemokine  ( c - c motif )  ligand 4 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine  ( c - c motif )  ligand 4 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific vascular endothelial growth factor production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine  ( c - c motif )  ligand 19 production by t cells
+intracellular cytokine staining assay measuring epitope specific chemokine  ( c - c motif )  ligand 1 production by t cells
+specimen collector role
+intracellular cytokine staining assay measuring epitope specific vascular endothelial growth factor production by t cells
+elispot assay measuring epitope specific vascular endothelial growth factor production by t cells
+biological activity assay measuring epitope specific interleukin - 17f production by t cells
+biological activity assay measuring epitope specific interleukin - 17a production by t cells
+biological activity assay measuring epitope specific chemokine  ( c - c motif )  ligand 21 production by t cells
+biological activity assay measuring epitope specific chemokine  ( c - c motif )  ligand 19 production by t cells
+biological activity assay measuring epitope specific chemokine  ( c - x - c motif )  ligand 12 production by t cells
+biological activity assay measuring epitope specific chemokine  ( c - c motif )  ligand 22 production by t cells
+biological activity assay measuring epitope specific chemokine  ( c - x - c motif )  ligand 16 production by t cells
+biological activity assay measuring epitope specific chemokine  ( c - x - c motif )  ligand 13 production by t cells
+elispot assay measuring epitope specific macrophage inflammatory protein - 1 alpha production by t cells
+cytometric bead array assay measuring epitope specific macrophage inflammatory protein - 1 gamma production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific macrophage inflammatory protein - 1 gamma production by t cells
+intracellular cytokine staining assay measuring epitope specific monocyte chemotactic protein - 1 production by t cells
+elispot assay measuring epitope specific monocyte chemotactic protein - 1 production by t cells
+intracellular cytokine staining assay measuring epitope specific macrophage inflammatory protein - 1 gamma production by t cells
+elispot assay measuring epitope specific macrophage inflammatory protein - 1 gamma production by t cells
+cytometric bead array assay measuring epitope specific vascular endothelial growth factor production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific tumor necrosis factor superfamily cytokine production by t cells
+intracellular cytokine staining assay measuring epitope specific rantes production by t cells
+elispot assay measuring epitope specific rantes production by t cells
+elispot assay measuring epitope specific lymphotoxin a production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific macrophage inflammatory protein - 1 alpha production by t cells
+cytometric bead array assay measuring epitope specific lymphotoxin a production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific lymphotoxin a production by t cells
+elispot assay measuring epitope specific ip - 10 production by t cells
+intracellular cytokine staining assay measuring epitope specific ip - 10 production by t cells
+elispot assay measuring epitope specific interleukin - 9 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 9 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 9 production by t cells
+elispot assay measuring epitope specific interleukin - 8 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 8 production by t cells
+elispot assay measuring epitope specific interleukin - 3 production by t cells
+elisa measuring epitope specific interleukin - 7 production by t cells
+elispot assay measuring epitope specific interleukin - 7 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 7 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 27 production by t cells
+cytometric bead array assay measuring epitope specific interleukin - 3 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 3 production by t cells
+biological activity assay measuring epitope specific granzyme a release by t cells
+biological activity assay measuring epitope specific granulysin release by t cells
+cytometric bead array assay measuring epitope specific interleukin - 27 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 23 production by t cells
+elispot assay measuring epitope specific interleukin - 27 production by t cells
+elisa measuring epitope specific interleukin - 27 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 18 production by t cells
+epitope specific chemokine  ( c - x - c motif )  ligand 13 production by t cells
+elispot assay measuring epitope specific interleukin - 18 production by t cells
+epitope specific chemokine  ( c - x - c motif )  ligand 12 production by t cells
+epitope specific chemokine  ( c - c motif )  ligand 22 production by t cells
+epitope specific chemokine  ( c - x - c motif )  ligand 16 production by t cells
+elispot assay measuring epitope specific interleukin - 22 production by t cells
+elispot assay measuring epitope specific interleukin - 23 production by t cells
+epitope specific chemokine  ( c - c motif )  ligand 21 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 18 production by t cells
+epitope specific chemokine  ( c - c motif )  ligand 19 production by t cells
+elispot assay measuring epitope specific interleukin - 21 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine  ( c - c motif )  ligand 1 production by t cells
+cytometric bead array assay measuring epitope specific chemokine  ( c - c motif )  ligand 1 production by t cells
+elispot assay measuring epitope specific chemokine  ( c - c motif )  ligand 1 production by t cells
+elispot assay measuring epitope specific interleukin - 17f production by t cells
+elisa measuring epitope specific interleukin - 17f production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 17f production by t cells
+elispot assay measuring epitope specific interleukin - 17a production by t cells
+drawing a conclusion
+cytometric bead array assay measuring epitope specific interleukin - 18 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 16 production by t cells
+elisa measuring epitope specific interleukin - 16 production by t cells
+elispot assay measuring epitope specific interleukin - 16 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 16 production by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin - 17a production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 1 beta production by t cells
+elispot assay measuring epitope specific interleukin - 1 beta production by t cells
+detection of specific nucleic acids with complementary probes measuring epitope specific interleukin - 15 production by t cells
+elispot assay measuring epitope specific interleukin - 12 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 15 production by t cells
+elispot assay measuring epitope specific interleukin - 15 production by t cells
+chromatin interaction analysis by paired - end tag sequencing
+structural analysis by paired - end tag sequencing
+transcript analysis by paired - end tag sequencing
+transcription start site identification objective
+paired - end library preparation
+dnase i hypersensitive sites sequencing assay
+protein and rna interaction identification objective
+rnp  ( ribonuclear particle )  immunoprecipitation high -  throughput sequencing assay
+cross - linking immunoprecipitation high - throughput sequencing assay
+formaldehyde - assisted isolation of regulatory elements assay
+methylation - sensitive restriction enzyme sequencing assay
+reduced representation bisulfite sequencing assay
+shotgun bisulfite - seq assay
+rna annotation and mapping of promoters for the analysis of gene expression assay
+assay array
+secondary cultured cell
+establishing cell line
+genetic material
+illumina beadchip
+illumina methylation beadchip
+lsrfortessa x - 20
+sequence assembly process
+number of errors
+random access memory size
+cultured immune cell population
+cell culture
+random access memory
+establishing primary cell culture
+reagent
+organization of specimen provider principal investigator
+organization of bioinformatics resource center contact person
+target material in specimen specification
+bioinformatics resource center contact person
+specimen - based scope of investigation specification
+specimen repository organization
+email address of bioinformatics resource center contact person
+sequencing facility contact person
+specimen provider principal investigator
+email address of specimen collector
+sequencing facility organization
+specification of data to be generated in an investigation
+organization of specimen collector
+email address of sequencing facility contact person
+specimen collector
+investigation assay specification
+organization of sequencing facility contact person
+comment on investigation
+target capture specification
+specimen identifier assigned by specimen repository
+specimen identifier assigned by sequencing facility
+sample preparation for sequencing assay
+email address of specimen provider principal investigator
+sequencing service
+secondary cultured cell population
+cancer cell line
+immortalizing cell line transformation
+testable hypothesis
+conclusion based on data
+primary cell culture
+cell line culture
+cell freezing medium
+computation run time
+multiplex ligation - mediated amplification
+dna replication timing by array assay
+dna replication identification objective
+chromosome conformation identification objective
+rna - binding protein immunoprecipitation array profiling assay
+carbon - copy chromosome conformation capture assay
+dna replication timing by sequencing assay
+rna - binding protein immunoprecipitation tiling array profiling
+microrna profiling by high throughput sequencing assay
+protein sequencing by tandem mass spectrometry assay
+micrococcal nuclease digestion followed by high throughput sequencing assay
+chromatin immunoprecipitation with exonuclease sequencing assay
+microrna profiling assay
+selection
+mass value specification
+categorical value specification
+scalar value specification
+comparing prediction to measurement
+value specification
+predicted value
+predicted mass value
+molecular - labeled material
+genome coverage
+n50
+contig n50
+grant agency
+software pipeline
+sequence annotation
+scaffold n50
+forward pcr primer
+sequence annotation provider
+sequence assembly name
+sequence annotation reporting role
+reverse pcr primer
+flash freezing
+freezing
+chip assay
+competitive binding reference ligand role
+assay using chromatin immunoprecipitation
+hardware testing design
+systematic review study design
+sequencing library multiplexing
+taxonomic diversity assessment by targeted gene survey
+pcr program
+target gene specification
+target subfragment specification
+decision - theoretic analysis objective
+decision analysis study design
+sequence library deconvolution
+multiplexing sequence identifier
+operational taxonomic unit matrix
+biodiversity assessment objective
+multiplexed sequencing library
+ion 316 chip v2
+ion 318 chip v2
+ion semiconductor chip
+ion 314 chip v2
+hydrogen / deuterium exchange footprinting assay
+cytometry assay
+immunoblot assay
+fluorescence quenching binding assay
+in vivo intervention experiment
+disease exacerbation in vivo intervention experiment
+protection from challenge in vivo intervention experiment
+tolerance induction intervention experiment
+treatment intervention experiment
+microarray assay
+immunohistochemistry
+assay measuring the association constant  [ ka ]  of a mhc:ligand complex
+assay measuring the dissociation constant  [ kd ]  of a mhc:ligand complex
+purified mhc competitive binding assay measuring equilibrium dissociation constant  [ kd ]  of a mhc:ligand complex using radioactivity detection
+assay measuring the half life of a mhc:ligand complex
+assay measuring the half maximal effective concentration  [ ec50 ]  of a mhc:ligand complex
+assay measuring the half maximal inhibitory concentration  [ ic50 ]  of a mhc:ligand complex
+assay measuring the off rate measurement  [ koff ]  of a mhc:ligand complex
+assay measuring the mhc ligand binding on rate  [ kon ]  of a mhc:ligand complex
+chromatography assay measuring the association constant  [ ka ]  of a b cell epitope:antibody complex
+chromatography assay measuring the dissociation constant  [ kd ]  of a b cell epitope:antibody complex
+hydrogen / deuterium exchange assay measuring binding of a b cell epitope:antibody complex
+immunohistochemistry assay measuring binding of a b cell epitope:antibody complex
+3d structure determining assay of a t cell epitope:mhc:tcr complex
+genome analyzer iix
+illumina hiseq 2000
+illumina hiseq 2500
+miseq
+methylation 450k beadchip
+methylation 27k beadchip
+1m - duo infinium hd beadchip
+solid 3 plus system
+mouse 385k whole genome cgh tiling array
+mouse 3x720k whole genome cgh tiling array
+human 3x720k whole genome cgh tiling array
+human 2 .1m whole - genome cgh tiling array v2 .0
+pacbio rs ii
+ncounter human mirna expression array
+dna methylation profiling by chip - chip assay
+transcription profiling by mpss assay
+histone modification identification by chip - chip assay
+histone modification identification by chip - seq assay
+transcription factor binding site identification by chip - chip assay
+transcription factor binding site identification by chip - seq assay
+epigenetic modification assay
+nextseq 500
+illumina hiseq 1000
+human genome u133 plus 2 .0 tiling array
+solid 4 system
+human exon 1 .0 st tilling array
+human genome u133 tiling array
+genome analyzer iie
+sage ditag library preparation
+serial analysis of gene expression
+genotyping by tiling array
+genotyping by snp array
+parallel analysis of rna structure
+translation - associated transcript leader sequencing
+transcript leader sequencing
+peptide mass fingerprinting
+array based nucleic acid structure mapping assay
+micrococcal nuclease digestion followed by tiling array assay
+ribosomal profiling by sequencing assay
+assay for transposase - accessible chromatin using sequencing
+chromatin isolation by rna purification sequencing assay
+self - transcribing active regulatory region sequencing assay
+carbon - copy chromosome conformation capture assay followed by sequencing assay
+individual - nucleotide resolution cross - linking and immunoprecipitation sequencing assay
+rna bind - n - seq assay
+poly ( a )  - site sequencing assay
+surface plasmon resonance sensor chip
+enzyme - linked antibody
+illumina hiseq 3000
+illumina hiseq 4000
+3d structure determining assay of a mhc:ligand complex
+in vivo assay measuring b cell epitope specific protection from infectious challenge based on pathogen burden
+in vivo assay measuring b cell epitope specific protection from tumor challenge
+microarray assay measuring binding of a b cell epitope:antibody complex
+nmr assay measuring the dissociation constant  [ kd ]  of a b cell epitope:antibody complex
+assay measuring t cell epitope specific biological activity
+biological activity assay measuring epitope specific chemokine  ( c - c motif )  ligand 17 production by t cells
+biological activity assay measuring epitope specific macrophage migration inhibitory factor  ( mif )  production by t cells
+biological activity assay measuring epitope specific oncostatin m production by t cells
+assay measuring a binding constant of a t cell epitope:mhc:tcr complex
+detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine  ( c - c motif )  ligand 17 production by t cells
+cytometric bead array assay measuring epitope specific chemokine  ( c - c motif )  ligand 22 production by t cells
+in vitro assay measuring epitope specific t cell killing
+cytometric bead array assay measuring epitope specific granzyme a release by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific granzyme a release by t cells
+cytometric bead array assay measuring epitope specific granzyme b release by t cells
+detection of specific nucleic acids with complementary probes assay measuring epitope specific granzyme b release by t cells
+cytometric bead array assay measuring epitope specific macrophage migration inhibitory factor  ( mif )  production by t cells
+cytometric bead array assay measuring epitope specific oncostatin m production by t cells
+elispot assay measuring epitope specific perforin release by t cells
+in vivo assay measuring epitope specific proliferation of t cells
+in vitro assay measuring epitope specific proliferation of t cells
+assay measuring qualitiative binding of a mhc:ligand complex
+in vivo assay measuring t cell epitope specific protection from challenge
+in vitro assay measuring t cell epitope specific suppression
+mhc ligand assay
+collection of specimens
+specimens derived from shared ancestor
+specimen set collection process
+specimens collected in one encounter
+human specimen set
+specimens collected longitudinally
+reporter gene assay
+enhancer activity detection by reporter gene assay
+transcription cofactor activity region identification by chip - seq assay
+transcript expression location detection by hybridization chain reaction
+tet - assisted bisulfite sequencing assay
+containing a specimen function
+specimen container
+physical store
+rapid amplification of cdna ends
+5' rapid amplification of cdna ends
+3' rapid amplification of cdna ends
+5' rna ligase mediated rapid amplification of cdna ends
+methylc - capture sequencing assay
+specimen family creation
+carboxyfluorescein succinimidyl ester staining assay measuring epitope specific proliferation of t cells
+assay measuring the dissociation constant  [ kd ]  of a t cell epitope:mhc:tcr complex
+assay measuring the on rate  [ kon ]  of a t cell epitope:mhc:tcr complex
+assay measuring the off rate  [ koff ]  of a t cell epitope:mhc:tcr complex
+assay measuring the association constant  [ ka ]  of a t cell epitope:mhc:tcr complex
+small - angle scattering assay determining the 3d structure of a b cell epitope:antibody complex
+bio - layer interferometry assay measuring the on rate  [ kon ]  of a b cell epitope:antibody complex
+bio - layer interferometry assay measuring the off rate  [ koff ]  of a b cell epitope:antibody complex
+bio - layer interferometry assay measuring binding of a b cell epitope:antibody complex
+bio - layer interferometry assay measuring the dissociation constant  [ kd ]  of a b cell epitope:antibody complex
+carboxyfluorescein succinimidyl ester staining assay
+bio - layer interferometry assay
+small - angle scattering assay
+human 6x630k cgh whole genome tiling array
+digital object identifier
+enhanced cross - linking immunoprecipitation high - throughput sequencing assay
+small rna - seq
+bromouridine labeling and sequencing
+bromouridine pulse - chase and sequencing
+cytometry time of flight assay
+high performance liquid chromotography assay
+whole genome sequencing assay
+exome sequencing assay
+microscopy assay
+mixed lymphocyte reaction assay
+killer cell immunoglobulin - like receptor typing assay
+major histocompatibility typing assay
+ihc slide staining
+h&e slide staining
+h&e - stained fixed tissue slide specimen
+ihc - stained fixed tissue slide specimen
+single cell specimen
+illumina genome analyzer
+illumina hiseq x ten
+illumina infinium omni5exome - 4 kit
+illumina infinium methylationepic beadchip
+pulse stable isotope labeling by amino acids in cell culture
+cytometric bead array assay measuring  epitope specific chemokine  ( c - c motif )  ligand 20 production by t cells
+biological activity assay measuring epitope specific chemokine  ( c - c motif )  ligand 20 production by t cells
+rna integrity number calculation
+rna integrity number value specification
+temperature value specification
+volume value specification
+temperature measurement assay
+volume measurement assay
+nanostring ncounter mirna expression assay
+bromouride labeling and sequencing after uv exposure
+extrachromosomal circular dna sequencing assay
+antigen specific antibodies assay
+hiv antibody assay
+hiv group o antibody assay
+surface hbv antibody assay
+core hbv antibody assay
+core hbv igm antibody assay
+hcv antibody assay
+ebv igg antibody assay
+ebv igm antibody assay
+cmv antibody assay
+venereal disease research laboratory test
+rapid plasma reagin test
+hbv surface antigen assay
+hiv - 1 nucleic acid testing
+hcv nucleic acid testing
+multiplexed indexed t7 chip - seq
+systematic evolution of ligands by exponential enrichment assay
+footprinting assay
+dnase footprinting assay
+mammalian 2 - hybrid assay
+protein localization assay
+tissue - based protein localization assay
+subcellular protein localization assay
+subcellular protein immunohistochemistry assay
+chip - qpcr assay
+genomic selex
+dot blot assay
+northwestern blot assay
+southwestern blot assay
+immunocytochemistry
+atp bioluminescence assay
+electrophysiology assay
+patch clamp assay
+whole - cell patch clamp assay
+cell - attached patch clamp assay
+inside - out patch clamp assay
+outside - out patch clamp assay
+voltage clamp assay
+two electrode voltage clamp assay
+cut open oocyte voltage clamp assay
+current clamp assay
+electroencephalography
+single - unit recording
+multi - unit recording
+local field potential recording
+courier organization
+courier tracking number
+leica peloris rapid tissue processor
+microm ergostar hm200
+microtome blade
+sakura low profile accu - edge microtome blade
+tissue section thickness
+molecular analysis facility organization
+reason for lack of data item
+cannot be assessed determination
+determination if assay will provide reliable results
+gx
+ptx
+pnx
+histologic grade according to ajcc 7th edition
+histologic grade according to the fuhrman nuclear grading system
+histologic grade for ovarian tumor
+histologic grade for ovarian tumor according to a two - tier grading system
+histologic grade for ovarian tumor according to the world health organization
+pathologic primary tumor stage for colon and rectum according to ajcc 7th edition
+pathologic primary tumor stage for lung according to ajcc 7th edition
+pathologic primary tumor stage for kidney according to ajcc 7th edition
+pathologic primary tumor stage for ovary according to ajcc 7th edition
+pathologic lymph node stage for colon and rectum according to ajcc 7th edition
+pathologic lymph node stage for lung according to ajcc 7th edition
+pathologic lymph node stage for kidney according to ajcc 7th edition
+pathologic lymph node stage for ovary according to ajcc 7th edition
+pathologic distant metastases stage for colon according to ajcc 7th edition
+pathologic distant metastases stage for lung according to ajcc 7th edition
+pathologic distant metastases stage for kidney according to ajcc 7th edition
+pathologic distant metastases stage for ovary according to ajcc 7th edition
+clinical tumor stage group according to ajcc 7th edition
+international federation of gynecology and obstetrics cervical cancer stage value specification
+international federation of gynecology and obstetrics ovarian cancer stage value specification
+performance status value specification
+eastern cooperative oncology group score value specification
+karnofsky score vaue specification
+clinical history of cancer
+clinical history devoid of cancer
+unknown clinical history of cancer
+diagnosis of cancer
+family clinical history of cancer
+aunt clinical history of cancer
+brother clinical history of cancer
+daughter clinical history of cancer
+father clinical history of cancer
+mother clinical history of cancer
+sister clinical history of cancer
+son clinical history of cancer
+uncle clinical history of cancer
+grandmother clinical history of cancer
+grandfather clinical history of cancer
+nephew clinical history of cancer
+niece clinical history of cancer
+diagnosis of infectious disease
+diagnosis of hepatitis b
+diagnosis of hepatitis c
+diagnosis of hiv
+clinical history of repeated hiv assays
+exposure to second hand smoke
+exposure to second hand smoke in household during childhood
+exposure to second hand smoke in current household
+pregnancy history
+number of pregnancies
+number of live births
+age when gave birth to first child
+gynecologic surgery history
+hysterectomy history
+unilateral oophorectomy history
+neither hysterectomy nor oophorectomy history
+hormonal birth control use history
+hormonal birth control former use history
+hormonal birth control current use history
+no hormonal birth control use history
+hormonal replacement therapy history
+delivery form for hormonal replacement therapy
+pill delivery form for hormonal replacement therapy
+patch delivery form for hormonal replacement therapy
+cream delivery form for hormonal replacement therapy
+menopausal status
+indeterminate menopausal status
+premenopausal status
+perimenopausal status
+postmenopausal status
+exposure to environmental and workplace carcinogens history
+exposure to arsenic history
+exposure to asbestos history
+exposure to diesel exhaust history
+exposure to chromium history
+exposure to silica history
+indicator of whether an inclusion criterion was met
+indicator of whether all inclusion criteria were met
+age of majority inclusion criterion
+chemotherapy treatment exclusion criterion
+radiation treatment exclusion criteria
+chemotherapy treatment within the recent past exclusion criterion
+radiation treatment within the recent past exclusion criterion
+bmi range inclusion criterion
+blood transfusion exclusion criterion
+history of metastatic cancer exclusion criterion
+intravenous drug use exclusion criterion
+history of sex with someone with a history of blood borne infection  exclusion criterion
+history of sex with someone with a history of intravenous drugs exclusion criterion
+hiv exclusion criterion
+exposure to blood borne infectious disease exclusion criterion
+rna interactome capture
+widefield microscopy
+nuclear ligation assay
+chromosome conformation capture assay
+hi - c assay
+physical examination of individual
+hydroxyl - radical footprinting assay
+methidiumpropyl - edta - iron ( ii )  footprinting assay
+measurand role
+transcription start site mapping by primer extension assay
+proteomic profiling design
+suppression subtractive hybridization
+differential screening hybridization
+footprinting assay measuring binding of a b cell epitope:antibody complex
+hydroxyl - radical footprinting assay measuring binding of a b cell epitope:antibody complex
+elisa measuring epitope specific interferon - alpha production by t cells
+biological activity assay measuring epitope specific interferon - alpha production by t cells
+health status inclusion criterion
+clinically relevant lifestyle inclusion criterion
+clinically relevant exposure inclusion criterion
+gravidity inclusion criterion
+precision nuclear run - on sequencing assay
+chromosome conformation capture - on - chip assay
+genotype phasing by hi - c assay
+defined population inclusion criterion
+bcl format
+ercc rna spike - in
+sirv rna spike - in
+srs identifier
+age since culture seeding measurement datum
+alignment counting algorithm
+alignment counting application
+base calling algorithm
+base calling application
+bcl2fastq software application
+date process started
+dbgap study identifier
+material amplification role
+material sequencing library preparation role
+number of pcr cycles during library construction
+number of rounds of amplification
+reference genome role
+reference genome - transcriptome alignment algorithm
+sequence read length measurement datum
+sequencing library input quantity measurement datum
+single - end library
+specimen harvest quantity
+spike - in dilution factor
+star algorithm
+transcript analysis by single - end sequencing
+verse algorithm
+microraft
+pipette
+amniotic fluid specimen
+bile specimen
+cerebrospinal fluid specimen
+feces specimen
+digestive system fluid or secretion specimen
+milk specimen
+pericardial fluid specimen
+saliva specimen
+sputum specimen
+sweat specimen
+synovial fluid specimen
+vitreous humor specimen
+bone marrow specimen
+placenta specimen
+peritoneal fluid specimen
+pleural fluid specimen
+brain specimen
+hair specimen
+prostate gland specimen
+skeletal muscle tissue specimen
+heart specimen
+renal medulla specimen
+adrenal gland specimen
+breast specimen
+urinary bladder specimen
+tibial artery specimen
+skin of body specimen
+pancreas specimen
+stomach specimen
+pituitary gland specimen
+adipose tissue specimen
+cortex of kidney specimen
+esophagus mucosa specimen
+colon specimen
+lung specimen
+esophagus muscularis mucosa specimen
+cerebral cortex specimen
+thyroid gland specimen
+cerebellum specimen
+tibial nerve specimen
+coronary artery specimen
+spleen specimen
+aorta specimen
+atrial appendage specimen
+esophagogastric junction specimen
+ileum specimen
+liver specimen
+minor salivary gland specimen
+omentum specimen
+ovary specimen
+sigmoid colon specimen
+suprapubic skin specimen
+testis specimen
+uterus specimen
+vagina specimen
+age group inclusion criterion
+minimum age value specification
+maximum age value specification
+use of medication inclusion criterion
+hospital patient inclusion criterion
+family status inclusion criterion
+sex inclusion criterion
+country of residence inclusion criteria
+ethnicity inclusion criterion
+histopathology assay
+ncounter mouse mirna expression array
+polya - selected rna sequencing assay
+polya - depleted rna sequencing assay
+polya depleted rna extract
+rna extraction with polya depletion
+isoform sequencing
+digital acquisition card
+injection function
+epstein barr virus transformed b cell
+chimera
+obsolete_anatomical entity
+blood plasma specimen
+blood serum specimen
+organism
+obsolete_immortal cell
+obsolete_fragment derived from protein
+phosphate buffered saline solution
+specimen
+obsolete_cell line cell
+obsolete_immortal cell line culture
+xenograft
+cultured cell population
+primary cultured cell population
+obsolete_cell line
+cultured clonal cell population
+screening library
+synthetic peptide
+organ section
+bronchial alveolar lavage
+obsolete_polymer
+glucose in solution
+data transformation
+logistic - log curve fitting
+logit - log curve fitting
+log - log curve fitting
+feature extraction objective
+biexponential transformation
+box - cox transformation
+hyperlog transformation
+loess scale group transformation one - channel
+logical transformation
+loess scale group transformation two - channel
+loess global transformation one - channel
+split - scale transformation
+loess global transformation two - channel
+sine transformation
+cosine transformation
+loess group transformation one - channel
+loess group transformation two - channel
+homogeneous polynomial transformation
+linlog transformation
+variance stabilizing transformation
+loess global transformation
+loess group transformation
+loess scale group transformation
+total intensity transformation single
+total intensity transformation paired
+quantile transformation
+mean centering
+median centering
+differential expression analysis objective
+k - fold cross validation method
+leave one out cross validation method
+jackknifing method
+boostrapping
+benjamini and hochberg false discovery rate correction method
+pareto scaling
+modular decomposition
+k - means clustering
+hierarchical clustering
+average linkage hierarchical clustering
+complete linkage hierarchical clustering
+single linkage hierarchical clustering
+benjamini and yekutieli false discovery rate correction method
+dimensionality reduction
+principal components analysis dimensionality reduction
+probabilistic algorithm
+expectation maximization
+global modularity calculation
+dye swap merge
+moving average
+replicate analysis
+b cell epitope prediction
+mhc binding prediction
+t cell epitope prediction
+data imputation
+continuum mass spectrum
+characteristic path length calculation
+centroid mass spectrum
+holm - bonferroni family - wise error rate correction method
+edge weighting
+loess transformation
+curve fitting data transformation
+family wise error rate correction method
+submatrix extraction
+row submatrix extraction
+column submatrix extraction
+gating
+descriptive statistical calculation objective
+arithmetic mean calculation
+network analysis
+sequence analysis objective
+longitudinal data analysis
+survival analysis objective
+mass spectrometry analysis
+spread calculation data transformation
+kaplan meier
+multiple testing correction method
+inter - rater reliability objective
+westfall and young family wise error rate correction
+polynomial transformation
+logarithmic transformation
+exponential transformation
+non - negative matrix factorization
+soft independent modeling of class analogy analysis
+discriminant function analysis
+canonical variate analysis
+linear discriminant functional analysis
+regression analysis method
+multiple linear regression analysis
+principal component regression
+partial least square regression analysis
+discriminant analysis
+partial least square discriminant analysis
+eh transformation
+b transformation
+s transformation
+data visualization
+similarity calculation
+euclidean distance calculation
+pearson correlation coefficient calculation
+loess fitting
+mode calculation
+quantile calculation
+median calculation
+variance calculation
+standard deviation calculation
+interquartile - range calculation
+skewness calculation
+kurtosis calculation
+data combination
+network graph construction
+weighted network graph construction
+directed network graph construction
+node quality calculation
+node degree calculation
+quantitative node degree calculation
+node in - degree calculation
+node out - degree calculation
+node shortest path identification
+edge quality calculation
+edge betweenness calculation
+network subgraph quality calculation
+subgraph degree calculation
+quantitative subgraph degree calculation
+mathematical feature
+log base
+subgraph in - degree calculation
+subgraph out - degree calculation
+intra subgraph connectivity calculation
+subgraph modularity calculation
+network graph quality calculation
+unit - variance scaling
+ma transformation
+exponential base
+polynomial degree
+number of variables
+agglomerative hierarchical clustering
+divisive hierarchical clustering
+data partitioning
+data vector reduction objective
+generalized family wise error rate correction method
+quantile number of false positives correction method
+tail probability for the proportion of false positives correction method
+false discovery rate correction method
+proportion of expected false positives correction method
+quantile proportion of false positives correction method
+data transformation objective
+data normalization objective
+correction objective
+normalization data transformation
+averaging data transformation
+partitioning data transformation
+partitioning objective
+background correction objective
+curve fitting objective
+class discovery data transformation
+fisher's exact test
+center calculation objective
+class discovery objective
+class prediction objective
+spread calculation objective
+center calculation data transformation
+data vector reduction data transformation
+scaling objective
+descriptive statistical calculation data transformation
+scaling data transformation
+error correction objective
+sequence analysis data transformation
+cross validation objective
+merging objective
+clustered data visualization
+gene list visualization
+classified data visualization
+background corrected data visualization
+survival analysis data transformation
+proportional hazards model estimation
+correlation study objective
+spectrum analysis objective
+tandem mass spectrometry
+gas chromatography mass spectrometry
+chi square test
+anova
+sequential design
+observation design
+obsolete_collection  ( of entities of organismal origin )
+pool of specimens
+chemical solution
+buffer role
+solvent role
+solute role
+comet assay
+pcr - sscp assay
+obsolete_liver
+obsolete_adipose tissue
+denatured polymer
+decapitated organism
+validated information
+curated information
+randomized group participant role
+methylated polymer
+genetically modified organism
+predicted data item
+mean - centered data
+edited document
+dissolved material entity
+extraction
+filtration
+centrifugation
+staining
+washing
+irradiation
+polymerization
+trypsination
+enzymatic ligation
+storage
+cell lysis
+electrocution
+cervical dislocation
+asphyxiation
+intentional overdosing
+decapitation
+group randomization
+obsolete_activation
+immobilization
+nucleic acid hybridization
+elution
+dna subtraction
+document editing
+prediction
+validation
+electroporation
+digital curation
+a10 - analyzer
+a40 - minifcm
+analog - to - digital converter
+flow cytometer analyzer
+arc lamp
+argon ion laser
+avalanche photodiode
+bactiflow
+band pass filter
+biosorter1000
+biosorter2000
+biosorter250
+biosorter500
+cell lab quanta sc
+charge plate
+cell sorter collection tube
+cyan
+cyflow ml
+cyflow sl
+cyflow sl3
+cyflow space
+cytobuoy flow cytometer analyzer
+cytosence
+cytosub
+dichroic filter
+dichroic mirror
+differential pressure gauge
+diode laser
+dye laser
+facs calibur
+facs canto
+facs canto2
+facs scan
+facsaria
+facsvantage
+fc 500
+flow cell
+flow cytometer
+fluid pressure regulator
+gas laser
+guava easycyte mini
+guava easycyte plus
+guava personal cell analysis
+guava personal cell analysis - 96
+helium cadmium ion laser
+helium neon ion laser
+amnis imagestream
+influx analyzer
+influx cell sorter
+interrogation_point
+ion laser
+jet_in_air_flow_chamber
+krypton ion laser
+lactoscope c4
+laser
+light source
+logarithmic voltage amplifier
+long pass filter
+lsr2
+luminex 100
+luminex 200
+macs quant
+metal vapor laser
+mixed argon - krypton gas laser
+moflo
+multi - well plate
+neodymium - yag laser
+obscuration bar
+optical filter
+optical subsystem
+particle delivery vessel
+photodetector
+photodiode
+photomultiplier tube
+piezo electric crystal
+plate loader
+preamplifier
+quartz cuvette flow chamber
+reflection
+cytometer sample tube
+sheath tank
+short pass filter
+solid state laser
+somacount
+somascope
+flow cytometer sorter
+syringe pump
+voltage amplifier
+waste tank
+dna sequencer
+array scanner
+arrayer
+centrifuge
+computer
+heating block
+homogenizer
+hybridization chamber
+hybridization station
+liquid handler
+oligonucleotide synthesizer
+sonicator
+spectrophotometer
+thermal cycler
+vacuum dryer
+vortexer
+microarray wash station
+temperature control bath
+molecular crosslinker
+image cytometer
+cytometer
+gel tank
+power supply
+fluorometer
+multispectral imaging flow cytometer
+microarray
+dna microarray
+protein microarray
+droplet sorter
+water bath
+oil bath
+digital - to - analog converter
+microtome
+microscope
+microscope slide
+animal cage
+study design
+clinical study design
+repeated measure design
+cross over design
+n - to - 1 design
+matched pairs design
+parallel group design
+randomized complete block design
+balanced incomplete block design
+loop design
+reference design
+latin square design
+graeco latin square design
+hyper graeco latin square design
+factorial design
+2x2 factorial design
+fractional factorial design
+dye swap design
+replicate design
+self vs self design
+time series design
+stopping rule
+compliance rule
+standard compliance rule
+ethical standard compliance rule
+eligibility criterion
+inclusion criterion
+exclusion criterion
+adding substance to cell culture
+tumor grading
+performing a clinical assessment
+human subject enrollment
+collecting specimen from organism
+killing
+administering substance in vivo
+acquisition
+exposure of material to environment
+material acquisition
+acclimatization
+environmental material collection process
+information acquisition
+material component separation
+group assignment
+pooling specimens
+detection of molecular label
+material portioning
+non - specific labeling
+histology assay
+cell fixation
+excision
+non specific enzymatic cleavage
+maintaining cell culture
+substance detection
+longitudinal mass measurement assay
+artificially induced cell membrane lysis
+artificially induced reverse transcription
+isolation of cell culture supernatant
+experimental disease induction
+enzyme - linked immunospot assay
+artificially induced dna repair
+cell permeabilization
+precipitation
+establishing cell culture
+cell culture splitting
+addition of molecular label
+artificially induced methylation
+synthesis
+concentrate
+recombinant plasmid cloning
+genetic transformation
+lavage
+3d structure determination assay
+preparative chromatography
+sequencing assay
+vector mediated amplification
+dna polymerase amplification
+specific enzymatic cleavage
+gradient separation
+dialysis
+electrophoresis
+selection by survival
+dna cleavage ,  restriction analysis
+protease cleavage
+enzymatic dna replication
+enzymatic amplification
+dna transduction
+dna transfection
+vector mediated expression
+recombinant vector cloning
+obsolete_defined processes
+specific labeling
+rna extraction
+nucleic acid extraction
+cell culture supernatant
+cell pellet
+phage display library
+cell lysate
+peptide construct
+transgenic organism
+whole mount tissue
+assay bead
+epitope
+obsolete_occurrence of disease
+host exposure to infectious agent
+administration in vivo with infectious agent
+occurrence of infectious disease
+disposition to cause an allergic reaction
+allergic reaction
+occurrence of allergy
+elispot assay measuring epitope specific interleukin - 2 production by t cells
+epitope binding by adaptive immune receptor
+immunization in vivo
+adaptive immune effector function
+living with infected household contact
+living in endemic area
+pathogen release in laboratory accident
+immunization in vitro
+infection process
+adaptive immune receptor
+immunogen
+environmental exposure to infectious agent
+host of immune response
+293 - t cell line
+c1r cell line
+experimental infection of cell culture
+el - 4 cell line
+hela cell line
+jaws ii cell line
+antigen
+jurkat cell line
+jy cell line
+assay measuring binding of a t cell epitope:mhc:tcr complex
+rma cell line
+t2 cell line
+infectious disease
+lymph node cell specimen
+cultured adherent cell populaiton
+cultured pbmc cell population
+disposition to be bound by an adaptive immune receptor
+organ harvesting
+cultured cd3 +  t cell population
+cultured cd3 -  t cell population
+allergy
+cultured cd4 -  t cell population
+cultured cd8 -  t cell population
+cultured cd4 -  / cd8 -  t cell population
+cancer
+autoimmune disease
+obsolete_disease
+epitope specific il - 2 release by t cells
+mhc:epitope complex binding to tcr
+elispot assay measuring epitope specific interferon - gamma production by t cells
+exposure resulting in immune reactivity
+immunogen role
+host of immune response role
+effector t cell function
+antigen presentation function
+restricting mhc role
+donor
+immune epitope carrier role
+adjuvant role
+disposition to infect an organism
+immunization
+blood harvesting
+l cell line
+cultured antigen presenting cell population
+cultured effector t cell population
+material to be added
+target of material addition
+environmental proximity to infectious agent
+contact to pathogen carrying biological vector
+splenocyte specimen
+p815 cell line
+assay antigen role
+pathologic process
+assay measuring qualitiative binding of a t cell epitope:mhc:tcr complex
+assay measuring mhc ligand processing and presentation
+assay measuring binding of a mhc:ligand complex
+assay measuring binding of a b cell epitope:antibody complex
+immune epitope assay
+biological activity assay measuring epitope specific cytokine production by t cells
+biological activity assay measuring epitope specific t cell killing
+biological activity assay measuring epitope specific proliferation of t cells
+cd8 receptor
+51 chromium assay measuring epitope specific t cell killing
+elisa measuring epitope specific interferon - gamma production by t cells
+elisa measuring epitope specific interleukin - 2 production by t cells
+elisa measuring epitope specific interleukin - 4 production by t cells
+elisa measuring epitope specific interleukin - 5 production by t cells
+elisa measuring epitope specific tumor necrosis factor production by t cells
+elisa measuring epitope specific interleukin - 10 production by t cells
+elisa measuring epitope specific granulocyte macrophage colony - stimulating factor production by t cells
+elisa measuring epitope specific interleukin - 6 production by t cells
+elisa measuring epitope specific interleukin - 13 production by t cells
+elisa measuring epitope specific interleukin - 12 production by t cells
+elisa measuring epitope specific interleukin - 1 beta production by t cells
+elisa measuring epitope specific interleukin - 17 production by t cells
+elisa measuring epitope specific interleukin - 18 production by t cells
+elispot assay measuring epitope specific interleukin - 4 production by t cells
+elispot assay measuring epitope specific tumor necrosis factor production by t cells
+elispot assay measuring epitope specific interleukin - 10 production by t cells
+elispot assay measuring epitope specific interleukin - 13 production by t cells
+intracellular cytokine staining assay measuring epitope specific interferon - gamma production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 2 production by t cells
+intracellular cytokine staining assay measuring epitope specific tumor necrosis factor production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 4 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 10 production by t cells
+intracellular cytokine staining assay measuring epitope specific interleukin - 17 production by t cells
+mhc tetramer / multimer assay measuring binding of a t cell epitope:mhc:tcr complex
+3h - thymidine assay measuring epitope specific proliferation of t cells
+brdu assay measuring epitope specific proliferation of t cells
+epitope specific t cell proliferation
+epitope specific gm - csf release by t cells
+epitope specific ifn - g release by t cells
+epitope specific il - 10 release by t cells
+epitope specific il - 12 release by t cells
+epitope specific il - 13 release by t cells
+epitope specific il - 17 release by t cells
+epitope specific il - 18 release by t cells
+epitope specific il - 1b release by t cells
+epitope specific il - 4 release by t cells
+allergen
+epitope specific il - 5 release by t cells
+epitope specific il - 6 release by t cells
+epitope specific killing by t cells
+epitope specific tnf release by t cells
+assay detecting ifn - gamma production
+direct submission to iedb
+chromium release assay
+clinical history
+phenotype
+disease
+disease course
+diagnosis
+treatment
+fixed tissue specimen
+fixed tissue slide specimen
+age
+fluorescence
+concentration of
+frequency
+biological sex
+morphology
+amplitude
+size
+length
+mass
+position
+temperature
+rate
+time
+behavioral quality
+maturity
+female
+male
+volume
+physical quality
+pressure
+diluted
+damaged
+juvenile
+lateral to
+ventral to
+dorsal to
+process quality
+quality of a single physical entity
+quality of related physical entities
+physical object quality
+mixed sex
+biomaterial purity
+hermaphrodite
+a mating type  ( yeast )
+alpha mating type  ( yeast )
+h minus
+h plus
+f mating type
+f minus mating type
+ploidy
+haploid
+polyploid
+aneuploid
+diploid
+cellular quality
+alive
+dead
+sensitivity of a process
+membrane potential
+electric potential
+quality of a solid
+quality of a gas
+quality of a liquid
+flow rate
+relational spatial quality
+anterior to
+mature
+radioactive
+positional polarity
+left side of
+right side of
+acidity
+phenotypic sex
+movement quality
+frozen
+organismal quality
+apical - basal polarity
+molecular quality
+electric charge
+handedness
+left handedness
+right handedness
+ambidextrous handedness
+capacitance
+fluid flow rate
+protein
+cd4 molecule
+cd3 subunit with immunoglobulin domain
+antithrombin - iii
+double - stranded rna - specific adenosine deaminase
+deoxyribonuclease - 1
+glial cell line - derived neurotrophic factor
+ribonuclease t2
+dna ligase
+t cell receptor co - receptor cd8
+guanyl - specific ribonuclease t1
+nuclease s1
+ribonuclease u2
+ribonuclease v1
+ribonuclease cl3
+molecular label role
+molecular label
+region
+polypeptide
+supercontig
+contig
+mirna
+sequence_assembly
+circular
+assembly
+pituitary gland
+lymph node
+life cycle stage
+mouth
+amniotic fluid
+blood
+breast
+renal medulla
+organism substance
+material anatomical entity
+testis
+anatomical cluster
+tissue
+multi - tissue structure
+epithelium
+stomach
+aorta
+heart
+brain
+cerebral cortex
+female gonad
+uterus
+vagina
+adipose tissue
+strand of hair
+pleural fluid
+urine
+sweat
+synovial fluid
+skeletal muscle tissue
+colon
+sigmoid colon
+cortex of kidney
+urinary bladder
+pancreas
+peritoneal fluid
+tibial nerve
+cerebrospinal fluid
+coronary artery
+vein
+vitreous humor
+minor salivary gland
+saliva
+cochlea
+caudate nucleus
+putamen
+milk
+bile
+placenta
+feces
+cerebellum
+thyroid gland
+lung
+dermis
+hypodermis
+skin of body
+spleen
+liver
+ileum
+peritoneum
+prostate gland
+adrenal gland
+bone marrow
+pericardial fluid
+esophagus mucosa
+left cerebral hemisphere
+right cerebral hemisphere
+omentum
+esophagus muscularis mucosa
+mucosa of nasopharynx
+mucosa of oropharynx
+atrium auricular region
+sputum
+tibial artery
+esophagogastric junction
+life - death temporal boundary
+suprapubic skin
+length unit
+mass unit
+time unit
+temperature unit
+substance unit
+concentration unit
+volume unit
+frequency unit
+pressure unit
+volumetric flow rate unit
+rate unit
+vaccine
+vaccination
+osmolality
+data set of predicted values after fitting to 2 - state boltzmann
+intracellular electrophysiology stimulus
+maximum displacement charge
+cochlear outer hair cell lateral wall length
+cochlear turn
+displacement charge
+electrical admittance with two  ( 2 )  sine stimulus
+electrical admittance
+extracellular solution
+imaginary part of admittance
+linear  ( voltage - independent )  data set
+linear membrane capacitance
+maximum non - linear membrane capacitance
+membrane current ,   ( i )  as a function of membrane potential ,   ( v )   ( ivsv plot )
+non - linear membrane capacitance
+non - linear  ( voltage - dependent )  data set
+patch pipette
+patch - clamp voltage clamp assay
+pipette pressure clamp
+potential of maximum sensitivity
+real part of admittance
+reciprocal of conductance ,  b
+sensitivity of a process to voltage
+series resistance
+solution in patch pipette
+study design control variable
+time interval from death
+transformed data set for protocol electrical admittance dual sine stimulus
+transformed data set for protocol membrane current ,  i as a function of membrane potential ,  v  ( i vs v )  plot
+patch pipette pressure
+transformed data set
+voltage drop across membrane
+voltage drop
+whole - cell patch - clamp voltage clamp assay
+apical
+basal
+mean charge flow rate
+membrane capacitance
+membrane resistance
+time interval
+time instant
+start time

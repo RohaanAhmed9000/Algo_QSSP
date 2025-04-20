@@ -1,0 +1,371 @@
+a genomic locus that has been annotated .
+genomic locus where transcription occurs .
+a transcript is the operational unit of a gene .
+expressed sequence tag .coarse sequence reads from flanking vector regions into the inserts of cdna libraries .
+the transcript support level  ( tsl )  is a method to highlight the well - supported and poorly - supported transcript models for users ,  based on the type and quality of the alignments used to annotate the transcript .
+a transcript where all splice junctions are supported by at least one non - suspect mrna .
+a transcript where the best supporting mrna is flagged as suspect or the support is from multiple ests
+a transcript where the only support is from a single est
+a transcript where the best supporting est is flagged as suspect
+a transcript where no single transcript supports the model structure .
+a transcript that was not analysed for tsl .
+appris is a system to annotate alternatively spliced transcripts based on a range of computational methods to identify the most functionally important transcript ( s )  of a gene .
+transcript ( s )  expected to code for the main functional isoform based solely on the core modules in the appris .
+where the appris core modules are unable to choose a clear principal variant  ( approximately 25% of human protein coding genes )  ,  the database chooses two or more of the cds variants as "candidates" to be the principal variant .
+where the appris core modules are unable to choose a clear principal variant and there more than one of the variants have distinct ccds identifiers ,  appris selects the variant with lowest ccds identifier as the principal variant .
+where the appris core modules are unable to choose a clear principal cds and there is more than one variant with a distinct  ( but consecutive )  ccds identifiers ,  appris selects the longest ccds isoform as the principal variant .
+where the appris core modules are unable to choose a clear principal variant and none of the candidate variants are annotated by ccds ,  appris selects the longest of the candidate isoforms as the principal variant .
+for genes in which the appris core modules are unable to choose a clear principal isoform ,  the alt1 is the candidate transcript ( s )  models that is conserved in at least three tested species .
+for genes in which the appris core modules are unable to choose a clear principal isoform ,  the alt1 is the candidate transcript ( s )  models that appear to be conserved in fewer than three tested species .
+a subset of the gencode transcript set ,  containing only 5' and 3' complete transcripts .
+a protein - coding transcript which is missing the start codon due to incomplete evidence .
+a protein - coding transcript which is missing the stop codon due to incomplete evidence .
+a single transcript chosen for a gene which is the most conserved ,  most highly expressed ,  has the longest coding sequence and is represented in other key resources ,  such as ncbi and uniprot .
+a coding sequence in the consensus coding sequence set is consistently annotated between ensembl ,  mgi ,  hgnc and ncbi .
+a gene or transcript classification .
+gene / transcipt that contains an open reading frame  ( orf )  .
+gene / transcript that doesn't contain an open reading frame  ( orf )  .
+a non - coding gene / transcript  > 200bp in length
+transcripts which are known from the literature to not be protein coding .
+transcripts where ditag and / or published experimental data strongly supports the existence of long  (  > 200bp )  non - coding transcripts that overlap the 3'utr of a protein - coding locus on the same strand .
+transcripts that overlap the genomic span  ( i .e .
+transcripts that are long intergenic non - coding rna locus with a length  > 200bp .
+an alternatively spliced transcript believed to contain intronic sequence relative to other ,  coding ,  transcripts of the same gene .
+a long non - coding transcript in introns of a coding gene that does not overlap any exons .
+a long non - coding transcript that contains a coding gene in its intron on the same strand .
+unspliced lncrnas that are several kb in size .
+a non - coding gene .
+a small rna  ( ~22bp )  that silences the expression of target mrna .
+an rna that interacts with piwi proteins involved in genetic silencing .
+the rna component of a ribosome .
+a small rna  ( 20 - 25bp )  that silences the expression of target mrna through the rnai pathway .
+small rna molecules that are found in the cell nucleus and are involved in the processing of pre messenger rnas
+small rna molecules that are found in the cell nucleolus and are involved in the post - transcriptional modification of other rnas .
+a transfer rna ,  which acts as an adaptor molecule for translation of mrna .
+short non coding rna genes that form part of the vault ribonucleoprotein complex .
+miscellaneous rna .a non - coding rna that cannot be classified .
+a gene that has homology to known protein - coding genes but contain a frameshift and / or stop codon ( s )  which disrupts the orf .
+pseudogene that lack introns and is thought to arise from reverse transcription of mrna followed by reinsertion of dna into the genome .
+pseudogene that can contain introns since produced by gene duplication .
+pseudogene where protein homology or genomic structure indicates a pseudogene ,  but the presence of locus - specific transcripts indicates expression .
+pseudogenes that have mass spec data suggesting that they are also translated .
+pseudogene owing to a snp / indel but in other individuals / haplotypes / strains the gene is translated .
+a species specific unprocessed pseudogene without a parent gene ,  as it has an active orthologue in another species .
+inactivated immunoglobulin gene .
+immunoglobulin gene that undergoes somatic recombination ,  annotated in collaboration with imgt http: /  / www .imgt .org /  .
+t cell receptor gene that undergoes somatic recombination ,  annotated in collaboration with imgt http: /  / www .imgt .org /  .
+regions with est clusters that have polya features that could indicate the presence of protein coding genes .
+a readthrough transcript has exons that overlap exons from transcripts belonging to two or more different loci  ( in addition to the locus to which the readthrough transcript itself belongs )  .
+variable chain immunoglobulin gene that undergoes somatic recombination before transcription
+diversity chain immunoglobulin gene that undergoes somatic recombination before transcription
+joining chain immunoglobulin gene that undergoes somatic recombination before transcription
+constant chain immunoglobulin gene that undergoes somatic recombination before transcription
+variable chain t cell receptor gene that undergoes somatic recombination before transcription
+diversity chain t cell receptor gene that undergoes somatic recombination before transcription
+joining chain t cell receptor gene that undergoes somatic recombination before transcription
+constant chain t cell receptor gene that undergoes somatic recombination before transcription
+the sequence of the spliced exons of a transcript expressed in dna notation  ( t rather than u )  ,  representing the coding or sense strand .
+coding sequence .the region of a cdna which is translated .
+a sequence of amino acids ,  translated from a cds .
+a region of special biological interest within a single protein sequence .
+transcribed genomic region that remains in the rna after splicing ,  includes both the cds and the utrs .
+transcribed genomic regions that is removed from the rna by splicing .
+three base pairs in either dna or rna that code for an amino acid  ( or stop translation )  .
+exons that are not spliced out ,  therefore present in all transcripts of a given gene .
+the position of an exon / intron boundary within a codon .
+sequence 5' or 3' to a dna or rna sequence of interest  ( for example gene ,  transcript ,  snp or repeat )  .
+the region of a coding cdna which is not translated .
+the region of a coding cdna upstream of the start codon which is not translated .
+the region of a coding cdna downstream of the stop codon which is not translated .
+specific genes that are descended from the same common sequence in an ancestor .
+a representation of the evolutionary relationship between homologues ,  constructed using the ensembl gene tree pipeline .
+orthologues are genes derived from a common ancestor through vertical descent  ( or speciation )  and can be thought of as the direct evolutionary counterpart .
+a type of orthologue assigned for a pair of species where only one copy is found in each species .
+a type of orthologue assigned for a pair of species where one gene in one species is orthologous to multiple genes in the other species ,  due to  ( a )  duplication event ( s )  in the second species .
+a type of orthologue assigned for a pair of species where multiple orthologues are found in both species ,  where the duplication events in both species occurred after the speciation event .
+genes  ( homologues )  that have evolved by duplication .
+members of the same gene family in different species that are not direct orthologues .
+pairs of genes in a species that occur together in the same tree ,  but are actually two halves of the same gene split partway along .
+paralogues which are very far away from the other members of a paralogue family .
+two or more versions of a duplicated gene in a single species .
+pairs of genes in a polyploid genome that underwent  ( a )  hybridisation event ( s )  .
+locus where the sequence differs between individuals of the same species
+genetic loci where allelic variation is associated with variation in a quantitative trait  ( e .g .
+genetic loci where allelic variation is associated with expression levels of other genes .
+codes that reflect the amount and type of evidence that supports the existence of a variant .
+variant that only affects a small locus
+variant that affects a large locus
+single nucleotide polymorphism ,  substitution of a single nucleotide for another nucleotide
+insertion of one or more nucleotides
+deletion of one or more nucleotides
+an insertion and a deletion ,  affecting two or more nucleotides
+a sequence alteration where the length of the deleted sequence is the same as the length of the inserted sequence .
+copy number variation: increases or decreases the copy number of a given locus .
+a continuous nucleotide sequence is inverted in the same position
+a region of nucleotide sequence that has translocated to a new position
+one of a number of alternative forms of the same genetic locus / variant .
+different versions of a gene found between the primary assembly and a patch or genome haplotype .
+the allele of a variant found in the reference genome currently being studied .
+any allele of a variant which is not the in the reference genome currently being studied .
+the allele which is most frequent in the global population ,  defined in human by the 1000 genomes project .
+the allele which is the second most frequent in the global population ,  defined in human by the 1000 genomes project .
+an allele which has only been identified in one individual or one family .
+the allele which occurs at this locus in closely related species and is thought to reflect the allele present at the time of speciation .
+the frequency of the second most common allele in the specified population .
+the highest minor allele frequency observed in any population typed for this variant .
+the frequency of the second most common allele in the global population ,  defined in human by the 1000 genomes project phase 3 .
+the specific alleles that are present in an individual's genome .
+a measurable locus that varies within a population .
+two or more adjacent copies of a region  ( of length greater than 1 )  .
+a dispersed intermediately repetitive dna sequence found in the human genome in about one million copies .
+a structural sequence alteration or rearrangement encompassing one or more genome fragments ,  with four or more breakpoints .
+when no simple or well defined dna mutation event describes the observed dna change ,  the keyword ""complex"" should be used .
+a rearrangement breakpoint between two different chromosomes .
+a translocation where the regions involved are from different chromosomes .
+a rearrangement breakpoint within the same chromosome .
+a translocation where the regions involved are from the same chromosome .
+a functional variant whereby the sequence alteration causes a loss of function of one allele of a gene .
+a deletion of a mobile element when comparing a reference sequence  ( has mobile element )  to a individual sequence  ( does not have mobile element )  .
+a kind of insertion where the inserted sequence is a mobile element .
+an insertion the sequence of which cannot be mapped to the reference genome .
+a variation that expands or contracts a tandem repeat with regard to a reference .
+a duplication consisting of 2 identical adjacent regions .
+a dna sequence used experimentally to detect the presence or absence of a complementary nucleic acid .
+the effect that the variant has on each feature that it overlaps .
+a subjective classification of the severity of the variant consequence ,  based on agreement with snpeff .
+the variant is assumed to have high  ( disruptive )  impact in the protein ,  probably causing protein truncation ,  loss of function or triggering nonsense mediated decay .
+a non - disruptive variant that might change protein effectiveness .
+a variant that is assumed to be mostly harmless or unlikely to change protein behaviour .
+usually non - coding variants or variants affecting non - coding genes ,  where predictions are difficult or there is no evidence of impact .
+a feature ablation whereby the deleted region includes a transcript feature
+a splice variant that changes the 2 base region at the 3' end of an intron
+a splice variant that changes the 2 base region at the 5' end of an intron
+a sequence variant whereby at least one base of a codon is changed ,  resulting in a premature stop codon ,  leading to a shortened transcript
+a sequence variant which causes a disruption of the translational reading frame ,  because the number of nucleotides inserted or deleted is not a multiple of three
+a sequence variant where at least one base of the terminator codon  ( stop )  is changed ,  resulting in an elongated transcript
+a codon variant that changes at least one base of the canonical start codo
+a feature amplification of a region containing a transcript
+an inframe non synonymous variant that inserts bases into in the coding sequenc
+an inframe non synonymous variant that deletes bases from the coding sequenc
+a sequence variant ,  that changes one or more bases ,  resulting in a different amino acid sequence but where the length is preserved
+a sequence_variant which is predicted to change the protein encoded in the coding sequence
+a sequence variant in which a change has occurred within the region of the splice site ,  either within 1 - 3 bases of the exon or 3 - 8 bases of the intron
+a sequence variant where at least one base of the final codon of an incompletely annotated transcript is changed
+a sequence variant where at least one base in the terminator codon is changed ,  but the terminator remains
+a sequence variant where there is no resulting change to the encoded amino acid
+a sequence variant that changes the coding sequence
+a transcript variant located with the sequence of the mature mirna
+a utr variant of the 5' utr
+a utr variant of the 3' utr
+a sequence variant that changes non - coding exon sequence in a non - coding transcript
+a transcript variant occurring within an intron
+a variant in a transcript that is the target of nmd
+a transcript variant of a non coding rna gene
+a sequence variant located 5' of a gene
+a sequence variant located 3' of a gene
+a feature ablation whereby the deleted region includes a transcription factor binding site
+a feature amplification of a region containing a transcription factor binding site
+a sequence variant located within a transcription factor binding site
+a feature ablation whereby the deleted region includes a regulatory region
+a feature amplification of a region containing a regulatory region
+a sequence variant located within a regulatory region
+a sequence variant located within a regulatory region
+a sequence variant that causes the reduction of a genomic feature ,  with regard to the reference sequence
+a sequence variant located in the intergenic region ,  between genes
+a single letter code that represents two or more possible nucleotides at a single base locus .
+variants that failed our quality control analyses ,  therefore they are flagged as suspicious .
+a classification of a variant's impact on disease ,  taken from clinvar .
+a measure of how often two variants or specific sequences are inherited together .
+the correlation between a pair of loci .
+the difference between the observed and the expected frequency of a given haplotype .
+a set of variant alleles in a contiguous genomic region .
+the transcript sequence derived from one copy of a gene in an individual ,  based on the phased 1000 genomes genotype data .
+the complete set of dna found in each cell .
+a computational representation of the sequence of a haploid genome ,  representative of a species or strain .
+refers to the number of overlapping sequences used to build a region of the assembly .
+the underlying genome sequence ,  without alternative sequence included .
+genomic sequence that differs from the genomic dna on the primary assembly .
+new sequences that have been added to the genome assembly since its release .
+known variations to the primary assembly ,  due to variability in the human genome sequence  ( eg .
+novel patches represent new allelic loci .
+fix patches are where the primary assembly was found to be incorrect ,  and the patch reflects the corrected sequence .
+a contig is a contiguous stretch of dna sequence without gaps that has been assembled solely based on direct sequencing information .
+scaffolds are sets of ordered ,  oriented contigs ,  assembled by sequence overlap .
+a banding pattern on a chromosome resulting from staining and examination by microscopy .
+a segment of dna that has been inserted into a vector molecule ,  such as a plasmid ,  and then replicated to form many identical copies .
+a vector used to clone dna fragments  ( 100 to 300 - kb insert size ;  average ,  150 kb )  from another species so that it can be replicated in bacteria .
+originated from a bacterial plasmid ,  a yac contains a yeast centromeric region ,  a yeast origin of dna replication ,  a cluster of unique rectriction sites and a selectable marker and a telomere region at the en of each arm .
+dna from a bacterial virus spliced with a small fragment of a genome  ( up to 50 kb )  to be amplified and sequenced .
+the actual number of bases of sequence we have for a full genome assembly ,  including alternative sequences and pars ,  excluding gaps .
+the golden path is the length of the non - redundant reference assembly .
+which level of the assembly we are working on .
+the number of chromosomes of a genome .
+small regions of sequence identity located at the tips of the short and the long arms of the x and y chromosomes where recombination and genetic exchange take place .
+the term "slice" in ensembl refers to a length of dna sequence .
+the largest continuous sequence for an organism .
+a scaffold that can be positioned on a chromosome based on genetic mapping information .
+a scaffold that cannot be positioned on a chromosome .
+publicly available database that ensembl imports data from .
+database from which ensembl imports cdna or protein sequence for gene annotation ,  or gene names .
+the aim of gencode as a sub - project of the encode scale - up project is to annotate all evidence - based gene features in the entire human and mouse genomes at a high accuracy .
+ncbi's reference sequences  ( refseq )  database is a curated database of genbank's genomes ,  mrnas and proteins .
+database of protein sequence and functional information ,  based at european bioinformatics institute  ( embl - ebi )  ,  the sib swiss institute of bioinformatics and the protein information resource  ( pir )  .
+international immunogenetics information system .database of immunoglobulin and t - cell receptor annotation .
+uniprot / swiss - prot is a curated protein sequence database that provides a high level of annotation ,  a minimal level of redundancy and high level of integration with other databases .
+a subset of trembl  ( translated embl database )  containing the computer - annotated protein translations of all coding sequences  ( cds )  present in the ena  ( formerly embl - bank )  that are not yet incorporated into the uniprot / swissprot database .
+an international consortium between the ena ,  genbank and ddbj to share submissions of nucleotide sequence .
+europe's primary nucleotide sequence resource .
+the us branch of insdc .
+the asian branch of insdc .
+an organised hierarchy of terms produced by the gene ontology consortium ,  used to describe the function of proteins .
+hgnc is responsible for approving unique symbols and names for human loci ,  including protein coding genes ,  ncrna genes and pseudogenes ,  to allow unambiguous scientific communication .
+the rfam database is a collection of rna families ,  each represented by multiple sequence alignments ,  consensus secondary structures and covariance models  ( cms )  .
+the mirbase database is a searchable database of published mirna sequences and annotation .
+mgi is the international database resource for the laboratory mouse ,  providing integrated genetic ,  genomic ,  and biological data to facilitate the study of human health and disease .
+an online biological database of information about the zebrafish  ( danio rerio )  .
+canonical database for the molecular biology and genetics of saccharomyces cerevisiae ,  source of the annotation seen in ensembl .
+a genome browser hosted at the university of california santa cruz .
+database from which ensembl imports chip - seq ,  dnase - seq and other related datasets ,  which are used in the ensembl regulatory build .
+project aiming to build a comprehensive parts list of functional elements in the human genome ,  including elements that act at the protein and rna levels ,  and regulatory elements that control cells and circumstances in which a gene is active ,  by large scale functional analyses of laboratory cell lines .
+project aiming to apply functional genomics analysis on primary cells of the haematopoietic cell lineage from healthy and diseased individuals ,  to produce lineage - specific epigenomes .
+project aiming to develop publicly available reference epigenome maps from a variety of cell types .
+database from which ensembl imports variation data ,  including loci ,  sample genotypes ,  population frequencies and phenotype associations .
+the single nucleotide polymorphism database  ( dbsnp )  is a public - domain archive for a broad collection of simple  ( short )  genetic polymorphisms in human ,  maintained by ncbi .
+the european variation archive is an open - access database of all types of genetic variation data from all species .
+dbvar is ncbi's database of human genomic structural variation — insertions ,  deletions ,  duplications ,  inversions ,  mobile elements ,  and translocations .
+the database of genomic variants archive  ( dgva )  is a repository that provides archiving ,  accessioning and distribution of publicly available genomic structural variants ,  in all species .https: /  / www .ebi .ac .uk / dgva
+the goal of the 1000 genomes project was to find most genetic variants with frequencies of at least 1% in the human populations studied .
+an aggregation of publicly available whole genome and whole exome variant calling experiments in human .
+whole genome variant calling data from humans worldwide with heart ,  lung ,  blood ,  and sleep disorders .
+study comparing exomes of 6000 diseased individuals with 4000 healthy individuals in the uk in order to identify disease - causing variants .
+an international collaboration formed to develop a haplotype map of the human genome and thus describe the common patterns of human dna sequence variation using genotyping .
+ncbi resource that aggregates information about genomic variation and its relationship to human health .
+database from which ensembl imports phenotype associations with genes and / or variants .
+an online database that describes the function and phenotypes associated with human genes .
+an online database that describes the function and phenotypes associated with animal genes .
+a catalogue of rare disease associations .
+a curated database that extracts associations between variants and genes from published genome - wide association studies in human .
+an international scientific endeavour to create and characterise the phenotype of 20 , 000 knockout mouse strains .
+project aiming to house all publicly available qtl and association data on livestock animal species .
+project aiming to collate all known  ( published )  gene lesions responsible for human inherited disease .
+database of somatic variants found in cancer .
+a repository for 3d biological macromolecular structure data .
+a sequence of computational tasks or actions that carry out a specific function .
+the automatic process by which ensembl plot known rna and protein sequence onto the genome ,  using sequence similarity .
+human and vertebrate analysis and annotation .
+the process by which ensembl predict the location of regions that regulate gene expression using epigenomic evidence .
+the process by which ensembl compare gene sequences in order to construct gene trees and predict homologues .
+interpro is an integrated resource for protein families ,  domains and sites ,  combining information from several different protein signature databases ,  including prosite ,  prints ,  pfam ,  seg ,  signalp ,  gene3d ,  smart ,  tigrfams ,  pir superfamilies and superfamily .
+a sequence comparison algorithm optimised for speed which is used to search sequence databases for optimal local alignments to a query .
+an mrna / dna and cross - species protein sequence analysis tool to quickly find sequences of 95% and greater similarity of length 40 bases or more .
+a standalone application that looks for low complexity sequences .
+eponine is a probabilistic method for detecting transcription start sites  ( tss )  in mammalian genomic sequence ,  with good specificity and excellent positional accuracy .
+genewise is a sequence analysis tool for comparing proteins to dna sequences allowing for introns and frameshifts .
+a fast gapped dna - dna alignment algorithm .
+a gene build method used by ensembl for low coverage genomes ,  allowing genes to be annotated that span two scaffolds by mapping to the human gene .
+an hmm - based ab initio gene prediction method ,  used to create a track of ab initio genes in ensembl .
+a tool which predicts if missense variants are likely to affect protein function based on sequence homology and the physico - chemical similarity between the alternate amino acids .
+a tool which predicts if missense variants are likely to affect protein function based on physical and comparative considerations .
+the method by which repeated sequences and low - complexity regions are hidden ,  usually used in searches by alignment and homology - searching programs .
+a matrix that defines scores for amino acid substitutions ,  reflecting the similarity of physicochemical properties ,  and observed substitution frequencies .
+the variant effect predictor  ( vep )  is an ensembl tool that predicts the effect of your variants  ( snps ,  insertions ,  deletions ,  cnvs or structural variants )  on genes ,  transcripts ,  and protein sequence ,  as well as regulatory regions .
+a set of recomendations for variant naming .
+vcf is a standard format for listing genetic variation ,  which is the output for many variant callers .
+bed is a simple format for listing genomic loci .
+fasta is used to store finished nucleotide and peptide sequences .
+bam and cram store alignments of ngs data to the genome .
+bigbed is an indexed form of bed ,  which can be used to store larger scale data .
+ensembl default is an input format for the vep ,  used to describe the position and alleles of a variant .
+bedgraph allows you to store scores for loci in bed format ,  the loci can be of varying size .
+gtf is a tab - limited format that describes genomic features ,  such as genes and transcripts ,  and allows hierarchical linking of gene features .
+gff is a tab - limited format that describes genomic features ,  such as genes and transcripts ,  and allows hierarchical linking of gene features .
+psl represents alignments and can be viewed in ensembl .
+wiggle format expresses scores across genomic loci ,  requiring fixed size bins for the scores .
+bigwig is an indexed form of wiggle and can be used to store larger scale data .
+pairwise interactions ,  such as those derived from hi - c ,  can be stored in the washu format and viewed in ensembl .
+chain files describe the mapping between different genome assemblies .
+newick is a tree format .
+embl files store sequence and accompanying annotation for features across a genomic region .
+genbank files store sequence and accompanying annotation for features across a genomic region .
+ensembl multi format  ( emf )  stores genomic alignments in ensembl .
+multiple alignment format  ( maf )  stores genomic alignments .
+mysql is a database .all ensembl data is stored in mysql relational tables ,  which can be found on the ftp site and accessed directly by mysql queries .
+a vep cache contains all the gene and variant data needed to run a vep query ,  and can be used to run large queries quickly on your own machine .
+genome variation format  ( gvf )  is used to store variation data .
+phyloxml is an xml language for the analysis ,  exchange ,  and storage of phylogenetic trees  ( or networks )  and associated data .
+orthoxml is an xml format to allow the storage and comparison of orthology data .
+resource description framework  ( rdf )  is used as a metadata data model .
+a golden path .a file provided to ensembl that describes how the longer sequences in the genome assembly were assembled from shorter sequences .
+the method by which repeated sequences and low - complexity regions are hidden ,  usually used in searches by alignment and homology - searching programs .
+hard masked sequence is repeat masked with the repeat sequences replaced by ns .
+soft masked sequence is repeat masked with the repeat sequences in lower case .
+a region in the genomic sequence containing short tandem repeats of 2 - 10bp .
+the region of the chromosome at which the two sister chromatids are joined during mitosis and meiosis ,  mostly composed of satellite dna .
+poly - purine or poly - pyrimidine stretches ,  or regions of extremely high at or gc content .
+non - functional copies of rna genes which have been reintegrated into the genome with the assistance of a reverse transcriptase .
+multiple copies of the same base sequence on a dna sequence .
+duplications of simple sets of dna bases  ( typically 1 - 5bp )  such as a ,  ca ,  cgg etc .
+typically found at the centromeres and telomeres of chromosomes these are duplications of more complex 100 - 200 base sequences .
+long tandem repeats .
+long interspersed elements .retrotransposed elements in the genome containing open reading frames encoding  ( often inactive )  reverse transcription machinery .
+short interspersed elements .retrotransposed elements less than 500 bp that contain trna ,  snrna and rrna ,  which require other mobile elements to be transposed .
+elements that have been transposed and duplicated around the genome by excision and ligation .
+repeats that cannot be classified .
+a comparison between two or more sequences by matching identical and / or similar residues / nucleotides and assigning a score to the match .
+an alignment carried out using the whole genome sequence .
+an alignment between two whole genomes .
+an alignment between more than two whole genomes of a selected taxon .
+in a genomic context we refer to syntenic regions if the sequence is globally conserved between two species .
+the cigar line defines the sequence of matches / mismatches and deletions  ( or gaps )  in an alignment
+a measure of how similar two alignment sequences are ,  specifically ,  what percentage of amino acids or nucleotides are the same in type and position between the two sequences .
+an application for displaying sequence alignments with custom colour - annotation ,  which is used by ensembl displaying gene tree and family alignments .
+how well one sequence matches another determined by calculation by an alignment program of identical and conserved residues / nucleotides .
+pecan is a global multiple sequence alignment program that makes practical the probabilistic consistency methodology for significant numbers of sequences of practically arbitrary length .
+the epo  ( enredo ,  pecan ,  ortheus )  pipeline is a three step pipeline for whole - genome multiple alignments ,  using enredo segments ,  aligning them with pecan and constructing ancestal sequences with ortheus .
+progressive - cactus is a next - generation aligner that stores whole - genome alignments in a graph structure .
+lastz is a program for aligning dna sequences in a pairwise manner .
+blastz is a program for aligning dna sequences in a pairwise manner .
+translated blat can be used for alignment of the coding regions of genomes only in a pairwise manner .
+regions that are predicted to regulate the expression of genes ,  based on the ensembl regulatory build .
+regions at the 5' end of genes where transcription factors and rna polymerase bind to initiate transcription .
+transcription factor binding regions that flank promoters .
+regions that bind transcription factors and interact with promoters to stimulate transcription of distant genes .
+regions that bind ctcf ,  the insulator protein that demarcates open and closed chromatin .
+sites which bind transcription factors ,  for which no other role can be determined as yet .
+regions of spaced out histones ,  making them accessible to protein interactions .
+the activity state of a regulatory feature in a specific epigenome .
+when a regulatory feature displays an epigenetic signature which is consistent with it carrying out its named function ,  for example an active promoter has an epigenetic signature consistent with initiating transcription ,  while an active ctcf binding site will bind ctcf .
+when a regulatory feature displays a epigenetic signature with the potential to be activated .
+when a regulatory feature is epigenetically repressed ,  having an epigenetic signature that prevents it from being active .
+when a regulatory feature bears no epigenetic modifications from the ones included in the regulatory build .
+when there is no available data in the cell type for this regulatory feature .
+experimental data that is used to construct and determine activity of regulatory features .
+a method to determine the genomic regions that proteins bind to .
+a method to determine regions of open and closed chromatin .
+a protein that binds to dna and controls the rate of transcription .
+covalent modifications to the histone proteins that make up the nucleosome ,  which are known to regulate gene expression .
+modification of cytosines in cpgs with methyl groups ,  which is known to repress gene expression .
+a method to determine the methylation of genomic cytosines .
+a count of the number of ngs reads from an epigenome experiment aligned to a locus ,  shown as a bigwig across the genome .
+locus identified from epigenome signal as being having high signal ,  shown as a bigbed across the genome .
+short genomic sequence that is known to bind to a particular transcription factor .
+a cell type ,  such as a primary tissue or lab cell line ,  for which we have epigenome evidence and can predict regulatory features .
+a short sequence whose placement on the genome is known .
+unists is a ncbi resource for non - redundant sequence tagged sites  ( sts )  markers .
+mapping between ensembl genes ,  transcripts and proteins to the same features in other databases .
+a tool that integrates multiple annotations into one metric for scoring the deleteriousness of single nucleotide variants .
+a tool for predicting the pathogenicity of single nucleotide variants using an ensemble method .
+a tool for assessing the functional impact of single nucleotide variants based on evolutionary conservation of the affected amino acid in protein homologues .
+a tool for predicting the pathogenicity of single nucleotide variants using a logistic regression based ensemble method .
+the matched annotation from ncbi and embl - ebi is a collaboration between ensembl / gencode and refseq to identify transcripts that match grch38 and are 100% identical between refseq and ensembl / gencode for 5' utr ,  cds ,  splicing and 3'utr .
+the matched annotation from ncbi and embl - ebi is a collaboration between ensembl / gencode and refseq .
+the preliminary release  ( phase 1 )  of the mane select data set .
+long - read sequence data is computationally processed into non - redundant transcript models which are manually appraised by the ensembl - havana annotation team .
+the coding sequence contains a stop codon that is translated  ( as supported by experimental evidence )  ,  and termination occurs instead at a canonical stop codon further downstream .
+dna strand arbitrary defined as the strand with its 5' end at the tip of the short chromosome arm  ( p )  .
+dna strand arbitrary defined as the strand with its 5' end at the tip of the long chromosome arm  ( q )  .
+refseq transcripts that match 100% across the sequence ,  exon / intron structure and utrs as part of the mane project
+the uniprot identifier that matches to the ensembl transcript .
+a transcript with a premature stop codon considered likely to be subjected to targeted degradation .
+a transcript with a non - atg start codon but which still encodes a methionine since the ribosomal machinery allows non - aug to translate as methionine in specific cases .
+transcripts in the mane plus clinical set are additional transcripts per locus necessary to support clinical variant reporting ,  for example transcripts containing known pathogenic or likely pathogenic clinical variants not reportable using the mane select set .

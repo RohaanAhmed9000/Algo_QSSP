@@ -1,0 +1,2173 @@
+protein modification
+alkylated residue
+o - glycosyl - l - serine
+unimod
+artifact
+o - glycosyl - l - threonine
+n - glycosylated residue
+selenium substitution for sulfur
+common
+natural residue
+l - alanine residue
+l - arginine residue
+l - asparagine residue
+l - aspartic acid residue
+l - cysteine residue
+l - glutamic acid residue
+l - glutamine residue
+glycine residue
+l - histidine residue
+l - isoleucine residue
+l - leucine residue
+l - lysine residue
+l - methionine residue
+l - phenylalanine residue
+l - proline residue
+l - serine residue
+l - threonine residue
+l - tryptophan residue
+l - tyrosine residue
+l - valine residue
+n - formyl - l - methionine residue
+l - selenocysteine residue
+uncategorized protein modification
+crosslinked residues
+l - cystine  ( cross - link )
+ ( 2s , 3r )  - 3 - hydroxyasparagine
+ ( 2s , 3r )  - 3 - hydroxyaspartic acid
+5 - hydroxy - l - lysine
+3 - hydroxy - l - proline
+4 - hydroxy - l - proline
+2 - pyrrolidone - 5 - carboxylic acid  ( gln )
+l - gamma - carboxyglutamic acid
+l - aspartic 4 - phosphoric anhydride
+s - phospho - l - cysteine
+1' - phospho - l - histidine
+3' - phospho - l - histidine
+o - phospho - l - serine
+o - phospho - l - threonine
+o4' - phospho - l - tyrosine
+2' -  [ 3 - carboxamido - 3 -  ( trimethylammonio ) propyl ]  - l - histidine
+n - acetyl - l - alanine
+n - acetyl - l - aspartic acid
+n - acetyl - l - cysteine
+n - acetyl - l - glutamic acid
+n - acetyl - l - glutamine
+n - acetylglycine
+n - acetyl - l - isoleucine
+n2 - acetyl - l - lysine
+n - acetyl - l - methionine
+n - acetyl - l - proline
+n - acetyl - l - serine
+n - acetyl - l - threonine
+n - acetyl - l - tyrosine
+n - acetyl - l - valine
+n6 - acetyl - l - lysine
+s - acetyl - l - cysteine
+n - formylglycine
+n - d - glucuronoylglycine
+n - myristoylglycine
+n - palmitoyl - l - cysteine
+n - methyl - l - alanine
+n , n , n - trimethyl - l - alanine
+n - methylglycine
+n - methyl - l - methionine
+n - methyl - l - phenylalanine
+n , n - dimethyl - l - proline
+symmetric dimethyl - l - arginine
+asymmetric dimethyl - l - arginine
+omega - n - methyl - l - arginine
+n4 - methyl - l - asparagine
+n5 - methyl - l - glutamine
+l - glutamic acid 5 - methyl ester  ( glu )
+3' - methyl - l - histidine
+n6 , n6 , n6 - trimethyl - l - lysine
+n6 , n6 - dimethyl - l - lysine
+n6 - methyl - l - lysine
+n6 - palmitoyl - l - lysine
+n6 - myristoyl - l - lysine
+o - palmitoyl - l - threonine
+o - palmitoyl - l - serine
+l - alanine amide
+l - arginine amide
+l - asparagine amide
+l - aspartic acid 1 - amide
+l - cysteine amide
+l - glutamine amide
+l - glutamic acid 1 - amide
+glycine amide
+l - histidine amide
+l - isoleucine amide
+l - leucine amide
+l - lysine amide
+l - methionine amide
+l - phenylalanine amide
+l - proline amide
+l - serine amide
+l - threonine amide
+l - tryptophan amide
+l - tyrosine amide
+l - valine amide
+l - cysteine methyl disulfide
+s - farnesyl - l - cysteine
+s - 12 - hydroxyfarnesyl - l - cysteine
+s - geranylgeranyl - l - cysteine
+l - cysteine methyl ester
+s - palmitoyl - l - cysteine
+s - diacylglycerol - l - cysteine
+s -  ( l - isoglutamyl )  - l - cysteine
+2' -  ( s - l - cysteinyl )  - l - histidine
+l - lanthionine  ( cys - ser )
+meso - lanthionine
+ ( 2s , 3s , 2'r )  - 3 - methyllanthionine
+3' -  ( s - l - cysteinyl )  - l - tyrosine
+n6 - carboxy - l - lysine
+n6 - 1 - carboxyethyl - l - lysine
+hypusine
+n6 - biotinyl - l - lysine
+n6 - lipoyl - l - lysine
+n6 - pyridoxal phosphate - l - lysine
+n6 - retinylidene - l - lysine
+l - allysine
+l - 2 - aminoadipic acid
+l - lysinoalanine  ( lys - ser )
+n6 -  ( l - isoglutamyl )  - l - lysine  ( gln )
+n6 - glycyl - l - lysine
+n -  ( l - isoaspartyl )  - glycine  ( asn )
+pyruvic acid  ( cys )
+l - 3 - phenyllactic acid
+2 - oxobutanoic acid
+n2 - succinyl - l - tryptophan
+s - phycocyanobilin - l - cysteine
+s - phycoerythrobilin - l - cysteine
+s - phytochromobilin - l - cysteine
+heme - bis - l - cysteine
+heme - l - cysteine
+tetrakis - l - cysteinyl iron
+tetrakis - l - cysteinyl diiron disulfide
+hexakis - l - cysteinyl triiron trisulfide
+tris - l - cysteinyl triiron tetrasulfide
+tetrakis - l - cysteinyl tetrairon tetrasulfide
+l - cysteinyl - l - histidino - homocitryl molybdenum heptairon nonasulfide
+l - cysteinyl molybdopterin
+s -  ( 8alpha - fad )  - l - cysteine
+3' -  ( 8alpha - fad )  - l - histidine
+o4' -  ( 8alpha - fad )  - l - tyrosine
+3' - hydroxylation of l - tyrosine to l - 3' , 4' - dihydroxyphenylalanine
+oxidation of tyrosine to l - 2' , 4' , 5' - topaquinone
+oxidation of tryptophan to l - tryptophyl quinone
+4' -  ( l - tryptophan )  - l - tryptophyl quinone
+o - phosphopantetheine - l - serine
+n4 - glycosyl - l - asparagine
+s - glucosyl - l - cysteine
+o5 - glucosylgalactosyl - l - hydroxylysine
+o -  ( n - acetylamino ) galactosyl - l - serine
+o -  ( n - acetylamino ) galactosyl - l - threonine
+1' - mannosyl - l - tryptophan
+o4' - glucosyl - l - tyrosine
+n - asparaginyl - glycosylphosphatidylinositolethanolamine
+n - aspartyl - glycosylphosphatidylinositolethanolamine
+n - cysteinyl - glycosylphosphatidylinositolethanolamine
+n - glycyl - glycosylphosphatidylinositolethanolamine
+n - seryl - glycosylphosphatidylinositolethanolamine
+n - alanyl - glycosylphosphatidylinositolethanolamine
+n - threonyl - glycosylphosphatidylinositolethanolamine
+n - glycyl - glycosylsphingolipidinositolethanolamine
+n - seryl - glycosylsphingolipidinositolethanolamine
+o -  ( phosphoribosyl dephospho - coenzyme a )  - l - serine
+omega - n -  ( adp - ribosyl )  - l - arginine
+s -  ( adp - ribosyl )  - l - cysteine
+l - glutamyl 5 - glycerylphosphorylethanolamine
+s - sulfo - l - cysteine
+o4' - sulfo - l - tyrosine
+l - bromohistidine
+l - 2' - bromophenylalanine
+l - 3' - bromophenylalanine
+l - 4' - bromophenylalanine
+3' , 3'' , 5' - triiodo - l - thyronine
+l - thyroxine
+6' - bromo - l - tryptophan
+dehydroalanine  ( ser )
+dehydrobutyrine  ( thr )
+ ( z )  - 2 , 3 - didehydrotyrosine
+l - serine 5 - imidazolinone glycine
+l - 3 - oxoalanine  ( cys )
+lactic acid
+l - alanine 5 - imidazolinone glycine
+l - cysteine 5 - imidazolinone glycine
+2 - imino - glutamine 5 - imidazolinone glycine
+d - alanine  ( ala )
+d - allo - isoleucine
+d - methionine
+d - phenylalanine
+d - serine  ( ser )
+d - asparagine
+d - leucine
+d - tryptophan
+l - isoglutamyl - polyglycine
+l - isoglutamyl - polyglutamic acid
+o4' -  ( phospho - 5' - adenosine )  - l - tyrosine
+s -  ( 2 - aminovinyl )  - d - cysteine  ( cys - ser )
+l - cysteine sulfenic acid
+s -  ( glycyl )  - l - cysteine  ( cys - gly )
+s - 4 - hydroxycinnamyl - l - cysteine
+chondroitin sulfate d - glucuronosyl - d - galactosyl - d - galactosyl - d - xylosyl - l - serine
+dermatan 4 - sulfate d - glucuronosyl - d - galactosyl - d - galactosyl - d - xylosyl - l - serine
+heparan sulfate d - glucuronosyl - d - galactosyl - d - galactosyl - d - xylosyl - l - serine
+n6 - formyl - l - lysine
+o4 - arabinosyl - l - hydroxyproline
+o -  ( phospho - 5' - rna )  - l - serine
+l - citrulline
+4 - hydroxy - l - arginine
+n -  ( l - isoaspartyl )  - l - cysteine
+2' - alpha - mannosyl - l - tryptophan
+n6 - mureinyl - l - lysine
+1 - chondroitin sulfate - l - aspartic acid ester
+s -  ( 6 - fmn )  - l - cysteine
+1' -  ( 8alpha - fad )  - l - histidine
+omega - n - phospho - l - arginine
+s - diphytanylglycerol diether - l - cysteine
+alpha - 1 - microglobulin - ig alpha complex chromophore
+bis - l - cysteinyl bis - l - histidino diiron disulfide
+hexakis - l - cysteinyl hexairon hexasulfide
+n6 -  ( phospho - 5' - adenosine )  - l - lysine
+n6 -  ( phospho - 5' - guanosine )  - l - lysine
+l - cysteine glutathione disulfide
+s - nitrosyl - l - cysteine
+n4 -  ( adp - ribosyl )  - l - asparagine
+l - beta - methylthioaspartic acid
+5' -  ( n6 - l - lysine )  - l - topaquinone
+s - methyl - l - cysteine
+4 - hydroxy - l - lysine
+n4 - hydroxymethyl - l - asparagine
+o -  ( adp - ribosyl )  - l - serine
+l - cysteine oxazole - 4 - carboxylic acid
+l - cysteine oxazoline - 4 - carboxylic acid
+glycine oxazole - 4 - carboxylic acid
+glycine thiazole - 4 - carboxylic acid
+l - serine thiazole - 4 - carboxylic acid
+l - phenylalanine thiazole - 4 - carboxylic acid
+l - cysteine thiazole - 4 - carboxylic acid
+l - lysine thiazole - 4 - carboxylic acid
+o -  ( phospho - 5' - dna )  - l - serine
+keratan sulfate d - glucuronosyl - d - galactosyl - d - galactosyl - d - xylosyl - l - threonine
+l - selenocysteinyl molybdenum bis ( molybdopterin guanine dinucleotide )   ( sec )
+o4' -  ( phospho - 5' - rna )  - l - tyrosine
+3 -  ( 3' - l - histidyl )  - l - tyrosine
+l - methionine sulfone
+dipyrrolylmethanemethyl - l - cysteine
+s -  ( 2 - aminovinyl )  - 3 - methyl - d - cysteine
+o4' -  ( phospho - 5' - dna )  - l - tyrosine
+o -  ( phospho - 5' - dna )  - l - threonine
+o4' -  ( phospho - 5' - uridine )  - l - tyrosine
+n -  ( l - glutamyl )  - l - tyrosine
+s - phycoviolobilin - l - cysteine
+phycoerythrobilin - bis - l - cysteine
+phycourobilin - bis - l - cysteine
+n - l - glutamyl - poly - l - glutamic acid
+l - cysteine sulfinic acid
+l - 3' , 4' , 5' - trihydroxyphenylalanine
+o -  ( sn - 1 - glycerophosphoryl )  - l - serine
+1 - thioglycine  ( internal )
+heme p460 - bis - l - cysteine - l - tyrosine
+o -  ( phospho - 5' - adenosine )  - l - threonine
+tris - l - cysteinyl l - cysteine persulfido bis - l - glutamato l - histidino tetrairon disulfide trioxide
+l - cysteine persulfide
+3' -  ( 1' - l - histidyl )  - l - tyrosine
+heme p460 - bis - l - cysteine - l - lysine
+5 - methyl - l - arginine
+2 - methyl - l - glutamine
+n - pyruvic acid 2 - iminyl - l - cysteine
+n - pyruvic acid 2 - iminyl - l - valine
+3' - heme - l - histidine
+s - selenyl - l - cysteine
+n6 - propylamino - poly ( propylmethylamino )  - propyldimethylamine - l - lysine
+dihydroxyheme - l - aspartate ester - l - glutamate ester
+dihydroxyheme - l - aspartate ester - l - glutamate ester - l - methionine sulfonium
+l - cysteinyl molybdenum bis ( molybdopterin guanine dinucleotide )
+ ( 2s , 3r , 4s )  - 3 , 4 - dihydroxyproline
+pyrroloquinoline quinone
+tris - l - cysteinyl l - n1' - histidino tetrairon tetrasulfide
+tris - l - cysteinyl l - n3' - histidino tetrairon tetrasulfide
+tris - l - cysteinyl l - aspartato tetrairon tetrasulfide
+n6 - pyruvic acid 2 - iminyl - l - lysine
+tris - l - cysteinyl l - serinyl tetrairon tetrasulfide
+bis - l - cysteinyl l - n3' - histidino l - serinyl tetrairon tetrasulfide
+o - octanoyl - l - serine
+o - d - glucuronosyl - l - serine
+tris - l - cysteinyl l - cysteine persulfido bis - l - glutamato l - histidino nickel triiron disulfide trioxide
+tris - l - cysteinyl l - cysteine persulfido l - glutamato l - histidino l - serinyl nickel triiron disulfide trioxide
+n6 -  ( l - isoaspartyl )  - l - lysine  ( asn )
+l - glutamyl - 5 - poly ( adp - ribose )
+o -  ( n - acetylglucosamine - 1 - phosphoryl )  - l - serine
+o -  ( phosphoglycosyl - d - mannose - 1 - phosphoryl )  - l - serine
+heptakis - l - histidino tetracopper mu4 - sulfide hydroxide
+l - leucine methyl ester
+hexakis - l - cysteinyl l - serinyl octairon heptasulfide
+residues isobaric at 113 .084064 da
+l - aspartimide
+l - glutamimide
+l - beta - carboxyaspartic acid
+n5 - methyl - l - arginine
+l - cysteine coenzyme a disulfide
+s - myristoyl - l - cysteine
+s - palmitoleyl - l - cysteine
+glycine cholesterol ester
+pentakis - l - cysteinyl l - histidino nickel tetrairon pentasulfide
+n4 , n4 - dimethyl - l - asparagine
+n6 - 3 , 4 - didehydroretinylidene - l - lysine
+4' -  ( s - l - cysteinyl )  - l - tryptophyl quinone
+3 -  ( s - l - cysteinyl )  - l - aspartic acid
+4 -  ( s - l - cysteinyl )  - l - glutamic acid
+cis - 14 - hydroxy - 10 , 13 - dioxo - 7 - heptadecenoic acid l - aspartate ester
+1' - methyl - l - histidine
+l - lysine methyl ester
+l - serinyl molybdenum bis ( molybdopterin guanine dinucleotide )
+l - beta - methylthioasparagine
+l - pyrrolysine  ( lys )
+3 - hydroxy - l - tryptophan
+o4' -  ( phospho - 3' - dna )  - l - tyrosine
+hydroxyheme - l - glutamate ester
+ ( phospho - 5' - guanosine )  - l - histidine
+tetrakis - l - cysteinyl triiron tetrasulfide
+omega - n - glucosyl - l - arginine
+ ( 3 - aminopropyl )  ( l - aspartyl - 1 - amino ) phosphoryl - 5' - adenosine
+1' - heme - l - histidine
+ ( 2s , 3s , 2'r )  - 3 - methyllanthionine sulfoxide
+tris - l - cysteinyl l - aspartato diiron disulfide
+s - carbamoyl - l - cysteine
+s - cyano - l - cysteine
+l - cysteinyl hydrogenase diiron subcluster
+s - amidino - l - cysteine
+n - methyl - l - isoleucine
+n - methyl - l - leucine
+n - methyl - l - tyrosine
+n - palmitoylglycine
+2 -  ( s - l - cysteinyl )  - l - phenylalanine
+2 -  ( s - l - cysteinyl )  - d - phenylalanine
+2 -  ( s - l - cysteinyl )  - d - allo - threonine
+n - carbamoyl - l - alanine
+4 - amino - 3 - isothiazolidinone - l - serine
+l - threonyl - pentaglycyl - murein peptidoglycan
+n - glycyl - 1 -  ( phosphatidyl ) ethanolamine
+l - glutamyl 5 - omega - hydroxyceramide ester
+s -  [ 5' -  ( l - tryptoph - 6' - yl )  - l - tyrosin - 3' - yl ]  - l - methionin - s - ium
+o -  ( riboflavin phosphoryl )  - l - threonine
+o -  ( riboflavin phosphoryl )  - l - serine
+s -  ( 4a - fmn )  - l - cysteine
+1' -  ( 8alpha - fmn )  - l - histidine
+3' -  ( 8alpha - fmn )  - l - histidine
+n2 - acetyl - l - arginine
+l - cysteinyl copper sulfido molybdopterin cytosine dinuncleotide
+tris - l - cysteinyl s - adenosylmethion - n , o - diyl tetrairon tetrasulfide
+tris - l - cysteinyl l - arginyl diiron disulfide
+l - cysteinyl - l - selenocysteine  ( cys - sec )
+5 - hydroxy - n6 , n6 , n6 - trimethyl - l - lysine
+n -  ( l - isoglutamyl )  - glycine
+o - sulfo - l - serine
+o - sulfo - l - threonine
+n - carboxy - l - methionine
+o - acetyl - l - serine
+ ( e )  - 2 , 3 - didehydrotyrosine
+bis - l - aspartato tris - l - glutamato l - histidino calcium tetramanganese tetroxide
+3' -  ( 3' - l - tyrosinyl )  - l - tyrosine
+3' -  ( o4' - l - tyrosinyl )  - l - tyrosine
+3 , 4 - dihydroxy - l - arginine
+4 , 5 - dihydroxy - l - lysine
+1' -  ( phospho - 5' - adenosine )  - l - histidine
+1' -  ( phospho - 5' - uridine )  - l - histidine
+l - aspartyl semialdehyde
+l - serine microcin e492 siderophore ester
+l - aspartyl molybdenum bis ( molybdopterin guanine dinucleotide )
+l - selenocysteinyl tungsten bis ( molybdopterin guanine dinucleotide )   ( sec )
+3 -  ( 2 - methylthio ) ethyl - 6 -  ( 4 - hydroxybenzylidene )  - 5 - iminopiperazin - 2 - one
+2 - imino - glutamic acid 5 - imidazolinone glycine
+2 - imino - methionine 5 - imidazolinone glycine
+l - asparagine 5 - imidazolinone glycine
+l - lysine 5 - imidazolinone glycine
+2 - tetrahydropyridinyl - 5 - imidazolinone glycine
+l - alanyl - pentaglycyl - murein peptidoglycan
+n - formyl - l - proline
+o - decanoyl - l - serine
+o - octanoyl - l - threonine
+o - decanoyl - l - threonine
+o - methylated residue
+acetylated residue
+thioester crosslinked residues
+o - glycosylated residue
+iodoacetamide derivatized residue
+carbamoylated residue
+iodoacetic acid derivatized residue
+deamidated residue
+gygi icat ( tm )  d0 modified cysteine
+gygi icat ( tm )  d8 modified cysteine
+homoserine
+homoserine lactone
+applied biosystems original icat ( tm )  d8 modified cysteine
+applied biosystems original icat ( tm )  d0 modified cysteine
+residue methyl ester
+n - acetylated residue
+n - formylated residue
+s -  ( n - isopropylcarboxamidomethyl )  - l - cysteine
+o18 label
+oxidation
+biotinyl - iodoacetamidyl - 3 , 6 - dioxaoctanediamine derivatized cysteine
+monomethylated l - arginine
+phosphorylation without neutral loss
+phosphorylation of an hydroxyl amino acid with prompt loss of phosphate
+s - carboxamidoethyl - l - cysteine
+pyridylacetylated residue
+ ( r )  - 5 - oxo - 1 , 4 - tetrahydrothiazine - 3 - carboxylic acid
+2 - pyrrolidone - 5 - carboxylic acid  ( glu )
+c - glycosylated residue
+alpha - amino morpholine - 2 - acetylated residue
+monosodium salt
+s - pyridylethyl - l - cysteine
+monohydroxylated residue
+s - glycosylated residue
+methylated residue
+dihydroxylated residue
+dimethylated residue
+trimethylated residue
+modified residue with a secondary neutral loss
+modified residue with neutral loss of phosphate
+glucosylated residue
+hexosylated residue
+o - phospho - l - serine with neutral loss of phosphate
+n - acetylhexosaminylated
+farnesylated residue
+myristoylated residue
+o - phospho - l - threonine with neutral loss of phosphate
+palmitoylated residue
+geranylgeranylated residue
+protonated omega - n , omega - n' - dimethylated l - arginine with secondary neutral loss of n , n' - carbodiimide
+protonated omega - n , omega - n - dimethlyated l - arginine with secondary neutral loss of n , n - dimethylamine
+n - palmitoyl - s -  ( sn - 1 - 2 , 3 - dipalmitoyl - glycerol ) cysteine
+l - homoarginine
+4 - hydroxynonenal adduct
+n - glucuronylated residue
+n - acetylaminoglucosylated residue
+acetate labeling reagent  ( n - term )   ( heavy form ,   + 3amu )
+acetate labeling reagent light form  ( k )
+alpha - amino propanoylated residue
+alpha - amino 3x ( 13 ) c - labeled propanoylated residue
+quaternary amine labeling reagent light form  ( n - term & k )
+quaternary amine labeling reagent heavy form  (  + 3amu )   ( n - term & k )
+quaternary amine labeling reagent heavy form  (  + 6amu )   ( n - term & k )
+quaternary amine labeling reagent heavy form  (  + 9amu )   ( n - term & k )
+alpha - amino succinylated residue
+4x ( 2 ) h labeled alpha - amino succinylated residue
+4x ( 13 ) c labeled alpha - amino succinylated residue
+l - cysteic acid  ( l - cysteine sulfonic acid )
+nitrosylation
+l - kynurenine
+3' - hydroxy - l - kynurenine
+n' - formyl - l - kynurenine
+dihydroxyphenylalanine  ( phe )
+glycosylsphingolipidinositolated residue
+iminobiotinyl modified residue
+esp - tag light d0
+esp - tag heavy d10
+nhs - lc - biotin
+edt - maleimide - peo - biotin
+imid d0
+imid d4
+s -  (  [ 1 , 1 , 2 -  ( 2 ) h3 ]  - carboxamidoethyl )  - l - cysteine
+tyrosine oxidation to 2 - aminotyrosine
+galactosylated residue
+2 - pyrrolidone
+glutamyl semialdehyde  ( pro )
+glutamyl semialdehyde  ( arg )
+applied biosystems cleavable icat ( tm )  light
+applied biosystems cleavable icat ( tm )  heavy
+n - formyl - l - methionine  ( met )
+n - ethylmaleimide derivatized cysteine
+oxidized lysine biotinylated with biotin - lc - hydrazide ,  reduced
+oxidized lysine biotinylated with biotin - lc - hydrazide
+oxidized proline biotinylated with biotin - lc - hydrazide ,  reduced
+oxidized proline biotinylated with biotin - lc - hydrazide
+oxidized arginine biotinylated with biotin - lc - hydrazide
+oxidized arginine biotinylated with biotin - lc - hydrazide ,  reduced
+edt - iodo - peo - biotin
+thio ether formation  -  btp adduct
+ubiquitination signature dipeptidyl lysine
+formylated residue
+n - iodoacetyl ,  p - chlorobenzyl - 12c6 - glucamine
+n - iodoacetyl ,  p - chlorobenzyl - 13c6 - glucamine
+reductive amination - d
+3 - sulfanylpropanoyl  ( n - term and lys )
+fluorinated residue
+5 - iodoacetamidofluorescein
+monoiodinated residue
+diiodinated residue
+triiodinated residue
+n -  ( cis - delta 5 )  - tetradecaenoylglycine
+n -  ( cis , cis - delta 5 , delta 8 )  - tetradecadienoylglycine
+benzoyl labeling reagent light form  ( n - term and k )
+n - linked glycan core
+5 - dimethylaminonaphthalene - 1 - sulfonyl
+isd a - series  ( c - term )
+amidination of lysines or n - terminal amines with methyl acetimidate
+hexnac1dhex1
+hexnac2
+hex3
+hexnac1dhex2
+hex1hexnac1dhex1
+hexnac2dhex1
+hex1hexnac2
+hex1hexnac1neuac1 glycosylated residue
+hexnac2dhex2
+hex1hexnac2pent1
+hex1hexnac2dhex1
+hex2hexnac2
+hex3hexnac1pent1
+hex1hexnac2dhex1pent1
+hex1hexnac2dhex2
+hex2hexnac2pent1
+hex2hexnac2dhex1
+hex3hexnac2
+hex1hexnac1neuac2 glycosylated residue
+hex3hexnac2p1
+l - selenomethionine
+ ( 18 ) o labeled deglycosylated asparagine
+shimadzu 13cnbs
+shimadzu 12cnbs
+michael addition of bht quinone methide to cysteine and lysine
+phosphorylation to amine thiol
+l - serine to l - alanine replacement
+l - alanine residue  ( thr )
+protein modification categorized by isobaric sets
+threonine reduced to aminobutynate
+9x ( 13 ) c labeled residue
+9x ( 13 ) c labeled l - phosphotyrosine
+hydroxyphenylglyoxal arginine
+bis ( hydroxyphenylglyoxal )  arginine
+6x ( 13 ) c labeled residue
+deuterated dimethyl labeling  ( d )
+ ( 18 ) o label at both c - terminal oxygens
+6 - aminoquinolyl - n - hydroxysuccinimidyl carbamate
+apta - d0
+apta d3
+eapta d0
+eapta d5
+4x ( 2 ) h labeled dimethylated residue
+1 , 2 - ethanedithiol modified residue
+apta - d0 with no neutral loss
+apta - d0 with quaternary amine loss
+acrolein addition  + 94
+acrolein addition  + 56
+acrolein addition  + 38
+acrolein addition  + 76
+acrolein addition  + 112
+n - ethyl iodoacetamide - d0
+n - ethyl iodoacetamide - d5
+n - acetylaminogalactosylated residue
+applied biosystems itraq ( tm )  multiplexed quantitation chemistry
+deglycosylated asparagine
+label cysteine with igbp reagent
+histidine oxidation to asparagine
+histidine oxidation to aspartic acid
+residues isobaric at a resolution below 0 .000001 da
+residues isobaric at 71 .037114 da
+2 - pyrrolidone - 5 - carboxylic acid  ( pro )
+oxidized arginine biotinylated with biotin hydrazide
+oxidized lysine biotinylated with biotin hydrazide
+oxidized proline biotinylated with biotin hydrazide
+oxidized threonine biotinylated with biotin hydrazide
+crotonaldehyde
+acetaldehyde  + 26
+acetaldehyde  + 28
+propionaldehyde  + 40
+propionaldehyde  + 42
+ ( 18 ) o monosubstituted residue
+6x ( 13 ) c , 2x ( 15 ) n labeled l - lysine
+thiophosphorylated residue
+4 - sulfophenyl isothiocyanate derivatized residue
+deuterium trisubstituted residue
+phosphorylation to pyridyl thiol
+6x ( 13 ) c , 4x ( 15 ) n labeled l - arginine
+5x ( 13 ) c , 1x ( 15 ) n labeled l - valine
+1x ( 13 ) c , 1x ( 15 ) n labeled l - phenylalanine
+nucleophilic addtion to cytopiloyne
+nucleophilic addition to cytopiloyne + h2o
+sulfonation of n - terminal
+covalent modification of lysine by omega - maleimido alkanoyl n - hydroxysuccinimido esters
+residues isobaric at 113 .047678 da
+mannosylated residue
+4 -  ( 2 - aminoethyl ) benzenesulfonyl fluoride derivatized residue
+methyl methanethiosulfonate
+s -  ( 2 - hydroxyethyl ) cysteine
+monomethylated residue
+l - glutamic acid 5 - ethyl ester
+cyclized residue
+n - methylated residue
+n - ethylation
+2x ( 2 ) h monomethylated l - lysine
+sulfanilic acid  ( sa )  ,  light c12
+sulfanilic acid  ( sa )  ,  heavy c13
+dioxoindolealanine lactone
+biotin polyethyleneoxide amine
+pierce ez - link biotin - hpdp
+cysteinyl mercury
+iodouridine monophosphate derivatized residue
+3 -  ( carboxamidomethylthio ) propanoylated residue
+biotinoyl - iodoacetyl - ethylenediamine
+fucosylated
+4 - sulfophenyl isothiocyante modification to n - term r
+residues isobaric at a resolution below 0 .1 da
+3x ( 2 ) h residue methyl ester
+tryptophan carboxylation
+hydroxylethanone
+cysteine monobromobimane derivative
+menadione quinone derivative
+cysteine mercaptoethanol
+fucosylated biantennary  (  - 2 galactose )
+residues isobaric at 113 .0 - 113 .1 da
+n - methylmaleimide derivatized residue
+fluorescein - 5 - thiosemicarbazide
+2 , 5 - dimethylpyrrole lysine from 2 , 5 - hexanedione adduct
+hex2
+mda adduct  + 62
+c3 - h2 - o adduct  (  + 54 amu )  of malondialdehyde with lysine or methylglyoxal with arginine .
+hydrolyzed n - ethylmaleimide adduct
+n - succinimide
+bis - n - i - sulfonerahodamine
+dimethyl 3 , 3' - dithiobispropionimidate
+10 - fluoroethoxyphosphinyl - n -  ( biotinamidopentyl ) decanamide
+s - ethylcysteine  ( ser )
+1x ( 13 ) c , 3x ( 2 ) h labeled monomethylated l - arginine
+2x ( 13 ) c , 6x ( 2 ) h labeled dimethylated l - arginine
+thiophosphate labeled with biotin - hpdp
+6 - n - biotinylaminohexyl isopropyl phosphorofluoridate
+camthiopropanoyl of lys
+reduced 4 - hydroxynonenal adduct
+methylamine michael addition derivatized residue
+o - acetylated residue
+s - acetylated residue
+acetylated l - cysteine
+acetylated l - serine
+n , o - diacetylated l - serine
+acylated residue
+n - myristoylated residue
+n - palmitoylated residue
+o - palmitoylated residue
+s - palmitoylated residue
+s - methylated residue
+s - myristoylated residue
+c - methylated residue
+l - glutamic acid 5 - methyl ester  ( gln )
+methylated arginine
+methylated glutamine
+methylated cysteine
+methylated histidine
+methylated leucine
+methylated lysine
+stereoisomerized residue
+methylated alanine
+octanoylated residue
+decanoylated residue
+o - decanoylated residue
+o - octanoylated residue
+n - acylated residue
+o - acylated residue
+s - acylated residue
+methylated asparagine
+amidated residue
+oxidized residue
+oxygenated residue
+hydroxylated residue
+hydroxylated proline
+carbon oxygenated residue
+sulfur oxygenated residue
+hydroxylated lysine
+hydroxylated arginine
+dehydrogenated residue
+deamidated l - asparagine
+deamidated l - glutamine
+l - selenocysteine  ( cys )
+thioether crosslinked residues
+isopeptide crosslinked residues
+disulfide crosslinked residues
+oxazole / thiazole ring crosslinked residues
+5 - imidazolinone ring crosslinked residues
+uncategorized crosslinked residues
+glycosylated residue
+halogen containing residue
+sulfated residue
+phosphorylated residue
+flavin modified residue
+metal or metal cluster containing modified residue
+porphyrin modified residue
+tetrapyrrole modified residue
+nucleotide or nucleic acid modified residue
+isotope labeled residue
+isoprenylated residue
+dehydrated residue
+d - valine
+dehydrogenated tyrosine
+hydroxylated tyrosine
+sulfur oxygenated l - cysteine
+sulfur oxygenated l - methionine
+protonated - dimethylated residue
+trimethylated protonated - residue
+methylated proline
+methylated glutamic acid
+methylated glycine
+methylated isoleucine
+methylated methionine
+methylated phenylalanine
+methylated tyrosine
+l - methionine sulfoxide
+l - methionine  ( r )  - sulfoxide
+l - methionine  ( s )  - sulfoxide
+monomethylated l - glutamine
+n - acetylated l - lysine
+n - methylated l - histidine
+complex glycosylation
+glucosylated
+mannosylated
+galactosylated
+pentosylated residue
+arabinosylated
+ribosylated
+xylosylated
+n - acetylaminoglucosylated
+n - acetylaminogalactosylated
+hexosuronylated
+deoxyhexosylated
+n - acetylneuraminylated
+iron containing modified residue
+iron - sulfur cluster containing modification
+manganese containing modified residue
+nickel containing modified residue
+copper containing modified residue
+molybdenum containing modified residue
+molybdenum pterin containing modification
+selenium containing residue
+tungsten containing modified residue
+sodium containing modified residue
+pterin modified residue
+sulfur substitution for oxygen
+deoxyribonucleic acid linked residue
+ribonucleic acid linked residue
+adenosine diphosphoribosyl  ( adp - ribosyl )  modified residue
+chlorinated residue
+brominated residue
+iodinated residue
+4 - hydroxy - d - valine
+o4 - galactosyl - l - hydroxyproline
+o4 -  ( n - acetylamino ) glucosyl - l - hydroxyproline
+fucosylated biantennary  (  - 1 galactose )
+biantennary
+monohexosylated  ( hex1 )
+biantennary  (  - 2 galactose )
+biantennary  (  - 1 galactose )
+glycoconjugated residue
+cysteinylation  ( disulfide with free l - cysteine )
+c terminal  - k from hc of mab
+glycated residue
+methionine oxidation with neutral loss of 80 da
+residues isobaric at 71 .0 - 71 .1 da
+residues isobaric at a resolution below 0 .01 da
+residues isobaric at 166 .98 - 167 .00 da
+vanadium containing modified residue
+residues isobaric at 181 .00 - 181 .02 da
+residues isobaric at 243 .02 - 243 .03 da
+l - asparagine  ( his )
+l - aspartic acid  ( his )
+residues isobaric at 182 .96 - 182 .98 da
+residues isobaric at 182 .9 - 183 .0 da
+lysine oxidation to aminoadipic semialdehyde
+n - acetyl - l - asparagine
+n2 - acetyl - l - histidine
+n - acetyl - l - leucine
+dimethylated l - arginine
+n - acetyl - l - phenylalanine
+n2 - acetyl - l - tryptophan
+deuterium substituted residue
+diisopropylphosphoserine
+isopropylphosphotyrosine
+bruker daltonics serva - icpl ( tm )  quantification chemistry ,  heavy form
+bruker daltonics serva - icpl ( tm )  quantification chemistry ,  light form
+1x ( 18 ) o labeled deamidated l - glutamine
+deuterium monosubstituted residue
+dehydroalanine  ( cys )
+pyrrolidone from proline
+michael addition of hydroxymethylvinyl ketone to cysteine
+l - ornithine  ( arg )
+2 -  ( s - l - cysteinyl ) pyruvic acid o - phosphothioketal
+half cystine
+s - galactosyl - l - cysteine
+l - cysteinyl - l - histidino - homocitryl vanadium heptairon nonasulfide
+l - cysteinyl - l - histidino - homocitryl octairon nonasulfide
+l - histidino vanadium tetraoxide
+3 -  ( s - l - cysteinyl )  - l - tyrosine
+o - glucosyl - l - serine
+o -  ( n - acetylamino ) glucosyl - l - serine
+o -  ( n - acetylamino ) glucosyl - l - threonine
+pyruvic acid  ( ser )
+o - galactosyl - l - serine
+o - galactosyl - l - threonine
+o - mannosyl - l - serine
+o - mannosyl - l - threonine
+o - fucosyl - l - serine
+o - fucosyl - l - threonine
+o - xylosyl - l - serine
+molybdopterin
+s - stearoyl - l - cysteine
+3' - geranyl - 2' , 3' - dihydro - 2' , n2 - cyclo - l - tryptophan
+glycosylphosphatidylinositolated residue
+l - 2 - aminobutanoic acid  ( glu )
+2 - imino - alanine 5 - imidazolinone glycine
+s -  ( l - alanyl )  - l - cysteine
+s -  ( l - leucyl )  - l - cysteine
+s -  ( l - methionyl )  - l - cysteine
+dehydroalanine  ( tyr )
+s -  ( l - phenylalanyl )  - l - cysteine
+s -  ( l - threonyl )  - l - cysteine
+s -  ( l - tyrosyl )  - l - cysteine
+s -  ( l - tryptophanyl )  - l - cysteine
+o -  ( l - phenylalanyl )  - l - serine
+n - methyl - l - proline
+n4 -  ( n - acetylamino ) glucosyl - l - asparagine
+n4 -  ( n - acetylamino ) galactosyl - l - asparagine
+n4 - glucosyl - l - asparagine
+o -  ( n - acetylamino ) fucosyl - l - serine
+l - 3 - oxoalanine  ( ser )
+deuterium disubstituted residue
+deuterium tetrasubstituted residue
+3x ( 2 ) h labeled l - leucine
+ ( 2 ) h deuterium labeled residue
+isocyanate reagent derivatized residue
+isothiocyanate reagent derivatized residue
+ ( 13 ) c labeled residue
+ ( 15 ) n labeled residue
+ ( 18 ) o labeled residue
+ ( 18 ) o substituted residue
+ ( 18 ) o disubstituted residue
+reagent derivatized residue
+potassium containing modified residue
+unnatural residue
+ ( 18 ) o labeled deamidated residue
+1x ( 18 ) o labeled deamidated residue
+2x ( 18 ) o labeled deamidated residue
+protonated l - lysine  ( l - lysinium )  residue
+n6 , n6 , n6 - trimethyl - l - lysine  ( from l - lysinium residue )
+protonated l - alanine  ( l - alaninium )  residue
+n , n , n - trimethyl - l - alanine  ( from l - alaninium )
+d - alanine  ( ser )
+modified residue that can arise from different natural residues
+sulfur containing modified residue
+phosphorus containing modified residue
+d - alanine
+d - allo - threonine
+tris - l - cysteinyl l - histidino diiron disulfide
+n - aspartyl - glycosylsphingolipidinositolethanolamine
+dihydroxylated proline
+l - cysteinyl - l - selenocysteine  ( cys - cys )
+natural ,  non - standard encoded residue
+l - alanine residue  ( asp )
+phenyl isocyanate derivatized residue
+ ( 2 ) h5 - phenyl isocyanate derivatized residue
+l - isoglutamyl monoglutamic acid
+l - isoglutamyl diglutamic acid
+l - isoglutamyl triglutamic acid
+l - isoglutamyl tetraglutamic acid
+hexosaminylated residue
+imidoester crosslink dimethyl pimelimidate singly attached
+imidoester crosslink dimethyl pimelimidate doubly attached
+naphthalene - 2 , 3 - dicarboxaldehyde
+6x ( 13 ) c labeled 4 - sulfophenyl isothiocyanate derivatized residue
+n - reductive amination - d
+s -  ( 2 - aminoethyl ) cysteine  ( ser )
+c1 - amidated residue
+s - aminoethylcysteine  ( cys )
+ester crosslinked residues
+6' - chloro - l - tryptophan
+methylated aspartic acid
+protonated l - proline  ( l - prolinium )  residue
+n , n - dimethyl - l - proline  ( from l - prolinium )
+phosphorylated l - histidine
+d - serine
+d - serine  ( cys )
+residues isobaric at 128 .0 - 128 .1
+residues isobaric at 128 .058578 da
+fad modified residue
+fmn modified residue
+n - acetyl - s - archeol - cysteine
+s -  ( sn - 1 - 2 - oleoyl - 3 - palmitoyl - glycerol ) cysteine
+n - palmitoyl - s - diacylglycerol - l - cysteine
+n - palmitoyl - s -  ( sn - 1 - 2 - oleoyl - 3 - palmitoyl - glycerol ) cysteine
+modified l - alanine residue
+modified l - arginine residue
+modified l - asparagine residue
+modified l - aspartic acid residue
+modified l - cysteine residue
+modified l - glutamic acid residue
+modified l - glutamine residue
+modified glycine residue
+modified l - histidine residue
+modified l - isoleucine residue
+modified l - leucine residue
+modified l - lysine residue
+modified l - methionine residue
+modified l - phenylalanine residue
+modified l - proline residue
+modified l - serine residue
+modified l - threonine residue
+modified l - tryptophan residue
+modified l - tyrosine residue
+modified l - valine residue
+new uncategorized unimod entries
+cy3 cydye dige fluor saturation dye
+cy5 cydye dige fluor saturation dye
+n6 -  ( l - threonyl )  - l - lysine
+heptosylated residue
+bisphenol a diglycidyl ether derivative
+2x ( 13 ) c , 4x ( 2 ) h labeled dimethylated residue
+ [ 3 -  ( 2 , 5 )  - dioxopyrrolidin - 1 - yloxycarbonyl )  - propyl ] dimethyloctylammonium
+lactose glycated lysine
+propyl - nag tyrosine adduct
+michael addition of t - butyl hydroxylated bht  ( bhtoh )  to c ,  h or k
+idbest tag for quantitation
+methylglyoxal arginine adduct  (  + 54 amu )
+levuglandinyl  -  arginine hydroxylactam adduct
+methionine oxidation with neutral loss of 64 da
+levuglandinyl  -  hydroxylactam adduct ,  k and n - term
+levuglandinyl  -  arginine lactam adduct
+levuglandinyl  -  lactam adduct ,  k and n - term
+hydrolyzed n - methylmaleimide cysteine adduct
+3 - methyl - 2 - pyridyl isocyanate derivatized residue
+dehydropyrrolizidine alkaloid  ( dehydroretronecine )  derivatized cysteine
+ ( 4 , 4 , 5 , 5 -  ( 2 ) h4 )  - l - lysine
+4 - trimethylammoniumbutanoyl derivatized residue
+d9 - 4 - trimethylammoniumbutanoyl derivatized residue
+fluorescein - 5 - thiosemicarbazide adduct
+crosslinked residues with loss of ammonia
+deltamass
+5' - dephospho
+desmosine
+decomposed carboxymethylated methionine
+l - gamma - carboxyglutamic acid with neutral loss of carbon dioxide
+ ( 2 - aminosuccinimidyl ) acetic acid  ( asp )
+o -  ( l - isoglutamyl )  - l - serine  ( glu - ser )
+crosslinked residues with loss of water
+alaninohistidine  ( serine crosslinked to tele or pros nitrogen of histidine )
+misincorporation of norleucine for methionine
+modified residue with neutral loss of carbon dioxide
+crosslink between arg and his sidechains
+3 , 3' , 5 , 5' - tertyr  ( crosslink )
+decarboxylated residue
+reduction of disulfide crosslink in cystine to two cysteines
+2' , 3' - dihydrotryptophan
+oxidation of trp to kynurenine
+lysine epsilon amino to imine  +  12 amu
+4 - thiazolidinecarboxylic acid
+1 , 2 , 3 , 4 - tetrahydro - beta - carboline - 3 - carboxylic acid
+syndesine
+cm - cys vs pam - cys
+cam - cys vs pam - cys
+delta - hydroxy - allysine  ( lys )
+oxohistidine  ( from histidine )
+monobrominated l - phenylalanine
+oxidation of proline  ( to glutamic acid )
+ ( 35 ) cl labeled 3' - chlorotyrosine
+ ( 37 ) cl labeled 3' - chlorotyrosine
+potassium salt
+disodium salt
+piperidine adduct to c - terminal cys
+t - butyl ester  ( otbu )  and t - butyl  ( tbu )
+carboxamidomethyl  ( on cysteine )
+sodium and potassium salt
+l - selenocysteine  ( ser )
+asp transamidation with piperidine
+ ( 35 ) cl labeled 3' , 5' - dichlorotyrosine
+halogenated tyrosine
+ ( 35 ) cl and  ( 37 ) cl labeled 3' , 5' - dichlorotyrosine
+chlorinated tyrosine
+brominated tyrosine
+acetamidomethyl  ( acm )
+ ( 37 ) cl labeled 3' , 5' - dichlorotyrosine
+s -  ( sn - 1 - glyceryl )  - l - cysteine
+glutamate 5 - glycerol ester
+phenyl ester
+ ( 79 ) br labeled 3' - bromotyrosine
+ ( 81 ) br labeled 2' - bromophenylalanine
+ ( 81 ) br labeled 3' - bromotyrosine
+cyclohexyl ester
+iodinated tyrosine
+homoseryl lactone
+monobrominated tyrosine
+2 - aminoisobutyric acid residue  ( aib )
+gamma - aminobutyryl
+t - butyloxymethyl  ( bum )
+diaminopropionyl
+t - butylsulfenyl
+dibrominated tyrosine
+anisyl modified residue
+benzyl  ( bzl )  and benzyl ester  ( obzl )  modified residue
+dehydrogenated proline
+trifluoroacetylated residue
+n - hydroxysuccinimide  ( onsu ,  osu )
+oxidation of disulfide crosslink in cystine to two cysteic acids
+tetramethylguanidinium termination by - product on amine
+phosphate / sulphate adduct of proteins
+isovaline residue  ( iva )
+t - butyloxycarbonyl
+homoseryl  (  - hse -  )
+4 - methylbenzyl
+hydroxymethylphenyl linker
+thioanisyl
+thiocresyl
+2 - piperidinecarboxylic acid
+3' , 5' - dibromo - l - tyrosine
+monohydroxylated proline
+3' - bromo - l - tyrosine
+norleucine residue  ( nle )
+t - amyloxycarbonyl
+monochlorinated l - tyrosine
+succinylated residue
+hydroxybenzotriazole ester
+dimethylbenzyl
+benzyloxymethyl modified residue
+p - methoxybenzyl modified residue
+4 - nitrophenyl modified residue
+chlorobenzyl
+o - methyl aspartyl
+dichlorinated tyrosine
+norleucine  ( nle )
+hydroxy aspartyl
+penicillamine residue
+benzyloxycarbonyl modified residue
+adamantyl modified residue
+p - nitrobenzyl ester modified residue
+n - methyl glutamyl
+3' , 5' - dichloro - l - tyrosine
+3' - chloro - l - tyrosine
+monohydroxylated lysine
+2 - pyrrolidone - 5 - carboxylic acid
+halogenated histidine
+pyridyl alanyl
+2 - nitrobenzoyl
+dimethoxybenzyl trp
+2 - nitrophenylsulphenyl
+4 - toluenesulfonyl
+3 - nitro - 2 - pyridinesulfenyl
+ ( 79 ) br labeled 3' , 5' - dibromotyrosine
+ ( 79 ) br and  ( 81 ) br labeled 3' , 5' - dibromotyrosine
+dichlorobenzyl
+ ( 81 ) br labeled 3' , 5' - dibromotyrosine
+s - carboxamidomethyl - l - cysteine
+s - carboxymethyl - l - cysteine
+carboxymethyl cysteinyl
+monomethylated phenylalanine
+inositol
+hexose glycated n - terminal
+halogenated phenylalanine
+linker attached to peptide in fmoc peptide synthesis
+halogenated tryptophan
+2 , 4 - dinitrophenyl modified residue
+pentafluorophenyl modified residue
+diphenylmethyl modified residue
+monopotassium salt
+2 - chlorobenzyloxycarbonyl modified residue
+napthylacetyl modified residue
+mercury containing modified residue
+n - methyl arginyl
+ethanedithiol / tfa cyclic adduct
+s -  ( 2 - aminoethyl )  - 3 - methylcysteine  ( thr )
+s -  ( acetylamino ) methyl - l - cysteine
+acrylamidyl cysteinyl
+delta - glycosyloxy -   ( of lysine )  or beta - glycosyloxy -   ( of phenylalanine or tyrosine )
+4 - glycosyloxy -   ( hexosyl ,  c6 )   ( of proline )
+o - benzyl - l - serine
+iodoacetic acid derivatized amino - terminal residue
+alpha - n - gluconoylation  ( his tagged proteins )
+p - nitrobenzyloxycarbonyl
+2 , 4 , 5 - trichlorophenyl modified residue
+2 , 4 , 6 - trimethyloxybenzyl modified residue
+xanthyl
+iodoacetamide derivatized amino - terminal residue
+monochlorinated l - phenylalanine
+mesitylene - 2 - sulfonyl
+isopropyl lysyl
+n6 - carboxymethyl - l - lysine
+matrix alpha cyano mh +
+o - benzyl - l - threonine
+s - benzyl - l - cysteine
+naphthylalanine residue
+succinyl beta - aspartyl anhydride
+hmp  ( hydroxymethylphenyl )  / tfa adduct
+s - farnesyl -
+myristoylation - 4h  ( two double bonds )
+myristoleylation  ( one double bond )
+4 - methoxy - 2 , 3 , 6 - trimethylbenzenesulfonyl
+2 - bromobenzyloxycarbonyl
+n - formyl - l - tryptophan
+o5 - benzyl - l - glutamate
+2 - amino - 5 -  ( 4 - methoxyphenyl )  - 5 - oxopentanoic acid  ( glu )
+9 - fluorenylmethyloxycarbonyl  ( fmoc )
+isoprenylated cysteine
+dimethoxybenzhydryl modified residue
+nicotinoyl lysine
+2 -  ( p - biphenyl ) isopropyl - oxycarbonyl
+triphenylmethyl
+isoprenylated tryptophan
+s - farnesyl - l - cysteine methyl ester
+pentamethyldihydrobenzofuransulfonyl
+alpha - n - 6 - phosphogluconoylation  ( his tagged proteins )
+s - geranylgeranyl - l - cysteine methyl ester
+2 , 2 , 5 , 7 , 8 - pentamethylchroman - 6 - sulfonyl chloride derivatized residue
+monomethoxytrityl
+5'phos dcytidinyl
+monoiodated tyrosine
+aldohexosyl lysyl
+5'phos dthymidinyl
+5'phos cytidinyl
+5'phos uridinyl
+n - glycolneuraminic acid
+5'phos dadenosyl
+sucphencarb lysyl
+5'phos dguanosyl
+5'phos adenosinyl
+s - 12 - hydroxyfarnesyl - l - cysteine methyl ester
+fluorescein labelling of peptide n - terminal using nhs ester
+hex - hexnac
+dioctyl phthalate
+n6 -  ( 2 , 2 , 5 , 7 , 8 - pentamethylchroman - 6 - sulfonyl )  - l - lysine
+aedans cystenyl
+dioctyl phthalate sodium adduct
+diiodinated tyrosine
+omega - n -  ( 2 , 2 , 5 , 7 , 8 - pentamethylchroman - 6 - sulfonyl )  - l - arginine
+s - 15 , 16 - dihydrobiliverdin - l - cysteine
+15 , 16 - dihydrobiliverdin - bis - l - cysteine
+s -  ( sn - 1 - 2 , 3 - dipalmitoylglycerol )  - l - cysteine
+n - tau -  ( adp - ribosyl ) diphthamide
+s -  ( 6 - fad )  - l - cysteine
+ ( hex ) 3 - hexnac -  ( dhex ) hexnac
+ubiquitinylated lysine
+sumoylated lysine
+neddylated lysine
+phosphorylated residue with neutral loss of phosphate
+carboxylated residue
+methylthiolated residue
+pyruvic acid
+lipoconjugated residue
+protein modification categorized by chemical process
+protein modification categorized by amino acid modified
+modified l - selenocysteine residue
+peptidoglycanated residue
+deaminated residue
+deoxygenated residue
+fucosylated biantennary
+guanylated residue
+riboflavin - phosphoryl
+adenylated residue
+uridylated residue
+molybdopterin guanine dinucleotide
+dehydroalanine
+l - 3 - oxoalanine
+pyruvic acid iminylated residue
+o - acetyl - l - threonine
+n - alanyl - glycosylsphingolipidinositolethanolamine
+n - asparaginyl - glycosylsphingolipidinositolethanolamine
+s -  ( 15 - deoxy - delta12 , 14 - prostaglandin j2 - 9 - yl )  - l - cysteine
+s - phycourobilin - l - cysteine
+l - dehydrolysinonorleucine
+1' -  ( 1 , 2 , 3 - trihydroxyprop - 2 - yl )  - l - histidine
+s -  ( aspart - 4 - yloxy )  thiocarbonate
+n , n - dimethyl - l - alanine
+2 - hydroxyglycine observational artifact
+l - aspartic acid 4 - methyl ester
+6 -  ( s - l - cysteinyl )  - 8alpha -  (  - 3' - l - histidino )  - fad
+l - selenocystine  ( oxidized selenocysteine )   ( sec - sec )
+l - selenocystine  ( selenium disubstituted l - cystine )
+4 - amidated l - aspartic acid
+acetylated l - threonine
+l - pyrrolysine residue
+n - ethyl iodoacetamide - d5  -  site y
+n - ethyl iodoacetamide - d5  -  site c
+dibromo
+n - ethyl iodoacetamide - d0  -  site c
+n - ethyl iodoacetamide - d0  -  site y
+phosphorylation to pyridyl thiol  -  site t
+phosphorylation to pyridyl thiol  -  site s
+benzoyl labeling reagent light form  -  site k
+5 - dimethylaminonaphthalene - 1 - sulfonyl  -  site k
+n - heptosyl - l - glutamine
+o - heptosyl - l - serine
+n - heptosyl - l - arginine
+o - heptosyl - l - threonine
+n6 - heptosyl - l - lysine
+n - heptosyl - l - asparagine
+n6 -  ( pyridylacetyl ) lysine
+prompt loss of methanethiol from oxidixed methionine
+hex1hexnac1neuac2 o - glycosylated serine
+hex1hexnac1neuac2 o - glycosylated threonine
+hex1hexnac1neuac2 n4 - glycosylated asparagine
+copper ( 1 +  )  carboxylate c - terminal residue
+copper ( 1 +  )  l - aspartate
+copper ( 1 +  )  l - glutamate
+n6 -  ( morpholine - 2 - acetyl )  - lysine
+iodoacetamide n6 - derivatized lysine
+iodoacetamide derivatized histidine
+iodoacetamide  -  site c
+iodoacetamide derivatized aspartic acid
+iodoacetamide derivatized glutamic acid
+sulfanilic acid  ( sa )  ,  light c12  -  site d
+sulfanilic acid  ( sa )  ,  light c12  -  site e
+sulfanilic acid  ( sa )  ,  heavy c13  -  site d
+sulfanilic acid  ( sa )  ,  heavy c13  -  site e
+o - formyl - l - threonine
+o - formyl - l - serine
+thioacylation of primary amines  -  site n - term
+thioacylation of primary amines  -  site k
+monofluorinated l - tyrosine
+monofluorinated l - tryptophan
+monofluorinated l - phenylalanine
+monoiodinated tyrosine
+l - iodohistidine
+bruker daltonics serva - icpl ( tm )  quantification chemistry ,  light form  -  site k
+3x ( 13 ) c labeled n6 - propanoyl - l - lysine
+3x ( 12 ) c labeled n6 - propanoyl - l - lysine
+3x ( 2 ) h labeled n6 - acetyl - l - lysine
+ ( 18 ) o monosubstituted l - serine
+ ( 18 ) o monosubstituted l - threonine
+ ( 18 ) o monosubstituted l - tyrosine
+cysteine 4 - hydroxynonenal adduct
+lysine 4 - hydroxynonenal adduct
+histidine 4 - hydroxynonenal adduct
+ubiquitination signature tetrapeptidyl lysine
+3x ( 2 ) h labeled l - aspartic acid 4 - methyl ester
+3x ( 2 ) h labeled l - glutamic acid 5 - methyl ester
+potassium carboxylate c - terminal residue
+potassium l - glutamate
+potassium l - aspartate
+fucosylated  - site s
+fucosylated  - site t
+iodouridine monophosphate derivatized tyrosine
+iodouridine monophosphate derivatized tryptophan
+iodouridine monophosphate derivatized phenylalanine
+n6 -  [ 3 -  ( carboxamidomethylthio ) propanoyl ] lysine
+5 - hydro - 5 - methylimidazol - 4 - one ,  methylglyoxal arginine adduct  (  + 54 amu )
+malondialdehyde lysine adduct  (  + 54 amu )
+4x ( 2 ) h labeled dimethylated l - lysine
+s -  ( 2 - sulfanylethyl ) cysteine  ( ser )
+3 - methyl - s -  ( 2 - sulfanylethyl ) cysteine  ( thr )
+6 - aminoquinolyl - n - hydroxysuccinimidyl carbamate  -  site k
+n - methylmaleimide  -  site c
+n - methylmaleimide  -  site k
+nucleophilic addtion to cytopiloyne  -  site y
+nucleophilic addtion to cytopiloyne  -  site s
+nucleophilic addtion to cytopiloyne  -  site r
+nucleophilic addtion to cytopiloyne  -  site k
+nucleophilic addtion to cytopiloyne  -  site c
+nucleophilic addtion to cytopiloyne  -  site p
+nucleophilic addition to cytopiloyne + h2o  -  site c
+nucleophilic addition to cytopiloyne + h2o  -  site k
+nucleophilic addition to cytopiloyne + h2o  -  site t
+nucleophilic addition to cytopiloyne + h2o  -  site r
+nucleophilic addition to cytopiloyne + h2o  -  site s
+nucleophilic addition to cytopiloyne + h2o  -  site y
+iminobiotinylation  -  site k
+o -  [ 4 -  ( 2 - aminoethyl ) benzenesulfonyl ]  serine
+n' -  [ 4 -  ( 2 - aminoethyl ) benzenesulfonyl ]  derivatized histidine
+n6 -  [ 4 -  ( 2 - aminoethyl ) benzenesulfonyl ] lysine
+o4' -  [ 4 -  ( 2 - aminoethyl ) benzenesulfonyl ] tyrosine
+crotonaldehyde  -  site c
+crotonaldehyde  -  site k
+crotonaldehyde  -  site h
+edt - iodo - peo - biotin  -  site t
+edt - iodo - peo - biotin  -  site s
+acrolein addition  + 56  -  site h
+acrolein addition  + 56  -  site k
+acrolein addition  + 56  -  site c
+6x ( 13 ) c , 1x ( 15 ) n labeled l - leucine
+6x ( 13 ) c , 1x ( 15 ) n labeled l - isoleucine
+bruker daltonics serva - icpl ( tm )  quantification chemistry ,  heavy form  -  site k
+acetaldehyde  + 28  -  site h
+acetaldehyde  + 28  -  site k
+dihydroxylated residue  -  site f
+dihydroxylated residue  -  site w
+dimethylation of proline residue
+1x ( 18 ) o labeled deamidated l - asparagine
+deamidation in presence of o18  - site q
+monosodium l - aspartate
+monosodium l - glutamate
+5x ( 13 ) c labeled l - proline
+reduced cysteine 4 - hydroxynonenal adduct
+reduced lysine 4 - hydroxynonenal adduct
+reduced histidine 4 - hydroxynonenal adduct
+methylamine michael addition derivatized threonine
+methylamine michael addition derivatized serine
+n4 - hexosaminylated asparagine
+n6 - hexosaminylated lysine
+n1' - hexosaminylated tryptophan
+o - hexosaminylated threonine
+thiophosphate labeled with biotin - hpdp  - site s
+thiophosphate labeled with biotin - hpdp  - site t
+thiophosphate labeled with biotin - hpdp  -  site y
+quaternary amine labeling reagent light form n6 - l - lysine
+quaternary amine labeling reagent heavy form  (  + 3amu )  n6 - l - lysine
+quaternary amine labeling reagent heavy form  (  + 6amu )  n6 - l - lysine
+quaternary amine labeling reagent heavy form  (  + 9amu )  n6 - l - lysine
+4x ( 1 ) h , 4x ( 12 ) c - labeled n6 - succinyl - l - lysine
+4x ( 2 ) h labeled n6 - succinyl - l - lysine
+4x ( 13 ) c labeled n6 - succinyl - l - lysine
+phosphorylation to amine thiol  -  site t
+phosphorylation to amine thiol  -  site s
+michael addition of bht quinone methide to histidine
+michael addition of bht quinone methide to lysine
+michael addition of bht quinone methide to cysteine
+propionaldehyde  + 40  -  site k
+propionaldehyde  + 40  -  site h
+acetaldehyde  + 26  -  site h
+acetaldehyde  + 26  -  site k
+9x ( 13 ) c labeled l - tyrosine
+9x ( 13 ) c labeled l - phenylalanine
+iodoacetic acid  -  site w
+iodoacetic acid  -  site c
+iodoacetic acid  - site k
+6x ( 13 ) c labeled l - arginine
+6x ( 13 ) c labeled l - leucine
+6x ( 13 ) c labeled l - isoleucine
+6x ( 13 ) c labeled l - lysine
+6x ( 13 ) c labeled 4 - sulfophenyl isothiocyanate derivatized lysine
+deamidation followed by a methylation  - site q
+deamidated 4 - methyl esterified asparagine
+n6 - ethyl - l - lysine
+ethylated residue
+esp - tag heavy d10  -  site k
+esp - tag light d0  -  site k
+selenium substitution for sulfur  -  site m
+selenium substitution for sulfur  -  site c
+dehydrogenated residue  -  site s
+2 - amino - 3 - oxobutanoic acid
+n4 - hexosylated asparagine
+hexose glycated l - lysine
+o - hexosylated threonine
+hydrolyzed n - ethylmaleimide cysteine adduct
+hydrolyzed n - ethylmaleimide lysine adduct
+nitrated l - tryptophan
+nitrated l - tyrosine
+amidination of lysines or n - terminal amines with methyl acetimidate  -  site k
+hex1hexnac1neuac1 n4 - glycosylated asparagine
+hex1hexnac1neuac1o - glycosylated threonine
+hex1hexnac1neuac1 o - glycosylated serine
+2x ( 13 ) c , 4x ( 2 ) h labeled dimethylated l - lysine
+bruker daltonics serva - icpl ( tm )  quantification chemistry ,  medium form  -  site n - term
+bruker daltonics serva - icpl ( tm )  quantification chemistry ,  medium form  -  site k
+4 - sulfophenyl isothiocyanate n6 - derivatized lysine
+o - thiophospho - l - threonine
+o - thiophospho - l - serine
+o4' - thiophospho - l - tyrosine
+fluorescein - 5 - thiosemicarbazide  -  site s
+fluorescein - 5 - thiosemicarbazide  -  site c
+fluorescein - 5 - thiosemicarbazide  -  site k
+fluorescein - 5 - thiosemicarbazide  -  site p
+fluorescein - 5 - thiosemicarbazide  -  site r
+deamidated and methyl esterified residue
+6x ( 13 ) c , 1x ( 15 ) n labeled residue
+deamidation in presence of o18
+ ( 2s )  - 4 - hydroxyleucine
+ ( 2s , 4r )  - 5 - hydroxyleucine
+ ( 2s , 4r )  - 5 - oxoleucine
+ ( 2s , 4r )  - 4 , 5 - dihydroxyleucine
+ ( 2s , 3s , 4r )  - 3 , 4 - dihydroxyisoleucine
+ ( 2s , 3r , 4s )  - 4 - hydroxyisoleucine
+ ( 2s , 3r , 4r )  - 4 , 5 - dihydroxyisoleucine
+2' - methylsulfonyl - l - tryptophan
+2' -  ( s - l - cysteinyl )  - 6' - hydroxy - l - tryptophan sulfoxide
+o - palmitoleyl - l - serine
+n , n , n - trimethyl - l - methionine
+l - cystine s - oxide
+aminomalonic acid  ( ser )
+3 - hydroxy - l - phenylalanine
+3 - hydroxy - l - valine
+o - methyl - l - threonine
+1 - amino - 2 - propanol
+l - isoleucine thiazole - 4 - carboxylic acid
+l - valine thiazole - 4 - carboxylic acid
+l - valine 5 -  ( methoxymethyl ) thiazole - 4 - carboxylic acid
+l - asparagine 5 - methylthiazole - 4 - carboxylic acid
+l - cysteine pyridine - 2 , 5 - dicarboxylic acid
+l - cysteine 5 - amino - 3 , 4 , 5 , 6 - tetrahydropyridine - 2 , 5 - dicarboxylic acid
+4 -  ( 1 - hydroxyethyl )  - 7 - isoleucino - 2 -  ( threonin - o3 - ylcarbonyl )  - 7 , 8 - dihydroquinolin - 8 - ol
+5 - hydroxy - 3 - methyl - l - proline  ( pro )
+l - serine 5 - methyloxazole - 4 - carboxylic acid
+n6 - propanoyl - l - lysine
+n6 -  ( adp - ribosyl )  - l - lysine
+l - lysyl - poly ( adp - ribose )
+ ( 2s , 3s )  - 3 - hydroxyasparagine
+ ( 2s , 3r , 4r )  - 3 , 4 - dihydroxyproline
+ ( 2s )  - 4 , 5 , 5' - trihydroxyleucine
+l - asparagine thiazole - 4 - carboxylic acid
+l - proline thiazole - 4 - carboxylic acid
+l - threonine thiazole - 4 - carboxylic acid
+l - phenylalanine thiazoline - 4 - carboxylic acid
+l - threonine thiazoline - 4 - carboxylic acid
+trihydroxylated residue
+hydroxylated leucine
+monohydroxylated leucine
+dihydroxylated leucine
+trihydroxylated leucine
+hydroxylated isoleucine
+monohydroxylated isoleucine
+dihydroxylated isoleucine
+monomethylated proline
+methylated threonine
+oxazole / oxazoline ring crosslinked residues
+thiazole / thiazoline ring croslinked residues
+oxazole / oxazoline ring crosslinked residues  ( ser )
+oxazole / oxazoline ring crosslinked residues  ( thr )
+palmitoleylated residue
+quinaldate modified residue
+pyridinyl ring crosslinked residues
+isotope tagged reagent derivatized residue
+2 - aminobutanoic acid  ( abu )
+ ( 13 ) c isotope tagged reagent
+ ( 15 ) n isotope tagged reagent
+ ( 18 ) o isotope tagged reagent
+ ( 2 ) h deuterium tagged reagent
+ ( 2s , 4s )  - 4 , 5 - dihydroxyleucine
+1 - amino - 2 - propanone
+4 - hydroxy - l - glutamic acid
+2 -  ( cystein - s - ylcarbonyl )  - 3 - methyl - 4 -  ( glutam - 5 - yloxy ) methylindole
+cyclo [  ( prolylserin )  - o - yl ]  cysteinate  ( cys )
+cyclo [  ( prolylserin )  - o - yl ]  cysteinate  ( cys - pro - ser cross - link )
+s -  [ 2 -  ( pyridin - 2 - yl ) ethyl ]  - l - cysteine
+s -  [ 2 -  ( pyridin - 4 - yl ) ethyl ]  - l - cysteine
+glutamyl semialdehyde
+natural ,  standard ,  encoded residue
+3 -  ( o4' - l - tyrosyl )  - l - valine
+tetrakis - l - glutamato bis - l - n1' - histidino lipid carboxylato manganese iron oxide
+l - 3 , 3 - dihydroxyoalanine  ( cys )
+l - 3 , 3 - dihydroxyoalanine  ( ser )
+n -  ( dihydroxymethyl )  - l - methionine  ( fmet )
+n -  ( dihydroxymethyl )  - l - methionine  ( met )
+l - 3 , 3 - dihydroxyoalanine
+l - 3 , 3 - dihydroxyoalanine  ( oxoalanine )
+modified n - formyl - l - methionine residue
+o - phospho - l - serine arising from o - phosphopantetheine - l - serine after neutral loss of pantetheine
+o - phosphopantetheine - l - serine with neutral loss of pantetheine
+l - glutamic acid 5 - methyl ester
+n -  ( dna - 1' , 2' - dideoxyribos - 1' - ylidene )  - l - prolinium
+o - phosphorylated residue
+n - phosphorylated residue
+l - cysteine  ( ser )
+alpha - amino acetylated residue
+4x ( 2 ) h labeled alpha - dimethylamino n - terminal residue
+alpha - amino methylated residue
+n - methylated alanine
+n - methylated proline
+n - methylated methionine
+protonated l - methionine  ( l - methioninium )  residue
+n , n , n - trimethyl - l - methionine  ( from l - methioninium )
+menadione quinone derivative  -  site c
+menadione quinone derivative  -  site k
+l - selenocysteinyl molybdenum bis ( molybdopterin guanine dinucleotide )   ( cys )
+l - selenocysteinyl tungsten bis ( molybdopterin guanine dinucleotide )   ( cys )
+ ( e )  - dehydrobutyrine  ( thr )
+ ( z )  - dehydrobutyrine  ( thr )
+reduced residue
+hydrogenated residue
+o -  [ s -  ( carboxymethyl ) phosphopantetheine ]  - l - serine
+o -  [ s -  ( carboxamidomethyl ) phosphopantetheine ]  - l - serine
+2' - fluoro - l - phenylalanine
+3' - fluoro - l - phenylalanine
+4' - fluoro - l - phenylalanine
+4' - fluoro - l - tryptophan
+5' - fluoro - l - tryptophan
+6' - fluoro - l - tryptophan
+calcium containing modified residue
+o - formylated residue
+n6 -  ( l - isoglutamyl )  - l - lysine  ( glu )
+itraq4plex - 114 reporter + balance reagent acylated residue
+itraq4plex - 114 reporter + balance reagent acylated n - terminal
+itraq4plex - 114 reporter + balance reagent n6 - acylated lysine
+itraq4plex - 114 reporter + balance reagent o4' - acylated tyrosine
+itraq4plex - 114 reporter + balance reagent n' - acylated histidine
+itraq4plex - 114 reporter + balance reagent o3 - acylated serine
+itraq4plex - 114 reporter + balance reagent o3 - acylated threonine
+itraq4plex - 115 reporter + balance reagent acylated residue
+itraq4plex - 115 reporter + balance reagent acylated n - terminal
+itraq4plex - 115 reporter + balance reagent n6 - acylated lysine
+itraq4plex - 115 reporter + balance reagent o4' - acylated tyrosine
+itraq4plex - 115 reporter + balance reagent n' - acylated histidine
+itraq4plex - 115 reporter + balance reagent o3 - acylated serine
+itraq4plex - 115 reporter + balance reagent o3 - acylated threonine
+itraq4plex - 116 reporter + balance reagent acylated residue
+itraq4plex - 116 reporter + balance reagent acylated n - terminal
+itraq4plex - 116 reporter + balance reagent n6 - acylated lysine
+itraq4plex - 116 reporter + balance reagent o4' - acylated tyrosine
+itraq4plex - 116 reporter + balance reagent n' - acylated histidine
+itraq4plex - 116 reporter + balance reagent o3 - acylated serine
+itraq4plex - 116 reporter + balance reagent o3 - acylated threonine
+itraq4plex - 117 ,  mtraq heavy ,  reporter + balance reagent acylated residue
+itraq4plex - 117 ,  mtraq heavy ,  reporter + balance reagent acylated n - terminal
+itraq4plex - 117 ,  mtraq heavy ,  reporter + balance reagent n6 - acylated lysine
+itraq4plex - 117 ,  mtraq heavy ,  reporter + balance reagent o4' - acylated tyrosine
+itraq4plex - 117 reporter + balance reagent n' - acylated histidine
+itraq4plex - 117 reporter + balance reagent o3 - acylated serine
+itraq4plex - 117 reporter + balance reagent o3 - acylated threonine
+modifications with monoisotopic mass differences that are nominally equal at a resolution below 0 .1 da
+modifications with monoisotopic mass differences that are nominally equal at a resolution below 0 .01 da
+modifications with monoisotopic mass differences that are nominally equal at a resolution below 0 .000001 da
+modifications with monoisotopic mass diferences that are nominally equal at 144 .099 - 144 .106 da .
+modifications with monoisotopic mass differences that are nominally equal at 144 .102062 da
+itraq4plex reporter + balance reagent acylated residue
+reporter fragment
+modification reporter fragment
+itraq4plex reporter fragment
+itraq4plex - 114 reporter fragment
+itraq4plex - 115 reporter fragment
+itraq4plex - 116 reporter fragment
+itraq4plex - 117 ,  mtraq heavy ,  reporter fragment
+itraq8plex reporter + balance reagent acylated residue
+residue reporter fragment
+itraq8plex - 113 reporter + balance reagent acylated residue
+itraq8plex - 113 reporter + balance reagent acylated n - terminal
+itraq8plex - 113 reporter + balance reagent n6 - acylated lysine
+itraq8plex - 113 reporter + balance reagent o4' - acylated tyrosine
+itraq8plex - 113 reporter + balance reagent n' - acylated histidine
+itraq8plex - 113 reporter + balance reagent o3 - acylated serine
+itraq8plex - 113 reporter + balance reagent o3 - acylated threonine
+itraq8plex - 114 reporter + balance reagent acylated residue
+itraq8plex - 114 reporter + balance reagent acylated n - terminal
+itraq8plex - 114 reporter + balance reagent n6 - acylated lysine
+itraq8plex - 114 reporter + balance reagent o4' - acylated tyrosine
+itraq8plex - 114 reporter + balance reagent n' - acylated histidine
+itraq8plex - 114 reporter + balance reagent o3 - acylated serine
+itraq8plex - 114 reporter + balance reagent o3 - acylated threonine
+itraq8plex - 115 reporter + balance reagent acylated residue
+itraq8plex - 115 reporter + balance reagent acylated n - terminal
+itraq8plex - 115 reporter + balance reagent n6 - acylated lysine
+itraq8plex - 115 reporter + balance reagent o4' - acylated tyrosine
+itraq8plex - 115 reporter + balance reagent n' - derivatized histidine
+itraq8plex - 115 reporter + balance reagent o3 - acylated serine
+itraq8plex - 115 reporter + balance reagent o3 - acylated threonine
+itraq8plex - 116 reporter + balance reagent acylated residue
+itraq8plex - 116 reporter + balance reagent acylated n - terminal
+itraq8plex - 116 reporter + balance reagent n6 - acylated lysine
+itraq8plex - 116 reporter + balance reagent o4' - acylated tyrosine
+itraq8plex - 116 reporter + balance reagent n' - acylated histidine
+itraq8plex - 116 reporter + balance reagent o3 - acylated serine
+itraq8plex - 116 reporter + balance reagent o3 - acylated threonine
+itraq8plex - 117 reporter + balance reagent acylated residue
+itraq8plex - 117 reporter + balance reagent acylated n - terminal
+itraq8plex - 117 reporter + balance reagent n6 - acylated lysine
+itraq8plex - 117 reporter + balance reagent o4' - acylated tyrosine
+itraq8plex - 117 reporter + balance reagent n' - acylated histidine
+itraq8plex - 117 reporter + balance reagent o3 - acylated serine
+itraq8plex - 117 reporter + balance reagent o3 - acylated threonine
+itraq8plex - 118 reporter + balance reagent acylated residue
+itraq8plex - 118 reporter + balance reagent acylated n - terminal
+itraq8plex - 118 reporter + balance reagent n6 - acylated lysine
+itraq8plex - 118 reporter + balance reagent o4' - acylated tyrosine
+itraq8plex - 118 reporter + balance reagent n' - acylated histidine
+itraq8plex - 118 reporter + balance reagent o3 - acylated serine
+itraq8plex - 118 reporter + balance reagent o3 - acylated threonine
+itraq8plex - 119 reporter + balance reagent acylated residue
+itraq8plex - 119 reporter + balance reagent acylated n - terminal
+itraq8plex - 119 reporter + balance reagent n6 - acylated lysine
+itraq8plex - 119 reporter + balance reagent o4' - acylated tyrosine
+itraq8plex - 119 reporter + balance reagent n' - acylated histidine
+itraq8plex - 119 reporter + balance reagent o3 - acylated serine
+itraq8plex - 119 reporter + balance reagent o3 - acylated threonine
+itraq8plex - 121 reporter + balance reagent acylated residue
+itraq8plex - 121 reporter + balance reagent acylated n - terminal
+itraq8plex - 121 reporter + balance reagent n6 - acylated lysine
+itraq8plex - 121 reporter + balance reagent o4' - acylated tyrosine
+itraq8plex - 121 reporter + balance reagent n' - acylated histidine
+itraq8plex - 121 reporter + balance reagent o3 - acylated serine
+itraq8plex - 121 reporter + balance reagent o3 - acylated threonine
+modifications with monoisotopic mass differences that are nominally equal at 304 .199039 da
+o - glycyl - l - serine
+o - glycyl - l - threonine
+o -  ( 2 - aminoethylphosphoryl )  - l - serine
+o - cholinephosphoryl - l - serine
+o -  ( 2 , 4 - diacetamido - 2 , 4 - dideoxyglucosyl )  - l - serine
+3' - farnesyl - 2' , 3' - dihydro - 2' , n2 - cyclo - l - tryptophan
+modifications with monoisotopic mass differences that are nominally equal at 304 .205359 da
+modifications with monoisotopic mass differences that are nominally equal at 304 .199 - 304 .206 da
+itraq8plex reporter fragment
+itraq8plex - 113 reporter fragment
+itraq8plex - 114 reporter fragment
+itraq8plex - 115 reporter fragment
+itraq8plex - 116 reporter fragment
+itraq8plex - 117 reporter fragment
+itraq8plex - 118 reporter fragment
+itraq8plex - 119 reporter fragment
+itraq8plex - 121 reporter fragment
+s -  ( l - lysyl )  - l - methionine sulfilimine
+2x ( 15 ) n labeled l - lysine
+4x ( 15 ) n labeled l - arginine
+5 - glutamyl 2 - aminoadipic acid
+5 - glutamyl 2 - aminoadipic 6 - phosphoric anhydride
+5 - glutamyl allysine
+n2 -  ( l - isoglutamyl )  - l - lysine
+7' - hydroxy - 2' - alpha - mannosyl - l - tryptophan
+l - threonine methyl ester
+6 -  ( s - l - cysteinyl )  - 8alpha -  (  - 3' - l - histidino )  - fmn
+3' - iodo - l - tyrosine
+3' , 5' - diiodo - l - tyrosine
+glycyl phospho - 5' - adenosine
+glycyl cysteine dithioester
+trithiocystine
+o -  ( 6 - phosphomannosyl )  - l - threonine
+l - alanyl - l - isoaspartyl cyclopeptide
+multisulfide crosslinked residues
+polysulfide crosslinked residues
+flavin crosslinked residues
+monohydroxylated tryptophan
+1 - thioglycine  ( c - terminal )
+ ( 2 - aminosuccinimidyl ) acetic acid  ( asn )
+1 - thioglycine
+l - cystine
+l - cysteinyl - l - selenocysteine
+ ( 2 - aminosuccinimidyl ) acetic acid
+cyclo [  ( prolylserin )  - o - yl ]  cysteinate
+n6 -  ( l - isoglutamyl )  - l - lysine
+l - alanine removal
+l - arginine removal
+l - asparagine removal
+l - aspartic acid removal
+l - cysteine removal
+l - glutamic acid removal
+l - glutamine removal
+glycine removal
+l - histidine removal
+l - isoleucine removal
+l - leucine removal
+l - lysine removal
+l - methionine removal
+l - phenylalanine removal
+l - proline removal
+l - serine removal
+l - threonine removal
+l - tryptophan removal
+l - tyrosine removal
+l - valine removal
+natural ,  standard ,  encoded residue removal
+sulfonyl halide reagent derivatized residue
+dansyl chloride derivatized residue
+n6 - dansyl derivatized lysine
+alpha - amino - dansyl derivatized residue
+dabsyl chloride derivatized residue
+n6 - dabsyl derivatized lysine
+alpha - amino - dabsyl derivatized residue
+uniblue a derivatized residue
+uniblue a derivatized cysteine
+pyruvic acid  ( tyr )
+n5 -  ( adp - ribosyl )  - l - glutamine
+o -  ( adp - ribosyl )  - l - threonine
+7' - hydroxy - l - tryptophan
+n -  ( dna - 1' , 2' - dideoxyribos - 1' - ylidene )  - l - valine
+epicocconone derivatized residue
+n6 - epicoccononyl lysine adduct
+o4 -  ( 8alpha - fad )  - l - aspartate
+trimethyl - l - arginine
+n6 - chloro - l - lysine
+o -  ( l - isoaspartyl )  - l - threonine  ( active site intermediate )
+halogenated lysine
+n - acetylaminohexosylated residue
+n4 -  ( n - acetylamino ) hexosyl - l - asparagine
+o -  ( n - acetylamino ) hexosyl - l - serine
+o -  ( n - acetylamino ) hexosyl - l - threonine
+o4 -  ( n - acetylamino ) hexosyl - l - hydroxyproline
+n6 - carbamoyl - l - lysine
+alpha - aminocarbamoylated residue
+alpha - amino monomethylated residue
+monomethylated l - aspartic acid
+monomethylated l - cysteine
+monomethylated l - lysine
+palmitoylated - l - cysteine
+alpha - amino palmitoylated residue
+alpha - amino dimethylated residue
+alpha - amino trimethylated residue
+3 - hydroxy - l - asparagine
+alpha - carboxyl methylated residue
+n -  [  ( 12r )  - 12 - hydroxymyristoyl ]  - l - cysteine
+n -  ( 12 - ketomyristoyl )  - l - cysteine
+glutamyl semialdehyde  ( glu )
+alpha - amino pyridylacetylated residue
+s -  ( coelenterazin - 3a - yl )  - l - cysteine
+alpha - amino 3 -  ( carboxamidomethylthio ) propanoylated residue
+alpha - amino acylated residue
+alpha - amino 4 -  ( 2 - aminoethyl ) benzenesulfonylated residue
+alpha - amino trimethylated protonated - residue
+protonated residue
+alpha - amino protonated residue
+deprotonated residue
+alpha - carboxyl deprotonated residue
+dehydrobutyrine
+dehydrobutyrine  ( met )
+isotope tagged reagent acylated residue
+isotope tagged reagent n - acylated residue
+isotope tagged reagent o - acylated residue
+isotope tagged reagent alpha - amino acylated residue
+itraq4plex reporter + balance reagent n - acylated residue
+itraq8plex reporter + balance reagent n - acylated residue
+itraq4plex reporter + balance reagent acylated n - terminal
+itraq8plex reporter + balance reagent acylated n - terminal
+itraq4plex reporter + balance reagent o - acylated residue
+itraq8plex reporter + balance reagent o - acylated residue
+tmt6plex reporter + balance reagent acylated residue
+tmt6plex reporter fragment
+tmt6plex reporter + balance reagent n - acylated residue
+tmt6plex reporter + balance reagent acylated n - terminal
+tmt6plex reporter + balance reagent o - acylated residue
+tmt6plex - 126 reporter + balance reagent acylated residue
+tmt6plex - 126 reporter + balance reagent acylated n - terminal
+tmt6plex - 126 reporter + balance reagent n6 - acylated lysine
+tmt6plex - 126 reporter + balance reagent o4' - acylated tyrosine
+tmt6plex - 126 reporter + balance reagent n' - acylated histidine
+tmt6plex - 126 reporter + balance reagent o3 - acylated serine
+tmt6plex - 126 reporter + balance reagent o3 - acylated threonine
+tmt6plex - 126 reporter fragment
+tmt6plex - 127 reporter + balance reagent acylated residue
+tmt6plex - 127 reporter + balance reagent acylated n - terminal
+tmt6plex - 127 reporter + balance reagent n6 - acylated lysine
+tmt6plex - 127 reporter + balance reagent o4' - acylated tyrosine
+tmt6plex - 127 reporter + balance reagent n' - acylated histidine
+tmt6plex - 127 reporter + balance reagent o3 - acylated serine
+tmt6plex - 127 reporter + balance reagent o3 - acylated threonine
+tmt6plex - 127 reporter fragment
+tmt6plex - 128 reporter + balance reagent acylated residue
+tmt6plex - 128 reporter + balance reagent acylated n - terminal
+tmt6plex - 128 reporter + balance reagent n6 - acylated lysine
+tmt6plex - 128 reporter + balance reagent o4' - acylated tyrosine
+tmt6plex - 128 reporter + balance reagent n' - acylated histidine
+tmt6plex - 128 reporter + balance reagent o3 - acylated serine
+tmt6plex - 128 reporter + balance reagent o3 - acylated threonine
+tmt6plex - 128 reporter fragment
+tmt6plex - 129 reporter + balance reagent acylated residue
+tmt6plex - 129 reporter + balance reagent acylated n - terminal
+tmt6plex - 129 reporter + balance reagent n6 - acylated lysine
+tmt6plex - 129 reporter + balance reagent o4' - acylated tyrosine
+tmt6plex - 129 reporter + balance reagent n' - acylated histidine
+tmt6plex - 129 reporter + balance reagent o3 - acylated serine
+tmt6plex - 129 reporter + balance reagent o3 - acylated threonine
+tmt6plex - 129 reporter fragment
+tmt6plex - 130 reporter + balance reagent acylated residue
+tmt6plex - 130 reporter + balance reagent acylated n - terminal
+tmt6plex - 130 reporter + balance reagent n6 - acylated lysine
+tmt6plex - 130 reporter + balance reagent o4' - acylated tyrosine
+tmt6plex - 130 reporter + balance reagent n' - acylated histidine
+tmt6plex - 130 reporter + balance reagent o3 - acylated serine
+tmt6plex - 130 reporter + balance reagent o3 - acylated threonine
+tmt6plex - 130 reporter fragment
+tmt6plex - 131 reporter + balance reagent acylated residue
+tmt6plex - 131 reporter + balance reagent acylated n - terminal
+tmt6plex - 131 reporter + balance reagent n6 - acylated lysine
+tmt6plex - 131 reporter + balance reagent o4' - acylated tyrosine
+tmt6plex - 131 reporter + balance reagent n' - acylated histidine
+tmt6plex - 131 reporter + balance reagent o3 - acylated serine
+tmt6plex - 131 reporter + balance reagent o3 - acylated threonine
+tmt6plex - 131 reporter fragment
+o - palmitoleylated residue
+o - palmitoleyl - l - threonine
+o - palmitoyl - l - threonine amide
+farnesyl reporter fragment
+palmityl reporter fragment
+n6 , n6 , n6 - trimethyl - l - lysine with neutral loss of trimethylamine
+n6 - octanoyl - l - lysine
+5 - glutamyl serotonin
+s - methylthiocarbonylaminoethylcysteine  ( cys )
+s -  ( glycyl )  - l - cysteine  ( gly )
+n -  ( glycyl )  - l - cysteine
+n6 -  ( l - lysyl )  - l - lysine
+n6 -  ( beta - lysyl )  - l - 5 - hydroxylysine
+n6 - butanoyl - l - lysine
+n - methyl - l - serine
+n , n - dimethyl - l - serine
+n , n , n - trimethyl - l - serine
+o -  ( l - isoglutamyl )  - l - threonine  ( active site intermediate )
+3' - nitro - l - tyrosine
+5' -  ( l - tyros - 5' - yl ) amino - l - tyrosine
+histidine immonium ion
+phenylalanine immonium ion
+tyrosine immonium ion
+phosphohistidine immonium ion
+phosphotyrosine immonium ion
+s - carboxamidomethyl - l - cysteine sulfoxide
+1x ( 13 ) c , 3x ( 2 ) h labeled monomethylated residue
+1x ( 13 ) c , 3x ( 2 ) h c ( 6 )  - labeled l - methionine
+1x ( 13 ) c , 3x ( 2 ) h c ( 6 )  - labeled l - methionine sulfoxide
+1' - phosphohistidine immonium ion
+3' - phosphohistidine immonium ion
+methylated serine
+n - methylated serine
+protonated l - serine  ( l - serinium )  residue
+n , n , n - trimethyl - l - serine  ( from l - serinium )
+o - methylated threonine
+glycosylphosphorylated residue
+n -  ( l - isoaspartyl )  - glycine  ( asp )
+n , n - dimethyl - l - leucine
+n - formyl - l - glutamic acid
+n - methylated leucine
+5x ( 13 ) c , 1x ( 15 ) n labeled residue
+5x ( 13 ) c , 1x ( 15 ) n labeled l - proline
+5x ( 13 ) c , 1x ( 15 ) n labeled l - methionine
+5x ( 13 ) c , 1x ( 15 ) n labeled l - methionine sulfoxide
+morpholine - 2 - acetylated residue
+l - cysteine 3 - hydroxy - 2 , 5 - pyridinedicarboxylic acid
+l - glutamate thiazole - 4 - carboxylic acid
+2' - hydroxy - l - tryptophan
+oxidation of tryptophan to 2' - oxo - l - tryptophan
+1' -  ( l - tryptophan - 3' - yl )  - l - tryptophan
+n6 - succinyl - l - lysine
+isotope tagged sufhydryl reagent modified cysteine
+cystmt6plex reporter + balance reagent cysteine disulfide
+cystmt6plex - zero reporter + balance reagent cysteine disulfide
+cystmt6plex - 126 reporter + balance reagent cysteine disulfide
+cystmt6plex - 127 reporter + balance reagent cysteine disulfide
+cystmt6plex - 128 reporter + balance reagent cysteine disulfide
+cystmt6plex - 129 reporter + balance reagent cysteine disulfide
+cystmt6plex - 130 reporter + balance reagent cysteine disulfide
+cystmt6plex - 131 reporter + balance reagent cysteine disulfide
+s - carboxymethyl - l - cysteine sulfoxide
+s - carboxymethyl - l - cysteine sulfone
+s - carboxamidomethyl - l - cysteine sulfone
+5x ( 13 ) c - labeled residue
+5x ( 13 ) c - labeled l - methionine
+5x ( 13 ) c - labeled l - methionine sulfoxide
+5x ( 13 ) c - labeled l - methionine sulfone
+n6 -  [  (  [ 1 -  ( 6 - nitro - 2h - 1 , 3 - benzodioxol - 5 - yl ) ethoxy ] carbonyl ] lysine
+l - lanthionine  ( cys - cys )
+l - lysinoalanine  ( lys )
+l - lanthionine
+l - allo - isoleucine
+lanthionine
+s -  ( 2 - aminovinyl )  - l - cysteine
+5' - chloro - l - tryptophan
+2 -  ( 3 - methylbutanoyl )  - 5 - hydroxyoxazole - 4 - carbothionic acid
+l - proline 5 - hydroxyoxazole - 4 - carbothionic acid
+methanobactin ob3b copper complex
+l - cysteine sulfinyl phosphate
+s -  ( spermidinoglutathion - s - yl )  - l - cysteine
+s -  ( 2 - aminovinyl )  - d - cysteine  ( cys - cys )
+s -  ( 2 - aminovinyl )  - d - cysteine
+s -  ( 2 - aminovinyl )  - cysteine
+l - lysinoalanine  ( lys - cys )
+l - lysinoalanine
+sulfur monooxygenated residue
+sulfur dioxygenated residue
+oxazole / oxazoline ring crosslinked residues  ( cys )
+2 -  ( l - cystein - s - yl )  - methionine
+s -  ( n - acetylamino ) glucosyl - l - cysteine
+4 - amino - 3 - isothiazolidinone - l - phenylalanine
+l - cysteine bacillithiol disulfide
+isothiazolidinone ring crosslinked residues
+disulfide conjugated residue
+mtraq reporter + balance reagent acylated residue
+mtraq light reporter + balance reagent acylated residue
+mtraq light reporter + balance reagent acylated n - terminal
+mtraq light reporter + balance reagent n6 - acylated lysine
+mtraq light reporter + balance reagent o4' - acylated tyrosine
+modifications with monoisotopic mass differences that are nominally equal at 140 .094963 da
+mtraq light reporter fragment
+mtraq reporter fragment
+cyclized n - terminal s - carboxamidomethyl - l - cysteine
+cyclized n - terminal s - carboxymethyl - l - cysteine
+n - carboxy - l - alanine
+n - carboxy - l - valine
+n6 - acylated l - lysine
+4x ( 1 ) h , 4x ( 12 ) c - labeled alpha - amino succinylated residue
+2 -  ( 4 - guanidinobutanoyl )  - 5 - hydroxyimidazole - 4 - carbothionic acid
+l - threonine 5 - hydroxyoxazole - 4 - carbonthionic acid
+methanobactin sb2 copper complex
+l - deoxyhypusine
+3 -  ( l - phenylalan - 2' - yl )  - l - valine
+5 - imidazolinone ring crosslinked residues  ( gly )
+5 - imidazolinone ring crosslinked residues  ( cys )
+4 - aminobutylated residue
+biotinylated residue
+thiolated residue
+uniblue a derivatized lysine
+didehydrogenated residue
+s -  ( 2 - succinyl )  - l - cysteine
+n -  [  ( l - histidin - 1' - yl ) methyl ]  - l - methionine  ( fmet )
+n -  [  ( l - histidin - 1' - yl ) methyl ]  - l - methionine  ( met )
+n6 - crotonyl - l - lysine
+n6 - malonyl - l - lysine
+propanoylated residue
+alpha - amino 3x ( 12 ) c - labeled propanoylated residue
+trifluoroacetic acid adduct
+5 - hydroxy - 3 - methyl - l - proline  ( ile )
+n2 , n2 - dimethyl - l - arginine
+l - arginine thiazole - 4 - carboxylic acid
+l - cysteine 5 - methyloxazole - 4 - carboxylic acid
+l - threonine 5 - methyloxazole - 4 - carboxylic acid
+l - isoleucine oxazole - 4 - carboxylic acid
+l - serine oxazole - 4 - carboxylic acid
+l - serine 5 - methyloxazoline - 4 - carboxylic acid
+5 - hydroxy - 3 - methyl - l - proline
+dehydromethionine
+dehydromethionine  ( from l - methioninium )
+4 - sulfophenyl isothiocyanate alpha - amino derivatized residue
+6x ( 13 ) c labeled 4 - sulfophenyl isothiocyanate alpha - amino derivatized residue
+monofluorinated residue
+monochlorinated residue
+monobrominated residue
+monochlorinated l - tryptophan
+o5 - galactosyl - l - hydroxylysine
+n - formyl - l - alanine
+o4' -  ( n - acetylamino ) galactosyl - l - tyrosine
+n6 -  ( l - isoaspartyl )  - l - lysine  ( asp )
+ ( 2s , 5s )  - 5 - hydroxylysine
+ ( 2s , 3s )  - 3 - hydroxyaspartic acid
+3 - hydroxy - l - histidine
+d - aspartic acid  ( asp )
+3 - methoxydehydroalanine
+n6 -  ( l - aspartyl )  - l - lysine
+s - octanoyl - l - cysteine
+ ( 2s , 5r )  - 5 - hydroxylysine
+3 - hydroxy - l - aspartic acid
+o - glycosyl - l - tyrosine
+n -  ( l - isoaspartyl )  - glycine
+n6 -  ( l - isoaspartyl )  - l - lysine
+d - aspartic acid  ( asn )
+n6 - phospho - l - lysine
+l - lysinonorleucine
+isodesmosine
+o - glucosyl - l - hydroxylysine
+n6 - oleoyl - l - lysine
+n - palmitoyl - l - methionine
+2 -  ( 2 - aminosuccinimidyl )  - 3 - sulfanylpropanoic acid  ( asn )
+2 -  ( 2 - aminosuccinimidyl )  - 3 - sulfanylpropanoic acid  ( asp )
+2 -  ( 2 - aminosuccinimidyl ) pentanedioic acid  ( asn )
+2 -  ( 2 - aminosuccinimidyl ) pentanedioic acid  ( asp )
+d - aspartic acid
+pyrrolidione ring crosslinked residues
+2 - aminosuccinimide ring crosslinked residues
+2 -  ( 2 - aminosuccinimidyl )  - 3 - sulfanylpropanoic acid
+2 -  ( 2 - aminosuccinimidyl ) pentanedioic acid
+o -  ( l - isoaspartyl )  - l - threonine  ( cross - link )
+labionin
+coelenterazine
+l - isoglutamyl histamine
+o -  ( l - isoglutamyl )  - l - serine  ( gln - ser )
+o -  ( l - isoglutamyl )  - l - threonine  ( cross - link )
+tetrakis - l - cysteinyl tetrairon octanitrosyl
+dehydroalanine  ( sec )
+l - alaninato bis - l - aspartato tris - l - glutamato l - histidino calcium tetramanganese pentoxide
+ ( 3r )  - 3 - hydroxy - l - arginine
+2 - hydroxyproline
+bis - l - cysteinyl bisglutathion - s - yl diiron disulfide
+tris - l - cysteinyl l - glutamato tetrairon tetrasulfide
+tris - l - cysteinyl l - glutamin - o6 - yl tetrairon tetrasulfide
+o -  ( l - isoglutamyl )  - l - threonine  ( thr )
+n4 -  ( 2 , 4 - diacetamido - 2 , 4 , 6 - trideoxy - d - glucosyl )  - l - asparagine
+o -  ( 2 , 4 - diacetamido - 2 , 4 , 6 - trideoxy - d - glucosyl )  - l - serine
+o -  ( 2 - acetamido - 4 - glyceramido - 2 , 4 , 6 - trideoxy - d - glucosyl )  - l - serine
+2xc ( 13 )  , 3x ( 2 ) h labeled n6 - acetyl - l - lysine
+omega - n -  ( n - acetylamino ) glucosyl - l - arginine
+ ( 2r , 3r , 2'r )  - 3 - methyllanthionine
+s -  ( gamma - glutamyl - cysteinyl - glycyl )  - cysteine
+5 - glutamyl glutamic acid
+5 - glutamyl n2 - ornithine
+5 - glutamyl coenzyme a thioester
+n6 -  ( 3 - phosphoglyceryl )  - l - lysine
+s - methyl - l - methionine
+s - poly ( 3 - hydroxybutyrate )  - l - cysteine
+o3 -  ( poly - 3 - hydroxybutyrate )  - l - serine
+o -  ( l - isoglutamyl )  - l - serine
+o -  ( l - isoaspartyl )  - l - threonine
+o -  ( l - isoglutamyl )  - l - threonine
+omega - n - glycosyl - l - arginine
+3 - methyllanthionine
+n , n , n - trimethylglycine
+n , n - dimethylglycine
+2 -  ( l - cystein - s - yl )  - l - alanine
+2 -  ( l - cystein - s - yl )  - d - asparagine
+2 -  ( l - cystein - s - yl )  - l - serine
+2 -  ( l - cystein - s - yl )  - d - serine
+2 -  ( l - cystein - s - yl )  - l - threonine
+2 -  ( l - cystein - s - yl )  - d - tyrosine
+protonated glycine  ( glycinium )  residue
+n , n , n - trimethylglycine  ( from glycinium )
+alpha - carbon thioether crosslinked residues
+beta - carbon thioether crosslinked residues
+n1' - formyl - l - tryptophan
+n2 - formyl - l - tryptophan
+butanoylated residue
+n - butanoylated residue
+alpha - amino butanoylated residue
+n6 -  ( 11 - cis )  - retinylidene - l - lysine
+part of
+l - 3' , 4' - dihydroxyphenylalanine
+l - 2' , 4' , 5' - topaquinone
+l - tryptophyl quinone
+3 , 3' , 5 - triiodo - l - thyronine
+s -  ( 4alpha - fmn )  - l - cysteine
+monoacetylated residue
+mono n - acetylated residue
+monoglucosylated residue
+n - acetylhexosaminylated residue
+mono - n - acetylaminoglucosylated residue
+4x ( 12 ) c ,  4x ( 1 ) h labeled alpha - amino succinylated residue
+nitrated residue
+2 - amino - l - tyrosine
+monogalactosylated residue
+n - linked glycan core n4 - glycosylated asparagine
+hexnac1dhex1 n4 - glycosylated asparagine
+hexnac2 n4 - glycosylated asparagine
+hex3 n4 - glycosylated asparagine
+hexnac1dhex2 n4 - glycosylated asparagine
+hex1hexnac1dhex1 n4 - glycosylated asparagine
+hexnac2dhex1 n4 - glycosylated asparagine
+hex1hexnac2 n4 - glycosylated asparagine
+hexnac2dhex2 n4 - glycosylated asparagine
+hex1hexnac2pent1 n4 - glycosylated asparagine
+hex1hexnac2dhex1 n4 - glycosylated asparagine
+hex2hexnac2 n4 - glycosylated asparagine
+hex3hexnac1pent1 n4 - glycosylated asparagine
+hex1hexnac2dhex1pent1 n4 - glycosylated asparagine
+hex1hexnac2dhex2 n4 - glycosylated asparagine
+hex2hexnac2pent1 n4 - glycosylated asparagine
+hex2hexnac2dhex1 n4 - glycosylated asparagine
+hex3hexnac2 n4 - glycosylated asparagine
+hex3hexnac2p1 n4 - glycosylated asparagine
+apta
+n - ethyl iodoacetamide -
+mono - n - acetylaminogalactosylated residue
+crotonylated residue
+acetaldehyde crosslinked penta - l - lysine
+pyridyl thiol modified residue
+9x ( 13 ) c , 1x ( 15 ) n labeled l - phenylalanine
+monomannosylated residue
+pierce ez - link biotin - hpdp modified l - cysteine
+fucosylated residue
+fucosylated biantennary  (  - 2 galactose )  n4 - glycosylated asparagine
+fluorescein - 5 - thiosemicarbazide modified residue
+mono o - acetylated residue
+mono s - acetylated residue
+monoacetylated l - cysteine
+monoacetylated l - serine
+arabinosylated residue
+ribosylated residue
+xylosylated residue
+hexosuronylated residue
+deoxyhexosylated residue
+n - acetylneuraminylated residue
+monoadenosine diphosphoribosyl  ( adp - ribosyl )  modified residue
+fucosylated biantennary  (  - 1 galactose )  n4 - glycosylated asparagine
+biantennary n4 - glycosylated asparagine
+monohexosylated residue
+biantennary  (  - 2 galactose )  n4 - glycosylated asparagine
+biantennary  (  - 1 galactose )  n4 - glycosylated asparagine
+levuglandinyl  ( prostaglandin h2 )  adduct
+2 - oxohistidine
+alpha - n - gluconoylated l - histidine
+alpha - n - 6 - phosphogluconoylated l - histidine
+dhex1hex3hexnac2 n4 - glycosylated asparagine
+riboflavin - phosphorylated residue
+monoacetylated l - threonine
+pyridyl thiol modified l - threonine
+pyridyl thiol modified l - serine
+n - methylmaleimide modified l - cysteine
+n - methylmaleimide modified l - lysine
+nucleophilic addition to cytopiloyne  -  site r
+crotonylated l - cysteine
+crotonylated l - lysine
+crotonylated l - histidine
+hex1hexnac1neuac1 o - glycosylated threonine
+thiazole / thiazoline ring crosslinked residues
+2' - oxo - l - tryptophan
+o -  ( l - isoglutamyl )  - l - threonine  ( gln - thr )
+n6 - retinylidene - l - lysine  ( unspecified geometric isomer )
+stearoylated residue
+s - palmitoleylated residue
+o3 - acylated l - serine
+o3 - acylated l - threonine
+s - acylated l - cysteine
+s - stearoylated residue
+n6 - palmitoleyl - l - lysine
+n - palmitoleylated residue
+n6 - stearoyl - l - lysine
+n - stearoylated residue
+n - oleoylated residue
+oleoylated residue
+n6 - linoloyl - l - lysine
+n - linoloylated residue
+linoloylated residue
+n6 - arachidonoyl - l - lysine
+n - arachidonoylated residue
+arachidonoylated residue
+n6 - timnodonoyl - l - lysine
+n - timnodonoylated residue
+timnodonoylated residue
+n6 - cervonoyl - l - lysine
+n - cervonoylated residue
+cervonoylated residue
+5 - glutaminyl glutamic acid
+s -  ( cysteinyl - glycyl )  - l - cysteine
+urmylated lysine
+itraq4plex reporter + balance reagent acylated residue ,  average mass modification
+cis - peptidyl - l - proline
+trans - peptidyl - l - proline
+dhex1hex4hexnac5 n4 - glycosylated asparagine
+dhex2hex4hexnac5 n4 - glycosylated asparagine
+dhex1hex5hexnac3 n4 - glycosylated asparagine
+dhex1hex3hexnac6 n4 - glycosylated asparagine
+dhex1hex6hexnac3 n4 - glycosylated asparagine
+hex9hexnac2 n4 - glycosylated asparagine
+hex7hexnac2 n4 - glycosylated asparagine
+monomethylated l - histidine
+aminated residue
+crosslinked l - alanine residue
+crosslinked l - arginine residue
+crosslinked l - asparagine residue
+crosslinked l - aspartic acid residue
+crosslinked l - cysteine residue
+crosslinked l - glutamic acid residue
+crosslinked l - glutamine residue
+crosslinked glycine residue
+crosslinked l - histidine residue
+crosslinked l - isoleucine residue
+crosslinked l - leucine residue
+crosslinked l - lysine residue
+crosslinked l - methionine residue
+crosslinked l - phenylalanine residue
+crosslinked l - proline residue
+crosslinked l - serine residue
+crosslinked l - threonine residue
+crosslinked l - tryptophan residue
+crosslinked l - tyrosine residue
+crosslinked l - valine residue
+crosslinked d - asparagine residue
+crosslinked l - selenocysteine residue
+crosslinked n - formyl - l - methionine residue
+crosslinked d - phenylalanine residue
+crosslinked d - serine residue
+metal or metal cluster coordinated l - alanine residue
+metal or metal cluster coordinated l - aspartic acid residue
+metal or metal cluster coordinated l - cysteine residue
+metal or metal cluster coordinated l - glutamic acid residue
+metal or metal cluster coordinated l - glutamine residue
+metal or metal cluster coordinated l - histidine residue
+metal or metal cluster coordinated l - methionine residue
+metal or metal cluster coordinated l - serine residue
+metal or metal cluster coordinated l - selenocysteine residue
+metal or metal cluster coordinated l - lysine residue
+metal or metal cluster coordinated l - tyrosine residue
+metal or metal cluster coordinated l - arginine residue
+nitrosylated residue
+diacetylated residue
+diacetylated l - serine
+didehydrogenated and dehydrated residue
+4alpha - fmn modified residue
+6 - fmn modified residue
+8alpha - fmn modified residue
+brominated phenylalanine
+natural ,  standard ,  encoded residue substitution
+o -  ( phospho - 5' - uridine )  - l - serine
+o -  ( phospho - 5' - uridine )  - l - threonine
+o -  ( phospho - 5' - adenosine )  - l - serine
+s - methylbutanedioic acid - l - cysteine
+n6 -  ( 2 - hydroxyisobutanoyl )  - l - lysine
+n6 -  (  ( 3r )  - 3 - hydroxybutanoyl )  - l - lysine
+n6 - glutaryl - l - lysine
+n4 - methyl - d - asparagine
+modified d - asparagine residue

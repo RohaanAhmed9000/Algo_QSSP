@@ -1,0 +1,5428 @@
+tissues ,  cell types and enzyme sources
+osteoblastoma cell
+hek - 293 cell
+3t3 - l1 cell
+a - 172 cell
+a - 431 cell
+a - 549 cell
+a7r5 cell
+abdomen
+abdominal ganglion
+pectoral muscle
+abomasum
+amniotic cavity
+achene
+pancreatic acinar cell
+adductor longus
+adductor
+fruit peduncle
+colonic adenocarcinoma cell
+sw - 403 cell
+apical meristem
+colorectal adenocarcinoma cell
+gastric adenocarcinoma cell
+renal cell carcinoma cell
+sw - 480 cell
+root cap
+adenohypophysis
+medulla oblongata
+animal
+cerebellar cortex
+tear gland
+adrenal cortex
+y - 1 cell
+adrenal gland
+zona glomerulosa
+adrenal medulla
+zona fasciculata
+tendon sheath
+stoma
+albedo
+albumen gland
+pars recta
+zona reticulata
+aleurone layer
+alimentary canal
+alveolus
+alveolar sac
+amastigote
+amniochorion
+amnion
+amniocyte
+amniotic fluid
+wish cell
+amoebocyte
+carpel
+antenna
+antennal gland
+microglia
+anther
+reproductive system
+male reproductive system
+female reproductive system
+vermiform appendix
+appressorium
+cardiovascular system
+blood
+ascidian
+ascites
+trypanosomoid form
+mcf - 7 cell
+f - 9 cell
+ascospore
+astroblast
+astrocyte
+astrocytoma cell
+blood clot
+colon 26 - l5 cell
+lymphoma cell line
+upper epidermis
+b95 - 8 cell
+olfactory epithelium
+bacteroid
+balb / 3t12 - 3 cell
+sieve cell
+cervical ganglion
+basidiocarp
+bc3h1 cell
+plant epidermis
+berry
+bhk - 21 cell
+bile
+bile duct
+bladder
+microspore
+blast cell
+blastoderm
+blastospore
+blastula
+basophil
+neutrophil
+blood plasma
+blood platelet
+blood serum
+bloodstream form
+aorta
+bronchoalveolar system
+midbrain
+body wall
+bone
+bone marrow
+brain
+substantia nigra
+meninx
+brain stem
+microgametophyte
+branch
+breast
+breast cancer cell
+extensor
+walker carcinoma 256 cell
+brl - 3a cell
+bronchoalveolar lavage fluid
+brown adipose tissue
+aorta thoracica
+plant bud
+bulb
+bundle sheath
+corolla
+burkitt lymphoma cell
+c2c12 cell
+cecum
+carotid artery
+calyx
+cambium
+nci - h226br cell
+pileus
+fruit capsule
+embryonic structure
+epithalamus
+carcinoma cell
+bg - 1 cell
+adenoma cell
+colo - 205 cell
+cervical carcinoma cell
+lewis lung carcinoma cell line
+ht - 29 cell
+medullary thyroid carcinoma cell
+medullary breast carcinoma cell
+lobular carcinoma cell
+myeloblast
+small cell lung cancer cell
+ehrlich tumor carcinoma cell
+medullary carcinoma cell
+nasopharyngeal carcinoma cell
+rectal cancer cell
+endometrioid carcinoma cell
+caco - 2 cell
+thyroid cancer cell
+carcinosarcoma cell
+cardia
+cardiac muscle
+sense organ
+respiratory system
+carotid body
+nerve plexus
+cartilage
+tibial cartilage
+caryopsis
+corpus epididymis
+cauda epididymis
+caudate nucleus
+caudate putamen
+cell culture
+mh - 7777a cell
+balb / 3t3 cell
+plastron
+mh1c1 cell
+cell suspension culture
+myoblast
+teratocarcinoma cell
+cem - c1 cell
+gitter cell
+central nervous system
+c - 1300 cell
+centrum semiovale
+subarachnoid space
+cerebral hemisphere
+cerebellum
+cerebral cortex
+vein
+basal ganglion
+cerebral white matter
+cerebrospinal fluid
+cerebrovascular endothelial cell
+telencephalon
+inferior cervical ganglion
+cervical mucus
+vagina
+cho cell
+shoot tip
+chondroclast
+chondrocyte
+chondrosarcoma cell
+chorioallantois
+chorion
+ben cell
+choroid plexus
+chromaffin cell
+ciliary body
+clove
+p - 388d1 ( il - 1 )  cell
+cob
+cochlea
+coleoptile
+colon
+colon ascendens
+colon transversum
+ink gland
+apical bud
+colonocyte
+colostrum
+columnella muscle
+testicular cancer cell
+cone
+conidiophore
+head
+conidium
+corm
+cornea
+corneal epithelium
+corona
+cytotoxic t - lymphocyte
+coronary artery
+corpus allatum
+corpus luteum
+occipital lobe
+dermis
+wehi - 3 cell
+sw - 1088 cell
+cos - 7 cell
+cotton fibre
+cotyledon
+crop
+ring gland
+crown gall
+panc - 1 cell
+crypt
+crystalline style
+bundle sheath cell
+protophloem
+motoneuron
+hypodermis
+neuroepithelium
+ectoderm
+culture medium
+caulonema
+cv - 1 cell
+cyst
+plant cuticle
+cytotrophoblast
+l - 929 cell
+renal corpuscle
+decidua parietalis
+deciduoma cell
+caput epididymis
+dental follicle
+dental plaque
+dental pulp
+diaphragm
+diencephalon
+renal tubule
+stratum corneum
+digestive gland
+reticulum
+omasum
+disc
+don cell
+dormant eye
+nectary
+mca - rh7777 cell
+middle cervical ganglion
+posterior spinal root
+stratum granulosum
+urinary bladder cancer cell
+stratum lucidum
+duodenum
+duodenal mucosa
+ear
+egg
+egg white
+egg yolk
+bone cancer cell
+ehrlich ascites carcinoma cell
+electric organ
+elementary body
+elytron
+embryo
+embryonic axis
+kc cell
+emulsin
+endocardium
+endodermis
+mature ovarian follicle
+endosperm
+dld - 1 cell
+plasma cell
+endothelium
+aorta endothelium
+alveolar cell
+eahy 926 cell
+tooth
+enterocyte
+eosinophil
+ependymal epithelium
+epicotyl
+epidermis
+penis
+l - 428 cell
+osteosarcoma cell line
+epididymis
+epimastigote
+immature ovarian follicle
+cervical mucosa
+epiphyseal growth plate
+epiphysis
+epithelial cell
+epithelioma cell
+epithelium
+bile duct epithelium
+neostriatum
+respiratory epithelium
+neck
+connective tissue
+vaginal epithelium
+epitrochlearis
+erythrocyte
+erythrocytic stage
+erythroleukemia cell
+h69ar cell
+eue cell
+excretory gland
+corpus cardiacum
+exocrine pancreas
+stratum spinosum
+extensor digitorum longus
+stratum germinativum
+eye
+feces
+fat body
+adipocyte
+fat pad
+cerebral lobe
+fdcp - mix cl .a4 cell
+feather
+fetus
+fiber
+fibrillar flight muscle
+fibroblast
+3t6 - swiss albino cell
+jtc - 15 cell
+cho - k1 cell
+wi - 38 cell
+fibrosarcoma cell
+hsdm1c1 cell
+fiddlehead
+filament
+flagellate
+flavedo
+flexor digitorum longus
+floret
+flower
+flower bud
+fm3a cell
+fetal membrane
+allantois
+ovarian follicle
+foot
+forebrain
+forelimb muscle
+forestomach
+renal distal tubule
+frond
+frontal lobe
+fruit
+fruit body
+lower epidermis
+excretion
+mst cell
+gall bladder
+germinal disc
+gametophyte
+anterior lobe
+ganglion
+gastric cancer cell
+gastric epithelium
+gastric juice
+gastric fundus
+gastric gland
+pancreatic juice
+gastric corpus
+gastrocnemius
+foregut
+gastrodermis
+hindgut
+gastrointestinal tract
+primary oocyte
+germ
+haustorium
+ghost
+gill
+gingiva
+gizzard
+gland
+gleba
+glia
+a - 875 cell
+glioma cell
+glioblastoma cell
+jtc - 27 cell
+c6 glioma cell
+renal glomerulus
+gluteal muscle
+gonad
+germ cell
+gracilis muscle
+nectar
+alveolar cell type ii
+granulocyte
+pollen mother cell
+granulosa cell
+ground meristem
+guard cell
+gut
+prostate gland lobe
+anal plate
+lung cancer cell
+hacat cell
+peripheral blood
+hair follicle
+hair root
+germ layer
+harderian gland
+hatching gland
+haustorial mother cell
+posterior lobe
+heart
+heart valve
+hel cell
+hela cell
+hela - s3 cell
+exoerythrocytic stage
+hematopoietic system
+hemocyte
+hemolymph
+artery
+hematopoietic cell
+hepatocyte
+b - 16 cell
+morris hepatoma 3924a cell
+hepatoma cell line
+eye cancer cell
+blood cancer cell
+mopc - 315 cell
+pancreatic cancer cell
+intraocular melanoma cell
+colonic cancer cell
+c 108 cell
+ll / 2  ( llc1 )  cell
+primary meristem
+alzheimer disease specific cell type
+n1 - s1 cell
+adrenal gland cancer cell
+yoshida ah - 130 cell
+liver cancer cell
+fdcp - 1 cell
+p - 19 cell
+hepatopancreas
+b5 / 589 cell
+hep - g2 cell
+heterocyst
+hippocampus
+histiocyte
+adenocarcinoma cell
+honey
+lk - 63 cell
+htc cell
+hepatoma cell
+husk
+hybridoma cell
+hypha
+hypocotyl
+hypothalamus
+corpus callosum
+i - cell
+ileal lavage fluid
+ileum
+iliopsoas muscle
+hit - t15 cell
+inflorescence
+ink
+inner ear
+insulinoma cell
+intestine - 407 cell
+integument
+yellow bone marrow
+internode
+interphotoreceptor matrix
+interrenal cell
+intersegmental muscle
+intestinal gland
+colon descendens
+intestinal mucosa
+intestinal juice
+colon sigmoideum
+left colon
+intestine
+right colon
+endocrine pancreas
+small intestine
+iris
+ciliary muscle
+iris sphincter muscle
+jejunum
+uterine adenocarcinoma cell
+juice
+mycelial cord
+jurkat cell
+nasopharynx
+juxtaglomerular tumor cell
+k - 562 cell
+kb cell
+lovo cell
+keratinocyte
+kernel
+kg - 1 cell
+kidney
+hindbrain
+metencephalon
+bhk 165 - 23 cell
+sw - 620 cell
+fibroadenoma cell
+g - 402 cell
+blood - lymph
+kidney cancer cell
+km - 3 cell
+koji culture
+kupffer cell
+kurloff cell
+l - 1210 cell
+lacquer
+langerhans cell
+large intestine
+larva
+secondary spermatocyte
+latex
+glioma cell line
+laticifer
+leaf
+leaf axil
+leaf base
+pericardium
+leaf epidermis
+leaf lamina
+leg
+lens
+hematopoietic stem cell
+rpmi - 8226 cell
+brown pearce carcinoma cell
+carcinoid cell
+endocarp
+acute lymphoblastic leukemia cell
+ku - 812 cell
+exocarp
+myelocyte
+sporophyte
+ccrf - cem cell
+hl - 60 cell
+lymphoblastic leukemia cell line
+myeloid leukemia cell line
+myotome
+lymphocytic leukemia cell
+lewis lung carcinoma cell
+sporangiospore
+p - 388 cell
+sporozoan form
+plant ovary
+leukocyte
+lymph vessel
+lymphoid tissue
+lewy body
+leydig cell
+plasmodium
+myelencephalon
+liver
+llc - pk1 cell
+collecting duct
+lung
+exocrine gland
+mesenteric lymph node
+infundibulum
+submandibular lymph node
+oligodendroglia
+macroglia
+lymphoblast
+lymphoblastoid cell line
+lymphoblastoma cell
+lymphocyte
+b - lymphocyte
+adenoid
+pulmonary artery
+mesenteric artery
+alveolar cell type i
+intestinal epithelium
+t - lymphocyte
+pancreatic beta cell
+lymph node
+lymphoma cell
+70z / 3 cell
+ca - 46 cell
+bw - 5147 cell
+sh - sy5y cell
+l - 5178 - y cell
+p - 1798 cell
+bewo cell
+lymphosarcoma cell
+endoderm
+macrophage
+alveolar macrophage
+pancreatic delta cell
+j - 774a .1 cell
+pancreatic pp cell
+ic - 21 cell
+interrenal gland
+malpighian tubule
+ovcar - 3 cell
+pt - k1 cell
+caov - 3 cell
+mda - mb - 231 cell
+mammary gland
+spinal column
+c127i cell
+nipple
+cerebral gray matter
+mantle
+mantle cavity
+throat
+marrow
+mast cell
+mastocytoma cell
+rbl - 2h3 cell
+detroit - 562 cell
+mdbk cell
+mdck cell
+meconium
+mesoderm
+nose
+umbilical artery
+megagametophyte
+megakaryocyte
+meiotic cell
+melanocyte
+melanoma cell
+amelanotic melanoma cell
+meristem
+mesangial cell
+zygote
+lymph
+mesocarp
+mesophyll
+metacestode
+chrb - 30 cell
+heart ventricle
+midgut
+tibialis
+anterior spinal root
+tibialis posterior
+milk
+milk fat
+spinal nerve
+rag cell
+molt - 4 cell
+molting gland
+n20 .1 cell
+monocyte
+mononuclear cell
+lateral ventricle
+morris hepatoma 7777 cell
+spinal root
+molting fluid
+mucosa
+muscle
+muscle fibre
+mycelial felt
+ntera - 2 cell
+mycobiont
+mycorrhiza
+myelin
+myelin membrane
+bag cell neuron
+myeloma cell
+myelin sheath
+myocardium
+plant vessel
+atrium
+myometrium
+myrosin cell
+myxospore
+nasal mucosa
+nasal polyp
+natural killer cell
+nauplius
+nc37 cell
+needle
+nematocyst
+8305c cell
+neocortex
+cal - 27 cell
+nephridium
+nephron
+nerve
+ophthalmic nerve
+nerve trunk
+limbic system
+neural retina
+neuroblast
+neuroblastoma cell
+n18tg2 cell
+imr - 32 cell
+lan - 5 cell
+neurofibrillary tangle
+neurohypophysis
+neuron
+basal cell
+juice vesicle
+cal - 33 cell
+ng - 108 - 15 cell
+nih - 3t3 cell
+cal - 51 cell
+nt2 / d1 cell
+skov - 3 cell
+novikoff hepatoma cell
+nrk cell
+nuchal ligament
+nurse cell
+nymph
+nape
+spermatogonium
+esophagus
+ut - 7 cell
+olfactory bulb
+oligodendrocyte
+oligodendroglioma cell
+oocyte
+optic lobe
+optic nerve
+osteoclast
+osteoclastoma cell
+osteosarcoma cell
+saos - 2 cell
+hep - 3b cell
+respiratory mucosa
+ovary
+hep - 2 cell
+cmk cell
+panc - 3 cell
+oviduct
+ovotestis
+p - 388d1 cell
+p - 815 cell
+pachytene cell
+palisade parenchyma
+pancreas
+taste bud
+pancreatic alpha cell
+pancreatic islet
+paneth cell
+rbl - 1 cell
+paramyeloblast
+gametocyte
+parathyroid gland
+paraveinal mesophyll
+plant parenchyma
+acute megakaryocytic leukemia cell line
+parietal lobe
+schizont
+parotid gland
+amnion epithelial cell
+pelvis
+ags cell
+pc - 12 cell
+callus
+cerebellar purkinje cell
+pedal ganglion
+pedal muscle
+mo - t cell
+pericardial fluid
+pericarp
+periodontal ligament
+periodontium
+periosteum
+ovary cancer cell
+retinal rod
+peripheral blood mononuclear cell
+polymorphonuclear leukocyte
+peripheral nerve
+peripheral nervous system
+perisperm
+j774 .2 cell
+peritoneal fluid
+cardiac purkinje cell
+peritoneal macrophage
+retinal cone
+sensory cell
+peritrophic membrane
+peritubular cell
+petal
+petiole
+amygdala
+adult
+phagocyte
+pharate pupa
+pharyngeal muscle
+pharynx
+nd - 1 cell
+pheochromocytoma cell
+myeloid leukemia cell
+neural tube
+phloem
+photoreceptor cell
+pc - 3 cell
+ppc - 1 cell
+phrenic nerve
+phycobiont
+tsu - pr1 cell
+hippocampal pyramidal layer
+pineal gland
+pinealocyte
+pitcher
+pith
+trigeminal nerve
+hypophysis
+trigeminal nucleus
+pituitary gland tumor cell
+att - 20 cell
+placenta
+trophoblast
+molt - 3 cell
+mm46 cell
+mh134 cell
+plantlet
+vascular system
+embryonic stem cell
+plasmacytoma cell
+mpc - 11 cell
+mouth
+axenic culture
+kato - iii cell
+wehi - 231 cell
+pre - b acute lymphoblastic leukemia cell
+pod
+lymphoid cell
+pollen
+sorocarp
+blastocyst
+b - cell acute lymphoblastic leukemia cell
+pons
+blood vessel
+skeletal muscle
+cranial nerve
+insular cortex
+t - cell acute lymphoblastic leukemia cell
+preadipocyte
+hct - 116 cell
+prepupa
+preputial gland
+prepuce
+primary leaf
+primary spermatocyte
+floral primordium
+proboscis
+p3x63ag8 cell
+procambium
+cauline leaf
+procyclic form
+promastigote
+primary culture
+prostasome
+prostate gland
+prostate gland cancer cell
+bhk cell
+protonema
+protoxylem
+proventriculus
+somatic embryo
+pseudoplasmodium
+psoas
+pulp
+pupa
+chloronema
+pyloric region
+ball - 1 cell
+quadriceps
+molt - 4f cell
+radicle
+raji cell
+ray cell
+node
+rectal gland
+rectum
+red bone marrow
+chorionic villus
+apocrine gland
+reh cell
+megakaryoblast
+renal artery
+renal cortex
+renal medulla
+rennet
+3t3 - f442a cell
+resting cell
+spore
+reticulate body
+reticulocyte
+reticuloendothelial system
+retina
+endothelial cell
+retinal pigment epithelium
+retinoblastoma cell
+rhizophore
+idioblast
+rhizome
+primary root
+secondary root
+rind
+rinm5f cell
+receptacle
+roe
+root
+faza cell
+root nodule
+root tip
+rootlet
+c - 127 cell
+rumen
+rumen epithelium
+sf - 21 cell
+s - 180 cell
+atrial gland
+ebtr  ( nbl - 4 )  cell
+rosette
+saliva
+salivary gland
+salt gland
+rt4 - d6p2t cell
+sarcocarp
+sarcoma cell
+larynx
+sgs cell
+rous sarcoma cell
+sartorius
+scape
+scapula
+meb - 4 cell
+schwann cell
+sciatic nerve
+sclerenchyma
+scutellum
+second instar larva
+mkn - 45 cell
+seed
+seed coat
+seedling
+imr - 90 cell
+semen
+trigeminal ganglion
+seminal plasma
+plant embryo
+seminal vesicle
+seminiferous tubule
+semitendinosus
+sensillum
+sertoli cell
+serum
+sf - 9 cell
+shell gland
+shoot
+urinary tract
+flexor digitorum profundus
+sieve tube
+t - 47d cell
+silique
+silk gland
+liver sinusoidal endothelial cell
+tibia
+skin
+sweat
+parasympathetic ganglion
+flexor
+smooth muscle
+abdominal muscle
+friend erythroleukemia cell line
+spinal ganglion
+soleus
+bmn cell
+somatic cell
+spadix
+spear
+leukemia cell
+sperm flagellum
+spermatheca
+spermatid
+spermatocyte
+pollen tube
+spermatozoon
+spike
+spinal cord
+bmn4 - ir cell
+spleen
+ht - 1080 cell
+mitral cell
+femur
+sporangiophore
+skin cancer cell
+sporangium
+adductor brevis
+squamous cell carcinoma cell
+sporocarp
+sporophore
+sporozoite
+sporulated oocyst
+cranium
+sprout
+sputum
+basal cell carcinoma cell
+stele
+stem
+bark
+sternum
+stigma
+stipe
+stipule
+stolon
+stomach
+gastric mucosa
+tuberous root
+corpus striatum
+adductor magnus
+style
+subcutis
+sublingual gland
+submandibular gland
+glomerular layer
+submandibular ganglion
+external plexiform layer
+lncap cell
+bph - 1 cell
+superior cervical ganglion
+cholangiocarcinoma cell
+granule cell layer
+calvarium
+gastrinoma cell
+sweat gland
+du - 145 cell
+sympathetic ganglion
+papilloma cell
+syncytiotrophoblast
+extensor digitorum brevis
+synovial tissue
+synovia
+bronchus
+s - 49 cell
+a3 cell
+extensor digitorum communis
+adult t - cell lymphoma cell
+t - 24 cell
+tachyzoite
+tadpole
+tail
+nrp - 152 cell
+tapetum
+vomeronasal nerve
+nrp - 154 cell
+telson
+temporal lobe
+tendon
+tentacle
+decidua
+cmt93 / 69 cell
+olfactory lobe
+testis
+thalamus
+thallus
+thorax
+thp - 1 cell
+iris dilator muscle
+thymocyte
+thymus
+mandibular nerve
+thigh
+maxillary nerve
+thyroid gland
+mesentery
+tibial chondrocyte
+tibialis anterior
+alveolar bone
+culture condition:tissue culture
+tongue
+tonsil
+trachea
+tracheal mucosa
+mesenchyme
+trichome
+trophosome tissue
+trophozoite
+trypomastigote
+tay - sachs disease specific cell type
+tuber
+urogenital ridge
+gastrula
+ht - 144 cell
+neuroendocrine tumor cell
+ureter
+gh3 cell
+twig
+u - 937 cell
+primary cell
+umbilical cord
+uredospore
+urinary bladder
+urine
+uropygial gland
+uterine cervix
+uterine endometrium
+uterine lavage
+uterus
+v - 79 cell
+urethra
+vas deferens
+vascular bundle
+mammary epithelium
+vascular tissue
+mononuclear phagocyte
+vegetative cell
+arm
+mycelium
+vena cava
+venom
+venom gland
+marrow cell
+brain ventricle
+vero cell
+tail bud
+olfactory cortex
+forearm
+visceral hump
+vitelline membrane
+vitreous humor
+nasal nerve
+detrusor
+thymoma cell
+thymic carcinoma cell
+white adipose tissue
+hip
+apocrine sweat gland
+white prepupa
+whole plant
+wing
+wing disc
+pericycle
+bt - 20 cell
+mesocotyl
+xylem
+epidermal cell
+yolk sac
+peritoneum
+blastomere
+zoospore
+mitotic cell
+photophore
+zygotene cell
+meynert's basal nucleus
+plant
+ctll - 2 cell
+widr cell
+nervous system
+muscular system
+skeletal system
+adipose tissue
+endocrine gland
+whole body
+other source
+viscus
+limb
+trunk
+fungus
+plumule
+perivascular astrocyte
+iec - 6 cell
+renal proximal tubule
+tear
+tendril
+hair
+hip joint
+thoracic leg
+blastodisc
+loin
+radula
+pes anserinus
+morula
+umbilical vein
+tooth germ
+imago
+biliary epithelium
+glomerular epithelium
+ba / f3 cell
+fao cell
+wil - 2 cell
+wil2 - ns cell
+wil2 - s cell
+pap - ht25 cell
+bsc - 40 cell
+glioblastoma cell line
+sw - 948 cell
+sw - 48 cell
+sw - 1417 cell
+cos - 1 cell
+parenchyma
+goblet cell
+pronephros
+mesonephron
+metanephron
+chronic myeloid leukemia cell
+acute myeloid leukemia cell
+chronic lymphocytic leukemia cell
+sepal
+labial gland
+dami cell
+yoshida ah - 66 cell
+ls - 174t cell
+661w cell
+rcho - 1 cell
+sf - 767 cell
+somite
+stamen
+daudi cell
+aerial mycelium
+vastus lateralis
+rectus femoris
+ht - 29 - mtx cell
+ht - 29 g cell
+mda - mb - 435 cell
+mda - mb - 436 cell
+mda - mb - 361 cell
+mda - mb - 468 cell
+erythroblast
+articular cartilage
+brain cancer cell
+choriocarcinoma cell
+esophageal cancer cell
+extraocular muscle
+ejaculatory duct
+es - d3 cell
+t - 98g cell
+g - 361 cell
+jar cell
+mel - ho cell
+mel - juso cell
+kln205 cell
+mrc - 5 cell
+pa - 1 cell
+meniscus
+osteoblast
+u - 266 cell
+wm - 266 - 4 cell
+mg - 63 cell
+sapling
+splenocyte
+sw - 1116 cell
+cuticle
+epicuticle
+exocuticle
+endocuticle
+eyestalk
+reticulum trabeculare
+sclera
+swim bladder
+feather calamus
+ls - 180 cell
+sw - 1736 cell
+colorectum
+dhl - 9 cell
+f28 - 7 cell
+sk - n - sh cell
+fibroblastoma cell
+fibroma cell
+femoral artery
+laryngeal cancer cell
+laryngeal muscle
+glottis
+epiglottis
+left ventricle
+right ventricle
+leiomyosarcoma cell
+lens cortex
+lens nucleus
+leptomeninx
+pia mater
+arachnoid mater
+dura mater
+blastema
+bud
+limb bud
+bronchial bud
+liver bud
+lung bud
+vascular bud
+wing bud
+ureteric bud
+lip
+longissimus
+longissimus capitis
+longissimus cervicis
+longissimus thoracis
+sacrospinalis
+female cone
+male cone
+nerve cord
+abscission zone
+aerial part
+aerial root
+alkaline gland
+allantoic fluid
+ameloblast
+hepatoblastoma cell line
+hb611 cell
+hepatoblastoma cell
+hmb - 2 cell
+hmc - 1 cell
+huh - 6 cell
+j - 82 cell
+mel ei cell
+mel ju cell
+mel im cell
+mel wei cell
+pc - 12d cell
+schneider - 2 cell
+th1 cell
+th2 cell
+anus
+anal sac
+byssus
+antler
+joint
+asynchronous muscle
+cochlear ganglion
+axillary bud
+b - cell lymphoma cell
+spiral organ
+cochlear duct
+modiolus
+blastopore
+archenteron
+olfactory gland
+bulbourethral gland
+bursa of fabricius
+cancellous bone
+carapace
+left atrium
+right atrium
+twitch muscle
+vallate papilla
+cnidoblast
+coelom
+coelomic fluid
+corpora quadrigemina
+melanophore
+dorsal lip
+dorsum
+duodenal adenocarcinoma cell
+ectoplacental cone
+eggshell
+bmn4 - dr cell
+embryoid body
+claw
+floor plate
+sternal cartilage
+enamel organ
+enamel epithelium
+ependymocyte
+floral meristem
+inflorescence meristem
+perianth
+tepal
+forelimb
+mesosperm
+glucagonoma cell
+gastric antrum
+gynoecium
+cardiac purkinje fiber
+hemangioendothelioma cell
+histiocytic lymphoma cell
+pars tuberalis
+hypopharynx
+incisor
+jugular vein
+renal inner medulla
+palpus
+mandible
+jaw
+mandibular condyle
+mandibular ramus
+invertebrate mandible
+cheek
+masseter
+meningioma cell
+medulloblastoma cell
+ocellus
+molaris
+myotube
+nasal vestibule
+neonate
+neural arch
+neural crest
+neural plate
+neurula
+neurosecretory cell
+notochord
+odontoblast
+ciliary epithelium
+an3ca cell
+olfactory organ
+oocyst
+oral cancer cell
+oral epithelium
+plant ovule
+megasporangium
+microsporangium
+palate
+oxyntic cell
+peritoneal cavity
+pulvinus
+peyer's gland
+branchial arch
+pars distalis
+pars intermedia
+neural lobe
+pleopod
+pleura
+portal vein
+tectum mesencephali
+preoptic area
+promyelocytic leukemia cell
+prothallium
+pulmonary vein
+retinal ganglion cell
+rhabdomyosarcoma cell
+retrocerebral complex
+root hair
+saccule
+visceral mass
+utricle
+saphenous vein
+scalp
+sclerotium
+seminiferous epithelium
+slow twitch muscle fiber
+fast twitch muscle fiber
+leaf tip
+stellate ganglion
+stem nodule
+stria vascularis
+subcommissural organ
+subesophageal ganglion
+suprachiasmatic nucleus
+synovium
+synovial sarcoma cell
+t - cell lymphoma cell
+tail fin
+tapetum lucidum
+choroid
+tassel
+thoracic ganglion
+sympathetic nervous system
+parasympathetic nervous system
+sympathetic chain
+vertebral ganglion
+serous gland
+tooth bud
+dental papilla
+trophectoderm
+parietal ganglion
+pleural ganglion
+cerebral ganglion
+tooth enamel
+bronchial mucosa
+urophysis
+portio vaginalis cervicis
+portio supravaginalis cervicis
+vascular endothelium
+venom duct
+vestibular labyrinth
+visual cortex
+dermal papilla
+wart
+yolk sac cancer cell
+bxpc - 3 cell
+nucleus accumbens
+body wall muscle
+aspc - 1 cell
+pk - 15 cell
+nr - 6 cell
+occipital pole
+olfactory tubercle
+ovca - 5 cell
+synganglion
+alphatn4 - 1 cell
+lens epithelium
+frtl - 5 cell
+psoas major
+psoas minor
+h9c2 cell
+rpmi - 8402 cell
+sw - 626 cell
+ml - 1 cell
+ml - 2 cell
+primordium
+ftc - 133 cell
+rko cell
+rko - e6 cell
+rko - as - 45 - 1 cell
+ring stage
+iic9 cell
+gastrointestinal endocrine cell
+idh4 cell
+mbn - 2 cell
+stationary phase culture
+growth phase culture
+death phase culture
+lag phase culture
+logarithmic phase culture
+su .86 .86 cell
+tail muscle
+cephalothorax
+ns - 1 cell
+mda - mb - 453 cell
+n1e - 115 cell
+nci - h441 cell
+m5076 cell
+lim1215 cell
+lim2412 cell
+lim1863 cell
+tube foot
+ehrlich lettre ascites carcinoma cell
+compound eye
+ommatidium
+aristotles lantern
+longissimus lumborum
+wegli18 cell
+ar4 - 2j cell
+atdc - 5 cell
+a20 cell
+bjab cell
+bt - 474 cell
+brl cell
+bl - 60 cell
+bw - 5147 .3 cell
+skw6 .4 cell
+rl - 19 cell
+u2 - os cell
+mcf - 10a cell
+morris hepatoma 7316a cell
+corneocyte
+h9 cell
+hut - 78 cell
+myofibroblast
+hrt - 18 cell
+jurkat e - 6 .1 cell
+huvec cell
+huh - 7 cell
+hos - te85 cell
+hpb - all cell
+tanycyte
+median eminence
+ref - 52 cell
+xlt - 15 cell
+mc3t3 - e1 cell
+peer cell
+hummec cell
+mfm - 223 cell
+t / g ha - vsmc cell
+carcass
+c - 33a cell
+697 cell
+nci - h660 cell
+tby - 2 cell
+hpec cell
+neuro - 2a cell
+oc cell
+anal canal
+mucous gland
+sebaceous gland
+sebum
+chemostat culture
+peptic chief cell
+myocytoma cell
+arteriole
+hmcb cell
+ccp - 2 cell
+ccp - 8 cell
+ccp - 7 cell
+sw - 1353 cell
+ln - 229 cell
+ln - 18 cell
+alva - 41 cell
+aggregation stage
+culture condition:antigen - presenting cell
+artery wall
+tunica externa vasorum
+tunica media vasorum
+tunica intima vasorum
+as - 30d cell
+b16 - f10 cell
+bm - 1604 cell
+c81 - 61 cell
+plant reproductive system
+corpus cavernosum clitoridis
+corpus cavernosum penis
+clitoris
+hbe - 1 cell
+hsc - 3 cell
+hsc - 4 cell
+j - 96 cell
+myoma cell
+rnk - 16 cell
+t - 84 cell
+efo - 27 cell
+sk - ut - 1 cell
+u - 251mg cell
+u - 87mg cell
+m - 1 myeloid leukemia cell
+osteocyte
+kmst - 6 cell
+kmst - 6 / t cell
+kms - 6 cell
+dendritic cell
+ecv - 304 cell
+frond tip
+capillary
+spermatozoid
+colo - 320 cell
+slug stage
+chang cell
+osteogenic cell
+preosteoblast
+seminal vesicle fluid
+dunn cell
+xd - 6 cell
+siphon
+lung adenocarcinoma cell
+non - small cell lung cancer cell
+large cell carcinoma cell
+bronchioalveolar carcinoma cell
+bronchogenic carcinoma cell
+colo - 720l cell
+stromal cell
+venom apparatus
+venom sac
+stinger
+scent gland
+wax gland
+ks - imm cell
+kaposi's sarcoma cell
+squamous epithelium
+pavement epithelium
+stratified epithelium
+mesenchymal epithelium
+osteomalacia cell
+oncogenic osteomalacia cell
+hepatic osteomalacia cell
+puerperal osteomalacia cell
+renal tubular osteomalacia cell
+senile osteomalacia cell
+subdural space
+perilymphatic space
+anterior chamber of the eye
+chamber of the eye
+posterior chamber of the eye
+vitreous chamber of the eye
+ependymoma cell
+cal - 72 cell
+endophytic retinoblastoma cell
+exophytic retinoblastoma cell
+ganglioglioma cell
+ganglioneuroma cell
+ganglioneurofibroma cell
+nasal glioma cell
+nasal cavity
+pharyngeal cavity
+tympanum
+middle ear
+outer ear
+multiple myeloma cell
+mopc - 104e cell
+mopc - 173 cell
+be ( 2 )  - m17 cell
+perisympathetic organ
+neurohemal organ
+submucosa
+tela submucosa bronchiorum
+tela submucosa esophagi
+tela submucosa gastris
+tela submucosa intestini crassi
+tela submucosa intestini tenuis
+tela submucosa pharyngis
+tela submucosa recti
+tela submucosa tracheae
+tela submucosa tubae uterinae
+tela submucosa vesicae urinariae
+spikelet
+pyloric cecum
+pyloric stomach
+cardiac stomach
+primitive endoderm
+ampulla
+water vascular system
+u - 373mg cell
+u - 138mg cell
+tx3868 cell
+sk - mel - 1 cell
+sk - mel cell
+sk - mel - 28 cell
+sk - mel - 3 cell
+sk - mel - 30 cell
+sk - mel - 5 cell
+ins - 1 cell
+nb - 4 cell
+miapaca - 2 cell
+miapaca cell
+hs - 683 cell
+rpmi - 7931 cell
+bcs - tc2 cell
+brin - bd11 cell
+cem - vcr r cell
+acute lymphoblastic leukemia cell line
+cal - 62 cell
+type ii intestinal metaplasia disease specific cell type
+gas bladder
+gill raker
+gill filament
+gill raker sieve
+gill arch
+pharyngobranchial
+epibranchial
+ceratobranchial
+hypobranchial
+endochondral bone
+huelle cell
+cleistothecium
+apothecium
+ascocarp
+ascus
+gymnothecium
+perithecium
+basidium
+basidiospore
+mushroom
+juvenile
+anterior commissure
+lox cell
+abftl - 6 cell
+tubercle
+parenchymal cell
+llc - rk1 cell
+pro - 5 cell
+pr cell
+hmepc cell
+184a1n4 cell
+184 - b5 cell
+hek - 293t cell
+95d cell
+95c cell
+fibre tract
+scc12b cell
+scc - 13 cell
+nhk cell
+a10 cell
+m22 cell
+oc / cde22 cell
+hct - 15 cell
+palatine uvula
+k6h6 / b5 cell
+nci - h596 cell
+siha cell
+ln - 319 cell
+ln - 428 cell
+culture supernatant
+chalazal cell
+adrenocortical carcinoma cell
+15pc3 cell
+hle - b3 cell
+bract
+bw / t200 -  cell
+cheek pouch
+culture fluid
+calu - 6 cell
+ovarian cumulus cell
+ectomycorrhiza
+endomycorrhiza
+endectomycorrhiza
+exodermis
+eyelid
+hypanthium
+flower stalk
+globus pallidus
+globus pallidus lateralis
+globus pallidus medialis
+cervical canal
+nucleus lentiformis
+lamina medullaris medialis corporis striati
+subthalamic nucleus
+goto cell
+vas efferens
+hct - 8 cell
+heterotroph
+heterotrophic cell
+autotroph
+autotrophic cell
+hs - 68 cell
+plant pedicel
+ventriculus
+microplasmodium
+honey sac
+mle - 12 cell
+jeg - 3 cell
+mcf - 7 / 2a cell
+mcs - 2 cell
+merozoite
+ileocecum
+bht - 101 cell
+lateral hypodermal chord
+immobilized cell
+melanotroph
+j - 774 cell
+lignifying cell
+yzi - 1s cell
+pt - k2 cell
+nci - h157 cell
+min - 6 cell
+pogs - 5 cell
+pogrs - 1 cell
+glhr - 15 cell
+gfshr - 17 cell
+sp2 / 0 - ag14 cell
+flagellum
+sakrtls 12 .1 cell
+solid substrate culture
+podocyte
+capsular epithelium
+renal glomerular capsule
+inferior olivary complex
+oliva
+hilum nuclei olivaris inferioris
+mucinous cystadenoma cell
+inferior mesenteric artery
+superior mesenteric artery
+protoscolex
+scolex
+aro cell
+yeast form
+myoepithelium
+myoepithelial cell
+mammary myoepithelial cell
+mature cell
+immature cell
+satellite cell
+supporting cell
+stellate cell
+slow muscle
+fast muscle
+skeletal muscle fiber
+cardiac muscle fiber
+intermediate muscle fiber
+eccrine sweat gland
+merocrine gland
+holocrine gland
+breast apocrine carcinoma cell
+stem cortex
+ventral nerve cord
+dorsal nerve cord
+lamina propria
+plhc - 1 cell
+mono - mac - 6 cell
+arpe - 19 cell
+plant collar
+leaf collar
+bradyzoite
+tarsal bone
+electrocyte
+hindlimb
+fibula
+metatarsal bone
+toe
+hallux
+digitus secundus pedis
+digitus tertius pedis
+digitus quartis pedis
+digitum minimus pedis
+talus
+calcaneal bone
+navicular bone
+cuboid bone
+lateral cuneiform bone
+intermediate cuneiform bone
+medial cuneiform bone
+osteochondroma cell
+pancreatic duct
+pancreatic ductal carcinoma cell
+gastric pit
+chondroblastoma cell
+extravillous trophoblast
+cytotrophoblastic cell
+3y1 - b clone 1 cell
+hr - 3y1 cell
+colleterial gland
+macroplasmodium
+neuroepithelioma cell
+glioblastoma multiforme cell
+anaplastic astrocytoma cell
+bronchiole
+duodenal gland
+sr - 3y1 cell
+pilocytic astrocytoma cell
+juvenile pilocytic astrocytoma cell
+mkn - 28 cell
+mkn - 7 cell
+mkn - 74 cell
+mkn - 1 cell
+glc - 4 cell
+glc - 4 / adr cell
+glc - 4 / mito cell
+glc - 4 / cddp cell
+u - 1285 cell
+u - 1568 cell
+u - 1285dox cell
+sgc - 7901 cell
+n - 27 cell
+dc - 3f cell
+dc - 3f / adx cell
+nih - 3t3 - g185 cell
+prostate gland epithelium
+pnt - 2 cell
+oln - 93 cell
+feather rachis
+oviduct epithelium
+os - rc - 2 cell
+ymb - 1 cell
+eol - 1 cell
+eosinophilic leukemia cell line
+spermary
+nrk - 52e cell
+nrk - 49f cell
+giant cell carcinoma cell
+pg cell
+pg - be1 cell
+pg - cl3 cell
+pg - lh7 cell
+nci - h929 cell
+helper t - lymphocyte
+nci - h292 cell
+sk - br - 3 cell
+monocytic leukemia cell
+eosinophilic leukemia cell
+mesothelium
+mesothelioma cell
+msto - 211h cell
+chop cell
+kyse - 150 cell
+ha22t / vgh cell
+lec15 .1 cho cell
+huo - 3n1 cell
+prespore
+dorsal raphe nucleus
+myenteric plexus
+enteric plexus
+dogiel's corpuscle
+cx - 1 cell
+pericyte
+tetrad of microspores
+tetrad of pollen
+basal forebrain
+diagonal band
+medial septum
+substantia innominata
+basal telencephalon
+anterior hypothalamic nucleus
+dorsal hypothalamic nucleus
+medial dorsal nucleus of thalamus
+median nucleus of thalamus
+anterior paraventricular nucleus
+posterior paraventricular nucleus
+nucleus parataenialis
+rhomboid nucleus
+nucleus reuniens
+paraventricular nucleus
+posterior hypothalamic nucleus
+posterior nuclear complex of thalamus
+ventral lateral complex of thalamus
+ventrobasal complex of thalamus
+nucleus ventralis posterolateralis thalamus
+nucleus ventralis posteromedialis thalamus
+ventral nucleus of thalamus
+ventral anterior nucleus of thalamus
+ventral intermediate nucleus of thalamus
+ventral medial complex of thalamus
+ventromedial hypothalamic nucleus
+infundibular nucleus
+dorsomedial nucleus of intermediate hypothalamus
+endopeduncular nucleus
+paraventricular nucleus of hypothalamus
+posterior periventricular nucleus
+plume
+lateral tuberal nucleus
+gonadotrophic cell
+interventricular septum
+columnar cell
+atrial appendage
+lupulin gland
+metacyclic form
+vestimentum
+ch12 .lx cell
+mesangium
+cerebral gyrus
+dentate gyrus
+fasciolar gyrus
+arachnoid barrier layer
+companion cell
+arachnoid trabecula
+trabecula
+kinetoplastid
+protozoan form
+anaplastic large cell lymphoma cell
+enteric nervous system
+autonomic nervous system
+myenteron
+corticotropic cell
+myelomonocytic leukemia cell
+pinnule
+leaflet
+ewing's sarcoma cell
+cn1 .4 cell
+odontoclast
+fl - 18 cell
+fl - 218 cell
+fl - 318 cell
+diffuse large b - cell lymphoma cell
+hbl - 1 cell
+hbl - 2 cell
+hek - 293a cell
+cementum
+hbl - 4 cell
+hbl - 5 cell
+hbl - 7 cell
+hbl - 8 cell
+hbl - 9 cell
+hbl - 10 cell
+kobayashi cell
+hbl - 11 cell
+hbl - 3 cell
+morris hepatoma 7800c1 cell
+feather vane
+bnl cl .2 cell
+llc - pk - 1 - gr101 cell
+femoral muscle
+alveolar wall
+mcf - 12a cell
+mcf - 12f cell
+kbm - 5 cell
+ke - 37 cell
+bt - 549 cell
+a - 2780 cell
+ch - 1 cell
+ach - 2 cell
+nci - h1299 cell
+k - 562adr cell
+hose cell
+hose - a cell
+hose - b cell
+iner - 37 cell
+iner - 51 cell
+ovca - 2 cell
+ovca - 4 cell
+a - 1847 cell
+ovca - 420 cell
+ovca - 429 cell
+ovca - 432 cell
+ovca - 433 cell
+iner - 51 / psc - 1 cell
+colo - 201 cell
+co - 403 cell
+caco - 2 / tc7 cell
+mef cell
+tera - 2 cell
+nt2 - n cell
+igrov - 1 cell
+umr - 106 cell
+umr - 108 cell
+feather barbs
+iec - cf7 cell
+meg - 01 cell
+hfl - 1 cell
+ymb - 1 - e cell
+wrl - 68 cell
+we - 480 cell
+g - 401 cell
+nci - h295 cell
+nci - h295r cell
+h - 7721 cell
+hey cell
+hl - 60 / vinc cell
+dc - 3f / s16 cell
+dc - 3f / 9 - oh - e cell
+ddt1 - mf - 2 cell
+nugc - 2 cell
+nugc - 3 cell
+rba cell
+rba - 2 cell
+raw / lr5 cell
+rth - 149 cell
+11 - 9 - 1 - 4 cell
+tc - 71 cell
+te - 671 cell
+glial cell
+sk - lms - 1 cell
+vomeronasal organ
+astroglial cell
+pseudopodium
+axopodium
+filopodium
+lobopodium
+reticulopodium
+fascia dentata
+turion
+thyroid nodule
+ejaculatory duct epithelium
+posterior adductor muscle
+anterior adductor muscle
+spinal muscle
+spinal muscle of head
+spinal muscle of neck
+spinal muscle of thorax
+mesenchymal cell
+venule
+uci - 101 cell
+glume
+4a - 2s4 cell
+l3 - 5 - 3 cell
+sua1 .1 cell
+1haeo cell
+hs 925 .t cell
+ns20y cell
+cho - em9 cell
+cho - aa8 cell
+a2780 / dx3 cell
+cortical collecting duct
+ccd - 13lu cell
+ccd - 8lu cell
+ccd - 25lu cell
+ccd - 27sk cell
+ros - 17 / 2 .8 cell
+b35 cell
+entorhinal area
+piriform area
+n2aegfp cell
+hippocampal mossy fiber
+postlarva
+sickle cell
+mpkccdc14 cell
+inflorescence stalk
+auditory vesicle
+n2asw cell
+htau cell
+b - 50 cell
+adult stem cell
+cord blood stem cell
+bone marrow stromal stem cell
+peripheral blood stem cell
+medial geniculate nucleus
+ventral principal nucleus of medial geniculate body
+medial nucleus of medial geniculate body
+dorsal nucleus of medial geniculate body
+medial geniculate body
+mushroom body
+vertical lobe of mushroom body
+medial lobe of mushroom body
+testicular vein
+right testicular vein
+left testicular vein
+inferior vena cava
+superior vena cava
+lymphoid follicle
+eoma cell
+central amygdaloid nucleus
+leydig cell tumor cell
+vascular cell
+biofilm
+neuroendocrine cell
+enterochromaffin - like cell
+leiomyoma cell
+uterine leiomyoma cell
+sk - n - be ( 2 )  cell
+supraoptic nucleus
+bed nucleus of stria terminalis
+lateral habenular nucleus
+habenular trigone
+midbrain central gray
+medial amygdaloid nucleus
+cortical amygdaloid nucleus
+lateral amygdaloid nucleus
+septal area
+gt1 - 7 cell
+head and neck squamous cell carcinoma cell line
+um - scc - 14b cell
+um - scc - 17b cell
+um - scc - 22b cell
+um - scc - 21a cell
+um - scc - 22a cell
+um - scc - 38 cell
+mda - 1186 cell
+mda - 886 cell
+tr - 146 cell
+primary effusion lymphoma cell line
+bc - 1 cell
+bc - 2 cell
+bc - 3 cell
+hbl - 6 cell
+cro - ap / 2 cell
+cro - ap / 3 cell
+cro - ap / 5 cell
+bcbl - 1 cell
+bcp - 1 cell
+uterine serous carcinoma cell
+erythroid cell
+hek - 293cymr cell
+16 - hbe14o cell
+mkt - br cell
+ocm - 1 cell
+sp - 6 .5 cell
+cement gland
+vaco cell
+inr1g9 cell
+hepatic stellate cell
+gynecophoral canal
+schistosomulum
+capan - 1 cell
+capan - 2 cell
+pc - 1 .0 cell
+pc - 1 cell
+bl - 2 cell
+hs - 74 cell
+calu - 3 cell
+pc6 - 3 cell
+pc - 6 cell
+pc6 - 1 cell
+pc6 - 2 cell
+pc6 - 16 cell
+pc6 - 4 cell
+pc6 - 5 cell
+pc6 - 6 cell
+pc6 - 7 cell
+pc6 - 8 cell
+pc6 - 9 cell
+pc6 - 10 cell
+pc6 - 11 cell
+pc6 - 13 cell
+pc6 - 14 cell
+pc6 - 15 cell
+gh4 - c1 cell
+hme cell
+decidual cell
+olfactory ensheathing cell
+chela
+salivary gland cancer cell
+amyloid plaque
+ana - 1 cell
+inflorescence apex
+anterolateral sulcus of medulla oblongata
+endospore
+visceral muscle
+mesenteric vein
+inferior mesenteric vein
+superior mesenteric vein
+corpus albicans
+rhinencephalon
+cystadenoma cell
+clear cell adenocarcinoma cell
+mucinous adenocarcinoma cell
+ovarian low malignant potential tumor cell
+1f6 cell
+blm cell
+mel57 cell
+m14 melanoma cell
+a - 375 cell
+prefrontal cortex
+b16 - bl6 cell
+l - 6 myoblast cell
+l8 cell
+flag leaf
+final leaf
+gubernaculum testis
+chorda gubernaculum
+transitional cell carcinoma cell
+bladder transitional cell carcinoma cell
+hce - 7 cell
+decidua basalis
+oligodendroglioma cell line
+hog cell
+nci - hut 125 cell
+sk - pc - 1 cell
+sf - 188 cell
+sw - 742 cell
+svec4 - 10 cell
+sk - n - as cell
+hmec - 1 cell
+karpas - 299 cell
+db - 1 cell
+pc - 346c cell
+pea - 13 cell
+nb - 1643 cell
+nb - 1691 cell
+nci - h358 cell
+nci - h460m cell
+py - 41 cell
+ht - 29 / 219 cell
+p12 - ichikawa cell
+bile ductule
+bile canaliculus
+cholangioma cell
+breast fibroadenoma cell
+breast invasive ductal carcinoma cell
+mammary duct
+non - hodgkin lymphoma cell
+thecoma cell
+granulosa - theca cell tumor cell
+luteoma cell
+theca cell
+theca interna
+theca externa
+theca folliculi
+corn silk
+hepatic cecum
+coelomocyte
+eleocyte
+cerebral subcortex
+esophageal mucosa
+oral mucosa
+esophageal squamous cell carcinoma cell
+hbepc cell
+mss - 31 cell
+t3m4 cell
+ger cell
+te - 2 cell
+te - 6 cell
+rt - 4 cell
+hn9 .10e cell
+rat - 2 cell
+cl1 - 0 cell
+cl1 - 5 cell
+pc - 14 cell
+chorionic plate
+ingluvial ganglion
+neural stem cell
+32d cell
+32d clone3 cell
+416b cell
+mel - 745a cell
+a - 9 cell
+ca - 77 cell
+geo cell
+hb1 .f3 cell
+hepa - 1c1c7 cell
+hepa 1 - 6 cell
+hm - 1 es cell
+im - 9 cell
+j558l cell
+k - 1034 rpe cell
+nc14 .9 .1 cell
+nc14 .4 .6e cell
+nhl - b cell
+nplc / prf / 5 cell
+nr - 8383 cell
+plb - 985 cell
+rk - 13 cell
+s194 / 5 .xxo - 1 cell
+s194 / 5 .xxo .bu .1 cell
+sk - n - mc cell
+rhabdomyocyte
+striated muscle cell
+hmv - ii cell
+y - 79 cell
+ls174t - hm7 cell
+bronchial epithelial cell
+beas - 2b cell
+nhbe cell
+tracheobronchial epithelium
+tracheobronchial epithelial cell
+fascia
+cclp - 1 cell
+thymic cortex
+sg231 cell
+s - 16 cell
+33b cell
+serous adenocarcinoma cell
+calu - 1 cell
+colo - 38 cell
+ho - 1 cell
+fo - 1 cell
+du - 2 cell
+mrn - 1 cell
+mnt - 1 cell
+1102 cell
+1383 cell
+938 cell
+mel888 cell
+624 cell
+mel249 cell
+mel499 cell
+mel505 cell
+mel592 cell
+mel501 cell
+dm6 cell
+dm93 cell
+tp17 cell
+hec - 1 - a cell
+stp - 1 cell
+1290 - 2 cell
+1704 cell
+1182 cell
+m10 melanoma cell
+sk - mel - 21 cell
+sk - mel - 37 cell
+sk - mel - 93 cell
+ir - 8 cell
+h494 cell
+kj29 cell
+164t2 cell
+267t2 cell
+hek - 293 - ebna cell
+a - 2058 cell
+abdominal aorta
+exocrine glandular secretion
+internal secretion
+secretion
+alpha - tc1 .9 cell
+alpha - tc1 .6 cell
+anaplastic oligodendroglioma cell
+antropyloric mucosa
+cho - 7 cell
+chp - 134 cell
+gastric ulcer
+glandular epithelium
+arh - 77 cell
+beta - tc3 cell
+lacteal cyst
+ccl - 39 cell
+cavernous artery
+lapc - 4 cell
+lncap - c4 - 2b4 cell
+cwr22 - rv1 cell
+eb - 1 cell
+ebc - 1 cell
+endocervix
+epididymal fluid
+nci - h1435 cell
+nci - h324 cell
+nci - h2122 cell
+nci - h322 cell
+nci - h226 cell
+nci - h1703 cell
+nci - h125 cell
+nci - h1334 cell
+nci - h1264 cell
+nci - h661 cell
+nci - h520 cell
+macula lutea
+sw - 1573 cell
+colo - 699 cell
+ne - 18 cell
+nci - h345 cell
+nci - h209 cell
+nci - h187 cell
+nci - h69 cell
+nci - h510 cell
+nci - h146 cell
+nci - h128 cell
+nci - h82 cell
+nci - h196 cell
+nci - n417 cell
+sklu - 1 cell
+mt - 4 cell
+hca - 7 cell
+hek - 293f cell
+hek - 293h cell
+helf cell
+hs - sultan cell
+ht - 22 cell
+hec - 1 - b cell
+hypodermal seam cell
+ishikawa cell
+j - 774 .1 cell
+jj012 - ts4 cell
+jy cell
+neuroma cell
+neurofibroma cell
+neurilemoma cell
+neurolemma
+kerathoacanthoma cell
+ma - 10 cell
+mba - 15 cell
+mda - 686ln cell
+nci - n87 cell
+ovca - 8 cell
+nw - 16 cell
+nb - 2 cell
+nb2 - sp cell
+nb2a / d1 cell
+pc12 - ac cell
+mio - m1 cell
+mueller cell line
+mueller cell
+va13 - ts4 cell
+wi38 - va13 subline 2ra cell
+oe - e6 / e7 cell
+pnt - 1a cell
+ok cell
+s2 cell
+hlec - sra 01 / 04 cell
+human lens epithelial cell line
+tt cell
+wm - 115 cell
+ramos cell
+ramos - aw cell
+ramos - ehrb cell
+ramos  ( ra .1 )  cell
+pleural fluid
+vaginal fluid
+uterine anchor cell
+rosette leaf
+subiculum
+subiculum promontorii
+promontorium tympani
+subventricular zone
+urogenital system
+urinary system
+cardiofibroblast
+secondary oocyte
+normoblast
+internal male genital organ
+external male genital organ
+scrotum
+internal female genital organ
+external female genital organ
+female pudendum
+pyramidal neuron
+pro - b - lymphocyte
+sw - 1222 cell
+hom - 2 cell
+foreign - body giant cell
+chago - k - 1 cell
+caski cell
+calo cell
+vipa cell
+inbl cell
+rova cell
+major vestibular gland
+minor vestibular gland
+glans clitoridis
+glans penis
+clitoral gland
+atherosclerotic plaque
+villus
+fl cell
+car - 1 cell
+microsporidian
+zona pellucida
+zr - 75 - 1 cell
+5637 cell
+um - scc - 1 cell
+um - scc - 12 cell
+um - scc - 14a cell
+true leaf
+ku - 812f cell
+coculture
+vestibulum vaginae
+zona incerta
+juvenile leaf
+interalveolar septum
+hpaec cell
+papillary thyroid cancer cell
+perineurium
+epineurium
+pleural mesothelium
+pericardial mesothelium
+prec cell
+prsmc cell
+prsc cell
+prostatic urethra
+cholangiocyte
+10t1 / 2 cell
+143b cell
+cysticercus
+snu - 368 cell
+snu - 398 cell
+ccd - 841 - con cell
+km - 12 cell
+endostyle
+outer plexiform layer
+inner plexiform layer
+inner nuclear layer
+semimembranosus
+biceps
+hamstring muscle
+hela - 80 cell
+wehi - 7 .2 cell
+nhek cell
+nhem cell
+nhdf cell
+nhm cell
+snu - 423 cell
+snu - 449 cell
+snu - 475 cell
+snu - 354 cell
+snu - 387 cell
+sk - rc - 1 cell
+sk - rc - 6 cell
+sk - rc - 7 cell
+sk - rc - 17 cell
+sk - rc - 29 cell
+sk - rc - 35 cell
+sk - rc - 39 cell
+sk - rc - 44 cell
+sk - rc - 45 cell
+sk - rc - 99 cell
+moroff cell
+caki - 1 cell
+a - 253 cell
+a2780 / 100 cell
+anaplastic thyroid cancer cell
+anaplastic thyroid cancer cell line
+s49 .a2 cell
+hpl1d cell
+vcap cell
+melan - a cell
+melanoblast
+u - 343mg - a cell
+tmk - 1 cell
+sk32 cell
+respiratory bronchiole
+terminal bronchiole
+trk - 43 cell
+sts - 26t cell
+smmc - 7721 cell
+sk - lc - 8 cell
+sk - lc - 16 cell
+rl cell
+shg - 44 cell
+bt - 325 cell
+fadu cell
+fto - 2b cell
+nci - h23 cell
+nci - h838 cell
+nci - h2126 cell
+nci - h2087 cell
+nci - h2009 cell
+nci - h1684 cell
+nci - h1437 cell
+baec cell
+ccd - 841 cell
+elt - 3 cell
+dpk - skdf - h cell
+ax - 4 cell
+corpus amylaceum
+granulation tissue
+col - 1 cell
+col - 24 cell
+col - 6 cell
+hcn - 1a cell
+hcn - 2 cell
+hek - ad293 cell
+hl - 1 cell
+hpaf - 2 cell
+hs - 766t cell
+hs578 cell
+feather barbicels
+me665 / 2 cell
+great saphenous vein
+small saphenous vein
+hsvec cell
+eheb cell
+h2 .35 cell
+v79mzh11b1 cell
+v79mzh11b2 cell
+sessile cell
+planktonic cell
+tet - inos - 293 cell
+sc - m1 cell
+tmc - 1 cell
+pci - 43 cell
+pci - 35 cell
+nk - 92 cell
+nalm - 6 cell
+namalwa cell
+panin cell
+p493 - 6 cell
+raw - 264 .7 cell
+rat - 1 cell
+rat1 - r12 cell
+op - 9 cell
+nctc - 2544 cell
+mesenchymal stem cell
+mm5mt cell
+mm5mtc cell
+mewo cell
+mda - panc - 3 cell
+mda - panc - 28 cell
+mda - 1483 cell
+epipodite
+mat - ly - lu cell
+l6e9 cell
+l - 363 cell
+kmbc cell
+kmch cell
+mz - cha - 1 cell
+km - 12c cell
+wt - 8 cell
+j .cam1 .6 cell
+um - scc - 2 cell
+jb6 cl41 cell
+ins - 1e cell
+ins - 1 823 / 13 cell
+hepa - 1 cell
+hel - 92 .1 .7 cell
+hce cell
+hcc - 2998 cell
+hcc - 1937 cell
+ge - 11 cell
+flk cell
+fl83b cell
+fl5 .12 cell
+emt - 6 cell
+ebv - lcl cell
+cs - 54 cell
+hcmec / d3 cell
+cl - 3 cell
+cl1 - 1 cell
+cl1 - 2 cell
+cl1 - 3 cell
+cl1 - 4 cell
+cl1 lung adenocarcinoma cell
+hek - 293 tet - on 3g cell
+c20d cell
+bv - 2 cell
+bn17 cell
+bend3 cell
+beas - 2b / bbm cell
+bbm cell
+arpe cell
+groin
+neointima
+extraembryonic tissue
+anterior visceral endoderm
+anterior visceral ectoderm
+gingival fluid
+germinated grain
+robust nucleus of arcopallium
+daphnid
+frontal gland
+face
+craniofacial region
+endometrial spiral artery
+gametophore
+gametangium
+antheridium
+archegonium
+rch - acv cell
+periderm
+phellem
+phellogen
+phelloderm
+vestibular system
+inner ear vestibulum
+semicircular canal
+etiolated plant tissue
+hypoglossal nerve
+raphe nucleus
+tegmentum
+nidopallium
+high vocal center
+granule cell
+brockmann body
+spemanns organizer
+pontine nucleus
+feather barbules
+ganglion cell layer
+avian pallium
+hyperpallium
+subpallium
+arcopallium
+rostral migratory stream
+encysting cell
+xf - 498 cell
+conjunctiva
+biceps femoris
+biceps brachii
+ach - 3p cell
+af5 cell
+b16f10 - nex2 cell
+area postrema
+fourth ventricle
+barrett's esophagus
+beta - tc6 cell
+bic - 1 cell
+seg - 1 cell
+dermatofibroma cell
+el - 4 cell
+endometrial gland
+choanomastigote
+memory t - lymphocyte
+mh7a cell
+wm - 9 cell
+nb - 7 cell
+colo - 357 cell
+l3 .6pl cell
+ccd - 43sk cell
+uacc - 893 cell
+hcc - 1395 cell
+carotid atherosclerotic plaque
+cholesteatoma tissue
+cavum septum pellucidum
+septum pellucidum
+aml - 12 cell
+cho - 6 cell
+c8pa cell
+dentin
+eosinophilic myelocyte
+neutrophilic myelocyte
+basophilic myelocyte
+endometrioma cell
+chromophobe renal cell carcinoma cell
+gc - 7 cell
+ht - 115 cell
+ht - 1376 cell
+outer dental epithelium
+inner dental epithelium
+ca - hpv - 10 cell
+293 - il - 1ri cell
+293 - cd40 cell
+hs - 294t cell
+hek - 293b2 cell
+hke - 3 cell
+bt - 483 cell
+mda - mb - 175 - vii cell
+vagus nerve
+polymorphonuclear neutrophil
+wm - 239 cell
+wm - 35 cell
+sk - mel - 2 cell
+sk - hep - 1 cell
+snu - 638 cell
+snu - 484 cell
+snk - 57 cell
+nkb - 1 cell
+wi - 26 cell
+sz - 95 cell
+rpaec cell
+rpmec cell
+visceral endoderm
+vibrissa
+vestibulocochlear nerve
+sw - 1990 cell
+plc - prf - 5 cell
+suit - 2 cell
+peripheral blood cell
+pdnec cell
+mdnec cell
+papillary renal cell carcinoma cell
+ovise cell
+ovtoko cell
+ovmana cell
+ovsayo cell
+ovsaho cell
+ovkate cell
+ov - 202 cell
+t - cell chronic lymphocytic leukemia cell
+saf - 1 cell
+rpmi - 7951 cell
+headfoot
+rle - 6tn cell
+alveolar epithelium
+hsc - 180 cell
+lx - 1 cell
+lx - 2 cell
+htert - hsc cell
+gref - x cell
+li90 cell
+hsc - t6 cell
+nfsc cell
+cfsc cell
+pav - 1 cell
+hsc - pq cell
+bsc cell
+mfby2 cell
+t - hsc / cl - 6 cell
+grx cell
+sv68 c - is cell
+a640 - is cell
+m1 - 4hsc cell
+a7 cell
+nor - p1 cell
+nmb - 7 cell
+imr - 6 cell
+nci - h522 cell
+min6 - m9 cell
+min6 - m14 cell
+pnt2 - c2 cell
+p4e6 cell
+oe - 33 cell
+lan - 1 cell
+l - 02 cell
+ku - 7 cell
+ku - 1 cell
+kp - n - yn cell
+kp - n - si cell
+sms - kcn cell
+kp - 1n cell
+kp - 2 cell
+kp - 3 cell
+kk - 47 cell
+ej - 138 cell
+yts - 1 cell
+mbt - 2 cell
+sn - 56 cell
+sn - 56 / obr cell
+rec - 1 cell
+rmc - 1 cell
+cce cell
+mg1 .19 cell
+mb - 49 cell
+huaec cell
+hl1c cell
+alphat3 - 1 cell
+c - 3842 cell
+c57mg cell
+feather bud
+hl - 60 / mx - 2 cell
+hl60 / adr cell
+hl60 / dnr cell
+htc - 4 cell
+hk - 2 cell
+renal proximal tubule epithelium
+hgf cell
+hgec cell
+sup - t1 cell
+stc - 1 cell
+sr cell
+hep - g2 / c3a cell
+hela - magi - ccr5 cell
+hela - magi cell
+gm08505 cell
+gm01492 cell
+gm00637 cell
+gm00037 cell
+schizozoite
+hypnozoite
+knee
+uterine sarcoma cell
+uterine leiomyosarcoma cell
+uterine endometrial stromal sarcoma cell
+hlmvec cell
+m cell
+plant hilum
+hela gfp - histone h2b cell
+renal parenchyma
+1321 - n1 cell
+airway fluid
+chondroblast
+lung squamous cell carcinoma cell
+hek - 293 peakrapid cell
+peritoneal dialysis fluid
+peritoneal exudate
+hap - 1 cell
+hi - 5 cell
+bmmc cell
+mucosal mast cell
+oronasal squamous cell carcinoma cell
+intervertebral disc
+nucleus pulposus
+annulus fibrosus
+annulus fibrosus cordis
+annulus fibrosus disci intervertebralis
+ct - 26 cell
+colon c26 - g cell
+cervicovaginal fluid
+esophageal gland
+dg - 75 cell
+dov - 13 cell
+ej - 1 cell
+flo - 1 cell
+hca - f cell
+hd - 11 cell
+metanephric adenoma cell
+pleomorphic adenoma cell
+olfactory tract
+olfactory nerve
+anterior olfactory nucleus
+spindle cell
+synovial cell
+olfactory glomerulus
+ventricular zone
+thyroid cartilage
+adams apple
+tergal gland
+tergal gland secretion
+secretory cell
+laryngeal cartilage
+nucleus recessus lateralis
+nucleus recessus posterioris
+nucleus preopticus
+outer hair cell
+inner hair cell
+leaf bud
+keloid
+microfilarial stage
+germinal center
+interdigitating reticulum cell
+nephrotome
+temporomandibular joint
+temporomandibular articular disk
+lymphoblastic leukemia cell
+chorion frondosum
+mrk - nu - 1 cell
+mo - b cell
+hairy cell leukemia cell line
+hairy cell leukemia cell
+i 9 .2 cell
+habenula
+habenular nucleus
+serous cell
+mucous cell
+malignant mixed muellerian tumor cell
+prostatic intraepithelial neoplasia cell
+cad cell
+atrkd cell
+c1r cell
+c1r - b27 cell
+spinal trigeminal tract
+rheumatoid arthritis disease specific synovial tissue
+rheumatoid arthritis disease specific fibroblast - like synoviocyte
+h4 neuroglioma cell
+cornu ammonis
+wtk - 1 cell
+tk - 6 cell
+wpmy - 1 cell
+rwpe - 1 cell
+wm - 451lu cell
+wm - 75 cell
+wm98 - 1 cell
+wm - 793 cell
+vmrc - rcw cell
+vmrc - rcz cell
+scn2a cell
+vesicular gland
+vasculature
+v - 79 - 4 cell
+ut - scc - 9 cell
+ut - scc - 2 cell
+ut - scc - 24a cell
+um - uc - 3 cell
+rt - 112 cell
+sk - ut - 1b cell
+shp - 77 cell
+u - 1810 cell
+txm - 13 cell
+tuhr - 4tkb cell
+tuhr - 14tkb cell
+rcc - 10rgb cell
+tuhr - 10tkb cell
+tuhr - 16tkb cell
+598 - rcc cell
+tuhr - 25tkb cell
+thyroid epithelial cell
+tailbud stage
+tenia tecta
+tall - 1 cell
+tall - 104 cell
+t - 47 cell
+synoviocyte
+sw - 872 cell
+liposarcoma cell line
+liposarcoma cell
+sw - 1398 cell
+superficial temporal artery
+superficial temporal vein
+pars compacta
+pars reticulata
+submucosal gland
+lamina epithelialis mucosa
+central medial thalamic nucleus
+bre - 169 cell
+stf1 - 169 cell
+stav - fcs cell
+vester cell
+stav - ab cell
+snuot - rb1 cell
+snu - 182 cell
+snb - 19 cell
+pz - hpv - 7 cell
+shac cell
+nci cell
+giant cell tumor cell line
+a - 204 cell
+a - 673 cell
+a - 498 cell
+a - 427 cell
+t2 cell
+sf - 268 cell
+scc - 25 cell
+scc - 4 cell
+scaber cell
+saos - alpha2beta1 cell
+rn - 46a cell
+rm - 1 cell
+rcc 786 - o cell
+rccd - 2 cell
+ray floret
+transverse occipital sulcus
+intraparietal sulcus
+splenial gyrus
+pr - mel cell
+mr - mel cell
+glandular stomach
+ov - 2008 cell
+pituicyte
+chlorenchyma
+periventricular nucleus of hypothalamus
+periglomerular cell
+unicellular trichome
+multicellular trichome
+secretory trichome
+pccl - 3 cell
+ovum
+macrogamete
+alpha - motoneuron
+gamma - motoneuron
+bj cell
+fhc cell
+soil
+enrichment culture
+interneuron
+neural crest cell
+buccal mucosa
+conceptus
+cerebellar nucleus
+cerebrovascular system
+plant organ culture
+gm02037 cell
+fu - 01 cell
+inferior olivary nucleus
+a2780 / cp70 cell
+achn cell
+crbm - 1990 cell
+adenoid cystic carcinoma cell
+adenosquamous carcinoma cell
+alva - 31 cell
+aok - b50 cell
+astroglia
+b16 - f1 cell
+bl - 41 cell
+bl - 70 cell
+bon - 1 cell
+c - 28 / i2 cell
+t / c - 28a2 cell
+inflammatory cell
+ccd - 19lu cell
+ccf - sttg1 cell
+cmt - 93 cell
+enteroendocrine cell
+apud cell
+deutocerebrum
+protocerebrum
+tritocerebrum
+insect tracheal system
+uterine endometrial cancer cell
+foam cell
+follicular adenoma cell
+ftc - 236 cell
+plant funiculus
+g - 292 cell
+bgc - 823 cell
+gbm - 8401 cell
+g9t / vgh cell
+hsc - 2 cell
+blastocyte
+hmt - 3522 cell
+hs - 578t cell
+hs - 578bst cell
+jhu - 022 cell
+jhu - 029 cell
+jhu - 019 cell
+jhu - 013 cell
+jhu - 011 cell
+hc - 11 cell
+hb4a cell
+haca - 4 cell
+carb cell
+hepatobiliary carcinoma cell
+gt1 cell
+gt1 - 1 cell
+mcf - 10f cell
+745a cell
+mel - 745a cl . ds19 cell
+hig - 82 cell
+hos cell
+hpenc cell
+uroepithelium
+huc - 1 cell
+stellate reticulum
+hucct - 1 cell
+imcd cell
+mimcd - 3 cell
+interstitial cell of cajal
+hairy root culture
+kb - v1 cell
+kb - 3 - 1 cell
+kb - ch [ r ]  - 8 - 5 cell
+kc - 167 cell
+khos cell
+khos / np  ( r - 970 - 5 )  cell
+khos - 240s cell
+khos - 321h cell
+renal papilla
+renal pyramid
+metacercaria
+mono - mac - 1 cell
+mm1 - r cell
+ark - b cell
+arp - 1 cell
+kms - 11 cell
+mm1 - s cell
+kku - 100 cell
+l57 - 3 - 11 cell
+lateral septal area
+leaf disc
+luteal cell
+macula densa
+mda - mb - 435s cell
+mdah - 2774 cell
+skov cell
+mel - ab cell
+mn - 9d cell
+mmdd1 cell
+mpct - g cell
+dkc - 8 cell
+medial longitudinal fasciculus
+mesenchymal stromal cell
+mesendoderm
+dopaminergic system
+n - 11 cell
+n - 38 cell
+n - 9 cell
+neuro2a - luc cell
+nhok cell
+npc - tw02 cell
+npc - tw04 cell
+nucleus solitarius
+oecm - 1 cell
+osrga cell
+ous - 11 cell
+hair follicle outer root sheath
+outer root sheath companion layer
+hair follicle inner root sheath
+pulmonary sclerosing hemangioma cell
+cingulate cortex
+cingulate gyrus
+retrosplenial region
+brodmann area 29
+brodmann area 26
+sghpl - 4 cell
+sas cell
+retinal stem cell
+txm - 18 cell
+a - 375p cell
+a - 375sm cell
+sb - 2 cell
+root culture
+dx - 3 cell
+ov2008 / c13 cell
+ch12f3 - 2 cell
+zl - 34 cell
+zp - 121 cell
+hoof
+horny lamina
+sensitive lamina
+hoof lamina
+41 - m cell
+m - 14 - k cell
+m - 28 - k cell
+m - 9 - k cell
+hemn cell
+na cell
+3 - ll cell
+balb / 3t3 - t cell
+oc - 3 cell
+porcine aortic endothelial cell
+medial mammillary nucleus
+lateral mammillary nucleus
+ht - 2 cell
+pnet - 2 cell
+ros cell
+colon - 26 cell
+hc11 - c24 cell
+laterodorsal tegmental nucleus
+hcfmk - 1 cell
+hctk - 1 cell
+hlac - 78 cell
+hlac - 79 cell
+um - scc - 17a cell
+um - scc - 5 cell
+neural cord
+claw muscle
+4to7 cell
+94 - h48 cell
+95 - h1 cell
+94 - h4 cell
+95 - h3 cell
+95 - h12 cell
+dopaminergic neuron
+catecholaminergic neuron
+a - 224 cell
+222 cell
+uci - 107 cell
+a2780 / ad10 cell
+colonic neoplasm cell
+ml - 3b cell
+ml - 5 cell
+abdominal adipose tissue
+subcutaneous adipose tissue
+intramuscular adipose tissue
+amacrine cell
+air pouch
+alveolar mucosa
+apical hook
+aril
+bel - 7402 cell
+bipolar cell
+bone marrow stem cell
+umbilical cord blood
+umbilical cord blood cell
+cos cell
+fruit juice
+c3h10t1 / 2 cell
+ccd - 18co cell
+fibroblast - like synoviocyte
+chl - 1 cell
+rpmi - 7932 cell
+chloragogen cell
+chloragocyte
+cho - mg cell
+cho - xrs6 cell
+c26 - 10 cell
+c26 - a cell
+c26 - g cell
+compost
+middle ear squamous cell carcinoma cell
+middle ear squamous cell carcinoma cell line
+csm14 .1 cell
+cystocyte
+d1 - hek - 293 cell
+dhl - 4 cell
+ekvx cell
+h - 650 cell
+hop - 62 cell
+hcc - 4006 cell
+hcc - 827 cell
+hcc - 2935 cell
+epitrochlearis muscle
+hop - 92 cell
+female urethra
+male urethra
+embryonic neural stem cell
+endogenous progenitor cell
+endothelial progenitor cell
+epithelial ovarian cancer cell
+eont cell
+epididymal clear cell
+renal clear cell
+parathyroid gland clear cell
+sweat gland clear cell
+fascicle
+cerebral cortical neuron
+leaf primordium
+insect labium
+fpmi - cf - 203 cell
+ipri - md - 66 cell
+antral mucosa
+g cell
+fundic mucosa
+gastrointestinal stromal tumor cell
+gbc - sd cell
+glc - 82 cell
+hac cell
+hep - 3b2 cell
+hfk cell
+hitc6 cell
+hl - 60  ( tb )  cell
+horizontal cell
+hpac cell
+hs - 5 cell
+ht - 1197 cell
+htr - 8 / svneo cell
+huh - 7 .5 cell
+huma - 7 cell
+iose cell
+iose - 397 cell
+iose - 29 cell
+iose - 4p2 cell
+iose - 2ap2 cell
+iose - 398 cell
+kasumi - 1 cell
+kcl - 22 cell
+gingival fibroblast
+lad - 2 cell
+ethmoid bone
+cribriform plate
+lh - 86 cell
+lovo - 175x2 cell
+lovo - 273x17 cell
+lovo - li cell
+lovo - 92 cell
+lumbar spine
+cervical spine
+ischial spine
+thoracic spine
+lox - imvi cell
+uacc - 62 cell
+kt - 2 cell
+kt - 4 cell
+ma - 25 cell
+ma - 31 cell
+ma - 34 cell
+ma - 45 cell
+ma - 53 cell
+ma - 1 cell
+malme - 3 cell
+malme - 3m cell
+mc - 38 cell
+mda - mb - 435hgf cell
+meibomian gland
+lymphatic endothelial cell
+mhcc - 97 cell
+mhcc97 - h cell
+mhcc97 - l cell
+molt - 13 cell
+molt - 14 cell
+molt - 16 cell
+molt - 17 cell
+molm - 13 cell
+molm - 16 cell
+molm - 6 cell
+leukemic stem cell
+mx - 1 cell
+nccit cell
+nci / adr - res cell
+nci - h322m cell
+nmumg cell
+okm - 2t cell
+olfactory receptor neuron
+dupro cell
+nrk - e52 cell
+ecrf cell
+nci / adr cell
+pacemaker cell
+pc - j cell
+perineuronal net
+pharyngeal pad
+pharyngeal process
+pharyngeal organ
+placental membrane
+insect labellum
+prostomium
+rcsn - 3 cell
+ewing's sarcoma cell line
+rd - es cell
+rie - 1 cell
+rpmi - 2650 cell
+rpmi - 8866 cell
+rxf - 393 cell
+sb - 247 cell
+seed vessel
+seminoma cell
+sensillum trichodeum
+seta
+sf - 295 cell
+sf - 539 cell
+sf - 763 cell
+sjsa - 1 cell
+sk - n - dz cell
+sk - n - fi cell
+smg - c6 cell
+sn - 12c cell
+snb - 75 cell
+stomodeum
+tamh cell
+tc - 32 cell
+tm - 4 cell
+tcmk - 1 cell
+tsa - 201 cell
+uacc - 257 cell
+uo - 31 cell
+uterine horn
+y1 - bs1 cell
+interstitial cell
+germarium
+ovariole
+vitellarium
+449 cell
+nih - 3t3 - a14 cell
+a - 364 cell
+a - 547 cell
+xenopus a6 cell
+anterior cingulate cortex
+posterior cingulate cortex
+hepa - 1c1c7 - c12 cell
+hepa - 1c1c7 - c4 cell
+plant candle
+cancer stem cell
+ewing's family tumor cell
+long bone
+extraosseus ewing's sarcoma cell
+primitive neuroectodermal tumor cell
+askin's tumor cell
+peripheral primitive neuroectodermal tumor cell
+cerebral giant cell
+com - 3 cell
+inc - 2 cell
+ej cell
+h - 10 cell
+follicular dendritic cell
+adult liver stem cell
+hyalocyte
+ph - 5 cell
+plc - 8024 cell
+sm - 5 cell
+sm - 7 cell
+scleral lamina cribrosa
+cerebellar granule cell
+cerebral granule cell
+peptonephridium
+c - 81 cell
+tsa cell
+tk - 10 cell
+tk - 164 cell
+oviductal ampulla
+basophilic leukemia cell
+claustrum
+heart endothelium
+heart endothelial cell
+plant epithelium
+cell lysate
+hairy root
+ncm - 460 cell
+hepatic artery
+cgr - 8 cell
+cl - 66 cell
+cl - 66m2 cell
+4t1 cell
+jimt - 1 cell
+gm16096 cell
+gm16088 cell
+htd - 114 cell
+nbt - ii cell
+immune stem cell
+wb - f344 cell
+wb - 311 cell
+1682 - a cell
+2bn cell
+2bnneo cell
+2bnhtert cell
+2t3 cell
+adf cell
+cess cell
+daoy cell
+madsen cell
+uw228 - 1 cell
+uw228 - 2 cell
+uw228 - 3 cell
+do11 .10 cell
+ebv - pbl cell
+gp6 cell
+thc - 252 cell
+thc - h5d cell
+gn5 cell
+scgt1 cell
+culture condition:high copper medium - grown cell
+granular insular cortex
+agranular insular cortex
+auditory cortex
+infralimbic cortex
+entorhinal cortex
+medial entorhinal cortex
+lateral entorhinal cortex
+motor cortex
+laterodorsal thalamic nucleus
+lateral dorsal nucleus
+lateral posterior nucleus
+pulvinar
+somatosensory cortex
+postcentral gyrus
+perirhinal cortex
+brodmann area 35
+brodmann area 36
+sinus node
+paw
+angiomyolipoma cell
+callus culture
+gastroesophageal adenocarcinoma cell
+gastroesophageal junction
+lateral geniculate nucleus
+lateral geniculate body
+vestibular nucleus
+inferior vestibular nucleus
+lateral vestibular nucleus
+medial vestibular nucleus
+superior vestibular nucleus
+ventral posterior nucleus
+ventral globus pallidus
+pup
+parahippocampal region
+parahippocampal gyrus
+prelimbic cortex
+follicular fluid
+cardinal vein
+posterior cardinal vein
+anterior cardinal vein
+common cardinal vein
+sv7tert cell
+spaml / sv7 cell
+alabastrum
+16 - hbeo cell
+microvessel
+femorotibial joint
+b - 103 cell
+ben - men - 1 cell
+bpaec cell
+bronchial smooth muscle
+bl - 3 cell
+3d5 cell
+caba i cell
+cb33 cell
+culture condition:cd34 +  cell
+culture condition:cd68 +  cell
+culture condition:cd8 +  cell
+oral lichen planus disease specific cell type
+cj7 cell
+kh2 cell
+dm - 4 cell
+daltons lymphoma cell
+dermal fibroblast
+digestive cell
+pleural cavity
+empyema fluid
+es - 2 cell
+stratum granulosum cerebelli
+nci - h1915 cell
+nci - h211 cell
+h4 - ii - e - c3 cell
+h - 59 cell
+hbl - 52 cell
+hcaec cell
+het - 1a cell
+hmec - 1330 cell
+hose 11 - 12 cell
+hose 6 - 3 cell
+hose 17 - 1 cell
+hscc cell
+ut - scc - 14 cell
+ut - scc - 15 cell
+ut - scc - 5 cell
+xf354 cell
+huve - 12 cell
+ib3 - 1 cell
+s9 cell
+c38 cell
+ln - 235 cell
+ln - 443 cell
+ln - 444 cell
+ln - 464 cell
+ln - 702 cell
+ln - 751 cell
+ln - 774 cell
+ln - 784 cell
+ln - 215 cell
+ln - 308 cell
+ln - 340 cell
+ln - 382 cell
+fd - 1 cell
+kyse - 30 cell
+k - 562r cell
+ileostomal fluid
+iomm - lee cell
+lama - 84 cell
+lama - 87 cell
+lbetat2 cell
+lm3 cell
+lm6 cell
+mahlavu cell
+mantle cell lymphoma cell
+mc3t3 - e1 ( c4 )  cell
+mda - mb - 231 - bag cell
+mel cell
+mes - 23 .5 cell
+medial temporal lobe
+mucosal melanoma cell
+mv4 - 11 cell
+nasopharynx epithelium
+ov - mz - 10 cell
+ov - mz - 15 cell
+ov - mz - 6 cell
+nsc - 34 cell
+oe - 21 cell
+rfl - 6 cell
+rl95 - 2 cell
+rgm - 1 cell
+sirc cell
+preosteoclast
+wt - 51 cell
+thce cell
+prostate gland intraepithelial neoplasia cell line
+r1 cell
+plant vascular cell
+vascular cambium
+submerged culture
+rs4 - 11 cell
+rt - 2 cell
+send - 1 cell
+endothelioma cell
+cystadenocarcinoma cell
+serous cystadenocarcinoma cell
+pseudomucinous cystadenocarcinoma cell
+ser - w3 cell
+sf - 3061 cell
+sf - 4068 cell
+sf - 4433 cell
+uterine gland
+regulatory t - lymphocyte
+tig - 3 - 20 cell
+tm - 3 cell
+germinal epithelium
+subcutaneous tissue
+ulcerative colitis disease specific cell type
+uterine luminal fluid
+high endothelial venule
+pa - 23 cell
+f5 meningioma cell
+bolting stage
+c - 10 cell
+cystic fibrosis disease specific cell type
+medullary collecting duct cell
+medullary collecting duct
+cortical collecting duct cell
+initial collecting tubule
+connecting tubule
+papillary duct
+connecting tubule cell
+principal cell
+inner medullary collecting duct cell
+m - 1 collecting duct cell
+deep inguinal lymph node
+superficial inguinal lymph node
+proximal deep inguinal lymph node
+wt - 100 cell
+e - 18 rat primary hippocampal neuron
+parotid gland duct
+submandibular gland duct
+sublingual gland duct
+thymic medulla
+thymic stromal cell
+thymic cortical epithelial cell
+thymic medullary epithelial cell
+thymic dendritic cell
+rb - 1 cell
+sessile serrated adenoma cell
+supportive connective tissue
+ovarian fluid
+ulcer tissue
+l3 .3 cell
+hep - g2 / 2 .2 .1 cell
+bosc - 23 cell
+nephroblastoma cell
+smooth muscle cell
+vascular smooth muscle cell
+parenchyma of thyroid gland
+862l cell
+10 / 9crc1 cell
+a31n - ts20 cell
+a - 704 cell
+acute nonlymphoblastic leukemia cell
+acute promyelocytic leukemia cell
+alevin
+at6 .1 cell
+bhy cell
+hn cell
+nhec cell
+bone matrix
+epiblast
+cwr - 22 cell
+d - 407 cell
+garland cell
+nephrocyte
+te - 15 cell
+te - 13 cell
+te - 8 cell
+te - 1 cell
+human aortic endothelial cell
+hbe cell
+iec - 18 cell
+u - 118mg cell
+mdck - 1 cell
+mdck - 2 cell
+henles loop
+talh cell
+sw - 900 cell
+wm - 793b cell
+sebocyte
+nose1 cell
+stria terminalis
+mucilage
+t - 289 cell
+oci - aml2 cell
+oci - aml3 cell
+oci - aml5 cell
+oci - m1 cell
+oci - m2 cell
+yn - 1 cell
+plasmacytoid dendritic cell
+aortic valve
+metaphloem
+glomerular endothelium
+29 - 13 cell
+peribronchial gland
+tt2 es cell
+fd - 2 cell
+abductor
+fin
+dorsal fin
+pelvic fin
+anal fin
+pectoral fin
+tet21n cell
+sk - cha - 1 cell
+premonocyte
+imaginal disc
+exoskeleton
+human iliac artery endothelial cell
+iliac artery
+external iliac artery
+internal iliac artery
+hand
+finger
+interdigit
+hair medulla
+hair shaft
+dorsal aorta
+ventral aorta
+regio occipitalis capitis
+cerebral peduncle
+basis pedunculi cerebri
+regio frontalis capitis
+capillary pericyte
+stratum basale
+bursa copulatrix
+gential atrium
+genital chamber
+genital pore
+bony labyrinth
+cochlear labyrinth
+orbit
+regio orbitalis
+external gill
+arterial system
+hippocampus minor
+venous system
+regio parietalis capitis
+rectal sac
+aortic root
+external carotid artery
+internal carotid artery
+regio oralis
+dorsal striatum
+ventral striatum
+striate cortex
+extrastriate cortex
+connecting stalk
+ankle joint
+hinge joint
+thyroid follicle
+thyroid primordium
+tunica interna bulbi
+head capsule
+parathyroid hormone secreting cell
+larval ventral ganglion
+palatine tonsil
+nasopharyngeal tonsil
+null cell
+large granular lymphocyte
+breast lobe
+excretory canal cell
+mural cell
+myeloid dendritic cell
+plasmacytoid t - lymphocyte
+lymphoid dendritic cell
+animal cap
+peripheral blood lymphocyte
+myeloid progenitor cell
+lymphoid progenitor cell
+bone marrow - derived macrophage
+gravid adult
+hbl - 100 cell
+brainstem glioma cell
+b - cpap cell
+au - 565 cell
+cfpac - 1 cell
+cgth - w3 cell
+cgth - w1 cell
+cgth - w2 cell
+hct - 115 cell
+hct - 166 cell
+hair cell
+ina - 6 cell
+nci - h716 cell
+metula
+phialide
+129s6 cell
+1c9 cell
+adipose - derived stromal cell
+xp - v xp30ro cell
+vero - 76 cell
+vero c1008 cell
+tf - 1 cell
+tf - 1 bcr - abl cell
+tsm1 cell
+v866 cell
+v400 cell
+uke - 1 cell
+set - 2 cell
+mb - 02 cell
+mutz - 8 cell
+teratocyte
+tad - 2 cell
+npa cell
+wro cell
+trophoblast stem cell line
+trophoblast stem cell
+sup - m2 cell
+striatonigral neuron
+rsc96 cell
+medium spiny neuron
+soft tissue sarcoma cell
+sk - rc - 26b cell
+sk - n - be ( 2 ) c cell
+seax cell
+hff - 1 cell
+ewing's sarcoma family tumor cell line
+scmc - es1 cell
+sk - n - lo cell
+kp - ew - ms cell
+htert - rpe1 cell
+root primordium
+rhek - 1 cell
+tc1 cell
+tc2 cell
+jhu - 1 cell
+253j cell
+accessory olfactory bulb
+accessory sex gland
+lncap - ai cell
+amnioserosa
+bg3a - c2 cell
+ocl - 1 cell
+c666 - 1 cell
+cho - 91 - 47 - 67 cell
+cho - 91 - 22 - 47 - 67 cell
+cho - 91 - 22 cell
+cho - 91 cell
+cho - 22 cell
+clara cell
+dermal dendritic cell
+dms - 114 cell
+dt - 40 cell
+er - 1 cell
+erpp cell
+extraradical hypha
+fom71 cell
+fom78 cell
+nhem693 cell
+nhem2493 cell
+germ tube
+nci - h1355 cell
+nci - h1975 cell
+nci - h524 cell
+hff2 / t cell
+hfob cell
+hgc - 27 cell
+hob - c cell
+jb6 cell
+l56br - c1 cell
+large cell neuroendocrine carcinoma cell
+middle frontal gyrus
+inferior frontal gyrus
+superior frontal gyrus
+mrc5 - sv cell
+muscular coat
+muscularis mucosa
+ocl - 3 cell
+ucp - 3 cell
+myla 2039 cell
+myla 2059 cell
+ng2 cell
+nhost cell
+ocut - 1 cell
+onco - dg1 cell
+paca - 44 cell
+pharyngeal gland
+bone marrow cell
+mammary ductal carcinoma cell
+ov - 90 cell
+pc - 3h cell
+pk - 1 cell
+pk - 8 cell
+ookinete
+act - 1 cell
+nthy - ori 3 - 1 cell
+gamg cell
+hei - oc1 cell
+hlcc cell
+hmc cell
+human - 7 cell
+lim - 6 cell
+sup - m2 - ts cell
+anaplastic large cell lymphoma cell line
+mac - 1 cell
+molt cell
+nb - 39 cell
+ncr - ew2 cell
+ut - scc - 118 cell
+non - root - hair cell
+labellum
+distal tip
+distal tip cell
+enteric muscle
+tu - 132 cell
+tu - 113 cell
+parotid gland tumor cell
+qzg cell
+osa - 344 cell
+pc - 10 cell
+acc - lc - 319 cell
+tc - 1 cell
+bm - 314 cell
+chcy - 1 cell
+ch - 27 cell
+slt4 cell
+253j laval cell
+253j - bv cell
+npc - tw01 cell
+imec cell
+cho - ly - b cell
+hml - gb3 cell
+hk - 1 cell
+pulmonary venous myocardium
+non - neuronal cell
+cholinergic neuron
+plant crown
+hair follicle bulge
+hair follicle bulge stem cell
+molecular layer
+bergmanns glia
+bergmann fiber
+purkinje layer
+retinal pigment epithelium cell
+erythroid progenitor cell
+vastus medialis
+rheumatoid arthritis disease specific synovial fibroblast
+zr - 75 - 30 cell
+zr - 78 cell
+zr - 78 .1 cell
+zr - 82 cell
+zr - 75 cell
+wss - 1 cell
+swine testicular cell line
+taov cell
+nos - 2 cell
+nos - 4 cell
+hra cell
+thp - 6 cell
+thp - 8 cell
+sum - 159pt cell
+rmg - ii cell
+rmg - i cell
+npd - 1 cell
+rcc - 10 cell
+nalm - 17 cell
+nalm - 20 cell
+nalm - 24 cell
+nalm - 26 cell
+kocl - 33 cell
+kocl - 44 cell
+kocl - 45 cell
+kocl - 58 cell
+kocl - 69 cell
+hal - 01 cell
+kopn - 41 cell
+kopn - 1 cell
+lc4 - 1 cell
+utp - l5 cell
+utp - l10 cell
+utp - 2 cell
+scmc - l10 cell
+bv173 cell
+nall - 1 cell
+mv - 522 cell
+mgc - 803 cell
+capillary endothelium
+mda - b02 cell
+capillary endothelial cell
+hydathode
+f9 - 12 cell
+lncap - c4 - 2b cell
+cmk - 86 cell
+acute megakaryoblastic leukemia cell line
+acute megakaryocytic leukemia cell
+acute megakaryoblastic leukemia cell
+kopt - k1 cell
+tta - 1 cell
+rat - 1 / bb16 cell
+rat - 1 / tsla29 cell
+ns - 0 cell
+koc - 5c cell
+koc - 7c cell
+1br3 .g cell
+km - h2 cell
+hodgkin lymphoma cell line
+hodgkin lymphoma cell
+tongue cancer cell
+nasal lavage fluid
+carotid sinus nerve
+glossopharyngeal nerve
+uveal melanoma cell
+karpas - 422 cell
+gonocyte
+ma - 104 cell
+alate adult
+angioblast
+snu - 5 cell
+snu - 16 cell
+snu - 216 cell
+monospore
+um - uc - 9 cell
+um - uc - 14 cell
+um - uc - 10 cell
+um - uc - 5 cell
+sk - mel - 110 cell
+osphradium
+myelinating schwann cell
+non - myelinating schwann cell
+gingival epithelium
+urotsa cell
+fepd cell
+253j - p cell
+psammomatous meningioma cell
+psammoma body
+stratum intermedium
+meningothelial meningioma cell
+1205 - lu cell
+46br .1g1 cell
+46brligi cell
+b - cell leukemia cell
+astc - a - 1 cell
+breast hyperplasia cell
+usual ductal hyperplasia cell
+atypical ductal hyperplasia cell
+ax - 2 cell
+b6tert - 1 cell
+cama - 1 cell
+cend cell
+hek - 293 - trkb cell
+htoxar - 3 cell
+gm - 3299 cell
+gm - 4408 cell
+hek - 293ft cell
+hela - 229 cell
+kr - 4 cell
+cw - 2 cell
+mv3 cell
+fanconi anemia disease specific cell type
+hei - 193 cell
+hn - 30 cell
+hn - 12 cell
+ht - 168 cell
+wm - 983 / b cell
+m1 melanoma cell
+lncap - 17 cell
+lncap - 34 cell
+lhcn - m2 cell
+mgso - 3 cell
+macl - 1 cell
+mda - pca - 2b cell
+l87 / 4 cell
+l88 / 5 cell
+midgut epithelium
+macrophage foam cell
+scale
+j7 hepatoma cell
+j5 hepatoma cell
+su - dhl - 1 cell
+tzm - bl cell
+uacc - 903 cell
+pc - 12k cell
+m93 - 047 cell
+uacc - 647 cell
+uacc - 1273ev cell
+3t3 - swiss albino cell
+mrc - 5v1 cell
+pam212 cell
+sk - co15 cell
+me665 / 2 / 21 cell
+me665 / 2 / 60 cell
+pc3 - mm2 cell
+nb5 cell
+nb14 cell
+m9a cell
+nt2 - rho0 cell
+kg - 1a cell
+ll24 cell
+foot sole
+kle cell
+llc - wrc 256 cell
+periurethral tissue
+skin mucus
+vocal fold
+common penile artery
+arteria profunda penis
+arteria bulbi penis
+arteria dorsalis penis
+perichondrium
+inner chondrogenic layer of perichondrium
+outer fibrous layer of perichondrium
+intercalated cell
+leaf sheath
+h4 - c99 cell
+epithelial stem cell
+skin stem cell
+epidermal stem cell
+follicular stem cell
+implantation fossa
+scc - 15 cell
+nb - 1 cell
+ameloblastoma cell
+hacat ii - 4 cell
+tramp - c1 cell
+tramp - c3 cell
+tramp - c2 cell
+salivary duct
+rgc - 5 cell
+pleural mesothelioma cell
+neuroectodermal tumor cell
+pc3 - b1 cell
+ovarian cyst
+ovarian cyst fluid
+platysma muscle
+sternocleidomastoid muscle
+myc - cap cell
+mcf - 10a neot cell
+m12 prostate cancer cell
+a2780 / s cell
+a2780 / r cell
+arrector pili muscle
+ccd - 986sk cell
+adenomatoid odontogenic tumor cell
+d - 283med cell
+es - e14 cell
+rst - 307 cell
+mtc - 1 cell
+hep - 3 cell
+h273 cell
+rheumatoid arthritis disease specific giant cell
+ameloblastic layer
+ocut - 2 cell
+ktc - 1 cell
+hth - 7 cell
+hth - 74 cell
+hth - 83 cell
+c - 643 cell
+anococcygeus muscle
+anterior horn
+a2780 / cddp cell
+cem - vbl10 cell
+cem - vbl16 cell
+cem - vbl100 cell
+caco - 2 / bbe cell
+juxtaglomerular apparatus
+juxtaglomerular cell
+extraglomerular mesangial cell
+oil gland
+kat - 18 cell
+fb - 1 cell
+colo - 16 cell
+hkesc - 1 cell
+hkesc - 2 cell
+hkesc - 3 cell
+hsc - 1 cell
+jj012 cell
+hcmec cell
+keratocyte
+snu - 620 cell
+mda - mb - 231 - luc2 cell
+umr - 106 - 01 cell
+mel120 cell
+panc - 02 cell
+l - 540 cell
+bcwm .1 cell
+pwr - 1e cell
+psn - 1 cell
+pterygium
+rzm6 - lc cell
+tov - 112d cell
+tov - 21g cell
+svgp12 cell
+chondroma cell
+h4 - app751 cell
+tte - 1 cell
+trunk kidney
+head kidney
+sarcomatoid carcinoma cell
+patu - 8988 cell
+mcf - 7 / adr cell
+h4tg cell
+fine root
+k - 562 / r7 cell
+kbv200 cell
+peltate gland
+adipose - derived stem cell
+cem - adr5000 cell
+bulbil
+ca9 - 22 cell
+cerebral artery
+middle cerebral artery
+left middle cerebral artery
+right middle cerebral artery
+syntrophic cell culture
+choriodecidua
+cervical intraepithelial neoplasia cell
+circular smooth muscle
+longitudinal smooth muscle
+kb - c2 cell
+keratocyst
+lngk - 9 pca cell
+mc57 cell
+osteophyte
+pc - 3m cell
+pc - 3m - ln4 cell
+pc - 3m - pro4 cell
+drosophila d17 cell
+hfob 1 .19 cell
+cho - cur3 cell
+medial pterygoid muscle
+xc cell
+yt cell
+xc - v cell
+stem juice
+t - rex 293 cell
+pharyngeal epithelium
+msk - leuk1 cell
+mle - 15 cell
+nci - h1650 cell
+culture condition:cd19 +  cell
+culture condition:cd31 +  cell
+culture condition:cd103 +  cell
+m - 07e cell
+m - 07 cell
+cne - 2 cell
+ink sac
+36b - 10 cell
+chp - 100 cell
+chp - 126 cell
+rpmi - 1788 cell
+w001c cell
+oropharynx
+oropharyngeal cancer cell
+mgl - 8 cell
+nef cell
+her 14 cell
+mucoepidermoid carcinoma cell
+nonparenchymal liver cell
+cirrhosis disease specific cell type
+293 - f freestyle cell
+neuropil
+antennal lobe
+haoaf cell
+anterior hypodermis
+radical leaf
+adventitious root
+adventitious root culture
+hpk1a - ras cell
+hpk1a cell
+cag cell
+cestode
+caco - 2 / 15 cell
+intercostal muscle
+wehi - 3b cell
+ts - 20 cell
+uml - 49 cell
+npd - 2 cell
+13 - 90 cell
+2102ep cell
+cl - 48 cell
+col - 2 cell
+te 353 .sk cell
+nci - h1155 cell
+nci - h2347 cell
+nci - h647 cell
+hcc - 38 cell
+kbh5 .0 cell
+meg - 01s cell
+mum - 2b cell
+mum - 2c cell
+nprec cell
+gi - 102 cell
+as - 8 cell
+corn ear
+uams - 32 cell
+a - 716 cell
+mtop2beta - 4 cell
+mtop2beta - 5 cell
+sf - xl cell
+amoeba
+nerve sheath
+nerve sheath cancer cell
+peripheral nerve sheath cancer cell
+malignant peripheral nerve sheath cancer cell
+cbrh - 7919 cell
+cerebrovascular cell
+embryonic germ cell
+min6 - n8 cell
+b6suta1 cell
+chronic myelogenous leukemia progenitor cell
+culture condition:chrysene - grown cell
+culture condition:methanesulfonylmethane - grown cell
+rwleu - 4 cell
+sk - mel - 23 cell
+ukrv - mel - 4 cell
+ukrv - mel - 2 cell
+ma - mel - 01 cell
+ma - mel - 04 cell
+ma - mel - 05 cell
+ma - mel - 11 cell
+ma - mel - 12 cell
+ma - mel - 17 cell
+ma - mel - 19 cell
+ma - mel - 37b cell
+ma - mel - 42b cell
+ma - mel - 47 cell
+ma - mel - 52 cell
+ukrv - mel - 06a cell
+ukrv - mel - 21a cell
+ukrv - mel - 27 cell
+ukrv - mel - 31 cell
+optic cup
+1 - ln cell
+abrams cell
+d17 cell
+grey cell
+hughes cell
+ingles cell
+jarques cell
+marisco cell
+all - sil cell
+amphidial gland
+trophoblast giant cell
+cos - 31 cell
+d - 54mg cell
+ecc - 1 cell
+nci - h526 cell
+h - 69ar cell
+hcc - 1954 cell
+hmpos cell
+ccrf - hsb - 2 cell
+hymenium
+sk - n - mc - ixc cell
+okf - 6 cell
+p - 93af cell
+rd cell
+rh - 1 cell
+rh - 30 cell
+rh - 18 cell
+rh - 4 cell
+rh - 5 cell
+rh - 3 cell
+rh - 28 cell
+root quiescent center
+u - 1752 cell
+sum - 102pt cell
+sum - 149 cell
+sum - 44pe cell
+sum - 52pe cell
+sum - 225 cell
+sum - 229 cell
+sum - 190 cell
+sum - 185 cell
+58crpm cell
+skmg cell
+sh - ep cell
+patuo - 2 cell
+pos cell
+bph cell
+junctional zone
+spongiotrophoblast
+glycogen cell
+labyrinthine zone
+velum
+terminal ampoule
+fibrocarcinoma cell
+mnng / hos cell
+plant oil gland
+mdck - mdr1 cell
+melan - a hm cell
+nci - h2170 cell
+nb - 69 cell
+nw - 1539 cell
+nw - 624 cell
+plhc - 1 / dox cell
+stkm - 1 cell
+vgamma9vdelta2 t - lymphocyte
+bm3 - c2 cell
+panicle
+mammary luminal epithelial cell
+ho - 8910 cell
+lu - 134 - b cell
+pc - 7 cell
+lateral root
+sbc - 1 cell
+stkm - 2 cell
+root nodule primordium
+rectal epithelium
+plant septum
+vmm39 cell
+arl - 15c1 cell
+arl - 16t2 cell
+b - 12 cell
+c32 - tg cell
+c6 / 36 cell
+culture condition:cd4 +  cell
+corpus cavernosum
+cotyledonary node
+fm - 516 - sv cell
+nce - g55t2 cell
+gp - 202 cell
+haepi cell
+hbe135 - e6e7 cell
+hemolymph vessel
+huh - 7 .5 .1 cell
+ime cell
+intercalary meristem
+ipa - 220 cell
+kku - m139 cell
+labial palp
+rpk - 9 cell
+rpk - 1 cell
+rpk - 59 cell
+rtg - 2 cell
+rtg - p1 cell
+sob - 15 cell
+sum - 149pt cell
+sum - 185pe cell
+sum - 190pt cell
+sum - 225cwn cell
+sum - 229pe cell
+wm - 278 cell
+38e6e7hfk cell
+molluscan catch muscle
+dld - 1 / alpha - cat cell
+mc - 3t3 cell
+pk - 9 cell
+pk - 59 cell
+mlo - y4 cell
+mm - 1 cell
+mo - 91 cell
+mt - 2 cell
+mv1lu cell
+n - 1511 cell
+nc - 37 cell
+nhem - neo cell
+hnpc cell
+nyh cell
+qgp - 1 cell
+sw - 2 cell
+panc1 - bc2gnt - m cell
+fungal sporangium
+fungal sporangiophore
+basal node
+cercaria
+gonadal sheath cell
+leaf vein
+wood
+lyophilized cell
+pc - 9 cell
+spermathecal - uterine valve
+uterine seam cell
+gm0536 cell
+plant epidermal cell
+plant lip
+plant primordium
+axillary bud primordium
+lateral root primordium
+plant secretory cell
+plant hair
+plant glandular hair
+plant scale
+plant zygote
+fungal primordium
+arcuate nucleus
+culture condition:cd56 +  cell
+inflorescence primordium
+para - high vocal center
+hek - 293et cell
+nih - 3t3 - ras cell
+8505c cell
+abdominal aorta aneurysm disease specific cell type
+vertebral endplate
+aortic intima
+b7e3 cell
+basal prostate epithelium cell
+luminal prostate epithelium cell
+bp - all cell
+t / c - 28a4 cell
+caki - dtub cell
+c8 - mef cell
+c9 - mef cell
+dental lamina
+ebv - b cell
+embryonic tracheal system
+epithelial lining fluid
+esophageal adenocarcinoma cell
+gastrointestinal mucosa
+hfdpc cell
+hae cell
+hce - 4 cell
+hce - 6 cell
+ileum smooth muscle
+inguinal canal
+lymphangioleiomyomatosis disease specific cell type
+acute undifferentiated leukemia cell
+wdnet cell
+vestibular sensory epithelium
+ra - 2 cell
+prepolar cell
+peg cell
+oviduct ciliated cell
+mesolimbic dopaminergic system
+mesocortical dopaminergic system
+mesocorticolimbic dopaminergic system
+metastatic renal cell carcinoma cell
+microplantlet suspension culture
+epitheloid cell
+langhans giant cell
+peritubular contractile cell
+periodontal ligament cell
+outer nuclear layer
+paracentral lobule
+anterior paracentral gyrus
+posterior paracentral gyrus
+pulmonary neuroendocrine tumor cell
+precerebellar system
+gamma delta t - lymphocyte
+ventricular aneurysm disease specific cell type
+b16 - bl6t cell
+bl - 6 cell
+bmc - 2 cell
+bma cell
+km - 20c cell
+asp - 86 cell
+sly - 1 cell
+subpharyngeal region
+cladode
+cce - 24 cell
+hep - g2 / 2 .15 cell
+k3ohd cell
+ne - 4c cell
+ne - gfp - 4c cell
+osteoarticular cell
+parametrium
+parametrial fat pad
+satellite glial cell
+sensory ganglion
+g3 / f11 cell
+sympodium
+monopodium
+tig - 7 cell
+idiopathic pulmonary fibrosis disease specific cell type
+lf1 cell
+lf2 cell
+aortic adventitial fibroblast
+awn
+nerve ring
+th17 cell
+z - 12 cell
+adrenal cortex steroidogenic cell
+testis steroidogenic cell
+ovarian steroidogenic cell
+corolla tube
+buccal mass
+buccal muscle
+coga - 1a cell
+coga - 13 cell
+caco - 2 / aq cell
+nci - h889 cell
+dms - 53 cell
+nci - h295a cell
+c - 20 / a4 cell
+kgn cell
+lncap - c4 - 2 cell
+lncap - cl1 cell
+sw - 60 cell
+bnl - hcc cell
+vaginal mucosa
+bmn4 - sid1 cell
+cervicovaginal cell
+small luteal cell
+large luteal cell
+storage root
+2b4 - t cell
+vk - 2 / e6e7 cell
+myp - 30 cell
+shoot apical meristem
+atrioventricular node
+bmn4 cell
+rcc - 4 cell
+column
+lateral nerve cord
+stem leaf
+sensorimotor area
+amoeboid microglia
+atrichoblast cell
+trichoblast cell
+milk gland
+headfoot muscle
+hey - 1b cell
+hmeec cell
+igr - 3 cell
+m5 melanoma cell
+mel007 cell
+mel - at cell
+mel - cv cell
+mel - fh cell
+mel - rm cell
+me4405 cell
+mm200 cell
+mel - jd cell
+mel - rmu cell
+molm - 14 cell
+qgy - 7703 cell
+retrocerebral organ
+cerebral organ
+cg - 4 cell
+lunet - con1 cell
+uok - 262 cell
+gynophore
+chemoreceptor cell
+hepa - rg cell
+hmvec cell
+transfer cell
+plant stem cell
+lateral meristem
+mature stage
+vegetative stage
+shi - 1 cell
+gynostemium
+igr - 37 cell
+ac2m2 cell
+16 - hbe cell
+dentate granule cell
+c8161 .9 cell
+cho - 13 - 5 - 1 cell
+cho - a7 cell
+choroid plexus papilloma cell
+decidual stromal cell
+ec - 9706 cell
+eca - 109 cell
+epitheliocyte
+2ftgh cell
+a2780 / cp cell
+buccal gland
+epididymal epithelium
+ho - 1 - n - 1 cell
+ho - 8910pm
+huh - 1 cell
+ipc - 298 cell
+kbm - 7 cell
+ln - 71 cell
+midgut diverticulum
+myeloblastoma cell
+nci - h1838 cell
+wm - 902b cell
+thle - 5b cell
+tenocyte
+syncytium
+embryonic syncytium
+snu - 1 cell
+skeletal muscle satellite cell
+sh - ep1 cell
+root band
+promyelocyte
+enamel knot
+primary enamel knot
+secondary enamel knot
+osteoma cell
+peo - 1 cell
+peo - 4 cell
+peo - 6 cell
+corticotroph adenoma cell
+neu - 7 cell
+k - 562 / cp cell
+dentate gyrus hicap cell
+dentate gyrus hipp cell
+dentate gyrus is - i cell
+dentate gyrus is - ii cell
+flexor tendon
+gi - la - n cell
+gi - me - n cell
+hmvec - dly cell
+immune system
+cigar leaf
+bel - 7404 cell
+a - 375 .s2 cell
+a549 - cr cell
+adrenocortical cell
+bin - 67 cell
+histaminergic neuron
+cath .a cell
+cmt - 167 cell
+cochlear hair cell
+hair - cell stereocilium
+vestibular hair cell
+ctenidium
+detroit - 551 cell
+faa - htc1 cell
+frontoparietal cortex
+leukodystrophy disease specific cell type
+globoid cell leukodystrophy disease specific cell type
+globoid cell
+plant gall
+infectious granuloma cell
+granuloma cell
+nci - h1792 cell
+nci - h1944 cell
+head and neck cancer cell
+hek - 293vnr cell
+hs888lu cell
+hunter's organ
+sach's organ
+hvec cell
+imr - 5 cell
+johnston's organ
+k - 457 cell
+kb - cp .5 cell
+mucinous ovarian adenocarcinoma cell
+sccoht - 1 cell
+pronephric tubule
+scc - 9 cell
+root apex
+root cortex
+root pericycle
+kns - 42 cell
+la1 - 55n cell
+sk - mel - 24 cell
+u - 251sp cell
+mda435 / lcc6 cell
+mda435 / lcc6mdr1 cell
+lncap - c4 cell
+miracidium
+movas cell
+naive t - lymphocyte
+nmb cell
+noy - 1 cell
+kms - 11 / ntko cell
+kms - 11 / tko cell
+papillary adenocarcinoma cell
+pa - tu - 8988t cell
+pa - tu - 8988s cell
+res - 186 cell
+res - 259 cell
+scolopidium
+uacc - 3291 cell
+scolopale cap cell
+scolopale cell
+seedpod
+sk - 6 cell
+uw - 479 cell
+wif - b cell
+xylem parenchyma cell
+sporocyst
+svog - 3e cell
+nonpigmented ciliary epithelium
+pigmented ciliary epithelium
+uacc - 1308 cell
+uacc - 1940 cell
+uacc - 2534 cell
+uacc - 502 cell
+uacc - 91 cell
+difi cell
+dms - 273 cell
+em - 2 cell
+em - 3 cell
+fu - 97 cell
+h - meso - 1 cell
+im - 95 cell
+jurl - mk1 cell
+jurl - mk2 cell
+km - 20l2 cell
+lp - 1 cell
+mec - 1 cell
+mec - 2 cell
+nci - h727 cell
+nomo - 1 cell
+nugc - 4 cell
+ocum - 1 cell
+opm - 2 cell
+snu - 1076 cell
+snu - 1214 cell
+snu - 1066 cell
+snu - 899 cell
+snu - 585 cell
+snu - 46 cell
+pl - 21 cell
+sch cell
+c3h10t1 / 2 clone 8 cell
+cem - c2 cell
+sum cell
+sum - 1315mo2 cell
+axial nerve cord
+cwr22 - r1 cell
+pharyngeal tooth
+gynoecial nectary
+sepal nectary
+staminal nectary
+petal nectary
+mesenteric adipose tissue
+epididymal white adipose tissue
+perirenal adipose tissue
+ho - 1 - u - 1 cell
+glioblastoma multiforme cell line
+bt - 145 cell
+bt - 159 cell
+bt - 245 cell
+bt - 172 cell
+dipg - 6 cell
+dipg - 4 cell
+umnsah / df - 1 cell
+extrastaminal nectary
+ovarian follicular epithelium
+thyroid follicular epithelial cell
+ovarian follicular epithelial cell
+gm03440 cell
+gm - 95 cell
+hcc - 70 cell
+hib - 1b cell
+hl - 7702 cell
+nci - h1688 cell
+hutu - 80 cell
+kosc - 2 cell
+kosc - 3 cell
+mcf - 7 / lcc9 cell
+culture condition:mccoys 5a medium - grown cell
+mi8 - 5 cho cell
+muellerian body
+nci - h1048 cell
+nci - h1672 cell
+nci - h1963 cell
+nci - h2029 cell
+nci - h2171 cell
+nci - h740 cell
+auditory capsule
+p69 prostate cancer cell
+plant ear
+head and neck squamous cell carcinoma cell
+hepatoma hle cell
+cho - lec4 cell
+cho - lec4a cell
+mesonephric duct
+pronephric duct
+pseudostem
+rwpe - 2 cell
+um - scc - 11b cell
+st - 2 cell
+walking leg
+chelate leg
+wpe - int cell
+gsc cell line
+0308 cell
+0822 cell
+1228 cell
+brachial nerve
+pseudopalisading cell
+lb - 24 - mel cell
+choroid plexus epithelium
+sune - 1 cell
+5 - 8f cell
+6 - 10b cell
+13 - 9b cell
+anterior horn cell
+axillary bud meristem
+bre - 80 cell
+c - 4 - i cell
+cormel
+ct26 .wt cell
+ct26 .cl25 cell
+female accessory gland
+nci - h2110 cell
+nci - h2172 cell
+nci - h2228 cell
+nci - h820 cell
+hcc - 2279 cell
+hcc - 94 cell
+hcc - 95 cell
+hcc - 1171 cell
+hep - g2 / adm cell
+hoc - 313 cell
+huasmc cell
+jvm - 3 cell
+kenyon cell
+krib cell
+foramen magnum
+l - wnt - 3a cell
+lk - 87 cell
+mda - mb - 415 cell
+mesophyll cell
+mmt - 060562 cell
+nci - h1581 cell
+nb4 - lr1 cell
+nb4 - lr2 cell
+np - 69 cell
+ph5ch cell
+ph5ch - 8 cell
+ph5ch - 1 cell
+ph5ch - 7 cell
+pharyngeal arch cartilage
+sjnb - 10 cell
+sjnb - 1 cell
+sjnb - 6 cell
+sjnb - 8 cell
+sjnb - 12 cell
+skw - 3 cell
+tca - 8113 cell
+te - 03 cell
+wa - 01 cell
+wa - 07 cell
+wa - 09 cell
+yac - 1 cell
+x - organ - sinus - gland complex
+bt - 474 - lr cell
+rhypoe - 22 cell
+or - 6 cell
+li - 23 cell
+orl - 8 cell
+tongue epithelial cell line
+cne - 1 cell
+mhypoe - n43 / 5 cell
+benign prostatic hyperplasia cell
+saec cell
+hpsc cell
+hesc cell
+hipsc cell
+tscca cell
+u - 87mg / ddp cell
+uninucleate trophoblast cell
+212ln cell
+hs - sy - 2 cell
+caudolateral nidopallium
+kel - fib cell
+ccd - 1113sk cell
+hcc - 1569 cell
+hela - hl3t1 cell
+htert - hpne cell
+lncap clone fgc
+heka cell
+root apical meristem
+s2 - 028 cell
+plant protocorm
+insect protocorm
+activated skeletal muscle satellite cell
+quiescent skeletal muscle satellite cell
+skeletal muscle satellite stem cell
+adrenal adenoma cell
+m1 macrophage
+m2 macrophage
+fibro - adipogenic progenitor cell
+megaspore
+mel - c19 cell
+mesenterial filament
+microsclerotium
+middle silk gland
+mycn2 cell
+villous cytotrophoblast
+synergid cell
+tu - kato - iii cell
+t - 98 cell
+c3abr cell
+at1abr cell
+at25abr cell
+adventitious root primordium
+spinothalamic tract
+lateral spinothalamic tract
+anterior spinothalamic tract
+corticospinal tract
+forespore
+culture condition:gr1 +  cell
+hne - 1 cell
+hone - 1 cell
+hs - 27 cell
+internal capsule
+npc - tw03 cell
+sn4741 cell
+lu - 99 cell
+m4a4 lm3 - 4 cl16 gfp cell
+mhcc - lm3 cell
+nm2c5 cell
+nm2c5 - gfp cell
+culture condition:corn steep liquor - grown cell
+ihh cell
+flp - in - t - rex cell
+plasmablastic lymphoma cell
+coral nubbin
+microtome section
+nigrostriatal system
+olivocerebellar fiber system
+root vascular cylinder
+rubrospinal tract
+olivopontocerebellar fiber
+pontocerebellar fiber
+c - 2 cell
+nucleus preopticus lateralis
+nucleus preopticus medialis
+nucleus preopticus medianus
+nucleus preopticus periventricularis
+syncytial embryo sac
+testicular somatic cell
+trichilium
+inferior temporal gyrus
+middle temporal gyrus
+superior temporal gyrus
+temporal gyrus
+cardiac tube
+endocardial heart tube
+buffy coat
+venous blood cell
+arterial blood cell
+mouth floor
+buffy coat cell
+air pouch cell
+venous blood
+arterial blood
+protoperithecium
+cybrid cell
+cumulus - oocyte complex
+glomus cell
+aortic body
+aortic arch
+ec - 18 cell
+vertebra
+kyse - 140 cell
+250mk cell
+3d4 / 21 cell
+76nf2v cell
+aml - 193 cell
+caki - 2 cell
+serotonergic neuron
+extravillous cytotrophoblast
+extravillous cytotrophoblast cell
+extravillous trophoblast cell
+hipec - 65 cell
+hmt - 3522 t4 - 2 cell
+htc - c3 cell
+htr - 8 cell
+kelly cell
+kij - 265t cell
+kij - 308t cell
+leaf epidermal cell
+chondrogenic mct cell
+mda - mb - 157 cell
+neuromast
+uacc - 812 cell
+u - 343mg cell
+olfactory placode
+neural ectoderm
+op - 6 cell
+olfactory placode cell line
+op - 27 cell
+rerf - lc - ai cell
+mds - 92 cell
+mds - l cell
+interfascicular cambium
+interfascicular region
+pk - 15cd163 cell
+endomysium
+bacteriocyte
+blood - brain barrier
+culture condition:cd11c +  cell
+dermatome
+dorsal endoderm
+epibranchial ganglion
+uwb1 .289 cell
+uwb1 .289 + brca1 cell
+sclerotome
+solid cancer cell
+oral sucker
+ventral sucker
+pluteus
+gm02784 cell
+hl - 60 / s cell
+it - 79mtnc3 cell
+lncap - 95 cell
+mr49f cell
+subfornical organ
+circumventricular organ
+organum vasculosum laminae terminalis
+aci - 45 cell
+uterine carcinosarcoma cell line
+em - e6e7tert - 1 cell
+em - e6e7tert - 2 cell
+em - e6e7tert - 3 cell
+sw - 1573 / s1 cell
+outer mantle
+inner mantle
+tubulointerstitium
+vas deferens ampulla
+yy - 8103 cell
+tig - 3 cell
+spc - a4 cell
+disc floret
+mgh - u3 cell
+mgh - u4 cell
+vero 2 .2 cell
+um - uc - 2 cell
+mbeta16tsa cell
+aag - 2 cell
+bwz .36 cell
+bwz .36 cd8 alpha cell
+celiac ganglion
+ch12f3 cell
+hepad38 cell
+gastric cecum
+hemolysate
+hepg2 - n10 cell
+mpkccd cell
+mull cell
+jc cell
+rhizodermis
+stichosome
+sw - 780 cell
+tcc - sup cell
+wif - b9 cell
+wif - b9 / r cell
+wi38 - va13 cell
+plantaris muscle
+taproot
+shell capitulum
+shell peduncle
+compound leaf
+plant rachis
+culture condition:beech wood - grown cell
+culture condition:wheat straw - grown cell
+hkig2 cell
+gc - 1 spg cell
+jump - in - t - rex hek293 cell
+a2780 / ad cell
+phoenix - ampho cell
+hek - 293t / 17 cell
+red nucleus
+proglottid
+strobila
+sj - gbm - 2 cell
+bm7 cell
+tmg - l cell
+tmcc - 2 cell
+uterine endometrial clear cell carcinoma cell
+excretory system
+excretory pore cell
+excretory duct cell
+excretory duct
+excretory gland cell
+cl1 - 5 - f4 cell
+ovarian follicle layer
+vitellocyte
+neoblast
+type a spermatogonium
+type b spermatogonium
+polyp
+glioma sphere - forming cell
+glomerular macrophage
+gm - 12878 cell
+ms - 1 cell
+renal oncocytoma cell
+renal neoplasm cell
+tig - 1 cell
+tex cell
+skin squamous cell carcinoma cell
+skov - 1 cell
+rmc cell
+rete mirabile
+pfeiffer cell
+diffuse large b - cell lymphoma cell line
+pericryptal fibroblast
+pci - 51 cell
+pc - 3ml cell
+opisthonephros
+oba - 9 cell
+npc - tw076 cell
+npc - tw039 cell
+u87dnd cell
+5tgm1 cell
+769 - p cell
+ahh - 1 cell
+ak - d cell
+bel - 7404 - cp20 cell
+bone lining cell
+ch12f3 - 2a cell
+chla - 90 cell
+cme - 1 cell
+sw - 982 cell
+cuvierian tubule
+eoc - 13 .31 cell
+ephyra
+fcwf - 4 cell
+fs - 293f cell
+ges - 1 cell
+hcc - 1806 cell
+hce - t cell
+hcm cell
+mcf - 10 - 2a cell
+hf - 19 cell
+hpmec cell
+interstitial macrophage
+ipec - j2 cell
+ipec - 1 cell
+jhu - 028 cell
+k - 1 cell
+glag - 66 cell
+k7m2 - wt cell
+k7 cell
+kb - cp20 cell
+kb - cp10 cell
+kb - cp5 cell
+mv - 4 - 11 cell
+oci - ly7 cell
+ovary clear cell adenocarcinoma cell line
+sertoli cell tumor cell
+scc - 25 / cp cell
+fd105 cell
+mhm cell
+kpd cell
+hek - 293 - appswe cell
+bcirl - hz - am1 cell
+bcirl - hz - am2 cell
+bcirl - hz - am3 cell
+bcirl - hv - am2 cell
+realized in
+143 - b cell
+hcclm - 3 cell
+hcclm - 6 cell
+bcirl - hv - am1 cell
+plant placenta
+white adipocyte
+brown adipocyte
+vagal lobe
+posterior tuberculum
+shuck
+phylloid
+oc - 314 cell
+oc - 315 cell
+oc - 316 cell
+nci - h2030 cell
+h - 414 cell
+hcc - 1438 cell
+hcc - 1500 cell
+hcc - 1833 cell
+culture condition:cd3 +  cell
+jeko - 1 cell
+af22 cell
+ccd - 1095sk cell
+efm - 19 cell
+f - 180 cell
+f - 184 cell
+fhcc - 98 cell
+peritoneal cancer cell
+hcclm - 9 cell
+hek - 293s cell
+hey - a8 cell
+hhl - 5 cell
+hpde6 - c7 cell
+um - uc - 1 cell
+hepg2 - vl17a cell
+kms - 12 - bm cell
+kms - 12 - pe cell
+kms - 26 cell
+su - dhl - 4 cell
+su - dhl - 2 cell
+muscle invasive bladder cancer cell
+intestinal stem cell
+lc - 2 / ad cell
+lncap - abl cell
+lp - 9 cell
+mda - mb - 231 - met2 cell
+miha cell
+gm01617 cell
+brain - corpora cardiaca - corpora allata complex
+rhizoid
+sai1 cell
+synencephalon
+related to

@@ -1,0 +1,242 @@
+b is an independent continuant = def .
+p is a process = def .
+b is a specifically dependent continuant = def .
+b is a generically dependent continuant = def .
+p is a process boundary =def .
+b is a continuant fiat boundary = def .
+b is a process_profile =def .
+b is a relational quality = def .
+any constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer etc . ,  identifiable as a separately distinguishable entity .
+a chemical entity is a physical entity of interest in chemistry including molecular entities ,  parts thereof ,  and chemical substances .
+the role of a material entity to prevent ,  diagnose ,  treat ,  or study disease and / or its effects
+a material entity  ( 1 )  containing at least one scattered molecular aggregate as part that is the bearer of an active ingredient role and  ( 2 )  that is itself the bearer of a clinical drug role
+a role of a scattered molecular aggregate that is part of a drug product that is realized by  ( 1 )  administration of the drug to an organism followed by  ( 2 )  some change in the structure or functioning of some part of the organism
+a role of a scattered molecular aggregate in aiding the manufacture ,  prolonging the shelf life ,  or ensuring proper administration of a drug product
+a role borne by a scattered molecular aggregate and realized by its grains participating in one or more processes
+un processus pendant lequel une ou plusieurs administrations de dose est supposã©e remplir un certain objectif de santã© .
+a crid symbol that is sufficent to look up a patient file in a medical record registry .
+a measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure .
+a directive information entity that describes an intended process endpoint .
+a directive information entity that describes an action the bearer will take
+a label is a symbol that is part of some other datum and is used to either partially define  the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+an information content entity that is a mark ( s )  or character ( s )  used as a conventional representation of another entity .
+a generically dependent continuant that is about some thing .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a data item that is an aggregate of other data items of the same type that have something in common .
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+a textual entity is a part of a manifestation  ( frbr sense )  ,  a generically dependent continuant whose concretizations are patterns of glyphs intended to be interpreted as words ,  formulas ,  etc .
+a textual entity intended to identify a particular author
+a collection of information content entities intended to be understood together as a whole
+an information content entity that is part of a document
+a symbol that is part of a crid and that is sufficient to look up a record from the crid's registry .
+an information content entity that consists of a crid symbol and additional information about the crid registry to which it belongs .
+a crid registry is a dataset of crid records ,  each consisting of a crid symbol and additional information which was recorded in the dataset through a assigning a centrally registered identifier process .
+a textual entity that denotes a particular in reality .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+a role which inheres in a person and is realized by the process of being under the care of a physician or health care provider
+a role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation
+an organization is a continuant entity which can play roles ,   has members ,  and has a set of organization rules .
+a material entity that consists of all the molecules of a specific type that are located in some bounded region and which is part of a more massive material entity that has parts that are other such aggregates
+a planned process with the objective of collecting a specimen .
+a objective specification to obtain a material entity for potential use as an input during an investigation .
+a directive information entity that describes the dose that will be administered to a target
+a crid symbol used to distinguish one individual organism from another .
+a value specification that specifies the mass of some thing .
+a value specification that is specifies one category out of a fixed number of nominal categories
+a value specification that consists of two parts: a numeral and a unit label
+an information content entity that specifies a value within a classification scheme or on a quantitative scale .
+a material entity that has two or more specimens as its parts .
+une spã©cification de valeur qui indique un volume .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a material entity that has the specimen role .
+a quality of a patient that is observed by the patient or a processual entity experienced by the patient ,  either of which is hypothesized by the patient to be a realization of a disease .
+a quality of a patient ,  a material entity that is part of a patient ,  or a processual entity that a patient participates in ,  any one of which is observed in a physical examination and is deemed by the clinician to be of clinical significance .
+a quality which is an spatial arrangement or distribution of a ( n )  independent continuant ( s )  across a three dimensional region .
+a processual entity whose completion is hypothesized  ( by a healthcare provider )  to alleviate the signs and symptoms associated with a disorder
+a temporally - connected health care process that has as participants an organization or person realizing the health care provider role and a person realizing the patient role .
+a planned process whose completion is hypothesized by a health care provider to reduce the risk of developing a disorder or the signs and symptoms of a disorder .
+a data set that contains the outcome of a survey .
+a plan specification that is realized by  process of gathering information  ( e .g .
+a document that contains information representing health - relevant qualities of a patient written in a chronological manner and that is primarily used for patient care in a clinical setting .
+a planned process that realizes the concretization of a survey to generate an output ( survey data . ) 
+a role in human social processes that is realized by health care processes such as seeking or providing treatment for disease and injury ,  diagnosing disease and injury ,  or undergoing diagnosis .
+a human health care role inhering in an organization or human being that is realized by a process of providing health care services to an organism .
+a role that inheres in an organization and that is realized by the providing of services in a health care encounter .
+an object aggregate of objectual organisms .
+a role inhering in an entity realized by social interactions in human society .
+a role in human social processes that inheres in an organization .
+an organization social role that is realized by a health care process .
+an object aggregate that is not itself an organization and whose members are only organizations that have some feature in common
+a material entity that is a human made strcuture with firm connection between its foundation and the ground .
+an architectural structure that bears some function .
+a name of a person ,  which can have different types
+a person name that is given at birth
+a woman's surname before marriage
+a person name that includes both the first and last name
+a dependent entity that inheres in a bearer by virtue of how the bearer is related to other entities
+a quality of a single physical entity inhering in the bearer by virtue of the bearer's size or shape or structure .
+a morphology quality inhering in a bearer by virtue of the bearer's physical magnitude .
+a physical quality that inheres in a bearer by virtue of the proportion of the bearer's amount of matter .
+a 3 - d extent quality inhering in a bearer by virtue of the bearer's amount of 3 - dimensional space it occupies .
+a quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities .
+a quality which inheres in a continuant .
+a monadic quality of continuant that exists at the cellular level of organisation .
+a cellular quality inhering in a bearer by virtue of bearer's number of nuclei .
+a nucleate quality inhering in a bearer by virtue of the bearer's having no nucleus .
+a size quality inhering in an bearer by virtue of the bearer's extension in three dimensions .
+une condition de temps ã©coulã© depuis une distribution de mã©dicaments .
+un document crã©ã© par un fournisseur de soin indiquant comment rã©aliser une partie d'un processus de santã© pour un patient particulier .
+une identification d'auteur oã¹ l'auteur est un fournisseur de soins particulier et le document en question est une prescription .
+un nom ã©crit faisant rã©fã©rence ã  un patient particulier .
+the mass of an active ingredient aggregate .
+une entitã© textuelle indiquant l'instant de crã©ation d'un document .
+une identification de l'instant de crã©ation d'un document qui est une prescription mã©dicale .
+une entitã© informationnelle directive qui est composã©e par une spã©cification dâadministration de mã©dicament et une spã©cification de distribution de mã©dicament .
+une spã©cification de site dâadministration de mã©dicament dans une spã©cification d'administration de mã©dicament faisant partie d'une prescription de mã©dicament .
+une entitã© de contenu informationnel qui spã©cifie une caractã©ristique dâun mã©dicament prescrit .
+un ã©lã©ment de donnã©es qui fournit une information sur un mã©dicament .
+un traitement composã© d'une ou plusieurs administrations de doses .
+une spã©cification de valeur qui spã©cifie un instant temporel .
+une entitã© informationnelle indiquant la ou les voies d'administration d'un mã©dicament .
+une spã©cification de valeur de masse indiquant la masse d'un aggrã©gat d'ingrã©dient actif .
+une entitã© de contenu informationnel qui spã©cifie la force dâun mã©dicament prescrit .
+une ordonnance indiquant une initiation ,  modification ou arrãªt de l'administration de mã©dicaments .
+un ã©lã©ment d'information sur un mã©dicament ã  propos de une ou plusieurs magnitudes d'activitã© biologique ,  masses ou quantitã©s d'aggrã©gat d'ingrã©dient actif par unitã© de mã©dicament .
+un ã©lã©ment d'information de force mã©dicamenteuse oã¹ l'unitã© de quantitã© de mã©dicament est une forme de dose mã©dicamenteuse solide et discrã¨te .
+un ã©lã©ment d'information de force mã©dicamenteuse oã¹ l'unitã© de quantitã© de mã©dicament est une unitã© de volume .
+un ã©lã©ment d'information de force mã©dicamenteuse oã¹ l'unitã© de quantitã© de mã©dicament est une unitã© de masse .
+une entitã© de contenu informationnel qui spã©cifie la durã©e pendant laquelle une dose doit ãªtre administrã©e de maniã¨re continue .
+une entitã© de contenu informationnel qui spã©cifie le taux initial auquel une dose doit ãªtre administrã©e .
+un ã©lã©ment d'information sur un mã©dicament dã©notant un de ses ingrã©dients .
+un nom de mã©dicament non - gã©nã©rique donnã© par l'entreprise pharmaceutique qui le produit .
+un ã©lã©ment d'information sur un mã©dicament concernant sa forme  ( par exemple pilule orale ,  crã¨me topique ,  liquide intraveineux ,  liquide oral )  .
+un processus ayant comme participants un organisme ã©tendu et un mã©dicament ,  ã  l'issue de laquelle une certaine dose du mã©dicament est localisã©e dans l'organisme ã©tendu .
+a condition  that is true if and only if some sign is present in an individual .
+une condition sur le temps ã©coulã© depuis une dose antã©rieure qui est vraie si et seulement si le temps ã©coulã© est plus petit quâune certaine durã©e .
+une entitã© textuelle qui fait rã©fã©rence ã  un type de mã©dicament .
+une entitã© de contenu informationnelle qui spã©cifie la forme de dose dâun mã©dicament prescrit .
+une entitã© de contenu informationnel qui spã©cifie un excipient dâun mã©dicament prescrit .
+une entitã© de contenu informationnel qui spã©cifie un ingrã©dient actif dâun mã©dicament prescrit .
+un nom de mã©dicament gã©nã©rique donnã© par l'entreprise pharmaceutique qui le produit .
+une condition qui est vraie si et seulement si lâinstant prã©sent est antã©rieur ã  un instant donnã© .
+une condition qui est vraie si et seulement si lâinstant prã©sent est postã©rieur ã  un instant donnã© .
+une condition qui est vraie si et seulement si lâinstant prã©sent est approximativement un instant donnã© .
+une condition sur le temps ã©coulã© depuis une dose antã©rieure qui est vraie si et seulement si le temps ã©coulã© est plus grand quâune certaine durã©e .
+une condition sur le temps ã©coulã© depuis une dose antã©rieure qui est vraie si et seulement si le temps ã©coulã© est ã©gal ã  une certaine durã©e .
+une entitã© de contenu informationelle qui spã©cifie une classe de mã©dicament prã©vu pour ãªtre administrã© .
+une spã©cification de valeur catã©gorique qui spã©cifie un jour de la semaine .
+un ã©lã©ment d'information sur un mã©dicament dã©notant un de ses excipients .
+une condition de temps ã©coulã© depuis la premiã¨re administration de dose d'une certaine administration de mã©dicament .
+une condition de temps ã©coulã© depuis la derniã¨re administration de dose d'une certaine administration de mã©dicament .
+une condition sur la pã©riode actuelle situant la pã©riode actuelle relativement ã  un instant donnã© .
+un ã©tablissement de santã© qui a pour fonction d'entreposer ,  prã©parer ,  distribuer et surveiller l'utilisation des mã©dicaments parmi les patients d'une zone gã©ographique donnã©e ou suivis dans une organisation de soin donnã©e .
+une entitã© textuelle qui permet l'identification d'un excipient .
+une condition faisant intervenir le nombre de doses administrã©es dans une administration de mã©dicament .
+une condition de nombre de doses dâadministration de mã©dicament qui est vraie si et seulement si exactement un certain nombre dâadministration de doses ont ã©tã© effectuã©es .
+un processus dans lequel un fournisseur de soin sã©lectionne physiquement un mã©dicament particulier comme indiquã© sur une spã©cification de mã©dicament .
+une condition de nombre de doses dâadministration de mã©dicament qui est vraie si et seulement si moins dâun certain nombre dâadministration de doses ont ã©tã© effectuã©es .
+une condition de nombre de doses dâadministration de mã©dicament qui est vraie si et seulement si plus dâun certain nombre dâadministration de doses ont ã©tã© effectuã©es .
+a condition  that is true if and only if the time elapsed since some dispensing is greater than some duration .
+un role de prestataire de soin qui fournit un service d'identification ,  de prã©paration ,  de distribution et de contrã´le de mã©dicaments .
+une condition qui est vraie si et seulement si un certain processus est fini .
+une condition qui est vraie si et seulement si une certaine administration de mã©dicament est finie .
+une condition qui est vraie si et seulement une certaine administration de dose est finie .
+une condition qui est vraie si et seulement si une certaine intervention chirurgicale est finie .
+une entitã© de contenu informationnel spã©cifiant une entitã© anatomique qui doit entrer en contact avec le mã©dicament administrã© pendant une administration de dose .
+an action specification that specifies the dispensing of a drug product .
+le numã©ro d'identification d'une drogue  ( din )  est un numã©ro de huit chiffres gã©nã©rã© par un ordinateur qui est attribuã© par santã© canada avant d'ãªtre commercialisã© au canada .
+une spã©cification de valeur scalaire spã©cifiant le nombre dâadministration de doses mesurã©es .
+un processus planifiã© pendant lequel un professionnel de santã© ou une personne faisant partie d'une organisation de santã© fournit une quantitã© dã©terminã©e d'un mã©dicament particulier ã  destination d'un patient particulier .
+une spã©cification dâaction qui indique comment le taux auquel une dose est administrã©e doit ãªtre changã© ,  sur la base de certaines conditions afin de maintenir un certain ã©quilibre ou effet visã© .
+une entitã© informationnelle directive qui dirige le dosage dâune administration de mã©dicament .
+une portion de mã©dicament ã  laquelle un organisme est exposã© .
+une entitã© matã©rielle qui est une partie propre dâun mã©dicament ,  avec une composition similaire ã  celle du mã©dicament .
+un nom faisant rã©fã©rence ã  un prescripteur supervisant .
+une entitã© de contenu informationnel spã©cifiant un taux dâadministration de mã©dicament .
+une spã©cification de valeur catã©gorique qui spã©cifie le site d'administration .
+une unitã© de mesure de masse par temps .
+une entitã© de contenu informationnel qui spã©cifie les quantitã©s minimum et maximum de mã©dicament ou dâingrã©dient actif dans une administration de dose .
+un aggrã©gat de molã©cule dispersã©e avec le rã´le d'ingrã©dient actif .
+scattered molecular aggregate with the role of excipient .
+une spã©cification de valeur scalaire qui spã©cifie une valeur de masse par unitã© de temps .
+un processus de distribution de mã©dicament qui suit un processus de distribution initial ,  lorsque les deux processus sont indiquã©s dans la mãªme prescription mã©dicale .
+une entitã© de contenu informationnel qui quantifie une dose dans une administration de dose .
+une spã©cification de quantification de dose spã©cifiant une quantitã© dâingrã©dient actif ã  administrer lors dâune administration de dose .
+une spã©cification de quantification de dose spã©cifiant la quantitã© de mã©dicament administrã©e lors dâune administration de dose .
+une spã©cification de valeur spã©cifiant la valeur du taux dâadministration de masse dâingrã©dient actif .
+une condition dont la vã©racitã© est un prã© - requis pour continuer une administration de mã©dicament .
+une condition dont la vã©racitã© est un prã©requis pour commencer une administration de mã©dicament .
+une entitã© de contenu informationnel qui dã©crit des relations entre certaines entitã©s et dont la vã©racitã© est un prã©requis pour quelque chose .
+une condition de dosage qui est vraie si et seulement si le temps ã©coulã© depuis la prã©cã©dente dose est supã©rieur ã  une certaine valeur .
+une condition de dosage qui est vraie si et seulement si la quantitã© de mã©dicament administrã©e ã  un patient nâexcã¨de pas une certaine quantitã© par unitã© de temps .
+une condition dont la vã©racitã© est un prã©requis pour une instruction de prise dâune dose .
+une spã©cification de valeur de frã©quence indiquant la frã©quence d'un processus de distribution de mã©dicament .
+une spã©cification de valeur scalaire qui indique un nombre de distributions de mã©dicaments .
+un processus de distribution de mã©dicament tel que ce mã©dicament n'a jamais ã©tã© fourni au patient auparavant sur la base de cette prescription particuliã¨re .
+une spã©cification d'action qui dã©crit une administration de dose mã©dicamenteuse .
+a drug administration specification that is part of a drug prescription .
+a drug administration specification written by a pharmacist on the basis of a drug administration specification written by a prescriber .
+a drug dispensing specification that is part of a prescription and authorizes the dispensing of a drug product under certain conditions ,  and usually specifies how much of the drug is to be dispensed at a time and how many times in total .
+a drug dispensing specification that is part of a pharmacist information system and specifies how much of a given drug product has been dispensed to a patient .
+a directive information entity that is a part of a drug prescription and specifies some action ( s )  related to one or several drugs .
+a drug prescription item that specifies the administration of a drug .
+a drug administration prescription item that specifies the initiation of the administration of a drug .
+a drug administration prescription item that specifies the continuation of the administration of a drug whose initiation was specified by a former drug prescription .
+a drug administration prescription item that specifies the modification of the administration of a drug product .
+a drug prescription item that specifies the cessation of the administration of a drug .
+a directive information entity that is a part of a pharmacist report and that specifies some action ( s )  related to one or several drugs .
+a data item that is part of a pharmacist information system and specifies how much of a given drug product has been dispensed to a patient .
+an 'information content entity' that specifies the validity period of a drug dispensing specification .
+wip an action specification that specifies a drug administration .
+a textual entity that denotes the starting time of a validity period .
+a textual entity that denotes the ending time of a validity period .
+an action specification that describe the administration of a drug ,  wether it is prescribed or reported by a healthcare provider or self reported by the individual taking said drug .
+an information content entity specifying a drug product ,  wether by its name ,  class ,  family or context of its intake .
+a drug administration description that describes the administration of a drug self reported by the individual taking the drug .
+une spã©cification de valeur scalaire indiquant la frã©quence d'un processus .
+une prophylaxie composã©e d'une ou plusieurs administrations de doses .
+une spã©cification d'objectif d'un processus de soin ou d'une de ses parties .
+une entitã© informationnelle qui indique la quantitã© de mã©dicament ã  distribuer pendant un processus de distribution unique .
+une spã©cification d'objectif de santã© de traitement .
+une spã©cification d'objectif de santã© prophylactique .
+une spã©cification d'objectif de santã© diagnostique .
+une entitã© informationnelle directive indiquant l'administration d'un mã©dicament .
+une spã©cification de valeur scalaire qui indique un nombre de mã©dicaments .
+une spã©cification de valeur de volume indiquant le volume d'un mã©dicament .
+une spã©cification de valeur de masse qui indique la masse d'un mã©dicament .
+an information content entity that describes some relationships between some entities and is intended to be evaluated as true or false .
+une spã©cification de valeur scalaire qui indique une durã©e de temps .
+une spã©cification de valeur de frã©quence indiquant la frã©quence d'un processus d'administration de dose .
+une spã©cification de valeur scalaire qui indique la valeur d'activitã© biologique d'un aggrã©gat d'ingrã©dient actif .
+une spã©cification de valeur scalaire qui spã©cifie la quantitã© d'un ã©lã©ment ou d'un composã© avec une disposition uniforme .
+une spã©cification de valeur scalaire dont l'unitã© est une unitã© de rythme .
+une spã©cification de valeur de rythme qui indique le rythme auquel un mã©dicament est administrã© pendant une administration de dose .
+une spã©cification de quantitã© de substance oã¹ la substance est un aggrã©gat d'ingrã©dient actif .
+un label d'unitã© de mesure pour la quantitã© de substance fondã© sur une activitã© biologique spã©cifiã©e ou sur un effet de cette substance .
+une spã©cification de valeur scalaire qui indique un nombre d'administrations de doses .
+une condition qui est vraie si et seulement si un certain symptã´me est prã©sent chez un individu .
+a condition  that is true if and only if an individual is in some specific state of consciousness .
+une condition situant la pã©riode actuelle relativement ã  une autre pã©riode .
+une condition dã©crivant le temps ã©coulã© depuis un ã©vã¨nement .
+une condition dã©crivant le nombre d'administration de doses qui se sont produites pendant une certaine durã©e de temps .
+une condition dã©crivant le nombre de doses par unitã© de temps comme ã©tant infã©rieur ã  un certain nombre d'administration de doses .
+une condition dã©crivant le nombre de doses par unitã© de temps comme ã©tant supã©rieur ã  un certain nombre d'administration de doses .
+une condition dã©crivant le nombre de doses par unitã© de temps comme ã©tant ã©gal ã  un certain nombre d'administration de doses .
+une condition d'une prescription dã©crivant un nombre de distributions passã©es .
+un condition de nombre de distributions indiquant qu'un nombre de distributions passã©es est plus petit qu'un certain nombre .
+une condition dã©crivant la quantitã© de mã©dicament ou d'ingrã©dient actif qui a ã©tã© administrã©e pendant une certaine pã©riode de temps .
+une condition de dosage total oã¹ le dosage total administrã© est infã©rieur ou ã©gal ã  une certaine quantitã© .
+une condition de dosage total oã¹ le dosage total administrã© est supã©rieur ã  une certaine quantitã© .
+une condition de dosage total oã¹ le dosage total administrã© est ã©gal ã  une certaine quantitã© .
+a condition describing the time elapsed since a dose administration .
+une spã©cification de valeur catã©gorique qui spã©cifie une voie d'administration .
+un mã©dicament qui nâest pas un mã©dicament gã©nã©rique .
+une mã©dicament qui a ã©tã© approuvã© et commercialisã© aprã¨s l'expiration du brevet correspondant .
+un nom d'ingrã©dient actif qui est un international nonproprietary name .
+une entitã© textuelle qui permet l'identification d'un ingrã©dient actif .
+un processus dans lequel un mã©dicament est modifiã© de maniã¨re ã  le rendre plus appropriã© pour une administration au patient .
+the configuration of a drug product just before it is administered .
+the configuration of a drug product at the end of a pharmaceutical production process .
+une qualitã© inhã©rent dans un aggrã©gat d'ingrã©dient actif en vertu d'une magnitude d'effet biologique standardisã© de cet ingrã©dient actif .

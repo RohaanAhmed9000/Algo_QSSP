@@ -1,0 +1,237 @@
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+b is a generically dependent continuant = def .
+p is a process boundary =def .
+b is a continuant fiat boundary = def .
+b is a process_profile =def .
+b is a relational quality = def .
+an independent material continuant that is self - connected and retains its identity over time .
+those components of a sample that are not measured by an experiment .
+a primary administrative division of a country ,  such as a state in the united states .
+a political association with effective dominion over a geographic area .
+place or area with clustered or scattered buildings and a permanent human population .
+a geographical region whose affairs and population are administered by an authority .
+incorporated populated place .
+an environmental zone is an environmental feature whose extent is determined by the presence or influence of one or more material entities or processes .
+a settlement with a high density of buildings and inhabitants .
+a reference to a place on the earth ,  by its name or by its geographical location .
+a subnational region is a type of subnational entity similar to a nation's state ,  province ,  or territory .
+this is a catch - all category for listing specimen related terms
+a planned process which systematically ,  continuously or repeatedly measures ,  collected ,  collates ,  analyses ,  interprets and disseminates  health and welfare related data from defined populations .
+a role given to a specific herd of domesticated animals ,  specifying that they are raised in an agricultural setting with a specific purpose .
+classification of livstock farming systems based on the type of commodity produced .
+a directive information that qualifies / classifies specimens .
+a specimen collected from an organism .
+a directive information that describes the context for data collection in support to a specificsurveillance objective .
+a directive information used to describe the type of agent who carries out the data collection in a surveillance activity
+a directive information that describes how population units will be chosen for sample / data collection in a surveillance activity .
+a sampling unit is one of the units into which an aggregate is divided for the purpose of sampling ,  each unit being regarded as individual and indivisible when the selection is made .
+information about an assay which can be used to find of qualify / classify assays .
+a test category used to group diagnostic tests based on generla characteristics ,  such as the target for detection  ( antigen or antibody )  .
+a specimen datum used ,  in conjunction with information about the target sampled anatomical location ,  in order to specify _how_ the anatomical entity was sampled
+s specimen categorization which described the type of entity from which the specimen was collected
+a collection of all directive information associated with a surveillance activity ,  such as the surveillance objectives ,  the action specifications and legislative specification .
+a directive information that details the legislative body that supports a specific surveillance activity ,  or the specific obligations prescried in these legislation .
+a directive information that described those goal ( s )  that when met will result in the collection and analysis of data in order to achieve the purpose of the system
+a directive information that describes why surveillance is necessary and what it will accomplish .
+a surveillance objective to search for any animals affected ,  clinically or not ,  by the hazard under surveillance .
+a surveillance objective to gather evidence that can demonstrate ,  with a given confidence level ,  that a specific hazard is not present in a given population .
+a surveillance objective to detect any hazard cases as soon as possible .
+a surveillance objective focusedon gathering data to estimate the true or apparent prevalence of a hazard in a given population .
+a sampling scheme design to meet a specific surveillance objective and / or purpose of a surveillance activity .
+a reporting protocol ,  generally used within a surveillance activity ,  detailing what are the reporting obligations associated with a specific surveillance target in a specific area ,  the reporting chain  ( who is obliged to report and how is the information flow from reporting )  ,  and any eventual incentives for reporting .
+a protocol detailing how specimens will be collected as part of the data gathering phase of a  surveillance activity .
+a protocol to be used within a surveillance activity to classify epidemiological units according to a specific outcome .
+an action specification for specific actions to be taken as part of a health surveillance activity .
+a surveillance context in which sampling in done continuously ,  triggered by the existing of cases of interest ,   for instance reporting of confirmed cases or collection of samples from every slaughter batch .
+a surveillance context in which data are repeated collected from the same selected sites or groups of animals to identify changes in the health status of a specified population over time .
+a surveillance context which explores traditional information networks by using participatory rural appraisal methods .
+a surveillance context in which data are generated through the identification of cases based on agreed - upon definitions .
+a surveillance context in which health - related information  ( clinical signs or other data )  that might precede or substitute for formal diagnosis are used as indicators of spatio - temporal trends in hazard occurrence .
+a specific type of surveillance activity which has as surveillance context an outbreak investigation
+a type of outbreak investigation that focus specifically on foodborne agents / vehicles
+a surveillance activity with the specific surveillance context of investigating a foodborne outbreak
+a directive information that described specific detailsgathered during an outbreak investigation .
+a directive information that described the manadatory actions that follow on specific agents upon suspicion or confirmation of specific hazards under surveillance .
+a directive information used to identify diseases which ,  by law ,  must be reported to public health authorities upon diagnosis .
+a directive information used to identify diseases which ,  by law ,  must be reported to public health authorities upon suspicion
+a quality that specifies the known status of a hazard occurrence in a given geograhial region .
+single cases without a specific temporal pattern ,  but also without geographical pattern or other associations and where import to location is related to travel .
+the state of a disease ,  infection or other condition being maintained in a population without the need of external outputs .
+a directive information entity that describes an intended process endpoint .
+a directive information entity that describes an action the bearer will take
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+a generically dependent continuant that is about some thing .
+a scalar measurement datum is a measurement datum that is composed of two parts ,  numerals and a unit label .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a data item that is an aggregate of other data items of the same type that have something in common .
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+a collection of information content entities intended to be understood together as a whole
+a scalar measurement datum that is the result of measuring a temporal interval
+a planned process in which a document is created or added to by including the specified input in it .
+a collective generic term that refers here to a wide variety of dependencies ,  areas of special sovereignty ,  uninhabited islands ,  and other entities in addition to the traditional countries or independent states .
+a region ,  district or division of a country ;  a tract ;  a portion a state ,  especially one remote from the capital .
+a political unit ,  such as a city ,  town ,  or village ,  incorporated for local self - government .
+a constituent administrative district of a nation .
+a geographical area under the jurisdiction of a sovereign state and marked off for administrative or other purposes .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+a planned process that consists of parts: planning ,  study design execution ,  documentation and which produce conclusion ( s )  .
+a planned process with the objective to produce information about the material entity that is the evaluant ,  by physically examining it or its proxies .
+a role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation
+an entity that can bear roles ,  has members ,  and has a set of organization rules .
+a plan is a realizable entity that is the inheres in a bearer who is committed to realizing it as a planned process .
+a plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents ,  so that different investigation agents will reliably be able to independently reproduce the process .
+a planned process in which data gathered in an investigation is evaluated in the context of existing knowledge with the objective to generate more general conclusions or to conclude that the data does not allow one to draw general conclusion
+a process of creating or modifying a plan specification
+a planned process that carries out a study design
+a planned process with the objective of collecting a specimen .
+a objective specification to obtain a material entity for potential use as an input during an investigation .
+a medical organization at which sick or injured people are given clinical care
+an information content entity that is inferred from data .
+an investigation in which some entity is monitored ,  and data concerning that entity collected ,  interpreted ,  and disseminated ,  for the purpose of managing ,  directing ,  or protecting that entity ,  or some other entity .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a material entity that has the specimen role .
+a plan specification comprised of protocols  ( which may specify how and what kinds of data will be gathered )  that are executed as part of an investigation and is realized during a study design execution .
+the part of the pancreas that is part of the exocrine system and which produces and store zymogens of digestive enzymes ,  such as chymotrypsinogen and trypsinogen in the acinar cells  [ go ]  .
+an organ that is capable of transducing sensory stimulus to the nervous system .
+any of the rounded masses of lymphoid tissue that are surrounded by a capsule of connective tissue ,  are distributed along the lymphatic vessels ,  and contain numerous lymphocytes which filter the flow of lymph .
+a subdivision of the digestive tract that connects the small intestine to the cloaca or anus .
+material anatomical entity that is a single connected structure with inherent 3d shape generated by coordinated expression of the organism's own genome .
+anatomical structure that performs a specific function or group of functions  [ wp ]  .
+a multicellular structure that is a part of an organ .
+a glycoprotein membrane surrounding the plasma membrane of an oocyte .
+nonparenchymatous organ that primarily consists of dense connective tissue organized into a sheet which interconnects two or more organs ,  separates two or more body spaces from one another ,  or surrounds an organ or body part .
+segment of the alimentary canal extending from the stomach to the anus and ,  in humans and other mammals ,  consists of two segments ,  the small intestine and the large intestine .
+the pair of anatomical structures comprised of a left lung and right lung .
+organ that functions in gaseous exchange between an organism and its environment .
+a portion of organism substance that is the product of an excretion process that will be eliminated from the body .
+a fluid that is composed of blood plasma and erythrocytes .
+circulating fluid that is part of the hemolymphoid system .
+an embryo that is at the late embryonic stage ;  this stage covers late steps of the embryogenesis with a fully formed embryo still developing before birth or egg hatching .
+the branched tubular glands found in the mucosa of the fundus and body of the stomach which contain parietal cells that secrete hydrochloric acid and zymogenic cells that produce pepsin .
+a gland in which the principal secretory cells are serous secreting cells .
+a gland in which the principal secretory cells are mucus secreting cells .
+a portion of organism substance that is produced by exocrine glands .
+material anatomical entity in a gaseous ,  liquid ,  semisolid or solid state ;  produced by anatomical structures or derived from inhaled and ingested substances that have been modified by anatomical structures as they pass through the body .
+anatomical entity that has mass .
+multicellular ,  connected anatomical structure that has multiple organs as parts and whose parts work together to achieve some shared function .
+anatomical structure that is an individual member of a species and consists of more than one cell .
+the organs and associated structures associated with bearing offspring in a female animal .
+anatomical structure that consists of cell parts and cell substances and together does not constitute a cell or a tissue .
+multicellular anatomical structure that consists of many cells of one or a few types ,  arranged in an extracellular matrix such that their long - range organisation is at least partly a repetition of their short - range organisation .
+anatomical structure that has as its parts two or more portions of tissue of at least two different types and which through specific morphogenetic processes forms a single distinct structural unit demarcated by bona - fide boundaries from other distinct structural units of different types .
+compound organ that contains one or more macroscopic anatomical spaces .
+mucus is a bodily fluid consisting of a slippery secretion of the lining of the mucous membranes in the body .
+interstitial fluid is a bodily fluid consisting of a solution which bathes and surrounds the cells of multicellular animals .
+anatomical entity that comprises the organism in the early stages of growth and differentiation that are characterized by cleavage ,  the laying down of fundamental tissues ,  and the formation of primitive organs and organ systems .
+an expanded region of the vertebrate alimentary tract that serves as a food storage compartment and digestive organ .
+anatomical system that consists of the glands and parts of glands that produce endocrine secretions and help to integrate and control bodily metabolic activity .
+the brain is the center of the nervous system in all vertebrate ,  and most invertebrate ,  animals .
+anatomical system that has as its parts the organs concerned with reproduction .
+functional system which consists of structures involved in respiration .
+anatomical system that has as its parts the organs devoted to the ingestion ,  digestion ,  and assimilation of food and the discharge of residual wastes .
+the renal system in an anatomical system that maintains fluid balance and contributes to electrolyte balance ,  acid / base balance ,  and disposal of nitrogenous waste products . .
+organ system that passes nutrients  ( such as amino acids and electrolytes )  ,  gases ,  hormones ,  blood cells ,  etc .
+the nervous system is an organ system containing predominantly neuron and glial cells .
+anatomical system that overlaps the nervous system and is responsible for receiving and processing sensory information .
+tube that connects the pharynx to the stomach .
+the terminal portion of the intestinal tube ,  terminating with the anus
+biological entity that is either an individual member of a biological species or constitutes the structural organization of an individual member of a biological species .
+joint fluid is a transudate of plasma that is actively secreted by synovial cells .
+a pouch in the digestive tract that connects the ileum with the ascending colon of the large intestine .
+last portion of the large intestine before it becomes the rectum .
+a complex network of conduits that begins with the canals of hering  ( intralobar bile duct )  and progressively merges into a system of interlobular ,  septal ,  and major ducts which then coalesce to form the extrahepatic bile ducts ,  which finally deliver bile to the intestine ,  and in some species to the gallbladder .
+an endoderm derived structure that produces precursors of digestive enzymes and blood glucose regulating enzymes [ go ]  .
+an articular capsule  ( or joint capsule )  is an envelope surrounding a synovial joint .
+a specialized accessory gland of the skin of mammals that secretes milk .
+an emulsion of fat globules within a fluid that is secreted by the mammary gland during lactation .
+the liquid component of blood ,  in which erythrocytes are suspended .
+vital aqueous secretion of the liver that is formed by hepatocytes and modified down stream by absorptive and secretory properties of the bile duct epithelium .
+organ of metabolic interchange between fetus and mother ,  partly of embryonic origin and partly of maternal origin [ go ]  .
+portion of semisolid bodily waste discharged through the anus [ mw , modified ] 
+respiration organ that develops as an oupocketing of the esophagus .
+anatomical structure that is part of an embryo .
+an organ that is located within the body cavity  ( or in its extension ,  in the scrotum )  ;  it consists of organ parts that are embryologically derived from endoderm ,  splanchnic mesoderm or intermediate mesoderm ;  together with other organs ,  the viscus constitutes the respiratory ,  gastrointestinal ,  urinary ,  reproductive and immune systems ,  or is the central organ of the cardiovascular system .
+the organ covering the body that consists of the dermis and epidermis .
+sensory system responsible for the perception of spatial orientation and auditory stimuli .
+an exocrine gland which secretes bile and functions in metabolism of protein and carbohydrate and fat ,  synthesizes substances involved in the clotting of the blood ,  synthesizes vitamin a ,  detoxifies poisonous substances ,  stores glycogen ,  and breaks down worn - out erythrocytes [ go ]  .
+subdivision of digestive tract that connects the stomach to the large intestine and is where much of the digestion and absorption of food takes place  ( with the exception of ruminants )  .
+the first part of the small intestine .
+the portion of the small intestine that extends from the duodenum to the ileum
+the portion of the small intestine that extends from the jejunum to the colon
+lung which consists of the right upper lobe ,  middle lobe and right lower lobe .
+lung which consists of the left upper lobe and left lower lobe .
+anatomical cluster consisting of the hematopoietic system and the lymphoid system ,  or its analogs .
+anatomical system that consists of the muscular and skeletal systems .
+an organ that houses olfactory neurons and is responsible for the sense of smell .
+anatomical system that consists of the glands and parts of glands that produce exocrine secretions and help to integrate and control bodily metabolic activity .
+a gland that secretes products  ( excluding hormones and other chemical messengers )  into ducts  ( duct glands )  which lead directly into the external environment [ wp ]  .
+endocrine glands are glands of the endocrine system that secrete their products directly into the circulatory system rather than through a duct .
+anatomical system that is involved in the production of hematopoietic cells .
+lymph is the fluid that is formed when interstitial fluid enters the conduits of the lymphatic system through lymph capillaries [ wp ]  .
+anatomical system that protects the body from foreign substances ,  cells ,  and tissues by producing the immune response and that includes especially the thymus ,  spleen ,  lymphoid tissue ,  lymphocytes including the b cells and t cells ,  and antibodies .
+connected anatomical system that forms a barrier between an animal and its environment .
+the lymphatic system in vertebrates is a network of conduits that carry a clear fluid called lymph .
+an organ that functions as a secretory or excretory organ
+anatomical structure that has as its parts two or more multi - tissue structures of at least two different types and which through specific morphogenetic processes forms a single distinct structural unit demarcated by bona fide boundaries from other distinct anatomical structures of different types .
+an organ involved in reproduction
+a gland that is part of a foregut  [ automatically generated definition ]  .
+a gland that is part of a integumental system  [ automatically generated definition ]  .
+a gland that is part of a digestive tract  [ automatically generated definition ]  .
+any tube ,  opening or passage that connects two distinct anatomical spaces .
+an anatomical structure that develops  ( entirely or partially )  from the endoderm .
+an anatomical structure that develops  ( entirely or partially )  from the mesoderm .
+an anatomical structure that develops  ( entirely or partially )  from the ectoderm .
+anatomical system that has as its parts the organs concerned with the production and excretion of urine and those concerned with reproduction .
+the external genitalia are the outer sex organs ,  such as the penis or vulva in mammals
+anatomical cluster that consists of all the skeletal elements  ( eg . ,  bone ,  cartilage ,  and teeth )  of the body .
+sum of all sensory systems in an organism .
+anatomical system that has as its parts the heart and blood vessels .
+the part of the cardiovascular system consisting of all arteries .
+the part of the cardiovascular system consisting of all venous vessels .
+organ consisting of skeletal tissue .
+anatomical system that consists of all the joints of the body .
+a proximal - distal subdivision of the digestive tract .
+an organ that is part of a immune system  [ automatically generated definition ]  .
+any anatomical structure that is part of the reproductive system .
+an organ or element that is in the abdomen .
+an organ or element that is part of the adbominal segment of the organism .
+an organ or element that part of the dorsum of the organism .
+an organ or element that part of the trunk region .
+an organ or element that is in the thoracic cavity .
+an organ that part of the thoracic segment region .
+the part of the digestive system that excludes the hepatobiliary system .
+a acellular anatomical structure that is the bounding layer of a anatomical structure .
+an acellular membrane that is part of the epithelium ,  lies adjacent to the epithelial cells ,  and is the fusion of the the basal lamina and the reticular lamina .
+liquid components of living organisms .
+a substance that is secreted by a mammary gland .
+the pharynx is the part of the digestive system immediately posterior to the mouth [ go ]  .
+any gland that is part of the digestive system .
+a hollow ,  muscular organ ,  which ,  by contracting rhythmically ,  keeps up the circulation of the blood or analogs [ go , modified ]  .
+the first chamber in the alimentary canal of a ruminant stomach ,  composed of the rumen and reticulum .
+the hard - shelled reproductive body produced by a bird and especially by the common domestic chicken ;  also: its contents used as food .
+any bodily fluid that has passed through a membrane such as the capillary wall ,  as a result of unbalanced hydrostatic and osmotic forces
+any fluid produced by a serous gland .
+anatomical system that consists of all blood and lymph vessels .
+the gastric glands in the pyloric region of the stomach ;  the pyloric glands secrete mucin ,  which coats the stomach and protects it ,  and hormones such as gastrin and enkephalin [ mp ]  .
+branch or outpocketing of the digestive tract .
+an anatomical structure that has more than one cell as a part .
+an organ of the digestive tract that is capable of retaining and storing food
+a blood that is part of a vein .
+any of the organs or elements that are part of the digestive system .
+any structure that is placed on one side of the left - right axis of a bilaterian .
+a hollow ,  muscular organ ,  which ,  by contracting rhythmically ,  contributes to the circulation of lymph ,  blood or analogs .
+a viscus that is part of a abdomen .
+an exocrine gland that is part of a integumental system .
+any substance in the body or expelled from the body that is in a gaseous state .
+any portion of gas located in a part of the respiratory system that is composed primarily of air .
+an multicellular anatomical structure that has subparts of multiple organs as a part .
+a cluster of cells ,  largely surrounded by a morphological boundary .
+a collection of anatomical structures that are alike in terms of their morphology or developmental origin .
+any portion of gas located in a part of the respiratory system .
+a geopolitical region is a geographic region recognized by social or legal convention .
+a township is a rural or sub - urban settlement .

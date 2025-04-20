@@ -1,0 +1,101 @@
+a drug that is developed originally from ancient china ,  which refers to a drug derived from the usage of medicinal material grown and produced from natural world .
+a traditional chinese drug that is prepared with crude medicine as raw materials ,  according to chinese medicine theory ,  after processing ,  it can be directly used in traditional chinese medicine clinical or pharmaceutical production and use of prescription drugs .
+a disposition that the tcd tends to have therapeutic effects on the pathological changes in one or several certain channels .
+a function of tcd that regulates the rise and fall of yin and yang ,  cold and heat changes in the body .
+a pato:flavor that reflect /  indicate to the common function of tcds in highly concentrated and abstracted way .
+a quality that represents the level of critical or lethal reaction to an erroneous dosage of a drug medication .
+a material entity that is rude natural medicinal for processing and preparing traditional chinese drugs .
+a traditional chinese drug that is modernized into a ready - to - use form ,  such as tablets ,  oral solutions ,  or dry suspensions .
+a system of conduits through which qi and blood circulate ,  connecting the bowels ,  viscera ,  extremities ,  superficial organs and tissues ,  making the body an organic whole ,  the same as channels and networks .
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+b is a generically dependent continuant = def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+b is a process_profile =def .
+a quality that represents the level of critical or lethal reaction to an erroneous dosage of a drug medication .
+a quality of a physical entity inhering in a bearer by virtue of whether the bearer's molecules are being perceived by a taste and odorant receptors .
+a quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities .
+a quality which inheres in a continuant .
+a plant structure  ( po:0005679 )  which is a whole organism .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of an ovule  ( po:0020003 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of a gynoecium  ( po:0009062 )  .
+a maximal portion of vascular tissue  ( po:0009015 )  in a whole plant  ( po:0000003 )  ,  collective plant structure  ( po:0025497 )  ,  multi - tissue plant structure  ( po:0025496 )  ,  or cardinal part of multi - tissue plant structure  ( po:0025498 )  .
+a shoot axis  ( po:0025029 )  that is the most distal part of a shoot system  ( po:0009006 )  and has as parts a shoot apical meristem  ( po:0020148 )  and the youngest primordia  ( po:0025127 )  .
+a portion of meristem tissue  ( po:0009013 )  which is the organogenic region of the meristem ,  characterized by higher rates of cell division .
+a portion of reproductive shoot apical meristem tissue  ( po:0008028 )  that gives rise to the floral organs  ( po:0025395 )  .
+a native plant cell  ( po:0025606 )  synthesizing protoplasm and producing new cells by division and with only a primary cell wall .
+a portion of plant tissue  ( po:0009007 )  outside the vascular cambium  ( po:0005598 )  or the xylem  ( po:0005352 )  ;  in older trees may be divided into dead outer bark and living inner bark ,  which consists of secondary phloem  ( po:0005043 )  .
+a swollen shoot axis  ( po:0025029 )  that grows horizontally at or below the substrate surface and produces shoots above and roots or rhizoids below .
+a primordium  ( po:0025127 )  that develops from a root anlagen  ( po:0025433 )  and is committed to the development of a root  ( po:0009005 )  .
+a portion of phloem  ( po:0005417 )  tissue that develops from a vascular cambium  ( po:0005598 )  .
+a portion of vascular tissue  ( po:0009015 )  that has as part one or more tracheary elements  ( po:0000290 )  .
+a portion of vascular tissue  ( po:0009015 )  that has as parts sieve elements  ( po:0025406 )  .
+a lateral meristem  ( po:0020145 )  that has as part a single layer of cambial initial cells  ( po:0000295 )  and their derivatives ,  arranged orderly in radial files .
+a cambium  ( po:0005597 )  that is located between and gives rise to secondary xylem  ( po:0005848 )  and secondary phloem  ( po:0005043 )  .
+a portion of xylem  ( po:0005352 )  tissue that develops from a vascular cambium  ( po:0005598 )  .
+a lateral plant organ  ( po:0009008 )  produced by a shoot apical meristem  ( po:0020148 )  .
+a portion of meristem tissue  ( po:0009013 )  that is part of a shoot system  ( po:0009006 )  .
+a portion of meristem tissue  ( po:0009013 )  that is the outer layer of an apical meristem  ( po:0020144 )  ,  or the outer layer of a plant embryo proper  ( po:0000001 )  ,  and gives rise to a portion of epidermis  ( po:0005679 )  .
+a plant structure development stage  ( po:0009012 )  that has as primary participant a whole plant  ( po:0000003 )  .
+a shoot apical meristem  ( po:0020148 )  that gives rise to the apical growth of reproductive tissues and organs .
+a multi - tissue plant structure  ( po:0025496 )  that develops from a gynoecium  ( po:0009062 )  ,  or a single carpel  ( po:0009030 )  ,  and at maturity may have as parts one or more seeds  ( po:0009010 )  .
+a cell which is a plant structure  ( po:0009011 )  .
+a plant axis  ( po:0025004 )  that lacks shoot axis nodes  ( po:0005004 )  and usually grows indeterminately .
+a collective plant organ structure  ( po:0025007 )  that produces shoot - borne portions of meristem tissue  ( po:0009013 )  and the plant structures  ( po:0009011 )  that arise from them .
+a plant structure  ( po:0009011 )  that consists predominantly of similarly specialized plant cells  ( po:0009002 )  of one or more types .
+a multi - tissue plant structure  ( po:0025496 )  that is a functional unit ,  is a proper part of a whole plant  ( po:0000003 )  ,  and includes portions of plant tissue  ( po:0009007 )  of at least two different types that derive from a common developmental path .
+a whole plant  ( po:0000003 )  that participates in the plant embryo stage  ( po:0007631 )  .
+a multi - tissue plant structure  ( po:0025496 )  that develops from a plant ovule  ( po:0020003 )  and has as parts a plant embryo  ( po:0009009 )  enclosed in a seed coat  ( po:0009088 )  .
+an anatomical structure that is or was part of a plant ,  or was derived from a part of a plant .
+a stage in the life of a plant structure  ( po:0009011 )  during which the plant structure undergoes developmental processes .
+a portion of plant tissue  ( po:0009007 )  in which plant cells  ( po:0009002 )  have retained their embryonic characteristics ,  or have reverted to them secondarily ,  and that divide to produce new cells that can undergo differentiation to form mature tissues ,  i .e .
+a portion of plant tissue  ( po:0009007 )  that has as part one or more tracheary elements  ( po:0000290 )  or sieve elements  ( po:0025406 )  .
+a leaf - like organ on which one or more sporangia are borne .
+a structure on which one or more microsporangia are borne ;  in flowering plants ,  the stamen .
+a determinate reproductive shoot system  ( po:0025082 )  that has as part at least one carpel  ( po:0009030 )  or at least one stamen  ( po:0009029 )  and does not contain any other determinate shoot system  ( po:0009006 )  as a part .
+a shoot axis  ( po:0025029 )  that is the primary axis of a plant .
+a collective phyllome structure  ( po:0025023 )  composed all of the carpels  ( po:0009030 )  in a flower  ( po:0009046 )  .
+a portion of plant tissue  ( po:0009007 )  that is the outer layer  ( wall )  of a fruit  ( po:0009001 )  ,  and develops from a plant ovary  ( po:0009072 )  or a carpel  ( po:0009030 )  wall .
+a portion of plant tissue  ( po:0009007 )  that is the outer layer of a pericarp  ( po:0009084 )  .
+a plant organ  ( po:0009008 )  that has as parts a nucellus  ( po:0020020 )  in which a female gametophyte  ( po:0025279 )  is located ,  one or two integuments  ( po:0020021 )  ,  and a funicle  ( po:0020006 )  .
+the smaller ,  in general ,  of the two kinds of spores produced after meiosis in the life cycle of a heterosporous plant ,  and on germination giving rise to the male gametophyte .
+a maximal portion of meristem tissue  ( po:0009013 )  located at a shoot apex  ( po:0000037 )  or root tip  ( po:0000025 )  .
+a portion of meristem  ( po:0009013 )  tissue located parallel to the sides of a shoot axis  ( po:0025029 )  or root  ( po:0009005 )  that participates in lateral growth .
+a shoot system meristem  ( po:0006079 )  formed at the apex of the shoot axis  ( po:0025029 )  ,  including those originating from an axillary bud meristem  ( po:0000232 )  .
+an axial plant organ  ( po:0009008 )  .
+a collective plant structure  ( po:0025497 )  that is a proper part of a whole plant  ( po:0000003 )  ,  and is composed of two or more adjacent plant organs  ( po:0009008 )  and the associated portions of plant tissue  ( po:0009007 )  .
+a whole plant  ( po:0000003 )  that arises through meiosis and is contained in a spore wall .
+a collective plant organ structure  ( po:0025007 )  that consists of two or more phyllomes  ( po:0006001 )  originating from the same node or from one or more adjacent nodes with compressed shoot internodes  ( po:0005005 )  .
+a collective plant organ structure  ( po:0025007 )  that produces root meristems  ( po:0006085 )  ,  the plant structures  ( po:0009011 )  that arise from them and the parts thereof .
+a plant axis  ( po:0025004 )  that is part of a shoot system  ( po:0009006 )  .
+a phyllome  ( po:0006001 )  that is not associated with a reproductive structure .
+a shoot axis  ( po:00025029 )  that develops from an axillary bud meristem  ( po:0000232 )  or from equal divisions of a meristematic apical cell  ( po:0030007 )  .
+a shoot system  ( po:0009006 )  in the sporophytic phase that has as part at least one sporangium  ( po:0025094 )  .
+a plant organ  ( po:0009008 )  in which plant spores  ( po:0025017 )  are produced .
+a portion of meristem tissue  ( po:0009013 )  that has as parts protoderm  ( po:0006210 )  and sub - epidermal meristematic tissue and is committed to the development of a particular plant structure  ( po:0009011 )  .
+a primordium  ( po:0025127 )  that develops from a phyllome anlagen  ( po:0025430 )  and is part of a shoot apex  ( po:0000037 )  and is committed to the development of a phyllome  ( po:0006001 )  .
+an anatomical entity that is or was part of a plant .
+a portion of organism substance that is or was part of a plant .
+a sporangium  ( po:0025094 )  in which microspores  ( po:0020048 )  are produced .
+a shoot apex that has as part a reproductive shoot apical meristem .
+a microsporangium that is part of a sporophyll and where the pollen grains develop and are located after they develop .
+a whole plant  ( po:0000003 )  in the gametophyte development stage  ( po:0028003 )  that produces plant sperm cells  ( po:0000084 )  .
+a microgametophyte  ( po:0025280 )  that develops from a microspore  ( po:0020048 )  is located in a pollen sac  ( po:0025277 )  .
+a maximal whole plant development stage .
+a plant structure development stage  ( po:0009012 )  that has as primary participant a collective plant structure  ( po:0025497 )  .
+a portion of vascular tissue  ( po:0009015 )  that develops from a vascular cambium  ( po:0005598 )  .
+a portion of meristem tissue  ( po:0009013 )  that is part of a peripheral zone  ( po:0000225 )  of a shoot apical meristem  ( po:0020148 )  and will give rise to a phyllome primordium  ( po:0025128 )  .
+a portion of meristem tissue  ( po:0009013 )  that is committed to the development of a root primordium  ( po:0005029 )  .
+a primordium  ( po:0025127 )  that is committed to the development of a floral organ  ( po:0025395 )  and is part of a reproductive shoot apex  ( po:0025222 )  .
+a plant structure  ( po:0009011 )  that has as parts two or more portions of plant tissue  ( po:0009007 )  of at least two different types and which through specific morphogenetic processes forms a single structural unit demarcated by primarily bona - fide boundaries from other structural units of different types .
+a plant structure  ( po:0009011 )  that is a proper part of a whole plant  ( po:0000003 )  and includes two or more adjacent plant organs  ( po:0009008 )  or adjacent cardinal organ parts  ( po:0025001 )  ,  along with any associated portions of plant tissue  ( po:0009007 )  .
+a collective plant organ structure development stage  ( po:0025338 )  that begins with the onset of the plant organ development stage  ( po:0025339 )  and ends with either gametophyte senescent stage  ( po:0025343 )  or sporophyte senescent stage  ( po:0007017 )  or death .
+a shoot system development stage  ( po:0025527 )  that has as primary participant a reproductive shoot system  ( po:0025082 )  .
+a portion of plant substance  ( po:0025161 )  that consists of a complex mixture of organic aromatic compounds such as mono -  ,  sesqui -  ,  and diterpenoids .
+a plant cell  ( po:0009002 )  that is either part of a multicellular whole plant  ( po:0000003 )  'in vivo' or a unicellular organism 'in natura'  ( i .e .
+a whole plant development stage  ( po:0007033 )  that has as primary participant a whole plant  ( po:0000003 )  during the interval between fertilization  ( or apogamy )  and death .
+a material entity consisting of multiple components that are causally integrated .

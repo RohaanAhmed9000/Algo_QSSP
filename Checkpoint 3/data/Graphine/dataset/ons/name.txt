@@ -1,0 +1,102 @@
+participants' identification number
+month of anthropometry assessment
+time since quitting smoking
+month of physical activity assessment by questionnaire
+categories of physical activity level
+total physical activity by questionnaire
+physical activity from recreational or leisure - time activities by questionnaire
+light physical activity by questionnaire
+moderate physical activity by questionnaire
+vigorous physical activity by questionnaire
+sedentary time by questionnaire
+number of bouts by questionnaire
+month of physical activity assessment by accelerometer
+light physical activity by accelerometer
+moderate physical activity by accelerometer
+vigorous physical activity by accelerometer
+sedentary time by accelerometer
+number of bouts by accelerometer
+average duration of bouts
+dietary assessment method
+month of dietary assessment
+calculated carbohydrate intake
+calculated fiber intake
+calculated total fat intake
+calculated saturated fatty acid intake
+calculated monounsaturated fatty acid intake
+calculated polyunsaturated fatty acid intake
+calculated protein intake
+month of blood draw
+fasting status
+dietary assessment
+short study name
+consortium
+randomization method
+blinding
+blinding method
+study terminated
+compliance assessment
+waist:hip ratio
+event identifier name
+treatment descriptive name
+study sampling method
+sampling method description
+assay description
+assay platform
+sampling identifier
+absolute start times
+physical activity assessment
+blood analytics
+start tab
+event tab
+sampling tab
+information tab
+chemical - biological assay
+omics technology assay
+type of omics
+assay type
+short question name
+question type
+physiology assay type
+subject information collection
+subject of a nutritional study
+randomised controlled trial
+crossover design
+cohort study
+case - control studies
+cross - sectional survey
+food component entity
+additive
+contaminant
+food bioactive
+nutrient
+igredient
+food
+diet
+intervention diet
+prescribed diet
+usual diet
+cook role
+meal
+drinking
+eating
+subject information collection data
+dietary assessment data
+chemical biological data
+omics data
+physical activity assessment data
+food preparation
+dietary pattern
+biomarker
+exposure biomarker
+effect biomarker
+susceptibility biomarker
+raw food
+processed food
+food digestion
+food component absorption
+food component metabolization
+food frequency questionnaire
+24 - hour dietary recall
+food diary
+nutritional researcher role

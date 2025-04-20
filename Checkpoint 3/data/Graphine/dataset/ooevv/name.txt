@@ -1,0 +1,20 @@
+curation status specification
+data about an ontology part
+obsolescence reason specification
+denotator type
+base ontology module
+editors ontology module
+main release ontology module
+bridge ontology module
+import ontology module
+subset ontology module
+curation subset ontology module
+analysis subset ontology module
+single layer subset ontology module
+exclusion subset ontology module
+external import ontology module
+species subset ontology module
+reasoned ontology module
+generated ontology module
+template generated ontology module
+obo basic subset ontology module

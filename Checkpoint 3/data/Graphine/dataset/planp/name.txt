@@ -1,0 +1,3405 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+generically dependent continuant
+material entity
+anatomical surface
+anatomical axis
+anterior - posterior axis
+apical - basal axis relative to substrate
+proximal - distal axis
+dorsal - ventral axis
+left - right axis
+transverse plane
+horizontal plane
+antero - dorsal region
+antero - ventral region
+postero - lateral region
+antero - lateral region
+postero - dorsal region
+postero - ventral region
+anatomical side
+anterior side
+posterior side
+apical side
+basal side
+dorsal side
+ventral side
+anatomical region
+anterior region
+posterior region
+apical region
+basal region
+dorsal region
+dorso - lateral region
+lateral region
+ventral region
+ventro - lateral region
+medial - external axis
+oral - aboral axis
+anterior surface
+posterior surface
+apical surface
+basal surface
+dorsal surface
+lateral surface
+ventral surface
+anatomical plane
+sagittal plane
+medial - lateral axis
+anatomical entity
+connected anatomical structure
+material anatomical entity
+immaterial anatomical entity
+anatomical line
+anatomical boundary
+mitochondrial genome maintenance
+reproduction
+mitotic spindle elongation
+autophagosome assembly
+mitotic sister chromatid segregation
+mitotic g1 phase
+mitotic s phase
+mitotic g2 phase
+mitotic m phase
+mitotic prophase
+mitotic metaphase
+mitotic anaphase
+mitotic telophase
+negative regulation of transcription by rna polymerase ii
+meiotic spindle organization
+microtubule cytoskeleton organization
+leptotene
+zygotene
+pachytene
+diplotene
+diakinesis
+mitotic cell cycle
+m phase
+nuclear division
+lytic vacuole
+sister chromatid segregation
+mitochondrial rna metabolic process
+response to acid chemical
+retinoid metabolic process
+angiogenesis
+cilium or flagellum - dependent cell motility
+regulation of cell growth
+regulation of cell growth by extracellular stimulus
+blood vessel development
+microtubule bundle formation
+conditioned taste aversion
+acrosome assembly
+cell activation
+autolysis
+cell killing
+killing by symbiont of host cells
+regulation of protein phosphorylation
+negative regulation of protein phosphorylation
+positive regulation of protein phosphorylation
+vasculature development
+wound healing involved in inflammatory response
+adaptive immune response
+immune effector process
+myeloid cell homeostasis
+cell activation involved in immune response
+leukocyte activation involved in inflammatory response
+myeloid leukocyte activation
+myeloid cell activation involved in immune response
+macrophage activation involved in immune response
+lymphocyte activation involved in immune response
+natural killer cell activation involved in immune response
+leukocyte activation involved in immune response
+immune system process
+inflammatory response to antigenic stimulus
+acute inflammatory response to antigenic stimulus
+leukocyte mediated immunity
+myeloid leukocyte mediated immunity
+type ii hypersensitivity
+lymphocyte mediated immunity
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+immune system development
+hypersensitivity
+acute inflammatory response
+regulation of acute inflammatory response
+negative regulation of acute inflammatory response
+positive regulation of acute inflammatory response
+regulation of immune system process
+negative regulation of immune system process
+positive regulation of immune system process
+regulation of leukocyte activation
+negative regulation of leukocyte activation
+positive regulation of leukocyte activation
+regulation of immune effector process
+negative regulation of immune effector process
+positive regulation of immune effector process
+regulation of leukocyte mediated immunity
+negative regulation of leukocyte mediated immunity
+positive regulation of leukocyte mediated immunity
+regulation of lymphocyte mediated immunity
+negative regulation of lymphocyte mediated immunity
+positive regulation of lymphocyte mediated immunity
+regulation of b cell mediated immunity
+negative regulation of b cell mediated immunity
+positive regulation of b cell mediated immunity
+peptide secretion
+regulation of peptide secretion
+negative regulation of peptide secretion
+positive regulation of peptide secretion
+regulation of adaptive immune response
+negative regulation of adaptive immune response
+positive regulation of adaptive immune response
+regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+regulation of response to biotic stimulus
+negative regulation of response to biotic stimulus
+positive regulation of response to biotic stimulus
+regulation of inflammatory response to antigenic stimulus
+negative regulation of inflammatory response to antigenic stimulus
+positive regulation of inflammatory response to antigenic stimulus
+regulation of acute inflammatory response to antigenic stimulus
+negative regulation of acute inflammatory response to antigenic stimulus
+positive regulation of acute inflammatory response to antigenic stimulus
+regulation of hypersensitivity
+negative regulation of hypersensitivity
+positive regulation of hypersensitivity
+regulation of myeloid leukocyte mediated immunity
+negative regulation of myeloid leukocyte mediated immunity
+positive regulation of myeloid leukocyte mediated immunity
+regulation of immunoglobulin mediated immune response
+negative regulation of immunoglobulin mediated immune response
+positive regulation of immunoglobulin mediated immune response
+regulation of type ii hypersensitivity
+negative regulation of type ii hypersensitivity
+positive regulation of type ii hypersensitivity
+developmental process involved in reproduction
+system process
+renal system process
+cilium movement
+regulation of cilium movement
+positive regulation of cilium movement
+negative regulation of cilium movement
+molecular_function
+nucleic acid binding
+dna binding
+steroid hormone receptor activity
+catalytic activity
+transmembrane signaling receptor activity
+g protein - coupled receptor activity
+signaling receptor binding
+transporter activity
+dicarboxylic acid transmembrane transporter activity
+organic acid transmembrane transporter activity
+binding
+protein binding
+cellular_component
+extracellular region
+extracellular space
+cell wall
+intracellular
+cell
+nucleus
+nucleolus
+cytoplasm
+mitochondrion
+mitochondrial envelope
+mitochondrial intermembrane space
+mitochondrial matrix
+lysosome
+vacuole
+vacuolar lumen
+endoplasmic reticulum
+endoplasmic reticulum lumen
+smooth endoplasmic reticulum
+rough endoplasmic reticulum
+golgi apparatus
+golgi - associated vesicle
+cis - golgi network
+lipid droplet
+spindle
+cytosol
+polysome
+cytoskeleton
+plasma membrane
+cilium
+cell cortex
+carbohydrate metabolic process
+organic acid metabolic process
+regulation of carbohydrate metabolic process
+nucleobase - containing compound metabolic process
+regulation of nucleotide metabolic process
+purine nucleotide metabolic process
+purine nucleotide biosynthetic process
+dna metabolic process
+dna modification
+dna alkylation
+dna methylation
+dna packaging
+transcription ,  dna - templated
+regulation of transcription ,  dna - templated
+regulation of transcription by rna polymerase ii
+transcription by rna polymerase ii
+mitochondrial transcription
+cellular protein modification process
+protein phosphorylation
+protein glycosylation
+protein n - linked glycosylation
+proteolysis
+cellular modified amino acid metabolic process
+lipid metabolic process
+isoprenoid metabolic process
+terpenoid metabolic process
+cellular aromatic compound metabolic process
+coenzyme metabolic process
+nucleoside phosphate metabolic process
+atp biosynthetic process
+folic acid - containing compound metabolic process
+vitamin metabolic process
+water - soluble vitamin metabolic process
+biotin metabolic process
+thiamine metabolic process
+fat - soluble vitamin metabolic process
+vitamin a metabolic process
+sulfur compound metabolic process
+phosphorus metabolic process
+phosphate - containing compound metabolic process
+nitrogen compound metabolic process
+transport
+ion transport
+anion transport
+dicarboxylic acid transport
+drug transmembrane transport
+extracellular transport
+cellular ion homeostasis
+cellular calcium ion homeostasis
+cellular metal ion homeostasis
+intracellular protein transport
+vesicle budding from membrane
+vesicle targeting
+autophagy
+apoptotic process
+cellular component disassembly involved in execution phase of apoptosis
+movement of cell or subcellular component
+response to stress
+defense response
+inflammatory response
+immune response
+cellular defense response
+response to osmotic stress
+hyperosmotic response
+cellular response to dna damage stimulus
+organelle organization
+nucleus organization
+mitochondrion organization
+mitochondrial membrane organization
+cytoskeleton organization
+microtubule - based process
+microtubule - based movement
+vacuole organization
+vacuolar calcium ion homeostasis
+cell cycle
+spindle organization
+mitotic spindle organization
+spindle assembly involved in male meiosis
+spindle assembly involved in male meiosis ii
+spindle assembly involved in female meiosis
+spindle assembly involved in female meiosis ii
+chromosome segregation
+mitotic chromosome condensation
+regulation of mitotic nuclear division
+meiotic prophase i
+meiotic metaphase i
+meiotic anaphase i
+meiotic telophase i
+meiosis ii
+meiotic prophase ii
+meiotic metaphase ii
+meiotic anaphase ii
+meiotic telophase ii
+male meiotic nuclear division
+male meiosis ii
+female meiotic nuclear division
+female meiosis ii
+cell communication
+cell adhesion
+negative regulation of cell adhesion
+signal transduction
+g protein - coupled receptor signaling pathway
+cell - cell signaling
+multicellular organism development
+gamete generation
+germ cell development
+spermatogenesis
+spermatid development
+sperm axoneme assembly
+spermatid nucleus differentiation
+female gamete generation
+single fertilization
+regulation of mitotic cell cycle
+nervous system development
+central nervous system development
+brain development
+aging
+response to nutrient
+excretion
+blood coagulation
+hemostasis
+sensory perception
+visual perception
+phototransduction
+phototransduction ,  visible light
+phototransduction ,  uv
+sensory perception of sound
+sensory perception of chemical stimulus
+sensory perception of smell
+behavior
+learning or memory
+learning
+memory
+short - term memory
+long - term memory
+mating behavior
+mating
+copulation
+rhythmic behavior
+circadian rhythm
+locomotory behavior
+feeding behavior
+visual behavior
+chemosensory behavior
+protein localization
+transcription factor binding
+biological_process
+metabolic process
+cell death
+peptidase activity
+cysteine - type peptidase activity
+regulation of g protein - coupled receptor signaling pathway
+cell population proliferation
+positive regulation of cell population proliferation
+negative regulation of cell population proliferation
+dna binding ,  bending
+associative learning
+olfactory learning
+asymmetric cell division
+anion transmembrane transporter activity
+organic anion transmembrane transporter activity
+folic acid transmembrane transporter activity
+visual learning
+ubiquitin - like modifier activating enzyme activity
+catabolic process
+biosynthetic process
+macromolecule biosynthetic process
+glycoprotein metabolic process
+glycoprotein biosynthetic process
+nucleoside metabolic process
+nucleotide metabolic process
+regulation of nucleoside metabolic process
+ribonucleoside metabolic process
+nucleoside monophosphate metabolic process
+nucleoside monophosphate biosynthetic process
+purine nucleoside monophosphate metabolic process
+purine nucleoside monophosphate biosynthetic process
+nucleoside triphosphate metabolic process
+nucleoside triphosphate biosynthetic process
+purine nucleoside triphosphate metabolic process
+purine nucleoside triphosphate biosynthetic process
+purine ribonucleotide metabolic process
+purine ribonucleotide biosynthetic process
+ribonucleoside monophosphate biosynthetic process
+ribonucleoside monophosphate metabolic process
+nucleoside biosynthetic process
+nucleotide biosynthetic process
+purine ribonucleoside monophosphate metabolic process
+purine ribonucleoside monophosphate biosynthetic process
+ribonucleoside triphosphate metabolic process
+ribonucleoside triphosphate biosynthetic process
+purine ribonucleoside triphosphate metabolic process
+purine ribonucleoside triphosphate biosynthetic process
+cobalamin metabolic process
+ribonucleotide metabolic process
+ribonucleotide biosynthetic process
+response to temperature stimulus
+cellular response to starvation
+response to ph
+fungal - type cell wall
+cell outer membrane
+nucleoid
+protein secretion
+response to radiation
+quorum sensing
+response to heat
+response to cold
+response to xenobiotic stimulus
+response to uv
+response to water deprivation
+response to water
+response to light stimulus
+energy taxis
+chloroplast
+plastid envelope
+plastid stroma
+chloroplast stromal thylakoid
+chloroplast thylakoid
+plastid
+proplastid
+fertilization
+chloroplast stroma
+proplastid stroma
+thylakoid
+detection of external stimulus
+detection of abiotic stimulus
+detection of light stimulus
+detection of visible light
+detection of uv
+detection of biotic stimulus
+response to external stimulus
+response to biotic stimulus
+response to wounding
+response to virus
+response to abiotic stimulus
+response to toxic substance
+response to blue light
+response to red or far red light
+response to light intensity
+response to high light intensity
+response to low light intensity stimulus
+response to absence of light
+response to salt stress
+anatomical structure morphogenesis
+response to endogenous stimulus
+response to hormone
+hormone - mediated signaling pathway
+blue light signaling pathway
+regulation of asymmetric cell division
+embryo development
+pollination
+animal organ morphogenesis
+tissue development
+regulation of biosynthetic process
+negative regulation of biosynthetic process
+positive regulation of biosynthetic process
+negative regulation of metabolic process
+positive regulation of metabolic process
+regulation of catabolic process
+negative regulation of catabolic process
+positive regulation of catabolic process
+chloroplast envelope
+regulation of signal transduction
+positive regulation of signal transduction
+negative regulation of signal transduction
+cellular process
+response to extracellular stimulus
+oocyte differentiation
+red or far - red light signaling pathway
+far - red light signaling pathway
+meiotic chromosome condensation
+response to organic substance
+response to inorganic substance
+response to metal ion
+response to red light
+red light signaling pathway
+response to x - ray
+regulation of cellular defense response
+positive regulation of cellular defense response
+response to ionizing radiation
+response to far red light
+response to uv - b
+response to uv - c
+response to lithium ion
+response to organonitrogen compound
+endomembrane system organization
+membrane invagination
+response to gamma radiation
+negative regulation of peptidase activity
+gene expression
+regulation of gene expression
+regulation of signaling receptor activity
+regulation of autophagy
+negative regulation of autophagy
+positive regulation of autophagy
+regulation of platelet activation
+negative regulation of platelet activation
+regulation of macromolecule biosynthetic process
+positive regulation of macromolecule biosynthetic process
+negative regulation of macromolecule biosynthetic process
+regulation of glycoprotein biosynthetic process
+positive regulation of glycoprotein biosynthetic process
+negative regulation of glycoprotein biosynthetic process
+positive regulation of phosphorus metabolic process
+negative regulation of phosphorus metabolic process
+regulation of cell cycle process
+positive regulation of platelet activation
+positive regulation of macromolecule metabolic process
+negative regulation of macromolecule metabolic process
+posttranscriptional regulation of gene expression
+programmed cell death involved in cell development
+positive regulation of gene expression
+negative regulation of gene expression
+positive regulation of organelle organization
+negative regulation of organelle organization
+regulation of cell communication
+positive regulation of cell communication
+negative regulation of cell communication
+regulation of transcription from rna polymerase ii promoter involved in meiotic cell cycle
+positive regulation of transcription from rna polymerase ii promoter involved in meiotic cell cycle
+negative regulation of transcription from rna polymerase ii promoter involved in meiotic cell cycle
+positive regulation of cell development
+negative regulation of cell development
+regulation of transcription from rna polymerase ii promoter in response to uv - induced dna damage
+negative regulation of transcription from rna polymerase ii promoter in response to uv - induced dna damage
+regulation of mitochondrion organization
+positive regulation of mitochondrion organization
+negative regulation of mitochondrion organization
+cellular component assembly involved in morphogenesis
+regulation of cell death
+positive regulation of cell death
+negative regulation of cell cycle process
+positive regulation of peptidase activity
+magnesium ion homeostasis
+transport along microtubule
+regulation of neuron projection development
+positive regulation of neuron projection development
+negative regulation of neuron projection development
+programmed cell death
+endomembrane system
+vesicle membrane
+er to golgi transport vesicle membrane
+monolayer - surrounded lipid storage body
+regulation of neuron maturation
+positive regulation of neuron maturation
+negative regulation of neuron maturation
+postsynaptic density
+response to organic cyclic compound
+response to isoquinoline alkaloid
+response to amine
+protein transport
+ion transmembrane transporter activity
+inorganic molecular entity transmembrane transporter activity
+microtubule cytoskeleton
+organic anion transport
+peptide transport
+organic acid transport
+folic acid transport
+drug transport
+pantothenate metabolic process
+membrane
+cellular component organization
+cell growth
+vesicle organization
+rhodopsin mediated signaling pathway
+immunoglobulin mediated immune response
+rna metabolic process
+diterpenoid metabolic process
+carotene metabolic process
+vesicle - mediated transport
+macroautophagy
+positive regulation of macroautophagy
+regulation of macroautophagy
+negative regulation of macroautophagy
+rna interference
+kinase activity
+phosphorylation
+female meiosis chromosome segregation
+posttranscriptional gene silencing
+gene silencing
+cytosolic transport
+negative regulation of angiogenesis
+transferase activity
+transferase activity ,  transferring phosphorus - containing groups
+hydrolase activity
+ligase activity
+ligase activity ,  forming carbon - sulfur bonds
+ligase activity ,  forming carbon - nitrogen bonds
+acid - amino acid ligase activity
+nuclear receptor binding
+drug metabolic process
+stem cell division
+heterocycle biosynthetic process
+host cellular component
+reproductive behavior
+regulation of lipid metabolic process
+regulation of nucleobase - containing compound metabolic process
+regulation of phosphate metabolic process
+regulation of metabolic process
+sensory perception of pain
+aromatic compound biosynthetic process
+protein metabolic process
+organophosphate metabolic process
+ribose phosphate metabolic process
+b cell mediated immunity
+cellular homeostasis
+regulation of isoprenoid metabolic process
+carboxylic acid metabolic process
+atg12 transferase activity
+atg12 activating enzyme activity
+ubiquitin - like protein - specific protease activity
+atg8 - specific protease activity
+ubiquitin - like protein transferase activity
+outer membrane
+sexual reproduction
+asexual reproduction
+developmental maturation
+neurogenesis
+regulation of rhodopsin mediated signaling pathway
+cell cycle process
+cell cycle phase
+membrane docking
+regulation of cell - cell adhesion
+negative regulation of cell - cell adhesion
+positive regulation of cell - cell adhesion
+circadian sleep / wake cycle process
+cellular component disassembly
+cellular process involved in reproduction in multicellular organism
+reproductive process
+regulation of anatomical structure morphogenesis
+cellular component assembly
+biological adhesion
+transmembrane transporter activity
+regulation of transmembrane transporter activity
+signal transduction by protein phosphorylation
+signal transduction involved in regulation of gene expression
+regulation of signaling
+signaling
+positive regulation of signaling
+negative regulation of signaling
+signal release
+cellular cation homeostasis
+cell projection organization
+cell projection assembly
+cell junction
+bacterial thylakoid
+hemopoiesis
+myeloid cell differentiation
+natural killer cell activation
+transport vesicle
+copii - coated er to golgi transport vesicle
+coated vesicle
+secretory granule
+cell differentiation
+regulation of cell adhesion
+regulation of proteolysis
+platelet activation
+neuron differentiation
+regulation of blood coagulation
+positive regulation of blood coagulation
+negative regulation of blood coagulation
+extracellular matrix organization
+erythrocyte differentiation
+chromosome condensation
+apoptotic nuclear changes
+apoptotic chromosome condensation
+estrogen receptor activity
+positive regulation of cell growth
+negative regulation of cell growth
+external encapsulating structure
+cell envelope
+flagellated sperm motility
+host cell cytoplasm
+sleep
+intracellular receptor signaling pathway
+receptor regulator activity
+signaling receptor activator activity
+symbiont intracellular protein transport in host
+regulation of vitamin metabolic process
+transport vesicle membrane
+cytoplasmic vesicle membrane
+golgi - associated vesicle membrane
+coated vesicle membrane
+secretory granule membrane
+cytoskeleton - dependent intracellular transport
+ovulation
+regulation of nucleotide biosynthetic process
+negative regulation of nucleotide biosynthetic process
+positive regulation of nucleotide biosynthetic process
+intraciliary transport particle
+extracellular matrix
+gene silencing by rna
+programmed dna elimination
+chromosome breakage
+organelle membrane
+neuron projection development
+pseudopodium organization
+regulation of cellular metabolic process
+negative regulation of cellular metabolic process
+positive regulation of cellular metabolic process
+regulation of cellular biosynthetic process
+negative regulation of cellular biosynthetic process
+positive regulation of cellular biosynthetic process
+regulation of cellular catabolic process
+negative regulation of cellular catabolic process
+positive regulation of cellular catabolic process
+negative regulation of protein - containing complex assembly
+positive regulation of protein - containing complex assembly
+regulation of cell killing
+negative regulation of cell killing
+positive regulation of cell killing
+regulation of cell projection organization
+negative regulation of cell projection organization
+positive regulation of cell projection organization
+regulation of defense response
+negative regulation of defense response
+positive regulation of defense response
+regulation of protein modification process
+negative regulation of protein modification process
+positive regulation of protein modification process
+cytoplasmic vesicle
+response to methotrexate
+protein - containing complex localization
+killing of cells of other organism
+regulation of nervous system process
+negative regulation of nervous system process
+positive regulation of nervous system process
+response to nutrient levels
+cellular response to extracellular stimulus
+cellular response to nutrient levels
+response to corticosteroid
+organelle envelope
+chloroplast membrane
+organelle envelope lumen
+membrane - enclosed lumen
+envelope
+plastid thylakoid
+nuclear lumen
+vesicle
+organelle subcompartment
+locomotion involved in locomotory behavior
+mitochondrial dna metabolic process
+bleb assembly
+negative regulation of protein binding
+positive regulation of protein binding
+regulation of response to external stimulus
+negative regulation of response to external stimulus
+positive regulation of response to external stimulus
+regulation of response to extracellular stimulus
+negative regulation of response to extracellular stimulus
+positive regulation of response to extracellular stimulus
+regulation of response to nutrient levels
+negative regulation of response to nutrient levels
+positive regulation of response to nutrient levels
+methylation
+regulation of cellular protein metabolic process
+negative regulation of cellular protein metabolic process
+positive regulation of cellular protein metabolic process
+asymmetric synapse
+regulation of intracellular transport
+negative regulation of intracellular transport
+positive regulation of intracellular transport
+regulation of transporter activity
+negative regulation of transporter activity
+positive regulation of transporter activity
+regulation of ion transmembrane transporter activity
+negative regulation of ion transmembrane transporter activity
+positive regulation of ion transmembrane transporter activity
+golgi calcium ion homeostasis
+endoplasmic reticulum calcium ion homeostasis
+multicellular organismal process
+developmental process
+multicellular organism reproduction
+protein transport within lipid bilayer
+rna biosynthetic process
+monocarboxylic acid metabolic process
+regulation of natural killer cell activation
+negative regulation of natural killer cell activation
+positive regulation of natural killer cell activation
+plasma membrane bounded cell projection cytoplasm
+cellular response to hormone stimulus
+regulation of localization
+regulation of protein localization
+regulation of microtubule - based process
+regulation of spindle elongation
+regulation of mitotic spindle elongation
+regulation of organic acid transport
+negative regulation of organic acid transport
+positive regulation of organic acid transport
+secretion by cell
+cellular component morphogenesis
+protein - containing complex
+tetrapyrrole metabolic process
+macromolecule localization
+regulation of organelle organization
+regulation of chromosome organization
+regulation of sister chromatid segregation
+negative regulation of sister chromatid segregation
+regulation of mitotic sister chromatid segregation
+negative regulation of mitotic sister chromatid segregation
+progesterone receptor binding
+regulation of intracellular protein transport
+response to vitamin
+secretory granule organization
+protein localization to organelle
+t cell secretory granule organization
+carbohydrate homeostasis
+cellular response to stress
+protein glycosylation in cytosol
+protein glycosylation in endoplasmic reticulum
+protein glycosylation in golgi
+modulation by symbiont of host response to abiotic stimulus
+modulation by symbiont of host response to temperature stimulus
+modulation by symbiont of host response to osmotic stress
+modulation by symbiont of host response to ph
+host cell part
+host intracellular part
+host intracellular organelle
+host intracellular membrane - bounded organelle
+negative regulation by symbiont of host apoptotic process
+negative regulation of kinase activity
+positive regulation of kinase activity
+response to lipid
+response to cytokine
+erythrocyte homeostasis
+homotypic cell - cell adhesion
+regulation of homotypic cell - cell adhesion
+negative regulation of homotypic cell - cell adhesion
+positive regulation of homotypic cell - cell adhesion
+ion transmembrane transport
+regulation of cellular amide metabolic process
+negative regulation of cellular amide metabolic process
+positive regulation of cellular amide metabolic process
+nucleobase - containing small molecule biosynthetic process
+cellular protein localization
+cellular nitrogen compound metabolic process
+cellular response to uv
+cellular macromolecule biosynthetic process
+nucleobase - containing compound biosynthetic process
+regulation of transmembrane transport
+negative regulation of transmembrane transport
+positive regulation of transmembrane transport
+regulation of ion transmembrane transport
+negative regulation of ion transmembrane transport
+positive regulation of ion transmembrane transport
+axoneme assembly
+operant conditioning
+social behavior
+posttranscriptional gene silencing by rna
+tube morphogenesis
+nuclear hormone receptor binding
+steroid hormone receptor binding
+multicellular organism growth
+tube development
+response to interferon - beta
+vitamin transmembrane transport
+positive regulation of vascular wound healing
+intracellular signal transduction
+establishment of protein localization to extracellular region
+intraciliary transport involved in cilium assembly
+modulation of process of other organism
+negative regulation of peptidase activity in other organism
+protein modification process
+response to diuretic
+response to methylphenidate
+response to gemcitabine
+response to statin
+response to lapatinib
+response to 5 - fluorouracil
+response to antidepressant
+response to anticonvulsant
+response to iloperidone
+response to ximelagatran
+nucleoid dna packaging
+bacterial nucleoid dna packaging
+signaling receptor activity
+growth
+regulation of growth
+locomotion
+regulation of locomotion
+negative regulation of locomotion
+regulation of multicellular organism growth
+negative regulation of multicellular organism growth
+embryonic cleavage
+positive regulation of locomotion
+positive regulation of multicellular organism growth
+positive regulation of embryonic development
+regulation of meiotic nuclear division
+regulation of gene expression ,  epigenetic
+host cell nucleus
+olfactory behavior
+wound healing
+intraciliary transport
+germ - line stem cell division
+macrophage activation
+regulation of cell population proliferation
+plastid membrane
+terpene metabolic process
+response to chemical
+purine nucleoside metabolic process
+regulation of circadian sleep / wake cycle ,  rem sleep
+negative regulation of circadian sleep / wake cycle ,  sleep
+negative regulation of circadian sleep / wake cycle ,  rem sleep
+negative regulation of circadian sleep / wake cycle ,  non - rem sleep
+regulation of phosphorylation
+negative regulation of phosphorylation
+positive regulation of phosphorylation
+taxis
+phototaxis
+vitamin e metabolic process
+purine nucleoside biosynthetic process
+ribonucleoside biosynthetic process
+odontogenesis
+regulation of odontogenesis
+positive regulation of odontogenesis
+negative regulation of odontogenesis
+response to drug
+hyperosmotic salinity response
+neuron maturation
+pteridine - containing compound metabolic process
+homeostatic process
+glucose homeostasis
+response to starvation
+behavioral response to water deprivation
+chloroplast nucleoid
+mitochondrial nucleoid
+plastid nucleoid
+proplastid nucleoid
+biofilm formation
+thiamine - containing compound metabolic process
+circadian sleep / wake cycle
+circadian sleep / wake cycle ,  rem sleep
+circadian sleep / wake cycle ,  non - rem sleep
+regulation of circadian sleep / wake cycle
+regulation of circadian rhythm
+positive regulation of circadian rhythm
+negative regulation of circadian rhythm
+eating behavior
+drinking behavior
+regulation of sulfur metabolic process
+amide transport
+amide transmembrane transporter activity
+xenobiotic transport
+xenobiotic transmembrane transporter activity
+regulation of apoptotic process
+cell projection
+neuron projection
+regulation of macrophage activation
+negative regulation of macrophage activation
+positive regulation of macrophage activation
+dna methylation involved in embryo development
+dna methylation involved in gamete generation
+extracellular structure organization
+positive regulation of apoptotic process
+negative regulation of apoptotic process
+regulation of programmed cell death
+positive regulation of programmed cell death
+negative regulation of programmed cell death
+positive regulation of catalytic activity
+negative regulation of catalytic activity
+macromolecule metabolic process
+response to external biotic stimulus
+myelin sheath
+organelle
+membrane - bounded organelle
+non - membrane - bounded organelle
+intracellular organelle
+extracellular organelle
+intracellular membrane - bounded organelle
+intracellular non - membrane - bounded organelle
+organelle lumen
+regulation of protein - containing complex assembly
+regulation of ion transport
+positive regulation of ion transport
+negative regulation of ion transport
+response to morphine
+response to alkaloid
+positive regulation of dna binding
+negative regulation of dna binding
+regulation of protein binding
+steroid hormone mediated signaling pathway
+macromolecule modification
+macromolecule glycosylation
+macromolecule methylation
+oxoacid metabolic process
+regulation of kinase activity
+bacterial nucleoid
+cellular amide metabolic process
+regulation of transcription from rna polymerase ii promoter in response to stress
+regulation of dna - templated transcription in response to stress
+dicarboxylic acid metabolic process
+host extracellular space
+host intracellular region
+host cell
+regulation of multi - organism process
+negative regulation of multi - organism process
+positive regulation of multi - organism process
+regulation of symbiosis ,  encompassing mutualism through parasitism
+protein - containing complex subunit organization
+positive regulation of catalytic activity in other organism involved in symbiotic interaction
+induction by symbiont of host catalytic activity
+modulation by symbiont of host process
+single - species biofilm formation
+single - species biofilm formation on inanimate substrate
+regulation of dna methylation
+obsolete interaction with host via substance released outside of symbiont
+regulation of system process
+regulation of excretion
+modulation by symbiont of host nervous system process
+modulation by symbiont of host cellular process
+modulation by symbiont of host anion transport
+regulation of anion transport
+modulation by symbiont of host cell cycle
+negative regulation by symbiont of host cell cycle
+cellular component biogenesis
+regulation of cellular component biogenesis
+regulation of vacuole organization
+positive regulation of cellular component biogenesis
+positive regulation of vacuole organization
+negative regulation of molecular function
+positive regulation of molecular function
+growth involved in symbiotic interaction
+development involved in symbiotic interaction
+obsolete other organism
+other organism cell
+other organism part
+cellular metabolic process
+primary metabolic process
+cellular catabolic process
+cellular biosynthetic process
+cellular lipid metabolic process
+cellular macromolecule metabolic process
+cellular protein metabolic process
+cellular nitrogen compound biosynthetic process
+small molecule metabolic process
+small molecule biosynthetic process
+modulation of molecular function in other organism
+negative regulation of molecular function in other organism
+disruption of cells of other organism
+symbiotic process
+interspecies interaction between organisms
+obsolete extracellular matrix component
+obsolete extracellular region part
+obsolete organelle part
+obsolete intracellular part
+obsolete membrane part
+obsolete cell wall part
+obsolete nuclear part
+obsolete mitochondrial part
+obsolete cytoskeletal part
+obsolete golgi apparatus part
+obsolete endoplasmic reticulum part
+obsolete cytoplasmic vesicle part
+obsolete chloroplast part
+obsolete plastid part
+obsolete thylakoid part
+obsolete vacuolar part
+obsolete ciliary part
+obsolete cytoplasmic part
+obsolete cytosolic part
+obsolete intracellular organelle part
+obsolete nucleolar part
+synapse part
+obsolete plasma membrane part
+obsolete external encapsulating structure part
+obsolete cell projection part
+obsolete cell part
+modulation of programmed cell death in other organism
+modulation of apoptotic process in other organism
+tooth eruption
+multi - organism reproductive process
+multi - organism reproductive behavior
+multi - multicellular organism process
+dna methylation or demethylation
+multi - organism cellular process
+multi - organism transport
+cilium organization
+biological phase
+plasma membrane raft
+membrane raft
+meiotic chromosome segregation
+meiotic sister chromatid segregation
+neuronal ion channel clustering
+establishment of protein localization
+regulation of circadian sleep / wake cycle ,  sleep
+regulation of circadian sleep / wake cycle ,  non - rem sleep
+synapse
+leukocyte activation
+response to ether
+locomotor rhythm
+regulation of cell differentiation
+negative regulation of cell differentiation
+positive regulation of cell differentiation
+regulation of myeloid cell differentiation
+negative regulation of myeloid cell differentiation
+positive regulation of myeloid cell differentiation
+regulation of erythrocyte differentiation
+negative regulation of erythrocyte differentiation
+positive regulation of erythrocyte differentiation
+regulation of neuron differentiation
+negative regulation of neuron differentiation
+positive regulation of neuron differentiation
+regulation of spermatid nuclear differentiation
+negative regulation of spermatid nuclear differentiation
+positive regulation of spermatid nuclear differentiation
+positive regulation of cilium assembly
+negative regulation of g protein - coupled receptor signaling pathway
+positive regulation of g protein - coupled receptor signaling pathway
+regulation of angiogenesis
+positive regulation of angiogenesis
+negative regulation of asymmetric cell division
+positive regulation of asymmetric cell division
+positive regulation of cell adhesion
+negative regulation of cell cycle
+positive regulation of cell cycle
+negative regulation of isoprenoid metabolic process
+positive regulation of isoprenoid metabolic process
+negative regulation of lipid metabolic process
+positive regulation of lipid metabolic process
+negative regulation of meiotic nuclear division
+positive regulation of meiotic nuclear division
+negative regulation of mitotic nuclear division
+positive regulation of mitotic nuclear division
+negative regulation of proteolysis
+positive regulation of proteolysis
+negative regulation of transcription ,  dna - templated
+positive regulation of transcription ,  dna - templated
+negative regulation of carbohydrate metabolic process
+positive regulation of carbohydrate metabolic process
+negative regulation of growth
+positive regulation of growth
+negative regulation of mitotic cell cycle
+positive regulation of mitotic cell cycle
+negative regulation of nucleobase - containing compound metabolic process
+positive regulation of nucleobase - containing compound metabolic process
+negative regulation of phosphate metabolic process
+positive regulation of phosphate metabolic process
+positive regulation of circadian sleep / wake cycle ,  sleep
+positive regulation of transcription by rna polymerase ii
+negative regulation of nucleoside metabolic process
+positive regulation of nucleoside metabolic process
+negative regulation of nucleotide metabolic process
+positive regulation of nucleotide metabolic process
+negative regulation of embryonic development
+regulation of embryonic development
+positive regulation of circadian sleep / wake cycle ,  rem sleep
+positive regulation of circadian sleep / wake cycle ,  non - rem sleep
+atp metabolic process
+purine ribonucleoside metabolic process
+purine ribonucleoside biosynthetic process
+positive regulation of vitamin metabolic process
+negative regulation of vitamin metabolic process
+ribose phosphate biosynthetic process
+heterocycle metabolic process
+lymphocyte activation
+folic acid metabolic process
+response to antibiotic
+chlorosome
+secretion
+intracellular transport
+carboxylic acid transport
+carboxylic acid transmembrane transporter activity
+positive phototaxis
+negative phototaxis
+nonassociative learning
+habituation
+sensitization
+regulation of response to osmotic stress
+receptor ligand activity
+apoplast
+autophagic cell death
+somatic stem cell division
+fibroblast proliferation
+regulation of fibroblast proliferation
+positive regulation of fibroblast proliferation
+negative regulation of fibroblast proliferation
+golgi vesicle transport
+vesicle targeting ,  to ,  from or within golgi
+regulation of vesicle targeting ,  to ,  from or within golgi
+male gamete generation
+rough endoplasmic reticulum lumen
+smooth endoplasmic reticulum lumen
+organelle fission
+cell development
+cell maturation
+oogenesis
+rhythmic process
+circadian behavior
+animal organ development
+blood vessel morphogenesis
+spermatid differentiation
+positive regulation of biological process
+negative regulation of biological process
+positive regulation of behavior
+negative regulation of behavior
+positive regulation of cellular process
+negative regulation of cellular process
+hematopoietic or lymphoid organ development
+response to steroid hormone
+regulation of response to stimulus
+positive regulation of response to stimulus
+negative regulation of response to stimulus
+developmental growth
+oocyte development
+multicellular organismal reproductive process
+regulation of developmental growth
+positive regulation of developmental growth
+negative regulation of developmental growth
+anatomical structure formation involved in morphogenesis
+neuron development
+generation of neurons
+system development
+anatomical structure development
+cellular developmental process
+cell motility
+homeostasis of number of cells
+chemical homeostasis
+epithelial cell proliferation
+regulation of epithelial cell proliferation
+positive regulation of epithelial cell proliferation
+negative regulation of epithelial cell proliferation
+regulation of protein secretion
+negative regulation of protein secretion
+positive regulation of protein secretion
+regulation of inflammatory response
+negative regulation of inflammatory response
+positive regulation of inflammatory response
+regulation of neurogenesis
+negative regulation of neurogenesis
+positive regulation of neurogenesis
+regulation of immune response
+negative regulation of immune response
+positive regulation of immune response
+regulation of biological process
+regulation of catalytic activity
+regulation of developmental process
+regulation of cellular process
+regulation of behavior
+ion homeostasis
+circadian sleep / wake cycle ,  sleep
+coagulation
+regulation of coagulation
+negative regulation of coagulation
+positive regulation of coagulation
+regulation of cell activation
+negative regulation of cell activation
+positive regulation of cell activation
+nervous system process
+regulation of body fluid levels
+cognition
+response to stimulus
+detection of stimulus involved in sensory perception
+detection of light stimulus involved in visual perception
+sensory perception of taste
+sensory perception of bitter taste
+sensory perception of light stimulus
+sensory perception of mechanical stimulus
+detection of light stimulus involved in sensory perception
+regulation of transcription involved in meiotic cell cycle
+negative regulation of transcription involved in meiotic cell cycle
+positive regulation of transcription involved in meiotic cell cycle
+regulation of secretion
+positive regulation of secretion
+negative regulation of secretion
+regulation of transport
+positive regulation of transport
+negative regulation of transport
+regulation of dna metabolic process
+negative regulation of dna metabolic process
+positive regulation of dna metabolic process
+negative regulation of developmental process
+positive regulation of developmental process
+regulation of binding
+positive regulation of binding
+negative regulation of binding
+regulation of dna binding
+regulation of cellular component organization
+negative regulation of cellular component organization
+positive regulation of cellular component organization
+regulation of nitrogen compound metabolic process
+negative regulation of nitrogen compound metabolic process
+positive regulation of nitrogen compound metabolic process
+regulation of phosphorus metabolic process
+negative regulation of sulfur metabolic process
+positive regulation of sulfur metabolic process
+localization
+vitamin transport
+cofactor transport
+cofactor metabolic process
+regulation of cofactor metabolic process
+positive regulation of cofactor metabolic process
+negative regulation of cofactor metabolic process
+regulation of coenzyme metabolic process
+positive regulation of coenzyme metabolic process
+negative regulation of coenzyme metabolic process
+positive regulation of protein transport
+regulation of protein transport
+negative regulation of protein transport
+spindle assembly
+spindle elongation
+meiotic spindle elongation
+establishment of localization
+regulation of multicellular organismal process
+positive regulation of multicellular organismal process
+negative regulation of multicellular organismal process
+negative regulation of cellular defense response
+regulation of protein metabolic process
+positive regulation of protein metabolic process
+negative regulation of protein metabolic process
+regulation of lymphocyte activation
+negative regulation of lymphocyte activation
+positive regulation of lymphocyte activation
+regulation of rna metabolic process
+negative regulation of rna metabolic process
+positive regulation of rna metabolic process
+regulation of cellular component movement
+negative regulation of cellular component movement
+positive regulation of cellular component movement
+chromosome organization
+cell division
+regulation of cell division
+g1 phase
+g2 phase
+s phase
+meiotic cell cycle
+anaphase
+metaphase
+prophase
+interphase
+telophase
+meiotic m phase
+meiotic interphase
+mitotic interphase
+meiotic g1 phase
+meiotic g2 phase
+meiotic s phase
+regulation of hydrolase activity
+regulation of transferase activity
+regulation of ligase activity
+positive regulation of hydrolase activity
+negative regulation of hydrolase activity
+positive regulation of transferase activity
+negative regulation of transferase activity
+positive regulation of ligase activity
+negative regulation of ligase activity
+response to glucocorticoid
+hormone receptor binding
+regulation of meiotic cell cycle
+positive regulation of meiotic cell cycle
+negative regulation of meiotic cell cycle
+regulation of cytoskeleton organization
+negative regulation of cytoskeleton organization
+positive regulation of cytoskeleton organization
+mitochondrial calcium ion homeostasis
+smooth endoplasmic reticulum calcium ion homeostasis
+detection of stimulus
+organelle localization
+cellular localization
+mitochondrion localization
+vesicle localization
+establishment of localization in cell
+establishment of vesicle localization
+establishment of organelle localization
+localization within membrane
+localization of cell
+interaction with host
+intraspecies interaction between organisms
+multi - organism process
+obsolete multi - organism behavior
+response to other organism
+regulation of killing of cells of other organism
+negative regulation of killing of cells of other organism
+positive regulation of killing of cells of other organism
+cellular response to stimulus
+regulation of cell cycle
+positive regulation of cell division
+negative regulation of cell division
+regulation of nuclear division
+negative regulation of nuclear division
+positive regulation of nuclear division
+modulation of process of other organism involved in symbiotic interaction
+disruption of cells of other organism involved in symbiotic interaction
+killing of cells in other organism involved in symbiotic interaction
+regulation of sensory perception of pain
+regulation of sensory perception
+regulation of nervous system development
+negative regulation of nervous system development
+positive regulation of nervous system development
+regulation of chromosome segregation
+positive regulation of chromosome segregation
+negative regulation of chromosome segregation
+modulation by symbiont of host intracellular transport
+modulation by symbiont of host programmed cell death
+negative regulation by symbiont of host programmed cell death
+positive regulation by symbiont of host programmed cell death
+obsolete symbiotic process mediated by secreted substance
+obsolete interaction with host via secreted substance
+negative regulation by symbiont of host catalytic activity
+negative regulation by symbiont of host peptidase activity
+modulation by symbiont of host molecular function
+negative regulation by symbiont of host molecular function
+obsolete interspecies quorum sensing
+obsolete intraspecies quorum sensing
+obsolete quorum sensing involved in interaction with host
+positive energy taxis
+negative energy taxis
+modulation by symbiont of host catalytic activity
+modulation by symbiont of host peptidase activity
+modulation by symbiont of host apoptotic process
+positive regulation by symbiont of host apoptotic process
+negative regulation of peptidase activity in other organism involved in symbiotic interaction
+modulation of peptidase activity in other organism involved in symbiotic interaction
+negative regulation of catalytic activity in other organism involved in symbiotic interaction
+modulation of catalytic activity in other organism involved in symbiotic interaction
+negative regulation of molecular function in other organism involved in symbiotic interaction
+modulation of molecular function in other organism involved in symbiotic interaction
+modulation of intracellular transport in other organism involved in symbiotic interaction
+modulation of programmed cell death in other organism involved in symbiotic interaction
+positive regulation by organism of programmed cell death in other organism involved in symbiotic interaction
+modulation by organism of apoptotic process in other organism involved in symbiotic interaction
+regulation of peptidase activity
+phosphate ion homeostasis
+metal ion homeostasis
+zinc ion homeostasis
+calcium ion homeostasis
+transition metal ion homeostasis
+cation homeostasis
+anion homeostasis
+cellular chemical homeostasis
+monovalent inorganic anion homeostasis
+transmembrane transport
+nucleobase - containing small molecule metabolic process
+response to very low light intensity stimulus
+regulation of protein glycosylation
+positive regulation of protein glycosylation
+negative regulation of protein glycosylation
+positive regulation of epithelial cell proliferation involved in wound healing
+angiogenesis involved in wound healing
+micturition
+molecular transducer activity
+regulation of posttranscriptional gene silencing
+positive regulation of posttranscriptional gene silencing
+negative regulation of posttranscriptional gene silencing
+regulation of mitotic spindle organization
+detection of cell density
+regulation of macromolecule metabolic process
+regulation of feeding behavior
+cilium assembly
+regulation of ovulation
+positive regulation of ovulation
+negative regulation of ovulation
+regulation of oocyte development
+positive regulation of oocyte development
+negative regulation of oocyte development
+regulation of cell development
+cilium - dependent cell motility
+cilium movement involved in cell motility
+regulation of cilium movement involved in cell motility
+head development
+regulation of cellular localization
+response to ammonium ion
+negative regulation of fertilization
+regulation of cell projection assembly
+negative regulation of cell death
+developmental growth involved in morphogenesis
+apoptotic process involved in morphogenesis
+regulation of chromosome condensation
+regulation of vesicle - mediated transport
+regulation of microtubule - based movement
+regulation of response to cytokine stimulus
+positive regulation of response to cytokine stimulus
+negative regulation of response to cytokine stimulus
+regulation of gene silencing by rna
+negative regulation of gene silencing by rna
+regulation of gene silencing
+negative regulation of gene silencing
+membrane organization
+regulation of wound healing
+vascular wound healing
+regulation of vascular wound healing
+negative regulation of vascular wound healing
+negative regulation of wound healing
+response to anticoagulant
+response to aromatase inhibitor
+response to platelet aggregation inhibitor
+response to reverse transcriptase inhibitor
+protein localization to cilium
+rna polymerase ii - specific dna - binding transcription factor binding
+ubiquitin - like protein conjugating enzyme activity
+atg12 conjugating enzyme activity
+ubiquitin - like protein ligase activity
+atg12 ligase activity
+engulfment of target by autophagosome
+motor learning
+mitotic spindle formation  ( spindle phase one )
+process utilizing autophagic mechanism
+meiosis ii cell cycle process
+regulation of small molecule metabolic process
+positive regulation of small molecule metabolic process
+negative regulation of small molecule metabolic process
+positive regulation of mitotic sister chromatid segregation
+regulation of mitochondrial gene expression
+detection of stimulus involved in sensory perception of pain
+protein - containing complex assembly
+biological regulation
+regulation of biological quality
+regulation of molecular function
+extracellular membrane - bounded organelle
+peptidase activity ,  acting on l - amino acid peptides
+intracellular organelle lumen
+extracellular exosome
+glycosylation
+response to uv - a
+chromosome organization involved in meiotic cell cycle
+regulation of establishment of protein localization
+regulation of microtubule cytoskeleton organization
+platelet aggregation
+cellular macromolecule localization
+cellular response to chemical stimulus
+organelle assembly
+dna conformation change
+cellular response to abiotic stimulus
+cellular response to organic substance
+cellular response to steroid hormone stimulus
+cellular response to lipid
+cellular response to organic cyclic compound
+cellular response to ph
+cellular response to radiation
+cellular response to ionizing radiation
+cellular response to gamma radiation
+cellular response to x - ray
+cellular response to light stimulus
+cellular response to blue light
+cellular response to light intensity
+cellular response to absence of light
+cellular response to high light intensity
+cellular response to low light intensity stimulus
+cellular response to very low light intensity stimulus
+cellular response to red or far red light
+cellular response to far red light
+cellular response to red light
+cellular response to uv - a
+cellular response to uv - b
+cellular response to uv - c
+cellular response to endogenous stimulus
+cellular response to external stimulus
+protein localization to extracellular region
+anatomical structure maturation
+organic substance transport
+organic substance metabolic process
+nitrogen compound transport
+cellular component organization or biogenesis
+response to monoamine
+cell periphery
+extracellular exosome assembly
+modified amino acid transport
+response to anesthetic
+modified amino acid transmembrane transporter activity
+cardiovascular system development
+circulatory system development
+medium - term memory
+cellular divalent inorganic cation homeostasis
+divalent inorganic anion homeostasis
+trivalent inorganic anion homeostasis
+divalent inorganic cation homeostasis
+purine - containing compound metabolic process
+purine - containing compound biosynthetic process
+pyrimidine - containing compound metabolic process
+response to cisplatin
+response to topoisomerase inhibitor
+positive regulation by symbiont of host autophagy
+modulation by symbiont of host autophagy
+regulation of primary metabolic process
+regulation of response to stress
+regulation of cellular response to stress
+regulation of fertilization
+positive regulation of cell cycle process
+regulation of peptide transport
+mitochondrial dna packaging
+regulation of spindle assembly
+regulation of spindle organization
+regulation of red or far - red light signaling pathway
+positive regulation of red or far - red light signaling pathway
+negative regulation of red or far - red light signaling pathway
+regulation of protein glycosylation in golgi
+positive regulation of protein glycosylation in golgi
+negative regulation of protein glycosylation in golgi
+positive regulation of wound healing
+nucleic acid metabolic process
+spindle assembly involved in meiosis
+mitotic spindle assembly
+positive regulation of intracellular protein transport
+negative regulation of intracellular protein transport
+regulation of locomotion involved in locomotory behavior
+positive regulation of locomotion involved in locomotory behavior
+negative regulation of locomotion involved in locomotory behavior
+regulation of olfactory learning
+regulation of platelet aggregation
+negative regulation of platelet aggregation
+organophosphate biosynthetic process
+vitamin transmembrane transporter activity
+inflammatory response to wounding
+submerged biofilm formation
+single - species submerged biofilm formation
+ciliary plasm
+synaptic membrane
+organic cyclic compound binding
+apoptotic signaling pathway
+execution phase of apoptosis
+dishabituation
+response to alcohol
+response to antineoplastic agent
+response to carboplatin
+response to antimetabolite
+response to 5 - fluoro - 2' - deoxyuridine
+response to cytarabine
+response to antipsychotic drug
+response to olanzapine
+response to perphenazine
+response to quetiapine
+response to risperidone
+response to ziprasidone
+response to clozapine
+response to bronchodilator
+obsolete smooth endoplasmic reticulum part
+obsolete neuron part
+nucleic acid - templated transcription
+intracellular vesicle
+ciliary basal body - plasma membrane docking
+vesicle targeting ,  trans - golgi to periciliary membrane compartment
+sperm motility
+extracellular exosome biogenesis
+bounding membrane of organelle
+membrane region
+plasma membrane region
+cell - cell adhesion
+aggregation of unicellular organisms
+cell adhesion mediator activity
+cell - cell adhesion mediator activity
+anion transmembrane transport
+cell aggregation
+meiotic cell cycle phase
+mitotic cell cycle phase
+meiosis i cell cycle phase
+meiosis ii cell cycle phase
+inorganic ion homeostasis
+molecular function regulator
+golgi subcompartment
+postsynapse
+membrane protein complex
+plasma membrane protein complex
+mitochondrial protein complex
+regulation of renal system process
+whole membrane
+nuclear chromosome segregation
+endoplasmic reticulum subcompartment
+protein transport along microtubule
+membrane microdomain
+neuron to neuron synapse
+vesicle - mediated transport in synapse
+postsynaptic specialization ,  intracellular component
+postsynaptic density ,  intracellular component
+microtubule - based transport
+microtubule - based protein transport
+secretory vesicle
+region of cytosol
+postsynaptic cytosol
+synaptic signaling
+cytoplasmic region
+postsynaptic cytoskeleton
+postsynaptic specialization
+signal release from synapse
+cell cortex region
+obsolete negative regulation of cell - cell adhesion by transcription from rna polymerase ii promoter
+obsolete regulation of transport by transcription from rna polymerase ii promoter
+obsolete regulation of meiotic nuclear division by transcription from rna polymerase ii promoter
+obsolete regulation of carbohydrate metabolic process by transcription from rna polymerase ii promoter
+obsolete positive regulation of purine nucleotide biosynthetic process by transcription from rna polymerase ii promoter
+obsolete positive regulation of meiotic nuclear division by transcription from rna polymerase ii promoter
+cellular response to environmental stimulus
+regulation of inflammatory response to wounding
+negative regulation of inflammatory response to wounding
+positive regulation of inflammatory response to wounding
+regulation of cobalamin metabolic process
+positive regulation of cobalamin metabolic process
+negative regulation of cobalamin metabolic process
+positive regulation of mitotic spindle organization
+positive regulation of animal organ morphogenesis
+negative regulation of animal organ morphogenesis
+regulation of mitotic spindle formation  ( spindle phase one )
+negative regulation of mitotic spindle formation  ( spindle phase one )
+positive regulation of mitotic spindle formation  ( spindle phase one )
+cellular anatomical entity
+plasma membrane bounded cell projection
+plasma membrane bounded cell projection assembly
+regulation of plasma membrane bounded cell projection assembly
+negative regulation of plasma membrane bounded cell projection assembly
+positive regulation of plasma membrane bounded cell projection assembly
+regulation of plasma membrane bounded cell projection organization
+plasma membrane bounded cell projection organization
+obsolete plasma membrane bounded cell projection part
+neuron projection cytoplasm
+meiotic nuclear division
+mitotic nuclear division
+cell - cell adhesion in response to extracellular stimulus
+mitochondrial gene expression
+organelle localization by membrane tethering
+catalytic activity ,  acting on a protein
+extracellular vesicle biogenesis
+dna - binding transcription factor binding
+negative regulation by symbiont of host autophagy
+export from cell
+regulation of hemostasis
+negative regulation of hemostasis
+positive regulation of hemostasis
+extracellular regulation of signal transduction
+extracellular negative regulation of signal transduction
+regulation of execution phase of apoptosis
+negative regulation of execution phase of apoptosis
+positive regulation of execution phase of apoptosis
+regulation of receptor binding
+negative regulation of receptor binding
+positive regulation of receptor binding
+plastid dna packaging
+regulation of single - species biofilm formation
+negative regulation of single - species biofilm formation
+positive regulation of single - species biofilm formation
+regulation of single - species biofilm formation on inanimate substrate
+negative regulation of single - species biofilm formation on inanimate substrate
+positive regulation of single - species biofilm formation on inanimate substrate
+regulation of rna interference
+negative regulation of rna interference
+positive regulation of rna interference
+regulation of purine nucleotide biosynthetic process
+negative regulation of purine nucleotide biosynthetic process
+positive regulation of purine nucleotide biosynthetic process
+obsolete negative regulation of cell - cell adhesion by negative regulation of transcription from rna polymerase ii promoter
+obsolete regulation of transport by negative regulation of transcription from rna polymerase ii promoter
+obsolete regulation of carbohydrate metabolic process by regulation of transcription from rna polymerase ii promoter
+obsolete positive regulation of purine nucleotide biosynthetic process by positive regulation of transcription from rna polymerase ii promoter
+regulation of purine nucleotide metabolic process
+negative regulation of purine nucleotide metabolic process
+positive regulation of purine nucleotide metabolic process
+regulation of response to salt stress
+negative regulation of response to salt stress
+positive regulation of response to salt stress
+carbohydrate derivative metabolic process
+carbohydrate derivative biosynthetic process
+gene expression involved in extracellular matrix organization
+nucleoside phosphate biosynthetic process
+regulation of flagellated sperm motility
+negative regulation of flagellated sperm motility
+regulation of vasculature development
+negative regulation of vasculature development
+organic cyclic compound metabolic process
+organic cyclic compound biosynthetic process
+heterocyclic compound binding
+regulation of tetrapyrrole metabolic process
+negative regulation of tetrapyrrole metabolic process
+positive regulation of tetrapyrrole metabolic process
+regulation of response to alcohol
+negative regulation of response to alcohol
+positive regulation of response to alcohol
+positive regulation of transcription from rna polymerase ii promoter involved in cellular response to chemical stimulus
+changes to dna methylation involved in embryo development
+response to paracetamol
+response to paclitaxel
+response to candesartan
+response to fenofibrate
+response to metformin
+response to ribavirin
+response to camptothecin
+organonitrogen compound metabolic process
+organonitrogen compound biosynthetic process
+organic substance biosynthetic process
+organic hydroxy compound metabolic process
+response to ketone
+glycosyl compound metabolic process
+glycosyl compound biosynthetic process
+regulation of mitotic spindle assembly
+response to nitrogen compound
+response to oxygen - containing compound
+positive regulation of platelet aggregation
+regulation of vitamin a metabolic process
+regulation of mitochondrial dna metabolic process
+negative regulation of mitochondrial dna metabolic process
+positive regulation of mitochondrial dna metabolic process
+response to tamsulosin
+regulation of cilium assembly
+negative regulation of cilium assembly
+regulation of cilium - dependent cell motility
+negative regulation of cilium - dependent cell motility
+regulation of transcription from rna polymerase ii promoter involved in spermatogenesis
+response to salt
+positive regulation of flagellated sperm motility
+regulation of organelle assembly
+negative regulation of organelle assembly
+positive regulation of organelle assembly
+regulation of meiotic spindle elongation
+negative regulation of meiotic spindle elongation
+apoptotic process involved in blood vessel morphogenesis
+regulation of apoptotic process involved in morphogenesis
+negative regulation of apoptotic process involved in morphogenesis
+positive regulation of apoptotic process involved in morphogenesis
+negative regulation of chromosome condensation
+response to cyclophosphamide
+response to docetaxel trihydrate
+response to doxorubicin
+response to etoposide
+response to 4' - epidoxorubicin
+regulation of intracellular signal transduction
+negative regulation of intracellular signal transduction
+positive regulation of intracellular signal transduction
+multi - organism localization
+multi - organism cellular localization
+obsolete multi - organism intracellular transport
+positive regulation of response to water deprivation
+negative regulation of rna biosynthetic process
+positive regulation of rna biosynthetic process
+apoptotic process involved in development
+negative regulation of mitotic spindle elongation
+positive regulation of mitotic spindle elongation
+microtubule cytoskeleton organization involved in mitosis
+negative regulation of autophagosome assembly
+regulation of glycoprotein metabolic process
+negative regulation of glycoprotein metabolic process
+positive regulation of glycoprotein metabolic process
+regulation of response to wounding
+negative regulation of response to wounding
+positive regulation of response to wounding
+meiotic cell cycle process
+mitotic cell cycle process
+regulation of extracellular matrix organization
+negative regulation of extracellular matrix organization
+positive regulation of extracellular matrix organization
+regulation of mitochondrial transcription
+positive regulation of mitochondrial transcription
+regulation of nucleus organization
+regulation of mitotic chromosome condensation
+positive regulation of mitotic chromosome condensation
+response to glycoside
+regulation of cell maturation
+negative regulation of cell maturation
+positive regulation of cell maturation
+rna interference involved in olfactory learning
+response to simvastatin
+response to acetylsalicylate
+response to clopidogrel
+regulation of nucleic acid - templated transcription
+negative regulation of nucleic acid - templated transcription
+positive regulation of nucleic acid - templated transcription
+regulation of secretion by cell
+negative regulation of secretion by cell
+positive regulation of secretion by cell
+regulation of extracellular exosome assembly
+negative regulation of extracellular exosome assembly
+positive regulation of extracellular exosome assembly
+extracellular vesicle
+regulation of protein localization to cilium
+negative regulation of protein localization to cilium
+positive regulation of protein localization to cilium
+regulation of atp metabolic process
+negative regulation of atp metabolic process
+positive regulation of atp metabolic process
+regulation of cytoplasmic transport
+negative regulation of cytoplasmic transport
+positive regulation of cytoplasmic transport
+modulation by symbiont of host cell motility
+regulation of asexual reproduction
+negative regulation of asexual reproduction
+positive regulation of asexual reproduction
+regulation of hemopoiesis
+negative regulation of hemopoiesis
+positive regulation of hemopoiesis
+negative regulation of anion transport
+positive regulation of anion transport
+organic acid transmembrane transport
+regulation of cellular protein localization
+negative regulation of cellular protein localization
+positive regulation of cellular protein localization
+regulation of anion transmembrane transport
+negative regulation of anion transmembrane transport
+positive regulation of anion transmembrane transport
+regulation of eating behavior
+negative regulation of eating behavior
+positive regulation of eating behavior
+positive regulation of vasculature development
+negative regulation of sensory perception of pain
+positive regulation of sensory perception of pain
+regulation of locomotor rhythm
+negative regulation of locomotor rhythm
+positive regulation of locomotor rhythm
+g protein - coupled receptor signaling pathway involved in social behavior
+positive regulation of transcription from rna polymerase ii promoter involved in neuron differentiation
+regulation of autophagic cell death
+negative regulation of autophagic cell death
+positive regulation of autophagic cell death
+regulation of bleb assembly
+negative regulation of bleb assembly
+positive regulation of bleb assembly
+regulation of secretory granule organization
+negative regulation of secretory granule organization
+positive regulation of secretory granule organization
+response to glucoside
+regulation of sensory perception of bitter taste
+negative regulation of sensory perception of bitter taste
+positive regulation of sensory perception of bitter taste
+regulation of somatic stem cell division
+negative regulation of somatic stem cell division
+positive regulation of somatic stem cell division
+atg1 / ulk1 kinase complex assembly
+negative regulation of apoptotic process involved in development
+positive regulation of apoptotic process involved in development
+regulation of apoptotic process involved in development
+negative regulation of establishment of protein localization
+positive regulation of establishment of protein localization
+autophagosome organization
+carboxylic acid transmembrane transport
+response to haloperidol
+regulation of membrane invagination
+negative regulation of membrane invagination
+positive regulation of membrane invagination
+negative regulation of mitotic chromosome condensation
+ciliary transition zone assembly
+sperm flagellum movement involved in flagellated sperm motility
+intracellular signal transduction involved in positive regulation of cell growth
+positive regulation of fertilization
+negative regulation of dna methylation
+positive regulation of dna methylation
+positive regulation of chromosome condensation
+negative regulation of spindle assembly
+positive regulation of spindle assembly
+regulation of cellular response to gamma radiation
+negative regulation of cellular response to gamma radiation
+positive regulation of cellular response to gamma radiation
+regulation of atg1 / ulk1 kinase complex assembly
+negative regulation of atg1 / ulk1 kinase complex assembly
+positive regulation of atg1 / ulk1 kinase complex assembly
+regulation of oogenesis
+negative regulation of oogenesis
+positive regulation of oogenesis
+response to temozolomide
+callus formation
+negative regulation by symbiont of host intracellular transport
+dark adaptation
+conditioned place preference
+ribonucleoprotein complex
+regulation of multicellular organismal development
+regulation of animal organ morphogenesis
+regulation of response to red or far red light
+regulation of stem cell division
+regulation of response to water deprivation
+regulation of cellular macromolecule biosynthetic process
+negative regulation of cellular macromolecule biosynthetic process
+regulation of cell motility
+negative regulation of cell motility
+positive regulation of cell motility
+positive regulation of cilium - dependent cell motility
+negative regulation of blood vessel morphogenesis
+regulation of reproductive process
+negative regulation of reproductive process
+positive regulation of reproductive process
+negative regulation of feeding behavior
+positive regulation of feeding behavior
+negative regulation of signaling receptor activity
+positive regulation of signaling receptor activity
+regulation of cellular response to x - ray
+negative regulation of cellular response to x - ray
+positive regulation of cellular response to x - ray
+regulation of autophagosome assembly
+positive regulation of autophagosome assembly
+regulation of response to dna damage stimulus
+negative regulation of response to dna damage stimulus
+positive regulation of response to dna damage stimulus
+regulation of response to drug
+negative regulation of response to drug
+positive regulation of response to drug
+regulation of rna biosynthetic process
+regulation of atp biosynthetic process
+negative regulation of atp biosynthetic process
+positive regulation of atp biosynthetic process
+regulation of response to gamma radiation
+negative regulation of response to gamma radiation
+positive regulation of response to gamma radiation
+regulation of apoptotic signaling pathway
+negative regulation of apoptotic signaling pathway
+positive regulation of apoptotic signaling pathway
+negative regulation of chromosome organization
+positive regulation of chromosome organization
+disease
+quality
+mobility
+color
+composition
+concentration of
+distance
+biological sex
+morphology
+shape
+deviation  ( from_normal )
+amount
+size
+length
+mass
+weight
+orientation
+position
+structure
+rate
+viability
+mobile
+immobile
+increased distance
+decreased distance
+female
+male
+curled
+curved
+circular
+abnormal
+normal
+absent
+present
+increased amount
+increased length
+decreased length
+increased weight
+decreased weight
+hypertrophic
+hypotrophic
+increased size
+decreased size
+increased volume
+decreased volume
+decreased width
+increased width
+degenerate
+hyperplastic
+hypoplastic
+decreased rate
+increased rate
+volume
+width
+sharpness
+elliptic
+physical quality
+force
+concentrated
+increased concentration
+decreased concentration
+linear
+process quality
+physical object quality
+electromagnetic  ( em )  radiation quality
+optical quality
+hermaphrodite
+convex
+ploidy
+polyploid
+triploid
+tetraploid
+hexaploid
+euploid
+cellular quality
+nucleate quality
+anucleate
+binucleate
+mononucleate
+ciliatedness
+sharp
+alive
+dead
+edematous
+increased position
+decreased position
+has number of
+lacking processual parts
+having extra processual parts
+decreased mass
+increased mass
+extra or missing processual parts
+curvature
+increased curvature
+decreased curvature
+1 - d extent
+3 - d extent
+radiation quality
+ruffled
+concave
+pathological
+triangular
+phenotypic sex
+multinucleate
+cuneate
+cellularity
+multicellular
+organismal quality
+decreased amount
+lacks parts or has fewer parts of type
+lacks all parts of type
+has fewer parts of type
+has extra parts of type
+concavity
+2 - d shape
+convex 3 - d shape
+concave 3 - d shape
+degeneration
+non - degenerate
+columnar
+star shaped
+altered number of
+abduction
+adduction
+curved medial
+displaced to
+molecular quality
+hourglass - shaped
+increased force
+decreased force
+degree of pigmentation
+pigmented
+unpigmented
+increased pigmentation
+decreased pigmentation
+pointed
+3 - d shape
+increased mobility
+decreased mobility
+increased quality
+decreased quality
+decreased process quality
+decreased object quality
+increased process quality
+increased object quality
+superelliptic
+multi - organismal process quality
+single organismal process quality
+nucleated
+longitudinal orientation
+absence due to degeneration
+plug shaped
+lesioned
+stage 1
+stage 2
+stage 3
+stage 4
+stage 5
+stage 6
+stage 7
+stage 8
+sigma neoblast
+protonephridial progenitor cell
+neural progenitor cell
+visceral musculature
+zeta neoblast
+non ciliated epithelial cell
+pharynx
+photoreceptor neuron
+category 4 cell
+muscle progenitor cell
+protonephridia
+biotype
+category 5 cell
+embryonic pharynx
+smed asexual biotype
+nervous system
+gut
+smed sexual biotype
+category 2 cell
+primitive ectoderm
+midline
+pigment cup cell
+dorsal midline
+epidermal progenitor cell
+epidermis
+category 3 cell
+eye
+ventral midline
+gamma neoblast
+aboral hemisphere
+anterior primary gut branch
+dorsal ventral margin of the whole animal
+cephalic ganglia
+circular muscle cell
+clonogenic neoblast
+collecting duct
+diagonal muscle cell
+digestive system
+distal tubule
+dorsal region of the epidermis
+dorsal stripe
+ectolecithal embryo
+embryonic digestive system
+embryonic gut cell
+embryonic wall
+enteric musculature
+esophagus
+extraembryonic structure
+flame bulb
+flame cell
+gastrodermis
+goblet cell
+embryonic gut cavity
+inner longitudinal muscle cell
+intestinal phagocyte
+longitudinal muscle cell
+mouth
+oocyte
+optic cup
+oral hemisphere
+outer longitudinal muscle cell
+parenchymal musculature
+peripheral nervous system
+pharynx pouch
+posterior primary gut branch
+primitive gut cell
+proximal tubule
+renal system
+secondary gut branch
+sperm
+yolk syncytium
+tertiary gut branch
+trail cell
+ventral epidermis
+ventral nerve cord
+zygote
+neuron
+epithelial cell
+muscle cell
+central nervous system
+rhabdite
+secretory cell
+ciliated epithelial cell
+yolk cell
+pharynx progenitor cell
+proximal tubule epithelial cell
+tissue
+anatomical system
+distal tubule epithelial cell
+embryo
+embryonic structure
+collecting duct epithelial cell
+terminally differentiated cell
+progenitor cell
+stem cell
+gamete
+embryonic cell
+visual system
+sensory system
+reproductive system
+oviduct epithelial cell
+sperm duct epithelial cell
+circular muscle progenitor cell
+primordium
+mechanoreceptor cell
+longitudinal muscle progenitor cell
+female primordial germ cell
+whole organism
+regeneration
+hyman vesicle
+anterior region of the whole animal
+dorsal region of the whole animal
+posterior compartment of the whole animal
+ventral region of the whole animal
+bursal canal
+gonopore
+ovary
+oviduct
+penis papilla
+sperm duct
+testis
+primitive ectoderm cell
+juvenile
+reproductive system product
+egg capsule
+gonad
+male primordial germ cell
+spermatogonial stem cell
+spermatogonium
+spermatocyte
+spermatid
+oogonial stem cell
+cement gland
+germ cell
+male germ cell
+female germ cell
+tuba
+vitelline gland
+copulatory apparatus
+copulatory bursa
+seminal vesicle
+round spermatid
+elongate spermatid
+oogonial cell
+body wall musculature
+pharynx longitudinal muscle cell
+pharynx lumen
+digestive tract lumen
+oral opening
+pharynx pouch cavity
+apical surface of the epidermis
+basal surface of the epidermis
+gastrodermis surface
+pharynx inner epithelium surface
+pharynx outer epithelium surface
+pharynx pouch epithelial surface
+definitive organism subdivision
+head
+prepharyngeal region
+parapharyngeal region
+tail
+tail stripe
+embryonic subdivision
+multicellular anatomical structure
+musculature system
+neoblast
+epithelial cell component
+organ
+optic chiasm
+anterior commissure
+lateral branch
+sensory cell
+cholinergic neuron
+gabaergic neuron
+pharynx nerve plexus
+subepidermal nerve plexus
+submuscular nerve plexus
+gastrodermal plexus
+neuropil
+pharynx outer epithelium
+pharynx outer circular muscle cell
+pharynx inner circular muscle cell
+pharynx inner longitudinal muscle cell
+pharynx outer longitudinal muscle cell
+pharynx radial muscle cell
+pharynx musculature
+pharynx inner nerve plexus
+pharynx outer nerve plexus
+serotonergic neuron
+dopaminergic neuron
+octopaminergic neuron
+secretory system
+gland cell
+secretory pore
+acidophilic gland cell
+basophilic gland cell
+nerve plexus
+brain commissure
+blastema
+actin - based cell projection
+microvillus
+cell - cell contact zone
+cell - cell junction
+intracellular part
+cytoplasmic part
+cytoplasmic vesicle part
+membrane part
+plasma membrane part
+nuclear part
+chromatin
+heterochromatin
+euchromatin
+ribosome
+axon tract
+electrically responsive cell
+electrically signaling cell
+nerve
+neuron projection bundle
+afferent neuron
+bipolar neuron
+commissural neuron
+efferent neuron
+excitatory motor neuron
+interneuron
+sensory neuron
+motor neuron
+neurosecretory neuron
+sympathetic neuron
+unipolar neuron
+multipolar neuron
+neuron associated cell  ( sensu nematoda and protostomia )
+central nervous system neuron
+peripheral nervous system neuron
+autonomic neuron
+enteric neuron
+basal lamina of epithelium
+adenal rhabdite
+adherens junction
+adhesive papilla
+amputation
+anterior gut branch
+anterior tip
+antrum
+auricle
+axon
+axoneme
+basal body
+brain visual center
+bulbar cavity
+category 1 cell
+cell body
+cephalic ganglia lobe
+cephalic ganglia neuron
+chemical amputation
+chemical pharynx amputation
+chemosensory neuron
+chromatoid body
+chromosome
+chromosome arm
+ciliated epithelium
+commissure
+cut
+dendrite
+dorsal - ventral muscle cell
+early female germ cell
+early male germ cell
+embryonic gut
+epidermal cell
+epidermal rhabdite
+er membrane
+eumelanin
+excretory cell
+fission
+flagellum
+gap junction
+genital atrium
+germ cell cyst
+germline stem cell
+glycogen granule
+incision
+pharynx inner epidermal cell
+inner zone of gland cells
+intercellular junction
+linear amputation
+linear incision
+lumen
+marginal adhesive zone
+mechanosensory neuron
+medial muscle cell
+meiotic germ cell
+melanosome
+mucus
+nephridiopore
+neurite
+neuropeptidergic neuron
+non - ciliated epidermis
+nuclear envelope
+nuclear inner membrane
+nuclear outer membrane
+nuclear periphery
+ommochrome pigment cell
+optic nerve
+pharynx outer epidermal cell
+phagocytic cell
+pharynx tip
+pigment cell
+pigment granule
+plug amputation
+point incision
+pore
+post - meiotic germ cell
+postsynaptic cell
+premeiotic germ cell
+presynaptic cell
+presynaptic terminal
+presynaptic vesicle
+primary gut branch
+primitive gut
+quarternary gut branch
+reproductive organ
+reproductive structure
+rhabdome
+rhabdomere
+secretory duct
+somatic cell
+somatic gonadal cell
+specialized neoblast
+stalk
+surgical wound
+synaptic cleft
+synaptic vesicle
+synaptonemal complex
+tail tip
+telomere
+septate junction
+wedge amputation
+wound
+x1 cell
+x1 ( fs )  cell
+x2 cell
+xins cell
+post - pharyngeal region
+post - blastema region
+fission fragment
+epithelium
+gut branch
+extraembryonic organ
+chromosome_part
+perturbation
+chromosomal_structural_element
+thick fragment
+thin fragment
+fragment
+longitudinal region
+chemical wound
+plug wound
+wedge wound
+regenerating fragment
+sagittal orientation
+parasagittal orientation
+syncytium
+intracellular granule
+facs sorted cell population
+derived cell population
+pharynx pouch epithelium
+sperm duct epithelial surface
+parenchyma
+dorsal region of tail
+testis cell
+ventral epidermis cell
+visual system cell
+eye cell
+enteric muscle cell
+dorsal epidermis cell
+adhesion gland cell
+body wall muscle cell
+gastrodermal cell
+anterior pole cell
+pharynx neuron
+pharynx epithelial cell
+pharynx muscle cell
+pharynx pouch epithelial cell
+melanin pigment granule
+ommochrome pigment granule
+parenchymal cell
+g1 phase neoblast
+s phase neoblast
+g2 phase neoblast
+prophase neoblast
+metaphase neoblast
+anaphase neoblast
+telophase neoblast
+g1 phase spermatogonial stem cell
+s phase spermatogonial stem cell
+g2 phase spermatogonial stem cell
+prophase spermatogonial stem cell
+metaphase spermatogonial stem cell
+anaphase spermatogonial stem cell
+telophase spermatogonial stem cell
+g1 phase oogonial stem cell
+s phase oogonial stem cell
+g2 phase  oogonial stem cell
+prophase  oogonial stem cell
+metaphase oogonial stem cell
+anaphase oogonial stem cell
+telophase  oogonial stem cell
+g1 phase spermatogonium
+s phase spermatogonium
+g2 phase spermatogonium
+prophase spermatogonium
+metaphase spermatogonia
+anaphase spermatogonia
+telophase spermatogonium
+g1 phase oogonial cell
+s phase oogonial cell
+g2 phase oogonial cell
+prophase oogonial cell
+metaphase oogonial cell
+anaphase oogonial cell
+telophase oogonial cell
+g1 phase germ cell cyst
+s phase germ cell cyst
+g2 phase germ cell cyst
+prophase germ cell cyst
+metaphase germ cell cyst
+anaphase germ cell cyst
+telophase germ cell cyst
+meiotic s phase spermatocyte
+meiotic g1 phase spermatocyte
+meiotic g2 phase spermatocyte
+meiotic prophase i spermatocyte
+leptotene stage spermatocyte
+zygotene stage spermatocyte
+pachytene stage spermatocyte
+diplotene stage spermatocyte
+diakinesis stage spermatocyte
+meiotic metaphase 1 stage spermatocyte
+meiotic anaphase i stage spermatocyte
+meiotic telophase i spermatocyte
+meiosis ii stage spermatocyte
+meiotic prophase ii spermatocyte
+meiotic metaphase 2 spermatocyte
+meiotic anaphase ii spermatocyte
+meiotic telophase ii spermatocyte
+cephalic ganglia primordium
+eye primordium
+pharynx primordium
+pigment cup primordium
+testis primordium
+gonad primoridium
+protonephridial lumen
+testis lumen
+ovary lumen
+flame cell lumen
+cephalic ganglia progenitor cell
+dorsal epidermis progenitor cell
+optic cup progenitor cell
+ventral epidermis progenitor cell
+head fragment
+trunk fragment
+tail fragment
+prepharyngeal fragment
+postpharyngeal fragment
+anterior fragment
+posterior fragment
+lateral fragment
+longitudinal fragment
+plug fragment
+wedge fragment
+dorsal region of head fragment
+ventral region of head fragment
+anterior region of head fragment
+posterior region of head fragment
+dorsal region of trunk fragment
+ventral region of trunk fragment
+anterior region of trunk fragment
+posterior region of trunk fragment
+dorsal region of tail fragment
+ventral region of tail fragment
+anterior region of tail fragment
+posterior region of tail fragment
+dorsal region of prepharyngeal fragment
+ventral region of prepharyngeal fragment
+anterior region of prepharyngeal fragment
+posterior region of prepharyngeal fragment
+dorsal region of postpharyngeal fragment
+ventral region of postpharyngeal fragment
+anterior region of postpharyngeal fragment
+posterior region of postpharyngeal fragment
+dorsal region of anterior fragment
+ventral region of anterior fragment
+anterior region of anterior fragment
+posterior region of anterior fragment
+dorsal region of posterior fragment
+ventral region of posterior fragment
+anterior region of posterior fragment
+posterior region of posterior fragment
+dorsal region of lateral fragment
+ventral region of lateral fragment
+anterior region of lateral fragment
+posterior region of lateral fragment
+dorsal region of longitudinal fragment
+ventral region of longitudinal fragment
+anterior region of longitudinal fragment
+posterior region of longitudinal fragment
+dorsal region of plug fragment
+ventral region of plug fragment
+anterior region of plug fragment
+posterior region of plug fragment
+anterior region of wedge fragment
+posterior region of wedge fragment
+adult hermaphrodite
+asexual adult
+testis somatic gonadal cell
+ovarian somatic gonadal cell
+oral - aboral axis of the embryo
+primitive ectoderm surface
+primtive gut cell surface
+embryonic gut cell surface
+embryonic pharynx lumen epithelial surface
+blastomere
+extraembryonic cell
+embryonic pharynx neuron
+embryonic pharynx radial muscle cell
+embryonic pharynx epithelial cell
+embryonic pharynx circular muscle cell
+copulatory region
+pharynx epithelium
+integumental system
+oviduct lumen
+sperm duct lumen
+oviduct epithelium
+sperm duct epithelium
+tuba lumen
+sagittal plane of the whole animal
+nuclear pore
+anterior - posterior axis of the whole animal
+dorsal - ventral axis of the whole animal
+left - right axis of the whole animal
+medial - lateral axis of the whole animal
+proximal - distal axis of the whole animal
+anterior pole
+posterior pole
+glial cell
+ganglion
+pharynx inner epithelium
+pharynx circular muscle cell
+adhesion gland
+anchor cell
+viscid gland cell
+releasing gland cell
+trpa +  central nervous system neuron
+cintillo +  sensory neuron
+trpa +  neural progenitor cell
+anterior pole progenitor cell
+transverse commissure
+serotonergic neural progenitor cell
+klf +  sensory neuron progenitor cell
+nu neoblast
+lateral nerve
+pax3 / 7 +  neural progenitor cell
+embryonic pharynx lumen
+testis nerve plexus
+fission plane
+ovary nerve plexus
+abnormal cytoplasmic vesicle part
+abnormal medial - lateral axis
+abnormal oviduct lumen
+abnormal category 4 cell
+abnormal zygote
+abnormal male primordial germ cell
+abnormal yolk cell
+abnormal fission plane
+abnormal central nervous system neuron
+abnormal pharynx musculature
+abnormal collecting duct
+abnormal nucleolus
+abnormal outer longitudinal muscle cell
+abnormal tail stripe
+abnormal smed sexual biotype
+abnormal rough endoplasmic reticulum
+abnormal renal system
+abnormal brain commissure
+abnormal oviduct
+abnormal primitive ectoderm surface
+abnormal neoblast
+abnormal reproductive system product
+abnormal pharynx inner longitudinal muscle cell
+abnormal tail
+abnormal prepharyngeal region
+abnormal extracellular organelle
+abnormal distal tubule epithelial cell
+abnormal proximal tubule
+abnormal organ
+abnormal pigment cup cell
+abnormal glial cell
+abnormal eye
+abnormal goblet cell
+abnormal gastrodermis surface
+abnormal bipolar neuron
+abnormal definitive pharynx
+abnormal ventral epidermis
+abnormal cintillo +  sensory neuron
+abnormal pharynx lumen
+abnormal sigma neoblast
+abnormal inner longitudinal muscle cell
+abnormal pharynx epithelium
+abnormal extraembryonic cell
+abnormal head
+abnormal copulatory apparatus
+abnormal intracellular non - membrane - bounded organelle
+abnormal stage 1
+abnormal autonomic neuron
+abnormal basal surface of the epidermis
+abnormal embryonic gut cell
+abnormal rhabdite
+abnormal protonephridia
+abnormal round spermatid
+abnormal basal lamina of epithelium
+abnormal mechanoreceptor cell
+abnormal stage 6
+abnormal pharynx outer nerve plexus
+abnormal peripheral nervous system neuron
+abnormal embryonic digestive system
+abnormal muscle cell
+abnormal dopaminergic neuron
+abnormal aboral hemisphere
+abnormal cell - cell adhesion
+abnormal nuclear pore
+abnormal sensory cell
+abnormal ribosome
+abnormal gamma neoblast
+abnormal posterior pole
+abnormal oocyte
+abnormal sperm duct epithelium
+abnormal gamete
+abnormal embryonic pharynx
+abnormal cell - cell contact zone
+abnormal releasing gland cell
+abnormal testis somatic gonadal cell
+abnormal bursal canal
+abnormal lateral branch
+abnormal dorsal stripe
+abnormal embryonic structure
+abnormal epidermal progenitor cell
+abnormal chromatin
+abnormal stage 4
+abnormal anchor cell
+abnormal klf +  sensory neuron progenitor cell
+abnormal optic chiasm
+abnormal primitive ectoderm cell
+abnormal oviduct epithelial cell
+abnormal male germ cell
+abnormal longitudinal muscle cell
+abnormal oral opening
+abnormal membrane - bounded organelle
+abnormal spermatogonium
+abnormal dorsal epidermis
+abnormal seminal vesicle
+abnormal extraembryonic structure
+abnormal stage 3
+abnormal adhesion gland
+abnormal neural progenitor
+abnormal yolk syncytium
+abnormal plasma membrane
+abnormal cytoplasmic part
+abnormal unipolar neuron
+abnormal cephalic ganglia
+abnormal ciliated epithelial cell
+abnormal sperm duct
+abnormal anterior pole progenitor cell
+abnormal anterior - posterior axis
+abnormal plasma membrane part
+abnormal embryonic pharynx circular muscle cell
+abnormal submuscular nerve plexus
+abnormal female primordial germ cell
+abnormal photoreceptor neuron
+abnormal asexual adult
+abnormal gonad
+abnormal ventral nerve cord
+abnormal embryonic wall
+abnormal testis nerve plexus
+abnormal pharynx radial muscle cell
+abnormal clonogenic neoblast
+abnormal nuclear part
+abnormal sensory system
+abnormal gut
+abnormal dorsal ventral margin
+abnormal ovary
+abnormal gabaergic neuron
+abnormal electrically responsive cell
+abnormal pharynx pouch
+abnormal musculature system
+abnormal actin - based cell projection
+abnormal efferent neuron
+abnormal embryonic pharynx lumen
+abnormal non - membrane - bounded organelle
+abnormal parapharyngeal region
+abnormal oral hemisphere
+abnormal electrically signaling cell
+abnormal visual system
+abnormal nervous system
+abnormal nucleus
+abnormal anatomical system
+abnormal gland cell
+abnormal bounding membrane of organelle
+abnormal category 3 cell
+abnormal gastrodermis
+abnormal non ciliated epithelial cell
+abnormal pharynx longitudinal muscle cell
+abnormal left - right axis
+abnormal trail cell
+abnormal blastomere
+abnormal oogonial cell
+abnormal stage 8
+abnormal copulatory region
+abnormal golgi apparatus
+abnormal spermatid
+abnormal definitive organism subdivision
+abnormal vitelline gland
+abnormal embryonic pharynx neuron
+abnormal membrane
+abnormal flame cell
+abnormal cytoplasm
+abnormal oral - aboral axis
+abnormal zeta neoblast
+abnormal juvenile
+abnormal central nervous system
+abnormal pharynx inner circular muscle cell
+abnormal motor neuron
+abnormal apical surface of the epidermis
+abnormal tuba
+abnormal posterior primary gut branch
+abnormal epithelial cell component
+abnormal spermatogonial stem cell
+abnormal ovary nerve plexus
+abnormal midline
+abnormal pharynx inner nerve plexus
+abnormal parenchymal musculature
+abnormal neuron projection bundle
+abnormal anatomical region
+abnormal category 2 cell
+abnormal cell - cell junction
+abnormal trpa +  central nervous system neuron
+abnormal smooth endoplasmic reticulum
+abnormal terminally differentiated cell
+abnormal basophilic gland cell
+abnormal primordium
+abnormal euchromatin
+abnormal proximal tubule epithelial cell
+abnormal anterior pole
+abnormal oviduct epithelium
+abnormal testis
+abnormal category 5 cell
+abnormal stem cell
+abnormal digestive system
+abnormal viscid gland cell
+abnormal germ cell
+abnormal embryo
+abnormal anterior commissure
+abnormal acidophilic gland cell
+abnormal tuba lumen
+abnormal stage 5
+abnormal embryonic gut cavity
+abnormal pharynx pouch epithelial surface
+abnormal embryonic gut cell surface
+abnormal vacuole
+abnormal proximal - distal axis
+abnormal sperm duct lumen
+abnormal neuron associated cell  ( sensu nematoda and protostomia )
+abnormal progenitor cell
+abnormal biotype
+abnormal organelle
+abnormal embryonic subdivision
+abnormal neurosecretory neuron
+abnormal epithelial cell
+abnormal serotonergic neuron
+abnormal muscle progenitor
+abnormal endoplasmic reticulum
+abnormal distal tubule
+abnormal copulatory bursa
+abnormal esophagus
+abnormal secondary gut branch
+abnormal stage 2
+abnormal protonephridial progenitor
+abnormal ventral midline
+abnormal primtive gut cell surface
+abnormal egg capsule
+abnormal multipolar neuron
+abnormal secretory cell
+abnormal pharynx outer longitudinal muscle cell
+abnormal penis papilla
+abnormal trpa +  neural progenitor cell
+abnormal interneuron
+abnormal subepidermal nerve plexus
+abnormal longitudinal muscle progenitor cell
+abnormal microvillus
+abnormal adult hermaphrodite
+abnormal mitochondrion
+abnormal enteric musculature
+abnormal dorsal midline
+abnormal ganglion
+abnormal pharynx lumen epithelial surface
+abnormal sperm
+abnormal serotonergic neural progenitor cell
+abnormal nerve plexus
+abnormal reproductive system
+abnormal afferent neuron
+abnormal neuropil
+abnormal intestinal phagocyte
+abnormal anterior primary gut branch
+abnormal intracellular part
+abnormal digestive tract lumen
+abnormal cell
+abnormal axon tract
+abnormal peripheral nervous system
+abnormal cell projection
+abnormal commissural neuron
+abnormal pax3 / 7 +  neural progenitor cell
+abnormal tissue
+abnormal intracellular organelle
+abnormal secretory vesicle
+abnormal optic cup
+abnormal pharynx circular muscle cell
+abnormal enteric neuron
+abnormal embryonic cell
+abnormal smed asexual biotype
+abnormal integumental system
+abnormal cement gland
+abnormal secretory system
+abnormal elongate spermatid
+abnormal lysosome
+abnormal membrane part
+abnormal stage 7
+abnormal body wall musculature
+abnormal dorsal - ventral axis
+abnormal embryonic pharynx lumen epithelial surface
+abnormal pharynx inner epithelium
+abnormal circular muscle cell
+abnormal intracellular membrane - bounded organelle
+abnormal oogonial stem cell
+abnormal octopaminergic neuron
+abnormal gonopore
+abnormal flame bulb
+abnormal cholinergic neuron
+abnormal visceral musculature
+abnormal multicellular anatomical structure
+abnormal tertiary gut branch
+abnormal lateral nerve
+abnormal pharynx outer circular muscle cell
+abnormal transverse commissure
+abnormal sensory neuron
+abnormal gastrodermal plexus
+abnormal cell junction
+abnormal primitive gut cell
+abnormal ectolecithal embryo
+abnormal epidermis
+abnormal nu neoblast
+abnormal ovarian somatic gonadal cell
+abnormal sperm duct epithelial cell
+abnormal primitive ectoderm
+abnormal pharynx outer epithelium
+abnormal female germ cell
+abnormal collecting duct epithelial cell
+abnormal mouth
+abnormal circular muscle progenitor cell
+abnormal embryonic pharynx epithelial cell
+abnormal pharynx pouch cavity
+abnormal spermatocyte
+abnormal pharynx progenitor cell
+abnormal excitatory motor neuron
+abnormal neuron
+abnormal diagonal muscle cell
+abnormal nerve
+abnormal sympathetic neuron
+abnormal secretory pore
+abnormal blastema
+abnormal embryonic pharynx radial muscle cell
+abnormal organelle membrane
+abnormal pharynx outer epithelium surface
+abnormal morphology of primitive ectoderm surface
+abnormal morphology of lumen gut surface
+abnormal morphology of basal epidermis surface
+abnormal morphology of apical epidermis surface
+abnormal morphology of pharyngeal pouch surface
+abnormal morphology of embryonic gut cell surface
+abnormal morphology of primtive gut cell surface
+abnormal morphology of pharynx lumen epithelial surface
+abnormal morphology of temporary embryonic pharynx lumen epithelial surface
+abnormal morphology of pharynx outer epithelial surface
+abormal shape of the ventral region of the animal
+ventral curling
+pointy head
+column - like head
+skinny head
+pointy tail
+abnormal morphology of head
+abnormal morphology of tail
+abnormal shape of head
+abnormal shape of tail
+abnormal size of head
+abnormal size of tail
+skinny tail
+star shaped lesion on the head
+circular shaped lesion on the head
+linear shaped lesion on the head
+star shaped lesion on the tail
+circular shaped lesion on the tail
+linear shaped lesion on the tail
+eyes further apart than normae
+eyes closer together than normal
+abnormal distance between eyes
+lesion in the head
+lesion in the tail
+loss of eyes
+abnormal number of eyes
+decreased pigmentation of the eyes
+loss of pigmentation in the eye
+short tail
+long head
+long tail
+wide head
+wide tail
+abnormal number of heads
+more heads
+loss of head
+abnormal number of tails
+more tails
+loss of tail
+abnormal pigmentation of the eyes
+abnormal pigmentation of the epidermis
+decreased pigmentation of the epidermis
+less eyes
+less heads
+loss of pigmentation in the epidermis
+less tails
+more eyes
+abnormal whole organism
+abnormal regeneration
+abnormal hyman vesicle
+abnormal anterior region
+abnormal dorsal region
+abnormal posterior region
+abnormal ventral region
+abnormal heterochromatin
+abnormal adenal rhabdite
+abnormal adherens junction
+abnormal adhesive papilla
+abnormal amputation
+abnormal anterior gut branch
+abnormal anterior tip
+abnormal antrum
+abnormal auricle
+abnormal axon
+abnormal axoneme
+abnormal basal body
+abnormal brain visual center
+abnormal bulbar cavity
+abnormal category 1 cell
+abnormal cell body
+abnormal cephalic ganglia lobe
+abnormal cephalic ganglia neuron
+abnormal chemical amputation
+abnormal chemical pharynx amputation
+abnormal chemosensory neuron
+abnormal chromatoid body
+abnormal chromosome
+abnormal chromosome arm
+abnormal ciliated epithelium
+abnormal cilium
+abnormal commissure
+abnormal cut
+abnormal dendrite
+abnormal dorsal - ventral muscle cell
+abnormal early female germ cell
+abnormal early male germ cell
+abnormal embryonic gut
+abnormal epidermal cell
+abnormal epidermal rhabdite
+abnormal er membrane
+abnormal eumelanin
+abnormal excretory cell
+abnormal extracellular matrix
+abnormal extracellular space
+abnormal fission
+abnormal flagellum
+abnormal gap junction
+abnormal genital atrium
+abnormal germ cell cyst
+abnormal germline stem cell
+abnormal glycogen granule
+abnormal incision
+abnormal pharynx inner epidermal cell
+abnormal inner zone of gland cells
+abnormal intercellular junction
+abnormal linear amputation
+abnormal linear incision
+abnormal lipid droplet
+abnormal lumen
+abnormal marginal adhesive zone
+abnormal mechanosensory neuron
+abnormal medial muscle cell
+abnormal meiotic germ cell
+abnormal melanosome
+abnormal mucus
+abnormal nephridiopore
+abnormal neurite
+abnormal neuropeptidergic neuron
+abnormal non - ciliated epidermis
+abnormal nuclear envelope
+abnormal nuclear inner membrane
+abnormal nuclear lumen
+abnormal nuclear outer membrane
+abnormal nuclear periphery
+abnormal ommochrome pigment cell
+abnormal optic nerve
+abnormal pharynx outer epidermal cell
+abnormal phagocytic cell
+abnormal pharynx tip
+abnormal pigment cell
+abnormal pigment granule
+abnormal plug amputation
+abnormal point incision
+abnormal pore
+abnormal post - meiotic germ cell
+abnormal postsynaptic cell
+abnormal premeiotic germ cell
+abnormal presynaptic cell
+abnormal presynaptic terminal
+abnormal presynaptic vesicle
+abnormal primary gut branch
+abnormal primitive gut
+abnormal quarternary gut branch
+abnormal reproductive organ
+abnormal reproductive structure
+abnormal rhabdome
+abnormal rhabdomere
+abnormal secretory duct
+abnormal secretory granule
+abnormal somatic cell
+abnormal somatic gonadal cell
+abnormal specialized neoblast
+abnormal stalk
+abnormal surgical wound
+abnormal synapse
+abnormal synaptic cleft
+abnormal synaptic vesicle
+abnormal synaptonemal complex
+abnormal tail tip
+abnormal telomere
+abnormal tight junction
+abnormal wedge amputation
+abnormal wound
+abnormal x1 cell
+abnormal x1 ( fs )  cell
+abnormal x2 cell
+abnormal xins cell
+abnormal post - pharyngeal region
+abnormal post - blastema region
+abnormal fission fragment
+abnormal epithelium
+abnormal gut branch
+abnormal extraembryonic organ
+abnormal chromosome:part
+abnormal perturbation
+abnormal chromosomal:structural:element
+abnormal thick fragment
+abnormal thin fragment
+abnormal fragment
+abnormal longitudinal region
+abnormal chemical wound
+abnormal plug wound
+abnormal wedge wound
+abnormal regenerating fragment
+abnormal sagittal orientation
+abnormal parasagittal orientation
+abnormal syncytium
+abnormal intracellular granule
+abnormal facs sorted cell population
+abnormal derived cell population
+abnormal pharynx pouch epithelium
+abnormal sperm duct epithelial surface
+abnormal parenchyma
+abnormal testis cell
+abnormal ventral epidermis cell
+abnormal visual system cell
+abnormal eye cell
+abnormal enteric muscle cell
+abnormal dorsal epidermis cell
+abnormal adhesion gland cell
+abnormal body wall muscle cell
+abnormal gastrodermal cell
+abnormal anterior pole cell
+abnormal pharynx neuron
+abnormal pharynx epithelial cell
+abnormal pharynx muscle cell
+abnormal pharynx pouch epithelial cell
+abnormal melanin pigment granule
+abnormal ommochrome pigment granule
+abnormal parenchymal cell
+abnormal g1 phase neoblast
+abnormal s phase neoblast
+abnormal g2 phase neoblast
+abnormal prophase neoblast
+abnormal metaphase neoblast
+abnormal anaphase neoblast
+abnormal telophase neoblast
+abnormal g1 phase spermatogonial stem cell
+abnormal s phase spermatogonial stem cell
+abnormal g2 phase spermatogonial stem cell
+abnormal prophase spermatogonial stem cell
+abnormal metaphase spermatogonial stem cell
+abnormal anaphase spermatogonial stem cell
+abnormal telophase spermatogonial stem cell
+abnormal g1 phase oogonial stem cell
+abnormal s phase oogonial stem cell
+abnormal g2 phase oogonial stem cell
+abnormal prophase oogonial stem cell
+abnormal metaphase oogonial stem cell
+abnormal anaphase oogonial stem cell
+abnormal telophase oogonial stem cell
+abnormal g1 phase spermatogonium
+abnormal s phase spermatogonium
+abnormal g2 phase spermatogonium
+abnormal prophase spermatogonium
+abnormal metaphase spermatogonia
+abnormal anaphase spermatogonia
+abnormal telophase spermatogonium
+abnormal g1 phase oogonial cell
+abnormal s phase oogonial cell
+abnormal g2 phase oogonial cell
+abnormal prophase oogonial cell
+abnormal metaphase oogonial cell
+abnormal anaphase oogonial cell
+abnormal telophase oogonial cell
+abnormal g1 phase germ cell cyst
+abnormal s phase germ cell cyst
+abnormal g2 phase germ cell cyst
+abnormal prophase germ cell cyst
+abnormal metaphase germ cell cyst
+abnormal anaphase germ cell cyst
+abnormal telophase germ cell cyst
+abnormal meiotic s phase spermatocyte
+abnormal meiotic g1 phase spermatocyte
+abnormal meiotic g2 phase spermatocyte
+abnormal meiotic prophase i spermatocyte
+abnormal leptotene stage spermatocyte
+abnormal zygotene stage spermatocyte
+abnormal pachytene stage spermatocyte
+abnormal diplotene stage spermatocyte
+abnormal diakinesis stage spermatocyte
+abnormal meiotic metaphase 1 stage spermatocyte
+abnormal meiotic anaphase i stage spermatocyte
+abnormal meiotic telophase i spermatocyte
+abnormal meiosis ii stage spermatocyte
+abnormal meiotic prophase ii spermatocyte
+abnormal meiotic metaphase 2 spermatocyte
+abnormal meiotic anaphase ii spermatocyte
+abnormal meiotic telophase ii spermatocyte
+abnormal cephalic ganglia primordium
+abnormal eye primordium
+abnormal pharynx primordium
+abnormal pigment cup primordium
+abnormal testis primordium
+abnormal gonad primoridium
+abnormal protonephridial lumen
+abnormal testis lumen
+abnormal ovary lumen
+abnormal flame cell lumen
+abnormal cephalic ganglia progenitor cell
+abnormal dorsal epidermis progenitor cell
+abnormal optic cup progenitor cell
+abnormal ventral epidermis progenitor cell
+abnormal head fragment
+abnormal trunk fragment
+abnormal tail fragment
+abnormal prepharyngeal fragment
+abnormal postpharyngeal fragment
+abnormal anterior fragment
+abnormal posterior fragment
+abnormal lateral fragment
+abnormal longitudinal fragment
+abnormal plug fragment
+abnormal wedge fragment
+head regression
+tail regression
+decreased mobility of animal
+long animal
+increased pigmentation of the eyes
+increased pigmentation of the epidermis
+stationary animal
+epithelial ruffles
+pinched head
+pinched tail
+single sided head pinching
+single sided tail pinching
+edema in animal
+head edema
+tail edema
+underdeveloped eyes
+lesion in animal
+post - pharyngeal lesion
+loss of pigmenation in the head
+decreased pigmentation of the head
+increased pigmentation of the head
+abnormal pigmentation of the head
+scorpion tail
+abnormally inchworming
+slow moving animal
+fast moving animal
+immobile animal
+system
+non - material anatomical boundary
+anatomical structure
+embryo stage
+life cycle stage
+zygote stage
+anatomical space
+organism subdivision
+acellular anatomical structure
+anatomical cavity
+anatomical point
+regenerating anatomical structure
+anatomical junction
+plane of autotomy
+ventral_to

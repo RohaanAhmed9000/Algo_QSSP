@@ -1,0 +1,1508 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+material entity
+phenol
+urea
+lipopolysaccharide
+peptide
+formaldehyde
+streptomycin
+lactose
+gentamycin
+sucrose
+molecular entity
+chemical entity
+sodium chloride
+aspartame
+saccharin
+aluminium hydroxide
+dextran
+polysorbate 20
+polysorbate 80
+monosodium glutamate
+neomycin
+thimerosal
+disease by infectious agent
+primary bacterial infectious disease
+cell type cancer
+bacterial infectious disease
+brucella suis brucellosis
+brucellosis
+malaria
+parasitic infectious disease
+plasmodium falciparum malaria
+brucella melitensis brucellosis
+brucella abortus brucellosis
+disease of cellular proliferation
+cancer
+melanoma
+parasitic protozoa infectious disease
+disease
+human immunodeficiency virus infectious disease
+influenza
+viral infectious disease
+adaptive immune response
+mucosal immune response
+immune response
+biological_process
+immunoglobulin complex
+protein complex
+response to stimulus
+igg immunoglobulin complex
+igd immunoglobulin complex
+ige immunoglobulin complex
+iga immunoglobulin complex
+igm immunoglobulin complex
+conditional specification
+measurement unit label
+objective specification
+action specification
+datum label
+journal article
+data item
+information content entity
+scalar measurement datum
+directive information entity
+algorithm
+curation status specification
+report
+data set
+data about an ontology part
+plan specification
+measurement datum
+document
+pathogen
+virulence factor
+adverse event
+vaccine adverse event
+contraindication
+vaccine - induced adverse event
+planned process
+regulator role
+regulation - assigned role
+regulatory role
+processed material
+evaluant role
+assay
+reagent role
+material processing
+population
+antigen role
+organization
+protocol
+adding a material entity into a target
+intraperitoneal injection
+material to be added role
+transfer function
+syringe
+injection
+intraperitoneal administration
+adding material objective
+assay objective
+target of material addition role
+regulatory agency
+material transformation objective
+scattered molecular aggregate
+material combination
+creating a mixture of molecules in solution
+material combination objective
+pathogen challenge
+pathogen role
+host role
+independent variable specification
+dependent variable specification
+material maintenance objective
+material maintenance
+device
+dose specification
+dose
+value specification
+organism
+phosphate buffered saline solution
+data transformation
+data transformation objective
+anova
+chemical solution
+buffer role
+solvent role
+solute role
+storage
+study design
+administering substance in vivo
+antigen
+assay antigen role
+gene
+gene of bacteria
+gene of proteobacteria
+gene of mycobacterium tuberculosis h37rv
+gene of brucella melitensis bv . 1 str . 16m
+protein - coding gene of mycobacterium tuberculosis h37rv
+protein - coding gene of brucella melitensis bv . 1 str . 16m
+disorder
+pathological bodily process
+disease course
+age
+frequency
+biological sex
+time
+viability
+viable
+volume
+physical quality
+efficiency
+quality of a single physical entity
+physical object quality
+dead
+inefficient
+efficient
+organismal quality
+virulence
+protein
+superoxide dismutase  [ cu - zn ]
+nose
+serous membrane
+anatomical structure
+organ
+organ part
+mouth
+material anatomical entity
+multi - tissue structure
+stomach
+anatomical entity
+skeletal muscle tissue
+urinary bladder
+vein
+blood vessel
+hypodermis
+skin of body
+peritoneum
+muscle tissue
+mesoderm - derived structure
+ectoderm - derived structure
+subdivision of digestive tract
+multicellular anatomical structure
+bladder organ
+milliliter
+part of pathogen organism in vaccine
+vaccine
+vaccination
+bacillus anthracis vaccine
+killed vaccine
+brucella abortus dna vaccine pcdna - sod
+brucella abortus strain rb51 vaccine vector
+brucella abortus vaccine rb51
+brucella abortus vaccine strain 19
+brucella vaccine
+menhibrix
+dna vaccine
+dryvax
+adenovirus vaccine
+vaccine persistence assay
+escherichia coli vaccine
+virmugen
+hiv based lentivirus vaccine vector
+neisseria meningitidis vaccine
+ipol
+vaccine related journal article
+imovax rabies  ( usa )
+je - vax
+listeria monocytogenes vaccine vector
+m - m - r ii
+m - m - vax
+menactra
+mycobacterium tuberculosis vaccine
+fluzone high - dose
+pedvaxhib
+plasmodium falciparum vaccine
+proquad
+mineral salt vaccine adjuvant
+rabavert
+siv based lentivirus vaccine vector
+tice bcg
+typhim vi
+yellow fever 17d vaccine vector
+yellow fever virus vaccine
+live attenuated vaccine organism
+aluminum hydroxide vaccine adjuvant
+aluminum phosphate vaccine adjuvant
+vaccination frequency
+calcium phosphate vaccine adjuvant
+freunds emulsified oil adjuvant
+adenovirus vaccine vector
+combination vaccine role
+complete freunds adjuvant
+incomplete freunds adjuvant
+cholera toxin
+alphavirus vaccine vector
+recombinant vaccine vector role
+corynebacterium - derived p40 vaccine adjuvant
+vaccine adjuvant role
+antibody titer
+immunized
+francisella tularensis vaccine
+preparation of toxoid vaccine
+sodc from b . abortus strain 2308
+preparation of live attenuated vaccine by serial passages in vitro
+vaccine organism avirulent
+bacterial vaccine
+bacterial vaccine vector
+vaccine organism live attenuated
+cancer vaccine
+inactivated vaccine preparation
+vaccine component
+lipopolysaccharide vaccine adjuvant
+rna vaccine
+muramyl dipeptide
+squalene
+arlacel a
+bordetella pertussis component vaccine adjuvant
+usa licensed human vaccine role
+conjugate vaccine
+preparation of recombinant vector vaccine
+vaccine contraindication
+vaccine in research role
+hemagglutination - inhibition assay
+vaccine organism inactivated
+pci dna vaccine plasmid
+vaccine solvent
+vaccine powder
+bacterial vaccine preparation
+preparation of vaccine using heat inactivation
+cfu reduction assay
+assay of cfu reduction in spleen
+edibility
+edible
+vaccine efficacy
+pgp .lamp - 1 dna vaccine plasmid
+pes dna vaccine plasmid
+sodb ( ft )
+fungal vaccine
+f . tularensis vaccine lvs
+vaccine function
+herpesvirus vaccine vector
+vaccine - induced host immune response
+vaccine - induced host response
+host response to vaccine adjuvant
+host response to vaccine component
+host response to vaccine antigen
+host response to vaccine vaccine vector
+human immunodeficiency virus vaccine
+kkf24
+vaccine emulsifier
+inactivated vaccine
+mycoplasma hyopneumoniae vaccine
+inedible
+tertiary vaccination
+protozoa
+vaccine injection site
+b . melitensis bp26 deletion vaccine
+f . tularensis vaccine fsc043
+intramuscular route
+intranasal route
+intraperitoneal route
+adjumer
+lentivirus vaccine vector
+usa licensed human vaccine
+licensed vaccine
+liposome - based vaccine adjuvant
+live attenuated vaccine
+live vaccine organism
+quaternary vaccination
+profertility vaccine
+preparation of gene mutant vaccine
+subtenon route
+sublingual route
+vaccine - induced ,  adjuvant boosted t cell interferon - gramm production
+e . coli lt toxin derived vaccine adjuvant
+feline panleukopenia virus vaccine
+birds vaccine
+leptospira spp . vaccine
+campylobacter fetus vaccine
+pseudomonas aeruginosa vaccine
+bordetella bronchiseptica vaccine
+microencapsulated b . melitensis mutant vaccine
+vaccine - induced t cell interferon - gramm production boosted by il - 15 vaccine adjuvant
+prime - boost vaccine
+prime - boost vaccine with dna vaccine priming
+pandemrix
+b . melitensis p39 recombinant protein vaccine
+panvax
+intravenous route
+protozoan vaccine
+varicella - zoster virus live vaccine
+pathogen organism component in vaccine
+melanoma vaccine
+polyvalent pneumococcal vaccine
+period of persistence of vaccine induced immune response
+phase 1 vaccine trial
+phase 2 vaccine trial
+phase 3 vaccine trial
+phase 4 vaccine trial
+rlm / iglc
+nontypeable h . influenzae hap protein vaccine
+vaccinia virus vaccine
+mixed bacterial vaccine
+dna vaccine plasmid vector
+moraxella bovis vaccine
+usda licensed veterinary vaccine role
+vaccine approval process
+vaccine candidate role
+cfu measurement assay
+vaccine effectiveness rate
+poxvirus vaccine vector
+salmonella paratyphi vaccine
+parainfluenza 3 virus vaccine
+preventive vaccine function
+prophylactic vaccine
+protection efficacy
+protective antigen role
+equine influenza vaccine
+coxiella burnetii vaccine
+staphylococcus aureus bacterin vaccine
+staphylococcus aureus phage lysate vaccine
+mycoplasma gallisepticum bacterin vaccine
+autogenous bacterin vaccine
+autogenous poulty bacterin vaccine
+nontypeable haemophilus influenzae
+animal rabies vaccine
+human rabies vaccine
+preparation of recombinant protein vaccine
+protein subunit vaccine
+recombinant vector vaccine
+licensed human vaccine role
+immunization
+active immunization
+passive immunization
+natural active immunization
+vaccine immunization
+induction of adaptive immune response to antigen
+disorder prevention
+disorder treatment
+modification of adaptive immune response to antigen
+infection disorder prevention
+whole organism vaccine role
+vaccine organism
+canada licensed veterinary vaccine role
+diphtheria toxoid vaccine
+pox vaccine
+quail pox vaccine
+typhoid - paratyphoid vaccine
+human protein
+subcutaneous route
+subunit vaccine
+time of survival of live vaccine inside host
+human vaccinee
+human vaccinee population
+vaccinee population
+therapeutic vaccine
+licensed veterinary vaccine role
+titer
+multivalent vaccine
+adamantylamide dipeptide vaccine adjuvant
+toxin
+toxoid vaccine
+therapeutic vaccine function
+bacterial and viral combination vaccine
+vibrio vaccine
+campylobacter vaccine
+aav vaccine vector
+vaccination protocol
+chlamydia vaccine
+route of administration
+vaccine candidate
+thimerosal vaccine preservative
+h1n1 influenza vaccine
+haemophilus somnus vaccine
+vaccine adjuvant
+vaccine license application
+immunization objective
+multivalent vaccine against bacterial and viral diseases
+bordetella vaccine
+aeromonas vaccine
+vaccine preparation
+mycobacterium vaccine
+vaccine dose
+vaccine clinical trial
+whole organism vaccine
+vaccinia virus vector
+yersinia vaccine
+edwardsiella vaccine
+mycoplasma vaccine
+canada licensed human vaccine role
+viral vaccine
+viral vaccine vector
+haemophilus parasuis vaccine
+vaccine organism virulent
+male biological sex datum
+animal model of vaccine research
+pasteurella multocida vaccine
+laboratory animal model of vaccine research
+vaccine protective antigen role
+dna vaccine role
+subunit vaccine role
+conjugate vaccine role
+survival assessment
+h . influenzae type b capsular polysaccharide vaccine
+e . coli subunit vaccine
+licensed vaccine role
+vaccine in clinical trial role
+vaccine - induced humoral immune response
+b . melitensis rev . 1 with p39 deletion
+licensed human vaccine
+recombinant vector vaccine role
+flavobacterium columnare vaccine
+clostridium vaccine
+clostridium tetani vaccine
+combination vaccine
+influenza virus vaccine
+licensed cattle vaccine
+hepatitis b virus vaccine
+hepatitis a virus vaccine
+yersinia pestis vaccine
+rabies virus vaccine
+smallpox virus vaccine
+measles virus vaccine
+mumps virus vaccine
+rotavirus vaccine
+haemophilus vaccine
+poliovirus vaccine
+japanese encephalitis virus vaccine
+human papillomavirus vaccine
+varicella - zoster virus vaccine
+salmonella typhi vaccine
+streptococcus pneumoniae vaccine
+s . flexneri 2a strain cvd 1207
+s . sonnei strain wrss1
+vaccine regulation
+vaccine transportation
+recombinant bacterial vector vaccine role
+recombinant viral vector vaccine role
+antibiotics vaccine residual
+vaccine trial regulation
+primary vaccination
+inactivated viral vaccine
+canada licensed human vaccine
+preparation of dna vaccine
+preparation of conjugate vaccine
+subunit vaccine preparation
+live attenuated vaccine preparation
+preparation of rna vaccine
+brucella suis vaccine
+brucella suis strain 2
+dengue virus vaccine
+ebola virus vaccine
+herpesvirus vaccine
+rna vaccine role
+measles - mumps - rubella vaccine
+diphtheria - tetanus vaccine
+corynebacterium diphtheriae vaccine
+measles - mumps vaccine
+measles - mumps - rubella - varicella vaccine
+p . falciparum vaccine combination b
+diphtheria - tetanus - pertussis - poliovirus vaccine
+diphtheria - tetanus - pertussis - poliovirus - hepatitis b vaccine
+diphtheria - tetanus - pertussis - poliovirus - haemophilus b vaccine
+haemophilus b and hepatitis b vaccine
+dna and mva encoding me - trap
+papillomavirus vaccine
+parainfluenza virus vaccine
+pseudorabies virus vaccine
+simian immunodeficiency virus vaccine
+west nile virus vaccine
+respiratory syncytial virus vaccine
+marker vaccine
+edible vaccine
+acellular vaccine
+iscom
+contraceptive vaccine
+alzheimer vaccine
+malaria vaccine
+leishmania vaccine
+vibrio cholerae vaccine
+lyme disease vaccine
+bordetella pertussis vaccine
+pseudomonas vaccine
+rickettsial vaccine
+salmonella vaccine
+shigella vaccine
+staphylococcal vaccine
+bcg vaccine
+streptococcal vaccine
+p . falciparum rts , s / as02a
+'p . falciparum fmp1 / as02a
+np - vrp
+vrp expressing vp24
+vrp expressing vp30
+vrp expressing vp35
+vrp expressing vp40
+dna vaccine expressing sgp
+dna and adenoviral vector ad5 expressing siv gag protein
+adenoviral vector ad5 expressing siv gag protein
+dna and ad5 / 35 vector expressing hiv gp160 protein
+brucella abortus gene
+wboa from b . abortus strain 2308
+vaccine storage
+vaccine storage at room temperature
+vaccine storage in refrigerator
+vaccine storage in freezer
+effectiveness
+toxoid vaccine role
+rapid vaccination
+vaccination coverage
+pscar dna vaccine plasmid
+usa licensed vaccine role
+usa licensed cattle vaccine
+dna vaccine expressing multiple hiv epitopes
+recombinant hiv gp120 with adjuvant nanoemulsion
+aeromonas salmonicida vaccine
+gag - vrps
+vibrio anguillarum vaccine
+mva expressing hiv gag ,  pol and env proteins
+dna and poxvirus priming - boosting siv vaccine
+brucella abortus s19 with p39 deletion
+yersinia ev76
+y . pestis f1 protein vaccine
+rf1  +  rv vaccine
+recombinant y . pestis v antigen vaccine
+yersinia pav
+y . pestis yscf subunit vaccine
+recombinant yersinia rv10 vaccine
+plague vaccine usp
+improvac
+vaccine additive
+vaccine preservative
+vaccine stabilizer
+vaccine residual
+inactivation residual in vaccine
+cell culture residual in vaccine
+serologic correlate of protection
+cell mediated immune correlate of protection
+vaccine effectiveness
+canada licensed vaccine role
+porphyromonas gulae vaccine
+influvac
+vaxigrip
+anthrax spore vaccine
+pclf4
+equity
+aluminum vaccine adjuvant
+vaccine preservative role
+intradermal route
+age at vaccination
+dose  -  obsolete
+challenge dose
+secondary vaccination
+vaccine allergen
+passive immunization using natural maternal antibody
+vaccine antigen
+bovine albumin cell culture residual in vaccine
+bovine serum cell culture residual in vaccine
+monosodium glutamate stabliizer
+human albumin cell culture residual in vaccine
+human serum cell culture residual in vaccine
+polysorbate 20 vaccine stabilizer
+polysorbate 80 vaccine emulsifier
+vaccine residual protein from cell culture
+sorbitol vaccine stabilizer
+suvaxyn aujeszky
+sucrose albumin cell culture residual in vaccine
+yeast extract cell culture residual in vaccine
+yeast protein cell culture residual in vaccine
+diphtheria - tetanus - pertussis - poliovirus - haemophilus b - hepatitis b vaccine
+streptococcus equi vaccine
+mycoplasma gallisepticum vaccine
+pharyngeal mucosal route
+brucella abortus conjugate vaccine
+brucella abortus recombinant vector vaccine
+herpes simplex virus type 1 vaccine
+recombinant e . coli mutant vaccine
+e . coli toxoid vaccine
+recombinant vaccine vector e . coli vaccine
+pbluescript dna vaccine plasmid
+nkcmvint dna vaccine plasmid
+uropathogenic e . coli vaccine
+extraintestinal pathogenic e . coli vaccine
+enterohemorrhagic e . coli vaccine
+tetanus toxoid  ( for boost use only )  by sanofi pasteur inc
+fowl pox vaccine
+pdonr221 dna vaccine plasmid
+pcn3 dna vaccine plasmid
+v1r dna vaccine plasmid
+pvac1 3 .0 dna vaccine plasmid
+spayvac
+psin - cmv - vac dna vaccine plasmid
+pgacag dna vaccine plasmid
+pvcl1012 dna vaccine plasmid
+psca1 dna vaccine plasmid
+phcmv1 dna vaccine plasmid
+pcj - 3 dna vaccine plasmid
+pcdna3 .1 / v5 - his dna vaccine plasmid
+psectag2 c dna vaccine plasmid
+pbc12 / cmv / il - 2 dna vaccine plasmid
+plant - based newcastle disease virus vaccine
+morupar
+bacterial vaccine organism live attenuated
+viral vaccine organism live attenuated
+live attenuated marek's disease virus vaccine
+live attenuated newcastle disease virus vaccine
+live attenuated avian reovirus vaccine
+live attenuated feline panleukopenia virus vaccine
+megan vac1
+bcg vaccine vector
+inactivated avian influenza vaccine
+vesicular stomatitis virus vaccine vector
+leishmania tarentolae vaccine vector
+salmonella typhimurium sl3261 vaccine vector
+edwardsiella tarda eib202 vaccine vector
+parasite vaccine vector
+yersinia ruckeri vaccine
+streptococcus gordonii vaccine vector
+bordetella pertussis bpze vaccine vector
+actinobacillus pleuropneumoniae hs93tox vaccine vector
+fowlpox virus vaccine vector
+l . monocytogenes lm1 - 2 vaccine vector
+canarypox vaccine vector
+vibrio cholerae vaccine vector
+apmv - 3 vaccine vector
+herpes simplex virus vaccine vector
+simian adenovirus chad63 vaccine vector
+raccoon poxvirus vaccine vector
+pseudorabies virus strain bartha vaccine vector
+porcine adenovirus 3 vaccine vector
+poliovirus vaccine vector
+chimpanzee adenovirus vaccine vector
+measles virus vaccine vector
+coxsackievirus vaccine vector
+oka varicella vaccine vector
+newcastle disease virus vaccine vector
+myxoma virus vaccine vector
+maraba virus vaccine vector
+mycobacterium smegmatis vaccine vector
+lactobacillus gasseri vaccine vector
+herpes simplex virus vaccine 1 vector
+e . coli vaccine vector
+duck enteritis virus vector
+cmv vaccine vector
+salmonella typhi vaccine vector
+recombinant homologous vector vaccine
+mycoplasma synoviae vaccine
+recombinant heterologous vector vaccine
+adenovirus serotype 5 vaccine vector
+acmnpv vector
+giardia duodenalis vaccine
+baculovirus vaccine vector
+chlamydophila abortus vaccine
+complex adenovirus vaccine vector
+human adenovirus vaccine vector
+murine leukemia viral vector vaccine
+vaccinee priority group
+nyvac vaccine vector
+passive immunization by injecting pre - made immune element
+ovastim
+retroviral vaccine vector
+lawsonia intracellularis vaccine
+swinepox virus vaccine vector
+modified vaccinia ankara  ( mva )  virus vaccine vector
+orf virus vaccine vector
+mvtt vaccine vector
+fecundin
+lumpy skin disease virus vaccine vector
+bovine parainfluenza virus vaccine vector
+bordetella avium vaccine
+capripoxvirus vaccine vector
+survival of live vaccine inside host
+persistence of vaccine induced immune response
+corynebacterium pseudotuberculosis vaccine vector
+rhabdovirus - based vaccine vector
+saccharomyces cerevisiae vaccine vector
+vee vaccine vector
+live attenuated brucella vaccine
+alvac vaccine vector
+non - replicating adenovirus accine vector
+actinobacillus pleuropneumoniae vaccine
+replicating adenovirus accine vector
+assay of cfu reduction in liver
+assay of cfu reduction in lung
+live attenuated brucella abortus vaccine
+live attenuated brucella melitensis vaccine
+live attenuated brucella suis vaccine
+vaccine organism viability
+fungal vaccine vector
+avipox virus vaccine vector
+orthopoxvirus vaccine vector
+il - 12 vacince adjuvant
+piscirickettsia salmonis vaccine
+enterotoxigenic e . coli vaccine
+b . abortus hsa - l7 / l12
+shiga toxin - producing e . coli vaccine
+purevax ferret distemper
+specification of vaccination - challenge interval
+pathogen challenge protocol
+reduction of colony forming unit
+intraperitoneal pathogen challenge
+intraperitoneal vaccination
+e . coli fimh with cfa and then ifa
+e . coli dna vaccine
+vaccine strain
+b . melitensis rev . 1 with bp26 and omp31 deletions
+b . abortus l7 / l12 fused to mbp
+inactivated influenza vaccine
+live attenuated influenza vaccine
+vaccine strain role
+vaccine investigation data set
+intramuscular vaccination
+vaccine strain datum
+vaccine viability datum
+vaccine adjuvant usage datum
+vaccine protective antigen datum
+mutated gene in vaccine strain datum
+vaccination mouse strain datum
+biological sex datum
+vaccination route datum
+vaccination dose  ( unit: cfu )
+animal age at vaccination in days
+pathogen strain for challenge datum
+pathogen challenge datum
+challenge dose  ( unit: cfu )
+vaccination - challenge interval in days
+cfu per spleen
+cfu reduction per spleen
+vaccine protection efficacy datum
+chlamydia trachomatis vaccine
+b . abortus bls - l7 / l12
+vaccine protection efficacy measurement
+african swine fever virus vaccine
+foot - and - mouth disease virus vaccine
+inactivated bacterial vaccine
+vaxstrate
+lymphocytic choriomeningitis mammarenavirus vaccine
+live attenuated bacterial vaccine
+veterinary vaccine
+live attenuated viral vaccine
+newcastle disease virus vaccine
+viral hemorrhagic septicemia virus vaccine
+human betaherpesvirus 5 vaccine
+coxsackievirus vaccine
+schistosoma japonicum vaccine
+treponema pallidum vaccine
+leishmania major vaccine
+viral vaccine preparation
+protozoan vaccine preparation
+fungal vaccine preparation
+preparation of cancer vaccine
+cpg dna vaccine adjuvant
+ribi vaccine adjuvant
+rc529 vaccine adjuvant
+aluminum potassium sulfate adjuvant
+alhydrogel
+cholera toxin b subunit
+synflorix
+rc529 - af vaccine adjuvant
+mpl vaccine adjuvant
+ltk63 vaccine mutant
+toxoid
+polysaccharide subunit vaccine
+killed corynebacterium parvum vaccine adjuvant
+titermax gold
+dda vaccine adjuvant
+cationic liposomal vaccine adjuvant dda:tdb
+as02 vaccine adjuvant
+vsa - 3
+saponin vaccine adjuvant
+montanide isa 720
+montanide incomplete seppic adjuvant
+montanide isa51
+montanide vaccine adjuvant
+polygen vaccine adjuvant
+vaccine host role
+algammulin vaccine adjuvant
+bay r1005
+avridine
+calcium phosphate gel
+cholera toxin a1 - subunit - proteina d - fragment fusion protein
+gamma inulin vaccine adjuvant
+gerbu vaccine adjuvant
+gm - csf vaccine adjuvant
+gmdp
+recombinant hifn - gamma / interferon - g vaccine adjuvant
+interleukin - 1b vaccine adjuvant
+interleukin - 2
+interleukin - 7
+loxoribine
+mf59
+mtp - pe liposomes
+murametide
+murapalmitine
+d - murapalmitine
+nago
+non - ionic surfactant vesicles
+pmma
+protein cochleates
+qs - 21
+rehydragel hpa
+rehydragel lv
+sclavo peptide
+specol
+spt  ( antigen formulation )
+stearyl tyrosine
+theramide
+crl1005
+nanoemulsion vaccine adjuvant
+as03
+e . coli heat - labile toxin ,  lt
+amorphous aluminum hydroxyphosphate sulfate adjuvant  ( aahsa )
+imiquimod vaccine adjuvant
+resiquimod vaccine adjuvant
+af03 vaccine adjuvant
+flagellin vaccine adjuvant
+poly ( i:c )  vaccine adjuvant
+iscomatrix vaccine adjuvant
+abisco - 100 vaccine adjuvant
+albumin - heparin microparticles vaccine adjuvant
+as - 2 vaccine adjuvant
+b7 - 2 vaccine adjuvant
+bupivacaine vaccine adjuvant
+dl - pgl  ( polyester poly  ( dl - lactide - co - glycolide )  )  vaccine adjuvant
+il - 15 vaccine adjuvant
+immunoliposomes containing antibodies to costimulatory molecules
+ltk72 vaccine adjuvant
+mpl - se vaccine adjuvant
+formaldehyde vaccine preservative
+non - toxic mutant e112k of cholera toxin mct - e112k
+cholera toxin derived vaccine adjuvant
+saf - 1 vaccine adjuvant
+threonyl muramyl dipeptide  ( tmdp )  vaccine adjuvant
+ty particles vaccine adjuvant
+particulate antigen delivery system
+synthetic vaccine adjuvant
+tensoactive compound vaccine adjuvant
+ifn - gamma vaccine adjuvant
+virmugen role
+allergy vaccine
+clostridium perfringens vaccine
+crimean - congo haemorrhagic fever vaccine
+caprine herpesvirus type 1 vaccine
+heat - killed vaccine
+irradiation - inactivated vaccine
+h2o2 - killed vaccine
+formalin - killed vaccine
+preparation of vaccine using h2o2 inactivation
+unimmunized
+immunized by vaccination with a licensed vaccine
+vaccinee
+streptococcus agalactiae vaccine
+vaccinated
+unvaccinated
+vaccinated with a licensed vaccine
+unvaccinated with a licensed vaccine
+b16 vaccine adjuvanted by loxoribine
+immunized organism
+rabbit hemorrhagic disease virus vaccine
+unvaccinated organism
+actinobacillus pleuropneumoniae gene
+trypanosoma cruzi vaccine
+t . cruzi dna vaccine encoding crp - 10
+t . cruzi dna vaccine encoding g2
+t . cruzi dna vaccine encoding g4
+t . cruzi dna vaccine encoding tsa - 1
+t . cruzi dna vaccine pgfp - tsa1
+t . cruzi par1 protein vaccine
+t . cruzi par2 protein vaccine
+t . cruzi vaccine using attenuated salmonella expressing t . cruzi cruzipain
+t . cruzi vaccine using sendai virus vector expressing amastigote surface protein - 2
+cocktail vaccine
+cocktail vaccine containing subunit vaccine and inactivated whole organism vaccine
+vaccine containing dna vaccine for priming and subunit vaccine for boosting
+vaccine containing dna vaccine for priming and ad vector vaccine for boosting
+fusion conjugate protein vaccine
+brucella melitensis gene
+brucella suis gene
+bacillus anthracis gene
+listeria monocytogenes gene
+mycobacterium avium gene
+staphylococcus aureus gene
+aeromonas hydrophila gene
+bordetella bronchiseptica gene
+aeromonas salmonicida gene
+bordetella pertussis gene
+borrelia burgdorferi gene
+burkholderia pseudomallei gene
+edwardsiella ictaluri gene
+edwardsiella tarda gene
+francisella tularensis gene
+mannheimia haemolytica gene
+mycoplasma gallisepticum gene
+neisseria meningitidis gene
+pasteurella multocida gene
+salmonella typhi gene
+salmonella gallinarum gene
+'salmonella typhimurium gene
+salmonella enteritidis gene
+vibrio cholerae gene
+bovine herpesvirus 1 gene
+yersinia enterocolitica gene
+yersinia pestis gene
+yersinia pseudotuberculosis gene
+yersinia ruckeri gene
+bovine respiratory syncytial virus gene
+classical swine fever virus gene
+equid herpesvirus gene
+feline herpesvirus 1 gene
+feline immunodeficiency virus gene
+feline infectious peritonitis virus gene
+gallid herpesvirus 1 gene
+hepatitis b virus gene
+human herpesvirus 1 gene
+human metapneumovirus gene
+human respiratory syncytial virus gene
+infectious hematopoietic necrosis virus gene
+porcine respiratory and reproductive syndrome virus gene
+pseudorabies virus gene
+rabies virus gene
+sars - cov gene
+simian immunodeficiency virus gene
+tick - borne encephalitis virus gene
+vee virus gene
+west nile virus gene
+western equine encephalomyelitis virus gene
+leishmania donovani gene
+plasmodium berghei gene
+plasmodium yoelii gene
+toxoplasma gondii gene
+'human herpesvirus 2 gene'
+rinderpest virus vaccine
+erysipelothrix rhusiopathiae vaccine
+trichomonas foetus vaccine
+eimeria spp . vaccine
+orf virus vaccine
+aves vaccine
+fish vaccine
+fowlpox virus vaccine
+carnivora vaccine
+cat vaccine
+salmoninae vaccine
+vaccine target specification
+african horse sickness virus vaccine
+pigeonpox virus vaccine
+bovine herpesvirus 1 vaccine
+borna disease virus vaccine
+caprine herpesvirus 1 vaccine
+usa licensed vaccine
+equid herpesvirus 1 vaccine
+feline herpesvirus 1 vaccine
+gallid herpesvirus 1 vaccine
+canine adenovirus type 1  vaccine
+canine adenovirus type 2 vaccine
+bovine papillomavirus vaccine
+avian polyomavirus vaccine
+mink enteritis virus vaccine
+porcine parvovirus vaccine
+porcine rotavirus vaccine
+equine rotavirus vaccine
+infectious bursal disease virus vaccine
+eastern equine encephalitis virus vaccine
+vee virus vaccine
+equine arteritis virus vaccine
+bovine viral diarrhea virus 1 vaccine
+infectious bronchitis virus vaccine
+bovine coronavirus vaccine
+feline infectious peritonitis virus vaccine
+transmissible gastroenteritis virus vaccine
+bovine parainfluenza 3 virus vaccine
+bovine respiratory syncytial virus vaccine
+feline immunodeficiency virus vaccine
+feline calicivirus vaccine
+chicken anemia virus vaccine
+porcine respiratory and reproductive syndrome virus  vaccine
+riemerella anatipestifer vaccine
+avian reovirus vaccine
+avian pneumovirus vaccine
+bluetongue virus vaccine
+turkey hemorrhagic enteritis virus vaccine
+canarypox virus vaccine
+psittacid herpesvirus 1 vaccine
+mycobacterium bovis vaccine
+infectious salmon anemia virus vaccine
+edwardsiella ictaluri vaccine
+avian encephalomyelitis virus vaccine
+mannheimia haemolytica vaccine
+porcine circovirus 2 vaccine
+duck enteritis virus vaccine
+canine parainfluenza virus vaccine
+avian paramyxovirus vaccine
+duck hepatitis virus 1 vaccine
+encephalomyelitis - influenza - west nile virus eastern & western ,  killed virus vaccine  ( usda: 13w5 .20 )
+horse encephalomyelitis eev ,  vev ,  and wev combination vaccine
+hirame rhabdovirus vaccine
+horse encephalomyelitis - influenza - west nile virus vaccine
+listeria monocytogenes vaccine
+mycobacterium avium vaccine
+staphylococcus aureus vaccine
+'streptococcus gene'
+streptococcus equi gene
+aeromonas hydrophila vaccine
+edwardsiella tarda vaccine
+salmonella typhimurium vaccine
+salmonella gallinarum vaccine
+salmonella enteritidis vaccine
+yersinia pseudotuberculosis vaccine
+human metapneumovirus vaccine
+human respiratory syncytial virus vaccine
+plasmodium berghei vaccine
+plasmodium yoelii vaccine
+leishmania infantum gene
+reticuloendotheliosis virus vaccine
+chikungunya virus vaccine
+mycobacterium tuberculosis rd1 / pancd mutant vaccine
+streptococcus suis vaccine
+corynebacterium pseudotuberculosis vaccine
+trichinella spiralis vaccine
+atherosclerosis vaccine
+diabetes vaccine
+non - infectious disease vaccine
+arthritis vaccine
+autoimmune disease vaccine
+streptococcus pyogenes vaccine
+brucella ovis vaccine
+intragastric route
+intragastric injection route
+intragastric vaccination
+intranasal vaccination
+oral vaccination
+subcutaneous vaccination
+vaccine reconstitution
+lyophilized vaccine powder
+vaccine emulsifier role
+vaccine stabilizer role
+human serum albumin vaccine additive
+human serum albumin
+gelatin vaccine stabilizer
+host susceptibility gene response to vaccine adverse event
+bovine serum albumin vaccine additive
+sugar vaccine stabilizer
+amino acid vaccine stabilizer
+sucrose vaccine stabilizer
+lactose vaccine stabilizer
+protein vaccine stabilizer
+alkest tw 20 vaccine stabilizer
+tween 20 vaccine stabilizer
+neomycin residual
+protective vaccine antigen
+sindbis virus vaccine
+lymphocytic choriomeningitis virus vaccine
+schistosoma mansoni vaccine
+schistosoma vaccine
+vaccine - induced herd immunity
+vaccine conjugate protein
+vaccine conjugate role
+intravesical vaccination
+infectious pancreatic necrosis virus vaccine
+viral haemorrhagic septicaemia virus vaccine
+augmented protection and cellular immunity using host protein as adjuvant
+mycobacterium marinum vaccine
+hepatitis d virus vaccine
+monkeypox virus vaccine
+bovine viral diarrhea virus 2 vaccine
+murid herpesvirus 1  vaccine
+tri - immunol
+fluogen
+orimune vaccine
+p . falciparum rts , s / as01
+revaxis
+ditanrix
+rotashield vaccine
+moraten vaccine
+tevax vaccine
+cholera vaccine ,  usp
+hexavax
+rabipur vaccine
+lymerix
+rabivac
+genhevac b
+meruvax i
+rabie - vax
+tetracoq
+trihibit
+optaflu
+td - rix
+virivac
+m - m - r i
+hib - imune
+omnihib
+certiva
+fp85a
+bcg vaccine ssi
+recombinant bcg vaccine
+vpm1002
+mrkad5 hiv - 1 gag / pol / nef
+yf - 17dd vaccine
+yf 17dd - yfv
+acwy vax
+stamaril
+non - small cell lung cancer vaccine
+cv9201
+clinical trial vaccine role
+lipo - 5
+hepatitis b surface antigen vaccine
+heplisav - b
+iss 1018 cpg odn vaccine adjuvant
+hpv - 16 l1 vlp
+j - vax
+diphtheria - tetanus - acellular pertussis - haemophilus b vaccine
+diphtheria - tetanus - whole cell pertussis - haemophilus b vaccine
+imovax id
+mr - vax ii
+tritanrix
+dtp - acthib
+adenovirus type 4
+adenovirus type 7
+diphtheria - tetanus - pertussis - poliovirus - act - hib vaccine
+quatro virelon
+tdap
+measles virus vaccine foreign to usa
+mumps - rubella vaccine foreign to usa
+diphtheria - tetanus - pertussis - poliovirus - hepatitis b vaccine foreign to usa
+diphtheria - tetanus - pertussis - poliovirus vaccine foreign to usa
+hib polysaccharide foreign to usa
+hepatitis b vaccine foreign to usa
+diphtheria - tetanus - poliovirus vaccine foreign to usa
+diphtheria - tetanus - pertussis - poliovirus - haemophilus b - hepatitis b vaccine foreign to usa
+seasonal influenza virus vaccine foreign to usa
+diphtheria - tetanus - pertussis - poliovirus - haemophilus b vaccine foreign to usa
+meningococcal conjugate and haemophilis b vaccine
+meningococcal conjugate and haemophilis b vaccine foreign to usa
+spring summer encephalitis vaccine
+acetone - dried typhoid vi polysaccharide vaccine
+hepatitis a virus - typhoid vaccine foreign to usa
+h1n1 influenza monovalent vaccine
+fluvax
+hepatyrix
+vaccination site
+flu - imune
+infanrix quinta
+infanrix penta
+infanrix tetra
+menitorix
+tdap / ipv vaccine foreign to usa
+live attenuated vaccine - induced down - regulated gene expression compared to infection with wild type pathogen
+live attenuated vaccine - induced up - regulated gene expression compared to infection with wild type pathogen
+tiv dresden
+fluzone intradermal trivalent
+meningococcal conjugate vaccine
+acel - imune
+vaccine foreign to usa
+spirochaetes vaccine
+borreliella vaccine
+yersiniaceae vaccine
+corynebacterium vaccine
+bacillus vaccine
+varicellovirus vaccine
+papillomaviridae vaccine
+orthopoxvirus vaccine
+orthohepadnavirus vaccine
+reoviridae vaccine
+sedoreovirinae vaccine
+morbillivirus vaccine
+rubulavirus vaccine
+lyssavirus vaccine
+flaviviridae vaccine
+enterovirus vaccine
+hepatovirus vaccine
+rubivirus vaccine
+chad63 - kh vaccine
+rvsv - ebov
+2011–2012 trivalent inactivated vaccine  ( a / california / 7 / 09  ( h1n1 )  ,  a / perth  / 16 / 2009  ( h3n2 )  ,  and b / brisbane / 60 / 2008 )
+gh1 - qbeta vaccine
+fluenz
+quadrivalent seasonal inactivated influenza vaccine 2014
+female biological sex datum
+intersex biological sex datum
+coronavirus vaccine
+2012 - 2013 seasonal trivalent inactivated influenza vaccine  ( a / california / 7 / 2009  ( h1n1 )  ,  a / victoria / 361 / 2011  ( h3n2 )  ,  and b / wisconsin / 1 / 2010 )
+inactivated monovalent influenza a / h5n1  ( 3 .75 mcg hemagglutinin  [ ha ]  a / indonesia / 05 / 2005 )  split - virus  ( sv )  vaccine  ( sanofi )
+covid - 19 vaccine
+pfspz vaccine
+pfspz - cvac
+pfspz - ga1
+virus - like particle vaccine role
+virus - like particle vaccine
+vaccine specific interferon - γ immune response
+vaccine specific il - 2 immune response
+vaccine specific interleukin - 4 response
+vaccine specific interleukin - 10 response
+vaccine specific th1 immune response indicated by igg2a  production
+vaccine specific th2 immune response indicated by igg1  production
+human age within one month at vaccination
+pfizer–biontech covid - 19 vaccine
+covaxin
+covlp
+ad35 .cs .01 malaria vaccine
+scb - 2019
+ub - 612
+adcld - cov19
+aks - 452
+pcaggsp7 dna vaccine plasmid
+pcaggs / mcs dna vaccine plasmid
+pwrg dna vaccine plasmid
+phw2000 dna vaccine plasmid
+pcmv / r dna vaccine plasmid
+vrc - 9123 dna vaccine plasmid
+ppjv7563 dna vaccine plasmid
+p188 dna vaccine plasmid
+vr10551 dna vaccine plasmid
+vcl - 1632 dna vaccine plasmid
+psport - b - gal dna vaccine plasmid
+psin - b - gal dna vaccine plasmid
+plxshd dna vaccine plasmid
+wrg / ben dna vaccine plasmid
+pngvl4a dna vaccine plasmid
+pngvl3 dna vaccine plasmid
+sincp b - gal dna vaccine plasmid
+synchotrope ta2m dna vaccine plasmid
+pcmv / myc / er dna vaccine plasmid
+ppa63 - lamp1 dna vaccine plasmid
+psectag2b dna vaccine plasmid
+ptpa - pa63 - lamp1 dna vaccine plasmid
+ptpa - pa63 dna vaccine plasmid
+vr2210 dna vaccine plasmid
+pcmv - tpa / zs7 dna vaccine plasmid
+pabb - crs2 dna vaccine plasmid
+pmasia - tgd dna vaccine plasmid
+pcmvi - ub dna vaccine plasmid
+pci30 dna vaccine plasmid
+pcp15 / 60 dna vaccine plasmid
+pumvc3 dna vaccine plasmid
+pcdna1 dna vaccine plasmid
+pcat dna vaccine plasmid
+pgt36 dna vaccine plasmid
+vr1040 dna vaccine plasmid
+pctpa dna vaccine plasmid
+pmv10 .1 dna vaccine plasmid
+pet11d dna vaccine plasmid
+pumvc4b dna vaccine plasmid
+prc dna vaccine plasmid
+pak - 4 dna vaccine plasmid
+pcmvi (  - h3 ) ubs dna vaccine plasmid
+auxo - gtu dna vaccine plasmid
+pcmn160 dna vaccine plasmid
+v1jns dna vaccine plasmid
+pnd - 14 dna vaccine plasmid
+psectag2a dna vaccine plasmid
+prc / cmv - hbs ( s )  dna vaccine plasmid
+pcdna dna vaccine plasmid
+provax dna vaccine plasmid
+p1012 dna vaccine plasmid
+puse -  dna vaccine plasmid
+apl023 dna vaccine plasmid
+pegfp - n1 dna vaccine plasmid
+pcdl - sra296 dna vaccine plasmid
+pusk dna vaccine plasmid
+pubiq dna vaccine plasmid
+pcdna3 .1 / hygro (  -  )  dna vaccine plasmid
+pcmv3iss dna vaccine plasmid
+pwrg7079 dna vaccine plasmid
+pvr1020 dna vaccine plasmid
+nkcmvintpolyli dna vaccine plasmid
+pcdna3 .1 / v5 - his - topo dna vaccine plasmid
+pires1neo dna vaccine plasmid
+prc / rsv dna vaccine plasmid
+pci - tpa dna vaccine plasmid
+pcsivgag dna vaccine plasmid
+pvacc4 dna vaccine plasmid
+pbc12b1 dna vaccine plasmid
+pgfp dna vaccine plasmid
+pcmv - beta dna vaccine plasmid
+psw3891 dna vaccine plasmid
+pjw4304 dna vaccine plasmid
+pgt146 - mil - 12 dna vaccine plasmid
+pdnavacc dna vaccine plasmid
+vr1055 dna vaccine plasmid
+prsc dna vaccine plasmid
+pcdna3 .1 ( zeo )  +  dna vaccine plasmid
+pvf dna vaccine plasmid
+av - covid - 19
+becov2a
+cigb - 66
+cigb - 669
+delns1 - 2019 - ncov - rbd - opt1
+epivaccorona
+gls - 5310
+iibr - 100
+lv - smenp - dc
+nanocovax
+qazcovid - in
+rbd - hbsag vlp
+recombinant sars - cov - 2 vaccine  ( sf9 cell )
+soberana
+v591
+vla2001
+sars n protein dna vaccine
+sars n  +  sars m dna vaccine
+sars m protein dna vaccine
+salmonella - ctla4 - s sars dna vaccine
+recombinant sars spike polypeptide vaccine
+sars ctla4 - s dna vaccine
+sars tpa - s dna vaccine
+salmonella - tpa - s sars dna vaccine
+sars ma - exon vaccine
+sars rma15 - δe vaccine
+sars ads - mva vaccine
+mers - cov s vaccine adjuvanted with cpg and alum
+inactivated whole mers - cov  ( iv )  vaccine with cpg and alum
+sars mva / s vaccine
+β - propiolactone - inactivated sars - cov vaccine
+sars ad s / n vaccine
+ad5 .mers - s1 vaccine
+ad5 .mers - s vaccine
+mers england1 s1 protein subunit vaccine
+mers england1 s dna  +  england1 s protein subunit vaccine
+mers england1 s dna vaccine
+mers rrbd plus alum vaccine
+mers - cov pcdna3 .1 - s1 dna vaccine
+vsvδg - mers vaccine
+mers rntd vaccine
+inactivated whole  ( formalin and uv radiation )  sars - cov vaccine
+recombinant sars dna spike protein vaccine
+viral - like - particle  s - mhv sars vaccine
+uv - inactivated sars  +  tlr agonist vaccine
+uv - inactivated sars vaccine
+vrp - mers - n vaccine
+vrp - sars - n vaccine
+rvv - sars vaccine
+mvvac2 - mers - s ( h )  vaccine
+mvvac2 - mers - n vaccine
+chadox1 - mers - s vaccine
+ad41 .mers vaccine
+mva - mers vaccine
+crt - n sars vaccine
+rsars - cov - δe vaccine
+mvvac2 - mers - sols vaccine
+coronavac
+zf2001
+lnp - ncovsarna
+ad5 - ncov
+mers gls - 5300 vaccine
+vrc - srsdna015 - 00 - vp vaccine
+sars ndv - bc / s vaccine
+sars ndv - vf / s vaccine
+rdna - expressed s sars protein vaccine
+rmv - s  +  rmv - n vaccine
+sars - cov baculovirus  s protein  vaccine
+mva - mers - s vaccine
+adcovid
+sars - cov pci - n dna vaccine
+nvx - cov2373
+cov2 sam
+moderna covid - 19 vaccine
+oxford–astrazeneca covid - 19 vaccine
+ad26 .cov2 .s
+covid - 19 inactivated virus vaccine by wuhan institute of biological products
+arcov
+zycov - d
+gam - covid - vac
+arct - 021
+ag0301 - covid19
+bbibp - corv
+covid - 19 inactivated virus vaccine by chinese academy of medical sciences
+cvncov
+grad - cov2
+gx - 19
+kbp - covid - 19
+ino - 4800
+adimrsc - 2f
+bactrl - spike
+chulacov19
+coh04s1
+lipid nanoparticle vector
+nanoparticle vector
+chimpanzee adenovirus oxford1 vaccine vector
+chimpanzee adenovirus oxford2 vaccine vector
+corvax12
+covid - 19 aapc vaccine
+covigenix vax - 001
+covi - vac
+erucov - vac
+had5 - covid - 19
+imp covac - 1
+mva - sars - 2 - s
+mvc - cov1901
+recombinant spike protein with advax™ adjuvant
+covac
+v590
+vxa - cov2 - 1
+gbp510
+matrix - m vaccine adjuvant
+advax vaccine adjuvant
+razi cov pars
+bbv154
+chadv68 - s
+covid - 19 inactivated virus vaccine by shifa pharmed
+covid - evax
+covigen
+mrna - 1273 .351
+nbp2001
+ndv - hxp - s
+ptx - covid19 - b
+spfn
+vbi - 2902a
+fakhravac
+mv - 014 - 212
+mrt5500
+rubella virus vaccine
+vaccine saftey regulation
+review of vaccine license application
+eolarix
+infanrix - hexa
+mutacol
+pneumo 23
+priorix
+priorix - tetra
+bacterium protein
+virus protein
+parasite protein
+fungus protein
+c . posadasii subunit pmp1 protein vaccine
+c . posadasii dna vaccine encoding pra protein
+c . immitis subunit ure protein vaccine
+td polio adsorbed
+c . posadasii subunit gel1 protein vaccine
+leishmania amazonensis vaccine
+leishmania infantum vaccine
+cryptosporidium parvum vaccine
+bovine leukemia virus vaccine
+marek's disease virus vaccine
+marburg virus vaccine
+infectious hematopoietic necrosis virus vaccine
+rift valley fever virus vaccine
+hantavirus vaccine
+herpes simplex virus type 1 and 2 vaccine
+nipah virus vaccine
+hendra virus vaccine
+entamoeba histolytica vaccine
+chlamydophila pneumoniae vaccine
+chlamydophila psittaci vaccine
+burkholderia pseudomallei vaccine
+chlamydia muridarum vaccine
+lassa fever virus vaccine
+canine distemper virus vaccine
+coccidioides vaccine
+canine parvovirus vaccine
+helicobacter pylori vaccine
+campylobacter jejuni vaccine
+sars vaccine
+trypanosoma brucei vaccine
+haemophilus influenzae vaccine
+yersinia enterocolitica vaccine
+clostridium botulinum  vaccine
+western equine encephalomyelitis virus vaccine
+tick - borne encephalitis virus  ( tbev )  vaccine
+cancer vaccine preparation
+allergy vaccine preparation
+cell line repository role
+covac1

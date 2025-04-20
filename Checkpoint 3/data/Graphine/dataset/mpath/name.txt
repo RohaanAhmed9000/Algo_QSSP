@@ -1,0 +1,795 @@
+pathological phenotype observation
+normal
+pathological entity
+cell and tissue damage
+gangrene
+placental abnormality
+glycogen cell defect
+labyrinth zone defect
+placental vascular defect
+spongiotrophoblast defect
+circulatory disorder
+fluid accumulation
+congestion
+disseminated intravascular coagulation
+edema
+hemorrhagic necrosis
+embolus
+air embolism
+amniotic fluid embolism
+atrial embolism
+bone marrow embolism
+fat embolism
+pulmonary embolism
+skin embolism
+systemic embolism
+hemorrhage and non - specified extravasation
+liquefactive necrosis
+ecchymosis
+hematoma
+petechia
+purpura
+infarct
+thrombosis
+growth and differentiation defect
+atrophy
+intra - epithelial neoplasia
+epithelial dysplasia
+piecemeal necrosis
+mild intra - epithelial neoplasia
+moderate intra - epithelial epithelial neoplasia
+severe intra - epithelial neoplasia
+hypoplasia
+hyperplasia
+epithelial and stromal hyperplasia
+fibroepithelial polyp
+fibroglandular hyperplasia
+epithelial hyperplasia
+goblet cell hyperplasia
+process of degenerative change
+hyperplastic polyp
+inflammatory polyp
+intraductal hyperplasia
+microglandular hyperplasia
+myoepithelial hyperplasia
+fat cell hyperplasia
+lymphoid hyperplasia
+mesothelial hyperplasia
+squamous hyperplasia
+general degenerative process
+acanthosis
+actinic keratosis
+basal cell hyperplasia
+hypergranulosis
+hyperkeratosis
+orthokeratosis
+parakeratosis
+pseudoepithelioma / pseudocarcinoma
+seborrheic keratosis
+hypertrophy
+myxoid / myxomatous degeneration
+metaplasia
+cartilaginous metaplasia
+epithelial metaplasia
+apocrine metaplasia
+gastric metaplasia
+glandular metaplasia
+goblet cell metaplasia
+intestinal metaplasia
+lipomatous metaplasia
+nephrogenic metaplasia
+subcellular defect
+oncocytic metaplasia
+squamous metaplasia
+transitional cell metaplasia
+myeloid metaplasia
+osseous metaplasia
+healing and repair process
+connective tissue replacement
+angiogenesis
+extracellular matrix deposition
+fibrin deposition
+cytoskeletal defect
+fibroblast proliferation
+fibrosis
+gliosis
+granulation tissue
+sclerosis
+parenchymal regeneration
+complete parenchymal regeneration
+incomplete parenchymal regeneration
+immunopathological process
+hypersensitivity disease
+endoplasmic reticulum defect
+type i hypersensitivity
+type ii hypersensitivity
+type iii hypersensitivity
+type iv hypersensitivity
+immune mediated disease
+arthritis
+dermatitis
+glomerulonephritis
+immune mediated hemolytic anaemia
+immune mediated thrombocytopenia
+cell death
+golgi defect
+myositis
+vasculitis
+immunodeficiency disease
+general immunodeficiency disease
+chronic / recurrent inflammatory disease
+immunodeficiency associated infection
+primary immunodeficiency disease
+immunodeficiency  -  lymphoid defect
+immunodeficiency  -  myeloid / phagocytic defect
+secondary immunodeficiency disease
+lysosomal defect
+acquired immunodeficiency
+failed transfer of maternal immunoglobulin
+inflammation
+acute inflammation
+chronic inflammation
+granulomatous inflammation
+necrotic inflammation
+ulcerative inflammation
+neoplasm
+adnexal and skin appendage tumor
+mitochondrial defect
+apocrine adenocarcinoma
+apocrine adenoma
+ceruminous adenocarcinoma
+ceruminous adenoma
+clear cell hidradenoma
+eccrine gland adenocarcinoma
+eccrine gland adenoma
+eccrine papillary adenoma
+papillary hidradenoma
+sebaceous adenocarcinoma
+peroxysomal defect
+sebaceous adenoma
+syringoma
+trichoepithelioma
+basal cell tumor
+basal cell carcinoma
+blood vessel tumor
+angiofibroma
+angiokeratoma
+hemangioblastoma
+hemangioendothelioma
+plasma membrane defect
+hemangioma
+hemangiopericytoma
+hemangiosarcoma
+central nervous system tumor
+astrocytoma
+choroid plexus carcinoma
+choroid plexus papilloma
+ependymoma
+ependymoma malignant
+glioma
+tissue specific degenerative process
+medulloblastoma
+meningioma
+oligodendroglioma
+sub - ependymoma
+complex tumor
+adenoacanthoma
+carcinosarcoma
+craniopharyngioma
+mesodermal mixed tumor
+mucoepidermoid carcinoma
+alopecia
+mullerian mixed tumor
+nephroblastoma
+pulmonary blastoma
+rhabdoid sarcoma
+fibroepithelial tumor
+adenofibroma
+fibroadenoma
+glandular tumor
+adenocarcinoma
+adenocarcinoma in situ
+arthrosis
+adenoma
+adenomatous polyposis coli
+bronchioloalveolar adenoma
+bronchioloalveolar carcinoma
+clear cell adenocarcinoma
+comedocarcinoma
+cystadenocarcinoma
+cystadenoma
+follicular adenocarcinoma
+follicular adenoma
+atherosclerosis
+harderian gland adenoma
+harderian gland carcinoma
+infiltrating duct carcinoma
+intraductal carcinoma
+intraductal papillary carcinoma
+intraductal papilloma
+intraductal papillomatosis
+islet cell adenoma
+islet cell carcinoma
+lobular carcinoma
+cataract
+lobular carcinoma in situ
+medullary carcinoma
+mucinous cystadenocarcinoma
+mucinous cystadenoma
+myoepithelioma
+papillary adenocarcinoma
+papillary adenoma
+papillary cystadenocarcinoma
+papillary cystadenoma
+pinealoma
+apoptosis
+cystic medial necrosis
+pineoblastoma
+pineocytoma
+pituicytoma
+pseudomyxoma peritonei
+serous adenocarcinoma
+serous cystadenoma
+signet ring cell carcinoma
+thyroid c - cell adenoma
+thyroid c - cell carcinoma
+gonadal tumor
+emphysema
+germ cell tumor
+dermoid cyst
+dysgerminoma
+embryonal carcinoma
+endodermal sinus tumor
+gonadoblastoma
+mixed germ cell tumor
+seminoma
+classical seminoma
+spermatocytic seminoma
+glaucoma
+struma ovarii
+teratocarcinoma
+teratoma
+gonadal somatic cell tumor
+androblastoma
+fibrothecoma
+granulosa cell tumor
+gynandroblastoma
+leydig cell tumor
+luteal cell tumor
+intracellular and extracellular accumulation
+ovarian stromal tumor
+sertoli cell tumor
+sertoli - leydig cell tumor
+sex cord tumor
+thecoma
+hematopoietic / lymphoid malignancies / disorder
+leukaemia
+erythroid leukaemia
+granulocytic leukaemia
+lymphatic leukaemia
+amyloid deposition
+megakaryocytic leukaemia
+myelodysplastic disorder
+myeloid leukaemia
+lymphoma
+follicle center cell lymphoma
+immunoblastic lymphoma
+small lymphocytic lymphoma
+thymic lymphoma
+mast cell tumor
+bile deposition
+mastocytoma
+thymoma
+hepatic tumor
+hepatocellular adenoma
+cholangiocarcinoma
+cholangiofibroma
+hepatoblastoma
+hepatocellular carcinoma
+melanocytic tumor
+melanoma
+calcium deposition
+melanoma in situ
+naevus
+mesonephroma
+mesonephric tumor
+mesothelial tumor
+mesothelioma
+neuroendocrine tumor
+carcinoid tumor
+endocrine adenocarcinoma
+endocrine adenoma
+ceroid deposition
+primitive neurectodermal tumor
+small cell carcinoma
+tumorlet
+cns progenitor tumor
+esthesioneuroblastoma
+ganglioneuroma
+neuroblastoma
+pheochromocytoma
+retinoblastoma
+odontogenic tumor
+copper deposition
+ameloblastic fibroma
+ameloblastoma
+cementifying fibroma
+cementoblastoma
+cementoma
+dentinoma
+odontoma
+osseous and chondromatous tumor
+chondroblastoma
+glycogen deposition
+chondroblastoma ,  malignant
+chondroma
+chondrosarcoma
+osteoblastoma
+osteochondroma
+osteofibroma
+osteoma
+osteosarcoma
+paragangliomas and glomus tumor
+aortic body tumor
+necrosis
+hyalinosis
+carotid body tumor
+glomus jugulare tumor
+glomus tumor
+paraganglioma
+soft tissue tumor
+chordoma
+dermatofibrosarcoma
+fibroma
+soft tissue fibrosarcoma
+fibrous histiocytoma
+iron deposition
+giant cell tumor of soft tissue
+granular cell tumor / alveolar sarcoma
+alveolar soft part sarcoma
+granular cell tumor
+histiocytic sarcoma
+lipomatous tumor
+angiomyolipoma
+lipoma
+liposarcoma
+lymphatic vessel tumor
+lipid deposition
+lymphangioma
+lymphangiomyomatosis
+lymphangiosarcoma
+myomatous tumor
+intravascular leiomyomatosis
+leiomyoma
+leiomyosarcoma
+myoblastoma
+rhabdomyosarcoma
+myxomatous tumor
+lipofuscin deposition
+angiomyxoma
+myxoma
+myxosarcoma
+nerve sheath tumor
+neurilemmoma
+neurofibroma
+neurofibromatosis
+neurofibrosarcoma
+schwannoma
+synovial - like tumor
+melanin deposition
+synovial sarcoma
+synovioma
+squamous cell tumor
+inverted squamous papilloma
+keratoacanthoma
+papilloma
+squamous cell carcinoma
+squamous cell carcinoma in situ
+squamous cell papilloma
+verrucous carcinoma
+protein deposition
+transitional cell tumor
+transitional cell carcinoma
+transitional cell carcinoma in situ
+transitional cell papilloma
+trophoblastic tumor
+choriocarcinoma
+hydatidiform mole
+placental site trophoblastic tumor
+obsolete
+uric acid deposition
+nuclear defect
+cataract ;  capsular - epithelial
+cataract ;  nuclear and cortical
+cataract ;  cortical liquefactive
+cataract ;  lens extrusion
+glaucoma developmental
+glaucoma ;  open angle
+glaucoma ;  angle closure
+pseudocyst
+symmetry defect
+intracellular and extracellular depletion
+left / right axis defect
+anterior / posterior axis defect
+dorsal / ventral axis defect
+developmental cystic dysplasia
+ectasia
+ductal ectasia
+telangiectasia
+choristoma
+angiogenesis defect
+vasculogenesis defect
+decalcification
+decidual defect
+pre - neoplastic lesions
+focal hyperplasia
+atypical hyperplasia
+hyperplastic nodule
+carcinoma in situ
+ductal intra - epithelial neoplasia
+intestinal intra - epithelial neoplasia
+prostate intra - epithelial neoplasia
+stomach ,  oesophagus and pancreatic intra - epithelial neoplasia
+demyelination
+adenomatous polyp
+polyp
+membraneous glomerulonephritis
+membraneoproliferative glomerulonephritis
+autoimmune glomerulonephritis
+glomangioma
+non - lymphoid leukaemias
+myeloid leukaemia without maturation
+myeloid leukaemia with maturation
+nesidioblastosis
+bridging necrosis
+glycogen depletion
+myeloproliferative disease - like myeloid leukaemia
+myelomonocytic leukaemia
+monocytic leukaemia
+biphenotypic leukaemia
+non - lymphoid hematopoietic sarcomas
+granulocytic sarcoma
+mast cell sarcoma
+myeloid dysplasias
+cytopenia with increased blasts
+hypocalcification
+myeloid proliferations  ( non - reactive )
+myeloproliferation  ( genetic )
+myeloproliferative disease
+lymphoid neoplasms
+b cell neoplasms
+non - lymphoid neoplasias
+b - cell neoplasms
+precursor b cell neoplasms
+precursor b  - cell lymphoblastic lymphoma / leukaemia
+mature b - cell neoplasms
+lipid depletion
+small b - cell lymphoma
+splenic marginal zone lymphoma
+follicular b cell lymphoma
+diffuse large b - cell lymphoma
+diffuse large b - cell lymphoma ,  centroblastic type
+diffuse large b - cell lymphoma ,  immunoblastic type
+diffuse large b - cell lymphoma ,  histiocyte associated
+primary mediastinal  ( thymic )  diffuse large b cell lymphoma
+classic burkitt lymphoma
+burkitt - like lymphoma
+osteopenia
+plasma cell neoplasms
+b - natural killer cell lymphoma
+plasmacytoma
+extraosseous plasmacytoma
+anaplastic plasmacytoma
+t - cell neoplasms
+precursor t - cell neoplasms
+precursor t - cell lymphoblastic lymphoma / leukaemia
+mature t - cell neoplasms
+small t - cell lymphoma
+osteoporosis
+t cell neoplasms character undetermined
+t large cell anaplastic lymphoma
+t natural killer cell lymphoma
+cholangioma
+hepatocholangiocellular adenoma
+hepatocholangiocellular carcinoma
+mucous secretions
+papillary transitional cell carcinoma
+carcinoma
+developmental and structural abnormality
+sarcoma
+clara cell adenoma
+neuritis
+dystrophy
+mineralisation
+potentially cancerous lesions
+aberrant crypt foci
+adenomyoepithelioma
+acinar adenocarcinoma
+developmental or adult structural  defect
+cribriform adenocarcinoma
+adenosquamous carcinoma
+torsion
+mucinous carcinoma
+glioblastoma
+tumors of neurepithelial tissue
+tumors of the meninges
+pilocytic astrocytoma
+mixed glioma
+agenesis
+peripheral nervous system tumors
+pilomatricoma
+ossifying fibroma
+inverted transitional cell papilloma
+nephroblastomatosis
+basaloid follicular neoplasms
+trichofolliculoma
+spiradenoma
+trichoblastoma
+ulcer
+aplasia
+erosion
+desmoplasia
+cicatricial alopecia
+scarring alopecia
+myelofibrosis
+acidophilic macrophage pneumonia
+polycystic disease
+cribriform epididymal hyperplasia
+dysplasia
+defective branching morphogenesis
+fibro - osseous lesion
+fatty infiltration
+osteopetrosis
+myeloma
+cystic hyperplasia
+extramedullary hemopoiesis
+pathological process
+cell and tissue damage process
+degenerative entity
+developmental process abnormalities
+caseous necrosis
+communication defect
+branching defect
+developmental hypertrophy
+hyperplastic tissue
+pathological anatomical entity
+defective growth and differentiation process
+metaplastic tissue
+neoplasia
+healing and repair structure
+abscess
+empyema
+curvature defect
+angiectasia
+glossitis
+pigmentation
+concretion
+cardiomyopathy
+hyperostosis
+focus of cellular alteration
+myeloid hyperplasia
+truncoconal septal defect
+cyst
+inter - atrial septal defect
+inter - ventricular septal defect
+steatosis
+synechia
+involution
+avulsion
+prolapse
+pyogranulomatous inflammation
+pyogenic granuloma
+cavernous hemangioma
+depletion
+karyomegaly
+hypertrophic tissue
+hepatocytomegaly
+cholelithiasis
+furunculosis
+hydronephrosis
+steatitis
+bursal cyst
+cellulitis
+hydrocephalus
+developmental dysplasia
+osteoid deposition
+epidermal inclusion cyst
+cholesterol deposition
+serous exudate
+crystalloid formation
+developmental hypoplasia
+histiocytosis
+hemolysis
+dilatation
+displacement and deformity
+granulomatous epicarditis
+diverticulum
+ectopia
+coagulation necrosis
+fistula
+pyelectasia
+alveolar rhabdomyosarcoma
+fusion process defect
+embryonal rhabdomyosarcoma
+pre - sacral teratoma
+growth acceleration
+sacrococcygeal teratoma
+rhabdomyoma
+fibromatosis
+xanthoma
+growth arrest
+mucometra
+molar hypercementosis
+sub - retinal hemorrhage
+hamartoma
+drusen
+hirano body
+splenomegaly
+intervertebral disk prolapse
+hepatic centrolobular fatty metamorphosis
+pigmentary incontinence
+zenker's necrosis
+cartilagenous erosion
+renal tubular amyloidosis
+recanalised thrombus
+focal pulmonary fibrosis
+hernia
+pulmonary adenomatosis
+pigment dispersion
+barbered
+gastric forestomach papillomatous hyperplasia
+splenic hemosiderosis
+pulmonary interstitial mineralisation
+polyarteritis nodosa
+interstitial mineralization
+renal interstitial mineralisation
+pseudocyesis
+heterotopia
+ovarian bursal cyst
+muscle regeneration
+thyroid follicle pleomorphism
+sialocele
+fracture
+fracture and healing
+intestinal amyloidosis
+meckel's diverticulum
+septic necrosis
+uterine septic necrosis
+homoeotic change
+abnormal organ size
+abnormal organ length
+abnormal organ mass
+abnormal intestine length
+focal hepatic coagulative necrosis
+compression
+spermatocoele
+urelithiasis
+corpora amylacea
+uretolithiasis
+incomplete closure
+pseudoxanthoma elasticum
+encephalomalacia
+phthisis bulbi
+b6 dermatitis
+follicular atresia
+bone marrow granulopoiesis
+inspissation
+intervertebral disk prolapse ventral
+testicular torsion
+trichogranuloma
+malposition
+bilateral retinal degeneration
+cartilagenous embolism
+lymph node reticuloendothelial cell hyperplasia
+reactive splenomegaly
+melena
+psammoma body
+aspermia
+spermatogenesis defect
+hypospermia
+scoliosis
+fat necrosis
+obstruction and stenosis
+intervertebral disk prolapse dorsal
+intervertebral disks prolapsed dorsally and ventrally
+rectal prolapse
+trabecular bone thickening
+cavernous lymphangioma
+cystic hygroma
+lymphangioma circumscriptum
+hygroma
+lymphedema
+nuchal edema
+perforation
+follicular dystrophy
+epicardial mineralization
+blister
+epidermolysis bullosa lesions
+focal hepatic lipidosis
+macrovesicular lipidosis
+microvesicular lipidosis
+hydropic degeneration
+persistent embryonic structure
+goitre
+hypoplastic tissue
+hypoplastic gut associated lymphoid tissue
+myxofibroma
+myofibroma
+vacuolation
+granulomatous dermatitis
+chronic dermatitis
+focal dermatitis
+true hermaphrodite
+septation defect
+regeneration
+multifocal muscle regeneration
+paraphimosis
+subacute inflammation
+ovarian tubulostromal tumor
+acute septic inflammation
+dermal fibrosis
+hepatic mid - zonal fatty metamorphosis
+anaplastic carcinoma
+anaplastic hepatocellular carcinoma
+supernumerary structure
+granulomatous arthritis
+anopthalmia
+coccygeal hemivertebrae
+stasis
+biliary stasis
+partial abortion
+foreign body acute pododermatitis
+granuloma
+effacing granuloma
+anaplastic mammary adenocarcinoma
+transdifferentiation
+post - traumatic structural abnormality
+auricular deformation
+plasmacytosis
+systemic plasmacytosis
+cutaneous plasmacytosis
+splendore - hoeppli phenomenon
+bullous emphysema
+multifocal bullous emphysema
+capillary hemangioma
+botryomycosis
+organ specific developmental defect
+cholecystitis
+edematous cholecystitis
+flatus
+focal ulcerative dermatitis
+otitis externa
+foreign body acute papillomatous glossitis
+gastric adenomatous hyperplasia
+hepatic central vein perivascular fibrosis
+uterine ectasia
+intussception
+germ cell defect
+junctional epidermolysis bullosa
+spinal structural defects
+kyphosis
+micropthalmia
+pneumonia
+foreign body aspiration pneumonia
+gingivitis
+foreign body gingivitis
+reactive fibrosis
+hepatic peri - ductal inflammation
+pneumonitis
+histiocytic pneumonitis
+metastatic tumor
+pulmonary metastasis
+lymphatic metastasis
+onychogryphosis
+cardiovascular developmental defect
+fibrinoid necrosis
+aneurysm
+arteriovenous anastomosis
+cardiac defect
+cardiac septation defect
+valve defect
+hypertrophic ventricle
+hypoplastic ventricle
+dissecting aneurysm
+lymphangiectasis
+part of

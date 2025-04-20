@@ -1,0 +1,785 @@
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+a realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural ,  social or institutional contexts .
+b is a generically dependent continuant = def .
+p is a process boundary =def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+amide derived from two or more amino carboxylic acid molecules  ( the same or different )  by formation of a covalent bond from the carbonyl carbon of one to the nitrogen atom of another with formal loss of water .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing deoxyribose and linked by phosphodiester bonds ;  dna contain the genetic information of organisms .
+any constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer etc . ,  identifiable as a separately distinguishable entity .
+a macromolecule made up of nucleotide units and hydrolysable into certain pyrimidine or purine bases  ( usually adenine ,  cytosine ,  guanine ,  thymine ,  uracil )  ,  d - ribose or 2 - deoxy - d - ribose and phosphoric acid .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing ribose and linked by phosphodiester bonds ;  rna is central to the synthesis of proteins .
+a macromolecule is a molecule of high relative molecular mass ,  the structure of which essentially comprises the multiple repetition of units derived ,  actually or conceptually ,  from molecules of low relative molecular mass .
+a material entity of anatomical origin  ( part of or deriving from an organism )  that has as its parts a maximally connected cell compartment surrounded by a plasma membrane .
+any process specifically pertinent to the functioning of integrated living units: cells ,  tissues ,  organs ,  and organisms .
+any process that results in a change in state or activity of a cell or an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+a measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure .
+a directive information entity that describes an intended process endpoint .
+a directive information entity that describes an action the bearer will take
+a label is a symbol that is part of some other datum and is used to either partially define  the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+software is a plan specification composed of a series of instructions that can be  interpreted by or directly executed by a processing unit .
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+a generically dependent continuant that is about some thing .
+a scalar measurement datum is a measurement datum that is composed of two parts ,  numerals and a unit label .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a dot plot is a report graph which is a graphical representation of data where each data point is represented by a single dot placed on coordinates corresponding to data point values in particular dimensions .
+a diagram that presents one or more tuples of information by mapping those tuples in to a two dimensional space in a non arbitrary way .
+a plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective .
+the curation status of the term .
+a density plot is a report graph which is a graphical representation of data where the tint of a particular pixel corresponds to some kind of function corresponding the the amount of data points relativelly with their distance from the the pixel .
+a data format specification is the information content borne by the document published defining the specification .
+a data item that is an aggregate of other data items of the same type that have something in common .
+an image is an affine projection to a two dimensional surface ,  of measurements of some quality of an entity or entities repeated at regular intervals across a spatial range ,  where the measurements are represented as color and luminosity on the projected on surface .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+a settings datum is a datum that denotes some configuration of an instrument .
+a textual entity that expresses the results of reasoning about a problem ,  for instance as typically found towards the end of scientific papers .
+a material entity in which a concretization of an information content entity inheres .
+a histogram is a report graph which is a statistical description of a distribution in terms of occurrence frequencies of different event classes .
+a heatmap is a report graph which is a graphical representation of data where the values taken by a variable ( s )  are shown as colors in a two - dimensional map .
+a dendrogram is a report graph which is a tree diagram frequently used to illustrate the arrangement of the clusters produced by a clustering algorithm .
+a scatterplot is a graph which uses cartesian coordinates to display values for two variables for a set of data .
+the reason for which a term has been deprecated .
+a textual entity is a part of a manifestation  ( frbr sense )  ,  a generically dependent continuant whose concretizations are patterns of glyphs intended to be interpreted as words ,  formulas ,  etc .
+a textual entity that contains a two - dimensional arrangement of texts repeated at regular intervals across a spatial range ,  such that the spatial relationships among the constituent texts expresses propositions
+an information content entity consisting of a two dimensional arrangement of information content entities such that the arrangement itself is about something .
+a figure that expresses one or more propositions
+a collection of information content entities intended to be understood together as a whole
+a cartesian spatial coordinate datum is a representation of a point in a spatial region ,  in which equal changes in the magnitude of a coordinate value denote length qualities with the same magnitude
+a cartesion spatial coordinate datum that  uses one value to specify a position along a one dimensional spatial region
+a cartesion spatial coordinate datum that  uses two values to specify a position within a two dimensional spatial region
+a cartesion spatial coordinate datum that  uses three values to specify a position within a three dimensional spatial region
+a scalar measurement datum that is the result of measurement of length quality
+a denotator type indicates how a term should be interpreted from an ontological perspective .
+a scalar measurement datum that is the result of measurement of mass quality
+a scalar measurement datum that is the result of measuring a temporal interval
+a planned process in which a document is created or added to by including the specified input in it .
+a line graph is a type of graph created by connecting a series of data points together with a line .
+a crid registry is a dataset of crid records ,  each consisting of a crid symbol and additional information which was recorded in the dataset through a assigning a centrally registered identifier process .
+a data set that is an aggregate of data recording some measurement at a number of time points .
+a software method  ( also called subroutine ,  subprogram ,  procedure ,  method ,  function ,  or routine )  is software designed to execute a specific task .
+ a software module is software composed of a collection of software methods .
+a software library is software composed of a collection of software modules and / or software methods in a form that can be statically or dynamically linked to some software application .
+a software application is software that can be directly executed by some processing unit .
+ a software script is software whose instructions can be executed using a software  interpreter .
+a data transformation that has input of mulitple data and report overall trend of the data .
+a planned process that gathers and measures information on variables of interest ,  in an established systematic fashion that enables one to answer stated research questions ,  test hypotheses ,  and evaluate outcomes .
+a continuous probability distribution that is associated with the f statistic .
+a continuous probability distribution that is a two - parameter family of continuous probability distributions .
+a continuous probability distribution that has a symmetrical curve ,  whose position and shape is determined by its location and scale parameters ,  the mean and standard deviation respectively .
+a continuous probability distribution that is is used to estimate population parameters when the sample size is small and / or when the population variance is unknown .
+a continuous probability distribution of two variables that has the traditional bell shape and the distribution of one variable is normal to each and every value of the other variable .
+a continuous probability that is the distribution of a random variable x if ln ( x )  is normally distributed
+a special case of the pearson product - moment correlation ;  calculated when either the independent variable or dependent variable is dichotomous while the other variable is non - dichotomous
+an information content entity that refers to a distribution of a random variable that can be described using a mathematical formula .
+an information content entity that represents a type of scale on which a variable is measured ,  including nominal ,  ordinal ,  interval ,  ratio .
+a data item that is numerically distant from the rest of the data ;  often indicative either measurement error or that the population has a high kurtosis .
+a statistic measure that is a function of the samples and considered as a numberical summary of a data - set that reduces the data to one value that can be used to perform a hypothesis test .
+a derived data from inferential statistical analysis that is obtained by applying a weighting process to adjust the impact of cases for representing the population from which the data sample is drawn .
+a data item that represents a typical value of a set of values .
+a data item that is the value that appears most frequent in a set of data .
+a statistical measure of agreement for categorical data ;  a measure of inter - rater agreement or inter - annotator agreement .
+a statistical model that an abstract ,  quantitative model of the causal dependencies and other interrelationships among observed or hypothetical models ;  an ordered triple  ,  where u is a set of exogenous variables whose values are determined by factors outside the model ;  v is a set of endogenous variables whose values are determined by factors within the model ;  and e is a set of structural equations that express the value of each endogenous variable as a function of the values of the other variables in u and v .
+a measure of the linear association between two variables that are measured on ordinal ,  interval or ratio scales
+an inferential statistical data analysis that uses measured variation in genes of known function to examine the causal effect of a modifiable exposure on disease in non - experimental studies .
+a statistical model of parameters that vary at more than one level ;  a type of regression model that explicitly takes into account structured / nested data
+an inferential statistical data analysis that is used to analyze data that arises from more than one variable
+a data transformation that is used to calculate the power of a statistical analysis .
+an inferential statistical data analysis that has only one independent variable
+an inferential statistical data analysis that analyze the relationship between two measured quantities that renders them statistically dependent
+a data transformation used in categorical data analysis when the aim is to assess for the presence of an association between a variable with two categories and a variable with k categories .
+a data transformation that combines categories or ranges of values to produce a smaller number of categories
+a measure of the extent to which two variables are associated ;  the extent to which two random variables vary together
+an inferential statistical data analysis used to analyze how well a statistical model fits a set of observations ;  measures of goodness of fit typically summarize the discrepancy between observed values and the values expected under the model in question .
+a kolmogorov - smirnov test that compares two samples .
+a data transformation that is specifically an inferential statistic to assess the equality of variances in different sample ;  tests the null hypothesis that the population variances are equal  ( called homogeneity of variance or homoscedasticity )  .
+a data transformation used for both hypothesis testing and model building to examine the relationship between more than two categorical variables ;  uses a likelihood ratio statistic that has an approximate chi - square distribution when the sample size is large .
+a chi square test that is used on paired nominal data .
+a directive information entity that represents a mathematical relationship which relates changes in a given response to changes in one or more factors .
+partitioning of the overall variation into assignable components
+a directive information entity that shows how changing the settings of a factor changes the response .
+a directive information entity that specifies a data item that can be measured or counted and is used in a statistical analysis .
+a variable specification that specifies a variable that may have a causal impact on both the independent variable and dependent variable ;  ignoring a confounding variable may bias empirical estimates of the causal effect of the independent variable .
+a variable specification that specifies a variable used in statistical analysis to correct ,  adjust ,  or modify the values of a dependent variable ;  an independent variable not manipulated by the investigator
+a variable that has only two categories .
+a quantitative variable can be transformed into a categorical variable ,  called a dummy variable by recoding the values
+a variable postulated to be a predictor of one or more dependent variables ,  and simultaneously predicted by one or more independent variables
+a discrete probability distribution that has the number of successes in a sequence of n independent yes / no experiments ,  each of which yields success with probability p . such a success / failure experiment is also called a bernoulli experiment or bernoulli trial .
+a discrete probability distribution that expresses the probability of a given number of events occurring in a fixed interval of time and / or space if these events occur with a known average rate and independently of the time since the last event .
+a likelihood ratio that is calculated by dividing 1 minus sensitivity by specificity  (  ( 1 - sensitivity )  / specificity )  .
+a likelihood ratio that is calculated by dividing sensitivity by 1 minus specificity  ( sensitivity /  ( 1 - specificity )  )  .
+a data item of an observed or calculated probability of occurrence of an event ,  x ,  in a population related to exposure to a specific hazard ,  infection ,  trauma ;  the number of persons suffering from a disease when the exposed population is known with certainty .
+a data item that refers to the number of true positives and true negatives divided by the total number of observations .
+a data item collected from censoring that the value of a measurement or observation is only partially known .
+a probability density function that is for normal distribution probability
+a data item that refers to the number of new events that have occurred in a specific time interval divided by the population at risk at the beginning of the time interval .
+a validity that refers to the degree to which evidence and theory support the interpretations of test scores  ( as entailed by proposed uses of tests )  .
+a data item that refers to the odds that an individual with a specific condition has been exposed to a risk factor divided by the odds that a control has been exposed .
+a data item that refers to the number of individuals with a given disease at a given point in time divided by the population at risk at a specified point in time or over a specified period of time .
+a data item that equals the incidence in exposed individuals divided by the incidence in unexposed individuals .
+a data item that refers to the extent to which repeated measurements of a relatively stable phenomenon fall closely to each other .
+a data item that measures the proportion of actual positives which are correctly identified as such  ( e .g .
+a data item that refers to the proportion of negatives in a binary classification test which are correctly identified
+a data item that refers to the extent to which a concept conclusion or measurement is well - founded and corresponds accurately to the real world .
+a special case of multiple linear regression in which the relationship between the independent variable x and the dependent variable y is modeled as an nth order polynomial
+a plan specification that provides a detailed outline of which measurements will be taken at what times ,  on which material ,  in what manner ,  and by whom .
+any method of sampling that uses some form of random selection ,  that is ,  one that will ensure that all units in the population have an equal probability or chance of being selected .
+a prevalence rate that occurs at a specific period of time .
+a prevalence rate that occurs at a specific point of time .
+a probability distribution that is associated with continuous variables and has a probability density function .
+a probability distribution that is associated with discrete variables and is characterized by a probability mass function .
+a tabular summary of a set of data showing the number of items in each of several non - overlapping classes or groupings
+a statistical measure of inter - rater agreement or inter - annotator agreement for qualitative  ( categorical )  items .
+a quantitative confidence value that refers to an interval give values within which there is a high probability  ( 95 percent by convention )  that the true population value can be found .
+a quantitative confidence value that is used  in bayesian analysis to describe the range in which a posterior probability estimate is likely to reside .
+a quantitative confidence value that refers to the upper and lower values defining the central 50 percent of observations .
+a quantitative confidence value that equals the percentage of a distribution that is below a specific value .
+a quantitative confidence value that refers to the ability of a study to detect a true difference .
+a component of experimental error that occurs due to natural variation in the process .
+a quantitative confidence value that equals the difference between the largest and smallest observation .
+a quantitative confidence value that measures the variability of data around the mean .
+a quantitative confidence value that refers to the probability of incorrectly concluding that there is a statistically significant difference in a dataset .
+a quantitative confidence value that refers to the probability of incorrectly concluding that there was no statistically significant difference in a dataset .
+a quantitative confidence value that is a general statistical term meaning a systematic  ( not random )  deviation from the true value
+a quantitative confidence value that is the standard deviation of a data set divided by the mean of the same data set ;  a normalized measure of dispersion of a probability distribution
+a quantitative confidence value that represents unexplained variation in a collection of observations ;  comopnents of error include random error and lack of fit error
+a quantitative confidence value that represents theoretical average value of a statistic over an infinite number of samples from the same population ;   the weights correspond to the probabilities in the case of a discrete random variable or densities in the case of a continuous random variable .
+a quantitative confidence value that is a descriptive statistic and can be used to describe how strongly units in the same group resemble each other ;  unlike other correlation measures it operates on data structured as groups ,  rather than data structured as paired observations .
+a quantitative confidence value that has been standardized so that they have variances of 1 .0 ;  produces standardized regression coefficients  ( betas ) 
+a type of regression analysis used for predicting the outcome of a categorical dependent variable
+a form of regression analysis in which observational data are modeled by a function which is a nonlinear combination of the model parameters and depends on one or more independent variables
+a data sampling design that does not use randomization for sample selection
+a data sampling design that uses randomization for sample selection
+a measurement scale consisting of equal - sized units ;  the distance between any two positions is of known size .
+a measurement scale that placing of data into categories ,  without any order or structure  ( see related obi term of categorical measurement datum )  .
+a measurement scale that rankings on which data can be sorted however the size or magnitude of differences between any data points in a class is unknown ,  just that one ranking is greater than the other
+a measurement scale  that is similar to an interval scale ,  i .e .
+a sensitivity that refers to the number of patients with a positive test who have a disease divided by all patients who have the disease .
+a specificity that refers to the number of patients who have a negative test and do not have the disease divided by the number of patients who do not have the disease .
+a statistical effect that is associated with an input variable that has a limited number of levels or in which only a limited number of levels are of interest to the experimenter .
+a statistical effect that represents the role of a variable in an estimated model  ( most often a regression model )  and its effect on the dependent variable .
+a statistical effect that is associated with input variables chosen at random from a population having a large or infinite number of possible values .
+a statistical error that occurs when the analysis omits one or more important terms or factors from the model .
+a statistical error that the null hypothesis is true but has been rejected ;  a test result that indicates a given condition has been fulfilled ,  when it actually has not been fulfilled
+a statistical error that the null hypothesis is false but has been accepted ;  a test result indicates that a condition failed ,  while it actually was successful .
+a statistical hypothesis test in which the test statistic has an f - distribution under the null hypothesis
+a non - parametric test of the null hypothesis that two populations are the same against an alternative hypothesis
+an experimental design where all cells  ( i .e .
+a study design that starts with the outcome of interest and works backward to the exposure .
+a study design that starts with an exposure and moves forward to the outcome of interest ,  even if the data are collected retrospectively .
+a study design in which patients are randomly assigned to two or more interventions .
+a data sampling design that is designed to generate complex samples where sample members do not have equal probability of being selected .
+a statistic test for several similar measures of agreement used with categorical data ;  typically used in assessing the degree to which two or more raters ,  examining the same data ,  agree on assigning data to categories
+a test statistic of whether k samples are from populations with equal variances .
+a statistical variable that specifies a variable describing how ,  rather than when ,  effects will occur by accounting for the relationship between the independent and dependent variables .
+a statistical variable that specifies a variable affecting the direction and / or strength of the relation between dependent and independent variables ;  occurs when the relationship between two variables depends on a third variable
+a weighted data that measures the agreement for categorical data ;  a generalization of the kappa statistics to situations in which the categories are not equal in some respect so weighted by an objective or subjective function
+a center value that separates the higher half from the lower half of the data sample ,  population ,  or probability distribution
+a statistical model containing both fixed effects and random effects ,  that is mixed effects ; 
+a data transformation that represents a mathematical function describing the relative likelihood of a continuous random variable to take on a value .
+a data item that represents an arrangement according to a rank ,  i .e . ,  the position of a particular case relative to other cases on a defined scale .
+a quantitative confidence value that expresses how many times more likely the data are under one model than the other .
+a probability distribution that with k degrees of freedom is the distribution of a sum of the squares of k independent standard normal random variables .
+a data item that is more specifically a rectangular array of numbers ,  symbols ,  or expressions ,  arranged in rows and columns .
+a statistical data analysis that  uses patterns in the sample data to draw inferences about the population represented ,  accounting for randomness .
+a data item that consists of two or more data sets that are produced as the output of a data transformation .
+a data set that is produced as the output of a data transformation .
+a statistical data analysis objective where the aim is to make inference using population sample data .
+a continuous probability distribution that describes the time between events in a poisson process ,  i .e .
+a statistical variable whose value is subject to variations due to chance  ( i .e .
+an objective specification where the aim is to collect data .
+a data collection process that results in a collection of data generated from an experiment ( s )  .
+a data collection by sampling process that results in a collection of data generated from an survey ( s )  .
+a data collection process that results in a collection of data from the literature .
+a statistical variable that is manipulated or controlled in a scientific study to test its effect on a dependent variable ( s )  .
+a data collection process that results in a collection of data from a sampling process .
+a statistical variable that represents the output or effect ,  or is tested to see if it is the effect in an experiment or a modeling .
+a random variable which can take an infinite number of possible values .
+a random variable which may take on only a countable number of distinct values such as 0 ,  1 ,  2 ,  3 ,  4 ,   . . .
+a data item which consists of digits as opposed to letters of the alphabet of special characters
+a plan specification that provides a detailed outline of how data is collected .
+a validity that refers to the validity of a diagnosis ,  and associated diagnostic tests or screening tests in a clinical field such as medicine .
+a data collection by sampling process that results in a collection of data generated from an censoring .
+a normalization data transformation that used to create normalized gene expression level from microarray raw data .
+an inferential statistical data analysis that is established in 2001 by virginia tusher ,  robert tibshirani and gilbert chu ,  for determining whether changes in gene expression are statistically significant .
+a univariate analysis that calculates  the level of a desired signal to the level of background noise to identify which detected signal is more signal than noise .
+a validity that refers to whether an experiment  ( or a study )  is able to scientifically answer the questions it is intended to answer .
+a quantitative confidence value that indicates how well data points fit a statistical model  -  sometimes simply a line or curve .
+a data item with a specific table layout that allows visualization of the performance of an algorithm .
+a contingency table with two rows and two columns that reports the number of false positives ,  false negatives ,  true positives ,  and true negatives .
+an inferential statistical data analysis that determines whether an a priori defined set of genes shows statistically significant ,  concordant differences between two biological states  ( e .g .
+an inferential statistical data analysis used when comparing two related samples ,  matched samples ,  or repeated measurements on a single sample to assess whether their population mean ranks differ  ( i .e .
+a data collection process that results in a collection of data generated from observation ( s )  .
+a data item which is the ratio of observed deaths in the study group to expected deaths in the general population .
+an experimental validity that refers to the degree to which conclusions about the relationship among variables based on the data are correct or âreasonableâ .
+an experimental validity that refers to the degree to which conclusions about causal relationships can be made  ( e .g .
+an experimental validity that refers to the extent to which the  ( internally valid )  results of a study can be held to be true for other cases ,  for example to different people ,  places or times .
+an external validity that refers to the extent to which research results can be applied to real life situations outside of research settings .
+a test validity that refers to the extent to which operationalizations of a construct  ( i .e . ,  practical tests developed from a theory )  do actually measure what the theory says they do .
+a construct validity that refers to the degree to which a measure is correlated with other measures that it is theoretically predicted to correlate with .
+a construct validity that tests whether concepts or measurements that are supposed to be unrelated are ,  in fact ,  unrelated .
+a test validity that determine whether it covers a representative sample of the behavior domain to be measured through systematic examination of the test content .
+a test validity that refers to the correlation between the test and a criterion variable  ( or variables )  taken as representative of the construct .
+a criterion validity that refers to the degree to which the operationalization correlates with other measures of the same construct that are measured at the same time .
+a criterion validity that refers to the degree to which the operationalization can predict  ( or correlate with )  other measures of the same construct that are measured at some time in the future .
+a content validity that refers to the extent to which an abstract theoretical construct can be turned into a specific practical test .
+a content validity that estimates whether a test appears to measure a certain criterion .
+a software that is used for the differential gene expression significance analysis of dna microarray experiments for both standard and time course experiments .
+a software that can be used to produce lists of differentially expressed genes with confidence measures attached .
+a software that is used to identify  transcription factor binding sites in a genome that have been enriched with aligned reads generated from chip - seq technology .
+an inferential statistical data analysis to identify protein - binding regions in a genome sequence from the data generated from a chip - sequencing or chip - chip experiment .
+a differential expression analysis using limma linear model to identify differential expression for microarray data .
+a data transformation that add two or more numbers ,  magnitudes ,  quantities ,  or particulars as determined by or as if by the mathematical process of addition .
+a data item that is produced as the output of a summing data transformation and represents the total value of the input data .
+a data collection process that is conducted  through an online process .
+an online data collection process that extracts data from an online database
+an online data collection process that extracts data from online using a web crawler .
+a data collection process that deals with incommensurate fields in the data .
+a software that is used to browses the world wide web in a methodical ,  automated manner .
+a data transformation process that re - arrange the order of all or part of a set of data items .
+a planned process that generates possible values of missing data
+a data transformation process that transforms incompatible data to compatible data .
+a permutation process that randomly orders a set of data items .
+a multivariate analysis that uncovers the latent structure  ( dimensions )  of a set of variables .
+a multivariate analysis that compares multivariate sample means .
+a regression method of interpolation for which the interpolated values are modeled by a gaussian process governed by prior covariances ,  as opposed to a piecewise - polynomial spline chosen to optimize smoothness of the fitted values .
+an inferential statistical data analysis that estimates parameters of an underlying distribution based on the observed distribution
+a random permutation process that generates a permutation of n items uniformly at random without retries .
+a data transformation process that puts the data items in a set in a certain order .
+a sorting process that sorts a set of data items based on the numberical order .
+a sorting process that sorts a set of data items based on a lexicorgraphic order
+a data processing that applies a deterministic mathematical function to each point in a data set ;  that is ,  each data point zi is replaced with the transformed value yi = f ( zi )  ,  where f is a function .
+a logarithmic transformation that uses the base - 2 logarithm .
+a data transformation that performs an operation of square root .
+a variance - stabilizing transformation that transforms a random variable with a poisson distribution into one with an approximately standard gaussian distribution .
+a data transformation that lists data items in a sequential arrangement
+an information content entity that refers to a number value of a data item .
+a data value that is continuous from an interval of possible outcomes .
+a data value that is discrete ,  ie ,  counted .
+a data value that is an ordinal number ,  ie . ,  a number that tells the position of something in a list .
+a data value that is a cardinal number ,  i .e . ,  a number that says how many of something there are ,  such as one ,  two ,  three ,  four ,  five .
+a mathematic graph that a set of objects  ( vertices or nodes )  that are connected together ,  where all the edges between two objects are bidirectional .
+a data value that is a nominal number ,  ie . ,  a number used only as a name ,  or to identify something  ( not as an actual value or position )  .
+a continuous variable over a particular range of the real numbers is one whose value in that range must be such that ,  if the variable can take values a and b in that range ,  then it can also take any value between a and b .
+a statistical variable over a particular range of real values is one for which ,  for any value in the range that the variable is permitted to take on ,  there is a positive minimum distance to the nearest other permissible value .
+a continuous variable that has order and equal intervals .
+a continuous variable that occur when the measurement is continuous
+a continuous variable that is a continuous positive measurement on a nonlinear scale
+a discrete variable that allows for only qualitative classification
+a nominal variable ,  but its different states are ordered in a meaningful sequence
+a preference variable is a specific discrete variable ,  whose value is either in a decreasing or increasing order .
+a discrete variable which can assume more than one value .
+a probability distribution that represents the probability distribution corresponding to a histogram of data values .
+a normal distribution that is the distribution of a random variable x for which the boxâcox transformation on x follows a truncated normal distribution .
+a mathematic graph that a set of objects  ( vertices or nodes )  that are connected together ,  where all the edges are directed from one object to another .
+a mathematic graph that a set of objects  ( vertices or nodes )  that are connected via numerous semantic relations .
+a disposition that inheres in a population of continuant and is realized in a test process  ( e .g . ,  disease diagnosis )  .
+a mathematic graph that contains a set of objects  ( vertices or nodes )  decomposed into two disjoint sets such that no two objects within the same set are adjacent .
+an information content entity that represents a set of objects  ( vertices or nodes )  where some pairs of objects are connected by links .
+a mathematic graph that a set of objects  ( vertices or nodes )  that are connected in a hierarchical from .
+a data item that is derived from a statistical data analysis .
+a data item that is derived from a descriptive statistical data analysis .
+a data item that is derived from an inferential statistical data analysis .
+a data transformation process that transforms a data set to a normal distribution .
+a data set that follows a probability distribution
+a data set that follows a probability distribution
+a data set that is an aggregate of numerical data item .
+a data collection process that results in a collection of data generated from document ( s )  .
+a data collection process that results in a collection of data generated from emedical record ( s )  .
+a rate of deaths  ( in general ,  or due to a specific cause )  that in a particular population ,  scaled to the size of that population ,  per unit of time .
+a rate of unit shif in a hospital .
+a data item that is produced as the output of a data transformation .
+a data transformation in statistics that processes the data matrix collected from emedical records to a form that is ready for further data analysis .
+a sensitivity disposition that is related to a medical test and inheres in a population of organism .
+a statistical hypothesis test that is not based on any parameterized family of probability distributions .
+a non - parametric test that was proposed by james durbin and is used for for balanced incomplete designs .
+a special case of the durbin test that was proposed by milton frieman and is applicable to complete block designs .
+hl ,  ql ,  yh
+a non - parametric test of the equality of continuous ,  one - dimensional probability distributions that can be used to compare a sample with a reference probability distribution  ( one - sample kâs test )  ,  or to compare two samples  ( two - sample kâs test )  .
+a kolmogorov - smirnov test that compares a sample with a reference probability distribution .
+a non - parametric test that compares the survival distributions of two samples ,  and iis appropriate to use when the data are right skewed and censored  ( technically ,  the censoring must be non - informative )  .
+a chi square test that is applied to sets of categorical data to evaluate how likely it is that any observed difference between the sets arose by chance .
+a chi square test that is used in certain situations when testing for independence in a contingency table .
+a chi square test that is used in the analysis of stratified or matched categorical data .
+a data transformation that is used to calculate a roc curve .
+an inferential statistical data analysis which is used to find the independent components  ( also called factors ,  latent variables or sources )  by maximizing the statistical independence of the estimated components .
+a regression analysis method that the overall solution minimizes the sum of the squares of the residuals made in the results of every single equation .
+a measurement datum that represents the output of a scanner measuring the intensity value for each fluorescent reporter .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+biological_feature_identification_objective is an objective role carried out by the proposition defining the aim of a study designed to examine or characterize a particular biological feature .
+a data set that is produced as the output of a class prediction data transformation and consists of a data set with assigned class labels .
+is a material entity that is created or changed during material processing .
+a measurement datum measuring the amount of light collected s compared to the total amount of emitted light in the detector component of a flow cytometer instrument .
+a planned process that consists of parts: planning ,  study design execution ,  documentation and which produce conclusion ( s )  .
+a role that inheres in a material entity that is realized in an assay in which data is generated about the bearer of the evaluant role
+a planned process with the objective to produce information about the material entity that is the evaluant ,  by physically examining it or its proxies .
+a data item which is used to indicate the degree of uncertainty about a measurement .
+diagnosis is an assessment of a disease or injury ,  its likely prognosis and treatment .
+an emedical record is a digital document derived from a computer system used primarily for patient care in a clinical setting .
+a role inhering in a biological or chemical entity that is intended to be applied in a scientific technique to participate  ( or have molecular components that participate )  in a chemical reaction that facilitates the generation of data about some entity distinct from the bearer ,  or the generation of some specified material output distinct from the bearer .
+a planned process which results in physical changes in a specified input material
+a measurement datum that is the outcome of the quantification of an assay for the activity of a gene ,  or the number of rna transcripts .
+a role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation
+an intervention design is a study design in which a controlled process applied to the subjects  ( the intervention )  serves as the independent variable manipulated by the experimentalist .
+a data set of the names or identifiers of genes that are the outcome of an analysis or have been put together for the purpose of an analysis .
+a measurement datum measuring the number of subjects in a defined subset in a flow cytometer instrument .
+a measurement datum measuring the number of analysis events lost due to errors in data acquisition electronic coincidence in a flow cytometer instrument .
+mixed population of cdnas  ( complementarydna )  made from mrna from a defined source ,  usually a specific cell type .
+a measurement datum measuring the minimal signal that must be detected to generate an electrical event ,  as compared to the maximal detected signal in a flow cytometer instrument .
+a quantitative confidence value that represents the probability of obtaining a result at least as extreme as that actually obtained ,  assuming that the actual value was the result of chance alone .
+methodology_testing_objective is an objective role carried out by a proposition defining the aim of the study is to examine the effect of using different methodologies .
+a quantitative confidence value which is the standard deviations of the sample in a frequency distribution ,  obtained by dividing the standard deviation by the total number of cases in the frequency distribution .
+software_testing_objective is a hardware_optimization role describing a study designed to examine the effects of using different software or software parameters ,  e .g .
+an entity that can bear roles ,  has members ,  and has a set of organization rules .
+a data set which is a subset of data that are a similar to each other in some way .
+organism_feature_identification_objective is a biological_feature_identification_objective role describing a study designed to examine or characterize a biological feature monitored at the level of the organism ,  e .g .
+a measurement datum recording the number of measurement events lost due to overloading of the analysis chip in a flow cytometer instrument .
+a plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents ,  so that different investigation agents will reliably be able to independently reproduce the process .
+is a process with the objective to place a material entity bearing the 'material to be added role' into a material bearing the 'target of material addition role' .
+material to be added role is a protocol participant role realized by a material which is added into a material bearing the target of material addition role in a material addition process
+a planned process in which data gathered in an investigation is evaluated in the context of existing knowledge with the objective to generate more general conclusions or to conclude that the data does not allow one to draw general conclusion
+a process of creating or modifying a plan specification
+a interpreting data that is used to ascribe properties or relations to types based on an observation instance  ( i .e . ,  on a number of observations or experiences )  ;  or to formulate laws based on limited observations of recurring phenomenal patterns .
+is an investigation with the goal to test one or more hypothesis
+is an investigation in which data is generated and analyzed with the purpose of generating new hypothesis
+an information processor function is a function that converts information from one form to another ,  by a lossless process or an extraction process .
+a material to be added role played by a small ,  self - replicating dna or rna molecule  -  usually a plasmid or chromosome  -  and realized in a process whereby foreign dna or rna is inserted into the vector during the process of cloning .
+cloning insert role is a role which inheres in dna or rna and is realized by the process of being inserted into a cloning vector in a cloning process .
+an averaging objective is a data transformation objective where the aim is to perform mean calculations on the input of the data transformation .
+is the specification of an objective to add a material into a target material .
+an objective specification to determine a specified type of information about an evaluated entity  ( the material entity bearing evaluant role ) 
+target of material addition role is a role realized by an entity into which a material is added in a material addition process
+a data set that is produced as the output of a normalization data transformation .
+measure function is a function that is borne by a processed material  and realized in a process in which information about some entity is expressed relative to some reference .
+process data function is a function that is borne by in a material entity by virtue of its structure .
+an objective specifiction that creates an specific output object from input materials .
+a planned process that realizes the concretization of a study design
+dna sequencing is a sequencing process which uses deoxyribonucleic acid as input and results in a the creation of dna sequence information artifact using a dna sequencer instrument .
+a data set that is produced as the output of a class discovery data transformation and consists of a data set with assigned discovered class labels .
+a data set that is produced as the output of a descriptive statistical calculation data transformation and consists of producing a data set that represents one or more features of interest about the input data set .
+is a material processing with the objective to combine two or more material entities as input into a single material entity as output .
+a fuzzy clustering objective is a data transformation objective where the aim is to assign input objects  ( typically vectors of attributes )  a probability that a point belongs to a class ,  where the number of class and their specifications are not known a priori .
+a data set which is the output of a curve fitting data transformation in which the aim is to find a curve which matches a series of data points and possibly other constraints .
+data representational model is an information content entity of the  relationships between data items .
+a planned process with the objective of collecting a specimen .
+a data set that is produced as the output of a background correction data transformation .
+a data set that is produced as the output of an error correction data transformation and consists of producing a data set which has had erroneous contributions from the input to the data transformation removed  ( corrected for )  .
+a class prediction data transformation  ( sometimes called supervised classification )  is a data transformation that has objective class prediction .
+a background correction data transformation  ( sometimes called supervised classification )  is a data transformation that has the objective background correction .
+an error correction data transformation is a data transformation that has the objective of error correction ,  where the aim is to remove  ( correct for )  erroneous contributions from the input to the data transformation .
+a statistical hypothesis test data transformation is a data transformation that has objective statistical hypothesis test .
+a data item that is produced as the output of a center calculation data transformation and represents the center value of the input data .
+is a data transformation objective where the aim is to estimate statistical significance with the aim of proving or disproving a hypothesis by means of some data transformation
+a data set that is produced as the output of a data vector reduction data transformation and consists of producing a data set which has fewer vectors than the input data set .
+a  data item that is produced as the output of an averaging data transformation and represents the average value of the input data .
+a objective specification to obtain a material entity for potential use as an input during an investigation .
+is an objective to obtain an output material that contains several input materials .
+a support vector machine is a data transformation with a class prediction objective based on the construction of a separating hyperplane that maximizes the margin between two data sets of vectors in n - dimensional space .
+a self - organizing map  ( som )  is an artificial neural network with objective class discovery that uses a neighborhood function to preserve the topological properties of a dataset to produce low - dimensional  ( typically 2 )  discretized representation of the training data set .
+a decision tree induction objective is a data transformation objective in which a tree - like graph of edges and nodes is created and from which the selection of each branch requires that some type of logical decision is made .
+a decision tree building data transformation is a data transformation that has objective decision tree induction .
+is a process which results in the creation of a library from fragments of dna using cloning vectors or oligonucleotides with the role of adaptors .
+a software that provides access to more than 100 tools for gene expression analysis ,  proteomics ,  snp analysis and common data processing tasks .
+is a collection of short paired tags from the two ends of dna fragments are extracted and covalently linked as ditag constructs
+peak matching is a data transformation performed on a dataset of a graph of ordered data points  ( e .g .
+a k - nearest neighbors is a data transformation which achieves a class discovery or partitioning objective ,  in which an input data object with vector y is assigned to a class label based upon the k closest training data set points to y ;  where k is the largest value that class label is assigned .
+a recombinant vector is created by a recombinant vector cloning process ,  and contains nucleic acids that can be amplified .
+is a collection of short tags from dna fragments ,  are extracted and covalently linked as single tag constructs
+a cloning vector is an engineered material that is used as an input material for a recombinant vector cloning process to carry inserted nucleic acids .
+studen't t - test is a data transformation with the objective of a statistical hypothesis test in which the test statistic has a student's t distribution if the null hypothesis is true .
+a clustered data set in which the topology ,  i .e .
+a cart  ( classification and regression trees )  is a data transformation method for producing a classification or regression model with a tree - based structure .
+a directive information entity that is part of a study design .
+dependent variable specification is part of a study design .
+a measurement data that represents the percentage of people or animals in a study or treatment group who are alive for a given period of time after diagnosis or initiation of monitoring .
+a multiple testing correction objectives is a data transformation objective where the aim is to correct for a set of statistical inferences considered simultaneously
+a data transformation which assesses how the results of a statistical analysis will generalize to an independent data set .
+a measurement datum which represents information about an ordered series of action potentials in an organism's cns measured over time .
+a quality of a dna molecule that inheres in its bearer due to the order of its dna nucleotide residues .
+a device in which a measure function inheres .
+likelihood - ratio is a data transformation which tests whether there is evidence of the need to move from a simple model to a more complicated one  ( where the simple model is nested within the complicated one )  ;  tests of the goodness - of - fit between two models .
+a pattern matching objective aims to detect the presence of the constituents of a given pattern .
+the part of the execution of an intervention design study which is varied between two or more subjects in the study
+a measurement datum that is reported on a categorical scale
+a handedness assay measures the unequal distribution of fine motor skill between the left and right hands typically in human subjects by means of some questionnaire and scoring procedure .
+an intervention design in which the treatment is the administration of a compound
+a label that is part of a categorical datum and that indicates the value of the data item on the categorical scale .
+a material entity that is designed to perform a function in a scientific investigation ,  but is not a reagent .
+a directive information entity that describes the dose that will be administered to a target
+a measurement datum which is the result of combining multiple datum .
+a measurement datum that representing the primary structure of a macromolecule ( it's sequence )  sometimes associated with an indicator of confidence of that measurement .
+a datum used to record the answer to a self assessment of whether a person uses their left hand ,  right hand primarily or each hand equally
+a measurement datum that measures the quantity of something that may be administered to an organism or that an organism may be exposed to .
+a study design in which the independent variable is the environmental condition in which the specimen is growing
+the interpretation of the information available about bodily features  ( clinical picture )  of a patient resulting in a diagnosis
+a score that measures the dominance of a person's right or left hand in everyday activities .
+the directed combination of a material entity with a specimen .
+the collection of material entities and their qualities that are located near a live organism ,  tissue or cell and can influence its growth .
+a document with a set of printed or written questions with a choice of answers ,  devised for the purposes of a survey or statistical study .
+the edinburgh handedness assay is an assay in which a set of questions  = the edinburgh handedness inventory  -  is asked and the answers to these questions are turned into a score ,  used to assess the dominance of a person's right or left hand in everyday activities .
+a planed process with objective of obtaining quantified values from an image .
+a binding datum about the disposition of two or more material entities to form complexes which comes in the form of a scalar and unit that are utilized in equations that model the binding process
+a material entity ,  organism or cell ,   that is the output of a genetic transformation process .
+a material transformation objective aims to create genetically modified organism or cell
+a measurement datum that describes the structural orientation of a material entity in 3d space .
+an age measurement datum that is the result of the measurement of the age of an organism since planting ,  the process of placing a plant in media  ( e .g .
+an age measurement datum that is the result of the measurement of the age of an organism since hatching ,  the process of emergence from an egg .
+an assay that measures the duration of temporal interval of a process that is part of the life of the bearer ,  where the initial time point of the measured process is the beginning of some transitional state of the bearer such as birth or when planted .
+an age measurement datum that is the result of the measurement of the age of an organism since egg laying ,  the process of the production of egg ( s )  by an organism .
+an age measurement datum that is the result of the measurement of the age of an organism since germination ,  the process consisting of physiological and developmental changes by a seed ,  spore ,  pollen grain  ( microspore )  ,  or zygote that occur after release from dormancy ,  and encompassing events prior to and including the first visible indications of growth .
+an age measurement datum that is the result of the measurement of the age of an organism since eclosion ,  the process of emergence of an adult insect from its pupa or cocoon .
+an age measurement datum that is the result of the measurement of the age of an organism since sowing ,  the process of placing a seed or spore in some media with the intention to invoke germination .
+an age measurement datum that is the result of the measurement of the age of an organism since coitus ,  the process of copulation that occurs during the process of sexual reproduction .
+a time measurement datum that is the result of measurement of age of an organism
+an age measurement datum that is the result of the measurement of the age of an organism since fertilization ,  the process of the union of gametes of opposite sexes during the process of sexual reproduction to form a zygote .
+an age measurement datum that is the result of the measurement of the age of an organism since birth ,  the process of emergence and separation of offspring from the mother .
+the time it takes for 50% of a class of stochastic processes to occur .
+a data item of paired values ,  one indicating the dose of a material ,  the other quantitating a measured effect at that dose .
+half maximal effective concentration  ( ec50 )  is a scalar measurement datum corresponding to the concentration of a compound which induces a response halfway between the baseline and maximum after some specified exposure time .
+a data item that states if two or more material entities have the disposition to form a complex ,  and if so ,  how strong that disposition is .
+a binding datum that states that there is no significant disposition of two or more entities to form a complex
+half maximal inhibitory concentration  ( ic50 )  is a scalar measurement datum that measures the effectiveness of a compound to competitively inhibit a given process ,  and corresponds to the concentration of the compound at which it reaches half of its maximum inhibitory effect .
+a study design that tests different normalization procedures .
+a genetic characteristics information which is a part of genotype information that identifies the population of organisms
+a quantitative confidence value resulting from a multiple testing error correction method which adjusts the p - value used as input to control for type i error in the context of multiple pairwise tests
+a genotype information about an organism and includes information that there are no known modifications to the genetic background .
+a genetic characteristics information that is about the genetic material of an organism and minimally includes information about the genetic background and can in addition contain information about specific alleles ,  genetic modifications ,  etc .
+a genetic alteration information that about one of two or more alternative forms of a gene or marker sequence and differing from other alleles at one or more mutational sites based on sequence .
+a study design in which a modification of the transcriptome ,  proteome  ( not genome )  is made ,  for example rnai ,  antibody targeting .
+a genetic characteristics information that is about known changes or the lack thereof from the genetic background ,  including allele information ,  duplication ,  insertion ,  deletion ,  etc .
+an allele information that is about the allele found most frequently in natural populations ,  or in standard laboratory stocks for a given organism .
+a study design in which the response of an organism ( s )  to the stress or stimulus is studied ,  e .g .
+a data item that is about genetic material including polymorphisms ,  disease alleles ,  and haplotypes .
+a study design that examines the relationship between the size of the administered dose and the extent of the response .
+a quantitative confidence value that measures the minimum false discovery rate that is incurred when calling that test significant .
+a study design in which an organism ( s )  is studied that has had genetic material removed ,  rearranged ,  mutagenized or added ,  such as in a knock out .
+a lowess transformation where a potentially different normalization curve is generated and used for two or more groups  ( delineated by some criteria )  ;  criteria could include blocks  ( e .g .
+a data transformation of normalizing ratio data by using a locally weighted polynomial regression  ( typically after a log transformation )  .
+a lowess transformation where the same normalization curve is used for all members of the data set ;  e .g .
+a time measurement datum when an observation is made or a sample is taken from a material as measured from some reference point .
+a scalar measurement datum that indicates the lowest concentration at which a specific compound significantly inhibits a process from occurring compared to in the absence of the compound .
+an algorithm used to assemble individual sequence reads into larger contiguous sequences  ( contigs )  .
+a 3d structural organization datum capturing the results of x - ray crystallography or nmr experiment that is formatted as specified by the protein databank  ( http: /  / www .wwpdb .org / docs .html )  .
+a binding constant defined as the ratio of kon over koff  ( on - rate of binding divided by off - rate ) 
+interpreting data from assays that evaluate the qualities or dispositions inhering in an organism or organism part and comparing it to data from other organisms to make a conclusion about a phenotypic difference
+a binding constant defined as the ratio of koff over kon  ( off - rate of binding divided by on - rate ) 
+a scalar measurement datum that represents the number of events occuring over a time interval
+a binding datum that specifies the temperature at which half of the binding partners are forming a complex and the other half are unbound .
+a measurement of an ic50 value under specific assay conditions approximates kd ,  namely the binding reaction is at an equilibrium ,  there is a single population of sites on the receptor that competitor and ligand are binding to ,  and the concentration of the receptor must be much less than the kd for the competitor and the ligand .
+a sequence data item that is about the primary structure of dna
+interpreting data from assays that evaluate the qualities or dispositions inhering in an organism or organism part and comparing it to data from other organisms that have a defined genetic difference ,  and assigning a property to the product of the targeted gene as a result .
+a measurement of an ec50 value under specific assay conditions approximates kd ,  namely the binding reaction is at an equilibrium ,   and the concentration of the receptor must be much less than the kd for the ligand .
+a half life datum of the time it takes for 50% of bound complexes in an ensemble to disassociate in absence of re - association .
+the process of material entities forming complexes .
+a 3d structural organization datum that is part of a pdb file and has a specific chain identifier that identifies the entire information on a subset of the material entities
+a rate measurement datum of how quickly bound complexes disassociate
+a rate measurement datum of how quickly bound complexes form
+an average value of the depth of sequence coverage based both on external  ( e .g .
+a time measurement datum that is the measure of the time when the specimens are collected .
+a measurement datum that is the measure of the latitude coordinate of a site .
+a measurement datum that is the measure of the longitude coordinate of a site .
+a planned process in which new information is inferred from existing information .
+a data transformation that assembles two or more individual sequence reads into contiguous sequences  ( i .e . ,  contigs )  .
+a data item that is the number of times that a given process failed ,  as an integer
+random access memory size is a scalar measurement datum which denotes the amount of physical memory know as random access memory present of a computer or required by a computational process or data transformation
+random - access memory  ( ram )  is a form of computer data storage .
+an information content entity that expresses an assertion that is intended to be tested .
+an information content entity that is inferred from data .
+computation run time is a time measurement datum which corresponds the time expressed in second ,  minute ,  hour necessary for a computer program to complete a process execution ,  for example genome assembly .
+a value specification that is specifies one category out of a fixed number of nominal categories
+a value specification that consists of two parts: a numeral and a unit label
+an information content entity that specifies a value within a classification scheme or on a quantitative scale .
+a data item that is the total number of bases in reads ,  divided by genome size ,  assumed to be the reference size  ( for instance of 3 .10 gb for human and 2 .73 gb for mouse )  and refers to the percentage of the genome that is contained in the assembly based on size estimates ;  these are usually based on cytological techniques .
+the weighted median item size or n50 is a weighted median of the lengths of items ,  equal to the length of the longest item i such that the sum of the lengths of items greater than or equal in length to i is greater than or equal to half the length of all of the items .
+n50 statistic computed for the contigs produced by the assembly process .
+n50 statistic computed for the scaffold produced by the assembly process .
+a planned process which consists in running a set of samples as a pool in one single instrument run of data acquisition process while retaining the ability to associate individual results to each of the individual input samples thanks to the use of a multiplex identifier ,  introduced during the ligation step of the individual library preparation and specific to a given sample .
+is a data transformation which uses sequence alignment and  'multiplex identifier sequence' information to pull together all reads belonging to a given single sample following the sequencing of a multiplexed library which combining several samples in one sequencing event
+a multiplexing sequence identifier is a nucleic acid sequence which is used in a ligation step of library preparation process to allow pooling of samples while maintaining ability to identify individual source material and creation of a multiplexed library
+operational taxonomic unit matrix  is a data item ,  organized as a table ,  where organismal taxonomic units ,  computed by sequence analysis and genetic distance calculation ,  are counted in a set of biological or environmental samples .
+a multiplexed library is a material entity which is the output of a library preparation process that uses a ligation step to attach a unique multiplexing sequence identifier to a specific sample ,  then mixes several such tagged samples prior to the library amplification process proper .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a material entity that has the specimen role .
+a planned process that produces output data from input data .
+a logistic - log curve fitting is a curve fitting where a curve of the form y=d +  (  ( a - d )  /  ( 1 +  ( x / c ) ^b )  )  is obtained ,  where a ,  b ,  c ,  and d are determined so to optimize its fit to the input data points  ( x_1 ,  y_1 )  ,   ( x_2 ,  y_2 )  ,   . . . ,   ( x_n ,  y_n )  .
+a logit - log curve fitting is a curve fitting where first the limits y_0 an y_infty of y when x -  > 0 and x -  > infinity ,  respectively ,  are estimated from the input data points  ( x_1 ,  y_1 )  ,   ( x_2 , y_2 )  ,   . . . ,   ( x_n ,  y_n )  .
+a log - log curve fitting is a curve fitting where first a logarithmic transformation is applied both to the x and the y coordinates of the input data points  ( x_1 ,  y_1 )  ,   ( x_2 ,  y_2 )  ,   . . . ,   ( x_n ,  y_n )  ,  and then coefficients a and b are determined to optimize the fit of log ( y ) =a + b*log ( x )  to these input data points .
+a feature extraction objective is a data transformation objective where the aim of the data transformation is to generate quantified values from a scanned image .
+a biexponential transformation is a data transformation that ,  for each  ( one dimensional )  real number input x ,  outputs an approximation  ( found ,  e .g .
+a box - cox transformation is a data transformation according to the methods of box and cox as described in the article box ,  g . e . p . and cox ,  d .r .
+a hyperlog transformation ia a data transformation that ,  for each  ( one dimensional )  real number input x ,  outputs an approximation  ( found ,  e .g .
+a loess scale group transformation one - channel is a loess scale group transformation consisting in the application of a scale adjustment following a loess group transformation one - channel ,  to render the m group variances similar .
+a logical transformation is a data transformation that ,  for each  ( one dimensional )  real number input x ,  outputs an approximation  ( found ,  e .g .
+a loess scale group transformation two - channel is a loess scale group transformation consisting in the application of a scale adjustment following a loess group transformation two - channel ,  to render the m group variances similar .
+a loess global transformation one - channel is a loess global transformation in the special case where the input is the result of an ma transformation applied to intensities from two related one - channel assays .
+a split - scale transformation is a data transformation which is an application of a function f described as follows to a  ( one dimensional )  real number input .
+a loess global transformation two - channel is a loess global transformation in the special case where the input the result of an ma transformation applied to intensities from the two channels of a two - channel assay .
+a sine transformation is a data transformation which consists in applying the sine function to a  ( one dimensional )  real number input .
+a cosine transformation is a data transformation which consists in applying the cosine function to a  ( one dimensional )  real number input .
+a loess group transformation one - channel is a loess group transformation in the special case where the input is the result of an ma transformation applied to intensities from two related one - channel assays .
+a loess group transformation two - channel is a loess group transformation in the special case where the input is the result of an ma transformation applied to intensities from the two channels of a two - channel assay .
+a homogeneous polynomial transformation is a polynomial transformation where all the term of the polynomial have the same degree .
+a linlog transformation is a data transformation ,  described in pmid 16646782 ,  whose input is a matrix  [ y_ik ]  and whose output is a matrix obtained by applying formula  ( 9 )  of this paper ,  where values below an appropriately determined threshold  ( dependent on the row i )  are transformed via a polynomial of degree 1 ,  and values above this threshold are transformed via a logarithm .
+a variance stabilizing transformation is a data transformation ,  described in pmid 12169536 ,  whose input is a matrix  [ y_ik ]  and whose output is a matrix obtained by applying formula  ( 6 )  in this paper .
+a loess global transformation is a loess transformation where only one loess fitting is performed ,  utilizing one subset of  ( or possibly all of )  the data points in the input so that there is only one resulting loess curve y=f ( x )  which is used for the transformation .
+a loess group transformation is a loess transformation where the input is partitioned into groups and for each group a loess fitting is performed ,  utilizing a subset of  ( or possibly all of )  the data points in that group .
+a loess scale group transformation is a data transformation consisting in the application of a scale adjustment following a loess group transformation ,  to render the group variances for the second variable  ( y )  similar .
+a total intensity transformation single is a data transformation that takes as input an n - dimensional  ( real )  vector and multiplies each component of this vector by a coefficient ,  where the coefficient is obtained by taking the sum of the input components or of a subset of these ,  multiplied by a constant of choice .
+a total intensity transformation paired is a data transformation that takes as input two n - dimensional  ( real )  vectors and multiplies each component of the first vector by a coefficient ,  where the coefficient is obtained by taking the ratio of the sum of the second input components or of a subset of these by the sum of the first input components or of a subset of these  ( the same subset is used for the two vectors )  .
+a quantile transformation is a data transformation that takes as input a collection of data sets ,  where each can be thought as an n - dimensional  ( real )  vector ,  and which transforms each data set so that the resulting output data sets have equal quantiles .
+a mean centering is a data transformation that takes as input an n - dimensional  ( real )  vector ,  performs a mean calculation on its components ,  and subtracts the resulting mean from each component of the input .
+a median centering is a data transformation that takes as input an n - dimensional  ( real )  vector ,  performs a median calculation on its components ,  and subtracts the resulting median from each component of the input .
+a differential expression analysis objective is a data transformation objective whose input consists of expression levels of entities  ( such as transcripts or proteins )  ,  or of sets of such expression levels ,  under two or more conditions and whose output reflects which of these are likely to have different expression across such conditions .
+k - fold cross - validation randomly partitions the original sample into k subsamples .
+is a data transformation :  leave - one - out cross - validation  ( loocv )  involves using a single observation from the original sample as the validation data ,  and the remaining observations as the training data .
+jacknifing is a re - sampling data transformation process used to estimate the precision of sampling statistics and is a resampling method
+bootstrapping is a statistical method for estimating the sampling distribution of a statistic by sampling with replacement from the original data ,  most often with the purpose of deriving robust estimates of standard errors and confidence intervals of a population parameter like a mean ,  median ,  proportion ,  odds ratio ,  correlation coefficient or regression coefficient
+a data transformation process in which the benjamini and hochberg method sequential p - value procedure  is applied with the aim of correcting false discovery rate
+a pareto scaling is a data transformation that divides all measurements of a variable by the square root of the standard deviation of that variable .
+molecular decomposition is the partition of a network into distinct subgraphs for the purpose of identifying functional clusters .
+a k - means clustering is a data transformation which achieves a class discovery or partitioning objective ,  which takes as input a collection of objects  ( represented as points in multidimensional space )  and which partitions them into a specified number k of clusters .
+a hierarchical clustering is a data transformation which achieves a class discovery objective ,  which takes as input data item and builds a hierarchy of clusters .
+an average linkage hierarchical clustering is an agglomerative hierarchical clustering which generates successive clusters based on a distance measure ,  where the distance between two clusters is calculated as the average distance between objects from the first cluster and objects from the second cluster .
+an agglomerative hierarchical clustering which generates successive clusters based on a distance measure ,  where the distance between two clusters is calculated as the maximum distance between objects from the first cluster and objects from the second cluster .
+a single linkage hierarchical clustering is an agglomerative hierarchical clustering which generates successive clusters based on a distance measure ,  where the distance between two clusters is calculated as the minimum distance between objects from the first cluster and objects from the second cluster .
+a data transformation in which the benjamini and yekutieli method is applied with the aim of correcting false discovery rate
+a dimensionality reduction is data partitioning which transforms each input m - dimensional vector  ( x_1 ,  x_2 ,   . . . ,  x_m )  into an output n - dimensional vector  ( y_1 ,  y_2 ,   . . . ,  y_n )  ,  where n is smaller than m .
+a principal components analysis dimensionality reduction is a dimensionality reduction achieved by applying principal components analysis and by keeping low - order principal components and excluding higher - order ones .
+a probabilistic algorithm is one which involves an element of probability or randomness in the transformation of the data .
+em is a probabilistic algorithm used to estimate the maximum likelihood of parameters from existing data where the model involves unobserved latent variables .
+a network graph quality calculation in which an input data set of subgraph modules and their in - degree and out - degree qualities is used to calculate the average modularity of subgraphs within the network .
+a dye swap merge is a replicate analysis which takes as input data from paired two - channel microarray assays where the sample labeled with one dye in the first assay is labeled with the other dye in the second assay and vice versa .
+a moving average is a data transformation in which center calculations ,  usually mean calculations ,  are performed on values within a sliding window across the input data set .
+a replicate analysis is a data transformation in which data from replicates are combined ,  e .g .
+a b cell epitope prediction takes as input an antigen sequence ,  and through an analysis of this sequence ,  produces as output a prediction of the likelihood the biomaterial is a b cell epitope .
+an mhc binding prediction takes an input of a biomaterial sequence and through an analysis of this sequence ,  produces as output a prediction of the likelihood that the biomaterial will bind to an mhc molecule .
+a t cell epitope prediction takes as input an antigen sequence ,  and through an analysis of this sequence ,  produces as output a prediction of the likelihood the biomaterial is a t cell epitope .
+imputation is a means of filling in missing data values from a predictive distribution of the missing values .
+a continuum mass spectrum is a data transformation that contains the full profile of the detected signals for a given ion .
+quantifying subgraph navigability based on shortest - path length averaged over all pairs of subgraph vertices
+a centroid mass spectrum is a data transformation in which many points are used to delineate a mass spectral peak ,  is converted into mass - centroided data by a data compression algorithm .
+a data transformation that performs more than one hypothesis test simultaneously ,  a closed - test procedure ,  that  controls the familywise error rate for all the k hypotheses at level ?
+edge weighting is the substitution or transformation of edge length using numerical data .
+a loess transformation is a data transformation that takes as input a collection of real number pairs  ( x ,  y )  and ,  after performing  ( one or more )  loess fittings ,  utilizes the resulting curves to transform each  ( x ,  y )  in the input into  ( x ,  y - f ( x )  )  where f ( x )  is one of the fitted curves .
+a curve fitting is a data transformation that has objective curve fitting and that consists of finding a curve which matches a series of data points and possibly other constraints .
+a family wise error rate correction method is a multiple testing procedure that controls the probability of at least one false positive .
+a submatrix extraction is a projection whose input is a matrix and whose output is a matrix obtained by selecting certain rows and columns from the input .
+a row submatrix extraction is a submatrix extraction where all the columns of the input matrix are retained and selection only occurs on the rows .
+a column submatrix extraction is a submatrix extraction where all the rows of the input matrix are retained and selection only occurs on the columns .
+gating is a property - based vector selection with the objective of partitioning a data vector set into vector subsets based on dimension values of individual vectors  ( events )  ,  in which vectors represent individual physical particles  ( often cells )  of a sample and dimension values represent light intensity qualities as measured by flow cytometry .
+a descriptive statistical calculation objective is a data transformation objective which concerns any calculation intended to describe a feature of a data set ,  for example ,  its center or its variability .
+a mean calculation is a descriptive statistics calculation in which the mean is calculated by taking the sum of all of the observations in a data set divided by the total number of observations .
+a data transformation that takes as input data that describes biological networks in terms of the node  ( a .k .a .
+a sequence analysis objective is a data transformation objective which aims to analyse some ordered biological data for sequential patterns .
+longitudinal analysis is a data transformation used to perform repeated observations of the same items over long periods of time .
+a data transformation objective which has the data transformation aims to model time to event data  ( where events are e .g .
+a data transformation which has the objective of spectrum analysis .
+a spread calculation is a data transformation that has objective spread calculation .
+a nonparametric  ( actuarial )  data transformation technique for estimating time - related events .
+a multiple testing correction method is a hypothesis test performed simultaneously on m  >  1 hypotheses .
+a data transformation objective of determining the concordance or agreement between human judges .
+is a data transformation process in which the westfall and young method is applied with the aim of controlling for multiple testing
+a polynomial transformation is a data transformation that is obtained through a polynomial ,  where a polynomial is a mathematical expression involving a sum of powers in one or more variables multiplied by coefficients  ( e .g .
+a logarithmic transformation is a data transformation consisting in the application of the logarithm function with a given base a  ( where a > 0 and a is not equal to 1 )  to a  ( one dimensional )  positive real number input .
+an exponential transformation is a data transformation consisting in the application of the exponential function with a given base a  ( where a > 0 and a is typically not equal to 1 )  to a  ( one dimensional )  real number input .
+non negative matrix factorization is a data transformation in which factorises a matrix and which forces that all elements must be equal to or greater than zero .
+soft independent modeling by class analogy  ( simca )  is a descriptive statistics method for supervised classification of data .
+discriminant function analysis is a form of discriminant analysis used to determine which variables discriminate between two or more naturally occurring groups .
+canonical variate analysis is a form of discriminant analysis that takes several continuous predictor variables and uses the entire set to predict several criterion variables ,  each of which is also continuous .
+linear discriminant functional analysis  ( ldfa )  is a multivariate technique used in special applications where there are several intact groups  ( random assignment may be impossible )  and they have been measured on several independent measures .
+regression analysis is a descriptive statistics technique that examines the relation of a dependent variable  ( response variable )  to specified independent variables  ( explanatory variables )  .
+multiple linear regression is a regression method that models the relationship between a dependent variable y ,  independent variables xi ,  i = 1 ,   . . . ,  p ,  and a random term epsilon .
+the principal component regression method is a regression analysis method that combines the principal component analysis  ( pca ) spectral decomposition with an inverse least squares  ( ils )  regression method to create a quantitative model for complex samples .
+partial least squares regression is an extension of the multiple linear regression model  ( see ,  e .g . ,  multiple regression or general stepwise regression )  .
+discriminant function analysis is used to determine which variables discriminate between two or more naturally occurring groups .
+pls discriminant analysis  ( pls - da )  is a discriminant analysis performed in order to sharpen the separation between groups of observations ,  by hopefully rotating pca  ( principal components analysis )  components such that a maximum separation among classes is obtained ,  and to understand which variables carry the class separating information .
+an eh transformation is a data transformation obtained by applying the function eh described in what follows to a  ( one dimensional )  real number input .
+a b transformation is a data transformation obtained by applying the function b described in what follows to a  ( one dimensional )  real number input .
+an s transformation is a data transformation obtained by applying the function s described in what follows to a  ( one dimensional )  real number input .
+an planned process that creates images ,  diagrams or animations from the input data .
+a similarity calculation is a data transformation that attaches to each pair of objects in the input a number that is meant to reflect how 'close' or 'similar' those objects are .
+an euclidean distance calculation is a similarity calculation that attaches to each pair of real number vectors of the same dimension n the square root of the sum of the square differences between corresponding components .
+a pearson correlation coefficient calculation is a similarity calculation which attaches to each pair of random variables x and y the ratio of their covariance by the product of their standard deviations .
+a loess fitting is a curve fitting obtained by localized regression .
+a mode calculation is a descriptive statistics calculation in which the mode is calculated which is the most common value in a data set .
+a quantile calculation is a descriptive statistics calculation in which the kth quantile is the data value for which an approximate k fraction of the data is less than or equal to that value .
+a median calculation is a  descriptive statistics calculation in which the midpoint of the data set  ( the 0 .5 quantile )  is calculated .
+a variance calculation is a descriptive statistics calculation in which the variance is defined as the average squared distance of each observation in the data set to the mean of the data set .
+a standard deviation calculation is a descriptive statistics calculation defined as the square root of the variance .
+the interquartile range is a descriptive statistics calculation defined as the difference between the 0 .75 quantile and the 0 .25 quantile for a set of data .
+a skewness calculation is a descriptive statistics calculation defined as a parameter that describes how much a distribution  ( or a data set )  varies from a bell - shaped curve .
+a kurtosis calculation is a descriptive statistics calculation defined as a parameter that measures how large or small the tails of a distribution are relative to the mean .
+a data transformation in which individual input data elements and values are merged together into a output set of data elements and values .
+a network analysis in which an input data set describing objects and relationships between objects is transformed into an output representation of these objects as nodes and the relationships as edges of a network graph .
+a network graph construction in which an input data set describing objects and quantitative relationships between objects is transformed into and output representation of these objects as nodes and the quantitative relationships as weighted edges of a network graph .
+a network graph construction in which an input data set describing objects and directional relationships between objects is transformed into and output representation of these objects as nodes and the directional relationships as directed edges of a network graph .
+a network analysis in which an input data set describing node objects and edge relationships between node objects is used to determine the output quality of one of the node objects in the network .
+a node quality calculation in which an input data set describing object nodes and relationship edges between object nodes is used to enumerate the number of unique relationships of an individual object node .
+a node quality calculation in which an input data set describing object nodes and quantitative relationship edges between object nodes is used to sum all of the quantitative relationships of an individual object node .
+a node quality calculation in which an input data set describing object nodes and directional relationship edges between object nodes is used to enumerate the number of unique relationships pointing into an individual object node .
+a node quality calculation in which an input data set describing object nodes and directional relationship edges between object nodes is used to enumerate the number of unique relationships pointing out of an individual object node .
+a node quality calculation in which a path describing the shortest path needed to transverse through connected nodes and edges to arrive at a specific target node in the network .
+a network analysis in which an input data set describing node objects and edge relationships between node objects is used to determine the output quality of one of the edge relationships in the network .
+an edge quality calculation in which the input is a data sets of shortest paths between all pairs of node in the network and the output is the sum of all shortest paths that traverse the specific edge .
+a network analysis in which an input data set describing node objects and edge relationships between node objects is used to determine the output quality of a subgraph partition of the network .
+a network subgraph quality calculation in which an input data set describing subgraphs and relationship edges between subgraphs and other network objects is used to enumerate the number of unique relationships of an individual subgraph .
+a network subgraph quality calculation in which an input data set describing subgraphs and quantitative relationship edges between subgraphs and other network objects is used to sum the quantitative relationships of an individual subgraph .
+feature is a  ( parent_class )  that describes a characteristic ,  trait or quality of a data transformation
+the log base is a feature of a logarithmic function which is defined in http: /  / en .wikipedia .org / wiki / logarithm .
+a network subgraph quality calculation in which an input data set describing subgraphs and directional relationship edges between subgraphs and other network objects is used to enumerate the number of unique relationships pointing into an individual subgraph .
+a network subgraph quality calculation in which an input data set describing subgraphs and relationship edges between subgraphs and other network objects is used to enumerate the number of unique relationships pointing out of an individual subgraph .
+a network subgraph quality calculation in which an input data set describing internal nodes ,  edges and node degrees is used to determine the average node degree within the subgraph .
+a network subgraph quality calculation in which an input data set of subgraph in - degree and out - degree qualities is used to calculate the ratio of indegree to outdegree as a measure of modularity .
+a network analysis in which an input data set describing node objects and edge relationships between node objects is used to determine the output quality of the network as a whole .
+a unit - variance scaling is a data transformation that divides all measurements of a variable by the standard deviation of that variable .
+an ma transformation is a data transformation which takes as input a collection of data points  ( g_1 ,  r_1 )  ,   ( g_2 ,  r_2 )  ,   . . . ,   ( g_n ,  r_n )   with the r_i and g_i positive real numbers ,  and whose output is the collection of data points  ( a_1 ,  m_1 )  ,   ( a_2 ,  m_2 )  ,   . . . ,   ( a_n ,  m_n )  where ,  for each i ,  a_i= ( log ( g_i )  + log ( r_i )  )  / 2 and m_i=log ( r_i )  - log ( g_i )  .
+the exponential base is a feature of an exponential function which is defined in http: /  / en .wikipedia .org / wiki / exponential_function .
+the polynomial degree is a feature of a polynomial function defined as the highest power of the polynomial's terms ,  where the terms of a polynomial are the individual summands with the coefficients omitted .
+the number of variables is a feature of any function  ( including polynomial functions )  with domain contained in an n - dimensional vector space and is defined as n ,  the dimension of such space .
+an agglomerative hierarchical clustering is a hierarchical clustering which starts with separate clusters and then successively combines these clusters until there is only one cluster remaining .
+a divisive hierarchical clustering is a hierarchical clustering which starts with a single cluster and then successively splits resulting clusters until only clusters of individual objects remain .
+data partitioning is a data transformation with the objective of partitioning or separating input data into output subsets .
+data vector reduction is a data transformation objective in which k m - dimensional input vectors are reduced to j m - dimensional output vectors ,  where j is smaller than k .
+a generalized fwer correction method is a multiple testing procedure that controls the probability of at least k + 1 false positives ,  where k is a user - supplied integer .
+a quantile number of false positives correction method is a mtp that controls for the pth quantile of the distribution of the number of false positives out of the total number of tests performed'
+a tppfp correction method is a mtp that controls the probability that the proportion of false positives among all rejected hypotheses is no greater than a constant q ,  where q is between 0 and 1 .
+the false discovery rate is a  data transformation used in multiple hypothesis testing to correct for multiple comparisons .
+a proportion of expected false positives correction method is a multiple testing procedure that controls the ratio of the expected value of the numbers of false positives to the expected value of the numbers of rejected hypotheses .
+a quantile proportion of false positives correction method is a multiple testing procedure that controls the pth quantile of the distribution of the proportion of false positives among the rejected hypothesis  ( false discovery rate )  .
+an objective specification to transformation input data into output data
+a normalization objective is a data transformation objective where the aim is to remove systematic sources of variation to put the data on equal footing in order to create a common base for comparisons .
+a correction objective is a data transformation objective where the aim is to correct for error ,  noise or other impairments to the input of the data transformation or derived from the data transformation itself
+a normalization data transformation is a data transformation that has objective normalization .
+an averaging data transformation is a data transformation that has objective averaging .
+a partitioning data transformation is a data transformation that has objective partitioning .
+a partitioning objective is a data transformation objective where the aim is to generate a collection of disjoint non - empty subsets whose union equals a non - empty input set .
+a background correction objective is a data transformation objective where the aim is to remove irrelevant contributions from the measured signal ,  e .g .
+a curve fitting objective is a data transformation objective in which the aim is to find a curve which matches a series of data points and possibly other constraints .
+a class discovery data transformation  ( sometimes called unsupervised classification )  is a data transformation that has objective class discovery .
+fisher's exact test is a data transformation used to determine if there are nonrandom associations between two fisher's exact test is a statistical significance test used in the analysis of contingency tables where sample sizes are small where the significance of the deviation from a null hypothesis can be calculated exactly ,  rather than relying on an approximation that becomes exact in the limit as the sample size grows to infinity ,  as with many statistical tests .
+a center calculation objective is a data transformation objective where the aim is to calculate the center of an input data set .
+a class discovery objective  ( sometimes called unsupervised classification )  is a data transformation objective where the aim is to organize input data   ( typically vectors of attributes )  into classes ,  where the number of classes and their specifications are not known a priori .
+a class prediction objective  ( sometimes called supervised classification )  is a data transformation objective where the aim is to create a predictor from training data through a machine learning technique .
+is a data transformation objective whereby the aim is to the calculate the spread of a dataset ,  spread is a descriptive statistic which describes the variability of values in a data set
+a center calculation data transformation is a data transformation that has objective of center calculation .
+a data vector reduction is a data transformation that has objective data vector reduction and that consists of reducing the input vectors k to a smaller number of output vectors j ,  where j < k .
+is a data transformation objective where all ,  or some of a data set is adjusted by some data transformation according to some scale ,  for example a user defined minimum or maximum
+a descriptive statistical calculation data transformation is a data transformation that has objective descriptive statistical calculation and which concerns any calculation intended to describe a feature of a data set ,  for example ,  its center or its variability .
+a scaling data transformation is a data transformation that has objective scaling .
+an error correction objective is a data transformation objective where the aim is to remove  ( correct for )  erroneous contributions arising from the input data ,  or the transformation itself .
+a sequence analysis data transformation is a data transformation that has objective sequence analysis and has the aim of analysing ordered biological data for sequential patterns .
+a cross validation objective is a data transformation objective in which the aim is to partition a sample of data into subsets such that the analysis is initially performed on a single subset ,  while the other subset ( s )  are retained for subsequent use in confirming and validating the initial analysis .
+a merging objective is a data transformation objective in which the data transformation has the aim of performing a union of two or more sets .
+a data visualization which has input of a clustered data set and produces an output of a report graph which is capable of rendering data of this type .
+adata visualization which has input of a gene list and produces an output of a report graph which is capable of rendering data of this type .
+a data visualization which has input of a classified data set and produces an output of a report graph which is capable of rendering data of this type .
+a data visualization which has input of a background corrected data set and produces an output of a report graph which is capable of rendering data of this type .
+a data transformation which has the objective of performing survival analysis .
+proportional hazards model is a data transformation model to estimate the effects of different covariates influencing the times - to - failure of a system .
+a data transformation objective in which correlation is obtained  ( often measured as a correlation coefficient ,  ? ) 
+is a data transformation objective where the aim is to analyse some aspect of spectral data by some data transformation process .
+tandem mass spectrometry is a data transformation that uses two or more analyzers separated by a region in which ions can be induced to fragment by transfer of energy  ( frequently by collision with other molecules )  .
+gas chromatography mass spectrometry is a data transformation combining mass spectrometry and   gas chromatography for the qualitative as well as quantitative   determinations of compounds .
+the chi - square test is a data transformation with the objective of statistical hypothesis testing ,  in which the sampling distribution of the test statistic is a chi - square distribution when the null hypothesis is true ,  or any in which this is asymptotically true ,  meaning that the sampling distribution  ( if the null hypothesis is true )  can be made to approximate a chi - square distribution as closely as desired by making the sample size large enough .
+anova or analysis of variance is a data transformation in which a statistical test of whether the means of several groups are all equal .
+any design in which the decision as to whether to enroll the next patient ,  pair of patients ,  or block of patients is determined by whether the cumulative treatment difference for all previous patients is within specified limits .
+observation design is a study design in which subjects are monitored in the absence of any active intervention by experimentalists .
+an organism that is the output of a genetic transformation process
+a data item that was generated on the basis of a calculation or logical reasoning
+a data item which has been processed by a mean centering data transformation where each output value is produced by subtracting the mean from the inout value
+a group assignment which relies on chance to assign materials to a group of materials in order to avoid bias in experimental set up .
+a process by which an  event or an entity is described before it actually happens or is being discovered and identified .
+a dna sequencer is an instrument that determines the order of deoxynucleotides in deoxyribonucleic acid sequences .
+a computer is an instrument which manipulates  ( stores ,  retrieves ,  and processes )  data according to a list of instructions .
+a plan specification comprised of protocols  ( which may specify how and what kinds of data will be gathered )  that are executed as part of an investigation and is realized during a study design execution .
+a study design which use the same individuals and exposure them to a set of conditions .
+a repeated measure design which ensures that experimental units receive ,  in sequence ,  the treatment  ( or the control )  ,  and then ,  after a specified time interval  ( aka *wash - out periods* )  ,  switch to the control  ( or treatment )  .
+n - of - 1 design is a cross - over design in which the same patient is repeatedly randomised to receive either the experimental treatment or its control  ( senn ,  1993 )  .
+a randomized complete block design is_a study design which assigns randomly treatments to block .
+latin square design is_a study design which allows in its simpler form controlling 2 levels of nuisance variables  ( also known as blocking variables )  .he 2 nuisance factors are divided into a tabular grid with the property that each row and each column receive each treatment exactly once .
+greco - latin square design is a study design which relates to latin square design
+prs to do
+a replicate experimental design type is where a series of replicates are performed to evaluate reproducibility or as a pilot study to determine the appropriate number of replicates for a subsequent experiments .
+groups of assays that are related as part of a time series .
+group assignment is a process which has an organism as specified input and during which a role is assigned
+the introduction .alteration or integration of genetic material into a cell or organism
+the use of a chemical or biochemical means to infer the sequence of a biomaterial
+a planned process with the objective to insert genetic material into a cloning vector for future replication of the inserted material
+a phage display library is a collection of materials in which a mixture of genes or gene fragments is expressed and can be individually selected and amplified .
+a material that is added to another one in a material combination process
+a time quality inhering in a bearer by virtue of how long the bearer has existed .
+a 1 - d extent quality which is equal to the distance between two points .
+a physical quality that inheres in a bearer by virtue of the proportion of the bearer's amount of matter .
+a quality of a single process inhering in a bearer by virtue of the bearer's occurrence per unit time .
+an organismal quality inhering in a bearer by virtue of the bearer's behavior aggregate of the responses or reactions or movements in a given situation .
+a physical object quality which inheres in a single - bearer .
+a behavioral quality inhering ina bearer by virtue of the bearer's unequal distribution of fine motor skill between its left and right hands or feet .
+handedness where the organism preferentially uses the left hand or foot for tasks requiring the use of a single hand or foot or a dominant hand or foot .
+handedness where the organism preferentially uses the right hand or foot for tasks requiring the use of a single hand or foot or a dominant hand or foot .
+handedness where the organism exhibits no overall dominance in the use of right or left hand or foot in the performance of tasks that require one hand or foot or a dominant hand or foot .
+an amino acid chain that is produced de novo by ribosome - mediated translation of a genetically - encoded mrna .
+a sequence_feature with an extent greater than zero .
+one or more contigs that have been ordered and oriented using end - read information .
+a contiguous sequence derived from sequence assembly .
+a sequence of nucleotides that has been algorithmically derived from an alignment of two or more different sequences .
+a region of the genome of known length that is composed by ordering and aligning two or more different regions .
+wilks' lambda distribution  ( named for samuel s . wilks )  ,  is a probability distribution used in multivariate hypothesis testing ,  especially with regard to the likelihood - ratio test and multivariate analysis of variance .
+the studentized range  ( q )  distribution is a probability distribution used by the tukey honestly significant difference test .
+an ma plot is a scatter plot of the log intensity ratios m = log_2 ( t / r )  versus the average log intensities a = log_2 ( t*t )  / 2 ,  where t and r represent the signal intensities in the test and reference channels respectively .
+one - way anova is an analysis of variance where the different groups being compared are associated with the factor levels of only one independent variable .
+two - way anova is an analysis of variance where the different groups being compared are associated the factor levels of exatly 2 independent variables .
+multi - way anova is an analysis of variance where the difference groups being compared are associated to the factor levels of more than 2 independent variables .
+a null hypothesis is a statistical hypothesis that is tested for possible rejection under the assumption that it is true  ( usually that observations are the result of chance )  .
+hypergeometric distribution is a probability distribution that describes the probability of  k successes in n draws from a finite population of size  n containing  k successes without replacement
+cleveland dot plot is a dot plot which plots points that each belong to one of several categories .
+a rarefaction curve is a graph used for estimating species richness in ecology studies
+paired t - test is a statistical test which is specifically designed to analysis differences between paired observations in the case of studies realizing repeated measures design with only 2 repeated measurements per subject  ( before and after treatment for example ) 
+the multinomial distribution is a probability distribution which gives the probability of any particular combination of numbers of successes for various categories defined in the context of  n independent trials each of which leads to a success for exactly one of k categories ,  with each category having a given fixed success probability .
+a funnel plot is a scatter plot of treatment effect versus a measure of study size and aims to provide a visual aid to detecting bias or systematic heterogeneity .
+beanplot is a plot in which  ( one or )  multiple batches  ( "beans" )  are shown .
+a pedigree chart is a graph which plots parent child relations
+r2 is a correlation coefficient which is computed over the frequency of 2 dichotomous variable and is used as a measure of linkage disequilibrium and as input data item to the creation of an ld plot
+the dot plot as a representation of a distribution consists of group of data points plotted on a simple scale .
+volcano plot is a kind of scatter plot which graphs the negative log of the p - value  ( significance )  on the y - axis versus log2 of fold - change between 2 conditions on the  x - axis .
+altman box and whisker plot is a variation of tukey box and whisker plot which use the criteria of altman to create the 'whisker' of the plot .
+hotelling t squared distribution is a probability distribution used in multivariate hypothesis testing ,  which is a univariate distribution proportional to the f - distribution and arises importantly as the distribution of a set of statistics which are natural generalizations of the statistics underlying student's t - distribution .
+the correlation coefficient of two variables in a data sample is their covariance divided by the product of their individual standard deviations .
+the geometric distribution is a negative binomial distribution where r is 1 .
+linkage disequilibrium plot is a graph which represents pairwise linkage disequilibrium measures between snp as a heatmap
+a violin plot is a plot combining the features of box plot and kernel density plot .
+stacked bar chart is a bar which is used to compare overall quantities across items while showing the contribution of category to the total amount .
+a pie chart is a graph in which a circular graph is divided into sector illustrating numerical proportion ,  meaning that the arc length of each sector  ( and consequently its central angle and area )  ,  is proportional to the quantity it represents .
+the bart chart is a graph resulting from plotting rectangular bars with lengths proportional to the values that they represent .
+a real time quantitative pcr plot is a line graph which plots the signal fluorescence intensity as a function of the number of pcr cycle
+spear box and whisker plot is a variation of tukey box and whisker plot which use the criteria of spear to create the 'whisker' of the plot .
+a forest plot  is a graph designed to illustrate the relative strength of treatment effects in multiple quantitative scientific studies addressing the same question .
+the beta distribution is a continuous probability distributions defined on the interval  [ 0 ,  1 ]  parametrized by two positive shape parameters ,  denoted by î± and î² ,  that appear as exponents of the random variable and control the shape of the distribution
+standard normal distribution is a normal distribution with variance = 1 and mean=0
+lineweaver - burk plot is a graph which  is the graphical representation of the lineweaverâburk equation of enzyme kinetics ,  described by hans lineweaver and dean burk in 1934 .
+spearman's rank correlation coefficient is a correlation coefficient which is a nonparametric measure of statistical dependence between two ranked variables .
+a tetrachoric correlation coefficient is a polychoric correlation coefficient for 2 dichotomous variables used as proxy for correlation between 2 continuous latent variables .
+a real time pcr standard curve is a line graph which plots the fluorescence intensity signal as a function of the concentration of a sample used as reference  and used to determine relative abundance of test samples
+kendall's correlation coefficient is a correlation coefficient between 2 ordinal variables  ( natively or following a ranking procedure )  and may be used when the conditions for computing pearson's correlation are not met  ( e .g linearity ,  normality of the 2 continuous variables ) 
+q - q plot or quantile - quantile plot is the output of a graphical method for comparing two probability distributions by plotting their quantiles against each other
+a box plot is a graph which plots datasets relying on their quartiles and the interquartile range to create the box and the whiskers
+a manhattan plot for gwas is a kind of scatter plot used to facilitate presentation of genome - wide association study  ( gwas )  data .
+repeated measure anova is a kind of anova specifically developed for non - independent observations as found when repeated measurements on the sample experimental unit .
+bernoulli distribution is a binomial distribution where the number of trials is equal to 1 .  notation: b ( 1 , p )   the mean is p  the variance is p*q
+galbraith  ( radial )  plot is a scatter plot which can be used in the meta - analytic context to examine the data for heterogeneity .
+grouped bar chart is a kind of bar chart which juxtaposes the  discrete values for each of the possible value of a given categorical variable ,  thus providing  within group comparison .
+polychoric correlation coefficient is a correlation coefficient which is computed over 2 variables to characterise an association by proxy with 2   ( latent )  variables which are assumed to be continuous and normally distributed .
+receiver operational characteristics curve is a graphical plot which illustrates the performance of a binary classifier system as its discrimination threshold  ( aka cut - off point )  is varied by plotting  sensitivity vs  ( 1 â specificity ) 
+the pearson's correlation coefficient is a correlation coefficient which evaluates two continuous variables for association strength in a data sample .
+negative binomial probability distribution is a discrete probability distribution of the number of successes in a sequence of bernoulli trials before a specified  ( non - random )  number of failures  ( denoted r )  occur .
+a one - tailed test is a statistical test which ,  assuming an unskewed probability distribution ,  allocates all of the significance level to evaluate only one hypothesis to explain a difference .
+a two tailed test is a statistical test which assess the null hypothesis of absence of difference assuming a symmetric  ( not skewed )  underlying probability distribution by allocating half of the significance level selected to each of the direction of change which could explain a difference  ( for example ,  a difference can be an excess or a loss )  .
+a unit which is a standard measure of the distance between two points .
+a unit which is a standard measure of the amount of matter / energy of a physical object .
+a unit which is a standard measure of the dimension in which events occur in sequence .
+a unit which is a standard measure of the average kinetic energy of the particles in a sample of matter .
+a unit which represents a standard measurement of how much of a given substance there is mixed with another substance .

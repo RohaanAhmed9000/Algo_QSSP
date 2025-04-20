@@ -1,0 +1,149 @@
+ this ontology defines traits of the international wheat information system  ( iwis )  database and wheat descriptor .
+measurement of total dried above ground biomass in g / plot or kg / ha or kg / plot or ton / ha .
+the difference between air and canopy temperature which is used as a screening tool for wheat yield and stress tolerance in large breeding populations .
+number of days required for the inflorescence  ( panicle )  to emerge from the flag leaf of a plant or a group of plants in a study .
+number of days from planting to harvest at maturity .
+visual rating of vegetative growth using zadok growth stages and determine whether it is early or late .
+record of the day on which a seedling is first observed .
+percentage of grains that germinate under proper condition .
+moisture content of grain measured by grain moisture analyzer in percentage .
+grain yield is the product of accumulating dry matter  ( i .e . ,  biomass )  and allocating a portion of the total aboveground biomass to the grain .
+measurement of ground surface covered by the plant in percentage at 5 leaf stage .
+a qualitative description of the growth habit of the plant whether erect / semi - erect / prostrate / spreading / semi - spreading .
+visual observation of growth stages based on zadok decimal code .
+rate of passage of either water vapor or carbon dioxide through the stomata .
+total percentage of water in wheat .
+height of plant at maturity ,  measured in cm from ground to top of spike ,  excluding awns .
+ratio of the maturity days that determined from the plant to best local check which represents the best locally adopted germplasm at each location grown in standard or normal environment .
+ratio of the heading days that determined from the plant to best local check which represents the best locally adopted germplasm at each location grown in standard or normal environment .
+ratio of the plant height determined from the plant to local check which represents the best locally adopted germplasm at each location grown in standard or normal environment .
+measurement of 1000 well - developed grains in grams .
+measurement of awn length in cm  ( centimeter )  .
+observation of awn type whether awnless / awnletted  ( short awns )  / awned  ( conspicious awns )  .
+measures the chlorophyll content in a green tissue .
+length of coleoptile  ( a protective sheath that surrounds the shoot tip and the embryonic leaves of the young shoot of grasses )  is measured in cm  ( centimeter )  .
+color observation on the outer glume whether white / red to brown / purple to black at maturity .
+length of glume measured in mm  ( millimeter )  .
+measurement of glume hairiness density  on outer side of sterile glume .
+measurement of presence of wax in glume .
+measurement of width of glume in mm  ( millimeter )  .
+visual measurement of grain color whether white / red / purple at maturity .
+count of total number of grains on an average of five spikes .
+a qualitative trait measuring degree of endosperm has filled .
+measurement of grain size in cm  ( centimeter )  .
+the total numbers of grains per spikelet .
+one of the key quality parameters in the determination of durum quality referring to translucent or glass - like appearance when seeds are transversely sectioned and observed whether not vitreous / partly vitreous / vitreous .
+visual observation of the relative hardness of a kernel whether soft / intermediate / hard  .
+actual measurement of leaf length in cm  ( centimeter )  .
+measurement of leaf hairiness density .
+measurement of leaf thickness in mm  ( millimeter )  .
+visual observation of presence of wax in leaf .
+measurement of leaf width in mm  ( millimeter )  .
+observation of spike break from the base of head .
+number of nodes on stem .
+measurement of peduncle length in cm  ( centimeter )  .
+measurement of peduncle hairiness density .
+visual observation of presence of wax in peduncle .
+a visual measure of density of a wheat spike .
+measurement of spike length in cm  ( centimeter )  .
+observation of grains dehiscence from spike at maturity .
+number of spikelets per spike based on the average of five spikes .
+the color of plant and the photosynthetic organs remain green compared to turning yellow and or brown at the time of senescing .
+measurement of stem height in cm  ( centimeter )  .
+the trait evaluates the solidness of stem as either solid / intermediate or hollowness .
+measurement of stem thickness in mm  ( millimeter )  .
+resistance to diffusion of water vapor through a plants stomata .
+the ratio between average height and width of 5 cookies .
+measurement of the cellular structure of wheat bread crumb whether poor / fair / good / very good .
+the falling number is defined as the time in seconds required stirring and allowing stirrer to fall a measured distance through a hot aqueous flour or meal gel undergoing liquefaction due to a - amylase activity .
+total protein percent  ( corrected to 14 .0% moisture basis )  in refined flour .
+percentage of flour recovered during milling .
+percentage of wet gluten in flour .
+determination of gluten type whether weak - tenacious / tenacious / weak / medium strong / strong / overly strong .
+indication of the amount of sprout damage that has occurred within a wheat sample .
+determination of grain quality whether very soft / medium soft / medium hard /  hard / very hard .
+it is determined in percentage of protein  ( corrected to 12 .5% moisture basis )  in the whole wheat grain samples .
+protein content in durum wheat semolina .
+measurement of flour / semolina yellow color with the minolta chromameter using the color scale b .
+the trait is assessed for sensitivity to acid soil .
+the trait is assessed for sensitivity to aluminium .
+observation of growth at temperatures lower than the optimum temperature .
+the trait is assessed for the grain embryo dormancy .
+the trait is scored for the plant response to the agent alternaria triticina causing alternaria leaf blight .
+the trait is scored for the plant damages caused by various animals .
+the trait is scored for the plant damage caused by ants .
+the trait is scored for the damage caused by various species of aphids .
+the trait is scored for the plant damage caused by armyworm .
+the trait is scored for the plant damage caused by birds .
+the trait is scored for the plant damage caused by hessian fly ,  maytiola destructor .
+the trait is scored for the plant damage caused by any insects .
+the trait is scored for the plant damage caused by rodent .
+the trait is scored for the plant damage caused by russian wheat aphid ,  diuraphis noxis .
+the trait is scored for the plant damage caused by sawfly ,  cephus cinctus .
+the trait is scored for the plant damage caused by snails .
+the trait is scored for the plant damage caused by suni pest .
+the trait is scored for the response to the barley stripe mosaic disease caused by barley stripe mosaic virus .
+the trait is scored for the plant response to the agent wheat yellow dwarf virus causing wheat yellow dwarf disease .
+the trait is scored for the plant response to the agents alternaria ,  helminthosporium and fusarium spp .
+the trait is scored for the plant response to the agent tilletia species causing bunt disease .
+the trait is scored for the plant response to the agent tilletia laevis causing common bunt disease .
+the trait is scored for the plant response to the agent tilletia tritici causing common bunt disease .
+the trait is scored for the plant response to the agent tilletia controversa causing dwarf bunt disease .
+the trait is scored for the plant response to the agents necrotrophic fungus tapesia yallundae  ( pseudocercosporella herpotrichoide w - type )  and tapesia acuformis  ( pseudocercosporella herpotrichoides r - type ) causing eye spot disease .
+the trait is scored for the plant response to the agent urocystis agropyri causing flag smut disease .
+the trait is scored for the plant response to the agent fusarium spp .
+the trait is scored for the plant response to the agent calonectria nivalis  ( fusarium nivale ) causing scab disease in spike .
+the trait is scored for the plant response to the agent tilletia indica  ( syn .
+the trait is scored for the plant response to the agent puccinia recondita causing leaf rust disease .
+the trait is scored for the plant response to the agent ustilago tritici causing loose smut disease .
+the trait is scored for the plant damage caused by nematodes .
+the trait is scored for the wheat seed - gall nematode damage caused by anguina tritici .
+the trait is scored for the wheat cyst nematode damage caused by cyst nematode ,  heterodera avenae .
+the trait is scored for the plant damage caused by root - lesion nematode ,  pratylenchus neglectus .
+the trait is scored for the plant damage caused by root - lesion nematode ,  pratylenchus thornei .
+the trait is scored for the plant response to the agent blumeria graminis  ( erysiphe graminis )  f . sp .
+the trait is scored for the plant response to the agent corticum rolfsii  ( sclerotium rolfsii )  causing wheat southern blight .
+the trait is scored for the plant response to the agent cochliobolus sativus  ( helminthosporium sativum ) wheat spot blotch .
+the trait is scored for the plant response to the agent mycosphaerella graminicola  ( septoria tritici ) septoria tritici causing blotch disease .
+the trait is scored for the plant response to the agent puccinia graminis f .sp .
+the trait is scored for the plant response to the agent gaeumannomyces graminis var .
+the trait is scored for the plant response to the agent xanthomonas translucens causing bacterial leaf streak disease .
+counted as days from sowing to 50% of the plants in flower .
+the trait is scored for the plant response to the diseases caused by various fungi .
+the ratio of grain weight to total plant weight .
+measurement of baking quality of flour .
+the trait is scored for the plant response to the agent calonectria nivalis  ( fusarium nivale ) causing fusarium leaf blotch disease .
+the trait is assessed in percentage for the plant damage caused by hail .
+the trait is assessed in percentage for the plant damage caused by frost .
+the trait is assessed in percentage for the plant damage caused by waterlogging .
+the trait is scored for the plant response to the agent puccinia striiformis f .sp .
+the trait is scored for the plant response to the agent leptosphaeria nodorum  ( stagonospora nodorum ,  septoria nodorum ) causing stagonospora glume blotch .
+becoming tolerant to drought like conditions of minimal or no water content in the growth environment .
+tolerance to the high salt content in the growth medium .
+the trait is scored for the plant response to the agent pyrenophora trichostoma  ( helminthhosporium tritici - repentis ) causing pyrenophora yellow leaf blotch disease .
+the trait is scored for the plant response to the agent ustilago spp .
+the trait is scored for the plan response to the diseases caused by various bacteria .
+the trait is scored for the plant response to the agent pseudomonas syringae pv .
+the trait is scored for the plant response to the diseases caused by various virus .
+measured directly ,  or estimated as length and breadth of flag leaf usually of mother shoot and multiply by 0 .7 in square centimeter .
+measurement of stomata size in micrometers .
+number of stomata counted per unit area on the leaf surface .
+determination of dough strength by alveograph .
+ratio of tenacity  ( p ;  maximum pressure required for the deformation of the sample )  and extensibility  ( l ;  length of the curve )  of dough .
+testing of refined flour quality by sds - sedimentation ,  a parameter estimating gluten strength or gluten protein quality .
+testing of grain  ( whole meal flour )  quality by sds sedimentation a parameter estimating gluten strength or gluten protein quality .
+it refers to kernels showing chalky or starchy endosperm areas .
+time required for the dough development from beginning of mixing flour and water to the dough reaches maximum consistency .
+determination of high molecular weight of glutenin subunit composition in endosperm .
+determination of low molecular weight of glutenin subunit composition in endosperm .
+is the weight  ( kg )  per one hectoliter of clean grain .
+sds - sedimentation volume divided by protein percentage .
+the trait is assessed in percentage for response to winter if winter kill or winter survival .
+count numbers of spike per meter square area .
+indicates percentage of plants that lodged .
+the trait is scored for the plant response to the agent fusarium oxysporum causing fusarium wilt disease .
+ the trait is scored for the plant response to the agent pyrenophora teres causing net blotch .
+ the trait is scored for the plant response to the agent rhynchosporium secalis causing barley scald .
+ the trait is scored for the plant response to the agent septoria species causing septoria blotch .
+ the trait is scored for the plant response to the agent soilborne wheat mosaic virus  ( sbwmv ) which is vectored by plasmodiophorid polymyxa graminis causing soil borne mosaic .
+a physiological phenomenon caused by hot ,  dry and windy weather .

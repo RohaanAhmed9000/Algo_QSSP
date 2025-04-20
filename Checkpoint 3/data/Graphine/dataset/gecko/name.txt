@@ -1,0 +1,139 @@
+process
+cause of participant death
+aggregated clinical visit information
+hospitalization information
+occupation
+marital status
+healthcare information
+environment associated with human dwelling
+timeline
+population data item
+population location
+population size
+population quality
+population sex or sexes
+population gender or genders
+population age range
+data collection
+blood collected from fasting subject
+biosample storage
+genomic assay
+microbiome sequencing assay
+eqtl analysis
+biosample size
+biosample processing
+unique identifier
+gender
+ethnicity
+birthplace location
+residence location
+education level
+family and household structure
+lifestyle history
+tobacco use history
+alcohol use history
+sleep history
+nutritional history
+physician contact textual entity
+non - pharmacological treatment history
+surgical history
+prescription drug history
+disease treated by prescription drug
+response to medication
+summary statistic for federated data
+recreational drug history
+physical activity history
+sample size
+biosample availability textual entity
+reproductive history
+treatment history
+psychological measurement
+cognitive measurement
+personality measurement
+emotion
+oral health history
+psychological treatment history
+radiological treatment history
+physical therapy history
+perception of health measurement
+quality of life measurement
+information on functional limitations
+information on use of assistive devices
+religious affiliation
+human social environment
+family history of disease
+diagnostic procedure history
+alzheimer's disease assessment scale score
+mini - mental state exam score
+native language of individual
+montreal cognitive assessment test score
+cerad neuropsychological battery score
+penn computerized neurocognitive battery score
+congenital disorder
+severe impairment battery score
+neuropsychiatric inventory score
+clinical dementia rating scale score
+biological_process
+objective specification
+data item
+information content entity
+directive information entity
+plan specification
+measurement datum
+textual entity
+document
+availability textual entity
+consent textual entity
+identifier
+disease or disorder
+integumentary system disease
+musculoskeletal system disease
+urinary system disease
+digestive system disease
+cancer
+cardiovascular disease
+reproductive system disease
+immune system disease
+nervous system disorder
+mental disorder
+respiratory system disease
+endocrine system disease
+infectious disease
+hematologic disease
+injury
+disease of visual system
+otorhinolaryngologic disease
+poisoning
+planned process
+assay
+material processing
+imaging assay
+genotyping assay
+copy number variation profiling assay
+rna - seq assay
+organism identification assay
+epigenetic modification assay
+whole genome sequencing assay
+exome sequencing assay
+exposure to environmental and workplace carcinogens history
+whole metagenome sequencing assay
+storage
+study design
+inclusion criterion
+clinical history
+symptom
+age
+biological sex
+organismal quality
+collection of organisms
+drug prescription
+drug administration specification
+statistic
+count
+date
+life cycle stage
+blood
+organism substance
+urine
+saliva
+feces

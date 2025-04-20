@@ -1,0 +1,785 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+peptide
+deoxyribonucleic acid
+molecular entity
+nucleic acid
+ribonucleic acid
+macromolecule
+cell
+biological_process
+response to stimulus
+measurement unit label
+objective specification
+action specification
+datum label
+software
+data item
+information content entity
+scalar measurement datum
+directive information entity
+dot plot
+graph
+algorithm
+curation status specification
+density plot
+data format specification
+data set
+image
+data about an ontology part
+plan specification
+measurement datum
+setting datum
+conclusion textual entity
+material information bearer
+histogram
+heatmap
+dendrogram
+scatter plot
+obsolescence reason specification
+textual entity
+table
+figure
+diagram
+document
+cartesian spatial coordinate datum
+one dimensional cartesian spatial coordinate datum
+two dimensional cartesian spatial coordinate datum
+three dimensional cartesian spatial coordinate datum
+length measurement datum
+denotator type
+mass measurement datum
+time measurement datum
+documenting
+line graph
+centrally registered identifier registry
+time sampled measurement data set
+software method
+software module
+software library
+software application
+software script
+statistical data analysis
+data collection
+f distribution
+gamma distribution
+normal distribution
+student's t distribution
+bivariate normal distribution
+log - normal distribution
+point biserial correlation
+probability distribution
+measurement scale
+outlier
+test statistic
+weighted data
+central tendency
+mode
+cohen's kappa measurement
+causal model
+correlation statistical analysis
+mendelian randomization
+multilevel model
+multivariate analysis
+power calculation
+univariate analysis
+statistical association
+cochran - armitage test
+data collapsing
+covariation
+goodness of fit
+kolmogorov - smirnov two sample test
+levene's test
+loglinear analysis
+mcnemar's test
+statistical model
+partitioning of variance components
+statistical effect
+statistical variable
+confounding variable specification
+covariate specification
+dichotomous variable specification
+dummy variable
+intervening variable specification
+binomial distribution
+poisson distribution
+negative likelihood ratio
+positive likelihood ratio
+absolute risk
+accuracy
+censored data
+normal distribution probability density function
+incidence rate
+test validity
+odds ratio
+prevalence rate
+relative risk
+reliability
+sensitivity
+specificity
+validity
+polynomial regression
+data sampling design
+random selection
+period prevalence rate
+point prevalence rate
+continuous probability distribution
+discrete probability distribution
+frequency distribution
+cohen's kappa coefficient
+confidence interval
+credible interval
+interquartile range
+percentile
+power
+random error
+range
+standard deviation
+type 1 error rate
+type 2 error rate
+bias
+coefficient of variation
+statistical error
+expected value
+intraclass correlation coefficient
+standardized coefficient
+logit regression
+nonlinear regression
+non - randomization sampling design
+randomization sampling design
+interval scale
+nominal scale
+ordinal scale
+ratio scale
+disease test sensitivity
+disease test specificity
+fixed effect
+interaction effect
+random effect
+lack of fit error
+type i error
+type ii error
+f test
+mann - whitney u test
+balanced design
+case - control study design
+cohort study design
+randomized controlled trial design
+complex sample design
+kappa statistic
+bartlett's test
+mediating variable
+moderator variable
+weighted kappa
+median
+mixed model
+probability density function
+rank order
+likelihood ratio
+chi - square distribution
+data matrix
+inferential statistical data analysis
+transformed data matrix
+transformed data set
+inferential statistical data analysis objective
+exponential distribution
+random variable
+data collection objective
+data collection from experiment
+data collection from survey
+data collection from literature
+independent variable
+data collection by sampling
+dependent variable
+continuous random variable
+discrete random variable
+numerical data item
+data collection design
+diagnostic validity
+data collection by censoring
+robust multi - array average normalization
+significance analysis of microarrays
+signal - 2 - noise statistical analysis
+experimental validity
+r squared value
+contingency table
+2x2 contingency table
+gene set enrichment analysis
+wilcoxon signed - rank test
+data collection from observation
+standardized mortality ratio
+statistical conclusion validity
+internal validity
+external validity
+ecological validity
+construct validity
+convergent validity
+discriminant validity
+content validity
+criterion validity
+concurrent validity
+predictive validity
+representation validity
+face validity
+extraction of differential gene expression software
+patterns from gene expression software
+global identifier of target regions software
+peak calling
+differential expression analysis using limma linear models for microarry data
+summing data values
+sum value
+data collection from online resource
+data collection from online database
+data collection by web crawling
+collection of incommensurate data
+web crawling software
+permutation
+generation of missing data
+processing incompatible data
+random permutation
+factor analysis
+manova
+kriging
+bayesian analysis
+knuth shuffle
+sorting
+sorting based on numerical order
+sorting based on lexicorgraphic order
+data transformation in statistics
+log2 transformation
+square root transformation
+anscombe transformation
+rank - order transformation
+numerical data value
+continuous data value
+discrete data value
+ordinal data value
+cardinal data value
+undirected graph
+nominal data value
+continuous variable
+discrete variable
+interval - scale variable
+continuous ordinal variable
+ratio - scale variable
+nominal variable
+discrete ordinal variable
+preference variable
+multiple response variable
+histogram distribution
+box - cox distribution
+directed graph
+relational graph
+sensitivity disposition
+bipartite graph
+mathematic graph
+hierarchical tree
+derived data from statistical analysis
+derived data from descriptive statistical analysis
+derived data from inferential statistical analysis
+normal distribution transformation
+data set following probability distribution
+normally distributed data set
+numerical data set
+data collection from document
+data collection from emedical record
+mortality rate
+hospital unit  shift rate
+transformed data item
+emedical record  data transformation
+medical test sensitivity disposition
+non - parametric test
+durbin test
+friedman test
+intent - to - treat analysis
+kolmogorovâsmirnov test
+kolmogorov - smirnov one sample test
+log - rank test
+pearson's chi - square test
+yates' chi - squared test
+cochranâmantelâhaenszel test
+receiver operating characteristic curve analysis
+independent component analysis
+least square regression
+fluorescent reporter intensity
+planned process
+biological feature identification objective
+classified data set
+processed material
+ratio of collected to emitted light
+investigation
+evaluant role
+assay
+quantitative confidence value
+diagnosis textual entity
+emedical record
+reagent role
+material processing
+measured expression level
+specimen role
+intervention design
+gene list
+number of particles in subset
+number of lost events electronic
+cdna library
+parameter threshold
+p - value
+methodology testing objective
+standard error
+software testing objective
+organization
+cluster
+organism feature identification objective
+number of lost events computer
+protocol
+adding a material entity into a target
+material to be added role
+drawing a conclusion based on data
+planning
+inductive reasoning
+hypothesis driven investigation
+hypothesis generating investigation
+information processor function
+cloning vector role
+cloning insert role
+averaging objective
+adding material objective
+assay objective
+target of material addition role
+normalized data set
+measure function
+consume data function
+material transformation objective
+study design execution
+dna sequencing
+clustered data set
+data set of features
+material combination
+fuzzy clustering objective
+data set of predicted values according to fitted curve
+data representational model
+specimen collection process
+background corrected data set
+error corrected data set
+class prediction data transformation
+background correction data transformation
+error correction data transformation
+statistical hypothesis test
+center value
+statistical hypothesis test objective
+reduced dimension data set
+average value
+specimen collection objective
+material combination objective
+support vector machine
+self - organizing map
+decision tree induction objective
+decision tree building data transformation
+library preparation
+genepattern software
+paired - end library
+peak matching
+k - nearest neighbors
+recombinant vector
+single fragment library
+cloning vector
+student's t - test
+topologically preserved clustered data set
+cart
+study design independent variable
+study design dependent variable
+survival rate
+multiple testing correction objective
+statistical model validation
+spike train datum
+primary structure of dna macromolecule
+measurement device
+likelihood - ratio test
+pattern matching objective
+study intervention
+categorical measurement datum
+handedness assay
+compound treatment design
+categorical label
+device
+dose specification
+scalar score from composite inputs
+sequence data
+handedness categorical measurement datum
+dose
+growth condition intervention design
+performing a diagnosis
+edinburgh score
+administration of material to specimen
+growth environment
+questionnaire
+edinburgh handedness assay
+feature extraction
+binding constant
+genetically modified material
+genetic transformation objective
+3d structural organization datum
+age since planting measurement datum
+age since hatching measurement datum
+age measurement assay
+age since egg laying measurement datum
+age since germination measurement datum
+age since eclosion measurement datum
+age since sowing measurement datum
+age since coitus measurement datum
+age measurement datum
+age since fertilization measurement datum
+age since birth measurement datum
+half life datum  ( t 1 / 2 )
+dose response curve
+half maximal effective concentration  ( ec50 )
+binding datum
+negative binding datum
+half maximal inhibitory concentration  ( ic50 )
+normalization testing design
+genetic population background information
+fwer adjusted p - value
+wild type organism genotype information
+genotype information
+allele information
+post - transcriptional modification design
+genetic alteration information
+wild type allele information
+stimulus or stress design
+genetic characteristics information
+dose response design
+q - value
+genetic modification design
+lowess group transformation
+lowess transformation
+lowess global transformation
+sampling time measurement datum
+minimal inhibitory concentration
+sequence assembly algorithm
+pdb file
+equilibrium dissociation constant  ( kd )
+comparative phenotypic assessment
+equilibrium association constant  ( ka )
+rate measurement datum
+50% dissociation of binding temperature  ( tm )
+equilibrium dissociation constant  ( kd )  approximated by ic50
+dna sequence data
+assigning gene property based on phenotypic assessment
+equilibrium dissociation constant  ( kd )  approximated by ec50
+half life of binding datum
+binding
+pdb file chain
+binding off rate measurement datum  ( koff )
+binding on rate measurement datum  ( kon )
+average depth of sequence coverage
+specimen collection time measurement datum
+latitude coordinate measurement datum
+longitude coordinate measurement datum
+drawing a conclusion
+sequence assembly process
+number of errors
+random access memory size
+random access memory
+testable hypothesis
+conclusion based on data
+computation run time
+categorical value specification
+scalar value specification
+value specification
+genome coverage
+n50
+contig n50
+scaffold n50
+sequencing library multiplexing
+sequence library deconvolution
+multiplexing sequence identifier
+operational taxonomic unit matrix
+multiplexed sequencing library
+organism
+specimen
+data transformation
+logistic - log curve fitting
+logit - log curve fitting
+log - log curve fitting
+feature extraction objective
+biexponential transformation
+box - cox transformation
+hyperlog transformation
+loess scale group transformation one - channel
+logical transformation
+loess scale group transformation two - channel
+loess global transformation one - channel
+split - scale transformation
+loess global transformation two - channel
+sine transformation
+cosine transformation
+loess group transformation one - channel
+loess group transformation two - channel
+homogeneous polynomial transformation
+linlog transformation
+variance stabilizing transformation
+loess global transformation
+loess group transformation
+loess scale group transformation
+total intensity transformation single
+total intensity transformation paired
+quantile transformation
+mean centering
+median centering
+differential expression analysis objective
+k - fold cross validation method
+leave one out cross validation method
+jackknifing method
+boostrapping
+benjamini and hochberg false discovery rate correction method
+pareto scaling
+modular decomposition
+k - means clustering
+hierarchical clustering
+average linkage hierarchical clustering
+complete linkage hierarchical clustering
+single linkage hierarchical clustering
+benjamini and yekutieli false discovery rate correction method
+dimensionality reduction
+principal components analysis dimensionality reduction
+probabilistic algorithm
+expectation maximization
+global modularity calculation
+dye swap merge
+moving average
+replicate analysis
+b cell epitope prediction
+mhc binding prediction
+t cell epitope prediction
+data imputation
+continuum mass spectrum
+characteristic path length calculation
+centroid mass spectrum
+holm - bonferroni family - wise error rate correction method
+edge weighting
+loess transformation
+curve fitting data transformation
+family wise error rate correction method
+submatrix extraction
+row submatrix extraction
+column submatrix extraction
+gating
+descriptive statistical calculation objective
+mean calculation
+network analysis
+sequence analysis objective
+longitudinal data analysis
+survival analysis objective
+mass spectrometry analysis
+spread calculation data transformation
+kaplan meier
+multiple testing correction method
+inter - rater reliability objective
+westfall and young family wise error rate correction
+polynomial transformation
+logarithmic transformation
+exponential transformation
+non - negative matrix factorization
+soft independent modeling of class analogy analysis
+discriminant function analysis
+canonical variate analysis
+linear discriminant functional analysis
+regression analysis method
+multiple linear regression analysis
+principal component regression
+partial least square regression analysis
+discriminant analysis
+partial least square discriminant analysis
+eh transformation
+b transformation
+s transformation
+data visualization
+similarity calculation
+euclidean distance calculation
+pearson correlation coefficient calculation
+loess fitting
+mode calculation
+quantile calculation
+median calculation
+variance calculation
+standard deviation calculation
+interquartile - range calculation
+skewness calculation
+kurtosis calculation
+data combination
+network graph construction
+weighted network graph construction
+directed network graph construction
+node quality calculation
+node degree calculation
+quantitative node degree calculation
+node in - degree calculation
+node out - degree calculation
+node shortest path identification
+edge quality calculation
+edge betweenness calculation
+network subgraph quality calculation
+subgraph degree calculation
+quantitative subgraph degree calculation
+mathematical feature
+log base
+subgraph in - degree calculation
+subgraph out - degree calculation
+intra subgraph connectivity calculation
+subgraph modularity calculation
+network graph quality calculation
+unit - variance scaling
+ma transformation
+exponential base
+polynomial degree
+number of variables
+agglomerative hierarchical clustering
+divisive hierarchical clustering
+data partitioning
+data vector reduction objective
+generalized family wise error rate correction method
+quantile number of false positives correction method
+tail probability for the proportion of false positives correction method
+false discovery rate correction method
+proportion of expected false positives correction method
+quantile proportion of false positives correction method
+data transformation objective
+data normalization objective
+correction objective
+normalization data transformation
+averaging data transformation
+partitioning data transformation
+partitioning objective
+background correction objective
+curve fitting objective
+class discovery data transformation
+fisher's exact test
+center calculation objective
+class discovery objective
+class prediction objective
+spread calculation objective
+center calculation data transformation
+data vector reduction data transformation
+scaling objective
+descriptive statistical calculation data transformation
+scaling data transformation
+error correction objective
+sequence analysis data transformation
+cross validation objective
+merging objective
+clustered data visualization
+gene list visualization
+classified data visualization
+background corrected data visualization
+survival analysis data transformation
+proportional hazards model estimation
+correlation study objective
+spectrum analysis objective
+tandem mass spectrometry
+gas chromatography mass spectrometry
+chi square test
+anova
+sequential design
+observation design
+genetically modified organism
+predicted data item
+mean - centered data
+group randomization
+prediction
+dna sequencer
+computer
+study design
+repeated measure design
+cross over design
+n - to - 1 design
+randomized complete block design
+latin square design
+graeco latin square design
+hyper graeco latin square design
+replicate design
+time series design
+group assignment
+genetic transformation
+sequencing assay
+recombinant vector cloning
+phage display library
+material to be added
+age
+length
+mass
+rate
+behavioral quality
+quality of a single physical entity
+handedness
+left handedness
+right handedness
+ambidextrous handedness
+protein
+region
+supercontig
+contig
+sequence_assembly
+assembly
+wilk's lambda distribution
+studentized range distribution
+ma plot
+one - way anova
+two - way anova
+multiway anova
+null hypothesis
+hypergeometric distribution
+cleveland dot plot
+rarefaction curve
+paired t - test
+multinomial distribution
+funnel plot
+bean plot
+pedigree chart
+r2
+wilkinson dot plot
+volcano plot
+altman box and whisker plot
+hotelling t2 distribution
+correlation coefficient
+geometric distribution
+ld plot
+violin plot
+stacked bar chart
+pie chart
+bar chart
+real time quantitative pcr plot
+spear box and whisker plot
+forest plot
+beta distribution
+standard normal distribution
+lineweaver - burk plot
+spearman's rank correlation coefficient
+tetrachoric correlation coefficient
+rt - pcr standard curve
+kendall's correlation coefficient
+q - q plot
+box and whisker plot
+manhattan plot for gwas
+repeated measure anova
+bernoulli distribution
+galbraith plot
+grouped bar chart
+polychoric correlation coefficient
+receiver operational characteristics curve
+pearson's correlation coefficient
+negative binomial distribution
+one tailed test
+two tailed test
+length unit
+mass unit
+time unit
+temperature unit
+concentration unit

@@ -1,0 +1,1283 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+generically dependent continuant
+process boundary
+material entity
+continuant fiat boundary
+process profile
+relational quality
+anatomical entity
+glycerone phosphate
+cholesterol
+lipopolysaccharide
+deoxyribonucleic acid
+erythritol
+polysaccharide
+molecular entity
+nucleic acid
+macromolecule
+polyatomic entity
+nucleotide
+gm1 ganglioside
+o - polysaccharide
+oligonucleotide
+immortal cell line cell
+immortal macrophage cell line cell
+immortal epithelial cell line cell
+cell
+epithelial cell
+macrophage
+trophoblast cell
+dendritic cell
+leukocyte
+habitat
+reproduction
+adaptive immune response
+leukocyte mediated immunity
+chromosome
+retrograde vesicle - mediated transport ,  golgi to er
+immune response
+humoral immune response
+trna processing
+biological_process
+metabolic process
+cell death
+death
+immunoglobulin complex
+b cell receptor complex
+entry into host cell
+developmental process
+macromolecular complex
+entry of bacterium into host cell
+growth
+t cell receptor complex
+cytokinesis by binary fission
+symbiosis ,  encompassing mutualism through parasitism
+adhesion to host
+entry into host
+entry into host through host barriers
+interspecies interaction between organisms
+innate immune response
+intracellular transport
+negative regulation of viral reproduction
+negative regulation of immune response
+negative regulation of developmental process
+establishment of localization
+establishment of localization in cell
+multi - organism process
+nitric - oxide synthase biosynthetic process
+quorum sensing involved in interaction with host
+biological regulation
+reactive oxygen species metabolic process
+mutualism
+commensalism
+phagosome maturation
+phagosome acidification
+phagosome - lysosome fusion
+objective specification
+action specification
+data item
+symbol
+information content entity
+directive information entity
+curation status specification
+data about an ontology part
+plan specification
+measurement datum
+obsolescence reason specification
+denotator type
+symbiont role
+mutualist role
+commensal role
+parasite role
+infectious agent role
+pathogen role
+opportunistic infectious disposition
+primary infectious disposition
+symbiont host role
+definitive host role
+intermediate host role
+paratenic host role
+dead - end host role
+parasite host role
+infectious agent host role
+pathogen host role
+infectious agent carrier role
+infectious agent transporter role
+infectious agent vector role
+mechanical vector of infectious agent role
+biological vector of infectious agent role
+infectious agent vehicle role
+biological vehicle of infectious agent role
+fomite role
+reservoir of infectious agent role
+virulence factor disposition
+toxin disposition
+exotoxin disposition
+infectious agent portal of entry role
+infectious agent portal of exit role
+disinfectant role
+antiseptic role
+primary infection role
+secondary infection role
+infectious disease
+adhesion disposition
+invasion disposition
+antimicrobial disposition
+antiviral disposition
+antifungal disposition
+antibacterial disposition
+antiparasitic disposition
+protective resistance
+resistance to drug
+resistance to infectious agent
+herd immunity to infectious organism
+immunity to infectious agent
+sterilizing immunity to infectious agent
+pathogenic disposition
+invasive disposition
+infectious disposition
+zoonotic disposition
+reverse zoonotic disposition
+collective disposition
+immunosuppressed organism
+immunocompetent organism
+contagiousness
+colonized host
+infected organism
+co - infected organism
+infectious agent transmissibility
+infectivity
+virulence
+susceptibility
+susceptibility to infectious agent
+drug susceptibility
+drug susceptibility of infectious agent
+complex infection
+extracellular infection
+intracellular infection
+systemic infection
+local infection
+focal infection
+acute infectious disease course
+infectious disease incidence
+infection incidence
+infectious disease incidence proportion
+infection incidence proportion
+infectious disease incidence rate
+infection incidence rate
+infectious disease prevalence
+infection prevalence
+infectious disease lifetime prevalence
+infectious agent seroprevalence
+infectious disease mortality rate
+infectious disease endemicity
+infectious disease endemic level
+infectious disease endemic rate
+infectious disease hyper - endemicity
+infectious disease sporadicity
+infectious disease course
+long - term non - progressing infectious disease course
+immunization against infectious agent
+active immunization against infectious agent
+vaccination against infectious agent
+variolation
+passive immunization against infectious agent
+infectious disease epidemic
+infectious disease pandemic
+infectious disorder
+viremia
+bacteremia
+virion
+organism population
+infected population
+diseased population
+infectious agent population
+susceptible population
+normal resident microbiota population
+incubation period
+communicability period
+symbiont
+obligatory symbiont
+mutualist
+commensal
+parasite
+pathogen
+primary pathogen
+host
+definitive host
+intermediate host
+paratenic host
+dead - end host
+parasite host
+infectious agent host
+pathogen host
+infectious agent carrier
+infectious agent vector
+mechanical vector of infectious agent
+biological vector of infectious agent
+vehicle of infectious agent
+fomite
+infectious agent reservoir
+virulence factor
+invasion factor
+toxin
+exotoxin
+enterotoxin
+endotoxin
+infectious agent portal of entry
+infectious agent portal of exit
+disinfectant
+antiseptic
+adhesion factor
+antimicrobial
+antiviral
+antifungal
+antiparasitic
+antibiotic
+microbicide
+viricide
+microbistatic
+primary infection
+secondary infection
+zoonosis
+aymptomatic host of infectious agent
+subclinical infection
+resistant entity
+chronic carrier of infectious agent
+symptomatic host of infectious agent
+innate immunity to infectious agent
+humoral immunity to infectious agent
+leukocyte - mediated immunity to infectious agent
+passive immunity to infectious agent
+antibiotic resistance
+long - term non - progressor
+emerging pathogen
+cytotoxin
+collective pathogenic disposition
+infection
+genetic resistance to infectious agent
+collective resistance disposition
+immunodeficient organism
+chronic infectious disease course
+immune population
+transmission period
+direct host exposure to infectious agent
+potential host of infectious agent
+infectious agent
+host exposure to environment containing infectious agent
+host living with infected household contact
+host living in endemic area
+release of infectious human pathogen in laboratory
+host coming into contact with vector of infectious agent
+host exposure to substance that might have infectious agent
+process of establishing an infection
+colonization of host
+establishment of a clinically abnormal colony
+production
+replication
+colonization of human anterior nares
+immunosuppression
+physiologic immunosuppression
+pathologic immunosuppression
+colony
+infectious agent colony
+immunodeficiency
+immunocompetence
+immunosuppressive disposition
+acquired immunity to infectious agent
+disposition to form a non - parasitic colony
+communicability
+establishment of localization in host
+appearance of disorder
+acute infection
+chronic infection
+host role
+hospital - acquired infection
+community - acquired infection
+neurotoxin
+metatstatic infection
+source of infection role
+sepsis
+severe sepsis
+nursing - home acquired
+infectious human pathogen
+acquired immunodeficiency
+simple infection
+re - emerging pathogen
+pregnancy - induced immunosuppression
+candidiasis
+trichomoniasis
+leptospirosis
+shigellosis
+amebiasis
+colonization of human
+primary immunodeficiency
+colonization of human perineum
+reverse zoonosis
+opportunistic pathogen
+transmissibility disposition
+horizontal pathogen transmission process
+process that results in death
+host exposure to infectious agent
+susceptible organism
+life - sustaining process
+negative regulation of life - sustaining process
+source of infection
+transition to clinical abnormality
+brucellosis
+brucellosis symptom
+human brucellosis symptom
+cattle brucellosis symptom
+brucellosis cough
+goat brucellosis symptom
+swine brucellosis symptom
+undulant fever
+brucellosis arthritis
+brucellosis sweating
+brucellosis hepatomegaly
+brucellosis splenomegaly
+brucellosis anaemia
+brucellosis leucopenia
+brucellosis leucocytosis
+brucellosis thrombocytopenia
+brucellosis thrombocytosis
+brucellosis elevated crp
+brucellosis elevated esr
+brucellosis positive rf
+brucellosis arthralgia
+brucellosis diurnal variation fever process
+brucellosis chill
+brucellosis anorexia
+brucellosis malaise
+brucellosis asthenia
+brucellosis weight loss
+human brucellosis
+swine brucellosis
+horse brucellosis
+cattle brucellosis
+sheep brucellosis
+brucella virulence factor
+pcr assay for detecting b . abortus gene bcsp31
+sub acute disease course
+brucellosis diagnosis by pcr test
+patient derived specimen
+amplification product of brucellosis pcr assay
+brucellosis diagnosis by microscopy
+brucellosis diagnosis by immunoassay test
+brucellosis diagnosis by coombs test
+brucellosis diagnosis by complement fixation test
+brucellosis diagnosis by competitive elisa
+brucellosis diagnosis by radial immunodiffusion test
+brucellosis diagnosis by counter immunoelectrophoresis
+brucellosis diagnosis by milk ring test
+brucellosis diagnosis by brucellacapt
+brucellosis diagnosis by serum agglutination test  ( sat )
+brucellosis diagnosis by rose bengal test  ( rb )
+brucellosis diagnosis by 2 - mercapto - ethanol test  ( 2 - me )
+brucellosis diagnosis by skin delayed - type hypersensitivity test  ( sdth )
+brucellosis diagnosis by dipstick assay
+brucellosis diagnosis using pcr assay for detecting brucella omp - 2
+brucella life course
+clinical manifestation of brucellosis
+preclinical manifestation of brucellosis
+brucellosis sign
+sterility
+brucellosis disposition
+pcr assay for detecting b . abortus vaccine rb51
+pcr assay for detecting b . abortus 16s rrna
+updated amos
+brucellosis treatment
+who recommended brucellosis treatment
+doxycycline
+brucella protein
+brucella virulence factor disposition
+brucella protective antigen
+brucella protective antigen role
+pcr forward primer role
+pcr reverse primer role
+brucella ovis lipopolysaccharide
+brucella contaminated milk producing disposition
+brucella abortus infection diagnosis by pcr test
+brucella melitensis biovar 1 infection diagnosis by pcr test
+brucella melitensis biovar 2 infection diagnosis by pcr test
+brucella melitensis infection diagnosis by pcr test
+brucela melitensis biovar 3 infection diagnosis by pcr test
+brucella abortus biovar 1 infection diagnosis by pcr test
+brucella abortus biovar 2 infection diagnosis by pcr test
+brucella abortus biovar 3 infection diagnosis by pcr test
+brucella abortus biovar 4 infection diagnosis by pcr test
+brucella abortus biovar 5 infection diagnosis by pcr test
+brucella abortus biovar 6 infection diagnosis by pcr test
+brucella abortus biovar 7 infection diagnosis by pcr test
+brucella abortus biovar 9 infection diagnosis by pcr test
+brucella suis infection diagnosis by pcr test
+brucella suis biovar 1 infection diagnosis by pcr test
+brucella suis biovar 2 infection diagnosis by pcr test
+brucella suis biovar 3 infection diagnosis by pcr test
+brucella suis biovar 4 infection diagnosis by pcr test
+brucella suis biovar 5 infection diagnosis by pcr test
+pcr assay for brucellosis
+laboratory test for brucellosis
+brucella infection test by culturing
+immunoassay test for brucellosis
+letter string
+genome
+dna primer sequence data
+2 - mercapto - ethanol test for cattle brucellosis
+brucellosis patient derived blood specimen
+temporal distribution
+intentional release
+brucella intentional release
+accidental release
+pasteurization
+pasteurization of dairy product
+pasteurization of dairy product potentially containing brucella
+milk pasteurization
+pasteurization of milk potentially containing brucella
+eradication of infectious disease
+brucellosis eradication
+eradication of non - human brucellosis
+antibiotic brucellosis treatment
+who standard treatment for non - humanl brucellosis
+who recommended human brucellosis treatment
+brucella infection
+brucellosis disease course
+human brucellosis disease course
+pathogen virulence process
+survived infectious agent in host
+survived brucella in host
+brucella process towards host infection
+dna sequence genetic material
+cattle brucellosis disease course
+sheep brucellosis disease course
+swine brucellosis disease course
+cattle brucellosis pathogen role
+human brucellosis pathogen role
+process of establishing brucella infection in host
+patient role
+brucellosis patient role
+drinking function
+milk drinking function
+milk producing disposition
+brucella - contaminated milk
+milk producing process
+temporal distribution of brucellosis
+brucella lipopolysaccharide
+brucella abortus lipopolysaccharide
+brucella suis lipopolysaccharide
+brucellosis pathogen role
+brucella host role
+goat brucellosis pathogen role
+sheep brucellosis pathogen role
+camel brucellosis pathogen role
+pig brucellosis pathogen role
+dog brucellosis pathogen role
+dog brucellosis
+camel brucellosis
+goat brucellosis
+goat brucellosis disease course
+sheep brucellosis symptom
+camel brucellosis symptom
+camel brucellosis disease course
+dog brucellosis disease course
+dog brucellosis symptom
+brucellosis pathological bodily process
+brucella aerosolization
+eradication of human brucellosis
+brucellosis epidemic
+disinfection of aerosolized brucella
+bleach disinfection of aerosolized brucella
+bleach
+human brucellosis epidemic
+non - human brucellosis epidemic
+brucella contaminated milk producing process
+brucella vaccine preparation
+brucella infection incidence
+brucella infection incidence proportion
+brucella infection incidence rate
+brucella infection prevalence
+brucellosis endemicity
+human brucellosis endemicity
+non - human brucellosis endemicity
+brucellosis hyper - endemicity
+human brcuellosis hyper - endemicity
+non - human brucellosis hyper - endemicity
+brucellosis incidence
+human brucellosis incidence
+non - human brucellosis incidence
+brucellosis incidence proportion
+human brucellosis incidence proportion
+non - human brucellosis incidence proportion
+brucellosis endemic rate
+human brucellosis endemic rate
+brucellosis mortality rate
+brucellosis endemic level
+brucellosis sporadicity
+brucellosis control program
+who standard doxycycline treatement for human brucellosis
+who standard streptomycin treatment for human brucellosis
+infectious disease endemic site
+brucellosis endemic site
+infectious disease free site
+brucellosis free site
+infectious disease non - endemic site
+protein coding gene
+brucella protein coding gene
+chromosome of brucella spp .
+symbol of gene
+symbol of protein
+brucella protein amino acid sequence data
+real - time pcr for detecting b . abortus
+pcr assay for detecting brucella omp - 2
+geographic distribution
+disease reemerging
+chromosome 1 of brucella melitensis 16m
+animal dealer role
+laboratory worker role
+research worker role
+veterinarian role
+abattoir worker role
+butcher role
+dog owner role
+dog handler role
+occupational disease
+reemerging infectious disease
+endemic disease
+non - endemic disease
+brucellosis outbreak
+disease cluster
+pcr product sequence data
+animal husbandary
+contact transmission process
+food - borne transmission process
+brucella entry into macrophage
+air - borne transmission process
+brucella intracellular survival in macrophage
+establishment of brucella intracellular localization
+establishment of brucella macrophage localization
+b .abortus genome sequence data
+sequence data of 139bp's region located in brucella omp - 2 gene
+burcella omp - 2 gene sequence data
+continuous treatment duration
+normal temperature
+elevated temperature
+body temperature staying normal
+body temperature elevation
+mornings during the course of disease
+afternoons during the course of disease
+livestock
+dairy products
+delivery of brucella infected livestock
+abortion of brucella infected livestock
+international travel
+importation of dairy products
+brucella infected meat
+brucella infected liver
+brucella infected bone marrow
+farmer role
+dairy worker role
+herdsman role
+cattle rancher role
+shepherd role
+country
+quarantine
+screening
+biosurveillance
+disease surveillance system
+brucellosis health education
+smooth brucella strain
+brucella infection test by blood culturing
+brucella infection test by milk culturing
+b .abortus genome
+biohazard containment
+rough brucella strain
+brucellosis diagnostic process
+health surveillance
+infectious disease reemergence site
+brucellosis reemergence site
+b . abortus host role
+environmental surveillance
+brucella containment
+brucella canis host role
+brucella melitensis host role
+brucella cetaceae host role
+brucella neotomae host role
+brucella ovis host role
+brucella pinnipediae host role
+bioterrorism agent role
+administrating doxycycline 100mg twice a day
+administrating streptomycin 1g a day
+smooth brucella lipopolysaccharide
+rough brucella lipopolysaccharide
+host - brucella interaction
+brucella virulence
+brucella t4ss effector role
+brucella t4ss effector
+brucella erythritol catabolic process
+negative regulation of brucella intracellular replication in macrophage
+macrophage - smooth brucella interaction
+macrophage - rough brucella interaction
+dendritic cell - rough brucella interaction
+dendritic cell -  smooth brucella interaction
+epithelial cell  -  smooth brucella interaction
+epithelial cell  -  rough brucella interaction
+artificially mutated brucella
+negative regulation of brucella entry into host cell
+brucella intracellular trafficking in macrophage
+smooth brucella intracellular trafficking in macrophage
+rough brucella intracellular trafficking in macrophage
+brucella purine biosynthesis pathway
+brucella branched chain family amino acid biosynthetic process
+brucella metabolic process
+brucella lipopolysaccharide biosynthetic process
+brucella glycine metabolic process
+brucella one - carbon metabolic process
+brucella trna processing
+brucella glucose metabolic process
+brucella carbohydrate metabolic process
+brucella porphyrin - containing compound biosynthetic process
+brucella heme biosynthetic process
+brucella aromatic amino acid family biosynthetic process
+brucella gluconeogenesis
+brucella glycolysis
+translation process in brucella
+macrophage lipid raft
+process of establishing brucella infection in dendritic cell
+macrophage  -  brucella interaction
+macrophage anti - brucella process
+dendritic cell  -  brucella interaction
+epithelial cell  -  brucella interaction
+smooth lps and macrophage lipid raft interaction
+engulfment of smooth brucella by macrophage
+engulfment of brucella by macrophage
+engulfment of rough brucella by macrophage
+formation of early phagosome containing smooth brucella
+formation of intermediate smooth brucella containing phagosome
+acidification of smooth brucella containing phagosome
+smooth brucella containing phagosome fusion with er membrane
+smooth brucella intracellular replication in macrophage
+smooth brucella entry into macrophage
+rough brucella entry into macrophage
+smooth brucella relsease from macrophage
+formation of early phagosome containing rough brucella
+maturation of phagsome containing rough brucella
+phagosome containing rough brucella fusion with lysosome
+macrophage killing of brucella
+brucella resistance to antimicrobial peptide
+brucella resistance to nitrosative stress
+brucella resistance to acidic stress
+smooth brucella resistance to antimicrobial peptide
+smooth brucella resistance to oxidative stress inside bcv
+smooth brucella resistance to nitrosative stress inside bcv
+smooth brucella resistance to aicidity inside bcv
+enzyme substrate role
+brucella type iv secretion system
+whole - cell hybridization assay to detect brucella
+disposition of uptaking erythritol as carbon source
+process of establishing brucella infection in mouse
+attenuated disposition
+host - pathogen interaction
+hela cell  -  brucella interaction
+mouse  -  brucella interaction
+brucella intracellular survival
+virulent disposition
+brucella intracellular replication in hela cell
+negative regulation of brucella intracellular replication in hela cell
+brucella o - polysaccharide biosynthetic process
+brucella intracellular growth
+brucella glycerol metabolic process
+brucella intracellular trafficking
+brucella virb operon promoter
+vbjr  -  brucella virb promoter binding
+brucella rica and rab2 binding
+ihf  -  brucella virb promoter binding
+hutc  -  brucella virb promoter binding
+brucella intergarion host factor
+brucella virb operon
+brucella ery operon
+brucella uptaking erythritol as carbon resource
+brucella operon
+brucella operon promoter
+caspase - 2 activation
+disposition to host programmed cell death induced by brucella infection
+brucella resistance to host pcd
+apoptotic macrophage cell death
+necrotic macrophage cell death
+process of establishing rb51 infection in macrophage
+establishing virulent brucella infection inside macrophage
+brucella virulence process
+brucella intracellular replication
+host cell
+6 weeks continuous doxycycline treatment duration of who standard  for human brucellosis
+2 weeks continuous streptomycin treatment  duration of who standard  for human brucellosis
+3 weeks continuous streptomycin treatment duration of who standard  for human brucellosis
+brucella protective antigen stimulated acquired immune response
+brucella - specific protective t - cell mediated immune response
+b . suis 1330 rbsk mutant
+b . suis 1330 mgtb mutant
+b . suis 1330 nodv mutant
+b . suis 1330 gltd mutant
+b . suis 1330 virb11 mutant
+b . suis 1330 virb10 mutant
+b . suis 1330 virb9 mutant
+b . suis 1330 virb8 mutant
+b . suis 1330 virb6 mutant
+b . suis 1330 virb5 mutant
+b . suis 1330 virb4 mutant
+b . suis 1330 virb3 mutant
+b . suis 1330 virb2 mutant
+b . suis 1330 virb1 mutant
+b . suis 1330 hemh mutant
+b . suis 1330 omp10 mutant
+b . suis 1330 gnd mutant
+b . suis 1330 vjbr mutant
+b . suis 1330 gtrb mutant
+b . suis 1330 deor mutant
+b . suis 1330 flgi mutant
+b . suis 1330 gntr mutant
+b . suis 1330 caib mutant
+b . suis 1330 nore mutant
+b . suis 1330 nord mutant
+b . suis 1330 narg mutant
+b . suis 1330 nrdh mutant
+b . suis 1330 wbpw mutant
+b . suis 1330 manb mutant
+b . suis 1330 oxyr mutant
+b . suis 1330 xfp mutant
+b . suis 1330 glpk mutant
+b . suis 1330 ssub mutant
+b . suis 1330 cydd mutant
+b . suis 1330 cydc mutant
+b . suis 1330 cydb mutant
+b . suis 1330 rbsc mutant
+b . suis 1330 pcs mutant
+b . suis 1330 aidb mutant
+b . suis 1330 pyrb mutant
+b . suis 1330 divk mutant
+b . suis 1330 ugpb mutant
+b . suis 1330 ugpa mutant
+b . suis bra0692 mutant
+b . suis 1330 fbpa mutant
+b . suis 1330 sodc mutant
+b . suis 1330 rpir mutant
+b . suis 1330 gcvp mutant
+b . suis 1330 gcvt mutant
+b . suis 1330 xsea mutant
+b . suis 1330 zwf mutant
+b . suis 1330 nika mutant
+b . suis 1330 galcd mutant
+b . suis 1330 eryb mutant
+b . suis 1330 fdha mutant
+b . suis 1330 arag mutant
+b . suis 1330 dacf mutant
+b . suis 1330 cobw mutant
+b . suis 1330 dppa mutant
+b . suis 1330 znua mutant
+b . suis 1330 znuc mutant
+b . suis 1330 flge mutant
+b . suis 1330 motb mutant
+b . suis 1330 flif mutant
+b . suis 1330 rpsa mutant
+b . suis 1330 phea mutant
+b . suis 1330 pgm mutant
+b . suis 1330 ilvd mutant
+b . suis 1330 ndvb mutant
+b . suis 1330 glnd mutant
+b . suis 1330 cysi mutant
+b . suis 1330 meth mutant
+b . suis 1330 malk mutant
+b . suis 1330 hisd mutant
+b . suis 1330 pgi mutant
+b . suis 1330 pyrd mutant
+b . suis 1330 vsrb mutant
+b . suis 1330 baca mutant
+b . suis 1330 purd mutant
+b . suis 1330 aroc mutant
+b . suis 1330 exsa mutant
+b . suis 1330 purf mutant
+b . suis 1330 tldd mutant
+b . suis 1330 thrc mutant
+b . suis 1330 dsba mutant
+b . suis 1330 wbpl mutant
+b . suis 1330 wbkb mutant
+b . suis 1330 rfbd mutant
+b . suis 1330 pera mutant
+b . suis 1330 gmd mutant
+b . suis 1330 wbka mutant
+b . suis 1330 pmm mutant
+b . suis 1330 wbpz mutant
+b . suis 1330 feup mutant
+b . suis 1330 feuq mutant
+b . suis 1330 htra mutant
+b . suis 1330 lpsa mutant
+b . suis 1330 pepn mutant
+b . suis 1330 spott mutant
+b . suis 1330 omp25 mutant
+b . suis 1330 purn mutant
+b . suis 1330 purm mutant
+b . suis 1330 glya mutant
+b . suis 1330 purl mutant
+b . suis 1330 tig mutant
+b . suis 1330 amic mutant
+b . suis 1330 nifs mutant
+b . suis 1330 arti mutant
+b . suis 1330 wbda mutant
+b . suis 1330 glna mutant
+b . suis 1330 cysk mutant
+b . suis 1330 uvra mutant
+b . suis 1330 lon mutant
+b . suis 1330 hfq mutant
+b . suis 1330 ntry mutant
+b . suis 1330 ntrc mutant
+b . suis 1330 ppid mutant
+b . suis 1330 upps mutant
+b . suis 1330 reca mutant
+b . suis 1330 rpoa mutant
+b . suis 1330 gloa mutant
+b . suis 1330 cobb mutant
+b . suis 1330 aspb mutant
+b . suis 1330 ilvc mutant
+b . suis 1330 miaa mutant
+b . suis 1330 serb mutant
+b . suis 1330 pnca mutant
+b . suis 1330 aspc mutant
+b . suis 1330 lysr mutant
+b . suis 1330 pth mutant
+b . suis 1330 leua mutant
+b . suis 1330 dsbb mutant
+b . suis 1330 alka mutant
+b . suis 1330 maca mutant
+b . suis 1330 dut mutant
+b . suis 1330 ansc mutant
+b . suis 1330 pure mutant
+b . suis 1330 pyc mutant
+b . suis 1330 livh mutant
+b . suis 1330 purh mutant
+b . suis 1330 leuc mutant
+b . suis 1330 rpls mutant
+b . suis 1330 omp19 mutant
+b . suis 1330 lysa mutant
+b . suis 1330 hpt mutant
+b . suis 1330 hisc mutant
+b . suis 1330 hisf mutant
+b . suis 1330 bvrr mutant
+b . suis 1330 bvrs mutant
+b . suis 1330 dnak mutant
+b . suis 1330 pmta mutant
+b . suis 1330 mutm mutant
+b . melitensis 16m hpt mutant
+b . melitensis 16m lysa mutant
+b . melitensis 16m bmei0085 mutant
+b . melitensis 16m omp19 mutant
+b . melitensis 16m rpls mutant
+b . melitensis 16m leuc mutant
+b . melitensis 16m gntr4 mutant
+b . melitensis 16m pstp mutant
+b . melitensis 16m purh mutant
+b . melitensis 16m livh mutant
+b . melitensis 16m pyc mutant
+b . melitensis 16m mosc mutant
+b . melitensis 16m mgps mutant
+b . melitensis 16m pure mutant
+b . melitensis 16m gntr2 mutant
+b . melitensis 16m gntr17 mutant
+b . melitensis 16m ansc mutant
+b . melitensis 16m dut mutant
+b . melitensis 16m maca mutant
+b . melitensis 16m alka mutant
+b . melitensis 16m dsbb mutant
+b . melitensis 16m arsr6 mutant
+b . melitensis 16m dppa mutant
+b . melitensis 16m leua mutant
+b . melitensis 16m bmei0455 mutant
+b . melitensis 16m pth mutant
+b . melitensis 16m lpsb mutant
+b . melitensis 16m trkh mutant
+b . melitensis 16m lysr mutant
+b . melitensis 16m aspc mutant
+b . melitensis 16m carab mutant
+b . melitensis 16m pnca mutant
+b . melitensis 16m bica mutant
+b . melitensis 16m serb mutant
+b . melitensis 16m miaa mutant
+b . melitensis 16m ilvi mutant
+b . melitensis 16m ilvc mutant
+b . melitensis 16m aspb mutant
+b . melitensis 16m bmei0671 mutant
+b . melitensis 16m cobb mutant
+b . melitensis 16m thra mutant
+b . melitensis 16m gloa mutant
+b . melitensis 16m rpoa mutant
+b . melitensis 16m reca mutant
+b . melitensis 16m upps mutant
+b . melitensis 16m ppid mutant
+b . melitensis 16m ntry mutant
+b . melitensis 16m hfq mutant
+b . melitensis 16m lon mutant
+b . melitensis 16m uvra mutant
+b . melitensis gntr5 hpt mutant
+b . melitensis 16m caib mutant
+b . melitensis 16m cysk mutant
+b . melitensis 16m glna mutant
+b . melitensis 16m wbda mutant
+b . melitensis 16m moaa mutant
+b . melitensis 16m dsba mutant
+b . melitensis 16m nifs mutant
+b . melitensis 16m amic mutant
+b . melitensis 16m tig mutant
+b . melitensis 16m arti mutant
+b . melitensis 16m cbbe mutant
+b . melitensis 16m purl mutant
+b . melitensis 16m glya mutant
+b . melitensis 16m bmei1229 mutant
+b . melitensis 16m gale mutant
+b . melitensis 16m purm mutant
+b . melitensis 16m purn mutant
+b . melitensis 16m omp25 mutant
+b . melitensis 16m bmei1258 mutant
+b . melitensis 16m pyrc mutant
+b . melitensis 16m spott mutant
+b . melitensis 16m lpsa mutant
+b . melitensis 16m htra mutant
+b . melitensis 16m feuq mutant
+b . melitensis 16m feup mutant
+b . melitensis 16m bmei1339 mutant
+b . melitensis 16m bmei1361 mutant
+b . melitensis 16m wbpz mutant
+b . melitensis 16m pmm mutant
+b . melitensis 16m wbka mutant
+b . melitensis 16m rfbd mutant
+b . melitensis 16m pera mutant
+b . melitensis 16m wbpl mutant
+b . melitensis 16m bmei1443 mutant
+b . melitensis 16m bmei1448 mutant
+b . melitensis 16m thrc mutant
+b . melitensis 16m tldd mutant
+b . melitensis 16m purf mutant
+b . melitensis 16m dxps mutant
+b . melitensis 16m aroc mutant
+b . melitensis 16m purd mutant
+b . melitensis 16m bmei1531 mutant
+b . melitensis 16m baca mutant
+b . melitensis 16m lysr18 mutant
+b . melitensis 16m vsrb mutant
+b . melitensis 16m pyrd mutant
+b . melitensis 16m pgi mutant
+b . melitensis 16m bmei1658 mutant
+b . melitensis 16m hisd mutant
+b . melitensis 16m malk mutant
+b . melitensis 16m exsa mutant
+b . melitensis 16m meth mutant
+b . melitensis 16m cysi mutant
+b . melitensis 16m glnl mutant
+b . melitensis 16m glnd mutant
+b . melitensis 16m bmei1809 mutant
+b . melitensis 16m ndvb mutant
+b . melitensis 16m bmei1844 mutant
+b . melitensis 16m ilvd mutant
+b . melitensis 16m cysy mutant
+b . melitensis 16m bmei1859 mutant
+b . melitensis 16m bmei1879 mutant
+b . melitensis 16m pgm mutant
+b . melitensis 16m bmei1902 mutant
+b . melitensis 16m lysr13 mutant
+b . melitensis 16m rpsa mutant
+b . melitensis 16m mutm mutant
+b . melitensis 16m dnak mutant
+b . melitensis 16m bvrs mutant
+b . melitensis 16m bvrr mutant
+b . melitensis 16m hisf mutant
+b . melitensis 16m omp10 mutant
+b . melitensis 16m hemh mutant
+b . melitensis 16m virb1 mutant
+b . melitensis 16m virb2 mutant
+b . melitensis 16m virb3 mutant
+b . melitensis 16m virb4 mutant
+b . melitensis 16m virb5 mutant
+b . melitensis 16m virb6 mutant
+b . melitensis 16m virb8 mutant
+b . melitensis 16m virb9 mutant
+b . melitensis 16m virb10 mutant
+b . melitensis 16m virb11 mutant
+b . melitensis 16m gltd mutant
+b . melitensis 16m bmeii0040 mutant
+b . melitensis 16m nodv mutant
+b . melitensis 16m mgtb mutant
+b . melitensis 16m dhbc mutant
+b . melitensis 16m rbsk mutant
+b . melitensis 16m gntr10 mutant
+b . melitensis 16m bmeii0128 mutant
+b . melitensis 16m pheb mutant
+b . melitensis 16m flic mutant
+b . melitensis 16m flif mutant
+b . melitensis 16m motb mutant
+b . melitensis 16m ftcr mutant
+b . melitensis 16m flge mutant
+b . melitensis 16m flgha mutant
+b . melitensis 16m znuc mutant
+b . melitensis 16m znua mutant
+b . melitensis 16m bmeii0274 mutant
+b . melitensis 16m dbsa mutant
+b . melitensis 16m cobw mutant
+b . melitensis 16m bmeii0318 mutant
+b . melitensis 16m bmeii0336 mutant
+b . melitensis 16m dacf mutant
+b . melitensis 16m arag mutant
+b . melitensis 16m fdha mutant
+b . melitensis 16m lysr12 mutant
+b . melitensis 16m eryc mutant
+b . melitensis 16m eryb mutant
+b . melitensis 16m gntr1 mutant
+b . melitensis 16m galcd mutant
+b . melitensis 16m nika mutant
+b . melitensis 16m zwf mutant
+b . melitensis 16m xsea mutant
+b . melitensis 16m mocc mutant
+b . melitensis 16m rpir mutant
+b . melitensis 16m sodc mutant
+b . melitensis 16m fbpa mutant
+b . melitensis 16m bmeii0591 mutant
+b . melitensis 16m ugpa mutant
+b . melitensis 16m bmeii0626 mutant
+b . melitensis 16m divk mutant
+b . melitensis 16m pyrb mutant
+b . melitensis 16m aidb mutant
+b . melitensis 16m rbsc mutant
+b . melitensis 16m cydb mutant
+b . melitensis 16m cydc mutant
+b . melitensis 16m cydd mutant
+b . melitensis 16m ssub mutant
+b . melitensis 16m glpk mutant
+b . melitensis 16m xfp mutant
+b . melitensis 16m manb mutant
+b . melitensis 16m wbpw mutant
+b . melitensis 16m bmeii0923 mutant
+b . melitensis 16m nrdi mutant
+b . melitensis 16m nrdh mutant
+b . melitensis 16m bmeii0935 mutant
+b . melitensis 16m narg mutant
+b . melitensis 16m nore mutant
+b . melitensis 16m bmeii1037 mutant
+b . melitensis 16m bmeii1045 mutant
+b . melitensis 16m glup mutant
+b . melitensis 16m gntr mutant
+b . melitensis 16m flgi mutant
+b . melitensis 16m deor mutant
+b . melitensis 16m gtrb mutant
+b . melitensis 16m vjbr mutant
+b . melitensis 16m gnd mutant
+b . abortus 2308 meth mutant
+b . abortus 2308 pgi mutant
+b . abortus 2308 tig mutant
+b . abortus 2308 uvra mutant
+b . abortus 2308 miaa mutant
+b . abortus 2308 aroc mutant
+b . abortus 2308 aspc mutant
+b . abortus 2308 baca mutant
+b . abortus 2308 cysi mutant
+b . abortus 2308 dut mutant
+b . abortus 2308 glna mutant
+b . abortus 2308 gloa mutant
+b . abortus 2308 glya mutant
+b . abortus 2308 gmd mutant
+b . abortus 2308 hfq mutant
+b . abortus 2308 hisc mutant
+b . abortus 2308 hisd mutant
+b . abortus 2308 hisf mutant
+b . abortus 2308 hpt mutant
+b . abortus 2308 ilvd mutant
+b . abortus 2308 leua mutant
+b . abortus 2308 leuc mutant
+b . abortus 2308 lysa mutant
+b . abortus 2308 ntrc mutant
+b . abortus 2308 ntry mutant
+b . abortus 2308 omp19 mutant
+b . abortus 2308 pepn mutant
+b . abortus 2308 pgm mutant
+b . abortus 2308 phea mutant
+b . abortus 2308 pth mutant
+b . abortus 2308 purd mutant
+b . abortus 2308 purf mutant
+b . abortus 2308 purh mutant
+b . abortus 2308 purm mutant
+b . abortus 2308 purn mutant
+b . abortus 2308 pyc mutant
+b . abortus 2308 pyrd mutant
+b . abortus 2308 reca mutant
+b . abortus 2308 rfbd mutant
+b . abortus 2308 rpls mutant
+b . abortus 2308 rpoa mutant
+b . abortus 2308 rpsa mutant
+b . abortus 2308 flge mutant
+b . abortus 2308 motb mutant
+b . abortus 2308 ugpa mutant
+b . abortus 2308 ugpb mutant
+b . abortus 2308 znua mutant
+b . abortus 2308 znuc mutant
+b . abortus 2308 nrdh mutant
+b . abortus 2308 pyrb mutant
+b . abortus 2308 sodc mutant
+b . abortus 2308 virb8 mutant
+b . abortus 2308 xsea mutant
+b . abortus 2308 narg mutant
+b . abortus 2308 virb5 mutant
+b . abortus 2308 virb3 mutant
+b . abortus 2308 virb2 mutant
+b . abortus 2308 omp10 mutant
+b . abortus 2308 cydb mutant
+b . abortus 2308 divk mutant
+b . abortus 2308 flif mutant
+b . abortus 2308 gcvp mutant
+b . abortus 2308 gcvt mutant
+b . abortus 2308 gltd mutant
+b . abortus 2308 gnd mutant
+b . abortus 2308 hemh mutant
+b . melitensis 16m bmei0066 mutant
+b . abortus 2308 asp24 mutant
+b . melitensis 16m bp26 mutant
+b . abortus 2308 pgk mutant
+planned process
+processed material
+material processing
+specimen role
+primer role
+pcr product
+polymerase chain reaction
+material transformation objective
+organism
+specimen
+enzymatic amplification
+antigen
+gene
+gene disposition
+protein - coding gene disposition
+pseudo gene disposition
+other gene disposition
+genome of bacteria
+genome of brucella
+genome of brucella suis 1330
+genome of brucella melitensis bv . 1 str . 16m
+genome of brucella melitensis biovar abortus 2308
+gene of bacteria
+gene of brucella
+gene of brucella suis 1330
+gene of brucella melitensis bv . 1 str . 16m
+gene of brucella melitensis biovar abortus 2308
+protein - coding gene of brucella suis 1330
+protein - coding gene of brucella melitensis bv . 1 str . 16m
+protein - coding gene of brucella melitensis biovar abortus 2308
+pseudo gene of brucella suis 1330
+pseudo gene of brucella melitensis biovar abortus 2308
+gene of brucella suis 1330 with other gene disposition
+clinical finding
+clinical history
+clinical picture
+image finding
+laboratory finding
+preclinical finding
+symptom
+manifestation of a disease
+phenotype
+sign
+clinical manifestation of a disease
+preclinical manifestation of a disease
+clinical phenotype
+disease phenotype
+vital sign
+predisposition to disease of type x
+disease
+genetic predisposition to disease of type x
+acquired genetic disease
+constitutional genetic disease
+abnormal homeostasis
+normal homeostasis
+configuration
+pathological physical configuration
+disorder
+epigenetic disorder
+genetic disorder
+acquired genetic disorder
+constitutional genetic disorder
+clinical history taking
+laboratory test
+physical examination
+etiological process
+pathological bodily process
+disease course
+chronic disease course
+progressive disease course
+transient disease course
+diagnosis
+normal value
+pathological formation
+pathological anatomical structure
+portion of pathological body substance
+pathological transformation
+pathological derivation
+pathological invasion
+physical examination finding
+pain
+syndrome
+extended organism
+patient symptom report
+congenital malformation
+treatment
+convalescence
+life course
+prognosis
+acute disease course
+inflammation process
+health care process
+health care encounter
+hospitalization
+outpatient encounter
+inpatient encounter
+ed encounter
+injury
+prophylaxis
+diagnostic process
+protein
+caspase - 2
+brucella suis 1330 protein
+brucella melitensis bv . 1 str . 16m protein
+brucella abortus bv . 1 str . 9 - 941 protein
+brucella melitensis biovar abortus 2308 protein
+brucella ovis atcc 25840 protein
+brucella canis atcc 23365 protein
+brucella melitensis atcc 23457 protein
+transmission process
+suggested label: indirect pathogen transmission process
+uterine cervix
+liver
+kidney
+bone marrow
+vaccine
+brucella abortus dna vaccine pcdna - sod
+brucella abortus vaccine rb51
+brucella abortus vaccine strain 19
+brucella vaccine
+immunized
+b . melitensis bp26 deletion vaccine
+microencapsulated b . melitensis mutant vaccine
+b . melitensis p39 recombinant protein vaccine
+protective antigen role
+vaccine preparation
+b . melitensis rev . 1 with p39 deletion
+brucella suis vaccine
+brucella suis strain 2
+brucella abortus s19 with p39 deletion
+brucella abortus conjugate vaccine
+brucella abortus recombinant vector vaccine
+live attenuated brucella vaccine
+live attenuated brucella abortus vaccine
+live attenuated brucella melitensis vaccine
+live attenuated brucella suis vaccine
+b . abortus hsa - l7 / l12
+b . melitensis rev . 1 with bp26 and omp31 deletions
+b . abortus l7 / l12 fused to mbp
+b . abortus bls - l7 / l12

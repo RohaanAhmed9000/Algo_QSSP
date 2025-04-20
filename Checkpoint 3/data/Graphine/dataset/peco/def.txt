@@ -1,0 +1,537 @@
+a plant experimental condition  ( peco:0007359 )  or set of conditions describing the application of an abiotic  ( peco:0007191 )  or biotic plant exposure  ( peco:0007357 )  or the combinatorial application thereof .
+obsolete: a plant environment  ( peco:0007359 )  involving a plant exposure  ( peco:0001001 )  ,  or a combination plant treatments ,  as well as natural conditions for plant growth .
+a chemical exposure  ( peco:0007189 )  involving the application of organic chemical ( s )  .
+a chemical exposure  ( peco:0007189 )  involving the application of inorganic chemical ( s )  .
+a mineral exposure  ( peco:0007044 )  involving exposure of plant to nickel  ( chebi:28112 )  .
+an inorganic anion exposure  ( peco:0001009 )  involving the application of phosphate  ( chebi:18367 )  .
+a mineral exposure  ( peco:0007044 )  involving exposure of the plant ( s )  to mineral salts  ( chebi:24866 )  .
+an inorganic anion exposure  ( peco:0001009 )  involving the application of sulfate  ( chebi:35175 )  .
+an inorganic chemical exposure  ( peco:0001004 )  involving the application of an anion or a mixture of anions  ( chebi:22563 )  .
+an organic chemical exposure  ( peco:0001003 )  involving the application of a carbohydrate  ( chebi:16646 )  or mixture of carbohydrates .
+a carbohydrate exposure  ( peco:0001010 )  involving the application of monosaccharide ( s )  ( chebi:35381 )  .
+a monosaccharide exposure  ( peco:0001011 )  involving the application of hexose  ( chebi:18133 )  sugar ( s )  .
+a hexose exposure  ( peco:0001012 )  involving the application of glucose  ( chebi:17234 )  .
+a carbohydrate exposure  ( peco:0001010 )  involving the application of disaccharide ( s )  ( chebi:36233 )  .
+a disaccharide exposure  ( peco:0001014 )  involving the application of sucrose  ( chebi:17992 )  .
+an inorganic chemical exposure  ( peco:0001004 )  involving the application of a cation  ( chebi:36916 )  or mixture of cations  .
+an inorganic cation exposure  ( peco:0001016 )  involving the application of ammonium  ( nh4 +  )   ( chebi:28938 )  .
+a mineral exposure  ( peco:0007044 )  involving exposure of plant to cadmium  ( chebi:22977 )  .
+an organic chemical exposure  ( peco:0001003 )  involving the application of a gas or mixture of gases .
+an inorganic gas exposure  ( peco:0001055 )  that involves the application of carbon dioxide  ( chebi:16526 )  .
+an inorganic anion exposure  ( peco:0001009 )  involving the application of ozone  ( chebi:29382 )  .
+a radiation quality exposure  ( peco:0007154 )  involving the exposure to gamma radiation .
+an in vitro solid growth medium  ( peco:0007262 )  composed of agar .
+an agar growth medium  ( peco:0001023 )  involving use of solid growth media in a vertical orientation .
+a nitrogen macronutrient exposure  ( peco:0007284 )   involving exposure of plant to urea  ( chebi:16199 )  as the primary or sole source of nitrogen .
+a nitrogen macronutrient exposure  ( peco:0007284 )  involving exposure of plant to 5' - s - methyl - 5' - thioadenosine  ( mta ;  chebi:17509 )  as the primary or sole source of nitrogen .
+a nitrogen macronutrient exposure  ( peco:0007284 )  involving exposure of plant to alanine  ( chebi:16449 )  as the primary or sole source of nitrogen .
+a nitrogen macronutrient exposure  ( peco:0007284 )   involving exposure of plant to glutamate  ( chebi:29987 )  as the primary or sole source of nitrogen .
+a nitrogen macronutrient exposure  ( peco:0007284 )   involving exposure of plant to arginine  ( chebi:29016 )  as the primary or sole source of nitrogen .
+a nitrogen macronutrient exposure  ( peco:0007284 )   involving exposure of plant to ornithine  ( chebi:18257 )  as the primary or sole source of nitrogen .
+a nitrogen macronutrient exposure  ( peco:0007284 )   involving exposure of plant to glutamine  ( chebi:28300 )  as the primary or sole source of nitrogen .
+an insect plant exposure  ( peco:0007333 )  involving the exposure of a plant to an insect ( s )  of the hymenoptera order .
+a hymenoptera insect plant exposure  ( peco:0001032 )  that involves exposure to parasitic wasps .
+a pseudomonas plant exposure  ( peco:0007144 )  involving the exposure to bacteria of the pseudomonas syringae group .
+a physical exposure  ( peco:0007316 )  involving both low temperature and moist conditions to overcome seed dormancy .
+a chemical exposure  ( peco:0007189 )  that induces stress .
+a chemical stress exposure  ( peco:0001036 )  involving use of oxidative stress - inducing chemicals .
+a chemical stress exposure  ( peco:0001036 )  involving use of osmotic stress - inducing chemicals .
+a radiation exposure  ( peco:0007151 )  involving exposure of plant to chemicals or radiation resulting in perturbations to the genome .
+a light intensity exposure  ( peco:0007224 )  involving use of light - dependent generations of reactive oxygen species .
+a zinc nutrient exposure  ( peco:0007309 )  involving exposure to limiting amounts or absence of zinc  ( chebi:27363 )  .
+a boron nutrient exposure  ( peco:0007273 )  involving exposure to limiting amounts or absence of boron  ( chebi:27560 )  .
+a glucose exposure  ( peco:0001013 )  involving exposure to limiting amounts or the absence of glucose  ( chebi:17234 )  .
+a carbon nutrient exposure  ( peco:0007303 )  involving exposure to limiting amounts or the absence of carbon  ( chebi:27594 )  .
+a sulfate exposure  ( peco:0001008 )  involving exposure to limiting amounts or the absence of sulfate  ( chebi:35175 )  .
+a phosphate exposure  ( peco:0001006 )  involving exposure to limiting amounts or absence of phosphate  ( chebi:18367 )  .
+an iron nutrient exposure  ( peco:0007242 )  involving exposure to limiting amounts or the absence of iron  ( chebi:18248 )  .
+a molybdenum nutrient exposure  ( peco:0007253 )  involving exposure to limiting amounts or the absence of molybdenum  ( chebi:28685 )  .
+a magnesium nutrient exposure  ( peco:0007288 )  involving exposure to limiting amounts or the absence of magnesium  ( chebi:25107 )  .
+a nitrogen macronutrient exposure  ( peco:0007284 )  involving exposure to limiting amounts or the absence of nitrogen  ( chebi:25555 )  .
+a potassium nutrient exposure  ( peco:0007293 )  involving exposure to limiting amounts or the absence of potassium  ( chebi:26216 )  .
+a sulfur nutrient exposure  ( peco:0007295 )  involving exposure to limiting amounts or the absence of sulfur  ( chebi:26833 )  .
+a manganese nutrient exposure  ( peco:0007387 )  involving exposure to limiting amounts or the absence of manganese  ( chebi:18291 )  .
+a nitrate exposure  ( peco:0007406 )  involving exposure to limiting amounts or the absence of nitrate  ( chebi:17632 )  .
+an inorganic chemical exposure  ( peco:0001004 )  involving the application of a gas or mixture of gases .
+a carbon dioxide exposure  ( peco:0001020 )  involving an increased concentration of carbon dioxide  ( chebi:16526 )  .
+a stratification exposure  ( peco:0001035 )  involving the absence of ,  or non - standard exposure to temperature or moisture conditions utilized in the breaking of seed dormancy .
+a fungal plant exposure  ( peco:0007233 )  involving the exposure of plant to the pathogen belonging to glomeromyetes class .
+a glomeromycota exposure  ( peco:0001058 )  involving the exposure of compatible plants to mutualistic arbuscular mycorrhizal fungi .
+an inorganic anion exposure  ( peco:0001009 )  involving the application of sodium hydroxide  ( chebi:32145 )  .
+an organic chemical exposure  ( peco:0001003 )  involving the application of polyethylene glycol  ( chebi:46793 )  .
+a plant exposure  ( peco:0001001 )  used as a reference  to compare the effects of one or more treatment factors in a study .
+an in vitro solid growth medium  ( peco:0007262 )  composed of paper towels .
+a chemical fertilizer exposure  ( peco:0007086 )  involving the use of potassium fertilizer as a supplement to study plant responses .
+a potassium fertilizer exposure  ( peco:0001064 )  involving the use of potassium chloride fertilizer as a supplement to study plant responses .
+a pesticide exposure  ( peco:0007167 )  involving the application of a nematicide ;  a chemical entity or mixture of chemical entities to kill plant - parasitic nematodes .
+a natural fertilizer exposure  ( peco:0007087 )  which is the application of castor meal .
+a natural fertilizer exposure  ( peco:0007087 )  which is the application of rapeseed meal .
+a natural fertilizer exposure  ( peco:0007087 )  which is the application of a green manure .
+a salt exposure  ( peco:0007185 )  which is a treatment with calcium carbonate  ( chebi:3311 )  in order to raise the ph of the growing media .
+the exposure using uv - b light either exclusively or as part of a supplemental electromagnetic radiation in the wavelength range of 315 - 280nm .
+the exposure using uv - a light either exclusively or as part of a supplemental electromagnetic radiation in the wavelength range of 380 - 315nm .
+exposure to the regions with a temperate climate ,  which are usually characterized by having roughly equally long winters and summers .
+a biotic plant exposure  ( peco:0007357 )  involving exposure of a plant to another plant .
+obsolete .
+obsolete
+an exposure of a reference or experimental plant to the monocot plant monochoria vaginalis ,  found in its growth environment .
+an exposure of a reference or experimental plant to dicot plants found in its growth environment .
+an exposure of a reference or experimental plant to the monocot plant sagittaria montevidensis ,  found in its growth environment .
+an exposure of a reference or experimental plant to the monocot plant sagittaria longiloba ,  found in its growth environment .
+an exposure of a reference or experimental plant to the monocot plant heteranthera limosa ,  found in its growth environment .
+an exposure of a reference or experimental plant to the monocot plant echinodorus berteroi ,  found in its growth environment .
+an exposure of a reference or experimental plant to the monocot plant echinodorus cordifolius ,  found in its growth environment .
+an exposure of a reference or experimental plant to the dicot plant genus ammannia spp .
+an exposure of a reference or experimental plant to the dicot plant genus bacopa spp .
+an exposure of a reference or experimental plant to a monocot plant cyperus difformis ,  found in its growth environment .
+an exposure of a reference or experimental plant to the monocot plant scirpus fluviatilis ,  found in its growth environment .
+an exposure of a reference or experimental plant to the monocot plant cyperus difformis ,  found in its growth environment .
+an exposure of a reference or experimental plant to the monocot plant scirpus mucronatus ,  found in its growth environment .
+an exposure of a reference or experimental plant to the monocot plant alisma plantago - aquatica ,  found in its growth environment .
+an exposure of a reference or experimental plant to monocot plants found in its growth environment .
+a physical plant exposure  ( peco:0007316 )  involving the application of a gas or a combination of gasses .
+an exposure to conditions in which gaseous or dissolved oxygen is present .
+an exposure to conditions in which gaseous or dissolved oxygen is absent .
+an exposure of a reference or experimental plant to the monocot plant echinochloa glabrescens found in its growth environment .
+a plant exposure  ( peco:0001001 )  involving growth during conditions of regional seasons .
+an exposure of a reference or experimental plant to the monocot plant echinochloa crus - galli ,  found in its growth environment .
+an exposure of a reference or experimental plant to the monocot plants of genus typha spp . ,  found in its growth environment .
+an exposure of a reference or experimental plant to the monocot plant leptochloa fascicularis ,  found in its growth environment .
+an exposure of a plant to mammalian animals that may damage the plant due to grazing or feeding practices .
+an exposure involving growth during the rabi crop season  ( october - march )  as practiced in south asia .
+an exposure involving growth during the kharif crop season  ( may - october )  as practised in south asia .
+an exposure involving growth during the winter season .
+an exposure involving growth during the summer season .
+an exposure involving growth during the spring season .
+an exposure involving growth during the autumn season .
+obsolete .
+obsolete .
+a chemical exposure  ( peco:0007189 )  involving the use of antibiotic for selection purposes .
+an exposure involving growth in the presence of non - mineral nutrients to study various types of responses .
+an inorganic chemical exposure  ( peco:0001004 )  involving the application of a mineral or a combination of minerals .
+a plant macronutrient exposure  ( peco:0007240 )   involving the use of the primary plant macronutrients nitrogen  ( n )  ,  phosphorus  ( p )  ,  and potassium  ( k )  .
+an exposure involving the use of macronutrients  ( ca ,  mg ,  s )  as supplement to study various types of responses .
+an exposure involving the exposure of plant to elemental forms of nutrients as supplement .
+a salt exposure  ( peco:0007185 )  involving the use of sodium chloride salt as supplement to liquid and soil growth media to study various types of responses on its application .
+an exposure involving growing plants in soil growth media with varying contents .
+an exposure involving growing plants in varying textures of soil growth media .
+an exposure involving growing plants in a sandy soil growth media .
+an exposure involving growing plants in a growth media containing organic matter .
+an exposure involving growing plants in a silty soil growth media .
+an exposure involving growing plants in a clay soil growth media .
+an exposure involving the growth of a plant with the pathogen cochliobolus spp .
+obsolete: a treatment involving growing plants and  exposing them to varying types of flora in soil growth media .
+obsolete: a treatment involving growing plants and  exposing them to varying types of fauna in soil growth media .
+an exposure involving growing plants in soil growth media of varying ph levels .
+an exposure involving growing plants in acidic  ( low ph )  soil growth media .
+a plant fungal exposure  ( peco:0007233 )  involving the exposure of plant to the pathogen sphaerulina oryzina .
+an exposure involving growth of a plant in the geographical region of the earth limited in latitude by the two tropics ,  the tropic of cancer and the tropic of capricorn ,  and thus centered on the equator .
+an exposure involving growing plants in basic  ( high ph )  soil growth media .
+a herbicide exposure  ( peco:0007183 )  involving the use of diuron  ( dcmu )  .
+a plant exposure  ( peco:0001001 )  involving exposure to the various factors that comprise a geographical / regional location .
+an exposure involving the growth of a plant with the pathogen entyloma oryzae .
+a growth hormone exposure  ( peco:0007165 )  involving the use of cytokinin  ( or its homolog )  growth hormone .
+an exposure involving growing plants in liquid growth media .
+a growth hormone exposure  ( peco:0007165 )  involving the use of ethylene  ( or its homolog )  growth hormone .
+a growth hormone exposure  ( peco:0007165 )  involving the use of ga  ( or its homolog )  growth hormone .
+an auxin exposure  ( peco:0007074 )  involving the use of iaa  ( or its homolog )  growth hormone .
+an exposure involving liquid growth medium for cell cultured samples .
+an exposure involving the growth of a plant with the pathogen microdochium oryzae .
+a fungal plant exposure  ( peco:0007233 )  involving the exposure of plant to the pathogen belonging to basidiomycetes class .
+a growth hormone exposure  ( peco:0007165 )  involving the use of auxin  ( or its homolog )  .
+treatment involving the exposure of plant to the pathogen tilletia barclayana .
+in biological experiments often it refer to the length of the exposure time .
+treatment involving the use of sulfate fertilizer and its components as supplements to study various types of responses .
+a growth hormone exposure  ( peco:0007165 )  involving the use of ja  ( or its homolog )  .
+treatment involving the exposure of plant to the pathogen phoma sorghina .
+treatment involving the exposure of plant to the pests that do not falll under the well known classes of birds ,  mammals ,  insects ,  nematode and molluscs .
+a plant nutrient exposure  ( peco:0007241 )  involving the use of a fertilizer ,  a combination of plant nutrients .
+treatment involving the use of inorganic fertilizer and its components as supplements to study various types of responses .
+treatment involving the use of organic fertilizer and its component as supplements to study various types of responses .
+treatment involving the exposure of plant to the pathogen ceratobasidium oryzae - sativae .
+a natural fertilizer exposure  ( peco:0007087 )  which is the application of bone meal .
+treatment involving the use of ammonium nitrate supplement to study various types of responses .
+a natural fertilizer exposure  ( peco:0007087 )  which is the application of seaweed extract .
+a natural fertilizer exposure  ( peco:0007087 )  which is the application of wood ash .
+a natural fertilizer exposure  ( peco:0007087 )  which is the application of fish meal .
+treatment involving the use of sodium nitrate supplement to study various types of responses .
+treatment involving the use of calcium nitrate supplement to study various types of responses .
+treatment involving the use of potassiumium nitrate supplement to study various types of responses .
+treatment involving the use of ammonium sulfate supplement to study various types of responses .
+treatment involving the use of ferrous sulfate supplement to study various types of responses .
+treatment involving the use of potassium sulfate supplement to study various types of responses .
+treatment involving the use of super phosphate supplement to study various types of responses .
+treatment involving the use of urea as source of nitrogen supplement to study various types of responses .
+treatment involving the use of nitrogen fertilizer and its components as supplements to study various types of responses .
+treatment involving the use of phosphate fertilizer and its components as supplements to study various types of responses .
+treatment involving the use of nitrogen ,  phosphorus and potassium supplements to study various types of responses .
+a growth hormone exposure  ( peco:0007165 )  involving the use of abscisic acid  ( or its homolog )  .
+treatment involving the exposure of plant to the stramenopiles  ( heterokonts )  present in the growth environment .
+a fungal plant exposure  ( peco:0007233 )  involving the exposure of plant to the pathogen belonging to ascomycetes class .
+obsolete: a bacterial plant exposure  ( peco:0007246 )  involving the exposure of bacteria of the proteobacteria .
+treatment involving the exposure of plant to the pathogenic single strand rna positive stand virus .
+treatment involving the exposure of plant to the pathogenic double stranded rna virus .
+treatment involving the exposure of plant to the pathogenic single strand rna negative stand virus .
+treatment involving the exposure of plant to the pathogenic retroid virus .
+treatment involving the exposure of plant to the rice necrosis mosaic virus .
+treatment involving the exposure of plant to the pest of lepidoptera class .
+treatment involving the exposure of plant to the pest spodoptera spp .
+an insect plant exposure  ( peco:0007333 )  involving the exposure of a plant to an insect ( s )  of the hemiptera order .
+treatment involving the exposure of plant to the pest rice army worm .
+treatment involving the exposure of plant to the pathogen gibberella spp .
+an insect plant exposure  ( peco:0007333 )  involving the exposure of a plant to an insect ( s )  of the diptera order .
+treatment involving the exposure of plant to the pest commonly called as beetles or coleoptera .
+treatment involving the exposure of plant to the pest of thysanoptera class .
+treatment involving the exposure of plant to the pest chilo .
+treatment involving the exposure of plant to the pest rice spotting bug .
+obsolete: treatment involving the exposure of plant to the pest / pathogen / animal / plants present as part of its growth environment .
+obsolete .
+treatment involving the exposure of plant to the pest hirschmaniella spp .
+treatment involving the exposure of plant to the pest meloidogyne spp .
+in biological experiments it refer to the intermittent exposure of plant to the cycles of light and dark or one light vs the another type of light .
+the treatment using uv - c light either exclusively or as part of a supplemental electromagnetic radiation in the wavelength range of 280 - 10nm .
+the treatment using infra - red light either exclusively or as part of a supplemental light of near ir band that contains energy in the range of wavelengths 750 - 1300nm ,  which is closest to the visible light .
+the treatment using middle infra - red light either exclusively or as part of a supplemental light treatment involving middle ir band that contains energy in the range of wavelengths 1300 - 3000nm .
+the treatment using far infra - red light either exclusively or as part of a supplemental light treatment involving far ir band that contains energy in the range of wavelengths 3000 - 14000nm .
+the treatment involving an exposure to basic ph levels of the growth media .
+the treatment involving an exposure to acidic ph levels of the growth media .
+the treatment involving an exposure of plant to the pathogen magnaporthe spp .
+the treatment involving an exposure of plant to the achlya spp .
+the treatment involving an exposure of reference / experimental plant to monocot plant genus echinochloa found in its growth environment .
+the treatment involving an exposure of reference / experimental plant to monocot plant genus echinodorus found in its growth environment .
+the treatment involving an exposure of reference / experimental plant to monocot plant genus sagittaria found in its growth environment .
+the treatment involving an exposure of reference / experimental plant to monocot plant genus scirpus found in its growth environment .
+the treatment involving an exposure of reference / experimental plant to monocot plant genus cyperus found in its growth environment .
+the treatment involving an exposure of plant to the pest scirpophaga spp .
+a bacterial plant exposure  ( peco:0007246 )  involving the exposure to bacteria of the genus erwinia .
+a bacterial plant exposure  ( peco:0007246 )  involving the exposure to bacteria of the genus pseudomonas .
+a bacterial plant exposure  ( peco:0007246 )  involving the exposure to bacteria of the genus xanthomonas .
+the treatment involving use of gravity factor to study various types of responses in presence ,  absence or modified levels of gravity .
+an abiotic plant exposure  ( peco:0007191 )  involving the use of a solid or liquid substrate for growing plants or tissue - cultured plant samples .
+the treatment involving an exposure of plant to the pathogen xanthomonas oryzae .
+a chemical exposure  ( peco:0007189 )  involving use of mutagen for the mutagenesis process .
+obsolete .
+a physical plant exposure  ( peco:0007316 )  involving an exposure with a radiation type ,  intensity or quantity .
+the treatment involving amount of energy of any radiation incident upon  ( or flowing through )  unit area ,  perpendicular to the radiation source ,  in unit time .
+in biological experiments it refer to the treatment involving radiation in terms of length of the exposure time .
+the treatment involving an exposure to a given type of radiation .
+the treatment involving growing plants in different types of soil growth media .
+the treatment involving an exposure to water with varying degree of temperature ,  which may depend on regional environment .
+the treatment involving an exposure to wind with varying degree of temperature ,  which may depend on the study type or the regional environment .
+the treatment involving continuous exposure of light to the plant .
+the treatment involving an exposure of plant to the scheduled or natural exposure of day light and night cycles to the plant .
+the treatment involving an exposure to standing water during whole life span of the plant .
+a chemical exposure  ( peco:0007189 )  involving the application of one or more plant growth hormones .
+the treatment involving an exposure of plant to the pythium spinosum .
+a chemical exposure  ( peco:0007189 )  involving the application of a pesticide ;  a chemical entity or mixture of chemical entities .
+an antibiotic exposure  ( peco:0007041 )  involving use of hygromycin b antibiotic for selection purposes .
+the treatment involving exposure of plants to varying levels of ph of the growth media .
+the treatment involving an exposure to standing water from flash floods for a small part of plant's life span .
+the treatment involving an exposure to above optimal temperature ,  which may depend on the study type or the regional environment .
+the treatment involving an exposure to cold or sub - optimal temperature ,  which may depend on the study type or the regional environment .
+a physical plant exposure  ( peco:0007316 )  involving an exposure to varying degree of temperature ,  which may depend on regional environment .
+the treatment involving an exposure to a given elevation / height above sea level .
+suggests the exposure of plant to the pythium myriotylum .
+the treatment involving an exposure to a given pressure of the atmosphere at a given point .
+the treatment involving exposure of plant to the pythium irregulare .
+an auxin exposure  ( peco:0007074 )  involving use of 2 , 4 - d growth hormone and herbicide .
+the treatment involving an exposure to a given amount of rainfall .
+the treatment involving exposure of plant to the pythium graminicola .
+a pesticide exposure  ( peco:0007167 )  involving the application of a herbicide ;  a chemical entity or mixture of chemical entities .
+the treatment involving exposure of plant to the pythium dissotocum .
+a chemical exposure  ( peco:0007189 )  involving use of salts as supplement to liquid and soil growth media to study various types of responses on their application .
+the treatment involving exposure of plant to the pythium catenulatum .
+an organic chemical exposure  ( peco:0001003 )  involving the application of salicylic acid  ( chebi:16914 )  .
+the treatment involving exposure of plant to the pythium arrhenomanes .
+an abiotic plant exposure  ( peco:0007191 )  involving the application of chemical ( s )  .
+the treatment involving exposure of plant to the pathogen ustilaginoidea virens .
+a plant exposure  ( peco:0001001 )  involving the application of chemical or non - biological factors .
+the treatment involving exposure of plant to the pathogen drechslera gigantea .
+the treatment involving exposure of plant to the pathogen sclerophthora macrospora .
+the treatment involving exposure of plant to the rice ragged stunt virus .
+the treatment involving day light as the light of the sun or the artificial light in a growth chamber .
+the treatment involving an exposure to varying degree of humidity ,  which may depend on regional environment .
+a physical plant exposure  ( peco:0007316 )  involving an exposure of varying amounts of water and watering frequencies ,  which may depend on regional environment .
+the treatment involving exposure of plant to long day light duration followed by a short night cycle .
+the treatment involving exposure of plant to short day light duration followed by a long night cycle .
+the treatment using infra red  ( ir )  light either exclusively or as part of a supplemental light treatment involving ir light in the wavelength range of 700nm - 1mm .
+the treatment using far red light either exclusively or as part of a supplemental light treatment involving red color light in the wavelength range of 800 - 700 nm .
+an auxin exposure  ( peco:0007074 )  involving use of 1 - naphthaleneacetic acid growth hormone and herbicide ."
+the treatment involving exposure of plant to the rice grassy stunt 2 virus .
+the treatment involving exposure of plant to the pathogen gaeumannomyces graminis .
+the treatment using red light either exclusively or as part of a supplemental light treatment involving red color light in the wavelength range of 780 - 622 nm .
+the treatment involving exposure of plant to the rice grassy stunt 1 virus .
+the treatment involving exposure of plant to the pathogen phomopsis oryzae - sativae .
+a biotic plant exposure  ( peco:0007357 )  involving exposure of a plant to a virus or a combination of two or more viruses .
+the treatment involving exposure of plant to the pathogen cochliobolus miyabeanus .
+the treatment involving exposure of plant to the mycoplasma pest .
+the treatment involving exposure of plant to the pathogenic alternaria sp .
+the treatment using orange light either exclusively or as part of a supplemental light treatment involving orange color light in the wavelength range of 622 - 597 nm .
+the treatment using yellow light either exclusively or as part of a supplemental light treatment involving yellow color light in the wavelength range of 597 - 577 nm .
+the treatment using green light either exclusively or as part of a supplemental light treatment involving green color light in the wavelength range of 577 - 492 nm .
+the treatment using blue light either exclusively or as part of a supplemental light treatment involving blue color light in the wavelength range of 492 - 455 nm .
+the treatment using indigo light either exclusively or as part of a supplemental light treatment involving indigo color light in the wavelength range of 450 - 440 nm .
+the treatment using violet light either exclusively or as part of a supplemental light treatment involving violet color light in the wavelength range of 455 - 390 nm .
+the treatment using visible light in the wavelength range of 380 - 780 nm .
+the treatment using uv - b light either exclusively or as part of a supplemental light involving electromagnetic radiation in the wavelength range of 315 - 10nm .
+a cadmium exposure  ( peco:0001018 )  involving use of cdcl2  ( chebi:35456 )  .
+the treatment involving exposure of plant or a plant part to the amount of light energy incident upon  ( or flowing through )  unit area ,  perpendicular to the radiation source ,  in unit time .
+the treatment involving exposure of plant to fluorine as supplement to study various types of responses .
+the treatment involving exposure of plant to the pathogen magnaporthe grisea .
+the treatment involving exposure of plant to the pathogen cochliobolus lunatus .
+the treatment involving exposure of plant to chromium as supplement to study various types of responses .
+the treatment involving exposure of plant to the pathogen gibberella fujikuroi .
+the treatment involving exposure of plant to iodine as supplement to study various types of responses .
+a plant experimental condition  ( peco:0007359 )  or set of conditions describing what kind of plant growth facility was used for the experiment .
+the treatment involving exposure of plant to selenium as supplement to study various types of responses .
+a biotic plant exposure  ( peco:0007357 )  involving exposure of a plant to a fungus or a combination of fungi .
+the treatment involving exposure of plant to the pathogen pseudomonas fuscovaginae .
+the treatment involving exposure of plant to silicon as supplement to study various types of responses .
+the treatment involving exposure of plant to the pathogen pseudomonas plantarii .
+obsolete .
+obsolete .
+the treatment involving exposure of plant to elements that are required in tiny quantities for growth ,  as supplement to study various types of responses .
+a plant nutrient exposure  ( peco:0007241 )  involving the use of a plant macronutrient or combination of plant macronutrients .
+a plant chemical exposure  ( peco:0007189 )  involving a plant nutrient or a combination of plant nutrients .
+the treatment involving exposure of plant to micronutrient iron as supplement to study various types of responses .
+the treatment involving exposure of plant to the pathogen pseudomonas glumae .
+the treatment involving exposure of plant to micronutrient chlorine as supplement to study various types of responses .
+the treatment involving exposure of plant to the pathogen erwinia chrysanthemi .
+a biotic plant exposure  ( peco:0007357 )  involving exposure of a plant to bacteria .
+the treatment involving exposure of plant to the pathogen erwinia herbicola .
+the treatment where the plants were grown under greenhouse conditions .
+the treatment involving exposure of plant to the pathogen xanthomonas oryzae pv .
+the treatment involving exposure of plant to the pest zigzag leafhopper .
+the treatment involving exposure of plant to the pathogen pseudomonas syringae pathovar panici .
+the treatment involving exposure of plant to the pest white - backed planthopper .
+the treatment involving exposure of plant to micronutrient molybdenum as supplement to study various types of responses .
+the treatment involving exposure of plant to the pathogen pseudomonas avenae .
+the treatment where the plants were grown under laboratory  /  open room conditions ,  with very few controlled parameters .
+the treatment where the plants were grown under field conditions .
+the treatment involving exposure of plant to the pathogen xanthomonas oryzae pv .
+the treatment involving exposure of plant to the pest rice stink bug .
+the treatment involving an exposure to varying amounts of water in soil growth media .
+the treatment involving exposure of plant to the pest commonly calles as rice stem borer .
+the treatment involving exposure of plant to micronutrient copper as supplement to study various types of responses .
+an in vitro growth medium  ( peco:0007266 )  involving use of a solid growth medium as a substrate .
+the treatment involving exposure of plant to the pest white rice borer .
+the treatment involving exposure of plant to the pest purple stem borer .
+an in vitro growth medium  ( peco:0007265 )  involving use of liquid culture media as a substrate .
+a growth medium environment  ( peco:0007147 )  for in vitro culture ,  involving use of a solid or liquid substrate and which may include nutrients and other amendments .
+a fungicide exposure  ( peco:0007268 )  involving use of benzothiadiazole to study various types of responses on its application .
+a pesticide exposure  ( peco:0007167 )  involving the application of a fungicide ;  a chemical entity or mixture of chemical entities .
+the treatment involving study type in which plants were grown in growth chambers .
+the treatment involving continuous exposure to darkness  ( no light )  to the plant .
+the treatment involving exposure of plant to the pest scirpophaga innotata .
+the treatment involving exposure of plant to micronutrient boron as supplement to study various types of responses .
+the treatment involving exposure of plant to the pest scirpophaga incertulas .
+the treatment involving exposure of plant to the pest rice stemborer ,  rupela albinella .
+the treatment involving exposure of plant to cobalt as supplement to study various types of responses .
+the treatment involving exposure of plant to the pest dark - headed stemborer .
+the treatment involving exposure of plant to oxygen to study various types of responses .
+the treatment involving exposure of plant to the pest rice striped stemborer .
+the treatment involving study type where nothing is known in the reported literature / study about the kind of growth facilities used .
+obsolete: the treatment involving the terms that are no longer in use or were deleted are placed under this parent term .
+the treatment involving an exposure to standing water during a plant's life span .
+the treatment involving exposure of plant to the pest commonly called as oriental rice thrips .
+a primary plant macronutrient exposure  ( peco:0007045 )  involving the application of nitrogen .
+the treatment involving an exposure to the wet or the rainy season .
+the treatment involving an exposure to the dry season .
+an herbicide exposure  ( peco:0007183 )  involving the use of dibromothymoquinone  ( dbmib )  .
+the treatment involving exposure of plant to macronutrient magnesium as supplement to study various types of responses .
+the treatment involving exposure of plant to the pest rice whorl maggot .
+a cytokinin exposure  ( peco:0007066 )  involving use of kinetin ,  a cytokinin homolog .
+a cytokinin exposure  ( peco:0007066 )  involving use of benzyladenine ,  a cytokinin homolog .
+an herbicide exposure  ( peco:0007183 )  involving the use of ethylphosphine  ( ccp )  .
+the treatment involving exposure of plant to macronutrient potassium as supplement to study various types of responses .
+the treatment involving exposure of plant to the pest pelopidas mathias .
+the treatment involving exposure of plant to macronutrient sulfur as supplement to study various types of responses .
+the treatment involving exposure of plant to the pest dicladispa armigera .
+the treatment involving exposure of plant to macronutrient calcium as supplement to study various types of responses .
+the treatment involving exposure of plant to the pest rice delpahcid .
+the treatment involving exposure of plant to the pest paddy bug .
+the treatment involving use of t - dna in the flanking regions of a dna insert for mutagenesis process .
+the treatment involving exposure of plant to carbon source as supplement to study various types of responses .
+the treatment involving exposure of plant to the pest marasmia patnalis  .
+the treatment involving exposure of plant to the pest cnaphalocrocis medinalis .
+the treatment involving exposure of plant to aluminium as supplement to study various types of responses .
+the treatment involving use of transposable element as an insert for mutagenesis process .
+the treatment involving exposure of plant to the pest green leaf hopper .
+the treatment involving exposure of plant to micronutrient zinc as supplement to study various types of responses .
+the treatment involving use of ac / ds transposable system for mutagenesis process .
+the treatment involving exposure of plant to the pest rice gall midge .
+the use of tos - 17 transposable element for mutagenesis process .
+the treatment involving exposure of plant to the pest pseudaletia separata .
+the treatment involving exposure of plant to the pest rice caseworm .
+the treatment involving use of gravity factor to study various types of responses in the absence of gravity or space like conditions .
+an abiotic plant exposure  ( peco:0007191 )  involving the application of a physical factor such as temperature ,  moisture ,  gravity ,  wind ,  radiation ,  etc .
+the treatment involving exposure of plant to the pest brown planthopper .
+the treatment involving exposure of plant to the rice yellow mottle virus .
+the treatment involving an exposure to above optimal air temperature ,  which may depend on the study type or the regional environment .
+the treatment involving exposure of plant to the pest meloidogyne oryzae .
+the treatment involving exposure of plant to the pest hirschmaniella spinicaudata .
+the treatment involving exposure of plant to the pest hirschmaniella oryzae .
+the treatment involving exposure of plant to the pest hirschmaniella mucronata .
+the treatment involving exposure of plant to the pest hirschmaniella imamuri .
+the treatment involving exposure of plant to the pest hirschmaniella imamuri .
+the treatment involving exposure of plant to the pest mycoplasma like organism .
+the treatment involving exposure of plant to the pathogen mycovellosiella oryzae .
+the treatment involving exposure of plant to the heterokont pythium .
+the treatment involving exposure of plant to the pest commonly called as western yellowstriped armyworm .
+the treatment involving exposure of plant to the pest commonly calles as lawn armyworm .
+the treatment involving exposure of plant to the pest pseudaletia unipuncta .
+the treatment involving an exposure to cold or sub - optimal air temperature ,  which may depend on the study type or the regional environment .
+a metazoan plant treatment   ( peco:0007349 )  involving exposure of a plant to an insect or a mixture of insects .
+the treatment involving exposure of plant to the pest pomacea canaliculata .
+the treatment involving exposure of plant to the pest molluscs .
+the treatment involving exposure of plant to the pest ditylenchus angustus .
+the treatment involving exposure of plant to the nematode pests .
+the treatment involving an exposure to cold or sub - optimal water temperature ,  which may depend on the study type or the regional environment .
+the treatment involving exposure of plant to the rice tungro spherical virus .
+the treatment involving exposure of plant to the heterokont achlya conspicua .
+the treatment involving exposure of plant to the pathogenic fusarium spp .
+the treatment involving exposure of plant to the heterokont achlya klebsiana .
+the treatment involving exposure of plant to the cattle .
+the treatment involving exposure of plant to the rice tungro bacilliform virus .
+the treatment involving exposure of plant to the pest rats and mouse .
+the treatment involving exposure of plant to the rice yellow stunt virus .
+the treatment involving exposure of plants to the birds .
+the treatment involving exposure of plant to the rice stripe necrosis virus .
+a biotic plant exposure  ( peco:0007357 )  involving exposure of a plant to a metazoan organism  ( animal )  .
+the treatment involving exposure of plant to the rice stripe virus .
+obsolete .
+obsolete .
+obsolete .
+the treatment involving exposure of plant to the rice hoja blanca virus .
+a plant exposure  ( peco:0001001 )  involving the application of a biotic or biological factor such as a microbe ,  insect ,  animal ,  or plant or a combination thereof .
+the treatment involving exposure of plant to the rice grassy stunt virus .
+a plant exposure  ( peco:0001001 )  and / or study type  ( peco:0007231 )  applied to a whole plant  ( po:0000003 )  ,  a plant structure  ( po:00090119 )  ,  and / or a plant population as part of an experiment to evaluate the plant response .
+the treatment involving exposure of plant to the barley yellow dwarf virus .
+the treatment involving exposure of plant to the rice gall dwarf virus .
+the treatment involving exposure of plant to the pathogen balansia oryzae - sativae .
+the treatment involving exposure of plant to the pathogen magnaporthe salvinii .
+the treatment involving exposure of plant to the pathogen rhizoctonia oryzae .
+the treatment involving exposure of plant to the pathogen rice dwarf virus .
+the treatment involving exposure of plant to the pathogen rice black streak dwarf virus .
+the treatment involving exposure of plant to the pest aphelenchoides besseyi .
+the treatment involving an exposure to above optimal water temperature ,  which may depend on the study type or the regional environment .
+the treatment involving exposure of plant to the pest meloidogyne salasi .
+the treatment involving exposure of plant to the pest meloidogyne oryzae .
+the treatment involving exposure of plant to the pest meloidogyne oryzae .
+the treatment involving exposure of plant to the pest meloidogyne oryzae .
+the treatment involving exposure of plant to the pathogen cylindrocladium scoparium .
+the treatment involving exposure of plant to the pest meloidogyne oryzae .
+the treatment involving exposure of plant to the pathogen pyrenochaeta oryzae .
+the treatment involving exposure of plant to the pathogen athelia rolfsii .
+a plant fungal exposure  ( peco:0007233 )  involving exposure of plant to the pathogen sarocladium oryzae .
+the treatment involving exposure of plant to the pathogen thanatephorus cucumeris .
+obsolete .
+obsolete
+the treatment involving an exposure to wind ,  which may depend on regional environment .
+the treatment involving an exposure to watering frequencies .
+the treatment involving an exposure to frost or freezing air temperature ,  which may depend on the study type or the regional environment .
+the treatment to plants or the populations grown in the regions where the land is leveled ,  may have bunded fields with water control ,  shallow .
+the treatment involving exposure of plant to the pathogen gerlachia oryzae .
+the treatment involving exposure of plant to micronutrient manganese as supplement to study various types of responses .
+the treatment involving exposure of plant to the pathogen alternaria padwickii .
+the treatment involving exposure of plant to the pathogen gibberella zeae .
+the treatment involving the plant or the populations grown in regions where the land level is slightly steep ,  noncontinuous flooding of variable depth and duration .
+the treatment involving the plant or the populations grown in regions where the land level is steep ,  rarely flodded and has aerobic soil .
+obsolete .
+the treatment involving an exposure to the conditions found in a type of biome characterized by low moisture levels and infrequent and unpredictable precipitation of rainfall .
+a treatment in terms of plant's exposure to the regional conditions found in the vicinity of the water bodies like ,  sea ,  river ,  lake etc .
+the treatment involving exposure of plant to macronutrient phosphorus as supplement to study various types of responses .
+the treatment involving the plant or the populations grown in regions that are adjacent to the tropics ,  usually roughly defined as the ranges 25 - 40 n and 25 - 40 s latitude .
+the treatment involving an exposure to frost or  freezing water temperature ,  which may depend on the study type or the regional environment .
+the treatment involving the plant or the populations grown in regions where the land is excessively dry and receives insufficient rainfall to support agriculture .
+the treatment involving the plant or the populations grown in regions where the total annual rainfall received in the range of 25 - 50cm  ( 10 - 20 inches )  .
+a chemical exposure  ( peco:0007189 )  that involves the use of a fungal elicitor to study various types of plant responses .
+a plant exposure  ( peco:0001001 )  where there is a lack of information describing the experimental conditions .
+an organic chemical exposure  ( peco:0001003 )  involving the application of  methyl jasmonate  ( meja ;  chebi:15929 )  .
+an organic chemical exposure  ( peco:0001003 )  involving the application of the tryptophan  ( trp )  analog 5 - methyltryptophan  ( 5mt ;  chebi: 52446 )  .
+a growth hormone exposure  ( peco:0007165 )  involving the use of brassinosteroid  ( or its homolog )  .
+a fungal elicitor exposure  ( peco:0007402 )  that involves the use of a cerebroside elicitor to study various types of plant responses .
+a pseudomonas plant exposure  ( peco:0007144 )  involving the exposure to bacteria of the pseudomonas fluorescens group .
+the treatment involving exposure of plant to micronutrient zinc by adding znso4 as supplement to study various types of responses .
+the treatment involving exposure of plant to micronutrient manganese by adding mnso4  supplement to study various types of responses .
+a chemical exposure  ( peco:0007189 )  involving exposure of plant to a peroxide to study various types of oxidative stress responses .
+a peroxide exposure  ( peco:0007414 )  involving exposure of plant to h2o2 to study various types of oxidative stress responses .
+the treatment involving use of 1 , 2 - dibromoethane for mutagenesis process ."
+the treatment involving use of 1 , 2 - dichloroethane for mutagenesis process ."
+the treatment involving use of 1 , 2:5 , 6 - dibenzanthracene for mutagenesis process ."
+the treatment involving use of 1 , 4 - dimethanesulfonoxy - 1:4 - dimethylbutane for mutagenesis process ."
+the treatment involving use of 1 , 4 - dimethanesulfonoxybut - 2 - yne for mutagenesis process ."
+the treatment involving use of 1 , 4 - dimethanesulfonoxybutane for mutagenesis process ."
+the treatment involving use of 1 , 6 - dimethylsulfonoxy d - mannitol for mutagenesis process ."
+the treatment involving use of 1 , 6 - dimethylsulfonoxy l - mannitol for mutagenesis process ."
+the treatment involving use of 1 - amino - 2 - naphthol - 4 - sulfonic acid for mutagenesis process ."
+the treatment involving use of 1 - bromo - 2 - chloroethane for mutagenesis process ."
+the treatment involving use of 1 - diethylaminoethylethylamino - 4 - methyl - thioxanthenone for mutagenesis process ."
+the treatment involving use of 2 , 5 ,  - bisethylene - imine - 1 , 4 - benzoquinone for mutagenesis process ."
+the treatment involving use of 2 - chloroethyl methanesulfonate for mutagenesis process ."
+the treatment involving use of 2 - fluoroethyl methanesulfonate for mutagenesis process ."
+the treatment involving use of 2 - methoxyethanol for mutagenesis process ."
+the treatment involving use of 5 - bromouracil for mutagenesis process ."
+the treatment involving use of 5 - bromouridine for mutagenesis process ."
+the treatment involving use of 7 - bromomethyl 12 methyl benz or agr / anthracine for mutagenesis process ."
+an antibiotic exposure  ( peco:0007041 )  involving use of actinomycin d for mutagenesis process ."
+the treatment involving use of aminopterin for mutagenesis process ."
+the treatment involving use of benzo  ( or agr ) pyrene for mutagenesis process ."
+the treatment involving use of caffeine for mutagenesis process ."
+the treatment involving use of cisplatin for mutagenesis process ."
+the treatment involving use of colchicine for mutagenesis process ."
+the treatment involving use of cupric sulfate for mutagenesis process ."
+the treatment involving use of diepoxybutane for mutagenesis process ."
+the treatment involving use of diepoxyoctane for mutagenesis process ."
+the treatment involving use of diethyl sulfate for mutagenesis process ."
+the treatment involving use of dimthyl sulfate for mutagenesis process ."
+the treatment involving use of dna fragment insertion or deletion as part of mutagenesis ."
+the treatment involving use of ethyl ether for mutagenesis process ."
+the treatment involving use of ems as a mutagen by damaging dna and is used experimentally for that effect ."
+the treatment involving use of ethyl nitrosourea for mutagenesis process ."
+the treatment involving use of ethylene oxide for mutagenesis process .
+the treatment involving use of ethylenimine for mutagenesis process ."
+the treatment involving use of fagaronine for mutagenesis process .
+the treatment involving use of formaldehyde for mutagenesis process ."
+the treatment involving use of boric acid for mutagenesis process .
+the treatment involving use of hesperidine for mutagenesis process ."
+the treatment involving use of hexamethylmelamine for mutagenesis process ."
+the treatment involving use of hexamethylphosphoramide for mutagenesis process ."
+the treatment involving use of hycanthon methanesulfonate for mutagenesis process ."
+the treatment involving use of icr 100 for mutagenesis process ."
+the treatment involving use of icr 170 for mutagenesis process ."
+the treatment involving use of iodine for mutagenesis process ."
+the treatment involving use of janus green b for mutagenesis process ."
+the treatment involving use of methoxy diethylnitrosamine for mutagenesis process .
+the treatment involving use of methyl methanesulfonate for mutagenesis process ."
+an antibiotic exposure  ( peco:0007551 )  involving use of mitomycin c for mutagenesis process ."
+the treatment involving use of mustard gas for mutagenesis process ."
+the treatment involving use of n - methyl - n' - nitro - n - nitrosoguanidine for mutagenesis process ."
+the treatment involving use of n - nitrosodimethylamine for mutagenesis process ."
+the treatment involving use of natural gas for mutagenesis process .
+the treatment involving use of nitrogen mustard for mutagenesis process ."
+the treatment involving use of nitrosomethyl urea for mutagenesis process ."
+the treatment involving use of p - n , n - di ( 2 - chloroethyl ) aminophenylvaleric acid for mutagenesis process ."
+the treatment involving use of p - n , n - di -  ( 2 - chloroethyl ) amino - d - phenylalanine for mutagenesis process ."
+the treatment involving use of p - n , n - di -  ( 2 - chloroethyl ) amino - dl - phenylalanine for mutagenesis process ."
+the treatment involving use of p - n , n - di -  ( 2 - chloroethyl ) amino - l - phenylalanine for mutagenesis process .
+the treatment involving use of p - n , n - di -  ( 2 - chloroethyl ) aminophenylbutyric acid for mutagenesis process ."
+the treatment involving use of p - n , n - di -  ( 2 - chloroethyl ) aminophenylethylamine for mutagenesis process ."
+the treatment involving use of p - p' - n , n - di ( 2 - chloroethyl ) aminophenoxyphenylalanine for mutagenesis process ."
+the treatment involving use of quinhydrone for mutagenesis process ."
+the treatment involving use of s - 2 - chloroethylcysteine for mutagenesis process ."
+the treatment involving use of sodium bisulfite for mutagenesis process ."
+the treatment involving use of sodium fluoride for mutagenesis process ."
+the treatment involving use of styryl quinoline for mutagenesis process .
+the treatment involving use of sulfur mustard for mutagenesis process ."
+the treatment involving use of triaziquone for mutagenesis process ."
+the treatment involving use of triethylenemelamine for mutagenesis process ."
+the treatment involving use of urethane for mutagenesis process ."
+the treatment involving use of vinyl carbamate for mutagenesis process ."
+the treatment using x - ray either exclusively or as part of a supplemental electromagnetic radiation in the wavelength range of 5pm - 10nm .
+an exposure involving exposure of plant to molecular or ionic forms of hydrogen to study various types of responses .
+the treatment involving exposure of plant to the pathogenic sclerospora sp .
+the treatment involving exposure of plant to the pathogen sclerophthora graminicola .
+a pesticide exposure  ( peco:0007167 )  involving the application of an insecticide ;  a chemical entity or mixture of chemical entities .
+an herbicide exposure  ( peco:0007183 )  involving the use of an imidazolinone herbicide .
+the treatment involving exposure of plant to the pest commonly calles as cutworm .

@@ -1,0 +1,1862 @@
+hemolymph
+hemocyte
+adult head
+adult cranium
+adult gnathal appendages
+adult neck
+adult tentorium
+adult antenna
+adult antennal socket
+cephaliger
+adult scape
+adult antennal pedicel
+adult flagellum
+flagellomere
+flagellar whorl
+adult antennifer
+adult anterior tentorial pit
+adult tentorial bar
+adult anterior tentorial arm
+adult posterior tentorial arm
+adult posterior tentorial pit
+corpotentorium
+dorsal tentorial arm
+antennal suture
+adult compound eye
+corneal facet
+coronal suture
+coronal ridge
+adult epistomal suture
+adult epistomal ridge
+adult frons
+adult gena
+hypostomal bridge
+interantennal groove
+interantennal ridge
+interocular space
+frontal tuft
+interocular seta
+occipital condyle
+adult occipital foramen
+occipital region
+occiput
+ocellus
+ocular line
+ocular seta
+ocular scale
+upper ocular seta
+lower ocular seta
+ocular sclerite
+ocular suture
+ocular ridge
+postfrontal suture
+postfrontal ridge
+adult postgena
+postgenal seta
+adult postocciput
+adult postoccipital suture
+adult postoccipital ridge
+subgenal suture
+subgenal ridge
+adult vertex
+subgenalnaht
+pre - antennal suture
+praefrontalnaht
+rostrum
+adult maxilla
+adult lacinia
+maxillary tooth
+adult maxillary palpus
+palpomere
+internal palpal hair
+marginal seta
+stipitocardinal rod
+adult cardo
+adult stipes
+adult proboscis
+adult labium
+labial sclerite
+adult prementum
+labellum
+adult ligula
+palpifer
+labellar basal sclerite
+premental gutter
+labellar mesial sclerite
+labula
+labial basal seta
+hypostoma
+fascicle
+stylet
+adult hypopharynx
+adult labrum
+adult labropalatum
+labral lever
+adult mandible
+mandibular tooth
+mandibular suspensorium
+adult clypeus
+adult clypeopalatum
+clypeal phragma
+adult clypeolabral suture
+food meatus
+adult cibarium
+cibarial armature
+cervical condyle
+cervical sclerite
+adult cervix
+cibarial teeth
+rod
+cone
+pediment
+root
+vestitural filament
+crest
+cibarial crest
+cibarial dome
+adult cibarial seta
+dorsal seta
+ventral seta
+palatal seta
+anterior hard palate
+posterior hard palate
+cibarial ridge
+dorsal apodeme
+lateral flange
+ventral plate
+soft palate
+salivary duct
+common salivary duct
+salivary pump
+salivary canal
+adult mouth
+adult pharynx
+pharyngeal pump
+adult oesophagus
+adult stomodeum
+adult thorax
+adult prothorax
+adult mesothorax
+adult metathorax
+adult mesothoracic leg
+midcoxa
+midtrochanter
+midfemur
+midtibia
+midtarsus
+mesothoracic posttarsus
+midunguis
+adult metathoracic leg
+hindcoxa
+hindtrochanter
+hindfemur
+hindtibia
+hindtarsus
+metathoracic posttarsus
+hindunguis
+adult prothoracic leg
+forecoxa
+forefemur
+foretarsus
+foretibia
+foretrochanter
+prothoracic posttarsus
+foreunguis
+adult leg
+coxa
+trochanter
+femur
+tibia
+tarsus
+tarsomere
+posttarsus
+unguis
+unguitractor plate
+empodium
+halter
+capitellum
+pedicel  [ of halter ]
+scabellum
+axillary incision
+alula
+upper calypter
+calypter
+lower calypter
+remigium
+axillary cord
+parascutellum
+parascutellar process
+posterior scutellar ridge
+third axillary sclerite
+second axillary sclerite
+first axillary sclerite
+humeral plate
+tegula
+anterior notal wing process
+postmedian notal wing process
+adult mesothoracic wing
+adult metathoracic wing
+arculus
+humeral crossvein
+radius
+radius - four - plus - five
+radius - one
+radius - three
+radius - two
+radius - two - plus - three
+subcosta
+radial sector
+radiomedial crossvein
+media - one
+media - one - plus - two
+media - three - plus - four
+media - two
+mediocubital crossvein
+media
+cubitus
+cubitus anterior
+cubitus posterior
+cell
+cell 1a
+cell c
+cell cua
+cell cup
+cell m
+cell m1
+cell m2
+cell m4
+cell r
+cell r1
+cell r2
+cell r3
+cell r5
+cell sc
+cell sc1
+antacoria
+anteromedian palatal hair
+costa
+anal vein
+wing fringe
+fringe scale
+tertiary fringe scale
+secondary fringe scale
+squame scale
+plume scale
+adult mesonotum
+acrotergite
+adult scutum
+dorsocentral area
+anterior dorsocentral area
+anterior dorsocentral scale
+anterior dorsocentral seta
+posterior dorsocentral area
+posterior dorsocentral scale
+posterior dorsocentral seta
+dorsocentral scale
+dorsocentral seta
+adult scutellum
+lateral scutellar scale
+lateral scutellar seta
+median scutellar scale
+median scutellar seta
+scutoscutellar suture
+anterior promontory
+median anterior promontory seta
+median anterior promontory scale
+paratergite
+paranotal suture
+supraalar groove
+adult mesopostnotum
+mediotergite
+pleurotergite
+upper pleurotergite
+lower pleurotergite
+scutal fossa
+median scutal fossal seta
+posterior medial scutal seta
+median scutal fossal scale
+prescutellar area
+prescutellar scale
+prescutellar seta
+prescutal suture
+prescutal pit
+supraalar area
+supraalar scale
+supraalar seta
+scutal angle
+antealar area
+antealar scale
+antealar seta
+adult pronotum
+prothoracic pleuron
+proepimeron
+proepisternum
+proepisternal seta
+proepisternal scale
+upper proepisternal scale
+upper proepisternal seta
+lower proepisternal scale
+lower proepisternal seta
+metathoracic pleuron
+metepisternum
+metepisternal scale
+metepimeron
+metathoracic pleural suture
+metathoracic pleural ridge
+mesothoracic pleuron
+mesepimeron
+mesanepimeron
+mesokatepimeron
+mesepimeral scale
+posterior mesepimeral scale
+anterior mesepimeral scale
+lower mesepimeral scale
+upper mesepimeral scale
+mesepimeral seta
+lower mesepimeral seta
+upper mesepimeral seta
+subalare
+basalare
+mesepisternum
+mesotrochantin
+wing spot
+accessory sector pale
+apical dark
+apical pale
+basal dark
+basal pale
+basal pale fringe spot
+humeral dark
+humeral pale
+median dark
+pale fringe spot
+1a pale fringe spot
+preapical dark
+preapical pale
+prehumeral dark
+prehumeral pale
+presector dark
+presector pale
+sector pale
+subbasal dark
+subcostal pale
+mesothoracic pleural suture
+mesothoracic pleural ridge
+paracoxal suture
+paracoxal ridge
+mesokatepisternum
+mesokatepisternal seta
+lower mesokatepisternal seta
+upper mesokatepisternal seta
+mesokatepisternal scale
+lower mesokatepisternal scale
+upper mesokatepisternal scale
+mesanepisternum
+anterior mesanepisternum
+posterior mesanepisternum
+mesanapleural suture
+anepisternal cleft
+prothoracic pleural suture
+prothoracic pleural ridge
+procoxal cavity
+sternal apophysis
+prosternum
+probasisternum
+profurcasternum
+sternacostal suture
+propleurosternal suture
+propleurosternal ridge
+mesosternum
+mesobasisternum
+mesofurcasternum
+mesofurca
+basalar apodeme
+postspiracular area
+postspiracular seta
+postspiracular scale
+subspiracular area
+subspiracular setae
+subspiracular scale
+prespiracular area
+prespiracular seta
+prespiracular scale
+hypostigmal area
+hypostigmal scale
+mesothoracic spiracle
+prealar knob
+prealar scale
+prealar seta
+upper prealar scale
+lower prealar scale
+mesepisternal suture
+postpronotum
+antepronotum
+transnotal suture
+proepimeral scale
+mesomeron
+upper pleurotergite apodeme
+lower pleurotergite apodeme
+second phragma
+antecostal suture
+first phragma
+acrosternite
+parascutellar seta
+parascutellar inflection
+mesopleurosternal ridge
+mesopleurosternal suture
+mesosternal suture
+mesosternal ridge
+metasternum
+metabasisternum
+metafurcasternum
+metafurca
+metacoxal cavity
+metameron
+metapostnotum
+metameral scale
+adult metanotum
+intersegmental suture
+intersegmental ridge
+mesokatepisternal bridge
+antecosta
+epipharyngeal apparatus
+eye
+lateral palatal brush hair
+apophyseal cup
+sternacosta
+notum
+sternum
+sternite i
+pleuron
+pleural ridge
+pleural suture
+pleural wing process
+prothoracic pleural apophysis
+prothoracic pleural apophyseal pit
+antepronotal scale
+antepronotal seta
+intersegmental cleft
+metathoracic spiracle
+prothoracic pleural coxal process
+postprocoxal membrane
+postprocoxal scale
+postpronotal scale
+upper postpronotal scale
+lower postpronotal scale
+postpronotal seta
+prealar bridge
+spiracular sclerite
+mesocoxal cavity
+metasternal ridge
+metasternal suture
+postcoxal apodeme
+sternal coxal process
+basisternum
+furcasternum
+furcasternal suture
+furca
+profurca
+midpalatal brush hair
+acrostichal area
+acrostichal scale
+acrostichal seta
+anterior scutal fossal seta
+anterior scutellar ridge
+anterior wing - root
+antero - median bare space
+axillary sclerite
+basal spur
+conoid
+coracoid
+coxal cavity
+adult coxal seta
+crossvein
+wing membrane
+cubitomarginal ridge
+cubitus posterior scale
+inner dorsocentral scale
+intermediary
+intersegmental apodeme
+jugum
+knee
+knee spot
+first tarsomere
+second tarsomere
+third tarsomere
+fourth tarsomere
+fifth tarsomere
+lateral anterior promontory scale
+lateral anterior promontory seta
+lateral prescutellar scale
+lateral scutal fossal seta
+lateral scutal fossal scale
+median prescutellar scale
+meron
+mesanepimeral ridge
+mesonotal disc
+mesopostnotal scale
+mesopostnotal seta
+paratergal scale
+pleural thread
+postcoxale
+posterior scutal fossal scale
+posterior scutal fossal seta
+posterior wing root
+postero - lateral bare space
+postnotum
+prealar apophysis
+prearculus
+precubital furrow
+preepisternal groove
+prothoracic pulvillus
+remigial seta
+sabroid
+scutal fossal scale
+scutal fossal seta
+scutellar scale
+scutellar seta
+sternal apophyseal pit
+subcostal seta
+subcosta - one
+subcosta - two
+ulnoid
+unguifer
+vein
+adult abdomen
+adult abdominal segment
+gonocoxopodite
+gonocoxite
+gonostylus
+gonostylar claw
+claspette
+claspette filament
+claspette stem
+accessory seta
+internal seta
+mesal membrane
+parabasal lobe
+parabasal seta
+lateral premental teeth 1
+midpalatal sensillar rod
+sensillum
+side - piece
+lateral premental teeth 3
+subdental tubercle
+comb plate
+dorsal valve
+fringing seta
+inner spiracular tooth
+inner tube
+larval lateral plate
+outer case
+outer spiracular tooth
+posterior spiracular plate
+saw
+siphon
+basal mesal lobe
+basal dorsomesal lobe
+apodeme of gonocoxite
+apicoventral lobe
+apicodorsal lobe
+spermatheca
+spermathecal capsule
+spermathecal capsule pore
+spermathecal duct
+spermathecal eminence
+spermathecal eminence spicule
+accessory gland duct
+accessory gland duct base
+decumbent scale
+erect scale
+interantennal suture
+nape
+paraocciput
+tergite ii
+ventral tentorial arm
+anteprocoxal membrane
+anteprocoxal scale
+siphon acus
+spiracle
+single seta
+antennal pulsating organ
+pharyngeal valve
+abdominal spiracle vii
+adult intersegmental membrane
+phallosome
+aedeagus
+aedeagal sclerite
+aedeagal spicule
+aedeagal pouch
+basal piece
+paramere
+genitalia
+pleural membrane
+adult tergum
+adult tergum viii
+adult tergum ix
+adult sternum
+sternum viii
+adult sternum ix
+adult proctiger
+paraproct
+adult cercus
+cercal sclerite
+cercal seta
+dorsal aedeagal bridge
+ventral aedeagal bridge
+gonopore
+vagina
+gonotreme
+upper vaginal lip
+upper vaginal sclerite
+lower vaginal lip
+spiracular apodeme
+lower vaginal sclerite
+hinge
+insula
+insular seta
+tuberculus
+adult seta 1 - s
+adult seta 2 - s
+seta 3 - s
+basolateral seta
+tergum ix lobe
+adult tergum x
+spreizapparat
+postgenital lobe
+lower flap of the side - piece
+apical intersegmental fold
+basal median apodeme
+basal ventromesal lobe
+external apodeme
+interlobar space
+junctura
+leaflet of aedeagus
+male genitalia
+female genitalia
+adult abdominal segment i
+adult abdominal segment ii
+adult abdominal segment ix
+adult abdominal segment iv
+adult abdominal segment viii
+adult abdominal segment vi
+adult abdominal segment vii
+adult abdominal segment v
+adult abdominal segment iii
+adult abdominal segment x
+spiracular filament
+sternum i
+adult tergum i
+sternum ii
+adult tergum ii
+sternum iii
+adult tergum iii
+sternum iv
+adult tergum iv
+spiracular lobe
+sternum v
+adult tergum v
+sternum vi
+adult tergum vi
+sternum vii
+adult tergum vii
+sternum x
+adult abdominal segment xi
+egg
+anterior end
+dorsal surface
+posterior end
+ventral surface
+interbasal fold
+egg cap
+micropyle
+micropylar apparatus
+micropylar disc
+micropylar collar
+micropylar area
+deck
+deck tubercle
+lobed tubercle
+median area
+micropylar funnel
+chorion
+inner chorion
+outer chorion
+frill
+tag
+inner chorionic sculpture
+inner chorionic cell
+inner chorionic reticulum
+cell boundary
+micropylar plug
+micropylar mound
+outer chorionic sculpture
+outer chorionic reticulum
+outer chorionic cell
+outer chorionic tubercle
+outer chorionic cap
+float
+float ridge
+float termination
+polygonal cell
+meshwork
+dehiscence
+transverse dehiscence
+longitudinal dehiscence
+spiral dehiscence
+oblique dehiscence
+internal spine
+laterotergite
+tergite i
+prohemocyte
+larval cranium
+larval head
+larval dorsal apotome
+larval epicranial ecdysial line
+larval frontal ecdysial line
+coronal ecdysial line
+larval epistomal ridge
+larval epistomal suture
+epicranium
+epicranial plate
+hypocranial ecdysial line
+hypocranium
+labiogula
+submentum
+gula
+gular area
+gular membrane
+larval lateralia
+larval stemma
+larval compound eye
+larval antenna
+larval flagellum
+larval antennal pedicel
+larval scape
+antennal ridge
+antennal puncture
+larval antennal socket
+larval seta
+seta 1 - a
+seta 18 - c
+seta 15 - c
+seta 2 - a
+seta 18 - c and seta 19 - c
+seta 3 - a
+cranial seta
+seta 4 - a
+antennal seta
+seta 5 - a
+seta 6 - a
+seta 0 - c and seta 1 - c
+seta 0 - c
+seta 1 - c
+seta 2 - c to seta 8 - c
+seta 2 - c
+seta 3 - c
+seta 4 - c
+seta 5 - c
+seta 6 - c
+seta 7 - c
+seta 8 - c
+seta 9 - c to seta 14 - c
+seta 9 - c
+seta 10 - c
+seta 11 - c
+seta 12 - c
+seta 13 - c
+seta 14 - c
+seta 16 - c and seta 17 - c
+seta 16 - c
+seta 17 - c
+seta 19 - c
+mouth region seta
+seta 1 - lp
+seta 2 - lp
+seta 3 - lp
+seta 1 - mo
+seta 1 - mn
+seta 2 - mn
+seta 2a - mn
+seta 2b - mn
+seta 2c - mn
+seta 2d - mn
+seta 2e - mn
+seta 3 - mn
+seta 4 - mn
+seta 1 - mx
+seta 2 - mx
+seta 3 - mx
+seta 4 - mx
+seta 5 - mx
+seta 6 - mx
+seta 7 - mx
+seta 8 - mx to seta 15 - mx
+seta 8 - mx
+seta 9 - mx
+seta 10 - mx
+seta 11 - mx
+seta 12 - mx
+seta 13 - mx
+seta 14 - mx
+seta 15 - mx
+seta 1 - lh
+seta 2 - lh to seta 6 - lh
+seta 2 - lh
+seta 3 - lh
+seta 4 - lh
+seta 5 - lh
+seta 6 - lh
+thoracic seta
+cardiac valve
+seta 3 - m
+seta 2 - m
+seta 1 - m
+seta 4 - m
+seta 5 - m
+seta 6 - m
+seta 7 - m
+seta 8 - m
+diverticulla
+dorsal diverticulla
+ventral diverticulla
+crop
+duct
+seta 13 - p
+seta 13 - m
+seta 13 - t
+seta 14 - m
+larval abdominal seta
+abdominal segments i to vii seta
+seta 0 - ii to seta 0 - vii
+larval seta 1 - i
+larval seta 2 - i
+larval seta 3 - i
+larval seta 4 - i
+larval seta 5 - i
+larval seta 6 - i
+larval seta 7 - i
+adult mesothoracic coxal seta
+larval seta 9 - i
+larval seta 10 - i
+larval seta 11 - i
+upper flap of the side - piece
+outer dorsocentral scale
+postmetasternal scale
+corolla
+larval seta 12 - i
+larval seta 13 - i
+larval seta 14 - i
+abdominal segment viii seta
+seta 0 - viii
+seta 1 - viii
+seta 2 - viii
+seta 3 - viii
+seta 4 - viii
+seta 5 - viii
+seta 14 - viii
+siphon and spiracular apparatus seta
+larval seta 1 - s
+larval seta 2 - s
+seta 3 - s ,  seta 4 - s and seta 5 - s
+seta 6 - s and seta 7 - s
+seta 8 - s
+seta 9 - s
+seta 10 - s
+seta 11 - s
+seta 12 - s
+seta 13 - s
+abdominal segment x seta
+seta 1 - x
+seta 2 - x
+seta 3 - x
+seta 4 - x
+seta x - x ,  seta y - x and seta z - x
+antennal prominence
+larval antennifer
+subantennal ridge
+subantennal suture
+ecdysial line
+larval dorsal ecdysial line
+ventral ecdysial line
+larval gnathal appendages
+larval labium
+prelabium
+larval prementum
+larval ligula
+labial palpus
+postlabium
+postmentum
+mentum
+larval abdominal puncture v
+submentomental suture
+larval maxilla
+larval cardo
+larval stipes
+maxillary body
+laciniastipes
+galeastipes
+maxillary brush
+maxillary pilose area
+larval lacinia
+laciniarastrum
+laciniarastrum 1
+laciniarastrum 2
+laciniarastrum 3
+galea
+maxillary brush spicule
+dorsal maxillary suture
+ventral maxillary suture
+stipital arm
+sperulocyte
+pupal head
+pupal abdomen
+pupal thorax
+pupal intersegmental membrane
+pupal abdominal segment
+pupal abdominal segment ix
+pupal abdominal segment i
+pupal abdominal segment iii
+pupal tergum iii
+pupal abdominal puncture iii
+pupal abdominal segment iv
+pupal tergum iv
+pupal abdominal segment v
+pupal tergum v
+pupal abdominal segment vi
+pupal tergum vi
+pupal abdominal segment vii
+pupal rudimentary spiracle vii
+pupal abdominal segment viii
+pupal tergum viii
+pupal tergum vii
+pupal tergum ix
+median caudal lobe
+paddle
+inner margin
+inner part
+outer margin
+outer part
+paddle fringe
+paddle marginal serrations
+paddle marginal spicules
+buttress
+midrib
+lateral premental teeth 2
+posterior median process
+pupal antenna
+pupal anterior tentorial pit
+pupal gnathal appendages
+pupal clypeus
+pupal compound eye
+pupal dorsal apotome
+pupal labium
+pupal labrum
+pupal mandible
+pupal maxilla
+pupal maxillary palpus
+pupal lateralia
+pupal stemma
+pupal tentorium
+pupal tentorial bar
+accessory dental process
+dorsal prelabial teeth
+hypopharyngeal mala
+pupal prothorax
+pupal mesothorax
+pupal metathorax
+pupal leg
+pupal mesonotum
+pupal scutum
+postscutal area
+median keel
+pupal scutellum
+pupal mesopostnotum
+pupal mesothoracic wing
+pupal metanotum
+pupal pronotum
+pupal metathoracic wing
+seta 4 - ct
+seta 5 - ct
+seta 6 - ct
+seta 7 - ct
+pupal proboscis
+pupal hypopharynx
+cephalothorax
+trumpet
+angusticorn trumpet
+laticorn trumpet
+meatus
+outer trumpet wall
+pinna
+tracheoid area
+reticulate area
+tragus
+meatal cleft
+lateral prelabial teeth
+pupal proctiger
+refractile border
+postgenital plate
+vaginal lip
+vaginal sclerite
+cephalothoracic seta
+lateral prelabial teeth 1
+seta 1 - ct
+seta 2 - ct
+seta 3 - ct
+falciform apodeme
+seta 8 - ct
+seta 9 - ct
+seta 10 - ct
+seta 11 - ct
+seta 12 - ct
+seta 13 - ct
+pupal abdominal seta
+adult foregut
+pupal seta 1 - i
+ganglia
+seta 1 - ix
+seta 1 - xi
+pupal seta 2 - i
+adult hindgut
+pupal seta 3 - i
+adult anal canal
+pupal seta 4 - i
+adult anterior intestine
+pupal seta 5 - i
+pyloric chamber
+pupal seta 6 - i
+adult rectum
+pupal seta 7 - i
+pupal seta 7 - ii
+pupal seta 7 - vii
+pupal seta 8 - vii
+pupal seta 9 - i
+pupal seta 9 - vii
+pupal seta 10 - i
+adult midgut
+pupal seta 11 - i
+adult malpighian tubules
+lateral prelabial teeth 2
+anterior midgut
+adult stomach
+pupal seta 14 - viii
+pupal seta 1 - p
+seta 2 - p
+pupal cercus
+pupal abdominal segment ii
+pupal sternum ix
+pupal sternum
+secondary cleft
+pupal abdominal segment xi
+genital lobe
+pupal hypopygium
+atrial wall
+pupal dorsal ecdysial line
+filter apparatus
+pupal epicranial ecdysial line
+pupal frontal ecdysial line
+pupal tergum
+pupal tergum ii
+pupal tergum i
+maxillargelenk
+larval maxillary palpus
+maxillary palpal spicule
+collar
+larval occipital foramen
+larval postocciput
+larval postoccipital suture
+larval postoccipital ridge
+cephalic papilla
+coronal gap
+larval gena
+larval postgena
+subgena
+ocular lobe
+larval tentorium
+larval anterior tentorial arm
+larval anterior tentorial pit
+larval posterior tentorial arm
+larval posterior tentorial pit
+larval thorax
+larval prothorax
+larval mesothorax
+larval metathorax
+nuttall and shipley's organ
+lateral prelabial teeth 3
+lobe - like structures
+medial region
+cuticular wing
+outer lobe
+columella
+median prelabial teeth
+inner lobe
+larval neck
+larval cervix
+ventromedian cervical sclerite
+larval clypeolabral suture
+larval clypeolabral ridge
+prelabial outgrowths
+prelabial apodeme
+clypeolabral strap
+larval cibarium
+cibarial bar
+cardolacinial line
+larval labrum
+larval clypeus
+larval palatum
+palatal brush
+anteromedian palatal brush
+lateral palatal brush
+lateral palatal brush filament
+midpalatal brush
+midpalatal brush filament
+penicular area
+larval labropalatum
+larval clypeopalatum
+posttorma
+paraclypeal lobe
+black - spot area
+postclypeus
+preclypeus
+larval stomodaeum
+larval mouth
+larval pharynx
+anteromedian palatal lobe
+anteromedian palatal penicular area
+lateral palatal penicular area
+lateral palatal crossbar
+lateral palatal plate
+midpalatal lobe
+midpalatal penicular area
+pharyngeal filter
+pharyngeal fringe
+pharyngeal fringe filament
+posterior angle
+premental apodeme
+larval labiohypopharynx
+larval hypopharynx
+hypopharyngeal bar
+salivary meatus
+salivary orifice
+laterodorsal pharyngeal sclerite
+lateroventral pharyngeal sclerite
+mediodorsal pharyngeal sclerite
+medioventral pharyngeal sclerite
+primary dorsal fringe
+primary ventral fringe
+dorsal pharyngeal sclerite
+ventral pharyngeal sclerite
+galeastipital fissure
+prelabial cordate process
+prelabial crown
+ventral fringe
+secondary ventral fringe
+dorsal fringe
+secondary dorsal fringe
+dorsomentum
+dorsomental tooth
+ventromentum
+prelabial cusp
+pleural setal group
+lateral premental teeth
+prelabial dental arch
+ventral premental spicules
+premental cordate process
+premental cusps
+premental dental arch
+premental mala
+premental teeth
+premental ridge teeth
+median labral plate
+torma
+tormal apodeme
+tormal apodemal bar
+intertorma
+lateral intertormal apodeme
+precoila
+postcoila
+palatal tessellated area
+paracoila
+postantennal buttress
+roof of pharynx
+lateral oral bar
+anterior palatal bar
+parartis
+paraclypeal phragma
+anteromedian palatal filament
+dorsal oral sclerite
+dorsal oral brush
+dorsal premental teeth
+dorsal ramus
+crest of the pharynx
+egg - buster
+prelabial dental lamella
+exoparartis
+floor of pharynx
+prelabial denticulus
+larval frons
+hypostomal suture
+hypostomal ridge
+gular pit
+larval gular suture
+prementoligular teeth
+hypostomal area
+inner sclerotized pharyngeal ring
+knoblike process of lateral apodeme
+labrum - epipharynx
+lateral artis
+lingua
+laciniastipital expansion
+lateral tormal process
+lobe
+median ramus
+merostipes
+mesal intertormal apodeme
+mesal tormal process
+protharocic notal plate
+oral spicule
+paraclypeal fold
+pentad seta
+superlingua
+ventral oral sclerite
+ventral oral brush
+ventral oral fringe
+labellar abductor apodeme
+ventrolateral plate
+larval vertex
+vesicle
+primary maxillary articulation
+rod of parartis
+secondary maxillary articulation
+larval abdomen
+larval abdominal segment
+larval abdominal segment i
+larval abdominal segment iii
+larval abdominal segment v
+larval abdominal segment iv
+larval abdominal segment vi
+larval abdominal segment x
+larval abdominal segment ix
+larval abdominal segment viii
+larval abdominal segment vii
+larval abdominal segment ii
+accessory tergal plate vii
+larval abdominal puncture iii
+postabdominal spiracle
+anal papilla
+spiracular apparatus
+anterior spiracular lobe
+anterior spiracular lobe plate i
+anterior spiracular lobe plate ii
+anterolateral spiracular lobe
+anterolateral spiracular lobe plate i
+anterolateral spiracular lobe plate ii
+posterolateral spiracular lobe
+posterolateral spiracular lobe plate i
+posterolateral spiracular lobe plate ii
+median plate
+anterior median process
+posterior median plate
+pecten plate
+pecten
+pecten spine
+spiracular opening
+spiracular process
+u - shaped band
+basal band
+comb
+comb scale
+cusp
+dorsal brush
+dorsal mandibular spine
+ventral brush
+saddle
+grid
+lateral siphonic area
+prelabial mala
+basal supporting plate
+adult cardia
+anus
+prelabial membranous area
+median dorsal caudal process
+cratal seta
+precratal seta
+presiphonic fold
+respiratory fossa
+larval metathoracic rudimentary spiracle
+saddle acus
+saddle marginal spicule
+sternal plate
+tergal plate viii
+arcuate thickening
+boss
+preoral cavity
+inner flap
+prelabial ridge teeth
+outer flap
+v - shaped ridge
+transverse grid bar
+lateral grid bar
+larval mandible
+mandibular abductor apodeme
+mandibular adductor apodeme
+mandibular brush
+mandibular brush spicule
+mandibular comb
+mandibular comb spicule
+mandibular lobe
+mandibular lobe spicule
+mandibular lobe spicules 1
+mandibular lobe spicules 2
+mandibular lobe spicules 3
+mandibular lobe spicules 4
+mandibular lobe spicules 5
+mandibular lobe spine
+mandibular pilose area
+sella
+mandibular puncture
+u - shaped rod
+preartis
+postartis
+mandibular rake
+mandibular rake blade
+mandibular rake blade 1
+mandibular rake blade 2
+mandibular rake blade 3
+mandibular rake spicule
+mandibular spiculose area
+mandibular spiculose area brush
+mandibular sweeper
+mandibular sweeper 1
+mandibular sweeper 2
+mandibular sweeper filament
+mandibular teeth
+dorsal teeth
+ventral teeth
+ventral tooth 0
+ventral tooth 1
+ventral tooth 2
+ventral tooth 3
+ventral tooth  - 1
+ventral tooth  - 2
+ventral tooth  - 3
+ventral tooth  - 4
+accessory teeth
+auxiliary ventral tooth
+anterior mandibular articulation
+anterior dorsal tooth
+posterior dorsal tooth
+posterior mandibular articulation
+prelabial sensorium
+prelabial sensorium 5
+prelabial sensorium 2
+prelabial sensorium 4
+prelabial sensorium 3
+prelabial sensorium 1
+salivary slit
+ventral ramus
+labular spine
+mandibular brush seta
+mandibular comb element
+vestiture
+spicule
+seta
+acicula
+aculea
+blade
+bipectunculate blade
+divided blade
+branch - tipped blade
+incised blade
+pectunculate blade
+simple blade
+dendrite
+vestitural denticle
+filament
+barbed filament
+branch - tipped filament
+comb - tipped filament
+divided filament
+pectinate filament
+simple filament
+echinoid
+microtrichium
+serration
+setiform
+spine
+spinule
+spur
+tooth
+villus
+aciculate seta
+barbed seta
+brush - tipped seta
+foliform seta
+lanceolate seta
+pectunculate seta
+peglike seta
+simple seta
+spiniform seta
+spinulate seta
+branched seta
+dendritic seta
+fanlike seta
+forked seta
+palmate seta
+pectinate seta
+plumose seta
+stellate seta
+cuticular projection
+basal notch
+basal pectinate hair
+branch - tipped simple hair
+brush - tipped hair
+scale
+vestitural pedicel
+squame
+piliform scale
+asymmetrical scale
+falcate scale
+forked scale
+fusiform scale
+linear scale
+spatulate scale
+twisted scale
+alveolus
+puncture
+barb
+hair
+tomentum
+velum
+basal lateral arm
+adult lateral plate
+outer division
+dorsal arm
+external process
+inner division
+pupal abdominal puncture iv
+internal process
+lateral arm
+lateral basal process
+median ventral tuft
+opisthophallus
+opisthophallic sclerite
+paraproct crown
+phallus
+prosophallic sclerite
+prosophallus
+subapical lobe
+subbasal process
+tergum viii comb
+ventral arm
+cardostipital arm
+galeastipital stem
+hypostomal sclerite
+incised hair
+maxillary articulation
+tergite iii
+maxillary spiculose area
+membranous area
+merostipital process
+merostipital sclerite
+submaxillary sclerite
+pupal abdominal segment x
+prothoracic setal support plate
+setal support plate spine
+sellar hairs 2
+tergite iv
+anterior polar specialised area
+apical process
+cellule
+cellule wall
+chorionic pad
+denticle
+flange
+horn
+micropylar tube
+posterior polar specialised area
+tergite ix
+tergite v
+tergite vi
+tergite vii
+tergite viii
+tergite x
+pupal abdominal puncture v
+adult metathoracic coxal seta
+adult prothoracic coxal seta
+pupal lacinia
+sternite ii
+sternite iii
+sternite iv
+sternite v
+sternite vi
+sternite ix
+sternite vii
+sternite viii
+sternite x
+abdominal segment i seta
+larval abdominal puncture iv
+pupal prothoracic leg
+pupal mesothoracic leg
+pupal metathoracic leg
+abdominal segment ii seta
+abdominal segment iii seta
+abdominal segment iv seta
+abdominal segment v seta
+abdominal segment vi seta
+abdominal segment vii seta
+abdominal spiracle i
+abdominal spiracle ii
+abdominal spiracle iii
+abdominal spiracle iv
+abdominal spiracle v
+abdominal spiracle vi
+mesothoracic pleural apophyseal pit
+mesothoracic pleural apophysis
+mesothoracic pleural coxal process
+mesothoracic pleural wing process
+metathoracic pleural apophyseal pit
+metathoracic pleural apophysis
+metathoracic pleural coxal process
+metathoracic pleural wing process
+pleural apophyseal pit
+pleural apophysis
+pleural coxal process
+accessory tergal plate i
+median accessory tergal plate i
+submedian accessory tergal plate i
+accessory tergal plate ii
+mesothoracic pulvillus
+mesothoracic unguitractor plate
+prothoracic empodium
+prothoracic unguitractor plate
+metathoracic unguitractor plate
+metathoracic empodium
+metathoracic pulvillus
+mesothoracic empodium
+pulvillus
+median accessory tergal plate ii
+submedian accessory tergal plate ii
+accessory tergal plate iii
+median accessory tergal plate iii
+submedian accessory tergal plate iii
+accessory tergal plate iv
+median accessory tergal plate iv
+submedian accessory tergal plate iv
+accessory tergal plate v
+median accessory tergal plate v
+submedian accessory tergal plate v
+accessory tergal plate vi
+median accessory tergal plate vi
+submedian accessory tergal plate vi
+median accessory tergal plate vii
+submedian accessory tergal plate vii
+tergal plate i
+tergal plate ii
+tergal plate iii
+tergal plate iv
+tergal plate v
+tergal plate vi
+tergal plate vii
+larval rudimentary spiracle ii
+larval abdominal rudimentary spiracle iii
+larval abdominal rudimentary spiracle iv
+larval abdominal rudimentary spiracle v
+larval abdominal rudimentary spiracle vi
+rectal papillae
+larval abdominal rudimentary spiracle vii
+larval mesothoracic rudimentary spiracle
+mesothoracic notal plate
+metathoracic notal plate
+mesothoracic pleural setal group
+mesothoracic setal support plate
+metathoracic setal support plate
+metathoracic pleural setal group
+prothoracic pleural setal group
+larval alimentary canal
+larval midgut
+pupal rudimentary spiracle i
+pupal rudimentary spiracle ii
+pupal rudimentary spiracle iii
+pupal rudimentary spiracle iv
+pupal rudimentary spiracle v
+pupal rudimentary spiracle vi
+larval foregut
+seta 9 - m to seta 12 - m
+seta 9 - t to seta 12 - t
+seta 9 - p to seta 12 - p
+seta 10 - m
+seta 11 - m
+seta 12 - m
+seta 9 - m
+seta 9 - t
+seta 10 - t
+seta 12 - t
+seta 11 - t
+seta 12 - p
+seta 10 - p
+seta 11 - p
+seta 9 - p
+pupal seta 0 - ii
+pupal seta 1 - ii
+pupal seta 10 - ii
+pupal seta 11 - ii
+pupal seta 13 - ii
+pupal seta 2 - ii
+pupal seta 3 - ii
+pupal seta 4 - ii
+pupal seta 5 - ii
+pupal seta 6 - ii
+pupal seta 8 - ii
+pupal seta 9 - ii
+larval hindgut
+pupal seta 0 - iii
+pupal seta 1 - iii
+pupal seta 10 - iii
+pupal seta 11 - iii
+pupal seta 13 - iii
+pupal seta 14 - iii
+pupal seta 2 - iii
+pupal seta 3 - iii
+pupal seta 4 - iii
+pupal seta 5 - iii
+pupal seta 6 - iii
+pupal seta 7 - iii
+pupal seta 8 - iii
+pupal seta 9 - iii
+pupal seta 0 - iv
+pupal seta 1 - iv
+pupal seta 10 - iv
+pupal seta 11 - iv
+pupal seta 13 - iv
+pupal seta 14 - iv
+pupal seta 2 - iv
+pupal seta 3 - iv
+pupal seta 4 - iv
+pupal seta 5 - iv
+pupal seta 6 - iv
+pupal seta 7 - iv
+pupal seta 8 - iv
+pupal seta 9 - iv
+pupal seta 0 - v
+pupal seta 1 - v
+pupal seta 10 - v
+pupal seta 11 - v
+pupal seta 12 - v
+pupal seta 13 - v
+pupal seta 14 - v
+pupal seta 2 - v
+pupal seta 3 - v
+pupal seta 4 - v
+pupal seta 5 - v
+pupal seta 6 - v
+pupal seta 7 - v
+pupal seta 8 - v
+pupal seta 9 - v
+pupal seta 9 - vi
+pupal seta 11 - vi
+pupal seta 13 - vi
+pupal seta 8 - vi
+pupal seta 4 - vi
+pupal seta 10 - vi
+pupal seta 6 - vi
+pupal seta 7 - vi
+pupal seta 2 - vi
+pupal seta 5 - vi
+pupal seta 0 - vi
+pupal seta 3 - vi
+pupal seta 1 - vi
+pupal seta 12 - vi
+pupal seta 14 - vi
+pupal seta 0 - viii
+pupal seta 10 - vii
+larval rectum
+pupal seta 13 - vii
+larval oesophagus
+pupal seta 1 - vii
+pupal seta 11 - vii
+pupal seta 3 - vii
+pupal seta 2 - vii
+pupal seta 6 - vii
+larval cardia
+pupal seta 14 - vii
+pupal seta 4 - vii
+pupal seta 5 - vii
+pupal seta 0 - vii
+gastric caeca
+pupal seta 4 - viii
+pupal seta 9 - viii
+larval stomach
+larval seta 0 - ii
+larval seta 1 - ii
+larval seta 10 - ii
+larval seta 11 - ii
+larval seta 12 - ii
+larval seta 13 - ii
+larval seta 14 - ii
+larval seta 2 - ii
+larval seta 3 - ii
+larval seta 4 - ii
+larval seta 5 - ii
+larval seta 6 - ii
+larval seta 7 - ii
+larval seta 8 - ii
+larval seta 9 - ii
+larval malpighian tubules
+larval seta 0 - iii
+larval seta 1 - iii
+larval seta 2 - iii
+larval seta 3 - iii
+larval seta 4 - iii
+larval seta 5 - iii
+larval seta 6 - iii
+larval seta 7 - iii
+larval seta 8 - iii
+larval seta 9 - iii
+larval seta 10 - iii
+larval seta 11 - iii
+larval seta 12 - iii
+larval seta 13 - iii
+larval seta 14 - iii
+larval seta 0 - iv
+larval seta 1 - iv
+larval seta 2 - iv
+larval seta 3 - iv
+larval seta 4 - iv
+larval seta 5 - iv
+larval seta 6 - iv
+larval seta 7 - iv
+larval seta 8 - iv
+larval seta 9 - iv
+larval seta 10 - iv
+larval seta 11 - iv
+larval seta 12 - iv
+larval seta 13 - iv
+larval seta 14 - iv
+larval seta 14 - v
+larval seta 13 - v
+larval seta 12 - v
+larval seta 11 - v
+larval seta 4 - v
+larval seta 10 - v
+larval seta 5 - v
+larval seta 6 - v
+larval seta 7 - v
+larval seta 9 - v
+larval seta 8 - v
+larval seta 3 - v
+larval seta 2 - v
+larval seta 1 - v
+larval seta 0 - v
+larval seta 0 - vi
+larval seta 1 - vi
+larval seta 2 - vi
+larval seta 3 - vi
+larval seta 4 - vi
+larval seta 5 - vi
+larval seta 6 - vi
+larval seta 7 - vi
+larval seta 8 - vi
+larval seta 9 - vi
+larval seta 10 - vi
+larval seta 11 - vi
+larval seta 12 - vi
+larval seta 13 - vi
+larval seta 14 - vi
+larval seta 14 - vii
+larval seta 13 - vii
+larval seta 12 - vii
+larval seta 11 - vii
+larval seta 4 - vii
+larval seta 10 - vii
+larval seta 5 - vii
+larval seta 6 - vii
+larval seta 7 - vii
+larval seta 9 - vii
+larval seta 8 - vii
+larval seta 3 - vii
+larval seta 2 - vii
+larval seta 1 - vii
+larval seta 0 - vii
+larval seta 1 - p
+larval seta 2 - p
+seta 3 - p
+seta 4 - p
+seta 5 - p
+seta 8 - p
+seta 7 - p
+seta 6 - p
+seta 14 - p
+seta 8 - t
+seta 7 - t
+seta 4 - t
+seta 6 - t
+seta 2 - t
+seta 5 - t
+seta 3 - t
+seta 1 - t
+posterior imaginal ring
+pylorus
+larval anterior intestine
+anterior region
+posterior region
+larval anal canal
+adult salivary gland
+lateral lobe
+median lobe
+proximal region
+intermediate region
+distal region of lateral lobe
+distal region of median lobe
+short neck region
+larval salivary gland
+anterior part of the larval salivary gland
+sac
+larval salivary duct
+saliva accosiated organs
+salivary valve
+adipohemocyte
+adult alimentary canal
+adult malpighian tubules lumen
+larval malpighian tubule lumen
+anatomical entity
+anatomical structure
+portion of organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical line
+anatomical point
+anatomical surface
+anatomical system
+multi - cellular organism
+cells
+cell component
+compound organ component
+simple organ
+compound organ
+male organism
+female organism
+organism subdivision
+acellular anatomical structure
+anatomical cluster
+extraembryonic structure
+portion of tissue
+gonochoristic organism
+anatomical group
+multi - tissue structure
+posterior midgut
+oenocytoid
+basal lamina
+plasmatocyte
+agranular plasmatocyte
+granular plasmatocyte
+granulocyte
+hemocoel
+fat body
+cavitated compound organ
+solid compound organ
+epithelial cell
+adult palatum
+adult male accessory gland

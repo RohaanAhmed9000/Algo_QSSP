@@ -1,0 +1,92 @@
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+database
+datum label
+journal article
+data item
+information content entity
+directive information entity
+algorithm
+report
+data set
+measurement datum
+table
+figure
+document
+publication
+patent
+planned process
+investigation
+p - value
+population
+standard error
+drawing a conclusion based on data
+categorical measurement datum
+categorical label
+binding assay
+categorical value specification
+value specification
+protein localization assay
+curated information
+collection of organisms
+family
+proposition
+assertion
+evidence line
+assertion process
+research activity
+assertion method
+agent role
+resource role
+obsolete_automated assertion process
+provenance
+primary research study
+clinical study
+experimental model study
+secondary research study
+literature - based study
+reference population data study
+research study
+obsolete_study group
+curation
+evidence strength level
+patient case study
+evidence item
+software agent
+contribution
+study finding
+statement
+obsolete_observation
+evidence statement
+evidence data
+patient phenotyping study
+statement confidence level
+frequency data
+chi - squared statistic
+statistic
+effect size estimate
+z - score
+r2
+correlation coefficient
+t - statistic
+obsolete_ratio
+study group population
+tetrachoric correlation coefficient
+kendall's correlation coefficient
+relative risk
+polychoric correlation coefficient
+f - statistic
+root - mean - square standardized effect
+eta - squared
+omega - squared
+hedges's g
+glass's delta
+association
+count
+ethnicity
+ethnic group
+activity
+agent
+person

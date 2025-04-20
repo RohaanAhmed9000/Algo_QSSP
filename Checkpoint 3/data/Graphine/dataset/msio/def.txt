@@ -1,0 +1,609 @@
+a reference number relevant to the sample under study .
+the chemical phase of a pure sample ,  or the state of a mixed sample .
+total mass of sample used .
+total volume of solution used .
+concentration of sample in picomol / ul ,  femtomol / ul or attomol / ul solution used .
+instrument model name not including the vendor's name .
+free text description of a single customization made to the instrument ;  for several modifications ,  use several entries .
+nuclear magnetic resonance decoupling  ( nmr decoupling for short )  is a special method used in nuclear magnetic resonance  ( nmr )  spectroscopy where a sample to be analyzed is irradiated at a certain frequency or frequency range to eliminate fully or partially the effect of coupling between certain nuclei .
+state if the sample is in emulsion form .
+state if the sample is in gaseous form .
+state if the sample is in liquid form .
+state if the sample is in solid form .
+state if the sample is in solution form .
+state if the sample is in suspension form .
+sample batch lot identifier .
+bruker instrument model .
+tempdef: the end value for the x - axis of a  ( 1d or 2d )  fid ,   ( 1d or 2d )  pre - processed spectrum ,  2d projected spectrum ,  and  ( 1d or 2d )  post - processed spectrum .
+the nmrprocflow open source software provides a complete set of tools for processing  ( e .g .
+bayesil is a web system that automatically identifies and quantifies metabolites using 1d 1h nmr spectra of ultra - filtered plasma ,  serum or cerebrospinal fluid .
+nmrml - assign is a web server for creating an nmrml file from a fid and a structure .
+a set of peaks that are highly correlated in a series of samples
+chemical shift is the resonance frequency of a nucleus related to a chemical shift standard .
+an information object that describes the strength of the nmr signal
+a method of sorting multiple spectra by position of chemical shift peaks .
+based on both nmrml .xsd  ( xml schema definition )  and cv params  ( such as ontologies nmrcv ,  uo ,  chebi  . . . )  ,  a converter written in java was developed that automatically generates nmrml files ,  from raw files of the major nmr vendors .
+the acquisition log file is a created during an acquisition and could useful for debugging an acquisition that has gone awry .
+a web server designed to permit comprehensive metabolomic data analysis ,  visualization and interpretation .
+a new program package ,  xeasy ,  was written for interactive computer support of the analysis of nmr spectra for three - dimensional structure determination of biological macromolecules .
+dspfvs  -  dsp  ( digital signal processing )  firmware version corresponds to the version of the digital filter ,  a hardware component used by the spectrometer
+decim  -  decimation factor is a  ( bruker )  acquisition parameter that captures the number of raw analog points that are averaged in order to obtain a digital signal recorded in the fid .
+grpdly  -  is the time delay  ( in number of points? ) 
+terms used to describe types of data processing .
+tempdef: a sample is a role that is played by an object of interest in an investigation used to obtain generalizable information about the sample source .
+description of the instrument or the mass spectrometer .
+varian instrument model .
+instrument properties that are associated with a value .
+describes the data content on the file .
+serial number of the instrument .
+conversion of one file format to another .
+object attribute .
+sample properties that are associated with a value .
+checksum is a form of redundancy check ,  a simple way to protect the integrity of data by detecting errors in data .
+md5  ( message - digest algorithm 5 )  is a cryptographic hash function with a 128 - bit hash value used to check the integrity of files .
+sha - 1  ( secure hash algorithm - 1 )  is a cryptographic hash function designed by the national security agency  ( nsa )  and published by the nist as a u . s . government standard .
+describes the type of file and its content .
+details about a person or organization to contact in case of concern or discussion about the file .
+name of the contact person or organization .
+postal address of the contact person or organization .
+uniform resource locator related to the contact person or organization .
+email address of the contact person or organization .
+home institution of the contact person .
+data processing parameter used in the data processing performed on the data file .
+the time that a data processing action was finished .
+describes how the native spectrum identifiers are formated .
+file=xsd:idref .
+a software tool that has not yet been released .
+description of the preparation steps which took place before the measurement was performed .
+a molecules is a fundamental component of a chemical compound that is the smallest part of the compound that can participate in a chemical reaction .
+amide derived from two or more amino carboxylic acid molecules  ( the same or different )  by formation of a covalent bond from the carbonyl carbon of one to the nitrogen atom of another with formal loss of water .
+a describable property of a chemical compound .
+the ph of a solution at which a charged molecule does not migrate in an electric field .
+the ph of a solution at which a charged molecule would not migrate in an electric field ,  as predicted by a software algorithm .
+a combination of symbols used to express the chemical composition of a compound .
+a chemical formula which expresses the proportions of the elements present in a substance .
+a chemical compound formula expressing the number of atoms of each element present in a compound ,  without indicating how they are linked .
+a chemical formula showing the number of atoms of each element in a molecule ,  their spatial arrangement ,  and their linkage to each other .
+the simplified molecular input line entry specification or smiles is a specification for unambiguously describing the structure of a chemical compound using a short ascii string .
+an identifier / accession number to an external reference database .
+a unique identifier for a publication in the pubmed database  ( mir:00000015 )  .
+a substance formed by chemical union of two or more elements or ingredients in definite proportion by weight .
+an amino acid chain that is produced de novo by ribosome - mediated translation of a genetically - encoded mrna .
+a short name or symbol of a protein  ( e .g . ,  hsf 1 or hsf1_human )  .
+an nonphysical attribute describing a specific protein .
+accession number for a specific protein in a database .
+a long name describing the function of the protein .
+an nonphysical attribute that can be used to describe a peptide .
+a sequence of letter symbols denoting the order of amino acids that compose the peptide ,  without encoding any amino acid mass modifications that might be present .
+a sequence of letter symbols denoting the order of amino acids that compose the peptide plus the encoding any amino acid mass modifications that are present using the notation where the total mass of the modified amino acid is specified in square bracketed numbers following the letter  ( e .g .
+a state description of how a peptide might be isotopically or isobarically labelled .
+a peptide that has been created or labeled with some heavier - than - usual isotopes .
+a peptide that has not been labeled with heavier - than - usual isotopes .
+an arbitrary string label used to mark a set of peptides that belong together in a set ,  whereby the members are differentiated by different isotopic labels .
+something ,  such as a practice or a product ,  that is widely recognized or employed ,  especially because of its excellence .
+a practice or product that has become a standard not because it has been approved by a standards organization but because it is widely used and recognized by the industry as being standard .
+a specification of a minimum amount of information needed to reproduce or fully interpret a scientific result .
+a file that has two or more columns of tabular data where each column is separated by a tab character .
+encoding of modifications of the protein sequence from the specified accession ,  written in peff notation .
+name of the gene from which the protein is translated .
+type of the source file ,  the nmridentml was created from .
+source file for this nmridentml was a data set in a database .
+analysis software .
+conversion software .
+format of data files .
+phone number of the contact person or organization .
+fax number for the contact person or organization .
+toll - free phone number of the contact person or organization .
+doi unique identifier .
+free text attribute that can enrich the information about an entity .
+keyword present in a scientific publication .
+keyword assigned by the data submitter .
+keyword assigned by a data curator .
+parameters used in the nmr spectrometry acquisition .
+a unique identifier for a metabolite in the hmdb database  ( hmdb00001 )  .
+chenomx software for data acquisition and analysis .
+chenomx software for data analysis .
+file=xsd:idref .
+the format of the file being used .
+simple text file of peaks .
+parameter file used to configure the acquisition of raw data on the instrument .
+tempdef: a frequency sorted array of the nmr signal frequency components .
+conversion of a file format to metabolomics standards initiative nmrdata file format .
+conversion of a file format to jcamp - dx file format .
+ph .
+chemical shift reference is a run attribute to designate the parts - per - million value of the peak used to reference a spectrum .
+a bin for a spectrum .
+bin label .
+bin start .
+bin end .
+bin area .
+name of metabolite .
+a function applied to a fid to increase the signal - to - noise ratio or the resolution .
+the exponential function used to multiply a fid by to produce a desitred amount of line broadening .
+the sample - tube holds the nmr sample and sits in the nmr probe .
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+a realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural ,  social or institutional contexts .
+b is a generically dependent continuant = def .
+p is a process boundary =def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+b is a continuant fiat boundary = def .
+b is a process_profile =def .
+b is a relational quality = def .
+an oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms .
+an organic heterobicyclic compound that consists of 2 - oxohexahydro - 1h - thieno [ 3 , 4 - d ] imidazole having a valeric acid substituent attached to the tetrahydrothiophene ring .
+an azane that consists of a single nitrogen atom covelently bonded to three hydrogen atoms .
+an  azaarene comprising a benzene core in which one  - ch group is replaced by a nitrogen atom .
+a lactam obtained by formal cyclocondensation of creatine .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing deoxyribose and linked by phosphodiester bonds ;  dna contain the genetic information of organisms .
+'lipids' is a loosely defined term for substances of biological origin that are soluble in nonpolar solvents .
+any constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer etc . ,  identifiable as a separately distinguishable entity .
+a chemical entity is a physical entity of interest in chemistry including molecular entities ,  parts thereof ,  and chemical substances .
+a role played by the molecular entity or part thereof within a biological context .
+any lipid formally derived from isoprene  ( 2 - methylbuta - 1 , 3 - diene )  ,  the skeleton of which can generally be discerned in repeated occurrence in the molecule .
+any intermediate or product resulting from metabolism .
+a phosphorus oxoacid that consits of one oxo and three hydroxy groups joined covalently to a central phosphorus atom .
+the stable isotope of hydrogen with relative atomic mass 1 .007825 and a natural abundance of 99 .9885 atom percent  ( from greek pirhoomegatauomicronsigma ,  first )  .
+the stable isotope of hydrogen with relative atomic mass 2 .014102 and a natural abundance of 0 .0115 atom percent  ( from greek deltaepsilonupsilontauepsilonrhoomicronnu ,  second )  .
+a chemical entity constituting the smallest component of an element having the chemical properties of the element .
+a macromolecule made up of nucleotide units and hydrolysable into certain pyrimidine or purine bases  ( usually adenine ,  cytosine ,  guanine ,  thymine ,  uracil )  ,  d - ribose or 2 - deoxy - d - ribose and phosphoric acid .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing ribose and linked by phosphodiester bonds ;  rna is central to the synthesis of proteins .
+the stable isotope of oxygen with relative atomic mass 16 .999131 .
+a macromolecule is a molecule of high relative molecular mass ,  the structure of which essentially comprises the multiple repetition of units derived ,  actually or conceptually ,  from molecules of low relative molecular mass .
+a one - carbon compound that is methane in which three of the hydrogens are replaced by chlorines .
+a phosphine oxide in which the substituents on phosphorus are three phenyl groups .
+the stable isotope of nitrogen with relative atomic mass 15 .000109 .
+the stable isotope of nitrogen with relative atomic mass 14 .003074 .
+the stable isotope of fluorine with relative atomic mass 18 .998403 and nuclear spin  ( 1 )  / 2 .
+the stable isotope of aluminium with relative atomic mass 26 .98153 and nuclear spin  ( 5 )  / 2 .
+the stable isotope of phosphorus with relative atomic mass 30 .973762 and nuclear spin  ( 1 )  / 2 .
+the stable isotope of silicon with relative atomic mass 28 .9764947 ,  4 .683 atom percent natural abundancy ,  and nuclear spin  ( 1 )  / 2 .
+a nitrile that is hydrogen cyanide in which the hydrogen has been replaced by a methyl group .
+a member of the class of fluorobenzenes that is benzene in which all six hydrogen atom have been replaced by fluorine .
+a trialkyl phosphate that is the trimethyl ester of phosphoric acid .
+a dioxane with oxygen atoms at positions 1 and 4 .
+a biological role played by the molecular entity or part thereof within a biochemical context .
+the stable isotope of boron with relative atomic mass 11 .009306 ,  80 .1 atom percent natural abundance and nuclear spin 3 / 2 .
+the stable isotope of sodium with relative atomic mass 22 .989770 ,  100 atom percent natural abundance and nuclear spin 3 / 2 .
+the bromide salt of tetramethylammonium .
+a member of the class of chlorobenzenes that is benzene in which all of the hydrogens are replaced by chlorines .
+the inorganic nitrate salt of sodium .
+any organic molecular entity whose stucture is based on derivatives of a phenyl - substituted 1 - phenylpropane possessing a c15 or c16 skeleton ,  or such a structure which is condensed with a c6 - c3 lignan precursors .
+a primary nitroalkane that is methane in which one of the hydrogens is replace by a nitro group .
+an n - silyl compound that is n - methyltrifluoroacetamide in which the amide nitrogen is replaced by a tert - butyldimethylsilyl group .
+the study of the interaction of a sample with radiation or particles for measurement or detection .
+spectrometry where the sample is converted into gaseous ions which are characterised by their mass - to - charge ratio and relative abundance .
+any method where a sample mixture is first separated by gas chromatography then ionised and characterised according to mass - to - charge ratio and relative abundance .
+mass spectrometry where the relative abundance of isotopes in a sample is determined .
+mass spectrometry where the relative abundance of non - radioactive isotopes in a sample is determined .
+a method where a sample mixture is first separated by liquid chromatography before being converted into ions which are characterised by their mass - to - charge ratio and relative abundance .
+mass spectrometry where the intensities of one or more specific ion beams are recorded rather than the entire mass spectrum .
+mass spectrometry involving multiple mass - selection steps ,  with some form of fragmentation occurring between each stage .
+spectroscopy where the energy states of spin - active nuclei placed in a static magnetic field are interrogated by inducing transitions between the states via radio frequency irradiation .
+spectroscopy where the energy states of spin - active nuclei placed in a static magnetic field are interrogated by inducing transitions between the states via radio frequency irradiation .
+spectroscopy where the energy states of 1h nuclei placed in a static magnetic field are interrogated by inducing transitions between the states via radio frequency irradiation .
+spectroscopy where the energy states of 13c nuclei placed in a static magnetic field are interrogated by inducing transitions between the states via radio frequency irradiation .
+an nmr experiment in which a second frequency dimension is employed to disperse the signals and reveal correlations between interacting nuclei .
+a type of homonuclear nmr spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between nuclei which are j - coupled  ( usually  \ leq 3 bonds apart )  .
+a type of nmr spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between protons and heteronuclei .
+a type of homonuclear nmr spectroscopy which reveal correlations between all nuclei of a spin - system .
+a type of homonuclear proton -  - proton )  nmr spectroscopy where chemical shift and j - coupling information are separated onto different frequency axes .
+a type of homonuclear nmr spectroscopy based on the nuclear overhauser enhancement effect in which correlations are seen between nuclei that are spatially proximate within a molecule  (  \ leq 6  \ aa apart )  .
+spectroscopy where the energy states of spin - active nuclei placed in a static magnetic field are interrogated by inducing transitions between the states via radio frequency irradiation .
+a pulse sequence which is applied during nuclear magnetic resonance spectroscopy to measure spin -  - spin  ( t2 )  relaxation times .
+a pulse sequence which is applied during nuclear magnetic resonance spectroscopy of quadrupolar nuclei ,  to measure spin -  - spin  ( t2 )  relaxation times .
+any type of heteronuclear nmr spectroscopy where a second frequency dimension is employed .
+a type of homonuclear nmr spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between protons which are j - coupled  ( usually  \ leq 3 bonds apart )  .
+an nmr experiment in which multiple frequencies in an nmr spectrum are excited simultaneously over a broad frequency rnage using polychromatic pulses .
+any technique which detects the response of spins to a perturbing magnetic field .
+a technique or procedure applied in nuclear magnetic resonance experiments .
+a series of short  ( microsecond )  bursts  ( pulses )  of rf radiation separated by delays  ( of defined duration )  designed to interact with ,  and manipulate the magnetic moments of spin - active nuclei during nmr spectroscopy .
+an nmr pulse sequence that decouples nuclei i .e .
+an nmr pulse sequence ,  used in magic angle spinning ,  that decouples nuclei i .e .
+a sequence of composite pulses designed to allow isotropic mixing of magnetisation between nuclei .
+an nmr pulse sequence used to transfer magnetisation between protons and covalently bound  ( spin active )  heteronuclei via isotropic mixing of their magnetisation .
+an nmr pulse sequence that is used to suppress or remove the solvent signal .
+a pulse cluster used for solvent suppression consisting of two rf pulses separated by a delay with conditions set such that the solvent signal alone is rendered unobservable by the second pulse .
+a pulse cluster used to suppress solvent  ( water )  signals exploiting the differing relaxation properties of solvent and sample .
+a pulse cluster used for solvent  ( water )  suppression .
+a pulse cluster used in nmr experiments which manipulates signals such that ,  at the end of the sequence ,  the effects of chemical shift differences have been compensated / removed .
+a pulse sequence used in magic angle spinning nmr experiments to remove additional signals resulting from spinning the sample too slowly to obtain a response composed solely of isotropic chemical shifts .
+a 2d nmr experiment which correlates the chemical shifts of spatially proximate protons with the chemical shifts of all  ( of one type of )  their covalently bound heteronuclei .
+a type of homonuclear nmr spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between 13c nuclei that are j - coupled  ( usually  \ leq 3 bonds apart )  .
+a type of nmr spectroscopy where a second frequency dimension is employed to disperse the signals and reveal correlations between protons and 13c nuclei .
+spectroscopy where the energy states of 1h nuclei placed in a static magnetic field are interrogated by inducing transitions between the states via radio frequency irradiation .
+a material entity of anatomical origin  ( part of or deriving from an organism )  that has as its parts a maximally connected cell compartment surrounded by a plasma membrane .
+a cell in vitro that is or has been maintained or propagated as part of a cell culture .
+a cell in vitro that has undergone physical changes as a consequence of a deliberate and specific experimental procedure .
+a disease is a disposition  ( i )  to undergo pathological processes that  ( ii )  exists in an organism because of one or more disorders in that organism .
+a data item that is used to indicate consent permissions for datasets and / or materials ,  and relates to the purposes for which datasets and / or material might be removed ,  stored or used .
+a categorical data item indicating the primary category the consent code belongs to according to dyke et al .
+a categorical data item indicating the secondary category the consent code belongs to according to dyke et al .
+this consent code primary category indicates there is no restriction on use .
+this primary category consent code indicates that use is allowed for health / medical / biomedical purposes and other biological research ,  including the study of population origins or ancestry .
+this primary category consent code indicates that use is allowed for health / medical / biomedical purposes ;  does not include the study of population origins or ancestry .
+this primary category consent code indicates that use is allowed provided it is related to the specified disease .
+this primary category consent code indicates that use of the data is limited to the study of population origins or ancestry .
+this secondary category consent code indicates that use is limited to studies of a certain research type .
+this secondary category consent code indicates that use is limited to research purposes  ( e .g . ,  does not include its use in clinical care )  .
+this secondary category consent code indicates that use includes methods development research ( e .g . ,  development of software or algorithms )  only within the bounds of other use limitations .
+this secondary category consent code indicates that use is limited to genetic studies only  ( i .e . ,  no phenotype - only research ) 
+requirements indicate additional conditions set for use .
+this requirement indicates that use is limited to not - for - profit organizations .
+this requirement indicates that requestor agrees to make results of studies using the data available to the larger scientific community .
+this requirement indicates that the requestor must agree to collaboration with the primary study investigator ( s )  .
+this requirement indicates that the requestor must provide documentation of local irb / erb approval .
+this requirement indicates that use is limited to within a specific geographic region .
+this requirement indicates that requestor agrees not to publish results of studies until a specific date
+this requirement indicates that use is approved for a specific number of months .
+this requirement indicates that use is limited to use by approved users .
+this requirement indicates that use is limited to use within an approved project .
+this requirement indicates that use is limited to use within an approved institution .
+this requirement indicates that the requestor must return derived / enriched data to the database / resource .
+a reference to a place on the earth ,  by its name or by its geographical location .
+elemental activities ,  such as catalysis or binding ,  describing the actions of a gene product at the molecular level .
+catalysis of a biochemical reaction at physiological temperatures .
+any process specifically pertinent to the functioning of integrated living units: cells ,  tissues ,  organs ,  and organisms .
+the process in which a gene's sequence is converted into a mature gene product or products  ( proteins or rna )  .
+any macromolecular complex composed  ( only )  of two or more polypeptide subunits along with any covalently attached molecules  ( such as lipid anchors or oligosaccharide )  or non - protein prosthetic groups  ( such as nucleotides or metal ions )  .
+a directive information entity that specifies what should happen if the trigger condition is fulfilled
+a unit of measurement is a standardized quantity of a physical quality .
+a directive information entity that describes an intended process endpoint .
+a directive information entity that describes an action the bearer will take
+a label is a symbol that is part of some other datum and is used to either partially define  the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+software related to the recording or transformation of spectra .
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+an information content entity that is a mark ( s )  or character ( s )  used as a conventional representation of another entity .
+a generically dependent continuant that is about some thing .
+a scalar measurement datum is a measurement datum that is composed of two parts ,  numerals and a unit label .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a diagram that presents one or more tuples of information by mapping those tuples in to a two dimensional space in a non arbitrary way .
+a rule is an executable which guides ,  defines ,  restricts actions
+a plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective .
+the curation status of the term .
+a data item that is an aggregate of other data items of the same type that have something in common .
+an image is an affine projection to a two dimensional surface ,  of measurements of some quality of an entity or entities repeated at regular intervals across a spatial range ,  where the measurements are represented as color and luminosity on the projected on surface .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+a version number is an information content entity which is a sequence of characters borne by part of each of a class of manufactured products or its packaging and indicates its order within a set of other products having the same name .
+a textual entity that expresses the results of reasoning about a problem ,  for instance as typically found towards the end of scientific papers .
+a textual entity is a part of a manifestation  ( frbr sense )  ,  a generically dependent continuant whose concretizations are patterns of glyphs intended to be interpreted as words ,  formulas ,  etc .
+a textual entity that contains a two - dimensional arrangement of texts repeated at regular intervals across a spatial range ,  such that the spatial relationships among the constituent texts expresses propositions
+an information content entity consisting of a two dimensional arrangement of information content entities such that the arrangement itself is about something .
+a figure that expresses one or more propositions
+a collection of information content entities intended to be understood together as a whole
+a cartesian spatial coordinate datum is a representation of a point in a spatial region ,  in which equal changes in the magnitude of a coordinate value denote length qualities with the same magnitude
+a cartesion spatial coordinate datum that  uses one value to specify a position along a one dimensional spatial region
+a cartesion spatial coordinate datum that  uses two values to specify a position within a two dimensional spatial region
+a scalar measurement datum that is the result of measurement of mass quality
+a scalar measurement datum that is the result of measuring a temporal interval
+a planned process in which a document is created or added to by including the specified input in it .
+a line graph is a type of graph created by connecting a series of data points together with a line .
+a symbol that is part of a crid and that is sufficient to look up a record from the crid's registry .
+an information content entity that consists of a crid symbol and additional information about the crid registry to which it belongs .
+a crid registry is a dataset of crid records ,  each consisting of a crid symbol and additional information which was recorded in the dataset through a assigning a centrally registered identifier process .
+a data set that is an aggregate of data recording some measurement at a number of time points .
+openflux2 is a matlab - based modelling software for 13c metabolic flux analysis  ( mfa )  .
+a process which uses or consumes chemical / molecular entities to generate other molecular entities
+buffer role is a role played by a chemical solution to dampens ph variation
+derivatization agent role is a role played by a chemical entity involved in a chemical reaction known as derivatization whereby another chemical entity is augmented ,  but not altered otherwise ,  with groups specify to the chemical entity acting as a derivatization agent .
+external standard role is a role played by a material entity used as a reference point for signal acquisition .
+internal standard role is a role played by a chemical entity added in known amount to an analytical sample
+long term reference role is a role played by a material entity known for its stability to provide the means to compare across sets of acquisitions
+positive control role is a role played by a material entity in the context of analytical work to provide no signal  or a signal as close to baseline as technically possible  ( within the limits of detection )  thereby providing a reference point for the noise and indicative that the detectors and signal acquisition system operate nominally .
+positive control role is a role played by a material entity in the context of analytical work to provide a signal of known intensity indicative that the detectors and signal acquisition system operate nominally .
+solvent role is a role played by a chemical entity present in a solution and providing the solvatation activity to other compounds ,  the solutes .
+absoluteidq p150 kit is a reagent system manufactured by biocrates ag ,  austria which allows the targeted metabolite profiling of up to 163 distinct molecular entities with quantitative accuracy on human plasma samples .
+absoluteidq p180 kit is a reagent system manufactured by biocrates ag ,  austria which allows the targeted metabolite profiling of up to 188 distinct endogenous molecular entities with quantitative accuracy from 5 different compound classes  ( i .e .
+absoluteidq stero17 kit is a reagent system manufactured by biocrates ag ,  austria which allows the targeted metabolite profiling   ( identification and quantification )  of 17 steroid hormones  ( sex steroids ,  mineralocorticoids ,  glucocorticoids )  .
+absoluteidq p400 kit is a reagent system manufactured by biocrates ag ,  austria which allows the targeted metabolite profiling of up to 400 distinct molecular entities with quantitative accuracy on human plasma samples .
+ammonium bicarbonate is kind of buffer solution where the weak base is ammonium and the weak acid carbonic acid .
+a buffer solution  ( more precisely ,  ph buffer or hydrogen ion buffer )  is an aqueous solution consisting of a mixture of a weak acid and its conjugate base ,  or vice versa .
+a dilution series sample is a material entity which is part of a collection of such materials ,  each defined by its dilution factor with respect to a stock solution of reference sample .
+fetal bovine serum  ( fbs )  or fetal calf serum  ( spelled foetal in commonwealth english )  is a material entity which correspsonds to the blood fraction remaining after the natural coagulation of blood ,  followed by centrifugation to remove any remaining red blood cells .
+hepes buffer is a buffer which uses hepes  ( 4 -  ( 2 - hydroxyethyl )  - 1 - piperazineethanesulfonic acid )  as a zwitterionic organic chemical buffering agent  .
+a pooled sample made from fractions from samples collected from large ,  study independent collection of samples with the purpose of serving as a reference for quality control purpose .
+phosphated buffer saline  ( pbs )  buffer is a buffer which is a water - based salt solution containing disodium hydrogen phosphate ,  sodium chloride and ,  in some formulations ,  potassium chloride and potassium dihydrogen phosphate .
+quality control material  ( qc material )   is a material entity which is used for the purpose to quality control processes such as assessing unwanted source of variations during signal acquisitions .
+a reference compound is a chemical entity of know origin ,  formula and established spectral fingerprint added to a solution of unknown component in known quantities in order to provide a basis  ( hence the term reference )  with which to establish a comparison ,  be used for calibration or quality control or quantitation estimate for unknown compound in spectral analysis such as nmr or mass spectrometry
+a reference compound mix is a material entity which consists of composite solution of several molecular entities acting as reference compound and present in known quantity in the mixture ,  with which to establish a comparison ,  be used for calibration or quality control or quantitation estimate for unknown compound in spectral analysis such as nmr or mass spectrometry
+a material entity corresponding to a sample containing no biological sample ,  which undergoes all laboratory process of preparation as used for test samples and used as a negative control to evaluate contamination effect and artefacts caused by reactions occurring during the sample preparation steps of test samples .
+a material entity corresponding to ‘solvent’  ( mobile phase in chromatography context )  only ,  containing no biological sample and used as a negative control to evaluate carry over effect between injections of test samples .
+a study reference sample is a pool made up of aliquots from all the sample collected in a given study .
+a carrier gas is a chemical entity in gaseous phase with is used for eluting chemical compound in a gas chromatography process .
+a derivatization agent is a chemical entity which is used in a material combination process known as derivatization and which consists in adding chemical groups to a molecule in an attempt to make it more volatile and therefore amenable to gas - chromatography mass spectrometry .
+an isotopic tracer is a molecular entity whose atoms may have entirely or partially replaced with isotopes of the normally occuring element and which can be distinguished from naturally occuring molecular entity through mass analysis or nucleic magnetic resonance analysis .
+a specificly labeled isotopic tracer is an isotopic tracer where only specific positions on the backbone have been replaced with an isotopic atom .
+uniformly labeled isotopic tracer is an isotopic tracer where all atoms of the backbone are replaced with the same isotope .
+a single isotopologue represents a set of mass - equivalent isotopomers .
+openflux is a matlab - based modelling software for 13c metabolic flux analysis  ( mfa )  .
+a mass isotopomer   ( short for isotopic isomer )  is a compound which differ from another one only by the position of an isotopic substitution in the molecular backbone .
+a solvent is a chemical entity playing a solvent role in a solution .
+a non - radioactive ,   glucose molecule in which all six carbons are substituted with stable carbon 13  ( 13c )  isotope ,  with potential imaging application or fluxomics studies .
+an isotopomer where the isotopic content of specific atoms is known for a part of the molecule
+metabolic flux unit is a measurement unit datum used to qualify a metabolic flux .
+micromolar per milligram of protein per hour  is a unit used to report metabolic fluxes .
+c13fluc2 is a software suite of applications for the detailed quantification of intracellular  ( quasi )  steady - state fluxes as explored by 13c - based metabolic flux analysis .
+c13 is a tool for quantification of in vivo metabolic fluxes ,  from carbon labelling experiments .
+an intuitive tool for quantitative investigations of intracellular metabolism by users that are not familiar with numerical methods or isotopic tracer experiments .
+fia is a software written in python ,  implementing the fia  ( fluxomer iterative algorithm )   -  a new effective method for 13c metabolic fluxes  ( tracer )  experiments analysis .
+imat is a software integrating transcriptomic and proteomic data with genome - scale metabolic network models to predict enzyme metabolic flux .
+inca: a computational platform for isotopically non - stationary metabolic flux analysis ,  jamey d . young .
+iso2flux is a python - based flux analysis software that allows to perform 13c metabolic flux analysis on a sub - network of a large scale model .
+“isodyn” is a c +  +  - program that performs an analysis of stable isotope tracer data to assess metabolic flux profiles in living cells .
+isodesign ,  a software that enables these parameters to be maximized by optimizing the isotopic composition of the label input .
+metran is a software for metabolic flux analysis implementing the elementary metabolite units .
+“midcor .r” is an “r” - program that performs a primary analysis of isotopic isomers  ( isotopomers )  distribution obtained by gas chromatography coupled with mass spectrometry  ( gcms )  .
+an isotopically non - stationary labeling experiment is a material processing used in fluxomics studies where cells cultures are grown in the presence of radiolabeled tracer compound for relatively short amount of time and samples collection before the system can reach an isotopic and metabolic steady state ,  and is therefore in a non - stationary phase .
+a non - radioactive ,   glutamine molecule in which 5 carbons are substituted with stable carbon 13  ( 13c )  isotope and both glutamin nitrogen atoms are substituted with 15n ones ,  with potential imaging application or fluxomics studies .
+openmoebius is an integrated software for conventional 13c - metabolic flux analysis and isotopically nonstationary 13c - metabolic flux analysis  ( inst - 13c - mfa )  .
+ramid is a computer program designed to read the machine - generated files saved in netcdf format containing registered time course of m / z chromatograms .
+a software produced by nicolas zamboni and colleagues for flux ratio estimation based on a 5 step workflow known as sumoflux and which relies on surrogate modeling .
+the chemical compounds of a living cell are connected by biochemical reactions which convert one compound into another .
+a metabolic pathway is a linked series of chemical reactions occurring within a cell .
+a stoichiometric coefficient is an information object which is part of an equation describing a chemical reaction and which corresponds to the number of molecules of a reactant  taking part in a reaction .
+the amount of time elapsed for a cell culture to growth twice its initial size ,  usually expressed in hour
+cell seeding density is a measurement datum which denotes the number of cells per surface area in the case of adherent cells or number of cells per volume in the case of free cells deposited in the culture vessel to start a cell culture .
+average cell volume is a measurement datum used to report over physcal occupancy of cells under study .
+confluence level is a measurement datum denotes the status of a cell culture and how cells are occupying the space available in a plate .
+dilution factor is a measurement data item which indicates in percentage the level of purity of a material in the context of dilution such as a dilution series .
+the amount of dideoxyribonucleic acids present in a cell culture or tissue .
+intracellular metabolite average content is a measurement provided of metabolite concentration normalized against  cell average volume or dna content or protein content or dry weight
+the concentration of a molecular entity acting as metabolite and stated in standard concentration units ,  such molar ,  micromolar and so on
+metabolite pool size estimate is an information entity used in fluxomics studies to estimate the amount of  molecular entity available to a particular metabolic process .
+passage number is a measurement data item denoting how many times a cell culture has been split and transferred to a new culture vessel .
+ratio of protein content over a reference standard element  ( usually bovine serum albumin  ( bsa )  ) 
+the amount of  ( soluble )  protein from cell culture or tissue .
+signal intensity is a kind of measurement providing an estimate of the strength of a phenomena as it is recorded .
+signal intensity of all m / z values at the maximum of the peak  ( also known as maximum signal intensity )  and subtracting baseline .
+total volume of cell culture is a measurement data item which denotes the volume occupied by a cell culture
+an isotopologue distribution matrix is an information object used in tracer based metabolomics experiments to report the amount of possible isotopologues  ( sets of isotopomers )  derived from the tracer in a metabolic network .
+a metabolic flux rate matrix is an information content entity which is defined as a 2 dimensional table associating chemical species with uptake and excretion rate in the cell
+a stoichiometry matrix is an information content entity holding arrays of stoichiometric coefficients ,  each associated to a specific chemical reactions
+a centrally registered identifier to denote a metabolite chemical entity
+a centrally registered identifier which denotes a pathway data item
+a centrally registered identifier to denote a molecular entity of the type protein .
+a centrally registered identifier which denotes a chemical reaction .
+calibration is a process which relies on comparison between measurements in order to estimate the reliability of the measurements performed on a particular device or instrument configuration .
+quality control is a process which aims to ensure that procedures for producing a material or a measurement remain within established error tolerance margins .
+assessing across studies variability is a quality control process which aims at monitoring the consistency of signal acquisitions  between different studies  ( for instance in the context of meta - analysis and data integration )  in order to detect unwanted causes of variation  ( i .e .
+assessing instrument conditionning is a quality control process which aims at monitoring the stability of the analytical instrument prior to running data acquisition on specimen of interest by running a set of control runs .
+assessing within study variability is a quality control process which aims at monitoring the consistency of signal acquisition throughout the course of a study in order to detect unwanted causes of variation  ( i .e .
+assessing study batch - to - batch variation is a within study variably quality control which specifically looks at how batching of data acquisition contributes to adding unwanted noice and how to account for it .
+detecting carry over event is a quality control process which aims to determine if measurements in one sample are affected to earlier measurements made on different samples and indicative of insufficient matrix regeneration between 2 data acquisition events .
+detecting departure from linearity event is a quality control process which aims to determine if measurements respond in a linear fashion of a linear increase of concentration of analytes .
+detecting sample degradation event is a quality control process which aims to determine if measurements in samples are affected by their run order or time of acquisition .
+an investigation which focused on measuring small biological molecules known as metabolite with the goal of understanding biochemical process underlying normal or pathological biological processes
+lipidomics investigation is an investigation which aims at determining the lipid content of a biological system under given experimental conditions using data acquisition techniques such as mass spectrometry ,  nmr spectroscopy or chromatography techniques .
+stable isotope resolved metabolomics study is a kind of investigation which uses non - radioactive isotope for labeling compounds which are precursors in key metabolic reaction .
+a kind of assay which attempts to identify and measure relative concentration of all possible metabolites using the method high - performance liquid chromatography  ( hplc ;  formerly referred to as high - pressure liquid chromatography )  ,  is a technique in analytical chemistry used to separate ,  identify ,  and quantify each component in a mixture .
+a kind of assay which attempts to identify and measure specific compound /  metabolites  ( known in advance )  expressed as concentration or relative abundance ratio to a standard in a extract derived from a specimen using techniques such as gas chromatography mass spectrometry ,  liquid chromatography mass spectrometry ,  nmr spectroscopy or liquid chromatography dad
+a kind of assay which attempts to identify and measure relative concentration of all possible metabolites present in a extract derived from a specimen using techniques such as gas chromatography mass spectrometry ,  liquid chromatography mass spectrometry ,  nmr spectroscopy .
+a fresh culture medium is a culture medium which presents its nominal characteristisc in terms of molecular concentration of its components ,  ph ,  and physical chemical expected properties .
+spent culture medium is a culture medium which has been added to a cell culture and which has been depleted of its component as used by the growing cell and which has received the by products of cell metabolites excreted by the cells .
+metabolism quenching is a planned processed whose objective is a quick extinction of all biochemical reactions occuring in a biological system in order to fix molecular entity concentrations for downstream quantitation and analysis .
+direct metabolism quenching by solvent is a kind biochemical reaction extinction process which relies on organic solvents to denature enzymatic machinery and inactivate it .
+a type of metabolism immediate extinction using cold acetonitrile
+a type of metabolism extinction which uses refrigerated buffer containing 60% of methanol ammonium bicarbonate solution
+a type of metabolism extinction which uses refrigerated buffer containing 60% of methanol hepes solution
+a type of metabolism extinction which uses refrigerated pbs buffer
+an elution program is a set of recorded instructions which determine the mobile phase  ( gas or liquid )  composition ,  pressure ,  temperature and flow rate during the chromatography separation .
+derivatization is a technique used in chemistry which transforms a chemical compound into a product  ( the reaction's derivate )  of similar chemical structure ,  called a derivative .
+a kind of derivatization which results in the addition of acetyl group to molecules in an attempt to make ions derived from it more volatile in a gas - chromatography experiment .
+a kind of derivatization which results in the addition of trifluoroacetyl group to molecules in an attempt to make ions derived from it more volatile in a gas - chromatography experiment .
+a kind of derivatization which results in the addition of alkyl group to molecules in an attempt to make ions derived from it more volatile in a gas - chromatography experiment .
+a kind of derivatization which results in the addition of methyl group to molecules in an attempt to make ions derived from it more volatile in a gas - chromatography experiment .
+a kind of derivatization which results in the addition of oxime group to molecules in an attempt to make ions derived from it more volatile in a gas - chromatography experiment .
+a kind of derivatization which results in the addition of silyl group to molecules in an attempt to make ions derived from it more volatile in a gas - chromatography experiment .
+isotopic labeling  ( or isotopic labelling )  is a technique used to track the passage of an isotope  ( an atom with a detectable variation )  through a reaction ,  metabolic pathway ,  or cell .
+specific isotopic labeling refers to the placement of a single label  ( e .g . ,  2h ,  13c ,  or 15n )  in a specified location in a molecule .
+uniform labeling refers to biosynthetic labeling of all carbon ,  nitrogen ,  or hydrogen sites with stable isotopes .
+a process of collecting a sample when the cells of cell culture growth are collected at a specific phase of the cell division cycle  ( e .g collection at g2 / g1 )  .
+a process of collecting a sample when the cells of a cell culture growth are not dividing
+a process of collecting a sample when the cell culture growth can be approximated by a logarithm function .
+collection at specific cell culture passage is a kind of specimen collection which occurs after a strictly defined number of  cell culture splitting ,  defined to control how many cell divisions have been performed .
+collection at stabilization phase before experiment is a kind of specimen collection process which takes places once cells have reached a stationary growth phase and prior the main experimental intervention is applied .
+a process of collecting a sample when the cell culture growth has reached a plateau ,  indicative of a steady state
+flux balance analysis is a mathematical approach for analyzing the flow of metabolites through a metabolic network .
+an isotopomer data matrix is a table resulting from the analysis of nmr data acquired in the context of tracer based studies and which contains information about chemical entity assignment
+natural abundance correction is a data transformation which aims to take into account the contribution of natural random variation in isotopic composition in the environment and adjust for it during the calculation of mass isotopologue distribution in a tracer based metabolomics experiment
+metabolic flux analysis is a type of investigation which uses data from tracer based studies to provide insights into cellular metabolites creation and destruction .
+steady - state 13c metabolic flux analysis is a metabolic flux analysis approach which relies on 13c tracer experiments and requires long incubation period necessary to meet methodological requirements that all reactions under study have reach steady state .
+isotopically non - stationary mfa  ( inst - mfa )   is a metabolic flux analysis which provides an approach to circumvent limitations from other methods through computational analysis of metabolite labeling patterns obtained during the transient labeling period prior to isotopic steady state  ( wiechert and noh ,  2005 )  .
+a tracer analysis is a type of experimental procedure which relies on tracer molecules ,  usually non radioactive ,  to probe metabolic pathways and biochemical routes
+a normalization process which relies on the signal intensity measured for several reference compounds  ( internal standards )  injected or added to the test samples in known quantities ,  thereby allowing sample comparison which have been placed on equal footing .
+a normalization process which relies on the computing to total signal intensity by simply summing up those signals and then for each sample measurements ,  dividing it by the total signal .
+a normalization process used  in mass spectrometry signal processing which takes into account the fact that analytes can interact with internal standards and impair accurate estimatation of these .
+the 2 step normalization is a normalization process which uses 2 complementary steps provided suitable quality controls have been supplied .
+a normalization process which relies on the signal intensity measured for one reference compound  ( an internal standard )  injected or added to the test samples in known quantity ,  thereby allowing sample comparison which have been placed on equal footing based on this reference .
+metabolite extraction is an extraction process which aims to retrieve small molecules known as metabolites ,  from a specimen
+lipid extraction is an extraction which aims to retrieve lipid  ( hydrophobic carbohydrate )  from a specimen
+polar metabolite extraction is a metabolite extraction which aims to retrieve water soluble or metabolites with polar solvent solubility properties .
+cell layer enzymatic digestion is a material component separation process which uses an enzyme ,  usually a protease ,  to lyse the bonds between cultured cells and their substrates  ( usually a microplate ,  which may be coated with anchoring material such as collagen )  .
+cell scraping is a material component separation technique which uses mechanism means  ( as opposed to enzymatic ones )  to detach cultured cells from the growth substrate .
+centrifugation is a material component separation process which relies on centrifugational forces applied by means of high velocity rotation to a sample placed in a vial or tube in a rotor ,  fixed to an centrifugation instrument .
+gas chromatography is a material component separation process which use a mobile phase  in gaseous form to force a mixture of chemical through chromatography columns and associated detecting equipment ,  which may be a mass spectrometry in gc - ms applications .
+high performance liquid chromatography is a kind of material component separation process which uses a mobile phase  in liquid form to force a mixture of chemical through chromatography columns and associated detecting equipment ,  which may be a mass spectrometry in lc - ms applications .
+biomass is a rate measurement datum of how much biochemical or biological material is produced over a period of time .
+flux ,  or metabolic flux is the rate of turnover of molecules through a metabolic pathway .
+an extracellular flux is a metabolic flux indicating the rate of absortion or release of a molecular entity by a cell system from or to its surroundings ,  respectively .
+an excretion flux is a metabolic flux indicating the rate of release of a metabolite by a cell system to its surroundings .
+an uptake flux is a metabolic flux indicating the rate of absorption of a molecular entity by a cell system from its surroundings
+the reaction rate is a rate measurement datum denoting a biochemical reaction as measured according to standard experimental methods .
+continuous fermentation cell culture is a type of processed material which involved a bacterial or yeast cell stock grown in conditions such as nutrients are added and product removed at a steady rate throughout the culture process .
+a cell culture population where cells are grown on top of each other ,  producing two layers of cells on the surface of the growth substrate ,  usually a flask or a petri dish
+a cell culture population where no cells are grown on top of each other ,  producing a single layer of cells on the surface of the growth substrate ,  usually a flask or a petri dish
+a sandwich cell culture is a type of cell culture population where the grown cells are in contact with a substratum at the bottom and the top ,  thereby providing a more defined boundary and level of interaction than in suspension grown cells or in classic monolayer cell cultures .
+a 3d cell culture is a cultured cell population grown in conditions which better mimicks in - vivo growth environment  ( i .e .
+a chromatography column is a device used in chromatography for the separation of chemical compounds .
+96 - well microplate is an array of wells usually arranged in 8 rows of 12 columns whose volume range from 0 .2 ml to 1 .5 ml and which are used to grow cell or perform biochemical ,  in - vitro reactions .
+a chemostat is a device  to which fresh medium is continuously added ,  while culture liquid is continuously removed to keep the culture volume constant .
+a coated microplate is a kind of microplate whom surface has been treated in some ,  for instance by covalently attaching protein such as antibodies and cell matrix molecules to favor cell growth or induce speficic cellular behavior .
+a constantly fed - btach culture reactor is a device in which the feed rate of a growth - limiting substrate is constant ,  i .e .
+an exponentially fed - batch culture reactor is a device which deliver the ability to grow cells in a way non too dissimilar to that of a chemostat based culture ,  meaning that the cells are in a quasi steady - state condition .
+a container in which fermentation takes place .
+a flask is a kind of container used for cell culture ,  and which is available in an array of material  ( usually transparent plastic polymer )  which may be surface treated .
+ a petri dish is a container used to grow cells or perform biochemical reactions ,  which used to be made of glass ,  but which is now available in a variety of surface treated or non - treated plastic polymers .
+a uncoated microplate is a kind of microplate whom surface has not received any treatment and is uniquely made of polymer .
+high dose is a dose specifically set to trigger strong response in the system it is administered to ,  those effects may be toxic .
+low dose is a dose specifically set to trigger  no or very limited response in the system it is administered to ,  those effects are not expected to be toxic .
+a "lethal dose" represents a dose  ( usually recorded as dose per kilogram of subject body weight )  at which a given percentage of subjects will die .
+the "lethal dose 50" represents a dose  ( usually recorded as dose per kilogram of subject body weight )  at which 50% of subjects will die .
+medium dose is a dose specifically set to trigger  limited but clear response in the system it is administered to ,  those effects are not expected to be toxic but may be .
+noael dose is a dose defined as the highest experimental point that is without adverse effect .
+continuous fermentation cell culture is a type of processed material which involved a bacterial or yeast cell stock grown in conditions such as nutrients are added at the begining of the culture process and products removed at the end .
+fluxomics is a kind of investigation which aims at identifying ,  quantifying  the fluxes of molecules in cellular systems and understanding the cellular metabolism .
+mass isotopomer fractional abundance is a measurement data item corresponding to the following:  the most abundant species is given the value 100 and all other species are normalized relative to 100 and expressed as percent relative abundance .
+steady state labeling experiment is a material processing used in fluxomics studies where cells cultures are grown continuously in the presence of radiolabeled tracer compound throughout multiple platings .
+the m / z notation is used for the independent variable in a mass spectrum .
+a m over z ratio which underwent a correction data transformation to take into account variations caused by a specific aspects of the data acquisition process .
+a m over z ratio which underwent a correction data transformation that takes into account the signal obtained from a reference compound and its spectral characteristics .
+a m over z ratio which underwent a correction data transformation that takes into account the signal obtained from a reference compound ,  its spectral characteristics as well as the contributions caused by adducts generated during the ionization process .
+retention time  ( rt )  is a measure of the time taken for a solute to pass through a chromatography column .
+the area of a peak is a kind of data derived from a spectrum which is proportional to the product of its height and its width of a spectrum peak ,  but the proportionality constant depends on the peak shape .
+a normalized corrected peak area is a type of peak area which is produced followed a normalization data transformation and correction in order to make spectra comparable .
+signal intensity of all m / z values after integrating the whole peak and subtracting baseline
+chemical entity assignment is an annotation which uses spectral information to assign and identify and molecular entity / chemical compound .
+assignment by database search is a type of chemical entity assignment which relies on probing chemical electronic libraries and chemical databases to determine matching structure and thereby attempt to assign a chemical identity .
+chemical entity assignment by direct assignment to standards is a data transformation process which uses spectral information from a known compound  ( ie .
+chemical entity assignment by indirect assignment to standards is a data transformation process which uses spectral information from a known compound  ( ie .
+something ,  such as a practice or a product ,  that is widely recognized or employed ,  especially because of its excellence .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+is a material entity that is created or changed during material processing .
+a planned process that consists of parts: planning ,  study design execution ,  documentation and which produce conclusion ( s )  .
+a role that inheres in a material entity that is realized in an assay in which data is generated about the bearer of the evaluant role
+a planned process with the objective to produce information about the material entity that is the evaluant ,  by physically examining it or its proxies .
+a data item which is used to indicate the degree of uncertainty about a measurement .
+a processed material that provides the needed nourishment for microorganisms or cells grown in vitro .
+a role inhering in a biological or chemical entity that is intended to be applied in a scientific technique to participate  ( or have molecular components that participate )  in a chemical reaction that facilitates the generation of data about some entity distinct from the bearer ,  or the generation of some specified material output distinct from the bearer .
+a planned process which results in physical changes in a specified input material
+a role that is realized through the execution of a study design in which the bearer of the role participates and in which data about that bearer is collected .
+a role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation
+an intervention design is a study design in which a controlled process applied to the subjects  ( the intervention )  serves as the independent variable manipulated by the experimentalist .
+a quantitative confidence value that represents the probability of obtaining a result at least as extreme as that actually obtained ,  assuming that the actual value was the result of chance alone .
+a population is a collection of individuals from the same taxonomic class living ,  counted or sampled at a particular site or in a particular area
+an imaging assay is an assay to produce a picture of an entity .
+an entity that can bear roles ,  has members ,  and has a set of organization rules .
+a molecular label role which inheres in a material entity and which is realized in the process of detecting a molecular dye that imparts color to some material of interest .
+a plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents ,  so that different investigation agents will reliably be able to independently reproduce the process .
+a role borne by a molecular entity or an atom and realized in an analyte assay which achieves the objective to measure the magnitude / concentration / amount of the analyte in the entity bearing evaluant role
+a planned process in which data gathered in an investigation is evaluated in the context of existing knowledge with the objective to generate more general conclusions or to conclude that the data does not allow one to draw general conclusion
+a process of creating or modifying a plan specification
+a contain function is a function to constrain a material entities location in space
+a material separation function is a function that increases the resolution between two or more material entities .
+an averaging objective is a data transformation objective where the aim is to perform mean calculations on the input of the data transformation .
+ ( protein or rna )  or has_part  ( protein or rna )  and has_function some go:0003824  ( catalytic activity ) 
+an assay objective to determine the presence or concentration of an analyte in the evaluant
+an objective specification to determine a specified type of information about an evaluated entity  ( the material entity bearing evaluant role ) 
+an assay with the objective to capture information about the presence ,  concentration ,  or amount of an analyte in an evaluant .
+a data set that is produced as the output of a normalization data transformation .
+measure function is a function that is borne by a processed material  and realized in a process in which information about some entity is expressed relative to some reference .
+an objective specifiction that creates an specific output object from input materials .
+a planned process that carries out a study design
+is an objective to transform a material entity into spatially separated components .
+is a material processing with the objective to combine two or more material entities as input into a single material entity as output .
+a planned process with the objective of collecting a specimen .
+a data set that is produced as the output of an error correction data transformation and consists of producing a data set which has had erroneous contributions from the input to the data transformation removed  ( corrected for )  .
+an error correction data transformation is a data transformation that has the objective of error correction ,  where the aim is to remove  ( correct for )  erroneous contributions from the input to the data transformation .
+a data item that is produced as the output of a center calculation data transformation and represents the center value of the input data .
+a material separation objective aiming to separate material into multiple portions ,  each of which contains a similar composition of the input material .
+a  data item that is produced as the output of an averaging data transformation and represents the average value of the input data .
+a material separation objective aiming to separate a material entity that has parts of different types ,  and end with at least one output that is a material with parts of fewer types  ( modulo impurities )  .
+a objective specification to obtain a material entity for potential use as an input during an investigation .
+is an objective to obtain an output material that contains several input materials .
+a material sample role is a specimen role borne by a material entity that is the output of a material sampling process .
+a specimen gathering process with the objective to obtain a specimen that is representative of the input material entity
+a material entity that has the material sample role
+a directive information entity that is part of a study design .
+dependent variable specification is part of a study design .
+a measurement data that represents the percentage of people or animals in a study or treatment group who are alive for a given period of time after diagnosis or initiation of monitoring .
+a multiple testing correction objectives is a data transformation objective where the aim is to correct for a set of statistical inferences considered simultaneously
+an objective specification maintains some or all of the qualities of a material over time .
+a quality of a dna molecule that inheres in its bearer due to the order of its dna nucleotide residues .
+a device in which a measure function inheres .
+a process with that achieves the objective to maintain some or all of the characteristics of an input material over time
+the part of the execution of an intervention design study which is varied between two or more subjects in the study
+a device with a separation function realized in a planed process
+a measurement datum that is reported on a categorical scale
+a label that is part of a categorical datum and that indicates the value of the data item on the categorical scale .
+a device that can be used to restrict the location of material entities over time
+a material entity that is designed to perform a function in a scientific investigation ,  but is not a reagent .
+a measurement datum that measures the quantity of something that may be administered to an organism or that an organism may be exposed to .
+a data item of paired values ,  one indicating the dose of a material ,  the other quantitating a measured effect at that dose .
+a genetic characteristics information which is a part of genotype information that identifies the population of organisms
+a genetic characteristics information that is about the genetic material of an organism and minimally includes information about the genetic background and can in addition contain information about specific alleles ,  genetic modifications ,  etc .
+a genetic alteration information that about one of two or more alternative forms of a gene or marker sequence and differing from other alleles at one or more mutational sites based on sequence .
+a genetic characteristics information that is about known changes or the lack thereof from the genetic background ,  including allele information ,  duplication ,  insertion ,  deletion ,  etc .
+a data item that is about genetic material including polymorphisms ,  disease alleles ,  and haplotypes .
+a quantitative confidence value that measures the minimum false discovery rate that is incurred when calling that test significant .
+a scalar measurement datum that represents the number of events occuring over a time interval
+a directive information entity which defines and states a principle of standard by which selection process may take place .
+a planned process in which new information is inferred from existing information .
+an information content entity that is inferred from data .
+a processed material that serves as a liquid vehicle for freezing cells for long term quiescent stroage ,  which contains chemicls needed to sustain cell viability across freeze - thaw cycles .
+a value specification that is specifies one category out of a fixed number of nominal categories
+a value specification that consists of two parts: a numeral and a unit label
+an information content entity that specifies a value within a classification scheme or on a quantitative scale .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a material entity that has the specimen role .
+a processed material comprised of a collection of cultured cells that has been continuously maintained together in culture and shares a common propagation history .
+a planned process that produces output data from input data .
+a data transformation process in which the benjamini and hochberg method sequential p - value procedure  is applied with the aim of correcting false discovery rate
+a data transformation in which the benjamini and yekutieli method is applied with the aim of correcting false discovery rate
+a multiple testing correction method is a hypothesis test performed simultaneously on m  >  1 hypotheses .
+a logarithmic transformation is a data transformation consisting in the application of the logarithm function with a given base a  ( where a > 0 and a is not equal to 1 )  to a  ( one dimensional )  positive real number input .
+regression analysis is a descriptive statistics technique that examines the relation of a dependent variable  ( response variable )  to specified independent variables  ( explanatory variables )  .
+an planned process that creates images ,  diagrams or animations from the input data .
+the false discovery rate is a  data transformation used in multiple hypothesis testing to correct for multiple comparisons .
+an objective specification to transformation input data into output data
+a normalization objective is a data transformation objective where the aim is to remove systematic sources of variation to put the data on equal footing in order to create a common base for comparisons .
+a correction objective is a data transformation objective where the aim is to correct for error ,  noise or other impairments to the input of the data transformation or derived from the data transformation itself
+a normalization data transformation is a data transformation that has objective normalization .
+an averaging data transformation is a data transformation that has objective averaging .
+a center calculation objective is a data transformation objective where the aim is to calculate the center of an input data set .
+a center calculation data transformation is a data transformation that has objective of center calculation .
+an error correction objective is a data transformation objective where the aim is to remove  ( correct for )  erroneous contributions arising from the input data ,  or the transformation itself .
+observation design is a study design in which subjects are monitored in the absence of any active intervention by experimentalists .
+a material separation in which a desired component of an input material is separated from the remainder
+a group assignment which relies on chance to assign materials to a group of materials in order to avoid bias in experimental set up .
+a plan specification comprised of protocols  ( which may specify how and what kinds of data will be gathered )  that are executed as part of an investigation and is realized during a study design execution .
+a study design which use the same individuals and exposure them to a set of conditions .
+a repeated measure design which ensures that experimental units receive ,  in sequence ,  the treatment  ( or the control )  ,  and then ,  after a specified time interval  ( aka *wash - out periods* )  ,  switch to the control  ( or treatment )  .
+groups of assays that are related as part of a time series .
+a material processing in which components of an input material become segregated in space
+group assignment is a process which has an organism as specified input and during which a role is assigned
+a protocol application in which cells are kept alive in a defined environment outside of an organism .
+a process through which a new type of cell culture or cell line is created ,  either through the isolation and culture of one or more cells from a fresh source ,  or the deliberate experimental modification of an existing cell culture  ( e .g passaging a primary culture to become a secondary culture or line ,  or the immortalization or stable genetic modification of an existing culture or line )  .
+a  ( combination of )  quality ( ies )  of an organism determined by the interaction of its genetic make - up and environment that differentiates specific instances of a species from other instances of the same species .
+a physical quality that inheres in a bearer by virtue of the proportion of the bearer's amount of matter .
+a reagent role inhering in a molecular entity intended to associate with some molecular target to serve as a proxy for the presence ,  abundance ,  or location of this target in a detection of molecular label assay .
+a sequence_feature with an extent greater than zero .
+a unit which is a standard measure of the distance between two points .
+a unit which is a standard measure of the amount of matter / energy of a physical object .
+a unit which is a standard measure of the dimension in which events occur in sequence .
+a mass unit which is equal to the mass of the international prototype kilogram kept by the bipm at svres ,  france .
+a time unit which is equal to the duration of 9 192 631 770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium 133 atom .
+a thermodynamic temperature unit which is equal to the fraction 1 / 273 .16 of the thermodynamic temperature of the triple point of water .
+a mass unit which is equal to one thousandth of a kilogram or 10^ [  - 3 ]  kg .
+a mass unit which is equal to one thousandth of a gram or 10^ [  - 3 ]  g .
+a mass unit which is equal to one millionth of a gram or 10^ [  - 6 ]  g .
+a temperature unit which is equal to one kelvin degree .
+a time unit which is equal to 60 seconds .
+a time unit which is equal to 12 months which is science is taken to be equal to 365 .25 days .
+a unit of molarity which is equal to one thousandth of a molar or 10^ [  - 3 ]  m .
+a unit of molarity which is equal to one millionth of a molar or 10^ [  - 6 ]  m .
+a volume unit which is equal to one thousandth of a liter or 10^ [  - 3 ]  l ,  or to 1 cubic centimeter .
+a volume unit which is equal to one millionth of a liter or 10^ [  - 6 ]  l .
+a mass unit density which is equal to mass of an object in milligrams divided by the volume in milliliters .
+a dimensionless ratio unit which denotes numbers as fractions of 100 .
+a magnetic flux density unit which is equal to one weber per square meter .
+a mass unit density which is equal to mass of an object in micrograms divided by the volume in millliters .
+a frequency unit which is equal to one million hertz or 10^ [ 6 ]  v .
+a category denoting a rather broad domain or field of interest ,  study ,  application ,  work ,  data ,  or technology .
+metabolism quenching by snap freeing in liquid nitrogen is a kind biochemical reaction extinction process which relies on extremely low temperature afforded by nitrogen in liquid state to denature enzymatic machinery of live cells or live tissue and inactivate it .
+a normalization process which relies on the computing to arithmetic mean signal intensity over all measurements  ( controls and samples )  and then for each sample measurements ,  adjusting the signal with the mean  ( by substracting the mean ,  allowing to retain measurement unit ,  which is not the case with dividing with the mean )  .

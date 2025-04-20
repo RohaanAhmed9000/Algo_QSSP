@@ -1,0 +1,666 @@
+systems biology representation
+rate law
+quantitative systems description parameter
+participant role
+modelling framework
+obsolete mathematical expression
+obsolete parameter
+obsolete participant type
+obsolete modelling framework
+kinetic constant
+reactant
+product
+mass action rate law
+catalyst
+enzyme
+substrate
+unimolecular rate constant
+bimolecular rate constant
+trimolecular rate constant
+modifier
+inhibitor
+potentiator
+forward unimolecular rate constant
+forward bimolecular rate constant
+forward trimolecular rate constant
+catalytic rate constant
+michaelis constant
+enzymatic rate law for irreversible non - modulated non - interacting unireactant enzymes
+henri - michaelis - menten rate law
+van slyke - cullen rate law
+briggs - haldane rate law
+reverse unimolecular rate constant
+reverse bimolecular rate constant
+reverse trimolecular rate constant
+forward unimolecular rate constant ,  continuous case
+forward bimolecular rate constant ,  continuous case
+forward trimolecular rate constant ,  continuous case
+reverse unimolecular rate constant ,  continuous case
+reverse bimolecular rate constant ,  continuous case
+reverse trimolecular rate constant ,  continuous case
+mass action rate law for irreversible reactions
+mass action rate law for reversible reactions
+mass action rate law for zeroth order irreversible reactions
+mass action rate law for first order irreversible reactions
+mass action rate law for second order irreversible reactions
+zeroth order rate constant
+mass action rate law for zeroth order irreversible reactions ,  continuous scheme
+forward zeroth order rate constant ,  continuous case
+mass action rate law for first order irreversible reactions ,  continuous scheme
+mass action rate law for second order irreversible reactions ,  one reactant
+mass action rate law for second order irreversible reactions ,  one reactant ,  continuous scheme
+mass action rate law for second order irreversible reactions ,  two reactants
+mass action rate law for second order irreversible reactions ,  two reactants ,  continuous scheme
+mass action rate law for third order irreversible reactions
+mass action rate law for third order irreversible reactions ,  one reactant
+mass action rate law for third order irreversible reactions ,  one reactant ,  continuous scheme
+mass action rate law for third order irreversible reactions ,  two reactants
+mass action rate law for third order irreversible reactions ,  two reactants ,  continuous scheme
+mass action rate law for third order irreversible reactions ,  three reactants
+mass action rate law for third order irreversible reactions ,  three reactants ,  continuous scheme
+continuous framework
+discrete framework
+mathematical expression
+forward zeroth order rate constant ,  discrete case
+forward unimolecular rate constant ,  discrete case
+forward bimolecular rate constant ,  discrete case
+forward trimolecular rate constant ,  discrete case
+mass action rate law for zeroth order reversible reactions
+mass action rate law for zeroth order forward ,  first order reverse ,  reversible reactions ,  continuous scheme
+mass action rate law for zeroth order forward ,  second order reverse ,  reversible reactions ,  continuous scheme
+mass action rate law for zeroth order forward ,  second order reverse ,  reversible reactions ,  one product ,  continuous scheme
+mass action rate law for zeroth order forward ,  second order reverse ,  reversible reactions ,  two products ,  continuous scheme
+mass action rate law for zeroth order forward ,  third order reverse ,  reversible reactions ,  continuous scheme
+mass action rate law for zeroth order forward ,  third order reverse ,  reversible reactions ,  one product ,  continuous scheme
+mass action rate law for zeroth order forward ,  third order reverse ,  reversible reactions ,  two products ,  continuous scheme
+mass action rate law for zeroth order forward ,  third order reverse ,  reversible reactions ,  three products ,  continuous scheme
+mass action rate law for first order reversible reactions
+mass action rate law for first order forward ,  zeroth order reverse ,  reversible reactions ,  continuous scheme
+mass action rate law for first order forward ,  first order reverse ,  reversible reactions ,  continuous scheme
+mass action rate law for first order forward ,  second order reverse ,  reversible reactions
+mass action rate law for first order forward ,  second order reverse ,  reversible reactions ,  one product ,  continuous scheme
+mass action rate law for first order forward ,  second order reverse ,  reversible reactions ,  two products ,  continuous scheme
+mass action rate law for first order forward ,  third order reverse ,  reversible reactions
+mass action rate law for first order forward ,  third order reverse ,  reversible reactions ,  one product ,  continuous scheme
+mass action rate law for first order forward ,  third order reverse ,  reversible reactions ,  two products ,  continuous scheme
+mass action rate law for first order forward ,  third order reverse ,  reversible reactions ,  three products ,  continuous scheme
+mass action rate law for second order reversible reactions
+mass action rate law for second order forward ,  reversible reactions ,  one reactant
+mass action rate law for second order forward ,  zeroth order reverse ,  reversible reactions ,  one reactant ,  continuous scheme
+mass action rate law for second order forward ,  first order reverse ,  reversible reactions ,  one reactant ,  continuous scheme
+mass action rate law for second order forward ,  second order reverse ,  reversible reactions ,  one reactant
+mass action rate law for second order forward ,  second order reverse ,  reversible reactions ,  one reactant ,  one product ,  continuous scheme
+mass action rate law for second order forward ,  second order reverse ,  reversible reactions ,  two products ,  continuous scheme
+mass action rate law for second order forward ,  third order reverse ,  reversible reactions ,  one reactant
+mass action rate law for second order forward ,  third order reverse ,  reversible reactions ,  one reactant ,  one product ,  continuous scheme
+mass action rate law for second order forward ,  third order reverse ,  reversible reactions ,  one reactant ,  two products ,  continuous scheme
+mass action rate law for second order forward ,  third order reverse ,  reversible reactions ,  one reactant ,  three products ,  continuous scheme
+mass action rate law for second order forward ,  reversible reactions ,  two reactants
+mass action rate law for second order forward ,  zeroth order reverse ,  reversible reactions ,  two reactants ,  continuous scheme
+mass action rate law for second order forward ,  first order reverse ,  reversible reactions ,  two reactants ,  continuous scheme
+mass action rate law for second order forward ,  second order reverse ,  reversible reactions ,  two reactants
+mass action rate law for second order forward ,  second order reverse ,  reversible reactions ,  two reactants ,  one product ,  continuous scheme
+mass action rate law for second order forward ,  second order reverse ,  reversible reactions ,  two reactants ,  two products ,  continuous scheme
+mass action rate law for second order forward ,  third order reverse ,  reversible reactions ,  two reactants
+mass action rate law for second order forward ,  third order reverse ,  reversible reactions ,  two reactants ,  one product ,  continuous scheme
+mass action rate law for second order forward ,  third order reverse ,  reversible reactions ,  two reactants ,  two products ,  continuous scheme
+mass action rate law for second order forward ,  third order reverse ,  reversible reactions ,  two reactants ,  three products ,  continuous scheme
+mass action rate law for third order reversible reactions
+mass action rate law for third order forward ,  reversible reactions ,  two reactants
+mass action rate law for third order forward ,  zeroth order reverse ,  reversible reactions ,  two reactants ,  continuous scheme
+mass action rate law for third order forward ,  first order reverse ,  reversible reactions ,  two reactants ,  continuous scheme
+mass action rate law for third order forward ,  second order reverse ,  reversible reactions ,  two reactants
+mass action rate law for third order forward ,  second order reverse ,  reversible reactions ,  two reactants ,  one product ,  continuous scheme
+mass action rate law for third order forward ,  second order reverse ,  reversible reactions ,  two reactants ,  two products ,  continuous scheme
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  two reactants
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  two reactants ,  one product ,  continuous scheme
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  two reactants ,  two products ,  continuous scheme
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  two reactants ,  three products ,  continuous scheme
+mass action rate law for third order forward ,  reversible reactions ,  three reactants
+mass action rate law for third order forward ,  zeroth order reverse ,  reversible reactions ,  three reactants ,  continuous scheme
+mass action rate law for third order forward ,  first order reverse ,  reversible reactions ,  three reactants ,  continuous scheme
+mass action rate law for third order forward ,  second order reverse ,  reversible reactions ,  three reactants
+mass action rate law for third order forward ,  second order reverse ,  reversible reactions ,  three reactants ,  one product ,  continuous scheme
+mass action rate law for third order forward ,  second order reverse ,  reversible reactions ,  three reactants ,  two products ,  continuous scheme
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  three reactants
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  three reactants ,  one product ,  continuous scheme
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  three reactants ,  two products ,  continuous scheme
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  three reactants ,  three products ,  continuous scheme
+mass action rate law for third order forward ,  reversible reactions ,  one reactant
+mass action rate law for third order forward ,  zeroth order reverse ,  reversible reactions ,  one reactant ,  continuous scheme
+mass action rate law for third order forward ,  first order reverse ,  reversible reactions ,  one reactant ,  continuous scheme
+mass action rate law for third order forward ,  second order reverse ,  reversible reactions ,  one reactant
+mass action rate law for third order forward ,  second order reverse ,  reversible reactions ,  one reactant ,  one product ,  continuous scheme
+mass action rate law for third order forward ,  second order reverse ,  reversible reactions ,  one reactant ,  two products ,  continuous scheme
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  one reactant
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  one reactant ,  one product ,  continuous scheme
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  one reactant ,  two products ,  continuous scheme
+mass action rate law for third order forward ,  third order reverse ,  reversible reactions ,  one reactant ,  three products ,  continuous scheme
+mass action rate law for zeroth order irreversible reactions ,  discrete scheme
+mass action rate law for first order irreversible reactions ,  discrete scheme
+mass action rate law for second order irreversible reactions ,  one reactant ,  discrete scheme
+mass action rate law for second order irreversible reactions ,  two reactants ,  discrete scheme
+mass action rate law for third order irreversible reactions ,  one reactant ,  discrete scheme
+mass action rate law for third order irreversible reactions ,  two reactants ,  discrete scheme
+mass action rate law for third order irreversible reactions ,  three reactants ,  discrete scheme
+thermodynamic temperature
+temperature difference
+number of substrates
+enzymatic rate law for irreversible non - modulated non - interacting reactant enzymes
+enzymatic rate law for irreversible non - modulated non - interacting bireactant enzymes
+enzymatic rate law for irreversible non - modulated non - interacting trireactant enzymes
+forward rate constant
+forward rate constant ,  continuous case
+forward rate constant ,  discrete case
+reverse rate constant
+number of reactants
+order of a reaction with respect to a reactant
+non - integral order rate constant
+forward non - integral order rate constant
+reverse non - integral order rate constant
+forward zeroth order rate constant
+mass action rate law for irreversible reactions ,  continuous scheme
+second order irreversible mass action kinetics ,  continuous scheme
+third order irreversible mass action kinetics ,  continuous scheme
+mass action rate law for irreversible reactions ,  discrete scheme
+biochemical or transport reaction
+control
+inhibition
+stimulation
+necessary stimulation
+catalysis
+and
+or
+xor
+biochemical reaction
+non - covalent binding
+cleavage
+degradation
+dissociation
+conformational transition
+conversion
+transcription
+translation
+translocation reaction
+maximal velocity
+henri - michaelis - menten equation ,  vmax form
+number of biochemical items
+number of binding sites
+hill coefficient
+hill constant
+hill - type rate law ,  generalised form
+equilibrium or steady - state constant
+pseudo - dissociation constant
+hill - type rate law ,  microscopic form
+concentration of an entity pool
+specific concentration of an entity
+hill - type rate law ,  reduced form
+normalised enzymatic rate law for unireactant enzymes
+redox reaction
+oxidation
+reduction
+duplication
+dna replication
+composite biochemical process
+competitive inhibitor
+non - competitive inhibitor
+acid - base reaction
+ionisation
+addition of a chemical group
+removal of a chemical group
+protonation
+deprotonation
+methylation
+acetylation
+phosphorylation
+glycosylation
+palmitoylation
+myristoylation
+sulfation
+prenylation
+farnesylation
+geranylgeranylation
+ubiquitination
+delay
+density of an entity pool
+mass density of an entity
+volume density of an entity
+area density of an entity
+linear density of an entity
+occurring entity representation
+obsolete event
+hydroxylation
+logical framework
+participant
+physical entity representation
+logical combination
+not
+allosteric control
+material entity
+functional entity
+channel
+gene
+receptor
+macromolecule
+information macromolecule
+simple chemical
+chemical macromolecule
+polysaccharide
+ribonucleic acid
+deoxyribonucleic acid
+polypeptide chain
+non - covalent complex
+electrical resistance
+physical characteristic
+biochemical parameter
+conductance
+capacitance
+voltage
+enzymatic rate law for simple competitive inhibition of irreversible unireactant enzymes by one inhibitor
+inhibitory constant
+enzymatic rate law for simple uncompetitive inhibition of irreversible unireactant enzymes
+relative equilibrium constant
+relative inhibition constant
+enzymatic rate law for simple mixed - type inhibition of irreversible unireactant enzymes
+enzymatic rate law for simple irreversible non - competitive inhibition of unireactant enzymes
+enzymatic rate law for competitive inhibition of irreversible unireactant enzymes by one inhibitor
+enzymatic rate law
+enzymatic rate law for unireactant enzymes
+enzymatic rate law for competitive inhibition of irreversible unireactant enzymes by exclusive inhibitors
+enzymatic rate law for competitive inhibition of irreversible unireactant enzymes by two exclusive inhibitors
+number of inhibitors
+enzymatic rate law for competitive inhibition of irreversible unireactant enzymes by non - exclusive non - cooperative inhibitors
+enzymatic rate law for simple competitive inhibition of irreversible unireactant enzymes by two non - exclusive ,  non - cooperative inhibitors
+enzymatic rate law for mixed - type inhibition of irreversible enzymes by mutually exclusive inhibitors
+enzymatic rate law for mixed - type inhibition of irreversible unireactant enzymes by two inhibitors
+enzymatic rate law for non - competitive inhibition of irreversible unireactant enzymes by two exclusively binding inhibitors
+messenger rna
+pressure
+ligand
+equilibrium constant
+dissociation constant
+acid dissociation constant
+transporter
+material entity of unspecified nature
+multimer
+ec50
+ic50
+functional compartment
+physical compartment
+empty set
+spatial continuous framework
+non - spatial continuous framework
+spatial discrete framework
+non - spatial discrete framework
+macromolecular complex
+protein complex
+synthetic chemical compound
+metabolite
+total concentration of enzyme
+total catalytic efficiency
+catalytic efficiency
+biochemical potential
+ph
+poh
+pk
+pka
+equilibrium or steady - state characteristic
+dissociation characteristic
+acid dissociation characteristic
+heterogeneous nuclear rna
+mature messenger rna
+transfer rna
+ribosomal rna
+ribozyme
+microrna
+small interfering rna
+small nuclear rna
+small nucleolar rna
+product catalytic rate constant
+substrate catalytic rate constant
+michaelis constant for substrate
+michaelis constant for product
+forward maximal velocity
+reverse maximal velocity
+enzymatic rate law for non - modulated unireactant enzymes
+non - macromolecular ion
+non - macromolecular radical
+transcription start site
+dephosphorylation
+half - life
+half - life of an exponential decay
+monoexponential decay rate law
+non - coding rna
+gene coding region
+interactor
+association constant
+dissociation rate constant
+bimolecular association rate constant
+trimolecular association rate constant
+association rate constant
+molecular or genetic interaction
+genetic interaction
+molecular interaction
+time
+temporal measure
+duration
+exponential time constant
+inactivation rate constant
+forward reaction velocity
+reverse zeroth order rate constant
+reverse reaction velocity
+informational molecule segment
+conservation law
+decay constant
+biological effect of a perturbation
+phenotype
+mass conservation law
+quantity of an entity pool
+amount of an entity pool
+concentration conservation law
+activation constant
+multimer cardinality
+forward non - integral order rate constant ,  continuous case
+forward non - integral order rate constant ,  discrete case
+reverse non - integral order rate constant ,  discrete case
+reverse non - integral order rate constant ,  continuous case
+gene regulatory region
+michaelis constant in non - equilibrium situation
+michaelis constant in quasi - steady state situation
+michaelis constant in irreversible situation
+michaelis constant in fast equilibrium situation
+relationship
+process
+hydrolysis
+isomerisation
+enzymatic rate law for inhibition of irreversible unireactant enzymes by competing substrates
+enzymatic rate law for simple competitive inhibition of irreversible unireactant enzymes by two non - exclusive inhibitors
+biochemical coefficient
+biochemical proportionality coefficient
+biochemical exponential coefficient
+biochemical cooperative inhibition coefficient
+biochemical inhibitory proportionality coefficient
+biochemical cooperative inhibitor substrate coefficient
+enzymatic rate law for inhibition of irreversible unireactant enzymes by single competing substrate
+enzymatic rate law for competitive inhibition of irreversible unireactant enzyme by product
+enzymatic rate law for inhibition of irreversible unireactant enzymes by single competing substrate with product inhibition
+switch value
+boolean switch
+steady state expression
+equivalence
+production
+consumption
+encapsulating process
+uncertain process
+omitted process
+logical relationship
+decarboxylation
+decarbonylation
+deamination
+transfer of a chemical group
+transamination
+unit of genetic information
+perturbing agent
+observable
+absolute inhibition
+biological activity
+interaction outcome
+implicit compartment
+absolute stimulation
+positional relationship
+cis
+trans
+true
+false
+multimer of complexes
+multimer of informational molecule segment
+multimer of macromolecules
+multimer of simple chemicals
+isoinhibition constant
+pseudo - dissociation constant for product
+pseudo - dissociation constant for substrate
+reversible hill - type enzymatic rate law
+modulated reversible hill - type rate law
+modulated reversible hill - type rate law with one modifier
+modulated reversible hill - type rate law with two modifiers
+enzymatic rate law for multireactant enzymes
+enzymatic rate law for modulated unireactant enzymes
+unmodulated reversible hill - type rate law
+irreversible michaelis menten rate law for two substrates
+ordered bi - bi mechanism rate law
+ordered bi - uni mechanism rate law
+ordered uni - bi mechanism rate law
+ping pong bi - bi mechanism rate law
+reversible iso uni - uni
+reversible uni - uni
+uni - uni reversible using haldane relationship
+enzymatic rate law for irreversible allosteric inhibition
+enzymatic rate law for mixed - type inhibition of reversible enzymes by mutually exclusive inhibitors
+enzymatic rate law for simple reversible non - competitive inhibition of unireactant enzymes
+enzymatic rate law for reversible essential activation
+enzymatic rate law for reversible mixed activation
+enzymatic rate law for irreversible substrate activation
+enzymatic rate law for irrreversible mixed activation
+enzymatic rate law for reversible catalytic activation with one activator
+enzymatic rate law for reversible specific activation
+enzymatic rate law for irreversible catalytic activation with one activator
+enzymatic rate law for irreversible specific activation
+enzymatic rate law for reversible reactions with competitive inhibition
+enzymatic rate law for reversible competitive inhibition by one inhibitor
+enzymatic rate law for reversible empirical allosteric inhibition by one inhibitor
+enzymatic rate law for reversible substrate inhibition
+enzymatic rate law for irreversible substrate inhibition
+enzymatic rate law for reversible unireactant enzyme with a single hyperbolic modulator
+enzymatic rate law for irreversible unireactant enzyme with a single hyperbolic modulator
+enzymatic rate law for simple uncompetitive inhibition of reversible unireactant enzymes
+stimulator
+enzymatic catalyst
+essential activator
+non - essential activator
+standard biochemical potential
+state variable assignment
+spatial measure
+length
+area
+volume
+containment
+mass fraction
+molal concentration of an entity
+molar concentration of an entity
+denotement
+convenience function
+periodic forcing function
+period
+phase shift
+powered product of michaelis constant
+powered product of substrate michaelis constants
+powered product of product michaelis constants
+stoichiometric coefficient
+geometric mean rate constant
+forward geometric mean rate constant
+reverse geometric mean rate constant
+basal rate constant
+relative basal rate constant
+relative activity function
+relative activation function
+relative inhibition function
+number of products
+diffusion coefficient
+amplitude
+functional domain
+binding site
+catalytic site
+transmembrane domain
+ternary switch
+relative activity
+genetic suppression
+genetic enhancement
+synthetic lethality
+number of entity pool constituents
+mass of an entity pool
+concentration of enzyme
+mass of enzyme
+number of an enzyme
+number of a reactant
+concentration of reactant
+mass of reactant
+number of a product
+concentration of product
+mass of product
+number of a substrate
+concentration of substrate
+mass of substrate
+number of a modifier
+concentration of modifier
+mass of modifier
+number of an inhibitor
+concentration of inhibitor
+mass of inhibitor
+number of an activator
+concentration of activator
+mass of activator
+protein complex formation
+modular rate law
+common modular rate law
+direct binding modular rate law
+simultaneous binding modular rate law
+power - law modular rate law
+force - dependent modular rate law
+specific activator
+catalytic activator
+binding activator
+partial inhibitor
+complete inhibitor
+ionic permeability
+probabilistic parameter
+fraction of an entity pool
+mole fraction
+basic reproductive ratio
+protein aggregate
+metadata representation
+systems description parameter
+qualitative systems description parameter
+boolean logical framework
+multi - valued logical framework
+fuzzy logical framework
+annotation
+controlled short label
+reference annotation
+bibliographical reference
+database cross reference
+controlled annotation
+uncontrolled annotation
+embedded annotation
+specific activity
+enzyme activity
+mass action rate law for first order irreversible reactions ,  single essential stimulator ,  continuous scheme
+mass action rate law for first order irreversible reactions ,  single essential stimulator ,  discrete scheme
+mass action like rate law for second order irreversible reactions ,  one reactant ,  one essential stimulator
+mass action like rate law for second order irreversible reactions ,  one reactant ,  one essential stimulator ,  continuous scheme
+mass action like rate law for second order irreversible reactions ,  one reactant ,  one essential stimulator ,  discrete scheme
+systems description constant
+relative permeability
+universal gas constant
+faraday constant
+goldman equation
+nernst potential
+thermodynamic parameter
+enthalpy
+enthalpy change
+standard enthalpy of formation
+standard enthalpy of reaction
+entropy
+entropy change
+standard entropy of reaction
+standard entropy of formation
+gibbs free energy
+gibbs free energy change
+standard gibbs free energy of formation
+standard gibbs free energy of reaction
+temporal offset
+simulation duration
+model time
+transcellular membrane influx reaction
+transcellular membrane efflux reaction
+genetic production
+promoter
+petri net transition
+discrete amount of an entity pool
+petri net place
+neutral participant
+dual - activity modifier
+modifier of unknown activity
+silencer
+port
+input port
+output port
+logical parameter
+side product
+side substrate
+high affinity receptor
+low affinity receptor
+dimer
+homodimer
+heterodimer
+growth rate
+effective catalytic rate
+rate of reaction
+reaction parameter
+rate of reaction  ( concentration )
+rate of reaction  ( amount )
+extent of reaction
+gibbs free energy of reaction
+reaction affinity
+transformed gibbs free energy change
+transformed standard gibbs free energy of reaction
+transformed standard gibbs free energy of formation
+transformed gibbs free energy of reaction
+ionic strength
+flux balance framework
+flux bound
+default flux bound
+exchange reaction
+demand reaction
+biomass production
+atp maintenance
+pseudoreaction
+sink reaction
+subsystem
+dna segment
+rna segment
+allosteric activator
+non - allosteric activator
+irreversible inhibitor
+allosteric inhibitor
+uncompetitive inhibitor
+pmg
+inhibited
+stimulated
+modified
+template
+mass action rate law for reversible reactions ,  continuous schema
+molecular mass
+protein molecular mass
+biomass
+reversible process
+irreversible process
+polymerization
+depolymerization
+co - transport reaction
+transport reaction
+activation
+active transport
+passive transport
+symporter - mediated transport
+antiporter - mediated transport
+capacity
+occupancy
+fractional occupancy
+contained entity
+inactivation
+chain length
+protein chain length
+yield
+biomass yield on substrate
+product yield on substrate
+is_a

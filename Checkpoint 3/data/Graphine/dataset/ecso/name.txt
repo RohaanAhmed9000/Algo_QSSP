@@ -1,0 +1,441 @@
+length
+mass
+massflux
+molality
+speed
+volumetricrate
+carbon cycle component
+dissolved organic carbon flux
+fire carbon flux
+net ecosystem exchange carbon flux
+primary production carbon flux
+respiration carbon flux
+autotrophic respiration carbon flux
+heterotrophic respiration carbon flux
+gross primary production carbon flux
+net primary production carbon flux
+carbon pool
+soil carbon pool
+plankton carbon pool
+leaf carbon pool
+benthic algae carbon pool
+grass carbon pool
+wood carbon pool
+leaf litter carbon pool
+dissolved organic carbon pool
+annual net primary productivity flux
+total_living_biomass_mov
+net_longwave_radiation_mov
+total_soil_wetness_mov
+near_surface_co2_concentration_mov
+total_respiration_mov
+absorbed_fraction_incoming_par_mov
+near_surface_air_temperature_mov
+leaf_area_index_mov
+surface_pressure_mov
+average_layer_soil_moisture_mov
+average_layer_soil_temperature_mov
+surface_runoff_mov
+soil_layer_top_depth_mov
+near_surface_module_of_the_wind_mov
+size_of_each_carbon_pool_mov
+soil_layer_node_depth_mov
+snow_water_equivalent_mov
+total_soil_carbon_mov
+autotrophic_respiration_mov
+rainfall_rate_mov
+longwave_albedo_mov
+gross_primary_productivity_mov
+name_of_each_carbon_pool_mov
+soil_layer_bottom_depth_mov
+heterotrophic_respiration_mov
+active_layer_thickness_mov
+net_shortwave_radiation_mov
+total_snow_depth_mov
+fire_emissions_mov
+surface_incident_longwave_radiation_mov
+above_ground_woody_biomass_mov
+subsurface_runoff_mov
+sensible_heat_mov
+net_ecosystem_exchange_mov
+shortwave_albedo_mov
+surface_incident_shortwave_radiation_mov
+total_evaporation_mov
+latent_heat_mov
+field method
+modeled method
+peak biomass harvest method
+eddy covariance method
+oxygen evolution lightdark method
+allometric method
+lidar method
+mstmip_simulation
+carbon dioxide diffusion flux
+bicarbonate pool
+methane pool
+fixed carbon pool
+atmospheric carbon dioxide pool
+dissolved carbon dioxide pool
+co2 enrichment method
+aboveground net primary production carbon flux
+single - celled organism
+multi - celled organism
+functional level
+ecosystem
+community
+population
+organism
+species
+liquid
+dissolution carbon flux
+carbon dioxide
+carbonate
+bicarbonate
+carbon monoxide
+organic carbon
+organic carbon pool
+particulate organic carbon pool
+inorganic carbon
+inorganic carbon pool
+total living biomass carbon pool
+tree
+litter carbon concentration
+plant - derived organic material
+phytoplankton
+experiment
+manipulative experiment
+natural experiment
+macroalgae
+diameter
+circumference
+height
+concentration_measurementtype
+biomass_measurementtype
+flux_measurementtype
+depth
+chlorophyll - a concentration
+soil moisture percentage
+temporal_rate_measurementtype
+organic carbon concentration
+freshwater carbon dioxide concentration
+thickness
+group
+near_surface_specific_humidity_mov
+carbon dioxide concentration
+total soil carbon
+soil heterotrophic respiration carbon flux
+grassland above ground net primary production carbon flux
+phytoplankton primary production carbon flux
+oceanic total inorganic carbon concentration
+carbon dioxide flux
+bicarbonate concentration
+aquatic inorganic carbon concentration
+growth
+tree height
+marine macroalgae net primary production carbon flux
+oceanic carbon dioxide flux
+tree diameter
+tree circumference
+process
+tree growth
+wet_weight
+tree diameter at breast height
+ash_free_dry_weight
+biomass_density
+biomass_density_measurementtype
+linear_measurementtype
+radius
+dry_weight
+chlorophyll
+carbonate concentration
+freshwater carbonate concentration
+freshwater bicarbonate concentration
+bacteria
+algae
+dissolved organic carbon
+particulate organic carbon
+plant
+soil layer
+soil active layer
+soil carbon concentration
+aquatic dissolved organic carbon
+aquatic particulate organic carbon
+soil organic matter proportion
+co2 concentration in air
+methane flux
+mole fraction
+mole fraction of carbon dioxide
+carbon monoxide flux
+methane concentration
+mole fraction of carbon dioxide in air
+mass fraction
+mass fraction of carbon dioxide
+mean li - cor weight fraction of carbon dioxide
+molar density
+molar density of carbon dioxide
+ratio measurement type
+dissolved inorganic carbon concentration
+carbon dioxide partial pressure at sea surface
+carbon dioxide partial pressure
+inorganic carbon concentration
+methane partial pressure
+black carbon concentration
+d14c
+d13c
+electromagnetic radiation
+proportion_measurementtype
+solar radiation
+temperature_measurementtype
+carbon flux
+radiative flux
+momentum flux
+ash weight biomass
+nitrogen fixation rate
+soil bulk density
+belowground biomass
+volumetric water content method
+high temperature combustion
+biomass
+ammonium concentration
+area_measurementtype
+aquatic total organic carbon concentration
+concentration
+freshwater total inorganic carbon concentration
+net assimilation rate flux
+dissolved organic carbon concentration
+oceanic carbonate concentration
+carbon percentage
+carbon specific net production rate
+net carbon respiration rate flux
+organic carbon concentration in water
+oceanic bicarbonate concentration
+oceanic carbon dioxide concentration
+vegetation carbon change percentage
+soil carbon change percentage
+aboveground biomass
+growth rate
+net primary production biomass flux
+carbon to nitrogen ratio
+wet weight biomass
+transpiration height
+count_measurementtype
+stable carbon isotope ratio
+carbon biomass
+total soil nitrogen concentration
+nitrogen percentage
+plant material biomass density
+plant material biomass
+non - plant material biomass density
+non - plant material biomass
+ash free dry weight biomass
+sampling site area
+dry weight biomass
+leaf area index
+identity
+water ph
+count density
+potential temperature
+precipitation rate
+air moisture percentage
+water salinity
+soil porewater salinity concentration
+volume fraction biomass concentration
+areal_density_measurementtype
+non - plant material count aerial density
+plant material count aerial density
+built feature count aerial density
+litter biomass density
+tide height
+sea level height
+water height
+wave height
+non - plant material length
+soil wet weight
+nitrogen biomass density
+carbon biomass density
+time step
+dry mass density
+pressure_measurementtype
+air pressure
+seawater pressure
+sample count
+entity count
+aerial cover percentage
+crown cover percentage
+canopy percentage
+name
+sampled individuals proportion
+area percentage
+carbon specific gross production rate
+plant cover percentage
+mass_density_measurementtype
+volumetric_density_measurementtype
+biomass volumetric density
+number volumetric density
+biomass concentration
+water depth
+seawater depth
+snow depth
+lake depth
+soil depth
+secchi depth method
+litter depth
+soil active layer depth
+specific net production flux
+stream depth
+groundwater depth
+tree crown diameter
+tree canopy diameter
+ground heat flux
+tag number
+latent heat flux
+tree canopy height
+tree crown height
+plant material height
+precipitation height
+carbon dioxide pressure
+air temperature
+seawater temperature
+water temperature
+peat temperature
+ground temperature
+soil temperature
+lake water temperature
+specific gross production flux
+wind speed
+water velocity
+seawater velocity
+volume_measurementtype
+precipitation volume
+physical feature width
+soil dry weight
+mass_measurementtype
+chlorophyll concentration
+oxygen concentration
+pheophytin concentration
+specific flux
+specific respiration flux
+chromophoric dissolved organic matter absorbance
+specific ultraviolet absorbance
+radioactive carbon isotope ratio
+carbon isotope ratio
+dissolved organic carbon mineralization rate
+mineralization rate
+dry bulb temperature
+wet bulb temperature
+sea surface temperature
+lake sediment temperature
+conductivity
+relative humidity
+friction velocity
+ice temperature
+partial pressure
+latent heat turbulent flux
+latent heat storage flux
+photosynthetically active radiation
+actual vapor pressure
+luminous flux
+kinematic flux
+sea level pressure
+dew point temperature
+surface pressure
+dissolved oxygen concentration
+d18o
+sensible heat flux
+attenuation measurement type
+d15n
+snow water equivalent
+illuminance
+blackbody temperature
+incoming solar radiation
+carbon percentage in lake sediment
+nitrous oxide flux
+delta deuterium
+fraction modern
+vapor pressure deficit
+canopy temperature
+brightness temperature
+dissolved inorganic carbon concentration in freshwater
+dissolved inorganic carbon concentration in seawater
+14c age
+container weight
+cloud top temperature
+ordinal ranking
+sea ice presence
+soil mass
+periphyton
+dark respiration carbon flux
+root biomass
+radioactive carbon isotope decay rate
+leaf temperature
+leaf biomass
+carbon preference index
+organic_content
+soil organic content
+near surface air temperature
+iceberg draft
+resistivity
+stomatal conductance
+operational taxonomic unit
+cloud base temperature
+reservoir pool
+calcium carbonate
+calcium carbonate concentration
+par
+infrared
+ultraviolet
+snow
+continuant
+occurrent
+independent continuant
+generically dependent continuant
+material entity
+environmental feature
+environmental material
+organic material
+layer
+astronomical body part
+environmental system process
+environmental monitoring
+pollution monitoring
+compaction process
+solid - phase sintering
+categorical data measurement type
+system
+refactory organic material
+labile organic carbon
+normalized difference vegetation index
+water content
+cryoturbation
+thawing index
+thaw consolidation ratio
+n - factor
+permafrost active layer
+permafrost relict active layer
+permafrost active layer failure
+adfreeze
+cryogenesis
+aquitard
+cryogenic aquiclude
+cryogenic temperature
+cryopeg
+basal cryopeg
+isolated cryopeg
+marine cryopeg
+depth of thaw
+depth of zero annual amplitude
+detachment failure
+freezeback
+freezing index
+approximate freezing index
+seasonal freezing index
+design freezing index
+freezing point depression
+freezing pressure
+seasonal frost
+frost action
+permafrost feature
+frost blister
+frost heave
+frost jacking
+frost mound

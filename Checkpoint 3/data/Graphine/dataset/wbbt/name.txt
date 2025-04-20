@@ -1,0 +1,6522 @@
+c . elegans anatomical entity
+lineage
+p0 nucleus
+ab nucleus
+aba nucleus
+abal nucleus
+abala nucleus
+abalaa nucleus
+abalaaa nucleus
+abalaaaa nucleus
+abalaaaal nucleus
+abalaaaala nucleus
+abalaaaalar nucleus
+abalaaaalp nucleus
+abalaaaalpa nucleus
+abalaaaar nucleus
+abalaaaarl nucleus
+abalaaaarla nucleus
+abalaaaarr nucleus
+abalaaaarra nucleus
+abalaaap nucleus
+abalaaapa nucleus
+abalaaapal nucleus
+abalaaapar nucleus
+abalaaaparl nucleus
+abalaaapp nucleus
+abalaaappl nucleus
+abalaaapplr nucleus
+abalaaappr nucleus
+abalaap nucleus
+abalaapa nucleus
+abalaapaa nucleus
+abalaapaaa nucleus
+abalaapaaal nucleus
+abalaapaap nucleus
+abalaapaapa nucleus
+abalaapap nucleus
+abalaapapa nucleus
+abalaapapp nucleus
+abalaapappa nucleus
+abalaapp nucleus
+abalaappa nucleus
+abalaappaa nucleus
+abalaappap nucleus
+abalaappp nucleus
+abalaapppa nucleus
+abalaapppap nucleus
+abalaapppp nucleus
+abalaappppa nucleus
+abalaappppap nucleus
+abalap nucleus
+abalapa nucleus
+abalapaa nucleus
+abalapaaa nucleus
+abalapaaaa nucleus
+abalapaaaap nucleus
+abalapaaap nucleus
+abalapaap nucleus
+abalapaapa nucleus
+abalapaapap nucleus
+abalapaapp nucleus
+abalapaappa nucleus
+abalapaappap nucleus
+abalapap nucleus
+abalapapa nucleus
+abalapapaa nucleus
+abalapapap nucleus
+abalapapapa nucleus
+abalapapapap nucleus
+abalapapp nucleus
+abalapappa nucleus
+abalapappaa nucleus
+abalapappaap nucleus
+abalapappp nucleus
+abalapp nucleus
+abalappa nucleus
+abalappaa nucleus
+abalappaaa nucleus
+abalappaap nucleus
+abalappaapp nucleus
+abalappap nucleus
+abalappapa nucleus
+abalappapap nucleus
+abalappapp nucleus
+abalappp nucleus
+abalapppa nucleus
+abalapppaa nucleus
+abalapppap nucleus
+abalapppapa nucleus
+abalapppapap nucleus
+abalapppp nucleus
+abalappppa nucleus
+abalappppaa nucleus
+abalappppaap nucleus
+abalappppp nucleus
+abalp nucleus
+abalpa nucleus
+abalpaa nucleus
+abalpaaa nucleus
+abalpaaaa nucleus
+abalpaaaaa nucleus
+abalpaaaap nucleus
+abalpaaaapp nucleus
+abalpaaap nucleus
+abalpaaapa nucleus
+abalpaaapap nucleus
+abalpaaapp nucleus
+abalpaaappa nucleus
+abalpaap nucleus
+abalpaapa nucleus
+abalpaapaa nucleus
+abalpaapap nucleus
+abalpaapp nucleus
+abalpaappa nucleus
+abalpaappp nucleus
+abalpap nucleus
+abalpapa nucleus
+abalpapaa nucleus
+abalpapaaa nucleus
+abalpapaap nucleus
+abalpapaapp nucleus
+abalpapap nucleus
+abalpapapa nucleus
+abalpapapap nucleus
+abalpapapapa nucleus
+abalpapapp nucleus
+abalpapappa nucleus
+abalpapp nucleus
+abalpappa nucleus
+abalpappaa nucleus
+abalpappaaa nucleus
+abalpappaap nucleus
+abalpappaapp nucleus
+abalpappap nucleus
+abalpappp nucleus
+abalpapppa nucleus
+abalpapppap nucleus
+abalpapppp nucleus
+abalpp nucleus
+abalppa nucleus
+abalppaa nucleus
+abalppaaa nucleus
+abalppaaaa nucleus
+abalppaaap nucleus
+abalppaap nucleus
+abalppaapa nucleus
+abalppaapp nucleus
+abalppaappa nucleus
+abalppap nucleus
+abalppapa nucleus
+abalppapaa nucleus
+abalppapap nucleus
+abalppapp nucleus
+abalppappa nucleus
+abalppappp nucleus
+abalppapppa nucleus
+abalppapppap nucleus
+abalppp nucleus
+abalpppa nucleus
+abalpppaa nucleus
+abalpppaaa nucleus
+abalpppaap nucleus
+abalpppaapv nucleus
+abalpppap nucleus
+abalpppapa nucleus
+abalpppapp nucleus
+abalpppappa nucleus
+abalpppappp nucleus
+abalpppapppp nucleus
+abalpppp nucleus
+abalppppa nucleus
+abalppppaa nucleus
+abalppppaav nucleus
+abalppppap nucleus
+abalppppapa nucleus
+abalppppapap nucleus
+abalppppapp nucleus
+abalppppp nucleus
+abalpppppa nucleus
+abalpppppp nucleus
+abalppppppa nucleus
+abalppppppap nucleus
+abalppppppp nucleus
+abar nucleus
+abara nucleus
+abaraa nucleus
+abaraaa nucleus
+abaraaaa nucleus
+abaraaaaa nucleus
+abaraaaaaa nucleus
+abaraaaaap nucleus
+abaraaaap nucleus
+abaraaaapa nucleus
+abaraaaapaa nucleus
+abaraaaapp nucleus
+abaraaap nucleus
+abaraaapa nucleus
+abaraaapaa nucleus
+abaraaapap nucleus
+abaraaapp nucleus
+abaraaappa nucleus
+abaraaappp nucleus
+abaraap nucleus
+abaraapa nucleus
+abaraapaa nucleus
+abaraapaaa nucleus
+abaraapaap nucleus
+abaraapap nucleus
+abaraapapa nucleus
+abaraapapaa nucleus
+abaraapapaad nucleus
+abaraapapp nucleus
+abaraapp nucleus
+abaraappa nucleus
+abaraappaa nucleus
+abaraappap nucleus
+abaraappp nucleus
+abaraapppa nucleus
+abaraapppaa nucleus
+abaraapppaad nucleus
+abaraapppp nucleus
+abarap nucleus
+abarapa nucleus
+abarapaa nucleus
+abarapaaa nucleus
+abarapaaaa nucleus
+abarapaaap nucleus
+abarapaaapp nucleus
+abarapaap nucleus
+abarapaapa nucleus
+abarapaapap nucleus
+abarapaapp nucleus
+abarapap nucleus
+abarapapa nucleus
+abarapapaa nucleus
+abarapapaaa nucleus
+abarapapaap nucleus
+abarapapaapp nucleus
+abarapapap nucleus
+abarapapp nucleus
+abarapappa nucleus
+abarapappap nucleus
+abarapappp nucleus
+abarapp nucleus
+abarappa nucleus
+abarappaa nucleus
+abarappaaa nucleus
+abarappaaap nucleus
+abarappaap nucleus
+abarappaapp nucleus
+abarappap nucleus
+abarappapa nucleus
+abarappapap nucleus
+abarappapapa nucleus
+abarappapp nucleus
+abarappp nucleus
+abarapppa nucleus
+abarapppaa nucleus
+abarapppap nucleus
+abarapppp nucleus
+abarappppa nucleus
+abarappppp nucleus
+abarapppppa nucleus
+abarapppppap nucleus
+abarp nucleus
+abarpa nucleus
+abarpaa nucleus
+abarpaaa nucleus
+abarpaaaa nucleus
+abarpaaaaa nucleus
+abarpaaaap nucleus
+abarpaaap nucleus
+abarpaaapa nucleus
+abarpaaapp nucleus
+abarpaap nucleus
+abarpaapa nucleus
+abarpaapaa nucleus
+abarpaapap nucleus
+abarpaapp nucleus
+abarpaappa nucleus
+abarpaappp nucleus
+abarpap nucleus
+abarpapa nucleus
+abarpapaa nucleus
+abarpapaaa nucleus
+abarpapaaap nucleus
+abarpapaap nucleus
+abarpapaapa nucleus
+abarpapaapp nucleus
+abarpapap nucleus
+abarpapapa nucleus
+abarpapapp nucleus
+abarpapp nucleus
+abarpappa nucleus
+abarpappap nucleus
+abarpappp nucleus
+abarpp nucleus
+abarppa nucleus
+abarppaa nucleus
+abarppaaa nucleus
+abarppaap nucleus
+abarppaapa nucleus
+abarppaapp nucleus
+abarppap nucleus
+abarppapa nucleus
+abarppapp nucleus
+abarppp nucleus
+abarpppa nucleus
+abarpppaa nucleus
+abarpppap nucleus
+abarpppapa nucleus
+abarpppapp nucleus
+abarpppp nucleus
+abarppppa nucleus
+abarppppp nucleus
+abp nucleus
+abpl nucleus
+abpla nucleus
+abplaa nucleus
+abplaaa nucleus
+abplaaaa nucleus
+abplaaaaa nucleus
+abplaaaaaa nucleus
+abplaaaaaap nucleus
+abplaaaaap nucleus
+abplaaaaapa nucleus
+abplaaaaapp nucleus
+abplaaaap nucleus
+abplaaaapa nucleus
+abplaaaapp nucleus
+abplaaap nucleus
+abplaaapa nucleus
+abplaaapap nucleus
+abplaaapp nucleus
+abplaap nucleus
+abplaapa nucleus
+abplaapaa nucleus
+abplaapaaa nucleus
+abplaapaaaa nucleus
+abplaapaap nucleus
+abplaapap nucleus
+abplaapapa nucleus
+abplaapapp nucleus
+abplaapappp nucleus
+abplaapapppp nucleus
+abplaapp nucleus
+abplaappa nucleus
+abplaappaa nucleus
+abplaappap nucleus
+abplaappp nucleus
+abplaapppa nucleus
+abplaapppp nucleus
+abplap nucleus
+abplapa nucleus
+abplapaa nucleus
+abplapaaa nucleus
+abplapaaaa nucleus
+abplapaaaaa nucleus
+abplapaaaap nucleus
+abplapaaap nucleus
+abplapaaapa nucleus
+abplapaap nucleus
+abplapaapp nucleus
+abplapap nucleus
+abplapapa nucleus
+abplapapaa nucleus
+abplapapap nucleus
+abplapapp nucleus
+abplapappp nucleus
+abplapapppa nucleus
+abplapapppp nucleus
+abplapappppa nucleus
+abplapappppp nucleus
+abplapp nucleus
+abplappa nucleus
+abplappaa nucleus
+abplappaaa nucleus
+abplappaap nucleus
+abplappap nucleus
+abplappapp nucleus
+abplappp nucleus
+abplapppa nucleus
+abplapppaa nucleus
+abplapppaap nucleus
+abplapppap nucleus
+abplapppapa nucleus
+abplapppapp nucleus
+abplapppp nucleus
+abplappppa nucleus
+abplp nucleus
+abplpa nucleus
+abplpaa nucleus
+abplpaaa nucleus
+abplpaaaa nucleus
+abplpaaaaa nucleus
+abplpaaaap nucleus
+abplpaaap nucleus
+abplpaaapa nucleus
+abplpaaapp nucleus
+abplpaaappa nucleus
+abplpaaappap nucleus
+abplpaap nucleus
+abplpaapa nucleus
+abplpaapaa nucleus
+abplpaapap nucleus
+abplpaapp nucleus
+abplpaappa nucleus
+abplpaappp nucleus
+abplpaapppp nucleus
+abplpaappppp nucleus
+abplpap nucleus
+abplpapa nucleus
+abplpapaa nucleus
+abplpapaaa nucleus
+abplpapaap nucleus
+abplpapap nucleus
+abplpapapa nucleus
+abplpapapp nucleus
+abplpapp nucleus
+abplpappa nucleus
+abplpappaa nucleus
+abplpappap nucleus
+abplpappp nucleus
+abplpapppa nucleus
+abplpapppp nucleus
+abplpp nucleus
+abplppa nucleus
+abplppaa nucleus
+abplppaaa nucleus
+abplppaaaa nucleus
+abplppaaaap nucleus
+abplppaaaapa nucleus
+abplppaaap nucleus
+abplppaap nucleus
+abplppaapa nucleus
+abplppaapaa nucleus
+abplppaapp nucleus
+abplppap nucleus
+abplppapa nucleus
+abplppapaa nucleus
+abplppapaaa nucleus
+abplppapap nucleus
+abplppapp nucleus
+abplppappa nucleus
+abplppappp nucleus
+abplppp nucleus
+abplpppa nucleus
+abplpppaa nucleus
+abplpppaaa nucleus
+abplpppaap nucleus
+abplpppaapa nucleus
+abplpppap nucleus
+abplpppapa nucleus
+abplpppapap nucleus
+abplpppapp nucleus
+abplpppp nucleus
+abplppppa nucleus
+abplppppaa nucleus
+abplppppap nucleus
+abplppppp nucleus
+abplpppppa nucleus
+abplpppppp nucleus
+abplppppppp nucleus
+abpr nucleus
+abpra nucleus
+abpraa nucleus
+abpraaa nucleus
+abpraaaa nucleus
+abpraaaaa nucleus
+abpraaaaaa nucleus
+abpraaaaap nucleus
+abpraaaaapv nucleus
+abpraaaap nucleus
+abpraaaapa nucleus
+abpraaaapp nucleus
+abpraaaappa nucleus
+abpraaaappp nucleus
+abpraaaapppp nucleus
+abpraaap nucleus
+abpraaapa nucleus
+abpraaapaa nucleus
+abpraaapaav nucleus
+abpraaapap nucleus
+abpraaapapa nucleus
+abpraaapapap nucleus
+abpraaapapp nucleus
+abpraaapp nucleus
+abpraaappa nucleus
+abpraaappp nucleus
+abpraaapppa nucleus
+abpraaapppap nucleus
+abpraaapppp nucleus
+abpraap nucleus
+abpraapa nucleus
+abpraapaa nucleus
+abpraapaaa nucleus
+abpraapaaaa nucleus
+abpraapaap nucleus
+abpraapap nucleus
+abpraapapa nucleus
+abpraapapp nucleus
+abpraapappp nucleus
+abpraapapppp nucleus
+abpraapp nucleus
+abpraappa nucleus
+abpraappaa nucleus
+abpraappap nucleus
+abpraappp nucleus
+abpraapppa nucleus
+abpraapppp nucleus
+abprap nucleus
+abprapa nucleus
+abprapaa nucleus
+abprapaaa nucleus
+abprapaaaa nucleus
+abprapaaaaa nucleus
+abprapaaaap nucleus
+abprapaaap nucleus
+abprapaaapa nucleus
+abprapaap nucleus
+abprapaapp nucleus
+abprapap nucleus
+abprapapa nucleus
+abprapapaa nucleus
+abprapapap nucleus
+abprapapp nucleus
+abprapappp nucleus
+abprapapppa nucleus
+abprapapppp nucleus
+abprapappppa nucleus
+abprapappppp nucleus
+abprapp nucleus
+abprappa nucleus
+abprappaa nucleus
+abprappaaa nucleus
+abprappaap nucleus
+abprappap nucleus
+abprappapp nucleus
+abprappp nucleus
+abprapppa nucleus
+abprapppaa nucleus
+abprapppaap nucleus
+abprapppap nucleus
+abprapppapa nucleus
+abprapppapp nucleus
+abprapppp nucleus
+abprappppa nucleus
+abprp nucleus
+abprpa nucleus
+abprpaa nucleus
+abprpaaa nucleus
+abprpaaaa nucleus
+abprpaaaaa nucleus
+abprpaaaap nucleus
+abprpaaap nucleus
+abprpaaapa nucleus
+abprpaaapp nucleus
+abprpaaappa nucleus
+abprpaaappap nucleus
+abprpaap nucleus
+abprpaapa nucleus
+abprpaapaa nucleus
+abprpaapap nucleus
+abprpaapapp nucleus
+abprpaapp nucleus
+abprpaappa nucleus
+abprpaappp nucleus
+abprpaapppp nucleus
+abprpaappppp nucleus
+abprpap nucleus
+abprpapa nucleus
+abprpapaa nucleus
+abprpapaaa nucleus
+abprpapaap nucleus
+abprpapap nucleus
+abprpapapa nucleus
+abprpapapp nucleus
+abprpapp nucleus
+abprpappa nucleus
+abprpappaa nucleus
+abprpappap nucleus
+abprpappp nucleus
+abprpapppa nucleus
+abprpapppp nucleus
+abprpp nucleus
+abprppa nucleus
+abprppaa nucleus
+abprppaaa nucleus
+abprppaaaa nucleus
+abprppaaaap nucleus
+abprppaaaapa nucleus
+abprppaaap nucleus
+abprppaap nucleus
+abprppaapa nucleus
+abprppaapaa nucleus
+abprppaapp nucleus
+abprppap nucleus
+abprppapa nucleus
+abprppapaa nucleus
+abprppapaaa nucleus
+abprppapap nucleus
+abprppapp nucleus
+abprppappa nucleus
+abprppappp nucleus
+abprppp nucleus
+abprpppa nucleus
+abprpppaa nucleus
+abprpppaaa nucleus
+abprpppaap nucleus
+abprpppaapa nucleus
+abprpppap nucleus
+abprpppapa nucleus
+abprpppapap nucleus
+abprpppapp nucleus
+abprpppp nucleus
+abprppppa nucleus
+abprppppaa nucleus
+abprppppap nucleus
+abprppppp nucleus
+abprpppppa nucleus
+abprpppppaa nucleus
+abprpppppp nucleus
+abprppppppp nucleus
+abplapaaaapp nucleus
+abprapaaaapp nucleus
+abplapaaaapa nucleus
+abprapaaaapa nucleus
+abarppaaaa nucleus
+abarpppaaa nucleus
+h2l .aa nucleus
+h2r .aa nucleus
+abalpppppaa nucleus
+abpraaappaa nucleus
+abalppppaad nucleus
+abpraaapaad nucleus
+abalpppapav nucleus
+abpraaaapav nucleus
+abplppaappa nucleus
+abprppaappa nucleus
+abplaapappa nucleus
+abpraapappa nucleus
+abplpaapppa nucleus
+abprpaapppa nucleus
+abalaaaalal nucleus
+abalaapaaar nucleus
+abplpapaaap nucleus
+abprpapaaap nucleus
+abplapaaapav nucleus
+abprapaaapav nucleus
+abalapppaaa nucleus
+abarppaappa nucleus
+abarpppappa nucleus
+abplapappppap nucleus
+abprapappppap nucleus
+abplaapaapp nucleus
+abpraapaapp nucleus
+abplpaapapa nucleus
+abprpaapapa nucleus
+qr .ap nucleus
+abalpaappaa nucleus
+abaraaapppa nucleus
+abalpapaapa nucleus
+abaraaappaa nucleus
+abalpaapaaa nucleus
+abaraaapaaa nucleus
+abarapapapa nucleus
+abalpaappap nucleus
+abaraaappap nucleus
+p1 .apa nucleus
+p2 .apa nucleus
+p3 .apa nucleus
+p4 .apa nucleus
+p5 .apa nucleus
+p6 .apa nucleus
+p7 .apa nucleus
+p8 .apa nucleus
+p9 .apa nucleus
+p10 .apa nucleus
+p11 .apa nucleus
+abalppppppaa nucleus
+abpraaapppaa nucleus
+abplaapapap nucleus
+abpraapapap nucleus
+abplpaappaa nucleus
+abprpaappaa nucleus
+abplaapapppa nucleus
+abpraapapppa nucleus
+abalpppppppa nucleus
+abpraaappppa nucleus
+abalpppapppa nucleus
+abpraaaapppa nucleus
+abalpppppppp nucleus
+abpraaappppp nucleus
+abalppaaapa nucleus
+abalaappapa nucleus
+abplpaapaap nucleus
+abprpaapaap nucleus
+abalaaapalr nucleus
+abalaaapprl nucleus
+abalpppaaaa nucleus
+abpraaaaaaa nucleus
+abprpapppap nucleus
+abalapaaaaa nucleus
+abalappapaa nucleus
+abalapapppa nucleus
+abalapppppa nucleus
+abplpapapap nucleus
+abprpapapap nucleus
+abprpappaap nucleus
+qr .paa nucleus
+abplaapapaa nucleus
+abpraapapaa nucleus
+abalpppppap nucleus
+abpraaappap nucleus
+abplpaaaaap nucleus
+abprpaaaaap nucleus
+b .a nucleus
+b .al nucleus
+b .ala nucleus
+b .alaa nucleus
+b .alap nucleus
+b .alapa nucleus
+b .alapaa nucleus
+b .alapaav nucleus
+b .alapap nucleus
+b .alapapa nucleus
+b .alapp nucleus
+b .alappd nucleus
+b .alappv nucleus
+b .alp nucleus
+b .alpa nucleus
+b .alpaa nucleus
+b .alpap nucleus
+b .alpapa nucleus
+b .ar nucleus
+b .ara nucleus
+b .arap nucleus
+b .arapa nucleus
+b .arapaa nucleus
+b .arapaad nucleus
+b .arapaav nucleus
+b .arapap nucleus
+b .arapapa nucleus
+b .arapapp nucleus
+b .arapp nucleus
+b .arappd nucleus
+b .arappv nucleus
+b .arp nucleus
+b .arpa nucleus
+b .arpap nucleus
+b .arpapa nucleus
+b .p nucleus
+b .pa nucleus
+b .paa nucleus
+b .pap nucleus
+b .pp nucleus
+b .ppa nucleus
+b .ppaa nucleus
+b .ppp nucleus
+b .pppa nucleus
+b .pppp nucleus
+b .ppppp nucleus
+abalppappap nucleus
+abarappppap nucleus
+abarppaappp nucleus
+abarpppappp nucleus
+b_alpha .lv nucleus
+b_alpha .rv nucleus
+b_beta .l nucleus
+b_beta .ld nucleus
+b_beta .r nucleus
+b_beta .rd nucleus
+b_delta .l nucleus
+b_delta .r nucleus
+b_gamma .a nucleus
+b_gamma .al nucleus
+b_gamma .ald nucleus
+b_gamma .alv nucleus
+b_gamma .ar nucleus
+b_gamma .ard nucleus
+b_gamma .arv nucleus
+b_gamma .p nucleus
+c nucleus
+ca nucleus
+caa nucleus
+caaa nucleus
+caaaa nucleus
+caaaaa nucleus
+caaaap nucleus
+caaap nucleus
+caaapa nucleus
+caaapp nucleus
+caap nucleus
+caapa nucleus
+caapap nucleus
+caapp nucleus
+caappd nucleus
+cap nucleus
+capa nucleus
+capaa nucleus
+capaaa nucleus
+capaaaa nucleus
+capaaap nucleus
+capaap nucleus
+capaapa nucleus
+capaapp nucleus
+capap nucleus
+capapa nucleus
+capapaa nucleus
+capapap nucleus
+capapp nucleus
+capappa nucleus
+capappp nucleus
+capp nucleus
+cappa nucleus
+cappaa nucleus
+cappaaa nucleus
+cappaap nucleus
+cappap nucleus
+cappapa nucleus
+cappapp nucleus
+cappp nucleus
+capppa nucleus
+capppaa nucleus
+capppap nucleus
+capppp nucleus
+cappppd nucleus
+cappppv nucleus
+cp nucleus
+cpa nucleus
+cpaa nucleus
+cpaaa nucleus
+cpaaaa nucleus
+cpaaap nucleus
+cpaap nucleus
+cpaapa nucleus
+cpaapp nucleus
+cpap nucleus
+cpapa nucleus
+cpapaa nucleus
+cpapap nucleus
+cpapp nucleus
+cpappd nucleus
+cpp nucleus
+cppa nucleus
+cppaa nucleus
+cppaaa nucleus
+cppaaaa nucleus
+cppaaap nucleus
+cppaap nucleus
+cppaapa nucleus
+cppaapp nucleus
+cppap nucleus
+cppapa nucleus
+cppapaa nucleus
+cppapap nucleus
+cppapp nucleus
+cppappa nucleus
+cppappp nucleus
+cppp nucleus
+cpppa nucleus
+cpppaa nucleus
+cpppaaa nucleus
+cpppaap nucleus
+cpppap nucleus
+cpppapa nucleus
+cpppapp nucleus
+cpppp nucleus
+cppppa nucleus
+cppppaa nucleus
+cppppap nucleus
+cppppp nucleus
+cpppppd nucleus
+cpppppv nucleus
+p4 .aapa nucleus
+p5 .aapa nucleus
+p6 .aapa nucleus
+p7 .aapa nucleus
+p8 .aapa nucleus
+p9 .aapa nucleus
+p10 .aapa nucleus
+p11 .aapa nucleus
+abalapaaapa nucleus
+abalappappa nucleus
+msapapaaa nucleus
+msppapaaa nucleus
+msapapaap nucleus
+msppapaap nucleus
+sm2l .pp nucleus
+abplpaapapp nucleus
+abplaaaaappa nucleus
+abarpapaappa nucleus
+abarpaaaapp nucleus
+abarpaaapap nucleus
+abplpaaapap nucleus
+abprpaaapap nucleus
+abalapapppp nucleus
+abalapppppp nucleus
+abalppaappp nucleus
+abalaapappp nucleus
+abplpaappppa nucleus
+abprpaappppa nucleus
+p4 .aapp nucleus
+p5 .aapp nucleus
+p6 .aapp nucleus
+p7 .aapp nucleus
+p8 .aapp nucleus
+p9 .aapp nucleus
+p10 .aapp nucleus
+p11 .aapp nucleus
+d nucleus
+da nucleus
+daa nucleus
+daaa nucleus
+daaaa nucleus
+daaap nucleus
+daap nucleus
+daapa nucleus
+daapp nucleus
+dap nucleus
+dapa nucleus
+dapaa nucleus
+dapap nucleus
+dapp nucleus
+dappa nucleus
+dappaa nucleus
+dappap nucleus
+dappp nucleus
+dapppa nucleus
+dapppp nucleus
+dp nucleus
+dpa nucleus
+dpaa nucleus
+dpaaa nucleus
+dpaap nucleus
+dpap nucleus
+dpapa nucleus
+dpapp nucleus
+dpp nucleus
+dppa nucleus
+dppaa nucleus
+dppap nucleus
+dppp nucleus
+dpppa nucleus
+dpppaa nucleus
+dpppap nucleus
+dpppp nucleus
+dppppa nucleus
+dppppp nucleus
+abprppapaap nucleus
+abplppapapa nucleus
+abprppapapa nucleus
+abplppapapp nucleus
+abprppapapp nucleus
+abplpppaaap nucleus
+abprpppaaap nucleus
+abprpapappp nucleus
+abplpppaaaa nucleus
+abplpaaaapp nucleus
+abarappappa nucleus
+abprpaaaapp nucleus
+abprpappapp nucleus
+abplpapappp nucleus
+abplppaappp nucleus
+abprppaappp nucleus
+abplppappap nucleus
+abprppappap nucleus
+abplppapppa nucleus
+abprppapppa nucleus
+abplppapppp nucleus
+abprppapppp nucleus
+abprppppapp nucleus
+k .p nucleus
+caapaa nucleus
+b .ppap nucleus
+b .ppppa nucleus
+e nucleus
+ea nucleus
+eal nucleus
+eala nucleus
+ealaa nucleus
+ealp nucleus
+ear nucleus
+eara nucleus
+earaa nucleus
+earp nucleus
+ep nucleus
+epl nucleus
+epla nucleus
+eplp nucleus
+eplpp nucleus
+epr nucleus
+epra nucleus
+eprp nucleus
+eprpp nucleus
+abaraaaapap nucleus
+abaraaaaaaa nucleus
+abaraaaaapa nucleus
+abalpaapaap nucleus
+abaraaapaap nucleus
+abalpappapa nucleus
+abaraapaaaa nucleus
+abalpaaaaaa nucleus
+abarapaaaaa nucleus
+ems nucleus
+abplpappaap nucleus
+abplpaaaapa nucleus
+g2 .p nucleus
+abplppppapp nucleus
+f .l nucleus
+f .ld nucleus
+f .lv nucleus
+f .lvd nucleus
+f .lvda nucleus
+f .lvdp nucleus
+f .lvv nucleus
+f .r nucleus
+f .rd nucleus
+f .rv nucleus
+f .rvd nucleus
+f .rvda nucleus
+f .rvdp nucleus
+f .rvv nucleus
+abplapaaapad nucleus
+abprapaaapad nucleus
+abprpaaaapa nucleus
+mspapaapaa nucleus
+abplapaapa nucleus
+g2 .a nucleus
+msaapapaa nucleus
+mspapapaa nucleus
+msaaaaaal nucleus
+msaaaaaar nucleus
+msapaaaad nucleus
+msppaaaad nucleus
+msapaaaav nucleus
+msppaaaav nucleus
+z1 .aa nucleus
+z4 .pp nucleus
+abplaaappa nucleus
+abarpapppa nucleus
+abplaaappp nucleus
+h1l .a nucleus
+h1l .aa nucleus
+h1l .ap nucleus
+h1l .apa nucleus
+h1l .app nucleus
+h1l .appa nucleus
+h1l .appp nucleus
+h1l .p nucleus
+abarpapppp nucleus
+h1r .a nucleus
+h1r .aa nucleus
+h1r .ap nucleus
+h1r .apa nucleus
+h1r .app nucleus
+h1r .appa nucleus
+h1r .appp nucleus
+h1r .p nucleus
+abarppaaap nucleus
+h2l .a nucleus
+h2l .ap nucleus
+h2l .p nucleus
+h2l .pa nucleus
+h2l .pp nucleus
+h2l .ppa nucleus
+h2l .ppp nucleus
+h2l .pppa nucleus
+h2l .pppp nucleus
+abarpppaap nucleus
+h2r .a nucleus
+h2r .ap nucleus
+h2r .p nucleus
+h2r .pa nucleus
+h2r .pp nucleus
+h2r .ppa nucleus
+h2r .ppp nucleus
+h2r .pppa nucleus
+h2r .pppp nucleus
+msappaaa nucleus
+p10 .pppa nucleus
+p10 .ppap nucleus
+p10 .ppppp nucleus
+p10 .ppaa nucleus
+abplapppappa nucleus
+abprapppappa nucleus
+abalpaapppa nucleus
+abaraaapppp nucleus
+abarappaapa nucleus
+abalpaapppp nucleus
+abalpapaaap nucleus
+cpappv nucleus
+p12 .pa nucleus
+abalpapppaa nucleus
+abarapappaa nucleus
+abalpappaapa nucleus
+abarapapaapa nucleus
+msaaaaapaa nucleus
+msaaaapaa nucleus
+abarapapapp nucleus
+mspaaapaa nucleus
+abalapappaaa nucleus
+abalappppaaa nucleus
+abalapaappaa nucleus
+abalaappppaa nucleus
+abalppapppaa nucleus
+abarapppppaa nucleus
+abalapappap nucleus
+abalappppap nucleus
+abalapaappp nucleus
+abalaappppp nucleus
+abalppapppp nucleus
+abarapppppp nucleus
+abalaaaparr nucleus
+abalaaappll nucleus
+abalaaaalpp nucleus
+abalaapaapp nucleus
+abalppapaap nucleus
+abarapppaap nucleus
+abplaapaaap nucleus
+abpraapaaap nucleus
+abalaaapall nucleus
+abalaaapprr nucleus
+abalppapapp nucleus
+abarapppapp nucleus
+ealaad nucleus
+earaad nucleus
+ealaav nucleus
+earaav nucleus
+earpa nucleus
+ealpa nucleus
+earap nucleus
+e .arapa nucleus
+e .arapp nucleus
+ealap nucleus
+e .alapa nucleus
+e .alapp nucleus
+epraa nucleus
+e .praaa nucleus
+e .praap nucleus
+eplaa nucleus
+e .plaaa nucleus
+e .plaap nucleus
+ealpp nucleus
+e .alppa nucleus
+e .alppp nucleus
+earpp nucleus
+e .arppa nucleus
+e .arppp nucleus
+eplap nucleus
+e .plapa nucleus
+e .plapp nucleus
+eprap nucleus
+e .prapa nucleus
+e .prapp nucleus
+eplpa nucleus
+e .plpaa nucleus
+e .plpap nucleus
+eprpa nucleus
+e .prpaa nucleus
+e .prpap nucleus
+eplppa nucleus
+e .plppaa nucleus
+e .plppap nucleus
+eprppa nucleus
+e .prppaa nucleus
+e .prppap nucleus
+eplppp nucleus
+e .plpppa nucleus
+e .plpppp nucleus
+eprppp nucleus
+e .prpppa nucleus
+e .prpppp nucleus
+abplpapppaa nucleus
+abplpapppap nucleus
+abplpppaapap nucleus
+abprpppaapap nucleus
+msapaapp nucleus
+m .d nucleus
+m .dl nucleus
+m .dla nucleus
+m .dlaa nucleus
+m .dlap nucleus
+m .dlp nucleus
+m .dlpa nucleus
+m .dlpp nucleus
+m .dr nucleus
+m .dra nucleus
+m .draa nucleus
+m .drap nucleus
+m .drp nucleus
+m .drpa nucleus
+m .drpp nucleus
+m .v nucleus
+m .vl nucleus
+m .vla nucleus
+m .vlaa nucleus
+m .vlap nucleus
+m .vlp nucleus
+m .vlpa nucleus
+m .vlpaa nucleus
+m .vlpaaa nucleus
+m .vlpaaaa nucleus
+m .vlpaaaaa nucleus
+m .vlpaaaap nucleus
+m .vlpaaap nucleus
+m .vlpaaapa nucleus
+m .vlpaaapp nucleus
+m .vlpaap nucleus
+m .vlpaapa nucleus
+m .vlpaapaa nucleus
+m .vlpaapap nucleus
+m .vlpaapp nucleus
+m .vlpaappa nucleus
+m .vlpaappp nucleus
+m .vlpap nucleus
+m .vlpp nucleus
+m .vr nucleus
+m .vra nucleus
+m .vraa nucleus
+m .vrap nucleus
+m .vrp nucleus
+m .vrpa nucleus
+m .vrpaa nucleus
+m .vrpaaa nucleus
+m .vrpaaaa nucleus
+m .vrpaaaaa nucleus
+m .vrpaaaap nucleus
+m .vrpaaap nucleus
+m .vrpaaapa nucleus
+m .vrpaaapp nucleus
+m .vrpaap nucleus
+m .vrpaapa nucleus
+m .vrpaapaa nucleus
+m .vrpaapap nucleus
+m .vrpaapp nucleus
+m .vrpaappa nucleus
+m .vrpaappp nucleus
+m .vrpap nucleus
+m .vrpp nucleus
+mspaapaaa nucleus
+abaraapaaap nucleus
+abaraappaap nucleus
+abaraaaaaap nucleus
+abaraaaaapp nucleus
+abalpaaaapa nucleus
+abarapaaapa nucleus
+abaraapaapa nucleus
+abaraappapa nucleus
+abalpaaapaa nucleus
+abaraapappa nucleus
+abarapaapaa nucleus
+abaraappppa nucleus
+abalpaaaaap nucleus
+abarapaaaap nucleus
+msaaapaaa nucleus
+mspaaaapa nucleus
+abalpaapapp nucleus
+abaraapappp nucleus
+abarapaappa nucleus
+abaraappppp nucleus
+abalpappppp nucleus
+abarapapppp nucleus
+mspaaaaaa nucleus
+msaaaaapp nucleus
+mspaaaapp nucleus
+msaaapaap nucleus
+abaraaapapp nucleus
+msaapaaaa nucleus
+mspapaaaa nucleus
+mspaaapap nucleus
+msaaaapap nucleus
+mspaaappa nucleus
+abaraapapap nucleus
+abaraapppap nucleus
+msaapaaap nucleus
+mspapaaap nucleus
+mspaaappp nucleus
+msaapappa nucleus
+mspapappa nucleus
+msaaaappp nucleus
+msaapaapp nucleus
+mspapaapp nucleus
+msaaapapp nucleus
+abalpaapapa nucleus
+abaraaapapa nucleus
+abalpappppa nucleus
+abaraapaapp nucleus
+abaraappapp nucleus
+abarapapppa nucleus
+msaaapapa nucleus
+mspaapapa nucleus
+abalpappapp nucleus
+abalpaaappp nucleus
+abarapaappp nucleus
+abaraappaaa nucleus
+ms nucleus
+msa nucleus
+msaa nucleus
+msaaa nucleus
+msaaaa nucleus
+msaaaaa nucleus
+msaaaaaa nucleus
+msaaaaap nucleus
+msaaaaapa nucleus
+msaaaap nucleus
+msaaaapa nucleus
+msaaaapp nucleus
+msaaaappa nucleus
+msaaap nucleus
+msaaapa nucleus
+msaaapaa nucleus
+msaaapap nucleus
+msaaapp nucleus
+msaaappa nucleus
+msaap nucleus
+msaapa nucleus
+msaapaa nucleus
+msaapaaa nucleus
+msaapaap nucleus
+msaapaapa nucleus
+msaapaapap nucleus
+msaapap nucleus
+msaapapa nucleus
+msaapapap nucleus
+msaapapp nucleus
+msaapp nucleus
+msaappa nucleus
+msaappp nucleus
+msaapppa nucleus
+msaapppaa nucleus
+msaapppap nucleus
+msaapppp nucleus
+msaappppa nucleus
+msaappppp nucleus
+msap nucleus
+msapa nucleus
+msapaa nucleus
+msapaaa nucleus
+msapaaaa nucleus
+msapaaap nucleus
+msapaap nucleus
+msapaapa nucleus
+msapap nucleus
+msapapa nucleus
+msapapaa nucleus
+msapapap nucleus
+msapapp nucleus
+msapappa nucleus
+msapappp nucleus
+msapp nucleus
+msappa nucleus
+msappaa nucleus
+msappap nucleus
+msappapa nucleus
+msappapp nucleus
+msappp nucleus
+msapppa nucleus
+msapppaa nucleus
+msapppap nucleus
+msapppp nucleus
+msappppa nucleus
+msappppp nucleus
+msp nucleus
+mspa nucleus
+mspaa nucleus
+mspaaa nucleus
+mspaaaa nucleus
+mspaaaaa nucleus
+mspaaaaap nucleus
+mspaaaap nucleus
+mspaaap nucleus
+mspaaapa nucleus
+mspaaapp nucleus
+mspaap nucleus
+mspaapa nucleus
+mspaapaa nucleus
+mspaapaap nucleus
+mspaapap nucleus
+mspaapp nucleus
+mspap nucleus
+mspapa nucleus
+mspapaa nucleus
+mspapaaa nucleus
+mspapaap nucleus
+mspapaapa nucleus
+mspapaapap nucleus
+mspapap nucleus
+mspapapa nucleus
+mspapapap nucleus
+mspapapp nucleus
+mspapp nucleus
+mspappa nucleus
+mspappaa nucleus
+mspappap nucleus
+mspappp nucleus
+mspapppa nucleus
+mspapppaa nucleus
+mspapppap nucleus
+mspapppp nucleus
+mspappppa nucleus
+mspappppp nucleus
+mspp nucleus
+msppa nucleus
+msppaa nucleus
+msppaaa nucleus
+msppaaaa nucleus
+msppaaap nucleus
+msppaap nucleus
+msppaapa nucleus
+msppap nucleus
+msppapa nucleus
+msppapaa nucleus
+msppapap nucleus
+msppapp nucleus
+msppappa nucleus
+msppappp nucleus
+msppp nucleus
+mspppa nucleus
+mspppaa nucleus
+mspppaaa nucleus
+mspppap nucleus
+mspppapa nucleus
+mspppapp nucleus
+mspppp nucleus
+msppppa nucleus
+msppppaa nucleus
+msppppap nucleus
+msppppp nucleus
+mspppppa nucleus
+mspppppp nucleus
+abplpppppap nucleus
+abplpppppaa nucleus
+msppaapp nucleus
+abprpppppap nucleus
+abaraapapaav nucleus
+abaraapppaav nucleus
+abalppppapaa nucleus
+abpraaapapaa nucleus
+abalpppaapd nucleus
+abpraaaaapd nucleus
+abalapaaapp nucleus
+abalappappp nucleus
+abalapapapaa nucleus
+abalapppapaa nucleus
+abarpaaaapa nucleus
+abarpaaapaa nucleus
+abalpppaaap nucleus
+abpraaaaaap nucleus
+abarpaaaaal nucleus
+abarpaaaaar nucleus
+abalppaaapp nucleus
+abalaappapp nucleus
+abplpaaappaa nucleus
+abprpaaappaa nucleus
+psub1 nucleus
+p1 .a nucleus
+p1 .aa nucleus
+p1 .aaa nucleus
+p1 .aaaa nucleus
+p1 .aap nucleus
+p1 .ap nucleus
+p1 .p nucleus
+psub2 nucleus
+p2 .a nucleus
+p2 .aa nucleus
+p2 .aaa nucleus
+p2 .aap nucleus
+p2 .ap nucleus
+p2 .p nucleus
+psub3 nucleus
+p3 .a nucleus
+p3 .aa nucleus
+p3 .aaa nucleus
+p3 .aap nucleus
+p3 .ap nucleus
+p3 .p nucleus
+p3 .pa nucleus
+p3 .pp nucleus
+psub4 nucleus
+p4 .a nucleus
+p4 .aa nucleus
+p4 .aaa nucleus
+p4 .ap nucleus
+p4 .p nucleus
+p4 .pa nucleus
+p4 .pp nucleus
+p5 .a nucleus
+p5 .aa nucleus
+p5 .aaa nucleus
+p5 .aap nucleus
+p5 .ap nucleus
+p5 .p nucleus
+p5 .pa nucleus
+p5 .paa nucleus
+p5 .paaa nucleus
+p5 .paap nucleus
+p5 .pap nucleus
+p5 .papa nucleus
+p5 .papp nucleus
+p5 .pp nucleus
+p5 .ppa nucleus
+p5 .ppal nucleus
+p5 .ppar nucleus
+p5 .ppp nucleus
+p6 .a nucleus
+p6 .aa nucleus
+p6 .aaa nucleus
+p6 .aap nucleus
+p6 .ap nucleus
+p6 .p nucleus
+p6 .pa nucleus
+p6 .paa nucleus
+p6 .paal nucleus
+p6 .paar nucleus
+p6 .pap nucleus
+p6 .papl nucleus
+p6 .papr nucleus
+p6 .pp nucleus
+p6 .ppa nucleus
+p6 .ppal nucleus
+p6 .ppar nucleus
+p6 .ppp nucleus
+p6 .pppl nucleus
+p6 .pppr nucleus
+p7 .a nucleus
+p7 .aa nucleus
+p7 .aaa nucleus
+p7 .aap nucleus
+p7 .ap nucleus
+p7 .p nucleus
+p7 .pa nucleus
+p7 .paa nucleus
+p7 .pap nucleus
+p7 .papl nucleus
+p7 .papr nucleus
+p7 .pp nucleus
+p7 .ppa nucleus
+p7 .ppaa nucleus
+p7 .ppap nucleus
+p7 .ppp nucleus
+p7 .pppa nucleus
+p7 .pppp nucleus
+p8 .a nucleus
+p8 .aa nucleus
+p8 .aaa nucleus
+p8 .aap nucleus
+p8 .ap nucleus
+p8 .p nucleus
+p8 .pa nucleus
+p8 .pp nucleus
+p9 .a nucleus
+p9 .aa nucleus
+p9 .aaa nucleus
+p9 .aap nucleus
+p9 .ap nucleus
+p9 .p nucleus
+p10 .a nucleus
+p10 .aa nucleus
+p10 .aaa nucleus
+p10 .aap nucleus
+p10 .ap nucleus
+p10 .p nucleus
+p10 .pa nucleus
+p10 .paa nucleus
+p10 .paaa nucleus
+p10 .paap nucleus
+p10 .pap nucleus
+p10 .papa nucleus
+p10 .papp nucleus
+p10 .pp nucleus
+p10 .ppa nucleus
+p10 .ppp nucleus
+p10 .pppp nucleus
+abplapappa nucleus
+p11 .a nucleus
+p11 .aa nucleus
+p11 .aaa nucleus
+p11 .aaap nucleus
+p11 .aap nucleus
+p11 .ap nucleus
+p11 .p nucleus
+abprapappa nucleus
+p12 .a nucleus
+p12 .aa nucleus
+p12 .aaa nucleus
+p12 .aaap nucleus
+p12 .aap nucleus
+p12 .ap nucleus
+p12 .p nucleus
+p12 .pp nucleus
+b .arpaaa nucleus
+b .alpaaa nucleus
+p12 .apa nucleus
+p11 .papa nucleus
+v5l .paaa nucleus
+v5r .paaa nucleus
+v5l .papp nucleus
+v5r .papp nucleus
+v5l .papa nucleus
+v5r .papa nucleus
+p11 .papp nucleus
+abplpppaapp nucleus
+abprpppaapp nucleus
+abplapppappp nucleus
+abprapppappp nucleus
+tl .pppaa nucleus
+tr .pppaa nucleus
+abplpppapaa nucleus
+abprpppapaa nucleus
+tl .paa nucleus
+tr .paa nucleus
+tl .pap nucleus
+tr .pap nucleus
+abplapappppaa nucleus
+abprapappppaa nucleus
+tl .pppap nucleus
+tr .pppap nucleus
+ql .ap nucleus
+abplpppaapaa nucleus
+abprpppaapaa nucleus
+v5l .paapa nucleus
+v5r .paapa nucleus
+ql .paa nucleus
+tl .appp nucleus
+tr .appp nucleus
+abplppppaaa nucleus
+abprppppaaa nucleus
+abplapppaaa nucleus
+abprapppaaa nucleus
+caappv nucleus
+abplpappppa nucleus
+p11 .paaa nucleus
+tl .ppa nucleus
+tr .ppa nucleus
+p11 .paap nucleus
+p10 .ppppa nucleus
+abplapapaaa nucleus
+ql .a nucleus
+ql .aa nucleus
+ql .p nucleus
+ql .pa nucleus
+ql .pp nucleus
+abprapapaaa nucleus
+qr .a nucleus
+qr .aa nucleus
+qr .p nucleus
+qr .pa nucleus
+qr .pp nucleus
+v5l .pppppaaa nucleus
+v5r .pppppaaa nucleus
+v5l .pppppapa nucleus
+v5r .pppppapa nucleus
+v5l .pppppapp nucleus
+v5r .pppppapp nucleus
+v6l .papapaaa nucleus
+v6r .papapaaa nucleus
+v6l .papapapa nucleus
+v6r .papapapa nucleus
+v6l .papapapp nucleus
+v6r .papapapp nucleus
+v6l .papppaaa nucleus
+v6r .papppaaa nucleus
+v6l .papppapa nucleus
+v6r .papppapa nucleus
+v6l .papppapp nucleus
+v6r .papppapp nucleus
+v6l .pppapaaa nucleus
+v6r .pppapaaa nucleus
+v6l .pppapapa nucleus
+v6r .pppapapa nucleus
+v6l .pppapapp nucleus
+v6r .pppapapp nucleus
+v6l .pppppaaa nucleus
+v6r .pppppaaa nucleus
+v6l .pppppapa nucleus
+v6r .pppppapa nucleus
+v6l .pppppapp nucleus
+v6r .pppppapp nucleus
+v6l .ppppaaaa nucleus
+v6r .ppppaaaa nucleus
+v6l .ppppaapa nucleus
+v6r .ppppaapa nucleus
+v6l .ppppaapp nucleus
+v6r .ppppaapp nucleus
+tl .apappaaa nucleus
+tl .apappapa nucleus
+tl .apappapp nucleus
+tl .appaaaaa nucleus
+tl .appaaapa nucleus
+tl .appaaapp nucleus
+tl .appapapa nucleus
+tl .appapapp nucleus
+abplpappppp nucleus
+k .a nucleus
+abplppppaap nucleus
+abprppppaap nucleus
+abalapaapaa nucleus
+abalaapppaa nucleus
+abplpaappap nucleus
+abprpaappap nucleus
+abplppaaaapp nucleus
+abprppaaaapp nucleus
+abalappaapa nucleus
+abplppapaaap nucleus
+abprppapaaap nucleus
+abplppappaa nucleus
+abprppappaa nucleus
+abprpappaaa nucleus
+abplppaapap nucleus
+abprppaapap nucleus
+abalpapaaaa nucleus
+abarappaaaa nucleus
+abprpapppaa nucleus
+abprpappapa nucleus
+abplpaapaaa nucleus
+abprpaapaaa nucleus
+abalpapapaa nucleus
+abarappapaa nucleus
+abalpppapad nucleus
+abpraaaapad nucleus
+abalppapaaa nucleus
+abarapppaaa nucleus
+abalapppaap nucleus
+abalaaaarlp nucleus
+abalaaaarrp nucleus
+abplpappaaa nucleus
+g2 .al nucleus
+g2 .ar nucleus
+abplapaaapp nucleus
+abprapaaapp nucleus
+g1 .l nucleus
+g1 .r nucleus
+abalppapapa nucleus
+abarapppapa nucleus
+abplpaaaaaa nucleus
+abprpaaaaaa nucleus
+abplppapaap nucleus
+abplppapaaaa nucleus
+abprppapaaaa nucleus
+ql .pap nucleus
+qr .pap nucleus
+abplpapaapa nucleus
+abprpapaapa nucleus
+abplpapappa nucleus
+abprpapappa nucleus
+abplppaaaaa nucleus
+abprppaaaaa nucleus
+abplpapaapp nucleus
+abprpapaapp nucleus
+m .dlpaa nucleus
+sm1l .a nucleus
+sm1l .aa nucleus
+sm1l .aaa nucleus
+sm1l .aap nucleus
+sm1l .ap nucleus
+sm1l .apa nucleus
+sm1l .app nucleus
+sm1l .p nucleus
+sm1l .pa nucleus
+sm1l .paa nucleus
+sm1l .pap nucleus
+sm1l .pp nucleus
+sm1l .ppa nucleus
+sm1l .ppp nucleus
+m .drpaa nucleus
+sm1r .a nucleus
+sm1r .aa nucleus
+sm1r .aaa nucleus
+sm1r .aap nucleus
+sm1r .ap nucleus
+sm1r .apa nucleus
+sm1r .app nucleus
+sm1r .p nucleus
+sm1r .pa nucleus
+sm1r .paa nucleus
+sm1r .pap nucleus
+sm1r .pp nucleus
+sm1r .ppa nucleus
+sm1r .ppp nucleus
+m .dlpap nucleus
+sm2l .a nucleus
+sm2l .aa nucleus
+sm2l .aaa nucleus
+sm2l .aap nucleus
+sm2l .ap nucleus
+sm2l .apa nucleus
+sm2l .app nucleus
+sm2l .p nucleus
+sm2l .pa nucleus
+sm2l .paa nucleus
+sm2l .pap nucleus
+m .drpap nucleus
+sm2r .a nucleus
+sm2r .aa nucleus
+sm2r .aaa nucleus
+sm2r .aap nucleus
+sm2r .ap nucleus
+sm2r .apa nucleus
+sm2r .app nucleus
+sm2r .p nucleus
+sm2r .pa nucleus
+sm2r .paa nucleus
+sm2r .pap nucleus
+sm2r .pp nucleus
+sm3l .a nucleus
+sm3l .aa nucleus
+sm3l .aaa nucleus
+sm3l .aap nucleus
+sm3l .ap nucleus
+sm3l .apa nucleus
+sm3l .app nucleus
+sm3l .p nucleus
+sm3l .pa nucleus
+sm3l .pp nucleus
+sm3r .a nucleus
+sm3r .aa nucleus
+sm3r .aaa nucleus
+sm3r .aap nucleus
+sm3r .ap nucleus
+sm3r .apa nucleus
+sm3r .app nucleus
+sm3r .p nucleus
+sm3r .pa nucleus
+sm3r .pp nucleus
+abalpapapapp nucleus
+abarappapapp nucleus
+abalpapappp nucleus
+abarappappp nucleus
+abplpapaaaa nucleus
+abprpapaaaa nucleus
+abalppappaa nucleus
+abarappppaa nucleus
+b .alpaap nucleus
+b .arpaap nucleus
+b .alpapaa nucleus
+b .arpapaa nucleus
+abprppppppa nucleus
+abplppppppa nucleus
+b .alpapap nucleus
+b .arpapap nucleus
+b_beta .ldp nucleus
+b_beta .rdp nucleus
+b_gamma .pl nucleus
+b_gamma .pr nucleus
+b_alpha .ld nucleus
+b_alpha .rd nucleus
+b_beta .lv nucleus
+b_beta .rv nucleus
+b .alpapp nucleus
+b_beta .lda nucleus
+b_beta .rda nucleus
+abplappppp nucleus
+tl .a nucleus
+tl .aa nucleus
+tl .ap nucleus
+tl .apa nucleus
+tl .apaa nucleus
+tl .apap nucleus
+tl .apapp nucleus
+tl .apappa nucleus
+tl .apappaa nucleus
+tl .apappaap nucleus
+tl .apappap nucleus
+tl .apappp nucleus
+tl .app nucleus
+tl .appa nucleus
+tl .appaa nucleus
+tl .appaaa nucleus
+tl .appaaaa nucleus
+tl .appaaaap nucleus
+tl .appaaap nucleus
+tl .appaap nucleus
+tl .appap nucleus
+tl .appapa nucleus
+tl .appapaa nucleus
+tl .appapaap nucleus
+tl .appapap nucleus
+tl .appapp nucleus
+tl .p nucleus
+tl .pa nucleus
+tl .pp nucleus
+tl .ppp nucleus
+tl .pppa nucleus
+tl .pppp nucleus
+abprappppp nucleus
+tr .a nucleus
+tr .aa nucleus
+tr .ap nucleus
+tr .apa nucleus
+tr .apaa nucleus
+tr .apap nucleus
+tr .apappaap nucleus
+tr .app nucleus
+tr .appa nucleus
+tr .appaaa nucleus
+tr .appaaaa nucleus
+tr .appaap nucleus
+tr .p nucleus
+tr .pa nucleus
+tr .pp nucleus
+tr .ppp nucleus
+tr .pppa nucleus
+tr .pppp nucleus
+abplppppapa nucleus
+u .l nucleus
+u .la nucleus
+u .laa nucleus
+u .lap nucleus
+u .r nucleus
+u .ra nucleus
+u .raa nucleus
+u .rap nucleus
+u .rp nucleus
+abplaaaaaaa nucleus
+abarpapaaaa nucleus
+abplpaaapaa nucleus
+abprpaaapaa nucleus
+abplaapaapa nucleus
+abpraapaapa nucleus
+abplaaaaappp nucleus
+abarpapaappp nucleus
+abalapapapp nucleus
+abalapppapp nucleus
+abplpaaappp nucleus
+abprpaaappp nucleus
+abarppapaa nucleus
+v1l .a nucleus
+v1l .p nucleus
+v1l .pa nucleus
+v1l .paa nucleus
+v1l .pap nucleus
+v1l .papa nucleus
+v1l .papp nucleus
+v1l .pappa nucleus
+v1l .pappp nucleus
+v1l .pp nucleus
+v1l .ppa nucleus
+v1l .ppp nucleus
+v1l .pppa nucleus
+v1l .pppp nucleus
+v1l .ppppa nucleus
+v1l .ppppp nucleus
+abarppppaa nucleus
+v1r .a nucleus
+v1r .p nucleus
+v1r .pa nucleus
+v1r .paa nucleus
+v1r .pap nucleus
+v1r .papa nucleus
+v1r .papp nucleus
+v1r .pappa nucleus
+v1r .pappp nucleus
+v1r .pp nucleus
+v1r .ppa nucleus
+v1r .ppp nucleus
+v1r .pppa nucleus
+v1r .pppp nucleus
+v1r .ppppa nucleus
+v1r .ppppp nucleus
+abarppapap nucleus
+v2l .a nucleus
+v2l .p nucleus
+v2l .pa nucleus
+v2l .paa nucleus
+v2l .pap nucleus
+v2l .papa nucleus
+v2l .papp nucleus
+v2l .pappa nucleus
+v2l .pappp nucleus
+v2l .pp nucleus
+v2l .ppa nucleus
+v2l .ppp nucleus
+v2l .pppa nucleus
+v2l .pppp nucleus
+v2l .ppppa nucleus
+v2l .ppppp nucleus
+abarppppap nucleus
+v2r .a nucleus
+v2r .p nucleus
+v2r .pa nucleus
+v2r .paa nucleus
+v2r .pap nucleus
+v2r .papa nucleus
+v2r .papp nucleus
+v2r .pappa nucleus
+v2r .pappp nucleus
+v2r .pp nucleus
+v2r .ppa nucleus
+v2r .ppp nucleus
+v2r .pppa nucleus
+v2r .pppp nucleus
+v2r .ppppa nucleus
+v2r .ppppp nucleus
+abplappapa nucleus
+v3l .a nucleus
+v3l .p nucleus
+v3l .pa nucleus
+v3l .paa nucleus
+v3l .pap nucleus
+v3l .papa nucleus
+v3l .papp nucleus
+v3l .pappa nucleus
+v3l .pappp nucleus
+v3l .pp nucleus
+v3l .ppa nucleus
+v3l .ppp nucleus
+v3l .pppa nucleus
+v3l .pppp nucleus
+v3l .ppppa nucleus
+v3l .ppppp nucleus
+abprappapa nucleus
+v3r .a nucleus
+v3r .p nucleus
+v3r .pa nucleus
+v3r .paa nucleus
+v3r .pap nucleus
+v3r .papa nucleus
+v3r .papp nucleus
+v3r .pappa nucleus
+v3r .pappp nucleus
+v3r .pp nucleus
+v3r .ppa nucleus
+v3r .ppp nucleus
+v3r .pppa nucleus
+v3r .pppp nucleus
+v3r .ppppa nucleus
+v3r .ppppp nucleus
+abarppappa nucleus
+v4l .a nucleus
+v4l .p nucleus
+v4l .pa nucleus
+v4l .paa nucleus
+v4l .pap nucleus
+v4l .papa nucleus
+v4l .papp nucleus
+v4l .pappa nucleus
+v4l .pappp nucleus
+v4l .pp nucleus
+v4l .ppa nucleus
+v4l .ppp nucleus
+v4l .pppa nucleus
+v4l .pppp nucleus
+v4l .ppppa nucleus
+v4l .ppppp nucleus
+abarpppppa nucleus
+v4r .a nucleus
+v4r .p nucleus
+v4r .pa nucleus
+v4r .paa nucleus
+v4r .pap nucleus
+v4r .papa nucleus
+v4r .papp nucleus
+v4r .pappa nucleus
+v4r .pappp nucleus
+v4r .pp nucleus
+v4r .ppa nucleus
+v4r .ppp nucleus
+v4r .pppa nucleus
+v4r .pppp nucleus
+v4r .ppppa nucleus
+v4r .ppppp nucleus
+abplapapaap nucleus
+v5l .a nucleus
+v5l .p nucleus
+v5l .pa nucleus
+v5l .paa nucleus
+v5l .paap nucleus
+v5l .paapp nucleus
+v5l .pap nucleus
+v5l .pp nucleus
+v5l .ppa nucleus
+v5l .ppp nucleus
+v5l .pppa nucleus
+v5l .pppaa nucleus
+v5l .pppap nucleus
+v5l .pppapa nucleus
+v5l .pppapp nucleus
+v5l .pppp nucleus
+v5l .ppppa nucleus
+v5l .ppppp nucleus
+v5l .pppppa nucleus
+v5l .pppppaa nucleus
+v5l .pppppaap nucleus
+v5l .pppppap nucleus
+v5l .pppppp nucleus
+abprapapaap nucleus
+v5r .a nucleus
+v5r .p nucleus
+v5r .pa nucleus
+v5r .paa nucleus
+v5r .paap nucleus
+v5r .paapp nucleus
+v5r .pap nucleus
+v5r .pp nucleus
+v5r .ppa nucleus
+v5r .ppp nucleus
+v5r .pppa nucleus
+v5r .pppaa nucleus
+v5r .pppap nucleus
+v5r .pppapa nucleus
+v5r .pppapp nucleus
+v5r .pppp nucleus
+v5r .ppppa nucleus
+v5r .ppppp nucleus
+v5r .pppppa nucleus
+v5r .pppppaa nucleus
+v5r .pppppaap nucleus
+v5r .pppppap nucleus
+v5r .pppppp nucleus
+abarppappp nucleus
+v6l .a nucleus
+v6l .p nucleus
+v6l .pa nucleus
+v6l .paa nucleus
+v6l .pap nucleus
+v6l .papa nucleus
+v6l .papaa nucleus
+v6l .papap nucleus
+v6l .papapa nucleus
+v6l .papapaa nucleus
+v6l .papapaap nucleus
+v6l .papapap nucleus
+v6l .papapp nucleus
+v6l .papp nucleus
+v6l .pappa nucleus
+v6l .pappp nucleus
+v6l .papppa nucleus
+v6l .papppaa nucleus
+v6l .papppaap nucleus
+v6l .papppap nucleus
+v6l .papppp nucleus
+v6l .pp nucleus
+v6l .ppa nucleus
+v6l .ppp nucleus
+v6l .pppa nucleus
+v6l .pppaa nucleus
+v6l .pppap nucleus
+v6l .pppapa nucleus
+v6l .pppapaa nucleus
+v6l .pppapaap nucleus
+v6l .pppapap nucleus
+v6l .pppapp nucleus
+v6l .pppp nucleus
+v6l .ppppa nucleus
+v6l .ppppaa nucleus
+v6l .ppppaaa nucleus
+v6l .ppppaaap nucleus
+v6l .ppppaap nucleus
+v6l .ppppap nucleus
+v6l .ppppp nucleus
+v6l .pppppa nucleus
+v6l .pppppaa nucleus
+v6l .pppppaap nucleus
+v6l .pppppap nucleus
+v6l .pppppp nucleus
+abarpppppp nucleus
+v6r .a nucleus
+v6r .p nucleus
+v6r .pa nucleus
+v6r .paa nucleus
+v6r .pap nucleus
+v6r .papa nucleus
+v6r .papaa nucleus
+v6r .papap nucleus
+v6r .papapa nucleus
+v6r .papapaa nucleus
+v6r .papapaap nucleus
+v6r .papapap nucleus
+v6r .papapp nucleus
+v6r .papp nucleus
+v6r .pappa nucleus
+v6r .pappp nucleus
+v6r .papppa nucleus
+v6r .papppaa nucleus
+v6r .papppaap nucleus
+v6r .papppap nucleus
+v6r .papppp nucleus
+v6r .pp nucleus
+v6r .ppa nucleus
+v6r .ppp nucleus
+v6r .pppa nucleus
+v6r .pppaa nucleus
+v6r .pppap nucleus
+v6r .pppapa nucleus
+v6r .pppapaa nucleus
+v6r .pppapaap nucleus
+v6r .pppapap nucleus
+v6r .pppapp nucleus
+v6r .pppp nucleus
+v6r .ppppa nucleus
+v6r .ppppaa nucleus
+v6r .ppppaaa nucleus
+v6r .ppppaaap nucleus
+v6r .ppppaap nucleus
+v6r .ppppap nucleus
+v6r .ppppp nucleus
+v6r .pppppa nucleus
+v6r .pppppaa nucleus
+v6r .pppppaap nucleus
+v6r .pppppap nucleus
+v6r .pppppp nucleus
+w .pa nucleus
+p2 .aaaa nucleus
+p3 .aaaa nucleus
+p4 .aaaa nucleus
+p5 .aaaa nucleus
+p6 .aaaa nucleus
+p7 .aaaa nucleus
+p8 .aaaa nucleus
+p9 .aaaa nucleus
+p10 .aaaa nucleus
+p11 .aaaa nucleus
+p12 .aaaa nucleus
+p1 .aaap nucleus
+w .aap nucleus
+p2 .aaap nucleus
+p3 .aaap nucleus
+p4 .aaap nucleus
+p5 .aaap nucleus
+p6 .aaap nucleus
+p7 .aaap nucleus
+p8 .aaap nucleus
+p9 .aaap nucleus
+p10 .aaap nucleus
+p4 .aap nucleus
+w .pp nucleus
+p1 .app nucleus
+p2 .app nucleus
+p3 .app nucleus
+p4 .app nucleus
+p5 .app nucleus
+p6 .app nucleus
+p7 .app nucleus
+p8 .app nucleus
+p9 .app nucleus
+p10 .app nucleus
+p11 .app nucleus
+p12 .app nucleus
+abprpappppp nucleus
+abprpappppa nucleus
+mspaapapp nucleus
+msaapappp nucleus
+mspapappp nucleus
+msaappaa nucleus
+msaaappp nucleus
+msaappap nucleus
+abprapaapa nucleus
+w .a nucleus
+w .aa nucleus
+w .aaa nucleus
+w .ap nucleus
+w .p nucleus
+abplaaapaa nucleus
+abarpappaa nucleus
+y .p nucleus
+y .pl nucleus
+y .pla nucleus
+y .plaa nucleus
+y .plap nucleus
+y .plp nucleus
+y .plpa nucleus
+y .plpp nucleus
+y .plppv nucleus
+y .pr nucleus
+y .pra nucleus
+y .praa nucleus
+y .prap nucleus
+y .prp nucleus
+y .prpa nucleus
+y .prpp nucleus
+y .prppd nucleus
+y .prppv nucleus
+mspppaap nucleus
+z1 .a nucleus hermaphrodite
+z1 .ap nucleus
+z1 .apa nucleus
+z1 .app nucleus
+z1 .appa nucleus
+z1 .appaa nucleus
+z1 .appaaa nucleus
+z1 .appaap nucleus
+z1 .appap nucleus
+z1 .appapa nucleus
+z1 .appapp nucleus
+z1 .appp nucleus
+z1 .apppa nucleus
+z1 .apppaa nucleus
+z1 .apppaaa nucleus
+z1 .apppaaaa nucleus
+z1 .apppaaap nucleus
+z1 .apppaap nucleus
+z1 .apppaapa nucleus
+z1 .apppaapp nucleus
+z1 .apppap nucleus
+z1 .apppapa nucleus
+z1 .apppapaa nucleus
+z1 .apppapap nucleus
+z1 .apppapp nucleus
+z1 .apppp nucleus
+z1 .appppa nucleus
+z1 .appppp nucleus
+z1 .p nucleus
+z1 .pa nucleus
+z1 .paa nucleus
+z1 .paaa nucleus hermaphrodite
+z1 .paaap nucleus
+z1 .paaapa nucleus
+z1 .paaapp nucleus
+z1 .paap nucleus hermaphrodite
+z1 .paapa nucleus hermaphrodite
+z1 .paapaa nucleus
+z1 .paapaaa nucleus
+z1 .paapaap nucleus
+z1 .paapap nucleus
+z1 .paapapa nucleus
+z1 .paapapp nucleus
+z1 .paapp nucleus hermaphrodite
+z1 .paappa nucleus
+z1 .paappaa nucleus
+z1 .paappaaa nucleus
+z1 .paappaaaa nucleus
+z1 .paappaaap nucleus
+z1 .paappaap nucleus
+z1 .paappaapa nucleus
+z1 .paappaapp nucleus
+z1 .paappap nucleus
+z1 .paappapa nucleus
+z1 .paappapaa nucleus
+z1 .paappapap nucleus
+z1 .paappapp nucleus
+z1 .paappp nucleus
+z1 .paapppa nucleus
+z1 .paapppp nucleus
+z1 .pap nucleus
+z1 .papa nucleus
+z1 .papaa nucleus
+z1 .papaaa nucleus
+z1 .papaaaa nucleus
+z1 .papaaad nucleus
+z1 .papaaap nucleus
+z1 .papaaav nucleus
+z1 .papaap nucleus
+z1 .papaapa nucleus
+z1 .papaapaa nucleus
+z1 .papaapap nucleus
+z1 .papaapd nucleus
+z1 .papaapv nucleus
+z1 .papap nucleus
+z1 .papapa nucleus
+z1 .papapaa nucleus
+z1 .papapaaa nucleus
+z1 .papapaap nucleus
+z1 .papapap nucleus
+z1 .papapapa nucleus
+z1 .papapapp nucleus
+z1 .papapp nucleus
+z1 .papappa nucleus
+z1 .papappaa nucleus
+z1 .papappap nucleus
+z1 .papappp nucleus
+z1 .papapppa nucleus
+z1 .papapppp nucleus
+z1 .papp nucleus
+z1 .pappa nucleus
+z1 .pappaa nucleus
+z1 .pappaaa nucleus
+z1 .pappaaaa nucleus
+z1 .pappaaap nucleus
+z1 .pappaap nucleus
+z1 .pappaapa nucleus
+z1 .pappaapp nucleus
+z1 .pappap nucleus
+z1 .pappapa nucleus
+z1 .pappapaa nucleus
+z1 .pappapap nucleus
+z1 .pappapp nucleus
+z1 .pappappa nucleus
+z1 .pappappp nucleus
+z1 .pappp nucleus
+z1 .papppa nucleus
+z1 .papppad nucleus
+z1 .papppav nucleus
+z1 .papppp nucleus
+z1 .pappppd nucleus
+z1 .pappppv nucleus
+z1 .pp nucleus
+z1 .ppa  ( 5l )  nucleus
+z1 .ppaa ( 5l )  nucleus
+z1 .ppaaa  ( 5l )  nucleus
+z1 .ppaaaa ( 5l )  nucleus
+z1 .ppaaaaa  ( 5l )  nucleus
+z1 .ppaaaap  ( 5l )  nucleus
+z1 .ppaaap ( 5l )  nucleus
+z1 .ppaaapa  ( 5l )  nucleus
+z1 .ppaaapp  ( 5l )  nucleus
+z1 .ppaap  ( 5l )  nucleus
+z1 .ppaapa ( 5l )  nucleus
+z1 .ppaapaa  ( 5l )  nucleus
+z1 .ppaapap  ( 5l )  nucleus
+z1 .ppaapp ( 5l )  nucleus
+z1 .ppaappa  ( 5l )  nucleus
+z1 .ppaappp  ( 5l )  nucleus
+z1 .ppap ( 5l )  nucleus
+z1 .ppapa  ( 5l )  nucleus
+z1 .ppapaa ( 5l )  nucleus
+z1 .ppapaaa  ( 5l )  nucleus
+z1 .ppapaap  ( 5l )  nucleus
+z1 .ppapap ( 5l )  nucleus
+z1 .ppapapa  ( 5l )  nucleus
+z1 .ppapapp  ( 5l )  nucleus
+z1 .ppapp  ( 5l )  nucleus
+z1 .ppappd  ( 5l )  nucleus
+z1 .ppappv  ( 5l )  nucleus
+z1 .ppp  ( 5l )  nucleus
+z1 .pppa ( 5l )  nucleus
+z1 .pppaa  ( 5l )  nucleus
+z1 .pppaad  ( 5l )  nucleus
+z1 .pppaav  ( 5l )  nucleus
+z1 .pppap  ( 5l )  nucleus
+z1 .pppapd  ( 5l )  nucleus
+z1 .pppapv  ( 5l )  nucleus
+z1 .pppp ( 5l )  nucleus
+z1 .ppppa ( 5l )  nucleus
+z1 .ppppad  ( 5l )  nucleus
+z1 .ppppav  ( 5l )  nucleus
+z1 .ppppp  ( 5l )  nucleus
+z1 .pppppa  ( 5l )  nucleus
+z1 .pppppaa  ( 5l )  nucleus
+z1 .pppppap  ( 5l )  nucleus
+z1 .pppppp ( 5l )  nucleus
+z1 .ppppppa  ( 5l )  nucleus
+z1 .ppppppp  ( 5l )  nucleus
+psub4 .p nucleus
+psub4 .a nucleus
+msappaap nucleus
+z4 .a nucleus
+z4 .aa nucleus
+z4 .aaa  ( 5r )  nucleus
+z4 .aaaa ( 5r )  nucleus
+z4 .aaaaa  ( 5r )  nucleus
+z4 .aaaaaa ( 5r )  nucleus
+z4 .aaaaaaa  ( 5r )  nucleus
+z4 .aaaaaap  ( 5r )  nucleus
+z4 .aaaaap ( 5r )  nucleus
+z4 .aaaaapa  ( 5r )  nucleus
+z4 .aaaaapp  ( 5r )  nucleus
+z4 .aaaap  ( 5r )  nucleus
+z4 .aaaapd  ( 5r )  nucleus
+z4 .aaaapv  ( 5r )  nucleus
+z4 .aaap ( 5r )  nucleus
+z4 .aaapa  ( 5r )  nucleus
+z4 .aaapad  ( 5r )  nucleus
+z4 .aaapav  ( 5r )  nucleus
+z4 .aaapp  ( 5r )  nucleus
+z4 .aaappd  ( 5r )  nucleus
+z4 .aaappv  ( 5r )  nucleus
+z4 .aap  ( 5r )  nucleus
+z4 .aapa ( 5r )  nucleus
+z4 .aapaa  ( 5r )  nucleus
+z4 .aapaad  ( 5r )  nucleus
+z4 .aapaav  ( 5r )  nucleus
+z4 .aapap  ( 5r )  nucleus
+z4 .aapapa ( 5r )  nucleus
+z4 .aapapaa  ( 5r )  nucleus
+z4 .aapapap  ( 5r )  nucleus
+z4 .aapapp ( 5r )  nucleus
+z4 .aapappa  ( 5r )  nucleus
+z4 .aapappp  ( 5r )  nucleus
+z4 .aapp ( 5r )  nucleus
+z4 .aappa  ( 5r )  nucleus
+z4 .aappaa ( 5r )  nucleus
+z4 .aappaaa  ( 5r )  nucleus
+z4 .aappaap  ( 5r )  nucleus
+z4 .aappap ( 5r )  nucleus
+z4 .aappapa  ( 5r )  nucleus
+z4 .aappapp  ( 5r )  nucleus
+z4 .aappp  ( 5r )  nucleus
+z4 .aapppa ( 5r )  nucleus
+z4 .aapppaa  ( 5r )  nucleus
+z4 .aapppap  ( 5r )  nucleus
+z4 .aapppp ( 5r )  nucleus
+z4 .aappppa  ( 5r )  nucleus
+z4 .aappppp  ( 5r )  nucleus
+z4 .ap nucleus
+z4 .apa nucleus
+z4 .apaa nucleus
+z4 .apaaa nucleus
+z4 .apaaaa nucleus
+z4 .apaaaad nucleus
+z4 .apaaaav nucleus
+z4 .apaaap nucleus
+z4 .apaaapd nucleus
+z4 .apaaapv nucleus
+z4 .apaap nucleus
+z4 .apaapa nucleus
+z4 .apaapaa nucleus
+z4 .apaapaaa nucleus
+z4 .apaapaap nucleus
+z4 .apaapap nucleus
+z4 .apaapapa nucleus
+z4 .apaapapp nucleus
+z4 .apaapp nucleus
+z4 .apaappa nucleus
+z4 .apaappaa nucleus
+z4 .apaappap nucleus
+z4 .apaappp nucleus
+z4 .apaapppa nucleus
+z4 .apaapppp nucleus
+z4 .apap nucleus
+z4 .apapa nucleus
+z4 .apapaa nucleus
+z4 .apapaaa nucleus
+z4 .apapaaaa nucleus
+z4 .apapaaap nucleus
+z4 .apapaap nucleus
+z4 .apapaapa nucleus
+z4 .apapaapp nucleus
+z4 .apapap nucleus
+z4 .apapapa nucleus
+z4 .apapapaa nucleus
+z4 .apapapap nucleus
+z4 .apapapp nucleus
+z4 .apapappa nucleus
+z4 .apapappp nucleus
+z4 .apapp nucleus
+z4 .apappa nucleus
+z4 .apappad nucleus
+z4 .apappav nucleus
+z4 .apappp nucleus
+z4 .apapppd nucleus
+z4 .apapppv nucleus
+z4 .app nucleus
+z4 .appa nucleus
+z4 .appaa nucleus
+z4 .appaaa nucleus
+z4 .appaaaa nucleus
+z4 .appaaap nucleus
+z4 .appaap nucleus
+z4 .appaapa nucleus
+z4 .appaapaa nucleus
+z4 .appaapap nucleus
+z4 .appaapapa nucleus
+z4 .appaapapp nucleus
+z4 .appaapp nucleus
+z4 .appaappa nucleus
+z4 .appaappaa nucleus
+z4 .appaappap nucleus
+z4 .appaappp nucleus
+z4 .appaapppa nucleus
+z4 .appaapppp nucleus
+z4 .appap nucleus
+z4 .appapa nucleus
+z4 .appapaa nucleus
+z4 .appapap nucleus
+z4 .appapp nucleus
+z4 .appappa nucleus
+z4 .appappp nucleus
+z4 .appp nucleus
+obsolete z4 .apppa nucleus
+obsolete z4 .apppaa nucleus
+obsolete z4 .apppaap nucleus
+z4 .p nucleus hermaphrodite
+z4 .pa nucleus
+z4 .paa nucleus
+z4 .paaa nucleus
+z4 .paaaa nucleus
+z4 .paaaaa nucleus
+z4 .paaaap nucleus
+z4 .paaap nucleus
+z4 .paaapa nucleus
+z4 .paaapaa nucleus
+z4 .paaapap nucleus
+z4 .paaapapa nucleus
+z4 .paaapapp nucleus
+z4 .paaapp nucleus
+z4 .paaappa nucleus
+z4 .paaappaa nucleus
+z4 .paaappap nucleus
+z4 .paaappp nucleus
+z4 .paaapppa nucleus
+z4 .paaapppp nucleus
+z4 .paap nucleus
+z4 .paapa nucleus
+z4 .paapaa nucleus
+z4 .paapap nucleus
+z4 .paapp nucleus
+z4 .paappa nucleus
+z4 .paappp nucleus
+z4 .pap nucleus
+y nucleus
+y .a nucleus
+b nucleus
+pm4l - pm4vl
+pm3r - pm3vr
+pm3dl - pm3dr
+pm3l - pm3vl
+pm2dl - pm2dr
+pm2r - pm2vr
+m2 neuron
+pm2l - pmvl
+mc neuron
+i2 neuron
+i1 neuron
+mi neuron
+nsm
+pharyngeal interneuron
+gland cell
+epithelial cell
+marginal cell
+muscle cell
+neuron
+pharynx
+e1d
+msaaaaapap nucleus
+g1al nucleus
+mc3
+mc2
+mc1
+g2
+metacorpus
+g1
+procorpus
+e3
+e2
+e1
+pm7
+pm6
+terminal bulb
+corpus
+isthmus
+pm5r - pm5vr
+pm5dl - pm5dr
+pm5
+pm5l - pm5vl
+pm4
+pm3
+pm4r - pm4vr
+pm2
+pm4dl - pm4dr
+pm1
+m3 neuron
+organ
+z4 .aappppa  ( 5r )
+z4 .aapppaa  ( 5l )
+z4 .aappapp  ( 5r )
+z4 .aappapa  ( 5l )
+z4 .aappaap  ( 5l )
+z4 .aappaaa  ( 5r )
+z4 .aapapv  ( 5l )
+z4 .aapapd  ( 5l )
+z4 .aapaav  ( 5l )
+z4 .aapaad  ( 5l )
+z1 .ppppppp  ( 5l )
+z1 .ppppppa  ( 5l )
+z1 .pppppap  ( 5l )
+z1 .ppppav  ( 5l )
+z1 .ppppad  ( 5l )
+z1 .pppapv  ( 5l )
+z1 .pppapd  ( 5l )
+z1 .pppaav  ( 5l )
+z1 .pppaad  ( 5l )
+caudal longitudinal muscle right
+posterior inner longitudinal muscle right
+anterior inner longitudinal muscle right
+posterior outer longitudinal muscle right
+anterior outer longitudinal muscle right
+caudal longitudinal muscle left
+posterior inner longitudinal muscle left
+anterior inner longitudinal muscle left
+posterior outer longitudinal muscle left
+anterior outer longitudinal muscle left
+gubernacular retractor muscle right
+gubernacular retractor muscle left
+gubernacular erector right
+gubernacular erector left
+ca7
+ca6
+ca5
+ca4
+ca3
+ca2
+ca1
+c
+bdur
+bdul
+mu_int_r
+bagr
+bagl
+b cell
+awcr
+awcl
+awbr
+awbl
+awar
+awal
+avm
+mu_int_l
+avl
+avkr
+avkl
+avjr
+avjl
+avhr
+avhl
+avg
+avf
+aver
+avel
+avdr
+avdl
+avbr
+avbl
+avar
+aval
+auar
+aual
+askr
+askl
+asjr
+asjl
+asir
+asil
+ashr
+ashl
+asgr
+asgl
+aser
+asel
+as11
+as10
+as9
+as8
+as7
+as6
+as5
+as4
+as3
+as2
+as1
+riml
+aqr
+rih
+amsor
+rigr
+amsol
+rigl
+amshr
+rifr
+amshl
+rifl
+alnr
+rid
+alnl
+ricr
+ricl
+ribr
+almr
+alml
+ala
+ribl
+aizr
+riar
+aizl
+rial
+aiyr
+r9str
+aiyl
+r9stl
+ainr
+r9br
+ainl
+r9bl
+aimr
+r9ar
+r9al
+r8str
+aiml
+aibr
+aibl
+r8stl
+aiar
+r8br
+aial
+r8bl
+afdr
+r8ar
+afdl
+r8al
+adlr
+r7str
+adll
+r7stl
+adfr
+r7br
+r7bl
+r7ar
+adfl
+adeshr
+adeshl
+r7al
+ader
+r6str
+adel
+r6stl
+adar
+r6br
+adal
+r6bl
+ab
+r6ar
+cell
+r6al
+r5str
+r5stl
+r5br
+r5bl
+r5ar
+r5al
+r4str
+r4stl
+r4br
+r4bl
+r4ar
+r4al
+r3str
+r3stl
+r3br
+r3bl
+r3ar
+r3al
+r2str
+r2stl
+r2br
+r2bl
+r2ar
+r2al
+r1str
+r1stl
+z1 .ppappd  ( 5l )
+r1br
+z1 .ppapapp  ( 5l )
+r1bl
+z1 .ppapapa  ( 5l )
+r1ar
+z1 .ppapaap  ( 5l )
+r1al
+z1 .ppapaaa  ( 5l )
+qr
+ql
+z1 .ppaappa  ( 5l )
+pvz
+z1 .ppaapap  ( 5r )
+z1 .ppaapaa  ( 5l )
+z1 .ppaaapp  ( 5l )
+pvy
+pvx
+pvwr
+z1 .ppaaaap  ( 5l )
+pvwl
+z4 .apapappa
+pvv
+z4 .apapapap
+pvt
+z4 .apapapaa
+pvr
+z4 .apapaapp
+pvqr
+z4 .apapaapa
+pvql
+z4 .apapaaap
+pvpr
+z4 .apapaaaa
+z4 .apaapppp
+z4 .apaapppa
+pvpl
+pvnr
+pvnl
+z4 .apaappap
+pvm
+z4 .apaappaa
+pvdr
+z4 .apaapapp
+pvdl
+z4 .apaapapa
+pvcr
+z4 .apaapaap
+pvcl
+z1 .pappappa
+pqr
+z1 .pappapap
+plnr
+z1 .pappapaa
+z1 .pappaapp
+z1 .pappaapa
+plnl
+plmr
+plml
+z1 .pappaaap
+phso2r
+z1 .pappaaaa
+phso2l
+z1 .papapppp
+phso1r
+z1 .papapppa
+phso1l
+z1 .papappap
+phshr
+z1 .papappaa
+phshl
+z1 .papapapp
+phcr
+z1 .papapapa
+z1 .papapaap
+z4 .aappppp  ( 5r )
+z4 .aapppap  ( 5r )
+z4 .apappad
+z4 .apapappp
+z1 .papppad
+z1 .pappappp
+z4 .apaapaaa
+z4 .apaaapd
+z1 .ppaaapa  ( 5l )
+z1 .ppaaaaa  ( 5r )
+z1 .papapaaa
+z1 .papaapd
+z1 .pappppv
+z1 .pappppd
+z1 .papppav
+z4 .apapppv
+z4 .apapppd
+z4 .apappav
+z4 .appaapppp
+z4 .appaapppa
+z4 .appaappap
+z4 .appaappaa
+z4 .appaapapp
+z4 .appaapapa
+p8 .pp
+z4 .appaapaa
+p8 .pa
+z4 .appaaap hermaphrodite
+p4 .pp
+z4 .appaaaa hermaphrodite
+p4 .pa
+z4 .paaapppp
+p3 .pp
+z4 .paaapppa
+p3 .pa
+z4 .paaappap
+z4 .paaappaa
+z4 .paaapapp
+z4 .paaapapa
+z4 .paaapaa
+z4 .paaaap
+tr .apapa
+z4 .paaaaa
+tr .apaa
+z4 .apaaapv
+z1 .papaapv
+z1 .papaaav
+tl .apapa
+tl .aa male
+z1 .papaaad
+z1 .paapppp
+z1 .paapppa
+z1 .paappapp
+v6r .pppaa
+z1 .paappapap
+v6r .ppa
+z1 .paappapaa
+z1 .paappaapp
+v6r .papaa
+z1 .paappaapa
+z1 .paappaaap
+z1 .paappaaaa
+v6l .pppaa
+z1 .appppp
+z1 .appppa
+z1 .apppapp
+z1 .apppapap
+v6l .papaa
+z1 .apppapaa
+z1 .apppaapp
+z1 .apppaapa
+z1 .apppaaap
+v5r .pppapa
+z1 .apppaaaa
+v5r .pppaa
+z4 .appappp hermaphrodite
+v5l .pppapa
+v5l .pppaa
+tl .apap hermaphrodite
+tl .apaa
+tl .aa hermaphrodite
+v6r .ppppa hermaphrodite
+v6r .pppa hermaphrodite
+v6r .pappa
+v6r .papa hermaphrodite
+v6r .paa
+v6r .a
+v6l .ppppa hermaphrodite
+v6l .pppa hermaphrodite
+v6l .ppa
+v6l .pappa
+v6l .papa hermaphrodite
+v6l .paa
+v6l .a
+v5r .ppppa
+v5r .pppa hermaphrodite
+v5r .ppa
+v5r .a
+v5l .ppppa
+v5l .pppa hermaphrodite
+v5l .ppa
+v5l .a
+v4r .ppppa
+v4r .pppa
+v4r .ppa
+v4r .pappa
+v4r .papa
+v4r .paa
+v4r .a
+v4l .ppppa
+v4l .pppa
+v4l .ppa
+v4l .pappa
+v4l .papa
+v4l .paa
+v4l .a
+v3r .ppppa
+v3r .pppa
+v3r .ppa
+v3r .pappa
+v3r .papa
+v3r .paa
+v3r .a
+v3l .ppppa
+v3l .pppa
+v3l .ppa
+v3l .pappa
+v3l .papa
+v3l .paa
+v3l .a
+v2r .ppppa
+v2r .pppa
+v2r .ppa
+anal depressor muscle
+mc3v
+mc3dr
+mc3dl
+mc2v
+mc2dr
+mc2dl
+mc1v
+mc1dr
+mc1dl
+pm8
+pm7vr
+pm7vl
+pm7d
+pm6vr
+pm6vl
+pm6d
+pm5vr
+pm5vl
+pm5r
+pm5l
+pm5dr
+pm5dl
+pm4vr
+pm4vl
+pm4r
+pm4l
+pm4dr
+pm4dl
+pm3vr
+pm3vl
+pm3r
+pm3l
+pm3dr
+pm3dl
+pm2vr
+pm2vl
+pm2r
+pm2l
+pm2dr
+pm2dl
+pm1vr
+pm1vl
+pm1r
+pm1l
+pm1dr
+pm1dl
+linker_killer
+in .p nucleus
+in .a nucleus
+int9r embryonic
+int8r embryonic
+int7r embryonic
+int6r embryonic
+int4d embryonic
+int9l embryonic
+int8l embryonic
+int7l embryonic
+int6l embryonic
+int4v embryonic
+int5r embryonic
+int2d
+int3d embryonic
+int1vr
+int1dr
+int5l embryonic
+int2v
+int3v embryonic
+int1vl
+int1dl
+phcl
+phbl
+phar
+phal
+pga
+pdesor
+pdesol
+pdeshr
+pdeshl
+p11 .ppp
+p11 .ppap
+p11 .ppaa
+p10 .papp
+hyp12
+hyp11
+hyp10
+hyp9
+hyp8
+pder
+pdel
+pdc
+pdb
+pda
+pcsor
+pcsol
+pcshr
+pcshl
+pchr
+p11 .p hermaphrodite
+p10 .p hermaphrodite
+pchl
+pccr
+pccl
+pcbr
+pcbl
+pcar
+pcal
+p12
+p11
+p9 / 10r
+p9 / 10l
+p7 / 8r
+p7 / 8l
+p5 / 6r
+p5 / 6l
+p3 / 4r
+p3 / 4l
+p1 / 2r
+p1 / 2l
+psub4
+p0
+olqsovr
+olqsovl
+olqsodr
+olqsodl
+olqshvr
+olqshvl
+olqshdr
+olqshdl
+olqvr
+p7 .pppp
+p7 .pppa
+vulb1 posterior
+vulb2 posterior
+p7 .papr
+olqvl
+olqdr
+olqdl
+ollsor
+ollsol
+ollshr
+ollshl
+ollr
+olll
+nsmr
+p7 .papl
+p7 .paa
+p6 .pppr
+p6 .pppl
+p6 .ppar
+p6 .ppal
+p6 .papr
+p6 .papl
+p6 .paar
+p6 .paal
+nsml
+ms
+z4 .appappa hermaprodite
+mcr
+z4 .appapap hermaphrodite
+mcl
+z4 .appapaa hermaphrodite
+m5 neuron
+z4 .paappp hermaphrodite
+m4 neuron
+z4 .paappa hermaphrodite
+m3r
+z4 .paapap hermaphrodite
+m3l
+z4 .paapaa hermaphrodite .
+m2r
+z1 .paapapp hermaphrodite
+z1 .paapapa hermaphrodite
+z1 .paapaap hermaphrodite
+p5 .ppp
+p5 .ppar
+p5 .ppal
+vulb2 anterior
+vulb1 anterior
+p5 .paap
+p5 .paaa
+vpi3v
+vpi3d
+vpi2v
+m2l
+m1 neuron
+m cell
+z1 .paapaaa hermaphrodite
+luar
+z1 .appapp hermaphrodite
+lual
+z1 .appapa hermaphrodite
+k .a
+z1 .appaap hermaphrodite
+k' cell
+z1 .appaaa hermaphrodite
+k cell
+z4 .appp hermaphrodite
+ilsovr
+z4 .pap hermaphrodite
+ilsovl
+z1 .paaa hermaphrodite
+z1 .apa hermaphrodite
+posterior distal tip cell
+vpi2dr
+vpi2dl
+vpi1
+virr
+virl
+spike precursor right
+spike precursor left
+ilsor
+ilsol
+ilsodr
+anterior distal tip cell
+ilsodl
+anchor cell
+ilshvr
+g2r
+ilshvl
+g2l
+ilshr
+g1p
+ilshl
+g1ar
+ilshdr
+g1al
+ilshdl
+excretory socket cell
+exc_gl_r nucleus
+exc_gl_l nucleus
+il2vr
+il2vl
+il2r
+excretory duct cell
+il2l
+il2dr
+e3vr
+il2dl
+e3vl
+il1vr
+e3d
+il1vl
+e2v
+il1r
+e2dr
+il1l
+e2dl
+e1vr
+e1vl
+ccpr
+ccpl
+ccar
+ccal
+ccd
+ccdr
+ccdl
+arc post d
+arc post vr
+arc post v
+arc post vl
+arc post dr
+arc post dl
+arc ant dr
+arc ant dl
+arc ant v
+z4
+z3
+z2
+z1
+y cell
+xxxr
+v2r .pappa
+xxxl
+v2r .papa
+w cell
+v2r .paa
+vd13
+v2r .a
+vd12
+v2l .ppppa
+vd11
+v2l .pppa
+vd10
+v2l .ppa
+vd9
+v2l .pappa
+v2l .papa
+v2l .paa
+vd8
+vd7
+vd6
+v2l .a
+vd5
+v1r .ppppa
+vd4
+v1r .pppa
+vd3
+v1r .ppa
+vd2
+v1r .pappa
+vd1
+v1r .papa
+vc6
+v1r .paa
+vc5
+v1r .a
+v1l .ppppa
+v1l .pppa
+vc4
+vc3
+vc2
+v1l .ppa
+vc1
+v1l .pappa
+vb11
+v1l .papa
+vb10
+v1l .paa
+vb9
+v1l .a
+vb8
+h2r .pppa
+vb7
+h2r .ppa
+vb6
+h2r .pa
+h2r .ap
+h2l .pppa
+vb5
+vb4
+vb3
+h2l .ppa
+vb2
+h2l .pa
+vb1
+h2l .ap
+va12
+h1r .p
+va11
+h1r .appa
+va10
+h1r .apa
+va9
+h1l .p
+va8
+h1l .appa
+h1l .apa
+abplappppa
+hyp6
+hyp5
+hyp4
+hyp3
+hyp2
+hyp1
+head mesodermal cell
+z1 .paapa male
+z1 .paaapp
+z1 .paaapa
+z1 .paaaappp
+z1 .paaaappap
+z1 .paaaappaa
+z1 .paaaapap
+z1 .paaaapaa
+z1 .paaaaap
+z1 .paaaaaa
+z4 .aappa male
+z4 .aapapp male
+z4 .aapapa male
+z4 .aapaappp male
+z4 .aapaappap male
+z4 .aapaappaa male
+z4 .aapaapap male
+z4 .aapaapaa male
+z4 .aapaaap male
+v5r .pppapp
+v5l .pppapp
+tr .appa hermaphrodite
+tl .appa hermaphrodite
+v6r .ppppp hermaphrodite
+v6r .pappp hermaphrodite
+v6l .ppppp hermaphrodite
+v6l .pappp hermaprhrodite
+v5r .ppppp hermaphrodite
+v5l .ppppp hermaphrodite
+v4r .ppppp
+v4r .pappp
+v4l .ppppp
+il1dr
+il1dl
+i6 neuron
+i5 neuron
+i4 neuron
+i3 neuron
+i2r
+i2l
+i1r
+i1l
+v4l .pappp
+v3r .ppppp
+v3r .pappp
+v3l .ppppp
+v3l .pappp
+v2r .ppppp
+v2r .pappp
+v2l .ppppp
+v2l .pappp
+v1r .ppppp
+hsnr
+hsnl
+hoso
+hosh
+hob
+hoa
+h2r
+h2l
+h1r
+h1l
+v1r .pappp
+v1l .ppppp
+v1l .pappp
+h2r .pppp
+h2l .pppp
+h1r .appp
+h1r .aa
+h1l .appp
+h1l .aa
+rect_vr
+h0r
+h0l
+glrvr
+glrvl
+glrr
+glrl
+glrdr
+glrdl
+rect_vl
+rect_d
+r9_hyp
+r8_hyp
+r7_hyp
+r6_hyp
+r5_hyp
+r4_hyp
+r3_hyp
+r2_hyp
+flpr
+flpl
+f cell
+u .rap
+u .lap
+f .rvdp
+f .lvdp
+e
+u .raa
+u .laa
+r1_hyp
+f .rvv
+f .lvv
+b .pppa
+b .pap
+b .paa
+b .arappv
+b .arapapp
+b .arapapa
+b .arapaad
+f .rvda
+f .lvda
+dvf
+dve
+dvc
+dvb
+dva
+dd6
+dd5
+dd4
+b_delta .r
+b_delta .l
+b_gamma .arv
+b_gamma .ald
+b_gamma .alv
+b .alappv
+b .alapapp
+b .alapapa
+b .alapaad
+b_alpha .rv
+dd3
+dd2
+dd1
+db7
+db6
+db5
+db4
+db3
+db2
+db1
+b_alpha .lv
+m .vrpaapap
+m .vrpaapaa
+m .vrpaaapp
+m .vrpaaapa
+m .vlpaapap
+m .vlpaapaa
+m .vlpaaapp
+m .vlpaaapa
+m .vrpaappp
+da9
+da8
+da7
+va7
+da6
+va6
+da5
+va5
+da4
+va4
+da3
+va3
+da2
+va2
+da1
+va1
+d
+v6r
+v6l
+v5r
+m .vrpaappa
+m .vrpaaaap
+m .vrpaaaaa
+m .vlpaappp
+m .vlpaappa
+m .vlpaaaap
+m .vlpaaaaa
+dorsal spicule protractor right
+dorsal spicule protractor left
+cp9
+cp8
+cp7
+v5l
+cp6
+v4r
+cp5
+v4l
+cp4
+v3r
+cp3
+v3l
+cp2
+v2r
+cp1
+v2l
+cp0
+v1r
+v1l
+uryvr
+dorsal spicule retractor muscle right
+ventral spicule retractor muscle right
+ventral spicule protrctor muscle right
+dorsal spicule retractor muscle left
+ventral spicule retractor muscle left
+ventral spicule protractor muscle left
+posterior oblique muscle right
+anterior oblique muscle right
+posterior oblique muscle left
+anterior oblique muscle left
+cepsovr
+cepsovl
+cepsodr
+uryvl
+cepsodl
+urydr
+cepshvr
+urydl
+cepshvl
+urxr
+cepshdr
+urxl
+cepshdl
+urbr
+cepvr
+urbl
+cepvl
+uravr
+uravl
+uradr
+cepdr
+cepdl
+cemvr
+uradl
+cemvl
+u cell
+cemdr
+tr
+cemdl
+tl
+canr
+spso4r
+canl
+spso4l
+obsolete ca9
+spso3r
+obsolete ca8
+spso3l
+spso2r
+spso2l
+spso1r
+spso1l
+spshvr
+spshvl
+spshdr
+spshdl
+spvr
+spvl
+spdr
+spdl
+spcr
+spcl
+smdvr
+smdvl
+smddr
+smddl
+smbvr
+smbvl
+smbdr
+smbdl
+sibvr
+sibvl
+sibdr
+z4 .aapaaaa male
+sibdl
+z4 .aaapa male
+siavr
+z4 .aaaapp male
+siavl
+z4 .aaaapa male
+siadr
+z4 .aaaaappp male
+siadl
+z4 .aaaaappap male
+sdqr
+z4 .aaaaappaa male
+sdql
+z4 .aaaaapap male
+z4 .aaaaapaa male
+z4 .aaaaaap male
+sabvr
+sabvl
+sabd
+z4 .aaaaaaa male
+saavr
+z1 .pappa male
+saavl
+z1 .papapp male
+saadr
+z1 .papapa male
+saadl
+z1 .papaappp
+rmhr
+z1 .papaappap
+rmhl
+z1 .papaappaa
+rmgr
+z1 .papaapap
+z1 .papaapaa
+z1 .papaaap
+rmgl
+rmfr
+rmfl
+z1 .papaaaa
+rmev
+z1 .paapp male
+rmer
+z4 .appp male
+rmel
+z4 .appap male
+rmed
+z4 .appaap male
+rmdvr
+z4 .appaaap male
+rmdvl
+z4 .appaaaa male
+rmdr
+z4 .apap male
+z4 .apaap male
+z4 .apaaap male
+rmdl
+rmddr
+rmddl
+z4 .apaaaap male
+rivr
+z4 .apaaaaa male
+rivl
+z4 .aappp male
+ris
+z4 .aaapp male
+rir
+z1 .pappp male
+ripr
+z1 .pppp male
+ripl
+z1 .pppap male
+rimr
+z1 .pppaap male
+z1 .pppaaap male
+z1 .pppaaaa male
+z1 .ppap male
+z1 .ppaaap male
+z1 .ppaaaap male
+z1 .ppaaaaa male
+linker cell
+gon_male_dtc posterior
+gon_male_dtc anterior
+z4 .aapppap  ( 5l )
+z4 .aapppaa  ( 5r )
+z4 .aappppp  ( 5l )
+z4 .aappppa  ( 5l )
+obsolete gon_herm_vut
+z4 .aappaaa  ( 5l )
+z4 .aapappp  ( 5r )
+z4 .aapappa  ( 5r )
+z4 .aapapap  ( 5r )
+z4 .aapapaa  ( 5r )
+z4 .aapaav  ( 5r )
+z4 .aapaad  ( 5r )
+z4 .aaappd  ( 5r )
+z4 .aaappv  ( 5r )
+z4 .aaapav  ( 5r )
+z4 .aaapad  ( 5r )
+z4 .aaaapv  ( 5r )
+z4 .aaaapd  ( 5r )
+z4 .aaaaapp  ( 5r )
+z4 .aaaaapa  ( 5r )
+z4 .aaaaaap  ( 5r )
+z4 .aaaaaaa  ( 5r )
+z1 .ppappv  ( 5l )
+z1 .ppappd  ( 5r )
+z1 .ppapav  ( 5r )
+z1 .ppapad  ( 5r )
+z1 .ppaappp  ( 5l )
+z1 .ppaapap  ( 5l )
+z1 .ppaapaa  ( 5r )
+z1 .ppaaapp  ( 5r )
+z1 .ppaaaap  ( 5r )
+lumbar left ganglion neuron
+lumbar ganglion left
+lateral ganglion right neuron
+lateral ganglion right
+lateral ganglion left neuron
+lateral ganglion left
+lateral ganglion
+labial sensillum
+inner labial sensillum
+inner labial neuron
+il2 neuron
+il1 neuron
+head ganglion
+ventral uterine precursor cell
+dorsal uterine precursor cell
+gonad
+glr
+ho neuron
+hermaphrodite gonad
+ganglion
+gabaergic neuron
+e lineage cell
+dorso - rectal ganglion
+dorsal ganglion
+obsolete cell_group
+ura
+touch receptor neuron
+cep
+cem
+buccal cavity
+obsolete vpc
+ventral ganglion  ( post )
+ventral ganglion  ( ant )
+dd neuron
+db neuron
+da neuron
+ventral ganglion
+ventral cord neuron
+vd neuron
+vc neuron
+spicule socket cell
+cp neuron
+spicule sheath cell
+spermatheca
+body ganglion
+as neuron
+vb neuron
+vas deferens
+va neuron
+uterine muscle
+ury
+cloacal ganglion
+smd
+smb
+sib
+sia
+anus
+anterior spermatheca
+obsolete anterior sheath cell
+obsolete anterior pharynx
+anterior ganglion  ( post )
+anterior ganglion  ( ant )
+anterior hypodermis
+anterior gonad arm
+anterior ganglion
+amphid sensillum
+amphid process
+amphid neuron
+sab
+saa
+rme
+rmd
+retrovesicular ganglion neuron
+alm
+motor neuron
+aiy
+ade
+phasmid sensillum
+phasmid right sensillum
+obsolete abpxppxx
+obsolete ab .p lineage
+phasmid left sensillum
+obsolete ab .a lineage
+pharyngeal neuron
+pharyngeal nervous system
+pharyngeal nerve
+preanal ganglion neuron
+preanal ganglion
+pharyngeal muscle cell
+pharyngeal epithelial cell
+posterior spermatheca
+posterior lateral right ganglion
+posterior lateral left ganglion
+posterior lateral ganglion
+posterior gonad arm
+postdeirid sensillum
+pc neuron
+postcloacal sensillum
+plm
+lumbar right ganglion neuron
+lumbar ganglion right
+adesol
+adesor
+obsolete obsolete
+z4 .apaaaav
+z4 .apaaaad
+retrovesicular ganglion
+avfl
+avfr
+phbr
+adf
+adl
+afd
+ase
+asg
+ash
+asi
+asj
+ask
+awa
+awb
+awc
+z1 .ppa  ( 5r )  nucleus
+z1 .ppp  ( 5r )  nucleus
+z1 .ppaa ( 5r )  nucleus
+z1 .ppaaa  ( 5r )  nucleus
+z1 .ppaaa [ a / l ]  ( 5r )  nucleus
+z1 .ppaaaaa  ( 5r )  nucleus
+z1 .ppaaaap  ( 5r )  nucleus
+z1 .ppaaa [ p / r ]  ( 5r )  nucleus
+z1 .ppaaapa  ( 5r )  nucleus
+z1 .ppaaapp  ( 5r )  nucleus
+z1 .ppaap  ( 5r )  nucleus
+z1 .ppaapa ( 5r )  nucleus
+z1 .ppaapp ( 5r )  nucleus
+z1 .ppaapaa  ( 5r )  nucleus
+z1 .ppaapap  ( 5r )  nucleus
+z1 .ppaappa  ( 5r )  nucleus
+z1 .ppaappp  ( 5r )  nucleus
+z1 .ppap ( 5r )  nucleus
+z1 .ppapa  ( 5r )  nucleus
+z1 .ppapad  ( 5r )  nucleus
+z1 .ppapav  ( 5r )  nucleus
+z1 .ppapp  ( 5r )  nucleus
+z1 .ppappd  ( 5r )  nucleus
+z1 .ppappv  ( 5r )  nucleus
+z1 .ppa nucleus
+z1 .ppp nucleus
+z1 .ppx or z4 .aax nucleus hermaphrodite
+z1 .ppx / z4 .aax  ( 5r )  nucleus
+z1 .ppx / z4 .aax  ( 5l )  nucleus
+z4 .aaa  ( 5l )  nucleus
+z4 .aap  ( 5l )  nucleus
+z4 .aapa ( 5l )  nucleus
+z4 .aapp ( 5l )  nucleus
+z4 .aapaa  ( 5l )  nucleus
+z4 .aapap  ( 5l )  nucleus
+z4 .aapaad  ( 5l )  nucleus
+z4 .aapaav  ( 5l )  nucleus
+z4 .aapapd  ( 5l )  nucleus
+z4 .aapapv  ( 5l )  nucleus
+z4 .aappa  ( 5l )  nucleus
+z4 .aappp  ( 5l )  nucleus
+z4 .aappaa ( 5l )  nucleus
+z4 .aappap ( 5l )  nucleus
+z4 .aappaaa  ( 5l )  nucleus
+z4 .aappaap  ( 5l )  nucleus
+z4 .aappapp  ( 5l )  nucleus
+z4 .aappapa  ( 5l )  nucleus
+z4 .aapppp ( 5l )  nucleus
+z4 .aapppa ( 5l )  nucleus
+z4 .aapppap  ( 5l )  nucleus
+z4 .aapppaa  ( 5l )  nucleus
+z4 .aappppp  ( 5l )  nucleus
+z4 .aappppa  ( 5l )  nucleus
+z4 .aap nucleus hermaphrodite
+z4 .aaa nucleus hermaphrodite
+ac nucleus
+tissue
+epithelial system
+extracellular component
+hypodermis
+hyp7 syncytium
+nervous system
+muscular system
+body region
+head
+midbody
+tail
+body wall
+digestive tract
+pseudocoelom
+organ system
+socket cell
+coelomocyte
+sex specific entity
+seam cell
+interfacial epithelial cell
+cuticle
+male - specific anatomical entity
+hermaphrodite - specific anatomical entity
+sensory neuron
+somatic nervous system
+accessory cell
+functional system
+time
+anatomy
+pharyngeal - intestinal valve
+axis
+anterior - posterior
+dorsal - ventral
+left - right
+intestine
+rectum
+cloaca
+excretory canal
+excretory gland cell
+excretory duct
+excretory pore
+germ line
+somatic gonad
+pharyngeal gland cell
+pharyngeal lumen
+intestinal cell
+arcade cell
+anterior arcade cell
+posterior arcade cell
+intestinal muscle
+rectal valve cell
+anal sphincter muscle
+rectal epithelium
+dorsal - rectal ganglion neuron
+rectal muscle
+cloacal sphincter muscle
+cloacal neuron
+neuronal sheath cell
+excretory cell
+body wall musculature
+diagonal muscle
+ventral left quadrant body wall muscle
+alimentary muscle
+vulval muscle
+anterior oblique muscle
+posterior oblique muscle
+gonadal sheath cell
+ventral nerve cord
+lumbar ganglion
+spicule neuron
+awc - on
+awc - off
+rib
+rim
+aiz
+chemosensory neuron
+thermosensory neuron
+odorsensory neuron
+pvc
+avb
+ava
+eggshell
+abarpaapa
+abplaaaaap
+abalppapa
+abprpappp
+msppapap
+abplapaap
+abalpaaap
+abprpppaap
+abprpapp
+abaraapa
+eplpp
+abarapppap
+abalapaappap
+msapaaa
+dpppaa
+abarppap
+abarapaaa
+abaraaap
+abpraapappp
+abalapappa
+cppapap
+abalp
+abplaapaa
+abarpapap
+abprpaaapp
+abplppappp
+dapp
+abarappapp
+abpraapapa
+msapppap
+daaap
+abprpaapaa
+abprppapaa
+abplpaaapp
+mspaap
+abplapa
+abprapp
+msapapaa
+abplpaapaa
+capppp
+capapaa
+abaraapppa
+cpaapa
+abplaapap
+abpraapaaa
+abprapapppa
+cpppppv
+abarappaapp
+msaaapp
+abplpaaaaa
+msaaaa
+abpraaapa
+abplaapp
+cpapp
+msapa
+caaaa
+abalaappppap
+ealaa
+msaapaa
+abarap
+abaraaaaaa
+abplaaa
+aba
+abalaap
+abplpapapa
+abprapppa
+abalapapap
+abplaaapap
+msp
+msppaap
+mspaaaap
+abprpa
+abalppaapa
+abpraaaaapv
+msaaaappa
+abplppppap
+abalaapapa
+caap
+abprap
+abalapppp
+abalpappa
+msppaaa
+cppaapa
+abplappaap
+msapaapa
+abprppapp
+abalpppapa
+abpraaapppp
+abarapapap
+mspaaa
+abalpaap
+abplapppaa
+abplapp
+abprapppaap
+abalppapp
+abarpaappa
+abprpaappa
+abprppaapaa
+abalpppapppp
+abprpppa
+abalppaa
+abalaaaarl
+abalapp
+abplpaappppp
+abplaappp
+abalpap
+abplpa
+mspppaaa
+abalppppppap
+abprappaap
+capaaaa
+abplpapaa
+cappap
+abarpaaaaa
+abplpppapp
+earaa
+abplpppppp
+abprapaaa
+cpapa
+abalappaapp
+cppaa
+msaapaaa
+abalaaaala
+abplapaaaaa
+mspapap
+abplaaaapa
+abplapppapp
+abaraaapap
+abprpapppa
+abarapaap
+abpraaapaav
+abalppappa
+cappaap
+abprapaaap
+abaraappa
+mspapppa
+ca
+abalapaapa
+abalaaap
+abprppppp
+abprppaa
+abalaapaaal
+mspapppap
+mspapaap
+abpraaaaaa
+dppap
+msppppaa
+caappd
+abarpapaaap
+msaapppp
+abp
+abalaaaalar
+msaapapap
+abprppaaaapa
+abplppaaa
+abaraapapp
+epl
+abarapapaa
+abalapaaaa
+abalappapp
+dapa
+abarappa
+abaraapap
+abpraa
+abarpa
+abpraaapppa
+abprpapaap
+cpppaaa
+abpraaaappa
+abprpap
+cppaapp
+abalapppap
+msppppp
+abplapapaa
+abpraaapapp
+abplpapppp
+abalppaap
+abprapapppp
+mspappppp
+abalpapaap
+cpppa
+abplpppaaa
+abalaapppa
+abprpaaaaa
+abplppap
+abalaaappr
+mspaaap
+abaraa
+mspaapaa
+abalaaaparl
+mspap
+abpraappa
+msapp
+abalaappa
+msaapppa
+abalaa
+capaapp
+abarpppaa
+msapppa
+capppa
+abprpppapa
+dpa
+abarpp
+abprpaapa
+abalppp
+dppppp
+abalppppap
+abalpappaa
+abalpppaap
+abarppaap
+dpap
+abprppppa
+abprapppp
+abalppppp
+abplppaap
+cpppp
+abarappapapa
+abplapaaapa
+abpraapap
+abprpppaaa
+abaraappp
+abalaappaa
+daaa
+abplappap
+abalpappaapp
+abplaapaaa
+abarpaappp
+abarapaaaa
+msapaap
+msppapp
+abarapppaa
+abarpapaapp
+caaaaa
+abplpaap
+msaaaaa
+abprppaapa
+dappa
+cppaap
+abalpa
+dappaa
+abarpappap
+msa
+abplpapa
+abprpappa
+abalpppp
+abalapapaa
+abplppapa
+abprppapa
+abplpaaapa
+abarappppp
+abplappa
+abplap
+abprppa
+capp
+abplpaaaa
+cpappd
+abalap
+msaaappa
+abarappaap
+eala
+abprpaapap
+dppa
+msapppp
+abpraapaa
+abplppppaa
+abal
+abaraaaapp
+abalppap
+cpppppd
+abpraaapaa
+abplpaapa
+capapa
+cp
+abalpapppap
+abarpaapaa
+abplaapapa
+abplaa
+mspaaaaap
+caapa
+msppaaaa
+msappp
+capaaa
+abaraapppp
+dpapa
+abalppaaa
+abalaapa
+abalpaaaapp
+abalapapp
+abalappppa
+abprapaaaaa
+abaraaaaa
+abplaaapp
+abalaapapp
+abprpppppaa
+abalapaa
+abplppappa
+abpraaaap
+mspa
+msaaaap
+abprapppap
+mspaaaa
+daaaa
+abarapapp
+cppapaa
+abprpaaapa
+mspappa
+cpaaaa
+abplpap
+abaraapp
+msppaapa
+abalaaaar
+abalpppapp
+abalappa
+abprppp
+abplaapapppp
+msaaap
+eara
+abara
+abprapaa
+abalappap
+abalpppaaa
+abalppppppa
+abprpaaa
+cppa
+msaapaap
+abplppaa
+abalpaappp
+abplaaaaapa
+msaappppa
+mspppap
+abplapaapp
+abpraaaaap
+abplpapap
+abarappaaap
+abprpppp
+abarppaapa
+abalpaapa
+cappaaa
+msaaapaa
+abprapaaaap
+cappp
+abarppppp
+cpppaap
+abalppapap
+abaraaapp
+abplaaaapp
+mspapaaa
+abarapp
+abarapaapa
+abpraaappp
+msaapppaa
+abalapaappa
+abplpppapap
+abalpaaaa
+dpp
+msaappa
+mspapp
+msaaaaapa
+abarapppppa
+mspaapp
+abplppaapa
+abalaapaap
+abarpapaaa
+abplapppapa
+abplapapppp
+dap
+abprpapap
+cpaaa
+capaaap
+abalpapapapa
+abpraaapapap
+abalaaa
+abalapaap
+msppppa
+abarapapaaa
+abprappap
+abplapaaaa
+abplpppaa
+abaraapaap
+abalaaaarra
+abplpapppa
+abprappppa
+abalapaaa
+abpraaa
+cap
+abarappapa
+cpapaa
+abplpappa
+dpaa
+abprapppaa
+msapappp
+msapaa
+abprpppap
+abalpapppp
+msapapa
+abarppapp
+mspaaapa
+abalappp
+abplaappap
+abpraapppa
+abaraapapaad
+abarpaaaap
+abpraaaappp
+abalaaapar
+msappap
+abarppa
+abarpppap
+abarpaaapa
+abprpaap
+abalppapppap
+mspp
+abprppppppp
+abalpapaaa
+dppp
+abprpapa
+mspappp
+mspppppa
+abalpaaapp
+cppppa
+abalaaapplr
+dppppa
+abalaapppap
+caaap
+cppp
+abprappa
+abpraappp
+abplppppppp
+abaraap
+abarpappa
+dapppa
+abalppppapp
+abarpaa
+eprpp
+abprpaaaa
+abplp
+abprpaappp
+cpa
+abprapapaa
+abprppaaaap
+abplaapaaaa
+abaraappap
+abalaappap
+abalpapap
+daa
+abprapapp
+abplpaaappap
+abprpaapapp
+abalppaappa
+abplpaapapp
+abalappppaap
+msaaapa
+dapppp
+capapp
+abarpapapp
+abarppppa
+cppaaap
+abpraapa
+abalppppaav
+abarpaaapp
+abarpappp
+msapaaap
+capap
+mspapapa
+abarapappa
+abplppapaa
+abaraaaap
+msaap
+abplpaaap
+abalapapa
+abplpaaa
+abalppppa
+abplapaaap
+msppappa
+caaaap
+dappap
+epra
+abaraapppaad
+msaapapa
+abplappapp
+abarapppa
+cppppp
+abalpappap
+abarapa
+dpppp
+abplaaaaaa
+abpraaaapppp
+abalppaaap
+capappp
+abarapap
+abpraapp
+abplpaapppp
+cappppv
+abalpaa
+abalapppapa
+caapap
+abpla
+msppaaap
+abplpppppa
+dapaa
+abarpapaapa
+abprppap
+abprpp
+abplaaaaa
+msaaaapa
+abprappaa
+mspapaa
+abplppppa
+abplpp
+mspapppaa
+abprpappaa
+abplppapp
+cpaaap
+caa
+abaraaapaa
+abaraaaa
+abprapppapa
+msappppa
+mspaaaaa
+abprppapap
+abalapapapap
+dpapp
+abprapa
+abalaaaalpa
+abarappapap
+ear
+abplappaa
+abalapappaap
+abpraapaap
+cpapap
+abarpaapap
+abpraaaapa
+abarapaapp
+cppappa
+abprapaapp
+abalappaa
+daapa
+abalaapaa
+msppap
+abalpppappa
+abarpapaa
+abalpapaa
+abplaapappp
+abprppappp
+abarpap
+abplpappp
+msaaaaaa
+abarapaaap
+abarppaapp
+abalpppaapv
+cpppap
+abalpppppp
+msaappppp
+abarpaaa
+cpaapp
+abalpppaa
+abalaapaapa
+abarapapaap
+abplpapaap
+abpraaapapa
+abalpaapaa
+cappapp
+abarapppppap
+abprppaap
+mspppp
+abplaap
+abar
+abalappapa
+abplapapp
+abplppaaaap
+mspapapp
+cpp
+abalaapappa
+mspapaapap
+cppappp
+abplpapp
+abplpaapp
+abpr
+abplpppa
+abplapap
+msaapp
+mspappap
+abalaaaa
+abplaaaaapp
+capppap
+abprpppppp
+abalpappaap
+abalpaappa
+abarpppapa
+abplapppap
+daapp
+abalpaaaaa
+abaraaappa
+msaaa
+abprppppap
+abarappaaa
+eal
+abpraaaa
+abplppaapaa
+capa
+abaraapaaa
+abprpapaa
+abaraaaapa
+mspppppp
+msppappp
+abprp
+cppppaa
+abplppaaaapa
+capaap
+abaraapapaa
+abalpapapp
+abplapappppa
+msppa
+abalpappp
+abprappapp
+abalaapppp
+abalppppapap
+abalppapppa
+abprpaaappap
+abarppaa
+abplaappaa
+abalaaappl
+mspaaapp
+msappapp
+abplappp
+abalpaaapap
+abplapaaa
+abalaaapal
+mspaapap
+msapap
+abalapppa
+abplaapppp
+abplaaap
+mspppa
+abarapappp
+dpaaa
+dpppa
+abpraaappa
+abprpppapp
+msaaapap
+abalpp
+abprpapapa
+abplpppapa
+abalappaaa
+abprpaaap
+cppapa
+msapapp
+abalapaaap
+msaapaapa
+msapappa
+eplp
+mspppapa
+msaapppap
+abarpaaap
+abalaaaarr
+abarppp
+caaapa
+abplpppaapa
+abalapaapp
+abprppaaaa
+abalppaaaa
+eprp
+abprpaapppp
+msappaa
+abprapapa
+cppaaaa
+da
+abalappppp
+abarpapp
+abarapaa
+cpaa
+abarpaap
+abplaapaap
+abplaappa
+dappp
+caaapp
+abalappppaa
+msapppaa
+abarappp
+daap
+abalppppaa
+abpraappap
+abplpaaaap
+abarppapa
+abpraapapp
+msppaa
+abarpppp
+msaapap
+abpraaap
+dapap
+msaapa
+cappppd
+capappa
+msppapaa
+msapaaaa
+abplaaaaaap
+abalapappaa
+abalppapaa
+abpraapaaaa
+abarpapapa
+ealp
+epr
+abpraap
+abprpppaapa
+abplppapaaa
+abplpappaa
+abprpppaa
+abalaapp
+mspaapa
+cppppap
+abplpaapap
+abalpaaa
+abaraaaaap
+capapap
+abalaappppa
+abprpappap
+abalapap
+caaa
+abarapppp
+dpppap
+abaraapppaa
+abpraapapppp
+abplpaappp
+abarappap
+abplppapap
+abpl
+abarpppapp
+abalpapa
+abplppppp
+abalapapapa
+abalppaapp
+abplappaaa
+abalapppapap
+abplppa
+abprpaa
+abpra
+abalpapapap
+abprppaaa
+abplaaaa
+abaraaapa
+abplaapapp
+abprapappp
+abprpapaaa
+abarapaapap
+abalpaaappa
+mspapppp
+abplapaaaap
+abplapapppa
+cpaap
+msaaaapp
+msappppp
+abprappaaa
+mspaa
+abalppppppp
+abplpaaappa
+abalaaaarla
+abarapapaapp
+abarpapa
+cappaa
+abprpaapp
+abalpaapap
+abalpapp
+abpraapppp
+msaaaaap
+abprppapaaa
+msppapa
+ep
+abalaaaalp
+cppapp
+abplapappppp
+abalapappp
+abprppappa
+abalpaaapa
+abplaapa
+abarpaapp
+abplpappap
+mspapapap
+abalpppappp
+abprapaap
+abplaaaap
+abalaapap
+mspapaapa
+cpap
+abpraaapap
+abplapappp
+abpraaaaa
+abalpapapa
+abprapaaapa
+dpaap
+msaapapp
+abaraappaa
+mspappaa
+abalpppppa
+msaapaapap
+abarpaaaa
+abalpppap
+abprppppaa
+abplpaa
+abarapapa
+cpppaa
+earp
+abplpppp
+abprapaaaa
+abalpppa
+abplppaaaa
+abprpapapp
+abalapa
+abarp
+abaraapaa
+abaraaappp
+abplapppp
+abpraaapppap
+abprpapppp
+msppppap
+cpppapp
+epla
+abarappaa
+abprpppppa
+cappa
+abplpppap
+abprppaaap
+mspppapp
+capaa
+abplppp
+abplpaappa
+abplapppaap
+mspapa
+abplppaapp
+abarpapaap
+abalappapap
+abplapapa
+abprapap
+abplpapaaa
+abplaaapa
+cappapa
+capppaa
+abalaappp
+abprppaapp
+msapapap
+abprpppapap
+abarappppa
+abalaaapa
+abarpppa
+abpraaaapp
+abaraaa
+mspaapaap
+abplpapapp
+abalppappp
+abprpaaappa
+abplppaaap
+abplapppa
+msappapa
+msaa
+cppap
+abalpapppa
+abprappp
+abalapppaa
+dppaa
+abalppppapa
+abalaaapp
+abala
+abalpaapp
+abprpaappppp
+msppp
+capaapa
+abaraapapa
+abprapappppa
+msaappp
+abalpapappa
+abpraaapp
+msappa
+dp
+abaraaaapaa
+abpraappaa
+abprpaaaap
+caapp
+abplpppaap
+abalpappaaa
+abalaaaal
+abalapaaaap
+abalappaap
+abalpaaaap
+cppaaa
+abplapaa
+abprapappppp
+abalaapaaa
+ea
+mspppaa
+abplaapppa
+abarppaaa
+abarapaaapp
+abalapaapap
+abarapappap
+cpppapa
+abalppa
+mspappppa
+abprapppapp
+msap
+abalpapaapp
+dopaminergic neuron
+pde
+vulva
+nerve ring
+dorsal nerve cord
+head neuron
+somatic neuron
+phasmid neuron
+amphid sheath cell
+phasmid sheath cell
+spermathecal - uterine junction
+anterior spermathecal - uterine junction
+posterior spermathecal - uterine junction
+tail neuron
+uterus
+head muscle
+vula
+vulb1
+vulb2
+vulc
+vuld
+vule
+vulf
+lateral nerve cord
+p1
+p2
+p3
+p4
+p5
+p6
+p7
+p8
+p9
+p10
+ventral uterine precursor
+dorsal uterine precursor
+dorsal uterine cell
+blast cell
+uterine toroidal epithelial cell
+ut1
+ut2
+ut3
+ut4
+uterine seam cell
+uterine - vulval cell
+uv1
+uv2
+uv3
+male gonad
+proctodeum
+germ cell
+oocyte
+sperm
+spermatocyte
+spermatid
+outer labial neuron
+lumbar neuron
+nucleus
+body wall muscle cell
+body wall muscle cell from ab lineage
+body wall muscle cell from c lineage
+body wall muscle cell from d lineage
+body wall muscle cell from ms lineage
+adult seam cell left
+adult seam cell right
+ada
+aia
+aib
+aim
+ain
+ciliated neuron
+aua
+avd
+ave
+avh
+avj
+avk
+obsolete motoneuron interneuron
+bag
+bdu
+can
+flp
+glutamatergic neuron
+hsn
+pvd
+pvp
+ria
+ric
+rif
+rig
+serotonergic neuron
+rip
+riv
+cholinergic neuron
+rmf
+rmg
+rmh
+sdq
+urb
+urx
+oll
+olq
+germline precursor cell
+excretory secretory system
+aln
+ca neuron
+ca8
+ca9
+pln
+r5a
+r7a
+r9a
+pcb
+pcc
+spc
+spv
+hermaphrodite distal tip cell
+male distal tip cell
+distal tip cell
+anterior spermathecal - uterine valve cell
+posterior spermathecal - uterine valve cell
+anterior spermathecal - uterine core cell
+posterior spermathecal - uterine core cell
+seminal vesicle
+anterior gonadal sheath cell
+posterior gonadal sheath cell
+psub2
+psub1
+psub3
+ems
+p1 .a
+p2 .a
+p3 .a
+p4 .a
+p5 .a
+p6 .a
+p7 .a
+p8 .a
+p9 .a
+p10 .a
+p11 .a
+p12 .a
+p1 .p
+p2 .p
+p3 .p
+p4 .p
+p5 .p
+p6 .p
+p7 .p
+p8 .p
+p9 .p
+p10 .p
+p11 .p
+p12 .p
+anterior epithelial sheath cell of distal gonad arms
+posterior epithelial sheath cell of distal gonadal arms
+developing hermaphrodite gonad
+anterior epithelial sheath cell of proximal gonadal arms
+posterior epithelial sheath cell of proximal gonadal arms
+hook hypodermis
+gubernacular muscle
+longitudinal male muscle
+oblique male muscle
+spicule muscle
+male tail seam cell
+hermaphrodite alae seam cell
+se_male
+um1
+um2
+vm1
+vm2
+anal region
+cephalic sensillum
+cephalic sensillum dorsal left
+cephalic sensillum dorsal right
+cephalic sensillum ventral right
+cephalic sensillum ventral left
+apoptotic cell
+deirid neuron
+sensillum
+hook sensillum
+ray precursor cell
+r1
+r2
+r3
+r4
+r5
+r6
+r7
+r8
+r9
+ray
+ray 1
+ray 1 right
+ray 1 left
+ray 2
+ray 2 left
+ray 2 right
+ray 3
+ray 4
+ray 5
+ray 6
+ray 7
+ray 8
+ray 9
+ray 3 left
+ray 3 right
+ray 4 left
+ray 4 right
+ray 5 left
+ray 5 right
+ray 6 left
+ray 6 right
+ray 7 left
+ray 7 right
+ray 8 left
+ray 8 right
+ray 9 left
+ray 9 right
+postdeirid sensillum left
+postdeirid sensillum right
+ray neuron
+ray neuron type a
+ray neuron type b
+nerve ring neuron
+obsolete ring interneuron
+pvq
+tail ganglion
+tail hypodermis
+tail spike
+obsolete b .alaalda
+obsolete b .alaarda
+b .alapaad nucleus
+p7 .pa
+p7 .pp
+b .a
+b .p
+p6 .pa
+p6 .pp
+p6 .paa
+p6 .pap
+p6 .ppa
+obsolete p6 .ppp
+obsolete p6 .pppp
+tl .a
+tr .a
+tl .p
+tr .p
+tl .aa
+obsolete tl .aaa
+tl .pa
+tr .aa
+obsolete tr .aaa
+tl .apa
+tr .apa
+tr .pa
+tl .ap
+tl .app
+tl .pp
+tl .ppp
+tr .ap
+tr .app
+tr .pp
+tr .ppp
+obsolete tl .aap
+obsolete tr .aap
+z1 .a hermaphrodite
+z1 .p
+z4 .p hermaphrodite
+z4 .a
+z1 .aa
+z1 .ap
+embryonic cell
+tr .apap hermaphrodite
+post - embryonic cell
+b .al
+b .ala
+b .alaa
+b .alap
+b .alapa
+b .alapaa
+b .alapaav
+b .alapap
+b .alapp
+b .alappd
+b .alp
+b .alpa
+b .alpaa
+b .alpap
+b .alpapa
+b .ar
+b .ara
+b .arap
+b .arapa
+b .arapaa
+b .arapaav
+b .arapap
+b .arapp
+b .arappd
+b .arp
+b .arpa
+b .arpap
+b .arpapa
+b .pa
+b .pp
+b .ppa
+b .ppaa
+b .ppp
+b .pppp
+b .ppppp
+b_alpha .ld
+b_alpha .rd
+b_beta .l
+b_beta .ld
+b_beta .lda
+b_beta .ldp
+b_beta .lv
+b_beta .r
+b_beta .rd
+b_beta .rdp
+b_beta .rv
+b_gamma .a
+b_gamma .al
+b_gamma .ar
+b_gamma .ard
+b_gamma .p
+caappv
+cpappv
+e .alapa
+e .alapp
+e .alppa
+e .alppp
+e .arapa
+e .arapp
+e .arppa
+e .arppp
+e .plaaa
+e .plaap
+e .plapa
+e .plapp
+e .plpaa
+e .plpap
+e .plppaa
+e .plppap
+e .plpppa
+e .plpppp
+e .praaa
+e .praap
+e .prapa
+e .prapp
+e .prpaa
+e .prpap
+e .prppaa
+e .prppap
+e .prpppa
+e .prpppp
+f .l
+f .ld
+f .lv
+f .lvd
+f .r
+f .rd
+f .rv
+f .rvd
+g2 .a
+h1l .a
+h1l .ap
+h1l .app
+h1r .a
+h1r .ap
+h1r .app
+h2l .a
+h2l .p
+h2l .pp
+h2l .ppp
+h2r .a
+h2r .p
+h2r .pp
+h2r .ppp
+m .d
+m .dl
+m .dla
+m .dlaa
+m .dlap
+m .dlp
+m .dlpaa
+m .dlpap
+m .dlpp
+m .dr
+m .dra
+m .draa
+m .drap
+m .drp
+m .drpaa
+m .drpap
+m .drpp
+m .v
+m .vl
+m .vla
+m .vlaa
+m .vlap
+m .vlp
+m .vlpa
+m .vlpaa
+m .vlpaaa
+m .vlpaaaa
+m .vlpaaap
+m .vlpaap
+m .vlpap
+m .vlpp
+m .vr
+m .vra
+m .vraa
+m .vrap
+m .vrp
+m .vrpa
+m .vrpaa
+m .vrpaaa
+m .vrpaaaa
+m .vrpaaap
+m .vrpaap
+m .vrpap
+m .vrpp
+mspapaaaa
+p1 .aa
+p1 .aaaa
+p1 .aap
+p1 .ap
+p10 .aa
+p10 .aaa
+p10 .aap
+p10 .ap
+p10 .pa
+p10 .paa
+p10 .paaa
+p10 .paap
+p10 .pap
+p10 .papa
+p10 .pp
+p10 .ppa
+p10 .ppp
+p10 .pppp
+p11 .aa
+p11 .aaa
+p11 .aaap
+p11 .aap
+p11 .ap
+p12 .aa
+p12 .aaa
+p12 .aaap
+p12 .ap
+p12 .pp
+obsolete p2'
+p2 .aa
+p2 .aaa
+p2 .ap
+obsolete p3'
+p3 .aa
+p3 .aaa
+p3 .ap
+obsolete p4'
+obsolete p4' .a
+obsolete p4' .p
+p4 .aa
+p4 .aaa
+p4 .ap
+p5 .aa
+p5 .aaa
+p5 .ap
+p5 .pa
+p5 .paa
+p5 .pap
+p5 .pp
+p5 .ppa
+p6 .aa
+p6 .aaa
+p6 .ap
+p6 .ppp
+p7 .aa
+p7 .aaa
+p7 .ap
+p7 .pap
+p7 .ppa
+p7 .ppp
+p8 .aa
+p8 .aaa
+p8 .ap
+p9 .aa
+p9 .aaa
+p9 .aap
+p9 .ap
+ql .a
+ql .aa
+ql .p
+ql .pa
+ql .pp
+qr .a
+qr .aa
+qr .p
+qr .pa
+qr .pp
+sm1l .a
+sm1l .aa
+sm1l .aaa
+sm1l .aap
+sm1l .ap
+sm1l .apa
+sm1l .app
+sm1l .p
+sm1l .pa
+sm1l .paa
+sm1l .pap
+sm1l .pp
+sm1l .ppa
+sm1l .ppp
+sm1r .a
+sm1r .aa
+sm1r .aaa
+sm1r .aap
+sm1r .ap
+sm1r .apa
+sm1r .app
+sm1r .p
+sm1r .pa
+sm1r .paa
+sm1r .pap
+sm1r .pp
+sm1r .ppa
+sm1r .ppp
+sm2l .a
+sm2l .aa
+sm2l .aaa
+sm2l .aap
+sm2l .ap
+sm2l .apa
+sm2l .app
+sm2l .p
+sm2l .pa
+sm2l .paa
+sm2l .pap
+sm2l .pp
+sm2r .a
+sm2r .aa
+sm2r .aaa
+sm2r .aap
+sm2r .ap
+sm2r .apa
+sm2r .app
+sm2r .p
+sm2r .pa
+sm2r .paa
+sm2r .pap
+sm2r .pp
+sm3l .a
+sm3l .aa
+sm3l .aaa
+sm3l .aap
+sm3l .ap
+sm3l .apa
+sm3l .app
+sm3l .p
+sm3l .pa
+sm3l .pp
+sm3r .a
+sm3r .aa
+sm3r .aaa
+sm3r .aap
+sm3r .ap
+sm3r .apa
+sm3r .app
+sm3r .p
+sm3r .pa
+sm3r .pp
+tl .apapp
+tl .apappa
+tl .apappaa
+tl .apappaap
+tl .apappap
+tl .appaa
+tl .appaaa
+tl .appaaaa
+tl .appaaaap
+tl .appaaap
+tl .appap
+tl .appapa
+tl .appapaa
+tl .appapaap
+tl .appapap
+tl .pppa
+tl .pppp
+tr .apappaap
+tr .appaaa
+tr .appaaaa
+tr .pppa
+tr .pppp
+u .l
+u .la
+u .r
+u .ra
+v1l .p
+v1l .pa
+v1l .pap
+v1l .papp
+v1l .pp
+v1l .ppp
+v1l .pppp
+v1r .p
+v1r .pa
+v1r .pap
+v1r .papp
+v1r .pp
+v1r .ppp
+v1r .pppp
+v2l .p
+v2l .pa
+v2l .pap
+v2l .papp
+v2l .pp
+v2l .ppp
+v2l .pppp
+v2r .p
+v2r .pa
+v2r .pap
+v2r .papp
+v2r .pp
+v2r .ppp
+v2r .pppp
+v3l .p
+v3l .pa
+v3l .pap
+v3l .papp
+v3l .pp
+v3l .ppp
+v3l .pppp
+v3r .p
+v3r .pa
+v3r .pap
+v3r .papp
+v3r .pp
+v3r .ppp
+v3r .pppp
+v4l .p
+v4l .pa
+v4l .pap
+v4l .papp
+v4l .pp
+v4l .ppp
+v4l .pppp
+v4r .p
+v4r .pa
+v4r .pap
+v4r .papp
+v4r .pp
+v4r .ppp
+v4r .pppp
+v5l .p
+v5l .pa
+v5l .paa
+v5l .paap
+v5l .paapp
+v5l .pap
+v5l .pp
+v5l .ppp
+v5l .pppap
+v5l .pppp
+v5l .pppppa
+v5l .pppppaa
+v5l .pppppaap
+v5l .pppppap
+v5r .p
+v5r .pa
+v5r .paa
+v5r .paap
+v5r .paapp
+v5r .pap
+v5r .pp
+v5r .ppp
+v5r .pppap
+v5r .pppp
+v5r .pppppa
+v5r .pppppaa
+v5r .pppppaap
+v5r .pppppap
+v6l .p
+v6l .pa
+v6l .pap
+v6l .papap
+v6l .papapa
+v6l .papapaa
+v6l .papapaap
+v6l .papapap
+v6l .papp
+v6l .papppa
+v6l .papppaa
+v6l .papppaap
+v6l .papppap
+v6l .pp
+v6l .ppp
+v6l .pppap
+v6l .pppapa
+v6l .pppapaa
+v6l .pppapaap
+v6l .pppapap
+v6l .pppp
+v6l .ppppaa
+v6l .ppppaaa
+v6l .ppppaaap
+v6l .ppppaap
+v6l .pppppa
+v6l .pppppaa
+v6l .pppppaap
+v6l .pppppap
+v6r .p
+v6r .pa
+v6r .pap
+v6r .papap
+v6r .papapa
+v6r .papapaa
+v6r .papapaap
+v6r .papapap
+v6r .papp
+v6r .papppa
+v6r .papppaa
+v6r .papppaap
+v6r .papppap
+v6r .pp
+v6r .ppp
+v6r .pppap
+v6r .pppapa
+v6r .pppapaa
+v6r .pppapaap
+v6r .pppapap
+v6r .pppp
+v6r .ppppaa
+v6r .ppppaaa
+v6r .ppppaaap
+v6r .ppppaap
+v6r .pppppa
+v6r .pppppaa
+v6r .pppppaap
+v6r .pppppap
+w .a
+w .aa
+w .ap
+w .p
+y .a
+y .p
+y .pl
+y .pla
+y .plp
+y .plpp
+y .pr
+y .pra
+y .prp
+y .prpp
+z1 .app
+z1 .appa
+z1 .appaa
+z1 .appap
+z1 .appp
+z1 .apppa
+z1 .apppaa
+z1 .apppaaa
+z1 .apppaap
+z1 .apppap
+z1 .apppapa
+z1 .apppp
+z1 .pa
+z1 .paa
+z1 .paaap
+z1 .paap
+z1 .paapaa
+z1 .paapap
+z1 .paappa
+z1 .paappaa
+z1 .paappaaa
+z1 .paappaap
+z1 .paappap
+z1 .paappapa
+z1 .paappp
+z1 .pap hermaphrodite
+z1 .papa
+z1 .papaa
+z1 .papaaa
+z1 .papaap
+z1 .papaapa
+z1 .papap
+z1 .papapaa
+z1 .papapap
+z1 .papappa
+z1 .papappp
+z1 .papp
+z1 .pappaa
+z1 .pappaaa
+z1 .pappaap
+z1 .pappap
+z1 .pappapa
+z1 .pappapp
+z1 .papppa
+z1 .papppp
+z1 .pp
+z1 .ppa
+z1 .ppaa
+z1 .ppaaa
+z1 .ppaaa [ a / l ]
+z1 .ppaaa [ a / l ] a
+z1 .ppaaa [ a / l ] p
+z1 .ppaaa [ p / r ]
+z1 .ppaaa [ p / r ] a
+z1 .ppaaa [ p / r ] p
+z1 .ppaaaa
+z1 .ppaaaaa
+z1 .ppaaaap
+z1 .ppaaap  ( 5l )
+z1 .ppaaapa
+z1 .ppaaapp
+z1 .ppaap
+z1 .ppaapa
+z1 .ppaapa [ a / v ]
+z1 .ppaapa [ p / d ]
+z1 .ppaapaa
+z1 .ppaapap
+z1 .ppaapp
+z1 .ppaappa  ( 5r )
+z1 .ppaappp  ( 5r )
+z1 .ppaappa
+z1 .ppap
+z1 .ppapa
+z1 .ppapaa
+z1 .ppapap
+z1 .ppapp
+z1 .ppappd
+z1 .ppappv  ( 5r )
+z1 .ppp
+z1 .pppa
+z1 .pppaa
+z1 .pppaad
+z1 .pppaav
+z1 .pppap
+z1 .pppapd
+z1 .pppapv
+z1 .pppp
+z1 .ppppa
+z1 .ppppad
+z1 .ppppav
+z1 .ppppp
+z1 .pppppa
+z1 .pppppaa  ( 5l )
+z1 .pppppp
+z1 .ppppppa
+z1 .ppppppp
+z1 .ppx / z4 .aax
+z4 .aa
+z4 .aaa
+z4 .aaaa
+z4 .aaaaa
+z4 .aaaaaa
+z4 .aaaaaa [ a / v ]
+z4 .aaaaaa [ p / d ]
+z4 .aaaaap
+z4 .aaaaap [ a / v ]
+z4 .aaaaap [ p / d ]
+z4 .aaaap
+z4 .aaaapd
+z4 .aaaapv
+z4 .aaap
+z4 .aaapa
+z4 .aaapad
+z4 .aaapav
+z4 .aaapp
+z4 .aaappd
+z4 .aaappv
+z4 .aap
+z4 .aap [ a / l ]
+z4 .aap [ a / l ] a
+z4 .aap [ a / l ] ad
+z4 .aap [ a / l ] av
+z4 .aap [ a / l ] p
+z4 .aap [ a / l ] pa
+z4 .aap [ a / l ] pa [ a / d ]
+z4 .aap [ a / l ] pa [ p / v ]
+z4 .aap [ a / l ] pp
+z4 .aap [ a / l ] pp [ a / d ]
+z4 .aap [ a / l ] pp [ p / v ]
+z4 .aap [ p / r ]
+z4 .aap [ p / r ] a
+z4 .aap [ p / r ] aa
+z4 .aap [ p / r ] aa [ a / d ]
+z4 .aappaap  ( 5r )
+z4 .aap [ p / r ] ap
+z4 .aap [ p / r ] ap [ a / d ]
+z4 .aap [ p / r ] ap [ p / v ]
+z4 .aap [ p / r ] p
+z4 .aap [ p / r ] p [ a / l ]
+z4 .aap [ p / r ] p [ a / l ] a
+z4 .aap [ p / r ] p [ a / l ] p
+z4 .aap [ p / r ] p [ p / r ]
+z4 .aap [ p / r ] p [ p / r ] a
+z4 .aap [ p / r ] p [ p / r ] p
+z4 .aapa
+z4 .aapaa
+z4 .aapaad
+z4 .aapaav
+z4 .aapap
+z4 .aapapd
+z4 .aapapv
+z4 .aapp
+z4 .aappa
+z4 .aappaa
+z4 .aappaa [ a / d ]
+z4 .aappaa [ p / v ]
+z4 .aappap
+z4 .aappapa  ( 5r )
+z4 .aappapp  ( 5l )
+z4 .aappp
+z4 .aappp [ a / l ]
+z4 .aappp [ a / l ] a
+z4 .aappp [ a / l ] p
+z4 .aappp [ p / r ]
+z4 .aappp [ p / r ] a
+z4 .aappp [ p / r ] p
+z4 .ap
+z4 .apa
+z4 .apaa
+z4 .apaaa
+z4 .apaaaa
+z4 .apaapa
+z4 .apaapaa
+z4 .apaapap
+z4 .apaapp
+z4 .apaappa
+z4 .apaappp
+z4 .apapa
+z4 .apapaa
+z4 .apapaaa
+z4 .apapaap
+z4 .apapap
+z4 .apapapa
+z4 .apapapp
+z4 .apapp
+z4 .apappa
+z4 .apappp
+z4 .app
+z4 .appa
+z4 .appaa
+z4 .appaaa
+z4 .appaapa
+z4 .appaapap
+z4 .appaapp
+z4 .appaappa
+z4 .appaappp
+z4 .appapa
+z4 .appapp
+obsolete z4 .apppa
+obsolete z4 .apppaa
+z4 .pa
+z4 .paa
+z4 .paaa
+z4 .paaaa
+z4 .paaap
+z4 .paaapa
+z4 .paaapap
+z4 .paaapp
+z4 .paaappa
+z4 .paaappp
+z4 .paap
+z4 .paapa
+z4 .paapp
+engulfing cell
+command interneuron
+spd
+pca
+pha
+phb
+vulval precursor cell
+body muscle cell
+uterine pi cell
+uterine rho cell
+hermaphrodite somatic gonadal cell
+spermathecal cell
+sm3l
+sm3r
+p11 .pa
+p11 .paa
+p11 .pap
+p11 .pp
+p11 .ppa
+m .dlpa male
+m .drpa male
+b .alpp
+b .arpp
+b .araa
+b .arpaa
+b_gamma
+vulval cell
+cuticular ala
+organism
+dx neuron
+ef neuron
+pvu
+pvs
+ef1
+ef2
+ef3
+ef4
+dx1
+dx2
+dx3
+dx4
+hypodermal cell
+hook hypodermal cell
+pharyngeal - intestinal valve cell
+hermaphrodite
+male
+spsol
+spsor
+hyp13
+somatic gonad precursor
+xxx cell
+b .arpaa nucleus
+b .alpp nucleus
+b .araa nucleus
+b .arpp nucleus
+b .arpapp nucleus
+b .alapapp nucleus
+obsolete b_alpha or b_beta nucleus
+b_alpha nucleus
+b_beta nucleus
+b_alpha .l nucleus
+b_alpha .r nucleus
+b_delta nucleus
+b_gamma nucleus
+u .lp nucleus
+m .dlpa nucleus male
+m .dlpa nucleus hermaphrodite
+m .drpa nucleus male
+m .drpa nucleus hermaphrodite
+m .vlpaa nucleus male
+m .vlpaa nucleus hermaphrodite
+m .vrpaa nucleus male
+m .vrpaa nucleus hermaphrodite
+obsolete p1 or p2 nucleus
+p1 nucleus
+p2 nucleus
+obsolete p3 or p4 nucleus
+p3 nucleus
+p4 nucleus
+p3 .aapa nucleus
+p3 .aapp nucleus
+obsolete p5 or p6 nucleus
+p5 nucleus
+p6 nucleus
+obsolete p7 or p8 nucleus
+p7 nucleus
+p8 nucleus
+obsolete p9 or p10 nucleus
+p9 nucleus
+p10 nucleus
+obsolete p11 or p12 nucleus
+p11 nucleus
+p12 nucleus
+p11 .pa nucleus
+p11 .pp nucleus
+p11 .paa nucleus
+p11 .pap nucleus
+p11 .ppa nucleus
+p11 .ppp nucleus
+tl .apapa nucleus
+tl .appapaaa nucleus
+tr .apapa nucleus
+tr .apapp nucleus
+tr .apappa nucleus
+tr .apappp nucleus
+tr .apappaa nucleus
+tr .apappap nucleus
+tr .apappaaa nucleus
+tr .apappapa nucleus
+tr .apappapp nucleus
+tr .appaa nucleus
+tr .appap nucleus
+tr .appaaap nucleus
+tr .appaaaaa nucleus
+tr .appaaaap nucleus
+tr .appaaapa nucleus
+tr .appaaapp nucleus
+tr .appapa nucleus
+tr .appapp nucleus
+tr .appapaa nucleus
+tr .appapap nucleus
+tr .appapaaa nucleus
+tr .appapapa nucleus
+tr .appapaap nucleus
+tr .appapapp nucleus
+z1 .paa nucleus male terminal
+z1 .paa nucleus male non - terminal
+z4 .aaa nucleus male terminal
+z4 .aaa nucleus male non - terminal
+z4 .aapaaa nucleus male
+z4 .aapaap nucleus male
+obsolete b_delta or b_gamma nucleus
+lua
+obsolete hyp8 or hyp9 nucleus
+hyp8 nucleus
+hyp9 nucleus
+pda male
+pda hermaphrodite
+obsolete avfl or avfr nucleus
+r1l_hyp
+r1r_hyp
+r2l_hyp
+r2r_hyp
+r3l_hyp
+r3r_hyp
+r4l_hyp
+r4r_hyp
+r5l_hyp
+r5r_hyp
+r6l_hyp
+r6r_hyp
+r7l_hyp
+r7r_hyp
+r8l_hyp
+r8r_hyp
+r9l_hyp
+r9r_hyp
+abprppppapa nucleus
+abprppppapa nucleus hermaphrodite
+b cell hermaphrodite
+b cell male
+z4 .p nucleus
+z4 .p nucleus male
+z1 .a nucleus
+z1 .a nucleus male
+hyp7 precursor cell
+hyp7 syncytium male
+hyp7 syncytium hermaphrodite
+spike
+syncytium precursor
+syncytium
+p10 .p nucleus male
+p10 .p nucleus hermaphrodite
+p11 .p nucleus male
+p11 .p nucleus hermaphrodite
+tl .apap nucleus male
+tl .apap nucleus hermaphrodite
+tr .apap nucleus hermaphrodite
+tr .apap nucleus male
+v5l .pppa nucleus hermaphrodite
+v5l .pppa nucleus male
+v5r .pppa nucleus hermaphrodite
+v5r .pppa nucleus male
+v6l .papa nucleus hermaphrodite
+v6l .papa nucleus male
+v6l .pppa nucleus hermaphrodite
+v6l .pppa nucleus male
+v6l .ppppa nucleus hermaphrodite
+v6l .ppppa nucleus male
+v6r .papa nucleus male
+v6r .papa nucleus hermaphrodite
+v6r .pppa nucleus male
+v6r .pppa nucleus hermaphrodite
+v6r .ppppa nucleus male
+v6r .ppppa nucleus hermaphrodite
+p10 .aap male
+p10 .aap hermaphrodite
+p10 .aap nucleus male
+p10 .aap nucleus hermaphrodite
+p9 .aap male
+p9 .aap hermaphrodite
+p9 .aap nucleus male
+p9 .aap nucleus hermaphrodite
+p11 .aap male
+p11 .aap hermaphrodite
+p11 .aap nucleus male
+p11 .aap nucleus hermaphrodite
+p3 .p male
+p3 .p hermaphrodite
+p3 .p nucleus male
+p3 .p nucleus hermaphrodite
+ventral cord blast cell
+p4 .p male
+p4 .p hermaphrodite
+p4 .p nucleus male
+p4 .p nucleus hermaphrodite
+p5 .p male
+p5 .p hermaphrodite
+adult seam cell left male
+adult seam cell right male
+adult seam cell right hermaphrodite
+v6l .pappp nucleus male
+v5l .ppppp nucleus male
+v5l .ppppp nucleus hermaphrodite
+v6r .pappp nucleus male
+se seam cell
+ut1 anterior
+ut1 posterior
+ut2 posterior
+ut2 anterior
+ut3 anterior
+ut3 posterior
+ut4 anterior
+ut4 posterior
+ut1 anterior 5r
+ut1 anterior 5l
+ut1 posterior 5l
+ut1 posterior 5r
+ut2 anterior 5r
+ut2 anterior 5l
+ut2 posterior 5l
+ut2 posterior 5r
+ut3 anterior 5l
+ut3 anterior 5r
+ut4 anterior 5l
+ut4 anterior 5r
+ut3 posterior 5l
+ut3 posterior 5r
+ut4 posterior 5l
+ut4 posterior 5r
+rectal epithelial cell
+seminal vesical cell
+ves deferens cell
+z1 .pappa nucleus hermaphrodite
+male gonadal cell
+spermethecal uterine junction precursor cell
+anterior spermathecal - uterine valve cell 5l
+anterior spermathecal - uterine valve cell 5r
+z1 .ppaaapa  ( 5r )
+posterior spermathecal - uterine valve cell 5l
+posterior spermathecal - uterine valve cell 5r
+z1 .ppaaaaa  ( 5l )
+spermathecal - uterine valve cell
+spermathecal - uterine core cell
+uterine seam cell 5l
+uterine seam cell 5r
+uv1 5l
+uv1 5r
+abplapppappa male
+abprapppappa male
+int3d post - embryonic
+int3v post - embryonic
+int4d post - embryonic
+int4v post - embryonic
+int5l post - embryonic
+int5r post - embryonic
+int6l post - embryonic
+int6r post - embryonic
+int7l post - embryonic
+int7r post - embryonic
+int8l post - embryonic
+int8r post - embryonic
+int9l post - embryonic
+int9r post - embryonic
+linker cell z1
+linker cell z4
+u .lp
+u .rp
+f cell hermaphrodite
+u cell hermaphrodite
+y cell hermaphrodite
+gon_male_sves z1 or z4
+z1 .paa or z4 .aaa nucleus male
+z1 .paa / z4 .aaa  ( 1l )  male
+z1 .paa / z4 .aaa  ( 4l )  male
+gon male vdef 1l
+gon male vdef 4l
+vll muscle
+vml muscle
+vl muscle
+body wall muscle cell from m lineage
+vr muscle
+dl muscle
+dr muscle
+body wall muscle quadrant
+dlr muscle
+dmr muscle
+vlr
+vmr
+dll muscle
+dml muscle
+pm1 precursor
+pm2 precursor
+pm3 precursor
+pm4 precursor
+pm5 precursor
+proctodeal cell
+pvn
+ray structural cell
+vulval syncytia precursor
+vu  ( 5r )
+vu  ( 5l )
+z1 .ppa male
+z1 .ppa hermaphrodite
+z4 .aaa hermaphrodite
+z4 .aaa male
+z4 .aap hermaphrodite
+z4 .aap male
+z1 .ppa  ( 5l )
+z1 .ppa  ( 5r )
+z4 .aaa  ( 5l )
+z4 .aaa  ( 5r )
+z4 .aap  ( 5l )
+z4 .aap  ( 5r )
+z1 .ppp male
+z1 .ppp hermaphrodite
+z1 .ppp  ( 5l )
+z1 .ppp  ( 5r )
+uterine pi cell  ( 5l )
+uterine pi cell  ( 5r )
+uterine rho cell  ( 5l )
+uterine rho cell  ( 5r )
+z1 .ppapa  ( 5l )
+z1 .ppapa  ( 5r )
+z1 .ppapp  ( 5l )
+z1 .ppapp  ( 5r )
+z1 .ppaaa  ( 5l )
+z1 .ppaaa  ( 5r )
+z1 .ppaap hermaphrodite
+z1 .ppaap male
+z1 .ppaap  ( 5l )
+z1 .ppaap  ( 5r )
+z4 .aapaa  ( 5r )
+z4 .aapaa  ( 5l )
+mc3 precursor
+g1arp
+set left
+set right
+set precursor
+male tail tip cell
+avfl nucleus
+avfr nucleus
+vas deferens precursor
+vas deferens precursor 1l
+vas deferens precursor 4l
+z1 .pap male
+z1 .pap
+z4 .aaa male 1l
+z1 .paa hermaphrodite
+z1 .paa male
+z1 .paa male 4l
+gonadal primordium
+gonadal primordium male
+gonadal primordium hermaphrodite
+abarpapaaap hermaphrodite
+abplaaaaaap hermaphrodite
+abplpaapapp hermaphrodite
+abprpaapapp hermaphrodite
+sex myoblast
+stoma
+arcade ring
+somatic cell
+amphid socket cell
+diagonal muscle right
+diagonal muscle left
+anal depressor muscle male
+anal depressor muscle hermaphrodite
+dorsal body wall muscle
+ventral body wall muscle
+r1a
+r2a
+r3a
+r4a
+r6a
+r8a
+r1b
+r2b
+r3b
+r4b
+r5b
+r6b
+r7b
+r8b
+r9b
+cephalic sheath cell
+abaraappaaa
+grinder
+tail precursor cell
+phasmid socket cell
+ade sheath cell
+il sheath cell
+ol sheath cell
+pc sheath cell
+pde sheath cell
+ade socket cell
+cep socket cell
+il socket cell
+ol socket cell
+pc socket cell
+pde socket cell
+sex organ
+male genital
+gubernaculum
+hook
+nose
+blastocoel
+blastopore
+polar body
+carbon dioxide sensory neuron
+mechanosensory neuron
+oxygen sensory neuron
+osmosensory neuron
+nociceptor neuron
+uterine epithelial cell
+gon herm vut  ( 5l )
+gon herm vut  ( 5r )
+pvw
+m lineage cell
+vas deferens valve region
+vas deferens valve cell
+vas deferens cuboidal cell region
+vas deferens elongated cell region
+vas deferens cuboidal cell
+vas deferens elongated cell
+phc
+somatic blastomere
+germline blastomere
+v5r .pppa
+v5l .pppa
+b_delta
+w .aaa or p1 .aaaa nucleus
+abplapaapp or abprapaapp nucleus
+w .aaa
+abprappaaa or abplappaaa nucleus
+abprappaap or abplappaap nucleus
+abprappapp or abplappapp nucleus
+abprapapap or abplapapap nucleus
+b .alaa or b .araa nucleus
+b .alpp or b .arpp nucleus
+abplpppapap or abprpppapap nucleus
+abplapappa or abprapappa nucleus
+z1 .ppp  ( 5r )  or z4 .aaa  ( 5l )  nucleus
+z1 .paaaapa
+z1 .pppaaa male
+z1 .papapa hermaphrodite
+z1 .paapa hermaphrodite
+z1 .paaaaa
+z1 .pappp hermaphrodite
+z1 .paaaapp
+z1 .pappa hermaphrodite
+z1 .papaapp
+z1 .paapp hermaphrodite
+z1 .papapp hermaphrodite
+z1 .papaappa
+z1 .paaa male
+z1 .paaaappa
+z1 .paaaap
+z1 .paaaa
+v5r .ppppp male
+z4 .aapppp ( 5r )
+z4 .aapppp ( 5l )
+z4 .aapppa ( 5l )
+z4 .aapppa ( 5r )
+m .vlpaapa
+p11 .p male
+z4 .aapaap male
+z4 .aapaaa male
+tr .apap male
+tr .apapp
+tr .apappa
+tr .apappaa
+tr .apappap
+v6r .papa male
+m .vrpaa hermaphrodite
+m .vlpaa hermaphrodite
+b_alpha .l
+b_alpha .r
+p6 .aap male
+z4 .aapapa ( 5r )
+z4 .aapapp ( 5r )
+v6r .ppppa male
+m .vlpaapp
+v6r .pppa male
+p7 .aap male
+v5l .ppppp male
+v6r .pappp male
+v6l .pappp male
+z1 .ppaaaa male
+z1 .ppaaaa  ( 5l )
+z1 .ppaapa  ( 5l )
+z1 .ppaapa  ( 5r )
+z1 .ppaapp  ( 5l )
+z1 .ppaapp  ( 5r )
+z1 .paap hermaphrodite
+z1 .paap male
+z1 .papaaa hermaphrodite
+z1 .papaaa male
+z1 .papaap hermaphrodite
+z1 .papaap male
+z1 .ppaa  ( 5l )
+z1 .ppaa male
+z1 .ppaa  ( 5r )
+z1 .ppap  ( 5l )
+z1 .ppap  ( 5r )
+z1 .pppa  ( 5l )
+z1 .pppa male
+z1 .pppp  ( 5l )
+z4 .aaaa  ( 5r )
+z4 .aaaa male
+z4 .aaaaaa  ( 5r )
+z4 .aaaaaa male
+z4 .aaaaap  ( 5r )
+z4 .aaaaap male
+z4 .aaap  ( 5r )
+z4 .aaap male
+z4 .aapa  ( 5l )
+z4 .aapa  ( 5r )
+z4 .aapa male
+z4 .aapp male
+z4 .aapp  ( 5l )
+z4 .aapp  ( 5r )
+z4 .aappaa  ( 5l )
+z4 .aappaa  ( 5r )
+z4 .aappap  ( 5l )
+z4 .aappap  ( 5r )
+z4 .apaaaa hermaphrodite
+z4 .apaaaa male
+egg - laying apparatus
+c lineage cell
+d lineage cell
+p lineage cell
+primary spermatocyte
+secondary spermatocyte
+q lineage cell
+neuroblast
+female
+h cell
+v cell
+q cell
+g cell
+enteric muscle
+sm lineage cell
+sm lineage cell male
+sm lineage cell hermaphrodite
+male sex myoblast
+hermaphrodite sex myoblast
+p11 / 12l
+p11 / 12r
+b lineage cell
+midbody remnant
+head motor neuron
+ab lineage cell
+mcm
+mcml
+mcmr
+abplpaapapaa nucleus
+abplpaapapap nucleus
+abprpaapapap nucleus
+abprpaapapaa nucleus
+amsol hermaphrodite
+amsol male
+amsor hermaphrodite
+amsor male
+amsol male early
+amsol male late
+amsor male early
+amsor male late
+ms lineage cell
+cell component
+gonad arm
+phd
+phdl
+phdr
+bursa
+z4 .appp nucleus male
+z4 .appp nucleus hermaphprodite
+z4 .appaaap nucleus male
+z4 .appaaap nucleus hermaphrodite
+z4 .appaaaa nucleus hermaphrodite
+exclusive_union_of
+continuant
+occurrent
+independent continuant
+process
+material entity
+z4 .appaaaa nucleus male

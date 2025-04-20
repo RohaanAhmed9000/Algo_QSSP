@@ -1,0 +1,565 @@
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+voriconazole
+ciprofloxacin
+norfloxacin
+zafirlukast
+zaleplon
+zidovudine
+ziprasidone
+zolpidem
+zonisamide
+diltiazem
+butalbital
+sumatriptan
+fentanyl
+foscarnet
+anilide
+aspirin
+l - dopa
+organic sulfide
+peptide
+codeine
+streptomycin
+ketone
+penicillin
+gemcitabine
+hydrocortisone
+gentamicin sulfate  ( usp )
+lipid
+penicillin g
+nitrile
+2 - aminopurines
+n - glycosyl compound
+alkaloid
+amino alcohol
+aminopurine
+azides
+azobenzenes
+barbiturates
+benzimidazoles
+biphenyls
+carbamate ester
+cephalosporin
+colchicine
+molecular entity
+cyanides
+cyclitol
+diazole
+diterpenoid
+furans
+glucocorticoid
+glycoside
+chemical entity
+organic heterocyclic compound
+homodetic cyclic peptide
+hydroxides
+imidazoles
+indoles
+oxoacid
+isoprenoid
+isoquinolines
+lactam
+lactone
+monocarboxylic acid
+oligopeptide
+ether
+oxo carboxylic acid
+phosphonic acids
+amantadine
+polyol
+amidine
+purines
+quinolines
+amiodarone
+amitriptyline
+amlodipine
+steroid hormone
+terpenoid
+tertiary alcohol
+oxolanes
+anastrozole
+tryptamines
+vinca alkaloid
+penicillin v
+caffeine
+cisplatin
+tobramycin
+fatty amide
+betaxolol
+alcohol
+bicalutamide
+carboplatin
+bromocriptine
+oxaliplatin
+bupropion
+buspirone
+tertiary amine
+primary amine
+amine
+amide
+coordination entity
+primary amide
+organosulfur compound
+heteroorganic entity
+chalcogen molecular entity
+carboxylic ester
+transition element molecular entity
+carboxylic acid
+main group molecular entity
+homocyclic compound
+carbocyclic compound
+spiro compound
+bicyclic compound
+aliphatic compound
+alicyclic compound
+aromatic compound
+heterobicyclic compound
+s - block molecular entity
+p - block molecular entity
+d - block molecular entity
+amino acid
+capsaicin
+organic hydroxy compound
+heteroarene
+nucleoside
+phenols
+aromatic amine
+carbopolycyclic compound
+steroid
+organonitrogen compound
+sulfonamide
+carboxamidine
+hydrazide
+carbohydrazide
+organic disulfide
+addition compound
+hydrate
+azaspiro compound
+beta - lactam
+secondary alcohol
+dicarboxylic acid
+ester
+nitro compound
+c - nitro compound
+oxazole
+sulfoxide
+sulfone
+oxo monocarboxylic acid
+penams
+quinone
+dicarboxylic acid monoester
+polyatomic entity
+carbonyl compound
+organic oxo compound
+cyclic pseudoketone
+acyclic pseudoketone
+organochlorine compound
+organohalogen compound
+corticosteroid hormone
+carbobicyclic compound
+oxime o - ether
+ring assembly
+organochalcogen compound
+organooxygen compound
+organoiodine compound
+organofluorine compound
+hydroxyanthraquinones
+azo compound
+heteroatomic molecular entity
+nitrogen mustard
+carboxamide
+clopidogrel
+organonitrogen heterocyclic compound
+oxacycle
+diazines
+aurothiomalate
+indole alkaloid
+pyrimidines
+atorvastatin
+cyclobenzaprine
+allopurinol
+lovastatin
+cyclosporine
+tamoxifen
+dexamethasone
+dapsone
+deferoxamine
+lisinopril
+methotrexate
+hydroxyurea
+propofol
+pentamidine
+paclitaxel
+fluconazole
+vardenafil
+5 - fluorouracil
+ganciclovir
+disulfiram
+benzoxazole
+hidden amide
+dipeptide
+diether
+capsaicinoid
+anthracenes
+imipramine
+acetate ester
+clomipramine
+desipramine
+cefepime
+enalapril
+vinorelbine
+disulfide
+ethambutol
+etidronate
+didanosine
+etoposide
+dopa
+exemestane
+indomethacin
+organic amino compound
+selegiline
+6 - methylprednisolone
+thiocarbonyl compound
+methimazole
+mitoxantrone
+montelukast
+fluorinated steroid
+corticosteroid
+organic molecular entity
+primary amino compound
+secondary amino compound
+tertiary amino compound
+flucytosine
+fluoxetine
+acenes
+acenoquinone
+adamantanes
+fluvoxamine
+cyclopropanes
+1 , 2 - benzoxazoles
+benzisoxazole
+dihydrofuran
+enone
+alpha , beta - unsaturated ketone
+tetracyclic diterpenoid
+oxazinoquinoline
+ifosfamides
+imidazolidinone
+isoxazoles
+haloperidol
+cladribine
+heterocyclic compound
+ifosfamide
+acetal
+ketal
+cyclic ketal
+docetaxel
+chemical substance
+mixture
+purine deoxyribonucleoside
+isoniazid
+isonicotinic acid
+itraconazole
+nucleoside analogue
+ropivacaine
+racemate
+diastereoisomeric mixture
+beta - glucoside
+tacrolimus
+nucleobase - containing molecular entity
+c21 - steroid
+3 - hydroxy carboxylic acid
+glycosyl compound
+carbohydrate derivative
+monosaccharide derivative
+hexose derivative
+ketohexose derivative
+ribavirin
+stavudine
+1 - glycosyltriazole
+levofloxacin
+mefloquine
+misoprostol
+moxifloxacin
+pergolide
+pravastatin
+propafenone
+sotalol
+tinidazole
+tipranavir
+tizanidine
+topiramate
+topotecan
+pyrrolidinopiperidine
+lansoprazole
+leflunomide
+leuprolide
+losartan
+megestrol
+mesalamine
+metformin
+6alpha - methylprednisolone
+metronidazole
+nortriptyline
+ofloxacin
+omeprazole
+pantoprazole
+paroxetine
+phenytoin
+pioglitazone
+pramipexole
+prednisolone
+6 - propyl - 2 - thiouracil
+protriptyline
+rabeprazole
+ramipril
+ropinirole
+simvastatin
+sulfasalazine
+ticlopidine
+trimipramine
+venlafaxine
+cell
+native cell
+neuroblast
+stem cell
+neuronal stem cell
+multi fate stem cell
+totipotent stem cell
+non - terminally differentiated cell
+sensory neuron
+neurectodermal cell
+pigment cell
+photoreceptor cell
+electrically active cell
+ectodermal cell
+stuff accumulating cell
+epiblast cell
+electrically responsive cell
+electrically signaling cell
+afferent neuron
+neuron
+somatic stem cell
+neural cell
+embryonic cell
+somatic cell
+clinical drug role
+drug product
+negative regulation of transcription from rna polymerase ii promoter
+regulation of cytokine - mediated signaling pathway
+negative regulation of cytokine - mediated signaling pathway
+regulation of transcription ,  dna - templated
+regulation of transcription from rna polymerase ii promoter
+biological_process
+regulation of g - protein coupled receptor protein signaling pathway
+regulation of biosynthetic process
+negative regulation of biosynthetic process
+negative regulation of metabolic process
+regulation of signal transduction
+positive regulation of signal transduction
+negative regulation of signal transduction
+regulation of gene expression
+regulation of receptor activity
+regulation of macromolecule biosynthetic process
+negative regulation of macromolecule biosynthetic process
+negative regulation of macromolecule metabolic process
+negative regulation of gene expression
+regulation of cell communication
+positive regulation of cell communication
+negative regulation of cell communication
+negative regulation of tumor necrosis factor - mediated signaling pathway
+regulation of dopamine secretion
+regulation of lipid metabolic process
+regulation of nucleobase - containing compound metabolic process
+regulation of metabolic process
+regulation of signaling
+positive regulation of signaling
+negative regulation of signaling
+regulation of cellular metabolic process
+negative regulation of cellular metabolic process
+regulation of cellular biosynthetic process
+negative regulation of cellular biosynthetic process
+regulation of synaptic transmission ,  dopaminergic
+negative regulation of synaptic transmission ,  dopaminergic
+negative regulation of atpase activity
+regulation of localization
+regulation of intracellular steroid hormone receptor signaling pathway
+negative regulation of intracellular steroid hormone receptor signaling pathway
+negative regulation of dopamine secretion
+negative regulation of catecholamine secretion
+regulation of cellular amide metabolic process
+negative regulation of cellular amide metabolic process
+negative regulation of catalytic activity
+regulation of ion transport
+negative regulation of ion transport
+negative regulation of sequence - specific dna binding transcription factor activity
+regulation of atpase activity
+regulation of anion transport
+negative regulation of molecular function
+positive regulation of g - protein coupled receptor protein signaling pathway
+negative regulation of lipid metabolic process
+negative regulation of transcription ,  dna - templated
+negative regulation of nucleobase - containing compound metabolic process
+negative regulation of glucosylceramide biosynthetic process
+regulation of lipid biosynthetic process
+positive regulation of biological process
+negative regulation of biological process
+positive regulation of cellular process
+negative regulation of cellular process
+regulation of response to stimulus
+positive regulation of response to stimulus
+negative regulation of response to stimulus
+regulation of catecholamine secretion
+regulation of biological process
+regulation of catalytic activity
+regulation of cellular process
+regulation of synaptic transmission
+negative regulation of synaptic transmission
+regulation of secretion
+negative regulation of secretion
+regulation of transport
+negative regulation of transport
+negative regulation of lipid biosynthetic process
+regulation of sequence - specific dna binding transcription factor activity
+regulation of nitrogen compound metabolic process
+negative regulation of nitrogen compound metabolic process
+regulation of rna metabolic process
+negative regulation of rna metabolic process
+regulation of hydrolase activity
+regulation of oxidoreductase activity
+negative regulation of cyclic - nucleotide phosphodiesterase activity
+negative regulation of hydrolase activity
+negative regulation of oxidoreductase activity
+regulation of neurotransmitter uptake
+negative regulation of neurotransmitter uptake
+regulation of dopamine uptake involved in synaptic transmission
+negative regulation of dopamine uptake involved in synaptic transmission
+regulation of neurotransmitter transport
+negative regulation of neurotransmitter transport
+regulation of serotonin uptake
+negative regulation of serotonin uptake
+negative regulation of norepinephrine uptake
+inhibition of norepinephrine uptake
+negative regulation of calcium ion transport
+regulation of catecholamine uptake involved in synaptic transmission
+negative regulation of catecholamine uptake involved in synaptic transmission
+regulation of amine transport
+negative regulation of amine transport
+regulation of macromolecule metabolic process
+regulation of cellular localization
+regulation of response to cytokine stimulus
+negative regulation of response to cytokine stimulus
+regulation of androgen receptor signaling pathway
+negative regulation of androgen receptor signaling pathway
+biological regulation
+regulation of molecular function
+regulation of primary metabolic process
+regulation of sphingolipid biosynthetic process
+negative regulation of sphingolipid biosynthetic process
+negative regulation of ceramide biosynthetic process
+regulation of cellular response to insulin stimulus
+positive regulation of cellular response to insulin stimulus
+negative regulation of rna biosynthetic process
+regulation of nucleic acid - templated transcription
+negative regulation of nucleic acid - templated transcription
+regulation of secretion by cell
+negative regulation of secretion by cell
+negative regulation of anion transport
+regulation of cellular macromolecule biosynthetic process
+negative regulation of cellular macromolecule biosynthetic process
+negative regulation of receptor activity
+regulation of ceramide biosynthetic process
+regulation of dna topoisomerase  ( atp - hydrolyzing )  activity
+negative regulation of dna topoisomerase  ( atp - hydrolyzing )  activity
+positive regulation of opioid receptor signaling pathway
+regulation of androgen receptor activity
+negative regulation of androgen receptor activity
+regulation of rna biosynthetic process
+negative regulation of hydroxymethylglutaryl - coa reductase  ( nadph )  activity
+curation status specification
+data about an ontology part
+adverse event
+medical intervention
+drug administration
+sensory neuropathy ae
+motor neuropathy ae
+polyneuropathy ae
+peripheral neuropathy ae
+paresthesia ae
+neuropathy ae
+nervous system ae
+neuritis ae
+neurotoxicity ae
+peripheral sensorimotor neuropathy ae
+peripheral sensory neuropathy ae
+carpal tunnel syndrome ae
+ischemic optic neuropathy ae
+optic neuropathy ae
+neuroretinitis ae
+anterior ischemic optic neuropathy ae
+non - arteritic anterior ischemic optic neuropathy ae
+mixed neuropathy ae
+sensory peripheral polyneuropathy ae
+peripheral demyelinating polyneuropathy ae
+diabetic neuropathy ae
+neurological deficit ae
+planned process
+processed material
+scattered molecular aggregate
+organism
+drug - associated neuropathy ae
+pathological bodily process
+age
+time
+physical quality
+physical object quality
+peripheral nervous system
+sense organ
+anatomical structure
+organ
+fully formed stage
+embryo stage part
+embryo stage
+death stage
+post - embryonic stage
+life cycle
+life cycle stage
+zygote stage
+cleavage stage
+blastula stage
+gastrula stage
+neurula stage
+organogenesis stage
+blastula
+material anatomical entity
+immaterial anatomical entity
+anatomical system
+multi - cellular organism
+anatomical cluster
+tissue
+anatomical group
+embryo
+germ layer
+ectoderm
+eye
+nervous system
+central nervous system
+sensory system
+anatomical entity
+embryonic structure
+visual system
+vestibulo - auditory system
+epiblast  ( generic )
+ectoderm - derived structure
+entire sense organ system
+embryonic tissue
+presumptive ectoderm
+anatomical surface
+cleaving embryo
+multicellular anatomical structure
+organ system subdivision
+future central nervous system
+future nervous system

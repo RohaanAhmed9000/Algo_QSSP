@@ -1,0 +1,751 @@
+continuant
+occurrent
+independent continuant
+process
+specifically dependent continuant
+material entity
+electron
+hydrogencarbonate
+donor
+anion
+calcium atom
+carbonates
+molecular entity
+drug
+chemical entity
+biological role
+group
+hydroxides
+oxoacid
+inorganic molecular entity
+salt
+ion
+metabolite
+oxide
+oxygen atom
+silicon atom
+carbon atom
+carbonic acid
+calcium ( 2 +  )
+silicon dioxide
+calcium carbonate
+application
+fundamental particle
+monoatomic entity
+inorganic group
+atom
+atomic nucleus
+nucleon
+elemental molecular entity
+polyatomic anion
+nutrient
+heteroorganic entity
+alkaline earth molecular entity
+chalcogen
+chalcogen molecular entity
+main group element atom
+metal atom
+p - block element atom
+main group molecular entity
+s - block molecular entity
+p - block molecular entity
+oxoanion
+carbon oxoanion
+lepton
+baryon
+fermion
+subatomic particle
+composite particle
+hadron
+nuclear particle
+polyatomic entity
+polyatomic ion
+cation
+organochalcogen compound
+organooxygen compound
+acid
+heteroatomic molecular entity
+bronsted acid
+carbonate
+mineral
+hydrogen atom
+organic molecular entity
+role
+chemical role
+biochemical role
+pharmacological role
+pharmaceutical
+chemical substance
+divalent metal cation
+food additive
+biogenic silica
+biogenic mineral
+biogenic substance
+hydrated silica
+divalent inorganic cation
+one - carbon compound
+antacid
+eukaryotic metabolite
+animal metabolite
+mammalian metabolite
+mouse metabolite
+saccharomyces cerevisiae metabolite
+prokaryotic metabolite
+fungal metabolite
+bacterial metabolite
+escherichia coli metabolite
+food colouring
+human metabolite
+food firming agent
+food component
+cell
+native cell
+female germ cell
+oocyte
+germ line cell
+motile cell
+anucleate cell
+phagocyte
+stuff accumulating cell
+defensive cell
+germ cell
+nucleate cell
+reproduction
+cellular_component
+plasma membrane
+cilium
+transport
+endocytosis
+membrane budding
+phagocytosis
+organelle organization
+biological_process
+cellular process
+membrane invagination
+membrane
+cellular component organization
+vesicle organization
+vesicle - mediated transport
+reproductive process
+intraciliary transport particle
+macromolecular complex
+cell projection
+organelle
+protein complex
+organelle part
+membrane part
+ciliary part
+plasma membrane part
+cell projection part
+cell part
+single - organism process
+single - organism transport
+localization
+establishment of localization
+membrane organization
+cellular component organization or biogenesis
+cell periphery
+plasma membrane region
+membrane protein complex
+plasma membrane protein complex
+single - organism localization
+quality
+morphology
+physical object quality
+sponge
+mesohyl
+choanocyte
+lophocyte
+rhabdiferous cell
+macromere
+micromere
+sclerocyte
+spongocyte
+myocyte
+gray cell
+archaeocyte
+spicule
+osculum
+spongeocoel
+ostium
+pinacocyte
+prosopyle
+choanocyte chamber
+asconoid sponge
+syconoid sponge
+leuconoid sponge
+spongin
+calcareous spicule
+trab
+pinacoderm
+porocyte
+apopyle
+microsclere
+megasclere
+smoking
+spined
+acanthophore
+accessory spicule
+accretive reticulation
+acerate spicule
+actine ray
+actinocyte
+agglutinated support
+ala
+alveolate skeleton
+amararhysis
+ambucinate
+amorphous
+amphiaster
+amphiblastula
+amphidisc
+amphitriaene
+amphitrider
+anastomosing
+anatriaene
+anaxial desma
+anchor
+anchorate chela
+angulate spicule
+aniso -
+anisochela
+anisotropic skeleton
+anomoclone
+anterior pole
+anthaster
+antho -
+anthosigma
+aphodal
+aphodus
+apical actine  ( ray )
+apochete
+apopinacocyte
+apopinacoderm
+apopore
+apopylar cell
+aporhysis
+aquiferous system
+arborescent
+arcuate chela
+areolated surface
+articulate skeleton
+asconoid
+aspidaster
+aspidoplumicome
+astroclone
+astrorhiza
+asymmetric megasclere
+atrial skeleton
+autodermalia
+autogastralia
+axial filament
+axial skeleton
+axinellid skeleton
+bacteriocyte
+bark
+basal spongin plate
+basal triradiate system
+basalia
+basidictyonal plate
+basopinacocyte
+bipocillum
+birotula
+blastula
+blunt megasclere
+bouquet
+brachyome
+branching
+bud
+calcareous tripod
+caliculate
+calthrop
+calycocome
+canalaria
+candelabrum
+canonochela
+carrier cell
+cellules en croix
+cemented spicule
+spicule center
+central cell
+centrotriaene
+centrotylote
+chela
+chiactine
+chiastoclone
+chiastosigma
+choanoblast
+choanochamber
+choanoderm
+choanoskeleton
+choanosomal skeleton
+choanosome
+choristid megasclere arrangement
+cinctoblastula
+clad
+cladome
+cladotylote
+clathrate
+clathrate skeleton
+clathriid skeleton
+clavate
+clavidisc microsclere
+clavule
+cleistochela
+clone
+codonhexactin
+coeloblastula
+coenosteum
+collagen fascicle
+collar body
+collencyte
+column
+columnar
+comitalia
+comma
+compound fiber
+compressible
+confused skeleton
+conical megasclere
+conulose surface
+corallite  ( = calyx )
+cored fiber
+corrugated surface
+cortex
+cortical skeleton
+cortical spicule
+crateriform
+crepis
+cri -
+croca
+crypt tissue
+crystal ultrastructure
+curved
+cuticle
+cyrtancistra
+cystencyte
+dendritic
+dendritic skeleton
+dendroclone
+dendroreticulate fiber skeleton
+dermalia
+desma
+deuteroclad
+diactin
+diactine
+diaene
+diancistra
+diapason
+diarhysis
+dichotriaene
+dicranoclone
+dictyonal skeleton
+dictyonalia
+didiscorhabd
+digitate
+diod spicule
+diplaster
+diplodal
+discaster
+dischela
+discoctaster
+discohexactin
+discohexaster
+discorhabd
+discotriaene
+drepanocome
+echinating spicule
+ectochrote
+ectosomal skeleton
+ectosome
+elastic
+encrusted substrate
+endolithic
+endopinacocyte
+endopinacoderm
+endopsammic
+entrapped spicules
+eosinophilic cell
+epirhabd
+epirhysis
+epitheca
+equal megasclere
+erect
+euaster
+eurypylous
+excavating
+exhalant canal
+exhalant system
+exopinacocyte
+exotyle
+extra - axial skeleton
+facial plane
+fascicular fibrous microstructure
+fiber
+fibroreticulate
+fibule
+ficiform
+filling  ( tissue )  structure
+fimbria
+firm
+fistule
+fistulose
+flabellate
+flagellated chamber
+flagelliform
+flexuous spicule
+floricome
+foliaceous
+follicle cell
+foramen
+forceps
+fragile
+fragmentation
+free actine
+friable
+fuchsinophilic cell
+obsolete fusiform spicule
+gastralia
+gemmule
+globoferous cell
+globular
+glutinous
+glycocyte
+graphicome
+halichondrioid skeleton
+hard
+hastate
+heloclone
+hemioxyhexaster
+hexactin
+hexadisc
+hexaster
+hilum
+hispid surface
+hispidation
+homogeneous fiber
+honeycombed surface
+hymedesmioid skeleton
+hypodermalia
+hypogastralia
+inarticulate skeleton
+incompressible
+infundibuliform
+inhalant canal
+inhalant system
+intermedia
+interstitial spicule
+intracellular pore
+irciniid filament
+irregular microstructure
+iso -
+isochela
+isodictyal reticulation
+isotropic reticulation
+lamellate
+lamina
+laminated fiber
+latilamina
+lax  ( = loose ,  vague )  skeleton
+leuconoid system
+limp
+line of spicules
+linked spicules
+lipo -
+lipostomous surface
+lithistid skeleton
+lobate
+lobodigitate
+lophocalthrop
+lophocome  ( = lophodiscohexaster )
+lychnisc
+lychnisca
+lyssacine
+mamelon
+marginalia
+massive
+megaclone
+megarhizoclone
+mesolamella
+mesotriaene
+mesotrider
+metaster
+micro -
+microanchor
+microcionid
+microdiactin spicule
+microgranular cell
+microgranular microstructure
+microhexactin
+microholactin
+microlamellar microstructure
+micropyle
+microrhabd
+microstructure
+microsymbiont
+monaene
+monaxonic megasclere
+mucronate megasclere
+multispicular fiber
+needle - like biradiate
+node
+nurse cell
+octactin
+octaster
+olynthus stage
+onychaete
+onychaster
+optic axis
+orthodiactin
+orthogonal microstructure
+orthotriaene
+ovate
+oviparity
+oxea
+oxy -
+oxyaster
+paired actine
+palisade
+palmate
+palmate chela
+palmodigitate
+papilla
+papillate surface
+pappocome
+parasagittal spicule
+paratangential skeleton
+parchment
+parenchymalia
+parenchymella
+paucispicular fiber
+pedunculate
+pentactin
+phyllotriaene
+pillar
+pinnate
+pinule
+pith
+pithed fiber
+placochela
+plagiotriaene
+platy
+plesiaster
+pleuralia
+plumoreticulate skeleton
+plumose skeleton
+pocket cell
+polymorphic
+polytylote megasclere
+pore groove
+pore sieve
+porocalyx
+posterior pole
+posticum
+primary fiber
+primary calcareous skeleton
+primary spicule
+primary spicule framework
+principalia
+prosochete
+prosodus
+prosopinacocyte
+prosopinacoderm
+prostalia
+protoclad
+protorhabd
+protriaene
+pseudocalyx
+pseudogemmule
+pseudosagittal spicule
+punctate surface
+pycnaster
+radiate skeleton
+raphide
+reduction body
+regular spicule
+repent
+resilient
+reticulate skeleton
+rhabd
+rhabdodiactin
+rhabdome
+rhabdostyle
+rhagon stage
+rhizoclone
+ribbed surface
+rigid aspicular skeleton
+rigid spicular skeleton
+rooted
+rubbery
+rugose surface
+sagittal spicule
+sanidaster
+sarule
+scale
+scepter
+sceptrule
+schizorhysis
+sclerodermite
+scopule
+secondary fiber
+secondary calcareous skeleton
+selenaster
+sessile
+sieve plate
+sigma
+sigmaspire
+sigmatocome
+skeleton
+smooth surface
+soft
+spatuliferous - anchorate chela
+spermiocyst
+sphaerancora
+sphaeroclone
+sphaerohexactin  ( sphaerohexact )
+sphaerohexaster
+spheraster
+spheroxyaster
+spherulitic microstructure
+spherulous cell
+spiculation
+spiculoid spicule
+spiny surface
+spiraster  ( = spinispira )
+spirodiscohexaster
+statoblast
+stauractin
+stauraster
+stepped megasclere
+sterraster
+sterrospheraster
+stipitate
+stoloniferous
+stomoblastula stage
+streptaster
+strobiloplumicome
+strongylaster  ( = chiaster )
+strongyle
+strongyloxea
+style
+subatrial spicule
+subcortical spicule
+subdermal spicule
+subgastral spicule
+sublithistid skeleton
+subtylostyle
+sulcate
+syconoid
+sylleibid
+symmetrical megasclere
+synapticule
+tabula
+tabulate osculum
+tangential skeleton
+tangential spicule
+tauactin
+tertiary fiber
+tetraclone
+tetractin
+tetractine
+tetradisc
+tetrapocillum
+thaumatochela
+thesocyte
+thraustoxa
+tignule
+tornote
+tough
+toxa
+trabecular tissue
+tract
+triactin
+triactine
+triaene
+triaxone
+trichaster
+trichimella
+trichodragma
+trichotriaene
+trichox
+tridentate chela
+trider
+triod
+tripod
+trophocyte
+truncaster
+tuberculate spicule
+tubular
+turbinate
+tylaster
+tyle
+tylostyle
+tylote
+uncinate
+unequal megasclere
+unguiferous - anchorate chela
+unispicular fiber ,  tract
+unpaired actine
+vallate
+velvety surface
+verrucose surface
+verticillate
+vesicular
+vestibule
+villose surface
+viviparity
+zygome
+zygosis
+aster
+microstrongyle
+pinnule
+silicatein
+silicase
+fusiform
+acantho
+smooth
+size class
+monactine
+obsolete diact
+processual entity
+anatomical structure
+organ
+fully formed stage
+embryo stage part
+embryo stage
+larval stage
+death stage
+post - embryonic stage
+life cycle
+life cycle stage
+zygote stage
+cleavage stage
+blastula stage
+gastrula stage
+neurula stage
+organogenesis stage
+material anatomical entity
+immaterial anatomical entity
+anatomical system
+multicellular organism
+acellular anatomical structure
+tissue
+anatomical group
+embryo
+reproductive system
+gonad
+primordium
+anatomical entity
+embryonic structure
+larva
+reproductive organ
+neurula embryo
+gastrula
+reproductive structure
+embryonic tissue
+gonad primordium
+presumptive structure
+anatomical surface
+cleaving embryo
+post - embryonic organism
+variant of

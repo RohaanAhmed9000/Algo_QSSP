@@ -1,0 +1,27 @@
+the ontocog is the semantic web service supported by cao .
+background data set is all the proteins with cog category assignment from the same species with user defined proteins .
+a directive information entity that describes an intended process endpoint .
+a directive information entity that describes an action the bearer will take
+software is a plan specification which is a series of encoded instructions that can be directly executed by a processing unit or transformed in to a form that can be .
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+a smallish ,  word - like datum . . .
+an information content entity is an entity that is generically dependent on some artifact and stands in relation of aboutness to some entity
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a data item that is an aggregate of other data items of the same type that have something in common .
+a directive information entity that when concretized it is realized in a process in which the bearer tries to achieve the objectives ,  in part by taking the actions specified .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+a classified data set is a data set that is produced as the output of a class prediction data transformation and consists of a data set with assigned class labels .
+a clustered data set is a data set that is produced as the output of a class discovery data transformation and consists of a data set with assigned discovered class labels .
+a background corrected data set is a data set that is produced as the output of a background correction data transformation .
+a class prediction data transformation  ( sometimes called supervised classification )  is a data transformation that has objective class prediction .
+a background correction data transformation  ( sometimes called supervised classification )  is a data transformation that has the objective background correction .
+a statistical hypothesis test data transformation is a data transformation that has objective statistical hypothesis test .
+is a data transformation objective where the aim is to estimate statistical significance with the aim of proving or disproving a hypothesis by means of some data transformation
+a data transformation is a process which produces output data from input data
+a data transformation objective is an objective specification that a data transformation may have towards which the realization of that transformation is directed .
+a correction objective is a data transformation objective where the aim is to correct for error ,  noise or other impairments to the input of the data transformation or derived from the data transformation itself
+a background correction objective is a data transformation objective where the aim is to remove irrelevant contributions from the measured signal ,  e .g .
+a class discovery data transformation  ( sometimes called unsupervised classification )  is a data transformation that has objective class discovery .
+fisher's exact test is a data transformation used to determine if there are nonrandom associations between two fisher's exact test is a statistical significance test used in the analysis of contingency tables where sample sizes are small where the significance of the deviation from a null hypothesis can be calculated exactly ,  rather than relying on an approximation that becomes exact in the limit as the sample size grows to infinity ,  as with many statistical tests .
+a class discovery objective  ( sometimes called unsupervised classification )  is a data transformation objective where the aim is to organize input data   ( typically vectors of attributes )  into classes ,  where the number of classes and their specifications are not known a priori .
+the chi - square test is a data transformation with the objective of statistical hypothesis testing ,  in which the sampling distribution of the test statistic is a chi - square distribution when the null hypothesis is true ,  or any in which this is asymptotically true ,  meaning that the sampling distribution  ( if the null hypothesis is true )  can be made to approximate a chi - square distribution as closely as desired by making the sample size large enough .

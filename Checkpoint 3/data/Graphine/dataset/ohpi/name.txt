@@ -1,0 +1,3368 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+continuant fiat boundary
+process profile
+relational quality
+molecular entity
+chemical entity
+cell line cell culturing
+cell line cell
+suspension cell line culturing
+adherent cell line culturing
+cell line repository role
+cell line repository
+immortal cell line cell
+cell line
+immortal mouse cell line cell
+immortal motile cell line cell
+immortal leukocyte cell line cell
+immortal myeloid leukocyte cell line cell
+immortal monocyte cell line cell
+immortal nongranular leukocyte cell line cell
+immortal eukaryotic cell line cell
+immortal animal cell line cell
+immortal epithelial cell line cell
+immortal hematopoietic cell line cell
+immortal myeloid cell line cell
+immortal somatic cell line cell
+immortal lung - derived cell line cell
+immortal kidney - derived cell line cell
+immortal colon - derived cell line cell
+immortal female gonad - derived cell line cell
+immortal stomach - derived cell line cell
+immortal uterine cervix - derived epithelial cell line cell
+immortal human lung - derived cell line cell
+immortal human cell line cell
+immortal human colon - derived cell line cell
+immortal vervet monkey kidney - derived cell line cell
+immortal human stomach - derived cell line cell
+immortal human epithelial cell line cell
+immortal human uterine cervix - derived epithelial cell line cell
+immortal human monocyte cell line cell
+rcb0098 cell
+cell
+primary cultured cell
+native cell
+cultured cell
+epithelial cell
+blood cell
+endothelial cell
+motile cell
+macrophage
+b cell
+lymphocyte
+monocyte
+experimentally modified cell in vitro
+leukocyte
+myeloid cell
+myeloid leukocyte
+mononuclear cell
+hematopoietic cell
+nongranular leukocyte
+bronchial epithelial cell
+primitive red blood cell
+somatic cell
+intestinal epithelial cell
+nasopharyngeal epithelial cell
+microvascular endothelial cell
+sensory system disease
+lower respiratory tract disease
+respiratory system cancer
+organ system cancer
+cell type cancer
+anal canal cancer
+eye adnexa disease
+endocardium disease
+artery disease
+musculoskeletal system cancer
+cartilage cancer
+sensory system cancer
+thoracic disease
+pharynx cancer
+integumentary system cancer
+muscular disease
+bone disease
+corneal disease
+intestinal cancer
+stomach cancer
+lens disease
+ovarian disease
+urinary bladder cancer
+heart disease
+fallopian tube endometriosis
+endometriosis of intestine
+endometriosis of ovary
+heart cancer
+ureter cancer
+vaginal cancer
+tracheal cancer
+head and neck cancer
+female reproductive organ cancer
+vaginal disease
+leukemia
+globe disease
+capillary disease
+cardiovascular system disease
+central nervous system leukemia
+brain cancer
+lung cancer
+endometrial cancer
+anus cancer
+ureteral disease
+disease of cellular proliferation
+eye and adnexa disease
+reproductive system disease
+colon carcinoma
+respiratory system disease
+integumentary system disease
+cancer
+musculoskeletal system disease
+endocrine gland cancer
+vascular cancer
+cardiovascular cancer
+vascular disease
+urinary system disease
+bone cancer
+jaw cancer
+reproductive organ cancer
+fallopian tube disease
+fallopian tube cancer
+rectum cancer
+connective tissue cancer
+ocular cancer
+colon cancer
+cervix disease
+gonadal disease
+female reproductive system disease
+colon adenocarcinoma
+ovarian cancer
+hematologic cancer
+kidney cancer
+endocrine system disease
+endometriosis
+cervix carcinoma
+adenocarcinoma
+mucinous adenocarcinoma
+carcinoma
+nervous system cancer
+gastrointestinal system cancer
+central nervous system disease
+uterine disease
+uveal disease
+cellulitis
+central nervous system cancer
+uterine cancer
+bladder disease
+skin disease
+cervical adenocarcinoma
+gastric adenocarcinoma
+lung carcinoma
+lung non - small cell carcinoma
+urinary system cancer
+disease
+mouth disease
+muscle cancer
+skin cancer
+cervical cancer
+infratentorial cancer
+thoracic cancer
+aortic disease
+intestinal disease
+stomach carcinoma
+kidney disease
+spinal cancer
+eye disease
+large intestine cancer
+retinal disease
+peripheral nervous system disease
+central nervous system hematologic cancer
+pulmonary artery disease
+connective tissue disease
+cerebrovascular disease
+disease of anatomical entity
+urethral disease
+urethra cancer
+hematopoietic system disease
+stomach disease
+gastrointestinal system disease
+lung disease
+monocytic leukemia
+oral cavity cancer
+nervous system disease
+vein disease
+myeloid leukemia
+acute monocytic leukemia
+colorectal cancer
+orbital disease
+brain disease
+leukocyte disease
+upper respiratory tract disease
+immune system process
+regulation of immune system process
+negative regulation of immune system process
+positive regulation of immune system process
+go:molecular_function
+catalytic activity
+signaling receptor binding
+binding
+protein binding
+phosphorus metabolic process
+phosphate - containing compound metabolic process
+immune response
+cell communication
+signal transduction
+biological_process
+metabolic process
+negative regulation of metabolic process
+positive regulation of metabolic process
+regulation of signal transduction
+positive regulation of signal transduction
+negative regulation of signal transduction
+cellular process
+regulation of signaling receptor activity
+positive regulation of phosphorus metabolic process
+negative regulation of phosphorus metabolic process
+regulation of cell communication
+positive regulation of cell communication
+negative regulation of cell communication
+kinase activity
+phosphorylation
+transferase activity
+transferase activity ,  transferring phosphorus - containing groups
+regulation of phosphate metabolic process
+regulation of metabolic process
+biological adhesion
+regulation of signaling
+signaling
+positive regulation of signaling
+negative regulation of signaling
+receptor regulator activity
+signaling receptor activator activity
+regulation of cellular metabolic process
+negative regulation of cellular metabolic process
+positive regulation of cellular metabolic process
+negative regulation of protein binding
+positive regulation of protein binding
+regulation of localization
+negative regulation of kinase activity
+positive regulation of kinase activity
+signaling receptor activity
+regulation of phosphorylation
+negative regulation of phosphorylation
+positive regulation of phosphorylation
+positive regulation of catalytic activity
+negative regulation of catalytic activity
+regulation of protein binding
+regulation of kinase activity
+regulation of multi - organism process
+negative regulation of multi - organism process
+positive regulation of multi - organism process
+regulation of symbiosis ,  encompassing mutualism through parasitism
+negative regulation of molecular function
+positive regulation of molecular function
+cellular metabolic process
+symbiosis ,  encompassing mutualism through parasitism
+adhesion of symbiont to host
+interspecies interaction between organisms
+negative regulation of phosphate metabolic process
+positive regulation of phosphate metabolic process
+receptor ligand activity
+positive regulation of biological process
+negative regulation of biological process
+positive regulation of cellular process
+negative regulation of cellular process
+regulation of response to stimulus
+positive regulation of response to stimulus
+negative regulation of response to stimulus
+regulation of immune response
+negative regulation of immune response
+positive regulation of immune response
+regulation of biological process
+regulation of catalytic activity
+regulation of cellular process
+response to stimulus
+regulation of binding
+positive regulation of binding
+negative regulation of binding
+regulation of phosphorus metabolic process
+localization
+establishment of localization
+regulation of transferase activity
+positive regulation of transferase activity
+negative regulation of transferase activity
+multi - organism process
+cellular response to stimulus
+molecular transducer activity
+biological regulation
+regulation of molecular function
+molecular function regulator
+regulation of receptor binding
+negative regulation of receptor binding
+positive regulation of receptor binding
+negative regulation of signaling receptor activity
+positive regulation of signaling receptor activity
+measurement unit label
+objective specification
+action specification
+datum label
+software
+information carrier
+data item
+information content entity
+directive information content entity
+dot plot
+graph
+algorithm
+curation status specification
+data format specification
+data set
+image
+data about an ontology part
+plan specification
+material information bearer
+histogram
+heatmap
+dendrogram
+scatter plot
+obsolescence reason specification
+figure
+diagram
+document
+denotator type
+infectious agent role
+pathogen role
+virulence factor disposition
+primary infection role
+secondary infection role
+infectious disease
+adhesion disposition
+pathogenic disposition
+infectious disposition
+susceptibility
+susceptibility to infectious agent
+complex infection
+extracellular infection
+intracellular infection
+systemic infection
+local infection
+focal infection
+acute infectious disease course
+infectious disease course
+infectious disorder
+viremia
+bacteremia
+pathogen
+host
+virulence factor
+adhesion factor
+primary infection
+secondary infection
+subclinical infection
+infection
+infectious agent
+establishment of localization in host
+appearance of disorder
+acute infection
+chronic infection
+host role
+hospital - acquired infection
+community - acquired infection
+metatstatic infection
+nursing - home acquired infection
+simple infection
+candidiasis
+trichomoniasis
+leptospirosis
+shigellosis
+amebiasis
+interaction
+regulator role
+input interactor role
+output interactor role
+activator role
+interactor role
+chemical reaction catalyst role
+positive regulator role
+negative regulator role
+deactivator role
+motivator role
+hygiene factor role
+planned process
+regulatory role
+material supplier role
+classified data set
+processed material
+culture medium
+material processing
+specimen role
+antigen role
+organization
+regulatory agency
+material transformation objective
+manufacturing
+manufacturing objective
+manufacturer role
+material separation objective
+clustered data set
+specimen collection process
+class prediction data transformation
+portioning objective
+separation into different composition objective
+specimen collection objective
+support vector machine
+decision tree induction objective
+decision tree building data transformation
+genepattern software
+peak matching
+k - nearest neighbors
+cart
+statistical model validation
+material maintenance objective
+manufacturer
+material maintenance
+service provider role
+processed specimen
+categorical label
+questionnaire
+specimen from organism
+secondary cultured cell
+establishing cell line
+secondary cultured cell population
+cell freezing medium
+categorical value specification
+value specification
+collection of specimens
+histologic grade according to ajcc 7th edition
+histologic grade according to the fuhrman nuclear grading system
+histologic grade for ovarian tumor
+histologic grade for ovarian tumor according to a two - tier grading system
+histologic grade for ovarian tumor according to the world health organization
+pathologic primary tumor stage for colon and rectum according to ajcc 7th edition
+pathologic primary tumor stage for lung according to ajcc 7th edition
+pathologic primary tumor stage for kidney according to ajcc 7th edition
+pathologic primary tumor stage for ovary according to ajcc 7th edition
+pathologic lymph node stage for colon and rectum according to ajcc 7th edition
+pathologic lymph node stage for lung according to ajcc 7th edition
+pathologic lymph node stage for kidney according to ajcc 7th edition
+pathologic lymph node stage for ovary according to ajcc 7th edition
+pathologic distant metastases stage for colon according to ajcc 7th edition
+pathologic distant metastases stage for lung according to ajcc 7th edition
+pathologic distant metastases stage for kidney according to ajcc 7th edition
+pathologic distant metastases stage for ovary according to ajcc 7th edition
+clinical tumor stage group according to ajcc 7th edition
+international federation of gynecology and obstetrics cervical cancer stage value specification
+international federation of gynecology and obstetrics ovarian cancer stage value specification
+performance status value specification
+eastern cooperative oncology group score value specification
+karnofsky score vaue specification
+epstein barr virus transformed b cell
+organism
+specimen
+cultured cell population
+data transformation
+leave one out cross validation method
+k - means clustering
+hierarchical clustering
+dimensionality reduction
+principal components analysis dimensionality reduction
+data visualization
+data transformation objective
+partitioning data transformation
+partitioning objective
+class discovery data transformation
+class discovery objective
+class prediction objective
+cross validation objective
+clustered data visualization
+material component separation
+maintaining cell culture
+establishing cell culture
+cell culture splitting
+genome
+gene
+gene type
+protein - coding gene type
+rna gene type
+rrna gene type
+snrna gene type
+trna gene type
+scrna gene type
+snorna gene type
+miscrna gene type
+ncrna gene type
+pseudo gene type
+transposon gene type
+other gene type
+unknown gene type
+genome of bacteria
+genome of spirochaetales
+genome of borrelia burgdorferi
+genome of campylobacter jejuni
+genome of helicobacter pylori
+genome of brucella
+genome of brucella abortus
+genome of francisella tularensis
+genome of pseudomonas aeruginosa
+genome of rhizobiales
+genome of legionella pneumophila
+genome of neisseria meningitidis
+genome of bordetella
+genome of bordetella pertussis
+genome of enterobacteriaceae
+genome of escherichia coli
+genome of shigella
+genome of shigella boydii
+genome of shigella flexneri
+genome of yersinia  < bacteria >
+genome of yersinia enterocolitica
+genome of yersinia pestis
+genome of yersinia pseudotuberculosis
+genome of vibrio cholerae
+genome of pasteurellaceae
+genome of actinobacillus pleuropneumoniae
+genome of haemophilus influenzae
+genome of pasteurella multocida
+genome of bartonella
+genome of chlamydia
+genome of proteobacteria
+genome of gammaproteobacteria
+genome of firmicutes
+genome of staphylococcus aureus
+genome of streptococcus
+genome of streptococcus agalactiae
+genome of streptococcus pneumoniae
+genome of streptococcus pyogenes
+genome of enterococcus
+genome of enterococcus faecalis
+genome of enterococcus faecium
+genome of bacillales
+genome of bacillus anthracis
+genome of clostridium
+genome of clostridium botulinum
+genome of  [ clostridium ]  difficile
+genome of clostridium perfringens
+genome of listeria monocytogenes
+genome of mycobacterium
+genome of mycobacterium tuberculosis
+genome of eukaryota
+genome of saccharomycetales
+genome of saccharomycetaceae
+genome of saccharomyces cerevisiae
+genome of ajellomyces capsulatus
+genome of cryptococcus neoformans
+genome of candida
+genome of candida albicans
+genome of candida glabrata
+genome of trypanosomatidae
+genome of leishmania donovani
+genome of leishmania major
+genome of leishmania mexicana
+genome of leishmania infantum
+genome of trypanosoma
+genome of trypanosoma cruzi
+genome of entamoeba histolytica
+genome of apicomplexa
+genome of toxoplasma gondii
+genome of plasmodium
+genome of plasmodium berghei anka
+genome of plasmodium yoelii
+genome of exophiala dermatitidis
+genome of lythrurus
+genome of viruses
+genome of chordopoxvirinae
+genome of orthopoxvirus
+genome of cowpox virus
+genome of vaccinia virus
+genome of vaccinia virus tian tan
+genome of vaccinia virus wr
+genome of orf virus
+genome of sheeppox virus
+genome of leporipoxvirus
+genome of rabbit fibroma virus
+genome of myxoma virus
+genome of herpesviridae
+genome of alphaherpesvirinae
+genome of simplexvirus
+genome of human herpesvirus 1
+genome of herpes simplex virus  ( type 1  /  strain 17 )
+genome of human herpesvirus 2
+genome of varicellovirus
+genome of bovine herpesvirus 1
+genome of equid herpesvirus 1
+genome of felid herpesvirus 1
+genome of human herpesvirus 3
+genome of suid herpesvirus 1
+genome of gallid herpesvirus 1
+genome of gallid herpesvirus 2
+genome of african swine fever virus
+genome of rotavirus
+genome of alphavirus
+genome of ross river virus
+genome of sindbis virus
+genome of venezuelan equine encephalitis virus
+genome of western equine encephalomyelitis virus
+genome of flaviviridae
+genome of flavivirus
+genome of west nile virus
+genome of tick - borne encephalitis virus
+genome of yellow fever virus
+genome of classical swine fever virus
+genome of classical swine fever virus  -  brescia
+genome of feline infectious peritonitis virus
+genome of porcine respiratory coronavirus
+genome of mononegavirales
+genome of paramyxoviridae
+genome of paramyxovirinae
+genome of newcastle disease virus
+genome of human parainfluenza virus 3
+genome of measles virus
+genome of pneumovirinae
+genome of pneumovirus
+genome of bovine respiratory syncytial virus
+genome of human respiratory syncytial virus a2
+genome of rhabdoviridae
+genome of infectious hematopoietic necrosis virus
+genome of rabies virus
+genome of influenza a virus
+genome of bunyaviridae
+genome of la crosse virus
+genome of rift valley fever virus
+genome of hantaan virus
+genome of lentivirus
+genome of primate lentivirus group
+genome of feline immunodeficiency virus
+genome of human immunodeficiency virus 1
+genome of simian immunodeficiency virus
+genome of encephalomyocarditis virus
+genome of chicken anemia virus
+genome of ectromelia virus
+genome of burkholderia mallei
+genome of alphaproteobacteria
+genome of betaproteobacteria
+genome of porcine reproductive and respiratory syndrome virus
+genome of burkholderia pseudomallei
+genome of trichocomaceae
+genome of rotavirus a
+genome of brucella melitensis
+genome of yersinia ruckeri
+genome of campylobacter jejuni subsp . jejuni
+genome of opisthokonta
+genome of onygenales
+genome of bilateria
+genome of suid herpesvirus 1 strain kaplan
+genome of actinobacillus pleuropneumoniae serovar 2
+genome of dsdna viruses ,  no rna stage
+genome of bovine herpesvirus 5
+genome of ssrna positive - strand viruses ,  no dna stage
+genome of ssrna negative - strand viruses
+genome of dictyochales
+genome of plasmodium falciparum 3d7
+genome of rotavirus c
+genome of clostridium botulinum a
+genome of bartonella henselae
+genome of leishmania  < subgenus >
+genome of leishmania donovani species complex
+genome of circoviridae
+genome of cryptococcus neoformans var . neoformans
+genome of candida dubliniensis
+genome of shigella flexneri 2a
+genome of vibrio cholerae o139
+genome of autographa californica nucleopolyhedrovirus
+genome of staphylococcus aureus subsp . aureus
+genome of salmonella enterica subsp . enterica
+genome of legionella pneumophila serogroup 1
+genome of murine cytomegalovirus  ( strain k181 )
+genome of haemophilus influenzae rd kw20
+genome of plasmodium yoelii yoelii
+genome of mannheimia haemolytica
+genome of nidovirales
+genome of bovine herpesvirus type 1 .1
+genome of burkholderiales
+genome of mycobacterium tuberculosis cdc1551
+genome of mycobacterium tuberculosis h37rv
+genome of escherichia coli k - 12
+genome of escherichia coli o157:h7
+genome of chlamydia pneumoniae
+genome of corynebacterineae
+genome of porcine circovirus 2
+genome of helicobacter pylori 26695
+genome of helicobacter pylori j99
+genome of salmonella enterica subsp . enterica serovar typhi
+genome of salmonella enterica subsp . enterica serovar typhimurium
+genome of bacilli
+genome of staphylococcus aureus subsp . aureus nctc 8325
+genome of influenza a virus  ( a / goose / guangdong / 1 / 96 ( h5n1 )  )
+genome of salmonella enterica subsp . enterica serovar typhimurium str . lt2
+genome of h5n1 subtype
+genome of bartonella birtlesii
+genome of pseudomallei group
+genome of chlamydophila pneumoniae cwl029
+genome of legionellales
+genome of francisella tularensis subsp . holarctica
+genome of nipah virus
+genome of neisseria meningitidis mc58
+genome of neisseria meningitidis z2491
+genome of neisseria meningitidis serogroup c
+genome of chlamydophila pneumoniae j138
+genome of eurotiomycetes
+genome of escherichia coli o157:h7 str . edl933
+genome of staphylococcus aureus subsp . aureus mu50
+genome of staphylococcus aureus subsp . aureus n315
+genome of streptococcus pyogenes m1 gas
+genome of streptococcus pyogenes str . manfredo
+genome of emericella nidulans
+genome of listeria monocytogenes egd - e
+genome of streptococcus pneumoniae tigr4
+genome of streptococcus pneumoniae r6
+genome of francisella tularensis subsp . tularensis schu s4
+genome of weev complex
+genome of cryptococcus neoformans var . grubii
+genome of chlamydophila pneumoniae tw - 183
+genome of trypanosoma brucei treu927
+genome of streptococcus pyogenes mgas8232
+genome of zaire ebolavirus
+genome of clostridiales
+genome of lactobacillales
+genome of yersinia pestis kim10 +
+genome of leptospira interrogans serovar lai str . 56601
+genome of bacillus anthracis str . a2012
+genome of campylobacter jejuni subsp . jejuni nctc 11168 = atcc 700819
+genome of streptococcus pyogenes ssi - 1
+genome of campylobacter jejuni rm1221
+genome of clostridium perfringens str . 13
+genome of clostridium perfringens atcc 13124
+genome of staphylococcus aureus subsp . aureus mw2
+genome of bacillus anthracis str . ames
+genome of shigella flexneri 2a str . 301
+genome of shigella flexneri 2a str . 2457t
+genome of streptococcus pyogenes mgas315
+genome of coccidioides posadasii
+genome of escherichia coli cft073
+genome of brucella suis 1330
+genome of streptococcus agalactiae a909
+genome of streptococcus agalactiae 2603v / r
+genome of pseudomonas aeruginosa ucbpp - pa14
+genome of pseudomonas aeruginosa pao1
+genome of salmonella enterica subsp . enterica serovar typhi str . ty2
+genome of influenza a virus  ( a / puerto rico / 8 / 1934 ( h1n1 )  )
+genome of streptococcus agalactiae nem316
+genome of clostridium tetani e88
+genome of campylobacterales
+genome of yersinia pestis co92
+genome of cryptococcus neoformans var . neoformans jec21
+genome of salmonella enterica subsp . enterica serovar typhi str . ct18
+genome of borrelia burgdorferi b31
+genome of brucella melitensis bv . 1 str . 16m
+genome of enterococcus faecalis v583
+genome of aspergillus nidulans fgsc a4
+genome of coxiella burnetii rsa 493
+genome of yersinia pestis biovar microtus str . 91001
+genome of candida albicans sc5314
+genome of burkholderia mallei atcc 23344
+genome of vibrio cholerae o1 biovar el tor str . n16961
+genome of corynebacterium diphtheriae nctc 13129
+genome of bordetella bronchiseptica rb50
+genome of bordetella pertussis tohama i
+genome of bacillus anthracis str . sterne
+genome of bacillus anthracis str . 'ames ancestor'
+genome of orgyia pseudotsugata mnpv
+genome of mycobacterium avium subsp . paratuberculosis k - 10
+genome of listeria monocytogenes serotype 4b str . f2365
+genome of pneumonia virus of mice j3666
+genome of bombyx mori npv
+genome of burkholderia pseudomallei k96243
+genome of chlamydia trachomatis d / uw - 3 / cx
+genome of clostridium difficile 630
+genome of legionella pneumophila subsp . pneumophila str . philadelphia 1
+genome of neisseria meningitidis fam18
+genome of pasteurella multocida subsp . multocida str . pm70
+genome of rickettsia prowazekii str . madrid e
+genome of staphylococcus aureus rf122
+genome of yersinia pseudotuberculosis ip 32953
+genome of haemophilus influenzae 86 - 028np
+genome of staphylococcus aureus subsp . aureus mrsa252
+genome of bartonella henselae str . houston - 1
+genome of cryptococcus neoformans var . neoformans b - 3501a
+genome of influenza a virus  ( a / viet nam / 1203 / 2004 ( h5n1 )  )
+genome of candida glabrata cbs 138
+genome of streptococcus pyogenes mgas10394
+genome of clostridium perfringens sm101
+genome of streptococcus pyogenes mgas5005
+genome of entamoeba histolytica hm - 1:imss
+genome of salmonella enterica subsp . enterica serovar paratyphi a str . atcc 9150
+genome of legionella pneumophila str . lens
+genome of legionella pneumophila str . paris
+genome of shigella dysenteriae sd197
+genome of shigella boydii sb227
+genome of shigella sonnei ss046
+genome of streptococcus pyogenes serotype m1
+genome of streptococcus pyogenes serotype m3
+genome of escherichia coli str . k - 12 substr . dh10b
+genome of escherichia coli etec h10407
+genome of streptococcus pyogenes mgas6180
+genome of burkholderia pseudomallei 1710b
+genome of burkholderia pseudomallei 668
+genome of burkholderia mallei savp1
+genome of burkholderia mallei nctc 10247
+genome of salmonella enterica subsp . enterica serovar choleraesuis str . sc - b67
+genome of aspergillus fumigatus af293
+genome of escherichia coli e24377a
+genome of escherichia coli hs
+genome of mycobacterium tuberculosis f11
+genome of streptococcus pyogenes serotype m12
+genome of shigella boydii cdc 3083 - 94
+genome of sars coronavirus zj0301
+genome of vibrio cholerae o395
+genome of leishmania major strain friedlin
+genome of yersinia pestis angola
+genome of yersinia pseudotuberculosis ip 31758
+genome of plasmodium yoelii yoelii 17xnl
+genome of cryptosporidium parvum iowa ii
+genome of trypanosoma cruzi strain cl brener
+genome of campylobacter jejuni subsp . jejuni 81 - 176
+genome of burkholderia pseudomallei 1106a
+genome of brucella melitensis biovar abortus 2308
+genome of bartonella bacilliformis kc583
+genome of yersinia pestis antiqua
+genome of campylobacter jejuni subsp . doylei 269 .97
+genome of bordetella avium 197n
+genome of escherichia coli 536
+genome of escherichia coli uti89
+genome of streptococcus pyogenes mgas9429
+genome of streptococcus pyogenes mgas10270
+genome of streptococcus pyogenes mgas2096
+genome of streptococcus pyogenes mgas10750
+genome of streptococcus pneumoniae d39
+genome of shigella flexneri 5 str . 8401
+genome of neisseria meningitidis 053442
+genome of francisella tularensis subsp . holarctica lvs
+genome of escherichia coli o26:h -
+genome of yersinia pestis nepal516
+genome of aeromonas salmonicida subsp . salmonicida a449
+genome of bartonella tribocorum cip 105476
+genome of escherichia coli o157:h7 str . sakai
+genome of yersinia pestis pestoides f
+genome of yersinia enterocolitica subsp . enterocolitica 8081
+genome of legionella pneumophila str . corby
+genome of escherichia coli apec o1
+genome of campylobacter jejuni subsp . jejuni 81116
+genome of escherichia coli se11
+genome of burkholderia mallei nctc 10229
+genome of yersinia pestis ca88 - 4125
+genome of escherichia coli b str . rel606
+genome of actinobacillus pleuropneumoniae serovar 5b str . l20
+genome of plasmodium  ( vinckeia )
+genome of staphylococcus aureus subsp . aureus mu3
+genome of mycobacterium tuberculosis h37ra
+genome of eimeriorina
+genome of legionella pneumophila 2300 / 99 alcoy
+genome of staphylococcus aureus subsp . aureus str . newman
+genome of actinobacillus pleuropneumoniae serovar 3 str . jl03
+genome of ssrna viruses
+genome of escherichia coli sms - 3 - 5
+genome of clostridium botulinum a str . atcc 19397
+genome of clostridium botulinum a str . hall
+genome of escherichia coli o157:h7 str . ec4115
+genome of borrelia burgdorferi 156a
+genome of borrelia burgdorferi zs7
+genome of dikarya
+genome of eurotiomycetidae
+genome of francisella tularensis subsp . holarctica ftnf002 - 00
+genome of streptococcus pyogenes nz131
+genome of enterococcus faecalis og1rf
+genome of salmonella enterica subsp . enterica serovar paratyphi c strain rks4594
+genome of paenibacillus sp . y412mc10
+genome of streptococcus pneumoniae taiwan19f - 14
+genome of streptococcus pneumoniae hungary19a - 6
+genome of streptococcus pneumoniae 70585
+genome of streptococcus pneumoniae jja
+genome of streptococcus pneumoniae p1031
+genome of clostridium botulinum b1 str . okra
+genome of clostridium botulinum a3 str . loch maree
+genome of edwardsiella tarda eib202
+genome of yersinia pseudotuberculosis ypiii
+genome of yersinia pseudotuberculosis pb1 /  +
+genome of clostridium botulinum e3 str . alaska e43
+genome of toxoplasma gondii me49
+genome of escherichia coli str . k - 12 substr . mg1655
+genome of streptococcus pneumoniae g54
+genome of streptococcus pneumoniae cgsp14
+genome of borrelia burgdorferi n40
+genome of borrelia burgdorferi 297
+genome of burkholderia pseudomallei mshr346
+genome of actinobacillus pleuropneumoniae serovar 7 str . ap76
+genome of escherichia coli o157:h7 str . tw14359
+genome of salmonella enterica subsp . enterica serovar enteritidis str . p125109
+genome of salmonella enterica subsp . enterica serovar gallinarum str . 287 / 91
+genome of filobasidiella / cryptococcus neoformans species complex
+genome of cryptococcus gattii
+genome of streptococcus equi subsp . zooepidemicus mgcs10565
+genome of listeria monocytogenes hcc23
+genome of pseudomonas aeruginosa lesb58
+genome of alphabaculovirus
+genome of saccharomyces cerevisiae s288c
+genome of streptococcus pneumoniae atcc 700669
+genome of helicobacter pylori g27
+genome of listeria monocytogenes l99
+genome of escherichia coli vir68
+genome of bacillus anthracis str . cdc 684
+genome of listeria monocytogenes serotype 4b str . clip 80459
+genome of helicobacter pylori p12
+genome of escherichia coli o26:h11 str . 11368
+genome of escherichia coli o127:h6 str . e2348 / 69
+genome of vibrio cholerae m66 - 2
+genome of escherichia coli iai1
+genome of escherichia coli s88
+genome of escherichia coli 55989
+genome of escherichia coli umn026
+genome of escherichia coli iai39
+genome of escherichia coli o103:h2 str . 12009
+genome of escherichia coli o111:h -  str . 11128
+genome of escherichia coli ed1a
+genome of salmonella enterica subsp . enterica serovar typhimurium str . 14028s
+genome of bacillus anthracis str . a0248
+genome of helicobacter pylori b38
+genome of escherichia coli bw2952
+genome of sars coronavirus exon1
+genome of listeria monocytogenes 08 - 5923
+genome of listeria monocytogenes 08 - 5578
+genome of neisseria meningitidis alpha14
+genome of staphylococcus aureus subsp . aureus ed98
+genome of coronavirinae
+genome of alphacoronavirus 1
+genome of severe acute respiratory syndrome - related coronavirus
+genome of human metapneumovirus can97 - 83
+genome of mileewa branchiuma
+genome of staphylococcus aureus 04 - 02981
+genome of mycoplasma gallisepticum str . r ( low )
+genome of saccharomyceta
+genome of legionella pneumophila 130b
+genome of salmonella enterica subsp . enterica serovar typhimurium str . st4 / 74
+gene of bacteria
+gene of spirochaetales
+gene of borrelia burgdorferi
+gene of campylobacter jejuni
+gene of helicobacter pylori
+gene of brucella
+gene of brucella abortus
+gene of francisella tularensis
+gene of pseudomonas aeruginosa
+gene of rhizobiales
+gene of legionella pneumophila
+gene of neisseria meningitidis
+gene of bordetella
+gene of bordetella pertussis
+gene of enterobacteriaceae
+gene of escherichia coli
+gene of shigella
+gene of shigella boydii
+gene of shigella flexneri
+gene of yersinia  < bacteria >
+gene of yersinia enterocolitica
+gene of yersinia pestis
+gene of yersinia pseudotuberculosis
+gene of vibrio cholerae
+gene of pasteurellaceae
+gene of actinobacillus pleuropneumoniae
+gene of haemophilus influenzae
+gene of pasteurella multocida
+gene of bartonella
+gene of chlamydia
+gene of proteobacteria
+gene of gammaproteobacteria
+gene of firmicutes
+gene of staphylococcus aureus
+gene of streptococcus
+gene of streptococcus agalactiae
+gene of streptococcus pneumoniae
+gene of streptococcus pyogenes
+gene of enterococcus
+gene of enterococcus faecalis
+gene of enterococcus faecium
+gene of bacillales
+gene of bacillus anthracis
+gene of clostridium
+gene of clostridium botulinum
+gene of  [ clostridium ]  difficile
+gene of clostridium perfringens
+gene of listeria monocytogenes
+gene of mycobacterium
+gene of mycobacterium tuberculosis
+gene of eukaryota
+gene of saccharomycetales
+gene of saccharomycetaceae
+gene of saccharomyces cerevisiae
+gene of ajellomyces capsulatus
+gene of cryptococcus neoformans
+gene of candida
+gene of candida albicans
+gene of candida glabrata
+gene of trypanosomatidae
+gene of leishmania donovani
+gene of leishmania major
+gene of leishmania mexicana
+gene of leishmania infantum
+gene of trypanosoma
+gene of trypanosoma cruzi
+gene of entamoeba histolytica
+gene of apicomplexa
+gene of toxoplasma gondii
+gene of plasmodium
+gene of plasmodium berghei anka
+gene of plasmodium yoelii
+gene of exophiala dermatitidis
+gene of lythrurus
+gene of viruses
+gene of chordopoxvirinae
+gene of orthopoxvirus
+gene of cowpox virus
+gene of vaccinia virus
+gene of vaccinia virus tian tan
+gene of vaccinia virus wr
+gene of orf virus
+gene of sheeppox virus
+gene of leporipoxvirus
+gene of rabbit fibroma virus
+gene of myxoma virus
+gene of herpesviridae
+gene of alphaherpesvirinae
+gene of simplexvirus
+gene of human herpesvirus 1
+gene of herpes simplex virus  ( type 1  /  strain 17 )
+gene of human herpesvirus 2
+gene of varicellovirus
+gene of bovine herpesvirus 1
+gene of equid herpesvirus 1
+gene of felid herpesvirus 1
+gene of human herpesvirus 3
+gene of suid herpesvirus 1
+gene of gallid herpesvirus 1
+gene of gallid herpesvirus 2
+gene of african swine fever virus
+gene of rotavirus
+gene of alphavirus
+gene of ross river virus
+gene of sindbis virus
+gene of venezuelan equine encephalitis virus
+gene of western equine encephalomyelitis virus
+gene of flaviviridae
+gene of flavivirus
+gene of west nile virus
+gene of tick - borne encephalitis virus
+gene of yellow fever virus
+gene of classical swine fever virus
+gene of classical swine fever virus  -  brescia
+gene of feline infectious peritonitis virus
+gene of porcine respiratory coronavirus
+gene of mononegavirales
+gene of paramyxoviridae
+gene of paramyxovirinae
+gene of newcastle disease virus
+gene of human parainfluenza virus 3
+gene of measles virus
+gene of pneumovirinae
+gene of pneumovirus
+gene of bovine respiratory syncytial virus
+gene of human respiratory syncytial virus a2
+gene of rhabdoviridae
+gene of infectious hematopoietic necrosis virus
+gene of rabies virus
+gene of influenza a virus
+gene of bunyaviridae
+gene of la crosse virus
+gene of rift valley fever virus
+gene of hantaan virus
+gene of lentivirus
+gene of primate lentivirus group
+gene of feline immunodeficiency virus
+gene of human immunodeficiency virus 1
+gene of simian immunodeficiency virus
+gene of encephalomyocarditis virus
+gene of chicken anemia virus
+gene of ectromelia virus
+gene of burkholderia mallei
+gene of alphaproteobacteria
+gene of betaproteobacteria
+gene of porcine reproductive and respiratory syndrome virus
+gene of burkholderia pseudomallei
+gene of trichocomaceae
+gene of rotavirus a
+gene of brucella melitensis
+gene of yersinia ruckeri
+gene of campylobacter jejuni subsp . jejuni
+gene of opisthokonta
+gene of onygenales
+gene of bilateria
+gene of suid herpesvirus 1 strain kaplan
+gene of actinobacillus pleuropneumoniae serovar 2
+gene of dsdna viruses ,  no rna stage
+gene of bovine herpesvirus 5
+gene of ssrna positive - strand viruses ,  no dna stage
+gene of ssrna negative - strand viruses
+gene of dictyochales
+gene of plasmodium falciparum 3d7
+gene of rotavirus c
+gene of clostridium botulinum a
+gene of bartonella henselae
+gene of leishmania  < subgenus >
+gene of leishmania donovani species complex
+gene of circoviridae
+gene of cryptococcus neoformans var . neoformans
+gene of candida dubliniensis
+gene of shigella flexneri 2a
+gene of vibrio cholerae o139
+gene of autographa californica nucleopolyhedrovirus
+gene of staphylococcus aureus subsp . aureus
+gene of salmonella enterica subsp . enterica
+gene of legionella pneumophila serogroup 1
+gene of murine cytomegalovirus  ( strain k181 )
+gene of haemophilus influenzae rd kw20
+gene of plasmodium yoelii yoelii
+gene of mannheimia haemolytica
+gene of nidovirales
+gene of bovine herpesvirus type 1 .1
+gene of burkholderiales
+gene of mycobacterium tuberculosis cdc1551
+gene of mycobacterium tuberculosis h37rv
+gene of escherichia coli k - 12
+gene of escherichia coli o157:h7
+gene of chlamydia pneumoniae
+gene of corynebacterineae
+gene of porcine circovirus 2
+gene of helicobacter pylori 26695
+gene of helicobacter pylori j99
+gene of salmonella enterica subsp . enterica serovar typhi
+gene of salmonella enterica subsp . enterica serovar typhimurium
+gene of bacilli
+gene of staphylococcus aureus subsp . aureus nctc 8325
+gene of influenza a virus  ( a / goose / guangdong / 1 / 96 ( h5n1 )  )
+gene of salmonella enterica subsp . enterica serovar typhimurium str . lt2
+gene of h5n1 subtype
+gene of bartonella birtlesii
+gene of pseudomallei group
+gene of chlamydophila pneumoniae cwl029
+gene of legionellales
+gene of francisella tularensis subsp . holarctica
+gene of nipah virus
+gene of neisseria meningitidis mc58
+gene of neisseria meningitidis z2491
+gene of neisseria meningitidis serogroup c
+gene of chlamydophila pneumoniae j138
+gene of eurotiomycetes
+gene of escherichia coli o157:h7 str . edl933
+gene of staphylococcus aureus subsp . aureus mu50
+gene of staphylococcus aureus subsp . aureus n315
+gene of streptococcus pyogenes m1 gas
+gene of streptococcus pyogenes str . manfredo
+gene of emericella nidulans
+gene of listeria monocytogenes egd - e
+gene of streptococcus pneumoniae tigr4
+gene of streptococcus pneumoniae r6
+gene of francisella tularensis subsp . tularensis schu s4
+gene of weev complex
+gene of cryptococcus neoformans var . grubii
+gene of chlamydophila pneumoniae tw - 183
+gene of trypanosoma brucei treu927
+gene of streptococcus pyogenes mgas8232
+gene of zaire ebolavirus
+gene of clostridiales
+gene of lactobacillales
+gene of yersinia pestis kim10 +
+gene of leptospira interrogans serovar lai str . 56601
+gene of bacillus anthracis str . a2012
+gene of campylobacter jejuni subsp . jejuni nctc 11168 = atcc 700819
+gene of streptococcus pyogenes ssi - 1
+gene of campylobacter jejuni rm1221
+gene of clostridium perfringens str . 13
+gene of clostridium perfringens atcc 13124
+gene of staphylococcus aureus subsp . aureus mw2
+gene of bacillus anthracis str . ames
+gene of shigella flexneri 2a str . 301
+gene of shigella flexneri 2a str . 2457t
+gene of streptococcus pyogenes mgas315
+gene of coccidioides posadasii
+gene of escherichia coli cft073
+gene of brucella suis 1330
+gene of streptococcus agalactiae a909
+gene of streptococcus agalactiae 2603v / r
+gene of pseudomonas aeruginosa ucbpp - pa14
+gene of pseudomonas aeruginosa pao1
+gene of salmonella enterica subsp . enterica serovar typhi str . ty2
+gene of influenza a virus  ( a / puerto rico / 8 / 1934 ( h1n1 )  )
+gene of streptococcus agalactiae nem316
+gene of clostridium tetani e88
+gene of campylobacterales
+gene of yersinia pestis co92
+gene of cryptococcus neoformans var . neoformans jec21
+gene of salmonella enterica subsp . enterica serovar typhi str . ct18
+gene of borrelia burgdorferi b31
+gene of brucella melitensis bv . 1 str . 16m
+gene of enterococcus faecalis v583
+gene of aspergillus nidulans fgsc a4
+gene of coxiella burnetii rsa 493
+gene of yersinia pestis biovar microtus str . 91001
+gene of candida albicans sc5314
+gene of burkholderia mallei atcc 23344
+gene of vibrio cholerae o1 biovar el tor str . n16961
+gene of corynebacterium diphtheriae nctc 13129
+gene of bordetella bronchiseptica rb50
+gene of bordetella pertussis tohama i
+gene of bacillus anthracis str . sterne
+gene of bacillus anthracis str . 'ames ancestor'
+gene of orgyia pseudotsugata mnpv
+gene of mycobacterium avium subsp . paratuberculosis k - 10
+gene of listeria monocytogenes serotype 4b str . f2365
+gene of pneumonia virus of mice j3666
+gene of bombyx mori npv
+gene of burkholderia pseudomallei k96243
+gene of chlamydia trachomatis d / uw - 3 / cx
+gene of clostridium difficile 630
+gene of legionella pneumophila subsp . pneumophila str . philadelphia 1
+gene of neisseria meningitidis fam18
+gene of pasteurella multocida subsp . multocida str . pm70
+gene of rickettsia prowazekii str . madrid e
+gene of staphylococcus aureus rf122
+gene of yersinia pseudotuberculosis ip 32953
+gene of haemophilus influenzae 86 - 028np
+gene of staphylococcus aureus subsp . aureus mrsa252
+gene of bartonella henselae str . houston - 1
+gene of cryptococcus neoformans var . neoformans b - 3501a
+gene of influenza a virus  ( a / viet nam / 1203 / 2004 ( h5n1 )  )
+gene of candida glabrata cbs 138
+gene of streptococcus pyogenes mgas10394
+gene of clostridium perfringens sm101
+gene of streptococcus pyogenes mgas5005
+gene of entamoeba histolytica hm - 1:imss
+gene of salmonella enterica subsp . enterica serovar paratyphi a str . atcc 9150
+gene of legionella pneumophila str . lens
+gene of legionella pneumophila str . paris
+gene of shigella dysenteriae sd197
+gene of shigella boydii sb227
+gene of shigella sonnei ss046
+gene of streptococcus pyogenes serotype m1
+gene of streptococcus pyogenes serotype m3
+gene of escherichia coli str . k - 12 substr . dh10b
+gene of escherichia coli etec h10407
+gene of streptococcus pyogenes mgas6180
+gene of burkholderia pseudomallei 1710b
+gene of burkholderia pseudomallei 668
+gene of burkholderia mallei savp1
+gene of burkholderia mallei nctc 10247
+gene of salmonella enterica subsp . enterica serovar choleraesuis str . sc - b67
+gene of aspergillus fumigatus af293
+gene of escherichia coli e24377a
+gene of escherichia coli hs
+gene of mycobacterium tuberculosis f11
+gene of streptococcus pyogenes serotype m12
+gene of shigella boydii cdc 3083 - 94
+gene of sars coronavirus zj0301
+gene of vibrio cholerae o395
+gene of leishmania major strain friedlin
+gene of yersinia pestis angola
+gene of yersinia pseudotuberculosis ip 31758
+gene of plasmodium yoelii yoelii 17xnl
+gene of cryptosporidium parvum iowa ii
+gene of trypanosoma cruzi strain cl brener
+gene of campylobacter jejuni subsp . jejuni 81 - 176
+gene of burkholderia pseudomallei 1106a
+gene of brucella melitensis biovar abortus 2308
+gene of bartonella bacilliformis kc583
+gene of yersinia pestis antiqua
+gene of campylobacter jejuni subsp . doylei 269 .97
+gene of bordetella avium 197n
+gene of escherichia coli 536
+gene of escherichia coli uti89
+gene of streptococcus pyogenes mgas9429
+gene of streptococcus pyogenes mgas10270
+gene of streptococcus pyogenes mgas2096
+gene of streptococcus pyogenes mgas10750
+gene of streptococcus pneumoniae d39
+gene of shigella flexneri 5 str . 8401
+gene of neisseria meningitidis 053442
+gene of francisella tularensis subsp . holarctica lvs
+gene of escherichia coli o26:h -
+gene of yersinia pestis nepal516
+gene of aeromonas salmonicida subsp . salmonicida a449
+gene of bartonella tribocorum cip 105476
+gene of escherichia coli o157:h7 str . sakai
+gene of yersinia pestis pestoides f
+gene of yersinia enterocolitica subsp . enterocolitica 8081
+gene of legionella pneumophila str . corby
+gene of escherichia coli apec o1
+gene of campylobacter jejuni subsp . jejuni 81116
+gene of escherichia coli se11
+gene of burkholderia mallei nctc 10229
+gene of yersinia pestis ca88 - 4125
+gene of escherichia coli b str . rel606
+gene of actinobacillus pleuropneumoniae serovar 5b str . l20
+gene of plasmodium  ( vinckeia )
+gene of staphylococcus aureus subsp . aureus mu3
+gene of mycobacterium tuberculosis h37ra
+gene of eimeriorina
+gene of legionella pneumophila 2300 / 99 alcoy
+gene of staphylococcus aureus subsp . aureus str . newman
+gene of actinobacillus pleuropneumoniae serovar 3 str . jl03
+gene of ssrna viruses
+gene of escherichia coli sms - 3 - 5
+gene of clostridium botulinum a str . atcc 19397
+gene of clostridium botulinum a str . hall
+gene of escherichia coli o157:h7 str . ec4115
+gene of borrelia burgdorferi 156a
+gene of borrelia burgdorferi zs7
+gene of dikarya
+gene of eurotiomycetidae
+gene of francisella tularensis subsp . holarctica ftnf002 - 00
+gene of streptococcus pyogenes nz131
+gene of enterococcus faecalis og1rf
+gene of salmonella enterica subsp . enterica serovar paratyphi c strain rks4594
+gene of paenibacillus sp . y412mc10
+gene of streptococcus pneumoniae taiwan19f - 14
+gene of streptococcus pneumoniae hungary19a - 6
+gene of streptococcus pneumoniae 70585
+gene of streptococcus pneumoniae jja
+gene of streptococcus pneumoniae p1031
+gene of clostridium botulinum b1 str . okra
+gene of clostridium botulinum a3 str . loch maree
+gene of edwardsiella tarda eib202
+gene of yersinia pseudotuberculosis ypiii
+gene of yersinia pseudotuberculosis pb1 /  +
+gene of clostridium botulinum e3 str . alaska e43
+gene of toxoplasma gondii me49
+gene of escherichia coli str . k - 12 substr . mg1655
+gene of streptococcus pneumoniae g54
+gene of streptococcus pneumoniae cgsp14
+gene of borrelia burgdorferi n40
+gene of borrelia burgdorferi 297
+gene of burkholderia pseudomallei mshr346
+gene of actinobacillus pleuropneumoniae serovar 7 str . ap76
+gene of escherichia coli o157:h7 str . tw14359
+gene of salmonella enterica subsp . enterica serovar enteritidis str . p125109
+gene of salmonella enterica subsp . enterica serovar gallinarum str . 287 / 91
+gene of filobasidiella / cryptococcus neoformans species complex
+gene of cryptococcus gattii
+gene of streptococcus equi subsp . zooepidemicus mgcs10565
+gene of listeria monocytogenes hcc23
+gene of pseudomonas aeruginosa lesb58
+gene of alphabaculovirus
+gene of saccharomyces cerevisiae s288c
+gene of streptococcus pneumoniae atcc 700669
+gene of helicobacter pylori g27
+gene of listeria monocytogenes l99
+gene of escherichia coli vir68
+gene of bacillus anthracis str . cdc 684
+gene of listeria monocytogenes serotype 4b str . clip 80459
+gene of helicobacter pylori p12
+gene of escherichia coli o26:h11 str . 11368
+gene of escherichia coli o127:h6 str . e2348 / 69
+gene of vibrio cholerae m66 - 2
+gene of escherichia coli iai1
+gene of escherichia coli s88
+gene of escherichia coli 55989
+gene of escherichia coli umn026
+gene of escherichia coli iai39
+gene of escherichia coli o103:h2 str . 12009
+gene of escherichia coli o111:h -  str . 11128
+gene of escherichia coli ed1a
+gene of salmonella enterica subsp . enterica serovar typhimurium str . 14028s
+gene of bacillus anthracis str . a0248
+gene of helicobacter pylori b38
+gene of escherichia coli bw2952
+gene of sars coronavirus exon1
+gene of listeria monocytogenes 08 - 5923
+gene of listeria monocytogenes 08 - 5578
+gene of neisseria meningitidis alpha14
+gene of staphylococcus aureus subsp . aureus ed98
+gene of coronavirinae
+gene of alphacoronavirus 1
+gene of severe acute respiratory syndrome - related coronavirus
+gene of human metapneumovirus can97 - 83
+gene of mileewa branchiuma
+gene of staphylococcus aureus 04 - 02981
+gene of mycoplasma gallisepticum str . r ( low )
+gene of saccharomyceta
+gene of legionella pneumophila 130b
+gene of salmonella enterica subsp . enterica serovar typhimurium str . st4 / 74
+trna gene of francisella tularensis subsp . holarctica lvs
+rrna gene of francisella tularensis subsp . tularensis schu s4
+rrna gene of francisella tularensis subsp . holarctica lvs
+protein - coding gene of campylobacter jejuni
+protein - coding gene of escherichia coli
+protein - coding gene of yersinia enterocolitica
+protein - coding gene of yersinia pestis
+protein - coding gene of enterococcus faecalis
+protein - coding gene of clostridium botulinum
+protein - coding gene of clostridium perfringens
+protein - coding gene of listeria monocytogenes
+protein - coding gene of plasmodium berghei anka
+protein - coding gene of cowpox virus
+protein - coding gene of vaccinia virus
+protein - coding gene of sheeppox virus
+protein - coding gene of rabbit fibroma virus
+protein - coding gene of myxoma virus
+protein - coding gene of human herpesvirus 1
+protein - coding gene of human herpesvirus 2
+protein - coding gene of bovine herpesvirus 1
+protein - coding gene of felid herpesvirus 1
+protein - coding gene of human herpesvirus 3
+protein - coding gene of suid herpesvirus 1
+protein - coding gene of gallid herpesvirus 1
+protein - coding gene of gallid herpesvirus 2
+protein - coding gene of african swine fever virus
+protein - coding gene of ross river virus
+protein - coding gene of classical swine fever virus
+protein - coding gene of feline infectious peritonitis virus
+protein - coding gene of measles virus
+protein - coding gene of bovine respiratory syncytial virus
+protein - coding gene of infectious hematopoietic necrosis virus
+protein - coding gene of rabies virus
+protein - coding gene of la crosse virus
+protein - coding gene of hantaan virus
+protein - coding gene of feline immunodeficiency virus
+protein - coding gene of human immunodeficiency virus 1
+protein - coding gene of simian immunodeficiency virus
+protein - coding gene of ectromelia virus
+protein - coding gene of rotavirus a
+protein - coding gene of bovine herpesvirus 5
+protein - coding gene of plasmodium falciparum 3d7
+protein - coding gene of rotavirus c
+protein - coding gene of autographa californica nucleopolyhedrovirus
+protein - coding gene of haemophilus influenzae rd kw20
+protein - coding gene of mycobacterium tuberculosis cdc1551
+protein - coding gene of mycobacterium tuberculosis h37rv
+protein - coding gene of porcine circovirus 2
+protein - coding gene of helicobacter pylori 26695
+protein - coding gene of helicobacter pylori j99
+protein - coding gene of staphylococcus aureus subsp . aureus nctc 8325
+protein - coding gene of influenza a virus  ( a / goose / guangdong / 1 / 96 ( h5n1 )  )
+protein - coding gene of salmonella enterica subsp . enterica serovar typhimurium str . lt2
+protein - coding gene of chlamydophila pneumoniae cwl029
+protein - coding gene of neisseria meningitidis mc58
+protein - coding gene of neisseria meningitidis z2491
+protein - coding gene of chlamydophila pneumoniae j138
+protein - coding gene of escherichia coli o157:h7 str . edl933
+protein - coding gene of staphylococcus aureus subsp . aureus mu50
+protein - coding gene of staphylococcus aureus subsp . aureus n315
+protein - coding gene of streptococcus pyogenes m1 gas
+protein - coding gene of streptococcus pyogenes str . manfredo
+protein - coding gene of listeria monocytogenes egd - e
+protein - coding gene of streptococcus pneumoniae tigr4
+protein - coding gene of streptococcus pneumoniae r6
+protein - coding gene of francisella tularensis subsp . tularensis schu s4
+protein - coding gene of chlamydophila pneumoniae tw - 183
+protein - coding gene of streptococcus pyogenes mgas8232
+protein - coding gene of yersinia pestis kim10 +
+protein - coding gene of leptospira interrogans serovar lai str . 56601
+protein - coding gene of bacillus anthracis str . a2012
+protein - coding gene of campylobacter jejuni subsp . jejuni nctc 11168 = atcc 700819
+protein - coding gene of streptococcus pyogenes ssi - 1
+protein - coding gene of campylobacter jejuni rm1221
+protein - coding gene of clostridium perfringens str . 13
+protein - coding gene of clostridium perfringens atcc 13124
+protein - coding gene of staphylococcus aureus subsp . aureus mw2
+protein - coding gene of bacillus anthracis str . ames
+protein - coding gene of shigella flexneri 2a str . 301
+protein - coding gene of shigella flexneri 2a str . 2457t
+protein - coding gene of streptococcus pyogenes mgas315
+protein - coding gene of escherichia coli cft073
+protein - coding gene of brucella suis 1330
+protein - coding gene of streptococcus agalactiae a909
+protein - coding gene of streptococcus agalactiae 2603v / r
+protein - coding gene of pseudomonas aeruginosa ucbpp - pa14
+protein - coding gene of pseudomonas aeruginosa pao1
+protein - coding gene of influenza a virus  ( a / puerto rico / 8 / 1934 ( h1n1 )  )
+protein - coding gene of streptococcus agalactiae nem316
+protein - coding gene of clostridium tetani e88
+protein - coding gene of yersinia pestis co92
+protein - coding gene of cryptococcus neoformans var . neoformans jec21
+protein - coding gene of salmonella enterica subsp . enterica serovar typhi str . ct18
+protein - coding gene of borrelia burgdorferi b31
+protein - coding gene of brucella melitensis bv . 1 str . 16m
+protein - coding gene of enterococcus faecalis v583
+protein - coding gene of aspergillus nidulans fgsc a4
+protein - coding gene of coxiella burnetii rsa 493
+protein - coding gene of yersinia pestis biovar microtus str . 91001
+protein - coding gene of candida albicans sc5314
+protein - coding gene of burkholderia mallei atcc 23344
+protein - coding gene of vibrio cholerae o1 biovar el tor str . n16961
+protein - coding gene of corynebacterium diphtheriae nctc 13129
+protein - coding gene of bordetella bronchiseptica rb50
+protein - coding gene of bordetella pertussis tohama i
+protein - coding gene of bacillus anthracis str . sterne
+protein - coding gene of bacillus anthracis str . 'ames ancestor'
+protein - coding gene of orgyia pseudotsugata mnpv
+protein - coding gene of mycobacterium avium subsp . paratuberculosis k - 10
+protein - coding gene of listeria monocytogenes serotype 4b str . f2365
+protein - coding gene of bombyx mori npv
+protein - coding gene of burkholderia pseudomallei k96243
+protein - coding gene of chlamydia trachomatis d / uw - 3 / cx
+protein - coding gene of clostridium difficile 630
+protein - coding gene of legionella pneumophila subsp . pneumophila str . philadelphia 1
+protein - coding gene of neisseria meningitidis fam18
+protein - coding gene of pasteurella multocida subsp . multocida str . pm70
+protein - coding gene of rickettsia prowazekii str . madrid e
+protein - coding gene of staphylococcus aureus rf122
+protein - coding gene of yersinia pseudotuberculosis ip 32953
+protein - coding gene of haemophilus influenzae 86 - 028np
+protein - coding gene of staphylococcus aureus subsp . aureus mrsa252
+protein - coding gene of bartonella henselae str . houston - 1
+protein - coding gene of cryptococcus neoformans var . neoformans b - 3501a
+protein - coding gene of candida glabrata cbs 138
+protein - coding gene of streptococcus pyogenes mgas10394
+protein - coding gene of clostridium perfringens sm101
+protein - coding gene of streptococcus pyogenes mgas5005
+protein - coding gene of entamoeba histolytica hm - 1:imss
+protein - coding gene of legionella pneumophila str . lens
+protein - coding gene of legionella pneumophila str . paris
+protein - coding gene of shigella dysenteriae sd197
+protein - coding gene of shigella boydii sb227
+protein - coding gene of shigella sonnei ss046
+protein - coding gene of escherichia coli str . k - 12 substr . dh10b
+protein - coding gene of escherichia coli etec h10407
+protein - coding gene of streptococcus pyogenes mgas6180
+protein - coding gene of burkholderia pseudomallei 1710b
+protein - coding gene of burkholderia pseudomallei 668
+protein - coding gene of burkholderia mallei savp1
+protein - coding gene of burkholderia mallei nctc 10247
+protein - coding gene of aspergillus fumigatus af293
+protein - coding gene of escherichia coli e24377a
+protein - coding gene of escherichia coli hs
+protein - coding gene of mycobacterium tuberculosis f11
+protein - coding gene of shigella boydii cdc 3083 - 94
+protein - coding gene of vibrio cholerae o395
+protein - coding gene of leishmania major strain friedlin
+protein - coding gene of yersinia pestis angola
+protein - coding gene of yersinia pseudotuberculosis ip 31758
+protein - coding gene of plasmodium yoelii yoelii 17xnl
+protein - coding gene of cryptosporidium parvum iowa ii
+protein - coding gene of trypanosoma cruzi strain cl brener
+protein - coding gene of campylobacter jejuni subsp . jejuni 81 - 176
+protein - coding gene of burkholderia pseudomallei 1106a
+protein - coding gene of brucella melitensis biovar abortus 2308
+protein - coding gene of bartonella bacilliformis kc583
+protein - coding gene of yersinia pestis antiqua
+protein - coding gene of campylobacter jejuni subsp . doylei 269 .97
+protein - coding gene of bordetella avium 197n
+protein - coding gene of escherichia coli 536
+protein - coding gene of escherichia coli uti89
+protein - coding gene of streptococcus pyogenes mgas9429
+protein - coding gene of streptococcus pyogenes mgas10270
+protein - coding gene of streptococcus pyogenes mgas2096
+protein - coding gene of streptococcus pyogenes mgas10750
+protein - coding gene of streptococcus pneumoniae d39
+protein - coding gene of shigella flexneri 5 str . 8401
+protein - coding gene of neisseria meningitidis 053442
+protein - coding gene of francisella tularensis subsp . holarctica lvs
+protein - coding gene of escherichia coli o26:h -
+protein - coding gene of yersinia pestis nepal516
+protein - coding gene of aeromonas salmonicida subsp . salmonicida a449
+protein - coding gene of bartonella tribocorum cip 105476
+protein - coding gene of escherichia coli o157:h7 str . sakai
+protein - coding gene of yersinia pestis pestoides f
+protein - coding gene of yersinia enterocolitica subsp . enterocolitica 8081
+protein - coding gene of legionella pneumophila str . corby
+protein - coding gene of escherichia coli apec o1
+protein - coding gene of campylobacter jejuni subsp . jejuni 81116
+protein - coding gene of escherichia coli se11
+protein - coding gene of burkholderia mallei nctc 10229
+protein - coding gene of yersinia pestis ca88 - 4125
+protein - coding gene of escherichia coli b str . rel606
+protein - coding gene of actinobacillus pleuropneumoniae serovar 5b str . l20
+protein - coding gene of staphylococcus aureus subsp . aureus mu3
+protein - coding gene of mycobacterium tuberculosis h37ra
+protein - coding gene of legionella pneumophila 2300 / 99 alcoy
+protein - coding gene of staphylococcus aureus subsp . aureus str . newman
+protein - coding gene of actinobacillus pleuropneumoniae serovar 3 str . jl03
+protein - coding gene of escherichia coli sms - 3 - 5
+protein - coding gene of clostridium botulinum a str . atcc 19397
+protein - coding gene of clostridium botulinum a str . hall
+protein - coding gene of escherichia coli o157:h7 str . ec4115
+protein - coding gene of borrelia burgdorferi 156a
+protein - coding gene of borrelia burgdorferi zs7
+protein - coding gene of francisella tularensis subsp . holarctica ftnf002 - 00
+protein - coding gene of streptococcus pyogenes nz131
+protein - coding gene of paenibacillus sp . y412mc10
+protein - coding gene of streptococcus pneumoniae taiwan19f - 14
+protein - coding gene of streptococcus pneumoniae hungary19a - 6
+protein - coding gene of streptococcus pneumoniae 70585
+protein - coding gene of streptococcus pneumoniae jja
+protein - coding gene of streptococcus pneumoniae p1031
+protein - coding gene of clostridium botulinum b1 str . okra
+protein - coding gene of clostridium botulinum a3 str . loch maree
+protein - coding gene of edwardsiella tarda eib202
+protein - coding gene of yersinia pseudotuberculosis ypiii
+protein - coding gene of yersinia pseudotuberculosis pb1 /  +
+protein - coding gene of clostridium botulinum e3 str . alaska e43
+protein - coding gene of toxoplasma gondii me49
+protein - coding gene of escherichia coli str . k - 12 substr . mg1655
+protein - coding gene of streptococcus pneumoniae g54
+protein - coding gene of streptococcus pneumoniae cgsp14
+protein - coding gene of borrelia burgdorferi n40
+protein - coding gene of borrelia burgdorferi 297
+protein - coding gene of burkholderia pseudomallei mshr346
+protein - coding gene of actinobacillus pleuropneumoniae serovar 7 str . ap76
+protein - coding gene of escherichia coli o157:h7 str . tw14359
+protein - coding gene of streptococcus equi subsp . zooepidemicus mgcs10565
+protein - coding gene of listeria monocytogenes hcc23
+protein - coding gene of pseudomonas aeruginosa lesb58
+protein - coding gene of saccharomyces cerevisiae s288c
+protein - coding gene of streptococcus pneumoniae atcc 700669
+protein - coding gene of helicobacter pylori g27
+protein - coding gene of escherichia coli vir68
+protein - coding gene of bacillus anthracis str . cdc 684
+protein - coding gene of listeria monocytogenes serotype 4b str . clip 80459
+protein - coding gene of helicobacter pylori p12
+protein - coding gene of escherichia coli o26:h11 str . 11368
+protein - coding gene of escherichia coli o127:h6 str . e2348 / 69
+protein - coding gene of vibrio cholerae m66 - 2
+protein - coding gene of escherichia coli iai1
+protein - coding gene of escherichia coli s88
+protein - coding gene of escherichia coli 55989
+protein - coding gene of escherichia coli umn026
+protein - coding gene of escherichia coli iai39
+protein - coding gene of escherichia coli o103:h2 str . 12009
+protein - coding gene of escherichia coli o111:h -  str . 11128
+protein - coding gene of escherichia coli ed1a
+protein - coding gene of bacillus anthracis str . a0248
+protein - coding gene of helicobacter pylori b38
+protein - coding gene of escherichia coli bw2952
+protein - coding gene of listeria monocytogenes 08 - 5923
+protein - coding gene of listeria monocytogenes 08 - 5578
+protein - coding gene of neisseria meningitidis alpha14
+protein - coding gene of staphylococcus aureus subsp . aureus ed98
+protein - coding gene of mycoplasma gallisepticum str . r ( low )
+pseudo gene of feline infectious peritonitis virus
+pseudo gene of haemophilus influenzae rd kw20
+pseudo gene of salmonella enterica subsp . enterica serovar typhimurium str . lt2
+pseudo gene of streptococcus pneumoniae tigr4
+pseudo gene of francisella tularensis subsp . tularensis schu s4
+pseudo gene of campylobacter jejuni subsp . jejuni nctc 11168 = atcc 700819
+pseudo gene of brucella suis 1330
+pseudo gene of vibrio cholerae o1 biovar el tor str . n16961
+pseudo gene of listeria monocytogenes serotype 4b str . f2365
+pseudo gene of clostridium difficile 630
+pseudo gene of brucella melitensis biovar abortus 2308
+pseudo gene of neisseria meningitidis 053442
+pseudo gene of francisella tularensis subsp . holarctica lvs
+pseudo gene of aeromonas salmonicida subsp . salmonicida a449
+pseudo gene of escherichia coli iai39
+miscrna gene of yersinia pestis co92
+miscrna gene of yersinia pestis biovar microtus str . 91001
+miscrna gene of yersinia pestis angola
+miscrna gene of yersinia pestis antiqua
+miscrna gene of yersinia pestis nepal516
+miscrna gene of yersinia pestis pestoides f
+rna gene of francisella tularensis subsp . tularensis schu s4
+rna gene of yersinia pestis co92
+rna gene of yersinia pestis biovar microtus str . 91001
+rna gene of yersinia pestis angola
+rna gene of yersinia pestis antiqua
+rna gene of francisella tularensis subsp . holarctica lvs
+rna gene of yersinia pestis nepal516
+rna gene of yersinia pestis pestoides f
+gene of haemophilus influenzae rd kw20 with other gene type
+gene of brucella suis 1330 with other gene type
+gene of plasmodium yoelii yoelii 17xnl with other gene type
+disorder
+disease course
+extended organism
+host pathogen interaction
+virulence factor gene role
+virulence factor role
+virulence factor protein role
+morphology
+structure
+behavioral quality
+physical object quality
+organismal quality
+handedness
+left handedness
+right handedness
+ambidextrous handedness
+protein
+system
+transmission process
+processual entity
+cervix
+nose
+submucosa
+peripheral nervous system
+somatic nervous system
+sympathetic nervous system
+zone of skin
+non - material anatomical boundary
+camera - type eye
+sense organ
+tube
+appendage
+head
+serous membrane
+tendon
+ganglion
+simple eye
+vessel
+ureter
+urethra
+duct
+large intestine
+anatomical wall
+anatomical structure
+organ
+organ subunit
+organ part
+respiratory tract
+fully formed stage
+embryo stage
+death stage
+proximo - distal subdivision of respiratory tract
+regional part of nervous system
+subdivision of skeletal system
+external ectoderm
+mixed endoderm / mesoderm - derived structure
+mixed ectoderm / mesoderm / endoderm - derived structure
+mesonephros
+metanephros
+mesonephric tubule
+ureteric bud
+post - embryonic stage
+membrane organ
+cardiac neural crest
+lung vasculature
+life cycle
+life cycle stage
+zygote stage
+cleavage stage
+blastula stage
+gastrula stage
+neurula stage
+organogenesis stage
+post - juvenile adult stage
+lung connective tissue
+lung epithelium
+respiratory tube
+lung bud
+neuron projection bundle
+neural nucleus
+cranial nerve nucleus
+facial nucleus
+anal canal
+intestine
+orifice
+cloaca
+embryonic cloaca
+primitive urogenital sinus
+mouth
+oral opening
+oral cavity
+proximal - distal subdivision of colon
+pair of lungs
+respiration organ
+excreta
+blood
+haemolymphatic fluid
+tendon sheath
+blastula
+cervical mucus
+colonic mucosa
+gastric gland
+gut wall
+intestinal gland
+mucosa
+pharyngeal mucosa
+maxillary nerve
+tracheal mucosa
+musculature of body
+lens cortex
+lens nucleus
+colonic epithelium
+nasal vestibule
+serous gland
+bronchial mucosa
+mucous gland
+artery wall
+secretion of exocrine gland
+endocervix
+uterine wall
+organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical system
+multicellular organism
+female reproductive system
+organism subdivision
+acellular anatomical structure
+anatomical cluster
+extraembryonic structure
+tissue
+multi - tissue structure
+epithelium
+simple cuboidal epithelium
+simple columnar epithelium
+multilaminar epithelium
+simple squamous epithelium
+atypical epithelium
+cavitated compound organ
+unilaminar epithelium
+mucus
+thoracic segment of trunk
+abdomen
+embryo
+germ layer
+ectoderm
+endoderm
+mesoderm
+stomodeum
+proctodeum
+stomach
+aorta
+heart
+endocrine system
+brain
+cornea
+lens of camera - type eye
+retina
+eye
+neck
+skeletal joint
+pons
+reproductive system
+gonad
+female gonad
+oviduct
+uterus
+vagina
+skin epidermis
+respiratory system
+respiratory airway
+digestive system
+renal system
+circulatory system
+adipose tissue
+musculature
+nervous system
+central nervous system
+nerve
+sensory nerve
+sensory system
+gustatory system
+foregut
+chordate pharynx
+midgut
+hindgut
+primordium
+neural tube
+rectum
+anatomical entity
+skin of back
+external carotid artery
+superficial cervical artery
+posterior vena cava
+endocardium of ventricle
+myocardium of ventricle
+skin of head
+skin of trunk
+urine
+synovial fluid
+cardiac muscle tissue
+skeletal muscle tissue
+smooth muscle tissue
+mesothelium
+dorsum
+renal vein
+right renal vein
+left renal vein
+ovarian vein
+colon
+sigmoid colon
+wall of stomach
+wall of large intestine
+renal artery
+right renal artery
+left renal artery
+ovarian artery
+mucosa of stomach
+submucosa of stomach
+serosa of stomach
+mucosa of large intestine
+submucosa of large intestine
+serosa of large intestine
+inferior mesenteric vein
+right ureter
+left ureter
+renal pelvis
+intestinal mucosa
+serosa of intestine
+anus
+adventitia of ureter
+urinary bladder
+wall of urinary bladder
+neck of urinary bladder
+mucosa of urinary bladder
+serosa of urinary bladder
+wall of intestine
+pelvic girdle region
+epithelium of stomach
+intestinal epithelium
+epithelium of large intestine
+endometrium
+serosa of uterus
+right uterine tube
+left uterine tube
+superior vesical artery
+internal iliac vein
+vaginal vein
+muscle of pelvis
+female urethra
+urethral gland
+epithelium of vagina
+anal region
+skin of pelvis
+skin of abdomen
+skin of neck
+skin of thorax
+pectoral girdle region
+skeletal system
+face
+skin of lip
+bone element
+articular capsule
+muscle of pelvic girdle
+descending aorta
+thoracic aorta
+abdominal aorta
+common carotid artery plus branches
+digestive tract
+lower urinary tract
+upper respiratory tract
+lower respiratory tract
+muscle of larynx
+facial muscle
+anterior vena cava
+internal jugular vein
+bronchial vein
+ciliary muscle
+facial artery
+maxillary artery
+muscle organ
+artery
+vein
+trigeminal nerve
+facial nerve
+glossopharyngeal nerve
+right pulmonary artery
+left pulmonary artery
+facial vein
+trigeminal ganglion
+occipital bone
+temporal bone
+ear
+geniculate ganglion
+glossopharyngeal ganglion
+neurocranium
+nasal cavity
+jaw skeleton
+lower jaw region
+cranial ganglion
+taste bud
+cavity of pharynx
+larynx
+laryngeal cartilage
+vagus nerve
+anterior chamber of eyeball
+uvea
+iris
+corneal epithelium
+sclera
+skeletal muscle of trunk
+ciliary body
+optic choroid
+ciliary epithelium
+spinal nerve
+layer of retina
+cranial nerve
+aqueous humor of eyeball
+sensory ganglion
+anterior segment of eyeball
+posterior segment of eyeball
+epithelium of lens
+capsule of lens
+autonomic ganglion
+sympathetic ganglion
+nasal cartilage
+mucosa of larynx
+nasal cavity mucosa
+lip
+lower lip
+internal ear
+midbrain
+rhombomere
+metencephalon
+medulla oblongata
+epithelium of trachea
+endothelium of capillary
+endothelium of arteriole
+endothelium of artery
+endothelium of venule
+endothelium of vein
+midbrain tegmentum
+regional part of spinal cord
+cartilage of bronchus
+submucosa of bronchus
+blood plasma
+venule
+arteriole
+blood vessel
+capillary
+corneal endothelium
+endothelium
+feces
+hyaline cartilage tissue
+pulmonary artery
+kidney capsule
+pulmonary vein
+accessory xi nerve
+gray matter
+hindbrain
+epithelium of bronchus
+striated muscle tissue
+bronchial artery
+pontine raphe nucleus
+lung
+vasculature
+embryonic structure
+truncus arteriosus
+dermis
+hypodermis
+viscus
+heart right ventricle
+cardiac ventricle
+heart left ventricle
+postcranial axial skeleton
+appendicular skeleton
+interventricular septum
+skin of body
+cardiac septum
+trunk
+visual system
+vestibulo - auditory system
+artery smooth muscle tissue
+kidney
+right ovary
+left ovary
+pronephros
+superior olivary complex
+locus ceruleus
+superior salivatory nucleus
+endocardium
+right lung
+left lung
+bronchus
+subcutaneous adipose tissue
+hemolymphoid system
+integument
+vasculature of head
+vasculature of trunk
+submucosa of trachea
+vasculature of eye
+musculoskeletal system
+cartilaginous joint
+synovial joint
+thoracic cavity
+spinal cord
+chondrocranium
+olfactory organ
+reticular formation
+brainstem
+nucleus of brain
+gray matter of spinal cord
+coelemic cavity lumen
+muscle of back
+epithelium of urethra
+notochord
+somite
+exocrine system
+pulmonary trunk
+neural crest
+abdomen musculature
+neurectoderm
+myocardium
+conducting system of heart
+pelvic region of trunk
+exocrine gland
+endocrine gland
+cranial muscle
+muscle of neck
+muscle of abdomen
+connective tissue
+muscle tissue
+hematopoietic system
+autonomic nervous system
+integumental system
+abdominal segment of trunk
+cartilage tissue
+skin gland
+oral epithelium
+choroidal blood vessel
+endometrial gland
+spinal artery
+vesical vein
+intestine secretion
+bone tissue
+iris epithelium
+endochondral bone
+elastic tissue
+tunica media
+tunica intima
+gland
+epiblast  ( generic )
+pharyngeal arch
+cranial placode
+anatomical cavity
+lumen of central nervous system
+regional part of brain
+trigeminal nucleus
+gustatory epithelium
+pontine tegmentum
+septum
+olfactory placode
+ear vesicle
+midbrain - hindbrain boundary
+periderm
+pre - chordal neural plate
+chordal neural plate
+presomitic mesoderm
+pronephric duct
+blood island
+prechordal plate
+intermediate mesoderm
+pharyngeal arch 2
+dorsolateral placode
+axial mesoderm
+otic placode
+trigeminal placode complex
+eye primordium
+optic cup
+lens placode
+mesonephric duct
+neural plate
+paraxial mesoderm
+epibranchial placode
+lateral plate mesoderm
+myotome
+trunk neural crest
+heart primordium
+sclerotome
+cranial neural crest
+female organism
+surface structure
+compound organ
+mesenchyme
+dermatocranium
+pharyngeal arch 4
+pharyngeal arch 6
+pharyngeal arch artery 1
+pharyngeal arch artery 2
+pharyngeal arch artery 4
+pharyngeal arch artery 6
+trachea
+cranium
+skull
+reproductive organ
+female reproductive organ
+gustatory organ
+ovary septum
+metanephric mesenchyme
+epithelium of lower jaw
+epithelium of otic placode
+endoderm of foregut
+endoderm of midgut
+endoderm of hindgut
+skeletal muscle tissue of eye
+skeleton of lower jaw
+endothelium of trachea
+gland of foregut
+pharyngeal gland
+gland of integumental system
+mesoderm blood island
+eye mesenchyme
+mesenchyme of ovary
+mesenchyme of lower jaw
+submucosa of anal canal
+submucosa of rectum
+submucosa of colon
+serosa of rectum
+serosa of colon
+ganglion of peripheral nervous system
+ganglion of central nervous system
+mucosa of anal canal
+mucosa of oral region
+mucosa of rectum
+epithelium of mucosa
+pharyngeal epithelium
+epithelium of midgut
+epithelium of hindgut
+epithelium of rectum
+epithelium of right lung
+epithelium of left lung
+pelvic appendage bud ectoderm
+pectoral appendage bud ectoderm
+cardiac muscle of right ventricle
+cardiac muscle of left ventricle
+cardiac muscle tissue of interventricular septum
+skeletal muscle tissue of pharynx
+smooth muscle of eye
+smooth muscle of trachea
+cartilage of respiratory system
+gland of digestive tract
+pelvic appendage bud mesenchyme
+pectoral appendage bud mesenchyme
+dermis adipose tissue
+abdomen nerve
+neck nerve
+iris nerve
+nerve of trunk region
+thoracic cavity nerve
+pelvis nerve
+head bone
+neck bone
+facial bone
+trunk bone
+ureteric segment of renal artery
+respiratory system artery
+artery of lower lip
+thoracic cavity artery
+ureteric vein
+respiratory system venous blood vessel
+vein of lower lip
+thoracic cavity vein
+respiratory system capillary endothelium
+respiratory system venule
+respiratory system arteriole
+head blood vessel
+abdomen blood vessel
+heart blood vessel
+brain blood vessel
+corneal blood vessel
+retina blood vessel
+neck blood vessel
+respiratory system blood vessel
+trachea blood vessel
+arterial blood vessel
+iris blood vessel
+lung blood vessel
+trunk blood vessel
+kidney blood vessel
+thoracic cavity blood vessel
+pelvis blood vessel
+respiratory system capillary
+kidney capillary
+brain gray matter
+head connective tissue
+abdomen connective tissue
+neck connective tissue
+respiratory system connective tissue
+trachea connective tissue
+lower respiratory tract connective tissue
+larynx connective tissue
+dermis connective tissue
+trunk connective tissue
+bronchus connective tissue
+thoracic cavity connective tissue
+pelvis connective tissue
+neck cartilage
+lower respiratory tract cartilage
+trachea cartilage
+eye skin gland
+aorta elastic tissue
+heart elastic tissue
+respiratory system elastic tissue
+cardiovascular system elastic tissue
+blood vessel elastic tissue
+lung elastic tissue
+bronchus elastic tissue
+trachea elastic tissue
+aorta tunica media
+aorta tunica intima
+respiratory system arterial blood vessel
+kidney arterial blood vessel
+abdominal cavity
+foramen magnum
+abdominal wall
+splenic vein
+neural tissue
+splanchnic nerve
+recurrent laryngeal nerve
+mouth mucosa
+nerve of thoracic segment
+nerve of abdominal segment
+thoracic segment bone
+abdominal segment bone
+urethra muscle tissue
+thoracic segment muscle
+respiratory system muscle
+abdominal segment muscle
+thoracic segment blood vessel
+abdominal segment blood vessel
+abdominal segment skin
+thoracic segment connective tissue
+abdominal segment connective tissue
+neural tube lumen
+gonadal vein
+mesencephalic neural crest
+rhombencephalon neural crest
+spinal cord neural crest
+spinal cord neural plate
+gonad mesenchyme
+presumptive ganglion
+future coelemic cavity lumen
+intraembryonic coelom
+fallopian tube
+mullerian duct
+axial muscle
+skeletal muscle tissue of trunk
+retinal neural layer
+epithelial tube
+endothelial tube
+kidney mesenchyme
+venous blood vessel
+digestive system duct
+digestive tract epithelium
+cartilage element of chondrocranium
+cranial cartilage
+reproductive gland
+somatic sensory system
+cutaneous elastic tissue
+internal female genitalia
+conus arteriosus
+uterine tube infundibulum
+embryonic - extraembryonic boundary
+dermatome
+germinal neuroepithelium
+neural tube ventricular layer
+neural tube mantle layer
+neural tube marginal layer
+neural tube basal plate
+vena cava
+orbital region
+anatomical conduit
+vasculature of iris
+endoderm - derived structure
+mesoderm - derived structure
+ectoderm - derived structure
+genitourinary system
+optic vesicle
+cardiogenic plate
+primary heart field
+heart tube
+outflow tract septum
+outflow tract
+cardiac vein
+cardiac chamber
+internal genitalia
+external genitalia
+hemopoietic organ
+aorta smooth muscle tissue
+endodermal part of digestive tract
+back nerve
+urethra smooth muscle layer
+large intestine smooth muscle
+intestine smooth muscle
+stomach smooth muscle
+vagina smooth muscle
+respiratory system smooth muscle
+gastrointestinal system smooth muscle
+kidney pelvis smooth muscle
+urinary bladder smooth muscle
+urinary bladder neck smooth muscle
+anal region smooth muscle
+lower respiratory tract smooth muscle
+iris smooth muscle
+arteriole smooth muscle
+blood vessel smooth muscle
+bronchus smooth muscle
+oviduct smooth muscle
+outflow tract smooth muscle
+bone of dorsum
+skin muscle
+back blood vessel
+outflow tract myocardium
+back connective tissue
+eye muscle
+skeleton
+dermomyotome
+heart rudiment
+respiratory system blood vessel smooth muscle
+primitive streak
+optic eminence
+apical ectodermal ridge
+paired limb / fin bud
+pharyngeal arch 1
+pharyngeal arch artery
+anterior limiting lamina of cornea
+bone of free limb or fin
+neurula embryo
+entire sense organ system
+skeletal musculature of head
+musculature of thorax
+musculature of neck
+musculature of back
+musculature of pelvic girdle
+musculature of pectoral girdle
+musculature of face
+musculature of larynx
+musculature of trunk
+cardiac muscle tissue of cardiac septum
+cardiac muscle tissue of myocardium
+vasculature of muscle organ
+vasculature of musculoskeletal system
+cardiovascular system
+blood vasculature
+left kidney
+right kidney
+left eye
+right eye
+systemic arterial system
+arterial system
+systemic artery
+systemic venous system
+venous system
+blood vessel endothelium
+aorta wall
+aorta tunica adventitia
+interventricular septum membranous part
+interventricular septum muscular part
+raphe nuclei
+costo - cervical trunk
+arterial system smooth muscle
+venous system smooth muscle
+vena cava endothelium
+outflow tract endothelium
+arterial system endothelium
+venous system endothelium
+respiratory system blood vessel endothelium
+bulbus cordis
+paired limb / fin
+pelvic appendage
+pectoral appendage
+jugular vein
+conceptus
+neuromere
+segmental subdivision of nervous system
+segmental subdivision of hindbrain
+gastrula
+skeletal tissue
+dermal skeletal element
+gland of anal canal
+cartilaginous neurocranium
+skeletal element
+cranial bone
+bone of lower jaw
+articular system
+respiratory system submucosa
+larynx submucosa
+gastrointestinal system serosa
+heart ventricle wall
+respiratory system mucosa
+gastrointestinal system mucosa
+larynx mucous gland
+skin mucous gland
+blood vessel layer
+cervix epithelium
+respiratory tract epithelium
+oviduct epithelium
+respiratory system epithelium
+gastrointestinal system epithelium
+endometrium epithelium
+upper respiratory tract epithelium
+lower respiratory tract epithelium
+larynx epithelium
+kidney epithelium
+urethra skeletal muscle tissue
+respiratory system skeletal muscle
+anal region skeletal muscle
+lip skeletal muscle
+respiratory system arterial endothelium
+respiratory system venous endothelium
+aorta endothelium
+cardiovascular system endothelium
+skeletal muscle connective tissue
+eye gland
+vasculature of retina
+splanchnic layer of lateral plate mesoderm
+splanchnopleure
+somatopleure
+nephrogenic cord
+urogenital fold
+chordamesoderm
+lung mesenchyme
+urogenital sinus epithelium
+neuron projection bundle connecting eye with brain
+articulation
+ectodermal part of digestive tract
+lower digestive tract
+epithelium of gonad
+epithelium of female gonad
+subdivision of digestive tract
+organ component layer
+submucosa of pharynx
+submucosa of sigmoid colon
+submucosa of urinary bladder
+submucosa of neck of urinary bladder
+mucosa of ureter
+mucosa of vagina
+mucosa of sigmoid colon
+mucosa of right ureter
+mucosa of left ureter
+mucosa of renal pelvis
+mucosa of neck of urinary bladder
+mucosa of right uterine tube
+mucosa of left uterine tube
+mucosa of female urethra
+mucosa of lower lip
+mucosa of uterine tube
+mucosa of infundibulum of uterine tube
+external female genitalia
+hemolymphoid system gland
+neural groove
+neural fold
+neural rod
+hindbrain - spinal cord boundary
+metanephric ureteric bud
+ureter ureteric bud
+tube lumen
+ectodermal placode
+muscle structure
+mesonephric epithelium
+metanephric tubule
+metanephric epithelium
+metanephric smooth muscle tissue
+metanephric capsule
+epithelial bud
+reproductive structure
+epithelial fold
+multi cell part structure
+abdomen element
+abdominal segment element
+dorsal region element
+trunk region element
+thoracic cavity element
+pelvic region element
+thoracic segment organ
+thoracic vein
+larynx submucosa gland
+optic eminence surface ectoderm
+optic eminence ectoderm
+interventricular septum endocardium
+bulbus cordis myocardium
+metanephric renal pelvis
+stomatodeum gland
+head mesenchyme
+trunk mesenchyme
+myelencephalon
+embryonic tissue
+extraembryonic tissue
+endocardial endothelium
+pulmonary artery endothelium
+mesonephric mesenchyme
+outflow tract of ventricle
+outflow tract aortic component
+vagus x ganglion
+nasal cavity epithelium
+photoreceptor array
+transparent eye structure
+carotid artery segment
+female reproductive gland
+alimentary part of gastrointestinal system
+pectoral appendage bud
+pelvic appendage bud
+pectoral appendage apical ectodermal ridge
+pelvic appendage apical ectodermal ridge
+presumptive neural retina
+lens vesicle
+corneal primordium
+vagal neural crest
+aortic sac
+jugular foramen
+sulcus limitans of neural tube
+glossopharyngeal neural crest
+neural tube lateral wall
+primitive heart tube
+rhombomere lateral wall
+trigeminal neural crest
+gonad primordium
+facio - acoustic neural crest
+head somite
+lung primordium
+trunk somite
+iliac vein
+lens anterior epithelium
+mesenteric artery
+mesenteric vein
+anterior chamber epithelium
+lens vesicle epithelium
+2nd arch ectoderm
+4th arch ectoderm
+2nd arch endoderm
+4th arch endoderm
+right lung endothelium
+left lung endothelium
+lens vesicle cavity
+2nd arch mesenchyme
+4th arch mesenchyme
+optic eminence mesenchyme
+hindbrain venous system
+pronephric mesoderm
+pectoral appendage field
+pelvic appendage field
+paired limb / fin field
+tunica adventitia of blood vessel
+tunica intima of artery
+adventitia
+bone foramen
+caudal part of nephrogenic cord
+rostral part of nephrogenic cord
+acellular membrane
+basement membrane of epithelium
+nephric ridge
+section of aorta
+dorsal aorta
+developing mesenchymal condensation
+cartilaginous condensation
+pre - cartilage condensation
+mandibular prominence
+olfactory pit
+occipital region
+serous sac
+endo - epithelium
+axial skeleton plus cranial skeleton
+outflow part of right ventricle
+outflow part of left ventricle
+heart layer
+coronary vessel
+integumentary adnexa
+mesonephric capsule
+aortico - pulmonary spiral septum
+buccopharyngeal membrane
+cloacal membrane
+foregut - midgut junction
+future brain
+mouth - foregut junction
+notochordal plate
+notochordal process
+otic pit
+future cardiac ventricle
+chamber of eyeball
+ocular refractive media
+bodily fluid
+brainstem nucleus
+communicating artery
+skin secretion
+female reproductive gland secretion
+respiratory system fluid / secretion
+kidney vasculature
+renal duct
+excretory tube
+pharynx
+tunica media of pulmonary trunk
+female urethral meatus
+left ventricle myocardium
+right ventricle myocardium
+pectinate line
+presumptive endoderm
+presumptive structure
+presumptive ectoderm
+presumptive mesoderm
+muscle layer of oviduct
+muscular coat
+venous valve
+surface of epithelium
+corneo - scleral junction
+glandular epithelium
+nasal skeleton
+lumen of trachea
+surface groove
+muscular coat of ureter
+terminal part of digestive tract
+vasculature of organ
+head mesenchyme from mesoderm
+mandibular process mesenchyme
+lumen of digestive tract
+lip epithelium
+squamous epithelium
+stratified squamous epithelium
+stomach squamous epithelium
+cervix squamous epithelium
+vagina squamous epithelium
+stomach glandular epithelium
+digestive system gland
+glandular columnar epithelium
+stomach glandular region mucosa
+sensory epithelium
+inner ear epithelium
+uterine epithelium
+vascular cord
+coronary capillary
+anatomical surface
+cardiogenic splanchnic mesoderm
+cleaving embryo
+sexually immature organism
+adult organism
+mandibular neural crest
+hyoid neural crest
+primary circulatory organ
+trunk ganglion
+neural keel
+lumen of midgut
+lumen of hindgut
+lumen of anal canal
+lumen of colon
+serosa of infundibulum of uterine tube
+muscle layer of infundibulum of uterine tube
+tracheobronchial tree
+mesenchyme derived from head neural crest
+mesenchyme derived from trunk neural crest
+tunica media of artery
+tunica adventitia of artery
+tunica adventitia of vein
+tunica intima of vein
+tunica media of vein
+nuclear complex of neuraxis
+nucleus of superior olivary complex
+trachea pre - cartilage rings
+pectoral appendage musculature
+pelvic appendage musculature
+appendage musculature
+pectoral appendage skeleton
+pelvic appendage skeleton
+presumptive hindbrain
+presumptive endocardium
+presumptive midbrain hindbrain boundary
+presumptive segmental plate
+presumptive neural plate
+presumptive paraxial mesoderm
+presumptive pronephric mesoderm
+pectoral appendage blood vessel
+appendage blood vessel
+pectoral appendage vasculature
+pharyngeal vasculature
+appendage vasculature
+outer epithelium
+stratum compactum of dermis
+enveloping layer of ectoderm
+paired limb / fin cartilage
+pectoral appendage cartilage tissue
+pelvic appendage cartilage tissue
+nucleus of midbrain tegmentum
+lumen of epithelial sac
+epithelial sac
+epithelial tube open at both ends
+epithelial vesicle
+dense mesenchyme tissue
+migrating mesenchyme population
+ciliated columnar oviduct epithelium
+cuboidal oviduct epithelium
+ciliated columnar epithelium
+ciliated epithelium
+layer of synovial tissue
+synovial cavity of joint
+pigment epithelium of eye
+nucleus of medulla oblongata
+trigeminal nuclear complex
+anatomical junction
+kidney field
+anlage
+gustatory pore
+bone of reproductive organ
+epidermis gland
+transudate
+secretion of serous gland
+vascular system
+adipose tissue of abdominal region
+craniocervical region
+appendage girdle region
+girdle bone / zone
+pectoral girdle bone
+pelvic girdle bone / zone
+pectoral girdle skeleton
+pelvic girdle skeleton
+membrane bone
+cartilage element
+regular connective tissue
+dense regular connective tissue
+bone of craniocervical region
+joint of girdle
+surface of cartilage
+pneumatized bone
+muscle of pectoral girdle
+pelvic cavity
+craniocervical region musculature
+heart endothelium
+nasal muscle
+pharyngeal arch system
+embryonic head
+neural tube derived brain
+stomach muscularis externa
+hypodermis skeletal muscle layer
+pulmonary vascular system
+splanchnocranium
+post - hyoid pharyngeal arch
+dermal bone
+perichordal bone
+vasculature of brain
+periurethral tissue
+vesical artery
+left pulmonary vein
+right pulmonary vein
+gravid organism
+gravid uterus
+indifferent gonad
+geniculate placode
+petrosal placode
+epibranchial ganglion
+craniocervical region vein
+entire embryonic mesenchyme
+nephric duct
+associated mesenchyme of otic placode
+ectoderm of buccopharyngeal membrane
+endoderm of buccopharyngeal membrane
+associated mesenchyme of foregut - midgut junction
+pharyngeal arch mesenchymal region
+epithelium of foregut - midgut junction
+periotic mesenchyme
+mesenchyme of hindgut
+mesenchyme of trachea
+anal membrane endodermal component
+endoderm of foregut - midgut junction
+intestinal submucosa
+spinal cord sulcus limitans
+medulla oblongata sulcus limitans
+metencephalon sulcus limitans
+myelencephalon sulcus limitans
+1st arch mandibular mesenchyme
+left lung associated mesenchyme
+right lung associated mesenchyme
+midbrain neural plate
+hindbrain neural plate
+presumptive midbrain
+head paraxial mesoderm
+bronchus basement membrane
+trachea basement membrane
+midbrain nucleus
+hindbrain nucleus
+embryonic cloacal lumen
+rectal lumen
+endocardium of right ventricle
+endocardium of left ventricle
+stomodeal lumen
+cardiac mesenchyme
+abdominal ganglion
+glandular acinus
+urogenital sinus lumen
+urogenital sinus mesenchyme
+embryonic cloacal epithelium
+digestive tract diverticulum
+zone of stomach
+secondary heart field
+facial mesenchyme
+wall of ureter
+ureter smooth muscle
+post - embryonic organism
+neurogenic placode
+bladder lumen
+ureteropelvic junction
+ureterovesical junction
+multicellular anatomical structure
+cell cluster organ
+6th arch mesenchyme
+food storage organ
+1st arch mesenchyme
+entire pharyngeal arch associated mesenchyme
+oral gland
+cuboidal epithelium
+future dermis
+future metencephalon
+future myelencephalon
+future facial nucleus
+future superior salivatory nucleus
+conducting tissue of heart
+neuroendocrine gland
+skin mucus
+lumen of blood vessel
+female urethral gland
+protuberance
+pair of dorsal aortae
+genital artery
+bona - fide anatomical boundary
+laryngeal apparatus
+eyeball of camera - type eye
+1st arch mandibular mesenchyme from neural crest
+2nd arch mesenchyme from neural crest
+4th arch mesenchyme from neural crest
+6th arch mesenchyme from neural crest
+mesenchyme from rhombencephalic neural crest
+1st arch mesenchyme from neural crest
+midbrain basal plate
+midbrain neural tube
+scleral endothelium
+scleral mesenchyme
+extraembryonic epithelium
+non - keratinized stratified squamous epithelium
+immature eye
+neural crest - derived structure
+structure with developmental contribution from neural crest
+skeletal element of eye region
+cranial skeletal system
+paired limb / fin bud mesenchyme
+mandibular process mesenchyme from neural crest
+mandibular process mesenchyme from head mesenchyme
+1st arch mandibular mesenchyme from head mesenchyme
+1st arch mesenchyme from head mesenchyme
+2nd arch mesenchyme from head mesenchyme
+4th arch mesenchyme from head mesenchyme
+6th arch mesenchyme from head mesenchyme
+pharyngeal arch mesenchyme from neural crest
+pharyngeal arch mesenchyme from head mesenchyme
+endoskeleton
+endochondral element
+dermal skeleton
+ecto - epithelium
+mesenchyme from somatopleure
+mesenchyme from splanchnopleure
+lumen of urethra
+ocular surface region
+urethral opening
+ciliary processes
+flat bone
+pseudostratified columnar epithelium
+pseudostratified ciliated columnar epithelium
+replacement element
+microcirculatory vessel
+cavity of bone organ
+appendage girdle complex
+pectoral complex
+pelvic complex
+girdle skeleton
+bone of appendage girdle complex
+bone of pectoral complex
+bone of pelvic complex
+pelvic complex muscle
+pectoral complex muscle
+subdivision of skeleton
+craniocervical muscle
+pharyngeal arch cartilage
+skeleton of right pelvic girdle
+skeleton of left pelvic girdle
+right pelvic girdle region
+left pelvic girdle region
+synovial joint of pelvic girdle
+synovial joint of pectoral girdle
+laryngeal joint
+nonsynovial joint
+axial skeletal system
+postcranial axial skeletal system
+upper urinary tract
+submucosal gland
+facial skeleton
+primary subdivision of skull
+neurocranium bone
+muscle layer of large intestine
+central nervous system cell part cluster
+organ system subdivision
+synovial membrane of synovial tendon sheath
+appendicular skeletal system
+dorsal trunk
+submucosa of uterine tube
+cranial blood vasculature
+mesonephric duct lumen
+paired limb / fin skeleton
+cell condensation
+jaw region
+oral epithelium from ectoderm
+subdivision of organism along main body axis
+embryonic cardiovascular system
+lower jaw opening
+vagus nerve nucleus
+nucleus of spinal cord
+nerve of head region
+non - neurogenic ectodermal placode
+irregular connective tissue
+dense irregular connective tissue
+dense connective tissue
+loose connective tissue
+acinus of exocrine gland
+aorta collagen fibril
+pulmonary collagen fibril
+bone collagen fibril
+tendon collagen fibril
+anterior uvea
+lumen of vagina
+epimysium
+stomach glandular region
+coelom
+myocoele
+replacement bone
+bronchial lumen
+dermatological - muscosal system
+stomach primordium
+head or neck skin
+urinary bladder vasculature
+urethral meatus
+internal urethral orifice
+cervical gland
+cervical mucosa
+ectocervix
+cervix glandular epithelium
+ectocervical epithelium
+endocervical epithelium
+cervical squamo - columnar junction
+abdominal aorta artery
+columnar epithelium
+meso - epithelium
+gland of nasal mucosa
+embryonic cloacal fold
+mucosa of urethra
+embryonic facial prominence
+vagina orifice
+cervical artery
+deep cervical artery
+bone of jaw
+muscle layer of intestine
+muscle layer of urinary bladder
+respiratory system venous smooth muscle
+tunica fibrosa of eyeball
+cloacal lumen
+cloacal vent
+lumen of terminal part of digestive tract
+enclosed anatomical space
+skeleton of pectoral complex
+skeleton of pelvic complex
+cloacal gland
+cloacal mucosa
+cloacal epithelium
+submucosa of cloaca
+serosa of cloaca
+muscle layer of cloaca
+muscle layer of colon
+muscle layer of anal canal
+serosa of uterine tube
+vein of abdomen
+vein of lip
+systemic vein
+foregut - midgut junction gland
+serous acinus
+embryonic urethral groove
+cranial cavity
+lung endothelium
+space surrounding organism
+subdivision of oviduct
+stomach lumen
+otocyst lumen
+foramen of skull
+anatomical conduit space
+brain endothelium
+colon endothelium
+axial musculature
+main body axis
+body proper
+notochordal canal
+notochordal fluid
+integumentary system layer
+arterial blood
+venous blood
+capillary blood
+cervical os
+external cervical os
+cervical cavity
+digestive system element
+great vessel of heart
+uterine lumen
+mesenchyme derived from neural crest
+renal venous blood vessel
+subcutaneous abdominal adipose tissue
+thoracic skeleton
+anal membrane ectodermal component
+mucous acinus
+midbrain neuromere
+spinal neuromere
+cloacal muscle
+musculature of pelvic complex
+musculature of pectoral complex
+pectoral appendage muscle
+pelvic appendage muscle
+skeletal muscle organ
+primordial vasculature
+gland of ocular region
+multi - unit eye
+endometrial blood vessel
+somite border
+somite boundary epithelium
+lateral structure
+circulatory organ
+respiratory system basement membrane
+urethra mesenchymal layer
+ureteral valve
+anal canal epithelium
+smooth muscle layer in fatty layer of subcutaneous tissue
+upper respiratory conduit
+olfactory apparatus chamber
+ear epithelium
+eye epithelium
+foregut epithelium
+pulmonary capillary
+auditory system
+cavity of right ventricle
+cavity of left ventricle
+epithelium of female urethra
+pharyngeal ectoderm
+central nervous system gray matter layer
+phlegm
+respiratory system mucus
+pit
+future central nervous system
+future nervous system
+epithelium of terminal part of digestive tract
+muscle tissue of terminal part of digestive tract
+entire extraembryonic component
+transitional anatomical structure
+developing mesenchymal structure
+abdominal viscera
+muscle layer of rectum
+rectum smooth muscle tissue
+left renal pelvis
+right renal pelvis
+skin of lower lip
+rhombomere boundary
+submucosa of digestive tract
+layer of muscle tissue
+muscular coat of digestive tract
+foramen for glossopharyngeal nerve
+facial nerve canal
+lumen of intestine
+trigeminal nerve muscle
+neck of bone element
+heart vasculature
+bladder organ
+intramuscular adipose tissue
+skin epithelium
+chorioretinal region
+exocrine gland of integumental system
+accessory xi nerve nucleus
+auricular blood vessel
+reproductive gland secretion
+nervous system cell part layer
+visceral serous membrane
+parietal serous membrane
+basal layer of endometrium
+lung field
+developing neuroepithelium
+proliferating neuroepithelium
+differentiating neuroepithelium
+cranial neuron projection bundle
+integumental taste bud
+lip taste bud
+head taste bud
+pharyngeal taste bud
+trunk taste bud
+autonomic nerve
+bodily gas
+air in respiratory system
+prechordal mesoderm
+multi organ part structure
+cell cluster
+anatomical collection
+layer of smooth muscle tissue
+gas in respiratory system
+jaw mesenchyme
+material entity in digestive tract
+entire surface of organism
+right ear
+left ear
+vasculature of integument
+superficial vein
+deep vasculature
+deep vein
+left cardiac chamber
+right cardiac chamber
+ocular adnexa
+laryngeal nerve
+future mouth
+muscle layer of sigmoid colon
+pericardial fat
+visceral fat
+abdominopelvic cavity
+cardiopharyngeal field
+rectosigmoid junction
+anatomical surface region
+coelomic fluid
+respiratory system gland
+post - embryonic notochord
+vaginal fluid
+secretion of serous membrane
+zygomaticotemporal nerve
+wall of left ventricle
+wall of right ventricle
+anterior wall of right ventricle
+mucosa of lip
+renal pelvis / ureter
+skin of face
+postcranial axial cartilage
+preplacodal ectoderm
+external integument structure
+head external integument structure
+body external integument structure
+vasculature of respiratory integument
+surface of bone
+length unit
+mass unit
+time unit
+temperature unit
+substance unit
+concentration unit
+volume unit
+frequency unit
+volumetric flow rate unit
+rate unit
+vaccine
+escherichia coli vaccine
+neisseria meningitidis vaccine
+mycobacterium tuberculosis vaccine
+mineral salt vaccine adjuvant
+aluminum hydroxide vaccine adjuvant
+aluminum phosphate vaccine adjuvant
+calcium phosphate vaccine adjuvant
+freunds emulsified oil adjuvant
+complete freunds adjuvant
+incomplete freunds adjuvant
+cholera toxin
+corynebacterium - derived p40 vaccine adjuvant
+vaccine adjuvant role
+bacterial vaccine
+vaccine component
+lipopolysaccharide vaccine adjuvant
+muramyl dipeptide
+squalene
+arlacel a
+bordetella pertussis component vaccine adjuvant
+vaccine function
+adjumer
+liposome - based vaccine adjuvant
+e . coli lt toxin derived vaccine adjuvant
+protective antigen role
+immunization
+active immunization
+vaccine immunization
+adamantylamide dipeptide vaccine adjuvant
+vaccine adjuvant
+immunization objective
+vaccine preparation
+mycobacterium vaccine
+yersinia vaccine
+viral vaccine
+e . coli subunit vaccine
+yersinia pestis vaccine
+streptococcus pneumoniae vaccine
+pseudorabies virus vaccine
+iscom
+streptococcal vaccine
+recombinant y . pestis v antigen vaccine
+aluminum vaccine adjuvant
+il - 12 vacince adjuvant
+e . coli fimh with cfa and then ifa
+cpg dna vaccine adjuvant
+ribi vaccine adjuvant
+rc529 vaccine adjuvant
+aluminum potassium sulfate adjuvant
+alhydrogel
+cholera toxin b subunit
+rc529 - af vaccine adjuvant
+mpl vaccine adjuvant
+ltk63 vaccine mutant
+killed corynebacterium parvum vaccine adjuvant
+titermax gold
+dda vaccine adjuvant
+cationic liposomal vaccine adjuvant dda:tdb
+as02 vaccine adjuvant
+vsa - 3
+saponin vaccine adjuvant
+montanide isa 720
+montanide incomplete seppic adjuvant
+montanide isa51
+montanide vaccine adjuvant
+polygen vaccine adjuvant
+vaccine host role
+algammulin vaccine adjuvant
+bay r1005
+avridine
+calcium phosphate gel
+cholera toxin a1 - subunit - proteina d - fragment fusion protein
+gamma inulin vaccine adjuvant
+gerbu vaccine adjuvant
+gm - csf vaccine adjuvant
+gmdp
+recombinant hifn - gamma / interferon - g vaccine adjuvant
+interleukin - 1b vaccine adjuvant
+interleukin - 2
+interleukin - 7
+loxoribine
+mf59
+mtp - pe liposomes
+murametide
+murapalmitine
+d - murapalmitine
+nago
+non - ionic surfactant vesicles
+pmma
+protein cochleates
+qs - 21
+rehydragel hpa
+rehydragel lv
+sclavo peptide
+specol
+spt  ( antigen formulation )
+stearyl tyrosine
+theramide
+crl1005
+nanoemulsion vaccine adjuvant
+as03
+e . coli heat - labile toxin ,  lt
+amorphous aluminum hydroxyphosphate sulfate adjuvant  ( aahsa )
+imiquimod vaccine adjuvant
+resiquimod vaccine adjuvant
+af03 vaccine adjuvant
+flagellin vaccine adjuvant
+poly ( i:c )  vaccine adjuvant
+iscomatrix vaccine adjuvant
+abisco - 100 vaccine adjuvant
+albumin - heparin microparticles vaccine adjuvant
+as - 2 vaccine adjuvant
+b7 - 2 vaccine adjuvant
+bupivacaine vaccine adjuvant
+dl - pgl  ( polyester poly  ( dl - lactide - co - glycolide )  )  vaccine adjuvant
+il - 15 vaccine adjuvant
+immunoliposomes containing antibodies to costimulatory molecules
+ltk72 vaccine adjuvant
+mpl - se vaccine adjuvant
+non - toxic mutant e112k of cholera toxin mct - e112k
+cholera toxin derived vaccine adjuvant
+saf - 1 vaccine adjuvant
+threonyl muramyl dipeptide  ( tmdp )  vaccine adjuvant
+ty particles vaccine adjuvant
+particulate antigen delivery system
+synthetic vaccine adjuvant
+tensoactive compound vaccine adjuvant
+ifn - gamma vaccine adjuvant
+vaccine target specification
+listeria monocytogenes vaccine
+iss 1018 cpg odn vaccine adjuvant
+bacterium protein
+virus protein
+parasite protein
+yersinia enterocolitica vaccine

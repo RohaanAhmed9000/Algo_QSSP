@@ -1,0 +1,147 @@
+exposure stressor
+exposure_receptor
+exposure event
+exposure outcome
+exposure transport path
+biological agent
+chemical agent
+ecological perturbation
+physical agent
+psychosocial agent
+air transport path
+biomechanical agent
+habitat degradation
+acid rain
+climate change
+poverty
+source
+location
+exogenous
+indoor
+outdoor
+endogenous
+process
+biological process
+industrial process
+agricultural process
+water transport path
+soil transport path
+ecosphere
+biosphere
+human population
+occupation
+genetic background
+lifestage
+health status
+social characteristic
+cultural background
+education
+human individual
+anatomy
+organ
+tissue
+cell
+biological molecules
+built environment
+temporal quality
+frequency
+intermittent
+continuous
+duration
+route
+ingestion
+inhalation
+absorption
+leaching
+injection
+subcutaneous tissue
+muscle
+blood
+assay
+intensity
+unit
+measurement
+time
+biological marker
+model
+conceptual
+mathematical
+computational
+dose
+disease
+symptom
+exposure medium
+commercial product
+exposure intervention
+spatial quality
+human attribute
+method
+residential environment stressor source
+environmental stressor source
+occupational stressor source
+medicinal stressor source
+dietary stressor source
+country
+province
+region
+us state
+phenotype
+age
+influencing factor
+alcohol consumption
+body mass index
+diet
+genotype
+physical activity
+race
+sex
+female
+male
+smoking status
+socioeconomic status
+current smoker
+former smoker
+never smoker
+non - smoker
+children
+cohort
+controls for disease or phenotype
+fetuses
+infants or newborns
+military personnel
+mothers
+pregnant females
+study subjects
+subjects with disease or phenotype
+subjects with gene influence
+veterans
+workers
+african american
+alaska native
+american indian
+asian
+asian indian
+central or south american
+chicano
+chinese
+cuban
+cuban - american
+dominican
+filipino
+guamanian
+hispanic
+inuit
+japanese
+korean
+latino
+mexican
+mexican - american
+native hawaiian
+other race
+pacific islander
+puerto rican
+samoan
+vietnamese
+white
+is_associated_with
+maternal

@@ -1,0 +1,524 @@
+alteration in dna ,  rna or protein .
+effects of a variation on protein level .
+effect of variation on protein function .
+effect of variation on the movement of a protein along filament of a polymeric molecule .
+effect of variation on storage protein .
+effect of variation on structural role of protein .
+effect of variation on selective non - covalent interaction of protein .
+effect of variation on catalytic function of protein .
+effect of variation on transport function of protein in facilitating passage of an atom or molecule through membrane .
+variation affecting abundance of produced rna molecules .
+effect of variation on information transfer by protein to control activity of specific processes in cells ,  tissues or organs .
+type of protein variation .describes origin and classification of a variant .
+protein variation that has genetic origin .
+removal of one or more continuous amino acids from protein .
+shortening of protein sequence from terminus .
+deletion of one or more amino acids from a protein ,  without affecting the sequence after deletion .
+mrna variation leading to amino acid change in translated protein .
+addition of one or more amino acids to protein sequence .
+insertion of one or more amino acids to protein with sequence completely changed after the insertion position .
+insertion of one or more amino acids to the protein without affecting the sequence after insertion .
+substitution of an amino acid in protein .
+a complex protein variation consisting of both amino acid insertion ( s )  and deletion ( s )  .
+amino acid indel with sequence completely changed after the indel position .
+protein variation that does not have genetic origin being modified at protein level .
+heritable protein variation of non - genetic origin .
+inheritance of protein or protein complex structure without involvement of genetic information .
+protein conformation change induced by structurally modified protein .
+protein molecule chemically modified after translation .
+amino acid indel without affecting the sequence after the indel position .
+rna indel not affecting reading frame after indel position .
+rna indel containing a number of nucleotides not divisible by three and therefore causing change to reading frame .
+variation affecting characteristic property of protein .
+effect of variation on the targeting of a protein within a cell or cellular compartment .
+effect of variation on stability of protein .
+effect of variation on the potential of protein to dissolve in a liquid .
+variation affecting the formation of particles of aggregated proteins .
+variation at a covarying sequence position .
+variation affecting protein aggregation tendency .
+type of protein function affecting variation .
+effect of variation causing new or enhanced protein activity .
+variation generates new protein function .
+dominant variation that acts to opposite direction than the normal protein .
+effect of variation reducing or abolishing protein activity .
+effect of variation to the accessibility of protein region to solvent .
+variation exposing buried region .
+variation leading to burying of exposed region .
+implication of a protein variant to pathogenicity .
+effect of variation on charge in protein .
+variation affecting electrostatics of the protein surface .
+variation changing protein isoelectric point .
+effect of variation on degradation of protein .
+variation affecting abundance of produced protein molecules .
+effect of variation on activity of protein .
+effect of variation on protein affinity to binding molecule ( s )  .
+effect of variation on substrate binding specificity of protein .
+effect of variation to enzyme reaction kinetics .
+conservation of the variant site in related protein sequences .
+effect of variation on the interaction of protein with its partner .
+effect of variation on contact energy between interacting molecules .
+variation affecting structure of protein .
+hereditary protein structure modification of non - genetic origin .
+variation affecting the formation of infectious protein having misfolded structure .
+variation affecting heritable protein complex structure .
+variation affecting protein three dimensional structure .
+variation affecting dynamics in protein structure .
+variation affecting protein structural flexibility .
+variation affecting induced fit of protein binding to its partner .
+variation affecting protein structural disorder .
+variation in affecting protein allosteric site .
+variation affecting protein three dimensional structure .
+variation affecting rate of protein folding .
+variation effect on nonchromosomal dna .
+variation affecting protein tertiary structure .
+variation changing protein conformation .
+variation causing large overall protein conformational change .
+variation causing local and minor conformational change .
+variation affecting protein structure due to alteration to domain orientation .
+variation affecting formation of intramolecular disulphide bonds .
+variation affecting protein secondary structural element of local ordered structure .
+variation affecting secondary structure conformation where the peptide backbone forms a coil .
+variation affecting protein left handed helix turning anticlockwise .
+variation affecting protein right handed helix where the coiled conformation turns in a clockwise ,  right handed screw .
+variation affecting protein helix having 4 .1 residues per turn .
+variation affecting protein helix having 3 residues per turn .
+variation affecting protein helix having 3 .6 residues per turn .
+variation affecting extended protein backbone structure .
+variation affecting beta strand forming part of antiparallel beta sheet .
+variation affecting beta strand forming part of parallel beta sheet .
+variation affecting protein backbone turn motif .
+variation affecting protein motif of five consecutive residues and two h - bonds in which: h - bond between co of residue ( i )  and nh of residue ( i + 4 )  ,  h - bond between co of residue ( i )  and nh of residue ( i + 3 )  , phi angles of residues ( i + 1 )  ,   ( i + 2 )  and  ( i + 3 )  are negative .
+variation affecting protein motif of four consecutive residues that may contain one h - bond ,  which ,  if present ,  is between the main - chain co of the first residue and the main - chain nh of the fourth .
+variation affecting protein motif of five consecutive residues and two h - bonds ,  where residue ( i )  is either serine or threonine .
+variation affecting protein motif of four or five consecutive residues and one h - bond in which residue ( i )  is serine or threonine ,  the side chain oh of residue ( i )  is h - bonded to the main chain co or residue ( i - 3 )  or  ( i - 4 )  ,  and phi angles of residues ( i - 1 )  ,   ( i - 2 )  and  ( i - 3 )  are negative .
+variation affecting protein turn defined for 3 residues i ,  i + 1 ,  i + 2 if a hydrogen bond exists between residues i and i + 2 and the phi and psi angles of residue i + 1 fall within 40 degrees .
+variation affecting protein motif of three consecutive residues and one h - bond in which: residue ( i )  is serine or threonine ,  the side - chain o of residue ( i )  is h - bonded to the main - chain nh of residue ( i + 2 )  .
+variation affecting protein motif of six or seven consecutive residues that contains two h - bonds .
+variation affecting protein motif of two consecutive residues .
+variation affecting a protein motif of three consecutive residues .
+variation affecting protein motif of five consecutive residues and two h - bonds in which: residue ( i )  is aspartate or asparagine  ( asx )  ,  side - chain o of residue ( i )  is h - bonded to the main - chain nh of residue ( i + 2 )  or  ( i + 3 )  ,  main - chain co of residue ( i )  is h - bonded to the main - chain nh of residue ( i + 3 )  or  ( i + 4 )  .
+variation affecting protein motif of three residues within a beta - sheet in which the main chains of two consecutive residues are h - bonded to that of the third ,  and in which the dihedral angles are as follows: residue ( i ) :  - 140 degrees  <  phi ( l )   - 20 degrees  ,   - 90 degrees  <  psi ( l )   <  40 degrees .
+variation affecting protein motif of three consecutive residues and one h - bond in which: residue ( i )  is aspartate or asparagine  ( asx )  ,  the side - chain o of residue ( i )  is h - bonded to the main - chain nh of residue ( i + 2 )  .
+variation affecting protein motif of three residues within a beta - sheet consisting of two h - bonds .
+variation affecting irregular ,  unstructured region of protein .
+variation altering membrane spanning protein .
+variation affecting region not traversing the lipid bilayer in a membrane protein .
+variation affecting region present in the lipid bilayer in a membrane protein .
+variation affecting the covalent alteration of protein amino acid by post translational process .
+variation causing deletion of a post translational modification site .
+variation affecting site of protein maturation by cleavage of peptide bond ( s )  .
+variation affecting post - translational removal of peptide sequences from within a protein sequence .
+variation that generates a novel protein processing site .
+variation causing prevention of polypeptide processing .
+variation generating a novel post translational modification site .
+variation affecting amino acid side chain size .
+variation affecting amino acid packing in folded protein .
+variation causing formation of a cavity to protein core due to replacement of a side chain by a smaller one .
+variation causing over packing of amino acids due to replacement by larger amino acid side chain .
+variation affecting ligand binding amino acid ( s )  in protein .
+variation affecting region on the surface of a protein that interacts with another molecule .
+variation affecting amino acid ( s )  in protein catalytic site .
+variation affecting three dimensional structure of a protein complex .
+variation affecting interaction between protein subunits in quaternary structure .
+complex change of protein three dimensional structure .
+variation prolonging protein chain at an end .
+addition of one or more amino acids to protein c - terminus .
+addition of one or more amino acids to protein n - terminus .
+origin of dna variation .
+effects of a variation on dna level .
+type of dna variation .describes origin and classification of a variant .
+dna variation that has genetic origin .
+variation of genomic level .
+variation at chromosomal level .
+variation affecting chromosome number .
+variation affecting structure of chromosome .
+variation at dna chain .
+substitution of a dna nucleotide .
+variation affecting rna tertiary structure .
+a genetic character ,  organism or individual with a difference to reference state .
+any process generating variation .
+the observed feature is not changed in relation to the wild type form .
+removal of one or more continuous nucleotides from dna sequence .
+addition of one or more nucleotides between two adjacent nucleotides in the dna sequence .
+a complex dna variation consisting of both nucleotide insertion ( s )  and deletion ( s )  .
+a continuous stretch of dna sequence moved to a new position within a chromosome .
+a continuous stretch of dna sequence inserted to the same position in reverse orientation .
+dna variation that does not have genetic origin .
+heritable dna variation of non - genetic origin .
+variation having effect on dna function and usage .
+variation affecting transcription ,  synthesis of either rna on a template of dna or dna on a template of rna .
+variation affecting information transfer of dna .
+variation affecting the process of restoring dna after damage .
+variation affecting regulatory function of dna .
+variation affecting chromatin .
+variation originating from semi conservative dna strand synthesis .
+variation affecting structure of dna .
+hereditary variation of dna not affecting primary sequence .
+inheritable cytosine or adenosine pyrimidine ring methylation regulating gene expression .
+positioning of nucleosomes to dna strand .
+affected level of dna .
+variation effect on dna level .
+variation located in intron .
+variation located in exon .
+variation located in intergenic dna .
+variation effect on chromosome level .
+variation effect on genome level .
+somatic recombination combining gene segments in antibody ,  immunoglobulin b and t cell receptor and mch coding genes .
+variation affecting dna structural form .
+immunoglobulin diversification mechanism by producing variations to antigen variable regions .
+switching of immunoglobulin m to other isotype by changing a portion of a region coding for heavy chain .
+secondary immunological receptor diversification by replacing a dna stretch by a homologous sequence .
+variation affecting dna tertiary structure .
+variation generated on purpose by e .g .
+variation affecting g - quadruplex of four stranded nucleic acid structure .
+variation affecting cytosine rich dna domain where strands associate both inter -  and intramolecularly .
+variation affecting dna helix formed of three strands .
+variation affecting chromosome .
+variation affecting length of telomere sequence .
+variation shortening length of telomere sequence .
+variation extending length of telomere sequence .
+variation affecting structure of chromosome .
+chromosome lacking one arm with duplication of the other arm .
+circular chromosome with ends joined .
+increase in the frequency of a chromosomal region .
+copies of a chromosomal region of length greater than one scattered to genome sequence .
+adjacent copies of a chromosomal region of length greater than 1 .
+tandem repetitive sequence consisting of units in length from seven to few tens of base pairs .
+increase or decrease of the number of copies of a chromosomal region .
+tandem repetitive sequence consisting of units of two to six base pair .
+tandem repetitive sequence consisting of three nucleotide units .
+tandem repetitive sequence consisting of one nucleotide type .
+tandem repetitive sequence consisting of four nucleotide units .
+mobile genetic element incorporated into chromosome .
+deletion of chromosomal region .
+deletion of chromosomal region not including terminus .
+deletion of chromosomal region from the end of chromosome arm .
+chromosome structure variation with four or more breakpoints .
+translocation of chromosomal region .
+translocation of chromosomal region within a chromosome .
+intrachromosomal variation where a chromosomal region is inserted in reverse direction .
+chromosomal inversion within a chromosome arm .
+chromosomal inversion including centromere .
+translocation of chromosomal region to another chromosome .
+switching of chromosomal regions between nonhomologous chromosomes .
+fusion of long arms of two acrocentric chromosomes having very short p arms .
+tandem repetitive sequence consisting of two nucleotide units .
+variation affecting the number of chromosomes .
+three copies of a chromosome in a cell or organism .
+two copies of a chromosome in a cell or organism  .
+both copies of a chromosome or a part of it in diploid cell or organism are from one parent .
+uniparental disomy with duplication of a single chromosome from one parent .
+pair of non - identical chromosomes inherited from one parent .
+no copies of a chromosome in a cell or organism .
+four copies of a chromosome in a cell or organism .
+one copy of a chromosome in a cell or organism .
+variation affecting number of entire chromosome sets .
+variation with two sets of chromosomes .
+variation with four sets of chromosomes .
+variation with several sets of chromosomes .
+variation with several sets of chromosomes originating from the same organism .
+variation with several sets of chromosomes originating from a different organism .
+variation without chromosomes .
+variation with three sets of chromosomes .
+variation with five sets of chromosomes .
+variation with six sets of chromosomes .
+variation with a single set of chromosomes .
+variation affecting structure of chromatin the complex of chromosomal dna and histone proteins .
+variation affecting characteristic property of dna .
+fusion of two protein chains .
+implication of a dna variant to pathogenicity .
+variation affecting interaction of dna with its partner .
+conservation of the variation site in related dna sequences .
+attributes define and modulate terms at other levels .
+sequence conservation attribute .
+variation at a region of sequence similarity in multiple sequence alignment of related sequences .
+variation at invariant sequence region in multiple sequence alignment of related sequences .
+mutual or reciprocal action or influence that happens at a given place and time between participating molecules .
+two genes a and b  \ "genetically interact \ " when the phenotype generated as the result of variations in both genes  ( double variant ab )  is unexpectedly not just a combination of the phenotypes of the two single variants a and b .
+two genes a and b present a genetic interaction defined by inequality if the phenotypes of the two single variants a and b ,  the double variant ab and the wild - type can be measured quantitatively and described relative to each other by an inequality relationship .
+the phenotype resulting from genetic perturbation of b shows opposing effects in the wt and a backgrounds  ( for example ,  b  >  wt and ab  <  a )  ;  or ,  a shows opposing effects in the wt and b backgrounds ,  but not both .
+variation preventing protein translation because of e . g . initiation codon variation or mrna surveillance mechanism .
+a continuous stretch of rna sequence moved to a new position .
+the phenotype resulting from genetic perturbation of a has an effect only in the b background ,  or the b variant has an effect only in the a background .
+single - variant phenotype effects combine to give a double - variant effect different from the wild type and different from single variant effect .
+a continuous stretch of rna sequence inserted to the same position in reverse orientation .
+variation preventing transcription e . g . because of impaired transcription machinery or variation in the transcription regulation or start site .
+protein variation generated on purpose .
+rna variation generated on purpose .
+the phenotype of the double variant ab is weaker than expected from the combination of the individual effects of a and b .
+the phenotype resulting from genetic perturbation of both a and b show opposing effects in the wt background and the background with the other variant gene .
+the genetic interaction between a group of genes ,  in which the effects of an allele of one member gene of the group hide the effects of alleles of other genes in the group .
+the phenotype resulting from genetic perturbation of a and b have different effects  ( in terms of direction or magnitude )  on the wild - type background and the double variant has the same phenotype as either a or b  ( for example ,  a  <  wt  <  b = ab )  .
+the phenotype resulting from genetic perturbation of a alone ,  b alone and ab combined have the same effect on the wt background .
+the phenotype resulting from genetic perturbation of a has an effect on wt ,  but that effect is abolished by adding the suppressor b ,  which itself shows no single - variant effect .
+the phenotype of the double variant ab is equal to the phenotype expected from the combination of the individual effects of a and b .
+variation that has no effect in the wt and b backgrounds ,  or b has no effect in the a and wt backgrounds ,  or both hold true .
+the phenotype of the double variant ab is stronger than expected from the combination of the individual effects of a and b .
+the phenotype resulting from genetic perturbation a and the phenotype resulting from genetic perturbation b have no effect on the wt background ,  but the combined genetic perturbation of a and b has a phenotypic effect .
+molecular structural level of interaction .
+interaction between molecules .
+interaction within a molecule .
+coincident occurrence of molecules in a given subcellular fraction observed with a low resolution methodology from which a physical interaction among those molecules cannot be inferred .
+entity participating in a physical or functional interaction .
+molecule not part of or directly encoded by the genome ,  encompasses any constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer ,  etc . ,  identifiable as a separately distinguishable entity .
+metal atom .
+a liquid that can dissolve other substances  ( solutes )  without any change in their chemical composition .
+an inorganic hydroxy compound that has formula h2o .
+set of interacting molecules that can be copurified .
+a macromolecular complex containing both protein and rna molecules .
+a stable set of interacting proteins that can be copurified and operate as a functional unit .
+a stable set of interacting protein and dna that can be copurified and operate as a functional unit .
+any type of molecule ,  including complexes ,  that may be observed but not identified .
+interactor of genetic interaction .
+molecule consisting of a specific sequence of amino acidic or nucleotidic monomers strung together through chemical bonds .
+linear polymer of nucleotides ,  linked by 3' , 5' phosphodiester linkages .
+chains of amino acids joined by peptide bonds .
+a polysaccharide is a complex polymer of carbohydrate monomers .
+a linear polymer of amino acids joined by peptide bonds in a specific sequence .
+molecules that are experimentally shown to be associated potentially by sharing just one interactor .
+interaction physical force .
+a chemical link between two atoms in which electrons are shared between them .
+the covalent bond between sulfur atoms that binds two peptide chains or different parts of one peptide chain .
+interaction between biochemical entities that results in the formation of a non - covalent bond .
+attractive interaction between an electronegative atom and a hydrogen atom bonded to another electronegative atom .
+network of interactions formed by several hydrogen bonds .
+interaction of nonpolar  ( un - ionizable )  hydrocarbon molecules forced together because of stronger water - water interaction .
+interaction between charged groups .
+weak attractive electrical force between neutral groups or molecules .
+attraction between two electrically charged groups or molecules .
+quantity attribute .
+the observed feature is decreased compared to that in the wild type  ( slower ,  weaker ,  lower ,  smaller ,  etc .
+the observed feature is increased compared to that in the wild type  ( faster ,  stronger ,  higher ,  larger ,  etc .
+the observed feature is missing compared to that in the wild type .
+pathogenicity attribute .
+variation is causative of disease .
+variation is not related to clinical phenotype .
+variation is disease related .
+effects of a variation on rna level .
+variation affecting characteristic property of rna .
+variation affecting degradation of rna .
+variation affecting folding of rna .
+variation affecting stability of transcript .
+conservation of the variation site in related rna sequences .
+an excess of a particular chromosome in a cell or organism .
+implication of an rna variant to pathogenicity .
+variation affecting interaction of rna with its partner .
+type of rna variation .describes origin and classification of a variant .
+rna variation that has genetic origin .
+nucleotide change in the mrna triplet codon codes for another amino acid .
+rna nucleotide change in termination codon .
+nucleotide change in the mrna codon triplet creates a terminator codon .
+a complex rna variation consisting of both nucleotide insertion ( s )  and deletion ( s )  .
+substitution of rna nucleotide .
+change of a pyrimidine nucleotide ,  c or t  ( or u )  ,  into an other pyrimidine nucleotide ,  or change of a purine nucleotide ,  a or g ,  into an other purine nucleotide .
+a substitution of a pyrimidine ,  c or t  ( or u )  ,  for another pyrimidine .
+a substitution of a purine ,  a or g ,  for another purine .
+change of a pyrimidine nucleotide ,  c or t  ( or u )  ,  into a purine nucleotide ,  a or g ,  or vice versa .
+rna nucleotide change in the initiation codon .
+rna variation that does not change the encoded amino acid .
+one or more continuous nucleotides are missing from rna sequence .
+deletion of nucleotides in multiples of three so that the mrna coding sequence frame is retained .
+deletion of nucleotide ( s )  causing alteration of mrna coding sequence frame .
+classification of dna variation .
+origin of protein variation .
+origin of rna variation .
+classification of protein variation .
+addition of one or more nucleotides between adjacent nucleotides in rna sequence .
+insertion of nucleotide ( s )  causing alteration of mrna reading frame .
+classification of rna variation .
+rna variation due to defective fidelity of transcription .
+protein variation due to defective fidelity of translation .
+alternative form of mrna molecule .
+insertion of nucleotides in multiples of three so that the reading frame is retained .
+rna variation that does not have genetic origin being modified at rna level .
+change to rna splicing .
+rna molecule destroyed due to appearance of a premature termination codon .
+post transcriptionally modified rna .
+dna variation due to biological ,  chemical ,  physical or other modification .
+variation affecting structure of rna .
+mrna variation not affecting the sequence of the translated protein .
+affected type of rna .
+variation affecting rna not coding for protein .
+rna coding for protein .
+variation affecting region coding for protein in protein coding rna .
+variation affecting region not coding for protein in protein coding mrna .
+variation affecting post transcriptional rna modification .
+polyadenylation of mrna molecule at alternative site .
+post transcriptional modification of rna nucleoside sugar .
+effect to process where introns in mrna are cut away from exons .
+variation affecting cellular localization of rna .
+variation affecting aggregation tendency of rna .
+intronic splicing within an rna molecule .
+variation affecting splicing at recursive splice site which subdivides a large intron .
+variation affecting intronic region bordering exon or retained rna region ,  at the five prime end of the intron .
+variation affecting canonical prime splice site at five prime end .
+variation affecting non canonical splice site at five prime end .
+variation affecting intronic region bordering the exon or retained rna region ,  at the 3' edge of the intron .
+variation affecting non canonical splice site at three prime end .
+variation affecting canonical splice site at three prime end .
+activation of new splice site .
+activation of new splice donor site .
+activation of new splice acceptor site .
+variation affecting splicing and ligation different rna molecules .
+insertion of retrotransposon into chromosome .
+insertion of a dna transposable element into chromosome .
+long interspersed nuclear element generated by retrotransposition .
+short interspersed nuclear element generated by retrotransposition .
+variation affecting rna double helix .
+variation affecting rna secondary structure .
+variation affecting closed rna structure in which at least two double stranded regions meet .
+variation affecting rna structure in which nucleotides in one strand do not form base pairs .
+variation affecting rna structure in which both the strands do not form base pairs .
+variation effecting hydrogen bonding in contiguous nested base pairs in rna .
+variation affecting loop connecting adjacent regions forming helix in rna .
+retrotransposon that has long terminal repeat sequences .
+tandem repetitive sequence consisting of five nucleotide units .
+variation affecting dna double helical structure .
+variation effect on independently replicating small dna molecule .
+simple ,  relatively short transposable element .
+rna variation of epigenetic origin .
+variation affecting double stranded dna structure that contains in both strands at corresponding positions a single stranded base pairing forming stem and a connecting loop .
+variation having effect on rna function and usage .
+variation affecting splicing function of rna .
+variation affecting catalytic function of rna .
+variation affecting translation of protein .
+variation affecting regulatory function of rna .
+variation affecting rna function in amino acid transfer .
+variation affecting information transfer by rna .
+transposable element coding for self - splicing ribozyme when transcribed .
+transposable element coding for a self - splicing ribozyme when transcribed .
+fusion of two chromosome segments both containing a centromere .
+variation generated by chromosome editing .
+fusion transcript of exons from two or more genes .
+transcript with  - 1 or  + 1 frameshift due to slipping back or skipping a nucleotide on a ribosome .
+variation affecting single stranded dna structure .
+mrna molecule matured by splicing at an alternative site .
+variation affecting catalytic function of dna .
+variation affecting a form of right - handed dna .
+variation affecting b form of right - handed dna .
+variation affecting c form of right - handed dna .
+variation affecting l form of right - handed dna .
+variation affecting s form of right - handed dna .
+variation affecting d form of right - handed dna .
+variation affecting h form of intramolecular triple helical dna .
+variation affecting four - stranded dna .
+variation affecting z form of left - handed dna .
+variation affecting triple helical dna structure where the third strand is provided by one of the strands forming the duplex .
+variation affecting triple helical dna structure where the third strand is from a second dna molecule .
+variation affecting dna - rna hybrid .
+variation affecting rna helix formed of three strands .
+variation affecting four - stranded rna .
+classification of chromosomal amplification type .
+variation affecting genome .
+chromosome structure variation due to several breakpoints .
+repetitive sequence consisting of one more nucleotide units .
+effect on dna - rna r loop structure of short rna - dna hybrid and the displaced single stranded dna .
+effect on dna - rna t loop structure formed by single - stranded 3' strand looping back to anneal with double - stranded repeats .
+effect on dna displacement loop where two double - stranded dna molecules are separated locally by a third strand of dna or rna .
+replacement of the deoxyribonucleoside monophosphate by ribonucleoside monophosphate in the dna backbone .
+effect of variation to protein reaction kinetics .
+completely processed rna molecule .
+rna variation causing alternative translation initiation .
+epigenetic modification of rna .
+effect of variation on rna activity .
+effect of variation on rna reaction kinetics .
+effect of variation on  rna affinity to binding molecule ( s )  .
+effect of variation on substrate binding specificity of rna .
+protein variant originating from alternative translation initiation .
+variation that has emerged in a germ cell on one of the parents or in the fertilized egg during early embryogenesis .
+variation that has been inherited from a germline cell .
+variation that has its origin in a cell in soma .
+processes that recombine and modify genes coding for immunological recognition molecules  ( antigens ,  b -  and t - cell receptors ,  mch type i and ii molecules )  .
+variation effect on dna within cellular compartment .
+circular dna molecule not part of the chromosomes .
+variation affecting dna within mitochondria .
+variation affecting dna within plastids e .g .
+tandem repetitive sequence consisting of six nucleotide units .
+epigenetic modification of histone .
+variation affecting topology associating domain  ( tad )  .
+genome composed of rna molecule .
+genome for a rna virus .
+genome for an infectious particle .
+genome for a subviral agent .
+unprocessed mrna .
+mature mrna .
+covalently closed single - stranded rna chain .
+single - stranded non - coding rna compelementary to a mrna or part of it .
+single - stranded noncoding rna overlapping with mrna but not coding for a protein .
+non - coding rna with a function .
+rna intermediate of a retrotransposon .
+rna involved in protein synthesis .
+transfer rna involved in protein synthesis .
+non - coding rna that is a constituent of the large ribosomal subunit .
+non - coding rna that is a constituent of the small ribosomal unit .
+intron with an intrinsic splicing activity .
+intron removed by spliceosome .
+inclusion intron sequence to mrna .
+non - coding rna component of telomerase .
+rna with catalytic activity .
+rna with regulatory activity .
+short non - coding rna that binds to complementary region in mrna and silences and regulates gene expression .
+short double - stranded non - coding rna regulating gene expresion by causing degration of mrna with complementary sequence .
+non - coding rna binding to piwi - superfamily argonaute proteins to silence transposons ,  repeat - derived transcripts and genetic elements .
+non - coding rna component of signal recognition particle .
+non - coding rna component of x - inactivation center .
+non - coding rna component of editosome complex .
+non - coding rna component of dna editing complex .
+non - coding rna in nucleus .
+non - coding rna in mitochondrion .
+non - coding rna related to chromatin .
+non - coding rna related to centromere .
+classification of non - coding rna based on the length .
+non - coding rna shorter than 200 nucleotides or base pairs .
+non - coding rna constituent of ribosome .
+non - coding rna longer than 200 nucleotides or base pairs .
+non - coding rna longer than 10 kb .
+transcript region that is part in mature mrna .
+variation causing alternative mrna termination .
+variation affecting post transcriptional rna modification .
+post transcriptionally modified nucleotide in mrna .
+variation affecting rna stucture containing at teast two stem loops where part of one stem is intercalated to the other stem .
+rna produced by degradation of processing of an rna molecule .
+variation where an exon is completele cleaved out from a mature transcript .
+transcript from which part of an exon is missing .
+transcript that includes a cryptic exon from the middle of intron .
+transcript that contains and additional stretch from intron .
+type of variation affecting splice site .
+variation affecting the type of rna splicing .
+variation affecting splicing occurring simultnaeously with transcription .
+variation affecting splicing that does not occur in sequential order .
+variation affecting intron splicing that occurs in several splicing events .
+a' is a variant  ( mutation )  of a = definition every instance of a' is either an immediate mutation of some instance of a ,  or there is a chain of immediate mutation processes linking a' to some instance of a .
+alternative form of rna molecule .
+post transcriptionally chemically modified rna .
+chemical modification of rna transcript by rna editing mechanism .
+rna editing process of chemical modification of a nucleotide in rna .
+insertion of one or more nucleotides to rna by rna editing process .
+deletion of one or more nucleotides from rna by rna editing process .
+variation causing degradation of rna .
+variation causing nonstop rna decay .
+variation causing no - go rna decay .
+variation causing nonsense - mediated decay of rna due to premature translation termination codon .
+nonsense - associated altered rna splicing .
+variation affecting region not coding for protein in protein coding mrna .
+maturation of mrna .
+enzymatic addition of adenylyl residues to the 3' end of rna molecule .
+modification of five prime nucleotide in rna by adding guanine nucleotide with five prime to five prime linkage .
+three prime end processing of rna .
+covalent modification of rna during maturation .
+post transcriptional modification of rna base .
+post transcriptional modification of rna nucleoside sugar .
+process where introns in mrna are cut away from exons .
+intronic splicing within a mrna molecule .
+splicing at recursive splice site which subdivides a large intron .
+intronic two base pair region bordering exon ,  at the five prime end of the intron .
+canonical prime splice site at five prime end .
+non canonical splice site at five prime end .
+intronic two base pair region bordering the exon ,  at the 3' edge of the intron .
+non canonical splice site at three prime end .
+canonical splice site at three prime end .
+splicing and ligation of two different mrna molecules .
+rna splicing by inherent ribozyme activity of the mrna molecule .
+variation causing staufen - mediated rna decay .
+rna molecule that has matured by processing .
+rna variation causing alternative translation initiation .

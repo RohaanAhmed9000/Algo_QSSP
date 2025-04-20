@@ -1,0 +1,374 @@
+an information content entity that is a representation of counting .
+a planned process that computes the totality of some material entity .
+a data set consisting of measurements of age organized in age brackets .
+b is an independent continuant = def .
+p is a process = def .
+b is a relational specifically dependent continuant = def .
+b is a generically dependent continuant = def .
+p is a process boundary =def .
+b is a continuant fiat boundary = def .
+b is a process_profile =def .
+b is a relational quality = def .
+material anatomical entity in a gaseous ,  liquid ,  semisolid or solid state ;  produced by anatomical structures or derived from inhaled and ingested substances that have been modified by anatomical structures as they pass through the body .
+anatomical structure that is part of a multicellular organism and is at the gross anatomical level ,  e .g .
+the simplest aldehyde .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing deoxyribose and linked by phosphodiester bonds ;  dna contain the genetic information of organisms .
+any constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer etc . ,  identifiable as a separately distinguishable entity .
+a macromolecule made up of nucleotide units and hydrolysable into certain pyrimidine or purine bases  ( usually adenine ,  cytosine ,  guanine ,  thymine ,  uracil )  ,  d - ribose or 2 - deoxy - d - ribose and phosphoric acid .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing ribose and linked by phosphodiester bonds ;  rna is central to the synthesis of proteins .
+a macromolecule is a molecule of high relative molecular mass ,  the structure of which essentially comprises the multiple repetition of units derived ,  actually or conceptually ,  from molecules of low relative molecular mass .
+a material entity of anatomical origin  ( part of or deriving from an organism )  that has as its parts a maximally connected cell compartment surrounded by a plasma membrane .
+a cell in vitro that is or has been maintained or propagated as part of a cell culture .
+a cell in vitro that has undergone physical changes as a consequence of a deliberate and specific experimental procedure .
+a reference to a place on the earth ,  by its name or by its geographical location .
+a governmental organization that has a local ,  regional ,  or territorial government that recognizes a sovereign state as its higher political authority
+a subnational entity that does not possess full political independence or sovereignty as a sovereign state ,  but remains politically outside of the controlling state and controls a geographical region that is outside the controlling state's integral region .
+a governmental organization with a defined territory on which it exercises internal and external sovereignty ,  a permanent population ,  a government ,  and the capacity to enter into relations with other sovereign states .
+an organization that governs the people living in a particular geographical region or aggregate of geographical regions .
+any process specifically pertinent to the functioning of integrated living units: cells ,  tissues ,  organs ,  and organisms .
+a data item label that denotes a unit of measure .
+a directive information entity that describes an intended process endpoint .
+a narrative object is an information content entity that is a set of propositions .
+a directive information entity that describes an action the bearer will take
+an information content entity that is part of some data item and is used to partially define the denotation of that data item .
+a quality of an information bearer that imparts the information content
+an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method that reliably tends to produce  ( approximately )  truthful statements .
+an information content entity that is a mark or character used as a conventional representation of another entity .
+a symbol that denotes a number .
+an information content entity is an entity that is generically dependent on some material entity and stands in relation of aboutness to some entity
+a scalar measurement datum is a measurement datum that is composed of two parts ,  numerals and a unit label .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a plan specification which describes inputs ,  output of mathematical functions as well as workflow of execution for achieving an predefined objective .
+the curation status of the term .
+an information content entity assembled by an author for the purpose of providing information for an audience ,  and that is meant to provide an accurate account of something that happened .
+a data format specification is the information content borne by the document published defining the specification .
+a data item that is an aggregate of other data items of the same type that have something in common .
+an image is an affine projection to a two dimensional surface ,  of measurements of some quality of an entity or entities repeated at regular intervals across a spatial range ,  where the measurements are represented as color and luminosity on the projected on surface .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+a directive information entity that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives ,  in part by taking the actions specified .
+a data item that is a recording of the output of an assay .
+a settings datum is a datum that denotes some configuration of an instrument .
+a textual entity that expresses the results of reasoning about a problem ,  for instance as typically found towards the end of scientific papers .
+a material entity in which a concretization of an information content entity inheres .
+a photograph is created by projecting an image onto a photosensitive surface such as a chemically treated plate or film ,  ccd receptor ,  etc .
+a photographic print is a material entity upon which a photograph generically depends .
+the reason for which a term has been deprecated .
+a textual entity is a part of a manifestation  ( frbr sense )  ,  a generically dependent continuant whose concretizations are patterns of glyphs intended to be interpreted as words ,  formulas ,  etc .
+an information content entity consisting of a two dimensional arrangement of information content entities such that the arrangement itself is about something .
+a collection of information content entities intended to be understood together as a whole
+a scalar measurement datum that is the result of measurement of length quality
+a scalar measurement datum that is the result of measurement of mass quality
+a scalar measurement datum that is the result of measuring a temporal interval
+a textual entity that is used as directive to deliver something to a person ,  or organization
+a planned process in which input information is used to create or add to a report
+a symbol that is sufficient to look up information about the corresponding entity from its crid  ( centrally registered identifier )  registry .
+an information content entity that consists of a crid symbol and additional information about which crid registry it belongs .
+a data set that consists of crids  ( centrally registered identifier )  and additional information about their corresponding entities ,  that were recorded in the dataset through an assigning a centrally registered identifier process .
+a proper name is an information content entity that is the outcome of a dubbing process and is used to refer to one instance of entity shared by a group of people to refer to that individual entity .
+a dubbing process is a planned process that provides a reference to an individual entity shared by a group of subscribers to refer to that individual entity .
+a personal name is a proper name identifying an individual person .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+biological_feature_identification_objective is an objective role carried out by the proposition defining the aim of a study designed to examine or characterize a particular biological feature .
+is a material entity that is created or changed during material processing .
+a planned process that consists of parts: planning ,  study design execution ,  documentation and which produce conclusion ( s )  .
+a role that inheres in a material entity that is realized in an assay in which data is generated about the bearer of the evaluant role
+a planned process with the objective to produce information about the material entity that is the evaluant ,  by physically examining it or its proxies .
+a processed material that provides the needed nourishment for microorganisms or cells grown in vitro .
+a role inhering in a biological or chemical entity that is intended to be applied in a scientific technique to participate  ( or have molecular components that participate )  in a chemical reaction that facilitates the generation of data about some entity distinct from the bearer ,  or the generation of some specified material output distinct from the bearer .
+a role which inheres in a person and is realized by the process of being under the care of a physician or health care provider
+a planned process which results in physical changes in a specified input material
+a role that is realized through the execution of a study design in which the bearer of the role participates and in which data about that bearer is collected .
+a study personnel role played by a party who is accountable for the execution of a study component and can make decisions about the conduct of the study
+a responsible party role played by a person responsible for the overall conduct of a study
+a role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation
+a device manufacture with the intent to provide a porous unsized paper used for filtering .
+a role borne by an entity and that is realized in a process that is part of an investigation in which an objective is achieved .
+an entity that can bear roles ,  has members ,  and has a set of organization rules .
+a dna extraction is a nucleic acid extraction where the desired output material is dna .
+organism_feature_identification_objective is a biological_feature_identification_objective role describing a study designed to examine or characterize a biological feature monitored at the level of the organism ,  e .g .
+a plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents ,  so that different investigation agents will reliably be able to independently reproduce the process .
+is a process with the objective to place a material entity bearing the 'material to be added role' into a material bearing the 'target of material addition role' .
+material to be added role is a protocol participant role realized by a material which is added into a material bearing the target of material addition role in a material addition process
+a planned process in which data gathered in an investigation is evaluated in the context of existing knowledge with the objective to generate more general conclusions or to conclude that the data does not allow one to draw general conclusion
+a process of creating or modifying a plan specification
+histological sample preparation is the preparation of an input tissue via slicing and labeling to make tissue microstructure of interest visible in a future histology assay
+is an investigation with the goal to test one or more hypothesis
+is an investigation in which data is generated and analyzed with the purpose of generating new hypothesis
+a contain function is a function to constrain a material entities location in space
+a heat function is a function that increases the internal kinetic energy of a material
+a material separation function is a function that increases the resolution between two or more material entities .
+a freeze function is a function to decrease the internal kinetic energy of a material below the freezing point of that type of material .
+a filter function is a function to prevent the flow of certain entities based on a quality or qualities of the entity while allowing entities which have different qualities to pass through
+a mechanical function is a function that is realised via mechanical work  ( through an certain amount of energy transferred by some force )  .
+a cool function is a function to decrease the internal kinetic energy of a material below the initial kinetic energy of that type of material .
+an environmental control function is a function that regulates a contained environment within specified parameter ranges .
+the extraction of rna from an input material that specifically isolates viral rna
+an extract is a material entity which results from an extraction process
+an averaging objective is a data transformation objective where the aim is to perform mean calculations on the input of the data transformation .
+is the specification of an objective to add a material into a target material .
+an objective specification to determine a specified type of information about an evaluated entity  ( the material entity bearing evaluant role ) 
+target of material addition role is a role realized by an entity into which a material is added in a material addition process
+measure function is a function that is borne by a processed material  and realized in a process in which information about some entity is expressed relative to some reference .
+an objective specifiction that creates an specific output object from input materials .
+a planned process that realizes the concretization of a study design
+is an objective to transform a material entity into spatially separated components .
+a data set that is produced as the output of a descriptive statistical calculation data transformation and consists of producing a data set that represents one or more features of interest about the input data set .
+a portion of urine collected from an organism
+is a material processing with the objective to combine two or more material entities as input into a single material entity as output .
+a material entity derived from a portion of blood collected from an organism
+a planned process with the objective of collecting a specimen .
+a material obtained from an organism in order to be a representative of the whole
+a data item that is produced as the output of a center calculation data transformation and represents the center value of the input data .
+a material separation objective aiming to separate material into multiple portions ,  each of which contains a similar composition of the input material .
+a  data item that is produced as the output of an averaging data transformation and represents the average value of the input data .
+a material entity which is the output of a process in which one or more whole organisms are prepared in a way to make it easier to study them ,  and in which the great majority of organismal parts are maintained
+a material separation objective aiming to separate a material entity that has parts of different types ,  and end with at least one output that is a material with parts of fewer types  ( modulo impurities )  .
+a objective specification to obtain a material entity for potential use as an input during an investigation .
+is an objective to obtain an output material that contains several input materials .
+a material sample role is a specimen role borne by a material entity that is the output of a material sampling process .
+a specimen gathering process with the objective to obtain a specimen that is representative of the input material entity
+a material entity that has the material sample role
+a directive information entity that is part of a study design .
+an objective specification maintains some or all of the qualities of a material over time .
+a device in which a measure function inheres .
+the output of an extraction process in which dna molecules above a molecular weight cutoff are purified in order to exclude dna from organellas .
+a process with that achieves the objective to maintain some or all of the characteristics of an input material over time
+a rna extraction process typically involving the use of poly dt oligomers in which the desired output material is polya rna .
+a rna extraction process in which the desired output material is rna in the organelle ( s )  .
+a rna extraction process in which total cellular and organelle rna are extracted .
+a rna extraction process in which the desired output material is rna in the cytoplasm .
+a rna extract that is the output of an extraction process in which rna molecules found in the nucleus ,  including mrna precursors  ( pre - mrna )  ,  are extracted .
+a rna extract that is the output of an extraction process in which rna molecules with poly a tail at its 3’ end are purified .
+a specimen that was taken from a live organism
+a rna extract that is the output of a rna extraction process in which rna molecules found in the cytoplasm are extracted .
+an extract which is the output of an extraction process in which rna molecules are isolated from a specimen .
+a rna extraction process in which the desired output material is rna in the nucleus .
+a rna extract that is the output of an extraction process in which total celluar and organelle rna molecules are isolated from a specimen .
+a rna extract that is the output of an extraction process in which rna molecules found in an organelle ,  e .g . ,  mitochondrion ,  er ,  or chloroplast ,  excluding the nucleus ,  are extracted .
+a specimen that was taken from a dead organism
+a labeled specimen that is the output of a labeling process and has grain labeled dna to be able to detect dna in future experiments .
+a specimen obtained by inserting a swab deeply into the vent of the cloaca of an organism and vigorously swabbing the wall .
+a speciemn which derives from nasopharyngeal mucosa after aspiration .
+a storage process in temperature that maintenance the frozen status of the stored entities .
+a specimen obtained using a cotton swab on a stick ,  passed up the nostril to obtain a sample of exudate and epithelial debris for microbiological or cellular examination .
+a labeled specimen that is the output of a labeling process and has grain labeled rna to be able to detect rna in future experiments .
+a specimen that has been frozen in order to store it .
+a specimen  that has been modified in order to be able to detect it in future experiments
+a storage process with input material entity and output freeze dried material for long time storage
+a device with a separation function realized in a planed process
+a specimen that is output of a paraffin storage process in which specimen is embedded in paraffin
+a specimen that has been intentionally physically modified .
+a specimen that is output of a lyophilization storage process in which specimen is lyophilized for storage .
+a material entity that is designed to perform a function in a scientific investigation ,  but is not a reagent .
+a specimen that is output of a specimen creation process used for an investigation without storage .
+a storage process with input organism or anatomical entity and paraffin and output material embedded in paraffin for long term storage
+a specimen that is output of a process that cell culture inoculated into agar for long term storage .
+a storage process with input cell culture and agar and output agar stab for long time storage
+an extract that is the output of an extraction process in which nucleic acid molecules are isolated from a specimen .
+the output of an extraction process in which dna molecules are purified in order to exclude dna from organellas .
+a labeled specimen that is the output of a labeling process and has grain labeled nucleic acid for detection of the nucleic acid in future experiments .
+a study design in which the pathological condition of a part ,  organ ,  or system of an organism is studied .
+a specimen primarily composed of cells collected from a multicellular organism or a cell culture
+a specimen for which it is known whether it has been subjected to storage of a specified type .
+a specimen that derives from an anatomical part or substance arising from an organism .
+a specimen that has been established to be taken from a live  ( pre - mortem )  or dead  ( post - mortem )  organism .
+a directive information entity which defines and states a principle of standard by which selection process may take place .
+a material entity comprised of cultured cells and the media in which they are being propagated or stored .
+an information content entity that is inferred from data .
+a processed material that serves as a liquid vehicle for freezing cells for long term quiescent stroage ,  which contains chemicls needed to sustain cell viability across freeze - thaw cycles .
+a planned process which results in the creation of group of entity from a larger group by the application of predefined criteria .
+a value specification that consists of two parts: a numeral and a unit label
+an information content entity that specifies a value within a classification scheme or on a quantitative scale .
+a material entity that is the specified output of an addition of molecular label process that aims to label some molecular target to allow for its detection in a detection of molecular label assay
+a freezing process by which material entities are quickly frozen by subjecting them to cryogenic temperatures ,  or in direct contact with liquid nitrogen at  - 320 .8f or  - 196°c .
+a planned process in which a material entity has it's temperature lowered to below the freezing point in order to bring it to a state in which it can be maintained at this lower temperature in order to preserve some of its qualities .
+a material entity which corresponds to the liquid component of blood ,  in which the blood cells are suspended .
+a material entity which derives from blood and corresponds to blood plasma without fibrinogen or the other clotting factors .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a material entity that has the specimen role .
+a processed material comprised of a collection of cultured cells that has been continuously maintained together in culture and shares a common propagation history .
+a processed material which derives from an organ and results from a process of dissection or histological sample preparation a portion ( formerly an organ section is portion of an organ removed from the context of the organ ) 
+group of biomaterials present in the bronchial aveolar space of an organism which are collected through lavage including the reagents used to for the lavage process ,  organisms ,  cells ,  and cellular secretions present in the bronchial aveolar space .
+a planned process that produces output data from input data .
+a moving average is a data transformation in which center calculations ,  usually mean calculations ,  are performed on values within a sliding window across the input data set .
+a descriptive statistical calculation objective is a data transformation objective which concerns any calculation intended to describe a feature of a data set ,  for example ,  its center or its variability .
+a mean calculation is a descriptive statistics calculation in which the mean is calculated by taking the sum of all of the observations in a data set divided by the total number of observations .
+a data transformation in which individual input data elements and values are merged together into a output set of data elements and values .
+an objective specification to transformation input data into output data
+an averaging data transformation is a data transformation that has objective averaging .
+a center calculation objective is a data transformation objective where the aim is to calculate the center of an input data set .
+a center calculation data transformation is a data transformation that has objective of center calculation .
+a descriptive statistical calculation data transformation is a data transformation that has objective descriptive statistical calculation and which concerns any calculation intended to describe a feature of a data set ,  for example ,  its center or its variability .
+a merging objective is a data transformation objective in which the data transformation has the aim of performing a union of two or more sets .
+a pool of specimens is a mixture of a population of samples which have been gathered from one or more sample populations ,  obtained by the physical process of mixing individual specimens ,  e .g .
+a material separation in which a desired component of an input material is separated from the remainder
+filtration is a process which separates components suspended in a fluid based on granularity properties relying on a filter device
+centrifugation is a process separating molecules by size or density using centrifugal forces generated by a spinning rotor .
+a maintenance process by which material entities that are not actively metabolizing are placed in well identified location and possibly under controlled environment in ad - hoc devices / structures in order to preserve and protect them from decay / alteration and maintain availability
+digital curation is the process of establishing and developing long term repositories of digital assets for current and future reference by researchers ,  scientists ,  and historians ,  and scholars generally .
+a device with a rapidly rotating container that applies centrifugal force to its contents
+a microtome is a mechanical instrument used to cut biological specimens into very thin segments for further treatment  ( e .g .
+a plan specification comprised of protocols  ( which may specify how and what kinds of data will be gathered )  that are executed as part of an investigation and is realized during a study design execution .
+a process with the objective to obtain a material entity that was part of an organism for potential future use in an investigation
+the planned process of gaining possession of a continuant
+an acquisition in which possession of a material entity is gained .
+environmental_material_collection is an acquisition where an object is taken from an environment and put into a storage container .
+an acquisition in which possession of information is gained .
+a material processing in which components of an input material become segregated in space
+a protocol application in which cells are kept alive in a defined environment outside of an organism .
+a process through which a new type of cell culture or cell line is created ,  either through the isolation and culture of one or more cells from a fresh source ,  or the deliberate experimental modification of an existing cell culture  ( e .g passaging a primary culture to become a secondary culture or line ,  or the immortalization or stable genetic modification of an existing culture or line )  .
+a material processing technique intended to add a molecular label to some input material entity ,  to allow detection of the molecular target of this label in a detection of molecular label assay
+a protocol application to separate cells and / or cellular secretions from an anatomical space by the introduction and removal of fluid
+a protocol application that uses diffusion through a semi - permeable membrane to separate an input material into two fractions of different composition
+a rna extraction is a nucleic acid extraction where the desired output material is rna
+a material separation to recover the nucleic acid fraction of an input material
+a whole organism preparation resulting from a histological preparation known as whole mount preparation where the whole specimen is mounted or spread on the microscope  ( glass )  slide
+a role which inheres in an organism or part thereof from which any part including cell ,  organ or tissue is removed with the intention that the donated part will be placed into another organism and / or cultured in vitro .
+a material entity into which another is being added in a material combinatino process
+a disposition  ( i )  to undergo pathological processes that  ( ii )  exists in an organism because of one or more disorders in that organism .
+a material entity which is clinically abnormal and part of an extended organism .
+the representation of a conclusion of a diagnostic process .
+a processual entity whose completion is hypothesized  ( by a healthcare provider )  to alleviate the signs and symptoms associated with a disorder
+an interpretive process that has as input a clinical picture of a given patient and as output an assertion to the effect that the patient has a disease ,  disorder ,  or syndrome of a certain type ,  or none of these .
+a biobank is a collections of samples of biological substances  ( e .g .
+a human biobank is a collections of samples of human body substances  ( e .g .
+the part of a sample collection or study contact's adress denoting a settlement .
+an identifier in natural language referring  to a biobank .
+an identifier that consists of two letters ,  is part of the iso 3166 - 1 ,  and designates countries ,  dependent territories ,  and special areas of geographical interest .
+a biobank identifier that has an iso 3166 - 1 alpha - 2 code as a part .
+a sample collection or study proper name that is centrally registered and unique within one framework .
+the iso 3166 - 1 alpha - 2 code that is part of the sample collection or study contact's postal address .
+an organization bearing legal personality that ownes or adminstrates a biobank .
+a planned process that involves a human being and is intended to initiate a communication with another human being .
+a role borne by a human being that is part of an group of individuals and acts as contact person for the group .
+a human being that is member of a biobank organization and bears the organization contact role .
+a personal name that designates the person acting as contact for a sample collection or a study .
+an email address for the purpose of contacting a biobank contact person .
+postal address used as a directive for deliveries to the biobank contact person .
+an organization with a specific responsibility that is a part of a larger organization with a specific responsibility .
+a department that has a contact person for a biobank as an organizational member .
+a crid that constitutes a reference to an internet resource .
+a unique resource locator referring to the homepage of a biobank .
+a telephone number  is a textual entity consisting of a sequence of digits used to call from one telephone line to another in a public switched telephone network .
+a telephone number that is contact information about a biobank contact person .
+a centrally registered identifier denoting a post - office box .
+a post - office box is material entity that is a box on the premises of a post office station and is uniquely addressable .
+a telephone number that is contact information about a sample collection or study contact person .
+a postal code is a textual entity that is a series of letters and / or digits and is part of a postal address for the purpose of sorting mail .
+the postal code that is part of the postal address of the biobank contact person .
+the iso 3166 - 1 alpha - 2 code that is part of the biobank contact person's postal address .
+a textual entity that is part of a postal address and denotes a human settlement for the purpose of delivering mail .
+the part of a biobank contact's adress denoting a settlement .
+a textual entity that is part of a postal address and specifies the location inside the settlement  ( which is specified by another part of the address )  .
+an intra - settlement specification part of address that is part of a biobank contact's postal address .
+a object aggregate that consists of specimens ,  participates in a study and is part of a biobank .
+the proper name that designates a hosted study collection .
+an email address for the purpose of contacting a sample collection or study contact person .
+a textual entity describing a study aim or a sample collection .
+a proper name that designates a study .
+a personal name that designates the human being responsible for a sample collection or the human being being the principal investigator in a study .
+a personal name that designates the person acting as contact for a sample collection or a study .
+a department that has a contact person for a sample collection or a study as an organizational member .
+a street is a  thoroughfare in a built environment .
+sample collection / study contact address
+postal code that is part of the address of a human being serving as sample collection or study contact .
+an iso 3166 - 1 alpha - 2 code that designates the country a biobank is located in .
+an identifier for an organization that is assigned to that organization by the cancer therapy evaluation program .
+a biobank identifier that has both an iso 3166 - 1 alpha - 2 code and a ctep organization code .
+a specimen that refers to the tissue at the center of large bones which is the place where new blood cells are produced .
+a processed specimen that is the output of a fixation process .
+a fixed tissue specimen that is in block form .
+a fixed tissue specimen that is placed in a slide .
+a frozen specimen that has been instantly / quickly frozen by subjecting the specimen to cryogenic temperatures ,  or in direct contact with liquid nitrogen at  - 320 .8f 0r  - 196c .
+a fresh specimen that is in a tissue form .
+a frozen specimen is a tissue sample preserved in a block .
+a frozen specimen that has been sliced from a tissue block into thin layers that are placed on a glass to be examined under a microscope .
+a specimen that has been procured from a histology slide under direct microscopic visualization .
+a data set that contains the outcome of a survey .
+the process of collecting or selecting an aggregate of specimens into a biobank .
+a contact role borne by a member of a sample collection or study organization and realized by serving as the contact for the collection or the study .
+a human being acting as bearing the contact role for a sample collection or a study .
+the principle investigtor or responsible person for a study or a sample collection .
+a data item that indicates the pathological assessment of a specimen .
+a specimen disease state datum item that specifies that the specimen in question consists of a disorder .
+a specimen disease state datum that specifies that the specimen in question consists of partially normal tissue and a disorder .
+a specimen disease state datum that specifies that the specimenin questions consists of normal tissue .
+a specimen disease state data of the procured specimen that is unclear .
+a material processing that uses chemical process by which biological tissues are preserved from decay .
+an information content entity that is about a data set that has age information and specifies the range of age information in that data set .
+an average value of age for a certain group of individuals .
+a data set of collected secondary data related to patients with a specific diagnosis ,  condition ,  or procedure and plays an important role in post marketing surveillance of pharmaceuticals .
+a data set that contains additional information about a group of individuals and is gathered through a survey .
+a data item that indicates the time when data about the sample collection was reported into a database .
+a data item that indicates the time when data about the sample collection was last updated in a database .
+a data item that indicates the time when the sampling of specimens for a biobank ended .
+a data item that indicates the time when the sampling of specimens for a biobank started .
+a diagnosis that is the outcome of a diagnostic process targeting a second or additional health problem .
+a diagnosis that is the main reason for the inducement of medical care .
+a count that is about the aggregate of individuals who have contributed biological specimens in a study .
+a count that is about the aggregate of individuals who have been recruited to participate in a study .
+a measurement datum that contains the assessment information about the functioning of a major organ system ,  the extent of disease or disability , as well as the provision and / or response to therapeutic interventions .
+a setting datum that specifies the temperature inside a container participating in a storage process .
+technologies that measure some characteristic of a large family of cellular molecules ,  such as genes ,  proteins ,  or small metabolites ,  have been named by appending the suffix " - omics , " as in "genomics ."
+an objective specification that specifies the number of individuals to participate in a study and provide biological specimens to the study .
+an objective specification that specifies the total number of individuals who are planned to participate in study .
+a study design that compares two groups of subjects ;  those with the disease or condtion under study and a similar group of subjects who do not have the condition .
+a study design in which all participants or a representative subset of participants are examined at only a single time for characteristics of a interest  ( e .g .
+a study design that involves repeated observations of the same entity over time .
+a longitudinal study that aims to study a case - defined population who presently have a certain condition or recepient of a particular treatment that are followed over time and are compared with a similar group who do not have condition .
+a longitudinal study that samples a cross - section and studies it at regular intervals .
+a study design that is multidisciplinary done at the population level or among the population groups ,  generally to find the cause ,  incidence or spread of the disease or to see the response to the treatment ,  nutrition or environment .
+a study design where some aspect of the experiment is quality controlled for the purposes of quality assurance .
+a study design usually in behavior genetics which aids the study of individual differences between genetically identical twins by highlighting the role of environmental and genetic causes on behavior .
+a plan specification that is realized by  process of gathering information  ( e .g .
+a document that contains information representing health - relevant qualities of a patient written in a chronological manner and that is primarily used for patient care in a clinical setting .
+a medical record of a specimen donor .
+a document that outlines the procedures employed to preserve and protect the material collected during specimen collection as an indication of sample quality .
+age interval information that is age information of specimen donors .
+registry data for a patient who participates as a donor in a study .
+a survey data for a specimen donor .
+a planned process that involves the initial entering of data about sample collection into a database .
+a planned process which involves editing of specimen collection data into a database after its initial entry .
+a planned process that realizes the concretization of a survey to generate an output ( survey data . ) 
+a planned process that aims to control or maintain the temperature of a material entity to a given or required measurement datum .
+a measurement datum that is the result of measurement of the three dimensions of a specimen .
+a data item that indicates the time when the collection of a specimen occurred .
+a planned process that uses operative manual and instrumental techniques on a patient to investigate and / or treat a pathological condition such as disease or injury ,  or to help improve bodily function or appearance .
+a personal name that designates the person who prepared the specimen .
+a time measurement datum that states the duration during which a specimen was submerged in formalin .
+a collecting specimen from organism process that involves removing the specimen from an individual through a surgical procedure .
+a freezing storage for the specimen .
+a proper name that identifies a specimen and is usually in form of a label included in the specimen cassette .
+an identifier that refers to a specimen donor who is participating in specimen collection process for tissue procurement purposes and is usually assigned at the time of donor procurement .
+an directive information entity that states the technical standard measurement set and values that determines if a specimen qualifies for procurement or not .
+a data item that reports the time when a specimen was frozen .
+a data item that reports the time when a specimen was collected by a surgical procedure .
+a specimen that is normal .
+a specimen that refers to a portion of a fluid largely secreted by the choroid plexuses of the ventricles of the brain ,  filling the ventricles and the subarachnoid cavities of the brain and spinal cord ,  collected from an organism .
+a specimen that comprises of a portion of faeces collected from an organism .
+a specimen consisting of a portion of saliva collected from an organism .
+a biobank that collects and stores specimen during specimen collection primarily for the purposes of some study .
+a planned process of preparing and submitting specimens to storage .
+the process boundary marking the beginning of a sampling of specimens into a biobank .
+the process boundary marking the end of a sampling of specimens into a biobank .
+a role inhering in an entity realized by social interactions in human society .
+an object aggregate that is not itself an organization and whose members are only organizations that have some feature in common
+a role borne by a human individual or by a collection of humans regarded as possessing rights and duties enforeable at law .
+a time quality inhering in a bearer by virtue of how long the bearer has existed .
+an organismal quality inhering in a bearer by virtue of the bearer's ability to undergo sexual reproduction in order to differentiate the individuals or types involved .
+a 1 - d extent quality which is equal to the distance between two points .
+a physical quality of the thermal energy of a system .
+a biological sex quality inhering in an individual or a population that only produces gametes that can be fertilised by male gametes .
+a biological sex quality inhering in an individual or a population whose sex organs contain only male gametes .
+a physical quality that inheres in a bearer by virtue of the bearer's amount of force per unit area it exerts .
+a physical object quality which inheres in a single - bearer .
+a biological sex quality inhering in an organism or a population with both male and female sexual organs in one individual .
+a viability quality inhering in a bearer by virtue of the bearer's condition before death .
+a viability quality inhering in a bearer by virtue of the cessation of the bearer's life .
+a quality inhering in a bearer by virtue of the bearer's being kept below its freezing point .
+a material entity that consists of two or more organisms ,  viruses ,  or viroids .
+a reagent role inhering in a molecular entity intended to associate with some molecular target to serve as a proxy for the presence ,  abundance ,  or location of this target in a detection of molecular label assay .
+a molecular reagent intended to associate with some molecular target to serve as a proxy for the presence ,  abundance ,  or location of this target in a detection of molecular label assay
+circulating body substance which consists of blood plasma and hemoglobin - carrying red blood cells .
+excretion in liquid state processed by the kidney .
+a unit which is a standard measure of the dimension in which events occur in sequence .

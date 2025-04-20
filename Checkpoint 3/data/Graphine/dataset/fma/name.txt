@@ -1,0 +1,1118 @@
+body wall
+thoracic wall
+intervertebral syndesmosis
+inferior vena cava
+pericardial cavity
+cavity of right atrium
+papillary muscle
+chorda tendinea
+body compartment subdivision
+organ cavity
+serous cavity
+intercostal space
+pleural fluid
+urine
+sweat
+transudate
+synovial fluid
+eyeball
+tooth
+myocardium of right auricle
+myocardium of left auricle
+epicardium of right auricle
+epicardium of left auricle
+wall of outflow part of right atrium
+wall of outflow part of left atrium
+cavity of right cardiac chamber
+cavity of left cardiac chamber
+wall of cardiac chamber
+membranous part of interatrial septum
+humerus
+conducting system of right atrium
+conducting system of left atrium
+conducting system of right ventricle
+conducting system of left ventricle
+wall of atrium
+wall of ventricle
+cavity of right hemithorax
+cavity of left hemithorax
+anterior branch of anterior interventricular branch of left coronary artery
+organ component
+cardiac myocyte
+cardiac muscle tissue
+skeletal muscle tissue
+smooth muscle tissue
+smooth muscle cell
+mesothelium
+purkinje myocyte
+venous tree organ
+organ subdivision cluster
+perivascular fibrous sheath of liver
+appendix
+ascending colon
+biliary tree
+peritoneal cavity
+cortex of kidney
+superior pole of kidney
+inferior pole of kidney
+renal segment
+superior renal segment
+anterior superior renal segment
+anterior inferior renal segment
+inferior renal segment
+posterior renal segment
+anal canal
+lower pole of spleen
+upper pole of spleen
+sac of tunica vaginalis
+tunica vaginalis  ( membrane )
+visceral tunica vaginalis
+parietal tunica vaginalis
+anterior parietal serous pericardium
+lateral parietal serous pericardium
+diaphragmatic parietal serous pericardium
+urinary bladder
+root of brachial plexus
+peritoneal fluid
+vestigial embryonic structure
+pelvic girdle
+uterus
+superior segment of right kidney
+superior segment of left kidney
+anterior superior renal segment of right kidney
+anterior superior renal segment of left kidney
+anterior inferior renal segment of right kidney
+anterior inferior renal segment of left kidney
+inferior renal segment of right kidney
+inferior renal segment of left kidney
+posterior renal segment of right kidney
+posterior renal segment of left kidney
+uterine tube
+gonad
+oocyte
+haploid nucleated cell
+liquor folliculi
+muscle of pelvis
+corpus spongiosum of penis
+smegma
+urethra
+loose connective tissue
+retromammary fascia
+upper pole of testis
+lower pole of testis
+vagina
+vestibular gland
+regular connective tissue
+irregular connective tissue
+dense irregular connective tissue
+adipose tissue
+mucoid tissue
+pigmented connective tissue
+reticular tissue
+white adipose tissue
+brown adipose tissue
+vestibule
+cavernous organ
+bulb of vestibule
+conjunctival sac
+body part subdivision cluster
+human body
+serous fluid
+cerebrospinal fluid
+ligament organ
+commissural leaflet of mitral valve
+anterior commissural leaflet of mitral valve
+posterior commissural leaflet of mitral valve
+internal gray matter component
+olfactory nerve - tract complex
+left olfactory tract
+right olfactory tract
+right olfactory bulb
+left olfactory bulb
+right set of olfactory nerves
+left set of olfactory nerves
+cranial nerve - tract complex
+basal zone of heart
+mid zone of heart
+apical zone of heart
+mid zone of left ventricle
+compartment of cell
+bone tissue
+myocardium of basal zone of right ventricle
+myocardium of basal anterior zone of right ventricle
+myocardium of basal septal zone of right ventricle
+myocardium of basal inferior zone of right ventricle
+myocardium of basal lateral zone of right ventricle
+myocardium of mid zone of right ventricle
+myocardium of mid anterior zone of right ventricle
+myocardium of mid septal zone of right ventricle
+myocardium of mid inferior zone of right ventricle
+myocardium of mid lateral zone right ventricle
+myocardium of apical zone of right ventricle
+myocardium of apical anterior zone of right ventricle
+myocadium of apical septal zone of right ventricle
+myocardium of apical inferior zone of right ventricle
+myocardium of apical lateral zone of right ventricle
+compartment of nucleated cell
+compartment of non - nucleated cell
+alpha protein
+beta protein
+alpha beta protein
+anatomical position
+anatomical coordinate
+body proper
+wall of synovial tendon sheath of ring finger
+pectoral girdle
+skeleton
+skeletal system
+cell zone
+epiphysis
+diaphysis
+metaphysis
+cavity of organ part
+anatomical surface
+body surface region
+back of neck
+eotaxin - 3
+neural tissue of spinal cord
+surface of organ
+region of organ surface
+back of thorax
+front of neck
+cell segment
+bona fide anatomical surface
+anatomical plane
+bona fide anatomical line
+fiat anatomical line
+face
+anterior chest
+lateral chest wall
+limb girdle
+free limb
+free upper limb
+free lower limb
+trunk proper
+back of trunk
+taxonomic anatomical relation
+type relation
+body
+skeletal ligament
+nonskeletal ligament
+anatomical boundary
+synovial capsule of joint
+right sac of tunica vaginalis
+synovial capsule of glenohumeral joint
+viscus serous membrane
+serous pericardium proper
+thoracic segment of trunk
+abdominal segment of trunk
+network of trabecular spaces in bone tissue
+anchored fiat anatomical line
+floating fiat anatomical line
+instance relation
+has_dimension relation
+has_shape relation
+bregma
+alveolare
+cranial incision point
+cavity of tunica vaginalis
+left sac of tunica vaginalis
+general anatomical term
+arterial trunk
+venous trunk
+lymphatic vessel
+anatomical qualitative coordinate
+organ cluster
+set of viscera of abdomen
+set of female pelvic viscera
+deltoid
+intermetacarpal joint
+blood vessel viewed macroscopically
+vascular tree
+anatomical orifice
+supporting connective tissue
+cartilage tissue
+right conus artery
+anterior ventricular branch of right coronary artery
+marginal branch of right coronary artery
+sinoatrial nodal branch of right coronary artery
+anterior atrial branch of right coronary artery
+posterior ventricular branch of right coronary artery
+posterior interventricular branch of right coronary artery
+left diagonal artery
+anterior interventricular branch of left coronary artery
+conus branch of anterior interventricular branch of left coronary artery
+right anterior branch of anterior interventricular branch of left coronary artery
+left anterior branch of anterior interventricular branch of left coronary artery
+septal branch of anterior interventricular artery
+anterior septal branch of anterior interventricular artery
+posterior septal branch of anterior interventricular artery
+circumflex branch of left coronary artery
+left marginal artery
+atrial branch of circumflex coronary artery
+posterior interventricular branch of left coronary artery
+third coronary artery
+absent right coronary artery
+absent left coronary artery
+vinculum of tendon
+synovial tendon sheath
+unilaminar epithelium
+multilaminar epithelium
+stratified squamous epithelium
+stratified columnar epithelium
+simple squamous epithelium
+simple cuboidal epithelium
+simple columnar epithelium
+keratinized stratified squamous epithelium
+nonkeratinizing stratified squamous epithelium
+pseudostratified columnar epithelium
+pulmonary vascular system
+systemic arterial system
+systemic venous system
+upper urinary tract
+lower urinary tract
+upper respiratory tract
+lower respiratory tract
+miscellaneous term
+surface of organ region
+anatomical relation
+parenchyma
+arterial tree organ
+pulmonary arterial tree organ
+portal venous tree organ
+frontal part of head
+nose
+skull
+myone
+olfactory nerve
+coronary sinus
+superior vena cava
+common tendinous ring
+occipital part of head
+wall of inflow part of left ventricle
+wall of outflow part of left ventricle
+endocardium of inflow part of right atrium
+endocardium of inflow part of left atrium
+endocardium of outflow part of right atrium
+endocardium of outflow part of left atrium
+endocardium of outflow part of right ventricle
+endocardium of outflow part of left ventricle
+endocardium of inflow part of left ventricle
+endocardium of inflow part of right ventricle
+myocardium of inflow part of right atrium
+myocardium of inflow part of left atrium
+myocardium of outflow part of right atrium
+myocardium of outflow part of left atrium
+myocardium of outflow part of right ventricle
+myocardium of outflow part of left ventricle
+myocardium of inflow part of left ventricle
+epicardium of inflow part of right atrium
+epicardium of inflow part of left atrium
+epicardium of outflow part of right atrium
+epicardium of outflow part of left atrium
+epicardium of inflow part of right ventricle
+epicardium of inflow part of left ventricle
+epicardium of outflow part of right ventricle
+epicardium of outflow part of left ventricle
+anatomical cluster
+right half of thoracic cavity
+left half of thoracic cavity
+coronary artery
+systemic arterial tree
+systemic venous tree organ
+pulmonary venous tree organ
+right coronary artery
+left coronary artery
+chest wall
+bone organ
+muscle organ
+fascia organ
+lymphatic tree organ
+cardiac venous tree
+coronary sinus tree
+thoracic duct
+dimensional entity
+is_a relationship
+structural anatomical relation
+anatomical containment
+anatomical boundary entity
+anatomical location
+has_anatomical_coordinate relation
+artery
+vein
+brain
+optic nerve
+oculomotor nerve
+right optic nerve
+left optic nerve
+muscular part of cardiac septum
+epicardium proper
+myocardium of atrium proper
+spatial association relation
+right olfactory nerve
+left olfactory nerve
+neuron
+head proper
+pharyngeal bursa
+salpingopharyngeal fold
+salpingopalatine fold
+torus of pharyngotympanic tube
+torus levatorius
+epiglottic vallecula
+glosso - epiglottic fold
+larynx
+lateral pharyngeal band
+zone of organ
+intralobular stroma of lactiferous gland
+glottis
+accessory thyroid gland
+set of thoracic viscera
+set of viscera
+tunica intima
+dentine
+cement
+anatomical set
+parenchymatous organ
+lobular organ
+corticomedullary organ
+homogeneous organ
+nonparenchymatous organ
+solid organ
+cavitated organ
+organ with organ cavity
+organ with cavitated organ parts
+neuraxis
+segment of brain
+hollow tree organ
+male genital duct
+periodontium
+alveolar arch
+set of lactiferous glands
+chamber of eyeball
+areolar gland
+muscle of trunk
+retina
+right retina
+left retina
+spinal nerve
+cranial nerve
+motor nerve
+sensory nerve
+mixed nerve
+aqueous humor of eyeball
+somatic nerve
+whole portion of vitreous humor
+vitreous body
+hyaloid canal
+ganglion
+anatomical space
+anatomical junction
+nerve plexus
+right conjunctival sac
+left conjunctival sac
+lacrimal gland
+nerve trunk
+external nose
+viscerocranial mucosa
+limen nasi
+tear
+agger nasi
+perilymph
+membranous labyrinth
+lacrimal duct
+endolymph
+neural tree organ
+chyle
+abdomen proper
+back of abdomen
+body surface
+auriculotemporal part of head
+parietal part of head
+atypical epithelium
+cardinal cell part
+t8 segment of esophagus
+physical anatomical entity
+neurite
+cardinal segment of brain
+cerebral hemisphere
+left cerebral hemisphere
+lobe of cerebral hemisphere
+frontal lobe
+temporal lobe
+parietal lobe
+caudate nucleus
+putamen
+globus pallidus
+amygdala
+septum of telencephalon
+septal nuclear complex
+synaptic connectivity
+substantia innominata
+basal nucleus of telencephalon
+subcallosal area
+anterior perforated substance
+internal capsule
+external capsule
+extreme capsule
+fornix of forebrain
+forebrain
+midbrain
+telencephalon
+diencephalon
+metencephalon
+medulla oblongata
+habenula
+pineal body
+optic chiasm
+optic tract
+stria medullaris of thalamus
+lactiferous gland
+lobule of lactiferous gland
+milk
+optic nerve - tract complex
+right optic tract
+midbrain tegmentum
+anchored anatomical plane
+surface of organ system
+pulmonary surfactant
+connected_to relation
+continuous_with relation
+attached_to relation
+blood cell
+lymphatic chain
+fiber
+fibril
+ground substance
+anatomical entity
+central lymph
+peripheral lymph
+chyme
+lipid droplet
+ingested food
+semen
+seminal fluid
+portion of plasma
+neurilemma
+portion of substance of tooth
+serum
+venule
+set of pelvic viscera
+arteriole
+capillary
+has_segmental_innervation relation
+has_member relation
+anatomical zone
+organelle
+mitochondrion
+cell nucleus
+plasma membrane
+acellular anatomical structure
+forehead
+biological macromolecule
+areolar connective tissue
+stratified cuboidal epithelium
+mixed stratified cuboidal and columnar epithelium
+transitional epithelium
+pulmonary alveolar epithelium
+endothelium
+gestational structure
+fetus
+fetal structure
+gestational space
+feces
+papillary layer of dermis
+reticular layer of dermis
+dense regular collagenous tissue
+dense regular elastic tissue
+hyaline cartilage
+fibrocartilage
+elastic cartilage
+ciliated columnar epithelium
+microvillus columnar epithelium
+glandular columnar epithelium
+smooth columnar epithelium
+synovial capsule of knee joint
+sutural ligament
+heterogeneous cluster
+organ part cluster
+scapulothoracic joint
+body space
+nerve
+peripheral nerve
+right lymphatic duct tree
+lymphatic organ part tree
+synovial sac
+cavity of hemithorax
+epithelial cell
+thyroid gland proper
+calcified osteoid
+cytoplasm
+portion of cytosol
+cell coat
+lipid bilayer of plasma membrane
+ectoplasm
+endoplasm
+portion of cell substance
+mucus
+chromosome
+nodal myocyte
+myocyte of sinuatrial node
+myocyte of atrioventricular node
+myocardial endocrine cell
+immaterial anatomical entity
+non - physical anatomical entity
+actin - binding protein
+cell cavity
+anatomical structure
+transitional myocyte
+material anatomical entity
+cell body of neuron
+gray matter of neuraxis
+axolemma
+axon hillock
+protoplasm
+unipolar neuron
+bipolar neuron
+multipolar neuron
+right cerebral hemisphere
+intermediate filament protein
+cell body
+cell appendage
+pseudo - unipolar neuron
+axon
+dendrite
+occipital lobe
+muscle cell
+insula
+mature sperm cell
+abdominal viscus
+thoracic viscus
+pelvic viscus
+vitreous humor proper
+surrounds relation
+adjacent_to relation
+claustrum
+organ
+subdivision of cardinal body part
+organ system subdivision
+nucleated cell
+has_part relation
+cardinal tissue part
+anatomical cavity
+tissue space
+leaf of cardiac valve
+organ region
+surface of cell
+hindbrain
+nipple
+areola
+wrinkle line of skin
+flexure line of skin
+neural cell adhesion molecule
+striated muscle tissue
+intercerebral commissure
+left optic tract
+pons
+cerebellum
+substantia nigra
+regular cardiac myocyte
+specialized cardiac myocyte
+cell
+non - nucleated cell
+ecto - epithelium
+endo - epithelium
+dermis
+viscus
+hollow viscus
+parenchymatous viscus
+heart
+cardiac chamber
+neural tissue of neuraxis
+neural tissue of brain
+right atrium
+left atrium
+right ventricle
+cardiac atrium
+cardiac ventricle
+left ventricle
+interatrial septum
+cardiac valve
+right upper urinary tract
+left upper urinary tract
+pontine tegmentum
+axial skeleton
+appendicular skeleton
+skeleton of head
+esophagus
+interventricular septum
+muscular part of interventricular septum
+membranous part of interventricular septum
+atrioventricular septum
+mesentery
+membrane organ
+stomach
+organ system
+cardinal body part
+head
+neck
+respiratory system
+cardiovascular system
+skin
+right side of heart
+left side of heart
+left border of heart viewed radiologically
+muscular part of interatrial septum
+cardiac septum
+trunk
+limb
+main portal venous trunk
+lung
+liver
+pancreas
+small intestine
+large intestine
+gallbladder
+testis
+outflow part of right ventricle
+uncalcified osteoid
+superior part of fibrous pericardium
+inferior part of fibrous pericardium
+anterior part of fibrous pericardium
+basal part of pons
+somatic cell
+cusp of cardiac valve
+atrioventricular valve
+tricuspid valve
+mitral valve
+aortic valve
+leaflet of tricuspid valve
+anterior leaflet of tricuspid valve
+posterior leaflet of tricuspid valve
+zygote
+septal leaflet of tricuspid valve
+leaflet of mitral valve
+anterior leaflet of mitral valve
+posterior leaflet of mitral valve
+pulmonary valve
+cerebral crus
+cusp of pulmonary valve
+posterior cusp of pulmonary valve
+cusp of aortic valve
+right posterior cusp of aortic valve
+anterior cusp of aortic valve
+left posterior cusp of aortic valve
+papillary muscle of right ventricle
+anterior papillary muscle of right ventricle
+posterior papillary muscle of right ventricle
+septal papillary muscle of right ventricle
+lateral papillary muscle of left ventricle
+anterolateral head of lateral papillary muscle of left ventricle
+posterior papillary muscle of left ventricle
+posteromedial head of posterior papillary muscle of left ventricle
+wall of heart
+endocardium
+endocardium of right atrium
+endocardium of left atrium
+right lung
+left lung
+posterior thoracic wall
+anatomical feature
+wall of right side of heart
+wall of left side of heart
+right atrium proper
+tracheobronchial tree
+epithelial cell of prostatic acinus
+epithelial cell of prostatic duct
+structural gene
+tunica media of aorta
+integument
+axial skeletal system
+appendicular skeletal system
+joint
+nonsynovial joint
+fibrous joint
+suture
+syndesmosis
+dento - alveolar joint
+cartilaginous joint
+synchondrosis
+symphysis
+synostosis
+synovial joint
+cavernous organ of penis
+set of olfactory nerves
+body compartment
+thoracic cavity
+spinal cord
+special sense organ
+cribriform area of renal papilla
+articular disc
+sinu - atrial nodal branch of left coronary artery
+intermediate atrial branch of right coronary artery
+nucleus of spinal cord
+left fibrous ring of heart
+right fibrous ring of heart
+olfactory bulb
+olfactory tract
+flatulence
+bolus of ingested food
+joint cavity
+stomatognathic system
+has_generic_part relation
+has_constitutional_part relation
+has_regional_part relation
+has_systemic_part relation
+non - nucleated solocyte
+non - nucleated colligocyte
+stroma
+cardinal organ part
+lobular organ component
+wall of organ
+pseudolobe
+ventricle
+superior systemic venous tree
+inferior systemic venous tree
+regular atrial cardiac myocyte
+regular ventricular cardiac myocyte
+cardiac endomysium
+conducting system of interventricular septum
+conducting system of interatrial septum
+organ component of neuraxis
+septal division of left branch of atrioventricular bundle
+subendocardial branch of septal division of left branch of atrioventricular bundle
+atrial septal branch of anterior internodal tract
+cardiac muscle tissue of right ventricle
+cardiac muscle tissue of left ventricle
+central fibrous body
+membranous part of interventricular septum proper
+central fibrous body part of membranous part of interventricular septum
+wall of biatrial part of heart
+wall of biventricular part of heart
+sulcal connective tissue of fibrous ring of tricuspid valve
+sulcal connective tissue of fibrous ring of mitral valve anulus
+myocardium of right atrium
+myocardium of left atrium
+myocardium of biatrial part of heart
+myocardium of biventricular part of heart
+myocardium of interatrial septum
+myocardium of interventricular septum
+biatrial part of heart
+biventricular part of heart
+endocardium of biatrial part of heart
+endocardium of biventricular part of heart
+endocardium of interatrial septum
+endocardium of interventricular septum
+endocardium of papillary muscle of right ventricle
+endocardium of papillary muscle of left ventricle
+endocardium of trabecula carnea of right ventricle
+endocardium of trabecula carnea of left ventricle
+myocardium of papillary muscle of right ventricle
+myocardium of papillary muscle of left ventricle
+myocardium of trabecula carnea of right ventricle
+myocardium of trabecula carnea of left ventricle
+nucleus of neuraxis
+tissue fluid proper
+epididymal duct fluid
+seminiferous tubule fluid
+rete testis fluid
+deferent duct fluid
+nucleus of brain
+white matter of neuraxis
+nuclear complex of neuraxis
+cardiac muscle tissue of interatrial septum
+cardiac muscle tissue of interventricular septum
+genome
+serous pericardium of ascending aorta
+serous pericardium of pulmonary trunk
+serous pericardium of superior vena cava
+atrial branch of anterior internodal tract
+respiratory air
+left posterior semilunar fibrous scallop of aortic valve anulus
+right posterior semilunar fibrous scallop of aortic valve anulus
+anterior semilunar fibrous scallop of aortic valve anulus
+right anterior semilunar fibrous scallop of pulmonary valve anulus
+posterior semilunar fibrous scallop of pulmonary valve anulus
+left anterior semilunar fibrous scallop of pulmonary valve anulus
+right vortex of heart
+left vortex of heart
+aortic part of pericardial sac
+pulmonary trunk segment of pericardial sac
+superior vena caval segment pericardial sac
+inferior vena caval segment of pericardial sac
+serous pericardium of inferior vena cava
+visceral serous pericardium of ascending aorta
+visceral serous pericardium of pulmonary trunk
+visceral serous pericardium of superior vena cava
+visceral serous pericardium of inferior vena cava
+visceral serous pericardium of pulmonary vein
+epicardium of right atrium proper
+epicardium of left atrium proper
+free wall of right ventricle
+free wall of left ventricle
+visceral serous pericardium
+visceral serous pericardium of superior pulmonary vein
+visceral serous pericardium of inferior pulmonary vein
+visceral serous pericardium of right superior pulmonary vein
+visceral serous pericardium of left superior pulmonary vein
+visceral serous pericardium of right inferior pulmonary vein
+visceral serous pericardium of left inferior pulmonary vein
+pulmonary vein segment of pericardial sac
+superior pulmonary vein segment of pericardial sac
+right superior pulmonary vein part of pericardial sac
+left superior pulmonary vein part of pericardial sac
+inferior pulmonary vein segment of pericardial sac
+right inferior pulmonary vein part of pericardial sac
+left inferior pulmonary vein part of pericardial sac
+pericardial sac proper
+serous pericardium of superior pulmonary vein
+serous pericardium of inferior pulmonary vein
+anatomical compartment space
+endocardium of free wall of right ventricle
+endocardium of free wall of left ventricle
+myocardium of free wall of right ventricle
+myocardium of free wall of left ventricle
+epicardium of free wall of ventricle
+epicardium of free wall of right ventricle
+epicardium of free wall of left ventricle
+compartment of thorax
+tunica media of pulmonary trunk
+anterior interventricular septum
+inferior interventricular septum
+septal myocardium of right ventricle
+atrioventricular junction
+right atrioventricular junction
+left atrioventricular junction
+aorto - ventricular junction
+pulmono - ventricular junction
+wall of atrioventricular junction
+wall of right atrioventricular junction
+wall of left atrioventricular junction
+septal myocardium of left ventricle
+interfilar connective tissue of tricuspid valve
+interfilar connective tissue of mitral valve
+intersulcal connective tissue of fibrous ring of tricuspid valve
+intersulcal connective tissue of fibrous ring of mitral valve
+anulus proper of tricuspid valve
+anulus proper of mitral valve
+cell region
+atrium
+neural tissue of nerve
+neural tissue of peripheral ganglion
+biological molecular complex
+skeletal muscle endomysium
+myocardium of basal zone of left ventricle
+myocardium of mid zone of left ventricle
+myocardium of apical zone of left ventricle
+myocardial zone 17
+myocardial zone 1
+myocardial zone 2
+myocardial zone 3
+myocardial zone 4
+myocardial zone 5
+myocardial zone 6
+myocardial zone 7
+myocardial zone 8
+myocardial zone 9
+myocardial zone 10
+myocardial zone 11
+myocardial zone 12
+myocardial zone 13
+myocardial zone 14
+myocardial zone 15
+myocardial zone 16
+region of organ component
+pulmonary trunk
+organ segment
+floating anatomical plane
+zone of kidney
+cell component
+region of cell component
+myocardial zone 14a
+myocardial zone 15a
+myocardial zone 17a
+myocardial zone 18
+myocardial zone 19
+myocardial zone 20
+zone of anterior interventricular branch of left coronary artery
+zone of left diagonal artery
+zone of left marginal artery
+zone 1 of anterior interventricular branch of left coronary artery
+zone 7 of anterior interventricular branch of left coronary artery
+zone 13 of anterior interventricular branch of left coronary artery
+zone 2 of anterior interventricular branch of left coronary artery
+zone 8 of anterior interventricular branch of left coronary artery
+zone 14 of anterior interventricular branch of left coronary artery
+zone 14a of anterior interventricular branch of left coronary artery
+zone 15a of anterior interventricular branch of left coronary artery
+zone 9 of anterior interventricular branch of left coronary artery
+zone 7 of left diagonal artery
+zone 13 of left diagonal artery
+zone 17 of left marginal artery
+zone 19 of left marginal artery
+zone 20 of left marginal artery
+zone 6 of left marginal artery
+zone 12 of left marginal artery
+zone 16 of left marginal artery
+zone 18 of left marginal artery
+zone of circumflex branch of left coronary artery
+zone 4 of circumflex branch of left coronary artery
+zone 10 of circumflex branch of left coronary artery
+zone 11 of circumflex branch of left coronary artery
+zone 15 of circumflex branch of left coronary artery
+posterior head of lateral papillary muscle of left ventricle
+anterior head of posterior papillary muscle of left ventricle
+myocardium of inflow part of right ventricle
+basal zone of circumflex branch of left coronary artery
+mid zone of anterior interventricular branch of left coronary artery
+mid zone of circumflex branch of left coronary artery
+apical zone of anterior interventricular branch of left coronary artery
+zone 3 of anterior interventricular branch of left coronary artery
+striated muscle cell
+endocardium of anterior wall of left ventricle
+endocardium of lateral wall of left ventricle
+endocardium of inferior wall of left ventricle
+myocardium of anterior wall of left ventricle
+myocardium of lateral wall of left ventricle
+myocardium of inferior wall of left ventricle
+epicardium of anterior wall of left ventricle
+epicardium of lateral wall of left ventricle
+epicardium of inferior wall of left ventricle
+biological molecule
+myocardial zone 16a
+myocardial zone 13a
+zone 5 of circumflex branch of left coronary artery
+zone 13a of anterior interventricular branch of left coronary artery
+zone 15 of anterior interventricular branch of left coronary artery
+zone 16a of anterior interventricular branch of left coronary artery
+zone 13a of left diagonal artery
+zone 17 of anterior interventricular branch of left coronary artery
+basal zone of anterior interventricular branch of left coronary artery
+crista terminalis
+valve of inferior vena cava
+valve of coronary sinus
+pectinate muscle of right atrium
+anterior wall of right atrium
+cavity of right ventricle
+supraventricular crest
+septal wall of right ventricle
+chorda tendinea of right ventricle
+cavity of subdivision of serous sac
+organ cavity subdivision
+anatomical conduit space
+septal wall of left ventricle
+subaortic curtain of left ventricle
+chorda tendinea of left ventricle
+papillary muscle of left ventricle
+false chorda tendinea of right ventricle
+false chorda tendinea of left ventricle
+fan - shaped chorda tendinea of right ventricle
+commisural chorda tendinea of right ventricle
+commisural chorda tendinea of left ventricle
+thoracic part of esophagus
+wall of right atrium
+epicardium of right atrium
+epicardium
+myocardium
+cavity of left atrium
+cavity of left ventricle
+outflow part of left ventricle
+conducting system of heart
+sinuatrial node
+atrioventricular node
+internodal tract
+anterior internodal tract
+atrioventricular bundle
+accessory atrioventricular bundle
+right branch of atrioventricular bundle
+left branch of atrioventricular bundle
+anterior division of left branch of atrioventricular bundle
+posterior division of left branch of atrioventricular bundle
+subendocardial branch of right branch of atrioventricular bundle
+subendocardial branch of anterior division of left branch of atrioventricular bundle
+purkinje fiber
+subendocardial branch of posterior division of left branch of atrioventricular bundle
+fibrous skeleton of heart
+fibrous ring of mitral valve
+fibrous ring of tricuspid valve
+fibrous ring of aortic valve
+fibrous ring of pulmonary valve
+fibrous trigone of heart
+right fibrous trigone of heart
+left fibrous trigone of heart
+wall of left atrium
+epicardium of left atrium
+wall of right ventricle
+epicardium of right ventricle
+myocardium of right ventricle
+endocardium of right ventricle
+lateral wall of right atrium
+wall of right auricle
+atrial part of atrioventricular bundle
+ventricular part of atrioventricular bundle
+posterior wall of left atrium
+wall of left auricle
+outflow part of right atrium
+anterior wall of right ventricle
+lateral wall of right ventricle
+inferior wall of right ventricle
+wall of left ventricle
+epicardium of left ventricle
+myocardium of left ventricle
+endocardium of left ventricle
+anterior wall of left ventricle
+inferior wall of left ventricle
+lateral wall of left ventricle
+thorax
+abdomen
+pelvis
+perineum
+serous pericardium
+fibrous pericardium
+meninx
+salivary gland
+bulbo - urethral gland
+prostate
+breast
+thyroid gland
+muscle of head
+muscle of neck
+muscle of thorax
+muscle of abdomen
+portion of tissue
+portion of epithelium
+portion of connective tissue
+portion of muscle tissue
+portion of neural tissue
+anatomical compartment
+decussation
+anatomical line
+anatomical point
+finger
+portion of body substance
+portion of blood
+lymph
+intercellular matrix
+tissue fluid
+excretion
+secretion
+serous sac
+pleural sac
+synovial bursa
+ureter
+pharyngotympanic tube
+muscle fasciculus
+skeletal muscle cell
+endomysium
+has_organizational pattern
+parietal pleura
+visceral pleura
+pleural cavity
+mediastinum
+right pleural sac
+left pleural sac
+pericardial sac
+pericardium
+parietal serous pericardium
+pericardial fluid
+peritoneal sac
+vertebra

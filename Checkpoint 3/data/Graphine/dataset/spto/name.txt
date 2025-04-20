@@ -1,0 +1,268 @@
+placenta color
+flowering
+fruit ripening
+virescent leaf
+brown green leaf color
+other plant habit
+fruit
+fruit shape
+fruit shape index
+fruit shape index external 1
+leaf width
+fruit shape index external 2
+tuber
+shape index internal
+fruit shape triangle
+fruit shape circular
+fruit shape eccentric
+obovoid
+ovoid
+heart shape degree . calculation .
+distal eccentricity index
+proximal eccentricity index
+horizontal asymmetry
+vertical asymmetry
+fruit shape ellipsoid
+fruit shape rectangular
+fruit end
+distal fruit end shape
+proximal fruit end shape
+distal fruit end angle
+proximal fruit end angle
+distal fruit end blockiness
+distal fruit end indentation
+distal fruit end protrusion
+proximal fruit end blockiness
+proximal fruit end indentation
+fruit mass ,  weight in grams
+other flower morphology
+fruit area ,  measurement in square centimeters ,  cm^2
+fruit length
+fruit perimeter ,  measurement in centimeters
+fruit width
+fruit locule number ,  counting
+placenta area
+fruit color uniformity
+pericarp area in square centimeter ,  cm^2
+septum and pericarp area ,  calculation in square centimeters ,  cm^2
+fruit lobedness degree
+seed weight
+seed number per fruit
+fruit number
+flower
+number of flowers per inflorescence
+fruit glossiness estimation
+fruit firmness estimation
+days to first flowering
+radial fruit cracking
+fruits per flowers
+fruit mid - height width
+fruit widest width
+fruit length mid - width
+fruit longest length
+other disease response
+proximal fruit end height
+horizontal asymmetry obovoid
+horizontal asymmetry ovoid
+eccentricity area index
+total soluble solids
+citric acid
+fruit metabolites
+malic acid
+glutamic acid
+ph
+total organic acids
+total acids
+fasciated
+determinate
+semi determinate
+indeterminate
+distal fruit end
+proximal fruit end
+distal fruit end color
+proximal fruit end color
+leaf veins
+tuber epidermis
+tuber epidermis color
+tuber epidermis texture
+tuber flesh
+tuber flesh color
+tuber flesh pigment pattern
+tuber eye
+tuber eye depth
+shoot phenotype
+stem
+erect
+semi erect
+spreading
+post harvest quality
+yield
+tuber epidermis pigment pattern
+tuber morphology
+tuber shape
+tuber size
+whole plant phenotype
+shoot maturity
+early shoot maturity
+mid shoot maturity
+late shoot maturity
+shoot maturity 120 dap
+shoot maturity 95dap
+tuber appearance
+sucrose
+glucose
+tuber mass
+specific gravity
+specific gravity at harvest
+specific gravity at storage
+heat sprout rating
+processing quality
+chip color
+qualitative color
+quantitative color
+leaf length
+shoot maturity very early
+shoot maturity early
+tuber epidermis texture netted
+tuber epidermis texture smooth
+tuber epidermis texture slight net
+partial russet
+heavy russet
+moderate russet
+light russet
+tuber epidermis texture moderately smooth
+tuber epidermis texture very smooth
+tuber size small
+tuber size small - medium
+tuber size medium
+tuber size medium - large
+tuber size large
+tuber appearance very poor
+tuber appearance poor
+tuber appearance fair
+tuber appearance good
+shoot maturity mid - season
+shoot maturity late
+shoot maturity very late
+tuber eye depth protruding
+tuber eye depth shallow
+tuber eye depth intermediate
+tuber eye depth deep
+tuber eye depth very deep
+tuber epidermis pigment pattern eyes
+tuber epidermis pigment pattern eyebrows
+tuber epidermis pigment pattern splashed
+tuber epidermis pigment pattern scattered
+tuber epidermis pigment pattern spectacled
+tuber epidermis pigment pattern stippled
+tuber shape compressed
+tuber shape round
+tuber shape oval
+tuber shape long
+tuber shape oblong
+shoot maturity very early 2
+shoot maturity very early 3
+shoot maturity mid - season 5
+shoot maturity late 8
+erect 1
+erect 2
+semi - erect 4
+spreading 6
+spreading 8
+spreading 9
+tuber size small 2
+tuber size small 4
+tuber size medium 6
+tuber size medium - large 8
+tuber appearance very poor 2
+tuber appearance good 8
+tuber appearance poor 4
+tuber appearance fair 6
+titratable acids
+fruit color uniformity external
+fruit color uniformity cross section percent red
+fruit color uniformity cross section percent yellow
+cross section average rgb red
+cross section average rgb green
+cross section average rgb blue
+cross section average l value
+cross section average 'a' value
+cross section average 'b' value
+cross section average luminosity
+cross section average hue
+cross section average chroma
+peduncle
+proximal angle micro 2%
+proximal angle macro 20%
+pericarp thickness ,  calculation in centimetes
+seed germination inside fruit
+fruit height at widest position asymmetry
+field sucrose
+storage sucrose
+field glucose
+storage glucose
+potato fry color
+fruit dry weight percentage
+columella and placenta area measurement in square centimeters ,  cm^2
+pericarp cell layers ,  counting
+pericarp max cell size ,  calculation in square micrometers ,  um^2
+plant height
+plant height until first inflorescence
+plant height until last inflorescence
+total number of inflorescences
+stem width
+stem width between 2nd and 3rd inflorescence  ( mm )
+stem width between 3rd and 4th inflorescence  ( mm )
+number of flowers in second inflorescence
+number of flowers in third inflorescence
+number of sepals
+number of petals
+petal lengh
+petal width
+sepal lengh
+sepal width
+anther length measurement in cm
+pistil length in cm
+ovary length
+fruit curved height
+curved fruit shape index
+stem length between 1st and 10th true leaves  ( cm )
+inflorescence length
+epicarp lab - scale 'l' value
+epicarp lab - scale 'a' value
+epicarp lab - scale 'b' value
+number of primary leaflets per leaf
+number of secondary leaflets per leaf
+leaf habit
+leaf habit visual rating 1 - 9 scale
+stem anthocyanin content
+petals curvature observation 1 - 7 scale
+stamen color observation 3 - 7 scale
+style exertion . visual rating 1 - 4
+fruit color phenotypic values
+immature green fruit epicarp color ,  observation nominal scale 3 - 9
+epicarp fruit color ,  observation nominal scale 0 - 6
+fruit skin color . nominal score 0 - 1
+fruit pedicel scar width . observation 3 - 7 nominal scale
+longitudinal stripes presence on immature green fruits . observation 0 - 1 scale
+leaf dissection . observation 0 - 2 nominal scale
+leaf border variable . observation 0 - 3 nominal scale
+proximal angle micro 3%
+ribbing calyx end . observation 0 - 9 scale
+fruit size value
+fruit shape phenotypic values
+vascular bundle content
+leaf type . observation .
+leaf complexity phenotpic values
+plant habit phenotypic values
+plant growth habit ,  visual observation nominal scale
+leaf color phenotypic values
+green leaf color ,  visual observation 3 - 7 scale
+inflorescence structure  -  phenotypic values
+inflorescence type ,  nominal scale
+leafy inflorescence ,  observation 0 - 2 scale
+flower color phenotypic values
+flower color ,  observation 1 - 7 nominal scale
+proximal fruit end color ,  observation 0 - 7 nominal scale
+distal fruit end scar shape ,  observation 1 - 7 nominal scale
+fruit fasciation ,  observation 0 - 7 ordinal scale

@@ -1,0 +1,272 @@
+binding to a specific receptor protein and activating intracellular signaling cascades that alter the behavior of the cell .
+extracellular signal protein or peptide that acts as a local mediator in cell - cell communication .
+extracellular polypeptide signal molecule that can stimulate a cell grow or proliferate .
+the tgf - beta superfamily of growth factors regulate many cellular functions ,  which includes tgf - betas ,  activins and inhibins ,  nodal ,  bmps and gdfs .
+bmps belong to the tgf - beta superfamily .
+a protein hormone secreted by beta cells of the pancreas .
+combining with an extracellular or intracellular messenger to initiate a change in cell activity .
+the vertebrate fgfr gene family consists of four highly related genes ,  fgfr1 - 4 .
+mhc class ia  ( classical )  molecules ,  termed human leukocyte antigen  ( hla )  - a ,  hla - b and hla - c in humans and h2 - k ,  h2 - d and h2 - l in mice ,  are highly polymorphic glycoproteins composed of a single membrane - spanning alpha chain paired with the soluble protein beta2 microglobulin .
+mhc class ii molecules are composed of membrane - spanning alpha and beta chains .
+integrins comprise a large family of cell surface receptors that are found in many animal species ,  ranging from sponge to mammals .
+protein that catalyze a specific chemical reaction .
+janus kinases  ( jaks )  are non - receptor tyrosine kinases .
+mammals express at least four distinctly regulated groups of mapks ,  erk - 1 / 2 ,  jnk / sapk ,  p38 and erk5 .
+erk1 and erk2 are isoforms of the 'classical' mapk .
+novel pkc isoforms  ( delta ,  epsilon ,  eta and theta )  are regulated by dag and phospholipids .
+atypical pkc isoforms  ( zeta and lambda / iota ;  pkc - lambda is the mouse ortholog of human pkc - iota )  are insensitive to both calcium and dag .
+a family of 90 kda ribosomal s6 kinases  ( rsk ;  also known as p90rsk or mapk - activated protein kinase - 1 ,  mapkap - k1 )  .
+pka is comprised of two types of subunits .
+mek1 and mek2 phosphorylate and activate erk1 and erk2 map kinases .
+mkk4 and mkk7 phosphorylate and activate jnk map kinases .
+mkk3 and mkk6 phosphorylate and activate p38 map kinases .
+the ras superfamily of gtp  ( guanosine triphosphate )  hydrolysis - coupled signal transduction relay proteins can be subclassified into ras ,  rho ,  rab ,  and arf families ,  as well as the closely related g alpha family .
+the 26s proteasome is a 2 .5 - mda molecular machine built from ~31 different subunits ,  which catalyzes protein degradation .
+galphao ,  the most abundant g protein in mammalian brain ,  occurs at least in two subforms ,  i .e . ,  galphao1 and galphao2 ,  derived by alternative splicing of the mrna .
+deubiquitinating enzymes  ( dubs )  catalyze the removal of ubiquitin from ubiquitin - conjugated substrate proteins .
+general term for proteins in intracellular signaling pathways that link different proteins in the pathway directly together .
+this term refers to the adaptor proteins that possesses both sh2 and sh3 domains ,  such as grb2 ,  nck and crk ,  and does not include adaptor proteins that contain only sh2 or ptb domains ,  such as the shc family and the irs family .
+alternative splicing of the mammal crk gene yields two translation products designated the 28 - kda crk - i and the 42 - kda crk - ii protein .
+the best characterised member of the sh2 / sh3 adaptor protein family is grb2 ,  the human homologue of the nematode caenorhabditis elegans protein sem - 5 .
+the widely expressed nck is a 47 - kda cytosolic protein exclusively composed of one sh2 and three sh3 domains .
+typically ,  docking proteins have an nh2 - terminal membrane - targeting element ,  either a ph domain or a myristylation site ,  and a ptb domain that directs association with an npxy autophosphorylation site on a specific receptor .
+term loosely applied to any protein required to initiate or regulate transcription in eucaryotes .
+smads is a conserved family of signal transducers .
+there are five vertebrate r - smads ,  smad1 ,  smad2 ,  smad3 ,  smad5 and smad8 and they are phosphorylated in response to different types of tgf - beta ligands .
+co - smad forms hetero - oligomers with r - smads ,  which in turn translocate into the nucleus and regulate transcriptional responses . \ nonly smad4 has been identified as a common - mediator smad in vertebrates .
+smad6 and smad7 are inhibitory smads that serve as decoys interfering with smad - receptor or smad - smad interactions .
+there are two stat1 isoforms  ( stat1alpha and stat1beta )  produced by alternative splicing of a single mrna .
+members of this family include p50 ,  p52 ,  p65 ,  c - rel ,  v - rrel ,  relb ,  and the drosophila proteins ,  dorsal ,  dif and relish .
+the members of two distinct families of proteins ,  dp and e2f ,  interact combinatorially as dp / e2f heterodimers in drtf1 / e2f transcription factor .
+the nfi family is composed of four members in vertebrates  ( nfi - a ,  nfi - b ,  nfi - c and nfi - x )  .
+gata proteins ,  which control differentiation in a wide variety of cell types ,  may represent a class of factors that regulate early endoderm development throughout the animal kingdom .
+the pebp2 / cbf is a heterodimer  consists of dna binding  alpha subunits and a beta subunit  ( cbfbeta )  that does not bind dna directly but that enhances the binding of the alpha subunit .
+the ap - 1  ( activator protein 1 )  transcription factor is a dimeric complex that comprises members of the jun ,  fos ,  atf  ( activating transcription factor )  and maf  ( musculoaponeurotic fibrosarcoma )  protein families .
+bcl - 6 belongs to a subset of transcription factors which all have a similar structure composed of an amino - terminal 'poz' domain and several zinc finger modules at the carboxy - terminus .
+nfat proteins are a family of transcription factors  ( nfatc1~c4 )  whose activation is controlled by calcineurin ,  a ca2 +  - dependent phosphatase .
+a signaling protein which positively / negatively regulates a signal transduction pathway .
+rgs proteins act as negative regulators of g protein dependent signaling ,  at least in part ,  because they stimulate hydrolysis of the gtp bound to activated g alpha subunits .
+drosophila son of sevenless  ( sos )  is homologous to the yeast exchange factor for ras ,  cdc25 .
+the bcl - 2 family consists of about 20 homologues of important pro -  and anti - apoptotic regulators of programmed cell death .
+the term 14 - 3 - 3 denotes a large family of ~30 kda acidic proteins that exist primarily as homo -  and heterodimers within all eukaryotic cells .
+molecule that is able to provoke an immune response .
+cd28 is an integral membrane protein homodimer ,  the extracellular region of which contains one immunoglobulin - like domain .
+the inwardly rectifying k +   ( kir )  channel subunits ,  kir2 .2  ( hkir2 .2 )  and its variant ,  termed hkir2 .2v have been identified in human genome .
+the kv family can be divided into 4 subfamilies on the basis of sequence similarity and function: shaker  ( kv1 )  ,  shab  ( kv2 )  ,  shaw  ( kv3 )  and shal  ( kv4 )  .
+vertebrate k +  channel subunits whose primary amino acid sequences are most closely related to those of drosophila shaker are grouped in the voltage - gated k +  channel subfamily 1  ( kv1 )  .
+vertebrate k +  channel subunits whose primary amino acid sequences are most closely related to those of drosophila shab are grouped in the voltage - gated k +  channel subfamily 2  ( kv2 )  .
+vertebrate k +  channel subunits whose primary amino acid sequences are most closely related to those of drosophila shaw are grouped in the voltage - gated k +  channel subfamily 3  ( kv3 )  .
+types i ,  ii and iii collagens constitute the classical fibrillar collagens and account for 80 - 90% of all the collagen in the body .
+associate with the surface of fibrils and modify their interactive properties .
+proteoglycans are a diverse family of molecules characterized by a core protein to which is attached one or more glycosaminoglycan  ( gag )  side - chains .
+the myd118 / cr6 / gadd45 gene family  ( also termed gadd45b ,  gadd45g ,  gadd45a )  encodes for small  ( 18 kd )  ,  evolutionary conserved proteins that are highly homologous to each other  ( 55 57% overall identity at the amino acid level )  ,  are highly acidic  ( pi=4 .0  4 .2 )  ,  and are primarily localized within the cell nucleus .
+vertebrate k +  channel subunits whose primary amino acid sequences are most closely related to those of drosophila shal are grouped in the voltage - gated k +  channel subfamily 4  ( kv4 )  .
+forms a water - filled pore across the bilayer through which specific solute can diffuse .
+gads is a member of the family of sh2 and sh3 domain containing adaptor proteins that is expressed specifically in hematopoietic cells and functions in the coordination of tyrosine kinase mediated signal transduction .
+alternative splicing of the mammal crk gene yields two translation products designated the 28 - kda crk - i and the 42 - kda crk - ii protein .
+l for long - lasting .wide distribution ,  well characterized in heart ,  smooth and skeltal muscle and some neurones .
+the alpha - 1 subunit contains the pore of the channel and is the main site of action of the l - type - specific ca2 +  channel agonists and antagonists .
+n for neuronal ,  neither l nor t . found specifically in neurones .
+t for transient .low voltage activated transient current .
+b7 .1  ( cd80 )  and b7 .2  ( cd86 )   -  the two structurally homologous ligands of cd28  -  are expressed by professional antigen - presenting cells  ( apcs )  ,  such as dendritic cells  ( dcs )  ,  macrophages and activated b cells ,  belong to the immunoglobulin superfamily and might exist as dimers and monomers ,  respectively .
+b7 .1  ( cd80 )  and b7 .2  ( cd86 )   -  the two structurally homologous ligands of cd28  -  are expressed by professional antigen - presenting cells  ( apcs )  ,  such as dendritic cells  ( dcs )  ,  macrophages and activated b cells ,  belong to the immunoglobulin superfamily and might exist as dimers and monomers ,  respectively .
+heterotrimer of alpha ,  beta ,  gamma subunits .
+heteropentamer of alpha ,  beta ,  gamma ,  delta ,  epsilon subunits .
+consists of a core of five non - identical subunits  ( eif3a ,  eif3b ,  eif3c ,  eif3i and eif3g in yeast )  and up to six additional subunits in mammals  ( eif3d ,  eif3e ,  eif3f ,  eif3h ,  eifj and eif3k )  .
+eif4a is a deadbox helicase that can unwind rna secondary structure in the cap - proximal region of the mrna .
+eif4f is a heterotrimeric complex that binds to the cap structure at the 50 end of the mrna .
+mammalian cells contain two isoforms of eif4g  ( i&ii )  .
+composed of three related proteins ,  termed pa28alpha ,  pa28beta and pa28gamma .
+binds the specific solute to be transported and undergo a series of conformational changes to transfer the bound solute across the bilayer .
+in mammalian cells ,  there are two major nucleoside transporter gene families: the equilibrative nucleoside transporters  ( ents )  and the concentrative nucleoside transporters  ( cnts )  .
+concentrative nucleoside transporters cotranslocate nucleosides and sodium unidirectionally against the nucleoside concentration gradients and play a vital role in certain tissues .
+translocate nucleosides and nucleobases bidirectionally down their concentration gradients and are important in the uptake of anticancer and antiviral nucleoside drugs .
+the splicing reaction is carried out by the spliceosome ,  which consists of five small nuclear ribonucleoprotein complexes u1 ,  u2 ,  u4 ,  u5 and u6 snrnps and a large number of non - snrnp proteins .
+lysophosphatidic acid  ( lpa )  acyltransferase  ( lpaat )  ,  also known as 1 - acyl sn - glycerol - 3 - phosphate acyltransferase  ( 1 - agpat )   ( ec 2 .3 .1 .51 )  ,  catalyzes the conversion of lpa to phosphatidic acid  ( pa )  .
+there are nine known members in the acyl - coa dehydrogenase  ( acad )  family .
+the mammalian pyruvate dehydrogenase complex is built around a 60 - subunit inner core of tightly but noncovalently associated dihydrolipoamide acetyltransferase subunits  ( e2 )  .
+eukaryotic mitochondrial complex ii  ( succinate dehydrogenase )  and e . coli succinate:quinone oxidoreductase  ( sqr )  are composed of two hydrophilic subunits ,  a flavoprotein  ( sdha )  and iron - sulfur protein  ( sdhb )  subunit ,  and two hydrophobic membrane anchor subunits ,  sdhc and sdhd .
+transfer solutes  ( e .g ions ,  sugars ,  amino acids ,  and nucleotides )  across the lipid bilayer .
+members of importin beta family  ( importins / exportins ,  karyopherins )  have been classified as importins or exportins on the basis of the direction they carry their cargo .
+lit - 1 downregulates the activity of pop - 1 ,  a tcf / lef - related protein in c . elegans .
+a nucleotide consists of a nitrogen - containing base ,  a five - carbon sugar ,  and one or more phosphate groups .
+pi ( 4 , 5 ) p2 is cleaved by phospholipase c - beta or gamma to generate ip3 and diacylglycerol .
+pi ( 3 , 4 , 5 ) p2 is generated by phosphorylation of pi ( 4 , 5 ) p at the 3 position of the inositol ring catalyzed by pi3 - kinase .
+pi ( 3 , 4 ) p2 is generated by phosphorylation of pi ( 4 ) p at the 3 position of the inositol ring catalyzed by pi3 - kinase .
+organic molecule that is insoluble in water but tends to dissolve in nonpolar organic solvent .
+dc2 protein has the defining biochemical properties of a pka catalytic  subunit .
+dbt is 75%  ( 719 / 947 )  identical at the nucleotide level and 86%  ( 260 / 301 )  identical at the amino acid level to the kinase domain of human casein kinase i epsilon ,  suggesting that dbt is a structural homolog of this enzyme .
+gab proteins contain a pleckstrin homology  ( ph )  domain and binding sites for sh2 and sh3 domains .
+isgf3 is a heterotrimer of stat1 ,  stat2 and p48 / isgf3gamma / irf9 .
+stat1 dimers form the ifngamma - activated factor  ( gaf )  .
+superfamily members of dock180 possess the dhr - 2 domain and bind to and exchange gdp for gtp on either rac or cdc42 .
+lipopolysaccharide  ( lps )  is a glycosylated lipid on the outer surface of gram - negative bacteria acts as immunostimulants .
+the largest class of organic compounds ,  including starch ;  glycogen ;  cellulose ;  polysaccharides ;  and simple monosaccharides .
+an atom that has either gained or lost electrons to acquire a chage ;  for example na +  and cl -  .
+mapkapk2 and mapkapk3 can be activated by p38 and  activated mapkapk2 / 3 can phosphorylate small heat shock protein 27  ( hsp27 )  .
+a group of compounds derived from ammonia by substituting organic radicals for the hydrogens .
+organic compounds that generally contain an amino  (  - nh2 )  and a carboxyl  (  - cooh )  group .
+any compound that contains a constituent sugar ,  in which the hydroxyl group attached to the first carbon is substituted by an alcoholic ,  phenolic ,  or other group .
+peptidoglycan  ( pgn )  is a unique and essential component of the cell wall of virtually all bacteria ,  is not present in eukaryotes ,  and is an excellent target for the innate immune system .
+the polypeptide that is not a gene product .
+involved in cell adhesion .may be involved in the attachment of the actin - based microfilaments to the plasma membrane .
+mammals have two highly similar isoforms of talin suggesting redundant functions .
+the vapor state of matter ;  nonelastic fluids in which the molecules are in free movement and their mean positions far apart .
+peptidoglycan recognition proteins  ( pgrps )  are pattern recognition molecules that are conserved from insects to mammals and recognize bacteria and their unique cell wall component ,  peptidoglycan  ( pgn )  .
+component of fungal cell walls .
+receptors of the innate immune system that recognize pathogen associated molecular patterns  ( pamps ,  e .g .
+drosophila possesses at least three cdnas encoding members of the gram - negative bacteria - binding protein  ( dgnbp )  family .
+tube has no obvious mammalian homologue .
+the imd gene product has a death domain similar to the one in human receptor - interacting protein  ( rip )  kinase but lacks a kinase domain .
+relish contains both a rel homology domain and an ikappab - like domain with six ankyrin repeats like p105 and p100 .
+bambi has been identified as an inhibitor of bmp signaling during xenopus embryonic development .
+two members of the frs2 family have been identified in mammals .
+fringe is a glycosyltransferase that acts directly on notch to change notch signaling .
+oaz is a dna - binding zinc finger protein that associates with smads in response to bmp2 ,  forming a complex that transcriptionally activates the homeobox regulator of xenopus mesoderm and neural development ,  xvent - 2 .
+epac1  ( camp - gefi )  and epac2  ( camp - gefii )  are closely related guanine nucleotide exchange factors  ( gefs )  for the small gtpase rap1 and rap2 ,  which are directly regulated by camp .
+sprouty  ( spry )  proteins represent a major class of ligand - inducible inhibitors of rtk - dependent signaling pathways .
+antibody molecule  ( immunoglobulin )  consists of four polypeptides chains ,  two identical light  ( l )  chains and two identical heavy  ( h )  chains . \ nin mammals ,  there are five classes of antibodies ,  iga ,  igd ,  ige ,  igg ,  and igm .
+higher vertebrates have two types of light chains ,  kappa and lamda ,  which seem to be functionally indistinguishable .
+a group of naturally occurring amines derived by enzymatic decarboxylation of the natural amino acids .
+ski / snon family of oncoproteins act as transcriptional co - repressors in tgf - beta signaling through interaction with smads .
+bam32 ,  also known as dapp1 or phish ,  is an adaptor protein consisting of an n - terminal sh2 domain and a c - terminal pleckstrin homology  ( ph )  domain and is recruited to the cell membrane in a pi3k - dependent manner following bcr crosslinking .
+the mhc class ib family members include hla - e ,  hla - f ,  hla - g and hfe  ( hla - h )  in humans and gene products from the h2 - m ,  h2 - q and h2 - t regions in mice .
+mhc class ii - like proteins are produced from the class ii region of the mhc ,  hla - dm  ( dm )  and hla - do  ( do )   ( called h2 - m ,  or h2 - dm and h2 - o in the mouse )  .
+the first step in metabolism of glucose is usually phosphorylation ,  catalyzed by hexokinase .
+ins ( 1 , 4 , 5 ) p3 3 - kinases  ( ip3 - 3k )  are the enzymes responsible for the atp - dependent conversion of ins ( 1 , 4 , 5 ) p3 to ins ( 1 , 3 , 4 , 5 ) p4 .
+methionine adenosyltransferase  ( mat )  is an ubiquitous enzyme that catalyzes the synthesis of s - adenosylmethionine from methionine and atp .
+mammals have four deoxyribonucleoside kinases ,  the cytoplasmic  ( tk1 )  and mitochondrial  ( tk2 )  thymidine kinases ,  and the deoxycytidine  ( dck )  and deoxyguanosine  ( dgk )  kinases with overlapping substrate specificities .
+uridine - cytidine kinase  ( uck )   ( ec 2 .7 .1 .48 )  is a pyrimidine ribonucleoside kinase that catalyzes the phosphorylation of uridine and cytidine to ump and cmp .
+in both mammals and birds ,  the creatine kinase  ( ck )  family consists of four types of genes: cytosolic brain type  ( b - ck )  ;  cytosolic muscle type  ( m - ck )  ;  mitochondrial ubiquitous ,  acidic type  ( mia - ck )  ;  and mitochondrial sarcomeric ,  basic type  ( mib - ck )  .
+the family of nucleotide pyrophosphatases / phosphodiesterases  ( npps )  consists of seven structurally related ecto - enzymes that are numbered according to their order of discovery .
+the ntpdase family of enzymes includes eight enzymes .
+mammalian pyruvate dehydrogenase  ( pdh )  is a tetramer consisting of two alpha and two beta subunits .
+four adenosine receptors have been cloned and characterized from several mammalian species .
+igfbps are a family of secreted proteins that bind igf with high affinities that are equal to or greater than those of the igf - ir .
+ampk is a highly evolutionarily conserved serine / threonine kinase ,  and orthologs of the ampk subunits are found in all eukaryotic species .
+foxo proteins are conserved from worm to human .
+insulin superfamily genes are ubiquitous in vertebrates ,  and have been identified in invertebrates ,  including insects ,  molluscs ,  and the nematode caenorhabditis elegans .
+in drosophila ,  there are seven dilps that are expressed in several different tissues .
+daf - 2 is the only member of the insulin receptor family in the c . elegans genome sequence .
+in the worm ,  multiple insulin - like peptides  ( ins )  are expressed in many tissues throughout the body and act as receptor agonists or antagonists .
+mrl encodes a protein homologous to the mammalian stat transcription factors .
+socs36e encodes a protein with significant homology to the socs protein family .
+sumo e3 ligases are enzymes that catalyse the transfer of sumo from ubc9 to a substrate .
+human pias proteins are encoded by four genes ,  pias1 ,  piasx  ( pias2 )  ,  pias3 and piasy  ( pias4 )  .
+ken & barbie  ( ken )  is an ortholog of the mammalian proto - oncogene bcl6 .
+the ihog family includes two drosophila proteins ,  ihog and boi ,  and two vertebrate proteins ,  cdo and boc .
+hip encodes a membrane glycoprotein that binds to all three mammalian hedgehog proteins with an affinity comparable to that of ptc - 1 .
+in mature b cells ,  the antigen receptor normally consists of two isotypes ,  membrane igm and igd  ( migm ,  migd )  .
+b7 .1  ( cd80 )  and b7 .2  ( cd86 )   -  the two structurally homologous ligands of cd28  -  are expressed by professional antigen - presenting cells  ( apcs )  ,  such as dendritic cells  ( dcs )  ,  macrophages and activated b cells ,  belong to the immunoglobulin superfamily and might exist as dimers and monomers ,  respectively .
+arrow / lrp5 / lrp6 is a subfamily of the ldl receptor  ( ldlr )  family .
+lrp5 and lrp6 are highly homologous ,  and are widely co - expressed during embryogenesis and in adult tissues .
+rhomboids are found in almost all species .
+star regulates egf receptor signaling by moving spitz ,  which is normally retained in the er ,  into the golgi apparatus where it encounters the proteolytic action promoted by rhomboid - 1 .
+drosophila spitz is a homolog of transforming growth factor a  ( tgf - a )  and is an activating ligand for the egf receptor  ( egfr )  .
+argos inhibits epidermal growth factor receptor signalling by ligand sequestration .
+the drosophila genome encodes a single locus of the egfr /  erbb family: drosophila epidermal growth factor receptor  ( der )  .
+a drosophlla gene  ( drk )  encodes a widely expressed protein with a single sh2 domain and two flanking sh3 domains ,  which is homologous to the sem - 5 protein of c . elegans and mammalian grb2 . \ n
+ras1 is the drosophila homolog of the transforming genes ha - ras ,  ki - ras ,  and n - ras .
+draf is the sole raf homolog in the fly genome and is 61% and 56% homologous to mammalian b - raf and raf - 1  ( c - raf )  ,  respectively .
+dsor1 encodes a drosophila mek1 / 2 homolog .
+the drosophila genome has representatives of each of the three mapk subfamilies found in other animals: one extracellular signal - related kinase  [ erk ;  rolled  ( rl )  ]  ,  one jun n - terminal kinase  [ jnk ;  basket  ( bsk )  ]  ,  and p38  ( encoded by the two genes mpk2 and p38b )  .
+pnt gene transcription generates alternatively spliced mrna isoforms that encode two proteins ,  pntp1 and pntp2 . \ npntp2 is the homolog of the human ets - 1 transcription factor and functions as a transcriptional activator when phosphorylated by mapk .
+yan is the homolog of the human tel1 protein and is a transcriptional repressor .
+mae is a regulator of the egfr signaling pathway .
+kekkon is a transmembrane protein that binds the der extracellular domain and attenuates receptor dimerization .
+corkscrew  ( csw )  encodes a nonreceptor protein tyrosine phosphatase  ( ptpase )  with two n - terminal sh2 domains and a c - terminal catalytic region .
+dof functions as a adaptor protein that links the fgf receptor to downstream signaling components instead of vertebrate frs2 .
+the drosophila genome includes two homologues of vertebrate fgf - r genes ,  dfr1and dfr2 .
+the drosophila genome includes two homologues of vertebrate fgf - r genes ,  dfr1and dfr2 .
+branchless encodes a drosophila fgf homolog .
+ths and pyr are two closely linked genes with homology to the fgf8 / 17 / 18 subfamily in vertebrates .
+ths and pyr are two closely linked genes with homology to the fgf8 / 17 / 18 subfamily in vertebrates .
+serum response factor  ( srf )  is a transcription factor ,  which binds to a serum response element  ( sre )  associated with a variety of genes .
+gap - 1 is most similar to the gap - 1 and gap - 1m ras gtpase activating proteins in drosophila and vertebrates ,  respectively .
+let - 23 encodes a tyrosine kinase of the egf receptor subfamily .
+let - 60 is very similar to ras gene products of other organisms .
+lin - 1 encodes an ets - domain transcription factor .
+the lin - 3 gene encodes a molecule similar to epidermal growth factor and to transforming growth factor - a and acts through the epidermal growth factor receptor homologue let - 23 .
+the c . elegans mek - 2 gene encodes a protein that is homologous to mammalian map kinase kinases .
+the sur - 1 gene encodes a protein similar in overall structure to mammalian map kinases  ( erks )  .
+the c .elegans sos - 1 encodes a sos homolog .
+egl - 15 encodes a receptor tyrosine kinase of the fibroblast growth factor receptor  ( fgfr )   .
+egl - 17 is a member of the fibroblast growth factor  ( fgf )  family .
+the caenorhabditis elegans protein clr - 1  ( clear )  is a receptor tyrosine phosphatase  ( rtp )  with a complex extracellular region and two intracellular phosphatase domains .
+suppressor of fused  ( sufu )  is a negative regulator of hh signaling .
+the bmp - 1 / tld metalloproteinases ,  conserved in species ranging from drosophila to humans ,  act in dorsal - ventral patterning via activation of bmp2 ,  bmp4  ( vertebrates )  and dpp  ( arthropods )  . \ n \ nthere are four mammalian bmp - 1 / tld - like proteinases ,  including bmp - 1 / mtld ,  which is encoded by alternatively spliced mrna produced by the bmp1 gene ,  and tll1 and tll2 ,  which are genetically distinct .
+bmp - related proteins can be subdivided into several groups based on their structures and functions .
+bmp - related proteins can be subdivided into several groups based on their structures and functions .
+bmp - related proteins can be subdivided into several groups based on their structures and functions .
+nucleoside diphoshate kinases  ( ndks )  ,  an evolutionarily conserved family of proteins ,  synthesize nucleoside triphosphates from nucleoside diphosphates and atp .
+translation initiation in eukaryotes is an intricate process requiring at least 11 eukaryotic initiation factors  ( eifs )  .
+deoxycytidine kinase  ( dck )  has a broader specificity and phosphorylates deoxycytidine  ( dc )  ,  deoxyadenosine  ( da )  and deoxyguanosine  ( dg )  .
+deoxyguanosine kinase  ( dgk )  phosphorylates deoxyadenosine  ( da )  and deoxyguanosine  ( dg )  .
+galactokinase  ( galk1 in human )  catalyzes the first step in the metabolism of galactose by phosphorylating the galactose at the first carbon .
+cytosolic thymidine kinase 1  ( tk1 )  phosphorylates only thymidine  ( dt )  .
+mitochondrial thymidine kinase 2  ( tk2 )  phosphorylates thymidine  ( dt )  and deoxycytidine  ( dc )  .
+protein x ,  recently renamed dihydrolipoamide dehydrogenase - binding protein  ( e3bp )  ,  is required for anchoring dihydrolipoamide dehydrogenase  ( e3 )  to the dihydrolipoamide transacetylase  ( e2 )  core of the pyruvate dehydrogenase complexes of eukaryotes .
+this subunit is not part of the saccharomyces cerevisiae core eif3 complex .
+small molecule that is formed in or released into the cytosol in response to an extracellular signal and helps to relay the signal to the interior of the cell .
+a peptide hormone that lowers calcium concentration in the blood .
+a peptide ,  of about 33 amino acids ,  secreted by the upper intestinal mucosa and also found in the central nervous system .
+a gastrointestinal peptide hormone of about 43 - amino acids .
+a peptide of about 22 - amino acids isolated from the duodenum .
+a polypeptide hormone that originates in the hypothalamus and stimulates the secretion of prolactin in the pituitary gland .
+a tripeptide hormone that originates in the hypothalamus and stimulates the secretion of thyrotropin from the pituitary gland .
+hypothalamic peptide that regulates the synthesis and secretion of growth hormone in the anterior pituitary gland .
+a peptide hormone of about 22 amino acids .
+neuropeptide and gut hormone that helps regulate gastric acid secretion and motor function .
+a highly basic ,  28 amino acid neuropeptide released from intestinal mucosa .
+hormones secreted by the gastrointestinal mucosa that affect the timing or the quality of secretion of digestive enzymes ,  and regulate the motor activity of the digestive system organs .
+a 36 - amino acid peptide produced by the l cells of the distal small intestine and colon .
+a peptide hormone of about 27 amino acids from the duodenal mucosa that activates pancreatic secretion and lowers the blood sugar level .
+peptide hormones secreted into the blood by cells in the islets of langerhans of the pancreas .
+a pancreatic peptide hormone of about 29 amino acids secreted by pancreatic alpha cells .
+hormones isolated from the hypothalamus which exercise control over other organs ,  primarily the pituitary gland .
+hormones secreted by the pituitary gland including those from the anterior lobe  ( adenohypophysis )  ,  the posterior lobe  ( neurohypophysis )  ,  and the ill - defined intermediate lobe .
+hormones produced by the placenta include chorionic gonadotropin ,  and placental lactogen .
+hormones that stimulate gonadal functions such as gametogenesis and sex steroid hormone production in the ovary and the testis .
+polypeptide hormones produced in the hypothalamus which inhibit the release of pituitary hormones .
+hormones released by one structure  ( e .g . ,  the hypothalamus or the thyroid gland )  that effect the secretion of hormones from the pituitary gland .
+a decapeptide hormone released by the hypothalamus .
+hormones secreted by the adenohypophysis  (  pituitary gland ,  anterior )  .
+the alpha chain of pituitary glycoprotein hormones  (  thyrotropin ;  follicle stimulating hormone ;  luteinizing hormone )  and the placental chorionic gonadotropin .
+hormones secreted by the adenohypophysis  (  pituitary gland ,  anterior )  that stimulate gonadal functions in both males and females .
+a major gonadotropin secreted by the adenohypophysis  (  pituitary gland ,  anterior )  .
+a major gonadotropin secreted by the adenohypophysis  (  pituitary gland ,  anterior )  .
+a polypeptide that is secreted by the adenohypophysis  (  pituitary gland ,  anterior )  .
+hormones released from the posterior lobe of the pituitary ,  including vasopressin  ( antidiuretic hormone )  and oxytocin .
+a nonapeptide posterior pituitary hormone that causes uterine contractions and stimulates milk ejection .
+a polypeptide hormone of approximately 25 kda that is produced by the syncytiotrophoblasts of the placenta ,  also known as chorionic somatomammotropin .
+a gonadotropic glycoprotein hormone produced primarily by the placenta .
+amino acids released by neurons as intercellular messengers .
+biogenic amines released by neurons as intercellular messengers .
+a nucleoside that is composed of adenine and d - ribose .
+peptides released by neurons as intercellular messengers .
+tachykinins are neuropeptides that are widely distributed in the body and function as neurotransmitters and neuromodulators .
+somatomedin is a group of hormones that is produced ,  when stimulated by somatotropin  ( sth )  ,  to promote cell growth and division .
+the kinins are pharmacologically active polypeptides released in the tissues and body fluids as a result of the enzymatic action of kallikreins on kininogens .
+21 - amino - acid peptides produced by vascular endothelial cells and functioning as potent vasoconstrictors .
+a tripeptide with many roles in cells .
+sphingolipid mediators ,  such as sphingosine 1 - phosphate  ( s1p )  ,  ceramide ,  and sphingosine are derived by the enzymatic breakdown of sphingomyelin ,  an abundant membrane phospholipid .
+a lactogenic hormone secreted by the adenohypophysis  (  pituitary gland ,  anterior )  .
+an anterior pituitary hormone that stimulates the secretion of corticosteroids and induces growth of the adrenal cortex .
+a 13 - amino acid peptide derived from the anterior pituitary gland in man and from the pars intermedia in lower vertebrates .
+lipotropic or pituitary lipotropic hormone .
+peptide hormones secreted by the intermediate lobe of the pituitary that stimulate melanin release and dispersal .
+a peptide hormone of about 11 amino acids derived from pro - opiomelanocortin that has natriuretic activity .
+a glycoprotein hormone secreted by the adenohypophysis  (  pituitary gland ,  anterior )  .
+octapeptide antidiuretic hormones released by the neurohypophysis of all vertebrates  ( chemical composition varies with species )  .
+a family of gastrointestinal peptide hormones that excite the secretion of gastric juice .
+a 36 - amino acid polypeptide secreted by the pancreas that has physiological regulatory functions .
+a polypeptide hormone produced in the hypothalamus ,  and other tissues and organs .
+erk5 ,  also known as big map kinase 1  ( bmk1 )  ,  is twice the size of other mapks .
+four groups of kinases have been shown to be activated by map kinases ,  ribosomal s6 kinase  ( rsk also known as mapkapk1 )  ,  map kinase - activated protein kinase 2 / 3  ( mapkapk2 / 3 )  ,  map kinase - interacting kinase or map kinase signal - integrating kinase  ( mnk )  and mapkapk5  ( prak )  .
+mapkapk5  ( prak )  activity is regulated by p38 and activated mapkapk5 in turn phosphorylates small heat shock protein 27  ( hsp27 )  .
+mnk1 / 2 are regulated by p38 and erk ,  but not by jnk .
+specific ,  characterizable ,  poisonous chemicals ,  often proteins ,  with specific biological properties ,  including immunogenicity ,  produced by microbes ,  higher plants ,  or animals .
+classical pkc isoforms  ( alpha ,  betai ,  betaii and gamma )  are regulated by calcium ,  diacylglycerol  ( dag )  and phospholipids .
+smads 2 and 3 serve principally as substrates for the tgfbeta ,  activin ,  and nodal receptors .
+smads 1 ,  5 ,  and 8 serve principally as substrates for the bmp and anti - muellerian receptors .
+ifn - alpha6 and ifn - alpha8 likely represent a single subtype ,  hereafter referred to as ifn - alpha8 / 6 .

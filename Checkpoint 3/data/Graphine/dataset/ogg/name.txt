@@ -1,0 +1,107 @@
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+process boundary
+continuant fiat boundary
+process profile
+relational quality
+organism
+genome
+gene
+gene disposition
+protein - coding gene disposition
+rna gene disposition
+rrna gene disposition
+snrna gene disposition
+trna gene disposition
+scrna gene disposition
+snorna gene disposition
+miscrna gene disposition
+ncrna gene disposition
+pseudo gene disposition
+transposon gene disposition
+other gene disposition
+unknown gene disposition
+rna gene
+miscrna gene
+ncrna gene
+rrna gene
+scrna gene
+snorna gene
+snrna gene
+trna gene
+protein - coding gene
+pseudo gene
+transposon gene
+gene with unknown gene disposition
+gene with other gene disposition
+genome of bacteria
+genome of proteobacteria
+genome of gammaproteobacteria
+genome of archaea
+genome of eukaryota
+genome of homo sapiens
+genome of viruses
+genome of human immunodeficiency virus 1
+genome of mycobacterium tuberculosis h37rv
+genome of pseudomonas aeruginosa pao1
+genome of brucella melitensis bv . 1 str . 16m
+genome of influenza a virus  ( a / new york / 392 / 2004 ( h3n2 )  )
+genome of escherichia coli str . k - 12 substr . mg1655
+gene of bacteria
+gene of proteobacteria
+gene of gammaproteobacteria
+gene of archaea
+gene of eukaryota
+gene of homo sapiens
+gene of viruses
+gene of human immunodeficiency virus 1
+gene of mycobacterium tuberculosis h37rv
+gene of pseudomonas aeruginosa pao1
+gene of brucella melitensis bv . 1 str . 16m
+gene of influenza a virus  ( a / new york / 392 / 2004 ( h3n2 )  )
+gene of escherichia coli str . k - 12 substr . mg1655
+trna gene of homo sapiens
+trna gene of mycobacterium tuberculosis h37rv
+trna gene of pseudomonas aeruginosa pao1
+trna gene of brucella melitensis bv . 1 str . 16m
+trna gene of escherichia coli str . k - 12 substr . mg1655
+rrna gene of homo sapiens
+rrna gene of mycobacterium tuberculosis h37rv
+rrna gene of pseudomonas aeruginosa pao1
+rrna gene of brucella melitensis bv . 1 str . 16m
+rrna gene of escherichia coli str . k - 12 substr . mg1655
+snrna gene of homo sapiens
+snorna gene of homo sapiens
+protein - coding gene of homo sapiens
+protein - coding gene of human immunodeficiency virus 1
+protein - coding gene of mycobacterium tuberculosis h37rv
+protein - coding gene of pseudomonas aeruginosa pao1
+protein - coding gene of brucella melitensis bv . 1 str . 16m
+protein - coding gene of influenza a virus  ( a / new york / 392 / 2004 ( h3n2 )  )
+protein - coding gene of escherichia coli str . k - 12 substr . mg1655
+pseudo gene of homo sapiens
+pseudo gene of mycobacterium tuberculosis h37rv
+pseudo gene of pseudomonas aeruginosa pao1
+pseudo gene of escherichia coli str . k - 12 substr . mg1655
+miscrna gene of mycobacterium tuberculosis h37rv
+miscrna gene of pseudomonas aeruginosa pao1
+miscrna gene of escherichia coli str . k - 12 substr . mg1655
+ncrna gene of homo sapiens
+ncrna gene of mycobacterium tuberculosis h37rv
+ncrna gene of pseudomonas aeruginosa pao1
+ncrna gene of escherichia coli str . k - 12 substr . mg1655
+rna gene of homo sapiens
+rna gene of mycobacterium tuberculosis h37rv
+rna gene of pseudomonas aeruginosa pao1
+rna gene of brucella melitensis bv . 1 str . 16m
+rna gene of escherichia coli str . k - 12 substr . mg1655
+gene of homo sapiens with other gene disposition
+gene of human immunodeficiency virus 1 with other gene disposition
+gene of mycobacterium tuberculosis h37rv with other gene disposition
+gene of pseudomonas aeruginosa pao1 with other gene disposition
+gene of brucella melitensis bv . 1 str . 16m with other gene disposition
+gene of influenza a virus  ( a / new york / 392 / 2004 ( h3n2 )  )  with other gene disposition
+gene of escherichia coli str . k - 12 substr . mg1655 with other gene disposition
+gene of homo sapiens with unknown gene disposition

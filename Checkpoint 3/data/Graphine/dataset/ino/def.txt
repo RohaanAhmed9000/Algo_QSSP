@@ -1,0 +1,248 @@
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+a realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural ,  social or institutional contexts .
+b is a generically dependent continuant = def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing deoxyribose and linked by phosphodiester bonds ;  dna contain the genetic information of organisms .
+any constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer etc . ,  identifiable as a separately distinguishable entity .
+a macromolecule made up of nucleotide units and hydrolysable into certain pyrimidine or purine bases  ( usually adenine ,  cytosine ,  guanine ,  thymine ,  uracil )  ,  d - ribose or 2 - deoxy - d - ribose and phosphoric acid .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing ribose and linked by phosphodiester bonds ;  rna is central to the synthesis of proteins .
+a material entity of anatomical origin  ( part of or deriving from an organism )  that has as its parts a maximally connected cell compartment surrounded by a plasma membrane .
+a cell that is usually found in a two - dimensional sheet with a free surface .
+a mononuclear phagocyte present in variety of tissues ,  typically differentiated from monocytes ,  capable of phagocytosing a variety of extracellular particulate material ,  including immune complexes ,  microorganisms ,  and dead cells .
+the aggregation ,  arrangement and bonding together of a set of components to form a protein complex .
+the addition of an acetyl group to a protein amino acid .
+a programmed cell death process which begins when a cell receives an internal  ( e .g .
+any process specifically pertinent to the functioning of integrated living units: cells ,  tissues ,  organs ,  and organisms .
+any biological process that results in permanent cessation of all vital functions of a cell .
+a process which begins when a cell receives an internal or external signal and activates a series of biochemical events  ( signaling pathway )  .
+the process of introducing a phosphate group into a molecule ,  usually with the formation of a phosphoric ester ,  a phosphoric anhydride or a phosphoric amide .
+the covalent attachment of a myristoyl group to a protein .
+the process of creating protein oligomers ,  compounds composed of a small number ,  usually between three and ten ,  of component monomers ;  protein oligomers may be composed of different or identical monomers .
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+a generically dependent continuant that is about some thing .
+a role borne by pathogen in virtue of the fact that it or one of its products is sufficiently close to an organism towards which it has the pathogenic disposition to allow realization of the pathogenic disposition .
+a material entity with a pathogenic disposition .
+a role borne by an organism in virtue of the fact that it's extended organism contains a material entity other than the organism .
+interaction network is a process that includes a network of at least two interactions .
+interaction is a processual entity that has two or more participants  ( i .e . ,  interactors )  that have an effect upon one another .
+an interaction network that includes at least two interactions and has a start point ( s )  and an end point ( s )  .
+an interaction network model that is represented by a probabilistic graphical model  ( a type of statistical model )  that represents a set of random variables and their conditional dependencies via a directed acyclic graph  ( dag )  .
+an regulator role that is borne by a material entity that regulates an interaction .
+a positive regulation that one interactor up - regulates another .
+an interactor that regulates an interaction .
+an interactor role that is borne by a material entity that acts as an input of an interaction .
+an interactor role that is borne by a material entity that acts as an output of an interaction .
+a positive regulator role that is borne by a material entity that activates an interaction .
+an interaction network model that is represented by at least two mutual information interactions .
+a node is an object that represents an interactor in a graph of an interaction or interaction network .
+an edge is an object that represents a graphic line that links two interactors in an interaction .
+a role that is borne by a material entity to act as a participant in an interaction process .
+an interactor is a material entity that participates in an interaction .
+a positive interaction regulator that activates an interaction .
+a biological interaction that occurs in the organism level .
+a two - way interaction is an interaction that includes two different directions among two interactors .
+a pathway that exists in human body .
+an up - regulation that one interactor up - regulates the secretion of another interactor .
+an interaction involving human molecules
+a positive regulation that one interactor activates another .
+an interaction that includes a gene and a cell as interactors .
+an activation process where one protein is activated by a material entity
+a biological interaction that involves two cells as interactors .
+an activation process where one protein is activated by a gene mutant
+a biochemical binding where a substance binds to the same site an agonist would bind to without causing activation of the receptor
+an interaction that involves a gene and its environment  ( e .g . ,  calcium in blood )  .
+a regulation process that regulates the location of a protein
+a gene expression regulation process that involves the regulation of a gene transcription .
+a negative regulation that attenuates the virulence of a pathogenic microbe .
+a gene expression regulation process that involves the regulation of a protein translation process .
+a phosphorylation process that adds a phosphate to a protein kinase  ( possibly affecting its activity )  by virtue of its own enzymic activity .
+a regulation process that regulates the activation of a gene so that the gene is expressed at a particular time
+a regulation process that positively regulates gene expression level
+a regulation process that negatively regulates gene expression level
+a human molecular reaction that is specifically a biochemical reaction
+a negative regulation process that down - regulates gene expression level
+a negative regulation process that down - regulates protein translation level
+a regulation process that regulates gene expression level
+a gene expression process that results in protein production from a gene dna sequence .
+a negative regulation of gene transcription process that specifiies the negative regulation being an inhibition .
+an interactor that starts or speeds up a chemical reaction while undergoing no permanent change itself .
+a coprecipitation that occurs through an immunoprecipitation process .
+a regulation of transcription process that inviolves a positive regulation .
+an indirect association that one interactor competes with another interactor in a specfiic process .
+a positive regulation of gene transcription process that inviolves an activation of the gene transcription .
+an activation of gene transcription that is achieved by a low level of a protein
+a regulation of translation process that positively regulates protein translation level
+a direct interaction where an antigen interacts with an antibody physically .
+a regulation process that regulates an activity of a protein
+a gene expression that has decreased volume .
+a regulation that one interactor controls the quality of another interactor to a specific range
+a direct physical association that one interactor is converted from another interactor .
+an indirect association that one interactor cooperates with another interactor in a specfiic process .
+a colocalization that two interactors are precipitated together .
+an indirect association that two interactors are correlated in a process without defined influence of each other .
+an interaction that involves a cell and its environment as interactors
+an immuno - precipitation that one interactor is precipitated based on an cross -  immunological precipitation process .
+an interaction that involves an organism and its environment as interactors
+a regulation of protein activitiy process that involves a negative regulation
+a regulation in which one interactor has a negative effect on another interactor
+an interactor role that is played by a material entity that starts or speeds up a chemical reaction while undergoing no permanent change itself .
+a negative regulation of protein activitiy process that involves an inhibition of a protein activity
+a regulation of transcription process that occurs through the binding to a promotor of a gene
+a regulation of transcription by binding to promoter that is further classified as a positive regulation
+a negative regulation that results in the decrease of one interactor volume .
+a regulation of transcription by binding to promoter that is further classified as a positive regulation
+a positive regulation of gene expression process that activates a gene so that the gene is expressed at a particular time
+an enzymatic reaction that leads to the breakdown of a biochemical entity .
+a regulation of transcription process where two or more regulators regulate a gene transcription
+an activation of gene transcription that is achieved by a high level of a protein
+a regulation of transcription process through binding to a promoter or regulating the promoter binding activity
+an activation of gene transcription that is achieved by a phosphorylated protein
+a negative regulation that results in a destabilization .
+a negative regulation process that inhibits gene expression level
+a regulation that one interactor has a dominant effect on the quality of another interactor .
+a protein complex assembly that involves two proteins that form a dimer .
+a regulation process that involves in two interactors co - regulate a third interactor .
+a negative regulation that results in a disruption .
+a negative regulation that one interactor down - regulates another .
+a positive regulation of gene expression process that up - regulates gene expression level
+a negative regulation process that down - regulates gene expression level
+an induction that leads to the production of an entity
+a negative regulation that one interactor eliminates another .
+a cell - cell interaction that the transfers genetic material between bacterial cells by direct cell - to - cell contact or by a bridge - like connection between two cells .
+interaction leading to the formation of hydrogen bond between two molecules
+a regulation process where one gene product regulates an assembly process which forms an assembly having another gene product .
+a human molecular interaction where one molecule controls another molecule .
+a biological interaction that uses the information from a gene to synthesize a functional gene product .
+a positive regulation that one interactor facilitates a phenomenon such as a phenotype .
+a regulation of protein activitiy process that involves a positive regulation
+an interaction that involves a host  ( host organism or host cell )  and pathogen organism at a specific condition .
+a genetic interaction that forms a hybrid gene formed from two previously separate genes .
+an host - pathogen interaction where the host is a cell .
+an induction that is achieved by binding to a protein
+an host cell - pathogen interaction where the host is a macrophage cell
+a protein dimerization where two proteins are different .
+a protein dimerization where two proteins are the same .
+a macrophage - pathogen interaction that involves a macrophage protein and a pathogen protein .
+a gene expression that has increased volume .
+a translocation that one interactor is precipitated based on an immunological precipitation process .
+a negative regulation that disables ,  damages ,  or impairs the functioning of another entity .
+a negative regulation that one interactor inactivates another .
+a positive regulation that leads to the increase of a quality of an entity .
+a positive regulation that leads to the induction of a new interactor due to the presence of another interactor .
+a negative regulation that one interactor inhibites another .
+an interactor that is an input of an interaction .
+a negative regulation that one interactor interferes a process .
+an host - pathogen interaction where the host is a gene mutant
+a human molecular interaction where one molecule converts to another molecule .
+an organism bearing a host role .
+an interactor role that is borne by a material entity that positively regulates an interaction .
+an data item that indicates the step number of a pathway .
+an interactor role that is borne by a material entity that negatively regulates an interaction .
+a macrophage - pathogen protein - protein interaction that induces cell death .
+a biochemical reaction that one interactor neutrolizes another .
+an interaction regulator that positively regulates an interaction .
+an host - pathogen interaction where the pathogen is a gene mutant
+an interaction regulator that negatively regulates an interaction .
+a negative regulator role that is borne by a material entity that deactivates ,   inhibits ,  blocks ,  or disrupts the action of a biological agent  ( e .g . ,  enzyme )  .
+an input interactor role that is borne by a material entity that motivates a process .
+an indirect association that one interactor is preceded by another interactor .
+an input interactor role that is borne by a material entity  ( e .g .
+an interactor that is an output of an interaction .
+an host cell - pathogen interaction where the host is an epithelial cell
+an activation that repeats .
+a positive regulation that leads the recruitment of one interactor from one location to another .
+a regulation represents a regulatory interaction between two interactors .
+an information content entity that models interaction network
+a postive interaction that one interactor increases the stability of another interactor .
+a regulation process that involves in two interactors that are synergized in affecting a phenomenon  ( e .g . ,  phenotype )  .
+a negative regulation that leads to a process termination .
+a gene expression regulation that leads to an increased rate of gene expression triggered either by biological processes or by artificial means .
+an interaction process that creates a complementary rna copy of a sequence of dna .
+a cell - cell interaction that transfers viral ,  bacterial ,  or both bacterial and viral dna from one cell to another using a bacteriophage vector .
+a process that changes the location of a material entity .
+a negative regulation that results in the deregulation of one interactor on a process .
+a one - way interaction is an interaction that shows one direction between interactors .
+a translocation that one interactor exports from one location
+a translocation that one interactor imports from one location
+a translocation that one interactor secretes from the inside of another interactor
+an interaction between two proteins .
+an interaction that involves in a gene dna and a protein
+an organism is an individual entity that exhibits the properties of life ,  including reproduction ,  growth and development ,  maintenance ,  and response to stimuli .
+reaction ,  that can affect k , c , a , d , e , q , g , i , k , m , p , s , t , y , v residues .
+irreversible reaction that can affect a , r , n , d , c , q , e , g , h , i , l , k , m , f , p , s , t , w , y or v residues .
+covalent bond breakage in a molecule leading to the formation of smaller molecules .
+interaction leading to the formation of covalent bond within an autocatalytic molecule or between partners .
+n6 - acetyl - l - lysine or s - acetyl - l - cysteine are cleaved and return k or c residues .
+s - farnesyl - l - cysteined is cleaved and returns a c residue .
+n6 - formyl - l - lysine is cleaved and returns a k residue .
+s - geranylgeranyl - l - cysteine is cleaved and returns a c residue .
+n6 - myristoyl - l - lysine is cleaved and returns a k residue .
+s - palmitoyl - l - cysteine ,  n6 - palmitoyl - l - lysine ,  o - palmitoyl - l - threonine or o - palmitoyl - l - serine are cleaved and return c , k , t or s residues .
+phosphoresidues are cleaved and return d , c , h , s , t , y or r residues .
+cleavage of the g - k bond and release of ubiquitin or ubiquitin like proteins .
+reversible reaction that can affect c residue .
+reaction that can affect k or g residues .
+attachment of one or two 20 - carbon lipophilic geranylgeranyl isoprene units from geranylgeranyl diphosphate to one or more cysteine residue ( s )  .reversible reaction that can affect c residue .
+irreversible introduction of a hydroxyl group that can affect k , p , y or r residues .
+covalent or non covalent binding of lipid group on a protein residue .
+cleavage of a lipid group covalently bound to a protein residue .
+the covalent attachment of a methyl residue to one or more monomeric units in a polypeptide ,  polynucleotide ,  polysaccharide ,  or other biological polymer .
+covalent attachment of palmitic acid to the cysteine residues of membrane proteins .
+reversible reaction that create a covalent bond between a c - terminus g of ubiquitin and a k residue of the target .
+coincident occurrence of molecules in a given subcellular fraction observed with a low resolution methodology from which a physical interaction among those molecules cannot be inferred .
+interaction between molecules that are in direct contact with each other .
+covalent bond mediated by 2 sulfur atoms .
+terms aiming to represent biochemical reactions referring to their resulting product modifications .
+gln - lys cross - link catalyzed by a transglutaminase .
+involves the addition of one or more adp - ribose moieties to proteins .
+reaction catalyzed by pngase ,  a deglycosylating enzyme that promotes the hydrolysis of the beta - aspartylglycosylamine bond of aspargine - linked glycopeptides and glycoproteins .
+the covalent attachment of a glycosyl residue to one or more monomeric units in a polypeptide ,  polynucleotide ,  polysaccharide ,  or other biological polymer .
+reversible reaction that create a covalent bond between a c - terminus g of an ubiquitine like sumo protein and a k residue of the target .
+reversible reaction that create a covalent bond between a glycine residue of an ubiquitine like nedd8 protein and a lysine residue of the target .
+cleavage of the g - k bond and release of the sumo ubiquitin like proteins .
+cleavage of the g - k bond and release of the nedd8 ubiquitin like proteins .
+covalent modification of a polypeptide occuring during its maturation or its proteolytic degradation .
+any process by which a pre - mrna or mrna molecule is cleaved at specific sites or in a regulated manner .
+covalent bond breakage of a dna molecule leading to the formation of smaller fragments .
+the process by which a dna strand is synthesized from template dna by the action of polymerases ,  which add nucleotides to the 3' end of the nascent dna strand .
+reaction where a phosphate is transferred between two proteins of a phosphorelay system .
+the cleavage of a methyl group from a polypeptide .
+catalysis of the hydrolysis of a  nucleoside triphosphate into a nucleoside diphosphate plus phosphate .
+catalysis of the hydrolisis of atp +  h2o = adp  +  phosphate .
+catalysis of the hydrolisis of gtp +  h2o = gdp  +  phosphate .
+any process by which an rna molecule is cleaved at specific sites or in a regulated manner .
+covalent bond breakage of a nucleic acid molecule leading to the formation of smaller fragments .
+interaction between molecules that may participate in formation of one ,  but possibly more ,  physical complexes .
+interaction between molecules within the same physical complex .
+the observation that ,  when tested ,  no interaction was observed between two or more genes ,  for a given phenotype .
+an oxidation - reduction  ( redox )  reaction ,  a reversible chemical reaction in which the oxidation state of an atom or atoms within a molecule is altered .
+the posttranslational phosphopantetheinylation of peptidyl - serine to form peptidyl - o - phosphopantetheine - l - serine .
+the removal of an amine group from a molecule .
+the lengthening of a strand of a nucleic acid by the systematic addition of bases by a polymerase .
+the process by which an rna strand is synthesized from template dna by the action of polymerases ,  which add nucleotides to the 3' end of the nascent rna strand .
+a modification that converts an l - histidine residue to diphthamide .
+interaction has been predicted by either interologue mapping ,  by an algorithm or by a computational method .
+intra - molecular interaction between two or more regions of the same molecule .
+interaction between two or more regions of possibly the same molecule but it is also possible that the observation is due to an interaction between two identical molecules .
+carboxylation is a posttranslational modification of glutamate residues ,  to gamma - carboxyglutamate ,  in proteins .
+decarboxylation is a chemical reaction that releases carbon dioxide  ( co2 )  .
+aminoacylation is the process of adding an aminoacyl group to a compound .
+measurement of the hydrolysis of phospholipids into fatty acids and other lipophilic substances .
+the formation of a phosphodiester or phosphoramide ester of ump and amino acid  ( mod:01166 )  .
+the conversion between cis -  and trans -  peptide bonds formed by the amine group of a proline .
+the catalysis of the structural rearrangement of isomers .
+the catalysis of the conversion of methylmalonyl - coa to succinyl - coa by transfer of the carbonyl group .
+measure of  hydrolytic reactions that release adp - ribose .
+reaction where a sulfate group is transferred between two proteins
+a gene is a material entity that represents the entire dna sequence required for synthesis of a functional protein or rna molecule .
+an amino acid chain that is produced de novo by ribosome - mediated translation of a genetically - encoded mrna .
+the various ,  enzyme controlled ,  series of reactions allowing for the conversion of materials ,  energy availability and biodegradation of xenobiotics .
+the pathways where a signal  -  hormone ,  neurotransmitter ,  growth factor ,  peptide ,  any molecule  -  triggers one or multiple cascades of events .
+the pathways that control the processes by which a cell or organism develops ,  adjusts ,  behaves ,  responds to conditions or changes in these conditions ,  or in any manner helps promote and maintain its efficient functioning .
+complex human diseases encompass a spectrum of genetic and environmental attributes that together affect the normal functioning of several molecular and cellular pathways .
+the pharmacokinetics and the pharmacodynamics pathway elicited by the administration of specific drugs .

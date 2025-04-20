@@ -1,0 +1,332 @@
+continuant
+occurrent
+independent continuant
+process
+material entity
+electron
+anion
+molecular entity
+chemical entity
+biological role
+group
+salt
+ion
+fundamental particle
+atom
+atomic nucleus
+nucleon
+nutrient
+pnictogen
+main group element atom
+metal atom
+p - block element atom
+lepton
+baryon
+fermion
+subatomic particle
+composite particle
+hadron
+nuclear particle
+polyatomic entity
+cation
+heteroatomic molecular entity
+role
+food component
+biological_process
+plant exposure
+plant experimental condition
+whole plant
+vascular leaf primordium
+ovule primordium
+gynoecium primordium
+petal primordium
+shoot axis apex
+petiole epidermis
+bud
+vegetative bud
+shoot axis epidermis
+peripheral zone
+flower meristem
+trichome
+epidermal initial cell
+mature plant embryo stage
+inflorescence development stage
+plant zygote stage
+stomatal complex
+meristematic cell
+initial cell
+sapwood
+bark
+secondary xylem parenchyma
+rhizome
+shoot axis tuber
+shoot - borne shoot system
+subterranean shoot axis tuber
+carpel primordium
+stamen primordium
+axillary bud
+axillary vegetative bud
+terminal bud
+basal axillary shoot system
+shoot axis internode
+root primordium
+secondary phloem
+xylem
+phloem
+parenchyma
+cambium
+vascular cambium
+epidermis
+secondary xylem
+phyllome
+carpel anlagen
+leaf epidermis
+shoot system epidermis
+root epidermis
+petal epidermis
+seed coat epidermis
+shoot system meristem
+anther primordium
+pith
+protoderm
+axillary shoot system
+ear peduncle
+whole plant development stage
+sporophyte vegetative stage
+plant embryo development stage
+vegetative shoot apical meristem
+reproductive shoot apical meristem
+fruit
+plant cell
+root
+shoot system
+portion of plant tissue
+plant organ
+plant embryo
+seed
+plant structure
+plant structure development stage
+portion of meristem tissue
+portion of vascular tissue
+meristem l1 layer
+vascular leaf
+sporophyll
+megasporophyll
+microsporophyll
+stamen
+carpel
+petal
+flower bract
+glume
+flower
+stem
+inflorescence
+spikelet
+peduncle
+inflorescence bract
+bract
+perianth
+corolla
+calyx
+androecium
+gynoecium
+anther
+stigma
+seed coat
+plant ovule
+petiole
+testa
+hypocotyl
+inflorescence axis
+ear inflorescence
+stem internode
+apical meristem
+lateral meristem
+shoot apical meristem
+cardinal organ part
+plant axis
+collective plant organ structure
+collective leaf structure
+collective phyllome structure
+root system
+embryo plant cell
+shoot axis
+leaf
+shoot axis tuber axillary vegetative bud
+subterranean tuber axillary vegetative bud
+portion of ground tissue
+stalk
+branch
+reproductive shoot system
+strobilus
+sporangium
+carpel epidermis
+stamen epidermis
+embryo plant structure
+first order inflorescence axis
+primordium
+phyllome primordium
+plant anatomical entity
+phyllome epidermis
+bract epidermis
+thorn
+stem epidermis
+branch epidermis
+stele
+microsporangium
+reproductive shoot apex
+vegetative shoot apex
+portion of embryo plant tissue
+pollen sac
+flower fascicle
+life of whole plant stage
+collective plant organ structure development stage
+awn
+corm
+bulb
+floral organ
+secondary vascular tissue
+phyllome anlagen
+vascular leaf anlagen
+root anlagen
+floral organ primordium
+androecium primordium
+bract anlagen
+petal anlagen
+stamen anlagen
+bract primordium
+flower bract primordium
+inflorescence bract primordium
+multi - tissue plant structure
+collective plant structure
+cardinal part of multi - tissue plant structure
+tuber
+shoot system development stage
+bud development stage
+reproductive shoot system development stage
+ground meristem
+pistillate inflorescence
+pistillate flower
+native plant cell
+rosette
+sporophyte development stage
+follicle fruit
+capitulum inflorescence
+compound capitulum inflorescence
+plant stress
+plant disease
+bacterial plant disease
+fungal plant disease
+viral plant disease
+nematode plant disease
+oomycete plant disease
+insect plant disease
+parasitic plant disease
+eukariotic plant disease
+disease of african daisy
+disease of african violet
+disease of alfalfa
+disease of almond
+disease of anemone
+disease of apple
+disease of apricot
+disease of asparagus
+disease of avocado
+disease of azalea
+disease of banana and plantain
+disease of barley
+disease of bean
+disease of beet
+disease of bellflower
+disease of black walnut
+disease of bleeding heart
+disease of blueberry
+disease of butterfly flower
+disease of cacao
+disease of caneberries
+disease of carnation
+disease of carrot
+disease of cassava
+disease of cattleya lindl . spp
+disease of celery
+disease of chickpea
+disease of chrysanthemum
+disease of cineraria
+disease of citrus
+disease of coconut palm
+disease of coffee
+disease of common house or florist's hydrangea
+disease of corn  ( syn . maize )
+disease of cotton
+disease of cranberry
+disease of crucifers
+disease of cucurbits
+disease of cultivated wild rice
+disease of cyclamen
+disease of date palm
+disease of douglas - fir
+disease of elm
+disease of english  ( persian )  walnut
+disease of european hazelnut
+disease of flax
+disease of foliage plants  ( house plants )
+disease of fuchsia
+disease of garden dahlia
+disease of geranium
+disease of grape
+disease of hemp
+disease of holiday cacti
+disease of hop
+disease of impatiens
+disease of jerusalem cherry
+disease of kalanchoë
+disease of lentil
+disease of lettuce
+disease of lingonberry
+disease of lisianthus
+disease of mango
+disease of mimulus ,  monkey - flower
+disease of mint
+disease of mustard
+disease of oats
+disease of onion and garlic
+disease of papaya
+disease of passionfruit
+disease of pea
+disease of peach and nectarine
+disease of peanut
+disease of pear
+disease of pearl millet
+disease of pecan
+disease of pepper
+disease of persian violet
+disease of pigeonpea
+disease of pineapple
+disease of pistachio
+disease of pocketbook plant
+disease of poinsettia
+disease of potato
+disease of primulas
+disease of rapeseed = canola
+disease of red clover
+disease of rice
+disease of rose
+disease of rye
+disease of safflower
+disease of sapphire flower
+disease of sorghum
+disease of soybean
+disease of spinach
+disease of strawberry
+disease of sugarcane
+disease of sunflower and jerusalem artichoke
+disease of sweet cherry and sour cherry
+disease of sweetgum
+disease of sweetpotato
+disease of sycamore
+disease of tea
+disease of tobacco
+disease of tomato
+disease of verbena
+disease of wheat
+exposure event or process

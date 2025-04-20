@@ -1,0 +1,408 @@
+observing process
+continuant
+occurrent
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+reproduction
+developmental process involved in reproduction
+multicellular organism development
+aging
+biological_process
+response to radiation
+response to light stimulus
+response to abiotic stimulus
+post - embryonic development
+abscission
+seed germination
+flower development
+photoprotection
+reproductive process
+dormancy process
+multicellular organismal process
+developmental process
+single - organism process
+single organism reproductive process
+single - multicellular organism process
+single - organism developmental process
+shoot system development
+floral organ development
+reproductive structure development
+system development
+anatomical structure development
+response to stimulus
+leaf abscission
+reproductive system development
+floral organ senescence
+seedling development
+reproductive shoot system development
+plant organ senescence
+bud dormancy process
+entry into dormancy
+exit from dormancy
+plant organ development
+data item
+information content entity
+curation status specification
+data about an ontology part
+measurement datum
+obsolescence reason specification
+denotator type
+planned process
+quality
+whole plant
+cotyledon primordium
+vascular leaf primordium
+ovule primordium
+gynoecium primordium
+shoot apex
+bud
+flower bud
+inflorescence bud
+vegetative bud
+peripheral zone
+flower meristem
+fruit development stage
+leaf development stage
+vascular leaf initiation stage
+vascular leaf expansion stage
+vascular leaf post - expansion stage
+vascular leaf senescent stage
+inflorescence development stage
+plant zygote stage
+seed development stage
+meristematic cell
+fertilized ovule stage
+developing seed stage
+shoot - borne shoot system
+stamen primordium
+microsporangiate strobilus
+megasporangiate strobilus
+phyllome
+shoot system meristem
+anther primordium
+protoderm
+whole plant flowering stage
+whole plant development stage
+seed germination stage
+sporophyte reproductive stage
+sporophyte vegetative stage
+flower development stage
+flowering stage
+seed maturation stage
+endosperm development stage
+vegetative shoot apical meristem
+reproductive shoot apical meristem
+fruit
+plant cell
+shoot system
+portion of plant tissue
+plant organ
+plant embryo
+seed
+plant structure
+plant structure development stage
+portion of meristem tissue
+vascular leaf
+sporophyll
+microsporophyll
+stamen
+flower bract
+lemma
+palea
+glume
+flower
+inflorescence
+spikelet
+inflorescence bract
+bract
+androecium
+gynoecium
+anther
+spikelet floret
+plant ovule
+cotyledon
+apical meristem
+shoot apical meristem
+plant axis
+collective plant organ structure
+collective phyllome structure
+embryo plant cell
+shoot axis
+leaf
+reproductive shoot system
+strobilus
+reproductive bud
+sporangium
+embryo plant structure
+primordium
+phyllome primordium
+microsporangium
+reproductive shoot apex
+vegetative shoot apex
+portion of embryo plant tissue
+pollen sac
+life of whole plant stage
+collective plant organ structure development stage
+plant organ development stage
+floral organ
+phyllome anlagen
+vascular leaf anlagen
+cotyledon anlagen
+floral organ primordium
+androecium primordium
+bract anlagen
+stamen anlagen
+bract primordium
+flower bract primordium
+inflorescence bract primordium
+multi - tissue plant structure
+collective plant structure
+fruit ripening stage
+shoot system development stage
+bud development stage
+reproductive shoot system development stage
+bud swell stage
+bud burst stage
+vascular leaf development stage
+multi - tissue plant structure development stage
+vascular leaf differentiation stage
+phyllome development stage
+floral organ formation stage
+flower meristem transition stage
+native plant cell
+vegetative shoot system
+sporophyte development stage
+new shoot system
+dormant leaf bud
+non - dormant leaf bud
+swelling leaf bud
+breaking leaf bud
+true leaf
+unfolding true leaf
+unfolded true leaf
+non - senescing unfolded true leaf
+senescing true leaf
+immature unfolded true leaf
+mature true leaf
+expanding unfolded true leaf
+expanded immature true leaf
+expanding true leaf
+reproductive structure
+mature seed
+senesced floral structure
+non - senesced flower
+unopened flower
+open flower
+pollen - releasing flower
+senesced flower
+non - senesced flower head
+unopened flower head
+open flower head
+pollen - releasing flower head
+senesced flower head
+ripening fruit
+unripe fruit
+ripe fruit
+fresh pollen cone
+open pollen cone
+pollen - releasing pollen cone
+fresh seed cone
+ripening seed cone
+unripe seed cone
+ripe seed cone
+portion of a plant
+plant phenological trait
+plant structure presence
+abscised plant structure presence
+new shoot system presence
+new above - ground shoot - borne shoot system presence
+new shoot system emerging from ground presence
+new shoot system emerging from ground in first growth cycle presence
+seedling presence
+new shoot system emerging from ground in later growth cycle presence
+leaf bud presence
+dormant leaf bud presence
+non - dormant leaf bud presence
+swelling leaf bud presence
+breaking leaf bud presence
+vascular leaf presence
+true leaf presence
+unfolding true leaf presence
+unfolded true leaf presence
+non - senescing unfolded true leaf presence
+senescing true leaf presence
+immature unfolded true leaf presence
+mature true leaf presence
+expanding unfolded true leaf presence
+expanded immature true leaf presence
+expanding true leaf presence
+reproductive structure presence
+floral structure presence
+non - senesced floral structure presence
+unopened floral structure presence
+open floral structure presence
+pollen - releasing floral structure presence
+senesced floral structure presence
+flower presence
+non - senesced flower presence
+unopened flower presence
+open flower presence
+pollen - releasing flower presence
+senesced flower presence
+flower head presence
+non - senesced flower head presence
+unopened flower head presence
+open flower head presence
+pollen - releasing flower head presence
+senesced flower head presence
+fruit presence
+ripening fruit presence
+unripe fruit presence
+ripe fruit presence
+cone presence
+pollen cone presence
+fresh pollen cone presence
+open pollen cone presence
+pollen - releasing pollen cone presence
+seed cone presence
+fresh seed cone presence
+ripening seed cone presence
+unripe seed cone presence
+ripe seed cone presence
+abscised leaf presence
+abscised fruit or seed presence
+abscised cone or seed presence
+plant structures present
+new shoot system present
+new above - ground shoot - borne shoot systems present
+new shoot systems emerging from ground present
+new shoot systems emerging from ground in first growth cycle present
+seedling present
+new shoot systems emerging from ground in later growth cycle present
+leaf buds present
+dormant leaf buds present
+non - dormant leaf buds present
+swelling leaf buds present
+breaking leaf buds present
+vascular leaves present
+true leaves present
+unfolding true leaves present
+unfolded true leaves present
+non - senescing unfolded true leaves present
+senescing true leaves present
+immature unfolded true leaves present
+mature true leaves present
+expanding unfolded true leaves present
+expanded immature true leaves present
+expanding true leaves present
+reproductive structures present
+floral structures present
+non - senesced floral structures present
+unopened floral structures present
+open floral structures present
+pollen - releasing floral structures present
+senesced floral structures present
+flowers present
+non - senesced flowers present
+unopened flowers present
+open flowers present
+pollen - releasing flowers present
+senesced flowers present
+flower heads present
+non - senesced flower heads present
+unopened flower heads present
+open flower heads present
+pollen - releasing flower heads present
+senesced flower heads present
+fruits present
+ripening fruits present
+unripe fruits present
+ripe fruits present
+cones present
+pollen cones present
+fresh pollen cones present
+open pollen cones present
+pollen - releasing pollen cones present
+seed cones present
+fresh seed cones present
+ripening seed cones present
+unripe seed cones present
+ripe seed cones present
+abscised plant structures present
+abscised leaves present
+abscised fruits or seeds present
+abscised cones or seeds present
+new shoot system absent
+new above - ground shoot - borne shoot systems absent
+new shoot systems emerging from ground absent
+new shoot systems emerging from ground in first growth cycle absent
+seedling absent
+new shoot systems emerging from ground in later growth cycle absent
+leaf buds absent
+dormant leaf buds absent
+non - dormant leaf buds absent
+swelling leaf buds absent
+breaking leaf buds absent
+vascular leaves absent
+true leaves absent
+unfolding true leaves absent
+unfolded true leaves absent
+non - senescing unfolded true leaves absent
+senescing true leaves absent
+immature unfolded true leaves absent
+mature true leaves absent
+expanding unfolded true leaves absent
+expanded immature true leaves absent
+expanding true leaves absent
+reproductive structures absent
+floral structures absent
+non - senesced floral structures absent
+unopened floral structures absent
+open floral structures absent
+pollen - releasing floral structures absent
+senesced floral structures absent
+flowers absent
+non - senesced flowers absent
+unopened flowers absent
+open flowers absent
+pollen - releasing flowers absent
+senesced flowers absent
+flower heads absent
+non - senesced flower heads absent
+unopened flower heads absent
+open flower heads absent
+pollen - releasing flower heads absent
+senesced flower heads absent
+fruits absent
+ripening fruits absent
+unripe fruits absent
+ripe fruits absent
+cones absent
+pollen cones absent
+fresh pollen cones absent
+open pollen cones absent
+pollen - releasing pollen cones absent
+seed cones absent
+fresh seed cones absent
+ripening seed cones absent
+unripe seed cones absent
+ripe seed cones absent
+abscised plant structures absent
+abscised leaves absent
+abscised fruits or seeds absent
+abscised cones or seeds absent
+plant growth cycle
+initial growth cycle
+later growth cycle
+phenology observing process
+vascular leaf unfolding stage
+vascular leaf expanding unfolded stage
+fruit unripe stage
+fruit ripe stage
+megasporangiate strobilus unripe stage
+megasporangiate strobilus ripe stage
+processual entity
+death stage
+life cycle stage

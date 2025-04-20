@@ -1,0 +1,384 @@
+continuant
+occurrent
+independent continuant
+obsolete dependent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+continuant fiat boundary
+process profile
+relational quality
+hepatopancreas
+proboscis
+material anatomical entity
+cell
+hepatocyte
+erythrocyte
+macrophage
+biological_process
+cell division
+curation status specification
+data about an ontology part
+obsolescence reason specification
+denotator type
+base ontology module
+editors ontology module
+main release ontology module
+bridge ontology module
+import ontology module
+subset ontology module
+curation subset ontology module
+analysis subset ontology module
+single layer subset ontology module
+exclusion subset ontology module
+external import ontology module
+species subset ontology module
+reasoned ontology module
+generated ontology module
+template generated ontology module
+obo basic subset ontology module
+parasite role
+infectious agent role
+pathogen role
+definitive host role
+intermediate host role
+parasite host role
+infectious agent vector role
+biological vector of infectious agent role
+host role
+organism
+leishmania major metacyclic promastigote
+triatominae hindgut
+homo sapiens liver
+metacyclic promastigote stage
+plasmodium falciparum exflagellated microgametocyte stage
+schistosoma haematobium sporocyst stage
+schistosoma japonicum cercaria stage
+plasmodium falciparum microgametocyte stage
+schistosoma haematobium 3 hour schistosomulum
+schistosoma haematobium miracidium
+schistosoma mansoni 3 day schistosomulum stage
+phlebotominae proboscis
+leishmania major promastigote
+3 hour schistosomulum stage
+miracidium stage
+homo sapiens cerebrospinal fluid
+schistosoma japonicum 3 day schistosomulum
+schistosoma japonicum 3 hour schistosomulum
+bloodstream trypomastigote stage
+schistosoma japonicum miracidium stage
+schistosoma japonicum daughter sporocyst stage
+schistosoma mansoni 24 hour schistosomulum
+microgamete stage
+homo sapiens skin
+macrogametocyte stage
+schistosoma haematobium 24 hour schistosomulum
+schistosoma japonicum daughter sporocyst
+trypanosoma brucei procyclic trypomastigote
+anopheles midgut
+trypomastigote stage
+trypanosoma brucei metacyclic trypomastigote
+plasmodium falciparum erythrocytic schizont stage
+merozoite stage
+schistosoma haematobium worm
+schistosoma mansoni schistosomulum
+schistosoma japonicum 6 day schistosomulum
+homo sapiens hepatocyte
+schistosoma mansoni sporocyst stage
+plasmodium falciparum erythrocytic ring trophozoite stage
+schistosoma japonicum cercaria
+procyclic promastigote stage
+schistosoma mansoni 6 day schistosomulum stage
+schistosoma japonicum 6 day schistosomulum stage
+homo sapiens mesenteric vein
+trypanosoma brucei lifecycle stage
+trypanosoma cruzi epimastigote
+plasmodium falciparum microgametocyte
+schistosoma japonicum 7 week worm
+schistosoma japonicum egg
+schistosoma japonicum 3 week worm
+trypanosoma brucei metacyclic trypomastigote stage
+trophozoite stage
+leishmania major procyclic promastigote stage
+hepatic schizont stage
+plasmodium falciparum schizont
+trypanosoma cruzi amastigote
+schistosoma haematobium 3 day schistosomulum stage
+schistosoma mansoni 24 hour schistosomulum stage
+trypanosoma cruzi amastigote stage
+6 day schistosomulum stage
+schistosoma mansoni 3 hour schistosomulum
+plasmodium falciparum macrogametocyte stage
+schistosoma haematobium miracidium stage
+cercaria stage
+schistosoma japonicum worm stage
+schistosoma japonicum egg stage
+oocyst stage
+schistosoma haematobium 3 hour schistosomulum stage
+plasmodium falciparum macrogamete stage
+procyclic trypomastigote stage
+schistosoma japonicum schistosomulum
+erythrocytic schizont stage
+schistosoma haematobium cercaria
+parasite lifecycle in host liver stage
+trypanosoma brucei procyclic trypomastigote stage
+parasitic worm stage
+bulinus hepatopancreas
+schizont stage
+macrogamete stage
+daughter sporocyst stage
+schistosoma haematobium 7 week worm
+triatominae midgut
+plasmodium falciparum ookinete
+schistosoma mansoni 3 week worm
+schistosoma haematobium worm stage
+trypanosoma brucei epimastigote
+plasmodium falciparum hepatic schizont stage
+schistosoma japonicum sporocyst
+schistomulum stage
+homo sapiens erythrocyte
+homo sapiens vesical venus plexus
+sporocyst stage
+schistosoma haematobium 3 week worm
+schistosoma mansoni schistosomulum stage
+schistosoma haematobium cercaria stage
+leishmania major metacyclic promastigote stage
+plasmodium falciparum merozoite stage
+biomphalaria hepatopancreas
+schistosoma mansoni egg
+schistosoma japonicum 3 week worm stage
+schistosoma mansoni 3 week worm stage
+epimastigote stage
+schistosoma haematobium daughter sporocyst
+plasmodium falciparum erythrocytic schizont
+schistosoma haematobium 7 week worm stage
+schistosoma mansoni miracidium stage
+plasmodium falciparum oocyst stage
+amastigote stage
+plasmodium falciparum sporozoite stage
+trypanosoma cruzi metacyclic trypomastigote
+homo sapiens blood
+schistosoma japonicum schistosomulum stage
+exflagellated microgametocyte stage
+schistosoma mansoni 3 hour schistosomulum stage
+anopheles salivary gland
+homo sapiens macrophage
+schistosoma mansoni 3 day schistosomulum
+schistosoma haematobium 6 day schistosomulum stage
+schistosoma haematobium egg stage
+schistosoma japonicum worm
+adult female parasitic worm stage
+schistosoma mansoni worm
+schistosoma haematobium 24 hour schistosomulum stage
+plasmodium falciparum merozoite
+trypanosoma cruzi metacyclic trypomastigote stage
+schistosoma japonicum 24 hour schistosomulum
+homo sapiens lung
+oncomelania hepatopancreas
+schistosoma mansoni egg stage
+schistosoma mansoni 7 week worm
+plasmodium falciparum sporozoite
+plasmodium falciparum oocyst
+schistosoma japonicum 7 week worm stage
+erythrocytic ring trophozoite stage
+homo sapiens intestine
+schistosoma mansoni mother sporocyst stage
+microgametocyte stage
+schistosoma haematobium mother sporocyst
+schistosoma japonicum mother sporocyst
+plasmodium falciparum trophozoite
+schistosoma mansoni sporocyst
+7 week parasitic worm stage
+metacyclic trypomastigote stage
+gametocyte stage
+promastigote stage
+sporozoite stage
+ookinete stage
+glossina salivary gland
+obsolete_plasmodium falciparum
+schistosoma japonicum lifecycle stage
+leishmania major amastigote stage
+plasmodium falciparum schizont stage
+schistosoma japonicum 3 day schistosomulum stage
+leishmania major procyclic promastigote
+plasmodium falciparum zygote
+plasmodium falciparum exflagellated microgametocyte
+schistosoma haematobium daughter sporocyst stage
+trypanosoma cruzi trypomastigote
+plasmodium falciparum lifecycle stage
+schistosoma haematobium sporocyst
+plasmodium falciparum macrogamete
+schistosoma mansoni cercaria
+trypanosoma cruzi trypomastigote stage
+plasmodium falciparum microgamete stage
+human parasite role
+24 hour schistosomulum stage
+hypnozoite stage
+plasmodium falciparum microgamete
+trypanosoma brucei trypomastigote stage
+homo sapiens ureter
+schistosoma haematobium lifecycle stage
+schistosoma haematobium schistosomulum
+schistosoma japonicum miracidium
+egg stage
+parasite lifecycle stage
+trypanosoma brucei trypomastigote
+3 week parasitic worm stage
+schistosoma japonicum mother sporocyst stage
+trypanosoma cruzi lifecycle stage
+schistosoma japonicum sporocyst stage
+plasmodium falciparum ookinete stage
+obsolete_trypanosoma brucei bloodstream trypomastigote stage
+leishmania major promastigote stage
+plasmodium falciparum hepatic schizont
+schistosoma mansoni daughter sporocyst
+plasmodium falciparum gametocyte stage
+schistosoma japonicum 3 hour schistosomulum stage
+phlebotominae midgut
+schistosoma japonicum 24 hour schistosomulum stage
+schistosoma mansoni mother sporocyst
+schistosoma haematobium schistosomulum stage
+schistosoma haematobium adult male worm
+plasmodium falciparum zygote stage
+schistosoma haematobium egg
+schistosoma haematobium 6 day schistosomulum
+schistosoma haematobium 3 week worm stage
+schistosoma mansoni lifecycle stage
+leishmania major amastigote
+schistosoma haematobium 3 day schistosomulum
+plasmodium falciparum macrogametocyte
+plasmodium falciparum erythrocytic trophozoite stage
+schistosoma mansoni miracidium
+leishmania major lifecycle stage
+schistosoma mansoni cercaria stage
+schistosoma mansoni worm stage
+schistosoma haematobium mother sporocyst stage
+vesical venus plexus
+mother sporocyst stage
+glossina midgut
+trypanosoma brucei epimastigote stage
+schistosoma mansoni 7 week worm stage
+schistosoma mansoni 6 day schistosomulum
+homo sapiens urinary bladder
+schistosoma mansoni daughter sporocyst stage
+3 day schistosomulum stage
+plasmodium falciparum erythrocytic ring trophozoite
+trypanosoma cruzi epimastigote stage
+schistosoma japonicum adult female worm stage
+schistosoma japonicum adult male worm stage
+schistosoma japonicum adult worm
+schistosoma mansoni adult worm
+schistosoma haematobium adult male worm stage
+schistosoma japonicum adult male worm
+schistosoma mansoni adult male worm stage
+schistosoma mansoni adult female worm
+parasite organism
+schistosoma haematobium adult worm
+schistosoma haematobium adult female worm stage
+schistosoma haematobium adult female worm
+schistosoma mansoni adult female worm stage
+adult parasitic worm stage
+schistosoma japonicum adult female worm
+adult male parasitic worm stage
+schistosoma mansoni adult male worm
+plasmodium falciparum hepatic merozoite
+plasmodium falciparum erythrocytic merozoite
+erythrocytic trophozoite stage
+plasmodium falciparum erythrocytic trophozoite
+plasmodium falciparum erythrocytic merozoite stage
+plasmodium falciparum hepatic merozoite stage
+hepatic merozoite stage
+erythrocytic merozoite stage
+plasmodium falciparum gametocyte
+plasmodium falciparum hepatic trophozoite stage
+plasmodium falciparum trophozoite stage
+plasmodium falciparum oocyst - derived sporozoite stage
+salivary gland - derived sporozoite stage
+plasmodium falciparum salivary gland - derived sporozoite stage
+plasmodium falciparum salivary gland - derived sporozoite
+oocyst - derived sporozoite stage
+plasmodium falciparum hepatic trophozoite
+plasmodium falciparum gamete
+plasmodium falciparum oocyst - derived sporozoite
+gamete stage
+hepatic trophozoite stage
+plasmodium falciparum gamete stage
+asexual lifecycle in host red blood cell stage
+plasmodium gamete
+plasmodium macrogamete
+plasmodium microgamete
+plasmodium gametocyte
+plasmodium macrogametocyte
+plasmodium microgametocyte
+plasmodium merozoite
+plasmodium erythrocytic merozoite
+plasmodium hepatic merozoite
+plasmodium oocyst
+plasmodium ookinete
+plasmodium schizont
+plasmodium erythrocytic schizont
+plasmodium hepatic schizont
+plasmodium sporozoite
+plasmodium oocyst - derived sporozoite
+plasmodium salivary gland - derived sporozoite
+plasmodium trophozoite
+plasmodium erythrocytic trophozoite
+plasmodium erythrocytic ring trophozoite
+plasmodium hepatic trophozoite
+plasmodium zygote
+plasmodium gamete stage
+plasmodium macrogamete stage
+plasmodium microgamete stage
+plasmodium gametocyte stage
+plasmodium macrogametocyte stage
+plasmodium microgametocyte stage
+plasmodium merozoite stage
+plasmodium erythrocytic merozoite stage
+plasmodium hepatic merozoite stage
+plasmodium oocyst stage
+plasmodium ookinete stage
+plasmodium schizont stage
+plasmodium erythrocytic schizont stage
+plasmodium hepatic schizont stage
+plasmodium sporozoite stage
+plasmodium oocyst - derived sporozoite stage
+plasmodium salivary gland - derived sporozoite stage
+plasmodium trophozoite stage
+plasmodium erythrocytic trophozoite stage
+plasmodium erythrocytic ring trophozoite stage
+plasmodium hepatic trophozoite stage
+plasmodium zygote stage
+schistosoma haematobium adult worm stage
+schistosoma japonicum adult worm stage
+vertebrate blood
+vertebrate erythrocyte
+vertebrate hepatocyte
+mammalia cerebrospinal fluid
+mammalia skin
+mammalia liver
+mammalia lung
+mammalia mesenteric vein
+mammalia intestine
+schistosoma mansoni adult worm stage
+mammalia blood
+mammalia macrophage
+trypanosomatida metacyclic stage
+trypanosomatida procyclic stage
+ureter
+life cycle stage
+zygote stage
+intestine
+blood
+saliva - secreting gland
+midgut
+hindgut
+urinary bladder
+cerebrospinal fluid
+lung
+skin of body
+liver
+mesenteric vein

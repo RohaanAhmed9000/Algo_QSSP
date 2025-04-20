@@ -1,0 +1,2400 @@
+pathway
+classic metabolic pathway
+signaling pathway
+regulatory pathway
+carbohydrate metabolic pathway
+ras superfamily mediated signaling pathway
+mitogen activated protein kinase signaling pathway
+wnt signaling pathway
+apoptotic cell death pathway
+lipid metabolic pathway
+amino acid metabolic pathway
+nucleotide metabolic pathway
+disease pathway
+neurodegenerative pathway
+alzheimer's disease pathway
+amyotrophic lateral sclerosis pathway
+huntington's disease pathway
+parkinson's disease pathway
+prion disease pathway
+cardiovascular system disease pathway
+hypertension pathway
+cardiomyopathy pathway
+immune response pathway
+inflammatory response pathway
+glycolysis / gluconeogenesis pathway
+citric acid cycle pathway
+glutamic acid / glutamate metabolic pathway
+alanine ,  aspartate and glutamate metabolic pathway
+fatty acid biosynthetic pathway
+purine metabolic pathway
+pyrimidine metabolic pathway
+energy metabolic pathway
+electron transport chain pathway
+atp biosynthetic pathway
+nitrogen metabolic pathway
+sulfur metabolic pathway
+sterol ,  vitamin k ,  vitamine e and cartenoids  biosynthesis
+bile acid biosynthetic pathway
+steroid hormone biosynthetic pathway
+fructose and mannose metabolic pathway
+galactose metabolic pathway
+pyruvate metabolic pathway
+duplicated glutamate metabolism term
+pentose phosphate pathway
+inositol metabolic pathway
+glycine ,  serine and threonine metabolic pathway
+methionine cycle / metabolic pathway
+cysteine metabolic pathway
+arginine and proline metabolic pathway
+histidine metabolic pathway
+tyrosine metabolic pathway
+phenylalanine metabolic pathway
+tryptophan metabolic pathway
+nucleotide sugar metabolic pathway
+photosynthesis pathway
+carbon fixation pathway
+fatty acid metabolic pathway
+signaling pathway pertinent to the brain and nervous system
+long term potentiation
+long term depression
+ascorbate and aldarate metabolic pathway
+glyoxylate and dicarboxylate metabolic pathway
+propanoate metabolic pathway
+butanoate metabolic pathway
+reductive carboxylate cycle  -  co2 fixation pathway
+methane metabolic pathway
+ketone bodies metabolic pathway
+c21 - steroid hormone biosynthetic pathway
+valine ,  leucine and isoleucine degradation pathway
+valine ,  leucine and isoleucine biosynthetic pathway
+lysine degradation pathway
+lysine biosynthetic pathway
+phenylalanine ,  tyrosine and tryptophan biosynthetic pathway
+urea cycle pathway
+beta - alanine metabolic pathway
+cyanoamino acid metabolic pathway
+duplicated selenoamino acid metabolism term
+duplicated term  -  selenoamino acid metabolism
+d - glutamine and d - glutamate metabolic pathway
+d - arginine and d - ornithine metabolic pathway
+d - alanine metabolic pathway
+duplicated glutathione metabolism term
+pathway pertinent to dna replication and repair ,  cell cycle ,  maintenance of genomic integrity ,  rna and protein biosynthesis
+cell cycle pathway ,  mitotic
+g1 phase pathway
+g1 / s transition pathway
+s phase pathway
+g2 phase pathway
+g2 / m transition pathway
+m phase pathway
+m / g1 transition pathway
+cell cycle checkpoint pathway
+g1 / s dna damage checkpoint pathway
+g2 / m checkpoint pathway
+mitotic spindle checkpoint pathway
+dna repair pathway
+transcription pathway
+translation pathway
+the extracellular signal - regulated raf / mek / erk signaling pathway
+transport pathway
+intrinsic apoptotic pathway
+rho / rac / cdc42 mediated signaling pathway
+extrinsic apoptotic pathway
+xenobiotics biodegradation pathway
+caprolactam degradation pathway
+bisphenol a degradation pathway
+toluene and xylene degradation pathway
+gamma - hexachlorocyclohexane degradation pathway
+3 - chloroacrylic acid degradation pathway
+atrazine degradation pathway
+benzoate degradation pathway via hydroxylation
+benzoate degradation pathway via coa ligation
+carbazole degradation pathway
+fluorene degradation pathway
+ethylbenzene degradation pathway
+nitrobenzene degradation pathway
+styrene degradation pathway
+tetrachloroethene degradation pathway
+hedgehog signaling pathway
+synaptic vesicle endocytosis and recycling pathway
+cellular detoxification pathway
+g protein mediated signaling pathway
+rna polymerase i transcription pathway
+rna polymerase ii transcription pathway
+rna polymerase iii transcription pathway
+base excision repair pathway
+nucleotide excision repair pathway
+metabolic pathway of other amino acids
+selenoamino acid metabolic pathway
+glutathione metabolic pathway
+metabolic pathway of cofactors ,  vitamins ,  nutrients
+thiamine metabolic pathway
+riboflavin metabolic pathway
+vitamin b6 metabolic pathway
+biotin metabolic pathway
+folate metabolic pathway
+retinol metabolic pathway
+ubiquinone biosynthetic pathway
+insulin signaling pathway
+ubiquitin / proteasome degradation pathway
+metabolism of complex carbohydrates
+glycan metabolic pathway
+metabolic pathway of secondary metabolites
+starch and sucrose metabolic pathway
+amino sugar metabolic pathway
+triacylglycerol metabolic pathway
+inositol phosphate metabolic pathway
+phospholipid metabolic pathway
+prostaglandin metabolic pathway
+glycosaminoglycan metabolic pathway
+ras family mediated signaling pathway
+rab family mediated signaling pathway
+ran family mediated signaling pathway
+glycosylphosphatidylinositol anchor biosynthetic pathway
+ganglioside metabolic pathway
+taurine and hypotaurine metabolic pathway
+monoterpenoid biosynthetic pathway
+pantothenic acid metabolic pathway
+growth factor signaling pathway
+nerve growth factor signaling pathway
+epidermal growth factor / neuregulin signaling pathway
+polyglutamine repeat pathway
+kennedy's disease pathway
+spinocerebellar ataxia pathway
+metabolic syndrome x pathway
+familial combined hyperlipidemia pathway
+diabetes mellitus pathway
+diabetic nephropathy pathway
+neurological disorder pathway
+tuberous sclerosis complex disease pathway
+mtor signaling pathway
+pathway pertinent to protein folding ,  sorting ,  modification ,  translocation and degradation
+lysosomes based pathway of protein degradation
+the proteolytic pathway involving calcium - dependent proteases
+terpenoid biosynthetic pathway
+limonene and pinene degradation pathway
+streptomycin biosynthetic pathway
+erythromycin biosynthetic pathway
+pentose and glucuronate interconversion pathway
+folate mediated one - carbon metabolic pathway
+porphyrin and chlorophyll metabolic pathway
+keratan sulfate biosynthetic pathway
+n - linked glycan biosynthetic pathway
+n - glycan degradation pathway
+o - linked glycan biosynthetic pathway
+chondroitin sulfate biosynthetic pathway
+globoside metabolic pathway
+sphingolipid metabolic pathway
+p38 mapk signaling pathway
+the wnt / calcium signaling pathway
+wnt signaling ,  the planar cell polarity pathway
+wnt signaling ,  canonical pathway
+homologous recombination pathway of double - strand break repair
+non - homologous end joining pathway of double - strand break repair
+notch signaling pathway
+dentatorubral - pallidoluysian atrophy pathway
+transforming growth factor - beta signaling pathway
+type 2 diabetes mellitus pathway
+jak - stat signaling pathway
+smad dependent signaling pathways
+biogenic amines and polyamines metabolic pathway
+choline metabolic pathway
+rna polymerase iv transcription pathway
+polyamine metabolic pathway
+rna polymerase v transcription pathway
+spermine metabolic pathway
+tetrahydrobiopterin metabolic pathway
+heme biosynthetic pathway
+nicotinamide adenine dinucleotide biosynthetic pathway
+heme metabolic pathway
+n - acetylglucosamine ,  n - acetylmannosamine and n - acetylneuraminic acid dissimilation pathway
+citrulline degradation pathway
+putrescine metabolic pathway
+g protein mediated signaling pathway via galphas family
+g protein mediated signaling pathway via galphai family
+g protein mediated signaling pathway via galphaq family
+g protein mediated signaling pathway via galpha12 / galpha13 family
+rap1 pathways
+phosphatidylinositol 3 - kinase - akt signaling pathway
+tumor necrosis factor mediated signaling pathway
+innate immune response pathway
+adaptive immune response pathway
+tumor necrosis factor superfamily mediated signaling pathway
+stress response pathway
+insulin - like growth factor signaling pathway
+type 1 diabetes mellitus pathway
+neuropsychiatric disease pathway
+schizophrenia pathway
+bipolar disorder pathway
+vascular endothelial growth factor signaling pathway
+angiotensin ii signaling pathway
+angiotensin signaling pathway
+rheb mediated signaling pathway
+transforming growth factor - beta smad independent signaling pathway
+isoprenoid metabolic pathway
+lipopolysaccharide biosynthetic pathway
+peptidoglycan biosynthetic pathway
+diterpenoid biosynthetic pathway
+indole and ipecac alkaloid biosynthetic pathway
+penicillins and cephalosporins biosynthetic pathway
+beta - lactam resistance pathway
+polyketides biosynthetic pathway
+tetracycline biosynthetic pathway
+clavulanic acid biosynthetic pathway
+puromycin biosynthetic pathway
+neuronal secretory pathway
+altered metabolic pathway
+altered regulatory pathway
+altered signaling pathway
+creutzfeldt - jakob disease pathway
+gerstmann - strussler syndrome ,  gerstmann - strussler - scheinker syndrome pathway
+fatal familial insomnia pathway
+kuru
+protein folding pathway
+presynaptic differentiation pathway
+postsynaptic differentiation pathway
+neuron - to - neuron signaling pathway via the electrical synapse
+neuron - to - neuron signaling pathway via the chemical synapse
+cell death pathway
+non - apoptotic cell death pathway
+cellular senescence pathway
+autophagy pathway
+necrosis pathway
+protein secretory pathway
+endocytosis pathway
+benzoate degradation pathway
+altered glycan metabolic pathway
+altered glycosaminoglycan pathway
+altered heparan sulfate pathway
+integrin mediated signaling pathway
+altered apoptotic cell death pathway
+altered intrinsic apoptotic pathway
+altered cell death pathway
+altered pathway pertinent to dna replication and repair ,  cell cycle ,  maintenance of genomic integrity ,  rna and protein biosynthesis
+altered dna repair pathway
+altered pathway pertinent to protein folding ,  sorting ,  modification ,  translocation and degradation
+altered ubiquitin / proteasome degradation pathway
+altered integrin mediated signaling pathway
+hypertrophic cardiomyopathy pathway
+platelet - derived growth factor signaling pathway
+altered growth factor signaling pathway
+myocardial infarction pathway
+kidney disease pathway
+kidney failure pathway
+glomerulonephritis pathway
+p53 - dependent g1 / s dna damage checkpoint pathway
+p53 - independent g1 / s dna damage checkpoint pathway
+altered carbohydrate metabolic pathway
+altered galactose metabolic pathway
+coagulative necrosis pathway
+liquefactive necrosis pathway
+caseous necrosis pathway
+fatty necrosis pathway
+fibrinoid necrosis pathway
+stress - regulated mapk signaling pathway
+c - jun n - terminal kinases mapk signaling pathway
+calcium / calmodulin dependent signaling pathway
+calcineurin signaling pathway
+calcium / calmodulin dependent kinase signaling pathway
+nuclear factor of activated t - cells signaling pathway
+altered calcium / calmodulin dependent signaling pathway
+altered calcineurin signaling pathway
+novobiocin biosynthetic pathway
+altered hedgehog signaling pathway
+ephrin  -  ephrin receptor bidirectional signaling axis
+altered ephrin  -  ephrin receptor bidirectional signaling pathway
+altered notch signaling pathway
+protein degradation pathway
+protein disulphide bond formation pathway
+fibroblast growth factor signaling pathway
+transforming growth factor - beta superfamily mediated signaling pathway
+bone morphogenetic proteins signaling pathway
+activin signaling pathway
+cell - cell signaling pathway
+cadherin mediated signaling pathway
+altered transforming growth factor - beta superfamily mediated signaling pathway
+altered cell - cell signaling pathway
+selectin signaling pathway
+altered notch signaling pathway involving the main players
+altered notch signaling pathway involving the macromolecules modifying the main players
+altered notch signaling pathway involving target gene ( s )
+altered notch signaling pathway involving promoters
+cadasil pathway
+alagille syndrome pathway
+altered vascular endothelial growth factor signaling pathway
+altered vascular endothelial growth factor signaling pathway involving the main players
+altered vascular endothelial growth factor signaling pathway involving the macromolecules modifying the main players
+altered vascular endothelial growth factor signaling pathway involving proteins affecting its expression
+glycerophospholipid metabolic pathway
+homeostasis pathway
+oxygen homeostasis pathway
+energy homeostasis pathway
+altered homeostasis pathway
+altered energy homeostasis pathway
+hypoxia inducible factor pathway
+the ion channels pathway
+leptin system pathway
+melanocortin system pathway
+altered melanocortin system pathway
+altered jak - stat signaling pathway
+non - stat ,  jak dependent pathway
+nuclear factor ,  erythroid 2 like 2 signaling pathway
+aryl hydrocarbon receptor signaling pathway
+calcium homeostasis pathway
+altered calcium homeostasis pathway
+glutathione conjugation pathway
+alternate pathways of glutathione conjugates processing
+phase i biotransformation pathway via cytochrome p450
+cytochrome p450 - independent phase i biotransformation pathway
+glutathione conjugates processing  -  the mercapturic acid pathway
+oxidative stress response pathway
+endoplasmic reticulum stress   -  the unfolded protein response pathway
+transport pathway for the elimination of drugs ,  endogenous or exogenous compounds and metabolites
+g2 / m dna damage checkpoint pathway
+g2 / m dna replication checkpoint pathway
+rap1 mediated signaling pathway
+arf family mediated signaling pathway
+reelin signaling pathway
+altered ras mediated signaling pathway
+dopamine signaling pathway
+spermidine metabolic pathway
+cobalamin metabolic pathway
+homocysteine metabolic pathway
+remethylation pathway of homocysteine metabolism  -  cobalamin dependent
+transsulfuration pathway of homocysteine metabolism
+remethylation pathway of homocysteine metabolism  -  cobalamin independent ,  betaine dependent
+altered metabolic pathway of other amino acids
+altered amino acid metabolic pathway
+creatine metabolic pathway
+synaptic vesicle exocytosis  -  neurotransmitter release pathway
+acetylcholine metabolic pathway
+dopamine metabolic pathway
+serotonin metabolic pathway
+histamine metabolic pathway
+gamma - aminobutyric acid metabolic pathway
+heme degradation pathway
+protein degradation pathway via the 'core' 20s proteasome pathway
+proteasome degradation pathway involving cullin - dependent ubiquitin ligases
+sumoylation pathway
+ubiquitin ,  ubiquitin - like / proteasome degradation pathway
+water transport pathway
+altered mitogen activated protein kinase pathway
+altered surfactant homeostasis pathway
+diabetic retinopathy pathway
+protein sorting pathway
+molybdenum cofactor biosynthetic pathway
+protein modification pathway
+protein modification pathway via conjugation with ubiquitin and ubiqutin - like molecules
+ubiquitination pathway
+neddylation pathway
+amine neurotransmitter metabolic pathway
+alanine metabolic pathway
+aspartic acid / aspartate metabolic pathway
+glycine metabolic pathway
+epinephrine metabolic pathway
+norepinephrine metabolic pathway
+catecholamine metabolic pathway
+indoleamine and related compounds metabolic pathway
+neuropeptide y metabolic pathway
+enkephalin metabolic pathway
+neurotensin metabolic pathway
+beta - endorphin metabolic pathway
+substance p metabolic pathway
+isoprenoid biosynthetic pathway
+cholesterol biosynthetic pathway
+excitatory synaptic transmission pathway
+inhibitory synaptic transmission pathway
+angiotensin iii signaling pathway
+angiotensin iv signaling pathway
+apelin signaling pathway
+arachidonic acid metabolic pathway
+cyclooxygenase mediated pathway of arachidonic acid metabolism
+lipoxygenase mediated pathway of arachidonic acid metabolism
+cytochrome p450 monooxygenase mediated pathway of arachidonic acid metabolism
+leukotriene metabolic pathway
+hormone signaling pathway
+steroid hormone signaling pathway
+lipid hormone signaling pathway
+natriuretic peptide signaling pathway
+atrial natriuretic peptide signaling pathway
+brain natriuretic peptide signaling pathway
+c - type natriuretic peptide signaling pathway
+coagulation cascade pathway
+hemostasis pathway
+natural anticoagulant pathway
+tissue factor pathway inhibitor
+heparin - antithrombin pathway
+protein c anticoagulant pathway
+fibrinolysis pathway
+lipoprotein metabolic pathway
+altered lipid metabolic pathway
+altered lipoprotein metabolic pathway
+eicosanoid metabolic pathway
+class i major histocompatibility complex pathway
+class ii major histocompatibility complex pathway
+antigen processing pathway
+angiopoietin signaling pathway
+transforming growth factor - beta smad dependent signaling pathway
+vasopressin signaling pathway
+renin - angiotensin cascade pathway
+corticotropin - releasing hormone signaling pathway
+oxytocin signaling pathway
+gas6  -  axl signaling axis
+reverse cholesterol transport pathway
+nuclear factor kappa b signaling pathway
+thyroid hormone signaling pathway
+complement system pathway
+classical complement pathway
+lectin complement pathway
+alternative complement pathway
+endothelin signaling pathway
+estrogen signaling pathway
+platelet aggregation pathway
+altered hormone signaling pathway
+interleukin - 10 family mediated signaling pathway
+interleukin - 6 family mediated signaling pathway
+interleukin - 10 signaling pathway
+interleukin - 6 signaling pathway
+arterial occlusive disease pathway
+atherosclerosis pathway
+1 , 1 , 1 - trichloro - 2 , 2 - bis ( 4 - chlorophenyl ) ethane degradation pathway
+2 , 4 - dichlorobenzoate degradation pathway
+1 , 2 - dichloroethane degradation pathway
+flavonoid biosynthetic pathway
+linoleic acid metabolic pathway
+heparan sulfate biosynthetic pathway
+kallikrein - kinin cascade pathway
+angiotensin ii signaling pathway via at1 receptor
+angiotensin ii signaling pathway via at2 receptor
+angiotensin  ( 1 - 7 )  signaling pathway
+angiotensin iii signaling pathway via at1 receptor
+angiotensin iii signaling pathway via at2 receptor
+glycogen biosynthetic pathway
+glycogen metabolic pathway
+glycogen degradation pathway
+protein transport pathway
+constitutive protein secretory pathway
+regulated protein secretory pathway
+nuclear protein transport pathway
+ghrelin system pathway
+obesity pathway
+adenosine monophosphate - activated protein kinase  ( ampk )  signaling pathway
+protein kinase a  ( pka )  signaling pathway
+altered reverse cholesterol transport pathway
+mrna decay pathway
+exosome mediated rna decay pathway
+nonsense - mediated mrna decay pathway
+nonstop mrna decay pathway
+staufen - mediated mrna decay pathway
+altered mrna decay pathway
+brassinosteroid biosynthetic pathway
+glucose homeostasis pathway
+glucose transport pathway
+glucose utilization pathway
+glucose oxidation pathway
+glucose storage pathway
+hexosamine biosynthetic pathway
+facilitative sugar transporter mediated glucose transport pathway
+sodium - glucose cotransporter mediated glucose transport pathway
+growth hormone signaling pathway
+adiponectin signaling pathway
+androgen signaling pathway
+eicosanoid signaling pathway
+corticosteroid signaling pathway
+sex steroids signaling pathway
+aldosterone signaling pathway
+cortisol signaling pathway
+hexosamine metabolic pathway
+neurotrophic factor signaling pathway
+brain - derived neurotrophic factor signaling pathway
+pentose phosphate pathway  -  oxidative phase
+pentose phosphate pathway  -  non - oxidative phase
+sugar transport pathway
+facilitative sugar transporter mediated sugar transport pathway
+cytokine and chemokine mediated signaling pathway
+scatter factor / hepatocyte growth factor signaling pathway
+somatostatin signaling pathway
+translation initiation pathway
+translation elongation pathway
+translation termination pathway
+orexin / hypocretin signaling pathway
+altered orexin / hypocretin signaling pathway
+orexin / hypocretin signaling pathway via orexin / hypocretin receptor 1
+orexin / hypocretin signaling pathway via orexin / hypocretin receptor 2
+narcolepsy pathway
+altered adiponectin signaling pathway
+metal homeostasis pathway
+iron homeostasis pathway
+iron transport pathway
+iron storage pathway
+metal ion transport pathway
+altered glucose homeostasis pathway
+phosphatidylinositol 3 - kinase signaling pathway
+altered insulin signaling pathway
+wnt signaling ,  non - canonical pathway
+altered wnt signaling pathway
+altered wnt signaling ,  canonical pathway
+altered wnt signaling ,  non - canonical pathway
+altered extracellular signal - regulated raf / mek / erk signaling pathway
+erk5 mapk signaling pathway
+cancer pathway
+urogenital cancer pathway
+ovarian cancer pathway
+cervical cancer pathway
+prostate cancer pathway
+urinary bladder cancer pathway
+endometrial cancer pathway
+colorectal cancer pathway
+altered transforming growth factor - beta signaling pathway
+altered transforming growth factor - beta smad dependent signaling pathway
+altered bone morphogenetic protein signaling pathway
+altered tumor necrosis factor superfamily mediated signaling pathway
+altered cytokine mediated signaling pathway
+altered tumor necrosis factor mediated signaling pathway
+altered nuclear factor kappa b signaling pathway
+altered signaling pathway involving second messengers
+altered phosphatidylinositol 3 - kinase - akt signaling pathway
+altered scatter factor / hepatocyte growth factor signaling pathway
+breast cancer pathway
+digestive system cancer pathway
+pancreatic cancer pathway
+gastrointestinal cancer pathway
+gastric cancer pathway
+head and neck cancer pathway
+skin cancer pathway
+altered wnt signaling ,  the planar cell polarity pathway
+protein exocytosis pathway
+protein modification pathway in the secretory pathway
+endoplasmic reticulum - associated degradation pathway
+insulin responsive facilitative sugar transporter mediated glucose transport pathway
+glycolysis pathway
+gluconeogenesis pathway
+fatty acid degradation pathway
+altered glycogen metabolic pathway
+altered glycogen biosynthetic pathway
+altered glycogen degradation pathway
+cell - extracellular matrix signaling pathway
+forkhead signaling pathway
+cell adhesion signaling pathway
+signaling pathway pertinent to development
+aging pathway
+phosphatase mediated signaling pathway
+serine / threonine - specific phosphatase mediated signaling pathway
+tyrosine - specific phosphatase mediated signaling pathway
+glycoconjugated protein signaling pathway
+glycoprotein signaling pathway
+proteoglycan signaling pathway
+glypican signaling pathway
+syndecan signaling pathway
+hematopoiesis pathway
+single - strand dna repair pathway
+mismatch repair pathway
+double - strand dna repair pathway
+altered single - strand dna repair pathway
+altered double - strand dna repair pathway
+altered mismatch repair pathway
+altered glycoprotein signaling pathway
+altered glycoconjugated protein signaling pathway
+insulin secretion pathway
+glucagon secretion pathway
+glucagon signaling pathway
+altered insulin secretion pathway
+altered glucagon secretion pathway
+altered glucagon signaling pathway
+fasl mediated signaling pathway
+trail mediated signaling pathway
+integrin mediated cell - cell signaling pathway
+integrin mediated cell - extracellular matrix signaling pathway
+glucose biosynthesis pathway
+altered vasopressin signaling pathway
+altered sugar transport pathway
+altered facilitative sugar transporter mediated sugar transport pathway
+altered glucose transport pathway
+altered facilitative sugar transporter mediated glucose transport pathway
+altered sodium - glucose cotransporter mediated glucose transport pathway
+altered insulin responsive facilitative sugar transporter mediated glucose transport pathway
+biphenyl degradation pathway
+geraniol degradation pathway
+zeatin biosynthetic pathway
+carotenoid biosynthetic pathway
+thyroid cancer pathway
+parathyroid cancer pathway
+endocrine gland cancer pathway
+thoracic cancer pathway
+lung cancer pathway
+small cell lung carcinoma pathway
+non - small cell lung carcinoma pathway
+leukemia pathway
+myeloid leukemia pathway
+lymphoid leukemia pathway
+acute myeloid leukemia pathway
+chronic myeloid leukemia pathway
+glioma pathway
+vasopressin signaling pathway via receptor type 1
+vasopressin signaling pathway via receptor type 2
+altered vasopressin signaling pathway via receptor type 1
+altered vasopressin signaling pathway via receptor type 2
+transcription factor mediated signaling pathway
+forkhead class o signaling pathway
+p53 signaling pathway
+altered transcription factor mediated signaling pathway
+altered p53 signaling pathway
+nicotine drug pathway
+warfarin drug pathway
+anti - diabetic drug pathway
+statin drug pathway
+potassium channel inhibitors pharmacodynamics pathway
+repaglinide pharmacokinetics pathway
+nateglinide pharmacokinetics pathway
+statin pharmacodynamics pathway
+statin pharmacokinetics pathway
+warfarin pharmacokinetics pathway
+warfarin pharmacodynamics pathway
+thromboxane metabolic pathway
+glycosphingolipid metabolic pathway
+cerebroside metabolic pathway
+altered sphingolipid metabolic pathway
+triacylglycerol biosynthetic pathway
+triacylglycerol degradation pathway
+fatty acid beta degradation pathway
+fatty acid alpha degradation pathway
+unsaturated fatty acid degradation pathway
+altered ganglioside metabolic pathway
+altered glycosphingolipid metabolic pathway
+galactocerebroside metabolic pathway
+glucocerebroside metabolic pathway
+sphingomyelin metabolic pathway
+altered sphingomyelin metabolic pathway
+altered galactocerebroside metabolic pathway
+altered cerebroside metabolic pathway
+altered glucocerebroside metabolic pathway
+altered isoprenoid metabolic pathway
+altered isoprenoid biosynthetic pathway
+altered cholesterol biosynthetic pathway
+sterol regulatory element - binding protein signaling pathway
+drug pathway
+benzodiazepine drug pathway
+benzodiazepine pharmacokinetics pathway
+benzodiazepine pharmacodynamics pathway
+gemcitabine pathway
+gemcitabine pharmacokinetics pathway
+gemcitabine pharmacodynamics pathway
+celecoxib drug pathway
+celecoxib pharmacokinetics pathway
+celecoxib pharmacodynamics pathway
+ifosfamide drug pathway
+ifosfamide pharmacokinetics pathway
+ifosfamide pharmacodynamics pathway
+omeprazole drug pathway
+omeprazole pharmacokinetics pathway
+omeprazole pharmacodynamics pathway
+c19 - steroid hormone biosynthetic pathway
+mineralocorticoid biosynthetic pathway
+glucocorticoid biosynthetic pathway
+aldosterone biosynthetic pathway
+cortisol biosynthetic pathway
+altered epidermal growth factor / neuregulin signaling pathway
+ketone bodies biosynthetic pathway
+ketone bodies degradation pathway
+testosterone biosynthetic pathway
+dehydroepiandrosterone biosynthetic pathway
+c18 - steroid hormone biosynthetic pathway
+estradiol biosynthetic pathway
+glucocorticoid signaling pathway
+mineralocorticoid signaling pathway
+altered androgen signaling pathway
+glucose - dependent insulinotropic peptide signaling pathway
+glucagon - like peptide - 1 signaling pathway
+epinephrine signaling pathway
+norepinephrine signaling pathway
+epinephrine signaling pathway via adrenergic receptor alpha 1
+epinephrine signaling pathway via adrenergic receptor alpha 2
+epinephrine signaling pathway via adrenergic receptor beta
+norepinephrine signaling pathway via adrenergic receptor alpha 1
+norepinephrine signaling pathway via adrenergic receptor alpha 2
+norepinephrine signaling pathway via adrenergic receptor beta
+catecholamine signaling pathway
+adrenergic beta receptor drug pathway  -  beta - agonist and beta - blocker
+adrenergic beta receptor agonist and beta - blocker pharmacokinetics pathway
+adrenergic beta receptor agonist and beta - blocker pharmacodynamics pathway
+dopamine biosynthetic pathway
+epinephrine biosynthetic pathway
+norepinephrine biosynthetic pathway
+altered trail mediated signaling pathway
+altered fasl mediated signaling pathway
+altered transcription pathway
+microrna pathway
+small non - coding rna pathway
+piwi - interacting rna pathway
+altered small non - coding rna pathway
+altered microrna pathway
+toll - like receptor signaling pathway
+c - type lectin receptor signaling pathway
+retinoic acid - inducible gene  ( rig )  i - like receptor signaling pathway
+nod - like receptor signaling pathway
+signaling pathway pertinent to immunity
+t cell receptor signaling pathway
+b cell receptor signaling pathway
+humoral immunity pathway
+cell - mediated immunity pathway
+antigen processing and presentation pathway
+t cell receptor signaling pathway in cd4 +  t cells
+t cell receptor signaling pathway in cd8 +  t cells
+cytokine mediated signaling pathway
+chemokine mediated signaling pathway
+cxc chemokine mediated signaling pathway
+cc chemokine mediated signaling pathway
+c chemokine mediated signaling pathway
+cx3c chemokine mediated signaling pathway
+bile acid transport pathway
+anti - estrogen drug pathway
+aromatase inhibitor pathway
+tamoxifen drug pathway
+tamoxifen pharmacokinetics pathway
+tamoxifen pharmacodynamics pathway
+protein kinase c  ( pkc )  signaling pathway
+acetylcholine signaling pathway
+acetylcholine signaling pathway via nicotinic acetylcholine receptor
+acetylcholine signaling pathway via muscarinic acetylcholine receptor
+glutamate signaling pathway
+glutamate signaling pathway via nmda receptor
+glutamate signaling pathway via ampa receptor
+glutamate signaling pathway via metabotropic glutamate receptor
+gamma - aminobutyric acid signaling pathway
+dopamine signaling pathway via d1 family of receptors
+dopamine signaling pathway via d2 family of receptors
+histamine signaling pathway ,  neuronal
+serotonin signaling pathway
+acetylcholine signaling pathway via muscarinic acetylcholine receptors engaging g alphaq protein family
+acetylcholine signaling pathway via muscarinic acetylcholine receptors engaging g alphai protein family
+phase i biotransformation pathway
+phase ii biotransformation pathway
+glucuronidation conjugation pathway
+sulfonation conjugation pathway
+pyrimidine biosynthetic pathway
+de novo pyrimidine biosynthetic pathway
+pyrimidine salvage pathway
+pyrimidine degradation pathway
+purine biosynthetic pathway
+purine degradation pathway
+de novo purine biosynthetic pathway
+gefitinib drug pathway
+gefitinib pharmacokinetics pathway
+gefitinib pharmacodynamics pathway
+erlotinib drug pathway
+erlotinib pharmacokinetics pathway
+erlotinib pharmacodynamics pathway
+deoxyribonucleotide metabolic pathway
+bacterial polysaccharide metabolic pathway
+cytosine monophosphate metabolic pathway
+phosphatidylcholine biosynthetic pathway
+altered cortisol signaling pathway
+interleukin - 1 family mediated signaling pathway
+interleukin - 1 signaling pathway
+interleukin - 18 signaling pathway
+interleukin - 33 signaling pathway
+interleukin - 22 signaling pathway
+interferon mediated signaling pathway
+type i interferon signaling pathway
+type ii interferon signaling pathway
+interleukin - 17 family mediated signaling pathway
+interleukin - 17e signaling pathway
+interleukin - 17a signaling pathway
+interleukin - 17f signaling pathway
+altered interleukin mediated signaling pathway
+interleukin - 2 family mediated signaling pathway
+interleukin - 2 signaling pathway
+interleukin - 4 signaling pathway
+interleukin - 12 family mediated signaling pathway
+interleukin - 12 signaling pathway
+proton pump inhibitor drug pathway
+antineoplastic and immunomodulatory drug pathway
+cardiovascular system drug pathway
+alimentary tract and metabolism drug pathway
+blood and blood forming organs drug pathway
+nervous system drug pathway
+respiratory system drug pathway
+pattern recognition receptor mediated signaling pathway
+pro - inflammatory cytokine mediated pathway
+anti - tumor necrosis factor drug pathway
+tocilizumab drug pathway
+anakinra drug pathway
+methotrexate drug pathway
+methotrexate pharmacokinetics pathway
+methotrexate pharmacodynamics pathway
+tumor necrosis factor member 14 signaling pathway
+tumor necrosis factor member 13 signaling pathway
+tumor necrosis factor member 13b signaling pathway
+chemokine  ( c - c motif )  ligand 1 signaling pathway
+chemokine  ( c - c motif )  ligand 2 signaling pathway
+chemokine  ( c - c motif )  ligand 3 signaling pathway
+chemokine  ( c - c motif )  ligand 4 signaling pathway
+chemokine  ( c - c motif )  ligand 5 signaling pathway
+chemokine  ( c - c motif )  ligand 6 signaling pathway
+chemokine  ( c - c motif )  ligand 7 signaling pathway
+chemokine  ( c - c motif )  ligand 8 signaling pathway
+chemokine  ( c - c motif )  ligand 11 signaling pathway
+chemokine  ( c - c motif )  ligand 12 signaling pathway
+chemokine  ( c - c motif )  ligand 13 signaling pathway
+chemokine  ( c - c motif )  ligand 17 signaling pathway
+chemokine  ( c - c motif )  ligand 22 signaling pathway
+chemokine  ( c - c motif )  ligand 25 signaling pathway
+chemokine  ( c - c motif )  ligand 24 signaling pathway
+chemokine  ( c - c motif )  ligand 26 signaling pathway
+chemokine  ( c - c motif )  ligand 14 signaling pathway
+chemokine  ( c - c motif )  ligand 15 signaling pathway
+chemokine  ( c - c motif )  ligand 16 signaling pathway
+chemokine  ( c - c motif )  ligand 23 signaling pathway
+chemokine  ( c - c motif )  ligand 27 signaling pathway
+chemokine  ( c - x - c motif )  ligand 1 signaling pathway
+forkhead class a signaling pathway
+sphingosine 1 - phosphate signaling pathway
+ceramide signaling pathway
+visual phototransduction pathway
+phosphatidylinositol 3 - kinase class i signaling pathway
+phosphatidylinositol 3 - kinase class ii signaling pathway
+phosphatidylinositol 3 - kinase class iii signaling pathway
+interleukin - 3 / interleukin - 5 / gm - csf mediated signaling pathway
+interleukin - 3 signaling pathway
+interleukin - 5 signaling pathway
+granulocyte - macrophage colony - stimulating factor signaling pathway
+cxc chemokine elr (  +  )  subgroup mediated signaling pathway
+cxc chemokine elr (  -  )  subgroup mediated signaling pathway
+chemokine  ( c - x - c motif )  ligand 2 signaling pathway
+chemokine  ( c - x - c motif )  ligand 3 signaling pathway
+chemokine  ( c - x - c motif )  ligand 5 signaling pathway
+chemokine  ( c - x - c motif )  ligand 6 signaling pathway
+chemokine  ( c - x - c motif )  ligand 8 signaling pathway
+chemokine  ( c - x - c motif )  ligand 4 signaling pathway
+chemokine  ( c - x - c motif )  ligand 9 signaling pathway
+chemokine  ( c - x - c motif )  ligand 10 signaling pathway
+chemokine  ( c - x - c motif )  ligand 11 signaling pathway
+erythropoietin signaling pathway
+classical cadherin signaling pathway
+desmosomal cadherin signaling pathway
+protocadherin signaling pathway
+atypical cadherin signaling pathway
+e - cadherin signaling pathway
+n - cadherin signaling pathway
+anti - infective drug pathway
+adenosine signaling pathway
+adenosine triphosphate signaling pathway
+nucleotide signaling via the purinergic p2y receptors .
+retinoid metabolic pathway
+retinoic acid metabolic pathway
+retinoid cycle metabolic pathway
+vitamin homeostasis
+vitamin a homeostasis
+ascorbic acid metabolic pathway
+niacin metabolic pathway
+vitamin d metabolic pathway
+vitamin and vitamin metabolites signaling pathway
+vitamin d signaling pathway
+retinoic acid signaling pathway
+vitamin e metabolic pathway
+vitamin k metabolic pathway
+renal cell carcinoma pathway
+rheumatoid arthritis pathway
+basal cell carcinoma pathway
+melanoma pathway
+asthma pathway
+systemic lupus erythematosus pathway
+autoimmune thyroiditis pathway
+allograft rejection pathway
+graft - versus - host disease pathway
+primary immunodeficiency pathway
+infectious disease pathway
+cocaine addiction pathway
+amphetamine addiction pathway
+morphine addiction pathway
+nicotine addiction pathway
+alcoholism pathway
+arrhythmogenic right ventricular cardiomyopathy pathway
+dilated cardiomyopathy pathway
+myocarditis pathway
+maturity - onset diabetes of the young pathway
+vibrio cholerae infection pathway
+salmonella infection pathway
+pathogenic escherichia coli infection pathway
+shigella infection pathway
+bordetella pertussis infection pathway
+legionella infection pathway
+staphylococcus aureus infection pathway
+tuberculosis pathway
+leishmaniasis pathway
+trypanosomiasis pathway
+sleeping sickness pathway
+chagas disease pathway
+malaria pathway
+toxoplasmosis pathway
+entamoebiasis pathway
+influenza a pathway
+hepatitis c pathway
+measles pathway
+oxidative phosphorylation pathway
+primary bile acid biosynthetic pathway
+secondary bile acid biosynthetic pathway
+lacto - series glycosphingolipid metabolic pathway
+lipoic acid metabolic pathway
+phosphonate and phosphinate metabolic pathway
+interstrand cross link repair pathway
+ribosome biogenesis pathway
+altered ribosome biogenesis pathway
+gonadotropin - releasing hormone signaling pathway
+luteinizing hormone signaling pathway
+follicle - stimulating hormone signaling pathway
+spliceosome pathway
+hydrophobic amino acid metabolic pathway
+hydrophilic amino acid metabolic pathway
+special amino acid metabolic pathway
+amino acid metabolic pathway  ( kegg )
+proline metabolic pathway
+valine metabolic pathway
+lysine metabolic pathway
+arginine metabolic pathway
+asparagine metabolic pathway
+serine metabolic pathway
+threonine metabolic pathway
+glutamine metabolic pathway
+isoleucine metabolic pathway
+leucine metabolic pathway
+serotonin signaling pathway via receptors engaging g alphai protein family
+serotonin signaling pathway via receptors engaging g alphaq protein family
+serotonin signaling pathway via receptors engaging g alphas protein family
+serotonin signaling via receptor family 3
+bile acid signaling pathway
+altered estrogen signaling pathway
+zidovudine drug pathway
+zidovudine pharmacokinetics pathway
+zidovudine pharmacodynamics pathway
+tramadol drug pathway
+tramadol pharmacokinetics pathway
+tramadol pharmacodynamics pathway
+viral carcinogenesis pathway
+altered hypoxia inducible factor pathway
+acid - base homeostasis pathway
+ph sensing signaling pathway
+acid and base sensing signaling pathway
+bicarbonate sensing signaling pathway
+sorafenib drug pathway
+sorafenib pharmacokinetics pathway
+sorafenib pharmacodynamics pathway
+sunitinib drug pathway
+sunitinib pharmacokinetics pathway
+sunitinib pharmacodynamics pathway
+non - visual phototransduction pathway
+retinol mediated signaling pathway
+altered citric acid cycle pathway
+bevacizumab drug pathway
+bevacizumab pharmacokinetics pathway
+bevacizumab pharmacodynamics pathway
+axitinib drug pathway
+axitinib pharmacokinetics pathway
+axitinib pharmacodynamics pathway
+everolimus drug pathway
+everolimus pharmacokinetics pathway
+everolimus pharmacodynamics pathway
+temsirolimus drug pathway
+temsirolimus pharmacokinetics pathway
+temsirolimus pharmacodynamics pathway
+pazopanib drug pathway
+pazopanib pharmacokinetics pathway
+pazopanib pharmacodynamics pathway
+parathyroid hormone signaling pathway
+fatty acid elongation pathway
+unsaturated fatty acid biosynthetic pathway
+ether lipid metabolic pathway
+calcium transport pathway
+calcium / calcium - mediated signaling pathway
+calcium signaling pathway via the calcium - sensing receptor
+clathrin - mediated endocytosis pathway
+phagocytosis pathway
+fc gamma receptor mediated signaling pathway
+hepatitis b virus infection pathway
+human t - lymphotropic virus type 1 infection pathway
+fc receptor mediated signaling pathway
+fc epsilon receptor mediated signaling pathway
+steroid biosynthetic pathway
+caffeine metabolic pathway
+glycosaminoglycan degradation pathway
+butirosin and neomycin biosynthetic pathway
+glycerolipid metabolic pathway
+alpha - linoleic acid metabolic pathway
+aminoacyl - trna biosynthetic pathway
+rna transport pathway
+rna degradation pathway
+chemical compound signaling pathway
+cannabinoid signaling pathway
+endocannabinoid signaling pathway
+parathyroid hormone - like hormone signaling pathway
+altered calcium signaling pathway via the calcium - sensing receptor
+musculo - skeletal system drug pathway
+tuberoinfundibular 39 residues peptide signaling pathway
+altered fibroblast growth factor signaling pathway
+intracrine fibroblast growth factor signaling pathway
+paracrine fibroblast growth factor signaling pathway
+endocrine fibroblast growth factor signaling pathway
+altered endocrine fibroblast growth factor signaling pathway
+altered intracrine fibroblast growth factor signaling pathway
+altered paracrine fibroblast growth factor signaling pathway
+fibroblast growth factor 23 signaling pathway
+parathyroid hormone family signaling pathway
+phosphate homeostasis pathway
+phosphate transport pathway
+calcium / calmodulin dependent kinase 2 signaling pathway
+calcium / calmodulin dependent kinase signaling cascade
+altered folate metabolic pathway
+altered methionine cycle / metabolic pathway
+altered homocysteine metabolic pathway
+kinase mediated signaling pathway
+serine / threonine - specific kinase mediated signaling pathway
+tyrosine - specific protein kinase mediated signaling pathway
+thyroid - stimulating hormone signaling pathway
+thyrotropin - releasing hormone signaling pathway
+genito - urinary system and sex hormones drug pathway
+systemic hormones drug pathway
+thyromimetics drug pathway
+sobetirome drug pathway
+eprotirome drug pathway
+folate cycle metabolic pathway
+plevitrexed drug pathway
+plevitrexed pharmacokinetics pathway
+plevitrexed pharmacodynamics pathway
+pemetrexed drug pathway
+pemetrexed pharmacodynamics pathway
+pemetrexed pharmacokinetics pathway
+pralatrexate drug pathway
+pralatrexate pharmacokinetics pathway
+pralatrexate pharmacodynamics pathway
+hydrogen sulfide mediated signaling pathway
+nitric oxide mediated signaling pathway
+gasotransmitter mediated signaling pathway
+irinotecan drug pathway
+irinotecan pharmacokinetics pathway
+irinotecan pharmacodynamics pathway
+stem cell factor signaling pathway
+ace inhibitor drug pathway
+xenobiotic metabolic pathway
+ace inhibitor pharmacokinetics pathway
+ace inhibitor pharmacodynamics pathway
+benzo ( a ) pyrene metabolic pathway
+biogenic amine biosynthetic pathway
+catecholamine biosynthetic pathway
+histamine biosynthetic pathway
+eicosanoid biosynthetic pathway
+prostanoid metabolic pathway
+prostacyclin metabolic pathway
+leukotriene biosynthetic pathway
+prostanoid biosynthetic pathway
+codeine and morphine drug pathway
+codeine and morphine pharmacokinetics pathway
+codeine and morphine pharmacodynamics pathway
+nifedipine drug pathway
+nifedipine pharmacokinetics pathway
+nifedipine pharmacodynamics pathway
+monoamine transport pathway
+prolactin signaling pathway
+fatty acid omega degradation pathway
+arginine biosynthetic pathway
+arginine degradation pathway
+glutamic acid / glutamate biosynthetic pathway
+glutamic acid / glutamate degradation pathway
+glycine biosynthetic pathway
+glycine degradation pathway
+histidine biosynthetic pathway
+histidine degradation pathway
+isoleucine biosynthetic pathway
+isoleucine degradation pathway
+leucine biosynthetic pathway
+leucine degradation pathway
+rna polymerase transcription pathway
+prokaryotic rna polymerase transcription pathway
+rna polymerase ii transcription initiation pathway
+eukaryotic rna polymerase transcription pathway
+de novo nicotinamide adenine dinucleotide biosynthetic pathway
+glutathione biosynthetic pathway
+threonine biosynthetic pathway
+threonine degradation pathway
+tryptophan biosynthetic pathway
+tryptophan degradation pathway
+kynurenine metabolic pathway
+tyrosine biosynthetic pathway
+tyrosine degradation pathway
+valine biosynthetic pathway
+phenylalanine biosynthetic pathway
+phenylalanine degradation pathway
+carotene metabolic pathway
+lycopene metabolic pathway
+lycopene biosynthetic pathway
+leukotriene signaling pathway
+prostanoid signaling pathway
+prostaglandin signaling pathway
+trehalose metabolic pathway
+trehalose biosynthetic pathway
+trehalose degradation pathway
+methionine biosynthetic pathway
+methionine degradation pathway
+steroid metabolic pathway
+cholesterol metabolic pathway
+steroid hormone metabolic pathway
+phosphatidylcholine metabolic pathway
+abscisic acid metabolic pathway
+abscisic acid biosynthetic pathway
+sulfate assimilation pathway
+nodal signaling pathway
+ascaroside metabolic pathway
+ascaroside biosynthetic pathway
+cell cycle pathway
+cell cycle pathway ,  meiotic
+toxic secondary metabolite biosynthetic pathway
+fumonisin biosynthetic pathway
+trichothecene biosynthetic pathway
+deoxynivalenol biosynthetic pathway
+mitochondrial translation pathway
+mitochondrial aminoacyl - trna biosynthetic pathway
+altered mitochondrial aminoacyl - trna biosynthetic pathway
+uridine diphosphate glucose metabolic pathway
+guanosine diphosphate mannose metabolic pathway
+receptor for advanced glycation end - products signaling pathway
+rna polymerase ii transcription elongation pathway
+rna polymerase ii transcription termination pathway
+mitochondrial transcription pathway
+non - coding rna pathway
+long non - coding rna pathway
+cdp - choline pathway of phosphatidylcholine biosynthesis
+chromatin modification / remodeling pathway
+histone modification pathway
+chromatin remodeling pathway
+dna modification pathway
+altered chromatin remodeling / modification pathway
+sucrose biosynthetic pathway
+phosphatidylglycerol metabolic process
+cardiolipin metabolic pathway
+cardiolipin biosynthetic pathway
+cholesterol transport pathway
+non - metal ion transport pathway
+chloride ion transport pathway
+altered chloride ion transport pathway
+peroxisome proliferator - activated receptor signaling pathway
+altered peroxisome proliferator - activated receptor signaling pathway
+coenzyme a metabolic pathway
+coenzyme a biosynthetic pathway
+altered nucleotide excision repair pathway
+dna damage response pathway
+ataxia telangiectasia - mutated  ( atm )  signaling pathway
+atm and rad3 - related  ( atr )  signaling pathway
+lactose metabolic pathway
+lactose degradation pathway
+toxic secondary metabolite metabolic pathway
+aflatoxin metabolic pathway
+shikimate metabolic pathway
+chorismate metabolic pathway
+basic helix - loop - helix signaling pathway
+inhibitor of dna binding signaling pathway
+altered inhibitor of dna binding signaling pathway
+altered basic helix - loop - helix signaling pathway
+nicotinamide adenine dinucleotide biosynthesis ,  the salvage pathway
+formaldehyde assimilation pathway
+serine pathway of formaldehyde assimilation
+rump pathway of formaldehyde assimilation
+octane oxidation pathway
+glutamate degradation pathway i
+glutamate degradation pathway ii
+glutamate degradation pathway iii
+glutamate degradation pathway iv
+glutamate degradation pathway v
+glutamate fermentation pathway
+glutamate degradation pathway vii
+glutamate degradation pathway vi
+glutamate degradation pathway viii
+starch biosynthetic pathway
+starch and cellulose metabolic pathway
+cellulose biosynthetic pathway
+starch and cellulose biosynthetic pathway
+terpene and terpenoid biosynthetic pathway
+terpene biosynthetic pathway
+monoterpene biosynthetic pathway
+terpene and terpenoid metabolic pathway
+diterpene biosynthetic pathway
+momilactone biosynthetic pathway
+chromatin modification pathway
+altered chromatin modification pathway
+altered chromatin remodeling pathway
+swi / snf family mediated chromatin remodeling pathway
+iswi family mediated chromatin remodeling pathway
+ino80 family mediated chromatin remodeling pathway
+chd family mediated chromatin remodeling pathway
+altered dna modification pathway
+altered histone modification pathway
+nervous system disease pathway
+liver disease pathway
+brain disease pathway
+zellweger syndrome pathway
+leigh disease pathway
+canavan disease pathway
+abciximab drug pathway
+abciximab pharmacokinetics pathway
+abciximab pharmacodynamics pathway
+kanamycin drug pathway
+kanamycin pharmacokinetics pathway
+kanamycin pharmacodynamics pathway
+neviparine drug pathway
+neviparine pharmacokinetics pathway
+neviparine pharmacodynamics pathway
+amikacin drug pathway
+amikacin pharmacokinetics pathway
+amikacin pharmacodynamics pathway
+lamivudine drug pathway
+lamivudine pharmacokinetics pathway
+lamivudine pharmacodynamics pathway
+gentamicin drug pathway
+toxin and toxicant response pathway
+nanomaterial response pathway
+carbon nanotube response pathway
+titanium dioxide nanoparticle response pathway
+polycyclic aromatic hydrocarbon metabolic pathway
+cerium oxide nanoparticle response pathway
+arthritis pathway
+gout pathway
+inflammatory bowel disease pathway
+ezetimibe drug pathway
+ezetimibe pharmacokinetics pathway
+ezetimibe pharmacodynamics pathway
+lomitapide drug pathway
+lomitapide pharmacokinetics pathway
+lomitapide pharmacodynamics pathway
+nicotine pharmacokinetics pathway
+nicotine pharmacodynamics pathway
+valproic acid drug pathway
+valproic acid pharmacokinetics pathway
+valproic acid pharmacodynamics pathway
+gaucher's disease pathway
+doxorubicin drug pathway
+nystatin drug pathway
+nystatin pharmacokinetics pathway
+nystatin pharmacodynamics pathway
+losartan drug pathway
+losartan pharmacokinetics pathway
+losartan pharmacodynamics pathway
+clopidogrel drug pathway
+clopidogrel pharmacokinetics pathway
+clopidogrel pharmacodynamics pathway
+ibuprofen drug pathway
+ibuprofen pharmacokinetics pathway
+ibuprofen pharmacodynamics pathway
+fabry disease pathway ,  cerebrovascular
+metabolic disease pathway
+lipid metabolism disease pathway
+xanthomatosis pathway
+cerebrotendinous xanthomatosis pathway
+congenital disease pathway
+inborn genetic disease pathway
+congenital adrenal hyperplasia pathway
+lipoid congenital adrenal hyperplasia pathway
+kinin signaling pathway
+peripheral dopamine signaling pathway
+altered peripheral dopamine signaling pathway
+altered catecholamine signaling pathway
+altered amine and amino acid - derived hormone signaling pathway
+losartan - gene ,  gene - chemical ,  gene - gene interaction pathway
+carbon tetrachloride response pathway
+ozone response pathway
+metformin drug pathway
+metformin pharmacokinetics pathway
+metformin pharmacodynamics pathway
+metformin - gene ,  gene - chemical ,  gene - gene interaction pathway
+altered visual phototransduction pathway
+retinitis pigmentosa pathway
+altered retinoid cycle metabolic pathway
+altered retinoid metabolic pathway
+mechanotransduction pathway
+auditory mechanotransduction pathway
+altered auditory mechanotransduction pathway
+usher syndrome pathway
+platinum  ( pt )  containing drug pathway
+cisplatin drug pathway
+platinum  ( pt )  containing drug response pathway
+cisplatin response pathway
+bisphenol a response pathway
+oxaliplatin drug pathway
+carboplatin drug pathway
+carboplatin response pathway
+hippo signaling pathway
+organophosphate response pathway
+altered hippo signaling pathway
+polyol pathway
+sugar alcohol metabolic pathway
+dermatan sulfate biosynthetic pathway
+nicotine response pathway
+paracetamol drug pathway
+paracetamol pharmacokinetics pathway
+paracetamol response pathway
+thromboxane a2 signaling pathway
+prostacyclin signaling pathway
+prostaglandin e2 signaling pathway
+prostaglandin d2 signaling pathway
+prostaglandin i2 signaling pathway
+prostaglandin biosynthetic pathway
+thromboxane biosynthetic pathway
+prostacyclin biosynthetic pathway
+prostaglandin f2alpha signaling pathway
+heterotrimeric g protein mediated signaling pathway
+organismal aging pathway
+altered stress response pathway
+analgesic and / or antipyretic drug pathway
+nervous system and nerve tissue cancer pathway
+altered g1 / s transition pathway
+altered swi / snf family mediated chromatin remodeling pathway
+altered homologous recombination pathway of double - strand break repair
+altered non - homologous end joining pathway of double - strand break repair
+programmed cell death pathway
+non - programmed cell death pathway
+altered programmed cell death pathway
+pyroptosis pathway
+necroptosis pathway
+altered autophagy pathway
+anoikis pathway
+doxorubicin pharmacokinetics pathway
+doxorubicin pharmacodynamics pathway
+rna processing pathway
+rna maturation pathway
+mrna maturation pathway
+rna polymerase i transcription initiation pathway
+rna polymerase i transcription elongation pathway
+rna polymerase i transcription termination pathway
+trna maturation pathway
+rrna maturation pathway
+5' - end pre - mrna capping pathway
+3' - end pre - mrna processing pathway
+lncrna maturation pathway
+lncrna capping pathway
+lncrna polyadenylation pathway
+nutritional and metabolic disease pathway
+avitaminosis pathway
+wolman disease pathway
+mrna nuclear export pathway
+trna nuclear export pathway
+inborn error of metabolism pathway
+xanthinuria pathway
+xanthinuria  type i pathway
+xanthinuria type ii pathway
+musculoskeletal disease pathway
+very long - chain acyl - coa dehydrogenase deficiency pathway
+abacavir drug pathway
+abacavir pharmacokinetics pathway
+abacavir pharmacodynamics pathway
+acenocoumarol drug pathway
+acenocoumarol pharmacokinetics pathway
+acenocoumarol pharmacodynamics pathway
+nutritional disorder pathway
+glucose metabolism disease pathway
+beta - ureidopropionase deficiency pathway
+orotic aciduria pathway
+orotic aciduria 1 pathway
+orotic aciduria 2 pathway
+tyrosinemia pathway
+tyrosinemia type i pathway
+tyrosinemia type ii pathway
+tyrosinemia type iii pathway
+movement disorder pathway
+segawa syndrome pathway
+acetylsalicylic acid drug pathway
+acetylsalicylic acid pharmacokinetics pathway
+acetylsalicylic acid pharmacodynamics pathway
+adefovir drug pathway
+adefovir pharmacokinetics pathway
+adefovir pharmacodynamics pathway
+rrna nuclear export pathway
+bisphosphonate drug pathway
+nitrogenous bisphosphonate drug pathway
+non - nitrogenous bisphosphonate drug pathway
+nitrogenous bisphosphanate pharmacokinetics pathway
+nitrogenous bisphosphonate pharmacodynamics pathway
+nxf1 - nxt1 export pathway
+crm1 export pathway
+trifunctional protein deficiency pathway
+triosephosphate isomerase deficiency pathway
+transaldolase deficiency pathway
+lysosomal storage disease pathway
+tay - sachs disease pathway
+alfentanil drug pathway
+alfentanil pharmacokinetics pathway
+alfentanil pharmacodynamics pathway
+alteplase drug pathway
+alteplase pharmacokinetics pathway
+alteplase pharmacodynamics pathway
+amiloride drug pathway
+amiloride pharmacokinetics pathway
+amiloride pharmacodynamics pathway
+rrna decay pathway
+trna decay pathway
+inborn error of lipid metabolism pathway
+inborn error of carbohydrate metabolism pathway
+inborn error of amino acid metabolism pathway
+inborn error of brain metabolic pathway
+sulfite oxidase deficiency pathway
+congenital sucrase - isomaltase deficiency pathway
+succinic semialdehyde dehydrogenase deficiency pathway
+smith - lemli - opitz syndrome pathway
+antithrombotic drug pathway
+antihemorrhagic drug pathway
+aminocaproic acid drug pathway
+aminocaproic acid pharmacokinetics pathway
+aminocaproic acid pharmacodynamics pathway
+amiodarone drug pathway
+amiodarone pharmacokinetics pathway
+amiodarone pharmacodynamics pathway
+amlodipine drug pathway
+amlodipine pharmacokinetics pathway
+amlodipine pharmacodynamics pathway
+anistreplase drug pathway
+anistreplase pharmacokinetics pathway
+anistreplase pharmacodynamics pathway
+antipyrine drug pathway
+antipyrine pharmacokinetics pathway
+short - chain acyl - coa dehydrogenase deficiency pathway
+mitochondrial disease pathway
+sarcosinemia pathway
+no - go mrna decay pathway
+vinca alkaloid drug pathway
+vinblastine drug pathway
+vinorelbine drug pathway
+vincristine drug pathway
+vindesine drug pathway
+vinblastine pharmacokinetics pathway
+vinblastine pharmacodynamics pathway
+vincristine pharmacokinetics pathway
+vincristine pharmacodynamics pathway
+vindesine pharmacokinetics pathway
+vindesine pharmacodynamics pathway
+vinorelbine pharmacokinetics pathway
+vinorelbine pharmacodynamics pathway
+verapamil drug pathway
+verapamil pharmacokinetics pathway
+verapamil pharmacodynamics pathway
+valsartan drug pathway
+valsartan pharmacodynamics pathway
+valsartan pharmacokinetics pathway
+organic chemical homeostasis pathway
+inorganic chemical homeostasis pathway
+s - adenosylmethionine homeostasis pathway
+valdecoxib drug pathway
+valdecoxib pharmacokinetics pathway
+valdecoxib pharmacodynamics pathway
+digestive system disease pathway
+french type sialuria pathway
+saccharopinuria pathway
+ribose 5 - phosphate isomerase deficiency pathway
+refsum disease pathway
+pyruvate kinase deficiency of red cells pathway
+enalapril drug pathway
+enalapril pharmacokinetics pathway
+enalapril pharmacodynamics pathway
+ramipril drug pathway
+ramipril pharmacokinetics pathway
+ramipril pharmacodynamics pathway
+quinapril drug pathway
+quinapril pharmacokinetics pathway
+quinapril pharmacodynamics pathway
+perindopril drug pathway
+perindopril pharmacokinetics pathway
+perindopril pharmacodynamics pathway
+lisinopril drug pathway
+lisinopril pharmacodynamics pathway
+lisinopril pharmacokinetics pathway
+benazepril drug pathway
+benazepril pharmacokinetics pathway
+benazepril pharmacodynamics pathway
+trandolapril drug pathway
+trandolapril pharmacokinetics pathway
+trandolapril pharmacodynamics pathway
+cilazapril drug pathway
+cilazapril pharmacokinetics pathway
+cilazapril pharmacodynamics pathway
+ticlopidine drug pathway
+ticlopidine pharmacokinetics pathway
+ticlopidine pharmacodynamics pathway
+adrenergic beta receptor drug pathway  -  beta agonist
+adrenergic beta receptor antagonist drug pathway
+adrenergic beta receptor selective antagonist drug pathway
+adrenergic beta receptor non - selective antagonist drug pathway
+timolol drug pathway
+timolol pharmacokinetics pathway
+timolol pharmacodynamics pathway
+tirofiban drug pathway
+tirofiban pharmacokinetics pathway
+tirofiban pharmacodynamics pathway
+tobramycin drug pathway
+tobramycin pharmacokinetics pathway
+tobramycin pharmacodynamics pathway
+tolmetin drug pathway
+tolmetin pharmacokinetics pathway
+tolmetin pharmacodynamics pathway
+inborn error of pyruvate metabolism pathway
+peptide and protein metabolic process
+peptide and protein hormone metabolic process
+insulin biosynthetic pathway
+preproglucagon processing pathway
+glucagon biosynthetic pathway
+glucagon - like peptide - 1 biosynthetic pathway
+glucagon - like peptide - 2 biosynthetic pathway
+oxyntomodulin biosynthetic pathway
+radical mediated signaling pathway
+superoxide mediated signaling pathway
+radical sam enzyme mediated rna processing pathway
+radical sam enzyme mediated metabolic pathway
+docetaxel drug pathway
+docetaxel pharmacokinetics pathway
+docetaxel pharmacodynamics pathway
+tenofovir drug pathway
+tenofovir pharmacokinetics pathway
+tenofovir pharmacodynamics pathway
+docetaxel response pathway
+pyruvate carboxylase deficiency pathway
+inborn error of purine - pyrimidine metabolism pathway
+purine nucleoside phosphorylase deficiency pathway
+propionic acidemia pathway
+adenosine monophosphate deaminase deficiency pathway
+primary hyperoxaluria pathway
+primary hyperoxaluria type 1 pathway
+primary hyperoxaluria type 2 pathway
+porphyria pathway
+variegate porphyria pathway
+tranexamic acid drug pathway
+tranexamic acid pharmacokinetics pathway
+tranexamic acid pharmacodynamics pathway
+renin - angiotensin system drug pathway
+triamterene drug pathway
+triamterene pharmacokinetics pathway
+triamterene pharmacodynamics pathway
+tenoxicam drug pathway
+tenoxicam pharmacokinetics pathway
+tenoxicam pharmacodynamics pathway
+telmisartan drug pathway
+telmisartan pharmacokinetics pathway
+telmisartan pharmacodynamics pathway
+sulindac drug pathway
+sulindac pharmacokinetics pathway
+sulindac pharmacodynamics pathway
+doxorubicin response pathway
+streptomycin drug pathway
+streptomycin pharmacodynamics pathway
+phenylketonuria pathway
+ornithine carbamoyltransferase deficiency pathway
+gyrate atrophy pathway
+nonketotic hyperglycinemia pathway
+methylmalonate semialdehyde dehydrogenase deficiency pathway
+methylmalonic acidemia pathway
+methylmalonic aciduria ,  cobalamin - related pathway
+mevalonic aciduria pathway
+mitochondrial complex i deficiency pathway
+mitochondrial complex ii deficiency pathway
+mitochondrial complex iii deficiency pathway
+inborn error of metal metabolism pathway
+molybdenum cofactor deficiency pathway
+mucopolysaccharidoses pathway
+stavudine drug pathway
+stavudine pharmacokinetics pathway
+stavudine pharmacodynamics pathway
+spironolactone drug pathway
+spironolactone pharmacokinetics pathway
+spironolactone pharmacodynamics pathway
+spirapril drug pathway
+spirapril pharmacokinetics pathway
+spirapril pharmacodynamics pathway
+sotalol drug pathway
+sotalol pharmacodynamics pathway
+sotalol pharmacokinetics pathway
+altered iron homeostasis pathway
+altered inorganic chemical homeostasis pathway
+roxatidine acetate drug pathway
+roxatidine acetate pharmacokinetics pathway
+roxatidine acetate pharmacodynamics pathway
+risedronate drug pathway
+risedronate pharmacodynamics pathway
+risedronate pharmacokinetics pathway
+hyperhomocysteinemia pathway
+homocystinuria pathway
+mitochondrial autophagy pathway
+ranitidine drug pathway
+ranitidine pharmacokinetics pathway
+ranitidine pharmacodynamics pathway
+rabeprazole drug pathway
+rabeprazole pharmacokinetics pathway
+rabeprazole pharmacodynamics pathway
+quinidine drug pathway
+quinidine pharmacokinetics pathway
+quinidine pharmacodynamics pathway
+propranolol drug pathway
+propranolol pharmacokinetics pathway
+propranolol pharmacodynamics pathway
+procaine drug pathway
+procaine pharmacokinetics pathway
+procaine pharmacodynamics pathway
+procainamide drug pathway
+procainamide pharmacokinetics pathway
+procainamide pharmacodynamics pathway
+procainamide response pathway
+prednisone drug pathway
+prednisone pharmacokinetics pathway
+prednisone pharmacodynamics pathway
+piroxicam drug pathway
+piroxicam pharmacokinetics pathway
+piroxicam pharmacodynamics pathway
+hypermethioninemia pathway
+medium chain acyl - coa dehydrogenase deficiency pathway
+maple syrup urine disease pathway
+lysinuric protein intolerance pathway
+x - linked genetic disease pathway
+y - linked genetic disease pathway
+isovaleric acidemia pathway
+isobutyryl - coa dehydrogenase deficiency pathway
+plasmalogen metabolic pathway
+plasmalogen biosynthetic pathway
+x - linked intellectual disability pathway
+lesch - nyhan syndrome pathway
+iminoglycinuria pathway
+hypophosphatasia pathway
+pirenzepine drug pathway
+pirenzepine pharmacokinetics pathway
+pirenzepine pharmacodynamics pathway
+pentazocine drug pathway
+pentazocine pharmacokinetics pathway
+pentazocine pharmacodynamics pathway
+pantoprazole drug pathway
+pantoprazole pharmacokinetics pathway
+pantoprazole pharmacodynamics pathway
+streptomycin pharmacokinetics pathway
+calcium channel blocker drug pathway
+non - dihydropyridine calcium channel blocker drug pathway
+dihydropyridine calcium channel blocker drug pathway
+nimodipine drug pathway
+nisoldipine drug pathway
+nitrendipine drug pathway
+nimodipine pharmacokinetics pathway
+nisoldipine pharmacokinetics pathway
+nitrendipine pharmacokinetics pathway
+nimodipine pharmacodynamics pathway
+nisoldipine pharmacodynamics pathway
+nitrendipine pharmacodynamics pathway
+nizatidine drug pathway
+nizatidine pharmacokinetics pathway
+nizatidine pharmacodynamics pathway
+olmesartan drug pathway
+olmesartan pharmacokinetics pathway
+olmesartan pharmacodynamics pathway
+nebivolol drug pathway
+nebivolol pharmacokinetics pathway
+nebivolol pharmacodynamics pathway
+naproxen drug pathway
+naproxen pharmacokinetics pathway
+naproxen pharmacodynamics pathway
+naltrexone drug pathway
+naltrexone pharmacokinetics pathway
+naltrexone pharmacodynamics pathway
+nalbuphine drug pathway
+nalbuphine pharmacokinetics pathway
+nalbuphine pharmacodynamics pathway
+nabumetone drug pathway
+nabumetone pharmacokinetics pathway
+nabumetone pharmacodynamics pathway
+metolazone drug pathway
+metolazone pharmacokinetics pathway
+metolazone pharmacodynamics pathway
+metoprolol drug pathway
+metoprolol pharmacokinetics pathway
+metoprolol pharmacodynamics pathway
+hyperprolinemia type i pathway
+hyperprolinemia type ii pathway
+hypercholesterolemia pathway
+hyperinsulinism pathway
+hyperlysinemia pathway
+methadone drug pathway
+methadone pharmacokinetics pathway
+methadone pharmacodynamics pathway
+mercaptopurine drug pathway
+mercaptopurine pharmacokinetics pathway
+mercaptopurine pharmacodynamics pathway
+mepivacaine drug pathway
+mepivacaine pharmacokinetics pathway
+mepivacaine pharmacodynamics pathway
+meloxicam drug pathway
+meloxicam pharmacokinetics pathway
+meloxicam pharmacodynamics pathway
+mefenamic acid drug pathway
+mefenamic acid pharmacokinetics pathway
+mefenamic acid pharmacodynamics pathway
+eukaryotic dna replication pathway
+nuclear dna replication pathway
+mitochondrial dna replication pathway
+altered mitochondrial autophagy pathway
+mitochondria homeostasis pathway
+altered mitochondria homeostasis pathway
+mitochondria dynamics pathway
+mitochondrial protein import pathway
+lansoprazole drug pathway
+lansoprazole pharmacokinetics pathway
+lansoprazole pharmacodynamics pathway
+ketorolac drug pathway
+ketorolac pharmacokinetics pathway
+ketorolac pharmacodynamics pathway
+ketoprofen drug pathway
+ketoprofen pharmacokinetics pathway
+ketoprofen pharmacodynamics pathway
+isradipine drug pathway
+isradipine pharmacokinetics pathway
+isradipine pharmacodynamics pathway
+mitochondrial unfolded protein response pathway
+inborn error amino acid transport disorder pathway
+hartnup disease pathway
+histidinemia pathway
+homocarnosinosis pathway
+hepatic porphyria pathway
+hereditary coproporphyria pathway
+irbesartan drug pathway
+irbesartan pharmacokinetics pathway
+irbesartan pharmacodynamics pathway
+imipramine drug pathway
+imipramine pharmacokinetics pathway
+imipramine pharmacodynamics pathway
+ibutilide drug pathway
+ibutilide pharmacokinetics pathway
+ibutilide pharmacodynamics pathway
+glycogen storage disease pathway
+glycogen storage disease  type ia pathway
+glycogen storage disease type ib pathway
+glycogen storage disease type iii pathway
+glycogen storage disease type iv pathway
+glycogen storage disease type vi pathway
+glycogen storage disease type vii pathway
+mitochondria fission pathway
+mitochondria fusion pathway
+ibandronate drug pathway
+ibandronate pharmacokinetics pathway
+ibandronate pharmacodynamics pathway
+hydrochlorothiazide drug pathway
+hydrochlorothiazide pharmacokinetics pathway
+hydrochlorothiazide pharmacodynamics pathway
+gliclazide drug pathway
+gliclazide pharmacokinetics pathway
+gliclazide pharmacodynamics pathway
+glyburide drug pathway
+glyburide pharmacokinetics pathway
+glyburide pharmacodynamics pathway
+gentamicin pharmacokinetics pathway
+gentamicin pharmacodynamics pathway
+furosemide drug pathway
+furosemide pharmacokinetics pathway
+furosemide pharmacodynamics pathway
+acute intermittent porphyria pathway
+glycerol kinase deficiency pathway
+glutathione synthase deficiency pathway
+krabbe disease pathway
+fosinopril drug pathway
+fosinopril pharmacokinetics pathway
+fosinopril pharmacodynamics pathway
+forasartan drug pathway
+forasartan pharmacokinetics pathway
+forasartsn pharmacodynamics pathway
+fluoxetine drug pathway
+fluoxetine pharmacokinetics pathway
+fluoxetine pharmacodynamics pathway
+flecainide drug pathway
+flecainide pharmacokinetics pathway
+flecainde pharmacodynamics pathway
+fentanyl drug pathway
+fentanyl pharmacokinetics pathway
+fentanyl pharmacodynamics pathway
+famotidine drug pathway
+famotidine pharmacokinetics pathway
+famotidine pharmacodynamics pathway
+etodolac drug pathway
+etodolac pharmacokinetics pathway
+etodolac pharmacodynamics pathway
+etacryninc acid drug pathway
+etacrynic acid pharmacokinetics pathway
+etacrynic acid pharmacodynamics pathway
+esmolol drug pathway
+esmolol pharmacokinetics pathway
+esmolol pharmacodynamics pathway
+escitalopram drug pathway
+escitalopram pharmacokinetics pathway
+escitalopram pharmacodynamics pathway
+erythromycin drug pathway
+erythromycin pharmacokinetics pathway
+erythromycin pharmacodynamics pathway
+eptifibatide drug pathway
+eptifibatide pharmacokinetics pathway
+eptifibatide pharmacodynamics pathway
+eprosartan drug pathway
+eprosartan pharmacokinetics pathway
+eprosartan pharmacodynamics pathway
+mitochondria transport pathway
+altered mitochondria dynamics pathway
+disulfiram drug pathway
+disulfiram pharmacokinetics pathway
+disulfiram pharmacodynamics pathway
+disopyramide drug pathway
+disopyramide pharmacokinetics pathway
+disopyramide pharmacodynamics pathway
+dipyridamole drug pathway
+dipyridamole pharmacokinetics pathway
+dipyridamole pharmacodyamics pathway
+lactose biosynthetic pathway
+altered mitochondria transport pathway
+altered mitochondria fusion pathway
+altered mitochondria fission pathway
+diltiazem drug pathway
+diltiazem pharmacokinetics pathway
+diltiazem pharmacodynamics pathway
+diflunisal drug pathway
+diflunisal pharmacokinetics pathway
+diflunisal pharmacodynamics pathway
+didanosine drug pathway
+didanosine pharmacokinetics pathway
+didanosine pharmacodynamics pathway
+diclofenac drug pathway
+diclofenac pharmacokinetics pathway
+diclofenac pharmacodynamics pathway
+desipramine drug pathway
+desipramine pharmacokinetics pathway
+desipramine pharmacodynamics pathway
+galactosemias pathway
+galactosemia pathway
+gale deficiency pathway
+galactokinase deficiency pathway
+gaba aminotransferase deficiency pathway
+neuromuscular manifestation of disease pathway
+muscle hypotonia disorder pathway
+fumaric aciduria pathway
+inborn error of fructose metabolism pathway
+fructose - 1 , 6 - bisphosphatase deficiency pathway
+hereditary fructose intolerance syndrome pathway
+inborn error of steroid metabolism pathway
+fabry disease pathway
+dystonia pathway
+dopa responsive dystonia pathway
+desmosterolosis pathway
+cyclophosphamide drug pathway
+cyclophosphamide pharmacokinetics pathway
+cyclophosphamide pharmacodynamics pathway
+cimetidine drug pathway
+cimetidine pharmacokinetics pathway
+cimetidine pharmacodynamics pathway
+non - selective monoamine reuptake inhibitor drug pathway
+antidepressant drug pathway
+selective serotonin uptake inhibitor drug pathway
+citalopram drug pathway
+citalopram pharmacokinetics pathway
+citalopram pharmacodynamics pathway
+histamine signaling pathway ,  immunological
+histamine signaling pathway
+diuretic drug pathway
+chlorthalidone drug pathway
+chlorthalidone pharmacokinetics pathway
+chlorthalidone pharmacodynamics pathway
+captopril drug pathway
+captopril pharmacokinetics pathway
+captopril pharmacodynamics pathway
+candesartan drug pathway
+candesartan pharmacokinetics pathway
+candesartan pharmacodynamics pathway
+capecitabine drug pathway
+capecitabine pharmacokinetics pathway
+capecitabine pharmacodynamics pathway
+bupranolol drug pathway
+bupranolol pharmacokinetics pathway
+bupranolol pharmacodynamics pathway
+presequence pathway of mitochondrial protein import
+carrier pathway of mitochondrial protein import .
+intermembrane space assembly pathway of mitochondrial protein import
+beta - barrel pathway of mitochondrial protein import
+alpha - helical insertion pathway of mitochondrial protein import
+inborn error of urea cycle pathway
+citrullinemia pathway
+argininosuccinic aciduria pathway
+direct thrombin inhibitor drug pathway
+bivalirudin drug pathway
+bivalirudin pharmacokinetics pathway
+bivalirudin pharmacodynamics pathway
+antiplatelet drug pathway
+anticoagulant drug pathway
+thrombolytic drug pathway
+bumetanide drug pathway
+bumetanide pharmacokinetics pathway
+bumetanide pharmacodynamics pathway
+bisoprolol drug pathway
+bisoprolol pharmacokinetics pathway
+bisoprolol pharmacodynamics pathway
+sensory organ drug pathway
+betaxolol drug pathway
+betaxolol pharmacokinetics pathway
+betaxolol pharmacodynamics pathway
+moexipril drug pathway
+moexipril pharmacokinetics pathway
+moexipril pharmacodynamics pathway
+17 - alpha - hydroxylase deficiency pathway
+21 - alpha - hydroxylase deficiency pathway
+11 - beta - hydroxylase deficiency pathway
+acebutolol drug pathway
+acebutolol pharmacokinetics pathway
+acebutolol pharmacodynamics pathway
+alendronate drug pathway
+alendronate pharmacokinetics pathway
+alendronate pharmacodynamics pathway
+pamidronate drug pathway
+pamidronate pharmacokinetics pathway
+pamidronate pharmacodynamics pathway
+genetic skin disease pathway
+prolidase deficiency pathway
+esomeprazole drug pathway
+esomeprazole pharmacokinetics pathway
+esomeprazole pharmacodynamics pathway
+chlorothiazide drug pathway
+chlorothiazide pharmacokinetics pathway
+chlorothiazide pharmacodynamics pathway
+buprenorphine drug pathway
+buprenorphine pharmacokinetics pathway
+buprenorphine pharmacodynamics pathway
+bupivacaine drug pathway
+bupivacaine pharmacokinetics pathway
+bupivacaine pharmacodynamics pathway
+bendroflumethiazide drug pathway
+bendroflumethiazide pharmacokinetics pathway
+bendroflumethiazide pharmacodynamics pathway
+azithromycin drug pathway
+azithromycin pharmacokinetics pathway
+azithromycin pharmacodynamics pathway
+azathioprine drug pathway
+azathioprine pharmacokinetics pathway
+azathioprine pharmacodynamics pathway
+2 - aminoadipic 2 - oxoadipic aciduria pathway
+2 - hydroxyglutaric aciduria pathway
+ethylmalonic encephalopathy pathway
+autonomic nervous system disease pathway
+dopamine beta - hydroxylase deficiency pathway
+dimethylglycine dehydrogenase deficiency pathway
+dihydropyrimidine dehydrogenase deficiency pathway
+dihydropyrimidinase deficiency pathway
+d - glycericacidemia pathway
+inborn error of renal tubular transport pathway
+cystinuria pathway
+guanidinoacetate methyltransferase deficiency pathway
+erythropoietic porphyria pathway
+cystinosis pathway
+ocular nonnephropathic cystinosis pathway
+carbamoyl phosphate synthetase i deficiency pathway
+aprotinin drug pathway
+aprotinin pharmacokinetics pathway
+aprotinin pharmacodynamics pathway
+arbekacin drug pathway
+arbekacin pharmacokinetics pathway
+arbekacin pharmacodynamics pathway
+argatrobran drug pathway
+argatrobran pharmacokinetics pathway
+argatroban pharmacodynamics pathway
+atenolol drug pathway
+atenolol pharmacokinetics pathway
+atenolol pharmacodynamics pathway
+gastrointestinal disease pathway
+folic acid deficiency pathway
+malabsorption syndrome pathway
+hereditary folate malabsorption pathway
+penbutolol drug pathway
+penbutolol pharmacokinetics pathway
+penbutolol pharmacodynamics pathway
+oxeprenolol drug pathway
+oxeprenolol pharmacokinetics pathway
+oxeprenolol pharmacodynamics pathway
+anesthetic drug pathway
+prilocaine drug pathway
+prilocaine pharmacokinetics pathway
+prilocaine pharmacodynamics pathway
+ropivacaine drug pathway
+ropivacaine pharmacokinetics pathway
+ropivacaine pharmacodynamics pathway
+torasemide drug pathway
+torasemide pharmacokinetics pathway
+torasemide pharmacodynamics pathway
+multiple carboxylase deficiency pathway
+biotinidase deficiency pathway
+holocarboxylase synthetase deficiency pathway
+reteplase drug pathway
+reteplase pharmacokinetics pathway
+reteplase pharmacodynamics pathway
+nadolol drug pathway
+nadolol pharmacokinetics pathway
+nadolol pharmacodynamics pathway
+pindolol drug pathway
+pindolol pharmacokinetics pathway
+pindolol pharmacodynamics pathway
+teniposide drug pathway
+teniposide pharmacokinetics pathway
+teniposide pharmacodynamics pathway
+zoledronate drug pathway
+zoledronate pharmacokinetics pathway
+zoledronate pharmacodynamics pathway
+eplerenone drug pathway
+eplerenone pharmacokinetics pathway
+eplerenone pharmacodynamics pathway
+3 - methylglutaconic aciduria type 1 pathway
+3 - methylglutaconic aciduria type 3 pathway
+adenylosuccinate lyase deficiency pathway
+alkaptonuria pathway
+fenoprofen drug pathway
+fenoprofen pharmacokinetics pathway
+fenoprofen pharmacodynamics pathway
+various drug pathway
+naloxone drug pathway
+naloxone pharmacokinetics pathway
+naloxone pharmacodynamics pathway
+porphyrin metabolic pathway
+cilostazol drug pathway
+cilostazol pharmacokinetics pathway
+cilostazol pharmacodynamics pathway
+malonic aciduria pathway
+hyperargininemia pathway
+carnitine metabolic pathway
+carnitine biosynthetic pathway
+carnitine degradation pathway
+aica - ribosuria pathway
+antiepileptic drug pathway
+fosphenytoin drug pathway
+fosphenytoin pharmacokinetics pathway
+fosphenytoin pharmacodynamics pathway
+glycine n - methyltransferase deficiency pathway
+nervous system lysosomal storage disease pathway
+sphingolipidosis pathway
+familial hypercholanemia pathway
+indometacin drug pathway
+indometacin pharmacokinetics pathway
+indometacin pharmacodynamics pathway
+glutaric aciduria type i pathway
+levobunolol drug pathway
+levobunolol pharmacokinetics pathway
+levobunolol pharmacodynamics pathway
+doxepin drug pathway
+doxepin pharmacokinetics pathway
+doxepin pharmacodynamics pathway
+psychostimulant drug pathway
+caffeine drug pathway
+caffeine pharmacokinetics pathway
+caffeine pharmacodynamics pathway
+trichlormethiazide drug pathway
+trichlormethiazide pharmacokinetics pathway
+trichlormethiazide pharmacodynamics pathway
+3 - hydroxy - 3 - methylglutaryl - coa lyase deficiency pathway
+aromatic l - amino acid decarboxylase deficiency pathway
+vitamin k antagonist drug pathway
+heparin group drug pathway
+heparin drug pathway
+heparin pharmacokinetics pathway
+heparin pharmacodynamics pathway
+enoxaparin drug pathway
+enoxaparin pharmacokinetics pathway
+enoxaparin pharmacodynamics pathway
+phenytoin drug pathway
+phenytoin pharmacokinetics pathway
+phenytoin pharmacodynamics pathway
+antiarrhythmic drug pathway
+mexiletine drug pathway
+mexiletine pharmacokinetics pathway
+mexiletine pharmacodynamics pathway
+muscular disease pathway
+muscle hypertonia disorder pathway
+muscle spasticity disorder pathway
+methylenetetrahydrofolate reductase deficiency pathway
+etoposide drug pathway
+etoposide pharmacokinetics pathway
+etoposide pharmacodynamics pathway
+cholesterol ester storage disease pathway
+lornoxicam drug pathway
+lornoxicam pharmacokinetics pathway
+lornoxicam pharmacodynamics pathway
+trastuzumab drug pathway
+trastuzumab pharmacokinetics pathway
+trastuzumab pharmacodynamics pathway
+antiparasitic drug pathway
+artemether drug pathway
+artemether pharmacokinetics pathway
+artemether pharmacodynamics pathway
+neurodevelopmental disorder pathway
+agat deficiency pathway
+fanconi syndrome pathway
+remifentanil drug pathway
+remifentanil pharmacokinetics pathway
+remifentanil pharmacodynamics pathway
+mitochondrial encephalomyopathy pathway
+mitochondrial neurogastrointestinal encephalopathy syndrome pathway
+intestinal disease pathway
+antineoplastic drug pathway
+immunostimulant drug pathway
+immunosuppressant drug pathway
+monoclonal antibody drug pathway
+cetuximab drug pathway
+cetuximab pharmacokinetics pathway
+cetuximab pharmacodynamics pathway
+panitumumab drug pathway
+panitumumab pharmacokinetics pathway
+panitumumab pharmacodynamics pathway
+hydroflumethiazide drug pathway
+hydroflumethiazide pharmacokinetics pathway
+hydroflumethiazide pharmacodynamics pathway
+hawkinsinuria pathway
+sialic acid storage disease pathway
+dobutamine drug pathway
+dobutamine pharmacokinetics pathway
+dobutamine pharmacodynamics pathway
+clomipramine drug pathway
+clomipramine pharmacokinetics pathway
+clomipramine pharmacodynamics pathway
+fructosuria pathway
+felbamate drug pathway
+felbamate pharmacokinetics pathway
+felbamate pharmacodynamics pathway
+tioguanine drug pathway
+tioguanine pharmacokinetics pathway
+tioguanine pharmacodynamics pathway
+cellular trafficking cycle pathway
+exocytosis pathway
+constitutive exocytosis pathway
+regulated exocytosis pathway
+endosomal sorting pathway
+degradative endosome sorting pathway
+chaperone mediated autophagy pathway
+cellular autophagy pathway
+altered cellular autophagy
+altered chaperone mediated autophagy
+microautophagy pathway
+endosome export pathway
+retrograde export pathway
+recycling export pathway
+endosome maturation pathway
+altered cellular trafficking cycle pathway
+altered endocytosis pathway
+altered endosomal sorting pathway
+altered endosome export pathway
+endosomal pathway
+altered endosomal pathway
+phosphatidylserine metabolic process
+phosphatidylinositol metabolic pathway
+phosphoinositide metabolic pathway
+altered phosphoinositide metabolic pathway
+synaptic differentiation pathway
+synaptic vesicle cycle pathway
+synaptic vesicle endocytosis pathway
+synaptic vesicle exocytosis pathway
+altered regulatory pathway pertinent to the brain
+altered synaptic vesicle cycle pathway
+altered synaptic vesicle endocytosis pathway
+synaptic vesicle trafficking pathway
+retromer - mediated pathway
+altered retromer - mediated pathway
+clathrin - dependent synaptic vesicle endocytosis
+altered clathrin - dependent synaptic vesicle endocytosis
+other antithrombotic drug pathway
+fondaparinux drug pathway
+fondaparinux pharmacokinetics pathway
+fondaparinux pharmacodynamics pathway
+congenital limb deformities pathway
+congenital hemidysplasia with ichthyosiform erythroderma and limb defects pathway
+levobupivacaine drug pathway
+levobupivacaine pharmacokinetics pathway
+levobupivacaine phgarmacodynamics pathway
+opioid drug pathway
+oxycodone drug pathway
+oxycodone pharmacokinetics pathway
+oxycodone pharmacodynamics pathway
+hydromorphone drug pathway
+hydromorphone pharmacokinetics pathway
+hydromorphone pharmacodynamics pathway
+hydrocodone drug pathway
+hydrocodone pharmacokinetics pathway
+hydrocodone pharmacodynamics pathway
+oxymorphone drug pathway
+oxymorphone pharmacokinetics pathway
+oxymorphone pharmacodynamics pathway
+salicylic acid drug pathway
+salicylic acid pharmacokinetics pathway
+salicylic acid pharmacodynamics pathway
+dermatological drug pathway
+sodium salicylate drug pathway
+sodium salicylate pharmacokinetics pathway
+sodium salicylate pharmacodynamics pathway
+carbamazepine drug pathway
+carbamazepine pharmacokinetics pathway
+carbamazepine pharmacodynamics pathway
+apparent mineralocorticoid excess syndrome pathway
+glut1 deficiency syndrome pathway
+felodipine drug pathway
+felodipine pharmacokinetics pathway
+felodipine pharmacodynamics pathway
+other antidepressant drug pathway
+venlafaxine drug pathway
+venlafaxine pharmacokinetics pathway
+venlafaxine pharmacodynamics pathway
+rosiglitazone drug pathway
+rosiglitazone pharmacokinetics pathway
+rosiglitazone pharmacodynamics pathway
+biliary tract disease pathway
+cholestasis pathway
+congenital bile acid synthesis defect pathway
+chloroprocaine drug pathway
+chloroprocaine pharmacokinetics pathway
+chloroprocaine pharmacodynamics pathway
+prednisolone drug pathway
+prednisolone pharmacokinetics pathway
+prednisolone pharmacodynamics pathway
+melatonin signaling pathway
+glycine signaling pathway
+leukotriene c4 synthase deficiency pathway
+phenindione drug pathway
+phenindione pharmacokinetics pathway
+phenindione pharmacodynamics pathway
+dicoumarol drug pathway
+dicoumarol pharmacokinetics pathway
+dicoumarol pharmacodynamics pathway
+adrenergic beta receptor agonist drug pathway
+adrenergic beta receptor selective agonist drug pathway
+adrenergic beta receptor non - selective agonist drug pathway
+isoprenaline drug pathway
+isoprenaline pharmacokinetics pathway
+isoprenaline pharmacodynamics pathway
+adrenal gland disease pathway
+adrenoleukodystrophy pathway
+carnitine - acylcarnitine translocase deficiency
+mycophenolic acid drug pathway
+mycophenolic acid pharmacokinetics pathway
+mycophenolic acid pharmacodynamics pathway
+catecholamine degradation pathway
+dopamine degradation pathway
+epinephrine degradation pathway
+norepinephrine degradation pathway
+tiaprofenic acid drug pathway
+thyroid - stimulating hormone biosynthetic pathway
+thyrotropin - releasing hormone biosynthetic pathway
+somatostatin biosynthetic pathway
+thyroglobulin processing pathway
+thyroid hormone biosynthetic pathway
+flurbiprofen drug pathway
+flurbiprofen pharmacokinetics pathway
+flurbiprofen pharmacodynamics pathway
+ethylmorphine drug pathway
+ethylmorphine pharmacokinetics pathway
+ethylmorphine pharmacodynamics pathway
+magnesium salicylate drug pathway
+hereditary central nervous system demyelinating disease pathway
+metachromatic leukodystrophy pathway
+cocaine drug pathway
+cocaine pharmacokinetics pathway
+cocaine pharmacodynamics pathway
+lidocaine drug pathway
+lidocaine pharmacokinetics pathway
+lidocaine pharmacodynamics pathway
+oxybuprocaine drug pathway
+oxybuprocaine pharmacokinetics pathway
+oxybuprocaine pharmacodynamics pathway
+dihydromorphine drug pathway
+dihydromorphine pharmacokinetics pathway
+dihydromorphine pharmacodynamics pathway
+acid - base imbalance pathway
+acidosis pathway
+alkalosis pathway
+lactic acidosis pathway
+succinyl - coa:3 - oxoacid transferase deficiency pathway
+levacetylmethadol drug pathway
+levacetylmethadol pharmacokinetics pathway
+levacetylmethadol pharmacodynamics pathway
+levorphanol drug pathway
+levorphanol pharmacokinetics pathway
+levorphanol pharmacodynamics pathway
+familial lipoprotein lipase deficiency pathway
+heroin drug pathway
+heroin pharmacokinetics pathway
+heroin pharmacodynamics pathway
+cystathioninuria pathway
+glutathionuria disease pathway
+ornithine translocase deficiency pathway
+phytanic acid degradation pathway
+carnosinemia pathway
+adenine phoshoribosyltransferase deficiency pathway
+urolithiasis pathway
+mercaptolactate - cysteine disulfiduria pathway
+3 - hydroxyisobutyric aciduria pathway
+diphenoxylate drug pathway
+diphenoxylate pharmacokinetics pathway
+diphenoxylate pharmacodynamics pathway
+hypoglycemia pathway
+carnitine palmitoyltransferase i deficiency pathway
+dopamine oxidation pathway
+3 - methylcrotonyl coa carboxylase 1 deficiency pathway
+3 - methylcrotonyl coa carboxylase 2 deficiency pathway
+altered brain - derived neurotrophic factor signaling pathway
+nicotinamide adenine dinucleotide metabolic pathway
+nicotinamide adenine nucleotide utilization pathway
+adp - ribosylation pathway ,  mono and poly - ribosylation
+adp - ribosylation pathway ,  cyclic ribosylation
+sirtuin mediated pathway
+carvedilol drug pathway
+carvedilol pharmacokinetics pathway
+carvedilol pharmacodynamics pathway
+bone disease pathway
+chondrodysplasia punctata pathway
+osteochondrodysplasia pathway
+x - linked dominant chondrodysplasia punctata 2 pathway
+vitamin k cycle pathway
+dabigatran drug pathway
+dabigatran pharmacokinetics pathway
+dabigatran pharmacodynamics pathway
+direct factors xa inhibitor drug pathway
+apixaban drug pathway
+edoxaban drug pathway
+rivaroxaban drug pathway
+apixaban pharmacokinetics pathway
+apixaban pharmacodynamics pathway
+edoxaban pharmacokinetics pathway
+edoxaban pharmacodynamics pathway
+rivaroxaban pharmacokinetics pathway
+rivaroxaban pharmacodynamics pathway
+protease mediated signaling pathway
+protease mediated signaling via protease - activated receptor 1
+protease mediated signaling via protease - activated receptor 2
+protease mediated signaling via protease - activated receptor 4
+protease mediated signaling via protease - activated receptor 3
+altered hemostasis pathway
+altered natural anticoagulant pathway
+altered coagulation cascade pathway
+altered protein c anticoagulant pathway
+glyoxalase metabolic pathway
+altered fibrinolysis pathway
+phosphoenolpyruvate carboxykinase deficiency pathway
+altered platelet - derived growth factor signaling pathway
+altered oxidative stress response pathway
+altered cellular detoxification pathway
+altered nuclear factor ,  erythroid 2 like 2 signaling pathway
+endogenous antioxidant pathway
+ferroptosis pathway
+bortezomib drug pathway
+bortezomib pharmacokinetics pathway
+bortezomib pharmacodynamics pathway
+paraquat response pathway
+iron uptake pathway
+iron efflux pathway
+iron utilization pathway
+iron - sulfur cluster protein biogenesis pathway
+mitochondrial iron - sulfur cluster protein biogenesis pathway
+cytosolic iron - sulfur cluster protein assembly pathway
+mitochondrial iron - sulfur cluster export pathway
+cofactor transport pathway
+heme transport pathway
+part_of
+alpha - linolenic acid metabolic pathway
+phosphatidylglycerol metabolic pathway
+peptide and protein metabolic pathway
+peptide and protein hormone metabolic pathway
+carrier pathway of mitochondrial protein import
+carbamoyl phosphate synthase i deficiency pathway
+urea cycle disease pathway
+phosphatidylserine metabolic pathway
+acrolein response pathway

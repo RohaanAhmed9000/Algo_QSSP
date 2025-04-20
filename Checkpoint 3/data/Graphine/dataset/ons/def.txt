@@ -1,0 +1,102 @@
+aphanumeric string  ( 1 to 8 digits )  which univocally identify a partecipant / subject .
+month of anthropometry assessment counted from 1900 ;  e .g .
+for past smokers: time in years since quitting smoking
+month of physical activity assessment by questionnaire counted from 1900 ;  e .g .
+categories of physical activity level \ n1=low ;  2= medium ;  3= high
+total physical activity in met - hours / day  ( without sedentary or sleeping time )  derived from questionnaire data
+physical activity from recreational or leisure - time activities in met - hours / day derived from questionnaire data
+time spent in light physical activity in minutes / day derived from questionnaire data
+time spent in moderate physical activity in minutes / day derived from questionnaire data
+time spent in vigorous physical activity in minutes / day derived from questionnaire data
+time spent sedentary  ( pc use ,  tv watching )  in minutes / day derived from questionnaire data
+number of physical activity bouts of moderate or vigorous physical activity of at least 10 minutes per day
+month of physical activity assessment by accelerometer counted from 1900 ;  e .g .
+time spent in light physical activity in minutes / day derived from accelerometer data
+time spent in moderate physical activity in minutes / day derived from accelerometer data
+time spent in vigorous physical activity in minutes / day derived from accelerometer data
+time spent sedentary in minutes / day derived from accelerometer data
+number of bouts of moderate or vigorous physical activity per day
+average minutes per bout of moderate or vigorous physical activity per day
+dietary assessment used for uploaded dietary variables \ n1=24 - hour recall ;  2=ffq ;  3=food record ;  4=other
+month of dietary assessment counted from 1900 ;  e .g .
+carbohydrate intake per unit time
+fiber intake per unit time
+total fat intake per unit time
+saturated fatty acid intake per unit time
+monounsaturated fatty acid intake per unit time
+polyunsaturated fatty acid intake per unit time
+protein intake in per unit time
+month of blood draw counted from 1900 ;  e .g .
+fasting status before blood draw  ( measured in hours of fasting before blood draw )   \ n1=less than 9 hours ;  2=9 hours or more
+the process of collecting information on the diet / eating habits of a subject using a questionnaire .
+a study short name is a short alphanumeric string used to abbreviate a study proper name  ( omiabis_0000037 ) 
+name of the consortium which the study refers to
+the name of the method used for randomization  ( obcs_0000089 )  ,  if any randomization was adopted .
+indicate whether blinded experiment were conducted or not
+if blinded experiment were conducted ,  indicate the method used for blinding
+indicated whether the study is terminated or not
+indicate whethet the compliance was assessed or not
+the ration between the circumference of the waist to that of the hips
+a  ( short )  alphanumeric string which identify the event / tretment
+an alphanumeric string which identify and describe the event / tretment
+short description of the sampling method used  ( i .e .
+a long description of the sampling method used
+long text describing the assay used .
+platform used for the assay
+the unique sampling event identifier for the sample collection producing the sample
+this field is usually 0 for the overall intervention but may be several time points for challenges ,  e .g .
+this class should not be used as an ontology term ,  it is included as a superclass for the purpose to give a better organization to the ontology .
+this class should not be used as an ontology term ,  it is included as a superclass for the purpose to give a better organization to the ontology .
+start tab .this class should not be used as an ontology term ,  it is included as a superclass for the purpose to give a better organization to the ontology .
+events tab .this class should not be used as an ontology term ,  it is included as a superclass for the purpose to give a better organization to the ontology .
+sampling tab .this class should not be used as an ontology term ,  it is included as a superclass for the purpose to give a better organization to the ontology .
+informations tab .this class should not be used as an ontology term ,  it is included as a superclass for the purpose to give a better organization to the ontology .
+the process of collecting various chemical - biological data  ( e .g .
+the process of collecting data from a sample using 'omic' technologies
+type of omic assay performed  ( i .e .
+assay type  ( i .e .clinical chemistry assay: standard kit #34567 from 'vendor' assayed on a cobas mira analyzer ) 
+a short text identifying the question
+type of question or question variable code
+type of physiology assay performed
+an assay which purpose is to collect all the general information  ( e .g .
+the subject  ( human )  participating in a nutritional study .
+an experimental comparison study in which participants are allocated to treatment / intervention or control / placebo groups using a random mechanism  ( see randomisation )  .
+a controlled trial where each study participant has both therapies ,  e .g ,  is randomised to treatment a first ,  at the crossover point they then start treatment b .
+data are obtained from groups who have been exposed ,  or not exposed ,  to the new technology or factor of interest  ( eg from databases )  .
+patients with a certain outcome or disease and an appropriate group of controls without the outcome or disease are selected  ( usually with careful consideration of appropriate choice of controls ,  matching ,  etc )  and then information is obtained on whether the subjects have been exposed to the factor under investigation .
+a study that examines the relationship between diseases  ( or other health - related characteristics )  and other variables of interest as they exist in a defined population at one particular time  ( ie exposure and outcomes are both measured at the same time )  .
+any substance that is distributed in foodstuffs .
+component added to food to improve or preserve it
+unwanted food component that makes the food no longer suitable for use
+a food bioactive is a food component other than those needed to meet basic human nutritional needs  ( nutrients )  .
+a nutrient is a food component used by the body for normal physiologic functions that guarantee survival and growth .
+an ingredient is a material entity used as part for the preparatio of food .
+the food is a complex matrix that is consumed by a person through the process of eating or drinking .
+the regular course of eating and drinking adopted by a person
+the diet administered during an intervention study .
+a diet prescribed by a physician /  nutritionist to meet spe - cific nutritional needs of a person
+the regular course of eating and drinking adopted by a population in a certain geographical area ,  or in a certain cultural setting ,  or following certain common eating behaviour .
+cook role is the role of the person responsible for food prepraration
+a meal is an eating / drinking occasion which usually accours at certain time during the day .
+the consumption of liquids .not for drinking alcohol or alcohol consumption  (  = alcohol drinking )  ;  differentiate from drinking behavior .
+the consumption of edible substances .
+a class which groups the data item collected as results from the subject information collection assay
+a class which groups the data item collected as results from the dietary assessment assay
+a class which groups the data item collected as results from the chemical biological assay
+a class which groups the data item collected as results from the analysis performed with an omics platform
+a class which groups the data item collected as results from the physical activity assay
+food preparation is the process in which food is made .
+dietary pattern represent the quantity ,  proportion ,  variety and combination of different foods and drinks consumed in meals ,  and the frequency with which they are habitually consumed .
+an objective measurement to assess the exposure  ( including food intake )  ,  effect ,  or succeptibility of the human organism  ( or an animal etc . ) 
+an exposure biomarker reflects the level of extrinsic variables that humans are exposed to ,  such as diets or food compounds ,  including nutrients and non - nutrients .
+an effect biomarker reflects the funciontal response of the human body to an exposure .
+measurable indicator including genetic or acquired host factors and intrinsic factors ,  influencing the response of an individual to a  ( dietary )  exposure .
+a raw food is an uncooked ,  unprocessed food that is consumed in its natural state
+a processed food is the result of the process of home or industrial food preparation
+digestion is the breakdown of large insoluble food molecules into small water - soluble food molecules .
+process mainly occurring in the small intestine and allowing the passage of the biaoccessible food components from the gastro - intestinal lumen into the blood vessels .
+sum of the chemical changes occurring to nutrients and food component within the body .
+finite list of foods and beverages with response categories to indicate usual frequency of consumption over the time period queried .
+a structured interview intended to capture detailed information about all foods and beverages  ( and possibly ,  dietary supplements )  consumed by the respondent in the past 24 hours ,  most commonly ,  from midnight to midnight the previous day .
+a food diary is a record of eaten foods on a meal - by - meal ,  daily ,  or weekly basis .
+nutritional researcher role is the role of a researcher with specific training and expertise in the nutritional science field

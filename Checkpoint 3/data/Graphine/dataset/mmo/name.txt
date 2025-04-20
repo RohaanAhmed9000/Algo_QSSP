@@ -1,0 +1,684 @@
+measurement method
+electrical potential recording method
+transthoracic echocardiography
+electrocardiography
+isolated body part method
+post excision weight measurement
+shimadzu electronic balance post excision weight measurement
+photoplethysmography
+piezoplethysmography
+vascular indwelling catheter method
+vascular balloon tipped catheter
+vascular fluid filled catheter
+radiotelemetry
+whole body digital scale
+fluoroimmunoassay
+magnetic resonance imaging  ( mri )
+laser doppler flowmetry
+electroencephalography  ( eeg )
+ultrasound method
+ultrasonic flowmeter with doppler
+in vivo method
+ex vivo method
+isolated perfused heart method
+ex vivo blood analysis
+arterial puncture
+digital rectal thermometry
+automated blood gas analysis using a bayer analyzer
+automated blood electrolyte analysis
+blood lipid analysis
+flame atomic emission spectrometry
+dynamometry
+12 lead electrocardiography
+oscillometric sphygmomanometer
+tail cuff photoplethysmography
+tail cuff piezoplethysmography
+auscultatory sphygmomanometer
+intra - aortic abdominal radiotelemetry
+tonometry
+bioimpedance method
+radioimmunoassay
+thoracic electrical bioimpedance  ( teb )
+enzyme linked immunosorbent assay  ( elisa )
+plethysmography
+applanation tonometry
+dynamic contour tonometry
+impression tonometry
+skin fold caliper method
+refractometry
+isolated perfused lung method
+digital column scale
+venipuncture
+hydrostatic weighing method
+ultrasonic flowmeter with pulsed wave doppler
+skin puncture
+spirometry
+hand dynamometry
+stationary bicycle dynamometry
+blood draw method
+immunoassay
+thrombelastometry
+gel electrophoresis
+digital stadiometer
+mechanical stadiometer
+ultrasonic flowmeter with continuous wave doppler
+transesophageal echocardiography
+ex vivo microscopy
+ex vivo electron microscopy
+ex vivo light microscopy
+blood glucose analysis
+oral glucose tolerance test
+isolated perfused heart effluent collection
+random blood glucose test  ( rbg )
+harpenden skin fold caliper
+body measuring method
+anthropometric tape
+lange skin fold caliper
+lafayette small anthropometer method
+in vivo radiography
+serial radiography
+electron radiography
+tomography
+computed tomography
+positron emission tomography  ( pet )
+air displacement plethysmography
+serum total cholesterol measurement test
+serum high - density lipoprotein - cholesterol measurement test
+serum low - density lipoprotein - cholesterol measurement test
+serum very low - density lipoprotein - cholesterol measurement test
+serum triglyceride analysis
+automated serum ionized calcium test
+automated serum potassium test
+automated serum sodium test
+automated serum chloride test
+automated blood cell counting method
+urine analysis
+manually read urine amylase test strip
+manually read urine cortisol test strip
+manually read urine glucose test strip
+manually read urine microalbumin test strip
+manually read urine potassium test strip
+manually read urine sodium test strip
+manually read urine uric acid test strip
+digital scale post excision weight measurement
+in vivo caliper method
+unspecified method
+isolated tissue method
+ex vivo visual assessment
+in vivo visual assessment
+intraperitoneal glucose tolerance test
+electro - chemical glucometer
+blood protein analysis
+blood lipoprotein analysis
+automated blood creatinine analysis
+standard blood chemistry panel
+osmometry
+urine test strip
+spectrometry
+spectrophotometry
+automated hematology analysis
+automated blood gas analysis
+manually read blood glucose test strip
+automated urine analysis
+automated coagulometer method
+automated blood analysis
+machine read urine test strip
+manually read urine test strip
+machine read urine microalbumin test strip
+machine read urine sodium test strip
+machine read urine potassium test strip
+blood glucose test strip
+machine read blood glucose test strip
+dial skin fold caliper method
+digital skin fold caliper method
+in vivo thermometry
+manual rectal thermometry
+manual oral thermometry
+digital oral thermometry
+doppler ultrasound
+continuous wave doppler ultrasound
+pulsed wave doppler ultrasound
+sphygmomanometry
+encephalography
+glucose tolerance analysis
+tissue force analysis
+tissue force analysis utilizing a force transducer
+body length measuring method
+in vivo measuring stick method
+in vivo ruler method
+ex vivo volume measurement method
+graduated cylinder
+hematocrit analysis
+microhematocrit tube assay with visual assessment
+blood free fatty acid analysis
+scale
+baby weighing scale
+ex vivo microscopy with digital image analysis
+ex vivo light microscopy with digital image analysis
+ex vivo electron microscopy with digital image analysis
+isolated cell method
+isolated cell volume measurement method
+isolated cell counting method
+automated cell / particle size / count analysis method
+coulter multisizer automated cell / particle size / count analysis method
+coulter counter cell / particle size / count analysis method
+ultrasonic flowmeter
+atomic spectrometry
+atomic emission spectrometry
+inductively coupled plasma - atomic emission spectrometry
+atomic absorption spectrometry
+blood triglyceride analysis
+plasma triglyceride analysis
+body fluid collection method
+ureter indwelling catheter method
+radioactivity measurement method
+liquid scintillation counting
+cell - based biologic assay
+lipolysis assay
+radioactive glucose uptake assay
+radioactive glucose uptake assay with liquid scintillation counting
+fluorescent glucose uptake assay
+lipolysis assay measuring glycerol release
+lipolysis assay measuring free fatty acid release
+fluorometry
+aggregometry
+light transmission aggregometry
+intracellular calcium assay
+fluorescent intracellular calcium assay
+fura - 2 intracellular calcium assay
+blood urea nitrogen analysis
+body movement / behavior method
+movement / behavior test apparatus method
+movement / behavior test enclosure method
+movement / behavior test maze method
+open field apparatus method
+center of open field apparatus
+periphery of open field apparatus
+corner of open field apparatus
+elevated plus maze apparatus method
+center of elevated plus maze apparatus
+arm ( s )  of elevated plus maze apparatus
+enclosed arm of elevated plus maze apparatus
+open arm of elevated plus maze apparatus
+elevated t - maze apparatus method
+enclosed arm of elevated t - maze apparatus
+open arm of elevated t - maze apparatus
+blood creatinine analysis
+serum creatinine analysis
+blood urea analysis
+serum urea analysis
+serum urea nitrogen analysis
+urine creatinine analysis
+post excision length measurement
+isolated body part size method
+blood high - density lipoprotein - cholesterol measurement test
+blood low - density lipoprotein - cholesterol measurement test
+blood total cholesterol measurement test
+blood very low - density lipoprotein - cholesterol measurement test
+plasma high - density lipoprotein - cholesterol measurement test
+plasma low - density lipoprotein - cholesterol measurement test
+plasma total cholesterol measurement test
+plasma very low - density lipoprotein - cholesterol measurement test
+molecular separation method
+electrophoresis
+chromatography
+thin layer chromatography
+blood ph analysis
+cell - based electrophysiological assay
+patch clamp technique
+whole - cell patch clamp technique
+automated platelet count test
+blood hemoglobin analysis
+novel cage apparatus method
+novel cage apparatus test utilizing automatic movement detection system
+elevated zero maze apparatus method
+open section of elevated zero maze apparatus
+enclosed section of elevated zero maze apparatus
+two way shuttlebox apparatus method
+active avoidance test using two way shuttlebox apparatus
+radioenzymatic assay
+radioenzymatic assay measuring enzyme level or activity
+radioenzymatic assay measuring substrate level
+serum free fatty acid analysis
+plasma free fatty acid analysis
+fluorescence - activated cell sorting method
+blood hormone analysis
+blood aldosterone analysis
+plasma aldosterone analysis
+serum aldosterone analysis
+plasma glucose analysis
+serum glucose analysis
+flowmetry
+electromagnetic flowmetry
+blood insulin analysis
+plasma insulin analysis
+serum insulin analysis
+blood phospholipid analysis
+plasma phospholipid analysis
+serum phospholipid analysis
+intravenous glucose tolerance test
+colorimetry
+solid phase colorimetry
+liquid phase colorimetry
+peptide / protein analysis by liquid phase colorimetry
+protein analysis by liquid phase colorimetry with spectrophotometric readout
+pyrogallol red - molybdate complex - based urine total protein analysis with spectrophotometric readout
+protein analysis by liquid phase colorimetry with visual assessment
+urine protein analysis
+urine total protein analysis
+urine microalbumin analysis
+echocardiography
+southern blot
+ex vivo myography
+wire myography
+autopsy
+necropsy
+automated blood protein analysis
+automated serum protein analysis
+automated serum total protein analysis
+automated serum bicarbonate test
+automated blood albumin analysis
+automated serum albumin analysis
+automated plasma albumin analysis
+automated plasma protein analysis
+automated serum creatinine analysis
+automated plasma creatinine analysis
+automated blood total protein analysis
+automated plasma total protein analysis
+urine volume measurement method
+automated urine protein analysis
+automated urine total protein analysis
+automated urine albumin analysis
+treadmill method
+treadmill method with electric shock source
+dual - energy x - ray absorptiometry
+quantitative computed tomography
+in vivo peripheral quantitative computed tomography
+ex vivo radiography
+ex vivo peripheral quantitative computed tomography
+hemocytometer
+nitrite analysis by liquid phase colorimetry
+nitrite analysis using the griess reaction
+ex vivo biological fluid analysis
+exudate analysis
+exudate nitrite analysis
+urine nitrite analysis
+blood nitrite analysis
+urine nitrite analysis using the griess reaction
+exudate nitrite analysis using the griess reaction
+blood nitrite analysis using the griess reaction
+flame atomic absorption spectrometry
+graphite furnace atomic absorption spectrometry
+treadmill method with automated tracking
+treadmill method with electric shock source and automated tracking
+absorptiometry
+dual photon absorptiometry
+single photon absorptiometry
+electroanalytical method
+clark - type oxygen electrode method
+enzymatic method
+enzymatic lipid assay
+enzymatic cholesterol assay
+enzymatic triglyceride assay
+pipette method
+calibrated mohr pipette method
+high - performance liquid chromatography
+richter feeding tube
+isolated bone method
+bone three - point bending test
+bone four - point bending test
+bone compression test
+bone torsion test
+visual assessment of in vivo video recording
+morris water maze method
+enzymatic microassay
+liquid column chromatography
+implanted wire electrode recording method
+urine albumin analysis
+ex vivo photography
+in vivo photography
+in vivo photography with digital image analysis
+ex vivo photography with digital image analysis
+tilting plane test
+moving tilting plane test
+stationary tilting plane test
+v - shaped trough test
+in vivo light microscopy
+in vivo stereo light microscopy
+ex vivo stereo light microscopy
+ex vivo stereo light microscopy with digital image analysis
+in vivo stereo light microscopy with digital image analysis
+in vivo light microscopy with digital image analysis
+ex vivo light microscopy with immunohistochemistry and digital image analysis
+urine protein colorimetric analysis
+bicinchoninic acid protein assay
+lowry protein assay
+bradford protein assay
+plasma total protein analysis
+serum total protein analysis
+blood enzyme activity assay
+blood renin activity assay
+plasma renin activity assay
+serum renin activity assay
+urine electrolyte analysis
+urine sodium analysis
+urine potassium analysis
+bromocresol green - based urine albumin analysis with spectrophotometric readout
+immunodiffusion assay
+ouchterlony double immunodiffusion assay
+radial immunodiffusion assay
+reverse radial immunodiffusion assay
+bioassay
+cell proliferation bioassay
+blood total protein analysis
+enzyme activity assay
+blood cell counting method
+manual blood cell counting method
+manual hemocytometer - based blood cell counting method
+computer - aided tensile strength and compression test
+thymidine incorporation bioassay
+ion - selective electrode method
+chloride ion - selective electrode method
+sodium ion - selective electrode method
+potassium ion - selective electrode method
+test apparatus method utilizing mechanical transducer
+test apparatus method utilizing piezoelectric accelerometer
+automated urine sodium analysis
+urine ph analysis
+enzyme - linked immunosorbent spot assay
+polymerase chain reaction
+real - time polymerase chain reaction
+reverse transcription polymerase chain reaction
+quantitative reverse transcription polymerase chain reaction
+urine potassium test strip
+urine sodium test strip
+radiotelemetry electrocardiography
+serum total phospholipid measurement test
+phospholipid analysis of serum lipoprotein fraction
+column chromatography
+gas chromatography
+gas - solid chromatography
+gas - liquid chromatography
+blood intermediate - density lipoprotein cholesterol measurement test
+serum intermediate - density lipoprotein cholesterol measurement test
+plasma intermediate - density lipoprotein cholesterol measurement test
+blood high - density lipoprotein phospholipid measurement test
+blood intermediate - density lipoprotein phospholipid measurement test
+blood low - density lipoprotein phospholipid measurement test
+blood very low - density lipoprotein phospholipid measurement test
+blood total phospholipid measurement test
+plasma total phospholipid measurement test
+serum high - density lipoprotein phospholipid measurement test
+plasma high - density lipoprotein phospholipid measurement test
+serum intermediate - density lipoprotein phospholipid measurement test
+plasma intermediate - density lipoprotein phospholipid measurement test
+serum low - density lipoprotein phospholipid measurement test
+plasma low - density lipoprotein phospholipid measurement test
+serum very low - density lipoprotein phospholipid measurement test
+plasma very low - density lipoprotein phospholipid measurement test
+blood differential lipoprotein - cholesterol analysis
+blood differential lipoprotein - phospholipid analysis
+blood cholesterol analysis
+in vivo linear measurement method
+measuring stick - based body length measuring method
+ruler - based body length measuring method
+ex vivo linear measurement method
+histology
+histochemistry
+immunohistochemistry
+ex vivo microscopic linear measurement method
+ex vivo linear measurement method using electron microscopy
+ex vivo linear measurement method using light microscopy
+cell - based bioassay
+cell proliferation assay
+urine protein sulfosalicylic acid precipitation test
+glove test
+glove test with visual analysis of video recording
+wire electrode telemetric electrocardiography with power spectral analysis
+in vivo whole body quantitative computed tomography
+audiometry
+evoked response audiometry
+metabolic cage urine volume measurement method
+lipid peroxide analysis by liquid phase colorimetry
+thiobarbituric acid assay
+ex vivo caliper method
+ex vivo slide caliper method
+ex vivo digital caliper method
+ex vivo dial caliper method
+blood sterol analysis
+blood phytosterol analysis
+blood campesterol measurement test
+blood sitosterol measurement test
+serum sitosterol measurement test
+plasma sitosterol measurement test
+plasma campesterol measurement test
+serum campesterol measurement test
+isolated tissue lipid analysis
+isolated tissue triglyceride measurement test
+isolated tissue sterol analysis
+isolated tissue cholesterol measurement test
+isolated tissue phytosterol analysis
+isolated tissue campesterol measurement test
+isolated tissue sitosterol measurement test
+white blood cell counting method
+mass spectrometry
+liquid chromatography - mass spectrometry
+gas chromatography - mass spectrometry
+high performance liquid chromatography - mass spectrometry
+ex vivo light microscopy with immunohistochemistry
+automated bromocresol green - based plasma albumin analysis with spectrophotometric readout
+creatinine analysis by liquid phase colorimetry
+creatinine analysis by liquid phase colorimetry with spectrophotometric readout
+creatinine analysis by jaffe reaction with spectrophotometric readout
+urine creatinine analysis by jaffe reaction with spectrophotometric readout
+plasma creatinine analysis by jaffe reaction with spectrophotometric readout
+plasma creatinine analysis by jaffe reaction without deproteinization with spectrophotometric readout
+plasma creatinine analysis by jaffe reaction with deproteinization and spectrophotometric readout
+ophthalmoscopy
+indirect ophthalmoscopy
+direct ophthalmoscopy
+slit - lamp ophthalmoscopy
+slit - lamp direct ophthalmoscopy
+slit - lamp indirect ophthalmoscopy
+automated plasma analysis
+automated serum analysis
+automated plasma analysis using beckman analyzer
+automated serum electrolyte analysis
+peptide analysis by liquid phase colorimetry with spectrophotometric readout
+reduced glutathione / oxidized glutathione enzyme recycling assay
+defensive burying test
+ex vivo light microscopy with histochemistry and digital image analysis
+ex vivo light microscopy with histochemistry
+ex vivo microbiological method
+plate count
+plate count using selective / restrictive growth conditions
+plate count using todd - hewitt yeast extract agar plates
+plate count using supplemented brain - heart infusion / vancomycin plates
+rotarod performance test
+ex vivo volume measurement calculated from measurement of weight
+ex vivo volume measurement calculated from change in weight
+micro - computed tomography
+fear conditioning test
+contextual fear conditioning test
+cued fear conditioning test
+forced swim test
+computational method
+kaplan - meier estimate
+intra - aortic radiotelemetry
+intra - aortic thoracic radiotelemetry
+intra - aortic thoracic radiotelemetry via carotid cannulation
+intra - aortic abdominal radiotelemetry via femoral cannulation
+intra - aortic abdominal radiotelemetry via abdominal aorta cannulation
+intra - carotid radiotelemetry
+ex vivo analysis of atomic composition
+ex vivo analysis of atomic composition following dry ashing
+flame atomic emission spectrometry following dry ashing
+wildness / tameness assessment method
+wildness assessment scale method
+balance ,  coordination or strength assessment method
+grid test
+parallel rod floor apparatus method
+activity monitoring apparatus method
+conditioned placed preference test
+endurance swim test
+go / no - go task
+hole - board test
+home cage monitoring method
+light - dark box test
+shirpa test
+modified shirpa test
+observational fear learning apparatus method
+operant conditioning chamber method
+five - choice serial - reaction time task
+puzzle box apparatus method
+three - chamber assay
+three - chamber sociability and social novelty test
+visual cliff apparatus method
+visual water box method
+barnes circular maze test
+elevated y - maze apparatus method
+isolated body part material fatigue test
+bone material fatigue test
+in vivo body part measuring method
+tail length measuring method
+taste threshold test
+electroconvulsive threshold test
+electroretinography
+flow cytometry method
+consumption measuring method
+drink intake measuring method
+food intake measuring method
+laser interference biometry
+ex vivo manometry
+transepidermal water loss test
+tympanometry
+respiratory mechanics assessment method
+vestibular system assessment method
+virtual optometry
+in vivo x - ray radiography
+blood cytokine analysis
+blood parathyroid hormone analysis
+standard blood plasma chemistry panel
+standard blood serum chemistry panel
+bronchoalveolar lavage
+inulin analysis by liquid phase colorimetry
+inulin analysis by thiourea - resorcinol assay
+p - aminohippurate analysis by liquid phase colorimetry
+micropuncture fluid collection
+servo - null micropipette transducer method
+molecular method
+expression assay
+transcript expression assay
+protein expression assay
+in situ expression assay
+high throughput expression assay
+cdna clone - based transcript expression assay
+nucleic acid dot / slot blot assay
+northern blot assay
+high throughput transcription profiling by array
+high throughput transcription profiling by microarray
+high throughput transcription profiling by tiling array
+nuclease protection assay
+ribonuclease protection assay
+nuclease s1 protection assay
+primer extension assay
+reverse transcription polymerase chain reaction assay
+quantitative reverse transcription polymerase chain reaction assay
+in situ reverse transcription polymerase chain reaction assay
+ribonucleic acid in situ hybridization assay
+rna - seq assay
+serial analysis of gene expression assay
+protein function - based expression assay
+immunofluorescence
+immunoelectron microscopy
+high throughput proteomic profiling
+high throughput proteomic profiling by mass spectrometry
+high throughput proteomic profiling by array
+high throughput proteomic profiling by tissue array
+high throughput proteomic profiling by antibody array
+western blot assay
+in situ reporter assay
+transgenic in situ reporter assay
+knock - in in situ reporter assay
+in situ recombinase reporter assay
+vapor pressure osmometry
+urine urea analysis
+blood &#945 ;  - n - acetylgalactosaminidase activity assay
+anion - exchange chromatography
+cell fractionation
+chromatin immunoprecipitation
+co - fractionation
+immunoprecipitation
+co - immunoprecipitation
+gel filtration chromatography
+confocal microscopy
+immunofluorescence confocal microscopy
+urine aldosterone analysis
+plasma parathyroid hormone analysis
+serum parathyroid hormone analysis
+automated plasma total cholesterol analysis
+automated plasma low - density lipoprotein - cholesterol analysis
+optical coherence tomography
+metabolic cage water drinking measurement method
+comprehensive metabolic panel
+serum hormone analysis
+part_of
+magnetic resonance imaging
+enzyme linked immunosorbent assay
+active avoidance test using a two - way shuttle box apparatus
+pyrogallol red - molybdate complex - based urine total protein analysis
+western blot
+polymerase chain reaction assay
+real - time polymerase chain reaction assay
+high - performance liquid chromatography - mass spectrometry
+blood naga activity assay
+plasma hormone analysis
+blood eicosanoid analysis
+plasma eicosanoid analysis
+serum eicosanoid analysis
+photometry
+blood carbohydrates and carbohydrate derivative analysis
+blood fructosamine analysis
+plasma fructosamine analysis
+serum fructosamine analysis
+nuclear magnetic resonance spectroscopy
+electron paramagnetic resonance spectroscopy
+electron paramagnetic resonance oximetry
+centrifugation
+enzyme immunoassay
+microplate reader
+morgan - elson assay
+fluorimetric morgan - elson assay for hyaluronidase activity
+colorimetric morgan - elson assay for hyaluronidase activity
+dynamic contrast - enhanced magnetic resonance imaging
+freezing point osmometry
+ultra - performance liquid chromatography
+ultra - performance liquid chromatography - mass spectrometry
+ex vivo light microscopy with inverted microscope
+blood nag activity assay
+passive avoidance test using a two - way shuttle box apparatus
+blood p - phenylenediamine oxidase activity assay
+plasma p - phenylenediamine oxidase activity assay
+serum p - phenylenediamine oxidase activity assay
+flame photometry
+o - phthalaldehyde fluorescent protein assay
+nociception measurement method
+randall - selitto test
+automated plasma triglyceride analysis
+automated plasma glucose analysis
+inductively coupled plasma mass spectrometry
+sensation test
+esthesiometry
+corneal sensitivity test  using a cochet - bonnet esthesiometer
+corneal esthesiometry
+schirmer test
+multiphoton microscopy
+in vivo microscopy
+blood corticosterone analysis
+plasma corticosterone analysis
+serum corticosterone analysis
+blood 11 - dehydrocorticosterone analysis
+plasma 11 - dehydrocorticosterone analysis
+serum 11 - dehydrocorticosterone analysis
+total organ perfusion and parasite count
+immunofluorescence confocal microscopy with digital image analysis

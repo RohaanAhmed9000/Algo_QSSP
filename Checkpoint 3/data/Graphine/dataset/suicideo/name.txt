@@ -1,0 +1,212 @@
+curation status specification
+data about an ontology part
+obsolescence reason specification
+denotator type
+base ontology module
+editors ontology module
+main release ontology module
+bridge ontology module
+import ontology module
+subset ontology module
+curation subset ontology module
+analysis subset ontology module
+single layer subset ontology module
+exclusion subset ontology module
+external import ontology module
+species subset ontology module
+reasoned ontology module
+generated ontology module
+template generated ontology module
+obo basic subset ontology module
+behavior disorder
+retrospective studies
+r squared
+asian
+f - test
+hearing disorder
+data
+unemployment
+group
+hopelessness
+median
+quartile
+acute stress disorder
+love
+never married
+mean
+self destructive behavior
+chi - square test
+sexual orientation
+diagnostic or prognostic test
+age
+generalized anxiety disorder
+affection
+nervous system finding
+psychosis
+symptom specific assessment tool
+symptom
+male
+euphoria
+emotion
+pediatric psychiatric disorder
+full time employment
+disorder by site
+variance
+dementia
+professional organization
+burdensomeness
+pride
+female
+clinical psychology assessment tool
+native american
+dissatisfaction
+disease ,  disorder or finding
+part time employment
+anger
+veteran
+nervous system disorder
+patient
+embarrassment
+native hawaiian or other pacific islander
+frustration
+parametric test
+heterosexual
+odds ratio
+military
+t - test
+communication disorder
+bipolar disorder
+citizen
+drug abuse
+range
+depression
+science
+panic disorder
+risk estimate
+grief
+finding
+pervasive developmental disorder
+belongingness
+natural science disciplines
+central nervous system disorder
+mode
+personality disorder
+property or attribute
+anxiety
+statistic
+insomnia
+helplessness
+asian american
+financial
+follow - up studies
+sample statistic
+marital status
+cross - sectional studies
+locality
+mania
+student
+sign or symptom
+optimism
+ambivalence
+technique
+standard error
+hysteria
+middle eastern or north african
+arab
+outpatient
+cognitive disorder
+diseases or disorders
+employment
+longitudinal studies
+personal attribute
+confidence interval
+statistical technique
+panic
+stress
+criminal behavior
+aggressive behavior
+white
+married
+percentage
+dispersion
+loneliness
+alcohol abuse
+suicide
+bisexual
+quantile
+sadness
+eating disorder
+case - control studies
+loss grief and bereavement
+jealousy
+social behavior disorder
+hope
+beck depression inventory
+non - parametric test
+clinical psychology activity
+standard deviation
+widowed
+geographic area
+mood disorder
+linear models
+substance abuse related disorder
+worthlessness
+happiness
+schizophrenia and other psychotic disorders
+atypical depression
+speech disorder
+medical status
+activity
+pleasure
+language disorder
+homicide
+percentage distribution
+phobia
+sample size
+statistical test
+neurosis
+health status
+fear
+dissociative disorder
+psychological health
+sample study population
+separated
+anorexia
+regression method
+empirical research
+anxiety disorder
+finding by site or system
+prospective studies
+research
+psychiatric disorder
+restlessness
+adjustment disorder
+beck scale for suicide ideation
+sex distribution
+inpatient
+african american
+autism
+homosexual
+autism spectrum disorder
+divorced
+analysis
+post - traumatic stress disorder
+hispanic or latino
+patient health questionnaire phq - 9 set
+qualifier
+gender
+conceptual entity
+information
+population group
+addiction
+sleep disorder
+guilt
+person
+cohort studies
+mini international neuropsychiatric interview
+suicidal thoughts
+obsessive compulsive disorder
+bulimia
+race
+qualitative research
+mental and behavioral signs and symptoms

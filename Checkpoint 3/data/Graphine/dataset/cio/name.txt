@@ -1,0 +1,45 @@
+confidence information statement
+confidence statement from single evidence
+confidence statement from multiple evidence lines
+high confidence from single evidence
+medium confidence from single evidence
+low confidence from single evidence
+confidence statement from multiple evidence lines of same type
+confidence statement from multiple evidence lines of multiple types
+confidence statement from congruent evidence lines of multiple types
+confidence statement from conflicting evidence lines of multiple types
+confidence statement from strongly conflicting evidence lines of multiple types
+confidence statement from weakly conflicting evidence lines of multiple types
+confidence statement from congruent evidence lines of multiple types ,  overall confidence high
+confidence statement from congruent evidence lines of multiple types ,  overall confidence medium
+confidence statement from congruent evidence lines of multiple types ,  overall confidence low
+confidence statement from conflicting evidence lines of same type
+confidence statement from congruent evidence lines of same type
+confidence statement from congruent evidence lines of same type ,  overall confidence high
+confidence statement from congruent evidence lines of same type ,  overall confidence low
+confidence statement from congruent evidence lines of same type ,  overall confidence medium
+confidence statement from strongly conflicting evidence lines of same type
+confidence statement from weakly conflicting evidence lines of same type
+confidence statement from weakly conflicting evidence lines of same type ,  overall confidence high
+confidence statement from weakly conflicting evidence lines of same type ,  overall confidence low
+confidence statement from weakly conflicting evidence lines of same type ,  overall confidence medium
+confidence statement from weakly conflicting evidence lines of multiple types ,  overall confidence high
+confidence statement from weakly conflicting evidence lines of multiple types ,  overall confidence low
+confidence statement from weakly conflicting evidence lines of multiple types ,  overall confidence medium
+confidence level
+high confidence level
+medium confidence level
+low confidence level
+evidence concordance
+congruent
+conflicting
+strongly conflicting
+weakly conflicting
+same type
+different type
+rejected
+confidence information element
+evidence type concordance
+single evidence
+provides greater confidence than
+concordance of multiple evidence lines

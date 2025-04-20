@@ -1,0 +1,373 @@
+phage process
+phage infectious cycle
+phage pre adsorption
+phage adsorption
+phage reversible adsorption
+phage irreversible adsorption
+phage lysogeny
+phage dna translocation
+phage assembly
+phage head / capsid assembly
+phage tail fiber assembly
+phage head tail joining
+phage release by lysis
+phage release
+phage tail assembly
+cell wall synthesis inhibition
+phage prohead / capsid assembly
+phage genome packaging
+phage dna maturation
+phage headful packaging
+phage 3'extended cos packaging
+phage 5'extended cos packaging
+phage budding
+phage genome replication
+phage rna replication
+phage dna replication
+regulation of phage replication
+protein primed dna replication
+sigma dna replication
+theta dna replication
+transpositional dna replication
+recombination directed dna replication
+phage gene expression
+phage gene transcription
+phage class i gene transcription
+phage class ii gene transcription
+phage class iib gene transcription
+phage class iii gene transcription
+phage transcription termination
+phage transcription anti termination
+regulation of phage gene expression
+positive regulation of phage replication
+negative regulation of phage replication
+transcriptional - regulation of phage gene expression
+negative post transcriptional regulation of phage gene expression
+positive post transcriptional regulation of phage gene expression
+post - transcriptional regulation of phage gene expression
+negative transcriptional regulation of phage gene expression
+positive transcriptional regulation of phage gene expression
+post - translational regulation of phage gene expression
+establishment as a plasmid prophage
+phage lysogenic conversion
+establishment as a linear plasmid prophage
+establishment as a circular plasmid prophage
+establishment as an integrated prophage
+prophage dna integration
+maintenance of prophage immunity
+phage latent infection
+phage abortive infection
+phage pseudolysogeny
+phage component
+prophage induction
+prophage dna excision
+phage head / capsid protein
+capsid scaffolding protein
+phage head / capsid major protein
+phage portal associated protein
+phage portal protein
+phage head / capsid decoration protein
+phage head / capsid fiber protein
+phage terminal protein
+phage terminase complex
+phage terminase large subunit
+phage terminase small subunit
+capsid neck fiber protein
+injected protein
+pre dna injected protein
+post dna injected protein
+translocation protein
+phage inner vesicle
+phage tail protein
+phage major tail protein
+phage tail tube protein
+phage tail sheath protein
+phage tail shaft protein
+phage tail tape measure protein
+phage tail tip protein
+phage base plate protein
+phage tail fiber protein
+prophage
+phage concatemer
+cryptic prophage
+phage related bacterial component
+phage receptor
+phage tail fiber minor protein
+phage tail fiber major protein
+phage activity
+anti holin activity
+holin activity
+anti repressor activity
+atpase activity
+ci / cro transcriptional repressor activity
+endolysin activity
+exolysin activity
+peptidase activity
+coat chaperon activity
+tail chaperon activity
+tail fiber chaperon activity
+dna binding activity
+single stranded dna binding activity
+double stranded dna binding activity
+dna topoisomerase activity
+dna polymerase processivity factor activity
+dna helicase activity
+dna directed dna polymerase activity
+dna directed rna polymerase activity
+dna methyltransferase activity
+dna primase activity
+dna exonuclease activity
+dna 3' - 5' exonuclease activity
+dna 5' - 3' exonuclease activity
+excisionase activity
+prohead protease activity
+cell - wall peptidase activity
+phage terminase activity
+dna endonuclease activity
+transcriptional repressor activity
+translation repressor activity
+dna recombination
+homologous dna recombination
+site - specific dna recombination
+site - specific dna integration
+dna integration
+site - specific dna excision
+replicative transpositional recombination
+transpositional dna recombination
+conservative transpositional recombination
+recombinational repair
+telomere resolution
+recombinase activity
+recombination process
+dna breakage and rejoining enzymes
+tyrosine - based recombinase activity
+serine - based recombinase activity
+tyrosine based integrase activity
+tyrosine based resolvase activity
+tyrosine based topoisomerase ib activity
+protelomerase activity
+tyrosine - based transposase activity
+serine based integrase activity
+serine based resolvase activity
+serine based transposase activity
+dde - based recombinase activity
+recombination component
+intasome
+relaxosome
+transpososome
+resolvasome
+y2 transposase activity
+rolling circle transposition
+head / capsid
+inhibitor of rna polymerase
+inhibitor of recbcd nuclease
+plasmid mediated regulation of host gene expression
+plasmid mediated positive regulation of host gene expression
+plasmid mediated negative regulation of host gene expression
+inhibitor of ftsh protease activity
+modulator of nucleoid associated protein hns
+inhibitor - of deoxyguanosine triphospho hydrolase
+plasmid mediated modulation of host protein activity
+host cell killing activity
+so term
+major capsid structural protein
+capsid tail
+capsid tail fiber
+phage head / capsid fiber
+prohead / procapsid
+phage minor tail protein
+phage head / capsid internal protein
+inhibitor of reca protease activity
+capsid protein chaperon activity
+dna excision
+rna directed rna polymerase activity
+transcription factor activity
+phage head / capsid minor protein
+minor capsid structural protein
+capsid structural protein
+shiga toxin activity
+shiga toxin subunit a
+shiga toxin subunit b
+unclassified
+thioredoxin
+restriction alleviation
+plasmid maintenance
+phage translation repressor activity
+plasmid copy number control
+virulent phage
+temperate phage
+hyaluronidase activity
+leukocidin cativity
+superantigen activity
+staphylokinase
+streptodornase
+exfoliative toxin a
+capsid neck protein
+capsid collar protein
+capsid collar fiber protein
+phage spike
+pathogenicity island
+phage capsid triangulation number
+attachment site
+attb site
+attp site
+attl site
+attr site
+attctn site
+atti site
+attc site
+resolution site
+transposon end
+irli
+irl
+irr
+irlo
+irro
+irri
+type i secretion membrane fusion protein activity
+inversion site
+irlinv site
+irrinv site
+pac site
+cos site
+3'extended cos site
+5'extended cos site
+genomic island
+integron
+integron platform
+gene cassette  ( sensu integrons )
+transposable element
+unitary transposon
+composite transposon
+conjugative transposon
+defective conjugative transposon
+transfer agent
+insertion sequence
+cointegrate
+generalized transduction
+specialized transduction
+transduction
+phage extrusion
+catabolic island
+symbiosis island
+fitness island
+integrative conjugative transposon
+phage genome
+transposable phage
+bacteriophage
+plasmid component
+plasmid process
+transposable phage genome
+type v protein secretion system complex
+toxin
+type iv protein secretion / mating pair formation system complex
+nucleoid associated protein
+type i protein secretion system complex
+type ii protein secretion system complex
+type iii protein secretion system complex
+plasmid vegetative dna replication
+plasmid conjugative dna replication
+orit
+intercellular transfer by conjugation
+type iv secretion system coupling protein
+pilin
+fimbrium
+type iv secretion system pilin
+virb3 related outer membrane protein
+type iv secretion system motor
+type iv secretion system minor pilus component
+virb1 related cell wall hydrolase activity
+type iv secretion system - mpf stabilizer
+type iv secretion system pilus associated lipoprotein
+virb8 related inner - outer membrane bridging protein
+type iv secretion system secretin
+type iv secretion system bridging component
+virb11 typeii / iv secretion ntpase activity
+type iii secretion system needle ruler
+type iii secretion outer membrane ring
+type iii secretion system extracellular needle
+type iii secretion system needle tip
+type iii secretion system secretin
+type iii secretion system translocator
+type ii secretion t2so protein activity
+type ii secretion system outer membrane component
+type ii secretion envelope protein
+type iii secretion inner membrane ring
+type iii secretion system cytoplasmic ring component
+oriv
+plasmid genome
+origin of replication
+integrated mobile genetic element
+dna transposon
+inverted repeat
+plasmid partitioning
+plasmid dimer resolution
+regulation of vegetative plasmid dna replication
+regulation of plasmid dna conjugation
+capsid collar fiber
+capsid collar
+capsid neck
+capsid neck fiber
+transposable prophage
+ias
+type iv secretion system pilin maturation
+mego
+plasmid entry exclusion
+protein secretion
+relaxase activity
+autoinducer synthesis
+lantibiotic biosynthesis
+intracellular ab toxin activity
+post - segregational killing
+cytotoxin
+plasmid mobilization
+plasmid activity
+phage function unknown
+phigo
+phage base plate assembly
+dna inversion
+site - specific dna inversion
+phage genome circularization
+prophage mediated phage exclusion
+plasmid function unknown
+plasmid mediated phage exclusion
+phage mediated modulation of host functions
+plasmid mediated modulation of host functions
+plasmid mediated inhibition of host sos repsonse
+chaperon activity
+cell wall degrading lysozyme activity
+cell wall degrading amidase activity
+cell wall degrading endopeptidase activity
+spanin
+rz / rz1 - type spanin
+phage t1 - type spanin
+rz - type spanin component
+rz1 - type spanin component
+phage tail needle
+cell wall degrading transglycosylase activity
+target site selection protein
+regulation of dna transposition
+positive regulation of dna transposition
+negative regulation of dna transposition
+host nucleoid disruption activity
+genome segregation
+phage entry exclusion
+site - specific endoribonuclease activity
+type iii secretion complex injectisome
+relaxosome assembly
+plasmid
+negative regulation of plasmid gene expression
+positive regulation of plasmid gene expression
+regulation of plasmid gene expression
+bacteriocin
+cobalamin biosynthesis
+establishment as a prophage
+negative regulation by host of phage transcription
+positive regulation by host of phage transcription
+phage capsid envelopment
+lysis - inhibition
+antibiotic resistance
+phage lytic cycle
+endotoxin
+exotoxin
+part_of

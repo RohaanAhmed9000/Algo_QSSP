@@ -1,0 +1,149 @@
+cgiar wheat trait ontology
+above ground biomass
+canopy temperature depression
+days to heading
+days to maturity
+early vigor
+germination date
+germination percentage
+grain moisture content
+grain yield
+ground cover
+growth habit
+growth stage
+leaf conductance
+moisture percentage
+plant height
+relative maturity
+relative heading
+relative plant height
+1000 - grain weight
+awn length
+awnedness
+chlorophyll content
+coleoptile length
+glume color
+glume length
+glume pubescence density
+glume waxiness
+glume width
+grain color
+grain per spike
+grain plumpness
+grain size
+grain per spikelet
+seed vitreousness
+kernel texture
+leaf length
+leaf pubescence density
+leaf thickness
+leaf waxiness
+leaf width
+neck break
+node number
+peduncle length
+peduncle pubescence density
+peduncle waxiness
+spike density
+spike length
+spike shattering
+spikelet per spike
+stay green
+stem height
+stem solidness
+stem thickness
+stomatal resistance
+cookie spread factor
+crumb structure
+flour falling number
+flour protein content
+flour yield
+gluten content
+gluten type
+grain falling number
+grain hardness
+grain protein content
+semolina protein content
+semolina yellow color value
+acidic soil tolerance
+aluminum tolerance
+cold tolerance
+sprouting tolerance
+alternaria leaf blight
+animal damage
+ant damage
+aphid damage
+armyworm damage
+bird damage
+hessian fly damage
+insect damage
+rodent damage
+russian wheat aphid damage
+sawfly damage
+snail damage
+suni pest damage
+stripe mosaic
+yellow dwarf
+black point
+bunt
+tilletia laevis common bunt
+tilletia tritici common bunt
+dwarf bunt
+eyespot
+flag smut
+scab
+fusarium scab spike
+karnal bunt
+leaf rust
+loose smut
+nematode damage
+seed - gall nematode damage
+cyst nematode damage
+pratylenchus neglectus root - lesion nematode damage
+pratylenchus thornei  root - lesion nematode damage
+powdery mildew
+southern blight
+spot blotch
+septoria tritici blotch
+stem rust
+take - all
+bacterial leaf streak
+days to flower
+fungal disease
+harvest index
+bread loaf volume
+fusarium leaf  blotch
+hail damage
+frost damage
+waterlogging damage
+stripe rust
+stagonospora glume blotch
+drought tolerance
+salinity tolerance
+pyrenophora yellow leaf blotch
+smut
+bacterial disease
+bacterial leaf blight
+viral disease
+flag leaf area
+stomatal size
+stomatal frequency
+alveograph dough strength
+alveograph tenacity to extensibility ratio
+flour sds - sedimentation
+grain sds - sedimentation
+starchy endosperm
+mixograph mixing time
+high molecular weight glutenin subunit composition  ( hmw - glu )
+low molecular weight glutenin subunit composition  ( lmw - glu )
+test weight
+sedimentation index
+winter response
+spike per meter square
+lodging incidence
+fusarium wilt
+net blotch
+barley scald
+septoria blotch
+soil borne mosaic
+leaf tip necrosis

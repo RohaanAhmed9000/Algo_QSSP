@@ -1,0 +1,137 @@
+b is an independent continuant = def .
+p is a process = def .
+b is a specifically dependent continuant = def .
+b is a generically dependent continuant = def .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing deoxyribose and linked by phosphodiester bonds ;  dna contain the genetic information of organisms .
+any constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer etc . ,  identifiable as a separately distinguishable entity .
+a material entity of anatomical origin  ( part of or deriving from an organism )  that has as its parts a maximally connected cell compartment surrounded by a plasma membrane .
+a class of large neuroglial  ( macroglial )  cells in the central nervous system  -  the largest and most numerous neuroglial cells in the brain and spinal cord .
+a cell from the thermogenic form of adipose tissue found in many species ,   particularly in newborns and hibernating mammals ,  but also in lesser amounts in adults of other mammals including humans .
+the basic cellular unit of nervous tissue .
+cardiac muscle cells are striated muscle cells that are responsible for heart contraction .
+any neuron that is part of a central nervous system .
+a role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured .
+fastq format is a text - based format for storing both a biological sequence  ( usually nucleotide sequence )  and its corresponding quality scores .
+bam is the compressed binary version of the sequence alignment / map  ( sam )  format
+a genome is the full genetic content of an organism ,  contained in either dna or rna  ( such as for viruses )  .
+the transcriptome is the set of all rna molecules ,  including mrna ,  rrna ,  trna ,  and other non - coding rna produced in one or a population of cells .
+cel data file format describes the format used in a cel file for storing the results of the intensity calculations on the pixel values of a dat file .
+date the sequencing run was performed
+pre - filled ,  ready - to - use reagent cartridges .
+packaged kits  ( containing adapters ,  indexes ,  enzymes ,  buffers etc )  ,  tailored for specific sequencing workflows ,  which allow the simplified preparation of sequencing - ready libraries for small genomes ,  amplicons ,  and plasmids .
+a location ,  relative to cellular compartments and structures ,  occupied by a macromolecular machine when it carries out a molecular function .
+a semiautonomous ,  self replicating organelle that occurs in varying numbers ,  shapes ,  and sizes in the cytoplasm of virtually all eukaryotic cells .
+a neuron projection that has a short ,  tapering ,  morphology .
+the portion of a cell bearing surface projections such as axons ,  dendrites ,  cilia ,  or flagella that includes the nucleus ,  but excludes all cell projections .
+any constituent part of a cell ,  the basic structural and functional unit of all organisms .
+software is a plan specification composed of a series of instructions that can be  \ ninterpreted by or directly executed by a processing unit .
+a model number is an information content entity specifically borne by catalogs ,  design specifications ,  advertising materials ,  inventory systems and similar  that is about manufactured objects of the same class .
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+an information content entity that is a mark ( s )  or character ( s )  used as a conventional representation of another entity .
+a generically dependent continuant that is about some thing .
+a scalar measurement datum is a measurement datum that is composed of two parts ,  numerals and a unit label .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective .
+a data format specification is the information content borne by the document published defining the specification . \ nexample: the iso document specifying what encompasses an xml document ;  the instructions in a xsd file
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+a scalar measurement datum that is the result of measuring a temporal interval
+a symbol that is part of a crid and that is sufficient to look up a record from the crid's registry .
+a software application is software that can be directly executed by some processing unit .
+a physical object ,  or electronic counterpart ,  that is characterized by containing writing which is meant to be human - readable .
+an organizational header for concepts representing mostly abstract entities .
+anything  ( e .g . ,  a document )  providing permanent evidence of or information about past events .
+one or more characters used to identify ,  name ,  or characterize the nature ,  properties ,  or contents of a thing .
+a control number unique to an object .
+a set of characters used as a code that is unique in the context or the system for which it is created .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+a role realized through the process of supplying materials such as animal subjects ,  reagents or other materials used in an investigation .
+a role inhering in a material entity that is realized when  characteristics or responses elicited by the substance are used for comparison or reference .
+is a material entity that is created or changed during material processing .
+a planned process with the objective to produce information about the material entity that is the evaluant ,  by physically examining it or its proxies .
+a role which inheres in a molecular entity and is realized by the process of recording or registering a stimulus .
+a planned process which results in physical changes in a specified input material
+a role that is realized through the execution of a study design in which the bearer of the role participates and in which data about that bearer is collected .
+a study personnel role played by a party who is accountable for the execution of a study component and can make decisions about the conduct of the study
+a responsible party role played by a person responsible for the overall conduct of a study
+a personnel role played by a party who executes a component of the study plan ;  this can occur before ,  during ,  after or outside the study timeline
+a population is a collection of individuals from the same taxonomic class living ,  counted or sampled at a particular site or in a particular area
+a reference participant role realized by equivalent treatment of participants
+a role borne by an entity and that is realized in a process that is part of an investigation in which an objective is achieved .
+a reference subject  role which inheres in an organism or entity of organismal origin so that the characteristics or responses of the participant playing the reference participant role are used for comparison or reference
+an entity that can bear roles ,  has members ,  and has a set of organization rules .
+technical replicate role is realized when two portions from one evaluant are used in replicate runs of an assay
+a plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents ,  so that different investigation agents will reliably be able to independently reproduce the process .
+pcr is the process in which a dna polymerase is used to amplify a piece of dna by in vitro enzymatic replication .
+dna sequencing is a sequencing process which uses deoxyribonucleic acid as input and results in a the creation of dna sequence information artifact using a dna sequencer instrument .
+a planned process with the objective of collecting a specimen .
+is a process which results in the creation of a library from fragments of dna using cloning vectors or oligonucleotides with the role of adaptors .
+is a collection of short paired tags from the two ends of dna fragments are extracted and covalently linked as ditag constructs
+a device in which a measure function inheres .
+a person or organization that has a manufacturer role
+a device with a separation function realized in a planed process
+is a role which inheres in a person or organization and is realized in in a planned process which provides access to training ,  materials or execution of protocols for an organization or person
+a material entity that is designed to perform a function in a scientific investigation ,  but is not a reagent .
+a measurement datum that representing the primary structure of a macromolecule ( it's sequence )  sometimes associated with an indicator of confidence of that measurement . \ n
+a reference substance role that is borne by a material entity with a known amount which is mixed into the evaluant of assays for quality control or data normalization purposes
+a time measurement datum that is the result of measurement of age of an organism
+an age measurement datum that is the result of the measurement of the age of an organism since birth ,  the process of emergence and separation of offspring from the mother .
+an organism that is bred to have some uniform behavioral ,  morphological ,  physiological ,  or genetic characteristics with similarly bred organisms
+an assay in which sequencing technology  ( e .g .
+a specimen primarily composed of a cell or cells collected from a multicellular organism or a cell culture .
+an enzymatic amplification which amplifies nucleic acid sequence by making many copies off the same template .
+a crid symbol denotes a specimen and used to distinguish one specimen from another in an investigation .
+an assay that incorporates paired - end tags and sequencing technology to determine transcripts ,  gene structures ,  and gene expressions .
+a library preparation that results in the creation of a library of the 5' and 3' ends of dna or cdna fragments using adaptors and endonucleases .
+an organization that provides sequence determination service
+a person who collects the specimen
+an information content entity that specifies a value within a classification scheme or on a quantitative scale .
+a planned process which consists in running a set of samples as a pool in one single instrument run of data acquisition process while retaining the ability to associate individual results to each of the individual input samples thanks to the use of a multiplex identifier ,  introduced during the ligation step of the individual library preparation and specific to a given sample .
+a multiplexing sequence identifier is a nucleic acid sequence which is used in a ligation step of library preparation process to allow pooling of samples while maintaining ability to identify individual source material and creation of a multiplexed library
+a cell specimen that contains only one cell .
+a data format specification that is a binary file containing base calling data .
+a processed material developed by the external rna controls consortium  ( ercc )  that  consists of 92 transcripts ,  derived and traceable from nist - certified dna plasmids .
+a processed material that consists of transcript isoforms of 7 spike - in rna variant  ( sirv )  genes and possibly the 92 external rna controls consortium  ( ercc )  rna spike - in genes .
+an accession number that applies to a database record for an individual sample object in an ncbi sequence read archive  ( sra )  submission .
+an age measurement datum that is the result of the measurement of the age of a cell since cultured  ( the process of seeding cells onto a culture dish )  .
+an algorithm used to assign aligned sequence reads ,  resulting from a reference genome transcriptome alignment algorithm ,  to sequence features  ( e .g .
+a software application that implements an alignment counting algorithm ,  used to count the overlap of aligned sequencing reads with genes .
+an algorithm that assigns nucleotides to temporal or spatial peaks generated by a detector ,  such as peaks of light intensities generated by a dna sequencer
+a base - calling application that implments a base - calling algorithm to convert bcl  ( binary base call )  files ,   ( e .g . ,  those generated by illumina sequencing systems )  to standard fastq file formats for downstream analysis .
+a base calling application that implments a base calling algorithm to convert bcl  ( binary base call )  files generated by illumina sequencing systems to standard fastq file formats for downstream analysis .
+a data item that is the date when a process was initiated .
+a central registered identifier symbol that denotes a specific study in dbgap .
+a worker role played by the person who runs the enzymatic amplifying process .
+a worker role played by the person who performs the library preparation process to generate a sequencing library for a sample to be sequenced .
+a data item that is the number of pcr cycles used during the construction of a sequencing library .
+a data item that is the number of times an amplification reaction happened .
+a reference substance role that is played by a reference genome when used during sequence alignment .
+an algorithm that attempts to align a nucleic acid sequence to a reference genome and transcriptome .
+a measurement datum that is the result of the measurement of the number of bases in a dna or rna sequence .
+a scalar measurement datum that indicates the amount of sequencing library used as input for a sequencer .
+a cdna library that is a collection of short tags from only one end of dna fragments .
+a scalar measurement datum that indicates the amount of specimen collected .
+a data item that indicates the dilution of spike - in added to a specimen .
+a reference genome transcriptome alignment algorithm that is a standalone rna - seq alignment algorithm that uses uncompressed suffix arrays and a mapping algorithm similar to those used in large - scale genome alignment tools to align rna - seq reads to a genomic reference .
+a sequencing assay that incorporates single - end reads and sequencing technology to determine transcripts ,  gene structures ,  and gene expressions .
+an alignment counting algorithm that assigns gene features to genomic alignments using a hierarchical assignment scheme ,  which allows simultaneous quantification of multiple feature types or annotation levels without repeatedly assigning reads .
+a material separation device also commerically known as isoraft ,  that is used to isolate single cells .
+a device that is a laboratory tool commonly used in chemistry ,  biology and medicine to transport a measured volume of liquid ,  often as a media dispenser .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a material entity that has the specimen role .
+a flow_cytometer_sorter is a flow_cytometer that analyzes and separates or sorts particles passing through  ( based on properties measured during analysis )  to collect cells of interest .
+a dna sequencer is an instrument that determines the order of deoxynucleotides in deoxyribonucleic acid sequences .
+the use of a chemical or biochemical means to infer the sequence of a biomaterial
+the use of enzymes to increase the number of molecules of a biomaterial
+an algorithm that attempts to align two molecular sequences  ( nucleic acid or protein sequences )  .
+blast  ( basic local alignment search tool )  ,  a pairwise sequence alignment algorithm is a heuristic search algorithm for comparing primary biological sequence information ,  such as the amino - acid or nucleotides sequences with a database of sequences ,  and identify sequences that resemble the query sequence above a certain threshold .
+a data format specification for molecular sequence feature information .
+a blast algorithm that searches / aligns a nucleotide query sequence against a nucleotide database at a nucleotide level .
+a sequence data that is about the primary structure of rna .
+a processual entity whose completion is hypothesized  ( by a healthcare provider )  to alleviate the signs and symptoms associated with a disorder
+the principle investigtor or responsible person for a study or a sample collection .
+a data item that indicates the time when the collection of a specimen occurred .
+a collection of sequences  ( often chromosomes )  taken as the standard for a given organism and genome assembly .
+a level of depth of a taxon in a taxonomic hierarchy .
+a mereological relationship or a topological relationship
+anatomical entity that has mass .

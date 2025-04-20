@@ -1,0 +1,120 @@
+the state in which an organism exists .
+condition which serves as a standard against which experimental conditions can be compared .
+control condition in which the conditions of the organism in the control experiment are not standard but are being used as the condition against which the experimental condition is compared .
+experimental condition that is the standard environment for zebrafish husbandry ,  as described in ‘the zebrafish book’ .
+condition in which variables of the experiment are manipulated to determine the variables effect by comparing to a control condition .
+experimental condition in which the organism is treated with a microorganism .
+biological treatment in which fish have been infected with bacteria .
+biological treatment in which fish have been infected with a fungus .
+biological treatment in which fish were raised in the absence of bacteria .
+biological treatment in which fish have been infected with protozoa .
+biological treatment in which fish have been infected with a virus .
+experimental condition in which the fish is treated with a chemical substance .
+experimental condition where the food of the zebrafish is manipulated in some way .
+experimental condition in which the availabity of food is manipulated .
+limited food availability condition in which there is no food provided .
+food availability condition in which food is provided in limited supply .
+food availability condition in which food is available in unlimited supply .
+diet condition in which the contents of the food is manipulated .
+food content condition in which the amount of cholesterol in the diet is manipulated .
+cholesterol content condition in which the amount of cholesterol in the diet is elevated .
+cholesterol content condition in which the amount of cholesterol in the diet is reduced .
+food content condition in which the amount of fat in the diet is manipulated .
+fat content condition in which the amount of fat in the diet is elevated .
+high fat condition in which the amount of saturated fat in the diet is elevated .
+high fat condition in which the amount of monounsaturated fat in the diet is elevated .
+fat content condition in which the amount of fat in the diet is reduced .
+low fat condition in which the amount of trans fat in the diet is reduced .
+low fat condition in which the amount of polyunsaturated fat in the diet is reduced .
+food content condition in which the amount of protein in the diet is manipulated .
+protein content condition in which the protein in the diet is elevated .
+protein content condition in which the protein in the diet is reduced .
+high carbohydrate conditions in which the amount of sugar in the diet is elevated .
+high sugar condition in which the amount of fructose in the diet is elevated .
+high sugar condition in which the amount of glucose in the diet is elevated .
+high sugar condition in which the amount of sucrose in the diet is elevated .
+high carbohydrate conditions in which the amount of sugar in the diet is reduced .
+low sugar condition in which the amount of sucrose in the diet is reduced .
+low sugar condition in which the amount of fructose in the diet is reduced .
+low sugar condition in which the amount of glucose in the diet is reduced .
+experimental condition that manipulates the enclosure of the fish .
+housing condition in which the roof of the enclosure if open .
+housing condition in which the enclosure of the fish is overcrowded ,  containing an excess of fish that reduces the available space of the enclosure .
+experimental condition in which components of the fish have been removed and are maintained separately .
+in vitro culture condition in which an organ is dissected / isolated / collected from the fish and placed in culture .
+in vitro culture condition in which an embryo or adult fish is dissociated to a single cell suspension .
+experimental condition in which the intensity ,  wavelength ,  and / or duration of illumination is  ( are )  different from the one in controlled conditions .
+experimental condition in which gravity forces are manipulated .
+experimental condition in which an external mechanical force is applied to the fish or part of the fish .
+experimental condition in which the zebrafish is exposed to an increased or decreased temperature .
+temperature exposure condition in which fish are raised in temperature different  ( lower or higher )  than the controlled temperature .
+temperature exposure condition in which fish are raised in temperature that is lower than the controlled temperature .
+temperature exposure condition in which fish are raised in temperature that is higher than the controlled temperature .
+temperature exposure condition in which fish are subjected for a short period of time to temperature that is lower or higher than the controlled temperature .
+temperature shock condition in which fish are subjected for a short period of time to temperature lower than the controlled temperature .
+temperature shock condition in which fish are subjected for a short period of time to temperature higher than the controlled temperature .
+targeted destruction of an anatomical structure .
+experimental condition which uses a chemical to ablate an anatomical structure or cell .
+experimental condition which uses focused light to ablate an anatomical structure or cell .
+surgical manipulation in which a particular organ ,  appendage ,  or part of an organism is removed .
+resection condtion in which all or part of an extremity such as the fin or tail are removed .
+biological treatment in which the organism is treated with a substance to stimulate the production of antibodies and provide immunity against one or several diseases .
+experimental condition in which there is a deep cut or tear of the flesh .
+experimental condition that involves  manual or instrumental techniques to alter anatomical structures .
+experimental condition in which living cells or tissues from one species are transplanted into another .
+experimental condition in which a hole or break in the membranes of an organ or structure of the body is created .
+experimental condition that results in superficial damage of tissue such that it is scraped or worn away .
+experimental condition that results in hematoma of tissue in which capillaries and sometimes venules are damaged by trauma ,  allowing blood to seep ,  hemorrhage ,  or extravasate into the surrounding interstitial tissues .
+cutting transversly of an organ or tissue .
+experimental condition in which a chemical or physical characteristic of water is altered .
+a gas composition condition that alters the concentraion of carbion dioxide .
+a gas composition condition that alters the concentraion of oxygen .
+an oxygen content with high concentration of oxygen .
+an oxygen content with low concentration of oxygen .
+experimental condition in which the ph of the water is lower than the ph of the controlled conditions .
+experimental condition in which the ph of the water is higher than the ph of the controlled conditions .
+experimental condition in which the salt concentration is higher than the one in controlled conditions .
+experimental condition in which the salt concentration is lower than the one in controlled conditions .
+electromagnetic radiation with a wavelength from 400 nm to 700 nm .
+electromagnetic radiation with a wavelength from 10 nm to 400nm .
+experimental condition in which the fish is exposed to a physical field that is produced by electrically charged objects .
+experimental condition where the fish is exposed to materials that produce an electric field .
+experimental condition where the fish is exposed to magnetic materials .
+high fat condition in which the amount of polyunsaturated fat in the diet is elevated .
+high fat condition in which the amount of trans fat in the diet is elevated .
+low fat condition in which the amount of saturated fat in the diet is reduced .
+low fat condition in which the amount of monounsaturated fat in the diet is reduced .
+experimental condition in which an anatomical structure ,  cell ,  or organ has sustained targeted physical change ,  usually through the use of an instrument .
+bacterial treatment where the bacteria are injected into the fish .
+bacterial treatment where the bacteria are introduced via the environment .
+fungal treatment where the fungus is injected into the fish .
+fungal treatment where the fungus is introduced via the environment .
+viral treatment where the virus is introduced via the environment .
+viral treatment where the virus is injected into the fish .
+xenotransplantation condition in which cancer cells are injected or grafted into the zebrafish .
+chemical treatment in which the chemical is injected into the zebrafish .
+chemical treatment condition in which the chemical is introduced through the environment .
+chemical treatment condition in which the chemical is introduced through the diet .
+food content condition in which the amount of carbohydrate in the diet is manipulated .
+food content condtion in which the amount of carbohydrate in the diet is elevated .
+food content condtion in which the amount of carbohydrate in the diet is reduced .
+mechanical stress condition where the organism is subjected to vibrations having an ultrasonic frequency .
+physical alteration which uses light to damage the anatomical structure ,  cell ,  or organ .
+housing condition in which the enclosure of the fish is undercrowded , containing a low amount of fish that increases the available space of the enclosure .
+food availability condition in which food is provided in increased supply .
+physical alteration which uses cold to damage an anatomical structure ,  cell ,  or organ
+experimental condition which uses a cold instrument to ablate an anatomical structure or cell .
+food content condition in which levels of a nutrient are decreased relative to standard diet .
+food content condition in which levels of a nutrient are increased relative to standard diet .
+experimental condition that manipulates the frequency or way an organism is fed .
+feeding regime in which food ,  drugs ,  or other substances are administered by force ,  typically through a tube leading down the throat to the stomach .
+bacterial treatment condition where bacteria are introduced to the organism by gavage .
+chemical treatment condition where the chemical is introduced to the organism by gavage .
+bacterial treatment where bacteria are introduced via the diet .
+condition that uses a cold or hot insturment ,  electrical current ,  or chemical to burn or dissolve an anatomical structure to remove or close it off .
+cauterization of a tissue using a heated instrument .
+an injury that occurs because of pressure from a heavy object onto a body part .
+food content condition in which the amount of probiotics in the diet is manipulated
+experimental condition in which gravity forces are smaller than in control conditions .
+process ( p1 )  regulates process ( p2 )  iff: p1 results in the initiation or termination of p2 or affects the frequency of its initiation or termination or affects the magnitude or rate of output of p2 .
+experimental condition in which gravity forces are greater than in control conditions .

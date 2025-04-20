@@ -1,0 +1,507 @@
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+process boundary
+continuant fiat boundary
+process profile
+relational quality
+transfer rna
+ribosomal rna
+molecular entity
+organic group
+ribonucleic acid
+amino - acid residue
+small nuclear rna
+disease of cellular proliferation
+cancer
+disease
+negative regulation of transcription from rna polymerase ii promoter
+3' - 5' - exoribonuclease activity
+molecular_function
+rna binding
+catalytic activity
+nuclease activity
+endonuclease activity
+endoribonuclease activity
+exonuclease activity
+exoribonuclease activity
+ribonuclease activity
+transporter activity
+binding
+cellular_component
+intracellular
+cell
+nucleus
+nucleoplasm
+cytoplasm
+nucleobase - containing compound metabolic process
+transcription ,  dna - templated
+regulation of transcription ,  dna - templated
+regulation of transcription from rna polymerase ii promoter
+mrna cleavage
+rna processing
+mrna processing
+rna catabolic process
+rna localization
+rna export from nucleus
+translation
+translational elongation
+regulation of translation
+cellular aromatic compound metabolic process
+transport
+biological_process
+metabolic process
+catabolic process
+macromolecule catabolic process
+biosynthetic process
+macromolecule biosynthetic process
+rna modification
+regulation of biosynthetic process
+negative regulation of biosynthetic process
+positive regulation of biosynthetic process
+negative regulation of metabolic process
+positive regulation of metabolic process
+regulation of catabolic process
+negative regulation of catabolic process
+positive regulation of catabolic process
+cellular process
+response to organic substance
+production of ta - sirnas involved in rna interference
+nuclear dicing body
+gene expression
+regulation of gene expression
+regulation of macromolecule biosynthetic process
+positive regulation of macromolecule biosynthetic process
+negative regulation of macromolecule biosynthetic process
+mirna metabolic process
+mirna catabolic process
+positive regulation of macromolecule metabolic process
+negative regulation of macromolecule metabolic process
+posttranscriptional regulation of gene expression
+positive regulation of gene expression
+negative regulation of gene expression
+response to organic cyclic compound
+cellular component organization
+rna metabolic process
+rna interference
+posttranscriptional gene silencing
+risc complex
+gene silencing
+endoribonuclease activity ,  producing 5' - phosphomonoesters
+exoribonuclease activity ,  producing 5' - phosphomonoesters
+negative regulation of translation
+heterocycle biosynthetic process
+regulation of nucleobase - containing compound metabolic process
+regulation of metabolic process
+aromatic compound biosynthetic process
+aromatic compound catabolic process
+protein metabolic process
+ribonucleoprotein complex biogenesis
+ribonucleoprotein complex assembly
+production of sirna involved in rna interference
+ribonucleoprotein complex
+dsrna fragmentation
+primary mirna processing
+pre - mirna processing
+regulation of cellular metabolic process
+negative regulation of cellular metabolic process
+positive regulation of cellular metabolic process
+regulation of cellular biosynthetic process
+negative regulation of cellular biosynthetic process
+positive regulation of cellular biosynthetic process
+regulation of cellular catabolic process
+negative regulation of cellular catabolic process
+positive regulation of cellular catabolic process
+nuclear lumen
+regulation of cellular protein metabolic process
+negative regulation of cellular protein metabolic process
+rna biosynthetic process
+macromolecular complex
+chromatoid body
+ncrna processing
+cellular nitrogen compound metabolic process
+cellular macromolecule biosynthetic process
+nucleobase - containing compound biosynthetic process
+nucleobase - containing compound catabolic process
+ncrna metabolic process
+ncrna catabolic process
+micro - ribonucleoprotein complex
+posttranscriptional gene silencing by rna
+gene silencing by mirna
+production of mirnas involved in gene silencing by mirna
+mirna binding
+negative regulation of translation involved in gene silencing by mirna
+mrna cleavage involved in gene silencing by mirna
+mirna loading onto risc involved in gene silencing by mirna
+pre - mirna export from nucleus
+ribonucleoprotein granule
+cytoplasmic ribonucleoprotein granule
+negative regulation of translation ,  ncrna - mediated
+response to chemical
+macromolecule metabolic process
+organelle
+intracellular organelle
+intracellular membrane - bounded organelle
+intracellular non - membrane - bounded organelle
+organelle lumen
+response to dsrna
+ncrna 3' - end processing
+macromolecular complex subunit organization
+cellular metabolic process
+primary metabolic process
+cellular catabolic process
+cellular biosynthetic process
+cellular macromolecule metabolic process
+cellular macromolecule catabolic process
+cellular protein metabolic process
+cellular nitrogen compound catabolic process
+cellular nitrogen compound biosynthetic process
+organelle part
+intracellular part
+nuclear part
+cytoplasmic part
+intracellular organelle part
+nucleoplasm part
+cell part
+single - organism process
+single - organism metabolic process
+mature mirna 3' - end processing
+3' - 5' - exoribonuclease activity involved in mature mirna 3' - end processing
+single - organism cellular process
+single - organism transport
+negative regulation of transcription ,  dna - templated
+positive regulation of transcription ,  dna - templated
+negative regulation of nucleobase - containing compound metabolic process
+positive regulation of nucleobase - containing compound metabolic process
+positive regulation of transcription from rna polymerase ii promoter
+heterocycle metabolic process
+heterocycle catabolic process
+intracellular transport
+positive regulation of biological process
+negative regulation of biological process
+positive regulation of cellular process
+negative regulation of cellular process
+regulation of response to stimulus
+positive regulation of response to stimulus
+negative regulation of response to stimulus
+rna transport
+regulation of biological process
+regulation of cellular process
+response to stimulus
+nuclear export
+regulation of nitrogen compound metabolic process
+negative regulation of nitrogen compound metabolic process
+positive regulation of nitrogen compound metabolic process
+localization
+establishment of localization
+establishment of rna localization
+regulation of protein metabolic process
+negative regulation of protein metabolic process
+regulation of rna metabolic process
+negative regulation of rna metabolic process
+positive regulation of rna metabolic process
+cellular response to stimulus
+regulation of posttranscriptional gene silencing
+positive regulation of posttranscriptional gene silencing
+negative regulation of posttranscriptional gene silencing
+regulation of macromolecule metabolic process
+regulation of gene silencing by mirna
+negative regulation of gene silencing by mirna
+regulation of gene silencing by rna
+negative regulation of gene silencing by rna
+regulation of gene silencing
+negative regulation of gene silencing
+pri - mirna transcription from rna polymerase ii promoter
+macromolecular complex assembly
+intracellular organelle lumen
+risc - loading complex
+microprocessor complex
+primary mirna binding
+pre - mirna binding
+cellular response to chemical stimulus
+production of small rna involved in gene silencing by rna
+regulation of production of small rna involved in gene silencing by rna
+ribonucleoprotein complex localization
+cellular response to organic substance
+cellular response to dsrna
+cellular response to organic cyclic compound
+ribonucleoprotein complex export from nucleus
+pre - mirna - containing ribonucleoprotein complex export from nucleus
+organic substance metabolic process
+cellular component organization or biogenesis
+regulation of primary metabolic process
+nucleic acid metabolic process
+nucleic acid phosphodiester bond hydrolysis
+rna phosphodiester bond hydrolysis
+rna phosphodiester bond hydrolysis ,  endonucleolytic
+rna phosphodiester bond hydrolysis ,  exonucleolytic
+endoribonuclease activity ,  cleaving mirna - paired mrna
+pre - mirna transporter activity
+organic cyclic compound metabolic process
+organic cyclic compound catabolic process
+organic cyclic compound biosynthetic process
+organic substance catabolic process
+organic substance biosynthetic process
+response to nitrogen compound
+cellular response to nitrogen compound
+negative regulation of rna catabolic process
+single - organism localization
+single - organism intracellular transport
+negative regulation of rna biosynthetic process
+positive regulation of rna biosynthetic process
+regulation of pri - mirna transcription from rna polymerase ii promoter
+negative regulation of pri - mirna transcription from rna polymerase ii promoter
+positive regulation of pri - mirna transcription from rna polymerase ii promoter
+regulation of nucleic acid - templated transcription
+negative regulation of nucleic acid - templated transcription
+positive regulation of nucleic acid - templated transcription
+regulation of production of mirnas involved in gene silencing by mirna
+negative regulation of production of mirnas involved in gene silencing by mirna
+positive regulation of production of mirnas involved in gene silencing by mirna
+mirna transport
+protein - lipid - rna complex
+hdl - containing protein - lipid - rna complex
+ldl - containing protein - lipid - rna complex
+primary mirna modification
+regulation of cellular macromolecule biosynthetic process
+negative regulation of cellular macromolecule biosynthetic process
+regulation of mirna catabolic process
+negative regulation of mirna catabolic process
+positive regulation of mirna catabolic process
+regulation of mirna metabolic process
+negative regulation of mirna metabolic process
+positive regulation of mirna metabolic process
+regulation of pre - mirna processing
+negative regulation of pre - mirna processing
+positive regulation of pre - mirna processing
+regulation of primary mirna processing
+negative regulation of primary mirna processing
+positive regulation of primary mirna processing
+positive regulation of gene silencing by mirna
+regulation of rna biosynthetic process
+information content entity
+curation status specification
+data about an ontology part
+obsolescence reason specification
+denotator type
+environmental_variable
+pressure
+temperature
+pathogenicity
+carcinogenicity
+virus
+embryonic_tissue
+connective_tissue
+epithelia_tissue
+muscle_tissue
+nerve_tissue
+adipose_tissue
+blood
+bone
+cartilage
+cardiac_muscle
+skeletal_muscle
+smooth_muscle
+ectoderm
+endoderm
+mesoderm
+physical_therapy
+surgery
+chemotherapy
+immunosuppressive_therapy
+radiation_release
+cellular_organism
+archaea
+bacteria
+non - coding rna
+genetic non - coding rna
+long non - coding rna
+small interfering rna
+processed material
+organism
+cultured cell population
+protein
+amino acid chain
+region
+sequence_secondary_structure
+linkage_group
+nuclear_gene
+mt_gene
+kinetoplast_gene
+plastid_gene
+apicoplast_gene
+ct_gene
+chromoplast_gene
+cyanelle_gene
+leucoplast_gene
+proplastid_gene
+nucleomorph_gene
+plasmid_gene
+proviral_gene
+endogenous_retroviral_gene
+transposable_element
+polypeptide
+mrna_with_frameshift
+sequence_feature
+transposable_element_gene
+silenced_gene
+gene_silenced_by_dna_modification
+gene_silenced_by_dna_methylation
+gene_rearranged_at_dna_level
+deletion
+promoter
+rnapol_i_promoter
+rnapol_ii_promoter
+rnapol_iii_promoter
+primary_transcript
+mature_transcript
+mrna
+flanking_region
+mirna
+engineered_gene
+engineered_foreign_gene
+mrna_with_minus_1_frameshift
+engineered_foreign_transposable_element_gene
+foreign_gene
+fusion_gene
+engineered_fusion_gene
+origin_of_replication
+cpg_island
+mrna_with_plus_1_frameshift
+mrna_with_plus_2_frameshift
+mrna_with_minus_2_frameshift
+pseudogene
+floxed_gene
+transposable_element_flanking_region
+insertion_site
+transposable_element_insertion_site
+small_regulatory_ncrna
+recombinationally_inverted_gene
+rna_6s
+csrb_rsmb_rna
+dsra_rna
+oxys_rna
+rpra_rna
+rre_rna
+spot_42_rna
+binding_site
+gene_with_polyadenylated_mrna
+gene_with_mrna_with_frameshift
+recombinationally_rearranged_gene
+gene_with_trans_spliced_transcript
+pseudogenic_region
+nc_primary_transcript
+gene_with_edited_transcript
+bidirectional_promoter
+cap
+tmrna
+intergenic_region
+oligo_u_tail
+polya_sequence
+bacterial_rnapol_promoter
+insulator
+monocistronic_mrna
+polycistronic_mrna
+mirna_primary_transcript
+maxicircle_gene
+ncrna
+repeat_region
+insertion
+transcript
+gene_with_polycistronic_transcript
+gene_with_dicistronic_transcript
+gene_with_recoded_mrna
+gene_with_stop_codon_read_through
+gene_with_stop_codon_redefined_as_pyrrolysine
+junction
+gene
+gene_with_stop_codon_redefined_as_selenocysteine
+gene_with_mrna_recoded_by_translational_bypass
+gene_with_transcript_with_translational_frameshift
+dicistronic_mrna
+foreign_transposable_element
+gene_with_dicistronic_primary_transcript
+gene_with_dicistronic_mrna
+repeat_unit
+crm
+exemplar_mrna
+qtl
+natural_transposable_element
+engineered_transposable_element
+rescue_gene
+wild_type_rescue_gene
+chromosome_part
+gene_member_region
+transcript_region
+polypeptide_region
+capped_mrna
+polyadenylated_mrna
+trans_spliced_mrna
+maternally_imprinted_gene
+paternally_imprinted_gene
+post_translationally_regulated_gene
+negatively_autoregulated_gene
+positively_autoregulated_gene
+translationally_regulated_gene
+allelically_excluded_gene
+epigenetically_modified_gene
+transgene
+edited_mrna
+recombinationally_rearranged_vertebrate_immune_system_gene
+mobile_genetic_element
+transcriptional_cis_regulatory_region
+promoter_targeting_sequence
+rna_polymerase_promoter
+phage_rna_polymerase_promoter
+sp6_rna_polymerase_promoter
+t3_rna_polymerase_promoter
+t7_rna_polymerase_promoter
+gene_silenced_by_rna_interference
+gene_silenced_by_histone_modification
+gene_silenced_by_histone_methylation
+gene_silenced_by_histone_deacetylation
+replicon
+base
+amino_acid
+biological_region
+topologically_defined_region
+cryptic_gene
+rrna_gene
+pirna_gene
+rnase_p_rna_gene
+rnase_mrp_rna_gene
+lincrna_gene
+telomerase_rna_gene
+genetic_marker
+rnapol_ii_core_promoter
+transcription_regulatory_region
+sequence_motif
+restriction_enzyme_recognition_site
+restriction_enzyme_single_strand_overhang
+isre
+epigenetically_modified_region
+gene_with_non_canonical_start_codon
+gene_with_start_codon_cug
+open_chromatin_region
+candidate_gene
+positional_candidate_gene
+functional_candidate_gene
+rearrangement_region
+transposable_element_cds
+transposable_element_pseudogene
+bacterial_rnapol_promoter_sigma_ecf
+regulatory_region
+gene_cassette
+gene_group
+substitution
+inversion
+cryptogene
+recoded_mrna
+mrna_recoded_by_translational_bypass
+mrna_recoded_by_codon_redefinition
+retron
+anatomical structure
+organ
+material anatomical entity
+tissue

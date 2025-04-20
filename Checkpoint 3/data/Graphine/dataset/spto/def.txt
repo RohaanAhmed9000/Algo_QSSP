@@ -1,0 +1,268 @@
+the color of the placenta .
+traits and phenotypes related to flowering .
+fruit ripening process .
+chlorophyll deficiency localized at growing point .
+olive ,  brown ,  blue - green leaf .
+obsolete .use parent term instead sp:0000003 .
+fruit related traits and phenotypes .
+the shape of a fruit .
+shape ratio .
+the ratio of the maximum fruit height to maximum fruit width .
+leaf width in cm .
+the ratio of fruit height mid - width to fruit width mid - height .
+swollen storage shoot with determinate growth .
+internal ellipse height / width ratio .
+proximal / distal width ratio .the ratio of the width at fruit proximal end to the width at the fruit distal end .
+fitting precision r2 .how well the boundary of a perfect circle fits the boundary of a fruit .
+the asymmetry of the fruit .
+1 / 2fob ( y )  x tob .
+1 / 2fov ( y )  x tov .
+0 .25 x  [ 1 / 2fov ( y )  x tov ]   +  20 x  [  ( h_sl  +  h_sr )  / 2*h ]  the degree of heart shapeness .
+internal ellipse height  /  height top ellipse - bottom fruit ratio .
+internal ellipse height / height bottom ellipse - top fruit ratio  .
+ [ sum|n - ny| ]  / l .degree of horizontal asymmetry  .
+ [ sum|m - mi| ]  / l .degree of vertical asymmetry .
+fitting precision r2 .how well the boundary of a perfect ellipse fits the boundary of a fruit .
+ .the ratio of the area of the rectangle bounding the fruit to the area of the rectangle bounded by the fruit .
+the ends of the fruit .
+the shape of the distal end of the fruit .
+the shape of the proximal end of the fruit .
+angle between intersection of two lines representing the slope at the fruit distal end .
+angle between intersection of two lines representing the slope of the proximal fruit end .
+distal fruit end width / mid width ratio .
+fruit end indented area / total fruit area .
+distal fruit end protruded area / total fruit area .
+the ratio of the fruit width at the proximal end to the width mid - height .
+proximal fruit end indented area / total fruit area .
+the mass of the fruit measured in grams .
+obsolete .replaced by parent term sp:0000008 flower morphology .
+the area of the fruit in cm^2 .
+the length of the fruit .
+the maximum perimeter of the fruit in cm .
+the width of the fruit .
+the number of locules in the fruit .
+the area of the placenta .
+the proportion of the 2d area of the red color epicarp out of the total epicarp area visible from a top view of the proximal fruit end .
+the area of the pericarp  ( cm^2 )  .
+the sum of the areas of the septum and the pericarp in cm^2 .
+fruit bumpiness index .the standard deviation of distances  ( d )  from the center of the fruit  ( assuming all pixels have equal mass )  to the perimeter ,  multiplied by 100 .
+average seed weight in grams
+average number of seeds per fruit .
+number of fruits per plant .
+flower related traits and phenotypes .
+count of the number of flowers per one inflorescence .
+visual estimation of fruit glossiness 0 - 3 scale .
+visual estimation of fruit firmness 0 - 4 scale .
+number of days to opening of third inflorescence after transplanting .
+estimation of radial fruit cracking 0 - 5 scale
+a measure of how many flowers develop into fruit .
+the width measured at half of the fruits height in cm .
+the maximum width of the fruit in cm .
+the height measured at half of the fruit width in cm .
+the maximum length of the fruit in cm .
+obsolete .replaced by parent term sp:0000015  ( disease and stress response )  .
+the ratio of the average height of the shoulder points above the proximal end point to maximum height .
+if the area of the fruit is greater below mid - height than above it ,  horizontal asymmetry obovoid is the average distance  ( res_h )  between a horizontal line through the fruit at mid - height and the midpoint of the fruit height at each width .
+if the area of the fruit is greater above mid - height than below it ,  horizontal asymmetry ovoid is the average distance  ( res_h )  between a horizontal line through the fruit at mid - height and the midpoint of the fruit height at each width .
+area ellipse  /  total fruit area .
+the total soluble solids in the fruit  ( usually sugars and acids )  .
+citric acid content in the fruit .
+the metabolites present in the fruit .
+malic acid content in the fruit .
+glutamic acid content .
+the ph of the fruit .
+the total content of organic acids .
+the total acid content .
+fasciated fruit shape .multipe locules .
+determinate growth of plant branches terminating with an inflorescence .
+semi - determinate growth of plant branches producing more inflorescences than determinate plants ,  but eventually terminating .
+ineterminate growth of plant branches .
+the distal end of the fruit  ( tip )  .
+the proximal end of the fruit  ( shoulders )  .
+the color of the distal fruit end .
+the color of the proximal fruit end  ( shoulders )  .
+the leaf vascular tissue .
+epidermal layer of a tuber .
+the color of the tuber epidermal layer .
+the texture of the tuber epidermal layer .
+the flesh layer of the tuber .
+the color of the tuber flesh layer .
+the pattern of pigmentation of the tuber flesh .
+a structure on the tuber surface that can sprout .
+the depth of the tuber eye .
+phenotype measured using part of the sporophyte ,  which is composed of the stems and leaves ,  and includes shoot apical meristems .
+the axial system of plants that bears leaves and buds .
+erect plant growth habit .
+semi erect plant growth habit .
+spreading plant growth habit .
+after - harvest quality .
+the total yield of the harvest .
+the pattern of the tuber pigmentation .
+the morphological characteristics of the tuber .
+the shape of the tuber .
+the physical size of the tuber .
+a phenotype of the entire plant ,  including roots ,  shoots and leaves ,  at any stage of its life cycle .
+an assessment of the maturity of the shoot  ( vine )  .
+an assesment of the shoot at an early stage of maturity .
+an assesment of the shoot at a mid stage of maturity .
+an assesment of the shoot at a late stage of maturity .
+assessment of the shoot maturity 120 days after pollination  ( dap )  .
+assessment of the shoot maturity 95 days after pollination  ( dap )  .
+the overall appearance of the tuber .
+sucrose content in mg / g fresh weight .
+glucose content in mg / g fresh weight .
+the mass of the tuber .
+weight in air  /   ( weight in air  - weight in water )  .
+weight in air  /   ( weight in air  - weight in water )  measured at the time of harvest .
+weight in air  /   ( weight in air  - weight in water )  measured at storage .
+a scale to measure the propensity of tubers to sprout in the soil under high temperatures .
+quality of processed plant product ,  typically used by the food industry .
+the color of a fried chip .
+an estimate for the chip color .
+a measurement of the chip color with a colorimeter at a specific wavelength .
+leaf length from the apex to the basal zone in cm .
+vine 100% dead
+vine starting to senesce  ( yellowing evident )  .
+netted skin texture .
+smooth skin texture .
+slight net skin texture .
+partial russet skin texture .
+heavy russet skin texture .
+moderate russet skin texture .
+light russet skin texture .
+moderately smooth skin texture .
+very smooth skin texture .
+small tuber size .
+small - medium tuber size .
+medium tuber size .
+medium - large tuber size .
+large tuber size .
+very poor tuber appearance .
+poor tuber appearance .
+fair tuber appearance .
+good tuber appearance .
+green vine ,  done flowering .
+green vine ;  some flowers yet in bloom .
+full bloom with buds evident as well .
+protruding tuber eyes .
+shallow tuber eyes .
+intermediate tuber eye depth .
+deep tuber eyes .
+very deep tuber eyes .
+tuber skin pigment pattern has eyes .
+tuber skin pigment pattern has eyebrows .
+tuber skin pigment pattern is splashed .
+tuber skin pigment pattern is scattered see potato cooperators guide figure 13 .
+tuber skin pigment pattern is scattered see potato cooperators guide figure 13 .
+tuber skin pigment pattern is stippled see potato cooperators guide figure 13 .
+compressed shape .see potato cooperators guide ,  figure 14 .
+round shape .see potato cooperators guide ,  figure 14 .
+oval shape .see potato cooperators guide ,  figure 14 .
+long tuber shape .see potato cooperators guide ,  figure 14 .
+elongated tuber shape .see potato cooperators guide ,  figure 14 .
+between very early and early .
+between very early and early .
+between early and mid - season .
+between late and very late .
+erect plant growth habit .close to 90 degrees .
+erect plant growth habit .between 90 - 45 degrees
+semi - erect plant growth habit .45 degrees .
+spreading plant growth habit .less than 30 degrees
+spreading plant growth habit .less than 15 degrees
+spreading plant growth habit .zero degrees .
+small to small - medium tuber size .
+small - medium to medium tuber size .
+medium to medium - large tuber size .
+medium - large to large tuber size .
+very poor to poor tuber appearance .
+good to excellent tuber appearance .
+poor to fair tuber appearance .
+fair to good tuber appearance .
+grams of citric acid per 100ml .
+the proportion of the 2d area of the red color epicarp out of the total epicarp area visible from a top view of the proximal fruit end .
+percentage of surface area with hue angle between 0 - 50 on a 0 - 360 scale .
+percentage of surface area with hue angle between 70 - 100 on a 0 - 360 scale .
+measurement of the color red of the cross section on rgb scale .
+measurement of the color green of the cross section on rgb scale .
+measurement of the color blue of the cross section on rgb scale .
+the average l value of all the pixels in cielab color space .
+the average 'a' value of all the pixels in cielab color space .
+the average 'b' value of all the pixels in cielab color space .
+a measure of brightness .average luminosity of all the pixels in the cross section .
+hue is a measure of color in cielab colorspace .
+chroma is a measure of saturation in cielab colorspace .
+the stalk of an inflorescence ;  that part of the inflorescence below the first flower or inflorescence branch and above the last foliage leaf / pair of foliage leaves .
+the angle between best - fit lines drawn through the fruit perimeter on either side of the proximal end point .
+the angle between best - fit lines drawn through the fruit perimeter on either side of the proximal end point .
+pericarp thickness in cm .
+the seed begins germinating inside the fruit .
+the ratio of the height at which the maximum width occurs ,  to the maximum height .
+sucrose measured in the field  ( mg / g fresh weight )  .
+sucrose measured in storage  ( mg / g fresh weight )  .
+glucose measured in the field  ( mg / g fresh weight ) 
+glucose measured in the field  ( mg / g fresh weight )  .
+potato fry color rating based on reflectance measured from light to dark .
+net dry weight  ( after 1 week in oven )  divided by net fresh weight of the fruit and multiplied by 100 .
+the area of the fruit columella and placenta in cm^2 .
+number of cell layers in the tomato pericarp in axial abaxial axis .
+size of the biggest tomato cells in the pericarp in um^2 .
+the height of the full grown plant in cm .
+the height of the plant until the first inflorescence in cm
+the height of the plant until the last inflorescence in cm
+count of the number of inflorescences .
+the width of the stem in mm
+stem width between 2nd and 3rd inflorescence ,  measured in mm at complete developmental stage .
+stem width between 3rd and 4th inflorescence ,  measured in mm at complete developmental stage .
+count the number of flowers in the second inflorescence .
+count the number of flowers in the third inflorescence .
+count sepals per flower .
+count petals per flower .
+average length of petals from a representative flower per plant .
+average width of petals from a representative flower per plant .
+average length of sepals from a representative flower per plant .
+average width of sepals from a representative flower per plant .
+length of the anthers in cm .
+length of the pistil in cm .
+length of the ovary in cm .
+the height measured along a curved line through the fruit ,  passing through the midpoints of opposing pairs of points on either side of the distal and proximal points .
+the ratio of curved height to the width of the fruit at mid - curved - height ,  as measured perpendicular to the curved height line .
+the distance between the 1st and the 10th leaf in cm .
+the distance from the stem to the last flower along the rachis of the inflorescence .
+epicarp 'l' color value was recorded in a point close to pistil scar .
+epicarp 'a' color value was recorded in a point close to pistil scar .
+epicarp 'b' color value was recorded in a point close to pistil scar .
+number of primary leaflets per leaf .
+number of secondary leaflets per leaf .
+traits related to leaf habit .
+description of the way the leaves are held naturally .
+anthocyanin content in the stem of mature plants .
+the common position of the petals of fully opened flowers .
+stamen color of fully opened flowers .
+the position of the style compared to the stamens .
+historic terms  -  avoid using for future trials / experiments .
+color observation of immature green fruit .
+fruit color of the epicarp .
+the color of the fruit epidermis .
+scar width at the widest part of the pedicel scar .
+presence of longitudinal stripes on immature fruits .
+the extent of dissection in a fully opened leaf .
+the outline of fully opened leaf .
+the angle between best - fit lines drawn through the fruit perimeter on either side of the proximal end point .
+an arrangement of ribs surrounding the calyx end of a full size fruit .
+historic phenotype values for fruit size .
+phenotype values for fruit shape .
+scored in mature green fruit .
+0 - 2 score  ( 0:pimpinellifolium ,  1:standard ,  2:double feathered )  .
+terms used historically to describe leaf complexity mutations .
+historic terms for describing plant habit mutations .
+0 - determinate ,  1 - semi - determinate ,  2 - indeterminate .
+historic values for leaf color mutations .
+3:light green ,  5:medium green ,  7:dark green .
+historic phenotypic values for inflorescence structure used for describing mutations .
+1: uniparous ,  2: fishbone ,  3: forked ,  4 -  irregular .
+scored when the inflorescence is completely developed .
+historic values used to describe flower color mutants .
+3: pale yellow ,  5: yellow ,  7: yellow - orange .
+0: uniform ,  3: light green ,  5:  medium green ,   7: dark green .
+1: dot ,  3: linear ,  5: star ,  7: irregular .
+0: not present ,  3: low ,  5: intermediate ,  7: severe .

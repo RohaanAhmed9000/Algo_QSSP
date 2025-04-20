@@ -1,0 +1,2044 @@
+mouse strain
+rat strain
+insulin expressing cell
+sequence feature quantification
+high throughput sequence alignment
+tg ( ins1 - egfp / gh1 ) 14hara mouse strain
+c57bl / 6 mouse strain
+functional beta cell like cell
+sox17{ ( gfpcre ) mgn} mouse strain
+pdx1{ ( cfp ) mgn} mouse strain
+ptf1a{tm1mgn} mouse strain
+b6 .129s - neurog3{tm1 ( egfp ) khk} / mmcd mouse strain
+insm1tm2mgn mouse strain
+129x1 / svj mouse strain
+c3h mouse strain
+sox17 - expressing definitive endodermal cell
+sox17 - expressing epcam +  pancreatic epithelial cell
+pdx1 - expressing foregut endodermal cell
+ptf1a - expressing multipotent pancreatic cell
+ptf1a - lacking pancreatic progenitor cell
+neurogenin - 3 - expressing endocrine progenitor cell
+neurogenin - 3 - lacking pancreatic progenitor cell
+insm1 - expressing endocrine progenitor cell
+insm1 - lacking endocrine progenitor cell
+insulin - expressing immature beta cell
+insulin - expressing mature beta cell
+insm1 - expressing pdx1 high - positive pancreatic endocrine progenitor cell
+insm1 - expressing pdx1 low - positive pancreatic endocrine progenitor cell
+insm1tm2 ( gfp .cre ) mgn / pdx1tm2 ( cfp ) mgn mouse strain
+differential expression software
+b6 .cg - tg ( ins1 - egfp ) 1hara / j mouse strain
+arrayexpress id
+geo id
+cellular marker expression
+pancreatic material
+characterization of cell differentiation objective
+characterization of differentiation of insulin - producing cells objective
+characterization of islet / beta - cell stimulation / injury objective
+characterization of pancreas development and growth objective
+characterization of cell stimulation or injury objective
+targets and roles of transcriptional regulators objective
+tissue expression survey objective
+epigenetic modification process
+islet expansion in vitro
+islets in diabetes
+long non - coding rna
+transcription factor binding site identification by saco assay
+transcriptional profiling by maris assay
+age datum
+concentration datum
+b6 .cba - {tg ( gcg - cre ) 1herr} / mmnc mouse strain
+b6 .cba - {tg ( ipf1 - egfp ) 1herr} / mmnc mouse strain
+b6 ; d2 - tg ( ins - cre ) 23herr mouse strain
+b6 ; d2 - tg ( neurog3 - cre ) 1herr    mouse strain
+bx129 - neurod1{tmak71 ( lacz ) jle / mmcd} mouse strain
+stock ipf1{tm1cvw} mouse strain
+stock ipf1{tm2cvw} / mmnc mouse strain
+stock ptf1a{tm1 ( cre ) cvw} mouse strain
+stock tg ( foxa3 - cre ) 1khk mouse strain
+stock tg ( ipf1 - cre / esr1 ) 1dam / mmcd mouse strain
+stock - tg ( ipf1 - cre ) 89 .1dam / mmcd mouse strain
+stock tg ( neurog3 - cre ) 1dam / mmcd mouse strain
+gck{tm3mgn} mouse strain
+gck{tm2mgn} mouse strain
+gck{tm1 .1mgn} mouse strain
+pck{tm1 .1mgn} mouse strain
+rik{tm1 .3mgn} mouse strain
+rik{tm1 .1mgn} mouse strain
+pparg{tm1 .1mgn} mouse strain
+b6 .129x1 - abcc8{tm1 .1mgn} mouse strain
+tg ( pdx1 - neurog3 - er ) 1agb mouse strain
+glucagon:rtta mouse strain
+c57 / cbaj - hprt{tm3 ( ins2 - hbegf ) ugfm} mouse strain
+b6 - nkx6 - 1{tm1msan} mouse strain
+tg ( rip - cre / esr1 ) {ydor} mouse strain
+ptf1a{tm1 ( ttaoff ) macd} mouse strain
+nod .cg - prkdc{scid} il2rg{tm1wjl} tg ( ins2 - hbegf ) {6832ugfm} / sz mouse strain
+nod .cg - prkdc{scid} il2rg{tm1wjl}hprt{tm3 ( ins2 - hbegf ) ugfm} / sz mouse strain
+nod .cg - rag1{tm1mom} ins2{akita} prf1{tm1sdz} / sz mouse strain
+nod .cg - rag1{tm1mom} il2rg{tm1wjl} / sz  mouse strain
+nod .cg - prkdc{scid} il2rg{tm1wjl} tg ( ins1 - egfp / gh1 ) {14hara} / sz mouse strain
+neurog3{tm1ggr} mouse strain
+tg ( teto - ptf1a , lacz ) macd mouse strain
+ptf1a{tm2 ( w298a ) macd} mouse strain
+rbpjl{tm1 ( lacz ) macd} mouse strain
+stock pdx1{tm1macd} / j mouse strain
+stock tg ( teto - pdx1 , lacz ) 958 .1macd mouse strain
+neurog3{tm2 ( egfp ) ggr} mouse strain
+tg ( neurog3 - ires - nls - lacz ) 1ggr mouse strain
+tg ( ins1 - mrfp ) 2ggr mouse strain
+arx{tm1pgr} mouse strain
+mafa{tm1 .1rwst} mouse strain
+myt1{tm1 .1ggu} mouse strain
+oc - 1{tm1 .1mga} mouse strain
+nkx2 - 2{tm3suss} mouse strain
+nkx2 - 2{tm2suss} mouse strain
+c57 / cbaj - tgn ( glucagon -  hhb egf ) ugfm mouse strain
+c57 / cbaj - tgn ( glucagon -  rtta ) ugfm mouse strain
+c57 / cbaj - tg ( ins2 -  hbegf ) {6832ugfm} mouse strain
+fvb / nj - tg ( mip - luc - vu ) 3pwrs / j mouse strain
+gt ( rosa ) 26sor{tm1 ( myt1* ) hri} mouse strain
+ngn3{tm1 ( tta ) hri} mouse strain
+nkx2 - 2{tm1suss} mouse strain
+nkx2 - 2{tm4suss} mouse strain
+pdx1{tm6cvw} mouse strain
+pdx1{tm4cvw} mouse strain
+ptf1a{tm2 ( cre / esr1 ) cvw} mouse strain
+pdx1{tm5cvw} mouse strain
+dll1{tm1hri} mouse strain
+pdx1{tm3cvw} mouse strain
+ptf1a{tm3cvw} mouse strain
+ptf1a{lca} mouse esc line
+ptf1a{yfp} mouse esc line
+gck{lca} mouse esc line
+insm1{lca} mouse esc line
+nkx2 .2{lca} mouse esc line
+mip - gfp mouse esc line
+ngn3 - gfp mouse esc line
+rosa26{lca} mouse esc line
+sox17{lca} mouse esc line
+polyclonal rat iapp raised in rabbit
+polyclonal rat c - peptide 2 raised in rabbit
+polyclonal rat c - peptide 1 raised in rabbit
+polyclonal mouse c - peptide 1 raised in rabbit
+monoclonal human insulin raised in mouse
+polyclonal rat pdx1 raised in rabbit
+polyclonal rat nkx6 .1 raised in rabbit
+polyclonal human nkx2 .2 raised in goat
+polyclonal human ghrelin raised in goat
+polyclonal mouse pax6 raised in rabbit
+polyclonal human b - catenin raised in goat
+monoclonal mouse smooth muscle actin raised in mouse
+polyclonal human amylase raised in rabbit
+polyclonal human c - myc raised in rabbit
+polyclonal rat glut - 2 raised in rabbit
+polyclonal bovine carboxypeptidase a raised in rabbit
+polyclonal human chromogranin a raised in rabbit
+monoclonal human chromogranin a raised in mouse
+monoclonal human cytokeratin 7 raised in mouse
+monoclonal human pecam - 1 raised in mouse
+polyclonal aequorea victoria green fluorescent protein raised in rabbit
+monoclonal chicken nkx2 .2 raised in mouse
+polyclonal rat ghrelin raised in rabbit
+monoclonal chicken islet - 1 raised in mouse
+polyclonal human gata - 4 raised in rabbit
+polyclonal mouse pdx1 raised in rabbit
+polyclonal mouse pdx1 raised in chicken
+monoclonal human glucagon raised in mouse
+monoclonal human somatostatin raised in mouse
+monoclonal rat pancreatic ducts raised in mouse
+monoclonal rat islet delta cells raised in rat
+monoclonal rat pancreatic ducts raised in rat
+monoclonal human pro - insulin raised in mouse
+polyclonal mouse ngn3 raised in rabbit
+monoclonal mouse ngn3 raised in mouse
+monoclonal rat nkx6 .1 raised in mouse
+polyclonal human hnf6 raised in rabbit
+polyclonal mouse pdx1 raised in goat
+polyclonal mouse pdx1 raised in guinea pig
+polyclonal human ghrelin raised in rabbit
+monoclonal rat pdx1 raised in mouse
+polyclonal human sox2 raised in rabbit
+polyclonal mouse foxa2 raised in goat
+monoclonal human e - cadherin raised in mouse
+polyclonal human sox17 raised in rabbit
+monoclonal human pancreatic endocrine cells raised in mouse
+polyclonal human sox17 raised in goat
+polyclonal mouse shh raised in goat
+polyclonal e . coli beta galactosidase raised in chicken
+monoclonal aequorea victoria green fluorescent protein raised in mouse
+polyclonal mouse ptf1a raised in rabbit
+polyclonal mouse ia1  ( insm - 1 )  raised in rabbit
+monoclonal human pancreatic duct cells raised in mouse
+monoclonal human pancreatic exocrine cells raised in mouse
+monoclonal human alpha cells raised in mouse
+monoclonal mouse mo es - derived definitive endoderm raised in rat
+polyclonal human t  ( brachyury )  raised in goat
+polyclonal mouse laminin raised in rabbit
+monoclonal chicken pax6 raised in mouse
+sox17{gfpcre} mouse esc line
+insm1{tm1 .1mgn} mouse strain
+ghrl{lca} mouse esc line
+ghrl{cre - egfp} mouse esc line
+monoclonal mouse betatc6 raised in mouse
+gt ( rosa ) 26sor{tm1 ( gck* ) ydor} mouse strain
+polyclonal rat cart raised in rabbit
+monoclonal mouse mo es - derived early endoderm raised in rat
+monoclonal human hu es - derived early endoderm raised in mouse
+monoclonal mouse pancreatic duct cells raised in rat
+monoclonal mouse pancreatic duct and acinar cells raised in rat
+monoclonal mouse endothelial cells raised in rat
+monoclonal human disp2 raised in mouse
+polyclonal mouse lrp11 raised in rabbit
+polyclonal mouse sez6l2 raised in rabbit
+polyclonal human ddr1 raised in goat
+monoclonal human ddr1 raised in mouse
+polyclonal mouse gpr39 - 1a raised in rabbit
+monoclonal rat cart raised in mouse
+rosa26{r26 - 60 - dr5 - ta - cerulean} mouse esc line
+rosa26{r26 - 228 - dr5 - ta - cerulean} mouse esc line
+ptf1a{tm3macd} mouse strain
+sox17{tm1 .2mgn} mouse strain
+polyclonal mouse carboxypeptidase a1  ( cpa1 )  raised in goat
+polyclonal human muc1 raised in rabbit
+polyclonal human cleaved notch1 raised in rabbit
+polyclonal human jagged1 raised in goat
+pdx1{cfp} mouse esc line
+gt ( rosa ) 26sor{tm1 ( ccnd1t286a ) stang} mouse strain
+rosa26{tm1 .1 ( r26 - 60 - dr5 - ta - cerulean ) mgn} mouse strain
+nod .cg - rag1{tm1mom}ins2{akita}il2rg{tm1wjl} / sz mouse strain
+nod .cg - prkdc{scid}il2rg{tm1wjl} / sz mouse strain
+rosa26{tm1 .2 ( r26 - 228 - dr5 - ta - cerulean ) mgn} mouse strain
+nkx2 - 2{tm5 ( null ) suss} mouse strain
+nkx6 - 1{tm2 ( flox ) msan} mouse strain
+nod .cg - rag1{tm1mom}prf1{tm1sdz} / szj mouse strain
+foxo1{tm1 ( dbd ) dac} mouse strain
+rosa26{tm1 ( ccnd1 ) } mouse esc line
+rosa26{r26 - 60 - ibre4 - ta - cerulean} mouse esc line
+rosa26{r26 - 228 - ibre4 - ta - cerulean} mouse esc line
+foxo1{tm1 ( gfp ) dac} mouse strain
+polyclonal mouse dner raised in goat
+monoclonal rat shh raised in mouse
+monoclonal chicken chick hnf3beta raised in mouse
+pdx1{lca} mouse esc line
+polyclonal mouse pax4 raised in guinea pig
+rosa26{en - cherry - neo} mouse esc line
+neurog3{tm1 .1 ( ncre ) ggu} mouse strain
+rosa26{non - en - cfp - neo}  mouse esc line
+polyclonal mouse ngn3 raised in goat
+rosa26{en - cfp - neo} mouse esc line
+rosa26{en .cfp .sv40 .neo} mouse esc line
+rosa26{en - gfp - neo} mouse esc line
+rosa26{en - cfp - bgpa - neo} mouse esc line
+rosa26{ ( ngn3 .cfp ) mgn} mouse strain
+rosa26{tm1 .4 ( mafa - cherry ) mgn} mouse strain
+rosa26{r26 - 60 - 3xcnotch - ta - cerulean} mouse esc line
+rosa26{r26 - 60 - ar8 - ta - mcherry} mouse esc line
+rosa26{r26 - 228 - ar8 - ta - mcherry} mouse esc line
+rosa26{r26 - 60 - 6xnotch - ta - cerulean} mouse esc line
+rosa26{ - 228 .3xcnotch .ta .cerulean} mouse esc line
+rosa26{ - 228 .6xnotch .ta .cerulean} mouse esc line
+polyclonal mouse irx2 raised in rabbit
+polyclonal mouse arx raised in rabbit
+rosa26{ ( nkx2 .2 .cfp ) suss} mouse strain
+polyclonal mouse marx raised in guinea pig
+monoclonal human c - peptide raised in rat
+rosa26{ (  - 60 .ibre4 .tacerulean ) hri} mouse strain
+ptf1a{rtta} mouse esc line
+rosa26{nepn .cherry} mouse esc line
+rosa26{en .yfp .bgsplicepa .neo} mouse esc line
+rosa26{apple .bgsplicepa .neo} mouse esc line
+rosa26{ngn3 .mafa} mouse esc line
+rosa26{tm2mgn} mouse strain
+ptf1a{tm2 ( rtta ) mgn} mouse strain
+rosa26{ ( nepn .cherry ) mgn} mouse strain
+rosa26{mire1 .wt .cherry} mouse esc line
+rosa26{mire1 .ig .cherry} mouse esc line
+rosa26{ ( mlre1 .wt .cherry ) fpa} mouse strain
+rosa26{ ( mlre1 .ig .cherry ) fpa} mouse strain
+rosa26{ ( r26 - 228 - ibre4 - ta - cerulean ) hri} mouse strain
+rosa26{sox9 .cherry} mouse esc line
+rosa26{ ( teto .sox9 ) msan} mouse strain
+rosa26{teto .nrsf} mouse esc line
+ptf1a{tdtom} mouse esc line
+polyclonal human tspan7 raised in rabbit
+monoclonal human fxyd2 raised in mouse
+polyclonal human lrp11 raised in rabbit
+polyclonal mouse onecut1 raised in guinea pig
+rosa26{tm3mgn} mouse strain
+rosa26{tm4mgn} mouse strain
+rosa26{setd5 .gfp} mouse esc line
+pdx1{ ( h2b .apple ) mgn} mouse strain
+ngn3{ha .lca} mouse esc line
+foxm1{lca} mouse esc line
+rosa26{pdx1 .yfp} mouse esc line
+rosa26{ ( pdx1 .yfp ) mgn} mouse strain
+insm1{pdx1 .yfp} mouse esc line
+rosa26{3tf .cherry} mouse esc line
+rosa26{ ( 3tf .cherry ) mgn} mouse strain
+pdx1{aivd} mouse esc line
+pdx1{ ( aivd ) rwst} mouse strain
+nkx2 .2{ccre - knock - in} mouse esc line
+nkx2 .2{ ( cre - knock - in ) } mouse strain
+nkx2 .2{3xha .nkx2 .2} mouse esc line
+nkx2 .2{ ( 3xha .nkx2 .2 ) suss} mouse strain
+nkx2 .2{cre .egfp} mouse esc line
+pdx1{ ( cre - er ) } mouse strain
+nkx2 .2{cherry} mouse esc line
+polyclonal enterobacteria phage p1 cre raised in guinea pig
+pax4{ha .lca} mouse esc line
+polyclonal human cdcp1 raised in goat
+polyclonal human cd - 200 raised in goat
+polyclonal human coagulation factor 3 ( rhf3 )  raised in goat
+polyclonal human ngn3 raised in sheep
+monoclonal mouse pax4 raised in mouse
+monoclonal human cd142 raised in mouse
+monoclonal rat beta cell ,  ic2 raised in rat
+nod .cg - prkdc{scid} il2rg{tm1wjl} / szj mouse strain
+nod .cg - rag1{tm1mom}ins2{akita}il2rg{tm1wjl} / szj mouse strain
+pdx1{cre .er} mouse esc line
+ngn3{ ( ha .lca ) } mouse strain
+pax4{ ( ha .lca ) ggu} mouse strain
+rosa26{ ( setd5 .gfp ) mgn} mouse strain
+rosa26{228 .top .cfp} mouse esc line
+ptf1a{ ( tdtomato ) } mouse strain
+nkx2 .2{ ( cre .egfp ) suss} mouse strain
+rosa26{ ( teto .nrsf ) msan} mouse strain
+gt ( rosa ) 26sor{tm2 .1 ( mix1b - mcherry ) mgn} mouse strain
+nepn{cherry} mouse esc line
+ins2{apple .lca} mouse esc line
+pdx1{rtta} mouse esc line
+pdx1{cre} mouse esc line
+rosa26{228 .3tf .gfp .cre} mouse esc line
+rosa26{mire1 .n906a .cherry} mouse esc line
+polyclonal human hip - 14 zdhhc17 raised in rabbit
+ghrl{tm1 ( cre - egfp ) suss} mouse strain
+monoclonal human cd31  ( pecam1 )  raised in mouse
+polyclonal cow gfap raised in rabbit
+polyclonal human glucagon  ( gcg )  raised in rabbit
+polyclonal human glucagon  ( gcg )  raised in guinea pig
+polyclonal pig insulin raised in guinea pig
+polyclonal human ki67 raised in rabbit
+polyclonal human mafa raised in rabbit
+polyclonal human mafb raised in rabbit
+polyclonal human pancreatic polypeptide  ( ppy )  raised in rabbit
+polyclonal human somatostatin  ( sst )  raised in sheep
+monoclonal rat tuj1  ( tubb3 )  raised in rabbit
+polyclonal rat vegfa raised in goat
+polyclonal mouse foxa2  ( hnf3b )  raised in goat
+monoclonal human muc1 raised in hamster  ( armenian )
+polyclonal human hnf - 1β raised in goat
+polyclonal human sox9 raised in rabbit
+polyclonal human α - amylase  ( amy2a )  raised in rabbit
+polyclonal cow insulin raised in guinea pig
+polyclonal human insulin raised in guinea pig
+polyclonal human insulin raised in goat
+polyclonal human glucagon raised in rabbit
+polyclonal human somatostatin  ( sst )  raised in goat
+polyclonal rat synaptophysin  ( syp )  raised in rabbit
+ngn3{t2a .ncre} mouse esc line
+nkx2 .2{t2a .ccre} mouse esc line
+neurog3{cre - er .bac} mouse esc line
+pdx1{cremgn} mouse strain
+rosa26{228 .top .cfphri} mouse strain
+neurog3{rg .bac} mouse esc line
+rosa26{228 .3tf .gfp - cremgn} mouse strain
+ngn3{t2a .ncreggu} mouse strain
+pdx1{h2b .neptune} mouse esc line
+sst .rtta .lca mouse esc line
+foxa2{lca} mouse esc line
+polyclonal mouse ngn3 raised in chicken
+polyclonal mouse nkx6 .1 raised in chicken
+polyclonal mouse prox1 raised in chicken
+nkx2 .2{t2a .ccreggu} mouse strain
+rosa26{mire1 .n906a .cherrymgn} mouse strain
+sst{rtta .lca .mgn} mouse strain
+monoclonal human ghrelin raised in mouse
+monoclonal human gallbladder mucosal epithelium raised in mouse
+nod .cg - prkdc{scid} il2rg{tm1wjl} tg ( hla - a / h2 - d / b2m ) 1dvs / szj mouse strain
+nod .cg - prkdc{scid} il2rg{tm1wjl} h2 - ab1{tm1gru} tg ( hla - drb1 ) 31dmz / szj mouse strain
+continuant
+occurrent
+independent continuant
+obsolete dependent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+continuant fiat boundary
+process profile
+relational quality
+insulinoma cell
+lymphoblastoid cell line
+cce cell
+gross anatomical part
+biotin
+polynucleotide
+peptide
+deoxyribonucleic acid
+hydrogensulfite
+polysaccharide
+n - glycosyl compound
+molecular entity
+chemical entity
+organic heterocyclic compound
+hydroxides
+indoles
+ion
+molecule
+oxide
+oxolanes
+phosphorus atom
+atom
+primary amide
+organosulfur compound
+polyatomic anion
+heteroorganic entity
+chalcogen molecular entity
+main group element atom
+organosulfonic acid
+carboxylic acid
+main group molecular entity
+cyclic compound
+heterobicyclic compound
+p - block molecular entity
+biomacromolecule
+nucleic acid
+ribonucleic acid
+organic cyclic compound
+heteroarene
+nucleoside
+organonitrogen compound
+oxoanion
+polyatomic entity
+polyatomic ion
+carbonyl compound
+organochalcogen compound
+organooxygen compound
+heteroatomic molecular entity
+carboxamide
+cyanine dye
+phosphorus - 32 atom
+phosphorus - 33 atom
+organonitrogen heterocyclic compound
+oxacycle
+diazines
+5 - bromo - 2' - deoxyuridine
+organic molecular entity
+biotins
+alexa fluor 532
+alexa fluor 546
+heterocyclic compound
+nucleobase - containing molecular entity
+pyrimidine deoxyribonucleoside
+organic molecule
+carbohydrates and carbohydrate derivatives
+cell line cell
+immortal cell line cell
+cell line
+immortal stem cell line cell
+immortal neuron cell line cell
+immortal animal cell line cell
+immortal hematopoietic cell line cell
+immortal neural cell line cell
+immortal somatic cell line cell
+immortal mouse embryo - derived cell line cell
+immortal cell line
+cell
+primary cultured cell
+native cell
+cultured cell
+female germ cell
+oocyte
+stem cell
+hematopoietic stem cell
+erythroid progenitor cell
+germ line cell
+monoblast
+multi fate stem cell
+common myeloid progenitor
+megakaryocyte - erythroid progenitor cell
+common lymphoid progenitor
+non - terminally differentiated cell
+myoblast
+fibroblast
+epithelial cell
+blood vessel endothelial cell
+blood cell
+epithelial cell of pancreas
+t cell
+granulocyte
+endothelial cell
+neurectodermal cell
+mesenchymal stem cell
+fat cell
+pigment cell
+melanocyte
+glandular epithelial cell
+secretory cell
+exocrine cell
+endocrine cell
+enteroendocrine cell
+type b pancreatic cell
+glucagon secreting cell
+pancreatic a cell
+pancreatic d cell
+metabolising cell
+hepatocyte
+contractile cell
+muscle cell
+electrically active cell
+lining cell
+barrier cell
+motile cell
+ectodermal cell
+mesodermal cell
+endodermal cell
+anucleate cell
+single nucleate cell
+erythrocyte
+platelet
+b cell
+stuff accumulating cell
+migratory neural crest cell
+electrically responsive cell
+polyploid cell
+white fat cell
+dendritic cell
+serotonin secreting cell
+type d enteroendocrine cell
+cardiac muscle myoblast
+melanoblast
+lymphocyte
+proerythroblast
+basophilic erythroblast
+polychromatophilic erythroblast
+orthochromatic erythroblast
+megakaryocyte progenitor cell
+megakaryocyte
+granulocyte monocyte progenitor cell
+reticulocyte
+promonocyte
+angioblastic mesenchymal cell
+monocyte
+experimentally modified cell in vitro
+germ cell
+acinar cell
+natural killer cell
+pp cell
+somatic stem cell
+striated muscle cell
+leukocyte
+cardiac muscle cell
+myeloid cell
+erythroid lineage cell
+erythroblast
+myeloid leukocyte
+basophil
+eosinophil
+neutrophil
+pro - nk cell
+pro - b cell
+pro - t cell
+myeloblast
+promyelocyte
+hematopoietic multipotent progenitor cell
+lymphoid lineage restricted progenitor cell
+myeloid lineage restricted progenitor cell
+mononuclear cell
+lymphocyte of b lineage
+hematopoietic cell
+cd34 - positive ,  cd38 - positive common lymphoid progenitor
+cd34 - positive ,  cd38 - negative hematopoietic stem cell
+cd34 - positive ,  cd38 - positive common myeloid progenitor
+cd7 - negative lymphoid progenitor cell
+cell in vitro
+bone cell
+common myeloid progenitor ,  cd34 - positive
+hematopoietic oligopotent progenitor cell ,  lineage - negative
+macrophage dendritic cell progenitor
+hematopoietic lineage restricted progenitor cell
+hematopoietic oligopotent progenitor cell
+cd34 - positive ,  cd38 - negative multipotent progenitor cell
+pancreatic acinar cell
+type a enterocrine cell
+endo - epithelial cell
+meso - epithelial cell
+pancreatic ductal cell
+nongranular leukocyte
+bone marrow cell
+endothelial cell of vascular tree
+granulocytopoietic cell
+myelocyte
+monopoietic cell
+epithelial cell of tracheobronchial tree
+nucleate cell
+pancreatic pp cell
+epithelial cell of thymus
+connective tissue cell
+embryonic cell
+embryonic stem cell
+bronchial epithelial cell
+preadipocyte
+progenitor cell of endocrine pancreas
+medullary thymic epithelial cell
+respiratory epithelial cell
+somatic cell
+cardiocyte
+aortic endothelial cell
+embryonic blood vessel endothelial progenitor cell
+ghrelin secreting cell
+pancreatic epsilon cell
+hepatoblast
+premigratory neural crest cell
+hematopoietic precursor cell
+pancreatic endocrine cell
+precursor cell
+endothelial cell of artery
+epithelial cell of gall bladder
+cholangiocyte
+epithelial cell of exocrine pancreas
+pancreas exocrine glandular cell
+bone marrow hematopoietic cell
+neutrophillic cytoplasm
+acidophilic cytoplasm
+basophilic cytoplasm
+polychromatophilic cytoplasm
+increased nucleus size
+soil
+environmental material
+surgery
+massively parallel signature sequencing
+biopsy
+stem cell derived cell line
+database
+fetus
+geographical location
+chromatin
+euchromatin
+heterochromatin
+osteoblast differentiation
+ameboidal - type cell migration
+cytokine production
+serotonin secretion
+somatic diversification of immune receptors
+natural killer cell mediated immunity
+hematopoietic progenitor cell differentiation
+immune system process
+lymphocyte mediated immunity
+t cell mediated immunity
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+leukocyte differentiation
+somatic diversification of immune receptors via germline recombination within a single locus
+myeloid leukocyte differentiation
+regulation of immune system process
+regulation of leukocyte activation
+peptide secretion
+developmental process involved in reproduction
+circulatory system process
+molecular_function
+catalytic activity
+rna - directed dna polymerase activity
+cellular_component
+nucleus
+nucleolus
+cytoplasm
+vacuole
+ribosome
+nucleobase - containing compound metabolic process
+dna metabolic process
+dna replication
+dna modification
+dna methylation
+dna packaging
+chromatin remodeling
+cellular protein modification process
+cellular aromatic compound metabolic process
+transport
+ion transport
+cation transport
+serotonin transport
+apoptotic process
+response to stress
+immune response
+organelle organization
+cell cycle
+endomitotic cell cycle
+female meiotic division
+leukocyte cell - cell adhesion
+gamete generation
+germ cell development
+female pregnancy
+blood coagulation
+blood circulation
+biological_process
+metabolic process
+cell death
+biosynthetic process
+macromolecule biosynthetic process
+protein secretion
+detection of carbohydrate stimulus
+detection of hexose stimulus
+response to carbohydrate
+response to hexose
+hormone transport
+cellular process
+gene expression
+regulation of hormone levels
+protein transport
+bicarbonate transmembrane transporter activity
+oxygen transport
+ammonium transport
+peptide transport
+monoamine transport
+organic hydroxy compound transport
+cytoplasmic membrane - bounded vesicle
+cellular component organization
+single organismal cell - cell adhesion
+somatic recombination of immunoglobulin gene segments
+cell migration
+chromatin modification
+histone modification
+stem cell division
+regulation of nucleobase - containing compound metabolic process
+regulation of metabolic process
+protein metabolic process
+b cell mediated immunity
+immunoglobulin complex
+b cell receptor complex
+antigen processing and presentation
+regulation of cell - cell adhesion
+reproductive process
+biological adhesion
+signal release
+sarcomere
+peptide hormone secretion
+insulin secretion
+lymphocyte differentiation
+myeloid cell differentiation
+secretory granule
+cell differentiation
+neuron differentiation
+t cell differentiation
+erythrocyte differentiation
+megakaryocyte differentiation
+monocyte differentiation
+macrophage differentiation
+chromosome condensation
+apoptotic chromosome condensation
+osteoclast differentiation
+ribonucleoprotein complex
+cytoplasmic vesicle membrane
+secretory granule membrane
+granulocyte differentiation
+epithelial cell differentiation
+pancreas development
+endocrine pancreas development
+organelle membrane
+regulation of cellular metabolic process
+cytoplasmic vesicle
+vesicle
+membrane - bounded vesicle
+multicellular organismal process
+developmental process
+secretion by cell
+macromolecular complex
+immunoglobulin v ( d ) j recombination
+homotypic cell - cell adhesion
+response to monosaccharide
+detection of monosaccharide stimulus
+cellular nitrogen compound metabolic process
+cellular macromolecule biosynthetic process
+protein modification process
+ghrelin secretion
+regulation of molecular function ,  epigenetic
+t cell receptor complex
+t cell activation
+melanosome
+immunoglobulin complex ,  circulating
+dna polymerase complex
+azurophil granule
+zymogen granule membrane
+mhc protein complex
+mhc class ii protein complex
+amide transport
+myeloid dendritic cell differentiation
+macromolecule metabolic process
+organelle
+membrane - bounded organelle
+intracellular organelle
+intracellular membrane - bounded organelle
+intracellular non - membrane - bounded organelle
+protein complex
+receptor complex
+macromolecule modification
+macromolecule methylation
+sequence - specific dna binding
+regulation of dna methylation
+cellular metabolic process
+primary metabolic process
+cellular biosynthetic process
+cellular macromolecule metabolic process
+cellular protein metabolic process
+type b pancreatic cell proliferation
+organelle part
+intracellular part
+membrane part
+cytoplasmic vesicle part
+cytoplasmic part
+intracellular organelle part
+contractile fiber part
+plasma membrane part
+cell part
+single - organism process
+single organism reproductive process
+multi - organism reproductive process
+multi - multicellular organism process
+single - multicellular organism process
+single - organism metabolic process
+single - organism cellular process
+single - organism transport
+single - organism developmental process
+innate immune response
+leukocyte activation
+fat cell differentiation
+regulation of t cell differentiation
+regulation of cell differentiation
+regulation of lymphocyte differentiation
+heterocycle metabolic process
+lymphocyte activation
+hormone secretion
+secretion
+somatic stem cell division
+cell development
+oogenesis
+multicellular organismal reproductive process
+anatomical structure development
+stem cell differentiation
+cellular developmental process
+cell motility
+catecholamine secretion
+regulation of immune response
+regulation of biological process
+regulation of developmental process
+regulation of cellular process
+regulation of t cell activation
+regulation of body fluid levels
+multicellular organismal movement
+response to stimulus
+regulation of dna metabolic process
+regulation of nitrogen compound metabolic process
+localization
+establishment of localization
+regulation of lymphocyte activation
+chromosome organization
+detection of glucose
+multi - organism process
+catecholamine transport
+cardiac muscle cell differentiation
+heart contraction
+regulation of macromolecule metabolic process
+transdifferentiation
+chondroblast differentiation
+endocrine hormone secretion
+biological regulation
+regulation of biological quality
+glucagon secretion
+somatostatin secretion
+leukocyte aggregation
+organelle assembly
+organic substance transport
+organic substance metabolic process
+nitrogen compound transport
+extracellular exosome assembly
+regulation of primary metabolic process
+nucleic acid metabolic process
+single organism cell adhesion
+organic cyclic compound metabolic process
+organic substance biosynthetic process
+regulation of leukocyte differentiation
+catalytic complex
+single - organism localization
+single - organism organelle organization
+regulation of hemopoiesis
+regulation of multicellular organismal development
+measurement unit label
+objective specification
+action specification
+datum label
+software
+data item
+symbol
+information content entity
+scalar measurement datum
+directive information entity
+algorithm
+curation status specification
+data set
+image
+data about an ontology part
+plan specification
+measurement datum
+obsolescence reason specification
+textual entity
+figure
+document
+publication
+publication about an investigation
+time measurement datum
+documenting
+centrally registered identifier symbol
+centrally registered identifier
+centrally registered identifier registry
+written name
+obese
+chewing
+extraction of differential gene expression software
+patterns from gene expression software
+global identifier of target regions software
+peak calling
+planned process
+biological feature identification objective
+material supplier role
+reference substance role
+waiting
+processed material
+mass spectrometer
+microarray platform
+software optimization objective
+investigation
+evaluant role
+reporting party role
+assay
+diagnosis textual entity
+culture medium
+reagent role
+material processing
+protocol testing objective
+participant under investigation role
+measured expression level
+biological vector role
+specimen role
+sequence feature identification objective
+intervention design
+worker role
+gene list
+molecular feature identification objective
+hardware testing objective
+complete nutrient role
+cdna library
+population
+imaging assay
+protocol optimization objective
+biological replicate role
+investigation agent role
+nutrient role
+methodology testing objective
+cellular feature identification objective
+reference subject role
+enzymatic cleavage
+hardware optimization objective
+software testing objective
+organization
+feed role
+technical replicate role
+dna extraction
+organism feature identification objective
+protocol
+adding a material entity into a target
+analyte role
+disease stage
+intraperitoneal injection
+transcription factor binding site  identification
+material to be added role
+drawing a conclusion based on data
+planning
+histological sample preparation
+mass analyzer
+ion source
+ion detector
+light emission function
+contain function
+heat function
+material separation function
+excitation function
+synthesizing function
+perturb function
+filter function
+mechanical function
+transfer function
+ionization function
+cool function
+information processor function
+image acquisition function
+image creation device
+solid support function
+environment control function
+sort function
+pcr product
+nucleic acid template role
+cloning vector role
+polymerase chain reaction
+cloning insert role
+reverse transcriptase
+syringe
+extract
+transcription profiling assay
+averaging objective
+injection
+enzyme
+intraperitoneal administration
+plasmid
+adding material objective
+genotyping assay
+analyte measurement objective
+assay objective
+analyte assay
+target of material addition role
+normalized data set
+measure function
+consume data function
+material transformation objective
+manufacturing
+manufacturing objective
+study design execution
+reverse transcribed polymerase chain reaction
+manufacturer role
+dna sequencing
+dna methylation profiling assay
+material separation objective
+clustered data set
+differential expression analysis data transformation
+urine specimen
+material combination
+device setting
+specimen collection process
+error correction data transformation
+sample from organism
+center value
+portioning objective
+average value
+whole organism preparation
+separation into different composition objective
+specimen collection objective
+material combination objective
+454 genome sequence 20
+immunoprecipitation
+abi 377 automated sequencer
+medip - seq assay
+animal feeding
+chain termination sequencing
+ab solid system
+helicos sequencing
+454 genome sequencer flx
+illumina genome analyzer ii
+edman degradation
+solid sequencing
+li - cor 4300 dna analysis system
+library preparation
+chip - seq assay
+heliscope single molecule sequencer
+paired - end library
+dna sequencing by ligation
+solexa sequencing
+host role
+pyrosequencing
+recombinant vector
+dna sequencing by synthesis
+single fragment library
+cloning vector
+material sample role
+material sample
+bisulfite sequencing
+study design independent variable
+study design dependent variable
+study design controlled variable
+multiple testing correction objective
+purification objective
+cross linking
+material maintenance objective
+amplified dna
+primary structure of dna macromolecule
+dna residue methylation
+measurement device
+high molecular weight dna extract
+material maintenance
+primary structure of rna molecule
+polya rna extraction
+organellar rna extraction
+record of missing knowledge
+total rna extraction
+record of unknown sex
+cytoplasmic rna extraction
+nuclear rna extract
+polya rna extract
+pre - mortem specimen
+cytoplasmic rna extract
+rna extract
+nuclear rna extraction
+real time polymerase chain reaction assay
+protein extract
+total rna extract
+organellar rna extract
+post mortem specimen
+sequence feature annotation
+labeled dna extract
+freezing storage
+animal euthanization
+labeled rna extract
+frozen specimen
+labeled specimen
+lyophilization storage
+study intervention
+material separation device
+intramuscular injection
+service provider role
+paraffin specimen
+compound treatment design
+processed specimen
+subcutaneous injection
+lyophilized specimen
+container
+device
+dose specification
+fresh specimen
+sequence data
+paraffin storage
+agar stab specimen
+growth condition intervention design
+pcr instrument
+intravenous injection
+administration of material to specimen
+growth environment
+agar stab storage
+image creation
+nucleic acid extract
+feature extraction
+array image creation
+light emission device
+perturbation device
+environmental control device
+dna extract
+array manufacturer role
+tandem mass spectrometer
+spike - in quality control role
+individual organism identifier
+dye swap quality control role
+labeled nucleic acid extract
+binding assay
+cell culture expansion
+gene knock out
+gene knock in
+chromosomal substitution
+genetically modified material
+transfection
+genetic transformation objective
+induced mutation
+age since planting measurement datum
+age since hatching measurement datum
+age measurement assay
+age since egg laying measurement datum
+assay validation objective
+age since germination measurement datum
+validation by reverse transcription pcr design
+age since eclosion measurement datum
+age since sowing measurement datum
+age since coitus measurement datum
+validation by real time pcr design
+age measurement datum
+age since fertilization measurement datum
+age since birth measurement datum
+reverse transcription polymerase chain reaction assay
+selective organism creation objective
+rna sequencing
+binding datum
+selectively maintained organism
+operator variation design
+comparative genome hybridization by array design
+in vivo design
+genotyping by high throughput sequencing design
+innate behavior design
+cell component comparison design
+ex vivo design
+normalization testing design
+genetic population background information
+environmental history design
+epigenetic modification identification objective
+transcription profiling by tiling array assay
+transcription profiling by high throughput sequencing design
+genotyping by high throughput sequencing assay
+chip - chip assay
+array platform variation design
+chip - seq design
+translational bias design
+dna methylation profiling by high throughput sequencing assay
+rna - seq assay
+genotyping by array assay
+dna methylation profiling by array design
+translation profiling assay
+in vitro design
+rnai profiling by array design
+transcription profiling by array design
+disease state design
+wild type organism genotype information
+rnai profiling by array assay
+genotype information
+rna stability design
+tiling microarray
+species comparison design
+transcription profiling by rt - pcr design
+proteomic profiling by array assay
+microrna profiling by array design
+organism development design
+family history design
+transcription profiling identification objective
+dna methylation profiling by array assay
+microrna profiling by array assay
+quality control testing design
+clinical history design
+allele information
+post - transcriptional modification design
+transcription profiling by rt - pcr assay
+genetic alteration information
+cellular process design
+wild type allele information
+injury design
+organism status comparison design
+genotyping by array design
+comparative genomic hybridization by array assay
+stimulus or stress design
+protein and dna interaction identification objective
+protocol optimization design
+chip - chip design
+genetic characteristics information
+imprinting design
+cell cycle design
+translation profiling design
+cell type comparison design
+chip - chip by tiling array design
+dose response design
+chip - chip by tiling array assay
+organism part comparison design
+protein binding site identification design
+sex comparison design
+transcription profiling by tiling array design
+cell differentiation design
+transcription profiling design
+operon identification design
+dna methylation profiling by high throughput sequencing design
+all pairs design
+proteomic profiling by array design
+genotyping design
+individual genetic characteristics comparison design
+pathogenicity design
+genetic modification design
+transcription profiling by array assay
+strain comparison design
+cell specimen
+specimen with known storage state
+lowess group transformation
+lowess transformation
+tissue specimen
+lowess global transformation
+cell collecting
+linear amplification
+atmosphere
+dissection
+purification
+specimen with pre -  or post - mortem status
+sampling time measurement datum
+dna sequence data
+binding
+pubmed id
+cap analysis of gene expression
+immunoprecipitation assay
+chromatin interaction analysis by paired - end tag sequencing
+structural analysis by paired - end tag sequencing
+transcript analysis by paired - end tag sequencing
+transcription start site identification objective
+paired - end library preparation
+dnase i hypersensitive sites sequencing assay
+protein and rna interaction identification objective
+rnp  ( ribonuclear particle )  immunoprecipitation high -  throughput sequencing assay
+cross - linking immunoprecipitation high - throughput sequencing assay
+formaldehyde - assisted isolation of regulatory elements assay
+methylation - sensitive restriction enzyme sequencing assay
+reduced representation bisulfite sequencing assay
+shotgun bisulfite - seq assay
+rna annotation and mapping of promoters for the analysis of gene expression assay
+assay array
+secondary cultured cell
+establishing cell line
+secondary cultured cell population
+conclusion based on data
+cell freezing medium
+multiplex ligation - mediated amplification
+dna replication identification objective
+chromosome conformation identification objective
+carbon - copy chromosome conformation capture assay
+dna replication timing by sequencing assay
+microrna profiling by high throughput sequencing assay
+protein sequencing by tandem mass spectrometry assay
+micrococcal nuclease digestion followed by high throughput sequencing assay
+chromatin immunoprecipitation with exonuclease sequencing assay
+microrna profiling assay
+scalar value specification
+value specification
+molecular - labeled material
+assay using chromatin immunoprecipitation
+hardware testing design
+systematic review study design
+taxonomic diversity assessment by targeted gene survey
+decision - theoretic analysis objective
+decision analysis study design
+biodiversity assessment objective
+dna methylation profiling by chip - chip assay
+transcription profiling by mpss assay
+histone modification identification by chip - chip assay
+histone modification identification by chip - seq assay
+transcription factor binding site identification by chip - chip assay
+transcription factor binding site identification by chip - seq assay
+epigenetic modification assay
+nextseq 500
+translation - associated transcript leader sequencing
+transcript leader sequencing
+ribosomal profiling by sequencing assay
+self - transcribing active regulatory region sequencing assay
+carbon - copy chromosome conformation capture assay followed by sequencing assay
+individual - nucleotide resolution cross - linking and immunoprecipitation sequencing assay
+rna bind - n - seq assay
+poly ( a )  - site sequencing assay
+organism
+specimen
+cultured cell population
+organ section
+data transformation
+feature extraction objective
+linlog transformation
+loess global transformation
+loess group transformation
+loess scale group transformation
+total intensity transformation single
+total intensity transformation paired
+quantile transformation
+differential expression analysis objective
+dye swap merge
+moving average
+replicate analysis
+loess transformation
+multiple testing correction method
+data transformation objective
+data normalization objective
+correction objective
+normalization data transformation
+averaging data transformation
+class discovery data transformation
+center calculation objective
+class discovery objective
+center calculation data transformation
+scaling objective
+scaling data transformation
+error correction objective
+sequential design
+observation design
+pool of specimens
+genetically modified organism
+extraction
+centrifugation
+staining
+washing
+irradiation
+enzymatic ligation
+storage
+cell lysis
+immobilization
+nucleic acid hybridization
+flow cell
+flow cytometer
+light source
+obscuration bar
+optical filter
+photodetector
+flow cytometer sorter
+dna sequencer
+array scanner
+arrayer
+centrifuge
+computer
+heating block
+homogenizer
+hybridization chamber
+hybridization station
+liquid handler
+oligonucleotide synthesizer
+sonicator
+spectrophotometer
+thermal cycler
+vortexer
+microarray wash station
+temperature control bath
+cytometer
+microarray
+dna microarray
+protein microarray
+droplet sorter
+water bath
+microtome
+study design
+clinical study design
+repeated measure design
+cross over design
+n - to - 1 design
+matched pairs design
+parallel group design
+randomized complete block design
+balanced incomplete block design
+loop design
+reference design
+latin square design
+graeco latin square design
+hyper graeco latin square design
+factorial design
+2x2 factorial design
+fractional factorial design
+dye swap design
+replicate design
+self vs self design
+time series design
+tumor grading
+collecting specimen from organism
+killing
+administering substance in vivo
+exposure of material to environment
+acclimatization
+material component separation
+pooling specimens
+material portioning
+histology
+excision
+non specific enzymatic cleavage
+maintaining cell culture
+artificially induced reverse transcription
+cell permeabilization
+establishing cell culture
+cell culture splitting
+addition of molecular label
+concentrate
+genetic transformation
+sequencing assay
+vector mediated amplification
+specific enzymatic cleavage
+protease cleavage
+enzymatic amplification
+recombinant vector cloning
+rna extraction
+nucleic acid extraction
+phage display library
+cell lysate
+assay bead
+infection
+adaptive immune receptor
+obsolete_disease
+disposition to infect an organism
+material to be added
+target of material addition
+pathologic process
+clinical history
+phenotype
+disease
+disease course
+treatment
+quality
+age
+composition
+concentration of
+biological sex
+morphology
+shape
+deviation ( from_normal )
+size
+structure
+temperature
+time
+viability
+maturity
+female
+male
+circular
+normal
+increased size
+elliptic
+physical quality
+physical object quality
+bacterial mating type
+yeast mating type
+mixed sex
+biomaterial purity
+hermaphrodite
+a mating type  ( yeast )
+saccharomyces cerevisiae mating type
+schizosaccharomyces pombe mating type
+alpha mating type  ( yeast )
+h minus
+h plus
+f mating type
+f minus mating type
+ploidy
+haploid
+polyploid
+aneuploid
+euploid
+diploid
+cellular quality
+cellular potency
+unipotent
+oligopotent
+multipotent
+nucleate quality
+anucleate
+mononucleate
+striated
+alive
+dead
+immature
+mature
+concave
+cylindrical
+discoid
+mating type
+frozen
+organismal quality
+population quality
+concavity
+2 - d shape
+convex 3 - d shape
+biconcave
+affinity
+basophilic
+molecular quality
+3 - d shape
+increased quality
+increased object quality
+superelliptic
+transversely striated
+protein
+cd19 molecule
+cd34 molecule
+cd4 molecule
+receptor - type tyrosine - protein phosphatase c
+integrin alpha - m
+receptor - type tyrosine - protein phosphatase c isoform cd45ra
+cd3 epsilon
+neural cell adhesion molecule 1
+cd2 molecule
+t - cell surface glycoprotein cd8 alpha chain
+chemokine receptor ccr1 / 3 / 1l
+c - c chemokine receptor type 1
+c - c chemokine receptor type 3
+membrane - spanning 4 - domains subfamily a member 1
+cd44 molecule
+carcinoembryonic antigen - related cell adhesion molecule 8
+cd69 molecule
+ectonucleotide pyrophosphatase / phosphodiesterase family member 3
+endoglin
+immunoglobulin gamma fc receptor ii / iii / iv
+interleukin - 2 receptor subunit beta
+adp - ribosyl cyclase 1
+cadherin - 5
+alpha -  ( 1 , 3 )  - fucosyltransferase fut4
+low affinity immunoglobulin gamma fc region receptor ii
+low affinity immunoglobulin gamma fc region receptor iii
+epithelial cell adhesion molecule
+prominin - 1
+5' - nucleotidase
+cd59 - like glycoprotein
+cd7 molecule
+t - cell surface glycoprotein cd5
+thy - 1 membrane glycoprotein
+interleukin - 3 receptor class 2 alpha chain
+interleukin - 5 receptor subunit alpha
+interleukin - 7 receptor subunit alpha
+klrb1 - like protein
+leukosialin
+cd14 molecule
+cd33 molecule
+neprilysin
+paired box protein pax - 5
+signal transducer cd24
+transcription factor pu .1
+transferrin receptor protein 1
+tumor necrosis factor ligand superfamily member 5
+urokinase plasminogen activator surface receptor
+mast / stem cell growth factor receptor
+vascular endothelial growth factor receptor 2
+lymphocyte antigen 6g
+lymphocyte antigen 76
+cd9 molecule
+ccaat / enhancer - binding protein alpha
+dna nucleotidylexotransferase
+high affinity immunoglobulin epsilon receptor subunit alpha
+hepatocyte nuclear factor 3 - alpha
+hepatocyte nuclear factor 3 - beta
+erythroid transcription factor
+endothelial transcription factor gata - 2
+glucagon
+hepatocyte nuclear factor 1 - alpha
+hepatocyte nuclear factor 4 - alpha
+insulin
+insulinoma - associated protein 1
+insulin gene enhancer protein isl - 1
+transcription factor mafa
+neurogenic differentiation factor 1
+neurogenin - 3
+homeobox protein nkx - 2 .2
+homeobox protein nkx - 6 .1
+hepatocyte nuclear factor 6
+pancreas / duodenum homeobox protein 1
+pancreas transcription factor 1 subunit alpha
+recombining binding protein suppressor of hairless
+recombining binding protein suppressor of hairless - like protein
+transcription factor sox - 17
+t - cell acute lymphocytic leukemia protein 1
+dna ligase
+molecular label role
+molecular label
+cancer cell
+monoclonal antibody
+polyclonal antibody
+region
+polypeptide
+sequence_feature
+read
+enhancer
+mirna
+pseudogene
+polymer_attribute
+pseudogenic_region
+srp_rna
+ncrna
+transcript
+gene
+qtl
+gene_member_region
+transgene
+bac_end
+biological_region
+yac_end
+heritable_phenotypic_marker
+rrna_gene
+rnase_p_rna_gene
+rnase_mrp_rna_gene
+lincrna_gene
+telomerase_rna_gene
+pseudogenic_gene_segment
+gene_segment
+uterine cervix
+islet of langerhans
+pituitary gland
+zone of skin
+endocrine pancreas
+exocrine pancreas
+sense organ
+tube
+lymph node
+head
+serous membrane
+dorsal root ganglion
+ganglion
+duct
+large intestine
+anatomical structure
+organ
+organ segment
+organ part
+respiratory tract
+embryo stage
+segment of respiratory tract
+mixed endoderm / mesoderm - derived structure
+mixed ectoderm / mesoderm / endoderm - derived structure
+post - embryonic stage
+life cycle stage
+post - juvenile adult stage
+lung epithelium
+respiratory tube
+neuron projection bundle
+intestine
+segment of colon
+blood
+gyrus
+preputial gland
+prefrontal cortex
+organism substance
+material anatomical entity
+multicellular organism
+compound organ component
+testis
+organism subdivision
+anatomical cluster
+extraembryonic structure
+tissue
+multi - tissue structure
+epithelium
+simple columnar epithelium
+simple squamous epithelium
+cavitated compound organ
+unilaminar epithelium
+embryo
+germ layer
+ectoderm
+endoderm
+mesoderm
+stomach
+aorta
+heart
+brain
+cerebral cortex
+retina
+eye
+femur
+skeletal joint
+pons
+gonad
+female gonad
+uterus
+vagina
+seminal vesicle
+skin epidermis
+adipose tissue
+axon tract
+yolk sac
+saliva - secreting gland
+anatomical entity
+ventral pancreatic duct
+urine
+calcareous tooth
+diaphragm
+parathyroid gland
+cardiac muscle tissue
+skeletal muscle tissue
+smooth muscle tissue
+caecum
+vermiform appendix
+colon
+ascending colon
+sigmoid colon
+pyloric antrum
+adrenal cortex
+urinary bladder
+pancreatic acinus
+pancreas
+myometrium
+epididymis
+seminiferous tubule of testis
+white adipose tissue
+brown adipose tissue
+gastrocnemius
+soleus muscle
+bone element
+knee joint
+thoracic aorta
+abdominal aorta
+lower respiratory tract
+muscle organ
+artery
+vein
+mandible
+tongue
+submandibular gland
+autonomic ganglion
+sympathetic ganglion
+paravertebral ganglion
+parasympathetic ganglion
+lacrimal gland
+sebaceous gland
+major salivary gland
+parotid gland
+frontal cortex
+parietal lobe
+caudate nucleus
+globus pallidus
+amygdala
+midbrain
+medulla oblongata
+dorsal plus ventral thalamus
+hypothalamus
+subthalamic nucleus
+mammary gland
+endothelium of artery
+preoptic area
+ammon's horn
+blood vessel
+endothelium
+placenta
+superior cervical ganglion
+olfactory epithelium
+gray matter
+hindbrain
+epithelium of bronchus
+striated muscle tissue
+cerebellum
+thyroid gland
+lung
+embryonic structure
+ciliary ganglion
+umbilical vein
+hypodermis
+viscus
+spleen
+liver
+small intestine
+gall bladder
+kidney
+duodenum
+ileum
+medulla of thymus
+bronchus
+spinal cord
+vomeronasal organ
+olfactory bulb
+telencephalic ventricle
+nucleus of brain
+umbilical cord
+corpus callosum
+neural crest
+atrioventricular node
+peritoneum
+exocrine gland
+prostate gland
+endocrine gland
+adrenal gland
+thymus
+bone marrow
+tonsil
+connective tissue
+muscle tissue
+bile duct
+immune system
+pericardium
+skin gland
+basal ganglion
+limb bone
+striatum
+endochondral bone
+gland
+digit
+regional part of brain
+cerebral peduncle
+ventral tegmental area
+cingulate gyrus
+surface structure
+compound organ
+trachea
+skull
+reproductive organ
+endoderm of foregut
+mesentery of oesophagus
+gland of diencephalon
+gland of integumental system
+gland of gut
+head bone
+facial bone
+hindlimb bone
+respiratory system artery
+arterial blood vessel
+brain gray matter
+limb long bone
+hindlimb long bone
+respiratory system arterial blood vessel
+limb joint
+mouth mucosa
+fallopian tube
+tooth - like structure
+epithelial tube
+endothelial tube
+pancreatic epithelial bud
+ventral pancreatic bud
+digestive system duct
+sex gland
+brain ventricle / choroid plexus
+brain ventricle
+anatomical conduit
+endoderm - derived structure
+mesoderm - derived structure
+ectoderm - derived structure
+hemopoietic organ
+hindlimb zeugopod muscle
+pharyngeal arch artery
+bone of free limb or fin
+blood vessel endothelium
+arterial system endothelium
+dentary
+dermal skeletal element
+skeletal element
+bone of lower jaw
+respiratory tract epithelium
+respiratory system epithelium
+lower respiratory tract epithelium
+aorta endothelium
+cardiovascular system endothelium
+subdivision of digestive tract
+organ component layer
+mucosa of tongue
+immune organ
+reproductive structure
+multi cell part structure
+abdomen element
+trunk region element
+thoracic segment organ
+embryonic tissue
+male preputial gland
+nasal cavity epithelium
+male reproductive gland
+cerebral hemisphere gray matter
+extraembryonic membrane
+segment of aorta
+occipital region
+duct of male reproductive system
+endo - epithelium
+integumentary adnexa
+glandular epithelium
+adrenal / interrenal gland
+squamous epithelium
+digestive gland
+primary circulatory organ
+tracheobronchial tree
+pancreatic duct
+outer epithelium
+epithelial sac
+ciliated columnar epithelium
+external nose
+dermal bone
+telencephalic nucleus
+glandular acinus
+digestive tract diverticulum
+multicellular anatomical structure
+oral gland
+male accessory sex gland
+neural crest - derived structure
+structure with developmental contribution from neural crest
+endochondral element
+ecto - epithelium
+pseudostratified ciliated columnar epithelium
+bone of appendage girdle complex
+synovial limb joint
+central nervous system cell part cluster
+gray matter of telencephalon
+meso - epithelium
+bone of jaw
+hemopoietic tissue
+exocrine pancreas epithelium
+digestive system element
+embryoid body
+skeletal muscle organ
+hindlimb endochondral element
+limb endochondral element
+lateral structure
+upper respiratory conduit
+lobe of cerebral hemisphere
+abdominal viscera
+bladder organ
+exocrine gland of integumental system
+multi organ part structure
+cell cluster
+length unit
+mass unit
+time unit
+temperature unit
+substance unit
+meter
+kilogram
+second
+kelvin
+mole
+centimeter
+millimeter
+micrometer
+nanometer
+gram
+milligram
+microgram
+nanogram
+picogram
+degree celsius
+millisecond
+microsecond
+minute
+hour
+day
+week
+month
+year
+micromole
+nanomole
+picomole
+femtomole
+attomole
+base unit
+concentration unit
+mass density unit
+unit of molarity
+molar
+millimolar
+micromolar
+picomolar
+volume unit
+cubic centimeter
+milliliter
+liter
+microliter
+nanoliter
+picoliter
+femtoliter
+radiation unit
+activity  ( of a radionuclide )  unit
+curie
+roentgen
+roentgen equivalent man
+disintegrations per minute
+counts per minute
+light unit
+mass percentage
+mass volume percentage
+volume percentage
+gram per liter
+milligram per milliliter
+dimensionless unit
+percent
+count unit
+degree fahrenheit
+ph
+volume per unit volume
+milliliter per liter
+gram per deciliter
+deciliter
+colony forming unit per milliliter
+bit
+islet of langerhans morphology trait
+acute lymphoblastic leukemia
+acute myeloid leukemia
+acute promyelocytic leukemia
+asthma
+burkitts lymphoma
+cancer
+chronic myelogenous leukemia
+colorectal adenocarcinoma
+compound based treatment
+diabetes mellitus
+family history
+insulinoma
+leukemia
+neoplasm
+experiment performer
+type i diabetes mellitus
+type ii diabetes mellitus
+lymphoid neoplasm
+ethnic group
+ins - 1
+theiler stage 28
+fasting
+min6
+theiler stage 27

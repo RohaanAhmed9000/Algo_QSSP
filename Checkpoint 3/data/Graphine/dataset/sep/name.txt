@@ -1,0 +1,211 @@
+entity
+abstract
+physical
+attribute
+quality
+identifier
+format
+parameter
+distribution
+role
+digital data set
+product attribute
+proteomics standards initiative working group
+uniform resource identifier
+batch identifier
+catalogue identifier
+model identifier
+linear distribution
+logarithmic distribution
+maximum parameter
+minimum parameter
+state
+electrical mode
+gradient mode
+social role
+mode
+hold mode
+step and hold mode
+substance role
+position
+lecturer
+professor
+reader
+researcher
+principle investigator
+cross linker
+medium
+detection medium
+separation medium
+transfer medium
+gelling agent
+sample
+permission
+security access
+read access
+write access
+data format
+image file format
+graphics interchange format
+joint photographic experts group
+portable network graphics
+scalable vector graphics
+tagged image file format
+windows bitmap
+quantity
+unit of measure
+measurement range
+ph range
+molecular weight range
+software
+image acquistion software
+image analysis software
+progenisis
+software attribute
+software version number
+progenisis pg200
+progeniss pg220
+progenisis pg240
+samespots
+decyder
+delta2d
+object
+process
+collection
+device
+substance
+group
+organization
+consortium
+the human proteome organisation
+the human proteome organisation proteomics standards initiative
+psi gel
+psi mi
+psi mod
+psi ms
+psi pi
+psi sp
+vendor
+educational organisation
+university
+government organisation
+blot module
+electrical power supply
+gel dryer
+gel tank
+image acquisition device
+isoelectric focusing device
+thermostatic circulator
+camera
+scanner
+protocol
+protein blocking
+biological substance
+chemical substance
+gas substance
+compound liquid
+filter paper
+mobile phase
+digital entity
+gel
+gel excised analyte
+membrane substance
+parafilm
+coomassie blue
+solution
+suspension
+agarose sealing solution
+buffer solution
+fixation solution
+carrier ampholyte buffer
+electrophoresis buffer
+loading buffer
+rehydration buffer
+sample buffer
+transfer buffer
+laemelli buffer
+gel matrix
+agarose gel
+polyacrylamide gel
+immobilized ph gradient gel
+immobiline dry strip
+excised band
+excised spot
+nitrocellulose memebrane
+polyvinylidine difluoride
+biological stain product
+simplyblue safestain
+silverquest silver stain
+biological blot protocol
+capillary electrophoresis
+detection
+enzyme digestion
+electrophoresis
+equilibration
+first dimension gel equilibration
+excision
+image acquisition
+inter dimension protocol
+isoelectric focusing
+one dimensional gel electrophoresis
+sample loading protocol
+image analysis
+transfer protocol
+protein transfer protocol
+two dimensional gel electrophoresis
+northern blot
+southern blot
+western blot
+direct detection
+indirect detection
+staining
+coomassie staining
+silver staining
+chemilumninescent detect
+colorimetric detection
+flourescent detection
+immuno detection
+primary antibody probing
+secondary antibody probing
+radioactive detection
+agarose gel electrophoresis
+polyacrylamide gel electrohoresis
+sodium dodecyl sulfate polyacrylamide gel electrophoresis
+cup loading
+paper bridge loading
+rehydration loading
+well loading
+one dimensional gel electrophoresis image analysis
+two dimensional gel electrophoresis image analysis
+difference gel electrophoresis
+pubmed
+wordnet
+cy2
+cy3
+cy5
+label
+flourescent label
+sypro ruby
+manufacturer
+bisacrylamide
+photographic film
+biological sample
+sample description
+sample volume
+equilibration buffer
+non - linear distribution
+resolving buffer
+stacking buffer
+alkylation buffer
+reduction buffer
+sample desalting
+microcolumn
+cartridge
+beads
+spe surface
+liquid chromatography
+reversed - phase chromatography
+normal - phase chromatography
+ion - exchange chromatography
+affinity chromatography
+has_units

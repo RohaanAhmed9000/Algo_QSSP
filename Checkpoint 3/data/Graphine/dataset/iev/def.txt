@@ -1,0 +1,680 @@
+the process whereby relatively unspecialized cells ,  e .g .
+reversible reaction that can affect d , c , h , s , t , y , r residues .
+the directed movement of substances  ( such as macromolecules ,  small molecules ,  ions )  into ,  out of ,  within or between cells .
+cleavage of peptide bonds with very broad specificity .
+phosphoresidues are cleaved and return d , c , h , s , t , y or r residues .
+reversible reaction that create a covalent bond between a c - terminus g of ubiquitin and a k residue of the target .
+the directed movement of substances into the nucleus .
+the directed movement of substances out of the nucleus .
+the series of molecular signals initiated by binding of wnt protein to a receptor on the surface of the target cell .
+the processes by which stat proteins  ( signal transducers and activators of transcription )  are activated by members of the jak  ( janus activated kinase )  family of tyrosine kinases ,  following the binding of cytokines to their cognate receptor .
+the formation of a dimer of two stat proteins  ( signal transducers and activators of transcription )  following their activation by members of the janus activated kinase  ( jak )  family of tyrosine kinases .
+the transport of dimerized stat  ( signal transducers and activators of transcription )  proteins into the nucleus following activation by members of the janus activated kinase  ( jak )  family of tyrosine kinases .
+the process of introducing a phosphoric group to a tyrosine residue of a jak  ( janus activated kinase )  protein ,  thereby activating it .
+a form of programmed cell death induced by external or internal signals that trigger the activity of proteolytic caspases ,  whose actions dismantle the cell and result in cell death .
+the process by which a dormant state is induced ,  maintained and broken .
+the process by which a dormant state is induced and maintained in a seed .
+the multiplication or reproduction of cells ,  resulting in the rapid expansion of a cell population .
+the progression of biochemical and morphological phases and events that occur in a cell during successive cell replication or nuclear replication events .
+the process by which the cell cycle is halted during one of the normal phases  ( g1 ,  s ,  g2 ,  m )  .
+a cellular process resulting in the division of the cytoplasm of a cell and its separation into two daughter cells .
+the conversion of a differentiated cell of one fate into a differentiated cell of another fate without first undergoing cell division or reversion to a more primitive or stem cell - like fate .
+the process whereby a relatively unspecialized cell acquires specialized features of an adipocyte ,  an animal connective tissue cell specialized for the synthesis and storage of fat .
+the process whereby a relatively unspecialized cell acquires specialized features of a myoblast ,  a cell type that ,  by fusion with other myoblasts ,  gives rise to the myotubes that eventually develop into skeletal muscle fibers .
+differentiation of the osteoblast ;  which is the mesodermal cell that gives rise to bone .
+any process that stops ,  prevents or reduces the rate ,  frequency or extent of adipocyte differentiation .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of myoblast differentiation .
+any process that stops ,  prevents or reduces the rate ,  frequency or extent of osteoblast differentiation .
+the process by which a cell irreversibly increases in size over time by accretion and biosynthetic production of matter similar to that already present .
+a process that is carried out at the cellular level which results in the assembly ,  arrangement of constituent parts ,  or disassembly of cytoskeletal structures .
+formation of a lamellipodium ,  a thin sheetlike extension of the surface of a migrating cell .
+assembly of a stress fiber ,  the bundle of microfilaments and other proteins found in fibroblasts .
+the specific activation or halting of processes within a cell so that its vital functions markedly cease ,  rather than simply deteriorating gradually over time ,  which culminates in cell death .
+any process involved in the immunological reaction of an organism to an immunogenic stimulus .
+cell death resulting from activation of endogenous cellular processes .
+a cell cycle process comprising the steps by which a cell progresses through m phase ,  the part of the cell cycle comprising nuclear division .
+any process involved in the controlled movement of a cell .
+the orderly movement of cells from one site to another ,  often during the development of a multicellular organism .
+the attachment of a cell ,  either to another cell or to the extracellular matrix ,  via cell adhesion molecules .
+the specific actions or reactions of an organism in response to external or internal stimuli .
+a series of molecular signals initiated by the cross - linking of an antigen receptor on a b cell .
+a cascade of protein kinase activities ,  culminating in the phosphorylation and activation of either the erk1 or erk2 kinases ,  which in turn are a subfamily of mitogen - activated protein  ( map )  kinases . \ nnote that this mapkkk cascade is commonly referred to as the erk pathway in the literature ,  but involves only erk1 or erk2 ,  not other erk kinases .
+obsolete: remap to 'negative feedback regulation of ras - raf - mapk signaling by sprouty' iev:0003547 .
+obsolete: remap to 'negative feedback regulation of ras - raf - mapk signaling by spred' iev:0003546 .
+reversible reaction that create a covalent bond between a c - terminus g of an ubiquitine like sumo protein and a k residue of the target .
+the series of molecular signals generated as a consequence of excitation of rhodopsin by a photon .
+the chemical reactions and pathways resulting in the breakdown of a protein or peptide by hydrolysis of its peptide bonds ,  initiated by the covalent attachment of ubiquitin ,  and mediated by the proteasome .
+any series of molecular signals generated as a consequence of an integrin binding to one of its physiological ligands .
+the series of molecular signals generated as a consequence of glutamate binding to a cell surface receptor .
+the process whose specific outcome is the progression of the flower over time ,  from its formation to the mature structure .
+the increase in size or mass of an entire organism ,  a part of an organism or a cell .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of the jak - stat signaling pathway activity .
+any series of molecular signals generated as a consequence of an estrogen binding to its receptor .
+the series of molecular signals initiated by binding of an extracellular ligand to a notch receptor on the surface of the target cell .
+the process by which a gene's coding sequence is converted into a mature gene product or products  ( proteins or rna )  .
+the synthesis of either rna on a template of dna or dna on a template of rna .
+ec:3 catalyzed process
+a series of reactions initiated by the activation of the transcription factor nf - kappab .
+the directed movement of nf - kappab ,  a transcription factor for eukaryotic rna polymerase ii promoters ,  from the cytoplasm into the nucleus ,  across the nuclear membrane .
+the chemical reactions and pathways resulting in the formation of a protein .
+reaction that can affect k or g residues .
+gdp +  phosphate = gtp  +  h2o
+a cascade of protein kinase activities ,  culminating in the phosphorylation and activation of a jun kinase ,  a member of a subfamily of mitogen - activated protein  ( map )  kinases that is activated primarily by cytokines and exposure to environmental stress .
+the initiation of the activity of the inactive enzyme jun kinase kinase  ( jnkk )  activity in response to phosphorylation by a member of the jun kinase kinase kinase  ( jnkkk )  family ,  or another upstream kinase .
+the process of introducing a phosphoric group into a jun protein .
+the physical association of protein kinase ctheta with a lipid raft - associated inhibitor of kb factor kinase  ( ikk )  complex plays a role in the activation of the nf - kb cascade by tcr and cd28 .
+a cellular process that is involved in the progression of biochemical and morphological phases and events that occur in a cell during successive cell replication or nuclear replication events .
+progression from g2 phase to m phase of the mitotic cell cycle .
+the process whereby new strands of dna are synthesized .
+the chemical reactions and pathways resulting in the formation of lignins ,  a class of polymers formed by the dehydrogenetive radical polymerization of various phenylpropanoid monomers .
+the process whose specific outcome is the progression of an embryo from its formation until the end of its embryonic life stage .
+the process whose specific outcome is the progression of the organism over time ,  from the completion of embryonic development to the mature structure .
+the covalent attachment of a methyl residue to one or more monomeric units in a polypeptide ,  polynucleotide ,  polysaccharide ,  or other biological polymer .
+irreversible reaction that can affect k , p , y or r residues .
+cascade of at least three protein kinase activities culminating in the phosphorylation and activation of a map kinase .
+the process by which anatomical structures are generated and organized .
+the process of blood cell formation .
+obsolete: remap to 'negative regulation of ras - raf - mapk signaling by spred' iev:0003544 .
+the series of molecular signals generated as a consequence of the insulin - like growth factor receptor binding to one of its physiological ligands .
+a series of molecular signals initiated by the cross - linking of an antigen receptor on a t cell .
+any series of molecular signals generated as a consequence of binding to a toll - like receptor .
+activation of plc gamma ,  plc gamma_sh2 or ph domain
+the initiation of the activity of the inactive enzyme map kinase kinase by phosphorylation by a mapkkk .
+the initiation of the activity of the inactive enzyme map kinase by phosphorylation by a mapkk .
+dually phosphorylated mapk ,  or dperk ,  phosphorylates protein targets in both the cytoplasm and nucleus .
+the directed movement of a map kinase to the nucleus upon activation .
+the series of molecular signals generated as a consequence of the insulin receptor binding to insulin .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of insulin receptor signaling .
+t - cell
+obsolete: remap to 'unknown interaction' iev:0000922 .
+any process that modulates the frequency ,  rate or extent of insulin receptor signaling .
+any process that increases the frequency ,  rate or extent of insulin receptor signaling .
+any process that modulates the frequency ,  rate or extent of the jak - stat signaling pathway .
+any process that activates or increases the frequency ,  rate or extent of the jak - stat signaling pathway activity .
+obsolete: remap to 'regulation of ras - raf - mapk signaling by spred' iev:0003543 .
+obsolete: remap to 'positive regulation of ras - raf - mapk signaling by spred' iev:0003545 .
+the developmental processes by which defined structures within an embryo are generated .
+the process ,  occurring after embryonic development ,  by which anatomical structures are generated and organized .
+morphogenesis of a tissue or tissues that function together to perform a specific function .
+the process by which the anatomical structures of the flower are generated and organized .
+the regrowth of lost or destroyed tissues .
+pi3k approaching to the plasma membrane
+any process that initiates the activity of the inactive enzyme map kinase kinase kinase .
+assembly or disassembly of actin filaments by the addition or removal of actin monomers from a filament .
+disassembly of actin filaments by the removal of actin monomers from a filament .
+assembly of actin filaments by the addition of actin monomers to a filament .
+inhibitor of p160rock
+inactivation of myosin phosphatase
+the series of molecular signals generated as a consequence of a g - protein coupled receptor binding to its physiological ligand .
+any series of molecular signals in which a small monomeric gtpase relays one or more of the signals .
+any process that modulates the frequency ,  rate or extent of small gtpase mediated signal transduction .
+any process that activates or increases the frequency ,  rate or extent of small gtpase mediated signal transduction .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of small gtpase mediated signal transduction .
+the formation from simpler components of cyclic amp ,  adenosine 3' , 5' - phosphate .
+any process that stops ,  prevents or reduces the rate ,  frequency or extent of ras protein signal transduction .
+reaction that can affect arg ,  cys ,  glu ,  arg and asn residues .
+an increased liquidity or decreased consistency of feces ,  such as running stool .
+a respiratory infection caused by bordetella pertussis and characterized by paroxysmal coughing ending in a prolonged crowing intake of breath .
+the series of molecular signals generated as a consequence of excitation of rhodopsin by a photon .
+the directed movement of charged atoms or small charged molecules into ,  out of ,  within or between cells .
+the series of events required for an organism to receive a visual stimulus ,  convert it to a molecular signal ,  and recognize and characterize the signal .
+the processes pertaining to the functions of the nervous system of an organism .
+the regulated release of neurotransmitter into the synaptic cleft .
+process by which the visual system can modulate its sensitivity and response to light stimuli  ( that might vary over more than 6 magnitudes in intensity )  without response saturation .
+the process of restoring the photoreceptor cell to its unexcited state after termination of the stimulus  ( photon )  .
+any process that increases the concentration of calcium ions in the cytosol during the process of g - protein signaling coupled to ip3 second messenger .
+any biological process in an organism that recurs with a regularity of approximately 24 hours .
+the series of molecular signals that results in the upregulation of protein kinase c activity in response to the signal .
+tnfr1 signaling
+toll - like receptor pathway
+tnfr1 signaling
+pdgf signaling
+pdgf signaling ,  integrin signaling ,  g
+activation of ralbp1 by ral - gtp
+the series of molecular signals generated as a consequence of a transmembrane receptor tyrosine kinase binding to its physiological ligand .
+a series of molecular signals generated as a consequence of any member of the bmp  ( bone morphogenetic protein )  family binding to a cell surface receptor .
+the series of molecular signals generated as a consequence of a transforming growth factor beta receptor binding to one of its physiological ligands .
+the series of molecular signals generated as a consequence of an epidermal growth factor receptor binding to one of its physiological ligands .
+the series of molecular signals generated as a consequence of the nerve growth factor receptor binding to one of its physiological ligands .
+the process of restoring dna after damage .
+any process that modulates the frequency ,  rate or extent of activity of any tgfbeta receptor signaling pathway .
+any process that stops ,  prevents or reduces the rate ,  frequency or extent of any tgfbeta receptor signaling pathway .
+any process that activates or increases the rate ,  frequency or extent of tgfbeta receptor signaling pathway activity .
+any process that modulates the frequency ,  rate or extent of the activity of any bmp receptor signaling pathway .
+any process that stops ,  prevents or reduces the rate ,  frequency or extent of bmp signaling pathway activity .
+any process that activates or increases the rate ,  frequency or extent of bmp signaling pathway activity .
+the chemical reactions and pathways resulting in the breakdown of smad signaling proteins by ubiquitination and targeting to the proteasome .
+the directed movement of mrna from the nucleus to the cytoplasm .
+ec:6 catalyzed process
+ec:2 catalyzed process
+ec:1 catalyzed process
+ec:5 catalyzed process
+ec:4 catalyzed process \ n \ n [ stke:0456 ]  enzyme that catalyzes the cleavage of c - c ,  c - o ,  c - s ,  c - n or other bonds by other means than by hydrolysis or oxidation ,  with two substrates in one reaction direction ,  and one in the other .
+reversible reaction that can affect c , k , t or s residues .
+reversible reaction that can affect c residue .
+reversible reaction that can affect c residue .
+the conversion of proteins that induce or sustain apoptosis to an active form .
+upregulation of the activity of a caspase ,  any of a group of cysteine proteases involved in apoptosis ,  mediated by cytochrome c .
+the cleavage of dna during apoptosis ,  which usually occurs in two stages: cleavage into fragments of about 50 kbp followed by cleavage between nucleosomes to yield 200 bp fragments .
+obsolete: remap to 'unknown interaction' iev:0000922 .
+obsolete: remap to 'unknown interaction' iev:0000922 .
+progression from g1 phase to s phase of the mitotic cell cycle .
+a cell cycle process that modulates the rate or extent of the progression through the s phase of the cell cycle .
+the chemical reactions and pathways resulting in the breakdown of cyclins ,  proteins whose levels in a cell varies markedly during the cell cycle ,  and which play key roles in regulating cell cycle phase transitions .
+interacts strongly with cdk4 and cdk6 .
+interacts strongly with cdk4 and cdk6 .
+involved in g1 arrest .may mediate tgf beta - induced g1 arrest .
+ may be the important intermediate by which p53 mediates its role as an inhibitor of cellular proliferation in response to dna damage .
+ binds to proliferating cell nuclear antigen .
+interacts strongly with cdk6 ,  weakly with cdk4 .
+interacts strongly with cdk4 and cdk6 .
+progression through s phase ,  the part of the cell cycle during which dna synthesis takes place .
+functions as a dosage - dependent inducer in mitotic control .
+stabilizes the cyclin h - cdk7 complex to form a functional cdk - activating kinase  ( cak )  enzymatic complex .
+injuries to dna that introduce deviations from its normal ,  intact structure and which may ,  if left unrepaired ,  result in a mutation or a block of dna replication .
+progression through g1 phase ,  one of two 'gap' phases in the cell cycle ;  g1 is the interval between the completion of dna segregation  ( usually by mitosis or meiosis )  and the beginning of dna synthesis .
+ functions as a dosage - dependent inducer in mitotic control .
+may act as a negative regulator of entry into mitosis  ( g2 to m transition )  by protecting the nucleus from cytoplasmically activated cyclin b1 - complexed cdc2 before the onset of mitosis .
+any process that decreases the rate or extent of progression from g2 phase to m phase of the mitotic cell cycle .
+any process that modulates the rate or extent of progression from g2 phase to m phase of the mitotic cell cycle .
+any process that increases the rate or extent of progression from g2 phase to m phase of the mitotic cell cycle .
+the directed movement of substances from the golgi to the plasma membrane in transport vesicles that move from the trans - golgi network to the plasma membrane ,  where they fuse and release their contents by exocytosis .
+near the transmembrane domain
+within the transmembrane domain
+any process that modulates the frequency ,  rate or extent of the notch signaling pathway .
+any process that stops ,  prevents or reduces the rate ,  frequency or extent of the notch signaling pathway .
+any process that activates or increases the rate ,  frequency or extent of the notch signaling pathway .
+regulator of notch signaling ,  a signaling pathway involved in cell - cell communications that regulates a broad spectrum of cell - fate determinations .
+regulator of notch signaling ,  a signaling pathway involved in cell - cell communications that regulates a broad spectrum of cell - fate determinations .
+obsolete: remap to 'activation of numb' iev:0003542 .
+signal transduction by the bcr and coreceptor complexes is initiated by the recruitment and activation of tyrosine kinases .
+the assembly and arrangement of cytoskeletal structures containing both actin and myosin .
+any series of molecular signals generated as a consequence of a steroid hormone binding to its receptor .
+any series of molecular signals generated as a consequence of an androgen binding to its receptor .
+any process that increases the concentration of calcium ions in the cytosol .
+the series of successive proteolytic cleavage events that take place after a notch receptor binds a ligand ,  and which lead to the release of the notch intracellular domain  ( nicd )  ,  which is the active form of the receptor .
+the process by which receptor molecules are returned to an active state and in an active cellular location after they have been stimulated by a ligand .
+the series of molecular signals generated as a consequence of a platelet - derived growth factor receptor binding to one of its physiological ligands .
+a series of molecular signals within the cell that are mediated by a member of the ras family of proteins switching to a gtp - bound active state .
+a series of molecular signals within the cell that are mediated by a member of the rac family of proteins switching to a gtp - bound active state .
+a series of molecular signals within the cell that are mediated by a member of the rho family of proteins switching to a gtp - bound active state .
+a series of molecular signals within the cell that are mediated by a member of the ral family of proteins switching to a gtp - bound active state .
+any process that modulates an i - kappab kinase / nf - kappab induced cascade .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of an i - kappab kinase / nf - kappab induced cascade .
+any process that activates or increases the frequency ,  rate or extent of an i - kappab kinase / nf - kappab induced cascade .
+the b cell coreceptor complex ,  which is defined by its ability to bind and respond to c3d ( g )  - bound antigen ,  is composed of cd19 ,  cd21 and the widely expressed cd81 and leu13 proteins . \ n
+any process that modulates the frequency ,  rate or extent of signaling pathways initiated by the cross - linking of an antigen receptor on a b cell .
+any process that stops ,  prevents or reduces the rate ,  frequency or extent of signaling pathways initiated by the cross - linking of an antigen receptor on a b cell .
+any process that activates or increases the rate ,  frequency or extent of signaling pathways initiated by the cross - linking of an antigen receptor on a b cell .
+the immunoglobulin  ( ig )  and ig cytoplasmic tails are phosphorylated on the immunoreceptor tyrosine - based activation motif  ( itam )  tyrosines by src - family tyrosine kinases  ( sftks )  and / or syk .
+he b - cell linker protein  ( blnk )  binds to tyrosine 204 of ig alpha .
+the directed movement of nfat  ( nuclear factor of activated t cells )  proteins ,  a family of transcription factors ,  from the cytoplasm into the nucleus .
+the process whereby a relatively unspecialized precursor cell acquires specialized features of b - cells ,  t - cells ,  or natural killer cells .
+the rapid expansion of a lymphocyte population by cell division .
+progression through g2 phase ,  one of two 'gap' phases in the cell cycle ;  g2 is the interval between the completion of dna synthesis and the beginning of dna segregation  ( usually by mitosis or meiosis )  .
+any process that mediates interactions between a cell and its surroundings .
+a process that is carried out at the cellular level which results in the assembly ,  arrangement of constituent parts ,  or disassembly of a cellular component .
+a process that is carried out at the cellular level which results in the assembly ,  arrangement of constituent parts ,  or disassembly of the cytoplasm .
+a process that is carried out at the cellular level which results in the assembly ,  arrangement of constituent parts ,  or disassembly of an organelle within a cell .
+the assembly and arrangement of cytoskeletal structures comprising actin filaments and their associated proteins .
+control of the spatial distribution of actin filaments ;  includes organizing filaments into meshworks ,  bundles ,  or other structures ,  as by cross - linking .
+the developmental process by which the size or shape of a cell is generated and organized .
+any biological process ,  occurring at the level of a multicellular organism ,  pertinent to its function .
+the specific actions or reactions of an organism that recur with measured regularity .
+processes aimed at the progression of the seed over time ,  from its formation to the mature structure .
+a change in state or activity of a cell or organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+a change in state or activity of an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+a change in state or activity of a cell or an organism as a result of the perception of an endogenous stimulus .
+a change in state or activity of a cell or organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+a change in state or activity of an organism or cell  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+the process that gives rise to the flower .
+a change in state or activity of an organism  ( in terms of movement ,  secretion ,  enzyme production ,  gene expression ,  etc . ) 
+the series of events that restore integrity to a damaged tissue ,  following an injury .
+combining with interleukin - 2 to initiate a change in cell activity .
+combining with interleukin - 3 to initiate a change in cell activity .
+combining with interleukin - 4 to initiate a change in cell activity .
+combining with interleukin - 12 to initiate a change in cell activity .
+combining with interleukin - 10 to initiate a change in cell activity .
+pkc then phosphorylates and regulates the activity of many proteins ,  including egfr ;  phosphorylation of a threonine residue  ( thr654 )  in the juxtamembrane domain modulates egf binding affinity and kinase activity of the egfr .
+any process that modulates the frequency ,  rate or extent of epidermal growth factor receptor signaling pathway activity .
+any process that stops ,  prevents or reduces the rate ,  frequency or extent of epidermal growth factor receptor signaling pathway activity .
+any process that activates or increases the rate ,  frequency or extent of epidermal growth factor receptor signaling pathway activity .
+the chemical reactions and pathways resulting in the formation of tyrosine ,  an aromatic amino acid ,  2 - amino - 3 -  ( 4 - hydroxyphenyl ) propanoic acid .
+cpkcs  ( a and b1 )  have the potential to activate c - raf1 in vivo while at the same time blocking further activation by growth factors and other pkc isotypes .
+protein kinase c  ( pkc )  regulates activation of the raf - 1 signaling cascade by growth factors ,  but the mechanism by which this occurs has not been elucidated .
+classic and atypical but not novel pkc isoforms phosphorylate rkip at serine 153  ( ser - 153 )  .
+protein kinase c  ( pkc )  regulates activation of the raf - 1 signaling cascade by growth factors ,  but the mechanism by which this occurs has not been elucidated .
+classic and atypical but not novel pkc isoforms phosphorylate rkip at serine 153  ( ser - 153 )  .
+classic and atypical but not novel pkc isoforms phosphorylate rkip at serine 153  ( ser - 153 )  .
+cpkcs  ( a and b1 )  have the potential to activate c - raf1 in vivo while at the same time blocking further activation by growth factors and other pkc isotypes .
+at the level of raf ,  the kinase that phosphorylates mek - 1 ,  the activation cascade diverges ;  while conventional and novel pkcs  ( isotypes a and h )  are potent activators of c - raf1 ,  atypical pkc - z cannot increase c - raf1 activity , stimulating mek by an independent mechanism .
+t - cell lines expressing constitutively active pkc - theta ,  but not other constitutively active pkcs  ( alpha ,  delta ,  epsilon or zeta )  ,  were capable of activating an nf - kb reporter .
+tnrf signaling
+any process that modulates the frequency ,  rate or extent of signaling pathways initiated by the cross - linking of an antigen receptor on a t cell .
+any process that stops ,  prevents or reduces the rate ,  frequency or extent of signaling pathways initiated by the cross - linking of an antigen receptor on a t cell .
+any process that activates or increases the rate ,  frequency or extent of signaling pathways initiated by the cross - linking of an antigen receptor on a t cell .
+any process that modulates the frequency ,  rate ,  or extent of toll - like receptor signaling pathway .
+any process that modulates the frequency ,  rate or extent of ras protein signal transduction .
+any process that activates or increases the rate ,  frequency or extent of ras protein signal transduction .
+any process that modulates a cellular process that is involved in the progression of biochemical and morphological phases and events that occur in a cell during successive cell replication or nuclear replication events .
+any process that decreases the rate ,  frequency or extent of a cellular process that is involved in the progression of biochemical and morphological phases and events that occur in a cell during successive cell replication or nuclear replication events .
+any process that increases the rate ,  frequency or extent of a cellular process that is involved in the progression of biochemical and morphological phases and events that occur in a cell during successive cell replication or nuclear replication events .
+alanine metabolism: the chemical reactions and pathways involving alanine ,  2 - aminopropanoic acid .
+the chemical reactions and pathways involving glutamate ,  the anion of 2 - aminopentanedioic acid .
+glycine metabolism: the chemical reactions and pathways involving glycine ,  aminoethanoic acid .
+glycolysis: the chemical reactions and pathways resulting in the breakdown of a monosaccharide  ( generally glucose )  in other compounds ,  including pyruvate . \ ngluconeogenesis: the formation of glucose from noncarbohydrate precursors ,  such as pyruvate ,  amino acids and glycerol .
+the process by which glucose is oxidized ,  coupled to nadph synthesis .
+a nearly universal metabolic pathway in which the acetyl group of acetyl coenzyme a is effectively oxidized to two c02 and four pairs of electrons are transferred to coenzymes .
+fructose metabolism: the chemical reactions and pathways involving fructose ,  the ketohexose arabino - 2 - hexulose .
+the chemical reactions and pathways involving galactose ,  the aldohexose galacto - hexose .
+ascorbate metabolism: the chemical reactions and pathways involving l - ascorbic acid ,  a carbohydrate - like vitamin containing six carbon atoms per molecule .
+starch metabolism: the chemical reactions and pathways involving starch ,  the most important reserve polysaccharide in plants .
+the chemical reactions and pathways involving any amino sugar ,  sugars containing an amino group in place of a hydroxyl group .
+the chemical reactions and pathways involving carbohydrates ,  any of a group of organic compounds based of the general formula cx ( h2o ) y .
+the chemical reactions and pathways involving nucleotide - sugars ,  any nucleotide in which the distal phosphoric residue of a nucleoside 5' - diphosphate is in glycosidic linkage with a monosaccharide or monosaccharide derivative .
+the chemical reactions and pathways involving pyruvate ,  2 - oxopropanoate .
+glyoxylate metabolism: the chemical reactions and pathways involving glyoxylate ,  the anion of glyoxylic acid ,  hoc - cooh .
+the chemical reactions and pathways involving inositol ,  1 , 2 , 3 , 4 , 5 , 6 - cyclohexanehexol ,  a growth factor for animals and microorganisms .
+the chemical reactions and pathways involving inositol phosphate ,  1 , 2 , 3 , 4 , 5 , 6 - cyclohexanehexol ,  with one or more phosphate groups attached .
+the phosphorylation of adp to atp that accompanies the oxidation of a metabolite through the operation of the respiratory chain .
+the chemical reactions and pathways resulting in the formation of atp ,  adenosine 5' - triphosphate ,  a universally important coenzyme and enzyme regulator .
+the synthesis by organisms of organic chemical compounds ,  especially carbohydrates ,  from carbon dioxide  ( co2 )  using energy obtained from light rather than from the oxidation of chemical compounds .
+the chemical reactions and pathways involving methane ,  a colorless ,  odorless ,  flammable gas with the formula ch4 .
+the chemical reactions and pathways involving the nonmetallic element sulfur or compounds that contain sulfur ,  such as the amino acids methionine and cysteine or the tripeptide glutathione .
+the chemical reactions and pathways resulting in the formation of a fatty acid ,  any of the aliphatic monocarboxylic acids that can be liberated by hydrolysis from naturally occurring fats and oils .
+fatty acid elongation: the elongation of a fatty acid chain by the sequential addition of two - carbon units .
+the chemical reactions and pathways involving fatty acids ,  aliphatic monocarboxylic acids liberated from naturally occurring fats and oils by hydrolysis .
+the chemical reactions and pathways involving ketone bodies ,  any one of the three substances: acetoacetate ,  d - 3 - hydroxybutyrate  ( beta - hydroxybutyrate )  or acetone .
+the chemical reactions and pathways resulting in the formation of steroids ,  compounds with a 1 , 2 , cyclopentanoperhydrophenanthrene nucleus ;  includes de novo formation and steroid interconversion by modification .
+the chemical reactions and pathways resulting in the formation of bile acids ,  any of a group of steroid carboxylic acids occurring in bile .
+the chemical reactions and pathways involving c21 - steroid hormones ,  steroid compounds containing 21 carbons which function as hormones .
+the chemical reactions and pathways involving glycerolipids ,  any lipid with a glycerol backbone .
+the chemical reactions and pathways involving glycerophospholipids ,  any derivative of glycerophosphate that contains at least one o - acyl ,  o - alkyl ,  or o - alkenyl group attached to the glycerol residue .
+the chemical reactions and pathways involving arachidonic acid ,  a straight chain fatty acid with 20 carbon atoms and four double bonds per molecule .
+the chemical reactions and pathways involving a purine nucleotide ,  a compound consisting of nucleoside  ( a purine base linked to a deoxyribose or ribose sugar )  esterified with a phosphate moiety at either the 3' or 5' - hydroxyl group of its glycose moiety .
+the chemical reactions and pathways involving a pyrimidine nucleotide ,  a compound consisting of nucleoside  ( a pyrimidine base linked to a deoxyribose or ribose sugar )  esterified with a phosphate moiety at either the 3' or 5' - hydroxyl group of its glycose moiety .
+valine degradation: the chemical reactions and pathways resulting in the breakdown of valine ,  2 - amino - 3 - methylbutanoic acid .
+valine biosynthesis: the chemical reactions and pathways resulting in the formation of valine ,  2 - amino - 3 - methylbutanoic acid .
+the chemical reactions and pathways resulting in the formation of lysine ,  2 , 6 - diaminohexanoic acid .
+the chemical reactions and pathways resulting in the breakdown of lysine ,  2 , 6 - diaminohexanoic acid .
+arginine metabolism: the chemical reactions and pathways involving arginine ,  2 - amino - 5 - guanidinopentanoic acid .
+the chemical reactions and pathways involving histidine ,  2 - amino - 3 -  ( 1h - imidazol - 4 - yl ) propanoic acid .
+the chemical reactions and pathways involving tyrosine ,  an aromatic amino acid ,  2 - amino - 3 -  ( 4 - hydroxyphenyl ) propanoic acid .
+l - phenylalanine metabolism: the chemical reactions and pathways involving l - phenylalanine ,  the levorotatory isomer of 2 - amino - 3 - phenylpropanoic acid .
+the chemical reactions and pathways involving tryptophan ,  the chiral amino acid 2 - amino - 3 -  ( 1h - indol - 3 - yl ) propanoic acid .
+l - phenylalanine biosynthesis: the chemical reactions and pathways resulting in the formation of l - phenylalanine ,  the levorotatory isomer of 2 - amino - 3 - phenylpropanoic acid .
+a cyclic metabolic pathway that converts waste nitrogen in the form of ammonium to urea .
+the chemical reactions and pathways involving beta - alanine  ( 3 - aminopropanoic acid )  ,  an achiral amino acid and an isomer of alanine .
+methionine metabolism: the chemical reactions and pathways involving methionine  ( 2 - amino - 4 -  ( methylthio ) butanoic acid )  ,  a sulfur - containing ,  essential amino acid found in peptide linkage in proteins . \ ncysteine metabolism: the chemical reactions and pathways involving cysteine ,  2 - amino - 3 - mercaptopropanoic acid .
+the chemical reactions and pathways involving aminophosphonates ,  amino acid derivatives that contain a phosphonic acid moiety .
+the chemical reactions and pathways involving cyanoamino acids ,  amino acid derivatives that contain a cyanide group .
+d - glutamine metabolism:the chemical reactions and pathways involving d - glutamine ,  the d - enantiomer of the amino acid glutamine ,  i .e .
+d - arginine metabolism:the chemical reactions and pathways involving d - arginine ,  the d - enantiomer of the amino acid arginine ,  i .e .
+the chemical reactions and pathways involving d - alanine ,  the dextrorotatory isomer of the amino acid alanine .
+the chemical reactions and pathways involving glutathione ,  the tripeptide glutamylcysteinylglycine ,  which acts as a coenzyme for some enzymes and as an antioxidant in the protection of sulfhydryl groups in enzymes and other proteins ;  it has a specific role in the reduction of hydrogen peroxide  ( h2o2 )  and oxidized ascorbate ,  and it participates in the gamma - glutamyl cycle .
+the chemical reactions and pathways resulting in the formation of chondroitin sulfate ,  any member of a group of 10 - 60 kda glycosaminoglycans ,  widely distributed in cartilage and other mammalian connective tissues ,  the repeat units of which consist of beta -  ( 1 , 4 )  - linked d - glucuronyl beta -  ( 1 , 3 )  - n - acetyl - d - galactosamine sulfate .
+the chemical reactions and pathways resulting in the formation of keratan sulfate ,  a glycosaminoglycan with repeat units consisting of beta - 1 , 4 - linked d - galactopyranosyl - beta -  ( 1 , 4 )  - n - acetyl - d - glucosamine 6 - sulfate and with variable amounts of fucose ,  sialic acid and mannose units ;  keratan sulfate chains are covalently linked by a glycosidic attachment through the trisaccharide galactosyl - galactosyl - xylose to peptidyl - threonine or serine residues .
+the chemical reactions and pathways resulting in the breakdown of glycosaminoglycans ,  any one of a group of polysaccharides that contain amino sugars .
+the chemical reactions and pathways resulting in the formation of lipopolysaccharides ,  any of a group of related ,  structurally complex components of the outer membrane of gram - negative bacteria .
+the chemical reactions and pathways resulting in the formation of peptidoglycans ,  any of a class of glycoconjugates found in bacterial cell walls .
+the chemical reactions and pathways resulting in the formation of a glycosylphosphatidylinositol  ( gpi )  anchor that attaches some membrane proteins to the lipid bilayer of the cell membrane .
+the chemical reactions and pathways involving sphingolipids ,  any of a class of lipids containing the long - chain amine diol sphingosine or a closely related base  ( a sphingoid )  .
+the chemical reactions and pathways involving globosides ,  globotetraosylceramides ,  ceramides containing a core structure of galnac - beta -  ( 1 , 3 )  - gal - alpha ( 1 , 4 ) glc ( i )  .
+the chemical reactions and pathways resulting in the formation of ceramide oligosaccharides carrying in addition to other sugar residues ,  one or more sialic acid residues .
+the chemical reactions and pathways leading to the formation of ansamycins ,  any of a group of complex macrolactam compounds characterized by a cyclic structure in which an aliphatic ansa chain forms a bridge between two non - adjacent positions of a cyclic p - system ;  many exhibit antibacterial ,  antifungal or antitumor activity .
+the process by which cell surface receptors are monoubiquitinated following ligand - induced activation ,  and subsequently taken up into endocytic vesicles and targeted to the lysosome or vacuole for degradation ;  serves as a mechanism to downregulate receptor signaling .
+the chemical reactions and pathways involving thiamin  ( vitamin b1 )  ,  a water soluble vitamin present in fresh vegetables and meats ,  especially liver .
+the chemical reactions and pathways involving riboflavin  ( vitamin b2 )  ,  the precursor for the coenzymes flavin mononucleotide  ( fmn )  and flavin adenine dinucleotide  ( fad )  .
+the chemical reactions and pathways involving any of the vitamin b6 compounds ;  pyridoxal ,  pyridoxamine and pyridoxine and the active form ,  pyridoxal phosphate .
+nicotinamide metabolism: the chemical reactions and pathways involving nicotinamide ,  pyridine - 3 - carboxamide ,  the amide of nicotinic acid .
+the chemical reactions and pathways resulting in the formation of pantothenate ,  the anion of pantothenic acid .
+the chemical reactions and pathways involving biotin ,  cis - tetrahydro - 2 - oxothieno ( 3 , 4 - d ) imidazoline - 4 - valeric acid ;  the  (  +  )  enantiomer is very widely distributed in cells and serves as a carrier in a number of enzymatic beta - carboxylation reactions .
+the chemical reactions and pathways involving folic acid ,  pteroylglutamic acid .
+the chemical reactions and pathways involving retinol ,  one of the three compounds that makes up vitamin a .
+porphyrin metabolism: the chemical reactions and pathways involving any member of a large group of derivatives or analogs of porphyrin .
+the chemical reactions and pathways resulting in the formation of ubiquinone ,  a lipid - soluble electron - transporting coenzyme .
+the chemical reactions and pathways resulting in the formation of terpenoids ,  any member of a class of compounds characterized by an isoprenoid chemical structure .
+the chemical reactions and pathways resulting in the formation of monoterpenoid compounds ,  terpenoids having a c10 skeleton .
+limonene degradation: the chemical reactions and pathways resulting in the breakdown of limonene  ( 4 - isopropenyl - 1 - methyl - cyclohexene )  ,  a monocyclic monoterpene .
+the chemical reactions and pathways resulting in the formation of diterpenoid compounds ,  terpenoids with four isoprene units .
+indole biosynthesis: the chemical reactions and pathways resulting in the formation of indole  ( 2 , 3 - benzopyrrole )  ,  the basis of many biologically active substances  ( e .g .
+stilbene biosynthesis: the chemical reactions and pathways resulting in the formation of stilbenes ,  a class of polyketide compounds formed from cinnamic acid and three molecules of malonyl coa .
+the chemical reactions and pathways resulting in the formation of flavonoids ,  a group of phenolic derivatives containing a flavan skeleton .
+the chemical reactions and pathways resulting in the formation of alkaloids ,  nitrogen - containing natural products which are not otherwise classified as nonprotein amino acids ,  amines ,  peptides ,  amines ,  cyanogenic glycosides ,  glucosinolates ,  cofactors ,  phytohormones ,  or primary metabolite  ( such as purine or pyrimidine bases )  .
+penicillin biosynthesis: the chemical reactions and pathways resulting in the formation of any antibiotic that contains the condensed beta - lactamthiazolidine ring system .
+the chemical reactions and pathways resulting in the formation of streptomycin ,  a commonly used antibiotic in cell culture media ;  it acts only on prokaryotes and blocks transition from initiation complex to chain elongating ribosome .
+the formation from simpler components of tetracycline ,  a broad spectrum antibiotic produced by streptomyces bacteria that blocks binding of aminoacyl trna to the ribosomes of both gram - positive and gram - negative organisms  ( and those of organelles )  .
+the chemical reactions and pathways resulting in the formation of clavulanic acid ,   ( 2r , 3z , 5r )  - 3 -  ( 2 - hydroxyethylidene )  - 7 - oxo - 4 - oxa - 1 - azabicyclo [ 3 .2 .0 ] heptane - 2 - carboxylic acid .
+the chemical reactions and pathways resulting in the formation of puromycin ,  an aminonucleoside antibiotic that is a potent inhibitor of translation ;  produced by the bacterium streptomyces alboniger .
+the chemical reactions and pathways resulting in the formation of novobiocin ,  a coumarin antibiotic produced by the bacterium gyrasestreptomyces spheroides ,  that acts by inhibiting dna gyrase .
+the chemical reactions and pathways resulting in the breakdown of caprolactam ,  hexahydro - 2h - azepin - 2 - one ,  a cyclic amide of caproic acid .
+the chemical reactions and pathways resulting in the breakdown of biphenyl ,  a toxic aromatic hydrocarbon used as a heat transfer agent ,  as a fungistat in packaging citrus fruits and in plant disease control .
+toluene degradation: the chemical reactions and pathways resulting in the breakdown of toluene ,  a volatile monoaromatic hydrocarbon found in crude petroleum and petroleum products . \ nxylene degradation: the chemical reactions and pathways resulting in the breakdown of xylene ,  a mixture of three colorless ,  aromatic hydrocarbon liquids ,  ortho -  ,  meta -  and para - xylene .
+the chemical reactions and pathways resulting in the breakdown of 1 , 1 , 1 - trichloro - 2 , 2 - bis -  ( 4 - chlorophenyl ) ethane  ( ddt )  ,  a chlorinated broad spectrum contact insecticide .
+the chemical reactions and pathways resulting in the breakdown of 2 , 4 - dichlorobenzoate ,  a chlorinated aromatic compound which is a key intermediate in the aerobic degradation of polychlorinated biphenyls  ( pcbs )  .
+the chemical reactions and pathways resulting in the breakdown of 1 , 2 - dichloroethane ,  a major commodity chemical used ,  for example ,  in the manufacture of vinyl chloride .
+the chemical reactions and pathways resulting in the breakdown of tetrachloroethylene ,  a derivative of ethene with the hydrogen atoms replaced by chlorines .
+the chemical reactions and pathways resulting in the breakdown of styrene ,  an aromatic hydrocarbon liquid used in the manufacture of polystyrene .
+the chemical reactions and pathways resulting in the breakdown of 1 , 4 - dichlorobenzene  ( p - dichlorobenzene or paramoth )  ,  a derivative of benzene with two chlorine atoms attached at opposite positions on the ring .
+the chemical reactions and pathways resulting in the breakdown of ethylbenzene ,  a benzene derivative with an ethyl group attached to the ring ,  which occurs in the absence of oxygen .
+the chemical reactions and pathways resulting in the breakdown of fluorene ,  a tricyclic polycyclic aromatic hydrocarbon containing a five - membered ring .
+the chemical reactions and pathways resulting in the breakdown of carbazole ,  a heterocyclic aromatic compound containing a dibenzopyrrole system that is produced during coal gasification and is present in cigarette smoke .
+the chemical reactions and pathways resulting in the breakdown of benzoate ,  by its ligation to coenzyme a to form benzoyl - coa ,  which is then broken by an aerobic or anaerobic pathway .
+the chemical reactions and pathways resulting in the breakdown of benzoate ,  by its hydroxylation to cis - 1 , 2 - dihydroxybenzoate followed by dehydrogenation to catechol .
+the chemical reactions and pathways resulting in the breakdown of atrazine ,  a triazine ring - containing herbicide .
+the chemical reactions and pathways involving lipids ,  compounds soluble in an organic solvent but not ,  or sparingly ,  in an aqueous solvent .
+the chemical reactions and pathways involving a nucleotide ,  a nucleoside that is esterified with  ( ortho ) phosphate or an oligophosphate at any hydroxyl group on the glycose moiety ;  may be mono -  ,  di -  or triphosphate ;  this definition includes cyclic - nucleotides  ( nucleoside cyclic phosphates )  .
+cofactor metabolism: the chemical reactions and pathways involving a cofactor ,  a substance that is required for the activity of an enzyme or other protein .
+the chemical reactions and pathways involving amino acids ,  organic acids containing one or more amino substituents .
+the chemical reactions and pathways involving compounds derived from amino acids ,  organic acids containing one or more amino substituents .
+glycan biosynthesis: the chemical reactions and pathways resulting in the formation of polysaccharides ,  polymers of more than 10 monosaccharide residues joined by glycosidic linkages . \ nglycan metabolism: the chemical reactions and pathways involving polysaccharides ,  a polymer of more than 10 monosaccharide residues joined by glycosidic linkages .
+the chemical reactions and pathways resulting in the formation of polyketides ,  any of a diverse group of natural products synthesized via linear poly - beta - ketones ,  which are themselves formed by repetitive head - to - tail addition of acetyl  ( or substituted acetyl )  units indirectly derived from acetate  ( or a substituted acetate )  by a mechanism similar to that for fatty - acid biosynthesis but without the intermediate reductive steps .
+xenobiotic degradation: the chemical reactions and pathways resulting in the breakdown of a xenobiotic compound ,  a compound foreign to living organisms .
+obsolete: remap to 'unknown interaction' iev:0000922 .
+any process that activates or increases the frequency ,  rate or extent of a signaling pathway .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of a signaling pathway .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate ,  or extent of toll - like receptor signaling pathway .
+any process that activates or increases the frequency ,  rate ,  or extent of toll - like receptor signaling pathway .
+any process that modulates the frequency ,  rate or extent of the activity of the wnt receptor mediated signal transduction pathway .
+any process that stops ,  prevents or reduces the rate ,  frequency or extent of wnt receptor signaling pathway activity .
+any process that activates or increases the rate ,  frequency or extent of wnt receptor signaling pathway activity .
+n6 - acetyl - l - lysine or s - acetyl - l - cysteine are cleaved and return k or c residues .
+any process that modulates the frequency ,  rate or extent of insulin - like growth factor receptor signaling .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of insulin - like growth factor receptor signaling .
+any process that increases the frequency ,  rate or extent of insulin - like growth factor receptor signaling .
+a series of reactions ,  mediated by the intracellular serine / threonine kinase protein kinase b ,  which occurs as a result of a single trigger reaction or compound .
+camk - mediated nuclear export of hdac5 appears to require binding of 14 - 3 - 3 to ser - 259 and ser - 498 in its amino terminus .
+the chemical reactions and pathways resulting in the breakdown of a protein or peptide by hydrolysis of its peptide bonds ,  initiated by the covalent attachment of ubiquitin ,  with ubiquitin - protein ligation catalyzed by an scf  ( skp1 / cul1 / f - box protein )  complex ,  and mediated by the proteasome .
+hep3b cells
+any process that modulates the frequency ,  rate or extent of the activity of an estrogen receptor signaling pathway .
+any process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of the activity of an estrogen receptor signaling pathway .
+any process that activates or increases the frequency ,  rate or extent of the activity of an estrogen receptor signaling pathway .
+the flow of blood through the body of an animal ,  enabling the transport of o2 and nutrients to the tissues and the removal of waste products .
+any process that modulates the size of blood vessels .
+a decrease in the diameter of blood vessels ,  especially arteries ,  usually causing an increase in blood pressure .
+the process whereby a relatively unspecialized cell acquires specialized features of a muscle cell .
+the process whereby a relatively unspecialized cell acquires specialized features of a smooth muscle cell ;  smooth muscle lacks transverse striations in its constituent fibers and are almost always involuntary .
+any process that modulates the frequency ,  rate or extent of the synthesis of either rna on a template of dna or dna on a template of rna .
+any process that activates or increases the frequency ,  rate or extent of transcription .
+any process that modulates the frequency ,  rate or extent of gene expression .
+any process that increases the frequency ,  rate or extent of gene expression .
+any process that decreases the frequency ,  rate or extent of gene expression .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of transcription .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of the chemical reactions and pathways resulting in the formation of proteins by the translation of mrna .
+any process that activates or increases the frequency ,  rate or extent of the chemical reactions and pathways resulting in the formation of proteins by the translation of mrna .
+any process that modulates the frequency ,  rate or extent of the chemical reactions and pathways resulting in the formation of proteins by the translation of mrna .
+the series of molecular events whereby information is sent from one location to another within a living organism or between living organisms .
+the chemical reactions and pathways resulting in the formation of tryptophan ,  the chiral amino acid 2 - amino - 3 -  ( 1h - indol - 3 - yl ) propanoic acid .
+a series of molecular signals in which a cell uses cyclic amp to convert an extracellular signal into a response .
+any process that initiates the activity of the inactive enzyme adenylate cyclase .
+the initiation of the activity of the inactive enzyme jun kinase by phosphorylation by a jun kinase kinase  ( jnkk )  .
+the process of introducing a phosphoric group to a tyrosine residue of a jak2  ( janus activated kinase 2 )  protein ,  thereby activating it .
+the chemical reactions and pathways resulting in the formation of cellulose ,  a linear beta1 - 4 glucan of molecular mass 50 - 400 kda with the pyranose units in the  - 4c1 conformation .
+rearrangement of the spatial distribution of actin filaments and associated proteins that accompanies progression of the cell cycle .
+the series of molecular signals generated as a consequence of a leukemia inhibitory factor receptor binding to one of its physiological ligands .
+obsolete: remap to 'wnt signaling pathway' iev:0000027 .
+obsolete: remap to 'wnt signaling pathway' iev:0000027 .
+obsolete: remap to 'wnt signaling pathway' iev:0000027 .
+obsolete: remap to 'endoderm induction wnt signaling pathway' iev:0003455 .
+obsolete: remap to 'transcription by beta - catenin tcf complex and smad4' iev:0002284 .
+obsolete: remap to 'transcription by beta - catenin tcf complex' iev:0002282 .
+obsolete: remap to 'transcription by beta - catenin tcf complex' iev:0002282 .
+obsolete: remap to 'transcription by beta - catenin tcf complex and smad4' iev:0002284 .
+obsolete: remap to 'transcription by beta - catenin tcf complex' iev:0002282 .
+combining with interleukin - 7 to initiate a change in cell activity .
+obsolete: remap to 'toll receptor signaling' iev:0003490 .
+obsolete: remap to 'binding of pgrp - sa and gnbp1' iev:0003496 .
+obsolete: remap to 'binding of pgrp - sa:gnbp1 and pgn' iev:0003497 .
+obsolete: remap to 'binding of pgrp - sd and pgn' iev:0003498 .
+obsolete: remap to 'binding of gnbp3 and beta1 - 3 glucan' iev:0003494 .
+obsolete: remap to 'activation of serine protease' iev:0003491 .
+obsolete: remap to 'activation of psh by gnbp3' iev:0003492 .
+obsolete: remap to 'activation of spaetzle by serine protease' iev:0003504 .
+obsolete: remap to 'activation of spaetzle by psh' iev:0003503 .
+obsolete: remap to 'binding of toll and spaetzle' iev:0003500 .
+obsolete: remap to 'dimerization of toll by spaetzle' iev:0003529 .
+obsolete: remap to 'binding of toll and myd88:tube' iev:0003499 .
+obsolete: remap to 'binding of toll:myd88:tube and pelle' iev:0003501 .
+obsolete: remap to 'autophosphorylation of pelle' iev:0003493 .
+obsolete: remap to 'dissociation of toll:myd88:tube and pelle' iev:0003530 .
+obsolete: remap to 'phosphorylation of traf2 by pelle_p' iev:0003540 .
+obsolete: remap to 'binding of traf2 and ref ( 2 ) :dapkc' iev:0003495 .
+obsolete: remap to 'nuclear import of traf2:ref ( 2 ) p:dapkc' iev:0003539 .
+obsolete: remap to 'phosphorylation of cactus' iev:0003522 .
+obsolete: remap to 'dissociation of cactus_p and dif' iev:0003510 .
+obsolete: remap to 'dissociation of cactus_p and dorsal:dif' iev:0003524 .
+obsolete: remap to 'nuclear import of dif' iev:0003521 .
+obsolete: remap to 'nuclear import of dorsal' iev:0003538 .
+obsolete: remap to 'nuclear import of dorsal:dif' iev:0003528 .
+obsolete: remap to 'activation of dif' iev:0003509 .
+obsolete: remap to 'activation of dorsal' iev:0003531 .
+obsolete: remap to 'activation of dif:dorsal' iev:0003523 .
+obsolete: remap to 'binding of dif and nf - kappab binding sequence' iev:0003512 .
+obsolete: remap to 'binding of dorsal and nf - kappab binding sequence' iev:0003534 .
+obsolete: remap to 'binding of dif:dorsal and nf - kappab binding sequence' iev:0003526 .
+obsolete: remap to 'transcription of antimicrobial peptide by dif' iev:0003517 .
+obsolete: remap to 'transcription of antimicrobial peptide by dorsal' iev:0003537 .
+obsolete: remap to 'transcription of antimicrobial peptide by dif:dorsal' iev:0003527 .
+obsolete: remap to 'dif signaling' iev:0003506 .
+obsolete: remap to 'dorsal signaling' iev:0003507 .
+obsolete: remap to 'dif:dorsal signaling' iev:0003508 .
+obsolete: remap to 'expression of antimicrobial peptide by relish' iev:0003464 .
+obsolete: remap to 'expression of drosomycin by relish' iev:0003475 .
+obsolete: remap to 'expression of cecropin by relish' iev:0002644 .
+obsolete: remap to 'expression of diptericin by relish' iev:0003472 .
+obsolete: remap to 'imd signaling pathway' iev:0003456 .
+obsolete: remap to 'binding of pgrp - lc and pgn' iev:0003465 .
+obsolete: remap to 'binding of pgrp - lc and lps' iev:0003457 .
+obsolete: remap to 'binding of pgrp - le and pgn' iev:0003466 .
+obsolete: remap to 'binding of pgrp - lc and imd' iev:0003461 .
+obsolete: remap to 'binding of imd and fadd' iev:0003463 .
+obsolete: remap to 'binding of fadd and caspase8' iev:0003458 .
+obsolete: remap to 'binding of dnr - 1 and caspase8' iev:0003462 .
+obsolete: remap to 'activation of tak1 by imd' iev:0003459 .
+obsolete: remap to 'phosphorylation of ikk complex by tak1' iev:0000784 .
+obsolete: remap to 'phosphorylation of relish by ikk' iev:0003469 .
+obsolete: remap to 'cleavage and activation of relish by caspase8' iev:0003467 .
+obsolete: remap to 'nuclear import of relish' iev:0003471 .
+obsolete: remap to 'binding of relish and nf - kappab binding sequence' iev:0003468 .
+obsolete: remap to 'transcription of antimicrobial peptide by relish' iev:0003478 .
+obsolete: remap to 'expression of drosocin by relish' iev:0003473 .
+obsolete: remap to 'expression of attacin by relish' iev:0003474 .
+obsolete: remap to 'expression of defensin by dif:relish' iev:0003477 .
+obsolete: remap to 'dissociation of cactus_p and dorsal' iev:0003532 .
+reaction ,  that can affect k , c , a , d , e , q , g , i , k , m , p , s , t , y , v residues .
+obsolete: remap to 'dissociation of nf - kappab and i - kappab' iev:0000215 .
+obsolete: remap to 'phosphorylation of i - kappab_p by ikk complex_p in cytosol' iev:0000213 .
+obsolete: remap to 'binding of dif:relish and nf - kappab binding sequence' iev:0003460 .
+obsolete: remap to 'transcription of defensin by dif:relish' iev:0003481 .
+obsolete: remap to 'regulation of toll receptor signaling' iev:0003569 .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of the tl signaling pathway .
+any process that activates or increases the frequency ,  rate or extent of the tl signaling pathway .
+a defense response that is mediated by cells .
+the assembly of a filopodium ,  a very long microspike extended by the leading edge of a motile cell such as a crawling fibroblast or amoeba ,  or by the growth cone of a developing nerve cell axon .
+process involved in cell fate commitment .
+process by which a cell becomes capable of differentiating autonomously into a mesoderm cell regardless of its environment ;  upon determination ,  the cell fate cannot be reversed .
+the process whose specific outcome is the progression of the mesoderm over time ,  from its formation to the mature structure .
+the process whose specific outcome is the progression of the endoderm over time ,  from its formation to the mature structure .
+process by which a cell becomes capable of differentiating autonomously into an endoderm cell regardless of its environment ;  upon determination ,  the cell fate cannot be reversed .
+obsolete: remap to 'wnt signaling pathway' iev:0000027 .
+obsolete: remap to 'transcription by beta - catenin tcf complex' iev:0002282 .
+the covalent attachment of a glycosyl residue to one or more monomeric units in a polypeptide ,  polynucleotide ,  polysaccharide ,  or other biological polymer .
+the series of molecular signals generated as a consequence of activation of the transmembrane protein smoothened .
+covalent bond breakage in a molecule leading to the formation of smaller molecules .
+the movement of substances between cells in a multicellular organism .
+the commitment of cells to specific cell fates and their capacity to differentiate into particular kinds of cells .
+signaling at long or short range between cells that results in the commitment of a cell to a certain fate .
+signaling at short range between cells or tissues of different ancestry and developmental potential that results in one cell or tissue effecting a developmental change in the other .
+signaling between cells of equivalent developmental potential that results in these cells adopting different developmental fates .
+any process that mediates the transfer of information from one cell to another .
+obsolete: remap to 'dissociation of axin ,  apc ,  gsk3beta and beta - catenin in cytosol' iev:0003870 .
+the series of molecular signals generated as a consequence of a fibroblast growth factor receptor binding to one of its physiological ligands .
+the series of molecular signals generated as a consequence of the hepatocyte growth factor receptor binding to one of its physiological ligands .
+the series of molecular signals generated as a consequence of vascular endothelial growth factor receptor binding to one of its physiological ligands .
+obsolete: remap to 'translation of defensin' iev:0003487 .
+obsolete: remap to 'transcription of drosocin by relish' iev:0003482 .
+obsolete: remap to 'translation of drosocin' iev:0003488 .
+obsolete: remap to 'transcription of attacin by relish' iev:0003476 .
+obsolete: remap to 'translation of attacin' iev:0003485 .
+obsolete: remap to 'transcription of cecropin by relish' iev:0003480 .
+obsolete: remap to 'translation of cecropin' iev:0003486 .
+obsolete: remap to 'transcription of diptericin by relish' iev:0003483 .
+obsolete: remap to 'translation of diptericin' iev:0003489 .
+obsolete: remap to 'transcription of drosomycin by relish' iev:0003479 .
+obsolete: remap to 'translation of drosomycin' iev:0003484 .
+obsolete: remap to 'transcription of antimicrobial peptide' iev:0003518 .
+interaction leading to the formation of covalent bond within an autocatalytic molecule or between partners .
+co - occurrence of interactors in a limited subcellular location or similar distribution in various regions of a cell .
+covalent bond mediated by 2 sulfur atoms .
+gln - lys cross - link catalyzed by a transglutaminase .
+covalent bond breakage of a dna molecule leading to the formation of smaller fragements .
+cleavage of a lipid group covalently bound to a protein residue .
+s - farnesyl - l - cysteined is cleaved and returns a c residue .
+s - geranylgeranyl - l - cysteine is cleaved and returns a c residue .
+n6 - myristoyl - l - lysine is cleaved and returns a k residue .
+s - palmitoyl - l - cysteine ,  n6 - palmitoyl - l - lysine ,  o - palmitoyl - l - threonine or o - palmitoyl - l - serine are cleaved and return c , k , t or s residues .
+any process by which a pre - mrna or mrna molecule is cleaved at specific sites or in a regulated manner .
+covalent modification of a polypeptide occuring during its maturation or its proteolytic degradation .
+reaction catalyzed by pngase ,  a deglycosylating enzyme that promotes the hydrolysis of the beta - aspartylglycosylamine bond of aspargine - linked glycopeptides and glycoproteins .
+reaction that can affect k or g residues .
+irreversible reaction that can affect a , r , n , d , c , q , e , g , h , i , l , k , m , f , p , s , t , w , y or v residues .
+n6 - formyl - l - lysine is cleaved and returns a k residue .
+reversible reaction that create a covalent bond between a glycine residue of an ubiquitine like nedd8 protein and a lysine residue of the target .
+cleavage of the g - k bond and release of the nedd8 ubiquitin like proteins .
+cleavage of the g - k bond and release of the sumo ubiquitin like proteins .
+cleavage of the g - k bond and release of ubiquitin or ubiquitin like proteins .
+covalent or non covalent binding of lipid group on a protein residue .
+functional relationship among genes revealed by the phenotype of cells carrying combined mutations of those genes .
+a supressed gene mutation cause of an altered phenotype that is reverted to wild type phenotype when cell also carry a suppressor gene with a specific mutation or altered expression level . \ nobsolete: remap to cv intraction type 'suppressive interaction' mi:0796 .
+an altered expression is the suppressor of a phenotype . \ nobsolete: remap to cv intraction type 'suppressive interaction' mi:0796 and genetic experimental form 'expression level alteration' mi:0803 .
+overexpression is the suppressor of a phenotpe . \ nobsolete: remap to cv intraction type 'suppressive interaction' mi:0796 and genetic experimental form 'over expressed' mi:0506 .
+underexpression is the suppressor of a phenotype . \ nobsolete: remap to cv intraction type 'suppressive interaction' mi:0796 and genetic experimental form 'under expressed' mi:0223 .
+a given  ( suppressed )  mutation phenotype is reverted by a supressor gene mutation . \ nobsolete: remap to cv intraction type 'suppressive interaction' mi:0796 and genetic experimental form 'mutated gene' mi:0804 .
+knocked out gene is the suppressor of a phenotype . \ nobsolete: remap to cv intraction type 'suppressive interaction' mi:0796 and genetic experimental form 'knock out' mi:0788 .
+a mutation is the partial suppressor of a mutant phenotype . \ nobsolete: remap to cv intraction type 'suppressive interaction' mi:0796 and genetic experimental form 'knock down' mi:0789 .
+two  silent mutations  show an altered phenotype when  they co - occur on the same cell . \ nobsolete: remap to cv intraction type 'synthetic interaction' mi:0794 .
+death phenotype observed on cells carrying combination of  two independently silent  mutations . \ nobsolete: remap to cv intraction type 'synthetic interaction' mi:0794 and external cv for phenotype description  ( lethal fbcv:0000351 ) 
+two silent mutations  show  altered growth effect  when  they co - occur on the same cell .
+two silent mutations  show a conditional synthetic lethal phenotype when  they co - occur on the same cell .
+level of over / underexpression scales the 'extend' of a phenotype . \ nobsolete: remap to cv intraction type 'suppressive interaction' mi:0796 and genetic experimental form 'expression level alteration' mi:0803 .
+two silent mutations  show a nutrition sensitive lethal phenotype  when  they co - occur on the same cell . \ nobsolete: remap to cv intraction type 'synthetic interaction' mi:0794 and external cv for phenotype description .
+two silent mutations  show a temperature sensitive lethal phenotype  when  they co - occur on the same cell . \ nobsolete: remap to cv intraction type 'synthetic interaction' mi:0794 and external cv for phenotype description  ( fbcv:0000310 'temperature conditional' ) 
+two silent mutations  show growth defect  when  they co - occur on the same cell .
+two silent mutations  show growth increase  when  they co - occur on the same cell .
+structural abnormalities of the central or peripheral nervous system resulting primarily from defects of embryogenesis .
+congenital malformations of the central nervous system and adjacent structures related to defective neural tube closure during the first trimester of pregnancy generally occurring between days 18 - 29 of gestation .
+diseases of the central and peripheral nervous system .
+congenital defects of closure of one or more vertebral arches ,  which may be associated with malformations of the spinal cord ,  nerve roots ,  congenital fibrous bands ,  lipomas ,  and congenital cysts .
+the process by which the anatomical structures of embryonic epithelia are generated and organized .
+the morphogenesis of an embryonic epithelium into a tube - shaped structure .
+the process by which the anatomical structures of epithelia are generated and organized .
+the formation of a tube from the flat layer of ectodermal cells known as the neural plate .
+the last step in the formation of the neural tube ,  where the paired neural folds are brought together at the dorsal midline .
+the process by which the anatomical structures of the neural plate are generated and organized .
+the origin and formation of nervous tissue .
+the process by which the anatomical structures of a tube are generated and organized .
+development of a tissue or tissues that work together to perform a specific function or functions .
+the process whose specific outcome is the progression of a tube over time ,  from its intial formation to a mature structure .
+the reaction direction shown ,  that is ,  a  +  b  < == >  c  +  d versus c  +  d  < == >  a  +  b ,  is in accordance with the direction of the reaction within a pathway . \ nthis reaction occurs spontaneously  -  -  no enzyme is required .
+terms aiming to represent biochemical reactions referring to their resulting product modifications .
+obsolete: remap to 'fgf8 signaling pathway' iev:0003405 .
+obsolete: remap to 'fgf8 signaling pathway' iev:0003405 .
+obsolete: remap to 'expression of antimicrobial peptide by dif' iev:0003511 .
+obsolete: remap to 'expression of cecropin by dif' iev:0003513 .
+obsolete: remap to 'expression of drosomycin by dif' iev:0003515 .
+obsolete: remap to 'expression of diptericin by dif' iev:0003514 .
+obsolete: remap to 'expression of antimicrobial peptide by dif:dorsal' iev:0003525 .
+obsolete: remap to 'expression of antimicrobial peptide by dorsal' iev:0003533 .
+obsolete: remap to 'expression of drosomycin by dorsal' iev:0003535 .
+obsolete: remap to 'transcription of drosomycin by dorsal' iev:0003536 .
+obsolete: remap to 'transcription of cecropin by dif' iev:0003516 .
+obsolete: remap to 'transcription of drosomycin by dif' iev:0003519 .
+obsolete: remap to 'transcription of diptericin by dif' iev:0003520 .
+the processes resulting in the physical partitioning and separation of a cell into daughter cells .
+the process by which a dna strand is synthesized from template dna by the action of polymerases ,  which add nucleotides to the 3' end of the nascent dna strand .
+reaction where a phosphate is transferred between two proteins of a phosphorelay system .
+the phenotype resulting from genetic perturbation a and the phenotype resulting from genetic perturbation b have no effect on the wt background ,  but the combined genetic perturbation of a and b has a phenotypic effect .
+the phenotype resulting from genetic perturbation of a alone ,  b alone and ab combined have the same effect on the wt background .
+the phenotype resulting from genetic perturbation of a has an effect on wt ,  but that effect is abolished by adding the suppressor b ,  which itself shows no single - mutant effect  ( for example ,  wt = b = ab  <  a )  .
+the phenotype resulting from genetic perturbation of a and b have different effects  ( in terms of direction or magnitude )  on the wild - type background and the double mutant has the same phenotype as either a or b  ( for example ,  a  <  wt  <  b = ab )  .
+the phenotype resulting from genetic perturbation of a has an effect only in the b background ,  or the b mutant has an effect only in the a background .
+the a genetic perturbation enhances the phenotype of the b perturbation ,  or vice versa  ( e .g .
+single - mutant phenotype effects combine to give a double - mutant effect different from the wild type and different from single mutant effect .
+the phenotype resulting from genetic perturbation of b shows opposing effects in the wt and a backgrounds  ( for example ,  b  >  wt and ab <  a )  ;  or ,  a shows opposing effects in the wt and b backgrounds ,  but not both .
+the phenotype resulting from genetic perturbation of both a and b show opposing effects in the wt background and the background with the other mutant gene .
+obsolete: remap to 'cleavage of spaetzle by serine protease' iev:0003502 .
+obsolete: remap to 'cleavage of spaetzle by psh' iev:0003505 .
+the cleavage of a methyl group from a polypeptide .
+catalysis of the hydrolisis of a nucleoside triphosphate into a nucleoside diphosphate plus phosphate .
+catalysis of the hydrolisis of atp +  h2o = adp  +  phosphate .
+catalysis of the hydrolisis of gtp +  h2o = gdp  +  phosphate .
+the series of molecular signals initiated by binding of a ligand to an extracellular ligand to the toll receptor on the surface of the target cell .
+any process that modulates the frequency ,  rate or extent of the tl signaling pathway .
+the aggregation and bonding together of a type ii transforming growth factor beta  ( tgfbeta )  receptor dimer with a type i tgfbeta receptor dimer ,  following ligand binding ,  to form a heterotetrameric tgfbeta receptor complex .
+any process by which an rna molecule is cleaved at specific sites or in a regulated manner .
+covalent bond breakage of a nucleic acid molecule leading to the formation of smaller fragments .
+a organ system process carried out by any of the organs or tissues of the circulatory system .
+a organ system process carried out at the level of a muscle .
+a process ,  occurring in skeletal muscle ,  that is characterized by a decrease in protein content ,  fiber diameter ,  force production and fatigue resistance in response to different conditions such as starvation ,  aging and disuse .
+any process that modulates the frequency ,  rate or extent of a signaling pathway .
+dually phosphorylated mapk ,  or dperk ,  phosphorylates protein targets in both the cytoplasm and nucleus .
+the process whose specific outcome is the progression of the eye over time ,  from its formation to the mature structure .
+the process whose specific outcome is the progression of the compound eye over time ,  from its formation to the mature structure .
+the process whose specific outcome is the progression of the egg - laying organ of female and hermaphrodite nematodes over time ,  from its formation to the mature structure .
+the biological process whose specific outcome is the progression of a multicellular organism over time from an initial condition  ( e .g .
+the process whose specific outcome is the progression of the larva over time ,  from its formation to the mature structure .
+the process ,  occurring above the cellular level ,  that is pertinent to the reproductive function of a multicellular organism .
+the biological process by which new individuals are produced by one or two multicellular organisms .
+the release of a mature ovum / oocyte from an ovary .
+any process that modulates the frequency ,  rate or extent of smoothened signaling .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of smoothened signaling .
+it is further processed by internal cleavage to generate a 19 - kda n - terminal fragment  ( n - hh )  and a 25 - kda c - terminal fragment  ( c - hh )  with the concomitant addition of cholesterol at the c - terminus of n - hh  ( n - hhchol )  .
+it is further processed by internal cleavage to generate a 19 - kda n - terminal fragment  ( n - hh )  and a 25 - kda c - terminal fragment  ( c - hh )  with the concomitant addition of cholesterol at the c - terminus of n - hh  ( n - hhchol )  .
+the migration of mesodermal cells during gastrulation to help establish the multilayered body plan of the organism .
+the process whose specific outcome is the progression of an open tracheal system over time ,  from its formation to the mature structure .
+the progression of the respiratory system over time from its formation to its mature structure .
+the process whose specific outcome is the progression of a trachea over time ,  from its formation to the mature structure .
+the process whose specific outcome is the progression of an organismal system over time ,  from its formation to the mature structure .
+the biological process whose specific outcome is the progression of an anatomical structure from an initial condition to its mature state .
+the process whose specific outcome is the progression of a tissue over time ,  from its formation to the mature structure .
+the reproductive developmental process whose specific outcome is the progression of structures that will be used in the process of creating new individuals from one or more parents ,  from their formation to the mature structures .
+the establishment of the sex of an organism by physical differentiation .
+a developmental process by which a progressive change in the state of some part of an organism specifically contributes to its ability to form offspring .
+any process that stops ,  prevents or reduces the frequency ,  rate or extent of fibroblast growth factor receptor signaling pathway activity .
+a cascade of protein kinase activities ,  culminating in the phosphorylation and activation of big map kinase  ( bmk1 / erk5 )  ,  which is a type of mitogen - activated protein  ( map )  kinase .
+grouping of a set of receptors at a cellular location ,  often to amplify the sensitivity of a signaling response .
+the biosynthetic process whereby peptide bond formation occurs in the absence of the translational machinery .
+the directed movement of a neurotransmitter into ,  out of ,  within or between cells .
+any process pertinent to the generation and maintenance of rhythms in the physiology of an organism .
+the specific actions or reactions of an organism that recur with a regularity of approximately 24 hours .
+the chemical reactions and pathways involving carboxylic acids ,  any organic acid containing one or more carboxyl  ( cooh )  groups or anions  ( coo -  )  .
+the chemical reactions and pathways involving alcohols ,  any of a class of compounds containing one or more hydroxyl groups attached to a saturated carbon atom .
+the chemical reactions and pathways involving amino acids ,  organic acids containing one or more amino substituents ,  and compounds derived from amino acids ,  as carried out by individual cells .
+the chemical reactions and pathways involving an amide ,  any derivative of an oxoacid in which an acidic hydroxy group has been replaced by an amino or substituted amino group ,  as carried out by individual cells .
+the chemical reactions and pathways involving nucleobases ,  nucleosides ,  nucleotides and nucleic acids .
+coa biosynthesis: the chemical reactions and pathways resulting in the formation of coenzyme a ,  3' - phosphoadenosine -  ( 5' ) diphospho ( 4' ) pantatheine ,  an acyl carrier in many acylation and acyl - transfer reactions in which the intermediate is a thiol ester .
+the expansion of a b cell population by cell division .
+the expansion of a t cell population by cell division .
+the process in which a precursor cell type acquires characteristics of a more mature t - cell .
+a change in the morphology or behavior of a cell resulting from exposure to an activating factor such as a cellular or soluble ligand .
+a change in morphology and behavior of a lymphocyte resulting from exposure to a specific antigen ,  mitogen ,  cytokine ,  chemokine ,  cellular ligand ,  or soluble factor .
+the change in morphology and behavior of a natural killer cell in response to a cytokine ,  chemokine ,  cellular ligand ,  or soluble factor .
+formation of the amnioserosa ,  an epithelium that occupies a hole in the embryonic dorsal epidermis .
+the formation of ectoderm during gastrulation .
+the process whose specific outcome is the progression of the ectoderm over time ,  from its formation to the mature structure .
+the process whose specific outcome is the progression of the lung over time ,  from its formation to the mature structure .
+the process whose specific outcome is the progression of the skin over time ,  from its formation to the mature structure .
+the process whose specific outcome is the progression of the male gonad over time ,  from its formation to the mature structure .
+the directed movement of a motile cell or organism ,  or the directed growth of a cell guided by a specific chemical concentration gradient .
+a cell cycle process comprising the steps by which the nucleus of a eukaryotic cell divides ;  the process involves condensation of chromosomal dna into a highly compacted form .
+the process in which a relatively unspecialized cell acquires specialized features of an epithelial cell ,  any of the cells making up an epithelium .
+the process in which a mesodermal angioblast acquires specialized features of an endothelial cell ,  a thin flattened cell .
+the process whose specific outcome is the progression of an epithelium over time ,  from its formation to the mature structure .
+the process whose specific outcome is the progression of an endothelium over time ,  from its formation to the mature structure .
+the process whose specific outcome is the progression of the epidermis over time ,  from its formation to the mature structure .
+the biological process whose specific outcome is the progression of the palate from an initial condition to its mature state .
+the process in which a relatively unspecialized cell acquires the specialized features of a glial cell .
+the process aimed at the progression of an oligodendrocyte over time ,  from initial commitment of the cell to a specific fate ,  to the fully functional differentiated cell .
+the process in which the anatomical structures of blood vessels are generated and organized .
+the process in which the anatomical structures of arterial blood vessels are generated and organized .
+blood vessel formation when new vessels emerge from the proliferation of pre - existing blood vessels .

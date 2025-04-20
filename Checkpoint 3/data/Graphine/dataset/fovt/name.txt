@@ -1,0 +1,1677 @@
+observing process
+material target of observation role
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+material entity
+body length with tail
+body length without tail
+hind foot length with claw
+hind foot length without claw
+ear length to notch
+femur length to greater trochanter
+femur length to head of femur
+humerus length to caput of humerus
+humerus length to ventral tubercle
+width of astragalus head
+width of the trochlea of talus
+depth of the lateral side of talus
+depth of the medial side of talus
+length of the lateral side of talus
+length of the medial side of talus
+distal articular breadth
+distal articular depth
+talus length
+talus width
+calcaneus length
+calcaneus width
+length of the lateral side of tibia
+width of shaft of tibia
+width of proximal end of tibia
+width of distal end of tibia
+depth of distal end of tibia
+tooth row length
+snout - vent length
+measurement unit label
+objective specification
+action specification
+datum label
+software
+information carrier
+data item
+information content entity
+directive information entity
+dot plot
+graph
+algorithm
+curation status specification
+data format specification
+data set
+image
+data about an ontology part
+plan specification
+material information bearer
+histogram
+heatmap
+dendrogram
+scatter plot
+obsolescence reason specification
+figure
+diagram
+document
+denotator type
+base ontology module
+editors ontology module
+main release ontology module
+bridge ontology module
+import ontology module
+subset ontology module
+curation subset ontology module
+analysis subset ontology module
+single layer subset ontology module
+exclusion subset ontology module
+external import ontology module
+species subset ontology module
+reasoned ontology module
+generated ontology module
+template generated ontology module
+obo basic subset ontology module
+anatomical structure size
+tracheal tube length
+tracheal tube size
+tube size
+mouth size
+face size
+face length
+dentition size
+manus size
+carpal bone size
+diastema between upper central incisors length
+skeleton of pes length
+calcaneus morphology
+cartilage element morphology
+appendage girdle complex size
+long bone length
+tarsal region size
+forelimb zeugopod bone morphology
+facial skeleton size
+tarsal bone size
+long bone size
+forelimb zeugopod bone size
+pelvic complex length
+zeugopod length
+tarsal bone morphology
+external ear morphology
+forelimb zeugopod bone length
+pectoral complex size
+leg size
+respiratory system epithelium morphology
+calcaneus size
+external ear length
+ear size
+midface morphology
+midface length
+carpal bone morphology
+endoderm size
+embryonic tissue morphology
+bone of appendage girdle complex morphology
+jaw skeleton size
+pharyngeal arch morphology
+pharyngeal arch size
+shoulder bone morphology
+limb bud size
+footplate morphology
+skeletal system morphology
+mesenchyme morphology
+pharyngeal arch 1 morphology
+pharyngeal arch 1 size
+embryo weight
+neural crest morphology
+maxillary prominence morphology
+respiratory tract epithelium morphology
+respiratory tract epithelium size
+neural fold morphology
+head mesenchyme morphology
+limb mesenchyme morphology
+pharyngeal arch mesenchymal region morphology
+limb long bone morphology
+external ectoderm morphology
+forelimb bud morphology
+forelimb bud size
+hindlimb bud morphology
+hindlimb bud size
+head mesenchyme size
+anatomical entity attribute
+manus length
+pes length
+endochondral bone morphology
+endochondral bone quality
+appendage trait
+bone element size
+forelimb stylopod quality
+cartilage of external ear quality
+respiratory system quality
+humerus quality
+tibia quality
+hindlimb zeugopod quality
+skull quality
+talus quality
+facial skeleton quality
+upper respiratory tract quality
+midface quality
+tarsal bone quality
+femur quality
+ectoderm morphology
+germ layer morphology
+mesoderm morphology
+endoderm morphology
+embryo morphology
+head size trait
+outer ear size trait
+head width
+head length
+embryo trait
+head morphology trait
+skull morphology trait
+mouth morphology trait
+jaw morphology trait
+gastrointestinal system morphology trait
+foregut morphology trait
+limb length
+forelimb morphology trait
+carpus morphology trait
+hindlimb morphology trait
+tibia morphology trait
+femur morphology trait
+autopod morphology trait
+hind paw size trait
+body height
+body length
+body mass
+embryo size trait
+ear morphology trait
+limb morphology trait
+tail morphology trait
+craniofacial bone morphology trait
+respiratory system morphology trait
+tail length
+skull size trait
+tail size trait
+long bone morphology trait
+outer ear cartilage morphology trait
+facial morphology trait
+forelimb stylopod morphology trait
+forelimb zeugopod morphology trait
+hindlimb stylopod morphology trait
+hindlimb zeugopod morphology trait
+paw / hand / foot / hoof morphology trait
+femur length
+humerus length
+tibia length
+prechordal plate morphology trait
+respiratory conducting tube morphology trait
+tarsus morphology trait
+talus morphology trait
+talus size trait
+viscerocranium morphology trait
+humerus morphology trait
+head trait
+respiratory system trait
+limb bud morphology trait
+neural plate morphology trait
+bone morphology trait
+forelimb length
+hindlimb length
+appendicular skeleton morphology trait
+forelimb long bone morphology trait
+hindlimb long bone morphology trait
+organism trait
+body width
+surface structure trait
+surface structure morphology trait
+appendage morphology trait
+organ system trait
+humerus size trait
+tibia size trait
+organism subdivision trait
+body size trait
+integumentary system morphology trait
+bone mass
+humerus width
+tibia width
+femur size trait
+head mass
+femur width
+forelimb mass
+hindlimb mass
+integumentary system trait
+alimentary system trait
+planned process
+regulator role
+regulatory role
+material supplier role
+classified data set
+processed material
+material processing
+specimen role
+organization
+regulatory agency
+material transformation objective
+manufacturing
+manufacturing objective
+manufacturer role
+clustered data set
+specimen collection process
+class prediction data transformation
+specimen collection objective
+support vector machine
+decision tree induction objective
+decision tree building data transformation
+genepattern software
+peak matching
+k - nearest neighbors
+cart
+statistical model validation
+manufacturer
+service provider role
+processed specimen
+categorical label
+questionnaire
+categorical value specification
+value specification
+collection of specimens
+histologic grade according to ajcc 7th edition
+histologic grade according to the fuhrman nuclear grading system
+histologic grade for ovarian tumor
+histologic grade for ovarian tumor according to a two - tier grading system
+histologic grade for ovarian tumor according to the world health organization
+pathologic primary tumor stage for colon and rectum according to ajcc 7th edition
+pathologic primary tumor stage for lung according to ajcc 7th edition
+pathologic primary tumor stage for kidney according to ajcc 7th edition
+pathologic primary tumor stage for ovary according to ajcc 7th edition
+pathologic lymph node stage for colon and rectum according to ajcc 7th edition
+pathologic lymph node stage for lung according to ajcc 7th edition
+pathologic lymph node stage for kidney according to ajcc 7th edition
+pathologic lymph node stage for ovary according to ajcc 7th edition
+pathologic distant metastases stage for colon according to ajcc 7th edition
+pathologic distant metastases stage for lung according to ajcc 7th edition
+pathologic distant metastases stage for kidney according to ajcc 7th edition
+pathologic distant metastases stage for ovary according to ajcc 7th edition
+clinical tumor stage group according to ajcc 7th edition
+international federation of gynecology and obstetrics cervical cancer stage value specification
+international federation of gynecology and obstetrics ovarian cancer stage value specification
+performance status value specification
+eastern cooperative oncology group score value specification
+karnofsky score vaue specification
+organism
+specimen
+data transformation
+leave one out cross validation method
+k - means clustering
+hierarchical clustering
+dimensionality reduction
+principal components analysis dimensionality reduction
+data visualization
+data transformation objective
+partitioning data transformation
+partitioning objective
+class discovery data transformation
+class discovery objective
+class prediction objective
+cross validation objective
+clustered data visualization
+quality
+behavioral quality
+physical object quality
+organismal quality
+handedness
+left handedness
+right handedness
+ambidextrous handedness
+processual entity
+submucosa
+peripheral nervous system
+zone of skin
+non - material anatomical boundary
+camera - type eye
+sense organ
+tube
+appendage
+head
+serous membrane
+tendon
+simple eye
+vessel
+duct
+anatomical wall
+anatomical structure
+organ
+organ subunit
+organ part
+respiratory tract
+fully formed stage
+embryo stage
+death stage
+proximo - distal subdivision of respiratory tract
+regional part of nervous system
+subdivision of skeletal system
+external ectoderm
+mixed endoderm / mesoderm - derived structure
+mixed ectoderm / mesoderm / endoderm - derived structure
+post - embryonic stage
+membrane organ
+life cycle
+life cycle stage
+zygote stage
+cleavage stage
+blastula stage
+gastrula stage
+neurula stage
+organogenesis stage
+respiratory tube
+orifice
+mouth
+oral opening
+oral cavity
+blood
+haemolymphatic fluid
+tendon sheath
+blastula
+body wall
+portion of cartilage tissue in tibia
+gut wall
+mucosa
+pharyngeal mucosa
+hindlimb stylopod
+musculature of body
+lens cortex
+lens nucleus
+serous gland
+artery wall
+secretion of exocrine gland
+organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical system
+multicellular organism
+organism subdivision
+acellular anatomical structure
+anatomical cluster
+extraembryonic structure
+tissue
+multi - tissue structure
+epithelium
+simple cuboidal epithelium
+simple columnar epithelium
+multilaminar epithelium
+simple squamous epithelium
+atypical epithelium
+cavitated compound organ
+unilaminar epithelium
+thoracic segment of trunk
+abdomen
+embryo
+germ layer
+ectoderm
+endoderm
+mesoderm
+stomodeum
+heart
+brain
+cornea
+lens of camera - type eye
+retina
+eye
+neck
+humerus
+leg
+tibia
+femur
+skeletal joint
+metatarsus region
+skin epidermis
+respiratory system
+respiratory airway
+digestive system
+circulatory system
+adipose tissue
+musculature
+nervous system
+central nervous system
+sensory system
+foregut
+chordate pharynx
+primordium
+neural tube
+anatomical entity
+skin of back
+superficial cervical artery
+skin of head
+skin of trunk
+synovial fluid
+calcareous tooth
+skeletal muscle tissue
+smooth muscle tissue
+mesothelium
+dorsum
+pelvic girdle region
+muscle of pelvis
+muscle of leg
+skin of pelvis
+skin of abdomen
+skin of neck
+skin of thorax
+skin of limb
+pectoral girdle region
+skeletal system
+carpal bone
+phalanx of manus
+forelimb skeleton
+hindlimb skeleton
+skeleton of manus
+skeleton of pes
+tarsal bone
+metatarsal bone
+phalanx of pes
+calcaneus
+face
+skin of lip
+arm
+elbow
+hip
+pedal digit
+shoulder
+glenohumeral joint
+bone element
+proximal carpal bone
+muscle of shoulder
+skin of shoulder
+articular capsule
+pes joint
+ankle joint
+manus joint
+elbow joint
+wrist joint
+muscle of pelvic girdle
+muscle of pes
+muscle of arm
+muscle of manus
+skin of leg
+skin of ankle
+skin of pes
+skin of elbow
+skin of wrist
+skin of manus
+dorsal metatarsal vein
+skin of hip
+digestive tract
+upper respiratory tract
+internal jugular vein
+ciliary muscle
+muscle organ
+artery
+vein
+facial vein
+occipital bone
+ear
+external ear
+neurocranium
+jaw skeleton
+upper jaw region
+lower jaw region
+cavity of pharynx
+dentine
+odontogenic papilla
+anterior chamber of eyeball
+uvea
+iris
+corneal epithelium
+sclera
+skeletal muscle of trunk
+ciliary body
+optic choroid
+ciliary epithelium
+layer of retina
+aqueous humor of eyeball
+anterior segment of eyeball
+posterior segment of eyeball
+epithelium of lens
+capsule of lens
+lip
+lower lip
+cartilage of external ear
+midbrain
+rhombomere
+medulla oblongata
+endothelium of capillary
+endothelium of arteriole
+endothelium of artery
+endothelium of venule
+endothelium of vein
+midbrain tegmentum
+regional part of spinal cord
+blood plasma
+venule
+arteriole
+blood vessel
+capillary
+corneal endothelium
+endothelium
+gray matter
+hindbrain
+striated muscle tissue
+vasculature
+embryonic structure
+dermis
+hypodermis
+viscus
+postcranial axial skeleton
+appendicular skeleton
+skin of body
+cardiac septum
+trunk
+limb
+forelimb
+hindlimb
+visual system
+vestibulo - auditory system
+artery smooth muscle tissue
+endocardium
+subcutaneous adipose tissue
+hemolymphoid system
+integument
+vasculature of head
+vasculature of trunk
+vasculature of eye
+musculoskeletal system
+cartilaginous joint
+synovial joint
+thoracic cavity
+proximal phalanx of manus
+spinal cord
+chondrocranium
+brainstem
+gray matter of spinal cord
+coelemic cavity lumen
+muscle of back
+notochord
+somite
+exocrine system
+neural crest
+abdomen musculature
+neurectoderm
+pelvic region of trunk
+exocrine gland
+metacarpal bone
+cranial muscle
+muscle of neck
+muscle of abdomen
+connective tissue
+muscle tissue
+forelimb zeugopod
+pes
+manual digit
+hematopoietic system
+talus
+manus
+tail
+integumental system
+abdominal segment of trunk
+cartilage tissue
+skin gland
+oral epithelium
+arm skin
+limb bone
+choroidal blood vessel
+autopod region
+zeugopod
+stylopod
+bone tissue
+long bone
+iris epithelium
+endochondral bone
+elastic tissue
+tunica media
+tunica intima
+limb segment
+gland
+epiblast  ( generic )
+pharyngeal arch
+digit
+cranial placode
+anatomical cavity
+regional part of brain
+septum
+midbrain - hindbrain boundary
+periderm
+pre - chordal neural plate
+chordal neural plate
+presomitic mesoderm
+blood island
+prechordal plate
+axial mesoderm
+eye primordium
+optic cup
+lens placode
+neural plate
+paraxial mesoderm
+lateral plate mesoderm
+myotome
+heart primordium
+sclerotome
+cranial neural crest
+surface structure
+compound organ
+mesenchyme
+dermatocranium
+cranium
+skull
+phalanx
+epithelium of elbow
+epithelium of carpal region
+epithelium of hip
+epithelium of shoulder
+epithelium of upper jaw
+epithelium of lower jaw
+epithelium of forearm
+epithelium of footplate
+endoderm of foregut
+tooth of lower jaw
+skeletal muscle tissue of eye
+skeleton of upper jaw
+skeleton of lower jaw
+gland of foregut
+pharyngeal gland
+gland of integumental system
+mesoderm blood island
+eye mesenchyme
+mesenchyme of elbow
+mesenchyme of carpal region
+mesenchyme of hip
+mesenchyme of shoulder
+mesenchyme of upper jaw
+mesenchyme of lower jaw
+mesenchyme of forearm
+mesenchyme of footplate
+mucosa of oral region
+epithelium of mucosa
+pharyngeal epithelium
+pelvic appendage bud ectoderm
+pectoral appendage bud ectoderm
+ectoderm of footplate
+skeletal muscle tissue of pharynx
+smooth muscle of eye
+skin of forearm
+cartilage of respiratory system
+gland of digestive tract
+pelvic appendage bud mesenchyme
+pectoral appendage bud mesenchyme
+dermis adipose tissue
+head bone
+neck bone
+arm bone
+shoulder bone
+facial bone
+trunk bone
+hindlimb bone
+forelimb zeugopod bone
+respiratory system artery
+thoracic cavity artery
+respiratory system venous blood vessel
+vein of lower lip
+thoracic cavity vein
+respiratory system capillary endothelium
+respiratory system venule
+respiratory system arteriole
+head blood vessel
+abdomen blood vessel
+heart blood vessel
+brain blood vessel
+corneal blood vessel
+retina blood vessel
+neck blood vessel
+leg blood vessel
+respiratory system blood vessel
+arm blood vessel
+pedal digit blood vessel
+arterial blood vessel
+iris blood vessel
+trunk blood vessel
+limb blood vessel
+forelimb blood vessel
+hindlimb blood vessel
+thoracic cavity blood vessel
+pelvis blood vessel
+pes blood vessel
+manual digit blood vessel
+manus blood vessel
+respiratory system capillary
+brain gray matter
+pedal digit skin
+forelimb skin
+hindlimb skin
+manual digit skin
+head connective tissue
+abdomen connective tissue
+neck connective tissue
+leg connective tissue
+respiratory system connective tissue
+arm connective tissue
+elbow connective tissue
+wrist connective tissue
+hip connective tissue
+pedal digit connective tissue
+shoulder connective tissue
+dermis connective tissue
+trunk connective tissue
+limb connective tissue
+forelimb connective tissue
+hindlimb connective tissue
+thoracic cavity connective tissue
+pelvis connective tissue
+pes connective tissue
+ankle connective tissue
+manual digit connective tissue
+manus connective tissue
+neck cartilage
+eye skin gland
+limb long bone
+forelimb long bone
+hindlimb long bone
+heart elastic tissue
+respiratory system elastic tissue
+cardiovascular system elastic tissue
+blood vessel elastic tissue
+respiratory system arterial blood vessel
+mesopodium bone
+limb joint
+hip muscle
+pedal digit muscle
+limb muscle
+forelimb muscle
+hindlimb muscle
+manual digit muscle
+dentition
+abdominal cavity
+foramen magnum
+metacarpophalangeal joint
+metatarsophalangeal joint
+abdominal wall
+subtalar joint
+neural tissue
+mouth mucosa
+metapodium bone
+forelimb stylopod
+hindlimb zeugopod
+upper leg bone
+thoracic segment bone
+abdominal segment bone
+thoracic segment muscle
+respiratory system muscle
+abdominal segment muscle
+thoracic segment blood vessel
+abdominal segment blood vessel
+abdominal segment skin
+thoracic segment connective tissue
+abdominal segment connective tissue
+forelimb joint
+hindlimb joint
+autopod joint
+neural tube lumen
+dental epithelium
+mesencephalic neural crest
+rhombencephalon neural crest
+spinal cord neural crest
+spinal cord neural plate
+uncondensed odontogenic mesenchyme
+forelimb mesenchyme
+hindlimb mesenchyme
+middle phalanx of manus
+distal phalanx of manus
+middle phalanx of pes
+distal phalanx of pes
+proximal phalanx of pes
+future coelemic cavity lumen
+intraembryonic coelom
+axial muscle
+skeletal muscle tissue of trunk
+retinal neural layer
+tooth - like structure
+epithelial tube
+endothelial tube
+venous blood vessel
+digestive system duct
+digestive tract epithelium
+cartilage element of chondrocranium
+cranial cartilage
+cutaneous elastic tissue
+embryonic - extraembryonic boundary
+dermatome
+germinal neuroepithelium
+neural tube ventricular layer
+neural tube mantle layer
+neural tube marginal layer
+orbital region
+midface
+joint space of elbow
+anatomical conduit
+vasculature of iris
+endoderm - derived structure
+mesoderm - derived structure
+ectoderm - derived structure
+optic vesicle
+cardiogenic plate
+primary heart field
+heart tube
+cardiac chamber
+hemopoietic organ
+endodermal part of digestive tract
+respiratory system smooth muscle
+iris smooth muscle
+arteriole smooth muscle
+blood vessel smooth muscle
+bone of dorsum
+pedal digit bone
+manual digit bone
+upper arm bone
+hindlimb zeugopod bone
+hindlimb stylopod muscle
+skin muscle
+forelimb zeugopod muscle
+forelimb stylopod muscle
+hindlimb zeugopod muscle
+upper leg blood vessel
+back blood vessel
+lower arm blood vessel
+upper arm blood vessel
+lower leg blood vessel
+upper leg skin
+upper arm skin
+lower leg skin
+upper leg connective tissue
+back connective tissue
+lower arm connective tissue
+upper arm connective tissue
+lower leg connective tissue
+eye muscle
+skeleton
+dermomyotome
+heart rudiment
+respiratory system blood vessel smooth muscle
+distal phalanx
+middle phalanx
+proximal phalanx
+limb bud
+optic eminence
+apical ectodermal ridge
+paired limb / fin bud
+pharyngeal arch 1
+anterior limiting lamina of cornea
+bone of free limb or fin
+skeleton of limb
+carpal region
+metacarpus region
+tarsal region
+neurula embryo
+entire sense organ system
+skeletal musculature of head
+musculature of body wall
+musculature of hindlimb stylopod
+musculature of thorax
+musculature of neck
+musculature of leg
+musculature of back
+musculature of pelvic girdle
+musculature of pectoral girdle
+musculature of face
+musculature of arm
+musculature of hip
+musculature of shoulder
+musculature of trunk
+musculature of limb
+musculature of upper limb
+musculature of lower limb
+musculature of forelimb zeugopod
+musculature of pes
+musculature of manus
+vasculature of muscle organ
+vasculature of musculoskeletal system
+cardiovascular system
+blood vasculature
+digital artery
+forelimb digital artery
+hindlimb digital artery
+arterial system
+systemic venous system
+venous system
+blood vessel endothelium
+costo - cervical trunk
+arterial system smooth muscle
+venous system smooth muscle
+arterial system endothelium
+venous system endothelium
+respiratory system blood vessel endothelium
+bone fossa
+paired limb / fin
+pelvic appendage
+pectoral appendage
+jugular vein
+conceptus
+neuromere
+segmental subdivision of nervous system
+segmental subdivision of hindbrain
+gastrula
+scapulocoracoid
+skeletal tissue
+dermal skeletal element
+cartilaginous neurocranium
+skeletal element
+cranial bone
+bone of lower jaw
+articular system
+respiratory system submucosa
+respiratory system mucosa
+blood vessel layer
+respiratory tract epithelium
+respiratory system epithelium
+upper respiratory tract epithelium
+respiratory system skeletal muscle
+lip skeletal muscle
+respiratory system arterial endothelium
+respiratory system venous endothelium
+cardiovascular system endothelium
+skeletal muscle connective tissue
+eye gland
+vasculature of retina
+splanchnic layer of lateral plate mesoderm
+somatopleure
+chordamesoderm
+articulation
+ectodermal part of digestive tract
+subdivision of digestive tract
+organ component layer
+submucosa of pharynx
+mucosa of lower lip
+zone of long bone
+hemolymphoid system gland
+neural groove
+neural fold
+neural rod
+hindbrain - spinal cord boundary
+tube lumen
+ectodermal placode
+tooth placode
+muscle structure
+epithelial fold
+multi cell part structure
+abdomen element
+abdominal segment element
+dorsal region element
+tooth enamel organ
+trunk region element
+thoracic cavity element
+pelvic region element
+thoracic segment organ
+thoracic vein
+optic eminence surface ectoderm
+upper leg epithelium
+pedal digit epithelium
+manual digit epithelium
+upper arm epithelium
+lower leg epithelium
+optic eminence ectoderm
+stomatodeum gland
+head mesenchyme
+upper leg mesenchyme
+pedal digit mesenchyme
+trunk mesenchyme
+manual digit mesenchyme
+upper arm mesenchyme
+lower leg mesenchyme
+myelencephalon
+embryonic tissue
+extraembryonic tissue
+endocardial endothelium
+photoreceptor array
+transparent eye structure
+forelimb bud
+hindlimb bud
+pectoral appendage bud
+pelvic appendage bud
+pectoral appendage apical ectodermal ridge
+pelvic appendage apical ectodermal ridge
+presumptive neural retina
+lens vesicle
+corneal primordium
+segment of pes
+segment of manus
+neural tube lateral wall
+primitive heart tube
+rhombomere lateral wall
+head somite
+trunk somite
+lens anterior epithelium
+anterior chamber epithelium
+lens vesicle epithelium
+lens vesicle cavity
+optic eminence mesenchyme
+footplate apical ectodermal ridge
+hindbrain venous system
+pectoral appendage field
+pelvic appendage field
+paired limb / fin field
+limb field
+tunica adventitia of blood vessel
+tunica intima of artery
+adventitia
+bone foramen
+acellular membrane
+basement membrane of epithelium
+bone tissue of long bone
+developing mesenchymal condensation
+cartilaginous condensation
+pre - cartilage condensation
+mandibular prominence
+maxillary prominence
+autopodial extension
+leg bone
+manus bone
+pes bone
+occipital region
+serous sac
+endo - epithelium
+axial skeleton plus cranial skeleton
+heart layer
+coronary vessel
+integumentary adnexa
+multi - limb segment region
+musculature of hindlimb zeugopod
+buccopharyngeal membrane
+carpus cartilage element
+carpus pre - cartilage condensation
+femur pre - cartilage condensation
+future brain
+humerus cartilage element
+humerus pre - cartilage condensation
+mouth - foregut junction
+notochordal plate
+notochordal process
+scapula cartilage element
+scapula pre - cartilage condensation
+chamber of eyeball
+ocular refractive media
+bodily fluid
+communicating artery
+skin secretion
+respiratory system fluid / secretion
+pharynx
+presumptive endoderm
+presumptive structure
+presumptive ectoderm
+presumptive mesoderm
+glenoid fossa
+interphalangeal joint
+surface of epithelium
+mesopodium region
+autopodial skeleton
+corneo - scleral junction
+scapula
+footplate
+handplate apical ectodermal ridge
+handplate
+vasculature of organ
+head mesenchyme from mesoderm
+mandibular process mesenchyme
+lumen of digestive tract
+lip epithelium
+squamous epithelium
+vascular cord
+coronary capillary
+anatomical surface
+cardiogenic splanchnic mesoderm
+cleaving embryo
+mandibular neural crest
+primary circulatory organ
+neural keel
+mesenchyme derived from head neural crest
+tunica media of artery
+tunica adventitia of artery
+tunica adventitia of vein
+tunica intima of vein
+tunica media of vein
+pectoral appendage musculature
+pelvic appendage musculature
+appendage musculature
+pectoral appendage skeleton
+pelvic appendage skeleton
+presumptive hindbrain
+presumptive endocardium
+presumptive midbrain hindbrain boundary
+presumptive segmental plate
+presumptive neural plate
+presumptive paraxial mesoderm
+pectoral appendage blood vessel
+appendage blood vessel
+pectoral appendage vasculature
+pharyngeal vasculature
+appendage vasculature
+outer epithelium
+enveloping layer of ectoderm
+paired limb / fin cartilage
+pectoral appendage cartilage tissue
+pelvic appendage cartilage tissue
+epithelial tube open at both ends
+epithelial vesicle
+dense mesenchyme tissue
+loose mesenchyme tissue
+migrating mesenchyme population
+ciliated columnar epithelium
+ciliated epithelium
+layer of synovial tissue
+synovial cavity of joint
+pigment epithelium of eye
+anatomical junction
+anlage
+interphalangeal joint of pes
+interphalangeal joint of manus
+epidermis gland
+transudate
+secretion of serous gland
+vascular system
+adipose tissue of abdominal region
+craniocervical region
+appendage girdle region
+girdle bone / zone
+pectoral girdle bone
+pelvic girdle bone / zone
+pectoral girdle skeleton
+pelvic girdle skeleton
+membrane bone
+cartilage element
+regular connective tissue
+dense regular connective tissue
+bone of craniocervical region
+joint of girdle
+surface of cartilage
+muscle of pectoral girdle
+pelvic cavity
+craniocervical region musculature
+tooth bud
+heart endothelium
+intertarsal joint
+dorsal venous arch
+lower limb segment
+upper limb segment
+cranial fossa
+pharyngeal arch system
+embryonic head
+neural tube derived brain
+hypodermis skeletal muscle layer
+splanchnocranium
+dermal bone
+perichordal bone
+forelimb bone
+vasculature of brain
+craniocervical region vein
+entire embryonic mesenchyme
+limb epidermis
+ectoderm of buccopharyngeal membrane
+endoderm of buccopharyngeal membrane
+pharyngeal arch mesenchymal region
+mesenchyme of handplate
+maxillary process mesenchyme
+distal segment of digit
+distal segment of manual digit
+distal segment of pedal digit
+metacarpal / tarsal - phalangeal joint
+1st arch mandibular mesenchyme
+midbrain neural plate
+hindbrain neural plate
+presumptive midbrain
+head paraxial mesoderm
+tooth row
+set of lower jaw teeth
+set of upper jaw teeth
+stomodeal lumen
+limb mesenchyme
+cardiac mesenchyme
+proximal interphalangeal joint
+distal interphalangeal joint
+glandular acinus
+metapodium region
+mesopodial skeleton
+tarsal skeleton
+carpal skeleton
+facial mesenchyme
+post - embryonic organism
+multicellular anatomical structure
+1st arch mesenchyme
+1st arch maxillary mesenchyme
+entire pharyngeal arch associated mesenchyme
+oral gland
+cuboidal epithelium
+future dermis
+future myelencephalon
+femur cartilage element
+embryonic autopod plate
+lumen of blood vessel
+protuberance
+bona - fide anatomical boundary
+eyeball of camera - type eye
+1st arch mandibular mesenchyme from neural crest
+1st arch maxillary mesenchyme from neural crest
+mesenchyme from rhombencephalic neural crest
+1st arch mesenchyme from neural crest
+midbrain basal plate
+midbrain neural tube
+scleral endothelium
+scleral mesenchyme
+extraembryonic epithelium
+immature eye
+neural crest - derived structure
+structure with developmental contribution from neural crest
+skeletal element of eye region
+cranial skeletal system
+limb bud mesenchyme
+paired limb / fin bud mesenchyme
+epithelium of handplate
+maxillary process mesenchyme from neural crest
+maxillary process mesenchyme from head mesenchyme
+mandibular process mesenchyme from neural crest
+mandibular process mesenchyme from head mesenchyme
+1st arch maxillary mesenchyme from head mesenchyme
+1st arch mandibular mesenchyme from head mesenchyme
+1st arch mesenchyme from head mesenchyme
+pharyngeal arch mesenchyme from neural crest
+pharyngeal arch mesenchyme from head mesenchyme
+endoskeleton
+endochondral element
+dermal skeleton
+odontoid tissue
+ecto - epithelium
+mesenchyme from somatopleure
+ocular surface region
+ciliary processes
+flat bone
+pseudostratified columnar epithelium
+pseudostratified ciliated columnar epithelium
+replacement element
+microcirculatory vessel
+paired limb / fin segment
+tarsus pre - cartilage condensation
+tarsus cartilage element
+acropodial skeleton
+metacarpus skeleton
+metatarsus skeleton
+metapodial skeleton
+pedal digit phalanx pre - cartilage condensation
+manual digit phalanx pre - cartilage condensation
+pedal digit phalanx cartilage element
+manual digit phalanx cartilage element
+skeleton of manual acropodium
+mesenchyme of tarsal region
+skeleton of pedal acropodium
+digit mesenchyme
+forelimb zeugopod skeleton
+appendage girdle complex
+pectoral complex
+pelvic complex
+limb skeleton subdivision
+girdle skeleton
+hindlimb zeugopod skeleton
+bone of appendage girdle complex
+bone of pectoral complex
+bone of pelvic complex
+subdivision of organism along appendicular axis
+calcaneum pre - cartilage condensation
+calcaneum cartilage element
+tibia cartilage element
+tibia pre - cartilage condensation
+limb cartilage element
+limb bone pre - cartilage condensation
+forelimb cartilage element
+forelimb bone pre - cartilage condensation
+hindlimb cartilage element
+hindlimb pre - cartilage condensation
+pelvic complex muscle
+pectoral complex muscle
+subdivision of skeleton
+craniocervical muscle
+pharyngeal arch cartilage
+synovial joint of pelvic girdle
+synovial joint of pectoral girdle
+tarsometatarsal joint
+carpometacarpal joint
+intermetacarpal joint
+intercarpal joint
+intermetatarsal joint
+nonsynovial joint
+axial skeletal system
+postcranial axial skeletal system
+synovial limb joint
+facial skeleton
+primary subdivision of skull
+neurocranium bone
+central nervous system cell part cluster
+organ system subdivision
+synovial membrane of synovial tendon sheath
+appendicular skeletal system
+autopod bone
+dorsal trunk
+cranial blood vasculature
+paired limb / fin skeleton
+stylopodial skeleton
+zeugopodial skeleton
+cell condensation
+pre - dentine
+jaw region
+bone of upper jaw
+oral epithelium from ectoderm
+subdivision of organism along main body axis
+hindlimb intermedium bone
+proximal tarsal bone
+embryonic cardiovascular system
+lower jaw opening
+non - neurogenic ectodermal placode
+irregular connective tissue
+dense irregular connective tissue
+dense connective tissue
+loose connective tissue
+acinus of exocrine gland
+bone collagen fibril
+tendon collagen fibril
+anterior uvea
+epimysium
+articular capsule of glenohumeral joint
+crurotarsal joint
+coelom
+myocoele
+replacement bone
+tibiotalar joint
+diastema
+dermatological - muscosal system
+fibulare
+digitopodium region
+manual digitopodium region
+pedal digitopodium region
+skeleton of digitopodium
+skeleton of manual digitopodium
+skeleton of pedal digitopodium
+head or neck skin
+columnar epithelium
+meso - epithelium
+embryonic facial prominence
+cervical artery
+deep cervical artery
+acropodium region
+manual acropodium region
+pedal acropodium region
+digitopodium bone
+manual digitopodium bone
+pedal digitopodium bone
+bone of jaw
+respiratory system venous smooth muscle
+tunica fibrosa of eyeball
+skeleton of pectoral complex
+skeleton of pelvic complex
+vein of abdomen
+vein of lip
+systemic vein
+serous acinus
+cranial cavity
+space surrounding organism
+short bone
+foramen of skull
+anatomical conduit space
+brain endothelium
+axial musculature
+main body axis
+body proper
+notochordal canal
+notochordal fluid
+integumentary system layer
+arterial blood
+venous blood
+capillary blood
+digestive system element
+mesenchyme derived from neural crest
+proximal mesopodial bone
+subcutaneous abdominal adipose tissue
+thoracic skeleton
+midbrain neuromere
+spinal neuromere
+musculature of forelimb stylopod
+musculature of pelvic complex
+musculature of pectoral complex
+pectoral appendage muscle
+pelvic appendage muscle
+skeletal muscle organ
+primordial vasculature
+tibia endochondral element
+calcaneum endochondral element
+forelimb endochondral element
+hindlimb endochondral element
+phalanx endochondral element
+manual digit phalanx endochondral element
+pedal digit phalanx endochondral element
+pedal digit metatarsal endochondral element
+manual digit metacarpus endochondral element
+carpus endochondral element
+tarsus endochondral element
+femur endochondral element
+humerus endochondral element
+scapula endochondral element
+limb endochondral element
+autopod endochondral element
+autopod cartilage
+proximal carpal endochondral element
+proximal carpal cartilage
+proximal carpal bone pre - cartilage condensation
+proximal tarsal endochondral element
+proximal tarsal cartilage
+proximal tarsal bone pre - cartilage condensation
+gland of ocular region
+multi - unit eye
+somite border
+somite boundary epithelium
+lateral structure
+circulatory organ
+digit skin
+respiratory system basement membrane
+smooth muscle layer in fatty layer of subcutaneous tissue
+upper respiratory conduit
+autopod skin
+digit connective tissue
+ear epithelium
+eye epithelium
+outer ear epithelium
+foregut epithelium
+heel skin
+heel
+pharyngeal ectoderm
+central nervous system gray matter layer
+future central nervous system
+future nervous system
+shoulder joint
+entire extraembryonic component
+transitional anatomical structure
+dorsal body wall
+developing mesenchymal structure
+abdominal viscera
+proximal mesopodial endochondral element
+proximal mesopodial cartilage element
+skin of lower lip
+rhombomere boundary
+submucosa of digestive tract
+layer of muscle tissue
+heart vasculature
+intramuscular adipose tissue
+skin epithelium
+chorioretinal region
+exocrine gland of integumental system
+nervous system cell part layer
+visceral serous membrane
+parietal serous membrane
+developing neuroepithelium
+proliferating neuroepithelium
+differentiating neuroepithelium
+prechordal mesoderm
+scapular muscle
+multi organ part structure
+cell cluster
+anatomical collection
+anatomical row
+layer of smooth muscle tissue
+jaw mesenchyme
+diastema between central incisors
+diastema between upper central incisors
+material entity in digestive tract
+entire surface of organism
+vasculature of integument
+superficial vein
+deep vasculature
+deep vein
+ocular adnexa
+future mouth
+pericardial fat
+visceral fat
+abdominopelvic cavity
+cardiopharyngeal field
+anatomical surface region
+coelomic fluid
+respiratory system gland
+post - embryonic notochord
+secretion of serous membrane
+mucosa of lip
+skin of face
+postcranial axial cartilage
+external integument structure
+head external integument structure
+body external integument structure
+limb external integument structure
+vasculature of respiratory integument
+mineralized skeletal tissue
+astragalus head
+surface of bone
+forelimb bud mesenchyme
+hindlimb bud mesenchyme
+pedal digit plus metapodial segment
+manual digit plus metapodial segment
+digit plus metapodial segment
+pedal digit digitopodial skeleton
+manual digit digitopodial skeleton
+individual digit of digitopodial skeleton
+length unit
+mass unit
+time unit
+temperature unit
+substance unit
+concentration unit
+volume unit
+frequency unit
+volumetric flow rate unit
+rate unit
+ventral_to
+lamina propria
+pericardial cavity
+endocardium of ventricle
+epicardium of ventricle
+myocardium of ventricle
+cardiac muscle tissue
+cardiac atrium
+cardiac ventricle
+endocardium of atrium
+myocardium of atrium
+epicardium
+myocardium
+conducting system of heart
+serous pericardium
+fibrous pericardium
+pericardial sac
+pericardium
+parietal serous pericardium
+pericardial fluid
+visceral serous pericardium
+mesothelium of pericardial cavity
+cardiac vein
+proepicardium
+septum transversum
+cardiac skeleton
+cardiac muscle tissue of atrium
+cardiac muscle tissue of cardiac septum
+cardiac muscle tissue of myocardium
+respiratory system lamina propria
+heart ventricle wall
+oral lamina propria
+future cardiac ventricle
+areolar connective tissue
+embryonic footplate
+embryonic handplate
+mesothelium of serous pericardium
+autopod plate
+conducting tissue of heart
+future cardiac atrium
+atrioventricular region
+subserosa
+epicardial fat
+paracardial fat
+wall of heart
+digestive tract junction
+femur length from greater trochanter to medial condyle
+femur length from caput to medial condyle
+humerus length from trochlea to caput
+humerus length from trochlea to ventral tubercle
+obsolete talus distal articular breadth
+obsolete width of the trochlea of talus
+talus lateral length
+talus medial depth
+obsolete length of the lateral side of talus
+talus medial length
+talus distal articular breadth
+talus distal articular depth
+talus breadth
+calcaneus greatest length
+calcaneus distal breadth
+tibia lateral length
+tibia diaphysis width
+tibia proximal width
+tibia distal width
+tibia distal breadth
+ear length to tragus
+tibia distal depth
+tibia proximal breadth
+tibia proximal depth
+tibia diaphysis breadth
+tibia diaphysis depth
+tibia medial length
+tibia greatest length
+tibia diaphysis circumference
+femur proximal breadth
+femur trochanter breadth
+femur caput depth
+femur diaphysis breadth
+femus diaphysis circumference
+femur distal breadth
+femur proximal depth
+femur distal depth
+femur trochlea breadth
+femur diaphysis depth
+humerus diaphysis breadth
+humerus proximal breadth
+humerus trochlea breadth
+humerus distal depth
+humerus proximal depth
+humerus distal breadth
+humerus diaphysis depth
+talus lateral depth
+talus distal breadth
+trochlea tali length
+talus trochlea breadth
+calcaneus proximal length
+calcaneus distal depth

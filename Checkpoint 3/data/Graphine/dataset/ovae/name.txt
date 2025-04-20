@@ -1,0 +1,1275 @@
+continuant
+occurrent
+independent continuant
+dependent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+gross anatomical part
+formaldehyde
+lactose
+molecular entity
+chemical entity
+dextran
+neomycin
+objective specification
+information content entity
+directive information entity
+adverse event
+medical intervention
+vaccine adverse event
+musculoskeletal or connective tissue ae
+fatigue ae
+contraindication
+clinical laboratory test
+cardiac disorder ae
+hair ,  skin or nail ae
+hair ae
+nail ae
+inconsolable crying ae
+unusual high - pitched crying ae
+prolonged crying ae
+medical intervention site ae
+medical intervention site
+convulsion ae
+injection - site induration ae
+injection - site pruritus ae
+injection - site rash ae
+injection - site warmth ae
+joint swelling ae
+lymphadenitis ae
+muscular weakness ae
+musculoskeletal stiffness ae
+nasal congestion ae
+nasopharyngitis ae
+otitis media ae
+pharyngitis ae
+pharyngolaryngeal pain ae
+rhinitis ae
+rhinorrhea ae
+upper respiratory tract infection ae
+fever ae
+rash ae
+infection ae
+syndrome ae
+injection - site ae
+injection - site edema ae
+injection - site pain ae
+injection - site mass ae
+pruritus ae
+pain ae
+myalgia ae
+urticaria ae
+headache ae
+respiratory system ae
+abnormal blood pressure ae
+asthenia ae
+muscle ache ae
+arthralgia ae
+dizziness ae
+malaise ae
+somnolence ae
+crying abnormal ae
+chills ae
+anorexia ae
+cough ae
+flu syndrome ae
+syncope ae
+hypertension ae
+skin nodule ae
+hemorrhage ae
+lung ae
+muscle ae
+digestive system ae
+joint disorder ae
+gastrointestinal disorder ae
+ear  ae
+immune system ae
+acute brain syndrome ae
+cardiovascular ae
+sore throat ae
+skin ae
+abnormal fluid regulation ae
+hypotension ae
+abnormal digestion ae
+homeostasis ae
+edema ae
+inflammation ae
+respiratory system inflammation ae
+vasculitis ae
+abnormal respiration ae
+gustatory system ae
+behavioral and neurological ae
+movement disorder ae
+hypersensitivity ae
+nausea ae
+abnormal defecation ae
+diarrhea ae
+abnormal body temperature ae
+ecchymosis ae
+low - grade fever ae
+musculoskeletal pain ae
+injection - site erythema ae
+erythema ae
+hematoma ae
+bronchospasm ae
+cardiac failure ae
+cardiomyopathy ae
+irritability ae
+localized edema ae
+lymphadenopathy ae
+sleep disorder ae
+injection - site redness ae
+injection - site tenderness ae
+injection - site muscular soreness ae
+sleepiness ae
+mild hypersensitivity ae
+restlessness ae
+induration with tenderness ae
+fussiness ae
+decreased sleep ae
+increased sleep ae
+joint pain ae
+tiredness ae
+severity of adverse event
+psychiatric disorder ae
+ae severity g1
+ae severity g2
+ae severity g3
+ae severity g4
+ae severity g5
+local ae
+planned process
+processed material
+organization
+material to be added role
+target of material addition role
+host role
+organism
+administering substance in vivo
+genome
+gene
+genome of bacteria
+genome of proteobacteria
+gene of bacteria
+gene of proteobacteria
+pathological bodily process
+bacterial vaccine adverse event
+virus vaccine adverse event
+parasite vaccine adverse event
+fugal vaccine adverse event
+cancer vaccine adverse event
+bacterial and viral combination vaccine adverse event
+flublok vaccine adverse event
+fluarix vaccine adverse event
+fluarix quadrivalent vaccine adverse event
+flucelvax vaccine adverse event
+flulaval vaccine adverse event
+flumist quadrivalent vaccine adverse event
+fluvirin vaccine adverse event
+fluzone vaccine adverse event
+fluzone high - dose vaccine adverse event
+fluzone intradermal vaccine adverse event
+influenza virus vaccine h5n1 vaccine adverse event
+agriflu vaccine adverse event
+flublok - associated muscle pain ae
+influenza vaccine adverse event
+haemophilus vaccine adverse event
+adenovirus vaccine adverse event
+adverse event associated with adenovirus type 4 and type 7 vaccine ,  live ,  oral
+human papillomavirus vaccine adverse event
+bacillus anthracis vaccine adverse event
+diphtheria vaccine adverse event
+diphtheria - tetanus vaccine adverse event
+diphtheria - tetanus - pertussis vaccine adverse event
+diphtheria - tetanus - poliovirus vaccine adverse event
+diphtheria - tetanus - pertussis - poliovirus vaccine adverse event
+diphtheria - tetanus - pertussis - poliovirus - haemophilus b vaccine adverse event
+diphtheria - tetanus - pertussis - poliovirus - hepatitis b vaccine adverse event
+salmonella vaccine adverse event
+haemophilus b and hepatitis b vaccine adverse event
+hepatitis a virus vaccine adverse event
+hepatitis a&b vaccine adverse event
+hepatitis b virus vaccine adverse event
+herpesvirus vaccine adverse event
+japanese encephalitis virus vaccine adverse event
+measles virus vaccine adverse event
+measles - mumps - rubella - vericella vaccine adverse event
+poliovirus vaccine adverse event
+smallpox vaccine adverse event
+rabies vaccine adverse event
+rotavirus vaccine adverse event
+rubella vaccine adverse event
+yellow fever vaccine adverse event
+afluria - associated injection - site pain ae
+afluria - associated injection - site redness ae
+afluria - associated local swelling ae
+afluria - associated headache ae
+afluria - associated myalgia ae
+afluria - associated malaise ae
+afluria - associated fever ae
+afluria - associated injection - site tenderness ae
+afluria - associated muscle ache ae
+agriflu - associated injection - site pain ae
+agriflu - associated headache ae
+agriflu - associated myalgia ae
+agriflu - associated malaise ae
+flulaval - associated injection - site pain ae
+flulaval - associated injection - site redness ae
+flulaval - associated local swelling ae
+flulaval - associated fatigue ae
+flulaval - associated headache ae
+flulaval - associated myalgia ae
+fluarix - associated drowsiness
+fluarix - associated irritability ae
+fluarix - associated decreased appetite ae
+fluarix - associated arthralgia ae
+fluarix - associated gastrointestinal disorder ae
+fluarix - associated injection - site redness ae
+fluarix - associated local swelling ae
+fluarix - associated injection - site pain ae
+fluarix - associated muscle ache ae
+fluarix - associated headache ae
+fluarix - associated fatigue ae
+flublok - associated injection - site pain ae
+flublok - associated headache ae
+flublok - associated fatigue ae
+flublok - associated myalgia ae
+flucelvax - associated injection - site pain ae
+flucelvax - associated myalgia ae
+flucelvax - associated injection - site erythema ae
+flucelvax - associated fatigue ae
+flucelvax - associated headache ae
+flucelvax - associated malaise ae
+fluvirin - associated mild hypersensitity ae
+fluvirin - associated flu - like syndrome ae
+fluzone - associated injection - site tenderness ae
+fluzone - associated injection - site redness ae
+fluzone - associated irritability ae
+fluzone - associated drowsiness
+fluzone - associated myalgia ae
+fluzone - associated injection - site pain ae
+fluzone - associated headache ae
+fluzone - associated malaise ae
+fluzone high - dose - associated injection - site pain ae
+fluzone high - dose - associated headache ae
+fluzone high - dose - associated myalgia ae
+fluzone high - dose - associated erythema ae
+fluzone high - dose - associated malaise ae
+fluzone intradermal - associated injection - site erythema ae
+fluzone intradermal - associated injection - site induration ae
+fluzone intradermal - associated local swelling ae
+fluzone intradermal - associated injection - site pain ae
+fluzone intradermal - associated oae_0000373
+fluzone intradermal - associated headache ae
+fluzone intradermal - associated myalgia ae
+fluzone intradermal - associated malaise ae
+flumist - associated fever ae
+flumist - associated nasal congestion ae
+flumist - associated sore throat ae
+flumist quadrivalent - associated nasal congestion ae
+flumist quadrivalent - associated fever ae
+flumist quadrivalent - associated sore throat ae
+fluarix quadrivalent - associated injection - site pain ae
+fluarix quadrivalent - associated injection - site redness ae
+fluarix quadrivalent - associated local swelling ae
+fluarix quadrivalent - associated drowsiness
+fluarix quadrivalent - associated irritability ae
+fluarix quadrivalent - associated decreased appetite ae
+fluarix quadrivalent - associated fatigue ae
+fluarix quadrivalent - associated muscle ache ae
+fluarix quadrivalent - associated headache ae
+fluarix quadrivalent - associated arthralgia ae
+fluarix quadrivalent - associated gastrointestinal disorder ae
+influenza virus vaccine h5n1 - associated injection - site pain ae
+influenza virus vaccine h5n1 - associated headache ae
+influenza virus vaccine h5n1 - associated malaise ae
+influenza virus vaccine h5n1 - associated myalgia ae
+adenovirus type 4 and type 7 vaccine ,  live ,  oral - associated upper respiratory tract infection ae
+adenovirus type 4 and type 7 vaccine ,  live ,  oral - associated headache ae
+adenovirus type 4 and type 7 vaccine ,  live ,  oral - associated nasal congestion ae
+adenovirus type 4 and type 7 vaccine ,  live ,  oral - associated pharyngolaryngeal pain ae
+adenovirus type 4 and type 7 vaccine ,  live ,  oral - associated cough
+adenovirus type 4 and type 7 vaccine ,  live ,  oral - associated arthralgia ae
+adenovirus type 4 and type 7 vaccine ,  live ,  oral - associated nausea ae
+adenovirus type 4 and type 7 vaccine ,  live ,  oral - associated abdominal pain ae
+adenovirus type 4 and type 7 vaccine ,  live ,  oral - associated diarrhea ae
+adenovirus type 4 and type 7 vaccine ,  live ,  oral - associated vomiting ae
+biothrax - associated injection - site tenderness ae
+biothrax - associated injection - site pain ae
+biothrax - associated injection - site erythema ae
+biothrax - associated injection - site edema ae
+biothrax - associated arm motion limitation ae
+biothrax - associated muscle ache ae
+biothrax - associated fatigue ae
+biothrax - associated headache ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated injection - site redness ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated injection - site warmth ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated injection - site edema ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated injection - site induration ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated local swelling ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated urticaria ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated injection - site rash ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated malaise ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated fever ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated pain ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated hypotension ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated nausea ae
+diphtheria & tetanus toxoids absorbed  ( for pediatric use )  - associated arthralgia ae
+tripedia - associated injection - site redness ae
+tripedia - associated local swelling ae
+tripedia - associated injection - site pain ae
+tripedia - associated fever ae
+tripedia - associated anorexia ae
+tripedia - associated vomiting ae
+tripedia - associated drowsiness
+tripedia - associated irritability ae
+infanrix - associated injection - site pain ae
+infanrix - associated injection - site redness ae
+infanrix - associated local swelling ae
+infanrix - associated fever ae
+infanrix - associated drowsiness
+infanrix - associated irritability ae
+infanrix - associated decreased appetite ae
+daptacel - associated injection - site tenderness ae
+daptacel - associated injection - site redness ae
+daptacel - associated injection - site edema ae
+daptacel - associated irritability ae
+daptacel - associated inconsolable crying ae
+daptacel - associated lethargy ae
+daptacel - associated fever ae
+pediarix - associated injection - site pain ae
+pediarix - associated injection - site redness ae
+pediarix - associated local swelling ae
+pediarix - associated fever ae
+pediarix - associated drowsiness
+pediarix - associated irritability ae
+pediarix - associated decreased appetite ae
+kinrix - associated injection - site pain ae
+kinrix - associated injection - site redness ae
+kinrix - associated injection - site edema ae
+kinrix - associated local swelling ae
+kinrix - associated drowsiness
+kinrix - associated fever ae
+kinrix - associated decreased appetite ae
+pentacel - associated irritability ae
+pentacel - associated inconsolable crying ae
+pentacel - associated fever ae
+pentacel - associated injection - site tenderness ae
+pentacel - associated injection - site edema ae
+acthib - associated injection - site pain ae
+acthib - associated injection - site redness ae
+acthib - associated local swelling ae
+acthib - associated fever ae
+acthib - associated irritability ae
+acthib - associated lethargy ae
+hiberix - associated injection - site pain ae
+hiberix - associated injection - site redness ae
+hiberix - associated fever ae
+hiberix - associated fussiness ae
+hiberix - associated decreased appetite ae
+hiberix - associated restlessness ae
+pedvaxhib - associated irritability ae
+pedvaxhib - associated sleepiness ae
+pedvaxhib - associated injection - site pain ae
+pedvaxhib - associated injection - site erythema ae
+pedvaxhib - associated local swelling ae
+pedvaxhib - associated injection - site induration ae
+pedvaxhib - associated unusual high - patched crying ae
+pedvaxhib - associated prolonged crying ae
+pedvaxhib - associated diarrhea ae
+pedvaxhib - associated vomiting ae
+pedvaxhib - associated crying abnormal ae
+pedvaxhib - associated pain ae
+pedvaxhib - associated otitis media ae
+pedvaxhib - associated rash ae
+pedvaxhib - associated upper respiratory tract infection ae
+comvax - associated injection - site pain ae
+comvax - associated injection - site tenderness ae
+comvax - associated injection - site soreness ae
+comvax - associated local swelling ae
+comvax - associated injection - site induration ae
+comvax - associated injection - site erythema ae
+comvax - associated fever ae
+comvax - associated anorexia ae
+comvax - associated diarrhea ae
+comvax - associated vomiting ae
+comvax - associated irritability ae
+comvax - associated somnolence ae
+comvax - associated crying abnormal ae
+comvax - associated upper respiratory tract infection ae
+comvax - associated rhinorrhea ae
+comvax - associated cough
+comvax - associated rhinitis ae
+comvax - associated rash ae
+comvax - associated otitis media ae
+havrix - associated injection - site muscular soreness ae
+havrix - associated headache ae
+havrix - associated injection - site pain ae
+havrix - associated injection - site redness ae
+havrix - associated irritability ae
+havrix - associated drowsiness
+havrix - associated decreased appetite ae
+vaqta - associated injection - site erythema ae
+vaqta - associated fever ae
+vaqta - associated injection - site pain ae
+vaqta - associated injection - site tenderness ae
+vaqta - associated injection - site muscular soreness ae
+vaqta - associated injection - site warmth ae
+vaqta - associated headache ae
+twinrix - associated injection - site muscular soreness ae
+twinrix - associated injection - site redness ae
+twinrix - associated headache ae
+twinrix - associated fatigue ae
+engerix - b - associated injection - site muscular soreness ae
+engerix - b - associated fatigue ae
+recombivax hb - associated irritability ae
+recombivax hb - associated fever ae
+recombivax hb - associated diarrhea ae
+recombivax hb - associated fatigue ae
+recombivax hb - associated decreased appetite ae
+recombivax hb - associated rhinitis ae
+recombivax hb - associated injection - site muscular soreness ae
+recombivax hb - associated injection - site pain ae
+recombivax hb - associated injection - site tenderness ae
+recombivax hb - associated injection - site pruritus ae
+recombivax hb - associated injection - site erythema ae
+recombivax hb - associated ecchymosis ae
+recombivax hb - associated local swelling ae
+recombivax hb - associated injection - site warmth ae
+recombivax hb - associated skin nodule ae
+recombivax hb - associated headache ae
+recombivax hb - associated malaise ae
+recombivax hb - associated nausea ae
+recombivax hb - associated pharyngitis ae
+recombivax hb - associated upper respiratory tract infection ae
+gardasil - associated headache ae
+gardasil - associated fever ae
+gardasil - associated nausea ae
+gardasil - associated dizziness ae
+gardasil - associated injection - site pain ae
+gardasil - associated local swelling ae
+gardasil - associated injection - site erythema ae
+gardasil - associated injection - site pruritus ae
+gardasil - associated hematoma ,  bruise ,  ecchymoses ae
+cervarix - associated injection - site pain ae
+cervarix - associated injection - site redness ae
+cervarix - associated local swelling ae
+cervarix - associated fatigue ae
+cervarix - associated headache ae
+cervarix - associated myalgia ae
+cervarix - associated gastrointestinal disorder ae
+cervarix - associated arthralgia ae
+ixiaro - associated injection - site pain ae
+ixiaro - associated injection - site tenderness ae
+ixiaro - associated headache ae
+ixiaro - associated myalgia ae
+je - vax - associated injection - site tenderness ae
+je - vax - associated injection - site redness ae
+je - vax - associated local swelling ae
+je - vax - associated fever ae
+je - vax - associated headache ae
+je - vax - associated malaise ae
+je - vax - associated rash ae
+je - vax - associated chills ae
+je - vax - associated dizziness ae
+je - vax - associated myalgia ae
+je - vax - associated nausea ae
+je - vax - associated vomiting ae
+je - vax - associated abdominal pain ae
+proquad - associated injection - site pain ae
+proquad - associated injection - site tenderness ae
+proquad - associated injection - site muscular soreness ae
+proquad - associated injection - site erythema ae
+proquad - associated local swelling ae
+proquad - associated fever ae
+proquad - associated irritability ae
+proquad - associated rash ae
+menveo - associated injection - site erythema ae
+menveo - associated irritability ae
+menveo - associated injection - site induration ae
+menveo - associated sleepiness ae
+menveo - associated injection - site pain ae
+menveo - associated headache ae
+menveo - associated myalgia ae
+menveo - associated malaise ae
+menveo - associated nausea ae
+menhibrix - associated injection - site pain ae
+menhibrix - associated injection - site redness ae
+menhibrix - associated local swelling ae
+menhibrix - associated irritability ae
+menhibrix - associated drowsiness
+menhibrix - associated decreased appetite ae
+menhibrix - associated fever ae
+menactra - associated injection - site tenderness ae
+menactra - associated injection - site erythema ae
+menactra - associated local swelling ae
+menactra - associated irritability ae
+menactra - associated crying abnormal ae
+menactra - associated drowsiness
+menactra - associated decreased appetite ae
+menactra - associated vomiting ae
+menactra - associated fever ae
+menactra - associated injection - site pain ae
+menactra - associated injection - site redness ae
+menactra - associated injection - site induration ae
+menactra - associated anorexia ae
+menactra - associated diarrhea ae
+menactra - associated headache ae
+menactra - associated fatigue ae
+menactra - associated malaise ae
+menactra - associated arthralgia ae
+menomune - a / c / y / w - 135 - associated injection - site pain ae
+menomune - a / c / y / w - 135 - associated drowsiness
+menomune - a / c / y / w - 135 - associated irritability ae
+menomune - a / c / y / w - 135 - associated diarrhea ae
+menomune - a / c / y / w - 135 - associated injection - site redness ae
+menomune - a / c / y / w - 135 - associated injection - site induration ae
+menomune - a / c / y / w - 135 - associated headache ae
+menomune - a / c / y / w - 135 - associated fatigue ae
+menomune - a / c / y / w - 135 - associated malaise ae
+menomune - a / c / y / w - 135 - associated arthralgia ae
+pneumovax 23 - associated injection - site pain ae
+pneumovax 23 - associated injection - site muscular soreness ae
+pneumovax 23 - associated injection - site tenderness ae
+pneumovax 23 - associated local swelling ae
+pneumovax 23 - associated injection - site induration ae
+pneumovax 23 - associated injection - site erythema ae
+pneumovax 23 - associated headache ae
+pneumovax 23 - associated asthenia ae
+pneumovax 23 - associated fatigue ae
+pneumovax 23 - associated myalgia ae
+prevnar - associated injection - site erythema ae
+prevnar - associated injection - site induration ae
+prevnar - associated injection - site tenderness ae
+prevnar 13 - associated injection - site tenderness ae
+prevnar 13 - associated injection - site redness ae
+prevnar 13 - associated local swelling ae
+prevnar 13 - associated decreased appetite ae
+prevnar 13 - associated decreased sleep ae
+prevnar 13 - associated increased sleep ae
+prevnar 13 - associated fever ae
+prevnar 13 - associated irritability ae
+prevnar 13 - associated injection - site pain ae
+prevnar 13 - associated fatigue ae
+prevnar 13 - associated headache ae
+prevnar 13 - associated muscle pain ae
+prevnar 13 - associated joint pain ae
+prevnar 13 - associated arm motion limitation ae
+prevnar 13 - associated chills ae
+prevnar 13 - associated rash ae
+ipol - associated injection - site erythema ae
+ipol - associated injection - site induration ae
+ipol - associated injection - site pain ae
+ipol - associated fever ae
+ipol - associated irritability ae
+ipol - associated sleepiness ae
+ipol - associated fussiness ae
+ipol - associated crying abnormal ae
+imovax rabies - associated injection - site pain ae
+imovax rabies - associated injection - site erythema ae
+imovax rabies - associated local swelling ae
+imovax rabies - associated itching
+imovax rabies - associated headache ae
+imovax rabies - associated nausea ae
+imovax rabies - associated abdominal pain ae
+imovax rabies - associated muscle ache ae
+imovax rabies - associated dizziness ae
+rabavert - associated injection - site erythema ae
+rabavert - associated injection - site induration ae
+rabavert - associated injection - site pain ae
+rabavert - associated asthenia ae
+rabavert - associated fatigue ae
+rabavert - associated fever ae
+rabavert - associated headache ae
+rabavert - associated myalgia ae
+rabavert - associated malaise ae
+rabavert - associated arthralgia ae
+rabavert - associated dizziness ae
+rabavert - associated lymphadenopathy ae
+rabavert - associated nausea ae
+rabavert - associated rash ae
+rotarix - associated irritability ae
+rotarix - associated cough
+rotarix - associated runny nose
+rotarix - associated fever ae
+rotarix - associated decreased appetite ae
+rotarix - associated vomiting ae
+rotateq - associated diarrhea ae
+rotateq - associated vomiting ae
+rotateq - associated irritability ae
+rotateq - associated otitis media ae
+rotateq - associated nasopharyngitis ae
+rotateq - associated bronchospasm ae
+meruvax ii - associated fever ae
+meruvax ii - associated syncope ae
+meruvax ii - associated headache ae
+meruvax ii - associated dizziness ae
+meruvax ii - associated malaise ae
+meruvax ii - associated irritability ae
+meruvax ii - associated vasculitis ae
+meruvax ii - associated diarrhea ae
+meruvax ii - associated vomiting ae
+meruvax ii - associated nausea ae
+acam2000 - associated lymphadenitis ae
+acam2000 - associated malaise ae
+acam2000 - associated fatigue ae
+acam2000 - associated fever ae
+acam2000 - associated myalgia ae
+acam2000 - associated headache ae
+tetanus and diptheria toxoids absorbed - associated injection - site pain ae
+tetanus and diptheria toxoids absorbed - associated injection - site tenderness ae
+tetanus and diptheria toxoids absorbed - associated injection - site erythema ae
+tetanus and diptheria toxoids absorbed - associated injection - site induration ae
+tetanus and diptheria toxoids absorbed - associated injection - site pruritus ae
+tetanus and diptheria toxoids absorbed - associated local swelling ae
+tetanus and diptheria toxoids absorbed - associated oedema ,  swelling dropsy
+tetanus and diptheria toxoids absorbed - associated pyrexia ae
+tetanus and diptheria toxoids absorbed - associated malaise ae
+tetanus and diptheria toxoids absorbed - associated dizziness ae
+tetanus and diptheria toxoids absorbed - associated headache ae
+tetanus and diptheria toxoids absorbed - associated convulsion ae
+tetanus and diptheria toxoids absorbed - associated myalgia ae
+tetanus and diptheria toxoids absorbed - associated musculoskeletal stiffness ae
+tetanus and diptheria toxoids absorbed - associated musculoskeletal pain ae
+tetanus and diptheria toxoids absorbed - associated arthralgia ae
+tetanus and diptheria toxoids absorbed - associated rash ae
+tetanus and diptheria toxoids absorbed - associated nausea ae
+decavac - associated injection - site pain ae
+decavac - associated headache ae
+decavac - associated local swelling ae
+decavac - associated injection - site erythema ae
+decavac - associated pain ae
+decavac - associated muscular weakness ae
+decavac - associated tiredness ae
+decavac - associated diarrhea ae
+decavac - associated chills ae
+decavac - associated nausea ae
+decavac - associated joint swelling ae
+tenivac - associated injection - site pain ae
+tenivac - associated headache ae
+tenivac - associated injection - site redness ae
+tenivac - associated local swelling ae
+tenivac - associated malaise ae
+tenivac - associated muscular weakness ae
+tenivac - associated joint pain ae
+tetanus toxoid - associated injection - site redness ae
+tetanus toxoid - associated injection - site warmth ae
+tetanus toxoid - associated injection - site edema ae
+tetanus toxoid - associated injection - site induration ae
+tetanus toxoid - associated induration with tenderness ae
+tetanus toxoid - associated urticaria ae
+tetanus toxoid - associated rash ae
+tetanus toxoid - associated malaise ae
+tetanus toxoid - associated fever ae
+tetanus toxoid - associated pain ae
+tetanus toxoid - associated hypotension ae
+tetanus toxoid - associated nausea ae
+tetanus toxoid - associated arthralgia ae
+tetanus toxoid absorbed - associated injection - site redness ae
+tetanus toxoid absorbed - associated injection - site warmth ae
+tetanus toxoid absorbed - associated injection - site edema ae
+tetanus toxoid absorbed - associated injection - site induration ae
+tetanus toxoid absorbed - associated induration with tenderness ae
+tetanus toxoid absorbed - associated urticaria ae
+tetanus toxoid absorbed - associated rash ae
+tetanus toxoid absorbed - associated malaise ae
+tetanus toxoid absorbed - associated fever ae
+tetanus toxoid absorbed - associated pain ae
+tetanus toxoid absorbed - associated hypotension ae
+tetanus toxoid absorbed - associated nausea ae
+tetanus toxoid absorbed - associated arthralgia ae
+adacel - associated injection - site pain ae
+adacel - associated local swelling ae
+adacel - associated injection - site erythema ae
+adacel - associated fatigue ae
+adacel - associated headache ae
+adacel - associated muscular weakness ae
+boostrix - associated injection - site pain ae
+boostrix - associated injection - site redness ae
+boostrix - associated local swelling ae
+boostrix - associated injection - site edema ae
+boostrix - associated headache ae
+boostrix - associated fatigue ae
+boostrix - associated gastrointestinal disorder ae
+vivotif - associated abdominal pain ae
+vivotif - associated nausea ae
+vivotif - associated headache ae
+vivotif - associated fever ae
+vivotif - associated diarrhea ae
+vivotif - associated vomiting ae
+vivotif - associated rash ae
+typhim vi - associated injection - site tenderness ae
+typhim vi - associated injection - site pain ae
+typhim vi - associated injection - site induration ae
+typhim vi - associated injection - site erythema ae
+typhim vi - associated malaise ae
+typhim vi - associated headache ae
+typhim vi - associated myalgia ae
+typhim vi - associated nausea ae
+typhim vi - associated diarrhea ae
+typhim vi - associated irritability ae
+typhim vi - associated fever ae
+typhim vi - associated vomiting ae
+varivax - associated fever ae
+varivax - associated injection - site adverse event
+yf - vax - associated headache ae
+yf - vax - associated myalgia ae
+yf - vax - associated low grade fever ae
+yf - vax - associated injection - site edema ae
+yf - vax - associated hypersensitivity ae
+yf - vax - associated injection - site pain ae
+yf - vax - associated injection - site mass ae
+zostavax - associated headache ae
+zostavax - associated injection - site reaction
+afluria vaccine adverse event
+flumist vaccine adverse event
+acam2000 vaccine adverse event
+time
+viability
+behavioral quality
+physical quality
+process quality
+quality of a single physical entity
+physical object quality
+organismal quality
+virulence
+nose
+peripheral nervous system
+zone of skin
+anatomical boundary
+sense organ
+tube
+appendage
+head
+serous membrane
+tendon
+ganglion
+vessel
+duct
+anatomical wall
+anatomical structure
+organ
+organ subunit
+organ part
+respiratory tract
+fully formed stage
+embryo stage part
+embryo stage
+death stage
+proximo - distal subdivision of respiratory tract
+regional part of nervous system
+subdivision of skeletal system
+external ectoderm
+post - embryonic stage
+membrane organ
+life cycle
+life cycle stage
+zygote stage
+cleavage stage
+blastula stage
+gastrula stage
+neurula stage
+organogenesis stage
+lung bud
+neuron projection bundle
+mouth
+pair of lungs
+respiration organ
+blood
+haemolymphatic fluid
+blastula
+throat
+musculature of body
+serous gland
+bodily secretion
+organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical system
+multicellular organism
+organism subdivision
+acellular anatomical structure
+anatomical cluster
+tissue
+multi - tissue structure
+epithelium
+multilaminar epithelium
+simple squamous epithelium
+cavitated compound organ
+unilaminar epithelium
+thoracic segment of trunk
+abdomen
+embryo
+germ layer
+ectoderm
+endoderm
+mesoderm
+stomodeum
+heart
+brain
+neck
+skeletal joint
+skin epidermis
+respiratory system
+respiratory airway
+digestive system
+circulatory system
+adipose tissue
+musculature
+nervous system
+central nervous system
+nerve
+sensory system
+gustatory system
+foregut
+primordium
+neural tube
+anatomical entity
+synovial fluid
+skeletal muscle tissue
+mesothelium
+dorsum
+skeletal system
+face
+bone element
+articular capsule
+digestive tract
+upper respiratory tract
+lower respiratory tract
+muscle organ
+ear
+nail
+cranial ganglion
+spinal nerve
+cranial nerve
+forebrain
+midbrain
+telencephalon
+metencephalon
+medulla oblongata
+midbrain tegmentum
+blood plasma
+blood vessel
+gray matter
+hindbrain
+striated muscle tissue
+cerebellum
+lung
+vasculature
+embryonic structure
+dermis
+hypodermis
+postcranial axial skeleton
+appendicular skeleton
+skin of body
+trunk
+limb
+vestibulo - auditory system
+right lung
+left lung
+hemolymphoid system
+integument
+musculoskeletal system
+synovial joint
+thoracic cavity
+spinal cord
+olfactory organ
+brainstem
+coelemic cavity lumen
+notochord
+somite
+exocrine system
+neural crest
+neurectoderm
+exocrine gland
+connective tissue
+muscle tissue
+hematopoietic system
+immune system
+integumental system
+abdominal segment of trunk
+cartilage tissue
+limb bone
+autopod region
+zeugopod
+stylopod
+bone tissue
+long bone
+endochondral bone
+limb segment
+gland
+paired fin bud
+epiblast  ( generic )
+paired fin
+digit
+cranial placode
+anatomical cavity
+regional part of brain
+olfactory placode
+midbrain - hindbrain boundary
+periderm
+pre - chordal neural plate
+chordal neural plate
+presomitic mesoderm
+blood island
+axial mesoderm
+neural plate
+paraxial mesoderm
+lateral plate mesoderm
+myotome
+heart primordium
+sclerotome
+cranial neural crest
+surface structure
+compound organ
+mesenchyme
+phalanx
+endoderm of foregut
+limb long bone
+limb joint
+neural tissue
+metapodium bone
+autopod joint
+neural tube lumen
+mesencephalic neural crest
+telencephalon neural crest
+rhombencephalon neural crest
+spinal cord neural crest
+presumptive ganglion
+future coelemic cavity lumen
+intraembryonic coelom
+epithelial tube
+digestive tract epithelium
+dermatome
+germinal neuroepithelium
+neural tube ventricular layer
+neural tube mantle layer
+neural tube marginal layer
+anatomical conduit
+endoderm - derived structure
+mesoderm - derived structure
+ectoderm - derived structure
+cardiogenic plate
+primary heart field
+heart tube
+cardiac chamber
+skeleton
+dermomyotome
+heart rudiment
+distal phalanx
+middle phalanx
+proximal phalanx
+limb bud
+apical ectodermal ridge
+paired limb / fin bud
+bone of free limb or fin
+skeleton of limb
+entire sense organ system
+anatomical projection
+cardiovascular system
+blood vasculature
+paired limb / fin
+conceptus
+segmental subdivision of nervous system
+segmental subdivision of hindbrain
+gastrula
+skeletal tissue
+skeletal element
+articular system
+splanchnic layer of lateral plate mesoderm
+chordamesoderm
+articulation
+subdivision of digestive tract
+organ component layer
+neural groove
+neural fold
+neural rod
+ectodermal placode
+muscle structure
+epithelial bud
+epithelial fold
+multi cell part structure
+dorsal region element
+trunk region element
+thoracic cavity element
+thoracic segment organ
+trunk mesenchyme
+myelencephalon
+embryonic tissue
+alimentary part of gastrointestinal system
+primitive heart tube
+lung primordium
+olfactory system
+fin field
+paired limb / fin field
+limb field
+acellular membrane
+basement membrane of epithelium
+developing mesenchymal condensation
+cartilaginous condensation
+pre - cartilage condensation
+autopodial extension
+serous sac
+endo - epithelium
+axial skeleton plus cranial skeleton
+integumentary adnexa
+rhombic lip
+future brain
+future forebrain
+notochordal plate
+notochordal process
+bodily fluid
+pharynx
+presumptive endoderm
+presumptive structure
+presumptive ectoderm
+presumptive mesoderm
+interphalangeal joint
+mesopodium region
+autopodial skeleton
+squamous epithelium
+vascular cord
+anatomical surface
+cardiac mesoderm
+cleaving embryo
+primary circulatory organ
+neural keel
+presumptive hindbrain
+presumptive midbrain hindbrain boundary
+presumptive segmental plate
+presumptive neural plate
+presumptive paraxial mesoderm
+outer epithelium
+stratum compactum
+enveloping layer of ectoderm
+epithelial tube open at both ends
+epithelial vesicle
+dense mesenchyme tissue
+migrating mesenchyme population
+layer of synovial tissue
+synovial cavity of joint
+anatomical junction
+anlage
+serous fluid
+vascular system
+craniocervical region
+appendage girdle region
+cartilage element
+regular connective tissue
+dense regular connective tissue
+fin
+entire embryonic mesenchyme
+distal segment of digit
+distal limb integumentary appendage
+presumptive midbrain
+limb mesenchyme
+distal interphalangeal joint
+glandular acinus
+metapodium region
+mesopodial skeleton
+neurogenic placode
+multicellular anatomical structure
+cell cluster organ
+future dermis
+future metencephalon
+future myelencephalon
+autopod plate
+midbrain basal plate
+midbrain neural tube
+structure with developmental contribution from neural crest
+endochondral element
+ecto - epithelium
+paired limb / fin segment
+acropodial skeleton
+metapodial skeleton
+digit mesenchyme
+appendage girdle complex
+limb skeleton subdivision
+paired fin skeleton
+girdle skeleton
+bone of appendage girdle complex
+subdivision of organism along appendicular axis
+limb cartilage element
+limb bone pre - cartilage condensation
+subdivision of skeleton
+nonsynovial joint
+axial skeletal system
+post - cranial axial skeletal system
+synovial limb joint
+central nervous system cell part cluster
+organ system subdivision
+appendicular skeletal system
+autopod bone
+paired limb / fin skeleton
+stylopodial skeleton
+zeugopodial skeleton
+cell condensation
+subdivision of organism along main body axis
+embryonic cardiovascular system
+nerve of head region
+irregular connective tissue
+dense irregular connective tissue
+dense connective tissue
+loose connective tissue
+acinus of exocrine gland
+epimysium
+coelom
+digitopodium region
+skeleton of digitopodium
+meso - epithelium
+fin skeleton
+acropodium region
+digitopodium bone
+serous acinus
+space surrounding organism
+anatomical conduit space
+main body axis
+body proper
+integumentary projection
+integumentary system layer
+future telencephalon
+thoracic skeleton
+skeletal muscle organ
+primordial vasculature
+phalanx endochondral element
+limb endochondral element
+autopod endochondral element
+autopod cartilage
+lateral structure
+circulatory organ
+foregut epithelium
+future central nervous system
+future nervous system
+entire extraembryonic component
+transitional anatomical structure
+developing mesenchymal structure
+developing neuroepithelium
+proliferating neuroepithelium
+differentiating neuroepithelium
+cranial neuron projection bundle
+morphological feature
+bodily gas
+air in respiratory system
+multi organ part structure
+cell cluster
+anatomical collection
+external soft tissue zone
+gas in respiratory system
+future mouth
+preplacodal ectoderm
+external integument structure
+digit plus metapodial segment
+individual digit of digitopodial skeleton
+part of pathogen organism in vaccine
+vaccine
+vaccination
+bacillus anthracis vaccine
+menhibrix
+adenovirus vaccine
+neisseria meningitidis vaccine
+fluzone high - dose
+proquad
+mineral salt vaccine adjuvant
+yellow fever virus vaccine
+vaccine adjuvant role
+bacterial vaccine
+vaccine organism live attenuated
+vaccine component
+usa licensed human vaccine role
+vaccine contraindication
+vaccine organism inactivated
+pgp .lamp - 1 dna vaccine plasmid
+vaccine function
+injection site
+intramuscular route
+intranasal route
+varicella - zoster virus live vaccine
+pathogen organism component in vaccine
+polyvalent pneumococcal vaccine
+dna vaccine plasmid vector
+preventive vaccine function
+licensed human vaccine role
+immunization
+active immunization
+vaccine immunization
+induction of adaptive immune response to antigen
+disorder prevention
+disorder treatment
+modification of adaptive immune response to antigen
+pox vaccine
+subcutaneous route
+human vaccinee
+human vaccinee population
+therapeutic vaccine function
+route of administration
+vaccine adjuvant
+immunization objective
+vaccine preparation
+canada licensed human vaccine role
+viral vaccine
+conjugate vaccine role
+licensed vaccine role
+clostridium vaccine
+clostridium tetani vaccine
+influenza virus vaccine
+hepatitis b virus vaccine
+hepatitis a virus vaccine
+rabies virus vaccine
+smallpox virus vaccine
+measles virus vaccine
+rotavirus vaccine
+haemophilus vaccine
+poliovirus vaccine
+japanese encephalitis virus vaccine
+human papillomavirus vaccine
+varicella - zoster virus vaccine
+salmonella typhi vaccine
+streptococcus pneumoniae vaccine
+herpesvirus vaccine
+measles - mumps - rubella vaccine
+diphtheria - tetanus vaccine
+corynebacterium diphtheriae vaccine
+measles - mumps vaccine
+measles - mumps - rubella - vericella vaccine
+haemophilus b and hepatitis b vaccine
+papillomavirus vaccine
+salmonella vaccine
+streptococcal vaccine
+usa licensed vaccine role
+vaccine stabilizer
+vaccine residual
+cell culture residual in vaccine
+canada licensed vaccine role
+aluminum vaccine adjuvant
+vaccine preservative role
+intradermal route
+age at vaccination
+vaccine allergen
+bovine albumin cell culture residual in vaccine
+vaccine residual protein from cell culture
+sorbitol vaccine stabilizer
+yeast protein cell culture residual in vaccine
+pbluescript dna vaccine plasmid
+nkcmvint dna vaccine plasmid
+tetanus toxoid  ( for boost use only )  by sanofi pasteur inc
+viral vaccine organism live attenuated
+vaccine organism viability
+intramuscular vaccination
+vaccine host role
+synthetic vaccine adjuvant
+vaccinee
+vaccine target specification
+oral vaccination
+subcutaneous vaccination
+vaccine stabilizer role
+sugar vaccine stabilizer
+vaccine conjugate protein
+vaccine conjugate role
+rubella virus vaccine
+haemophilus influenzae vaccine

@@ -1,0 +1,92 @@
+a high - level classification of the diverse roles performed in the work leading to a published research output in the sciences .
+creation and / or presentation of a published research object ,  such as books ,  journal articles ,  and other publications like technical documentation ,  web sites ,  code ,  ontologies ,  or data models .
+preparation ,  creation and / or presentation of figures for a manuscript ,  presentation or other use .
+translating words or text from one language to another .
+includes literature searches and contributions to review activities  ( systematic reviews ,  scoping reviews ,  etc . ) 
+coordination of research dissemination through popular media and the press ,  as well as community outreach and liaising of project directly to the community .
+creation or refinement of a website ,  a set of related web pages served from a single web domain .
+a communication role that encompasses facilitate co - operation between people or organizations .
+a communication role that involves the activity ,  set of institutions ,  and processes for creating ,  communicating ,  delivering ,  and exchanging offerings that have value for customers ,  clients ,  partners ,  and society at large .
+a communication role in which one records the details of an event ,  a process ,  a workflow ,  etc .
+a communication role that utilizes the art or profession of using design elements  ( such as typography and images )  to convey information ,  create visualizations ,  or create an effect .
+creation of software documentation .
+a role that encompasses effective and efficient operation and usage of data ,  including ,  but not limited to management ,  handling ,  or manipulation .
+a role in which a person participates in the transfer of knowledge and skills ,  through teaching ,  development of educational materials or curriculum ,  through program development or other means .
+a role that involves the development ,  management ,  and use of computer - based information systems .
+verification that software meets requirements ;  validation that software meets users' needs ,  identification of software bugs ,  assessment of software performance and usability .
+a role related to creations of the mind ,  such as inventions ;  literary and artistic works ;  designs ;  and symbols ,  names and images used in commerce .
+policy development generally involves research ,  analysis ,  consultation and synthesis of information to produce recommendations for action by an individual or an organization .
+set of activities aimed at prolonging the life of a record .
+manage regulatory and compliance issues for the research project .
+a person that is responsible for usage of instrumentation ,  such as equipment or devices ,  or instruments like a survey or questionnaire .
+management activities to annotate ,  maintain ,  research ,  and preserve physical objects to maximize their use for research and education now and into the future .
+activities to obtain physical objects for research or scholarly purposes or to add to a collection .
+coordination of diverse team members ,  often across different disciplines and locations .
+the compiling of information with intent to prepare combined datasets for data processing .
+statistical aspects of research ,  including data collection ,  organization ,  analysis ,  interpretation and presentation of data from surveys and experiments
+the process of gathering and measuring data ,  information or any variables of interest in a standardized and established manner that enables the collector to answer or test hypothesis and evaluate outcomes of the particular collection .
+the annotation of data with descriptive information that describes the data  ( metadata )  ,  with the goal of making the data more usuable or reusable for future use .
+the process of inputting data into a computerized form .
+the process of combining data from different sources to provide a standardized or unified view .
+the process of creating a data model for an information system by applying certain formal techniques .
+a procedure intended to verify the efficiency and reliability of data .
+the process of creating data standards ,  which are the rules by which data are described and recorded in order to share ,  exchange ,  and understand data .
+an educational role in which a person develops educational or training materials that are intended to transfer knowledge ,  for use in a classroom ,  indpendent learning or other settings .
+an educational role in which a person participates in the development of an educational program ,  designed for learners to achieve a set of compentencies around a given topic or area of focus .
+an educational role in which knowledge and skills are transferred through teaching .
+an information technology systems role that specifically focuses on the computer hardware ,  the physical components of a computer system .
+an information technology systems role that specifically focuses on the computer software ,  the non - tangible executable component of a computer .
+a role usually within the information technology department ,  charged with the creation ,  maintenance ,  backups ,  querying ,  tuning ,  user rights assignment and security of an organization's databases .
+a software systems role that involves maintenance and operation of a computer system and / or network .
+a methodology role that involves development of information that suggests how something should be done .
+a methodology role that involves creation of a detailed plan of a scientific or medical experiment ,  treatment ,  or procedure .
+a methodology role that involves the development or creation of an established or prescribed methods to be followed routinely for the performance of designated operations or in designated situations .
+detailed design of study components including data collection ,  analysis ,  and dissemination .
+a methodology role that involves the creation or refinement of a manner or method by which an activity is performed .
+a role charged with conceptualization ,  design ,  development and marketing of complex equipment .
+a person that is responsible for operating equipment or instrumentation and / or that ensures equipment is well - maintained ,  properly configured ,  and safely functional .
+creation or refinement of a survey or questionnaire ,  a list of questions aimed at extracting specific data from a particular group of people .
+examination of software code to identify build - breaking changes prior to acceptance into a codebase .
+algorithm development and implementation of software in a computer programming language .
+creation of high - level structures of a software system .
+creation of low - level software component and algorithm design .
+systematic application of scientific and technological knowledge ,  methods ,  and experience to the design ,  implementation ,  testing ,  and documentation of software .
+planning ,  management ,  and monitoring of projects .
+a professional who assesses ,  collects ,  organizes ,  preserves ,  maintains control over ,  and provides access to information determined to have long - term value .
+a person responsible for the preservation of artistic and cultural artifacts .
+a role that includes the formal endeavor to ensure that digital information of continuing value remains accessible ,  trustworthy ,  and usable .
+aggregation ,  integration ,  manipulation of data .
+the process of creating standards ,  which aare an established norm or requirement in regard to technical systems .
+verification ,  whether as a part of the activity or separate ,  of the overall replication / reproducibility of results / experiments and other research outputs .
+a role that includes the design and implementation of the physical components of a computer system .
+contribution to the basic ,  underlying framework or features of a system or organization .
+evaluation is a systematic method for collecting ,  analyzing ,  and using information to answer questions about projects ,  policies and programs ,  particularly about their effectiveness and efficiency .
+an infrastructure role that is accountable for management and coordination of a program ,  to help achieve the program goals .
+the organization of the different elements needed to implement a study .
+oversight and leadership responsibility for the research activity planning and execution ,  including mentorship external to the core team .
+a communication role which involves the dynamic relational process that facilitates communication ,  interaction ,  involvement ,  and exchange between an organization and a community for a range of social and organizational outcomes .
+a communication role that involves development or production of materials ,  such as brochures ,  websites ,  flyers ,  presentations ,  etc . ,  for the purposes of promotion of a entity ,  like a project ,  group or organization .
+role that involves identifying eligible participants ,  explaining the study to potential participants ,  recruiting an adequate sample based on study goals and design ,  obtaining informed consent / maintaining ethical standards ,  and retaining participants until study completion .
+one who is proficient in the relevant skill and technique ,  with a relatively practical understanding of the theoretical principles .
+creation and / or presentation of the published work ,  specifically writing the initial draft  ( including substantive translation )  .
+a role in which one provides a summary of a research output ,  such as a journal article ,  that is understandable by a lay person or non - expert audience .
+a method or steps that maintain ,  update content ,  clean up ,  or repair a website .
+a documentation role that involves preparation of instruction manuals ,  journal articles ,  and other supporting documents to communicate complex and technical information more easily .
+the tasks that go into determining the needs or conditions to meet for a new or altered software product or project ,  taking account of the possibly conflicting requirements of the various stakeholders ,  analyzing ,  documenting ,  validating and managing software or system requirements .
+obtaining a material entity for potential use as an input during an investigation .
+in botany ,  this is the collector listed first for a particular specimen .
+evaluation of grant applications by others working in the same field .
+selecting ,  ordering ,  and receiving materials or physical objects for research ,  scholarly ,  library or archival collections .
+the person or organization that provides money for a particular purpose ,  such as a grant to perform research .
+the person or organization that is responsible for a new or novel discovery ,  i .e . ,  the process of finding information ,  a place ,  or an object ,  especially for the first time ,  or the thing that is found .
+a person or organization who helps guide a patient through the healthcare system .
+oral presentation intended to present information or teach people about a particular subject ,  such as a talk or poster presentation at a conference .
+evaluation of scientific ,  academic ,  or professional work ,  such as manuscripts or grants by others working in the same field .
+a role that involves giving advice in a particular field .
+a role that is realized through the modification of an existing artifact  ( e .g .
+a role that is realized through the act of formally accepting an artifact for inclusion in some larger resource  ( e .g .
+a role that is realized through the act of formally submitting or depositing an artifact to be included in some larger resource  ( e .g .
+a role that is realized through the review and evaluation of an artifact  -  generally to assess its quality ,  completeness ,  relevance ,  or other characteristics .
+a role used to indicate that an agent was the creator of an artifact  ( i .e .
+a role that involves creation ,  maintenance or administration of a database .
+a person who deals with provision and maintenance of information in many formats ,  including: books ;  electronic resources ;  magazines ;  newspapers ;  audio and video recordings ;  maps ;  manuscripts ;  photographs and other graphic material ;  bibliographic databases ;  and web - based and digital resources .

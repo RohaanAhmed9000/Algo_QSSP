@@ -1,0 +1,62 @@
+molecular_function
+nucleic acid binding
+motor activity
+catalytic activity
+helicase activity
+signal transducer activity
+receptor activity
+structural molecule activity
+transporter activity
+binding
+protein binding
+cellular_component
+extracellular region
+proteinaceous extracellular matrix
+extracellular space
+intracellular
+cell
+nucleus
+chromosome
+cytoplasm
+nucleobase ,  nucleoside ,  nucleotide and nucleic acid metabolic process
+cellular amino acid and derivative metabolic process
+transport
+cell motion
+membrane fusion
+cell communication
+multicellular organismal development
+behavior
+biological_process
+metabolic process
+cell death
+protein transporter activity
+integrase activity
+electron carrier activity
+catabolic process
+biosynthetic process
+pathogenesis
+cell surface
+cellular process
+ion transmembrane transporter activity
+channel activity
+membrane
+antioxidant activity
+kinase activity
+oxidoreductase activity
+transferase activity
+hydrolase activity
+lyase activity
+isomerase activity
+ligase activity
+cell differentiation
+enzyme regulator activity
+external encapsulating structure
+transcription regulator activity
+multicellular organismal process
+extracellular structure organization
+macromolecule metabolic process
+translation regulator activity
+secretion
+regulation of biological process
+response to stimulus
+regulates

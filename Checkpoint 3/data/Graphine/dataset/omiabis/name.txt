@@ -1,0 +1,374 @@
+count
+counting
+age data by age brackets
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+process boundary
+continuant fiat boundary
+process profile
+relational quality
+portion of organism substance
+gross anatomical part
+formaldehyde
+deoxyribonucleic acid
+molecular entity
+nucleic acid
+ribonucleic acid
+macromolecule
+cell
+cultured cell
+experimentally modified cell in vitro
+geographical location
+subnational entity
+geopolitical dependency
+sovereign state
+governmental organization
+biological_process
+measurement unit label
+objective specification
+narrative object
+action specification
+data item label
+information carrier
+data item
+symbol
+numeral
+information content entity
+scalar measurement datum
+directive information entity
+algorithm
+curation status specification
+report
+data format specification
+data set
+image
+data about an ontology part
+plan specification
+measurement data item
+setting datum
+conclusion textual entity
+material information bearer
+photograph
+photographic print
+obsolescence reason specification
+textual entity
+figure
+document
+length measurement datum
+mass measurement datum
+time measurement datum
+postal address
+documenting
+crid
+centrally registered identifier
+crid registry
+identifier
+dubbing process
+personal name
+planned process
+biological feature identification objective
+processed material
+investigation
+evaluant role
+assay
+culture medium
+reagent role
+patient role
+material processing
+participant under investigation role
+responsible party role
+principal investigator role
+specimen role
+filter paper
+investigation agent role
+organization
+dna extraction
+organism feature identification objective
+protocol
+adding a material entity into a target
+material to be added role
+drawing a conclusion based on data
+planning
+histological sample preparation
+hypothesis driven investigation
+hypothesis generating investigation
+contain function
+heat function
+material separation function
+freeze function
+filter function
+mechanical function
+cool function
+environment control function
+viral rna extraction
+extract
+averaging objective
+adding material objective
+assay objective
+target of material addition role
+measure function
+material transformation objective
+study design execution
+material separation objective
+data set of features
+urine specimen
+material combination
+blood specimen
+specimen collection
+sample from organism
+center value
+portioning objective
+average value
+whole organism preparation
+separation into different composition objective
+specimen collection objective
+material combination objective
+material sample role
+material sampling process
+material sample
+study design independent variable
+material maintenance objective
+measurement device
+high molecular weight dna extract
+material maintenance
+polya rna extraction
+organellar rna extraction
+total rna extraction
+cytoplasmic rna extraction
+nuclear rna extract
+polya rna extract
+pre - mortem specimen
+cytoplasmic rna extract
+rna extract
+nuclear rna extraction
+total rna extract
+organellar rna extract
+post mortem specimen
+labeled dna extract
+cloacal specimen
+nasopharyngeal aspirate specimen
+freezing storage
+nasal swab specimen
+labeled rna extract
+frozen specimen
+labeled specimen
+lyophilization storage
+material separation device
+paraffin specimen
+processed specimen
+lyophilized specimen
+device
+fresh specimen
+paraffin storage
+agar stab specimen
+agar stab storage
+nucleic acid extract
+dna extract
+labeled nucleic acid extract
+disease state design
+cell specimen
+specimen with known storage state
+tissue specimen
+specimen with pre -  or post - mortem status
+selection criterion
+cell culture
+conclusion based on data
+cell freezing medium
+selection
+scalar value specification
+value specification
+molecular - labeled material
+flash freezing
+freezing
+blood plasma specimen
+blood serum specimen
+organism
+specimen
+cultured cell population
+organ section
+bronchial alveolar lavage
+data transformation
+moving average
+descriptive statistical calculation objective
+mean calculation
+data combination
+data transformation objective
+averaging data transformation
+center calculation objective
+center calculation data transformation
+descriptive statistical calculation data transformation
+merging objective
+pool of specimens
+extraction
+filtration
+centrifugation
+storage
+digital curation
+centrifuge
+microtome
+study design
+collecting specimen from organism
+acquisition
+material acquisition
+environmental material collection
+information acquisition
+material component separation
+maintaining cell culture
+establishing cell culture
+addition of molecular label
+lavage
+dialysis
+rna extraction
+nucleic acid extraction
+whole mount tissue
+donor
+target of material addition
+disease
+disorder
+diagnosis
+treatment
+diagnostic process
+biobank
+human biobank
+settlement part of address of sample collection or study contact
+biobank proper name
+iso 3166 - 1 alpha - 2 code
+biobank idenfier with iso 3166 - 1 alpha - 2 code
+sample collection or study identifier
+iso 3166 - 1 alpha - 2 code for sample collection or study contact
+biobank organization
+contacting
+contact role
+biobank contact person
+name of biobank contact person
+email address of biobank contact person
+postal address of biobank contact person
+department
+department of biobank contact
+unique resource locator
+biobank's unique resource locator
+telephone number
+telephone number of biobank contact
+post - office box number
+post - office box
+telephone number of sample collection or study contact
+postal code
+postal code of biobank contact
+iso 3166 - 1 alpha - 2 code for biobank contact person
+settlement part of address
+settlement part of address biobank contact
+intra - settlement specification part of address
+intra - settlement specification part of address of biobank contact
+hosted study collection
+name of hosted study collection
+email address of sample collection or study contact
+sample collection or study aim description
+study proper name
+name of sample collection responsible or principal investigator
+name of sample collection or study contact person
+department of sample collection or study contact
+street
+intra - settlement specification part of address of sample collection or study contact
+postal code for sample collection or study contact
+biobank location iso 3166 - 1 alpha - 2 code
+ctep organization identifier
+biobank identifier with iso 3166 - 1 alpha - 2 code and ctep organization identifier
+bone marrow specimen
+fixed tissue specimen
+fixed tissue block specimen
+fixed tissue slide specimen
+flash frozen specimen
+fresh tissue specimen
+frozen tissue block specimen
+frozen tissue slide specimen
+microdissected specimen
+survey data
+sampling specimens for biobank
+biobank contact role
+sample collection or study contact person
+study principle investigator or responsible
+specimen disease state datum
+diseased state specimen datum
+mixed state specimen datum
+normal state specimen datum
+obsolote_unknown state specimen data
+fixation
+age interval information
+average age
+patient registry data
+obsolete_survey data
+date of data entry
+date of data update
+end date of sampling for biobank
+start date of sampling for biobank
+comorbidity
+primary diagnosis
+count of current sampled human study participant
+count of current total human study participant
+physiological measurement data
+storage temperature setting
+omics experiment on specimen
+number of sampled human study participants objective
+number of total human study participant objective
+case control study design
+cross sectional study design
+longitudinal study design
+cohort study design
+panel study design
+population based study design
+quality control study design
+twin study design
+survey plan specification
+medical record
+sample medical record
+sample handling summary
+age interval information for sampled donors
+donor patient registry data
+study subject survey data
+sample collection data entry
+sample collection data update
+survey execution
+temperature regulating
+specimen measurement
+date of specimen collection
+surgical procedure
+specimen preparation contact
+time in formalin measurement
+specimen surgical removal
+specimen freezing
+specimen id
+case id
+specimen measurement specification
+time of specimen freezing
+time of surgical removal of specimen
+normal specimen
+cerebrospinal fluid specimen
+faeces specimen
+saliva specimen
+hosting biobank
+sample handling
+start of sampling specimens for biobank
+end of sampling specimens for biobank
+role in human social processes
+aggregate of organizations
+legal person role
+age
+biological sex
+length
+temperature
+female
+male
+pressure
+quality of a single physical entity
+hermaphrodite
+alive
+dead
+frozen
+collection of organisms
+molecular label role
+molecular label
+blood
+urine
+time unit

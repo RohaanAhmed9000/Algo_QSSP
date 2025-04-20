@@ -1,0 +1,783 @@
+free - living nematode stage
+all stages ce
+embryo ce
+proliferating embryo ce
+blastula embryo ce
+1 - cell embryo ce
+2 - cell embryo ce
+4 - cell embryo ce
+28 - cell embryo ce
+gastrulating embryo ce
+51 - cell embryo ce
+88 - cell embryo ce
+enclosing embryo ce
+late cleavage stage embryo ce
+elongating embryo ce
+bean embryo ce
+comma embryo ce
+1 .5 - fold embryo ce
+2 - fold embryo ce
+3 - fold embryo ce
+fully - elongated embryo ce
+postembryonic ce
+larva ce
+l1 larva ce
+l1 - l2 lethargus ce
+l1 - l2 molt ce
+l2 larva ce
+l2 - l3 lethargus ce
+l2 - l3 molt ce
+l2d - dauer lethargus ce
+l2d - dauer molt ce
+dauer larva ce
+postdauer - l4 lethargus ce
+postdauer - l4 molt ce
+l3 larva ce
+l3 - l4 lethargus ce
+l3 - l4 molt ce
+l4 larva ce
+l4 - adult lethargus ce
+l4 - adult molt ce
+adult ce
+l1 - l2 ecdysis ce
+l1 - l2d molt ce
+l1 - l2d lethargus ce
+l1 - l2d ecdysis ce
+l2d larva ce
+l2 - l3 ecdysis ce
+l2d - dauer ecdysis ce
+l3 - l4 ecdysis ce
+l4 - adult ecdysis ce
+postdauer - l4 ecdysis ce
+post dauer l3 stage ce
+l2d - l3 molt ce
+l2d - l3 lethargus ce
+l2d - l3 ecdysis ce
+adult male ce
+adult hermaphrodite ce
+pre - reproductive stage adult hermaphrodite ce
+parasitic nematode stage
+reproductive stage adult hermaphrodite ce
+oocyte - laying stage adult hermaphrodite ce
+post - reproductive stage adult hermaphrodite ce
+newly molted young adult hermaphrodite ce
+1 - day post - l4 adult hermaphrodite ce
+2 - days post - l4 adult hermaphrodite ce
+3 - days post - l4 adult hermaphrodite ce
+4 - days post - l4 adult hermaphrodite ce
+5 - days post - l4 adult hermaphrodite ce
+4 - 7 days post - l4 adult hermaphrodite ce
+7 - 10 days post - l4 adult hermaphrodite ce
+8 - cell embryo ce
+12 - cell embryo ce
+l4 larva male ce
+11 - 15 days post - l4 adult hermaphrodite ce
+worm life stage
+strongyloides life stage
+brugia sheathed microfilaria
+brugia l1
+brugia l2
+brugia l3
+brugia l4
+brugia adult
+14 - cell embryo ce
+24 - cell embryo ce
+44 - cell embryo ce
+68 - cell embryo ce
+86 - cell embryo ce
+190 - cells embryo ce
+96 - cell embryo ce
+brugia life stage
+brugia embryo
+brugia postembryonic stage
+brugia early embryo
+brugia middle embryo
+brugia late embryo
+brugia larval stage
+brugia l3i
+brugia post - infection l3
+brugia young adult
+nematode life stage
+nematode embryo
+postembryonic nematode
+nematode adult
+nematode larval stage
+l1 larval stage
+l2 larval stage
+l3 larval stage
+l4 larval stage
+sheathed microfilaria
+16 - 18 days post - l4 adult hermaphrodite ce
+1 min post first - cleavage ce
+2 min post first - cleavage ce
+3 min post first - cleavage ce
+4 min post first - cleavage ce
+5 min post first - cleavage ce
+6 min post first - cleavage ce
+7 min post first - cleavage ce
+8 min post first - cleavage ce
+9 min post first - cleavage ce
+10 min post first - cleavage ce
+11 min post first - cleavage ce
+12 min post first - cleavage ce
+13 min post first - cleavage ce
+14 min post first - cleavage ce
+15 min post first - cleavage ce
+16 min post first - cleavage ce
+17 min post first - cleavage ce
+18 min post first - cleavage ce
+19 min post first - cleavage ce
+20 min post first - cleavage ce
+21 min post first - cleavage ce
+22 min post first - cleavage ce
+23 min post first - cleavage ce
+24 min post first - cleavage ce
+25 min post first - cleavage ce
+26 min post first - cleavage ce
+27 min post first - cleavage ce
+28 min post first - cleavage ce
+29 min post first - cleavage ce
+30 min post first - cleavage ce
+31 min post first - cleavage ce
+32 min post first - cleavage ce
+33 min post first - cleavage ce
+34 min post first - cleavage ce
+35 min post first - cleavage ce
+36 min post first - cleavage ce
+37 min post first - cleavage ce
+38 min post first - cleavage ce
+39 min post first - cleavage ce
+40 min post first - cleavage ce
+41 min post first - cleavage ce
+42 min post first - cleavage ce
+43 min post first - cleavage ce
+44 min post first - cleavage ce
+45 min post first - cleavage ce
+46 min post first - cleavage ce
+47 min post first - cleavage ce
+48 min post first - cleavage ce
+49 min post first - cleavage ce
+50 min post first - cleavage ce
+51 min post first - cleavage ce
+52 min post first - cleavage ce
+53 min post first - cleavage ce
+54 min post first - cleavage ce
+55 min post first - cleavage ce
+56 min post first - cleavage ce
+57 min post first - cleavage ce
+58 min post first - cleavage ce
+59 min post first - cleavage ce
+60 min post first - cleavage ce
+61 min post first - cleavage ce
+62 min post first - cleavage ce
+63 min post first - cleavage ce
+64 min post first - cleavage ce
+65 min post first - cleavage ce
+66 min post first - cleavage ce
+67 min post first - cleavage ce
+68 min post first - cleavage ce
+69 min post first - cleavage ce
+70 min post first - cleavage ce
+71 min post first - cleavage ce
+72 min post first - cleavage ce
+73 min post first - cleavage ce
+74 min post first - cleavage ce
+75 min post first - cleavage ce
+76 min post first - cleavage ce
+77 min post first - cleavage ce
+78 min post first - cleavage ce
+79 min post first - cleavage ce
+80 min post first - cleavage ce
+81 min post first - cleavage ce
+82 min post first - cleavage ce
+83 min post first - cleavage ce
+84 min post first - cleavage ce
+85 min post first - cleavage ce
+86 min post first - cleavage ce
+87 min post first - cleavage ce
+88 min post first - cleavage ce
+89 min post first - cleavage ce
+90 min post first - cleavage ce
+91 min post first - cleavage ce
+92 min post first - cleavage ce
+93 min post first - cleavage ce
+94 min post first - cleavage ce
+95 min post first - cleavage ce
+96 min post first - cleavage ce
+97 min post first - cleavage ce
+98 min post first - cleavage ce
+99 min post first - cleavage ce
+100 min post first - cleavage ce
+101 min post first - cleavage ce
+102 min post first - cleavage ce
+103 min post first - cleavage ce
+104 min post first - cleavage ce
+105 min post first - cleavage ce
+106 min post first - cleavage ce
+107 min post first - cleavage ce
+108 min post first - cleavage ce
+109 min post first - cleavage ce
+110 min post first - cleavage ce
+111 min post first - cleavage ce
+112 min post first - cleavage ce
+113 min post first - cleavage ce
+114 min post first - cleavage ce
+115 min post first - cleavage ce
+116 min post first - cleavage ce
+117 min post first - cleavage ce
+118 min post first - cleavage ce
+119 min post first - cleavage ce
+120 min post first - cleavage ce
+121 min post first - cleavage ce
+122 min post first - cleavage ce
+123 min post first - cleavage ce
+124 min post first - cleavage ce
+125 min post first - cleavage ce
+126 min post first - cleavage ce
+127 min post first - cleavage ce
+128 min post first - cleavage ce
+129 min post first - cleavage ce
+130 min post first - cleavage ce
+131 min post first - cleavage ce
+132 min post first - cleavage ce
+133 min post first - cleavage ce
+134 min post first - cleavage ce
+135 min post first - cleavage ce
+136 min post first - cleavage ce
+137 min post first - cleavage ce
+138 min post first - cleavage ce
+139 min post first - cleavage ce
+140 min post first - cleavage ce
+141 min post first - cleavage ce
+142 min post first - cleavage ce
+143 min post first - cleavage ce
+144 min post first - cleavage ce
+145 min post first - cleavage ce
+146 min post first - cleavage ce
+147 min post first - cleavage ce
+148 min post first - cleavage ce
+149 min post first - cleavage ce
+150 min post first - cleavage ce
+151 min post first - cleavage ce
+152 min post first - cleavage ce
+153 min post first - cleavage ce
+154 min post first - cleavage ce
+155 min post first - cleavage ce
+156 min post first - cleavage ce
+157 min post first - cleavage ce
+158 min post first - cleavage ce
+159 min post first - cleavage ce
+160 min post first - cleavage ce
+161 min post first - cleavage ce
+162 min post first - cleavage ce
+163 min post first - cleavage ce
+164 min post first - cleavage ce
+165 min post first - cleavage ce
+166 min post first - cleavage ce
+167 min post first - cleavage ce
+168 min post first - cleavage ce
+169 min post first - cleavage ce
+170 min post first - cleavage ce
+171 min post first - cleavage ce
+172 min post first - cleavage ce
+173 min post first - cleavage ce
+174 min post first - cleavage ce
+175 min post first - cleavage ce
+176 min post first - cleavage ce
+177 min post first - cleavage ce
+178 min post first - cleavage ce
+179 min post first - cleavage ce
+180 min post first - cleavage ce
+181 min post first - cleavage ce
+182 min post first - cleavage ce
+183 min post first - cleavage ce
+184 min post first - cleavage ce
+185 min post first - cleavage ce
+186 min post first - cleavage ce
+187 min post first - cleavage ce
+188 min post first - cleavage ce
+189 min post first - cleavage ce
+190 min post first - cleavage ce
+191 min post first - cleavage ce
+192 min post first - cleavage ce
+193 min post first - cleavage ce
+194 min post first - cleavage ce
+195 min post first - cleavage ce
+196 min post first - cleavage ce
+197 min post first - cleavage ce
+198 min post first - cleavage ce
+199 min post first - cleavage ce
+200 min post first - cleavage ce
+201 min post first - cleavage ce
+202 min post first - cleavage ce
+203 min post first - cleavage ce
+204 min post first - cleavage ce
+205 min post first - cleavage ce
+206 min post first - cleavage ce
+207 min post first - cleavage ce
+208 min post first - cleavage ce
+209 min post first - cleavage ce
+210 min post first - cleavage ce
+211 min post first - cleavage ce
+212 min post first - cleavage ce
+213 min post first - cleavage ce
+214 min post first - cleavage ce
+215 min post first - cleavage ce
+216 min post first - cleavage ce
+217 min post first - cleavage ce
+218 min post first - cleavage ce
+219 min post first - cleavage ce
+220 min post first - cleavage ce
+221 min post first - cleavage ce
+222 min post first - cleavage ce
+223 min post first - cleavage ce
+224 min post first - cleavage ce
+225 min post first - cleavage ce
+226 min post first - cleavage ce
+227 min post first - cleavage ce
+228 min post first - cleavage ce
+229 min post first - cleavage ce
+230 min post first - cleavage ce
+231 min post first - cleavage ce
+232 min post first - cleavage ce
+233 min post first - cleavage ce
+234 min post first - cleavage ce
+235 min post first - cleavage ce
+236 min post first - cleavage ce
+237 min post first - cleavage ce
+238 min post first - cleavage ce
+239 min post first - cleavage ce
+240 min post first - cleavage ce
+241 min post first - cleavage ce
+242 min post first - cleavage ce
+243 min post first - cleavage ce
+244 min post first - cleavage ce
+245 min post first - cleavage ce
+246 min post first - cleavage ce
+247 min post first - cleavage ce
+248 min post first - cleavage ce
+249 min post first - cleavage ce
+250 min post first - cleavage ce
+251 min post first - cleavage ce
+252 min post first - cleavage ce
+253 min post first - cleavage ce
+254 min post first - cleavage ce
+255 min post first - cleavage ce
+256 min post first - cleavage ce
+257 min post first - cleavage ce
+258 min post first - cleavage ce
+259 min post first - cleavage ce
+260 min post first - cleavage ce
+261 min post first - cleavage ce
+262 min post first - cleavage ce
+263 min post first - cleavage ce
+264 min post first - cleavage ce
+265 min post first - cleavage ce
+266 min post first - cleavage ce
+267 min post first - cleavage ce
+268 min post first - cleavage ce
+269 min post first - cleavage ce
+270 min post first - cleavage ce
+271 min post first - cleavage ce
+272 min post first - cleavage ce
+273 min post first - cleavage ce
+274 min post first - cleavage ce
+275 min post first - cleavage ce
+276 min post first - cleavage ce
+277 min post first - cleavage ce
+278 min post first - cleavage ce
+279 min post first - cleavage ce
+280 min post first - cleavage ce
+281 min post first - cleavage ce
+282 min post first - cleavage ce
+283 min post first - cleavage ce
+284 min post first - cleavage ce
+285 min post first - cleavage ce
+286 min post first - cleavage ce
+287 min post first - cleavage ce
+288 min post first - cleavage ce
+289 min post first - cleavage ce
+290 min post first - cleavage ce
+291 min post first - cleavage ce
+292 min post first - cleavage ce
+293 min post first - cleavage ce
+294 min post first - cleavage ce
+295 min post first - cleavage ce
+296 min post first - cleavage ce
+297 min post first - cleavage ce
+298 min post first - cleavage ce
+299 min post first - cleavage ce
+300 min post first - cleavage ce
+301 min post first - cleavage ce
+302 min post first - cleavage ce
+303 min post first - cleavage ce
+304 min post first - cleavage ce
+305 min post first - cleavage ce
+306 min post first - cleavage ce
+307 min post first - cleavage ce
+308 min post first - cleavage ce
+309 min post first - cleavage ce
+310 min post first - cleavage ce
+311 min post first - cleavage ce
+312 min post first - cleavage ce
+313 min post first - cleavage ce
+314 min post first - cleavage ce
+315 min post first - cleavage ce
+316 min post first - cleavage ce
+317 min post first - cleavage ce
+318 min post first - cleavage ce
+319 min post first - cleavage ce
+320 min post first - cleavage ce
+321 min post first - cleavage ce
+322 min post first - cleavage ce
+323 min post first - cleavage ce
+324 min post first - cleavage ce
+325 min post first - cleavage ce
+326 min post first - cleavage ce
+327 min post first - cleavage ce
+328 min post first - cleavage ce
+329 min post first - cleavage ce
+330 min post first - cleavage ce
+331 min post first - cleavage ce
+332 min post first - cleavage ce
+333 min post first - cleavage ce
+334 min post first - cleavage ce
+335 min post first - cleavage ce
+336 min post first - cleavage ce
+337 min post first - cleavage ce
+338 min post first - cleavage ce
+339 min post first - cleavage ce
+340 min post first - cleavage ce
+341 min post first - cleavage ce
+342 min post first - cleavage ce
+343 min post first - cleavage ce
+344 min post first - cleavage ce
+345 min post first - cleavage ce
+346 min post first - cleavage ce
+347 min post first - cleavage ce
+348 min post first - cleavage ce
+349 min post first - cleavage ce
+350 min post first - cleavage ce
+351 min post first - cleavage ce
+352 min post first - cleavage ce
+353 min post first - cleavage ce
+354 min post first - cleavage ce
+355 min post first - cleavage ce
+356 min post first - cleavage ce
+357 min post first - cleavage ce
+358 min post first - cleavage ce
+359 min post first - cleavage ce
+360 min post first - cleavage ce
+361 min post first - cleavage ce
+362 min post first - cleavage ce
+363 min post first - cleavage ce
+364 min post first - cleavage ce
+365 min post first - cleavage ce
+366 min post first - cleavage ce
+367 min post first - cleavage ce
+368 min post first - cleavage ce
+369 min post first - cleavage ce
+370 min post first - cleavage ce
+371 min post first - cleavage ce
+372 min post first - cleavage ce
+373 min post first - cleavage ce
+374 min post first - cleavage ce
+375 min post first - cleavage ce
+376 min post first - cleavage ce
+377 min post first - cleavage ce
+378 min post first - cleavage ce
+379 min post first - cleavage ce
+380 min post first - cleavage ce
+381 min post first - cleavage ce
+382 min post first - cleavage ce
+383 min post first - cleavage ce
+384 min post first - cleavage ce
+385 min post first - cleavage ce
+386 min post first - cleavage ce
+387 min post first - cleavage ce
+388 min post first - cleavage ce
+389 min post first - cleavage ce
+390 min post first - cleavage ce
+391 min post first - cleavage ce
+392 min post first - cleavage ce
+393 min post first - cleavage ce
+394 min post first - cleavage ce
+395 min post first - cleavage ce
+396 min post first - cleavage ce
+397 min post first - cleavage ce
+398 min post first - cleavage ce
+399 min post first - cleavage ce
+400 min post first - cleavage ce
+401 min post first - cleavage ce
+402 min post first - cleavage ce
+403 min post first - cleavage ce
+404 min post first - cleavage ce
+405 min post first - cleavage ce
+406 min post first - cleavage ce
+407 min post first - cleavage ce
+408 min post first - cleavage ce
+409 min post first - cleavage ce
+410 min post first - cleavage ce
+411 min post first - cleavage ce
+412 min post first - cleavage ce
+413 min post first - cleavage ce
+414 min post first - cleavage ce
+415 min post first - cleavage ce
+416 min post first - cleavage ce
+417 min post first - cleavage ce
+418 min post first - cleavage ce
+419 min post first - cleavage ce
+420 min post first - cleavage ce
+421 min post first - cleavage ce
+422 min post first - cleavage ce
+423 min post first - cleavage ce
+424 min post first - cleavage ce
+425 min post first - cleavage ce
+426 min post first - cleavage ce
+427 min post first - cleavage ce
+428 min post first - cleavage ce
+429 min post first - cleavage ce
+430 min post first - cleavage ce
+431 min post first - cleavage ce
+432 min post first - cleavage ce
+433 min post first - cleavage ce
+434 min post first - cleavage ce
+435 min post first - cleavage ce
+436 min post first - cleavage ce
+437 min post first - cleavage ce
+438 min post first - cleavage ce
+439 min post first - cleavage ce
+440 min post first - cleavage ce
+441 min post first - cleavage ce
+442 min post first - cleavage ce
+443 min post first - cleavage ce
+444 min post first - cleavage ce
+445 min post first - cleavage ce
+446 min post first - cleavage ce
+447 min post first - cleavage ce
+448 min post first - cleavage ce
+449 min post first - cleavage ce
+450 min post first - cleavage ce
+451 min post first - cleavage ce
+452 min post first - cleavage ce
+453 min post first - cleavage ce
+454 min post first - cleavage ce
+455 min post first - cleavage ce
+456 min post first - cleavage ce
+457 min post first - cleavage ce
+458 min post first - cleavage ce
+459 min post first - cleavage ce
+460 min post first - cleavage ce
+461 min post first - cleavage ce
+462 min post first - cleavage ce
+463 min post first - cleavage ce
+464 min post first - cleavage ce
+465 min post first - cleavage ce
+466 min post first - cleavage ce
+467 min post first - cleavage ce
+468 min post first - cleavage ce
+469 min post first - cleavage ce
+470 min post first - cleavage ce
+471 min post first - cleavage ce
+472 min post first - cleavage ce
+473 min post first - cleavage ce
+474 min post first - cleavage ce
+475 min post first - cleavage ce
+476 min post first - cleavage ce
+477 min post first - cleavage ce
+478 min post first - cleavage ce
+479 min post first - cleavage ce
+480 min post first - cleavage ce
+481 min post first - cleavage ce
+482 min post first - cleavage ce
+483 min post first - cleavage ce
+484 min post first - cleavage ce
+485 min post first - cleavage ce
+486 min post first - cleavage ce
+487 min post first - cleavage ce
+488 min post first - cleavage ce
+489 min post first - cleavage ce
+490 min post first - cleavage ce
+491 min post first - cleavage ce
+492 min post first - cleavage ce
+493 min post first - cleavage ce
+494 min post first - cleavage ce
+495 min post first - cleavage ce
+496 min post first - cleavage ce
+497 min post first - cleavage ce
+498 min post first - cleavage ce
+499 min post first - cleavage ce
+500 min post first - cleavage ce
+501 min post first - cleavage ce
+502 min post first - cleavage ce
+503 min post first - cleavage ce
+504 min post first - cleavage ce
+505 min post first - cleavage ce
+506 min post first - cleavage ce
+507 min post first - cleavage ce
+508 min post first - cleavage ce
+509 min post first - cleavage ce
+510 min post first - cleavage ce
+511 min post first - cleavage ce
+512 min post first - cleavage ce
+513 min post first - cleavage ce
+514 min post first - cleavage ce
+515 min post first - cleavage ce
+516 min post first - cleavage ce
+517 min post first - cleavage ce
+518 min post first - cleavage ce
+519 min post first - cleavage ce
+520 min post first - cleavage ce
+521 min post first - cleavage ce
+522 min post first - cleavage ce
+523 min post first - cleavage ce
+524 min post first - cleavage ce
+525 min post first - cleavage ce
+526 min post first - cleavage ce
+527 min post first - cleavage ce
+528 min post first - cleavage ce
+529 min post first - cleavage ce
+530 min post first - cleavage ce
+531 min post first - cleavage ce
+532 min post first - cleavage ce
+533 min post first - cleavage ce
+534 min post first - cleavage ce
+535 min post first - cleavage ce
+536 min post first - cleavage ce
+537 min post first - cleavage ce
+538 min post first - cleavage ce
+539 min post first - cleavage ce
+540 min post first - cleavage ce
+541 min post first - cleavage ce
+542 min post first - cleavage ce
+543 min post first - cleavage ce
+544 min post first - cleavage ce
+545 min post first - cleavage ce
+546 min post first - cleavage ce
+547 min post first - cleavage ce
+548 min post first - cleavage ce
+549 min post first - cleavage ce
+550 min post first - cleavage ce
+brugia unsheathed microfilaria
+microfilaria
+brugia microfilaria
+unsheathed microfilaria
+nodular microfilaria
+skin microfilaria
+unfertilized egg ce
+6 - days post - l4 adult hermaphrodite ce
+7 - days post - l4 adult hermaphrodite ce
+8 - days post - l4 adult hermaphrodite ce
+9 - days post - l4 adult hermaphrodite ce
+10 - days post - l4 adult hermaphrodite ce
+15 - days post - l4 adult hermaphrodite ce
+20 - days post - l4 adult hermaphrodite ce
+strongyloides free - living stage
+strongyloides parasitic stage
+nematode infective stage larva
+strongyloides infective l3
+strongyloides parasitic female
+strongyloides free - living adult
+l4 .0 larva ce
+l4 .1 larva ce
+l4 .2 larva ce
+l4 .3 larva ce
+l4 .4 larva ce
+l4 .5 larva ce
+l4 .6 larva ce
+l4 .7 larva ce
+l4 .8 larva ce
+l4 .9 larva ce
+560 min post first - cleavage ce
+570 min post first - cleavage ce
+640 min post first - cleavage ce
+650 min post first - cleavage ce
+660 min post first - cleavage ce
+720 min post first - cleavage ce
+770 min post first - cleavage ce
+780 min post first - cleavage ce
+820 min post first - cleavage ce
+830 min post first - cleavage ce
+850 min post first - cleavage ce
+platyhelminthes life stage
+platyhelminthes egg
+miracidium
+sporocyst
+cercarium
+schistosomulum
+platyhelminthes adult
+digenean life stage
+cestoda life stage
+oncosphere
+hydatid cyst stage
+protoscolex stage
+metacestode
+cysticercoid stage
+newly excysted juveniles
+juvenile fluke
+metacercarium
+obsolete nematode adult intestinal stage
+obsolete nematode adult lumenal stage
+onchocerca embryonic life stage
+3 hr schistosomulum
+24 hr schistosomulum
+onchocerca post - embryonic life stage
+onchocerca microfilaria  ( mammalian stage )
+onchocerca microfilaria  ( vector stage )
+strongyloides free living adult female
+onchocerca l1 larva
+onchocerca l2 larva
+onchocerca l3 larva  ( vector stage )
+onchocerca l3 larva  ( mammalian stage )
+onchocerca l3 larva in vitro cultured d1
+onchocerca l3 larva in vitro cultured d2
+onchocerca l3 larva in vitro cultured d3
+onchocerca l4 larva
+onchocerca l4 larva in vitro cultured
+onchocerca adult male
+onchocerca adult female
+onchocerca life stage
+strongyloides free living adult male
+strongyloides post free - living l1
+strongyloides post parasitic l1
+strongyloides post parasitic l3
+strongyloides post free - living l3
+11 - days post - l4 adult hermaphrodite ce
+12 - days post - l4 adult hermaphrodite ce
+13 - days post - l4 adult hermaphrodite ce
+14 - days post - l4 adult hermaphrodite ce
+newly hatched l1 larval stage ce
+l1 arrest ce
+c . elegans life stage occurring during embryogenesis
+c . elegans life stage occurring post embryogenesis
+c . elegans life stage occurring during elongating embryo
+c . elegans life stage occurring during 1 .5 - fold embryo
+c . elegans life stage occurring during 2 - fold embryo
+c . elegans life stage occurring during 3 - fold embryo
+c . elegans life stage occurring during bean embryo
+c . elegans life stage occurring during comma embryo
+c . elegans life stage occurring during fully - elongated embryo
+c . elegans life stage occurring during proliferating embryo
+c . elegans life stage occurring during blastula embryo
+c . elegans life stage occurring during gastrulation
+c . elegans life stage occurring during enclosing embryo
+c . elegans life stage occurring during adulthood
+c . elegans life stage occurring during larval stage
+c . elegans life stage occurring during l1 larval stage
+c . elegans life stage occurring during l2 larval stage
+c . elegans life stage occurring during l3 larval stage
+c . elegans life stage occurring during l4 larval stage
+c . elegans life stage by minutes post first cleavage
+c . elegans life stage by number of cells
+c . elegans life stage occurring during larval molt
+c . elegans life stage
+obsolete set of worm life stages
+post dauer stage ce
+post dauer l4 stage ce
+starts_at_end_of
+continuant
+occurrent
+independent continuant
+process
+material entity
+post dauer adult stage ce

@@ -1,0 +1,441 @@
+the linear extent in space from one end to the other ;  the longest dimension of something that is fixed in place
+the property of a body that causes it to have weight in a gravitational field
+mass flux is the rate of mass flow per unit area ,  perfectly overlapping with the momentum density ,  the momentum per unit volume .
+molality is a measure of the concentration of a solute in a solution in terms of amount of substance in a specified amount of mass of the solvent .
+the speed of an object is the magnitude of its velocity or the rate of change of its position ;  it is thus a scalar quantity .
+the volumetric flow rate is the volume of fluid which passes per unit time
+the parts that make up the combined processes that cycle carbon ,   ( including photosynthesis ,  decomposition ,  and respiration )   between its major reservoirs  ( the atmosphere ,  oceans ,  and living organisms )  .
+the rate at which a mass of dissolved organic carbon moves to or from a particular component of an ecosystem per unit time .
+the mass of carbon released from burning vegetation per unit time .
+the magnitude of carbon sources and sinks is defined as the vertical exchange of co2 between the surface  ( land or ocean )  and the atmosphere .
+the process of carbon fixation by autotrophic carbon - fixing tissues per unit ground or water area and time .
+co2 produced by organisms and emitted to the environment per unit ground or water area and time .
+the sum of respiration  ( co2 production )  by all living parts of primary producers per unit ground or water area and time .
+the respiration rate of heterotrophic organisms  ( animals and microbes )  summed per unit ground or water area and time .
+the sum of gross carbon fixation by autotrophic carbon - fixing tissues per unit ground or water area and time .
+gross primary production  ( gpp )  minus autotrophic respiration  ( ar )  per unit ground or water area and time .
+carbon pools are amounts of carbon in the system .
+the mass of carbon contained within the top layer of the earth's surface in which plants can grow ,  consisting of rock and mineral particles mixed with decaying organic matter and having the capability of retaining water .
+the mass of carbon contained in free - floating organisms of the sea and fresh water that for the most part move passively with the water currents and consist mostly of microorganisms and small plants and animals .
+the mass of carbon contained within flattened photosynthetic structures emerging laterally from a main axis or stem and possessing true vascular tissue .
+the mass of carbon present in algae on the seafloor .
+the mass of carbon contained within monocotyledonous plants of the family poaceae ,  having jointed stems sheathed by long ,  narrow leaves ,  flowers in spikes ,  and seedlike fruits .
+the mass of carbon contained in the tough ,  fibrous substance lying beneath the bark of trees and shrubs ,  consisting of the vascular tissue known as xylem and composed chiefly of cellulose and lignin .
+the mass of carbon contained in the partly decomposed remains of plants on the surface and in the upper layers of the soil .
+a system that has the capacity to store or release carbon ,  in the form of the organic matter that is able to pass through a filter  ( filters generally range in size between 0 .7 and 0 .22 um ) 
+gross primary production  ( gpp )  minus autotrophic respiration  ( ar )  over one year .
+total carbon content of the living biomass  ( leaves + roots + wood ) 
+incident longwave radiation minus simulated outgoing longwave radiation  ( positive into grnd ) 
+vertically integrated soil moisture divided by maximum allowable soil moisture above wilting point
+near surface dry air co2 mole fraction  ( micromoles per mole ) 
+total respiration  ( totalresp=autoresp + heteroresp ,  always positive ) 
+absorbed fraction incoming photosyntetically active radiation
+near surface air temperature
+area of leaves per area ground
+surface pressure
+soil water content in each soil layer ,  including liquid ,  vapor and ice
+average soil temperature in each soil layer
+runoff from the landsurface and / or subsurface stormflow
+depth from soil surface to top of soil layer
+near surface wind magnitude
+total size of each carbon pool vertically integrated over the entire soil column
+depth from soil surface to layer prognostic variables ;  typically center of soil layer
+total water mass of snow pack ,  including ice and liquid water
+total soil and litter carbon content vertically integrated over the enire soil column
+autotrophic respiration rate  ( always positive ) 
+rainfall rate
+longwave albedo
+mstmip output: rate of photosynthesis  ( always positive ) 
+name of each carbon pool  ( i .e . ,  "wood , " or "coarse woody debris" ) 
+depth from soil surface to bottom of soil layer
+heterotrophic respiration rate  ( always positive ) 
+thaw depth ;  depth to zero centigrade isotherm in permafrost
+incident shortwave radiation minus simulated outgoing shortwave radiation  ( positive into grnd ) 
+total snow depth
+flux of carbon due to fires  ( always positive ) 
+surface incident longwave radiation
+total above ground wood biomass
+gravity soil water drainage and / or soil water lateral flow
+sensible heat flux into the boundary layer  ( positive into atmosphere ) 
+net ecosystem exchange  ( nee=heteroresp + autoresp - gpp ,  positive into atmosphere ) 
+shortwave albedo
+surface incident shortwave radiation
+sum of all evaporation sources  ( positive into atmosphere ) 
+latent heat flux into the boundary layer  ( positive into atmosphere ) 
+strawman definition from margaret: a field_method is a method for determining a component of primary production that involves observations or measurements of the real world .
+strawman definition from margaret a modeled_method  ( is simulated_method better? ) 
+peak_biomass_harvest_method is an estimate of above ground npp based on the above ground biomass harvested once ,  usually near the end of the growing season ,  at or just after the time of peak biomass
+the eddy covariance method is an atmospheric measurement technique to measure and calculate vertical turbulent fluxes within atmospheric boundary layers ,  and analyzes high - frequency wind and scalar atmospheric data series ,  to yield exchange rates  ( fluxes )  of trace gasses .
+the stoichiometry of phtotsynthesis is well known .
+a method determining the relationship between a physical or physiological property of an organism relative to the size of the organism .
+a lidar_method for npp is a methodology to predict the net primary production  ( npp )  from ground and lidar data
+simulation is the imitation of the operation of a real - world process or system over time .
+the process by which carbon dioxide in the atmosphere moves across a phase boundary e .g . ,  into the ocean ,  which is a major sink of atmospheric carbon dioxide .
+the pool of carbon oxoanions resulting from the removal of a proton from carbonic acid .
+a one - carbon compound in which the carbon is attached by single bonds to four hydrogen atoms .
+atmospheric carbon dioxide that has been converted into organic carbon compounds ,  usually by plants and algae via photosynthesis
+gas phase carbon dioxide molecules in the air surrounding earth .
+carbon dioxide that has passed from the gas phase into the dissolved phase ,  with the the ocean begin the largest component of this pool .
+a method of artificially raising the atmospheric co2 concentration in field plots in order to study effects on the ecosystem .
+gross primary productivity  ( gpp )  minus autotrophic respiration  ( ar )  in plant segments other than the roots ,  e .g .
+an organism that consists of only one cell
+an organism that consist of more than one cell
+functional levels defined here: http: /  / www .physicalgeography .net / fundamentals / 9d .html  maybe others .
+ecosystems are dynamic entities composed of the biological community and the abiotic environment .
+in ecology ,  a community is an assemblage of two or more populations of different species occupying the same geographical area .
+a population comprises all the individuals of a given species in a specific area or region at a certain time .
+an organism is a single individual .
+a group of interbreeding organisms that do not ordinarily breed with members of other groups .
+a liquid is a nearly incompressible fluid that conforms to the shape of its container but retains a  ( nearly )  constant volume independent of pressure .
+the rate at which carbon dissolves ,  moving from one pool to another .
+a one - carbon compound with formula co2 in which the carbon is attached to each oxygen atom by a double bond .
+carbon oxoanions that have formula co3 .
+carbon oxoanions resulting from the removal of a proton from carbonic acid .
+a one - carbon compound in which the carbon is joined only to a single oxygen .
+the carbon found in organic molecules .
+a system that has the capacity to store or release carbon that is either of a biologic origin or can be found or incorporated into a living organism .
+a system that has the capacity to store or release carbon ,  in the form of pieces of plant debris 0 .053–2 mm in size .
+carbon extracted from ores and minerals and not obtained from plants and living things .
+a component of a system that has the capacity to store or release carbon that is either of a non - biologic origin or cannot be found or incorporated into a living organism .
+a fixed carbon pool of the carbon found in living organisms ,  in a system with the capacity to store and release carbon through process inherent to those organisms .
+in botany ,  a tree is a perennial plant with an elongated stem ,  or trunk ,  supporting branches and leaves in most species .
+concentration of carbon in plant litter .
+a portion of organism substance that is or was part of a plant ,  the whole or part thereof .
+the autotrophic components of the plankton community and a key factor of oceans ,  seas and freshwater basin ecosystems .
+a test under controlled conditions that is made to demonstrate a known truth ,  examine the validity of a hypothesis ,  or determine the efficacy of something previously untried .
+observation of an ecological system of interest under specific ,  controllable circumstances in an effort to evaluate system response .
+a natural experiment is an empirical study in which individuals  ( or clusters of individuals )  exposed to the experimental and control conditions are determined by nature or by other factors outside the control of the investigators ,  yet the process governing the exposures arguably resembles random assignment .
+an operational term for photosynthetic ,  nonvascular plants that contain chlorophyll a nad have simple reproductive structures ,  and that are  visible to the unaided eye .
+the length of a straight line passing through the center of a circle and connecting two points on the circumference
+the circumference  ( from latin circumferentia ,  meaning "carrying around" )  of a closed curve or circular object is the linear distance around its edge .
+the measurement from base of something to top ,  or to a fixed point .
+concentration is the abundance of a constituent divided by the total volume of a mixture .
+from wikipedia: biomass ,  in ecology ,  is the mass of living biological organisms in a given area or ecosystem at a given time .
+the rate of transfer of a substance or energy across a given surface  in transport phenomena  ( heat transfer ,  mass transfer and fluid dynamics )  ,  flux is defined as the rate of flow of a property per unit area ,  which has the dimensions  [ quantity ] · [ time ] −1· [ area ] −1 .
+the perpendicular measurement downward from a surface
+chlorophyll a is a specific form of chlorophyll used in oxygenic photosynthesis .
+wetness caused by water
+a rate measurement is a quantity measured with respect to a second measured quantitiy .
+a concentration of organic carbon in some material .
+concentration of carbon dioxide in fresh water ,  a naturally occurring chemical compound is composed of a carbon atom covalently double bonded to two oxygen atoms
+the distance between the top and bottom or front and back surfaces of something
+a number of entities taken together as a unit because members share a common characteristic or relation
+near surface specific humidity
+concentration of carbon dioxide ,  a naturally occurring chemical compound is composed of a carbon atom covalently double bonded to two oxygen atoms
+soil carbon includes both inorganic carbon as carbonate minerals ,  and as soil organic matter present in soil
+the respiration rate of heterotrophic organisms  ( animals and microbes )  summed per unit area and time ,  and occuring in soil .
+a net primary production measurement which is measured in a grassland and only measures plant segments other than the roots ,  e .g .
+the process of carbon fixation by autotrophic phytoplankton per unit area or volume and time .
+the total inorganic carbon or dissolved inorganic carbon  ( dic )  is the sum of inorganic carbon species in a solution in sea water .
+the rate at which a carbon dioxide  ( co2 )  moves to or from a particular component of the ecosystem per unit time .
+a carbonate concentration which is comprised of bicarbonate .
+a concentration of inorganic carbon occurring in water .
+the process of increasing in physical size ,  mass or number ,  gradually and irreversibly .
+tree height is the vertical distance between the base of the tree and the highest sprig at the top of the tree .
+gross primary production  ( gpp )  minus autotrophic respiration  ( ar )  by marine macroalgae .
+a flux of carbon across the surface of the ocean ,  per unit area .
+diameter of a tree .often measured at a specified ,  average distance from the ground ,  eg 4 .5 ft  ( or average person's breast height )  .
+distance around the tree ,  often a specified ,  average distance from the ground ,  eg 4 .5 ft  ( or average person's breast height )  .
+p is a process = def .
+tree growth is computed from sequential measurements of a tree that often depend on the species and its form .
+the plant ,  animal ,  or other material containing the chemical of interest is not dried to remove water .
+domain protocol for measuring the diameter of a tree .
+ash - free dry weight is used as an index for percent organic carbon in the quantified substrate .
+biomass ,  in ecology ,  is the mass of living biological organisms in a given area or ecosystem at a given time .
+biomass ,  in ecology ,  is the mass of living biological organisms per unit area at a given time .
+a linear measurement assigns a numerical value for the length of an object or between objects .
+a length quality which is equal to the length of any straight line segment that passes from the center of a circle to any endpoint on the circular boundary .
+the weight of biological material dried at 105 °c until no further water loss takes place .
+chlorophyll is a term used for several closely related green pigments found in cyanobacteria and the chloroplasts of algae and plants .
+concentration of carbonate ,  which is a salt of carbonic acid characterized by the presence of the carbonate ion ,  co3 2 -   ( one carbon atom ,  three oxygen atoms negative 2 charge ) 
+concentration of carbonate ,  which is a salt of carbonic acid characterized by the presence of the carbonate ion ,  co2−3
+concentration of bicarbonate in freshwater serves a crucial biochemical role in the physiological ph buffering system .
+a very large group of microorganisms comprising one of the three domains of living organisms .
+any of numerous groups of chlorophyll - containing ,  mainly aquatic eukaryotic organisms ranging from microscopic single - celled forms to multicellular forms 100 feet  ( 30 meters )  or more long ,  distinguished from plants by the absence of true roots ,  stems ,  and leaves and by a lack of nonreproductive cells in the reproductive structures: classified into the six phyla euglenophyta ,  crysophyta ,  pyrrophyta ,  chlorophyta ,  phaeophyta ,  and rhodophyta .
+dissolved organic carbon  ( doc )  is defined as the organic matter that is able to pass through a filter  ( filters generally range in size between 0 .7 and 0 .22 um )  .
+particulate organic carbon  ( poc )  ,  or particulate organic matter  ( pom )  is that organic matter suspended in water ,  and that is not able to pass through a filter  ( filters generally range in size between 0 .7 and 0 .22 um )  .
+defined by the plant ontology as a plant structure  ( po:0005679 )  which is a whole organism .
+a layer which is part of soil .
+in environments containing permafrost ,  the active layer is the top layer of soil that thaws during the summer and freezes again during the autumn .
+concentration of carbon in soil ,  which could include all forms  ( eg ,  inorganic carbon ,  carbonate minerals ,  and as soil organic matter )  .
+concentration of dissolved organic carbon  ( doc )  within aquatic systems
+concentration of carbon in particulate form that is too large to pass through a filter in aquatic environments
+soil organic content proportion is the fractional amount of all organic matter components of soil ,  relative to a measurement of the total .
+concentration of co2 in the earth's atmosphere
+the rate at which methane moves to or from a particular component of the ecosystem per unit area ,  time .
+the number of moles of a component divided by the total number of moles of a solution .
+a mole fraction measurement with moles of carbon dioxide in the numerator .
+a carbon flux which is the rate at which carbon monoxide moves to or from a particular component of the ecosystem per unit area and time .
+a carbon compound concentration which consists of methane .
+a mole fraction of carbon dioxide measurement with the numerator being moles of carbon dioxide and the denominator being the total number of moles of air .
+ratio of the mass of a substance to the total mass of a mixture .
+ratio of the mass of carbon dioxide to the total mass of a mixture .
+a mass fraction of carbon dioxide as measured by a li - cor co2 analyzer .
+the volume occupied by a mole of a substance moles / volume
+the volume occupied by a mole of carbon dioxide gas .
+any contrast of two quantities ,  one with another -  -  e .g .
+concentration of dissolved inorganic carbon  ( dic )   ,  which is a broad classification for inorganic molecules of varied origin and composition within aquatic systems .
+a carbon dioxide partial pressure measurement measured at the sea surface .
+a partial pressure measurement of carbon dioxide gas .
+a concentration of inorganic carbon .
+a partial pressure measurement of methane gas .
+a carbon concentration which consists of black carbon .
+the per mille depletion in sample carbon 14 prior to isotopic fractionation correction .
+a stable carbon isotope ratio ,  which is a measure of the ratio of stable isotopes 13c and 12c .
+electromagnetic radiation is the radiant energy released by certain electromagnetic processes .
+the quotient obtained when the magnitude of a part is divided by the magnitude of the whole ,  or the ratio obtained in the contrast of two values ,  where the value of the numerator is added together with that of the contrasting value in the denominator
+sunlight is a portion of the electromagnetic radiation given off by the sun ,  in particular infrared ,  visible ,  and ultraviolet light .
+temperature is measured with thermometers that may be calibrated to a variety of temperature scales .
+the rate at which a mass or amount of carbon moves to or from a particular component across a surface of the ecosystem per unit time .
+radiative flux is the amount of power radiated through a given area in the form of photons or other elementary particles ,  typically measured in w / m2 .
+in momentum transfer ,  the fluid is treated as a continuous distribution of matter .
+mass of the ash remaining from combustion of a dried sample ,  thus the inorganic content .
+nitrogen fixation is a process in which nitrogen  ( n2 )  in the atmosphere is converted into ammonia  ( nh3 )  .
+soil bulk density is a property used in reference to mineral components  ( soil ,  gravel )  defined as the mass of many particles of the material divided by the total volume they occupy .
+the total amount or weight ,  or energy content ,  of  ( a portion of )  organisms existing in a specific area at a particular time below a ground surface .
+water content can be directly measured using a known volume of the material ,  and a drying oven .
+in a combustion analyzer ,  half of the sample is injected into a chamber where it is acidified ,  usually with phosphoric acid ,  to turn all of the inorganic carbon into carbon dioxide .
+biomass is organic matter derived from living ,  or recently living organisms .
+ammonium  ( nh4 )  is the form of ammonia  ( nh3 )  typically found in water  ( aquatic environments ,  soil porewater )  .
+area is the quantity that expresses the extent of a two - dimensional figure or shape ,  or planar lamina ,  in the plane .
+concentration of material derived from decaying vegetation ,  bacterial growth ,  and metabolic activities of living organisms or chemicals
+concentration is the abundance of a constituent divided by the total volume of a mixture .
+an aquatic inorganic carbon concentration which is the sum of inorganic carbon species in a solution in freshwater .
+the rate of increase of dry weight per unit of leaf area
+concentration of dissolved organic carbon  ( doc )   ,  which is a broad classification for organic molecules of varied origin and composition within aquatic systems .
+concentration of carbonate in sea water ,  which is a salt of carbonic acid characterized by the presence of the carbonate ion ,  co2−3
+proportion of a sample that is carbon ,  normalized to a denominator of 100 .
+a carbon accumulation rate for carbon expressed relative to the amount of carbon originally present .
+carbon respiration  ( also called carbon emissions and carbon releases )  is used in combination with carbon fixation to gauge carbon flux  ( as co2 )  between atmospheric carbon and the global carbon cycle .
+concentration of total organic carbon  ( toc )  is the concentration of amount of carbon found in an organic compound
+concentration of bicarbonate in sea water serves a crucial biochemical role in the physiological ph buffering system .
+concentration of carbon dioxide in sea water ,  a naturally occurring chemical compound is composed of a carbon atom covalently double bonded to two oxygen atoms
+change in carbon percentage of vegetation ,  which are assemblages of plant species and the ground cover they provide .
+soil carbon change percentage includes change of both inorganic carbon as carbonate minerals ,  and as soil organic matter .
+the total amount or weight ,  or energy content ,  of  ( a portion of )  organisms existing in a specific area at a particular time .
+the rate ,  or speed ,  at which the number of organisms in a population increases .
+net primary production is the synthesis of organic compounds from atmospheric or aqueous carbon dioxide accountig for losses to processes such as cellular respiration .
+carbon - to - nitrogen ratio is a ratio of the mass of carbon to the mass of nitrogen in a substance .
+the biomass is not dried to remove water .
+height of transpiration is the process of water movement through a plant and its evaporation from aerial parts ,  such as leaves ,  stems and flowers .
+counting is the action of finding the number of elements of a finite set of objects .
+an isotopic signature is a ratio of non - radiogenic 'stable isotopes' ,  stable radiogenic isotopes ,  or unstable radioactive isotopes of particular elements in an investigated material .
+amount of carbon present in biomass
+total amount of nitrogen  ( usually mass )  per volume of soil
+percentage of a sample that is nitrogen
+biomass excluding non - plants per unit area at a given time .
+biomass excluding non - plants
+biomass excluding plants per unit area at a given time .
+biomass excluding plants
+the dry mass of a biomass sample or of an object when completely dried  ( lacks or excluding water )  .
+a selected subset of a population over the extent of a surface ;  a sample may be random or nonrandom ;  representative or nonrepresentative
+the weight of dry biomass matter when completely dried  ( lacks or excluding water )  .
+leaf area index  ( lai )  is a dimensionless quantity that characterizes plant canopies .
+an identifier is a name that identifies  ( that is ,  labels the identity of )  either a unique object or a unique class of objects ,  where the "object" or class may be an idea ,  physical  [ countable ]  object  ( or class thereof )  ,  or physical  [ noncountable ]  substance  ( or class thereof )  .
+ph of water is based on a numeric scale used to specify the acidity or basicity of an aqueous solution .
+number density is an intensive quantity used to describe the degree of concentration of countable objects in a given physical space .
+the potential temperature of a parcel of fluid at pressure is the temperature that the parcel would acquire if adiabatically brought to a standard reference pressure ,  usually 1000 millibars .
+rate of precipitation ,  which is any product of the condensation of atmospheric water vapor that falls under gravity .
+water vapor ,  water vapour or aqueous vapor ,  is the gaseous phase of water .
+salinity is the saltiness or dissolved salt content of a body of water  ( see also soil salinity )  .
+concentration of soil salinity ,  the salt content in the soil ;  the process of increasing the salt content is known as salinization .
+the density ,  or more precisely ,  the volumetric mass density of biomass per unit volume .
+the quantity ,  amount ,  weight ,  etc or things in a given area or space ,  ie ,  where the numerator and denominator are different entities .
+number of non - plant material entities  ( i .e .
+number of plant material entities  ( i .e .
+number of built feature entities  ( i .e .
+mass of undecomposed biomass material found on the forest floor per unit area at a given time .
+height of tides ,  which are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted by the moon and the sun and the rotation of the earth .
+height of sea level ,  which is generally used to refer to mean sea level  ( msl )  ,  an average level for the surface of one or more of earth's oceans from which heights such as elevations may be measured .
+height of water ,  which is a transparent fluid which forms the world's streams ,  lakes ,  oceans and rain ,  and is the major constituent of the fluids of organisms .
+the wave height of a surface wave is the difference between the elevations of a crest and a neighbouring trough .
+length of an entity that is not a plant  ( i .e .
+soil is not dried to remove water .
+mass of nitrogen in biomass per unit area at a given time .
+the total mass per area of all carbon in living material in a specific area ,  habitat ,  or region .
+interval of time representing duration of observation
+the dry matter of a sample or of an object when completely dried  ( lacks or excluding water )  per area
+pressure is the force applied perpendicular to the surface of an object per unit area over which that force is distributed .
+atmospheric pressure ,  sometimes also called barometric pressure ,  is the pressure exerted by the weight of air in the atmosphere of earth  ( or that of another planet )  .
+pressure of seawater ,  or salt water ,  which is water from a sea or ocean .
+counting entities within a sample is the action of finding the number of elements of a finite set of entities constrained within a sample .
+counting entities is the action of finding the number of elements of a finite set of entities .
+the abundances of plant species are often measured by plant cover ,  i .e .
+crown cover is the proportion of a stand covered by the crowns of live trees .
+percentage cover of canopy ,  which is the aboveground portion of a plant community or crop ,  formed by the collection of individual plant crowns
+a name is a term used for identification .
+a data sample is a set of data collected and / or selected from a statistical population about entities by a defined procedure .
+an area ,  such as a quadrat sample ,  can be used to measure the percentage cover of an entity ,  such as a certain species
+a carbon accumulation rate expressed relative to the amount of carbon originally present  ( e .g ,  carbon produced per carbon present )  .
+percentage of plant cover ,  which is the relative area covered by different plant species in a small plot .
+the density ,  or more precisely ,  the volumetric mass density ,  of a substance is its mass per unit volume .
+the density ,  or more precisely ,  the volumetric mass density ,  of a substance is a characteristic ,  such as mass or count ,  per unit volume .
+the density ,  or more precisely ,  the volumetric mass density of biomass per unit volume .
+the density ,  or more precisely ,  the volumetric count density of entities per unit volume .
+abundance of a constituent divided by the total volume of a mixture ,  or concentration ,  of biomass ,  which is organic matter derived from living ,  or recently living organisms
+depth of water ,  which is a transparent fluid which forms the world's streams ,  lakes ,  oceans and rain ,  and is the major constituent of the fluids of organisms .
+depth in a sea ,  which is a large body of salt water that is surrounded in whole or in part by land .
+depth of snow ,  which is precipitation in the form of flakes of crystalline water ice that falls from clouds
+depth of a lake ,  which is an area of variable size filled with water ,  localized in a basin ,  that is surrounded by land ,  apart from any river or other outlet that serves to feed or drain the lake .
+depth of soil ,  which is a mixture of minerals ,  organic matter ,  gases ,  liquids ,  and countless organisms that together support life on earth .
+the disc is mounted on a pole or line ,  and lowered slowly down in the water .
+the depth of dead plant material ,  such as leaves ,  bark ,  needles ,  and twigs ,  that have fallen to the ground .
+in environments containing permafrost ,  the active layer is the top layer of soil that thaws during the summer and freezes again during the autumn .
+net primary production  ( npp )  flux that relative to another mass  ( or other measurement of amount ,  eg ,  leaf area ,  plant wet weight )  that primary producers create in a given length of time over a given area  net primary production flux is the rate at which all the plants in an ecosystem produce net useful chemical energy ,  in this case ,   relative to another mass  ( usually of the same plant ) 
+depth of a stream ,  which is a body of water with a current ,  confined within a bed and banks .
+depth of groundwater  ( or ground water )  ,  which is the water present beneath earth's surface in soil pore spaces and in the fractures of rock formations .
+diameter of the crown of a tree ,  which consists of the mass of foliage and branches growing outward from the trunk of the tree .
+diameter of the canopy ,  which is the aboveground portion of a plant community or crop ,  formed by the collection of individual plant crowns
+ground heat flux is the process where heat energy is transferred from the earth’s surface to the subsurface of the earth via conduction .
+a tag number provides an alphanumeric string of characters to refer to an entity .
+latent heat flux is the flux of heat from the earth's surface to the atmosphere that is associated with evaporation of water at the surface and subsequent condensation of water vapor in the troposphere .
+height of the canopy ,  which is the aboveground portion of a plant community or crop ,  formed by the collection of individual plant crowns
+height of the crown of a tree ,  which consists of the mass of foliage and branches growing outward from the trunk of the tree .
+height of a physical entity that is a plant or part of a plant  ( i .e .
+height of precipitation ,  which is any product of the condensation of atmospheric water vapor that falls under gravity .
+pressure of carbon dioxide gas ,  which is composed of a carbon atom covalently double bonded to two oxygen atoms .
+objective comparative measure of hot or cold of air
+objective comparative measure of hot or cold of water in sea
+objective comparative measure of hot or cold of water
+objective comparative measure of hot or cold of peat
+objective comparative measure of hot or cold of ground
+objective comparative measure of hot or cold of soil
+objective comparative measure of hot or cold of water in lake
+gross primary production  ( gpp )  flux that relative to another mass  ( or other measurement of amount ,  eg ,  leaf area ,  plant wet weight )  that primary producers create in a given length of time over a given area
+the speed of wind is the rate of change of its position with respect to a frame of reference ,  and is a function of time .
+the velocity of water is the rate of change of its position with respect to a frame of reference ,  and is a function of time .
+the velocity of sea water is the rate of change of its position with respect to a frame of reference ,  and is a function of time .
+volume is the quantity of three - dimensional space enclosed by a closed surface ,  for example ,  the space that a substance  ( solid ,  liquid ,  gas ,  or plasma )  or shape occupies or contains .
+volume of precipitation ,  which is any product of the condensation of atmospheric water vapor that falls under gravity
+width of a physical abiotic entity  ( i .e .
+weight of soil dried at 105 °c until no further water loss takes place
+mass is a property of a physical body .
+the concentration of chlorophyll ,  which are related green pigments found in cyanobacteria and the chloroplasts of algae and plants .
+concentration of oxygen ,  which is a chemical element that is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms oxides with most elements as well as other compounds
+concentration of pheophytin ,  which is  chemical compound that serves as the first electron carrier intermediate in the electron transfer pathway of photosystem ii  ( ps ii )  in plants ,  and the photosynthetic reaction center  ( rc p870 )  found in purple bacteria
+flux where the units of the numerator include mass and units of the denominator include mass  ( or some other measurement of 'amount' ,  eg leaf area )  in addition to flux units of area and time
+ecosystem respiration flux is the respiration occurring by the living organisms in a specific ecosystem over a given area ,  relative to some other measure of those organisms .
+an absorbance measurement of the optically measurable component of dissolved organic matter in water .
+an absorbance measurement type which is the absorbance of ultraviolet light in a water sample at a specified wavelength normalized for a dissolved organic carbon concentration .
+a carbon isotope ratio which consists of radioactive carbon  ( 14c )  .
+the proportion of different carbon isotopes in a sample .
+a mineralization rate in which organic carbon is transformed into inorganic forms .
+a temporal rate in which an organic material is transformed into inorganic material .
+an air temperature which is measured by a thermometer freely exposed to the air but shielded from radiation and moisture .
+an air temperature which is measured by a thermometer covered in water - soaked cloth .
+a water temperature which inheres in water close to the surface of an ocean or sea .
+a temperature which is measured in lake sediment .
+a type of measurement which measures an electrolyte solution's ability to conduct electricity .
+an air moisture measurement which is the ratio of the partial pressure of water vapor and equilibrium vapor pressure of water at a given temperature .
+a measurement of shear stress rewritten as a velocity .
+a temperature which is of water ice .
+a pressure measurement which is the pressure of a constituent gas in a mixture of gases if it alone occupied the entire volume of the mixture at the same temperature .
+a latent heat flux without a correction for storage .
+a latent heat flux with a correction for storage .
+the spectral range of solar radiation from 400 to 700 nanometers that organisms are able to use for photosynthesis .
+a pressure measurement which is the amount of water vapor in a volume of air and increases as the amount of water vapor increases .
+a measurement of the perceived power of light .
+a flux measurement which is divided by the average air density .
+an air pressure measurement which is the average atmospheric pressure for a location at sea level .
+a temperature to which air must be cooled to become saturated with water vapor .
+an atmospheric pressure measurement which is measured at a location on the earth's surface .
+a concentration of the amount of oxygen present in water .
+a stable oxygen isotope ratio which is the ratio of oxygen 18 and oxygen 16 .
+a radiative flux which is the conductive heat flux from the earth's surface to the atmosphere .
+a measurement of the gradual loss of flux intensity through a medium .
+a stable nitrogen isotope ratio of nitrogen 15 to nitrogen 14 .
+the depth of water contained within a snowpack if the snowpack were melted instantly .
+a total luminous flux which is incident on a surface ,  per unit area .
+a temperature measurement of a surface of a body if it were not warmed by its own atmosphere .
+an incoming shortwave radiation flux which is composed of ultraviolet ,  visible ,  and a limited portion of infrared energy from the sun .
+a carbon percentage ,  which is measured in a sample of lake sediment .
+a flux measurement which is the rate at which nitrous oxide moves to or from a particular component of the ecosystem per unit area and time .
+a stable hydrogen isotope ratio of hydrogen 2 to hydrogen 1 .
+a carbon isotope ratio which is the ratio of c14 to c12 in the sample and the ratio of c14 and c12 in modern carbon .
+a ratio measurement which is the difference between the amount of moisture in the air and the amount of moisture the air can hold when it is saturated .
+a temperature measurement of a canopy .
+a blackbody temperature when the blackbody is in thermal equilibrium with its surroundings .
+a freshwater total inorganic carbon concentration ,  which is composed of dissolved inorganic carbon .
+an oceanic total inorganic carbon concentration ,  which is composed of dissolved inorganic carbon .
+an age measurement which is determined by radiocarbon dating .
+the weight of a sample's empty container .
+a temperature measurement of a cloud top .
+a measurement type which contains variables ordered into categories and the distances between the categories are not known .
+an indication of whether sea ice was present .
+the mass of a soil sample .
+periphyton is a complex mixture of algae ,  cyanobacteria ,  heterotrophic microbes ,  and detritus that is attached to submerged surfaces in most aquatic ecosystems .
+a respiration carbon flux which is not light dependent and may occur in the dark or light .
+the biomass of plant roots in a sample .
+a temporal rate which is the decay rate of a radioactive carbon isotope  ( c14 )  .
+a temperature measurement of a leaf .
+the biomass of leaves in a sample .
+the ratio of amounts of odd - carbon n - alkanes to even - carbon n - alkanes .
+"organic content" is the organic matter component of another entity ,  e .g . ,  soil .
+ [ soil organic content  ]  is a measurement of the total organic components of soil ,  measured as mass .
+an air temperature measured close to the surface of the earth .
+a depth which an iceberg extends below the waterline .
+a measurement that quantifies how strongly a material resists or conducts electric current .
+the rate of carbon dioxide entering or water vapor exiting through the stomata of a leaf .
+an operational definition used to classify a group of closely related individuals .
+a temperature measurement of a cloud base .
+a large and usually abiotic store of a nutrient in a biogeochemical cycle that has the capacity to both take in and release a nutrient .
+calcium carbonate is a chemical compound with the formula caco₃ .
+calcium carbonate is found in both geologic and biologic settings and constitutes an enormous carbon reservoir .
+photosynthetically active radiation ,  often abbreviated par ,  designates the spectral range  ( wave band )  of solar radiation from 400 to 700 nanometers that photosynthetic organisms are able to use in the process of photosynthesis .
+infrared  ( ir )  is invisible radiant energy ,  electromagnetic radiation with longer wavelengths than those of visible light ,  extending from the nominal red edge of the visible spectrum at 700 nanometers  ( frequency 430 thz )  to 1 mm  ( 300 ghz )  .
+ultraviolet  ( uv )  light is an electromagnetic radiation with a wavelength from 10 nm  ( 30 phz )  to 380 nm  ( 750 thz )  ,  shorter than that of visible light but longer than x - rays .
+snow is an environmental material which is primarily composed of flakes of crystalline water ice .
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+b is a generically dependent continuant = def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+a material entity which determines an environmental system .
+a portion of environmental material is a fiat object which forms the medium or part of the medium of an environmental system .
+environmental material derived from living organisms .
+a layer is a quantity of some material which is spatially continuous ,  has comparable thickness ,  and usually covers some surface .
+a material part of an astronomical body .
+a process in which includes the components of an environmental system as participants .
+an process in which environmental parameters and variables are continually assayed .
+a monitoring process that assays the level of environmental pollutants to determine the presence of effect of environmental pollution .
+a physical process during which atoms ,  molecules ,  or other consituents of a material entity are forced closer together .
+a compaction process during which a material entity subjected to heat and / or pressure is compacted into a solid mass without undergoing melting .
+a measurement type that assigns a unit of observation to a particular group based on some qualitative property .
+a material entity consisting of multiple components that are causally integrated .
+organic compounds  ( woody debris made of lignin and cellulose )  have very high toc:tn ratios and are highly resistant to degradation
+organic matter with low toc:tn ratios  ( e .g .
+a graphical indicator used to analyze remote sensing measurements to determine the density of green on an area of land .
+the total amount of water  ( unfrozen water  +  ice )  contained in soil or rock
+the mixing of materials from various horizons of the soil down to the bedrock due to freezing and thawing in permafrost soils
+the cumulative number of degree - days when air temperatures are above zero degrees celsius
+a dimensionless ratio of the rate of thaw to the rate of consolidation of the thawing soil ,  which is considered to be a measure of the relative rates of generation and expulsion of excess pore fluids during thaw
+the number of h +  ions replaced by 1 mole of acid in a reaction
+the top layer of ground subject to annual thawing and freezing in areas underlain by permafrost
+a layer of ground ,  now perennially frozen ,  lying immediately below the modern active layer .
+a general term referring to several forms of slope failures or failure mechanisms commonly occurring in areas underlain by permafrost
+the process by which two objects are bonded together by ice formed between them during the freezing of water .
+the combination of thermophysical ,  physico - chemical and physicomechanical processes occurring in freezing ,  frozen and thawing earth materials .
+a bed of low permeability along an aquifer
+a layer of ground which ,  because of its frozen state ,  has a low enough permeability to act as a confining bed for an underlying aquifer .
+in international materials science ,  this term refers to temperatures generally below  - sooe ,  but usually to temperatures within a few degrees of absolute zero  (  - 273°c )  .
+a layer of unfrozen ground that is perennially cryotic  ( forming part of the permafrost )  ,  in which freezing is prevented by freezing - point depression due to the dissolved - solids content or the pore water
+forms the basal portion of the permafrost
+entirely surrounded by perennially frozen ground
+found in coastal or subsea perennially frozen ground .
+the minimum distance between the ground surface and frozen groundat any time during the thawing season
+the distance from the ground surface downward to the level beneath which there is practically no annual fluctuation in ground temperature
+a slope failure in which the thawed or thawing active layerand vegetation mat detach from the underlying frozen material
+refreezing of thawed materials .
+the cumulative number of degree - days below o°c for a given time period .
+calculated from the mean monthly air temperatures for a specific station without making corrections for positive degree - days  ( above doc )  in spring and fall
+calculated as the arithmetic sum of all the negative and positive mean daily air temperatures  ( dc )  for a specific station during the time period between the highest point in the fall and the lowest point the next spring on the cumulative degree - day time curve
+calculated by taking the average of the seasonal freezing indices for the three coldest winters in the most recent 30 years of record .
+the number of degrees by which the freezing point of an earth material is depressed below 0 degrees c .
+the positive  ( heaving )  pressure developed at ice - water interfaces in a soil as it freezes
+the occurrenceof ground temperatures below o°c for only part of the year
+the process of alternate freezing and thawing of moisture in soil ,  rock and other materials ,  and the resulting effects on materials and on structures placed on ,  or in ,  the ground .
+a feature associated with permafrost  ( soil at or below the freezing point of water  ( 0c or 32f )  for two or more years )  .
+a seasonal frost mound produced through doming of seasonally frozen ground by a subsurface accumulation of water under high hydraulic potential during progressive freezing of the active layer .
+the upward or outward movement of the ground surface  ( or objects on ,  or in ,  the ground )  caused by the formation of ice in the soil
+cumulative upward displacement of objects embedded in the ground ,  caused by frost action
+any mound - shaped landform produced by ground freezing combined with groundwater movement or the migration of soil moisture .

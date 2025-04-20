@@ -1,0 +1,666 @@
+representation of an entity used in a systems biology knowledge reconstruction ,  such as a model ,  pathway ,  network .
+mathematical description that relates quantities of reactants to the reaction velocity .
+a numerical value that defines certain characteristics of systems or system functions .
+the function of a physical or conceptual entity ,  that is its role ,  in the execution of an event or process .
+set of assumptions that underlay a mathematical description .
+the description of a system in mathematical terms .
+a numerical value that represents the amount of some entity ,  process or mathematical function of the system .
+the 'kind' of entity involved in some process ,  action or reaction in the system .
+basic assumptions that underlie a mathematical model .
+numerical parameter that quantifies the velocity of a chemical reaction .
+substance consumed by a chemical reaction .
+substance that is produced in a reaction .
+the law of mass action ,  first expressed by waage and guldberg in 1864  ( waage ,  p . ;  guldberg ,  c . m . forhandlinger: videnskabs - selskabet i christiana 1864 ,  35 )  states that the speed of a chemical reaction is proportional to the quantity of the reacting substances .
+substance that accelerates the velocity of a chemical reaction without itself being consumed or transformed .
+a protein that catalyzes a chemical reaction .
+molecule which is acted upon by an enzyme .
+numerical parameter that quantifies the velocity of a chemical reaction involving only one reactant . \ n
+numerical parameter that quantifies the velocity of a chemical reaction involving two reactants .
+numerical parameter that quantifies the velocity of a chemical reaction involving three reactants . \ n
+substance that changes the velocity of a process without \ nitself being consumed or transformed by the reaction .
+substance that decreases the probability of a chemical reaction without itself being consumed or transformed by the reaction .
+substance that increases the probability of a chemical reaction without \ nitself being consumed or transformed by the reaction .
+numerical parameter that quantifies the forward velocity of a chemical \ nreaction involving only one reactant .
+numerical parameter that quantifies the forward velocity of a chemical reaction involving two reactants .
+numerical parameter that quantifies the forward velocity of a chemical \ nreaction involving three reactants .
+numerical parameter that quantifies the velocity of an enzymatic reaction .
+substrate concentration at which the velocity of reaction is half its maximum .
+kinetics of enzymes that react only with one substance ,  their substrate .
+first general rate equation for reactions involving enzymes ,  it was presented in  \ "victor henri .
+rate - law presented in  \ "donald d . van slyke and glenn e . cullen .
+the briggs - haldane rate law is a general rate equation that does not require the restriction of equilibrium of henri - michaelis - menten or irreversible reactions of van slyke ,  but instead make the hypothesis that the complex enzyme - substrate is in quasi - steady - state .
+numerical parameter that quantifies the reverse velocity of a chemical reaction involving only one product .
+numerical parameter that quantifies the reverse velocity of a chemical reaction involving only one product .
+numerical parameter that quantifies the reverse velocity of a chemical reaction involving three products .
+numerical parameter that quantifies the forward velocity of a chemical reaction involving only one reactant .
+numerical parameter that quantifies the forward velocity of a chemical reaction involving two reactants .
+numerical parameter that quantifies the forward velocity of a chemical reaction involving three reactants .
+numerical parameter that quantifies the reverse velocity of a chemical reaction involving only one product .
+numerical parameter that quantifies the reverse velocity of a chemical reaction involving only one product .
+numerical parameter that quantifies the reverse velocity of a chemical reaction involving three products .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+numerical parameter that quantifies the velocity of a chemical reaction independant of the reactant quantities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+numerical parameter that quantifies the forward velocity of a chemical reaction independant of the reactant quantities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+modelling approach where the quantities of participants are considered continuous ,  and represented by real values .
+modelling approach where the quantities of participants are considered discrete ,  and represented by integer values .
+formal representation of a calculus linking parameters and variables of a model .
+numerical parameter that quantifies the forward velocity of a chemical reaction independant of the reactant quantities .
+numerical parameter that quantifies the forward velocity of a chemical reaction involving only one reactant .
+numerical parameter that quantifies the forward velocity of a chemical reaction involving two reactants .
+numerical parameter that quantifies the forward velocity of a chemical reaction involving three reactants .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+temperature is the physical property of a system which underlies the common notions of  \ "hot \ " and  \ "cold \ " ;  the material with the higher temperature is said to be hotter .
+quantity resulting from the difference between two thermodynamic temperatures .
+number of molecules which are acted upon by an enzyme .
+kinetics of enzymes that react with one or several substances ,  their substrates ,  that bind independently .
+kinetics of enzymes that react with two substances ,  their substrates ,  that bind independently .
+kinetics of enzymes that react with three substances ,  their substrates ,  that bind independently .
+numerical parameter that quantifies the forward velocity of a chemical reaction .
+numerical parameter that quantifies the forward velocity of a chemical reaction .
+numerical parameter that quantifies the forward velocity of a chemical reaction .
+numerical parameter that quantifies the forward velocity of a chemical reaction .
+number of different substances consumed by a chemical reaction .
+the order of a reaction with respect to a certain reactant is defined as the power to which its concentration term in the rate equation is raised .
+numerical parameter that quantifies the velocity of a chemical reaction where reactants have non - integral orders .
+numerical parameter that quantifies the forward velocity of a chemical reaction where reactants have non - integral orders .
+numerical parameter that quantifies the reverse velocity of a chemical reaction where products have non - integral orders .
+numerical parameter that quantifies the forward velocity of a chemical reaction independant of the reactant quantities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+an event involving one or more physical entities that modifies the structure ,  location or free energy of at least one of the participants .
+modification of the execution of an event or a process .
+negative modulation of the execution of a process .
+positive modulation of the execution of a process .
+control that is necessary to the execution of a process .
+modification of the velocity of a reaction by lowering the energy of the transition state .
+all the preceding events or participating entities are necessary to perform the control .
+any of the preceding events or participating entities are necessary to perform the control .
+only one of the preceding events or participating entities can perform the control at one time .
+an event involving one or more chemical entities that modifies the electrochemical structure of at least one of the participants . \ n
+interaction between several biochemical entities that results in the formation of a non - covalent complex
+rupture of a covalent bond resulting in the conversion of one physical entity into several physical entities .
+complete disappearance of a physical entity .
+transformation of a non - covalent complex that results in the formation of several independent biochemical entities
+biochemical reaction that does not result in the modification of covalent bonds of reactants ,  but rather modifies the conformation of some reactants ,  that is the relative position of their atoms in space .
+biochemical reaction that results in the modification of some covalent bonds .
+process through which a dna sequence is copied to produce a complementary rna .
+process in which a polypeptide chain is produced from a messenger rna .
+movement of a physical entity without modification of the structure of the entity .
+limiting maximal velocity of an enzymatic reaction ,  reached when the substrate is in large excess and all the enzyme is complexed . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n    < lambda >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000505 \ " > et <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000025 \ " > kcat <  / ci >  <  / bvar >  \ n      < apply >  \ n        < times /  >  \ n          < ci > et <  / ci >  \ n          < ci > kcat <  / ci >  \ n      <  / apply >  \ n    <  / lambda >  \ n <  / math > 
+version of henri - michaelis - menten equation where kp* \  [ e \  ] t is replaced by the maximal velocity ,  vmax ,  reached when all the enzyme is active .
+a number of objects of the same type ,  identical or different ,  involved in a biochemical event .
+number of regions on a reactant to which specific other reactants ,  in this context collectively called ligands ,  form a chemical bond .
+empirical parameter created by archibald vivian hill to describe the cooperative binding of oxygen on hemoglobine  ( hill  ( 1910 )  .
+empirical constant created by archibald vivian hill to describe the cooperative binding of oxygen on hemoglobine  ( hill  ( 1910 )  .
+empirical equation created by archibald vivian hill to describe the cooperative binding of oxygen on hemoglobine  ( hill  ( 1910 )  .
+constant with the dimension of a powered concentration .
+dissociation constant equivalent to an intrinsic microscopic dissociation constant ,  but obtained from an averaging process ,  for instance by extracting the root of a hill constant .
+hill equation rewritten by creating a pseudo - microscopic constant ,  equal to the hill constant powered to the opposite of the hill coefficient . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n < semantics definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000062 \ " >  \ n    < lambda >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000186 \ " > vmax <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000509 \ " > r <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000194 \ " > k <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000190 \ " > h <  / ci >  <  / bvar >  \ n      < apply >  \ n        < divide /  >  \ n        < apply >  \ n          < times /  >  \ n          < ci > vmax <  / ci >  \ n          < apply >  \ n            < power /  >  \ n            < ci > r <  / ci >  \ n            < ci > h <  / ci >  \ n          <  / apply >  \ n        <  / apply >  \ n        < apply >  \ n          < plus /  >  \ n          < apply >  \ n            < power /  >  \ n            < ci > k <  / ci >  \ n            < ci > h <  / ci >  \ n          <  / apply >  \ n          < apply >  \ n            < power /  >  \ n            < ci > r <  / ci >  \ n            < ci > h <  / ci >  \ n          <  / apply >  \ n        <  / apply >  \ n      <  / apply >  \ n    <  / lambda >  \ n <  / semantics >  \ n <  / math > 
+the amount of an entity per unit of volume .
+concentration of an object divided by the value of another parameter having the dimension of a concentration .
+hill equation rewritten by replacing the concentration of reactant with its reduced form ,  that is the concentration divide by a pseudo - microscopic constant ,  equal to the hill constant powered to the opposite of the hill coefficient . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n < semantics definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000062 \ " >  \ n    < lambda >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000186 \ " > vmax <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000509 \ " > r* <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000190 \ " > h <  / ci >  <  / bvar >  \ n      < apply >  \ n        < divide /  >  \ n        < apply >  \ n          < times /  >  \ n          < ci > vmax <  / ci >  \ n          < apply >  \ n            < power /  >  \ n            < ci > r* <  / ci >  \ n            < ci > h <  / ci >  \ n          <  / apply >  \ n        <  / apply >  \ n        < apply >  \ n          < plus /  >  \ n          < cn > 1 <  / cn >  \ n          < apply >  \ n            < power /  >  \ n            < ci > r* <  / ci >  \ n            < ci > h <  / ci >  \ n          <  / apply >  \ n        <  / apply >  \ n      <  / apply >  \ n    <  / lambda >  \ n <  / semantics >  \ n <  / math > 
+kinetics of enzymes that react only with one substance ,  their substrate .
+chemical process in which atoms have their oxidation number  ( oxidation state )  changed .
+chemical process during which a molecular entity loses electrons .
+chemical process in which a molecular entity gain electrons .
+reaction in which a reactant gives birth to two products identical to itself .
+process in which a dna duplex is transformed into two identical dna duplexes .
+process that involves the participation of chemical or biological entities and is composed of several elementary steps or reactions .
+substance that decreases the probability of a chemical reaction ,  without itself being consumed or transformed by the reaction ,  by stericaly hindering the interaction between reactants .
+substance that decreases the probability of a chemical reaction ,  without itself being consumed or transformed by the reaction ,  and without sterically hindering the interaction between reactants .
+chemical reaction where a proton is given by a compound ,  the acid ,  to another one ,  the base  ( brønsted - lowry definition )  .
+ionization is the physical process of converting an atom or molecule into an ion by changing the difference between the number of protons and electrons .
+covalent reaction that results in the addition of a chemical group on a molecule .
+covalent reaction that results in the removal of a chemical group from a molecule .
+addition of a proton  ( h +  )  to a chemical entity .
+removal of a proton  ( hydrogen ion h +  )  from a chemical entity .
+addition of a methyl group  (  - ch3 )  to a chemical entity .
+addition of an acetyl group  (  - coch3 )  to a chemical entity .
+addition of a phosphate group  (  - h2po4 )  to a  chemical entity .
+addition of a saccharide group to a chemical entity .
+addition of a palmitoyl group  ( ch3 -  \  [ ch2 \  ] 14 - co -  )  to a chemical entity .
+addition of a myristoyl  ( ch3 -  \  [ ch2 \  ] 12 - co -  )  to a chemical entity .
+addition of a sulfate group  ( so4 -  -  )  to a chemical entity .
+addition of a prenyl group  ( generic sense )  to a chemical entity .
+addition of a farnesyl group  ( ch2 - ch=c ( ch3 )  - ch2 - ch2 - ch=c ( ch3 )  - ch2 - ch2 - ch=c ( ch3 ) 2 )  to a chemical entity .
+addition of a geranylgeranyl group  ( ch2 - ch=c ( ch3 )  - ch2 - ch2 - ch=c ( ch3 )  - ch2 - ch2 - ch=c ( ch3 )  - ch2 - ch2 - ch=c ( ch3 ) 2 )  to a chemical entity .
+covalent linkage to the protein ubiquitin .
+time during which some action is awaited .
+a quantitative measure of an amount or property of an entity expressed in terms of another dimension ,  such as unit length ,  area or volume .
+the mass of an entity expressed with reference to another dimension ,  such as unit length ,  area or volume .
+mass of an entity per unit volume .
+the mass of an entity per unit of surface area .
+mass of an entity per unit length .
+representation of an entity that manifests ,  unfolds or develops through time ,  such as a discrete event ,  or a mutual or reciprocal action or influence that happens between participating physical entities ,  and / or other occurring entities .
+a phenomenon that takes place and which may be observable ,  or may be determined to have occurred as the result of an action or process .
+addition of an hydroxyl group  (  - oh )  to a chemical entity .
+modelling approach ,  pioneered by rene thomas and stuart kaufman ,  where the evolution of a system is described by the transitions between discrete activity states of  \ "genes \ " that control each other .
+entity that affects or is affected by an event .
+representation of an entity that may participate in an interaction ,  a process or relationship of significance . \ n
+combining the influence of several entities or events in a unique influence .
+the preceding event or participating entity cannot participate to the control .
+regulation of the influence of a reaction participant by binding an effector to a binding site of the participant different of the site of the participant conveying the influence .
+a real thing that is defined by its physico - chemical structure . \ n
+a real thing ,  defined by its properties or the actions it performs ,  rather than it physico - chemical structure .
+a component that allows another component to pass through itself ,  possibly connecting different compartments .
+a locatable region of genomic sequence ,  corresponding to a unit of inheritance ,  which is associated with regulatory regions ,  transcribed regions and / or other functional sequence regions . \ n \ nsequence ontology so:0000704
+participating entity that binds to a specific physical entity and initiates the response to that physical entity .the original concept of the receptor was introduced independently at the end of the 19th century by john newport langley  ( 1852 - 1925 )  and paul ehrlich  ( 1854 - 1915 )  . \ n \ nlangley jn .on the reaction of cells and of nerve - endings to certain poisons ,  chiefly as regards the reaction of striated muscle to nicotine and to curari .
+molecular entity mainly built - up by the repetition of pseudo - identical units . \ n \ nchebi:33839
+macromolecule whose sequence is encoded in the genome of living organisms .
+simple ,  non - repetitive chemical entity .
+macromolecule whose sequence is not directly encoded in the genome .
+macromolecule consisting of a large number of monosaccharide residues linked by glycosidic bonds . \ n \ nchebi:18154
+macromolecule formed by a repetition of ribonucleosides linked by phosphodiester bonds . \ n \ nchebi:33697
+polymer composed of nucleotides containing deoxyribose and linked by phosphodiester bonds . \ n \ nchebi:16991
+naturally occurring macromolecule formed by the repetition of amino - acid residues linked by peptidic bonds .
+entity composed of several independant components that are not linked by covalent bonds .
+measure of the degree to which an object opposes the passage of an electric current .
+parameter characterising a physical system or the environment ,  and independent of life's influence .
+parameter that depends on the biochemical properties of a system .
+measure of how easily electricity flows along a certain path through an electrical element .
+measure of the amount of electric charge stored  ( or separated )  for a given electric potential .
+difference of electrical potential between two points of an electrical network ,  expressed in volts .
+inhibition of a unireactant enzyme by one inhibitor that binds once to the free enzyme and prevents the binding of the substrate .
+dissociation constant of a compound from a target of which it inhibits the function .
+inhibition of a unireactant enzyme by one inhibitor that binds only to the complex enzyme - substrate and totally prevent the catalysis .
+ratio of an equilibrium constant in a given condition by the same equilibrium constant is not fullfilled .
+ratio of the dissociation constant of an inhibitor from the complex enzyme - substrate on the dissociation constant of an inhibitor from the free enzyme .
+inhibition of a unireactant enzyme by one inhibitor that can bind to the complex enzyme - substrate and the free enzyme ,  possibly with different equilibrium constant ,  and totally prevent the catalysis .
+inhibition of a unireactant enzyme by one inhibitor that can bind to the complex enzyme - substrate and the free enzyme with the same equilibrium constant ,  and totally prevent the catalysis . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n < semantics definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000062 \ " >  \ n    < lambda >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000025 \ " > kcat <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000505 \ " > et <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000515 \ " > s <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000521 \ " > i <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000027 \ " > ks <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000261 \ " > ki <  / ci >  <  / bvar >  \ n      < apply >  \ n        < divide /  >  \ n        < apply >  \ n          < times /  >  \ n          < ci > kcat <  / ci >  \ n          < ci > et <  / ci >  \ n          < ci > s <  / ci >  \ n        <  / apply >  \ n        < apply >  \ n          < plus /  >  \ n          < apply >  \ n            < times /  >  \ n            < ci > s <  / ci >  \ n            < apply >  \ n              < plus /  >  \ n              < cn type= \ "integer \ " > 1 <  / cn >  \ n              < apply >  \ n                < divide /  >  \ n                < ci > i <  / ci >  \ n                < ci > ki <  / ci >  \ n              <  / apply >  \ n            <  / apply >  \ n          <  / apply >  \ n          < apply >  \ n            < times /  >  \ n            < ci > ks <  / ci >  \ n            < apply >  \ n              < plus /  >  \ n              < cn type= \ "integer \ " > 1 <  / cn >  \ n              < apply >  \ n                < divide /  >  \ n                < ci > i <  / ci >  \ n                < ci > ki <  / ci >  \ n              <  / apply >  \ n            <  / apply >  \ n          <  / apply >  \ n        <  / apply >  \ n      <  / apply >  \ n    <  / lambda >  \ n <  / semantics >  \ n <  / math > 
+inhibition of a unireactant enzyme by one inhibitor that can bind one or several times to the free enzyme ,  and prevent the binding of the substrate .
+enzyme kinetics is the study of the rates of chemical reactions that are catalysed by enzymes ,  how this rate is controlled ,  and how drugs and poisons can inhibit its activity .
+kinetics of enzymes that catalyse the transformation of only one substrate .
+inhibition of a unireactant enzyme by inhibitors that bind to the free enzyme on the same binding site than the substrate .
+inhibition of a unireactant enzyme by two inhibitors that bind to the free enzyme on the same binding site than the substrate .
+number of entities that inhibit a reaction .
+inhibition of a unireactant enzyme by inhibitors that bind independently to the free enzyme and preclude the binding of the substrate .
+inhibition of a unireactant enzyme by two inhibitors that can bind independently once to the free enzyme and preclude the binding of the substrate .
+inhibition of a unireactant enzyme by inhibitors that can bind to the complex enzyme - substrate and the free enzyme ,  possibly with different equilibrium constants ,  and totally prevent the catalysis .
+inhibition of unireactant enzymes by two inhibitors that can bind to the complex enzyme - substrate and the free enzyme ,  possibly with different equilibrium constant ,  and totally prevent the catalysis .
+inhibition of unireactant enzymes by two inhibitors that can bind to the complex enzyme - substrate and the free enzyme with the same equilibrium constant and totally prevent the catalysis .
+a messenger rna is a ribonucleic acid synthesized during the transcription of a gene ,  and that carries the information to encode one or several proteins .
+pressure  ( symbol: p )  is the force per unit area applied on a surface in a direction perpendicular to that surface .
+in biochemistry ,  a ligand is an effector ,  a physical entity that binds to a site on a receptor's surface by intermolecular forces .
+quantity characterizing a chemical equilibrium in a chemical reaction ,  which is a useful tool to determine the concentration of various reactants or products in a system where chemical equilibrium occurs .
+equilibrium constant that measures the propensity of a larger object to separate  ( dissociate )  reversibly into smaller components ,  as when a complex falls apart into its component molecules ,  or when a salt splits up into its component ions .
+equilibrium constant that indicates the extent of dissociation of hydrogen ions from an acid .
+participating entity that facilitates the movement of another physical entity from a defined subset of the physical environment  ( for instance a cellular compartment )  to another .
+material entity whose nature is unknown or irrelevant .
+non - covalent association of identical ,  or pseudo - identical ,  entities .
+concentration of an active compound at which 50% of its maximal effect is observed .
+also called half maximal inhibitory concentration ,  it represents the concentration of an inhibitor substance that is required to suppress 50% of an effect .
+logical or physical subset of the event space that contains pools ,  that is sets of participants considered identical when it comes to the event they are involved into .
+specific location of space ,  that can be bounded or not .
+entity defined by the absence of any actual object .
+modelling approach where the quantities of participants are considered continuous ,  and represented by real values .
+modelling approach where the quantities of participants are considered continuous ,  and represented by real values .
+modelling approach where the quantities of participants are considered discrete ,  and represented by integer values .
+modelling approach where the quantities of participants are considered discrete ,  and represented by integer values .
+non - covalent complex of one or more macromolecules and zero or more simple chemicals .
+macromolecular complex containing one or more polypeptide chains possibly associated with simple chemicals . \ n \ nchebi:36080
+chemical entity that is engineered by a human - designed process ex - vivo rather than a produced by a living entity .
+substance produced by metabolism or by a metabolic process .
+total amount of enzyme catalysing a reaction ,  divided by the volume of reaction .
+constant representing the actual efficiency of an enzyme at a given concentration ,  taking into account its microscopic catalytic activity and the rates of substrate binding and dissociation . \ n \ nnb .
+constant representing the actual efficiency of an enzyme ,  taking into account its microscopic catalytic activity and the rates of substrate binding and dissociation . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n    < lambda >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000025 \ " > kcat <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000027 \ " > km <  / ci >  <  / bvar >  \ n      < apply >  \ n        < divide /  >  \ n          < ci > kcat <  / ci >  \ n          < ci > km <  / ci >  \ n      <  / apply >  \ n    <  / lambda >  \ n <  / math > 
+derivative of a biochemical energy per a substance .
+negative logarithm  ( base 10 )  of the activity of hydrogen in a solution .
+negative logarithm  ( base 10 )  of the activity of hydroxyde in a solution .
+negative logarithm  ( base 10 )  of a dissociation constant . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n    < lambda >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000282 \ " > k <  / ci >  <  / bvar >  \ n      < apply >  \ n        < minus /  >  \ n        < apply >  \ n          < log /  >  \ n          < ci > k <  / ci >  \ n        <  / apply >  \ n      <  / apply >  \ n    <  / lambda >  \ n <  / math > 
+negative logarithm  ( base 10 )  of an acid dissociation constant . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n    < lambda >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000283 \ " > ka <  / ci >  <  / bvar >  \ n      < apply >  \ n        < minus /  >  \ n        < apply >  \ n          < log /  >  \ n          < ci > ka <  / ci >  \ n        <  / apply >  \ n      <  / apply >  \ n    <  / lambda >  \ n <  / math > 
+quantitative parameter that characterises a biochemical equilibrium .
+quantitative parameter that characterises a dissociation .
+quantitative parameter that characterises an acid - base reaction .
+incompletely processed single strand of messenger ribonucleic acid  ( mrna )  ,  synthesized from a dna template in the nucleus of a cell by transcription and containing copies of the introns and exons of a gene .
+completely processed single strand of messenger ribonucleic acid  ( mrna )  ,  synthesized from a dna template in the nucleus of a cell by transcription and containing copies of only the exons of a gene .
+small rna chain  ( 73 - 93 nucleotides )  that transfers a specific amino acid to a growing polypeptide chain at the ribosomal site of protein synthesis during translation .
+type of rna that is the central component of the ribosome ,  the protein manufacturing machinery of all living cells .
+rna molecule that catalyzes a chemical reaction .
+single - stranded rna molecules thought to regulate the expression of other genes .
+sirna are 20 - 25 nucleotide - long double - stranded rna molecules involved in the regulation of the expression of specific genes ,  antiviral mechanisms ,  shaping the chromatin structure of a genome etc .
+small rna molecules that are found within the nucleus of eukaryotic cells .
+small rna molecules that guide chemical modifications  ( methylation or pseudouridylation )  of ribosomal rnas  ( rrnas )  and other rna genes .
+numerical parameter that quantifies the velocity of product creation by a reversible enzymatic reaction .
+numerical parameter that quantifies the velocity of substrate creation by a reversible enzymatic reaction .
+substrate concentration at which the velocity of product production by the forward activity of a reversible enzyme is half its maximum .
+product concentration at which the velocity of substrate production by the reverse activity of a reversible enzyme is half its maximum .
+limiting maximal velocity of the forward reaction of a reversible enzyme ,  reached when the substrate is in large excess and all the enzyme is complexed . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n    < lambda >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000505 \ " > et <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000320 \ " > kcatp <  / ci >  <  / bvar >  \ n      < apply >  \ n        < times /  >  \ n          < ci > et <  / ci >  \ n          < ci > kcatp <  / ci >  \ n      <  / apply >  \ n    <  / lambda >  \ n <  / math > 
+limiting maximal velocity of the reverse reaction of a reversible enzyme ,  reached when the product is in large excess and all the enzyme is complexed . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n    < lambda >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000505 \ " > et <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000321 \ " > kcats <  / ci >  <  / bvar >  \ n      < apply >  \ n        < times /  >  \ n          < ci > et <  / ci >  \ n          < ci > kcats <  / ci >  \ n      <  / apply >  \ n    <  / lambda >  \ n <  / math > 
+kinetics of enzymes that react only with one substance ,  their substrate ,  and are not modulated by other compounds .
+chemical entity having a net electric charge .
+chemical entity possessing an unpaired electron .
+first nucleotide of a gene that is copied in the transcribed rna . \ n \ nsequence ontology so:0000315
+removal of a phosphate group  (  - h2po4 )  from a chemical entity .
+time interval over which a quantified entity is reduced to half its original value .
+time taken by a quantity decreasing according to a mono - exponential decay to be divided by two .
+monotonic decrease of a quantity proportionally to its value . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n < semantics definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000062 \ " >  \ n    < lambda >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000332 \ " > l <  / ci >  <  / bvar >  \ n      < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000509 \ " > r <  / ci >  <  / bvar >  \ n      < apply >  \ n          < divide /  >  \ n          < ci > r <  / ci >  \ n          < ci > l <  / ci >  \ n      <  / apply >  \ n    <  / lambda >  \ n <  / semantics >  \ n <  / math > 
+rna molecule that is not translated into a protein .
+portion of dna or rna that is transcribed into another rna ,  such as a messenger rna or a non - coding rna  ( for instance a transfert rna or a ribosomal rna )  .
+entity participating in a physical or functional interaction .
+equilibrium constant that measures the propensity of two objects to assemble  ( associate )  reversibly into a larger component .
+rate with which a complex dissociates into its components .
+rate with which two components associate into a complex .
+rate with which three components associate into a complex .
+rate with which components associate into a complex .
+mutual or reciprocal action or influence between molecular entities .
+a phenomenon whereby an observed phenotype ,  qualitative or quantative ,   is not explainable by the simple additive effects of the individual gene pertubations alone .
+relationship between molecular entities ,  based on contacts ,  direct or indirect .
+fundmental quantity of the measuring system used to sequence events ,  to compare the durations of events and the intervals between them ,  and to quantify the motions or the transformation of entities .
+fundamental quantity of the measuring system used to sequence events ,  to compare the durations of events and the intervals between them ,  and to quantify the motions or the transformation of entities .
+amount of time during which an event persists .
+time that it takes for an exponential decay to reach 1 / e  ( about 37% )  of the original value .
+kinetic constant describing the rate of an irreversible enzyme inactivation \ nby decay of the active enzyme into its inactive form .
+the speed of an enzymatic reaction at a defined concentration of substrate ( s )  and enzyme .
+numerical parameter that quantifies the reverse velocity of a chemical reaction independant of the reactant quantities .
+the speed of an enzymatic reaction at a defined concentration of substrate ( s )  and enzyme .
+fragment of a macromolecule that carries genetic information .
+mathematical expression stating that a quantity is conserved in a system ,  whatever happens within the boundaries of that system .
+kinetic constant characterising a mono - exponential decay .
+biochemical networks can be affected by external influences .
+a biochemical network can generate phenotypes or affects biological processes .
+a chemical moiety that exists under different forms but is not created nor destroyed in a biochemical system .
+the enumeration of co - localised ,  identical biochemical entities of a specific state ,  which constitute a pool .
+a numerical measure of the quantity ,  or of some property ,  of the entities that constitute the entity pool .
+if all forms of a moiety exist in a single compartment and the size of that compartment is fixed then the mass conservation is also a concentration conservation . \ n \ n < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n   < lambda >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000002 \ " > a <  / ci >  <  / bvar >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000157 \ " > n <  / ci >  <  / bvar >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000196 \ " > s <  / ci >  <  / bvar >  \ n     < apply >  \ n       < sum /  >  \ n       < bvar >  < ci >  i  <  / ci >  <  / bvar >  \ n       < lowlimit >  < cn type= \ "integer \ " >  0  <  / cn >  <  / lowlimit >  \ n       < uplimit >  < ci >  n  <  / ci >  <  / uplimit >  \ n       < apply >  \ n         < times /  >  \ n         < apply >  \ n           < selector /  >  \ n           < ci type= \ "vector \ " > a <  / ci >  \ n           < ci >  i  <  / ci >  \ n         <  / apply >  \ n         < apply >  \ n           < selector /  >  \ n           < ci type= \ "vector \ " > s <  / ci >  \ n           < ci >  i  <  / ci >  \ n         <  / apply >  \ n       <  / apply >  \ n     <  / apply >  \ n   <  / lambda >  \ n <  / math >  \ n
+dissociation constant of a potentiator  ( activator )  from a target  ( e .g .
+number of monomers composing a multimeric entity .
+numerical parameter that quantifies the forward velocity of a chemical reaction where reactants have non - integral orders .
+numerical parameter that quantifies the forward velocity of a chemical reaction where reactants have non - integral orders .
+numerical parameter that quantifies the reverse velocity of a chemical reaction where products have non - integral orders .
+numerical parameter that quantifies the reverse velocity of a chemical reaction where products have non - integral orders .
+region of a gene that is involved in the modulation of the expression of the gene .
+michaelis constant derived or experimentally measured under non - equilibrium conditions .
+michaelis constant derived using a steady - state assumption for enzyme - substrate and enzyme - product intermediates .
+michaelis constant derived assuming enzyme - substrate and enzyme - product intermediates are formed in consecutive irreversible reactions .
+michaelis constant as determined in a reaction where the formation of the enzyme - substrate complex occurs at a much faster rate than subsequent steps ,  and so are assumed to be in a quasi - equilibrium situation .
+connectedness between entities and / or interactions representing their relatedness or influence .
+a sequential series of actions ,  motions ,  or occurrences ,  such as chemical reactions ,  that affect one or more entities in a phenomenologically characteristic manner .
+decomposition of a compound by reaction with water ,  where the hydroxyl and h groups are incorporated into different products
+a reaction in which the principal reactant and principal product are isomers of each other
+inhibition of a unireactant enzyme by competing substrates  ( sa )  that bind to the free enzyme on the same binding site .
+inhibition of a unireactant enzyme by two inhibitors that can bind once to the free enzyme and preclude the binding of the substrate .
+number used as a multiplicative or exponential factor for quantities ,  expressions or functions
+a multiplicative factor for quantities ,  expressions or functions
+number used as an exponential factor for quantities ,  expressions or functions
+the coefficient used to quantify the effect on inhibition constants of multiple inhibitors binding non - exclusively to the enzyme .
+coefficient that quantifies the effect on inhibition constants of either binding of multiple substrates or inhibitors .
+the coefficient that describes the proportional change of ks or ki when inhibitor or substrate is bound ,  respectively ,  to the enzyme .
+inhibition of a unireactant enzyme by a competing substrate  ( sa )  that binds to the free enzyme on the same binding site .
+inhibition of a unireactant enzyme by a competing product  ( p )  that binds to the free enzyme on the same binding site .
+inhibition of a unireactant enzyme by a competing substrate  ( sa )  that binds to the free enzyme on the same binding site ,  and competitive inhibition by a product  ( p )  and an alternative product  ( pa )  .
+a parameter value taken by a switch ,  which has a discrete set of values which can be alternated or switched between .
+a parameter that has precisely two discrete values which may be switched between .
+a mathematical expression that describes a steady state situation
+term to signify those material or conceptual entities that are identical in some respect within a frame of reference
+generation of a material or conceptual entity .
+decrease in amount of a material or conceptual entity .
+an aggregation of interactions and entities into a single process .
+an equivocal or conjectural process ,  whose existence is assumed but not proven .
+one or more processes that are not represented in certain representations or interpretations of a model .
+relationship between entities  ( material or conceptual )  and logical operators ,  or between logical operators themselves .
+a process in which a carboxyl group  ( cooh )  is removed from a molecule as carbon dioxide .
+removal of a carbonyl group  (  - c - o -  )  from a molecule ,  usually as carbon monoxide
+removal of an amine group from a molecule ,  often under the addition of water
+covalent reaction that results in the transfer of a chemical group from one molecule to another .
+the transfer of an amino group between two molecules .
+functional entity associated with or derived from a unit of inheritance .
+a material entity that is responsible for a perturbing effect
+an entity that can be measured quantitatively
+control that precludes the execution of a process .
+the potential action that a biological entity has on other entities .
+entity that results from the interaction between other entities .
+a compartment whose existence is inferred due to the presence of known material entities which must be bounded ,  allowing the creation of material entity pools .
+control that always triggers the controlled process .
+the connectedness between entities as related by their position \ n
+positional relationship between entities on the same strand  ( e .g .
+positional relationship between entities on different sides ,  or strands
+one of the two values possible from a boolean switch ,  which equates to '1' ,  'on' or 'input' .
+one of the two values possible from a boolean switch ,  which equates to '0' ,  'off' or 'no input' .
+non - covalent association between several independant complexes
+non - covalent association between portions of macromolecules that carry genetic information
+non - covalent association between several macromolecules
+non - covalent association between several simple chemicals
+inhibitory constant for the binding of a given ligand with an isomeric form of an enzyme . \ n
+in reversible reactions this is the concentration of product that is required to achieve half activation or inhibition in hill - type kinetics ,  in the absence of the substrate .
+in reversible reactions this is the concentration of substrate that is required to achieve half activation or inhibition in hill - type kinetics ,  in the absence of the product .
+reversible hill - type kinetics represents the situation where a single substrate and product bind cooperatively and reversibly to the enzyme .
+reversible hill - type kinetics in the presence of at least one modifier whose binding is affected by the presence of the substrate or product .
+the modifier can be either an activator or inhibitor depending on the value of alpha  ( activator for values larger than 1 ,  inhibitor for values smaller than 1 ;  no effect if exactly 1 )  .
+the modifiers can be either activators or inhibitors depending on the values of and alpha  ( activators for values larger than 1 ,  inhibitors for values smaller than 1 ;  no effect if exactly 1 )  .
+kinetics of enzyme - catalysed reactions with 2 or more substrates or products \ n
+kinetics of enzymes that react with one substance ,  and whose activity may be positively or negatively modulated .
+reversible equivalent of hill kinetics ,  where substrate and product bind co - operatively to the enzyme .
+enzymatic rate law for an irreversible reaction involving two substrates and one product .
+enzymatic rate law for a reaction involving two substrates and two products .
+enzymatic rate for a reaction involving two substrates and one product .
+enzymatic rate law for a reaction with one substrate and two products .
+enzymatic rate law for a reaction involving two substrates and two products .
+enzyme catalysed reaction involving one substrate and one product .
+the reversible equivalent of the henri - michaelis - menten rate law  ( sbo:0000029 )  .
+enzyme catalysed reaction involving one substrate and one product .
+enzymatic rate law which follows from the allosteric concerted model  ( symmetry model or mwc model )  .this states that enzyme subunits can assume one of two conformational states  ( relaxed or tense )  ,  and that the state of one subunit is shared or enforced on the others .
+reversible inhibition of a unireactant enzyme by inhibitors that can bind to the enzyme - substrate complex and to the free enzyme with the same equilibrium constant .
+reversible inhibition of a unireactant enzyme by one inhibitor that can bind to the enzyme - substrate complex and to the free enzyme with the same equilibrium constant .
+enzymatic rate law where the free enzyme ,  in the absence of the activator ,  is unable to bind substrate and has no activity .
+enzymatic rate law where the activator enhances the rate of reaction through specific and catalytic effects ,  which increase the apparent limiting rate and decrease apparent michaelis constant .
+this enzymatic rate law is available only for irreversible reactions ,  with one substrate and one product .
+enzymatic rate law where the activator enhances the rate of reaction through specific and catalytic effects ,  which increase the apparent limiting rate and decrease apparent michaelis constant .
+enzymatic rate law where an activator enhances the rate of reaction by increasing the apparent limiting rate ;  the reversible binding of the activator to the enzyme - substrate complex is required for enzyme catalytic activity  ( to generate the product )  .
+enzymatic rate law for one substrate ,  one product and one modifier which acts as an activator .
+enzymatic rate law where an activator enhances the rate of reaction by increasing the apparent limiting rate ;  the activator binding to the enzyme - substrate complex  ( irreversibly )  is required for enzyme catalytic activity  ( to generate the product )  .
+enzymatic rate law for one substrate ,  one product and one modifier which acts as an activator .
+this enzymatic rate law involves one substrate ,  one product and one or more modifiers .
+this enzymatic rate law involves one substrate ,  one product and one modifier .
+enzymatic rate law where the reversible binding of one ligand decreases the affinity for substrate at other active sites .
+enzymatic rate law where the substrate for an enzyme also acts as a reversible  inhibitor .
+enzymatic rate law where the substrate for an enzyme also acts as an irreversible inhibitor .
+enzymatic rate law where the modifier can act as an activator or inhibitor ,  depending upon the values of the kinetic constants .
+enzymatic rate law where the modifier can act as an activator or inhibitor ,  depending upon the values of the kinetic constants .
+reversible inhibition of a unireactant enzyme by one inhibitor ,  which binds to the enzyme - substrate complex .
+substance that accelerates the velocity of a chemical reaction without itself being consumed or transformed .
+a substance that accelerates the velocity of a chemical reaction without itself being consumed or transformed ,  by lowering the free energy of the transition state .
+a substance that is absolutely required for occurrence and stimulation of a reaction .
+an activator which is not necessary for an enzymatic reaction ,  but whose presence will further increase enzymatic activity .
+the biochemical potential of a substance measured at standard concentrations and under standard conditions .
+assignment of a state or a value to a state variable ,  characteristic or property ,  of a biological entity .
+the measurable dimensions of an object which are minimally required to define the space that an object occupies .
+the length of an object is the longest measurable distance between its extremities .
+the area of an object is a quantity expressing its two - dimensional size ,  usually part or all of its surface .
+a quantity representing the three - dimensional space occupied by all or part of an object .
+an entity that is a subset of another entity or object .
+for a given substance ,  a ,  its mass fraction  ( x a )  is defined as the ratio of its mass  ( m a )  to the total mass  ( m total )  in which it is present ,  where the sum of all mass fractions is equal to 1 .
+molality denotes the number of moles of solute per kilogram of solvent  ( not solution )  .
+molarity ,  or molar concentration ,  denotes the number of moles of a given substance per litre of solution .
+term to signify where a material or conceptual entity is represented or denoted by a symbol or by some other abbreviated form .
+mathematical function commonly used in biological modeling ,   which enable simplification of more complex expressions
+function that enables the modeling of cyclic inputs with on and off phases ,  such as the light and dark phases in circadian rhythm .
+the period is the duration of one cycle in a repeating event .
+the measurable amount of time by which a periodic or cyclic is shifted or offset from defined reference point .
+the product of the michaelis constants ,  to the power of their respective stoichiometric coefficients ,  for either substrates or products . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n   < lambda >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000027 \ " > km <  / ci >  <  / bvar >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000157 \ " > x <  / ci >  <  / bvar >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000481 \ " > n <  / ci >  <  / bvar >  \ n     < apply >  \ n       < product /  >  \ n       < bvar >  < ci >  i  <  / ci >  <  / bvar >  \ n       < lowlimit >  < cn type= \ "integer \ " >  1  <  / cn >  <  / lowlimit >  \ n       < uplimit >  < ci >  x  <  / ci >  <  / uplimit >  \ n       < apply >  \ n \ t < power /  >  \ n \ t < apply >  \ n \ t   < selector /  >  \ n \ t   < ci type= \ "vector \ " > km <  / ci >  \ n \ t   < ci >  i  <  / ci >  \ n \ t <  / apply >  \ n \ t < apply >  \ n \ t   < selector /  >  \ n \ t   < ci type= \ "vector \ " > n <  / ci >  \ n \ t   < ci >  i  <  / ci >  \ n \ t <  / apply >  \ n       <  / apply >  \ n     <  / apply >  \ n   <  / lambda >  \ n <  / math > 
+the product of the substrate michaelis constants ,  to the power of their respective stoichiometric coefficients . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n   < lambda >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000322 \ " > kms <  / ci >  <  / bvar >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000149 \ " > x <  / ci >  <  / bvar >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000481 \ " > n <  / ci >  <  / bvar >  \ n     < apply >  \ n       < product /  >  \ n       < bvar >  < ci >  i  <  / ci >  <  / bvar >  \ n       < lowlimit >  < cn type= \ "integer \ " >  1  <  / cn >  <  / lowlimit >  \ n       < uplimit >  < ci >  x  <  / ci >  <  / uplimit >  \ n       < apply >  \ n \ t < power /  >  \ n \ t < apply >  \ n \ t   < selector /  >  \ n \ t   < ci type= \ "vector \ " > kms <  / ci >  \ n \ t   < ci >  i  <  / ci >  \ n \ t <  / apply >  \ n \ t < apply >  \ n \ t   < selector /  >  \ n \ t   < ci type= \ "vector \ " > n <  / ci >  \ n \ t   < ci >  i  <  / ci >  \ n \ t <  / apply >  \ n       <  / apply >  \ n     <  / apply >  \ n   <  / lambda >  \ n <  / math >  \ n
+the product of the product michaelis constants ,  to the power of their respective stoichiometric coefficients . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n   < lambda >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000027 \ " > km <  / ci >  <  / bvar >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000490 \ " > x <  / ci >  <  / bvar >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000481 \ " > n <  / ci >  <  / bvar >  \ n     < apply >  \ n       < product /  >  \ n       < bvar >  < ci >  i  <  / ci >  <  / bvar >  \ n       < lowlimit >  < cn type= \ "integer \ " >  1  <  / cn >  <  / lowlimit >  \ n       < uplimit >  < ci >  x  <  / ci >  <  / uplimit >  \ n       < apply >  \ n \ t < power /  >  \ n \ t < apply >  \ n \ t   < selector /  >  \ n \ t   < ci type= \ "vector \ " > km <  / ci >  \ n \ t   < ci >  i  <  / ci >  \ n \ t <  / apply >  \ n \ t < apply >  \ n \ t   < selector /  >  \ n \ t   < ci type= \ "vector \ " > n <  / ci >  \ n \ t   < ci >  i  <  / ci >  \ n \ t <  / apply >  \ n       <  / apply >  \ n     <  / apply >  \ n   <  / lambda >  \ n <  / math > 
+the stoichiometric coefficient represents the degree to which a chemical species participates in a reaction .
+the geometric mean turnover rate of an enzyme in either forward or backward direction for a reaction ,  measured per second . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n   < lambda >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000009 \ " > k <  / ci >  <  / bvar >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000188 \ " > n <  / ci >  <  / bvar >  \ n     < apply >  \ n       < root /  >  \ n       < degree >   < ci >  n  <  / ci >   \ n       <  / degree >  \ n       < apply >  \ n \ t < product /  >  \ n \ t < bvar >  < ci >  i  <  / ci >  <  / bvar >  \ n \ t < lowlimit >  < cn type= \ "integer \ " >  1  <  / cn >  <  / lowlimit >  \ n \ t < uplimit >  < ci >  n  <  / ci >  <  / uplimit >  \ n \ t < apply >  \ n \ t   < selector /  >  \ n \ t   < ci type= \ "vector \ " > k <  / ci >  \ n \ t   < ci >  i  <  / ci >  \ n \ t <  / apply >  \ n       <  / apply >  \ n     <  / apply >  \ n   <  / lambda >  \ n <  / math > 
+the geometric mean turnover rate of an enzyme in the forward direction for a reaction ,  measured per second . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n   < lambda >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000153 \ " > kf <  / ci >  <  / bvar >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000188 \ " > n <  / ci >  <  / bvar >  \ n     < apply >  \ n       < root /  >  \ n       < degree >   < ci >  n  <  / ci >   \ n       <  / degree >  \ n       < apply >  \ n \ t < product /  >  \ n \ t < bvar >  < ci >  i  <  / ci >  <  / bvar >  \ n \ t < lowlimit >  < cn type= \ "integer \ " >  1  <  / cn >  <  / lowlimit >  \ n \ t < uplimit >  < ci >  n  <  / ci >  <  / uplimit >  \ n \ t < apply >  \ n \ t   < selector /  >  \ n \ t   < ci type= \ "vector \ " > kf <  / ci >  \ n \ t   < ci >  i  <  / ci >  \ n \ t <  / apply >  \ n       <  / apply >  \ n     <  / apply >  \ n   <  / lambda >  \ n <  / math > 
+the geometric mean turnover rate of an enzyme in the reverse direction for a reaction ,  measured per second . < math xmlns= \ "http: /  / www .w3 .org / 1998 / math / mathml \ " >  \ n   < lambda >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000156 \ " > kr <  / ci >  <  / bvar >  \ n     < bvar >  < ci definitionurl= \ "http: /  / biomodels .net / sbo / #sbo:0000188 \ " > n <  / ci >  <  / bvar >  \ n     < apply >  \ n       < root /  >  \ n       < degree >   < ci >  n  <  / ci >   \ n       <  / degree >  \ n       < apply >  \ n \ t < product /  >  \ n \ t < bvar >  < ci >  i  <  / ci >  <  / bvar >  \ n \ t < lowlimit >  < cn type= \ "integer \ " >  1  <  / cn >  <  / lowlimit >  \ n \ t < uplimit >  < ci >  n  <  / ci >  <  / uplimit >  \ n \ t < apply >  \ n \ t   < selector /  >  \ n \ t   < ci type= \ "vector \ " > kr <  / ci >  \ n \ t   < ci >  i  <  / ci >  \ n \ t <  / apply >  \ n       <  / apply >  \ n     <  / apply >  \ n   <  / lambda >  \ n <  / math > 
+the minimal velocity observed under defined conditions ,  which may or may not include the presence of an effector .
+the ratio of the basal activity to the maximal velocity of a reaction .
+function which ranges from 0 to 1 ,  to describe the relative activation or inhibition of a reaction or process ,  actual or conceptual .
+function which ranges from 0 to 1 ,  to describe the relative activation of a reaction or process ,  actual or conceptual .
+function which ranges from 0 to 1 ,  to describe the relative inhibition of a reaction or process ,  actual or conceptual .
+number of molecules which are generated by an enzyme .
+a proportionality constant representing the amount of substance diffusing across a unit area through a unit concentration gradient in unit time .
+amplitude is the magnitude of change in the oscillating variable ,  with each oscillation ,  within an oscillating system .
+a spatial region of an entity that confers a function
+a specific domain of a spatio - temporal entity to which another spatio - temporal entity is able to bind ,  forming chemical bonds .
+a catalytic site is the region which confers specificity of a substrate for the binding entity ,  and where specific reactions take place in the conversion of the substrate to the product .
+a transmembrane domain is any three - dimensional protein structure which is thermodynamically stable in a membrane .
+a parameter that has three discrete values which may be alternated between .
+value which ranges from 0 to 1 ,  to describe the relative activity of a process or reaction .
+genetic suppression is said to have occurred when the phenotypic effect of an initial mutation in a gene is less severe ,  or entirely negated ,  by a subsequent mutation .
+genetic enhancement is said to have occurred when the phenotypic effect of an initial mutation in a gene is made increasingly severe by a subsequent mutation .
+synthetic lethality is said to have occurred where gene mutations ,  each of which map to a separate locus ,  fail to complement in an offspring to correct a phenotype ,  as would be expected . \ n \ n
+the numerical quantification of an entity pool .
+the mass that comprises an entity pool .
+amount of enzyme present per unit of volume .
+amount ,  expressed as a mass ,  of an enzyme .
+amount ,  expressed as a number ,  of a specific enzyme comprising an entity pool .
+the amount ,  expressed as a number ,  of a specific reactant comprising an entity pool .
+the amount of a specific entity pool reactant present per unit of volume .
+the amount ,  expressed as a mass ,  of a specific reactant entity pool .
+the amount ,  expressed as a number ,  of a specific product comprising an entity pool .
+the amount of a specific entity pool product present per unit of volume .
+the amount ,  expressed as a mass ,  of a specific product entity pool .
+the amount ,  expressed as a number ,  of a specific substrate comprising an entity pool .
+the amount of a specific entity pool substrate present per unit of volume .
+the amount ,  expressed as a mass ,  of a specific substrate entity pool .
+the amount ,  expressed as a number ,  of a specific modifier comprising an entity pool .
+the amount of a specific modifier entity pool present per unit of volume .
+the amount ,  expressed as a mass ,  of a specific modifier entity pool .
+the amount ,  expressed as a number ,  of a specific inhibitor comprising an entity pool .
+the amount of a specific inhibitor entity pool present per unit of volume .
+the amount ,  expressed as a mass ,  of a specific inhibitor entity pool .
+the amount ,  expressed as a number ,  of a specific activator comprising an entity pool .
+the amount of a specific activator entity pool present per unit of volume .
+the amount ,  expressed as a mass ,  of a specific activator entity pool .
+the process by which two or more proteins interact non - covalently to form a protein complex  ( sbo:0000297 )  .
+modular rate laws are a set of rate laws that provide a means to parameterise a system in a manner that is a compromise between mathematical abstraction and biochemical detail .
+the common modular rate law is a generalised form of reversible michaelis menten kinetics ,  using a denominator where each binding state of the enzyme is represented .
+the direct binding modular rate law makes the assumption that both substrates and products bind simultaneously and in a single step ,  hence the total binding states possible enumerate to 3 ;  nothing bound ,  substrates bound ,  and products bound .
+the simultaneous binding modular rate law makes the assumption that substrates and products can be bound simultaneously ,  and in any combination .
+for the power - law rate law ,  the denominator is set to be a constant ,  and the rate law does not saturate .
+modular rate law where the d term is given by the square root of the product of \ nterms  ( c / km ) ^m where c ,  km ,  and m denote the concentrations ,  michaelis constants ,  and molecularities ,  respectively ,  and the product is taken over all reactants and products involved in the reaction .
+an essential activator that affects the apparent value of the specificity \ nconstant .
+an essential activator that affects the apparent value of the catalytic \ nconstant .
+an essential activator that affects the apparent value of the michaelis \ nconstant ( s )  .
+substance that ,  when bound ,  decreases enzymatic activity to a lower ,  \ nnonzero value ,  without itself being consumed or transformed by the \ nreaction ,  and without sterically hindering the interaction between \ nreactants .
+substance that ,  when bound ,  completely negates enzymatic activity ,  without \ nitself being consumed or transformed by the reaction ,  and without \ nsterically hindering the interaction between reactants .
+a parameter that represents the permeability of an ion channel with respect to a particular ion .
+a quantitative parameter that represents a probability value ,  assigned to a specific event .
+a ratio that represents the quantity of a defined constituent entity over the total number of all constituent entities present .
+the number of moles of a constituent entity ,  divided by the total number of all constituent entities present in a system .
+an epidemiological term representing the mean number of secondary cases which result from a single infection ,  where the population under consideration has no immunity ,  and no intervention is performed .
+a nonspecific coalescence of misfolded proteins which may or may not form a precipitate ,  depending upon particle size .
+supplementary information relating to a primary item of data ,  traditionally termed 'data about data' .
+a value ,  numerical or symbolic ,  that defines certain characteristics of systems or system functions ,  or is necessary in their derivation .
+a non - numerical value that defines certain characteristics of systems or system functions .
+equationally defined algebraic framework usually interpreted as a two - valued logic using the basic boolean operations  ( conjunction ,  disjunction and negation )  ,  together with the constants '0' and '1' denoting false and true values ,  respectively .
+extension of the boolean logical framework which associates a defined number of possible integer values  ( states )  with the variables .
+extension of the boolean logical framework which allows intermediate or undetermined values for the logical variables .
+supplementary information that does not modify the semantics of the presented information .
+the use of an abbreviated name ,  taken from a controlled vocabulary of terms ,  which is used to represent some information about the entity to which it is attached .
+additional information that supplements existing data ,  usually in a document ,  by providing a link to more detailed information ,  which is held externally ,  or elsewhere .
+an annotation which directs one to information contained within a published body of knowledge ,  usually a book or scientific journal .
+an annotation which directs one to information contained within a database .
+annotation which complies with the full set of defined rules in its construction .
+annotation which does not comply with ,  or is not restricted by ,  any rules in its construction .
+annotation that directly incorporates information into the body of a document .
+a measure of enzyme activity under standard conditions ,  at a specific substrate concentration  ( usually saturation )  ,  expressed as the amount of product formed per unit time ,  per amount of enzyme .
+a measure of the amount of active enzyme present ,  expressed under specified conditions .
+reaction scheme in which the reaction velocity is direct proportional to the activity or concentration of a single molecular species .
+reaction scheme in which the reaction velocity is direct proportional to the activity or quantity of a single molecular species .
+reaction scheme where the products are created from a reactant and the change of a product quantity is proportional to the product of the reactant and the stimulator activities .
+reaction scheme where the products are created from a reactant and the change of a product quantity is proportional to the product of the reactant and the stimulator activities .
+reaction scheme where the products are created from a reactant and the change of a product quantity is proportional to the product of the reactant and the stimulator quantities .
+a physical constant that is required in the calculation of a system parameter .
+the permeability of an ion through a channel or membrane expressed in relation to the reference ion ,  which is given the value 1 .
+a physical constant featured in many fundamental equations in the physical sciences .
+named after michael faraday ,  it is the magnitude of electric charge per mole of electrons .
+expression to determine the equilibrium potential  ( membrane potential )  across a cellular membrane ,  taking into consideration all the ions on either side of the membrane ,  and their permeability through the membrane .
+the membrane potential at which there is no net flow of an ions across a biological membrane .
+parameters used in the study of thermodynamics ,  a physical science that \ npertains to the relationship between heat and other forms of energy such \ nas 'work done' in material bodies .
+a thermodynamic potential whose natural variables are entropy  ( s )  and \ npressure  ( p )  .
+change in enthalpy observed in the constituents of a thermodynamic system \ nwhen undergoing a transformation or chemical reaction .
+the enthalpy change observed in a constituent of a thermodynamic system \ nwhen one mole of a compound ,  in its standard state ,  is formed from its \ nelementary antecedents ,  in their standard state ( s )  ,  under standard \ nconditions  ( 1 bar )  .
+the enthalpy change observed in a constituent of a thermodynamic system \ nwhen one mole of substance reacts completely ,  under standard conditions  ( 1 \ nbar )  .
+a thermodynamic property which acts as a measure of the state of disorder \ nof a system .
+the increase or decrease of the entropy of a system .
+the entropy change observed in a thermodynamic system when one mole of \ nsubstance reacts completely ,  under standard conditions  ( 1 bar )  .
+the change in entropy associated with the formation of one mole of a \ nsubstance from its elements in their standard states under standard \ nconditions  ( 1 bar )  .
+a thermodynamic potential that measures the useful work obtainable from a \ nthermodynamic system at constant pressure and temperature .
+the increase or decrease of the gibbs free energy of a system .
+the change in gibbs free energy associated with the formation of 1 mole of substance from elements in their standard states under standard conditions  ( 1 bar )  .
+the gibbs free energy change observed in a thermodynamic system when one \ nmole of substance reacts completely ,  under standard conditions  ( 1 bar )  .
+a duration of time after which a phase shift occurs .
+the total length of time over which a model is simulated ,  where the time scale is indicated within the model simulation .
+a conceptualisation of time which is intrinsic to a mathematical model ,  and which can be used to describe other variables or parameters of the model .
+a transport reaction which results in the entry of the transported entity ,  into the cell .
+a transport reaction which results in the removal of the transported entity from the cell .
+a composite biochemical process through which a gene sequence is fully converted into mature gene products .
+a region of dna to which various transcription factors and rna polymerase must bind in order to initiate transcription for a gene .
+a process that can modify the state of petri net 'places' \  [ sbo:0000593 \  ]  .
+a discrete value attributed to an entity pool .
+a defined entity pool state which can be modified by a petri net transition  \  [ sbo:0000591 \  ]  .
+a participant whose presence does not alter the velocity of a process or event .
+a modifier that can exhibit either inhibitory or stimulatory effects on a \ nprocess depending on the context in which it occurs .
+a modifier whose activity is not known or has not been specified .
+a silencer is a modifier which acts in a manner that completely prevents an event or process from occurring .
+a denotement that specifies a point of contact between variables or submodels in a hierarchical model .
+a connection point to an element in a model that indicates that the element's mathematical interpretation is defined outside the model .
+a connection point to an element in a model that indicates that the element's mathematical interpretation is defined within the model .
+a parameter that takes only logical values .
+a substance that is produced in a chemical reaction but is not itself the primary product or focus of that reaction .
+a substance that is consumed in a chemical reaction but is not itself the primary substrate or focus of that reaction .
+a receptor where binding occurs through strong intermolecular forces such as van der waals ,  hydrogen bonds or ionic bonds .
+a receptor where binding occurs through weak intermolecular forces .
+a macromolecular complex composed of two monomeric units ,  which may or may not be identical .
+a macromolecular complex composed of precisely two identical monomeric units ,  which are usually non - covalently bound .
+a macromolecular complex composed of precisely two non - identical monomeric units ,  which are usually non - covalently bound .
+a measure of the rate of growth of an organism ,  usually in culture .
+under nutrient limited conditions ,  it may be assumed that enzymes are operating below their maximal capacity  ( kcat )  .
+the velocity at which a reaction occurs .
+parameters that pertain to chemical reactions .
+rate of reaction expressed as a change in concentration over time .
+rate of reaction expressed as a change in enumerated quantity over time .
+the extent of a reaction is a measure of how far a reaction has proceeded towards equilibrium .
+the gibbs free energy change observed in a thermodynamic system when a substance undergoes a reaction under non standard conditions .
+the negative partial derivative of gibbs free energy g with respect to extent of reaction at constant pressure and temperature .
+a gibbs free energy that is calculated from the standard gibbs value  ( at 298k )  ,  and extrapolated to a desired ph and ionic strength ,  and may be determined at a different temperature .
+a gibbs free energy of reaction that is calculated from the standard gibbs value  ( at 298k )  ,  and extrapolated to a desired ph and ionic strength ,  and may be determined at a different temperature .
+a gibbs free energy of formation that is calculated from the standard gibbs value  ( at 298k )  ,  and extrapolated to a desired ph and ionic strength ,  and may be determined at a different temperature .
+the gibbs free energy change observed in a thermodynamic system when a substance undergoes a reaction under non standard conditions ,  which is extrapolated to a desired ph and ionic strength ,  and may be determined at a different temperature .
+a combined  ( weighted )  measure of the concentration of all electrolytes present in a solution .
+modelling approach ,  typically used for metabolic models ,  where the flow of metabolites  ( flux )  through a network can be calculated .
+a parameter that limits the upper or lower value that a flux may assume .
+a value used for flux bound in cases where a precise value ,  supported experimentally or theoretically ,  is not available .
+a modeling process to provide matter influx or efflux to a model ,  for example to replenish a metabolic network with raw materials  ( eg carbon  /  energy sources )  .
+a modeling process analogous to exchange reaction ,  but which operates upon  \ "internal \ " metabolites .
+biomass production ,  often represented 'r_biomass_' ,  is usually the optimization target reaction of constraint - based models ,  and can consume multiple reactants to produce multiple products .
+a modeling representation of the energetics of an organism that are attributed to energy costs not directly related to those for growth .
+a conceptual process used for modeling purposes ,  often created solely to complete model structure ,  with respect to providing inflow or outflow of matter or material .
+a modeling process to provide matter influx or efflux to a model ,  for example to replenish a metabolic network with raw materials  ( eg carbon  /  energy sources )  .
+term used to indicate the grouping of model components ,  largely reactions ,  by some criterion ,  often processual .
+fragment or region of a dna macromolecule .
+fragment or region of an rna macromolecule .
+describes an activator  ( ligand )  which binds at a site other than the active site ,  resulting in a conformational change ,  enhancing the activity of the enzyme .
+describes an activator  ( ligand )  which binds to the enzyme ,  which does not result in a conformational change ,  but which enhances the enzyme's activity .
+an inhibitor which binds irreversibly with the enzyme such that it cannot be removed ,  and abolishes enzymatic function .
+an inhibitor whose binding to an enzyme results in a conformational change ,  resulting in a loss of enzymatic activity .
+an inhibitor which binds only to the complex formed between the enzyme and substrate  ( e - s complex )  .
+an enumeration of the concentration of magnesium  ( mg )  in solution  ( pmg =  - log10 \  [ mg2 +  \  ]  )  .
+conceptual or material entity that is the object of an inhibition process ,  and is acted upon by an inhibitor .
+conceptual or material entity that is the object of a stimulation process ,  and is acted upon by a stimulator .
+conceptual or material entity that is the object of a modification process ,  and is acted upon by a modifier .
+an entity that acts as the starting material for genetic production  ( http: /  / identifiers .org / biomodels .sbo / sbo:0000589 )  .
+reaction scheme where the products are created from the reactants and the change of a product quantity is proportional to the product of reactant activities .
+a measure of the mass of a molecule derived as a sum of weights of its constituent elements multiplied by the number of atoms of each of the element described by its molecular formula .
+a measure of the total mass of a protein described as a sum total of the weight of all its atoms .
+a composite representation of material entities required for organismal growth .
+a sequential series of actions ,  motions ,  or occurrences ,  such as chemical reactions ,  where a reversal of states that bring the system back to its original state in a characteristic manner occurs .
+a sequential series of actions ,  motions ,  or occurrences ,  such as chemical reactions ,  where a reversal of states that bring the system back to its original state in a characteristic manner does not occur .
+a chemical reaction in which one or more monomer molecules combine to form a larger polymer molecule with repeated structural units .
+a chemical reaction in which a large polymer breaks into its constituent monomers  ( or mixture of monomers )  .
+a biochemical process involving the simultaneous transport of two or more substances across a membrane via a protein or protein complex .
+the movement of an entity / entities across a biological membrane mediated by a transporter protein .
+a conformational change in a protein resulting in its activation .
+protein assisted movement of molecules across a membrane from a region of low concentration to high concentration involving the consumption of cellular energy  ( atp molecules )  .
+movement of molecules without the need for external energy ,  and usually from a region of high concentration to low concentration .
+a membrane protein mediated transport of two ore more molecules in the same relative direction across a membrane .
+a membrane protein mediated transport of two or more molecules in opposite directions across a membrane .
+total amount that can be contained or produced by a specific entity .
+occopancy is a quantitative systemic property that indicates which number of available places is occupied .
+fractional occupancy is a quantitative dynamic property of a system that can be calculated as the fraction of occupancy over capacity .
+an entity which physical constituents are partially or totally contained in a defined compartment .
+a conformation changes to a protein leading to its inactivation
+describes the number of amino acids , nucleic acid in a protein / dna / rna chain
+length of amino acid sequence in a protein
+output generated as biomass or product from a / set of chemical reaction / s .
+generation of biomass for an substrate through a defined reaction / s .
+generation of product from substrate in a defined chemical reaction .
+agent driving non - enzymatic reaction .non - enzymatic reactions resemble catalytic mechanisms as found in all major enzyme classes and occur spontaneously ,  small molecule  ( e .g .

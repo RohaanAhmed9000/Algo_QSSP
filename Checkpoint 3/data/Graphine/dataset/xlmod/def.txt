@@ -1,0 +1,1101 @@
+proteomics standards initiative cross - linking and derivatization controlled vocabulary .
+entity relevant to the domain of cross - linking in proteomics .
+dead - end modification resulting from a cross - linker reagent reacting only with one peptide .
+a cross - linker acting as label transfer reagent .
+compound that can link two or more polymer chains .
+a cross - linking reagent with identical reactive groups at each end of the spacer arm .
+a cross - linking reagent with at least two different reactive groups .
+obsolete a cross - linking reagent that becomes reactive when exposed to ultraviolet or visible light .
+a cross - linking reagent causing direct conjugation without becoming part of the final cross - link between the target molecules .
+an attribute describing a cross - linker .
+indicates that a cross - linker is deuterium labelled .
+indicates that a cross - linker is hydrolyzed ,  for example for nhs - type reagents  - c ( =o )  - nhs was converted to  - c ( =o )  - oh .
+indicates that a cross - linker is amidated .
+indicates that a cross - linker is membrane permeable .
+indicates that a cross - linker is hydrophilic .
+indicates that a cross - linker is fluorescent .
+indicates that a cross - linker is cleavable .
+indicates that a cross - linker is chemically cleavable .
+indicates that a cross - linker is mass - spectrometrically cleavable ,  i .e .
+indicates that a cross - linker facilitates enrichment .
+indicates that a cross - linker is iodinatable ,  e .g .
+indicates a dead - end modification that was amidated by an ammonium salt ,  like e .g .
+indicates a dead - end modification that was amidated by tris ( hydroxymethyl )  - aminomethane ,  for example for nhs - type reagents  - c ( =o )  - nhs was converted to  - c ( =o )  - nhc ( ch2oh ) 3 .
+indicates that a cross - linker contains a cleavable s - s bond ,  which is chemically cleavable by reducing agents like e .g .
+indicates that a cross - linker is chemically cleavable by the oxidizing agent periodate .
+indicates that a cross - linker is chemically cleavable by hydroxylamine .
+an attribute describing a reactive group .
+indicates that a reactive group reacts with specific functional groups .
+indicates that a reactive group is reactive with primary amino  (  - nh2 )  groups .
+indicates that a reactive group is reactive with sulfhydryl  (  - sh )  groups .
+indicates that a reactive group is reactive with carboxyl  (  - cooh )  groups .
+indicates that a reactive group is reactive with aldehyde  (  - cho )  or carbonyl  (  - co )  groups .
+indicates that a reactive group is reactive with hydroxyl  (  - oh )  groups .
+indicates that a reactive group is reactive with azide  (  - n3 )  groups .
+indicates that a cross - linker is cleavable by light .
+indicates that a cross - linker is mass - spectrometrically cleavable by collission induced dissociation .
+indicates that a cross - linker is labelled with carbon - 13 .
+indicates that a cross - linker is non - selective  ( i .e .
+indicates that a cross - linker is chemically cleavable by the reducing agent dtt  ( dithiothreitol )  .
+indicates that a cross - linker is chemically cleavable by ammonium hydroxide .
+indicates that a cross - linker is mass - spectrometrically cleavable by in - source decay .
+indicates that a cross - linker is mass - spectrometrically cleavable  ( reducible )  by thiols .
+indicates that a cross - linker is chemically cleavable by the reducing agent tcep  ( tris ( 2 - carboxyethyl ) phosphin )  .
+indicates that a cross - linker is chemically cleavable by the reducing agent mercaptoethanol .
+indicates that a cross - linker is mass defect labelled .
+indicates that a reactive group is reactive with thioether  ( r1 - s - r2 )  groups .
+indicates that a reactive group is reactive with the heterocyclic imidazole groups .
+indicates that a cross - linker is thioesterized .
+indicates that a reactive group is reactive with rna or dna .
+an amino acid derivative used in cross - linking experiments .
+a handle attached to a cross - linker used for detection ,  affinity enrichment or purification .
+a biotin reactive group that reacts with avidin ,  streptavidin or neutravidin .
+a no2 detection tag .
+an alkyne  ( hadrocarbon with at least one c - c triple bond )  tag ,  e .g .
+a dinitrobenzole affinity handle for enrichment with anti - dnb antibodies ,  attached to a cross - linker .
+a photoreactive azide  (  - n3 )  tag to enable enrichment of cross - linked peptides with either immobilized alkyne linkers or by azide - alkyne click chemistry using biotin - alkyne respective biotin - phosphine .
+an alpha - cyano - 4 - hydroxycinnamic acid uv - absorbing label for signal enhancement .
+a generic neutral loss reporter .
+an amino acid compound .
+the amino acid l - leucine .
+the amino acid l - methionine .
+indicates that a cross - linker is chemically cleavable by bases .
+indicates that a reactive group is reactive with hydrazines  ( n2h4 )  .
+indicates that a reactive group is reactive with carbonyl  ( r1 - co - r2 )  groups .
+indicates that a cross - linker is oxidized ,  e .g .
+indicates that a cross - linker is modified to it's alkene form  ( loss of two hydrogen atoms by forming a c=c double bond )  .
+indicates that a cross - linker is chemically cleavable by acids .
+indicates that a cross - linker contains a cid  ( collision induced dissociation )  cleavable c - s bond .
+the amino acid l - isoleucine .
+indicates that a cross - linker is labelled with oxygen - 18 .
+the amino acid l - phenylalanine .
+a iminobiotin trifluoroacetamide affinity handle ,  enrichable with avidin ,  streptavidin or neutravidin ,  attached to a cross - linker .
+indicates that a reactive group is reactive with either of the glycoproteins avidin ,  streptavidin or neutravidin .
+a nitrogeneous base occurring in nucleic acids .
+a purine base occurring in nucleic acids .
+a pyrimidine base occurring in nucleic acids .
+the nucleobase adenine .
+the nucleobase guanine .
+the nucleobase cytosine .
+the nucleobase thymine .
+the nucleobase uracil .
+a nucleobase derivative used in cross - linking experiments for protein - oligonucleotide cross - linking .
+a combination of a nucleobase and a sugar  ( either ribose or deoxyribose )  .
+the nucleoside adenosine .
+the nucleoside guanosine .
+the nucleoside cytidine .
+the nucleoside uridine .
+the nucleoside 5 - methyluridine .
+a nucleoside derivative used in cross - linking experiments for protein - oligonucleotide cross - linking .
+thiol - modified rna .
+a biotin - alkyne affinity handle ,  which can be used for enrichment with click - chemistry .
+a tetramethylrhodamine - alkyne affinity handle ,  which can be used for enrichment with click - chemistry .
+a lipid analogue used in cross - linking experiments for lipid - protein cross - linking .
+a sialic acid analogue used in cross - linking experiments for glycan - protein cross - linking .
+alkenization dead - end modification resulting from a cross - linker reagent reacting only with one peptide .
+ammonium amidation dead - end modification resulting from a cross - linker reagent reacting only with one peptide .
+hydrolization dead - end modification resulting from a cross - linker reagent reacting only with one peptide .
+oxidition dead - end modification resulting from a cross - linker reagent reacting only with one peptide .
+thio - esterization dead - end modification resulting from a cross - linker reagent reacting only with one peptide .
+indicates that a cross - linker is chemically cleavable by formic acid .
+part of a cross - linker that reacts with the amino - acids of the protein .
+a reactive group  ( n - hydroxysuccinimide )  that reacts with lysines and n - termini but also serines ,  threonines and tyrosines .
+a reactive group  ( n - hydroxysulfosuccinimide )  that reacts with lysines and n - termini but also serines ,  threonines and tyrosines .
+photoreactive group  ( r1 - cn2 - r2 )  that inserts into any c - h or n - h bond .
+a reactive group that reacts with amines .
+a carboxyl - to - amine  ( r1 - n=c=n_r2 )  reactive chemical group .
+a reactive group that reacts with sulfhydryl groups .
+a nitrophenyl azide photoreactive group .
+indicates that a reactive group is photoreactive .
+a pyridinyldisulfide reactive group that reacts with sulfhydryl groups to form disulfide bonds .
+a hydrazide reactive group  (  - co - nh - nh2 )  that reacts with carbonyls to form hydrazone bonds .
+an amine - reactive chemical group  ( r1 - c ( =nh )  - or2 )  .
+a reactive group  ( alpha - haloacetyl ,  halo - c2h5 )  ,  mostly a iodoacetyl ,  bromoacetyl or chloroacetyl group ,  that reacts with sulfhydryl groups .
+a reactive group  ( r - o - n - r2 )  that conjugates to carbonyls .
+photoreactive aryl ( ar )  - substitited azide  ( n=n=n )  group ,  that initiates addition reactions with double bonds or insertion into c - h and n - h bonds or reacts with primary amines .
+an arginine - specific reactive group  ( h - co - co - h )  .
+an aldehyde  ( r - co - h )  reactive group .
+a reactive group  ( ch2=ch - co - r )  that reacts with sulfhydryl  (  - sh )  groups .
+tetrafluorophenyl  ( tfp )  azide  ( n=n=n )  photoreactive group .
+benzophenone photoreactive group .
+a reactive group  ( f5 - ph )  that reacts with amines .
+a reactive group  ( ch3 - so2 - s - r )  that reacts with sulfhydryl  (  - sh )  groups .
+photoreactive group that inserts into any c - h bond .
+indicates that a reactive group is thermoreactive .
+an isocyanate  (  - n=c=o )  that reacts with hydroxyl groups .
+a hydroxyphenyl azid photoreactive group .
+a phenyl azide photoreactive group .
+a iodoacetyl reactive group ,  that reacts with sulfhydryl groups .
+a bromoacetyl reactive group ,  that reacts with sulfhydryl groups .
+a reactive group that reacts with amines .
+a reactive group that reacts with amines .
+a reactive group that reacts with amines .
+platinum ( ii )  coordinates with the side chains of methionine  ( met )  ,  cysteine  ( cys )  ,  and histidine ( his )  ,  namely ,  thioether ,  sulfhydryl ,  and imidazole .
+reactive group  (  - nh2 )  that reacts with carboxyl  (  - cooh )  groups .
+a photoreactive group that reacts with pyrimidines ,  especially thymines of nucleic acids .
+a photoreactive azido - methylcoumarin group .
+a photoreactive perfluoroaryl azide group .
+a photoreactive diazo  ( r1r2c=n=n )  group .
+a reactive group  (  - cooh )  that reacts with primary amine  (  - nh2 )  groups .
+a reactive group that reacts with amine groups .
+a reactive group that reacts with hydroxyl groups .
+a reactive group  ( c=o ) that reacts with hydrazines  ( n2h4 )  .
+an arginine - specific reactive group .
+a hydrazone reactive group  ( c=nh - nhr )  that reacts with carbonyls .
+a s - acetyl group .
+an aryl halide group  ( ar - halogen )  that reacts with primary amines .
+a dimethylether  ( ch3 - o - ch3 )  reactive group that reacts with carboxyl groups .
+indicates that a reactive group is photocleavable .
+a photocleavable group .
+indicates that a reactive group is photoactivatable .
+tetrafluorophenyl  ( tfp ,  f4 - ph )  ester .
+a pentylamine  ( ch3 ( ch2 ) 4 - nh2 )  reactive group that reacts with carboxyl groups .
+a reactive group that reacts with guanin .
+an imino  ( r1r2 - c=n - r3 )  reactive group that reacts with primary amines .
+an acyl chloride  ( r - co - cl )  reactive group that reacts with alcohol ,  phenol ,  thiol and amines .
+a sulfonyl chloride  ( r - so2 - cl )  reactive group .
+a benzofurazan  ( 2 , 1 , 3 - benzoxadiazole )  reactive group .
+a halobenzofurazan  ( 2 , 1 , 3 - benzoxadiazole )  reactive group with a halogen  (  - f ,   - cl )  modification .
+a hydrazine  ( r - nhnh2 -  )  reactive group .
+a 4 - substituted 1 , 2 , 4 - triazoline - 3 , 5 - dione  ( tad )  reactive group .
+an  ( alkyl -  or aryl - substituted )  boronic acid  ( r - b -  ( oh ) 2 )  reactive group .
+an isothiocyanate  (  - n=c=s )  reactive group .
+a chloroformate  ( cl - co - or )  reactive group .
+a carbamate  ( o - co - n )  reactive group .
+a sulfonate  ( r1 - so2o - r2 )  reactive group .
+an anhydride  ( r1 - co - o - co - r2 )  reactive group .
+reactive group  (  - cooh )  that reacts with amino  (  - nh2 )  groups .
+a benzyl bromide  ( c6h5ch2br )  reactive group .
+indicates that a cross - linker is chemically cleavable by sodium dithionite .
+a benzoyl bromide  ( c6h5cobr )  reactive group .
+a lysine - specific reactive group .
+indicates a cross - linker facilitating imac  ( immobilized metal affinity chromatography )  enrichment .
+a phosphonic acid handle ,  which can be used for imac - enrichment .
+hydrolyzed bis ( sulfosuccinimidyl ) suberate .
+ammonium amidated bis ( sulfosuccinimidyl ) suberate .
+hydrolyzed disuccinimidyl suberate .
+ammonium amidated disuccinimidyl suberate .
+deuterium labelled hydrolyzed disuccinimidyl 2 , 2 , 7 , 7 - suberate .
+deuterium labelled ammonium amidated disuccinimidyl 2 , 2 , 7 , 7 - suberate .
+deuterium labelled hydrolyzed disuccinimidyl 2 , 2 , 3 , 3 , 4 , 4 , 5 , 5 , 6 , 6 , 7 , 7 - suberate .
+deuterium labelled ammonium amidated disuccinimidyl 2 , 2 , 3 , 3 , 4 , 4 , 5 , 5 , 6 , 6 , 7 , 7 - suberate .
+deuterium labelled hydrolyzed bis ( sulfosuccinimidyl )  2 , 2 , 7 , 7 - suberate .
+deuterium labelled ammonium amidated bis ( sulfosuccinimidyl )  2 , 2 , 7 , 7 - suberate .
+hydrolyzed bis ( sulfosuccinimidyl )  glutarate .
+ammonium amidated bis ( sulfosuccinimidyl )  glutarate .
+hydrolyzed disuccinimidyl glutarate .
+ammonium amidated disuccinimidyl glutarate .
+deuterium labelled hydrolyzed disuccinimidyl 2 , 2 , 4 , 4 - glutarate .
+deuterium labelled ammonium amidated disuccinimidyl 2 , 2 , 4 , 4 - glutarate .
+deuterium labelled hydrolyzed bis ( sulfosuccinimidyl )  2 , 2 , 4 , 4 - glutarate .
+deuterium labelled ammonium amidated bis ( sulfosuccinimidyl )  2 , 2 , 4 , 4 - glutarate .
+biotin aspartate proline n - hydroxyphthalimide - stump .
+hydrolyzed dithiobis [ succinimidyl propionate .
+ammonium amidated dithiobis [ succinimidyl propionate .
+hydrolyzed ethylene glycolbis ( succinimidylsuccinate )  .
+ammonium amidated ethylene glycolbis ( succinimidylsuccinate )  .
+hydrolyzed bimane bisthiopropionic acid n - succinimidyl ester .
+ammonium amidated bimane bisthiopropionic acid n - succinimidyl ester .
+hydrolyzed cyanurbiotindipropionylsuccinimide .
+ammonium amidated cyanurbiotindipropionylsuccinimide .
+hydrolyzed disuccinimidyladipic acid .
+ammonium amidated disuccinimidyladipic acid .
+hydrolyzed dnbdps .
+ammonium amidated dnbdps .
+hydrolyzed teabs cross - linking reagent .
+ammonium amidated teabs cross - linking reagent .
+hydrolyzed deuterium labelled 3 , 3' - dithiobis [ sulfosuccinimidylpropionate ]  .
+ammonium amidated deuterium labelled 3 , 3' - dithiobis [ sulfosuccinimidylpropionate ]  .
+hydrolyzed deuterium - labelled dithiobis [ succinimidyl propionate .
+ammonium amidated deuterium - labelled dithiobis [ succinimidyl propionate .
+hydrolyzed ethylene glycolbis ( sulfosuccinimidylsuccinate )  .
+ammonium amidated ethylene glycolbis ( sulfosuccinimidylsuccinate )  .
+deuterium labelled hydrolyzed ethylene glycolbis ( succinimidylsuccinate )  .
+deuterium labelled ammonium amidated ethylene glycolbis ( succinimidylsuccinate )  .
+deuterium labelled hydrolyzed ethylene glycolbis ( sulfosuccinimidylsuccinate )  .
+deuterium labelled ammonium amidated ethylene glycolbis ( sulfosuccinimidylsuccinate )  .
+hydrolyzed 13c labelled disuccinimidyladipic acid .
+ammonium amidated 13c labelled disuccinimidyladipic acid .
+deuterium labelled hydrolyzed cyanurbiotindipropionylsuccinimide .
+deuterium labelled ammonium amidated cyanurbiotindipropionylsuccinimide .
+hydrolyzed cyanurbiotindimercaptopropionylsulfosuccinimide .
+ammonium amidated cyanurbiotindimercaptopropionylsulfosuccinimide .
+deuterium labelled hydrolyzed cyanurbiotindimercaptopropionylsulfosuccinimide .
+deuterium labelled ammonium amidated cyanurbiotindimercaptopropionylsulfosuccinimide .
+deuterium labelled hydrolyzed bis ( sulfosuccinimidyl )  2 , 2 , 3 , 3 , 4 , 4 , 5 , 5 , 6 , 6 , 7 , 7 - suberate .
+deuterium labelled ammonium amidated bis ( sulfosuccinimidyl )  2 , 2 , 3 , 3 , 4 , 4 , 5 , 5 , 6 , 6 , 7 , 7 - suberate .
+deuterium labelled hydrolyzed disuccinimidyl 2 , 2 , 3 , 3 , 4 , 4 - glutarate .
+deuterium labelled ammonium amidated disuccinimidyl 2 , 2 , 3 , 3 , 4 , 4 - glutarate .
+deuterium labelled hydrolyzed bis ( sulfosuccinimidyl )  2 , 2 , 3 , 3 , 4 , 4 - glutarate .
+deuterium labelled ammonium amidated bis ( sulfosuccinimidyl )  2 , 2 , 3 , 3 , 4 , 4 - glutarate .
+hydrolyzed suberic acid 1 , 8 - dihydrazide .
+deuterium labelled hydrolyzed suberic acid 1 , 8 - dihydrazide .
+hydrolyzed adipic acid 1 , 6 - dihydrazide .
+deuterium labelled hydrolyzed adipic acid 1 , 6 - dihydrazide .
+hydrolyzed glutaric acid 1 , 5 - dihydrazide .
+deuterium labelled hydrolyzed glutaric acid 1 , 5 - dihydrazide .
+hydrolyzed bis -  ( n - hydroxysuccinimidyl )  3 - amino - n - biotinoyl - 1 , 5 - pentanedioate .
+hydrolyzed bis -  ( n - hydroxysuccinimidyl )  5 - amino - n - biotinoyl - 1 , 9 - nonanedioate .
+hydrolyzed dibenzoyloxysuccinimidylethyl phosphate .
+hydrolyzed bis ( succinimidyl )  - 3 - azidomethyl glutarate .
+hydrolyzed crosslinking reagent jmv 3378 .
+hydrolyzed 4 -  [ 3 -  ( 2 - {2 -  [  ( 2 , 5 - dioxo - pyrrolidin - 1 - yloxycarbonyl - methyl )  - carbamoyl ]  - pyrrolidin - 1 - yl} - 2 - oxo - ethyl )  - thioureido ]  - butyric acid 2 , 5 - dioxo - pyrrolidin - 1 - yl ester .
+hydrolyzed nhs - amino butyric acid - urea - amino butyric acid - nhs .
+hydrolyzed diethylsuberthioimidate .
+ammonium amidated diethylsuberthioimidate .
+thioesterized diethylsuberthioimidate .
+hydrolyzed bis ( sulfosuccinimidyl ) suberate pentaethyleneglycol .
+ammonium amidated bis ( sulfosuccinimidyl ) suberate pentaethyleneglycol .
+hydrolyzed bis ( 2 -  [ succinimidooxycarbonyloxy ] ethyl )  sulfone .
+ammonium amidated bis ( 2 -  [ succinimidooxycarbonyloxy ] ethyl )  sulfone .
+hydrolyzed disuccinimidyl tartrate .
+ammonium amidated disuccinimidyl tartrate .
+hydrolyzed succinimidyl - ester diazirine .
+oxidized succinimidyl - ester diazirine .
+alkenized succinimidyl - ester diazirine .
+hydrolyzed lc - sda .
+oxidized lc - sda .
+alkenized lc - sda .
+hydrolyzed l - 2 - amino - 4 , 4 - azi - pentanoic acid .
+oxidized l - 2 - amino - 4 , 4 - azi - pentanoic acid .
+alkenized l - 2 - amino - 4 , 4 - azi - pentanoic acid .
+hydrolyzed l - 2 - amino - 5 , 5 - azi - hexanoic acid .
+oxidized l - 2 - amino - 5 , 5 - azi - hexanoic acid .
+alkenized l - 2 - amino - 5 , 5 - azi - hexanoic acid .
+hydrolyzed bis - maleimidoethane .
+hydrolyzed n -  ( beta - maleimidopropyloxy ) succinimide ester .
+ammonium amidated n -  ( beta - maleimidopropyloxy ) succinimide ester .
+hydrolyzed pimelic acid dihydrazide .
+deuterium labelled hydrolyzed pimelic acid dihydrazide .
+hydrolyzed disuccinimidyl - succinamyl - aspartyl - proline .
+hydrolyzed l - photo - isoleucine .
+oxidized l - photo - isoleucine .
+alkenized l - photo - isoleucine .
+hydrolyzed sulfo - sbed cross - linker .
+hydrolized protein interaction reporter .
+hydrolyzed photo - cleavable leiker .
+8 - methoxypsoralen reagent .
+4' - hydroxymethyl - 4 , 5'8 - trimethylpsoralen reagent .
+5 - iodouracil reagent .
+4 - thiouracil reagent .
+6 - thioguanosine reagent .
+5 - bromouracil reagent .
+5 - iodocytosine reagent .
+8 - azidoadenosine reagent .
+2 - azidoadenosine reagent .
+8 - azidoguanosine reagent .
+5 - azidouridine reagent .
+bis -  [ 3 -  ( 2 - ketobutyraldehyde ) ether reagent .
+mechlorethamine reagent .
+4 -  [ bis -  ( 2 - chloroethyl ) amino ] benzenebutanoic acid reagent .
+sym - triazine trichloride reagent .
+heteroconjugate 20 reagent .
+benzophenone - 4 - iodoacetamide reagent .
+azidophenacyl bromide reagent .
+benzophenone - phosphatidylcholine .
+phenylazide - phosphatidylcholine .
+the n -  ( 4 - azidosalicylamidyl )  - 1 , 2 - dilauroyl - sn - glycero - 3 - phosphoethanolamine lipid analogue used for lipid - protein cross - linking .
+the ac5 - 5 - siadaz sialic acid analogue used for glycan - protein cross - linking .
+the ac4 - manndaz sialic acid analogue used for glycan - protein cross - linking .
+the ac4 - mannac sialic acid analogue used for glycan - protein cross - linking .
+the ac4 - glcndaz sialic acid analogue used for glycan - protein cross - linking .
+the ac5 - methyl - siadaz sialic acid analogue used for glycan - protein cross - linking .
+sialylated lacnac - biotin used for glycan - protein cross - linking .
+psoralen - peg3 - biotin biotinylation reagent .
+photoactivatable biotin biotinylation reagent .
+tfpa - peg3 - biotin biotinylation reagent .
+1 -  ( 4 - azidosalicylamido )  - 6 ( biotinamido )  - hexane .
+biotin 3 - sulfo - n - hydroxysuccinimide ester sodium salt .
+sulfo - nhs - lc - biotin biotinylation reagent .
+nhs - peg12 - biotin biotinylation reagent .
+nhs - ss - peg4 - biotin biotinylation reagent .
+biotin n - hydroxysuccinimide ester .
+biotinamidohexanoyl - 6 - aminohexanoic acid n - hydroxysuccinimide ester .
+biotin disulfide n - hydroxysuccinimide ester .
+nhs - iminobiotin trifluoroacetamide biotinylation reagent .
+pentafluorophenyl - biotin .
+tetrafluorophenyl - peg3 - biotin .
+maleimide - peg11 - biotin biotinylation reagent .
+1 - biotinamido - 4 -  [ 4´ -  ( maleimidomethyl ) cyclohexanecarboxamido ] butane .
+iodoacetyl - peg2 - biotin biotinylation reagent .
+iodoacetyl - lc - biotin biotinylation reagent .
+5 -  ( biotinamido ) pentylamine .
+5 -  ( biotinamido ) pentylamine .
+amine - peg3 - biotin biotinylation reagent .
+biocytine - hydrazide biotinylation reagent .
+biocytine - hydrazide biotinylation reagent .
+long chain biocytine - hydrazide biotinylation reagent .
+biotin - peg4 - hydrazide biotinylation reagent .
+photoactivatable biotin .
+biotin - peg2 - alkyne .
+biotin - peg2 - c4 - alkyne .
+biotin - peg4 - alkyne .
+2 - iminothiolane reagent .
+3 - azidopyridine - adenine dinucleotide reagent .
+l - 2 - amino - 4 , 4 - azi - pentanoic acid .
+l - 2 - amino - 5 , 5 - azi - hexanoic acid .
+l - photo - isoleucine .
+p - benzoyl - l - phenylalanine .
+deuterium labelled p - benzoyl - l - phenylalanine .
+bis ( sulfosuccinimidyl ) suberate .
+disuccinimidyl suberate .
+deuterium labelled disuccinimidyl 2 , 2 , 7 , 7 - suberate .
+deuterium labelled disuccinimidyl 2 , 2 , 3 , 3 , 4 , 4 , 5 , 5 , 6 , 6 , 7 , 7 - suberate .
+deuterium labelled  ( bis ( sulfosuccinimidyl )  2 , 2 , 7 , 7 - suberate )  .
+bis ( sulfosuccinimidyl )  glutarate .
+disuccinimidyl glutarate .
+deuterium labelled disuccinimidyl 2 , 2 , 4 , 4 - glutarate .
+deuterium labelled bis ( sulfosuccinimidyl )  2 , 2 , 4 , 4 - glutarate .
+disulfide .
+1 - ethyl - 3 -  ( 3 - dimethylaminopropyl ) carbodiimide hydrochloride .
+biotin aspartate proline n - hydroxyphthalamide .
+n - 5 - azido - 2 - nitrobenzoyloxysuccinimide .
+n -  ( beta - maleimidopropyloxy ) succinimide ester .
+6 - maleimidohexanoic acid n - hydroxysuccinimide ester .
+n -  [ gamma - maleimidobutyryloxy ]  succinimide .
+n - succinimidyl 3 -  [ 2 - pyridyldithio ]  - propionate .
+succinimidyl 6 -  ( 3 -  [ 2 - pyridyldithio ]  - propionamido ) hexanoate .
+sulfosuccinimidyl 6 -  ( 3' -  [ 2 - pyridyldithio ]  - propionamido ) hexanoate .
+m - maleimidobenzoyl - n - hydroxysuccinimide ester .
+m - maleimidobenzoyl - n - hydroxysulfosuccinimide ester .
+3 -  [ 2 - pyridyldithio ] propionyl hydrazide .
+n - succinimidyl bromoacetate .
+n - succinimidyl iodoacetate .
+succinimidyl - 4 -  [ n - maleimidomethyl ] cyclohexane - 1 - carboxylate .
+sulfosuccinimidyl - 4 -  [ n - maleimidomethyl ] cyclohexane - 1 - carboxylate .
+n - succinimidyl 4 -  [ 4 - maleimidophenyl ] butyrate .
+succinimidyl - 6 -  [ beta - maleimidopropionamido ] hexanoate .
+n - sulfosuccinimidyl - 6 -  [ 4' - azido - 2' - nitrophenylamino ]  hexanoate .
+dithiobis [ succinimidyl propionate .
+deuterium labelled dithiobis [ 1 , 1 , 2 , 2 , 2 , 2 , 3 , 3 - succinimidyl propionate .
+sebacic acid bis [ n - hydroxysuccinimide ester ]  .
+disuccinimidyl tartrate .
+3 , 3' - dithiobis [ sulfosuccinimidylpropionate ]  .
+ethylene glycolbis ( succinimidylsuccinate )  .
+ethylene glycolbis ( sulfosuccinimidylsuccinate )  .
+n , n' - carbonyldiimidazole .
+n , n' - dicyclohexylcarbodiimide .
+n - hydroxysuccinimide .
+n - hydroxysulfosuccinimide .
+bimane bisthiopropionic acid n - succinimidyl ester .
+formaldehyde reagent .
+glutardialdehyde .
+disuccinimidyladipic acid .
+an isotopically - coded cleavable crosslinker affinity - purifyable with antibodies .
+teabs cross - linking reagent .
+click - enabled linker for interacting proteins .
+biotin - aspartate - rink - glycine cross - linker composed of a biotin affinity handle  ( b )  ,  a pentafluorophenyl  ( pfp )  ester modified aspartate reside  ( d )  ,  a rink group  ( r )  ,  and a pfp ester modified glycine reside  ( g )  .
+deuterium labelled 3 , 3' - dithiobis [ sulfosuccinimidylpropionate ]  .
+deuterium labelled ethylene glycolbis ( succinimidylsuccinate )  .
+deuterium labelled ethylene glycolbis ( sulfosuccinimidylsuccinate )  .
+pyridine - 3 - carboxylic acid succinimide .
+pyridine - 3 - carboxylic acid succinimide .
+13c labelled disuccinimidyladipic acid .
+deuterium labelled cyanurbiotindipropionylsuccinimide .
+cyanurbiotindimercaptopropionylsulfosuccinimide .
+deuterium labelled cyanurbiotindimercaptopropionylsulfosuccinimide .
+suberic acid 1 , 8 - dihydrazide .
+deuterium labelled suberic acid 1 , 8 - dihydrazide .
+adipic acid 1 , 6 - dihydrazide .
+deuterium labelled adipic acid 1 , 6 - dihydrazide .
+glutaric acid 1 , 5 - dihydrazide .
+deuterium labelled glutaric acid 1 , 5 - dihydrazide .
+deuterium labelled  ( bis ( sulfosuccinimidyl )  2 , 2 , 3 , 3 , 4 , 4 , 5 , 5 , 6 , 6 , 7 , 7 - suberate )  .
+deuterium labelled disuccinimidyl 2 , 2 , 3 , 3 , 4 , 4 - glutarate .
+deuterium labelled bis ( sulfosuccinimidyl )  2 , 2 , 3 , 3 , 4 , 4 - glutarate .
+succinimidyl acetylthioacetate .
+n - succinimidyl - s - acetylthiopropionate .
+succinimidyl 4 -  ( n - maleimidomethyl ) cyclohexane - 1 - carboxy -  ( 6 - amidocaproate )  .
+n -  (  ( 2 - pyridyldithio ) ethyl )  - 4 - azidosalicylamide .
+bis -  ( 2 -  ( methanethiosulfonato ) ethyl ) amine .
+3 , 6 , 9 , 12 - tetraoxatetradecane - 1 , 14 - diyl dimethanethiosulfonate cross - linker .
+3 , 6 , 9 - trioxaundecane - 1 , 11 - diyl dimethanethiosulfonate cross - linker .
+1 , 1 - methanediyl bismethanethiosulfonate .
+1 , 2 - ethanediyl bismethanethiosulfonate .
+n - succinimidyloxycarbonylpentyl methanethiosulfonate .
+3 , 6 - dioxaoctane - 1 , 8 - diyl dimethanethiosulfonate .
+undecane - 1 , 11 - diyl - bismethanethiosulfonate .
+bis ( 2 -  [ succinimidooxycarbonyloxy ] ethyl )  sulfone .
+1 , 4 - di -  ( 3' -  [ 2'pyridyldithio ]  - propionamido )  butane .
+sulfodisuccinimidyl tartrate .
+n - gamma - maleimidobutyryloxysulfosuccinimide ester .
+n -  ( epsilon - maleimidocaproic acid )  hydrazide .
+n -  ( epsilon - maleimidocaproic acid ) hydrazide ,  trifluoroacetic acid .
+n -  ( epsilon - maleimidocaproyloxy )  sulfo succinimide ester .
+n -  ( maleimidophenyl )  isocyanate .
+n - succinimidyl ( 4 - iodoacetyl ) aminobenzoate .
+n - sulfosuccinimidyl ( 4 - iodoacetyl ) aminobenzoate .
+sulfo succinimidyl 4 -  ( maleimidophenyl )  butyrate .
+succinimidyl -  [  ( n - maleimidopropionamido )  - tetraethyleneglycol ]  ester .
+azidobenzoyl hydrazide .
+p - azidophenyl glyoxal monohydrate .
+4 - azido - 2 - hydroxy - n -  ( 4 - { [ 3 -  ( 2 - pyridinyldisulfanyl ) propanoyl ] amino}butyl ) benzamide .
+bis ( beta -  [ 4 - azidosalicylamido ]  - ethyl )  disulfide .
+n - hydroxysuccinimidyl - 4 - azidosalicyclic acid .
+n - hydroxysulfosuccinimidyl - 4 - azidobenzoate .
+sulfosuccinimidyl 2 -  ( 7 - amino - 4 - methylcoumarin - 3 - acetamido ) ethyl - 1 , 3 - dithiopropionate .
+sulfosuccinimidyl 2 -  ( m - azido - o - nitrobenzamido )  - ethyl - 1 , 3' - dithiopropionate .
+n - succinimidyl 6 -  ( 4 - azido - 2 - nitroanilino ) hexanoate .
+sulfosuccinimidyl  ( 4 - azidophenyl )  - 1 , 3' - dithiopropionate .
+succinimidyl - 2 -  ( azidosalicylamido ) ethyl - 1 , 3 - dithiopropionate .
+sulfosuccinimidyl - 2 -  ( azidosalicylamido ) ethyl - 1 , 3 - dithiopropionate .
+dttdps cross - linker .
+1 , 4 - diacetalbenzene reagent .
+bis ( 2 , 5 - dioxopyrrolidin - 1 - yl ) 3 , 3' -  ( 3 , 5 - dibromo - 4 - methylphenylazanediyl ) diproponate .
+bis ( 2 , 5 - dioxopyrrolidin - 1 - yl )  2 , 2' -  ( 2 , 4 - dibromophenylsulfonylazanediyl ) diacetate .
+n - benzyliminodiacetoyloxysuccinimid .
+bis -  ( n - hydroxysuccinimidyl )  3 - amino - n - biotinoyl - 1 , 5 - pentanedioate .
+bis -  ( n - hydroxysuccinimidyl )  5 - amino - n - biotinoyl - 1 , 9 - nonanedioate .
+n - succinimidyl p - benzoyldihydrocinnamate .
+deuterium labelled n - succinimidyl p - benzoyldihydrocinnamate .
+s - methyl 5 , 5' - thiodipentanoylhydroxysuccinimidemethylsulfate cross - linker .
+bisuccinimidyl - succinamyl - aspartyl - proline .
+bisuccinimidyl - succinamyl - aspartyl - prolyl - glycine .
+dibenzoyloxysuccinimidylethyl phosphate .
+bis ( succinimidyl )  - 3 - azidomethyl glutarate .
+bis ( succinimidyl )  - 3 - azidomethyl glutarate .
+crosslinking reagent 1 .
+crosslinking reagent jmv 3378 .
+4 -  [ 3 -  ( 2 - {2 -  [  ( 2 , 5 - dioxo - pyrrolidin - 1 - yloxycarbonyl - methyl )  - carbamoyl ]  - pyrrolidin - 1 - yl} - 2 - oxo - ethyl )  - thioureido ]  - butyric acid 2 , 5 - dioxo - pyrrolidin - 1 - yl ester .
+nhs - amino butyric acid - urea - amino butyric acid - nhs .
+diphtalimide suberate .
+1 , 1' -  ( suberoyldioxy ) bisbenzotriazole .
+1 , 1' -  ( suberoyldioxy ) bisazabenzotriazole .
+succinimidyl 2 -  (  [ 4 , 4' - azipentanamido ] ethyl )  - 1 , 3' - dithiopropionate .
+sulfosuccinimidyl 2 -  (  [ 4 , 4' - azipentanamido ] ethyl )  - 1 , 3' - dithiopropionate .
+disuccinimidyl sulfoxide .
+diethylsuberthioimidate .
+cis -  [ pt ( nh3 ) 2cl2 ]  .
+dc4 cross - linker containing a dabco  ( 1 , 4 - diazabicyclo [ 2 .2 .2 ] octane )  moiety .
+4 -  ( p - azidosalicylamido ) butylamine .
+succinimidyl -  [ 4 -  ( psoralen - 8 - yloxy )  ]  - butyrate .
+sulfosuccinimidyl ( 4 - azido - salicylamido )  hexanoate .
+sulfosuccinimidyl ( perfluoroazidobenzamido ) ethyl - 1 , 3´ - dithiopropionate .
+succinimidyl - ester diazirine .
+nhs - lc - diazirine .
+sulfo - nhs - diazirine .
+sulfo - nhs - lc - diazirine .
+dimethyl adipimidate dihydrochloride .
+dimethyl pimelimidate dihydrochloride .
+dimethyl suberimidate dihydrochloride .
+dimethyl 3 , 3' - dithiobispropionimidate dihydrochloride .
+bis ( 2 -  [ sulfosuccinimidooxycarbonyloxy ] ethyl )  sulfone .
+1 , 6 - bis - maleimidohexane .
+1 - 5 - difluoro - 2 , 4 - dinitrobenzene .
+4 - succinimidyloxycarbonyl - methyl - alpha -  ( 2 - pyridyldithio ) toluene .
+n - hydroxysuccinimidyl - 2 - 3 - dibromopropionate .
+n - hydroxysuccinimidyl 4 - azidobenzoate .
+1 -  ( p - azidosalicylamido )  - 4 -  ( iodoacetamido ) butane .
+succinimidyl - 2 -  [ m - azido - o - nitrobenzamido ] ethyl - 1 , 3' - dithiopropionate .
+n - succinimidyl  ( 4 - azidophenyl )  1 , 3´ - dithiopropionate .
+p - nitrophenyl - 2 - diazo - 3 , 3 , 3 - trifluoropropionate .
+succinimidyl - 2 -  ( 7 - azido - 4 - methylcoumarin - 3 - acetamido ) ethyl - 1 , 3' - dithiopropionate .
+sulfosuccinimidyl - 7 - azido - 4 - methylcoumarin - 3 - acetate .
+methyl n - succinimidyl adipate .
+succinimidyl -  [  ( n - maleimidopropionamido )  - diethyleneglycol ]  ester .
+succinimidyl -  [  ( n - maleimidopropionamido )  - hexaethyleneglycol ]  ester .
+succinimidyl -  [  ( n - maleimidopropionamido )  - octaethyleneglycol ]  ester .
+succinimidyl -  [  ( n - maleimidopropionamido )  - dodecaethyleneglycol ]  ester .
+succinimidyl -  [  ( n - maleimidopropionamido )  - tetracosaethyleneglycol ]  ester .
+11 - maleimidoundecanoic acid sulfo - n - succinimidyl ester cross - linker .
+dithio - bis - maleimidoethane .
+3 - n - maleimidobenzoic acid n - succinimidyl ester cross - linker .
+n - succinimidyl 3 -  ( bromoacetamido ) propionate cross - linker .
+1 , 3 - propanediyl bismethanethiosulfonate .
+1 , 4 - butanediyl bismethanethiosulfonate .
+1 , 5 - pentanediyl bismethanethiosulfonate .
+1 , 6 - hexanediyl bismethanethiosulfonate .
+6 - maleimidocaproic acid cross - linker .
+succinimidyl ( perfluoroazidobenzamido ) ethyl - 1 , 3´ - dithiopropionate .
+lcabh cross - linker .
+succinimidyl ( 4 - azido - salicylamido )  hexanoate .
+3 -  (  [ 2 - aminoethyl ]  dithio )  - propionic acid hydrochloride .
+n -  ( alpha - maleimidoacetoxy )  - succinimide ester .
+1 , 4 - bis - maleimidobutane .
+1 , 4 - bis - maleimidyl - 2 , 3 - dihydroxybutane .
+bis - maleimidoethane .
+n - beta - maleimidopropionic acid .
+n -  ( beta - maleimidopropionic acid ) hydrazide .
+1 , 8 - bis - maleimidodiethyleneglycol .
+1 , 8 - bis - maleimidotriethyleneglycol .
+1 , 11 - bis - maleimidotetraethyleneglycol .
+c6 - succinimidyl 4 - hydrazinonicotinate acetone hydrazone .
+c6 - succinimidyl 4 - formylbenzoate .
+succinimdyl 3 -  ( bromoacetamido ) propionate .
+succinimidyl 4 - formylbenzoate .
+succinimidyl 4 - hydrazidoterephthalate hydrochloride .
+n -  ( kappa - maleimidoundecanoyloxy ) sulfosuccinimide ester .
+beta -  ( tris [ hydroxymethyl ] phosphine ) propionic acid .
+n - epsilon - maleimidocaproic acid .
+1 , 6 - hexane - bis - vinylsulfone .
+n - kappa - maleimidoundecanoic acid .
+n -  ( kappa - maleimidoundecanoic acid ) hydrazide .
+4 -  ( 4 - n - maleimidophenyl ) butyric acid hydrazide - hcl .
+succinimidyl - 2 -  ( m - azido - o - nitrobenzamido ) ethyl 1 , 3' - dithiopropionate .
+sulfosuccinimidyl - 2 -  ( m - azido - o - nitrobenzamido ) ethyl 1 , 3' - dithiopropionate .
+sulfosuccinimidyl 2 -  ( 4 - azidosalicylamido )  ethyl - 1 , 3 - dithioproprioonate .
+succinimidyl 2 -  ( 4 - azidosalicylamido )  ethyl - 1 , 3 - dithioproprioonate .
+bis ( sulfosuccinimidyl ) suberate pentaethyleneglycol .
+bis ( sulfosuccinimidyl ) suberate nonaethyleneglycol .
+n - hydroxysuccinimide ester ethane azide .
+n - hydroxysuccinimide ester tetraoxapentadecane azide .
+n - hydroxysuccinimide ester dodecaoxanonatriacontane azide .
+2 - pyridyldithiol - tetraoxatetradecane - n - hydroxysuccinimide .
+2 - pyridyldithiol - tetraoxaoctatriacontane - n - hydroxysuccinimide .
+4 -  ( n - maleimido ) benzophenone .
+1 , 4 - phthalaldehyde .
+diformyl - 5 - ethynylbenzene .
+4 -  ( 4 , 6 - dimethoxy - 1 , 3 , 5 - triazin - 2 - yl )  - 4 - methylmorpholinium chloride .
+pimelic acid dihydrazide .
+deuterium labelled pimelic acid dihydrazide .
+azidobenzoic acid succinimide .
+13c labelled azidobenzoic acid succinimide .
+carboxy - benzophenone - succinimide .
+13c labelled carboxy - benzophenone - succinimide .
+13c labelled succinimidyl - ester diazirine .
+dimethyl disuccinimidyl sulfoxide .
+deuterium labelled dimethyl disuccinimidyl sulfoxide .
+n - biotinyl - n' -  [ 3 , 5 - bis -  ( n - succinimidyloxycarbonyl - methoxy )  - benzoyl ]  - ethane - 1 , 2 - diamine .
+s - s - biotinyl - n' -  [ 3 , 5 - bis -  ( n - succinimidyloxycarbonyl - methoxy )  - benzoyl ]  - ethane - 1 , 2 - diamine .
+succinic acid succinimidyl ester 5 - thioyloxy - 2 - nitrobenzyl ester .
+di 6 -  ( 3 - succinimidyl carbonyloxymethyl - 4 - nitro - phenoxy )  - hexanoic acid disulfide diethanol ester .
+azide - tagged acid - cleavable disuccinimidyl - bissulfoxide .
+alkyne - tagged acid - cleavable disuccinimidyl - bissulfoxide .
+identical mass linker 3 .
+disuccinimidyl - succinamyl - valyl - proline .
+dihydrazide sulfoxide .
+photo - cleavable leiker .
+polyethylene glycol photo - cleavable leiker .
+sulfo - photo - cleavable leiker .
+biotinylated azo - leiker 1 with an azobenzene - based chemical cleavage site .
+biotinylated azo - leiker 2 with an azobenzene - based chemical cleavage site .
+deuterium labelled biotinylated azo - leiker 2 with an azobenzene - based chemical cleavage site .
+18o labelled  ( bis ( sulfosuccinimidyl )  2 , 2 , 7 , 7 - suberate )  .
+protein interaction reporter - i .
+protein interaction reporter - ii .
+protein interaction reporter - iii .
+protein interaction reporter .
+photo - cleavable protein interaction reporter .
+peg5 - biotin - dimer for crosslinking avidin molecules .
+1 -  [  ( 3 - {2 -  [ 2 -  ( 2 - azidoethoxy ) ethoxy ] ethoxy}propanoyl ) oxy ]  - 2 , 5 - pyrrolidinedione .
+1 -  [  ( 1 - azido - 18 - oxo - 3 , 6 , 9 , 12 , 15 - pentaoxaoctadecan - 18 - yl ) oxy ]  - 2 , 5 - pyrrolidinedione .
+1 -  [  ( 1 - azido - 21 - oxo - 3 , 6 , 9 , 12 , 15 , 18 - hexaoxahenicosan - 21 - yl ) oxy ]  - 2 , 5 - pyrrolidinedione .
+1 -  [  ( 1 - azido - 27 - oxo - 3 , 6 , 9 , 12 , 15 , 18 , 21 , 24 - octaoxaheptacosan - 27 - yl ) oxy ]  - 2 , 5 - pyrrolidinedione .
+azido - peg10 - nhs ester .
+azido - peg16 - nhs ester .
+azido - peg24 - nhs ester .
+2 , 5 - dioxocyclopentyl 77 - oxo - 79 -  ( 2 - pyridinyldisulfanyl )  - 4 , 7 , 10 , 13 , 16 , 19 , 22 , 25 , 28 , 31 , 34 , 37 , 40 , 43 , 46 , 49 , 52 , 55 , 58 , 61 , 64 , 67 , 70 , 73 - tetracosaoxa - 76 - azanonaheptacontan - 1 - oate .
+s - methyl 5 , 5' - thiodipentanoylhydroxysuccinimide cross - linker .
+4 -  ( n - sulfosuccinimidylcarboxy ) benzophenone .
+carboxybenzophenonesulfosuccinimide .
+1 , 4 - bis ( 4 -  (  ( 2 , 5 - dioxopyrrolidin - 1 - yl ) oxy )  - 4 - oxobutyl )  - 1 , 4 - diazabicyclo [ 2 .2 .2 ] octane - 1 , 4 - diium .
+pac4 cross - linker .
+clixlink cross - linker .
+r - r aromatic glyoxal cross - linker 1 .
+r - r aromatic glyoxal cross - linker 2 .
+r - r aromatic glyoxal cross - linker 3 .
+k - r aromatic glyoxal cross - linker .
+phox cross - linker .
+cyanurbiotindipropionylsuccinimide .
+sulfo - sbed cross - linker .
+2 -  [ n2 -  ( 4 - azido - 2 , 3 , 5 , 6 - tetrafluorobenzoyl )  - n6 -  ( 6 - biotinamidocaproyl )  - l - lysinyl ] ethylmethanethiosulfate .
+2 - {n2 -  [ n6 -  ( 4 - azido - 2 , 3 , 5 , 6 - tetrafluorobenzoyl )  - n6 -  ( 6 - biotinamidocaproyl )  - l - lysinyl ] }ethylmethanethiosulfate .
+tris - succinimidyl aminotriacetate .
+sbed cross - linker .
+tris -  ( 2 - maleimidoethyl ) amine .
+triceps cross - linker .
+nnp9 cross - linker .
+2 , 4 , 6 - triazido - 1 , 3 , 5 - triazine .
+13c labelled 2 , 4 , 6 - triazido - 1 , 3 , 5 - triazine .
+mrn cross - linker .
+long chain mts - atf - biotin .
+linker containing a dialkoxydiphenylsilane group .
+linker containing a azobenzene group .
+entity relevant to the domain of derivatization in chromatography .
+chemical reagent ,  which transforms a polar group in a molecule into a non - polar group in order to make the molecule volatile and analyzable by gc - ms .
+derivatization reagent replacing an active hydrogen by an aliphatic or aliphatic - aromatic group .
+silylation reagent replacing an active hydrogen by a silyl group .
+acylation reagent replacing an active hydrogen by a acyl  ( r - c=o -  )  group .
+fluorinated anhydride derivatization reagent .
+fluoracylimidazole derivatization reagent .
+halogenation reagent which can produce both silylated and halogenated derivatives .
+chiral derivatization reagent with an enatiomerically pure chiral derivatizing agent to form two diastereomeric derivatives that can be separated by gas chromatography .
+chemical reagent ,  which transforms an analyte so that its stability ,  separation ,  extraction ,  ionization efficiency and ms2 detectability are improved in lc - ms analysis .
+dialkylacetal reagent .
+diazoalkal reagent .
+trimethylsilyl  ( tms )  reagent replacing an active hydrogen by a silyl group .
+dimethylsilyl  ( dms )  reagent replacing an active hydrogen by a silyl group .
+trifluoroacetyl  ( tfa )  reagent replacing an active hydrogen by a silyl group .
+boron trifluoride reagent .
+n , n - dimethylformamidedialkyl acetal .
+chloroformate reagent .
+trialkyloxonium reagent .
+derivatization reagent replacing an active hydrogen by an aliphatic - aromatic group ,  e .g .
+a chromophore group attached to a derivatization reagent for enhanced ub -  or vis - detectability .
+a fluorophore group attached to a derivatization reagent for enhanced fluorescence or chemiluminescence detectability .
+an electrophore group attached to a derivatization reagent for enhanced electrochemical detectability .
+4 - nitrophenyl fluorophore .
+2 , 4 - dinitrophenyl fluorophore .
+3 , 5 - dinitrobenzyl fluorophore .
+4 - chlorobenzoatel fluorophore .
+4 - nitrobenzoatel fluorophore .
+toluoyll fluorophore .
+anisyl fluorophore .
+phenacyl fluorophore .
+4 - bromophenacyl fluorophore .
+2 - naphthacyl fluorophore .
+indicates that a reactive group is reactive with secondary amino  ( =nh )  groups .
+indicates that a derivatization reagent is reactive with active hydrogens like e .g .
+indicates that a derivatization reagent is reactive with amides .
+indicates that a derivatization reagent is reactive with amino acids .
+indicates that a derivatization reagent is reactive with nitrosamines .
+indicates that a derivatization reagent is reactive with sulfonamides .
+indicates that a derivatization reagent is reactive with carbohydrates and sugars .
+indicates that a derivatization reagent is reactive with catecholamines .
+indicates that a derivatization reagent is reactive with sulfides .
+indicates that a derivatization reagent is reactive with phenols .
+indicates that a derivatization reagent is reactive with ketones .
+indicates that a derivatization reagent is reactive with biphosphonate drugs .
+indicates that a derivatization reagent is reactive with steroids .
+indicates that a derivatization reagent is reactive with thiols .
+indicates that a derivatization reagent is reactive with vitamin d metabolites .
+indicates that a derivatization reagent is reactive with nucleosides .
+indicates that a derivatization reagent is reactive with cholesterols .
+indicates that a derivatization reagent is reactive with histamines .
+indicates that a derivatization reagent is reactive with glycans .
+indicates that a derivatization reagent is reactive with alpha - keto - acids .
+indicates that a derivatization reagent is reactive with citric acid .
+indicates that a derivatization reagent is reactive with phosphate .
+indicates that a derivatization reagent is reactive with perfluorinated carboxylic acids .
+indicates that a derivatization reagent is reactive with sialic acid .
+indicates that a derivatization reagent is reactive with bile acids .
+dimethylformamide .
+diazomethane .
+pentafluorobenzyl bromide .
+pentafluorobenzylhydroxylaminehydrochloride .
+benzylbromide .
+tetrabutylammoniumhydroxide .
+boron trifluoride derivatization reagent .
+bis ( trimethylsilyl ) acetamide .
+bis ( trimethylsilyl ) trifluoroacetamide .
+n - methyl - trimethylsilyltrifluoroacetamide .
+hexamethyldisilazane .
+trimethylchlorosilane .
+trimethylsilylimidazole .
+trimethylsilyldiethylamine .
+n - methyl - n - t - butyldimethylsilyltrifluoroacetamide .
+trifluoroacetoic anhydride .
+pentafluoropropionic anhydride .
+heptafluorobutyric anhydride .
+trifluoroacetylimidazole .
+pentafluoropropanylimidazole .
+heptafluorobutyrylimidazole .
+n - methyl - bis ( trifluoroacetamide )  .
+pentafluorobenzoyl chloride .
+pentafluoropropanol .
+4 - carbethoxyhexafluorobutyrylchloride .
+n - trifluoroacetyl - l - prolylchloride .
+ ( s )  -  (  -  )  - n -  ( trifluoroacetyl )  - prolylchloride .
+ (  -  )  - alpha - methoxy - alpha - trifluoromethylphenylacetic acid .
+oximation reagent replacing an aldehyde keto group with an o - methyloxime group .
+methoxylamine hydrochloride .
+trimethyliodosilane .
+deuterium labelled n - methyl - trimethylsilyltrifluoroacetamide .
+deuterium labelled n - methyl - n - t - butyldimethylsilyltrifluoroacetamide .
+deuterium labelled methyl chloroformate .
+methyl chloroformate .
+9 - fluorenylmethyl chloroformate .
+trichloroethyl chloroformate .
+pentafluorobenzyl chloroformate .
+1 - chloroethyl chloroformate .
+n - acetylimidazole .
+1 , 3 - bis ( chloromethyl )  - 1 , 1 , 3 , 3 - tetramethyldisilazane .
+dimethylchlorosilane .
+n - trimethylsilylacetamide .
+n -  ( trimethylsilyl ) diethylamine .
+trimethylphenylammonium hydroxide .
+n , n - dimethylformamidedimethyl acetal .
+dimethyldichlorosilane .
+n - t - butyldimethylsilylimidazole .
+4 - trimethylsiloxy - 3 - penten - 2 - one .
+bromotrimethylsilane .
+triisopropylsilyl chloride .
+triisopropylsilyl trifluoromethanesulfonate .
+triethylsilyl trifluoromethanesulfonate .
+chlorotriethylsilane .
+chloro - dimethyl ( pentafluorophenyl ) silane .
+n - methyl - n - trimethylsilyl - heptafluorobutyramide .
+n - methyl - n - trimethylsilylacetamide .
+hexamethyldisiloxane .
+1 , 1 , 3 , 3 - tetramethyl - 1 , 3 - diphenyldisilazane .
+n , n - dimethyltrimethylsilylamine .
+n , n' - bis ( trimethylsilyl ) urea .
+n , o - bis ( trimethylsilyl ) carbamate .
+n , n - bis ( trimethylsilyl ) methylamine .
+bis ( dimethylamino ) dimethylsilane .
+trimethylsilyl methallylsulfinate .
+triethylsilyl methallylsulfinate .
+tert - butyldimethylsilyl methallylsulfinate .
+methyltrifluoromethanesulfonate .
+ethyl trifluoromethanesulfonate .
+trichloroacetyl chloride .
+2 - thenoyltrifluoroacetone .
+2 , 2 , 6 , 6 - tetramethyl - 3 , 5 - heptanedione .
+n - methyl - bis - heptafluorobutyramide .
+n , n' - diisopropyl - o - methylisourea .
+3 , 3 , 3 - trifluoro - 2 - methoxy - 2 - phenylpropanoic acid .
+6 , 6 , 7 , 7 , 8 , 8 , 8 - heptafluoro - 2 , 2 - dimethyl - 3 , 5 - octanedione .
+4 - bromophenacyl trifluoro - methanesulfonate .
+2 , 3 - diaminotoluene .
+2 , 6 - diamino - 4 - pyrimidinone .
+benzoic acid .
+tert - butyl methyl ether .
+ethyl acetoacetate .
+ ( 1s )  -  (  +  )  - menthyl chloroformate .
+butylboronic acid .
+1 -  ( pentafluoropropionyl )  imidazole .
+hexafluoroacetylacetone .
+2 , 3 , 4 , 5 , 6 - pentafluorobenzaldehyde .
+pentafluorobenzenesulfonyl chloride .
+1 , 1 , 1 - trifluoro - 2 , 4 - pentanedione .
+1 , 1 , 1 - trifluoroacetone .
+4 -  ( trifluoromethyl ) benzoyl chloride .
+8 - quinolinesulfonyl chloride .
+ ( 1r )  -  (  -  )  - menthyl chloroformate .
+phenylboronic acid .
+methylboronic acid .
+2 , 3 , 4 , 5 , 6 - pentafluorobenzoic anhydride .
+4 -  ( dimethylamino ) benzoyl chloride .
+boron trifluoride butanol .
+1 , 1 , 1 , 3 , 3 , 3 - hexafluoro - 2 - propanol .
+2 , 2 , 3 , 3 , 3 - pentafluoro - 1 - propanol .
+2 , 3 , 5 , 6 - tetrafluoro - 4 - ethanol ( trifluoromethyl ) benzyl bromide .
+2 , 3 - dihydroxy - biphenyl .
+o -  ( 2 , 3 , 4 , 5 , 6 - pentafluorobenzyl ) hydroxylamine hydrochloride .
+pentafluoroiodoethane .
+tetrabutylammoniumtetrabutylborate .
+trimethylboroxine .
+boron trifluoride propanol .
+4 - bromobenzyl bromide .
+n , n - dimethylformamidediethyl acetal .
+n , n - dimethylformamidedibutyl acetal .
+n , n - dimethylformamidediisopropyl acetal .
+n , n - dimethylformamidedineopentyl acetal .
+n , n - dimethylformamidedipropyl acetal .
+n , n - dimethylformamidedi - tert - butyl acetal .
+nonafluoro - 1 - iodobutane .
+triethyloxonium tetrafluoroborate .
+2 , 2 , 2 - trichloroethanol .
+triethyloxonium hexafluorophosphate .
+2 , 2 , 2 - trifluoroethanol .
+trimethyloxonium tetrafluoroborate .
+2 , 2 - dimethoxypropane .
+4 - tolylsulfonylmethylnitrosamide .
+18 - crown - 6 .
+3 - aminopropyltriethoxysilane .
+dansyl chloride .
+picolinic acid .
+fusaric acid .
+dimethylglycine .
+isonicotinoyl azide .
+n - hydroxysuccinimide esters of n - alkyl ( c1 - c4 ) nicotinic acids .
+2 - fluoro - 1 - methylpyridinium p - toluenesulfonate .
+3 - nitrophthalic anhydride .
+2 - hydrazino - 1 - methylpyridine .
+2 - hydrazinopyridine .
+dansyl hydrazine .
+pyridinioacetohydrazide chloride .
+betaine hydrazide hydrochloride .
+2 , 4 - dinitrophenylhydrazine .
+hydroxylamine .
+4 -  [ 2 -  ( trimethylammonio ) ethoxy ] anilinium dibromide .
+4 -  ( 2 -  (  ( 4 - bromophenethyl ) dimethylammonio ) ethoxy ) benzenaminium dibromide .
+d - cysteine .
+2 - picolylamine .
+3 - picolylamine .
+3 - picolylcarbinol .
+3 - hydroxy - 1 - methyl - piperidine .
+3 -  ( hydroxymethyl )  - pyridine .
+4 - diazomethylpyridine .
+4 -  [ 2 -  ( n , ndimethylamino ) ethylaminosulfonyl ]  - 7 -  ( 2 - aminoethylamino )  - 2 , 1 , 3 - benzoxadiazole .
+1 - butanol hydrochloride .
+fluorenylmethyloxycarbonyl chloride .
+n - methyl - 2 - phenylethanamide .
+2 - bromo - 1 -  ( 4 -  ( dimethylamino ) phenyl ) ethanone .
+6 - aminoquinolyl - n - hydroxysuccinimidyl carbamate .
+3 - pyridyl isothiocyanate .
+phenyl isothiocyanate .
+isobutyl chloroformate .
+4 -  ( n , n - dimethylaminosulfonyl )  - 7 - fluoro - 2 , 1 , 3 - benzoxadiazole .
+4 - bromophenacyl bromide .
+ethyl bromoacetate .
+ ( 2 -  [ 4 - aminophenoxy ] ethyl ) trimethylammonium bromide .
+hydroxylammonium chloride .
+4 - bromobenzenesulfonyl chloride .
+7 - fluoro - 4 - nitrobenzoxadiazole .
+diacetyl - l - tartaric anhydride .
+pentafluorophenacyl trifluoromethanesulfonate .
+propyl chloroformate .
+12 , 4 - dinitrofluorobenzene .
+trimethylsilyldiazomethane .
+1 , 1 , 1 - trimethoxyethane .
+3 -  ( perfluorooctyl ) propylamine .
+dimethylaminoethanol .
+4 - nitrobenzyl bromide .
+2 , 3 - pyridinedicarboxylic anhydride .
+ethoxyamine hydrochloride .
+4 -  ( n , n - dimethylaminosulfonyl )  - 7 - hydrazino - 2 , 1 , 3 - benzoxadiazole .
+1 -  ( 5 - fluoro - 2 , 4 - dinitrophenyl )  - 4 - methylpiperazine .
+4 - nitrobenzoyl chloride .
+pyridine - 3 - sulfonyl chloride .
+methyl acrylate .
+iodoacetic acid .
+2 - bromo - 3' - methoxyacetophenone .
+monobromobimane .
+4 - bromo - phenacyl - bromide .
+4 - bromomethyl - 7 - methoxycoumarin .
+4 - substituted 1 , 2 , 4 - triazoline - 3 , 5 - dione  ( tad )  .
+4 -  ( 4' - dimethylaminophenyl )  - 1 , 2 , 4 - triazoline - 3 , 5 - dione .
+4 - phenyl - 1 , 2 , 4 - triazole - 3 , 5 - dione .
+4 -  [ 2 -  ( 6 , 7 - dimethoxy - 4 - methyl - 3 - oxo - 3 , 4 - dihydroquinoxalyl ) ethyl ]  - tad .
+4 -  [ 4 -  ( 6 - methoxy - 2 - benzoxazolyl ) phenyl ]  - 1 , 2 , 4 - triazoline - 3 , 5 - dione .
+4 -  ( 4 - nitrophenyl )  - 1 , 2 , 4 - triazole - 3 , 5 - dione .
+edaravone .
+tris ( trimethoxyphenyl ) phosphonium compound .
+1s - pentafluorophenyl tris ( 2 , 4 , 6 - trimethoxyphenyl ) phosphonium acetate bromide .
+ ( 4 - hydrazino - 4 - oxobutyl )   [ tris ( 2 , 4 , 6 - trimethoxyphenyl ) phosphonium bromide .
+tris ( 2 , 4 , 6 ,  - trimethoxyphenyl ) phosphonium acetic acid .
+tris ( 2 , 4 , 6 ,  - trimethoxyphenyl ) phosphonium ethanoic acid bromide .
+tris ( 2 , 4 , 6 ,  - trimethoxyphenyl ) phosphonium propionic acid bromide .
+tris ( 2 , 4 , 6 ,  - trimethoxyphenyl ) phosphonium propylamine bromide .
+benzoic anhydride .
+propionic anhydride .
+4 - toluenesulfonhydrazide .
+2 -  ( n , n - dimethyl - amino ) ethyl acrylate .
+1 - naphthylisothiocyanate .
+sulfur trioxide pyridine complex .
+sulfur trioxide n , n - dimethyl - formamide complex .
+2 - acrylamino - 2 - methyl - propanesulfonic acid .
+benzyl chloride .
+acetic anhydride .
+n - methyl - 4 - hydrazino - 7 - nitrobenzofurazan .
+boron trifluoride methanol .
+ ( 3 -  ( 2 - nitro - 4 - trifluoromethylphenyl ) aminophenyl ) dihydroxyborane .
+2 - nitro - 4 - trifluoromethylphenylhydrazine .
+4 - chloro - 7 - nitro - 2 , 1 , 3 - benzoxadiazole .
+nbd - pz hydrochloride .
+sulfanilic acid .
+1 - chloro - 4 - methylpyridinium iodide .
+3 -  ( 2 , 5 - dioxopyrrolidin - 1 - yl - oxycarbonyl ) propyl ] trimethylammonium chloride .
+n - methylnicotinic acid n - hydroxysuccinimide ester .
+deuterium labelled n - methylnicotinic acid n - hydroxysuccinimide ester .
+n - propylnicotinic acid n - hydroxysuccinimide ester .
+deuterium labelled n - propylnicotinic acid n - hydroxysuccinimide ester .
+n - butylnicotinic acid n - hydroxysuccinimide ester .
+deuterium labelled n - butylnicotinic acid n - hydroxysuccinimide ester .
+2 , 4 - dinitrofluorobenzene .
+4 - n , n , n - trimethylammonioanilyln' - hydroxysuccinimidyl carbamate iodide .
+deuterium labelled p - n , n , n - trimethylammonioanilyln' - hydroxysuccinimidyl carbamate iodide .
+4 - methylpiperazine acetyl succinimide .
+deuterium labelled 4 - methylpiperazine acetyl succinimide .
+4 - methylpiperadinebutyryl succinimide .
+deuterium labelled 4 - methylpiperadinebutyryl succinimide .
+dimethylaminobutyryl succinimide .
+deuterium labelled dimethylaminobutyryl succinimide .
+13c - dansyl chloride .
+pentafluorophenyl - activated ester of polyethyleneglycol .
+13c labelled pentafluorophenyl - activated ester of polyethyleneglycol .
+cholamine .
+deuterium labelled cholamine .
+2 - bromo - 1 - methylpyridinium iodide .
+deuterium labelled 2 - bromo - 1 - methylpyridinium iodide .
+3 - carbinol - 1 - methylpyridinium iodide .
+deuterium labelled 3 - carbinol - 1 - methylpyridinium iodide .
+4 - dimethylaminophenacyl bromide .
+13c labelled p - dimethylaminophenacyl bromide .
+7 -  ( n , n - dimethylaminosulfonyl )  - 4 -  ( aminoethyl ) piperadino - 2 , 1 - 3 - benzoxadiazole .
+deuterium labelled 7 -  ( n , n - dimethylaminosulfonyl )  - 4 -  ( aminoethyl ) piperadino - 2 , 1 - 3 - benzoxadiazole .
+7 -  ( n , n - dimethylaminosulfonyl )  - 4 - piperadino - 2 , 1 - 3 - benzoxadiazole .
+deuterium labelled 7 -  ( n , n - dimethylaminosulfonyl )  - 4 - piperadino - 2 , 1 - 3 - benzoxadiazole .
+deuterium labelled pyridinioacetohydrazide chloride .
+deuterium labelled 2 , 4 - dinitrophenylhydrazine .
+2 - phenylenediamine .
+5 , 5' - dithio -  ( bis - 2 - nitrobenzoic )  acid .
+4 -  ( hydroxymercuri ) benzoate acid .
+n - ethylmaleimide .
+4 - methylbenzenesulfonyl isocyanate .
+1 -  ( 4 - lsopropyl )  phenyl - 3 - methyl - 5 - pyrazolone .
+2 - sulfobenzoic anhydride .
+1 - pyrenesulfonyl chloride .
+2 , 3 - naphthalenedialdehyde .
+3 - chlorocarbonyl - 6 , 7 - dimethoxy - 1 - methyl - 2 ( 1h )  - quinoxalinone .
+fluorescein - 5 - isothiocyanate .
+2 - chloro - 1 - methylpyridinium .
+ ( 5 - n - succinimidoxy - 5 - oxopentyl ) triphenylphosphonium bromide .
+diethylethoxymethylenemalonate .
+4 -  ( dimethylamino ) phenyl isothiocyanate .
+3 - nitrophenyl isothiocyanate .
+3 - aminopyridyl - n - hydroxysuccinimidylcarbamate .
+n -  ( 4 - aminomethylphenyl ) pyridinium .
+cyclohexanedione .
+2 - fluoro - 1 - methylpyridium .
+triplex 5 - diethylaminonaphthalene - 1 - sulfonyl chloride .
+n -  ( 5 - fluoro - 2 , 4 - dinitrophenyl )  - d - leucinamide .
+ebselen .
+iodoacetamide .
+isopropylchloroformate .
+2 - nitrobenzaldehyde .
+5 - n - succinimidoxy - 5 - oxopentyl ) triphenylphosphonium bromide .
+2 , 5 - dioxopyrrolidin - 1 - yl n - tri ( pyrrolidino ) phosphoranylideneamino carbamate .
+2 - nitrophenylhydrazine hydrochloride .
+phenacyl bromide .
+2 -  ( 4 - nitro - benzyl )  - n , n' - diisopropyl - iso - urea .
+3 - nitrophenylhydrazine .
+butyl 1 -  ( pyridin - 4 - yl )  piperidine 4 - carboxylate .
+4 - bromo - n - methylbenzylamine .
+n - methyl - 2 - phenylethanamine .
+benzoyl chloride .
+n - tert - butylmaleimide .
+n - propylmaleimide .
+4 - hydrazinobenzoic acid .
+2 - aminoethanethiol .
+2 - diphenylacetyl - 1 , 3 - indandione - 1 - hydrazone .
+3 - methylbenzothiazolin - 2 - one hydrazone .
+cyclohexane - 1 , 3 - dione .
+pyroglutamic acid succinimidyl ester .
+2 , 4 , 6 - trichlorophenylhydrazine .
+o - 2 , 3 , 4 , 5 , 6 -  ( pentafluorobenzyl )  hydroxylamine hydrochloride .
+benzoyl hydrazine .
+2 - iodoacetanilide .
+n - hydroxy - benzotriazolyl -  ( s )  - naproxen ester .
+methyl acetimidate .
+13c labelled methyl acetimidate .
+13c labelled formaldehyde reagent .
+acetaldehyde .
+deuterium labelled acetaldehyde .
+4 -  ( 4 - methyl - 1 - piperazyl )  - 3 - nitrobenzoyl azide .
+dibenzyl ethoxymethylene malonate .
+benzyl ethyl ethoxymethylene malonate .
+diisopropyl hydrogen phosphite .
+2 -  ( 2 -  [ 7h - dibenzo  ( a , g ) carbazol - 7 - yl ]  - ethoxy ) ethyl chloroformate .
+ethyl chloroformate .
+1 - bromobutane .
+2 - bromopyridine - 5 - boronic acid .
+ ( 3 - dimethylaminophenyl ) dihydroxyborane .
+1 - methylimidazole - 2 - sulfonyl chloride .
+n - methyl pyridinium - 3 - sulfonyl chloride .
+quaternary aminooxy reagent .
+2 , 4 - dimethoxy - 6 - piperazin - 1 - yl pyrimidine .
+3 - pyridylcarbinol .
+phenylhydrazine .
+o - benzylhydroxylamine .
+o - phenylenediamine .
+benzyl alcohol .
+4 - hydroxymercuribenzoate .
+4 - chloro - 3 , 5 - dinitrobenzotrifluoride .
+omega - bromoacetonylquinolinium bromide .
+pentafluorophenylhydrazine .
+7 -  ( diethylamino ) coumarin - 3 - carbohydrazide .
+l - carnosine .
+7 - fluorobenzo - 2 - oxa - 1 , 3 - diazole - 4 - sulfonate .
+4 -  ( aminosulfonyl )  - 7 - fluoro - 2 , 1 , 3 - benzoxadiazole .
+4 - nitro - 7 -  ( 1 - piperazinyl )  - 2 , 1 , 3 - benzoxadiazole .
+4 -  ( aminosulfonyl )  - 7 -  ( 1 - piperazinyl )  - 2 , 1 , 3 - benzoxadiazole .
+4 -  ( 3 - isothiocyanatopyrrolidin - 1 - yl )  - 7 -  ( n , n - dimethylaminosulfonyl )  - 2 , 1 , 3 - benzoxadiazole .
+4 -  ( n , n - dimethylaminosulfonyl )  - 7 -  ( 2 - carboxylpyrrolidine - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole .
+4 -  ( n , n - dimethylaminosulfonyl )  - 7 -  ( 2 - chroloformylpyrrolidine - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole .
+4 - nitro - 7 -  ( 2 - chroloformylpyrrolidine - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole .
+4 -  ( 2 - carbazoylpyrrolidin - 1 - yl )  - 7 -  ( n , n - dimethylaminosulfonyl )  - 2 , 1 , 3 - benzoxadiazole .
+4 -  ( 2 - carbazoylpyrrolidin - 1 - yl )  - 7 - nitro - 2 , 1 , 3 - benzoxadiazole .
+4 -  ( n , n - dimethylaminosulfonyl )  - 7 -  ( 3 - aminopyrrolidin - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole .
+4 - nitro - 7 -  ( 3 - aminopyrrolidin - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole .
+1 -  ( 3 - aminopropyl )  - 3 - bromoquinolinium bromide .
+ ( s )  - 1 -  ( 4 , 6 - dimethoxy - 1 , 3 , 5 - triazin - 2 - yl ) pyrrolidin - 3 - amine .
+ ( s )  - 2 , 5 - dioxopyrrolidin - 1 - yl - 1 -  ( 4 , 6 - dimethoxy - 1 , 3 , 5 - triazin - 2 - yl )  pyrrolidine - 2 - carboxylate .
+ ( r )  - 1 -  ( 4 , 6 - dimethoxy - 1 , 3 , 5 - triazin - 2 - yl ) pyrrolidin - 3 - amine .
+ ( r )  - 2 , 5 - dioxopyrrolidin - 1 - yl - 1 -  ( 4 , 6 - dimethoxy - 1 , 3 , 5 - triazin - 2 - yl )  pyrrolidine - 2 - carboxylate .
+ ( s )  - 4 , 6 - dimethoxy - n -  ( pyrrolidin - 3 - yl )  - 1 , 3 , 5 - triazin - 2 - amine .
+ ( r )  - 4 , 6 - dimethoxy - n -  ( pyrrolidin - 3 - yl )  - 1 , 3 , 5 - triazin - 2 - amine .
+4 - methyl - 1 , 2 , 4 - triazole - 3 , 5 - dione .
+4 -  ( 4 - dimethylaminophenyl )  - 1 , 2 , 4 - triazole - 3 , 5 - dione .
+deuterium labelled 4 -  ( 4 - dimethylaminophenyl )  - 1 , 2 , 4 - triazole - 3 , 5 - dione .
+4 -  ( 4 - diethylaminophenyl )  - 1 , 2 , 4 - triazole - 3 , 5 - dione .
+2 - hydrazino - 4 - trifluoromethylpyrimidine .
+n - methyl - nicotinic acid n - hydroxysuccinimide ester .
+o -  ( 3 - trimethylammoniumpropyl ) hydroxylamine .
+methoxylamine .
+acetyl chloride .
+2 , 4 - dinitrobenzoyl chloride .
+4 -  [ 2 -  ( n , ndimethylamino ) ethylaminosulfonyl ]  - 7 - chloro - 2 , 1 , 3 - benzoxadiazole .
+4 - nitrobenzenesulfonyl chloride .
+a lc - ms derivatization reagent containing a fluoro - dinitrobenzene structure .
+a lc - ms derivatization reagent containing a fluoro - dinitrophenyl structure .
+n -  ( 2 , 4 - dinitro - 5 - fluorophenyl )  - l - alaninamide .
+n -  ( 2 , 4 - dinitro - 5 - fluorophenyl )  - d - alaninamide .
+n -  ( 5 - fluoro - 2 , 4 - dinitrophenyl )  - l - leucinamide .
+hexyl chloroformate .
+1 , 2 - benzo - 3 , 4 - dihydrocarbazole - 9 - ethyl chloroformate .
+ (  -  )  - 1 -  ( 9 - fluorenyl )  - ethyl chloroformate .
+ (  +  )  - 1 -  ( 9 - fluorenyl )  - ethyl chloroformate .
+1 , 2 - benzo - 3 , 4 - dihydrocarbazole - 9 - ethyl - benzenesulfonate .
+2 -  ( 2 , 3 - naphthalimino ) ethyl trifluoromethanesulfonate .
+4 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 7 - n - piperazino - 2 , 1 , 3 - benzoxadiazole .
+4 -  [ 4 - carbazoylpiperidin - 1 - yl ]  - 7 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 2 , 1 , 3 - benzoxadiazole .
+4 -  [ 2 - carbazoylpyrrolidin - 1 - yl ]  - 7 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 2 , 1 , 3 - benzoxadiazole .
+4 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 7 -  ( 3 - aminopyrrolidin - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole .
+4 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 7 - n - methylhydrazino - 2 , 1 , 3 - benzoxadiazole .
+4 -  [ 2 -  ( n , n - dimethylamino )  ethylaminosulfonyl ]  - 7 -  ( 2 - aminobutylamino )  - 2 , 1 , 3 - benzoxadiazole .
+4 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 7 -  ( 2 - aminopentylamino )  - 2 , 1 , 3 - benzoxadiazole .
+ [ 4 -  ( 4 - n - methyl ) piperazinosulfonyl ]  - 7 -  ( 2 - aminoethylamino )  - 2 , 1 , 3 - benzoxadiazole .
+ [ 4 -  ( 4 - n - methyl )  - piperazinosulfonyl ]  - 7 - chloro - 2 , 1 , 3 - benzoxadiazole .
+4 -  [  [  ( n - hydrazinoformyl ) methyl ]  - n - methyl ] amino - 7 -  [ n , n -  ( dimethylamino ) sulfonyl ]  - 2 , 1 , 3 - benzoxadiazole .
+2 , 4 - dinitro - 6 - trifluoromethylphenylhydrazine .
+2 - amino - n , n , n - trimethylethanaminium chloride .
+4 -  ( 1' - cyanoisoindolyl ) phenylisothiocyanate .
+2 , 3 , 4 , 6 - tetra - o - acetyl - beta - d - glucopyranosyl isothiocyanate .
+4 - dimethylaminophenyl isothiocyanate .
+dimethylaminoazobenzene isothiocyanate .
+trimellitic anhydride .
+3 - bromoactonyltrimethylammonium bromide .
+5 , 5' - dimethyl - 1 , 3 - cyclohexanedione .
+4 -  ( dimethylamino )  - benzoic acid .
+1 , 2 - dimethylimidazole - 4 - sulfonyl chloride .
+n -  ( 2 - ferroceneethyl ) maleimide .
+ferrocenecarboxylic acid -  ( 2 - maleimidoyl ) ethylamide .
+heptadecafluoroundecylamine .
+4 - hydrazino - n , n , n - trimethyl - 4 - oxobutanaminium iodide .
+3 - aminophenylboronic acid .
+1 , 2 - naphthoquinone - 4 - sulfonate .
+2 - bromo - 4' - chloroacetophenone .
+1 - pyrenemethylamine .
+succinimidylferrocenyl propionate .
+n - succinimidyl - 2 ( 3 - pyridyl ) acetate .
+7 - chloro - 2 , 1 , 3 - benzoxadiazole - 4 - sulfonylaminoethyltrimethylammonium chloride .
+1 , 2 - benzo - 3 , 4 - dihydrocarbazole - 9 - p - toluenesulfonate .
+tetramethylammonium hydroxide .
+trimethylsulfonium hydroxide .
+1 -  [ 2 -  ( p - toluenesulfonate )  - ethyl ]  - 2 - phenylimidazole -  [ 4 , 5 - f -  ]  - 9 , 10 - phenantrene .
+1 - pyrenyldiazomethane .
+4 -  bromomethyl - 6 , 7 - methylenedioxycoumarin .
+9 - anthryldiazomethane .
+4 - bromomethyl - 7 , 8 - benzcoumarin .
+4 - diazomethyl - 7 - methoxycoumarin .
+4 - bromomethyl - 7 - acetoxycoumarin .
+4 - bromomethyl - 6 , 7 - dimethoxycoumarin .
+n -  ( 1 - naphthyl ) ethylene diamine dihydrochloride .
+9 - aminophenanthrene .
+2 -  [ p -  ( 5 , 6 - methylenedioxy - 2h - benzotriazol - 2 - yl )  ] phenethylamine .
+succinimidyloxycarbonylmethyl tris ( 2 , 4 , 6 - trimethoxyphenyl ) phosphonium bromide .
+9 -  ( hydroxymethyl ) anthracene .
+5 - dimethylamino - 1 - naphthalenesulfonyl aminoethanol .
+2 -  ( anthracene - 2 , 3 - dicarboximdo ) ethyl - trifluoromethanesulfonate .
+2 -  ( 2 - naphthoxy ) ethyl - 2 -  ( piperidino ) ethanesulfonate .
+n -  ( 4 - amidobutyl )  - n - ethylisoluminol .
+6 -  [ n -  ( 4 - aminobutyl ) methylamino ]  - 2 , 3 - dihydro - 1 , 4 - phthalazinedione .
+6 -  [ n -  ( 3 - propionohydrazino ) thioureido ] benzo [ g ]  - phthalazine - 1 , 4 -  ( 2h , 3h )  - dione .
+triethylamine .
+trifluoroacetic acid .
+4 - bromophenacylate .
+dabsyl chloride .
+2 , 2 - dihydroxyindane - 1 , 3 - dione .
+2 , 4 , 6 - trinitrobenzenesulfonic acid .

@@ -1,0 +1,350 @@
+process
+chemical reaction
+nuclear transformation
+nuclear decay
+nuclear disintegration
+electron capture
+beta - decay
+nuclear fusion reaction
+radiative capture
+capture
+nuclear transition
+radioactive decay
+spontaneous fission
+nuclear fission
+thermal fission
+alpha - decay
+nuclear reaction
+excitation
+photoexcitation
+electron transfer
+outer - sphere electron transfer
+inner - sphere electron transfer
+photoinduced electron transfer
+photophysical process
+photochemical reaction
+photolysis
+photoionization
+photocatalysis
+photoassisted catalysis
+photoluminescence
+excitation energy transfer
+radiative energy transfer
+forster excitation transfer
+dexter excitation transfer
+fluorescence
+phosphorescence
+photoreduction
+atomic fluorescence
+photooxidation
+electronation
+de - electronation
+photooxygenation
+autocatalytic reaction
+chain reaction
+electron - transfer induced chain reaction
+elementary reaction
+stepwise reaction
+composite reaction
+reaction step
+chain initiation
+chain branching
+degenerate chain branching
+chain termination
+chain propagation
+branching chain reaction
+rate - controlling step
+product - determining step
+reaction stage
+parallel reactions
+opposing reactions
+catalysis
+general acid catalysis
+general base catalysis
+specific catalysis
+homogeneous catalysis
+heterogeneous catalysis
+thermal reaction
+thermolysis
+transformation
+substitution
+cycloaddition
+alpha - addition
+elimination
+alpha - elimination
+intramolecular rearrangement
+intermolecular rearrangement
+degenerate rearrangement
+isomerization
+insertion
+extrusion
+cheletropic reaction
+oxidoreductase reaction
+nucleoside - triphosphatase reaction
+nucleoside - triphosphate diphosphatase reaction
+synthase reaction
+active transport
+facilitated diffusion
+simple diffusion
+antiport
+symport
+group translocation
+solvation
+coordination
+unimolecular heterolysis
+colligation
+unimolecular homolysis
+attachment
+detachment
+association
+dissociation
+ionization
+electron attachment
+electron detachment
+spin - allowed electronic transition
+vibronic transition
+charge - transfer transition
+pi - sigma* transition
+sigma - sigma* transition
+ligand to metal charge transfer transition
+metal to ligand charge transfer transition
+metal to metal charge transfer transition
+intervalence charge transfer
+rydberg transition
+unimolecular reaction
+bimolecular reaction
+termolecular reaction
+phase transition
+magnetic transition
+diffusion
+microscopic chemical event
+mesomorphic transition
+polymorphic transition
+melting
+evaporation
+crystallization
+sublimation
+interphase transition
+precipitation
+nucleation and growth
+discontinuous precipitation
+continuous precipitation
+agglomeration
+micellar solubilization
+absorption
+sol - gel transition
+nucleation
+homogeneous nucleation
+simultaneous nucleation
+heterogeneous nucleation
+electrode process
+electrode reaction
+adiabatic electron transfer
+diabatic electron transfer
+adsorption
+desorption
+desorption  ( by displacement )
+dissociative adsorption
+reactive adsorption
+reactive desorption
+physisorption
+chemisorption
+charge - transfer adsorption
+multilayer adsorption
+diabatic photoreaction
+adiabatic photoreaction
+electrodeposition
+micellar catalysis
+nucleophilic catalysis
+inhibition
+mechanism - based inhibition
+competitive inhibition
+chemical activation
+activation of catalysis
+essential activation
+enzyme activation
+zymogen activation
+catalytic poisoning
+temporary poisoning
+polymerization
+condensation polymerization
+condensation reaction
+ring - opening polymerization
+stereoselective polymerization
+chain polymerization
+condensative chain polymerization
+chain transfer
+ionic polymerization
+radical polymerization
+living polymerization
+anionic polymerization
+cationic polymerization
+photoinduced polymerization
+photoinitiation
+polyaddition
+photopolymerization
+cyclopolymerization
+homopolymerization
+copolymerization
+graft copolymerization
+ring - opening copolymerization
+ionic copolymerization
+living copolymerization
+radical copolymerization
+oligomerization
+telomerization
+photoadsorption
+photodesorption
+radiocatalysis
+radiodesorption
+radioadsorption
+radiothermal catalysis
+radiochemical reaction
+radiolysis
+autoradiolysis
+isomeric transition
+electron - positron pair production
+fast atom bombardment ionization
+luminescence
+radioluminescence
+delayed luminescence
+chemiluminescence
+electrogenerated chemiluminescence
+triboluminescence
+sonoluminescence
+bioluminescence
+thermoluminescence
+piezoluminescence
+deactivation
+radiationless deactivation
+emission
+intersystem crossing
+internal conversion  ( in photophysics )
+radiationless transition
+radiative transition
+e - type delayed fluorescence
+p - type delayed fluorescence
+recombination fluorescence
+p - type delayed luminescence
+e - type delayed luminescence
+charge separation
+charge recombination
+ion pair dissociation
+ion - pair return
+internal ion - pair return
+external ion - pair return
+geminate recombination
+primary geminate recombination
+secondary geminate recombination
+singlet - triplet energy transfer
+excitation annihilation
+triplet - triplet annihilation
+singlet - singlet absorption
+singlet - triplet absorption
+photoabsorption
+triplet - triplet absorption
+relaxation
+two - photon excitation
+biphotonic excitation
+annihilation
+mass transfer
+electrophoresis
+chemical relaxation
+vibrational relaxation
+resonance fluorescence
+scattering
+light scattering
+elastic light scattering
+rayleigh scattering
+mie scattering
+compton scattering
+endothermic reaction
+exothermic reaction
+exergonic reaction
+adiabatic process
+atom migration
+bond migration
+migratory insertion
+postprecipitation
+type i photooxygenation
+type ii photooxygenation
+type iii photooxygenation
+photosensitized reaction
+photosensitization
+photothermocatalysis
+thermophotocatalysis
+thermocatalysis
+photoradiocatalysis
+thermochemical reaction
+oxygenase reaction
+dioxygenase reaction
+monooxygenase reaction
+pyrolysis
+redox reaction
+atp diphosphatase reaction
+atpase reaction
+na +  / k +  - exchanging atpase reaction
+na +  export
+k +  import
+k +  - transporting atpase reaction
+solvolysis
+hydrolysis
+substitution reaction
+electrophilic substitution reaction
+nucleophilic substitution reaction
+polar reaction
+addition reaction
+oxidative addition
+reductive elimination
+reduction
+oxygenation
+dehydrogenation
+hydrogenation
+osmosis
+electro - osmosis
+biological membrane transport
+pseudo - catalysis
+ethanol:nad +  dehydrogenase reaction
+ethanol dehydrogenation
+nad +  reduction
+nadp +  reduction
+nad ( p )  +  reduction
+methanol:nad +  dehydrogenase reaction
+methanol dehydrogenation
+aryl - alcohol:nadp +  dehydrogenase reaction
+propan - 2 - ol:nadp +  dehydrogenase reaction
+aryl - alcohol:nad +  dehydrogenase reaction
+aliphatic alcohol:nad +  dehydrogenase
+3 - hydroxybenzyl - alcohol:nadp +  dehydrogenase reaction
+3 - hydroxybenzyl alcohol dehydrogenation
+alcohol dehydrogenation
+primary alcohol dehydrogenation
+secondary alcohol dehydrogenation
+propan - 2 - ol dehydrogenation
+chelation
+nad ( p ) h oxidase reaction
+ferroxidase reaction
+cob ( ii ) yrinic acid a , c - diamide reductase reaction
+nadph:mercury oxidoreductase reaction
+nadph:cyanocobalamin oxidoreductase reaction
+nadh:diferric - transferrin oxidoreductase reaction
+nadh:aquacobalamin oxidoreductase reaction
+nadh:cob ( ii ) alamin oxidoreductase reaction
+nadph:aquacobalamin oxidoreductase reaction
+nadh:ferric - chelate oxidoreductase reaction
+nadph: [ methionine synthase ]  oxidoreductase reaction
+ferrocytochrome:nitrate reductase reaction
+cytochrome - c oxidase reaction
+hydrogen:nad ( p )  +  oxidoreductase reaction
+hydrogen:nad +  oxidoreductase reaction
+hydrogen:nadp +  oxidoreductase reaction
+hydrogen:ferricytochrome - c3 oxidoreductase reaction
+magnesium - protoporphyrin ix monomethyl ester  ( oxidative )  cyclase reaction
+hydrogen:ferredoxin oxidoreductase reaction
+magnesium - protoporphyrin ix 13 - monomethyl ester hydroxylase reaction
+13 ( 1 )  - hydroxy - magnesium - protoporphyrin ix 13 - monomethyl ester dehydrogenase reaction
+13 ( 1 )  - oxo - magnesium - protoporphyrin ix 13 - monomethyl ester cyclase reaction
+tunnelling
+concerted proton tunnelling - electron tunnelling
+primary photoreaction
+part of

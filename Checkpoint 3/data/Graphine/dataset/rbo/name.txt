@@ -1,0 +1,531 @@
+software development
+dataset creating
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+material entity
+atom
+portion of material
+sensor
+dosimetry
+dosimeter
+anthropogenic geographic feature
+hydrographic feature
+ocean
+sea
+saline hydrographic feature
+saline lake
+lake
+water body
+desert area
+valley
+glacial feature
+permafrost
+solid astronomical body part
+scree
+glacial valley
+depression
+piece of rock
+biome
+terrestrial biome
+marine biome
+rock
+soil
+marine water body
+slope
+air
+liquid water
+sediment
+saline water
+aquatic biome
+chemically enriched sediment
+sea water
+organically enriched sediment
+inorganically enriched sediment
+clay
+manufactured product
+enriched soil
+desert sand
+environmental material
+surface layer
+aerosol
+anthropogenic environmental material
+silt
+sand
+marine pelagic biome
+neritic pelagic zone biome
+oceanic pelagic zone biome
+oceanic sea surface microlayer biome
+neritic sea surface microlayer biome
+marine pelagic feature
+ocean biome
+particulate matter
+organic material
+shrubland biome
+desert biome
+environmental condition
+montane shrubland biome
+anthropogenic terrestrial biome
+arid
+environmental system
+mineral material
+water vapour
+atmosphere
+atmospheric water vapour
+ecoregion
+water ice
+ecozone
+layer
+lake layer
+ice mass
+marine layer
+endolithic environment
+saline water environment
+cold environment
+anthropogenic environment
+high osmolarity environment
+aquatic environment
+rocky slope
+marine environment
+sea water environment
+atmospheric boundary layer
+planetary surface
+aquatic layer
+talus slope
+montane
+altitudinal condition
+vegetation layer
+snow
+environmental zone
+atmospheric layer
+boundary layer
+lentic water body
+hydrological condensation process
+planetary landmass
+outer space
+planetary crust
+planetary structural layer
+planetary mantle
+lithosphere
+water mass
+coast
+hydrological precipitation process
+condensation process
+habitat
+area of barren land
+aeroform
+gaseous environmental material
+plasma
+astronomical body
+planet
+star
+astronomical object
+astronomical body part
+solid environmental material
+liquid environmental material
+biosphere
+cryosphere
+hydrosphere
+pedosphere
+precipitation process
+snowfall
+natural environment
+anthropisation
+terrestrial planet
+mass liquid flow
+water flow process
+manufacturing process
+environmental system determined by a quality
+environmental system determined by a material
+environmental system determined by an organism
+plant - associated environment
+animal - associated environment
+meteor
+hydrometeor
+lithometeor
+natural lake
+radiation
+particle radiation
+electromagnetic radiation
+saline environment
+soil environment
+sediment environment
+aerosol environment
+saline aerosol environment
+non - saline aerosol environment
+environment associated with a plant part or small plant
+meteoroid
+metallic material
+particulate matter formation process
+atmospheric aerosol formation
+formation of a solid aerosol in an atmosphere
+formation of a liquid aerosol in an atmosphere
+aerosolised liquids
+aerosolised solids
+formation of a solid aerosol from gaseous material in an atmosphere
+formation of a liquid aerosol from gaseous material in an atmosphere
+ecosystem
+gas planet
+ice
+ocean planet
+ice planet
+helium planet
+volatile astrogeological material
+astrogeological gas
+geodiversity
+environment associated with an aquatic invertebrate
+water surface
+sediment surface
+terrestrial environmental zone
+anthropised terrestrial environmental zone
+marine environmental zone
+stellar radiation
+x - ray stellar radiation
+ionizing stellar radiation
+terrestrial natural environment
+aquatic natural environment
+liquid layer
+solid layer
+water ice layer
+atmospheric zone
+hydroform
+liquid air - water interface layer
+liquid surface layer
+solid surface layer
+saline water body
+advective transport process
+erosion
+desert
+aerosolised particle formation process
+primary aerosol formation process
+anthropogenic ecosystem conversion process
+liquid astronomical body part
+gaseous astronomical body part
+fluid astronomical body part
+surface of an astronomical body
+radiation from a manufactured product
+material congelation process
+frozen land
+frozen soil
+freezing
+freezing of water into water ice
+surface layer of a water body
+terrestrial ecoregion
+sea surface layer
+cryospheric layer
+ice - bearing permafrost
+snow accumulation process
+ice accumulation process
+snow and ice accumulation process
+mass of ice and snow
+formation of a solid aerosol from liquid material in an atmosphere
+gaseous part of an atmosphere
+amorphous solid
+atmospheric aerosol
+aerosol formation process
+fluid surface layer
+fluid interface layer
+fluid layer
+fluid front
+gaseous front
+weather front
+air mass
+gaseous surface layer
+interface layer
+mass of environmental material
+mass of solid material
+mass of fluid
+mass of gas
+mass of liquid
+mass of compounded environmental materials
+polar front
+desert ecosystem
+part of a landmass
+landmass
+compound astronomical body part
+land
+ecosystem process
+organic object
+montane biome
+arid biome
+energy transfer process
+liquid accumulation process
+concentration of carbon dioxide in an atmosphere
+fluid environmental material
+environmental system process
+atmospheric process
+anthropogenic environmental process
+planetary erosion
+hydrological process
+material accumulation process
+material transport process
+geographic basin
+marine sediment
+sedimentation in a water body
+material transformation process
+cryoform
+snow mass
+concentration of carbon dioxide in soil
+concentration of carbon dioxide in air
+concentration of carbon dioxide in seawater
+soil surface layer
+temperature of environmental material
+temperature of air
+porosity of soil
+composition of soil
+structure of soil
+temperature of soil
+temperature of water
+composition of water
+anatomical entity environment
+x - ray radiation
+ionizing radiation
+concentration of dioxygen in liquid water
+biological_process
+cellular process
+measurement unit label
+objective specification
+action specification
+datum label
+software
+information carrier
+data item
+information content entity
+directive information entity
+dot plot
+graph
+algorithm
+curation status specification
+source code module
+data format specification
+data set
+image
+data about an ontology part
+plan specification
+measurement datum
+material information bearer
+histogram
+heatmap
+dendrogram
+scatter plot
+obsolescence reason specification
+figure
+diagram
+document
+denotator type
+planned process
+regulator role
+regulatory role
+material supplier role
+classified data set
+processed material
+assay
+material processing
+specimen role
+organization
+drawing a conclusion based on data
+regulatory agency
+material transformation objective
+manufacturing
+manufacturing objective
+manufacturer role
+clustered data set
+specimen collection process
+class prediction data transformation
+specimen collection objective
+support vector machine
+decision tree induction objective
+decision tree building data transformation
+genepattern software
+peak matching
+k - nearest neighbors
+cart
+statistical model validation
+manufacturer
+service provider role
+processed specimen
+categorical label
+device
+dose
+questionnaire
+conclusion based on data
+categorical value specification
+value specification
+collection of specimens
+histologic grade according to ajcc 7th edition
+histologic grade according to the fuhrman nuclear grading system
+histologic grade for ovarian tumor
+histologic grade for ovarian tumor according to a two - tier grading system
+histologic grade for ovarian tumor according to the world health organization
+pathologic primary tumor stage for colon and rectum according to ajcc 7th edition
+pathologic primary tumor stage for lung according to ajcc 7th edition
+pathologic primary tumor stage for kidney according to ajcc 7th edition
+pathologic primary tumor stage for ovary according to ajcc 7th edition
+pathologic lymph node stage for colon and rectum according to ajcc 7th edition
+pathologic lymph node stage for lung according to ajcc 7th edition
+pathologic lymph node stage for kidney according to ajcc 7th edition
+pathologic lymph node stage for ovary according to ajcc 7th edition
+pathologic distant metastases stage for colon according to ajcc 7th edition
+pathologic distant metastases stage for lung according to ajcc 7th edition
+pathologic distant metastases stage for kidney according to ajcc 7th edition
+pathologic distant metastases stage for ovary according to ajcc 7th edition
+clinical tumor stage group according to ajcc 7th edition
+international federation of gynecology and obstetrics cervical cancer stage value specification
+international federation of gynecology and obstetrics ovarian cancer stage value specification
+performance status value specification
+eastern cooperative oncology group score value specification
+karnofsky score vaue specification
+organism
+specimen
+data transformation
+leave one out cross validation method
+k - means clustering
+hierarchical clustering
+dimensionality reduction
+principal components analysis dimensionality reduction
+data visualization
+data transformation objective
+partitioning data transformation
+partitioning objective
+class discovery data transformation
+class discovery objective
+class prediction objective
+cross validation objective
+clustered data visualization
+quality
+composition
+concentration of
+hardness
+morphology
+shape
+deviation  ( from_normal )
+size
+mass
+position
+structure
+temperature
+behavioral quality
+hard
+decreased size
+opacity
+opaque
+porosity
+porous
+viscosity
+viscous
+physical quality
+elongated
+physical object quality
+electromagnetic  ( em )  radiation quality
+optical quality
+decreased temperature
+amorphous
+unstructured
+decreased position
+sloped
+flexibility
+inflexible
+quality of a solid
+quality of a gas
+quality of a liquid
+increased mass
+osmolarity
+increased osmolarity
+elevation
+decreased elevation
+increased viscosity
+radiation quality
+radiation exposure
+granular
+frozen
+organismal quality
+laminar
+displaced
+molecular quality
+quality of a substance
+handedness
+left handedness
+right handedness
+ambidextrous handedness
+increased quality
+decreased quality
+decreased object quality
+increased object quality
+collection of organisms
+population of organisms
+ecological community
+single - species collection of organisms
+multi - species collection of organisms
+organismal entity
+whole plant
+plant structure
+plant anatomical entity
+ionizing radiation by source
+space radiation
+ground radiation
+tissue equivalent material
+iron - 56
+carbon - 12
+silicon - 28
+helium - 4
+neon - 20
+light ion
+active dosimeter
+passive dosimeter
+background ionizing radiation
+effective dose
+mixed radiation field
+radiation environment
+earth surface
+earth atmosphere
+low earth orbit
+beyond low earth orbit
+fractionated radiation exposure
+millirad
+equivalent dose
+dose fraction
+cosmic radiation
+galactic cosmic radiation
+solar_cosmic_radiation
+dose rate
+spacecraft
+spacecraft module
+international space station module
+space station
+particle accelerator beamline
+particle accelerator radiation
+nuclear reactor radiation
+cesium - 137 gamma radiation
+cobalt - 60 gamma radiation
+cobalt - 57 gamma radiation
+high linear energy transfer radiation
+low linear energy transfer radiation
+radiation dosimeter device
+as low as reasonably achievable
+radiation attenuation
+biodosimetry
+bystander effect
+delta ray
+dose equivalent
+excess lifetime risk
+fast neutron
+fluence
+flux
+heavy ion
+linear energy transfer
+organ dose
+quality factor
+radiation dose
+radiation weighting factor
+relative biological effectiveness
+tissue equivalence
+system
+anatomical entity
+length unit
+mass unit
+time unit

@@ -1,0 +1,333 @@
+obsolete .the root meristem gets organized
+a plant structure development stage  ( po:0009012 )  that has as primary participant a single fruit  ( po:0009001 )  .
+the initial stage of leaf development when cells in the sam are already determined to form a leaf primordium ,  but the primordium itself is not distinguishable morphologically .
+stages of development of the anther defined by characteristic morphological ,  cytological ,  histological or other visible features .
+an initial stage during which archesporial cells arise in four corners of l2 layer .
+stage during which the microsporocytes become conspicuous .
+stages of development of the pollen defined by characteristic morphological ,  cytological ,  histological or other visible features .
+stage during which diploid pollen mother cells become separated from each other and from tapetum by a callose wall .
+stage during which pollen mother cells undergo meiosis to form tetrads of microspores .
+stage of microgametophyte development during which the callose wall between the tetrads breaks down and haploid microspores are released and lie freely in locules .
+an initial stage during which the archesporial cells divide to give rise to primary parietal and sporogenous cells .
+stage of microgametophyte development during which the microspores round up and small vacuoles appear in their cytoplasm .
+stage of microgametophyte development during which a large vacuole is formed in each microspore causing a rapid increase in size and a displacement of the nucleus to one side .
+stage of microgametophyte development during which the asymmetric ,  first mitotic division of the microspores occurs producing a large vegetative cell and small generative cell ,  located near pollen wall .
+a pollen development stage  ( po:0001007 )  during which the generative cell  ( po:0020097 )  undergoes mitotic division to form two male gametes ,  the pollen sperm cells  ( po:0025121 )  .
+stage of microgametophyte development during which the pollen reaches mature stage and desiccates .
+the final stage in the life cycle of the male gametophyte .
+stage during which the primary parietal and primary sporogenous layers are derived from archesporial cells .
+stage of leaf development when leaf primordium is formed as a small protrusion on the flank of sam .
+stage of leaf development when a hood - shaped primordium is formed ,  partially enclosing p1 and sam ,  as in poaceae .
+stage of leaf development when conical p3 leaf completely encloses sam ,  and the ligule primordium is visible ,  as in poaceae .
+stage of leaf development during which a rapid elongation of the leaf blade occurs ;  the elongation of the leaf sheath has not started ,  as in poaceae .
+stage of leaf development during which a rapid elongation of the leaf sheath occurs ,  as in poaceae .
+stage during which the four - lobed anther pattern with two developing stomium regions  ( notch )  are formed .
+stage during which the four clearly defined locules are established .
+obsolete .the meristematic zone is formed
+obsolete .the cells of root primordium undergo elonagtion
+stage immediately following meiosis ,  during which the tetrads of microspores are still hold together ,  enclosed by the callose wall .
+obsolete .the cells develop their characteristic morphology .
+the stage at which root is elongating .
+an anther development stage  ( po:0001004 )  during which degeneration of the anther wall tapetum  ( po:0009071 )  is initiated ,  as the deposition on the surface of the microspore  ( po:0020048 )  primexine proceeds .
+stage during which anther becomes bilocular ,  after degeneration and breakage of septum below stomium .
+stage during which the dehiscence of anthers occurs .
+stage during which the senescence of anther and stamen occurs .
+mature seed with low moisture content .
+the initial stage of endosperm development during which the chalazal and micropilar domains are established .
+stage of endosperm development during which the functional specialization of the maturing endosperm occurs .
+stage of calyx development defined by differentiation and expansion of sepal .
+stage of calyx development when sepal is fully expanded .
+a phyllome development stage  ( po:0025579 )  that has as a primary participant a lemma  ( po:0009037 )  .
+a phyllome development stage  ( po:0025579 )  that has as a primary participant a palea  ( po:0009038 )  .
+a phyllome development stage  ( po:0025579 )  that has as a primary participant a lodicule  ( po:0009036 )  .
+a phyllome development stage  ( po:0025579 )  that has as a primary participant a leaf  ( po:0025034 )  .
+the earliest histological evidence of leaf initiation ,  i .e ,  a change in the orientation of cell division both in the epidermis and in internal layers of the shoot meristem occurs at this stage  ( poethig s ,  1997 ,  plant cell 9:1077 - 1087 )  .
+stage of leaf development which begins when cell differentiation and cell expansion occurs and finishes when the leaf reaches its full size .
+stage of leaf development when leaf is fully expanded .
+the final stage of leaf development when the leaf ceases metabolic activity and senesces .
+stage of lemma development that begins when the lemma primordia arise .
+stage of lemma development defined by differentiation and expansion of lemma .
+stage of lemma development when lemma is fully expanded .
+stage of palea development that begins when the palea primordia arise .
+stage of microgametophyte development during which the small generative cell moves inward ,  becoming completely surrounded by the cytoplasm of the vegetative cell .
+stage of palea development defined by differentiation and expansion of palea .
+stage of palea development when palea is fully expanded .
+stage of lodicule development that begins when the lodicule primordia arise .
+stage of microgametophyte development during which the generative cell undergoes a mitotic division to form two male gametes ,  the sperm cells .
+stage of lodicule development defined by differentiation and expansion of lodicule .
+the stage during which embryo axis and cotyledons rapidly elongate as a result of cell division and cell expansion .
+stage of lodicule development when lodicule is fully expanded .
+stage at which the embryo is fully developed .
+a reproductive shoot system development stage  ( po:0025530 )  that has as primary participant a inflorescence  ( po:0009049 )  .
+the coleoptilar primordium ,  sam and radicle are formed in the embryo of grasses .
+during this stage ,  the protrusion of the first leaf primordia takes place in succession .
+one cell stage that takes place following the fertilization ,  produced by the fusion of sperm cell nucleus and one or more polar nuclei .
+a sporophyte development stage  ( po:0007134 )  that occurs during the interval between fertilization and the first cell division of the plant zygote  ( po:0000423 )  .
+obsolete .stage of endosperm development during wich the formation of starchy endosperm occurs .
+differentiation of aleurone layer ,  the outermost endosperm tissue ,  and the internal starchy tissue .
+a plant structure development stage that has as primary participant a seed .
+early embryo development from two cell stage to a multicellular globular stage before three main tissue systems are differentiated .
+during this stage the embryo proper retains radial symmetry  ( increasing in diameter )  ,  and three main tissue systems are established .
+stage of calyx development that begins when the developing sepals enclose the floral meristem .
+stage of calyx development that begins when the sepals enclose the floral bud .
+stage at which leaflet primordia are initiated on the leaf primordium of a compound leaf .
+stage of gynoecium development defined by differentiation and expansion of carpels .
+stage of gynoecium development defined by the closure of the carpel ( s )  .
+epidermal cells at the top of developing style differentiate stigma .
+stage of ovule development defined by differentiation and expansion of ovules .
+the earliest stage of seed development immediately following double fertilization .
+stage of seed development characterized by seed growth and differentiation .
+change from radial to bilateral symmetry takes place during this embryonic stage .
+the early stage in fruit ripening .
+the stage at which 3 / 4 of inflorescence has emerged from flag leaf sheath .
+an inflorescence detectable phase during which an inflorescence has reached at its full length .
+obsolete .the stage at which the plant grows rapidly by either or both stem elongation and expansion of the rosette / foliage .
+an inflorescence detectable phase during which an inflorescence has reached at least one half of its full length ,  but has not yet reached its full length .
+an inflorescence detectable phase during which an inflorescence is just visible ,  but has not yet reach one quarter of its full length .
+a whole plant fruit formation stage  ( po:0007042 )  that spans the interval when the average size of fruits  ( po:0009001 )  on a whole plant  ( po:0000003 )  has reached 50% to 70% of its final size .
+the stage at which 1 / 2 of inflorescence has emerged from flag leaf sheath .
+a whole plant fruit formation stage  ( po:0007042 )  that spans the interval when the average size of fruits  ( po:0009001 )  on a whole plant  ( po:0000003 )  has reached 10% to 30% of final size .
+a whole plant fruit development stage  ( po:0025500 )  that begins when the first fruit  ( po:0009001 )  on a whole plant  ( po:0000003 )  begins the process of ripening  ( go:0009835 )  in a way which ,  in case there are other fruits ,  the majority of the other fruits start to ripen continuously therewith ,  and ends with earliest of the following:  ( 1 )  the whole plant begins a sporophyte senescent stage  ( po:0007017 )  ,   ( 2 )  the whole plant begins a sporophyte dormant stage  ( po:0007132 )  ,  or  ( 3 )  all fruits on the whole plant are finished ripening .
+the flag leaf sheath swollen .
+an inflorescence detectable phase characterized by a swelling of the flag leaf sheath ,  caused by an increase in the size of the inflorescence as it grows up the leaf sheath .
+a root development stage  ( po:0007520 )  during which a radicle  ( po:0020031 )  emerges from the seed coat  ( po:0009088 )  .
+a sporophyte reproductive stage  ( po:0007130 )  during which a flower  ( po:0009046 )  on a whole plant  ( po:0000003 )  is open .
+a sporophyte development stage during which a sporophyte participates in multicellular organism senescence .
+the flag leaf sheath has started to extend .
+the first awns are visible and the flag leaf sheath has opened .
+a germination stage during which there is absorption of water by the seed .
+the stage at which the inflorescence has fully emerged from the flag leaf sheath .
+the stage at which flowering is complete .
+the stage at which the inflorescence tip is just visible above flag leaf sheath .
+the stage at which the first flower ( s )  open .
+a whole plant fruit formation stage  ( po:0007042 )  that spans the interval when the average size of fruits  ( po:0009001 )  on a whole plant  ( po:0000003 )  has reached 70% of its final size to its final size .
+the flag leaf sheath starts opening .
+a whole plant fruit formation stage  ( po:0007042 )  that spans the interval when the average size of fruits  ( po:0009001 )  on a whole plant  ( po:0000003 )  has reached 30% to 50% of its final size .
+shoot or leaf breaks through soil surface .
+the stage when fruit ripening is midway .
+a whole plant fruit formation stage  ( po:0007042 )  that begins when the first fruit  ( po:0009001 )  on a whole plant  ( po:0000003 )  that has no other fruits as part enters a fruit initiation stage  ( po:0025503 )  and ends when the average size of fruits  ( po:0009001 )  on a whole plant  ( po:0000003 )  has reached 10% of final size .
+a plant structure development stage  ( po:0009012 )  that has as primary participant a whole plant  ( po:0000003 )  .
+the stage at which 1 / 4 of flowers open .
+obsolete .this stage refers to the developmental and physiological changes that occur in the whole plant after fertilization and during fruit development ,  maturation ,  and provisioning .
+the stage at which fruit maturation begins .
+stage of inflorescence development marked by the formation of two ,  often equal - sized ,  inflorescence meristems from one inflorescence meristem .
+the stage at which fruit ripening is complete .
+a trichome development stage that has as primary participant a leaf trichome .
+an inflorescence detectable phase during which an inflorescence emerges from sheathing leaves or bracts .
+a whole plant fruit development stage  ( po:0025500 )  that begins when a fruit  ( po:0009001 )  on a whole plant  ( po:0000003 )  that is not currently participating in a whole plant fruit development stage begins a fruit initiation stage  ( po:0025503 )  and ends with the onset of a whole plant fruit ripening stage  ( po:0007010 )  .
+a seedling development stage  ( po:0007131 )  during which the hypocotyl  ( po:0020100 )  emerges from the seed coat  ( po:0009088 )  .
+the flag leaf sheath is just visibly swollen .
+a sporophyte vegetative stage  ( po:0007134 )  during which the coleoptile  ( po:0020033 )  emerges from the seed coat  ( po:0009088 )  .
+an inflorescence detectable phase during which an inflorescence has reached at least one quarter of its full length ,  but has not yet reached one half of its full length .
+a reproductive growth stage during which an inflorescence is detectable .
+the stage at which 1 / 4 of inflorescence has emerged from flag leaf sheath .
+a seedling development stage  ( po:0007131 )  during which the cotyledon  ( po:0020030 )  emerges from the seed coat  ( po:0009088 )  .
+the late stage of fruit ripening .
+booting has just begun .
+the stage at which 3 / 4 of flowers open .
+the stage at which 1 / 2 of flowers open .
+a seedling development stage  ( po:0007131 )  during which the epicotyl  ( po:0020035 )  emerges from the seed coat  ( po:0009088 )  .
+trichome initiation stage that determine numbers of trichome are formed .
+the resumption of growth by the embryo in a seed .
+the stage trichome nuclei continue to replicate their dna after mitosis and cytokinesis have ceased ,  and as a consequence have a dna content much greater than 2c .
+the stage trichome develops branches .
+obsolete .
+obsolete
+the stage at which six nodes or six internodes are visible .
+the stage at which leaves at seven nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which leaves at twelve nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which leaves at five nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which nine nodes or nine internodes are visible .
+the stage at which leaves at seventeen nodes ,  other than the cotyledonary node ,  are visible above ground .
+rosette has reached approximately 50% of its final diameter .
+the stage at which eight nodes or eight internodes are visible .
+the stage at which main shoot and axillary shoots at two nodes are visible .
+the stage at which leaves at eighteen nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which the axillary shoots are forming .
+the stage at which fifteen nodes or fifteen internodes are visible .
+obsolete
+rosette has reached approximately 70% of its final diameter .
+the stage at which main shoot and axillary shoots at eight nodes are visible .
+stage at which rosette no longer increases in diameter ,  its leaf growth and expansion having ceased .
+the stage at which the internodes begin to elongate .
+the stage at which main shoot and axillary shoots at three nodes are visible .
+rosette has reached approximately 20% of its final diameter .
+the stage at which leaves at twenty or more nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which leaves at thirteen nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which ten nodes or ten internodes are visible .
+the stage at which leaves at fourteen nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which five nodes or five internodes are visible .
+the stage at which main shoot and axillary shoot ( s )  at one node is  ( are )  visible .
+the stage at which main shoot and axillary shoots at four nodes are visible .
+the stage at which the internodes elongate .
+the stage at which thirteen nodes or thirteen internodes are visible .
+the stage at which one node or one internode is visible .
+the stage at which four nodes or four internodes are visible .
+the stage at which main shoot and axillary shoots at five nodes are visible .
+the stage at which leaves at one node ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which leaves at eight nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which three nodes or three internodes are visible .
+the stage at which fourteen nodes or fourteen internodes are visible .
+the stage at which leaves at two nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which the flag leaf is visible .
+the stage at which sixteen nodes or more ,  or sixteen internodes or more are visible .
+the stage at which leaves at nine nodes ,  other than the cotyledonary node ,  are visible above ground .
+obsolete
+the stage at which leaves at ten nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which leaves at fifteen nodes ,  other than the cotyledonary node ,  are visible above ground .
+obsolete
+the stage at which leaves at three nodes ,  other than the cotyledonary node ,  are visible above ground .
+obsolete
+the stage at which seven nodes or seven internodes are visible .
+the stage at which maximum stem length is reached .
+the stage at which main shoot and axillary shoots at nine nodes or more are visible .
+the stage at which twelve nodes or twelve internodes are visible .
+the stage at which vegetative structures are being produced by sam .
+stages of growth based on expansion of the rosette in arabidopsis .
+the stage at which eleven nodes or eleven internodes are visible .
+the stage at which leaves at four nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which leaves at eleven nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which two nodes or two internodes are visible .
+the stage at which main shoot and axillary shoots at six nodes are visible .
+the stage at which leaves at sixteen nodes ,  other than the cotyledonary node ,  are visible above ground .
+the stage at which leaves at nineteen nodes ,  other than the cotyledonary node ,  are visible above ground .
+obsolete
+the stage at which main shoot and axillary shoots at seven nodes are visible .
+the stage at which leaves at six nodes ,  other than the cotyledonary node ,  are visible above ground .
+obsolete
+obsolete
+obsolete
+obsolete
+obsolete
+obsolete
+a sporophyte development stage that occurs during the interval between the initiation of a sporangium and the onset of senescence .
+a sporophyte vegetative stage  ( po:0007134 )  that succeeds the seed germination stage  ( po:0007057 )  and terminates with the development of the first adult vascular leaf  ( po:0006340 )  .
+a sporophyte development stage during which a sporophyte participates in a dormancy process .
+the stage at which the leaves produced by sam are visible above the ground in a seedling or mature plant .
+a sporophyte development stage  ( po:0028002 )  that occurs during the interval between the first division of a plant zygote  ( po:0000423 )  and the formation of a sporangium  ( po:0025094 )  .
+the stage involved in the directionality of expansion growth .
+the stage at which the root cap becomes evident .
+obsolete .the root initials divide repeatedly and add more cells
+the stage at which the initial cells of crown root primordium are formed in the innermost ground meristem cells by one or two periclinal divisions .
+the stage at which root primordium originates and develops at specific locations in embryonic and post embryonic roots .
+the stage at which a group of cells or initials that will differentiate into the primary root become organized in the embryo  .
+the stage at which the root vascular cylinder becomes evident .
+the stage at which the fully formed root emerges .
+this stage at which the transverse divisions in pericycle cells form the initials of the lateral root primordium .
+obsolete .the root initials differentiate by cell division and cell expansion .
+the stage at which the root cortex becomes evident .
+obsolete .the stage at which the meristem of the crown root becomes evident .
+the stage at which the root epidermis becomes evident .
+the stage at which the lateral root emerges .
+the stage at which the crown root emerges .
+the stage at which the root hairs becomes evident .
+stages of development of a root defined by characteristic morphological ,  structural ,  histological or other visible features .
+obsolete .differentiation begins with the enlargement and vacuolation of the tracheary elements of the metaxylem .
+obsolete .the root initial cells are established .
+obsolete .the stage at which the meristem of the primary root becomes evident .
+the stage at which distinct tissues become organized .
+obsolete .the stage at which the root hairs are fully elongated .
+the stage at which the root meristem becomes evident .
+obsolete .radial expansion followed by subsequent periclinal divisions forms the pericycle - derived tissues .
+obsolete .the stage at which the emerged root starts to elongate .
+obsolete .radial expansion followed by subsequent periclinal divisions forms the isodiametric founder cell tissues .
+obsolete .the stage at which the roots hairs are initiated .
+obsolete .
+obsolete .the first protoxylem elements next to the pericycle develop secondary walls and mature .
+obsolete .initial cells of crown root primordium divide anticlinally and periclinally to form epidermis - endodermis initial ,  vascular - cylinder initial and root cap initial .
+obsolete .after the formation of the apical - basal axis in the young embryo ,  the central and basal portion give rise to the root meristem .
+obsolete .the root primordium is visbile
+obsolete .the first phloem elements matures .
+obsolete .the stage at which the meristem of the lateral root becomes evident .
+a floral organ formation stage  ( po:0025585 )  which begins with the differentiation of floral organs  ( po:0025395 )  from the floral organ primordium  ( po:0025477 )  and ends with the beginning of the flowering stage  ( po:0007616 )  .
+a floral organ formation stage  ( po:0025585 )  which begins with the development of the floral organ meristem  ( po:0000229 )  from a portion of meristem tissue  ( po:0009013 )  and ends with the beginning of the floral organ primordium development stage  ( po:0007602 )  .
+a floral organ formation stage  ( po:0025585 )  which begins with the appearance of the floral organ primordium  ( po:0025477 )  and ends with the beginning of the floral organ differentiation stage  ( po:0007600 )  .
+a collective phyllome structure development stage  ( po:0025578 )  that has as a primary participant a calyx  ( po:0009060 )  .
+a collective phyllome structure development stage  ( po:0025578 )  that has as a primary participant a corolla  ( po:0009059 )  .
+a collective phyllome structure development stage  ( po:0025578 )  that has as a primary participant an androecium  ( po:0009061 )  .
+a collective phyllome structure development stage  ( po:0025578 )  that has a primary participant a gynoecium  ( po:0009062 )  .
+stage of calyx development that begins when the sepal primordia arise .
+stage of corolla development that begins when the petal or petal - stamen primordia arise .
+obsolete .50% of the absolute size of the sepals .
+obsolete .100% of the absolute size of the sepals .
+stage of corolla development defined by differentiation and expansion of petal .
+stage of corolla development when petal is fully expanded .
+stage of androecium development that begins when the stamens or petal - stamen primordia arise .
+a reproductive shoot system development stage  ( po:0025530 )  which begins with the onset of the flower meristem transition stage  ( po:0025588 )  and ends after the flowering stage  ( po:0007616 )  .
+a flower development stage  ( po:0007615 )  that begins when pollen  ( po:0025281 )  is released by anther dehiscence  ( go:0009901 )  and / or the stigma  ( po:0009073 )  is receptive and ends with the process of pollination  ( go:0009856 )  and / or floral organ senescence  ( go:0080187 )  .
+stage of gynoecium development that begins when the carpel primordia arise .
+stages of development of the ovule defined by characteristic morphological ,  structural ,  histological or other visible features .
+stage of ovule development that begins when the ovule primordia arise .
+stages of development of the megagametophyte .
+stage of ovule development that begins when the integument primordia are visible .
+the stage of megagametophyte development when the megaspore mother cell enlarges .
+the stage of megagametophyte development when the megaspore mother cell undergoes meiosis .
+the product of meiosis of the megaspore mother cell .
+the stage of megagametophyte development when non - functional megaspores degenerate .
+the stage of megagametophyte development when there are two nuclei .
+the stage of megagametophyte development when there are four nuclei .
+the stage of megagametophyte development when there are eight nuclei .
+a sporophyte vegetative stage  ( po:0007134 )  that occurs during the interval between the first cell division of a plant zygote  ( po:0000423 )  and one of the following: the beginning of the seed germination stage  ( po:0007057 )  in seed plants ,  formation of the first vascular leaf  ( po:0009025 )  in pteridophytes ,  the beginning of development of a sporangium  ( po:0025094 )  in bryophytes ,  or the beginning of the formation of a plant organ  ( po:0009008 )  such as a root  ( po:0009005 )  ,  shoot axis  ( po:0025029 )  ,  or vascular leaf  ( po:0009025 )  in a cultured plant embryo  ( po:0000010 )  .
+stage during which the seed storage products  ( storage proteins ,  lipids and starch )  are being accumulated ,  either in the cotyledons or in the endosperm .
+stages of development of the endosperm .
+a stage in the life of a plant structure  ( po:0009011 )  during which the plant structure undergoes developmental processes .
+obsolete .the proportion of the absolute size reached by the calyx
+obsolete .the stages of development of the calyx with respect to the rest of the bud
+stage of inflorescence development marked by the formation of the inflorescence meristem on a vegetative branch .
+a maximal whole plant development stage .
+a plant structure development stage  ( po:0009012 )  that has as primary participant a collective plant structure  ( po:0025497 )  .
+a plant structure development stage that has as primary participant a plant organ .
+a gametophyte development stage that occurs during the interval between spore germination and the formation of a gametangium .
+a gametophyte development stage that occurs during the interval between the initiation of a gametangium and the onset of senescence .
+a gametophyte development stage during which a gametophyte participates in a dormancy process .
+a gametophyte development stage during which a gametophyte participates in multicellular organism senescence .
+a gametophyte reproductive development stage in which a gametophore and gametangium is being produced .
+a gametophyte vegetative whole plant development stage during which a gametophore is being produced but no gametangia are being produced .
+a gametophyte reproductive development stage in which a thallus and gametangium is being produced .
+a gametophyte vegetative whole plant development stage during which a thallus is being produced but no gametangia are being produced .
+a plant structure development stage  ( po:0009012 )  that has as primary participant a trichome  ( po:0000282 )  .
+a trichome development stage that has as primary participant a seed trichome .
+a seed trichome development stage which occurs during the interval between the onset of seed trichome initiation and the onset of seed trichome elongation .
+a seed trichome development stage which occurs during the interval between the onset of seed trichome elongation and the onset of seed trichome secondary wall biosynthesis .
+a seed trichome development stage which occurs during the interval between the onset of seed trichome secondary wall biosynthesis and the onset of seed trichome maturation .
+a seed trichome development stage which encompasses the process of seed trichome maturation .
+a seed development stage during which a seed participates in a seed dormancy process .
+a gametophyte development stage that occurs during the interval between meiosis and the germination of a spore .
+a gametophyte dormant stage during which a spore participates in a dormancy process .
+a sporophyte dormant stage during which a plant embryo participates in a dormancy process .
+a plant structure development stage  ( po:0009012 )  that has as primary participant a portion of plant tissue  ( po:0009007 )  .
+a plant tissue development stage  ( po:0025423 )  that has as primary participant a portion of vascular tissue  ( po:0009015 )  .
+a vascular tissue development stage  ( po:0025424 )  that has as primary participant a portion of xylem  ( po:0005352 )  tissue .
+a vascular tissue development stage  ( po:0025424 )  that has as primary participant a portion of phloem  ( po:0005417 )  tissue .
+a xylem development stage  ( po:0025425 )  that has as primary participant a portion of secondary xylem  ( po:0005848 )  tissue during the interval between the beginning of a cell division stage of secondary xylem  ( po:0025463 )  and the death of the last living cell in the secondary xylem .
+a secondary xylem development stage  ( po:0025427 )  that occurs during the interval between the first and last cell division in a portion of secondary xylem tissue  ( po:0005848 )  ,  during which cells are produced by divisions of cambial initials  ( po:0000295 )  or xylem mother cells .
+a cell differentiation stage of secondary xylem  ( po:0025469 )  that occurs during the interval between the end of a cell division stage of secondary xylem  ( po:0025463 )  and the onset of a secondary cell wall formation stage of secondary xylem  ( po:0025465 )  ,  during which the cells undergo cell growth  ( go:0016049 )  .
+a cell differentiation stage of secondary xylem  ( po:0025469 )  that occurs during the interval between the onset of secondary wall biogenesis  ( go:0009834 )  of the cells in a portion of secondary xylem  ( po:0005848 )  and the beginning of a cell death stage of secondary xylem  ( po:0025466 )  .
+a cell differentiation stage of secondary xylem  ( po:0025469 )  that occurs during the interval between the first cell death of a tracheary element  ( po:0000290 )  or non - septate xylem fiber cell  ( po:0000274 )  and the death of the last secondary xylem parenchyma cell  ( po:0004525 )  or septate fiber cell  ( po:0004521 )  in a portion of secondary xylem  ( po:0005848 )  .
+a cell death stage of secondary xylem  ( po:0025466 )  that occurs during the interval between the first and last cell death of a tracheary element  ( po:0000290 )  or non - septate xylem fiber cell  ( po:0000274 )  .
+a cell death stage of secondary xylem  ( po:0025466 )  that occurs during the interval between the last cell death of a tracheary element  ( po:0000290 )  or non - septate xylem fiber cell  ( po:0000274 )  and the last cell death in a portion of secondary xylem  ( po:0005848 )  .
+a secondary xylem development stage  ( po:0025427 )  that occurs during the interval between the end of a cell division stage of secondary xylem  ( po:0025463 )  and the death of the last living cell in the secondary xylem .
+a root development stage  ( po:0007520 )  during which a coleorhiza  ( po:0020034 )  emerges from the seed coat  ( po:0009088 )  .
+a sporophyte reproductive stage that begins when a fruit  ( po:0009001 )  on a whole plant  ( po:0000003 )  that is not currently participating in a whole plant fruit development stage begins a fruit initiation stage  ( po:0025503 )  ,  and ends with the earliest of the following:  ( 1 )  the whole plant begins a sporophyte senescent stage  ( po:0007017 )  ,   ( 2 )  the whole plant begins a sporophyte dormant stage  ( po:0007132 )  ,  or  ( 3 )  all fruits on the whole plant are finished ripening .
+a fruit development stage  ( po:0001002 )  that begins with the formation of a plant zygote  ( po:0000423 )  that is contained in the fruit  ( po:0009001 )  being studied and ends when that fruit's fruit ripening stage  ( po:0025502 )  begins .
+a fruit development stage  ( po:0001002 )  during which a single fruit  ( po:0009001 )  participates in the process of fruit ripening  ( go:0009835 )  .
+a fruit formation stage  ( po:0025501 )  that begins with the formation of a plant zygote  ( po:0000423 )  that is contained in the fruit  ( po:0009001 )  being studied and ends when the plant cells  ( po:0009002 )  in the fruit begin to divide or expand .
+a fruit formation stage  ( po:0025501 )  that begins when the plant cells  ( po:0009002 )  in a fruit  ( po:0009001 )  begin to divide or expand ,  and ends when the fruit has reached 10% of its final size .
+a fruit formation stage  ( po:0025501 )  that spans the interval when a fruit  ( po:0009001 )  has reached 10% to 30% of its final size .
+a fruit formation stage  ( po:0025501 )  that spans the interval when a fruit  ( po:0009001 )  has reached 30 to 50% of its final size .
+a fruit formation stage  ( po:0025501 )  that spans the interval when a fruit  ( po:0009001 )  has reached 50 to 70% of its final size .
+a fruit formation stage  ( po:0025501 )  that spans begins when a fruit  ( po:0009001 )  has reached 70% of its final size and ends when a fruit has reached its final size and a fruit ripening stage  ( po:0025502 )  begins .
+a collective plant organ structure development stage  ( po:0025338 )  that begins with the onset of the plant organ development stage  ( po:0025339 )  and ends with either gametophyte senescent stage  ( po:0025343 )  or sporophyte senescent stage  ( po:0007017 )  or death .
+a shoot system development stage  ( po:0025527 )  that has as primary participant a bud  ( po:0009006 )  .
+a bud development stage  ( po:0025528 )  during which a bud  ( po:0009006 )  participates in a bud dormancy process  ( go:0097207 )  .
+a shoot system development stage  ( po:0025527 )  that has as primary participant a reproductive shoot system  ( po:0025082 )  .
+a bud development stage  ( po:0025528 )  during which a bud  ( po:0009006 )  enlarges due to growth of the shoot system  ( po:0009006 )  .
+a shoot system development stage  ( po:0025527 )  during which a shoot system  ( po:0009006 )  emerges from the bud  ( po:0009006 )  .
+a collective plant organ stucture development stage  ( po:0025338 )  that has as primary participant collective phyllome structure  ( po:0025023 )  .
+a plant organ development stage  ( po:0025339 )  that has a primary participant a phyllome  ( po:0025023 )  .
+a flower development stage  ( po:0007615 )  which begins with the floral organ meristem development stage  ( po:0007601 )  and ends with the onset of the flowering stage  ( po:007616 )  .
+a flower development stage  ( po:0007615 )  which begins with the transition of a portion of meristem tissue  ( po:0009013 )  to a flower meristem  ( po:0000229 )  and ends with the onset of the floral organ formation stage  ( po:0025585 )  .
+obsolete .a plant growth and development phase that begins with either meiosis or fertilization .
+a whole plant development stage  ( po:0007033 )  that has as primary participant a whole plant  ( po:0000003 )  during the interval between fertilization  ( or apogamy )  and death .
+a whole plant development stage  ( po:0007033 )  that has as primary participant a whole plant  ( po:0000003 )  during the interval between meiosis or apospory and the time that the whole plant ceases to exist .
+the assertion p preceded_by p1 tells us something about ps in general: that is ,  it tells us something about what happened earlier ,  given what we know about what happened later .

@@ -1,0 +1,3584 @@
+group
+macromolecule
+polyatomic entity
+homopolymer
+borylation
+methanidylation
+azaniumylation
+formylation
+acetonylation
+l - cystylation
+l - cystinylation
+d - cystylation
+cystinylation
+cystylation
+cysteinylation
+l - cysteinylation
+d - cysteinylation
+cystein - s - ylation
+d - cystein - s - ylation
+l - cystein - s - ylation
+methionylation
+l - methionylation
+n - formyl - l - methionylation
+d - methionylation
+ ( r )  - lipoylation
+ ( s )  - lipoylation
+lipoylation
+ ( r )  - dihydrolipoylation
+ ( s )  - dihydrolipoylation
+alpha - sialoylation
+beta - sialoylation
+glyceroylation
+carboacylation
+univalent carboacylation
+acetylation
+alpha - aminoacylation
+alanylation
+l - alanylation
+d - alanylation
+alpha - aspartylation
+l - alpha - aspartylation
+d - alpha - aspartylation
+alpha - glutamylation
+l - alpha - glutamylation
+d - alpha - glutamylation
+pteroylglutamylation
+phenylalanylation
+l - phenylalanylation
+d - phenylalanylation
+glycylation
+histidylation
+l - histidylation
+d - histidylation
+isoleucylation
+l - isoleucylation
+d - isoleucylation
+lysylation
+l - lysylation
+deoxyhypusinylation
+d - lysylation
+leucylation
+l - leucylation
+d - leucylation
+asparaginylation
+l - asparaginylation
+d - asparaginylation
+prolylation
+l - prolylation
+d - prolylation
+glutaminylation
+l - glutaminylation
+d - glutaminylation
+serylation
+l - serylation
+d - serylation
+threonylation
+l - threonylation
+d - threonylation
+selenocysteinylation
+l - selenocysteinylation
+d - selenocysteinylation
+valylation
+l - valylation
+d - valylation
+tryptophylation
+l - tryptophylation
+d - tryptophylation
+tyrosylation
+l - tyrosylation
+d - tyrosylation
+arginylation
+l - arginylation
+d - arginylation
+benzoylation
+beta - aspartylation
+d - beta - aspartylation
+l - beta - aspartylation
+biotinylation
+butyrylation
+carbamoylation
+c - aminocarbonohydrazonoylation
+2 -  ( aminomethylidene ) hydrazinylation
+carbamoylcarbamoylation
+carbamothioylation
+acetylazanediylation
+oxamoylation
+cholylation
+enoylation
+fatty - acylation
+arachidonoylation
+arachidoylation
+behenoylation
+cerotoylation
+decanoylation
+dodecenoylation
+eleostearoylation
+mycolylation
+nervonoylation
+octanoylation
+palmitoleoylation
+palmitoylation
+stearoylation
+undecanoylation
+valerylation
+hexanoylation
+heptanoylation
+nonanoylation
+lauroylation
+myristoylation
+docosenoylation
+cetoleoylation
+erucoylation
+icosenoylation
+gadelaidoylation
+gadoleoylation
+gondoylation
+heptatrienoylation
+trans , trans - hepta - 2 , 4 , 6 - trienoylation
+octadecenoylation
+octadec - 6 - enoylation
+petroselaidoylation
+petroselinoylation
+vaccenoylation
+cis - vaccenoylation
+trans - vaccenoylation
+octadec - 9 - enoylation
+oleoylation
+elaidoylation
+margaroylation
+melissoylation
+myristoleoylation
+obtusiloylation
+lignoceroylation
+linoleoylation
+parinaroylation
+cis - parinaroylation
+trans - parinaroylation
+gamma - glutamylation
+l - gamma - glutamylation
+d - gamma - glutamylation
+glucuronosylation
+d - glucuronoylation
+glyceroyl 2 , 3 - dihydroxypropanoylation
+glycerylation
+glycidoyl 2 , 3 - epoxypropanoylation
+glycoloylation
+glycosylation
+galactosylation
+beta - d - galactosylation
+alpha - l - fucosyl - 1 , 2 - beta - d - galactosylation
+alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+alpha - n - acetylneuraminyl - 2 , 8 - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+glucosylation
+d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - beta - d - glucosylation
+d - galactosyl - 1 , 4beta - d - glucosylation
+alpha - glucosylation
+beta - glucosylation
+d - galactosyl -  ( 1 -  > 4 )  - beta - d - glucosylation
+glycosaminylation
+galactosaminylation
+n - acetyl - d - galactosaminylation
+alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 -  ( alpha - n - acetylneuraminyl - 2 , 6 )  - n - acetyl - d - galactosaminylation
+alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+beta - d - galactosyl - 1 , 3 -  ( n - acetyl - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+n - acetyl - beta - d - glucosaminyl - 1 , 3 - n - acetyl - d - galactosaminylation
+n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 3 )  - n - acetyl - d - galactosaminylation
+glucosaminylation
+n - acetyl - d - glucosaminylation
+1 , 3 - beta - d - galactosyl -  ( 1 , 4 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+3 - o - beta - d - galactosyl - n - acetyl - d - glucosaminylation
+1 , 4 - beta - d - galactosyl -  ( 1 , 3 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+alpha - d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+alpha - d - galactosyl - beta - 1 , 3 - d - galactosyl - beta - 1 , 4 - n - acetyl - d - glucosaminylation
+beta - d - galactosyl -  ( 1 , 4 )  - n - acetyl - d - glucosaminylation
+n - acetyl - beta - d - glucosaminyl - 1 , 2 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl , 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+n - acetyl - beta - d - glucosaminyl - 1 , 6 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+iduronosylation
+5' - inosinylation
+mannosylation
+ ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+alpha - d - mannosyl - 1 , 3 -  ( r1 )  - beta - d - mannosylation
+alpha - mannosylation
+n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 - beta - d - mannosylation
+n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 )  - beta - d - mannosylation
+n - acetyl - beta - d - glucosaminyl - 1 , 4 -  ( n - acetyl - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - beta - d - mannosylation
+n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - d - mannosylation
+alpha - d - mannosyl -  ( 1 -  > 3 )  - beta - d - mannosylation
+neuraminosylation
+neuraminoylation
+ribosylation
+adenosinediphosphoribosylation
+2 - deoxyribosylation
+sialosylation
+hemicystylation
+mevalonoylation
+montanoylation
+muramylation
+nucleotidylation
+5' - adenylylation
+5' - cytidylylation
+5' - thymidylylation
+5' - uridylylation
+5' - guanylylation
+5' - ribothymidylylation
+5' - inosinylylation
+pantothenylation
+pantoylation
+peptidylation
+phthalylation
+propionylation
+pyruvoylation
+retinoylation
+sialoylation
+3 - carboxypropanoylation
+trienoylation
+anilinocarbonylation
+pteroylation
+3 - carboxyprop - 2 - enoylation
+ ( z )  - 3 - carboxyprop - 2 - enoylation
+ ( e )  - 3 - carboxyprop - 2 - enoylation
+2 , 6 - dichlorobenzoylation
+alpha - muramylation
+beta - muramylation
+dihydrolipoylation
+sinapoylation
+carboxyacetylation
+divalent carboacylation
+aspartoylation
+l - aspartoylation
+d - aspartoylation
+citraconoylation
+glutamoylation
+d - glutamoylation
+l - glutamoylation
+maloylation
+phthaloylation
+succinylation
+butenedioylation
+fumaroylation
+maleoylation
+hexanedioylation
+malonylation
+ornithylation
+l - ornithylation
+half - cystylation
+l - tyrosin - o ( 4 )  - ylation
+l - threonin - o ( 3 )  - ylation
+d - tyrosin - o ( 4 )  - ylation
+d - threonin - o ( 3 )  - ylation
+tyrosin - o ( 4 )  - ylation
+threonin - o ( 3 )  - ylation
+oxalylation
+fumagillin - 2 - ylation
+acetoacetylation
+alpha - linolenoylation
+gamma - linolenoylation
+carbamimidoylation
+formimidoylation
+trifluoroacetylation
+carboxymethylation
+methylenecarbonylation
+n - hydroxyacetimidoylation
+acryloylation
+tert - butoxycarbonylation
+sulfanediylation
+phenylsulfanylation
+methylsulfanylation
+sulfaniumylation
+disulfanidylation
+disulfanediylation
+disulfanylation
+tetrasulfanylation
+tetrasulfanediylation
+trisulfanylation
+trisulfanediylation
+pentasulfanylation
+diselanylation
+tellanylation
+tellanediylation
+tellaniumylation
+ditellanylation
+amidylation
+azanediylation
+2 - aminoethylation
+4 - aminobutylation
+azanetriylation
+hydrazine - 1 , 2 - diylation
+diazyn - 1 - ium - 1 - ylation
+phosphanetriylation
+phosphanediylation
+phosphanylation
+lambda ( 5 )  - phosphanylation
+phosphaniumylation
+arsanylation
+arsanediylation
+arsanetriylation
+arsaniumylation
+lambda ( 5 )  - arsanylation
+stibaniumylation
+lambda ( 5 )  - stibanylation
+boranylation
+boranetriylation
+boranediylation
+boranuidylation
+germylation
+germanediylation
+germanetetraylation
+germanetriylation
+silylation
+silanediylation
+silanetriylation
+silanetetraylation
+disilanylation
+alumanylation
+stannylation
+stannanetriylation
+plumbanetriylation
+plumbylation
+gallanylation
+indiganylation
+thallanylation
+phosphatidylation
+nucleosidylation
+guanosylation
+inosylation
+thymidylation
+adenosylation
+5' - adenosylation
+uridylation
+cytidylation
+dolichylation
+2 - trans , 6 - trans - farnesylation
+margarylation
+methylation
+methanetetraylation
+methanetriylation
+trichloromethylation
+trifluoromethylation
+alkylation
+butylation
+cerylation
+decylation
+dodecylation
+heptylation
+hexylation
+myricylation
+myristylation
+nonylation
+octylation
+palmitylation
+pentylation
+propylation
+stearylation
+isopropylation
+ethylation
+isobutylation
+pentan - 2 - ylation
+isopentylation
+3 - methylbutan - 2 - ylation
+tert - pentylation
+neopentylation
+undecylation
+tridecylation
+pentadecylation
+nonadecylation
+arachidylation
+henicosylation
+behenylation
+tricosylation
+lignocerylation
+pentacosylation
+heptacosylation
+montanylation
+nonacosylation
+sec - butylation
+tert - butylation
+pentan - 3 - ylation
+2 - chloroethylation
+1 - chloroethylation
+hydrocarbylation
+arylation
+phenylation
+biphenyl - 4 - ylation
+naphthylation
+1 - naphthylation
+2 - naphthylation
+cycloalkylation
+cyclobutylation
+cyclopropylation
+alkenylation
+oleylation
+allylation
+isopropenylation
+vinylation
+prenylation
+phytylation
+polyprenylation
+farnesylation
+geranylation
+geranylgeranylation
+retinylation
+adamantan - 2 - ylation
+cycloalkenylation
+campholenic cyclohexenylation
+cyclopentadienylation
+eta ( 5 )  - cyclopentadienylation
+eta ( 1 )  - cyclopentadienylation
+ethene - 1 , 2 - diylation
+arachidonylation
+benzylation
+anthracen - 1 - ylation
+anthracen - 2 - ylation
+imidazolylation
+imidazol - 1 - ylation
+imidazol - 2 - ylation
+imidazol - 5 - ylation
+imidazol - 4 - ylation
+furylation
+2 - furylation
+3 - furylation
+thienylation
+2 - thienylation
+3 - thienylation
+adenin - 9 - ylation
+guanin - 9 - ylation
+acetimidoylation
+organylation
+organic heterocyclylation
+heteroarylation
+4 , 4' - dimethoxytriphenylmethylation
+taurylation
+triflylation
+glycidylation
+sulfanylmethylation
+selanylmethylation
+2 - carboxyethylation
+2 - amino - 2 - oxoethylation
+3 - amino - 3 - oxopropylation
+2 -  ( methylsulfanyl ) ethylation
+4 - hydroxybenzylation
+1h - indol - 3 - ylmethylation
+1h - imidazol - 4 - ylmethylation
+3 - carbamimidamidopropylation
+hydroxymethylation
+1 - hydroxyethylation
+haloalkylation
+2 -  ( trimethylsilyl ) ethoxymethylation
+acylation
+organoheterylation
+oxalosulfanylation
+organosilylation
+trimethylsilylation
+triisopropylsilylation
+tert - butyldiphenylsilylation
+tert - butyldimethylsilylation
+thioacylation
+carbothioacylation
+univalent carbothioacylation
+divalent carbothioacylation
+carbonimidoylation
+thiocarbonylation
+ ( fluoren - 9 - ylmethoxy ) carbonylation
+carbonylation
+cytosin - 1 - ylation
+thymin - 1 - ylation
+uracil - 1 - ylation
+morpholin - 4 - ylsulfonylation
+acetohydrazonoylation
+2 - hydroxyethylation
+aminosulfinylation
+disiloxanylation
+disiloxane - 1 , 3 - diylation
+azinoylation
+azonoylation
+phosphorothioylation
+phosphonothioylation
+arsonoylation
+arsinoylation
+stiborylation
+sulfamoylation
+s - aminosulfinimidoylation
+s - aminosulfonimidoylation
+chlorylation
+chlorosylation
+perchlorylation
+bromosylation
+bromylation
+perbromylation
+iodosylation
+iodylation
+periodylation
+fluorosylation
+acetoxysulfonylation
+sulfonothioylation
+sulfinothioylation
+sulfonodithioylation
+trioxidanylation
+trioxidanediylation
+heterocyclylation
+phosphoramidochloridoylation
+s - aminosulfonodiimidoylation
+aminosulfanylation
+sulfinylation
+arsorylation
+azanediidylation
+sulfinimidoylation
+sulfonylation
+tosylation
+brosylation
+nosylation
+molecular process
+indolylamination
+indol - 1 - ylation
+indol - 2 - ylation
+indol - 3 - ylation
+n - oxindolylation
+alkylamination
+halogenation
+bromination
+chlorination
+fluorination
+iodination
+imination
+nitration
+hydroxyamination
+thioxonation
+sulfonation
+selenonation
+cyclization
+cycloaddition
+ [ 2 + 2 ]  cycloaddition
+cycloelimination
+ [ 4 + 2 ]  cycloaddition
+formation of covalent bond with group
+breaking of covalent bond with group
+oxidation
+reduction
+electron attachment
+aldehyde reduction
+alcohol oxidation
+primary alcohol oxidation
+secondary alcohol oxidation
+amine oxidation
+imine reduction
+ester reduction
+ester reduction to aldehyde
+ester reduction to primary alcohol
+ketone reduction
+alkene oxidation
+alkene oxidation to 1 , 2 - diol
+alkene ozonolysis
+primary alkene oxidation to carboxylic acid and carbon dioxide
+tertiary alkene oxidation to carboxylic acid and ketone
+secondary ,  non - terminal alkene oxidation to aldehydes
+secondary terminal alkene oxidation to ketone and carbon dioxide
+quaternary alkene oxidation to ketones
+hydrogenation
+dehydrogenation
+carboxylation
+c - carboxylation
+n - carboxylation
+o - carboxylation
+s - carboxylation
+pseudohalogenation
+cyanation
+azidation
+isocyanation
+isocyanatation
+isothiocyanatation
+isoselenocyanatation
+isotellurocyanatation
+metal chelation
+iron chelation
+iron ( 2 +  )  chelation
+iron ( 3 +  )  chelation
+copper chelation
+zinc chelation
+lead chelation
+cobalt chelation
+aluminium chelation
+molybdenum chelation
+plutonium chelation
+electron transfer
+reversible electron transfer
+irreversible electron transfer
+solvolysis
+hydrolysis
+alcoholysis
+aminolysis
+ammonolysis
+methanolysis
+ethanolysis
+propanolysis
+butanolysis
+condensation reaction
+dehydration reaction
+polymerisation
+depolymerisation
+copolymerisation
+condensation polymerisation
+homopolymerisation
+chain polymerisation
+chain reaction
+anionic polymerisation
+ionic polymerisation
+cationic polymerisation
+radical polymerisation
+chain initiation
+all - degree polymerisation
+addition reaction
+polyaddition
+polycondensation
+condensative chain polymerisation
+living polymerisation
+ionic copolymerisation
+radical copolymerisation
+living copolymerisation
+amination
+deamination
+n - amination
+o - amination
+c - amination
+s - amination
+elimination reaction
+1 / 1 / elimination reaction
+1 / 2 / elimination reaction
+1 / 3 / elimination reaction
+1 / 4 / elimination reaction
+1 / 5 / elimination reaction
+1 / 6 / elimination reaction
+1 / 8 / elimination reaction
+1 / 1 / addition reaction
+1 / 2 / addition reaction
+1 / 3 / addition reaction
+1 / 4 / addition reaction
+1 / 5 / addition reaction
+1 / 6 / addition reaction
+1 / 8 / addition reaction
+epoxidation
+enolization
+hydroxylation
+metallation
+cyclometallation
+demetallation
+transmetallation
+cyanosilylation
+electron pair transfer
+proton transfer
+autoprotolysis
+hydron transfer
+deuteron transfer
+atom - transfer radical polymerisation
+ring - opening metathesis polymerisation
+ring - opening polymerisation
+metathesis
+ring - opening copolymerisation
+reversible addition - fragmentation chain transfer polymerisation
+nitroxide - mediated polymerisation
+enzymatic polymerisation
+liquid - phase polymerisation
+alternating copolymerisation
+graft copolymerisation
+periodic copolymerisation
+random copolymerisation
+statistical copolymerisation
+stereospecific copolymerisation
+block copolymerisation
+diblock copolymerisation
+triblock copolymerisation
+graft polymerisation
+n - deacetylation
+o - deacetylation
+oxidation at sulfur
+oxidation at nitrogen
+oxidative cleavage
+alkene oxidative cleavage
+allylic oxidation
+benzylic oxidation
+nitrile reduction
+olefin reduction
+acetylene reduction
+ [ 3 , 3 ]  - sigmatropic rearrangement
+tautomerisation
+keto - enol tautomerisation
+ring - chain tautomerisation
+prototropy
+sigmatropic rearrangement
+valence tautomerisation
+brønsted acid catalysis
+base catalysis
+hydron donation
+accepting an electron pair in lewis adduct formation
+lewis acid catalysis
+lewis base catalysis
+brønsted base catalysis
+accepting a hydron
+electron pair donation in lewis adduct formation
+lewis adduct formation
+acid catalysis
+4 - exo - tet cyclization
+5 - exo - tet cyclization
+6 - exo - tet cyclization
+7 - exo - tet cyclization
+5 - endo - tet cyclization
+6 - endo - tet cyclization
+7 - endo - tet cyclization
+3 - exo - trig cyclization
+3 - exo - dig cyclization
+3 - endo - dig cyclization
+3 - endo - trig cyclization
+4 - exo - trig cyclization
+4 - endo - trig cyclization
+4 - endo - dig cyclization
+5 - exo - trig cyclization
+5 - exo - dig cyclization
+5 - endo - trig cyclization
+5 - endo - dig cyclization
+6 - endo - trig cyclization
+7 - endo - trig cyclization
+7 - endo - dig cyclization
+4 - exo - dig cyclization
+6 - exo - dig cyclization
+7 - exo - dig cyclization
+6 - exo - trig cyclization
+7 - exo - trig cyclization
+endothermic reaction
+exothermic reaction
+6 - endo - dig cyclization
+endocyclization
+exocyclization
+baldwin - favoured profile
+baldwin - disfavoured profile
+bond formation to digonal centre
+bond formation to trigonal centre
+bond formation to tetragonal centre
+3 - exo - tet cyclization
+formation of covalent bond
+breaking of covalent bond
+catalysis
+general acid catalysis
+specific acid catalysis
+general base catalysis
+specific base catalysis
+radical formation
+transesterification
+phosphorolysis
+isomerisation
+substitution reaction
+aromatic substitution
+allylic rearrangement
+n - substitution
+o - substitution
+s - substitution
+chloro -  to hydroxy -  aromatic substitution
+coordination
+formation of covalent bond with sulfur centre
+formation of covalent bond with chlorine centre
+formation of covalent bond with carbon centre
+formation of covalent bond with boron centre
+formation of covalent bond with nitrogen centre
+formation of covalent bond with oxygen centre
+formation of covalent bond with selenium centre
+formation of covalent bond with tellurium centre
+formation of covalent bond with phosphorus centre
+formation of covalent bond with arsenic centre
+formation of covalent bond with antimony centre
+formation of covalent bond with germanium centre
+formation of covalent bond with silicon centre
+formation of covalent bond with aluminium centre
+formation of covalent bond with tin centre
+formation of covalent bond with lead centre
+formation of covalent bond with gallium centre
+formation of covalent bond with indium centre
+formation of covalent bond with thallium centre
+formation of covalent bond with bromine centre
+formation of covalent bond with iodine centre
+formation of covalent bond with fluorine centre
+formation of covalent bond with halogen centre
+metal nitrosylation
+iron nitrosylation
+propargylation
+alkynylation
+deborylation
+demethanidylation
+deazaniumylation
+deformylation
+deacetonylation
+de - l - cystylation
+de - l - cystinylation
+de - d - cystylation
+decystinylation
+decystylation
+decysteinylation
+de - l - cysteinylation
+de - d - cysteinylation
+decystein - s - ylation
+de - d - cystein - s - ylation
+de - l - cystein - s - ylation
+demethionylation
+de - l - methionylation
+de - n - formyl - l - methionylation
+de - d - methionylation
+de -  ( r )  - lipoylation
+de -  ( s )  - lipoylation
+delipoylation
+de -  ( r )  - dihydrolipoylation
+de -  ( s )  - dihydrolipoylation
+de - alpha - sialoylation
+de - beta - sialoylation
+deglyceroylation
+decarboacylation
+deunivalent carboacylation
+deacetylation
+de - alpha - aminoacylation
+dealanylation
+de - l - alanylation
+de - d - alanylation
+de - alpha - aspartylation
+de - l - alpha - aspartylation
+de - d - alpha - aspartylation
+de - alpha - glutamylation
+de - l - alpha - glutamylation
+de - d - alpha - glutamylation
+depteroylglutamylation
+dephenylalanylation
+de - l - phenylalanylation
+de - d - phenylalanylation
+deglycylation
+dehistidylation
+de - l - histidylation
+de - d - histidylation
+deisoleucylation
+de - l - isoleucylation
+de - d - isoleucylation
+delysylation
+de - l - lysylation
+dedeoxyhypusinylation
+de - d - lysylation
+deleucylation
+de - l - leucylation
+de - d - leucylation
+deasparaginylation
+de - l - asparaginylation
+de - d - asparaginylation
+deprolylation
+de - l - prolylation
+de - d - prolylation
+deglutaminylation
+de - l - glutaminylation
+de - d - glutaminylation
+deserylation
+de - l - serylation
+de - d - serylation
+dethreonylation
+de - l - threonylation
+de - d - threonylation
+deselenocysteinylation
+de - l - selenocysteinylation
+de - d - selenocysteinylation
+devalylation
+de - l - valylation
+de - d - valylation
+detryptophylation
+de - l - tryptophylation
+de - d - tryptophylation
+detyrosylation
+de - l - tyrosylation
+de - d - tyrosylation
+dearginylation
+de - l - arginylation
+de - d - arginylation
+debenzoylation
+de - beta - aspartylation
+de - d - beta - aspartylation
+de - l - beta - aspartylation
+debiotinylation
+debutyrylation
+decarbamoylation
+de - c - aminocarbonohydrazonoylation
+de - 2 -  ( aminomethylidene ) hydrazinylation
+decarbamoylcarbamoylation
+decarbamothioylation
+deacetylazanediylation
+deoxamoylation
+decholylation
+deenoylation
+defatty - acylation
+dearachidonoylation
+dearachidoylation
+debehenoylation
+decerotoylation
+dedecanoylation
+dedodecenoylation
+deeleostearoylation
+demycolylation
+denervonoylation
+deoctanoylation
+depalmitoleoylation
+depalmitoylation
+destearoylation
+deundecanoylation
+devalerylation
+dehexanoylation
+deheptanoylation
+denonanoylation
+delauroylation
+demyristoylation
+dedocosenoylation
+decetoleoylation
+deerucoylation
+deicosenoylation
+degadelaidoylation
+degadoleoylation
+degondoylation
+deheptatrienoylation
+de - trans , trans - hepta - 2 , 4 , 6 - trienoylation
+deoctadecenoylation
+deoctadec - 6 - enoylation
+depetroselaidoylation
+depetroselinoylation
+devaccenoylation
+de - cis - vaccenoylation
+de - trans - vaccenoylation
+deoctadec - 9 - enoylation
+deoleoylation
+deelaidoylation
+demargaroylation
+demelissoylation
+demyristoleoylation
+deobtusiloylation
+delignoceroylation
+delinoleoylation
+deparinaroylation
+de - cis - parinaroylation
+de - trans - parinaroylation
+de - gamma - glutamylation
+de - l - gamma - glutamylation
+de - d - gamma - glutamylation
+deglucuronosylation
+de - d - glucuronoylation
+deglyceroyl 2 , 3 - dihydroxypropanoylation
+deglycerylation
+deglycidoyl 2 , 3 - epoxypropanoylation
+deglycoloylation
+deglycosylation
+degalactosylation
+de - beta - d - galactosylation
+de - alpha - l - fucosyl - 1 , 2 - beta - d - galactosylation
+de - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+de - alpha - n - acetylneuraminyl - 2 , 8 - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+deglucosylation
+de - d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - beta - d - glucosylation
+de - d - galactosyl - 1 , 4beta - d - glucosylation
+de - alpha - glucosylation
+de - beta - glucosylation
+de - d - galactosyl -  ( 1 -  > 4 )  - beta - d - glucosylation
+deglycosaminylation
+degalactosaminylation
+de - n - acetyl - d - galactosaminylation
+de - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 -  ( alpha - n - acetylneuraminyl - 2 , 6 )  - n - acetyl - d - galactosaminylation
+de - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+de - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+de - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+de - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+de - beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+de - beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 3 - n - acetyl - d - galactosaminylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 3 )  - n - acetyl - d - galactosaminylation
+deglucosaminylation
+de - n - acetyl - d - glucosaminylation
+de - 1 , 3 - beta - d - galactosyl -  ( 1 , 4 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+de - 3 - o - beta - d - galactosyl - n - acetyl - d - glucosaminylation
+de - 1 , 4 - beta - d - galactosyl -  ( 1 , 3 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+de - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+de - alpha - d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+de - alpha - d - galactosyl - beta - 1 , 3 - d - galactosyl - beta - 1 , 4 - n - acetyl - d - glucosaminylation
+de - beta - d - galactosyl -  ( 1 , 4 )  - n - acetyl - d - glucosaminylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 2 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl , 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 6 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+deiduronosylation
+de - 5' - inosinylation
+demannosylation
+de -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+de - alpha - d - mannosyl - 1 , 3 -  ( r1 )  - beta - d - mannosylation
+de - alpha - mannosylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 - beta - d - mannosylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 )  - beta - d - mannosylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 4 -  ( n - acetyl - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - beta - d - mannosylation
+de - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - d - mannosylation
+de - alpha - d - mannosyl -  ( 1 -  > 3 )  - beta - d - mannosylation
+deneuraminosylation
+deneuraminoylation
+deribosylation
+deadenosinediphosphoribosylation
+de - 2 - deoxyribosylation
+desialosylation
+dehemicystylation
+demevalonoylation
+demontanoylation
+demuramylation
+denucleotidylation
+de - 5' - adenylylation
+de - 5' - cytidylylation
+de - 5' - thymidylylation
+de - 5' - uridylylation
+de - 5' - guanylylation
+de - 5' - ribothymidylylation
+de - 5' - inosinylylation
+depantothenylation
+depantoylation
+depeptidylation
+dephthalylation
+depropionylation
+depyruvoylation
+deretinoylation
+desialoylation
+de - 3 - carboxypropanoylation
+detrienoylation
+deanilinocarbonylation
+depteroylation
+de - 3 - carboxyprop - 2 - enoylation
+de -  ( z )  - 3 - carboxyprop - 2 - enoylation
+de -  ( e )  - 3 - carboxyprop - 2 - enoylation
+de - 2 , 6 - dichlorobenzoylation
+de - alpha - muramylation
+de - beta - muramylation
+dedihydrolipoylation
+desinapoylation
+decarboxyacetylation
+dedivalent carboacylation
+deaspartoylation
+de - l - aspartoylation
+de - d - aspartoylation
+decitraconoylation
+deglutamoylation
+de - d - glutamoylation
+de - l - glutamoylation
+demaloylation
+dephthaloylation
+desuccinylation
+debutenedioylation
+defumaroylation
+demaleoylation
+dehexanedioylation
+demalonylation
+deornithylation
+de - l - ornithylation
+dehalf - cystylation
+de - l - tyrosin - o ( 4 )  - ylation
+de - l - threonin - o ( 3 )  - ylation
+de - d - tyrosin - o ( 4 )  - ylation
+de - d - threonin - o ( 3 )  - ylation
+detyrosin - o ( 4 )  - ylation
+dethreonin - o ( 3 )  - ylation
+deoxalylation
+defumagillin - 2 - ylation
+deacetoacetylation
+de - alpha - linolenoylation
+de - gamma - linolenoylation
+decarbamimidoylation
+deformimidoylation
+detrifluoroacetylation
+decarboxymethylation
+demethylenecarbonylation
+de - n - hydroxyacetimidoylation
+deacryloylation
+de - tert - butoxycarbonylation
+desulfanediylation
+dephenylsulfanylation
+demethylsulfanylation
+desulfaniumylation
+dedisulfanidylation
+dedisulfanediylation
+dedisulfanylation
+detetrasulfanylation
+detetrasulfanediylation
+detrisulfanylation
+detrisulfanediylation
+depentasulfanylation
+dediselanylation
+detellanylation
+detellanediylation
+detellaniumylation
+deditellanylation
+deamidylation
+deazanediylation
+de - 2 - aminoethylation
+de - 4 - aminobutylation
+deazanetriylation
+dehydrazine - 1 , 2 - diylation
+dediazyn - 1 - ium - 1 - ylation
+dephosphanetriylation
+dephosphanediylation
+dephosphanylation
+delambda ( 5 )  - phosphanylation
+dephosphaniumylation
+dearsanylation
+dearsanediylation
+dearsanetriylation
+dearsaniumylation
+delambda ( 5 )  - arsanylation
+destibaniumylation
+delambda ( 5 )  - stibanylation
+deboranylation
+deboranetriylation
+deboranediylation
+deboranuidylation
+degermylation
+degermanediylation
+degermanetetraylation
+degermanetriylation
+desilylation
+desilanediylation
+desilanetriylation
+desilanetetraylation
+dedisilanylation
+dealumanylation
+destannylation
+destannanetriylation
+deplumbanetriylation
+deplumbylation
+degallanylation
+deindiganylation
+dethallanylation
+dephosphatidylation
+denucleosidylation
+deguanosylation
+deinosylation
+dethymidylation
+deadenosylation
+de - 5' - adenosylation
+deuridylation
+decytidylation
+dedolichylation
+de - 2 - trans , 6 - trans - farnesylation
+demargarylation
+demethylation
+demethanetetraylation
+demethanetriylation
+detrichloromethylation
+detrifluoromethylation
+dealkylation
+debutylation
+decerylation
+dedecylation
+dedodecylation
+deheptylation
+dehexylation
+demyricylation
+demyristylation
+denonylation
+deoctylation
+depalmitylation
+depentylation
+depropylation
+destearylation
+deisopropylation
+deethylation
+deisobutylation
+depentan - 2 - ylation
+deisopentylation
+de - 3 - methylbutan - 2 - ylation
+de - tert - pentylation
+deneopentylation
+deundecylation
+detridecylation
+depentadecylation
+denonadecylation
+dearachidylation
+dehenicosylation
+debehenylation
+detricosylation
+delignocerylation
+depentacosylation
+deheptacosylation
+demontanylation
+denonacosylation
+de - sec - butylation
+de - tert - butylation
+depentan - 3 - ylation
+de - 2 - chloroethylation
+de - 1 - chloroethylation
+dehydrocarbylation
+dearylation
+dephenylation
+debiphenyl - 4 - ylation
+denaphthylation
+de - 1 - naphthylation
+de - 2 - naphthylation
+decycloalkylation
+decyclobutylation
+decyclopropylation
+dealkenylation
+deoleylation
+deallylation
+deisopropenylation
+devinylation
+deprenylation
+dephytylation
+depolyprenylation
+defarnesylation
+degeranylation
+degeranylgeranylation
+deretinylation
+deadamantan - 2 - ylation
+decycloalkenylation
+decampholenic cyclohexenylation
+decyclopentadienylation
+deeta ( 5 )  - cyclopentadienylation
+deeta ( 1 )  - cyclopentadienylation
+deethene - 1 , 2 - diylation
+dearachidonylation
+debenzylation
+deanthracen - 1 - ylation
+deanthracen - 2 - ylation
+deimidazolylation
+deimidazol - 1 - ylation
+deimidazol - 2 - ylation
+deimidazol - 5 - ylation
+deimidazol - 4 - ylation
+defurylation
+de - 2 - furylation
+de - 3 - furylation
+dethienylation
+de - 2 - thienylation
+de - 3 - thienylation
+deadenin - 9 - ylation
+deguanin - 9 - ylation
+deacetimidoylation
+deorganylation
+deorganic heterocyclylation
+deheteroarylation
+de - 4 , 4' - dimethoxytriphenylmethylation
+detaurylation
+detriflylation
+deglycidylation
+desulfanylmethylation
+deselanylmethylation
+de - 2 - carboxyethylation
+de - 2 - amino - 2 - oxoethylation
+de - 3 - amino - 3 - oxopropylation
+de - 2 -  ( methylsulfanyl ) ethylation
+de - 4 - hydroxybenzylation
+de - 1h - indol - 3 - ylmethylation
+de - 1h - imidazol - 4 - ylmethylation
+de - 3 - carbamimidamidopropylation
+dehydroxymethylation
+de - 1 - hydroxyethylation
+dehaloalkylation
+de - 2 -  ( trimethylsilyl ) ethoxymethylation
+deacylation
+deorganoheterylation
+deoxalosulfanylation
+deorganosilylation
+detrimethylsilylation
+detriisopropylsilylation
+de - tert - butyldiphenylsilylation
+de - tert - butyldimethylsilylation
+dethioacylation
+decarbothioacylation
+deunivalent carbothioacylation
+dedivalent carbothioacylation
+decarbonimidoylation
+dethiocarbonylation
+de -  ( fluoren - 9 - ylmethoxy ) carbonylation
+decarbonylation
+decytosin - 1 - ylation
+dethymin - 1 - ylation
+deuracil - 1 - ylation
+demorpholin - 4 - ylsulfonylation
+deacetohydrazonoylation
+de - 2 - hydroxyethylation
+deaminosulfinylation
+dedisiloxanylation
+dedisiloxane - 1 , 3 - diylation
+deazinoylation
+deazonoylation
+dephosphorothioylation
+dephosphonothioylation
+dearsonoylation
+dearsinoylation
+destiborylation
+desulfamoylation
+de - s - aminosulfinimidoylation
+de - s - aminosulfonimidoylation
+dechlorylation
+dechlorosylation
+deperchlorylation
+debromosylation
+debromylation
+deperbromylation
+deiodosylation
+deiodylation
+deperiodylation
+defluorosylation
+desulfonylation
+deacetoxysulfonylation
+desulfonothioylation
+desulfinothioylation
+desulfonodithioylation
+detrioxidanylation
+detrioxidanediylation
+deheterocyclylation
+dephosphoramidochloridoylation
+de - s - aminosulfonodiimidoylation
+deaminosulfanylation
+desulfinylation
+dearsorylation
+deazanediidylation
+desulfinimidoylation
+detosylation
+debrosylation
+denosylation
+deindolylamination
+deindol - 1 - ylation
+deindol - 2 - ylation
+deindol - 3 - ylation
+de - n - oxindolylation
+dealkylamination
+dehalogenation
+debromination
+dechlorination
+defluorination
+deiodination
+deimination
+denitration
+dehydroxyamination
+dethioxonation
+desulfonation
+deselenonation
+n - borylation
+n - methanidylation
+n - azaniumylation
+n - formylation
+n - acetonylation
+n - l - cystylation
+n - l - cystinylation
+n - d - cystylation
+n - cystinylation
+n - cystylation
+n - cysteinylation
+n - l - cysteinylation
+n - d - cysteinylation
+n - cystein - s - ylation
+n - d - cystein - s - ylation
+n - l - cystein - s - ylation
+n - methionylation
+n - l - methionylation
+n - n - formyl - l - methionylation
+n - d - methionylation
+n -  ( r )  - lipoylation
+n -  ( s )  - lipoylation
+n - lipoylation
+n -  ( r )  - dihydrolipoylation
+n -  ( s )  - dihydrolipoylation
+n - alpha - sialoylation
+n - beta - sialoylation
+n - glyceroylation
+n - carboacylation
+n - univalent carboacylation
+n - acetylation
+n - alpha - aminoacylation
+n - alanylation
+n - l - alanylation
+n - d - alanylation
+n - alpha - aspartylation
+n - l - alpha - aspartylation
+n - d - alpha - aspartylation
+n - alpha - glutamylation
+n - l - alpha - glutamylation
+n - d - alpha - glutamylation
+n - pteroylglutamylation
+n - phenylalanylation
+n - l - phenylalanylation
+n - d - phenylalanylation
+n - glycylation
+n - histidylation
+n - l - histidylation
+n - d - histidylation
+n - isoleucylation
+n - l - isoleucylation
+n - d - isoleucylation
+n - lysylation
+n - l - lysylation
+n - deoxyhypusinylation
+n - d - lysylation
+n - leucylation
+n - l - leucylation
+n - d - leucylation
+n - asparaginylation
+n - l - asparaginylation
+n - d - asparaginylation
+n - prolylation
+n - l - prolylation
+n - d - prolylation
+n - glutaminylation
+n - l - glutaminylation
+n - d - glutaminylation
+n - serylation
+n - l - serylation
+n - d - serylation
+n - threonylation
+n - l - threonylation
+n - d - threonylation
+n - selenocysteinylation
+n - l - selenocysteinylation
+n - d - selenocysteinylation
+n - valylation
+n - l - valylation
+n - d - valylation
+n - tryptophylation
+n - l - tryptophylation
+n - d - tryptophylation
+n - tyrosylation
+n - l - tyrosylation
+n - d - tyrosylation
+n - arginylation
+n - l - arginylation
+n - d - arginylation
+n - benzoylation
+n - beta - aspartylation
+n - d - beta - aspartylation
+n - l - beta - aspartylation
+n - biotinylation
+n - butyrylation
+n - carbamoylation
+n - c - aminocarbonohydrazonoylation
+n - 2 -  ( aminomethylidene ) hydrazinylation
+n - carbamoylcarbamoylation
+n - carbamothioylation
+n - acetylazanediylation
+n - oxamoylation
+n - cholylation
+n - enoylation
+n - fatty - acylation
+n - arachidonoylation
+n - arachidoylation
+n - behenoylation
+n - cerotoylation
+n - decanoylation
+n - dodecenoylation
+n - eleostearoylation
+n - mycolylation
+n - nervonoylation
+n - octanoylation
+n - palmitoleoylation
+n - palmitoylation
+n - stearoylation
+n - undecanoylation
+n - valerylation
+n - hexanoylation
+n - heptanoylation
+n - nonanoylation
+n - lauroylation
+n - myristoylation
+n - docosenoylation
+n - cetoleoylation
+n - erucoylation
+n - icosenoylation
+n - gadelaidoylation
+n - gadoleoylation
+n - gondoylation
+n - heptatrienoylation
+n - trans , trans - hepta - 2 , 4 , 6 - trienoylation
+n - octadecenoylation
+n - octadec - 6 - enoylation
+n - petroselaidoylation
+n - petroselinoylation
+n - vaccenoylation
+n - cis - vaccenoylation
+n - trans - vaccenoylation
+n - octadec - 9 - enoylation
+n - oleoylation
+n - elaidoylation
+n - margaroylation
+n - melissoylation
+n - myristoleoylation
+n - obtusiloylation
+n - lignoceroylation
+n - linoleoylation
+n - parinaroylation
+n - cis - parinaroylation
+n - trans - parinaroylation
+n - gamma - glutamylation
+n - l - gamma - glutamylation
+n - d - gamma - glutamylation
+n - glucuronosylation
+n - d - glucuronoylation
+n - glyceroyl 2 , 3 - dihydroxypropanoylation
+n - glycerylation
+n - glycidoyl 2 , 3 - epoxypropanoylation
+n - glycoloylation
+n - glycosylation
+n - galactosylation
+n - beta - d - galactosylation
+n - alpha - l - fucosyl - 1 , 2 - beta - d - galactosylation
+n - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+n - alpha - n - acetylneuraminyl - 2 , 8 - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+n - glucosylation
+n - d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - beta - d - glucosylation
+n - d - galactosyl - 1 , 4beta - d - glucosylation
+n - alpha - glucosylation
+n - beta - glucosylation
+n - d - galactosyl -  ( 1 -  > 4 )  - beta - d - glucosylation
+n - glycosaminylation
+n - galactosaminylation
+n - n - acetyl - d - galactosaminylation
+n - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 -  ( alpha - n - acetylneuraminyl - 2 , 6 )  - n - acetyl - d - galactosaminylation
+n - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+n - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+n - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+n - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+n - beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+n - beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 3 - n - acetyl - d - galactosaminylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 3 )  - n - acetyl - d - galactosaminylation
+n - glucosaminylation
+n - n - acetyl - d - glucosaminylation
+n - 1 , 3 - beta - d - galactosyl -  ( 1 , 4 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+n - 3 - o - beta - d - galactosyl - n - acetyl - d - glucosaminylation
+n - 1 , 4 - beta - d - galactosyl -  ( 1 , 3 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+n - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+n - alpha - d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+n - alpha - d - galactosyl - beta - 1 , 3 - d - galactosyl - beta - 1 , 4 - n - acetyl - d - glucosaminylation
+n - beta - d - galactosyl -  ( 1 , 4 )  - n - acetyl - d - glucosaminylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 2 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl , 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 6 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+n - iduronosylation
+n - 5' - inosinylation
+n - mannosylation
+n -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+n - alpha - d - mannosyl - 1 , 3 -  ( r1 )  - beta - d - mannosylation
+n - alpha - mannosylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 - beta - d - mannosylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 )  - beta - d - mannosylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 4 -  ( n - acetyl - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - beta - d - mannosylation
+n - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - d - mannosylation
+n - alpha - d - mannosyl -  ( 1 -  > 3 )  - beta - d - mannosylation
+n - neuraminosylation
+n - neuraminoylation
+n - ribosylation
+n - adenosinediphosphoribosylation
+n - 2 - deoxyribosylation
+n - sialosylation
+n - hemicystylation
+n - mevalonoylation
+n - montanoylation
+n - muramylation
+n - nucleotidylation
+n - 5' - adenylylation
+n - 5' - cytidylylation
+n - 5' - thymidylylation
+n - 5' - uridylylation
+n - 5' - guanylylation
+n - 5' - ribothymidylylation
+n - 5' - inosinylylation
+n - pantothenylation
+n - pantoylation
+n - peptidylation
+n - phthalylation
+n - propionylation
+n - pyruvoylation
+n - retinoylation
+n - sialoylation
+n - 3 - carboxypropanoylation
+n - trienoylation
+n - anilinocarbonylation
+n - pteroylation
+n - 3 - carboxyprop - 2 - enoylation
+n -  ( z )  - 3 - carboxyprop - 2 - enoylation
+n -  ( e )  - 3 - carboxyprop - 2 - enoylation
+n - 2 , 6 - dichlorobenzoylation
+n - alpha - muramylation
+n - beta - muramylation
+n - dihydrolipoylation
+n - sinapoylation
+n - carboxyacetylation
+n - divalent carboacylation
+n - aspartoylation
+n - l - aspartoylation
+n - d - aspartoylation
+n - citraconoylation
+n - glutamoylation
+n - d - glutamoylation
+n - l - glutamoylation
+n - maloylation
+n - phthaloylation
+n - succinylation
+n - butenedioylation
+n - fumaroylation
+n - maleoylation
+n - hexanedioylation
+n - malonylation
+n - ornithylation
+n - l - ornithylation
+n - half - cystylation
+n - l - tyrosin - o ( 4 )  - ylation
+n - l - threonin - o ( 3 )  - ylation
+n - d - tyrosin - o ( 4 )  - ylation
+n - d - threonin - o ( 3 )  - ylation
+n - tyrosin - o ( 4 )  - ylation
+n - threonin - o ( 3 )  - ylation
+n - oxalylation
+n - fumagillin - 2 - ylation
+n - acetoacetylation
+n - alpha - linolenoylation
+n - gamma - linolenoylation
+n - carbamimidoylation
+n - formimidoylation
+n - trifluoroacetylation
+n - carboxymethylation
+n - methylenecarbonylation
+n - n - hydroxyacetimidoylation
+n - acryloylation
+n - tert - butoxycarbonylation
+n - sulfanediylation
+n - phenylsulfanylation
+n - methylsulfanylation
+n - sulfaniumylation
+n - disulfanidylation
+n - disulfanediylation
+n - disulfanylation
+n - tetrasulfanylation
+n - tetrasulfanediylation
+n - trisulfanylation
+n - trisulfanediylation
+n - pentasulfanylation
+n - diselanylation
+n - tellanylation
+n - tellanediylation
+n - tellaniumylation
+n - ditellanylation
+n - amidylation
+n - azanediylation
+n - 2 - aminoethylation
+n - 4 - aminobutylation
+n - azanetriylation
+n - hydrazine - 1 , 2 - diylation
+n - diazyn - 1 - ium - 1 - ylation
+n - phosphanetriylation
+n - phosphanediylation
+n - phosphanylation
+n - lambda ( 5 )  - phosphanylation
+n - phosphaniumylation
+n - arsanylation
+n - arsanediylation
+n - arsanetriylation
+n - arsaniumylation
+n - lambda ( 5 )  - arsanylation
+n - stibaniumylation
+n - lambda ( 5 )  - stibanylation
+n - boranylation
+n - boranetriylation
+n - boranediylation
+n - boranuidylation
+n - germylation
+n - germanediylation
+n - germanetetraylation
+n - germanetriylation
+n - silylation
+n - silanediylation
+n - silanetriylation
+n - silanetetraylation
+n - disilanylation
+n - alumanylation
+n - stannylation
+n - stannanetriylation
+n - plumbanetriylation
+n - plumbylation
+n - gallanylation
+n - indiganylation
+n - thallanylation
+n - phosphatidylation
+n - nucleosidylation
+n - guanosylation
+n - inosylation
+n - thymidylation
+n - adenosylation
+n - 5' - adenosylation
+n - uridylation
+n - cytidylation
+n - dolichylation
+n - 2 - trans , 6 - trans - farnesylation
+n - margarylation
+n - methylation
+n - methanetetraylation
+n - methanetriylation
+n - trichloromethylation
+n - trifluoromethylation
+n - alkylation
+n - butylation
+n - cerylation
+n - decylation
+n - dodecylation
+n - heptylation
+n - hexylation
+n - myricylation
+n - myristylation
+n - nonylation
+n - octylation
+n - palmitylation
+n - pentylation
+n - propylation
+n - stearylation
+n - isopropylation
+n - ethylation
+n - isobutylation
+n - pentan - 2 - ylation
+n - isopentylation
+n - 3 - methylbutan - 2 - ylation
+n - tert - pentylation
+n - neopentylation
+n - undecylation
+n - tridecylation
+n - pentadecylation
+n - nonadecylation
+n - arachidylation
+n - henicosylation
+n - behenylation
+n - tricosylation
+n - lignocerylation
+n - pentacosylation
+n - heptacosylation
+n - montanylation
+n - nonacosylation
+n - sec - butylation
+n - tert - butylation
+n - pentan - 3 - ylation
+n - 2 - chloroethylation
+n - 1 - chloroethylation
+n - hydrocarbylation
+n - arylation
+n - phenylation
+n - biphenyl - 4 - ylation
+n - naphthylation
+n - 1 - naphthylation
+n - 2 - naphthylation
+n - cycloalkylation
+n - cyclobutylation
+n - cyclopropylation
+n - alkenylation
+n - oleylation
+n - allylation
+n - isopropenylation
+n - vinylation
+n - prenylation
+n - phytylation
+n - polyprenylation
+n - farnesylation
+n - geranylation
+n - geranylgeranylation
+n - retinylation
+n - adamantan - 2 - ylation
+n - cycloalkenylation
+n - campholenic cyclohexenylation
+n - cyclopentadienylation
+n - eta ( 5 )  - cyclopentadienylation
+n - eta ( 1 )  - cyclopentadienylation
+n - ethene - 1 , 2 - diylation
+n - arachidonylation
+n - benzylation
+n - anthracen - 1 - ylation
+n - anthracen - 2 - ylation
+n - imidazolylation
+n - imidazol - 1 - ylation
+n - imidazol - 2 - ylation
+n - imidazol - 5 - ylation
+n - imidazol - 4 - ylation
+n - furylation
+n - 2 - furylation
+n - 3 - furylation
+n - thienylation
+n - 2 - thienylation
+n - 3 - thienylation
+n - adenin - 9 - ylation
+n - guanin - 9 - ylation
+n - acetimidoylation
+n - organylation
+n - organic heterocyclylation
+n - heteroarylation
+n - 4 , 4' - dimethoxytriphenylmethylation
+n - taurylation
+n - triflylation
+n - glycidylation
+n - sulfanylmethylation
+n - selanylmethylation
+n - 2 - carboxyethylation
+n - 2 - amino - 2 - oxoethylation
+n - 3 - amino - 3 - oxopropylation
+n - 2 -  ( methylsulfanyl ) ethylation
+n - 4 - hydroxybenzylation
+n - 1h - indol - 3 - ylmethylation
+n - 1h - imidazol - 4 - ylmethylation
+n - 3 - carbamimidamidopropylation
+n - hydroxymethylation
+n - 1 - hydroxyethylation
+n - haloalkylation
+n - 2 -  ( trimethylsilyl ) ethoxymethylation
+n - acylation
+n - organoheterylation
+n - oxalosulfanylation
+n - organosilylation
+n - trimethylsilylation
+n - triisopropylsilylation
+n - tert - butyldiphenylsilylation
+n - tert - butyldimethylsilylation
+n - thioacylation
+n - carbothioacylation
+n - univalent carbothioacylation
+n - divalent carbothioacylation
+n - carbonimidoylation
+n - thiocarbonylation
+n -  ( fluoren - 9 - ylmethoxy ) carbonylation
+n - carbonylation
+n - cytosin - 1 - ylation
+n - thymin - 1 - ylation
+n - uracil - 1 - ylation
+n - morpholin - 4 - ylsulfonylation
+n - acetohydrazonoylation
+n - 2 - hydroxyethylation
+n - aminosulfinylation
+n - disiloxanylation
+n - disiloxane - 1 , 3 - diylation
+n - azinoylation
+n - azonoylation
+n - phosphorothioylation
+n - phosphonothioylation
+n - arsonoylation
+n - arsinoylation
+n - stiborylation
+n - sulfamoylation
+n - s - aminosulfinimidoylation
+n - s - aminosulfonimidoylation
+n - chlorylation
+n - chlorosylation
+n - perchlorylation
+n - bromosylation
+n - bromylation
+n - perbromylation
+n - iodosylation
+n - iodylation
+n - periodylation
+n - fluorosylation
+n - sulfonylation
+n - acetoxysulfonylation
+n - sulfonothioylation
+n - sulfinothioylation
+n - sulfonodithioylation
+n - trioxidanylation
+n - trioxidanediylation
+n - heterocyclylation
+n - phosphoramidochloridoylation
+n - s - aminosulfonodiimidoylation
+n - aminosulfanylation
+n - sulfinylation
+n - arsorylation
+n - azanediidylation
+n - sulfinimidoylation
+n - tosylation
+n - brosylation
+n - nosylation
+n - indolylamination
+n - indol - 1 - ylation
+n - indol - 2 - ylation
+n - indol - 3 - ylation
+n - n - oxindolylation
+n - alkylamination
+n - halogenation
+n - bromination
+n - chlorination
+n - fluorination
+n - iodination
+n - imination
+n - nitration
+n - hydroxyamination
+n - thioxonation
+n - sulfonation
+n - selenonation
+o - borylation
+o - methanidylation
+o - azaniumylation
+o - formylation
+o - acetonylation
+o - l - cystylation
+o - l - cystinylation
+o - d - cystylation
+o - cystinylation
+o - cystylation
+o - cysteinylation
+o - l - cysteinylation
+o - d - cysteinylation
+o - cystein - s - ylation
+o - d - cystein - s - ylation
+o - l - cystein - s - ylation
+o - methionylation
+o - l - methionylation
+o - n - formyl - l - methionylation
+o - d - methionylation
+o -  ( r )  - lipoylation
+o -  ( s )  - lipoylation
+o - lipoylation
+o -  ( r )  - dihydrolipoylation
+o -  ( s )  - dihydrolipoylation
+o - alpha - sialoylation
+o - beta - sialoylation
+o - glyceroylation
+o - carboacylation
+o - univalent carboacylation
+o - acetylation
+o - alpha - aminoacylation
+o - alanylation
+o - l - alanylation
+o - d - alanylation
+o - alpha - aspartylation
+o - l - alpha - aspartylation
+o - d - alpha - aspartylation
+o - alpha - glutamylation
+o - l - alpha - glutamylation
+o - d - alpha - glutamylation
+o - pteroylglutamylation
+o - phenylalanylation
+o - l - phenylalanylation
+o - d - phenylalanylation
+o - glycylation
+o - histidylation
+o - l - histidylation
+o - d - histidylation
+o - isoleucylation
+o - l - isoleucylation
+o - d - isoleucylation
+o - lysylation
+o - l - lysylation
+o - deoxyhypusinylation
+o - d - lysylation
+o - leucylation
+o - l - leucylation
+o - d - leucylation
+o - asparaginylation
+o - l - asparaginylation
+o - d - asparaginylation
+o - prolylation
+o - l - prolylation
+o - d - prolylation
+o - glutaminylation
+o - l - glutaminylation
+o - d - glutaminylation
+o - serylation
+o - l - serylation
+o - d - serylation
+o - threonylation
+o - l - threonylation
+o - d - threonylation
+o - selenocysteinylation
+o - l - selenocysteinylation
+o - d - selenocysteinylation
+o - valylation
+o - l - valylation
+o - d - valylation
+o - tryptophylation
+o - l - tryptophylation
+o - d - tryptophylation
+o - tyrosylation
+o - l - tyrosylation
+o - d - tyrosylation
+o - arginylation
+o - l - arginylation
+o - d - arginylation
+o - benzoylation
+o - beta - aspartylation
+o - d - beta - aspartylation
+o - l - beta - aspartylation
+o - biotinylation
+o - butyrylation
+o - carbamoylation
+o - c - aminocarbonohydrazonoylation
+o - 2 -  ( aminomethylidene ) hydrazinylation
+o - carbamoylcarbamoylation
+o - carbamothioylation
+o - acetylazanediylation
+o - oxamoylation
+o - cholylation
+o - enoylation
+o - fatty - acylation
+o - arachidonoylation
+o - arachidoylation
+o - behenoylation
+o - cerotoylation
+o - decanoylation
+o - dodecenoylation
+o - eleostearoylation
+o - mycolylation
+o - nervonoylation
+o - octanoylation
+o - palmitoleoylation
+o - palmitoylation
+o - stearoylation
+o - undecanoylation
+o - valerylation
+o - hexanoylation
+o - heptanoylation
+o - nonanoylation
+o - lauroylation
+o - myristoylation
+o - docosenoylation
+o - cetoleoylation
+o - erucoylation
+o - icosenoylation
+o - gadelaidoylation
+o - gadoleoylation
+o - gondoylation
+o - heptatrienoylation
+o - trans , trans - hepta - 2 , 4 , 6 - trienoylation
+o - octadecenoylation
+o - octadec - 6 - enoylation
+o - petroselaidoylation
+o - petroselinoylation
+o - vaccenoylation
+o - cis - vaccenoylation
+o - trans - vaccenoylation
+o - octadec - 9 - enoylation
+o - oleoylation
+o - elaidoylation
+o - margaroylation
+o - melissoylation
+o - myristoleoylation
+o - obtusiloylation
+o - lignoceroylation
+o - linoleoylation
+o - parinaroylation
+o - cis - parinaroylation
+o - trans - parinaroylation
+o - gamma - glutamylation
+o - l - gamma - glutamylation
+o - d - gamma - glutamylation
+o - glucuronosylation
+o - d - glucuronoylation
+o - glyceroyl 2 , 3 - dihydroxypropanoylation
+o - glycerylation
+o - glycidoyl 2 , 3 - epoxypropanoylation
+o - glycoloylation
+o - glycosylation
+o - galactosylation
+o - beta - d - galactosylation
+o - alpha - l - fucosyl - 1 , 2 - beta - d - galactosylation
+o - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+o - alpha - n - acetylneuraminyl - 2 , 8 - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+o - glucosylation
+o - d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - beta - d - glucosylation
+o - d - galactosyl - 1 , 4beta - d - glucosylation
+o - alpha - glucosylation
+o - beta - glucosylation
+o - d - galactosyl -  ( 1 -  > 4 )  - beta - d - glucosylation
+o - glycosaminylation
+o - galactosaminylation
+o - n - acetyl - d - galactosaminylation
+o - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 -  ( alpha - n - acetylneuraminyl - 2 , 6 )  - n - acetyl - d - galactosaminylation
+o - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+o - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+o - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+o - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+o - beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+o - beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 3 - n - acetyl - d - galactosaminylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 3 )  - n - acetyl - d - galactosaminylation
+o - glucosaminylation
+o - n - acetyl - d - glucosaminylation
+o - 1 , 3 - beta - d - galactosyl -  ( 1 , 4 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+o - 3 - o - beta - d - galactosyl - n - acetyl - d - glucosaminylation
+o - 1 , 4 - beta - d - galactosyl -  ( 1 , 3 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+o - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+o - alpha - d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+o - alpha - d - galactosyl - beta - 1 , 3 - d - galactosyl - beta - 1 , 4 - n - acetyl - d - glucosaminylation
+o - beta - d - galactosyl -  ( 1 , 4 )  - n - acetyl - d - glucosaminylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 2 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl , 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 6 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+o - iduronosylation
+o - 5' - inosinylation
+o - mannosylation
+o -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+o - alpha - d - mannosyl - 1 , 3 -  ( r1 )  - beta - d - mannosylation
+o - alpha - mannosylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 - beta - d - mannosylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 )  - beta - d - mannosylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 4 -  ( n - acetyl - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - beta - d - mannosylation
+o - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - d - mannosylation
+o - alpha - d - mannosyl -  ( 1 -  > 3 )  - beta - d - mannosylation
+o - neuraminosylation
+o - neuraminoylation
+o - ribosylation
+o - adenosinediphosphoribosylation
+o - 2 - deoxyribosylation
+o - sialosylation
+o - hemicystylation
+o - mevalonoylation
+o - montanoylation
+o - muramylation
+o - nucleotidylation
+o - 5' - adenylylation
+o - 5' - cytidylylation
+o - 5' - thymidylylation
+o - 5' - uridylylation
+o - 5' - guanylylation
+o - 5' - ribothymidylylation
+o - 5' - inosinylylation
+o - pantothenylation
+o - pantoylation
+o - peptidylation
+o - phthalylation
+o - propionylation
+o - pyruvoylation
+o - retinoylation
+o - sialoylation
+o - 3 - carboxypropanoylation
+o - trienoylation
+o - anilinocarbonylation
+o - pteroylation
+o - 3 - carboxyprop - 2 - enoylation
+o -  ( z )  - 3 - carboxyprop - 2 - enoylation
+o -  ( e )  - 3 - carboxyprop - 2 - enoylation
+o - 2 , 6 - dichlorobenzoylation
+o - alpha - muramylation
+o - beta - muramylation
+o - dihydrolipoylation
+o - sinapoylation
+o - carboxyacetylation
+o - divalent carboacylation
+o - aspartoylation
+o - l - aspartoylation
+o - d - aspartoylation
+o - citraconoylation
+o - glutamoylation
+o - d - glutamoylation
+o - l - glutamoylation
+o - maloylation
+o - phthaloylation
+o - succinylation
+o - butenedioylation
+o - fumaroylation
+o - maleoylation
+o - hexanedioylation
+o - malonylation
+o - ornithylation
+o - l - ornithylation
+o - half - cystylation
+o - l - tyrosin - o ( 4 )  - ylation
+o - l - threonin - o ( 3 )  - ylation
+o - d - tyrosin - o ( 4 )  - ylation
+o - d - threonin - o ( 3 )  - ylation
+o - tyrosin - o ( 4 )  - ylation
+o - threonin - o ( 3 )  - ylation
+o - oxalylation
+o - fumagillin - 2 - ylation
+o - acetoacetylation
+o - alpha - linolenoylation
+o - gamma - linolenoylation
+o - carbamimidoylation
+o - formimidoylation
+o - trifluoroacetylation
+o - carboxymethylation
+o - methylenecarbonylation
+o - n - hydroxyacetimidoylation
+o - acryloylation
+o - tert - butoxycarbonylation
+o - sulfanediylation
+o - phenylsulfanylation
+o - methylsulfanylation
+o - sulfaniumylation
+o - disulfanidylation
+o - disulfanediylation
+o - disulfanylation
+o - tetrasulfanylation
+o - tetrasulfanediylation
+o - trisulfanylation
+o - trisulfanediylation
+o - pentasulfanylation
+o - diselanylation
+o - tellanylation
+o - tellanediylation
+o - tellaniumylation
+o - ditellanylation
+o - amidylation
+o - azanediylation
+o - 2 - aminoethylation
+o - 4 - aminobutylation
+o - azanetriylation
+o - hydrazine - 1 , 2 - diylation
+o - diazyn - 1 - ium - 1 - ylation
+o - phosphanetriylation
+o - phosphanediylation
+o - phosphanylation
+o - lambda ( 5 )  - phosphanylation
+o - phosphaniumylation
+o - arsanylation
+o - arsanediylation
+o - arsanetriylation
+o - arsaniumylation
+o - lambda ( 5 )  - arsanylation
+o - stibaniumylation
+o - lambda ( 5 )  - stibanylation
+o - boranylation
+o - boranetriylation
+o - boranediylation
+o - boranuidylation
+o - germylation
+o - germanediylation
+o - germanetetraylation
+o - germanetriylation
+o - silylation
+o - silanediylation
+o - silanetriylation
+o - silanetetraylation
+o - disilanylation
+o - alumanylation
+o - stannylation
+o - stannanetriylation
+o - plumbanetriylation
+o - plumbylation
+o - gallanylation
+o - indiganylation
+o - thallanylation
+o - phosphatidylation
+o - nucleosidylation
+o - guanosylation
+o - inosylation
+o - thymidylation
+o - adenosylation
+o - 5' - adenosylation
+o - uridylation
+o - cytidylation
+o - dolichylation
+o - 2 - trans , 6 - trans - farnesylation
+o - margarylation
+o - methylation
+o - methanetetraylation
+o - methanetriylation
+o - trichloromethylation
+o - trifluoromethylation
+o - alkylation
+o - butylation
+o - cerylation
+o - decylation
+o - dodecylation
+o - heptylation
+o - hexylation
+o - myricylation
+o - myristylation
+o - nonylation
+o - octylation
+o - palmitylation
+o - pentylation
+o - propylation
+o - stearylation
+o - isopropylation
+o - ethylation
+o - isobutylation
+o - pentan - 2 - ylation
+o - isopentylation
+o - 3 - methylbutan - 2 - ylation
+o - tert - pentylation
+o - neopentylation
+o - undecylation
+o - tridecylation
+o - pentadecylation
+o - nonadecylation
+o - arachidylation
+o - henicosylation
+o - behenylation
+o - tricosylation
+o - lignocerylation
+o - pentacosylation
+o - heptacosylation
+o - montanylation
+o - nonacosylation
+o - sec - butylation
+o - tert - butylation
+o - pentan - 3 - ylation
+o - 2 - chloroethylation
+o - 1 - chloroethylation
+o - hydrocarbylation
+o - arylation
+o - phenylation
+o - biphenyl - 4 - ylation
+o - naphthylation
+o - 1 - naphthylation
+o - 2 - naphthylation
+o - cycloalkylation
+o - cyclobutylation
+o - cyclopropylation
+o - alkenylation
+o - oleylation
+o - allylation
+o - isopropenylation
+o - vinylation
+o - prenylation
+o - phytylation
+o - polyprenylation
+o - farnesylation
+o - geranylation
+o - geranylgeranylation
+o - retinylation
+o - adamantan - 2 - ylation
+o - cycloalkenylation
+o - campholenic cyclohexenylation
+o - cyclopentadienylation
+o - eta ( 5 )  - cyclopentadienylation
+o - eta ( 1 )  - cyclopentadienylation
+o - ethene - 1 , 2 - diylation
+o - arachidonylation
+o - benzylation
+o - anthracen - 1 - ylation
+o - anthracen - 2 - ylation
+o - imidazolylation
+o - imidazol - 1 - ylation
+o - imidazol - 2 - ylation
+o - imidazol - 5 - ylation
+o - imidazol - 4 - ylation
+o - furylation
+o - 2 - furylation
+o - 3 - furylation
+o - thienylation
+o - 2 - thienylation
+o - 3 - thienylation
+o - adenin - 9 - ylation
+o - guanin - 9 - ylation
+o - acetimidoylation
+o - organylation
+o - organic heterocyclylation
+o - heteroarylation
+o - 4 , 4' - dimethoxytriphenylmethylation
+o - taurylation
+o - triflylation
+o - glycidylation
+o - sulfanylmethylation
+o - selanylmethylation
+o - 2 - carboxyethylation
+o - 2 - amino - 2 - oxoethylation
+o - 3 - amino - 3 - oxopropylation
+o - 2 -  ( methylsulfanyl ) ethylation
+o - 4 - hydroxybenzylation
+o - 1h - indol - 3 - ylmethylation
+o - 1h - imidazol - 4 - ylmethylation
+o - 3 - carbamimidamidopropylation
+o - hydroxymethylation
+o - 1 - hydroxyethylation
+o - haloalkylation
+o - 2 -  ( trimethylsilyl ) ethoxymethylation
+o - acylation
+o - organoheterylation
+o - oxalosulfanylation
+o - organosilylation
+o - trimethylsilylation
+o - triisopropylsilylation
+o - tert - butyldiphenylsilylation
+o - tert - butyldimethylsilylation
+o - thioacylation
+o - carbothioacylation
+o - univalent carbothioacylation
+o - divalent carbothioacylation
+o - carbonimidoylation
+o - thiocarbonylation
+o -  ( fluoren - 9 - ylmethoxy ) carbonylation
+o - carbonylation
+o - cytosin - 1 - ylation
+o - thymin - 1 - ylation
+o - uracil - 1 - ylation
+o - morpholin - 4 - ylsulfonylation
+o - acetohydrazonoylation
+o - 2 - hydroxyethylation
+o - aminosulfinylation
+o - disiloxanylation
+o - disiloxane - 1 , 3 - diylation
+o - azinoylation
+o - azonoylation
+o - phosphorothioylation
+o - phosphonothioylation
+o - arsonoylation
+o - arsinoylation
+o - stiborylation
+o - sulfamoylation
+o - s - aminosulfinimidoylation
+o - s - aminosulfonimidoylation
+o - chlorylation
+o - chlorosylation
+o - perchlorylation
+o - bromosylation
+o - bromylation
+o - perbromylation
+o - iodosylation
+o - iodylation
+o - periodylation
+o - fluorosylation
+o - sulfonylation
+o - acetoxysulfonylation
+o - sulfonothioylation
+o - sulfinothioylation
+o - sulfonodithioylation
+o - trioxidanylation
+o - trioxidanediylation
+o - heterocyclylation
+o - phosphoramidochloridoylation
+o - s - aminosulfonodiimidoylation
+o - aminosulfanylation
+o - sulfinylation
+o - arsorylation
+o - azanediidylation
+o - sulfinimidoylation
+o - tosylation
+o - brosylation
+o - nosylation
+o - indolylamination
+o - indol - 1 - ylation
+o - indol - 2 - ylation
+o - indol - 3 - ylation
+o - n - oxindolylation
+o - alkylamination
+o - halogenation
+o - bromination
+o - chlorination
+o - fluorination
+o - iodination
+o - imination
+o - nitration
+o - hydroxyamination
+o - thioxonation
+o - sulfonation
+o - selenonation
+s - borylation
+s - methanidylation
+s - azaniumylation
+s - formylation
+s - acetonylation
+s - l - cystylation
+s - l - cystinylation
+s - d - cystylation
+s - cystinylation
+s - cystylation
+s - cysteinylation
+s - l - cysteinylation
+s - d - cysteinylation
+s - cystein - s - ylation
+s - d - cystein - s - ylation
+s - l - cystein - s - ylation
+s - methionylation
+s - l - methionylation
+s - n - formyl - l - methionylation
+s - d - methionylation
+s -  ( r )  - lipoylation
+s -  ( s )  - lipoylation
+s - lipoylation
+s -  ( r )  - dihydrolipoylation
+s -  ( s )  - dihydrolipoylation
+s - alpha - sialoylation
+s - beta - sialoylation
+s - glyceroylation
+s - carboacylation
+s - univalent carboacylation
+s - acetylation
+s - alpha - aminoacylation
+s - alanylation
+s - l - alanylation
+s - d - alanylation
+s - alpha - aspartylation
+s - l - alpha - aspartylation
+s - d - alpha - aspartylation
+s - alpha - glutamylation
+s - l - alpha - glutamylation
+s - d - alpha - glutamylation
+s - pteroylglutamylation
+s - phenylalanylation
+s - l - phenylalanylation
+s - d - phenylalanylation
+s - glycylation
+s - histidylation
+s - l - histidylation
+s - d - histidylation
+s - isoleucylation
+s - l - isoleucylation
+s - d - isoleucylation
+s - lysylation
+s - l - lysylation
+s - deoxyhypusinylation
+s - d - lysylation
+s - leucylation
+s - l - leucylation
+s - d - leucylation
+s - asparaginylation
+s - l - asparaginylation
+s - d - asparaginylation
+s - prolylation
+s - l - prolylation
+s - d - prolylation
+s - glutaminylation
+s - l - glutaminylation
+s - d - glutaminylation
+s - serylation
+s - l - serylation
+s - d - serylation
+s - threonylation
+s - l - threonylation
+s - d - threonylation
+s - selenocysteinylation
+s - l - selenocysteinylation
+s - d - selenocysteinylation
+s - valylation
+s - l - valylation
+s - d - valylation
+s - tryptophylation
+s - l - tryptophylation
+s - d - tryptophylation
+s - tyrosylation
+s - l - tyrosylation
+s - d - tyrosylation
+s - arginylation
+s - l - arginylation
+s - d - arginylation
+s - benzoylation
+s - beta - aspartylation
+s - d - beta - aspartylation
+s - l - beta - aspartylation
+s - biotinylation
+s - butyrylation
+s - carbamoylation
+s - c - aminocarbonohydrazonoylation
+s - 2 -  ( aminomethylidene ) hydrazinylation
+s - carbamoylcarbamoylation
+s - carbamothioylation
+s - acetylazanediylation
+s - oxamoylation
+s - cholylation
+s - enoylation
+s - fatty - acylation
+s - arachidonoylation
+s - arachidoylation
+s - behenoylation
+s - cerotoylation
+s - decanoylation
+s - dodecenoylation
+s - eleostearoylation
+s - mycolylation
+s - nervonoylation
+s - octanoylation
+s - palmitoleoylation
+s - palmitoylation
+s - stearoylation
+s - undecanoylation
+s - valerylation
+s - hexanoylation
+s - heptanoylation
+s - nonanoylation
+s - lauroylation
+s - myristoylation
+s - docosenoylation
+s - cetoleoylation
+s - erucoylation
+s - icosenoylation
+s - gadelaidoylation
+s - gadoleoylation
+s - gondoylation
+s - heptatrienoylation
+s - trans , trans - hepta - 2 , 4 , 6 - trienoylation
+s - octadecenoylation
+s - octadec - 6 - enoylation
+s - petroselaidoylation
+s - petroselinoylation
+s - vaccenoylation
+s - cis - vaccenoylation
+s - trans - vaccenoylation
+s - octadec - 9 - enoylation
+s - oleoylation
+s - elaidoylation
+s - margaroylation
+s - melissoylation
+s - myristoleoylation
+s - obtusiloylation
+s - lignoceroylation
+s - linoleoylation
+s - parinaroylation
+s - cis - parinaroylation
+s - trans - parinaroylation
+s - gamma - glutamylation
+s - l - gamma - glutamylation
+s - d - gamma - glutamylation
+s - glucuronosylation
+s - d - glucuronoylation
+s - glyceroyl 2 , 3 - dihydroxypropanoylation
+s - glycerylation
+s - glycidoyl 2 , 3 - epoxypropanoylation
+s - glycoloylation
+s - glycosylation
+s - galactosylation
+s - beta - d - galactosylation
+s - alpha - l - fucosyl - 1 , 2 - beta - d - galactosylation
+s - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+s - alpha - n - acetylneuraminyl - 2 , 8 - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+s - glucosylation
+s - d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - beta - d - glucosylation
+s - d - galactosyl - 1 , 4beta - d - glucosylation
+s - alpha - glucosylation
+s - beta - glucosylation
+s - d - galactosyl -  ( 1 -  > 4 )  - beta - d - glucosylation
+s - glycosaminylation
+s - galactosaminylation
+s - n - acetyl - d - galactosaminylation
+s - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 -  ( alpha - n - acetylneuraminyl - 2 , 6 )  - n - acetyl - d - galactosaminylation
+s - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+s - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+s - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+s - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+s - beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+s - beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 3 - n - acetyl - d - galactosaminylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 3 )  - n - acetyl - d - galactosaminylation
+s - glucosaminylation
+s - n - acetyl - d - glucosaminylation
+s - 1 , 3 - beta - d - galactosyl -  ( 1 , 4 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+s - 3 - o - beta - d - galactosyl - n - acetyl - d - glucosaminylation
+s - 1 , 4 - beta - d - galactosyl -  ( 1 , 3 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+s - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+s - alpha - d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+s - alpha - d - galactosyl - beta - 1 , 3 - d - galactosyl - beta - 1 , 4 - n - acetyl - d - glucosaminylation
+s - beta - d - galactosyl -  ( 1 , 4 )  - n - acetyl - d - glucosaminylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 2 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl , 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 6 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+s - iduronosylation
+s - 5' - inosinylation
+s - mannosylation
+s -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+s - alpha - d - mannosyl - 1 , 3 -  ( r1 )  - beta - d - mannosylation
+s - alpha - mannosylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 - beta - d - mannosylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 )  - beta - d - mannosylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 4 -  ( n - acetyl - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - beta - d - mannosylation
+s - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - d - mannosylation
+s - alpha - d - mannosyl -  ( 1 -  > 3 )  - beta - d - mannosylation
+s - neuraminosylation
+s - neuraminoylation
+s - ribosylation
+s - adenosinediphosphoribosylation
+s - 2 - deoxyribosylation
+s - sialosylation
+s - hemicystylation
+s - mevalonoylation
+s - montanoylation
+s - muramylation
+s - nucleotidylation
+s - 5' - adenylylation
+s - 5' - cytidylylation
+s - 5' - thymidylylation
+s - 5' - uridylylation
+s - 5' - guanylylation
+s - 5' - ribothymidylylation
+s - 5' - inosinylylation
+s - pantothenylation
+s - pantoylation
+s - peptidylation
+s - phthalylation
+s - propionylation
+s - pyruvoylation
+s - retinoylation
+s - sialoylation
+s - 3 - carboxypropanoylation
+s - trienoylation
+s - anilinocarbonylation
+s - pteroylation
+s - 3 - carboxyprop - 2 - enoylation
+s -  ( z )  - 3 - carboxyprop - 2 - enoylation
+s -  ( e )  - 3 - carboxyprop - 2 - enoylation
+s - 2 , 6 - dichlorobenzoylation
+s - alpha - muramylation
+s - beta - muramylation
+s - dihydrolipoylation
+s - sinapoylation
+s - carboxyacetylation
+s - divalent carboacylation
+s - aspartoylation
+s - l - aspartoylation
+s - d - aspartoylation
+s - citraconoylation
+s - glutamoylation
+s - d - glutamoylation
+s - l - glutamoylation
+s - maloylation
+s - phthaloylation
+s - succinylation
+s - butenedioylation
+s - fumaroylation
+s - maleoylation
+s - hexanedioylation
+s - malonylation
+s - ornithylation
+s - l - ornithylation
+s - half - cystylation
+s - l - tyrosin - o ( 4 )  - ylation
+s - l - threonin - o ( 3 )  - ylation
+s - d - tyrosin - o ( 4 )  - ylation
+s - d - threonin - o ( 3 )  - ylation
+s - tyrosin - o ( 4 )  - ylation
+s - threonin - o ( 3 )  - ylation
+s - oxalylation
+s - fumagillin - 2 - ylation
+s - acetoacetylation
+s - alpha - linolenoylation
+s - gamma - linolenoylation
+s - carbamimidoylation
+s - formimidoylation
+s - trifluoroacetylation
+s - carboxymethylation
+s - methylenecarbonylation
+s - n - hydroxyacetimidoylation
+s - acryloylation
+s - tert - butoxycarbonylation
+s - sulfanediylation
+s - phenylsulfanylation
+s - methylsulfanylation
+s - sulfaniumylation
+s - disulfanidylation
+s - disulfanediylation
+s - disulfanylation
+s - tetrasulfanylation
+s - tetrasulfanediylation
+s - trisulfanylation
+s - trisulfanediylation
+s - pentasulfanylation
+s - diselanylation
+s - tellanylation
+s - tellanediylation
+s - tellaniumylation
+s - ditellanylation
+s - amidylation
+s - azanediylation
+s - 2 - aminoethylation
+s - 4 - aminobutylation
+s - azanetriylation
+s - hydrazine - 1 , 2 - diylation
+s - diazyn - 1 - ium - 1 - ylation
+s - phosphanetriylation
+s - phosphanediylation
+s - phosphanylation
+s - lambda ( 5 )  - phosphanylation
+s - phosphaniumylation
+s - arsanylation
+s - arsanediylation
+s - arsanetriylation
+s - arsaniumylation
+s - lambda ( 5 )  - arsanylation
+s - stibaniumylation
+s - lambda ( 5 )  - stibanylation
+s - boranylation
+s - boranetriylation
+s - boranediylation
+s - boranuidylation
+s - germylation
+s - germanediylation
+s - germanetetraylation
+s - germanetriylation
+s - silylation
+s - silanediylation
+s - silanetriylation
+s - silanetetraylation
+s - disilanylation
+s - alumanylation
+s - stannylation
+s - stannanetriylation
+s - plumbanetriylation
+s - plumbylation
+s - gallanylation
+s - indiganylation
+s - thallanylation
+s - phosphatidylation
+s - nucleosidylation
+s - guanosylation
+s - inosylation
+s - thymidylation
+s - adenosylation
+s - 5' - adenosylation
+s - uridylation
+s - cytidylation
+s - dolichylation
+s - 2 - trans , 6 - trans - farnesylation
+s - margarylation
+s - methylation
+s - methanetetraylation
+s - methanetriylation
+s - trichloromethylation
+s - trifluoromethylation
+s - alkylation
+s - butylation
+s - cerylation
+s - decylation
+s - dodecylation
+s - heptylation
+s - hexylation
+s - myricylation
+s - myristylation
+s - nonylation
+s - octylation
+s - palmitylation
+s - pentylation
+s - propylation
+s - stearylation
+s - isopropylation
+s - ethylation
+s - isobutylation
+s - pentan - 2 - ylation
+s - isopentylation
+s - 3 - methylbutan - 2 - ylation
+s - tert - pentylation
+s - neopentylation
+s - undecylation
+s - tridecylation
+s - pentadecylation
+s - nonadecylation
+s - arachidylation
+s - henicosylation
+s - behenylation
+s - tricosylation
+s - lignocerylation
+s - pentacosylation
+s - heptacosylation
+s - montanylation
+s - nonacosylation
+s - sec - butylation
+s - tert - butylation
+s - pentan - 3 - ylation
+s - 2 - chloroethylation
+s - 1 - chloroethylation
+s - hydrocarbylation
+s - arylation
+s - phenylation
+s - biphenyl - 4 - ylation
+s - naphthylation
+s - 1 - naphthylation
+s - 2 - naphthylation
+s - cycloalkylation
+s - cyclobutylation
+s - cyclopropylation
+s - alkenylation
+s - oleylation
+s - allylation
+s - isopropenylation
+s - vinylation
+s - prenylation
+s - phytylation
+s - polyprenylation
+s - farnesylation
+s - geranylation
+s - geranylgeranylation
+s - retinylation
+s - adamantan - 2 - ylation
+s - cycloalkenylation
+s - campholenic cyclohexenylation
+s - cyclopentadienylation
+s - eta ( 5 )  - cyclopentadienylation
+s - eta ( 1 )  - cyclopentadienylation
+s - ethene - 1 , 2 - diylation
+s - arachidonylation
+s - benzylation
+s - anthracen - 1 - ylation
+s - anthracen - 2 - ylation
+s - imidazolylation
+s - imidazol - 1 - ylation
+s - imidazol - 2 - ylation
+s - imidazol - 5 - ylation
+s - imidazol - 4 - ylation
+s - furylation
+s - 2 - furylation
+s - 3 - furylation
+s - thienylation
+s - 2 - thienylation
+s - 3 - thienylation
+s - adenin - 9 - ylation
+s - guanin - 9 - ylation
+s - acetimidoylation
+s - organylation
+s - organic heterocyclylation
+s - heteroarylation
+s - 4 , 4' - dimethoxytriphenylmethylation
+s - taurylation
+s - triflylation
+s - glycidylation
+s - sulfanylmethylation
+s - selanylmethylation
+s - 2 - carboxyethylation
+s - 2 - amino - 2 - oxoethylation
+s - 3 - amino - 3 - oxopropylation
+s - 2 -  ( methylsulfanyl ) ethylation
+s - 4 - hydroxybenzylation
+s - 1h - indol - 3 - ylmethylation
+s - 1h - imidazol - 4 - ylmethylation
+s - 3 - carbamimidamidopropylation
+s - hydroxymethylation
+s - 1 - hydroxyethylation
+s - haloalkylation
+s - 2 -  ( trimethylsilyl ) ethoxymethylation
+s - acylation
+s - organoheterylation
+s - oxalosulfanylation
+s - organosilylation
+s - trimethylsilylation
+s - triisopropylsilylation
+s - tert - butyldiphenylsilylation
+s - tert - butyldimethylsilylation
+s - thioacylation
+s - carbothioacylation
+s - univalent carbothioacylation
+s - divalent carbothioacylation
+s - carbonimidoylation
+s - thiocarbonylation
+s -  ( fluoren - 9 - ylmethoxy ) carbonylation
+s - carbonylation
+s - cytosin - 1 - ylation
+s - thymin - 1 - ylation
+s - uracil - 1 - ylation
+s - morpholin - 4 - ylsulfonylation
+s - acetohydrazonoylation
+s - 2 - hydroxyethylation
+s - aminosulfinylation
+s - disiloxanylation
+s - disiloxane - 1 , 3 - diylation
+s - azinoylation
+s - azonoylation
+s - phosphorothioylation
+s - phosphonothioylation
+s - arsonoylation
+s - arsinoylation
+s - stiborylation
+s - sulfamoylation
+s - s - aminosulfinimidoylation
+s - s - aminosulfonimidoylation
+s - chlorylation
+s - chlorosylation
+s - perchlorylation
+s - bromosylation
+s - bromylation
+s - perbromylation
+s - iodosylation
+s - iodylation
+s - periodylation
+s - fluorosylation
+s - sulfonylation
+s - acetoxysulfonylation
+s - sulfonothioylation
+s - sulfinothioylation
+s - sulfonodithioylation
+s - trioxidanylation
+s - trioxidanediylation
+s - heterocyclylation
+s - phosphoramidochloridoylation
+s - s - aminosulfonodiimidoylation
+s - aminosulfanylation
+s - sulfinylation
+s - arsorylation
+s - azanediidylation
+s - sulfinimidoylation
+s - tosylation
+s - brosylation
+s - nosylation
+s - indolylamination
+s - indol - 1 - ylation
+s - indol - 2 - ylation
+s - indol - 3 - ylation
+s - n - oxindolylation
+s - alkylamination
+s - halogenation
+s - bromination
+s - chlorination
+s - fluorination
+s - iodination
+s - imination
+s - nitration
+s - hydroxyamination
+s - thioxonation
+s - sulfonation
+s - selenonation
+c - borylation
+c - methanidylation
+c - azaniumylation
+c - formylation
+c - acetonylation
+c - l - cystylation
+c - l - cystinylation
+c - d - cystylation
+c - cystinylation
+c - cystylation
+c - cysteinylation
+c - l - cysteinylation
+c - d - cysteinylation
+c - cystein - s - ylation
+c - d - cystein - s - ylation
+c - l - cystein - s - ylation
+c - methionylation
+c - l - methionylation
+c - n - formyl - l - methionylation
+c - d - methionylation
+c -  ( r )  - lipoylation
+c -  ( s )  - lipoylation
+c - lipoylation
+c -  ( r )  - dihydrolipoylation
+c -  ( s )  - dihydrolipoylation
+c - alpha - sialoylation
+c - beta - sialoylation
+c - glyceroylation
+c - carboacylation
+c - univalent carboacylation
+c - acetylation
+c - alpha - aminoacylation
+c - alanylation
+c - l - alanylation
+c - d - alanylation
+c - alpha - aspartylation
+c - l - alpha - aspartylation
+c - d - alpha - aspartylation
+c - alpha - glutamylation
+c - l - alpha - glutamylation
+c - d - alpha - glutamylation
+c - pteroylglutamylation
+c - phenylalanylation
+c - l - phenylalanylation
+c - d - phenylalanylation
+c - glycylation
+c - histidylation
+c - l - histidylation
+c - d - histidylation
+c - isoleucylation
+c - l - isoleucylation
+c - d - isoleucylation
+c - lysylation
+c - l - lysylation
+c - deoxyhypusinylation
+c - d - lysylation
+c - leucylation
+c - l - leucylation
+c - d - leucylation
+c - asparaginylation
+c - l - asparaginylation
+c - d - asparaginylation
+c - prolylation
+c - l - prolylation
+c - d - prolylation
+c - glutaminylation
+c - l - glutaminylation
+c - d - glutaminylation
+c - serylation
+c - l - serylation
+c - d - serylation
+c - threonylation
+c - l - threonylation
+c - d - threonylation
+c - selenocysteinylation
+c - l - selenocysteinylation
+c - d - selenocysteinylation
+c - valylation
+c - l - valylation
+c - d - valylation
+c - tryptophylation
+c - l - tryptophylation
+c - d - tryptophylation
+c - tyrosylation
+c - l - tyrosylation
+c - d - tyrosylation
+c - arginylation
+c - l - arginylation
+c - d - arginylation
+c - benzoylation
+c - beta - aspartylation
+c - d - beta - aspartylation
+c - l - beta - aspartylation
+c - biotinylation
+c - butyrylation
+c - carbamoylation
+c - c - aminocarbonohydrazonoylation
+c - 2 -  ( aminomethylidene ) hydrazinylation
+c - carbamoylcarbamoylation
+c - carbamothioylation
+c - acetylazanediylation
+c - oxamoylation
+c - cholylation
+c - enoylation
+c - fatty - acylation
+c - arachidonoylation
+c - arachidoylation
+c - behenoylation
+c - cerotoylation
+c - decanoylation
+c - dodecenoylation
+c - eleostearoylation
+c - mycolylation
+c - nervonoylation
+c - octanoylation
+c - palmitoleoylation
+c - palmitoylation
+c - stearoylation
+c - undecanoylation
+c - valerylation
+c - hexanoylation
+c - heptanoylation
+c - nonanoylation
+c - lauroylation
+c - myristoylation
+c - docosenoylation
+c - cetoleoylation
+c - erucoylation
+c - icosenoylation
+c - gadelaidoylation
+c - gadoleoylation
+c - gondoylation
+c - heptatrienoylation
+c - trans , trans - hepta - 2 , 4 , 6 - trienoylation
+c - octadecenoylation
+c - octadec - 6 - enoylation
+c - petroselaidoylation
+c - petroselinoylation
+c - vaccenoylation
+c - cis - vaccenoylation
+c - trans - vaccenoylation
+c - octadec - 9 - enoylation
+c - oleoylation
+c - elaidoylation
+c - margaroylation
+c - melissoylation
+c - myristoleoylation
+c - obtusiloylation
+c - lignoceroylation
+c - linoleoylation
+c - parinaroylation
+c - cis - parinaroylation
+c - trans - parinaroylation
+c - gamma - glutamylation
+c - l - gamma - glutamylation
+c - d - gamma - glutamylation
+c - glucuronosylation
+c - d - glucuronoylation
+c - glyceroyl 2 , 3 - dihydroxypropanoylation
+c - glycerylation
+c - glycidoyl 2 , 3 - epoxypropanoylation
+c - glycoloylation
+c - glycosylation
+c - galactosylation
+c - beta - d - galactosylation
+c - alpha - l - fucosyl - 1 , 2 - beta - d - galactosylation
+c - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+c - alpha - n - acetylneuraminyl - 2 , 8 - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosylation
+c - glucosylation
+c - d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - beta - d - glucosylation
+c - d - galactosyl - 1 , 4beta - d - glucosylation
+c - alpha - glucosylation
+c - beta - glucosylation
+c - d - galactosyl -  ( 1 -  > 4 )  - beta - d - glucosylation
+c - glycosaminylation
+c - galactosaminylation
+c - n - acetyl - d - galactosaminylation
+c - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 -  ( alpha - n - acetylneuraminyl - 2 , 6 )  - n - acetyl - d - galactosaminylation
+c - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+c - alpha - n - acetylneuraminyl - 2 , 3 - beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+c - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+c - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+c - beta - d - galactosyl - 1 , 3 - n - acetyl - alpha - d - galactosaminylation
+c - beta - d - galactosyl - 1 , 3 - n - acetyl - d - galactosaminylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - n - acetyl - d - galactosaminylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 3 - n - acetyl - d - galactosaminylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 3 )  - n - acetyl - d - galactosaminylation
+c - glucosaminylation
+c - n - acetyl - d - glucosaminylation
+c - 1 , 3 - beta - d - galactosyl -  ( 1 , 4 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+c - 3 - o - beta - d - galactosyl - n - acetyl - d - glucosaminylation
+c - 1 , 4 - beta - d - galactosyl -  ( 1 , 3 - alpha - l - fucosyl )  - n - acetyl - d - glucosaminylation
+c - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+c - alpha - d - galactosyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+c - alpha - d - galactosyl - beta - 1 , 3 - d - galactosyl - beta - 1 , 4 - n - acetyl - d - glucosaminylation
+c - beta - d - galactosyl -  ( 1 , 4 )  - n - acetyl - d - glucosaminylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 2 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 6 )  - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 ( 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl , 1 , 6 ( 3 )  )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosyl - 1 , 4 - n - acetyl - beta - d - glucosaminylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 3 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 6 - beta - d - galactosyl - 1 , 4 - n - acetyl - d - glucosaminylation
+c - iduronosylation
+c - 5' - inosinylation
+c - mannosylation
+c -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+c - alpha - d - mannosyl - 1 , 3 -  ( r1 )  - beta - d - mannosylation
+c - alpha - mannosylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 - beta - d - mannosylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 3 )  - beta - d - mannosylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 4 -  ( n - acetyl - d - glucosaminyl - 1 , 2 )  - alpha - d - mannosyl - 1 , 3 -  ( beta - n - acetyl - d - glucosaminyl - 1 , 2 - alpha - d - mannosyl - 1 , 6 )  - beta - d - mannosylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  - beta - d - mannosylation
+c - n - acetyl - beta - d - glucosaminyl - 1 , 6 -  ( n - acetyl - beta - d - glucosaminyl - 1 , 2 )  -  ( n - acetyl - beta - d - glucosaminyl - 1 , 4 )  - d - mannosylation
+c - alpha - d - mannosyl -  ( 1 -  > 3 )  - beta - d - mannosylation
+c - neuraminosylation
+c - neuraminoylation
+c - ribosylation
+c - adenosinediphosphoribosylation
+c - 2 - deoxyribosylation
+c - sialosylation
+c - hemicystylation
+c - mevalonoylation
+c - montanoylation
+c - muramylation
+c - nucleotidylation
+c - 5' - adenylylation
+c - 5' - cytidylylation
+c - 5' - thymidylylation
+c - 5' - uridylylation
+c - 5' - guanylylation
+c - 5' - ribothymidylylation
+c - 5' - inosinylylation
+c - pantothenylation
+c - pantoylation
+c - peptidylation
+c - phthalylation
+c - propionylation
+c - pyruvoylation
+c - retinoylation
+c - sialoylation
+c - 3 - carboxypropanoylation
+c - trienoylation
+c - anilinocarbonylation
+c - pteroylation
+c - 3 - carboxyprop - 2 - enoylation
+c -  ( z )  - 3 - carboxyprop - 2 - enoylation
+c -  ( e )  - 3 - carboxyprop - 2 - enoylation
+c - 2 , 6 - dichlorobenzoylation
+c - alpha - muramylation
+c - beta - muramylation
+c - dihydrolipoylation
+c - sinapoylation
+c - carboxyacetylation
+c - divalent carboacylation
+c - aspartoylation
+c - l - aspartoylation
+c - d - aspartoylation
+c - citraconoylation
+c - glutamoylation
+c - d - glutamoylation
+c - l - glutamoylation
+c - maloylation
+c - phthaloylation
+c - succinylation
+c - butenedioylation
+c - fumaroylation
+c - maleoylation
+c - hexanedioylation
+c - malonylation
+c - ornithylation
+c - l - ornithylation
+c - half - cystylation
+c - l - tyrosin - o ( 4 )  - ylation
+c - l - threonin - o ( 3 )  - ylation
+c - d - tyrosin - o ( 4 )  - ylation
+c - d - threonin - o ( 3 )  - ylation
+c - tyrosin - o ( 4 )  - ylation
+c - threonin - o ( 3 )  - ylation
+c - oxalylation
+c - fumagillin - 2 - ylation
+c - acetoacetylation
+c - alpha - linolenoylation
+c - gamma - linolenoylation
+c - carbamimidoylation
+c - formimidoylation
+c - trifluoroacetylation
+c - carboxymethylation
+c - methylenecarbonylation
+c - n - hydroxyacetimidoylation
+c - acryloylation
+c - tert - butoxycarbonylation
+c - sulfanediylation
+c - phenylsulfanylation
+c - methylsulfanylation
+c - sulfaniumylation
+c - disulfanidylation
+c - disulfanediylation
+c - disulfanylation
+c - tetrasulfanylation
+c - tetrasulfanediylation
+c - trisulfanylation
+c - trisulfanediylation
+c - pentasulfanylation
+c - diselanylation
+c - tellanylation
+c - tellanediylation
+c - tellaniumylation
+c - ditellanylation
+c - amidylation
+c - azanediylation
+c - 2 - aminoethylation
+c - 4 - aminobutylation
+c - azanetriylation
+c - hydrazine - 1 , 2 - diylation
+c - diazyn - 1 - ium - 1 - ylation
+c - phosphanetriylation
+c - phosphanediylation
+c - phosphanylation
+c - lambda ( 5 )  - phosphanylation
+c - phosphaniumylation
+c - arsanylation
+c - arsanediylation
+c - arsanetriylation
+c - arsaniumylation
+c - lambda ( 5 )  - arsanylation
+c - stibaniumylation
+c - lambda ( 5 )  - stibanylation
+c - boranylation
+c - boranetriylation
+c - boranediylation
+c - boranuidylation
+c - germylation
+c - germanediylation
+c - germanetetraylation
+c - germanetriylation
+c - silylation
+c - silanediylation
+c - silanetriylation
+c - silanetetraylation
+c - disilanylation
+c - alumanylation
+c - stannylation
+c - stannanetriylation
+c - plumbanetriylation
+c - plumbylation
+c - gallanylation
+c - indiganylation
+c - thallanylation
+c - phosphatidylation
+c - nucleosidylation
+c - guanosylation
+c - inosylation
+c - thymidylation
+c - adenosylation
+c - 5' - adenosylation
+c - uridylation
+c - cytidylation
+c - dolichylation
+c - 2 - trans , 6 - trans - farnesylation
+c - margarylation
+c - methylation
+c - methanetetraylation
+c - methanetriylation
+c - trichloromethylation
+c - trifluoromethylation
+c - alkylation
+c - butylation
+c - cerylation
+c - decylation
+c - dodecylation
+c - heptylation
+c - hexylation
+c - myricylation
+c - myristylation
+c - nonylation
+c - octylation
+c - palmitylation
+c - pentylation
+c - propylation
+c - stearylation
+c - isopropylation
+c - ethylation
+c - isobutylation
+c - pentan - 2 - ylation
+c - isopentylation
+c - 3 - methylbutan - 2 - ylation
+c - tert - pentylation
+c - neopentylation
+c - undecylation
+c - tridecylation
+c - pentadecylation
+c - nonadecylation
+c - arachidylation
+c - henicosylation
+c - behenylation
+c - tricosylation
+c - lignocerylation
+c - pentacosylation
+c - heptacosylation
+c - montanylation
+c - nonacosylation
+c - sec - butylation
+c - tert - butylation
+c - pentan - 3 - ylation
+c - 2 - chloroethylation
+c - 1 - chloroethylation
+c - hydrocarbylation
+c - arylation
+c - phenylation
+c - biphenyl - 4 - ylation
+c - naphthylation
+c - 1 - naphthylation
+c - 2 - naphthylation
+c - cycloalkylation
+c - cyclobutylation
+c - cyclopropylation
+c - alkenylation
+c - oleylation
+c - allylation
+c - isopropenylation
+c - vinylation
+c - prenylation
+c - phytylation
+c - polyprenylation
+c - farnesylation
+c - geranylation
+c - geranylgeranylation
+c - retinylation
+c - adamantan - 2 - ylation
+c - cycloalkenylation
+c - campholenic cyclohexenylation
+c - cyclopentadienylation
+c - eta ( 5 )  - cyclopentadienylation
+c - eta ( 1 )  - cyclopentadienylation
+c - ethene - 1 , 2 - diylation
+c - arachidonylation
+c - benzylation
+c - anthracen - 1 - ylation
+c - anthracen - 2 - ylation
+c - imidazolylation
+c - imidazol - 1 - ylation
+c - imidazol - 2 - ylation
+c - imidazol - 5 - ylation
+c - imidazol - 4 - ylation
+c - furylation
+c - 2 - furylation
+c - 3 - furylation
+c - thienylation
+c - 2 - thienylation
+c - 3 - thienylation
+c - adenin - 9 - ylation
+c - guanin - 9 - ylation
+c - acetimidoylation
+c - organylation
+c - organic heterocyclylation
+c - heteroarylation
+c - 4 , 4' - dimethoxytriphenylmethylation
+c - taurylation
+c - triflylation
+c - glycidylation
+c - sulfanylmethylation
+c - selanylmethylation
+c - 2 - carboxyethylation
+c - 2 - amino - 2 - oxoethylation
+c - 3 - amino - 3 - oxopropylation
+c - 2 -  ( methylsulfanyl ) ethylation
+c - 4 - hydroxybenzylation
+c - 1h - indol - 3 - ylmethylation
+c - 1h - imidazol - 4 - ylmethylation
+c - 3 - carbamimidamidopropylation
+c - hydroxymethylation
+c - 1 - hydroxyethylation
+c - haloalkylation
+c - 2 -  ( trimethylsilyl ) ethoxymethylation
+c - acylation
+c - organoheterylation
+c - oxalosulfanylation
+c - organosilylation
+c - trimethylsilylation
+c - triisopropylsilylation
+c - tert - butyldiphenylsilylation
+c - tert - butyldimethylsilylation
+c - thioacylation
+c - carbothioacylation
+c - univalent carbothioacylation
+c - divalent carbothioacylation
+c - carbonimidoylation
+c - thiocarbonylation
+c -  ( fluoren - 9 - ylmethoxy ) carbonylation
+c - carbonylation
+c - cytosin - 1 - ylation
+c - thymin - 1 - ylation
+c - uracil - 1 - ylation
+c - morpholin - 4 - ylsulfonylation
+c - acetohydrazonoylation
+c - 2 - hydroxyethylation
+c - aminosulfinylation
+c - disiloxanylation
+c - disiloxane - 1 , 3 - diylation
+c - azinoylation
+c - azonoylation
+c - phosphorothioylation
+c - phosphonothioylation
+c - arsonoylation
+c - arsinoylation
+c - stiborylation
+c - sulfamoylation
+c - s - aminosulfinimidoylation
+c - s - aminosulfonimidoylation
+c - chlorylation
+c - chlorosylation
+c - perchlorylation
+c - bromosylation
+c - bromylation
+c - perbromylation
+c - iodosylation
+c - iodylation
+c - periodylation
+c - fluorosylation
+c - sulfonylation
+c - acetoxysulfonylation
+c - sulfonothioylation
+c - sulfinothioylation
+c - sulfonodithioylation
+c - trioxidanylation
+c - trioxidanediylation
+c - heterocyclylation
+c - phosphoramidochloridoylation
+c - s - aminosulfonodiimidoylation
+c - aminosulfanylation
+c - sulfinylation
+c - arsorylation
+c - azanediidylation
+c - sulfinimidoylation
+c - tosylation
+c - brosylation
+c - nosylation
+c - indolylamination
+c - indol - 1 - ylation
+c - indol - 2 - ylation
+c - indol - 3 - ylation
+c - n - oxindolylation
+c - alkylamination
+c - halogenation
+c - bromination
+c - chlorination
+c - fluorination
+c - iodination
+c - imination
+c - nitration
+c - hydroxyamination
+c - thioxonation
+c - sulfonation
+positively_regulates
+c - selenonation

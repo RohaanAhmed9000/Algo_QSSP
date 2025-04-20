@@ -1,0 +1,446 @@
+viral disease
+infectious disease control objective specification
+infectious disease control strategy
+disease transmission model
+place closure control strategy
+case isolation control strategy
+vector control strategy
+quarantine control strategy
+disease surveillance objective specification
+contact tracing
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+process profile
+anatomical entity
+deoxyribonucleic acid
+molecular entity
+biological role
+nucleic acid
+ribonucleic acid
+macromolecule
+protein
+double - stranded dna
+cell
+coronavirus disorder
+sars - cov - 2 disorder
+covid - 19
+coronavirus disease course
+covid - 19 disease course
+coronavirus aggregate
+sars - cov - 2 aggregate
+respiratory droplet coronavirus fomite
+respiratory droplet sars - cov - 2 fomite
+coronavirus pathogenesis
+sars - cov - 2 pathogenesis
+sars - cov - 2 attachment stage
+sars - cov - 2 penetration stage
+sars - cov - 2 release stage
+sars - cov - 2 uncoating stage
+sars - cov - 2 adhesion susceptible cell
+sars - cov - 2 adhesion disposition
+sars - cov - 2 prevalence
+covid - 19 prevalence
+covid - 19 mortality rate
+covid - 19 lifetime prevalence
+covid - 19 incidence rate
+covid - 19 disease incidence proportion
+covid - 19 incidence
+covid - 19 endemicity
+sars - cov - 2 transmissibility
+sars - cov - 2 seroprevalence
+sars - cov - 2 infectivity
+sars - cov - 2 virulence
+covid - 19 sporadicity
+reagent
+antibody reagent
+viral plaque assay
+intervention
+serology assay
+immunoassay
+generative stage
+geographical entity
+geographical feature
+geographical region
+adaptive immune response
+leukocyte mediated immunity
+immune response
+humoral immune response
+biological process
+viral capsid
+viral envelope
+virus uncoating stage
+virus attachment stage
+virus synthesis stage
+virus translation stage
+virus transcription stage
+immunoglobulin complex
+b cell receptor complex
+developmental process
+macromolecular complex
+t cell receptor complex
+symbiotic process
+adhesion of symbiont to host
+entry into host
+entry into host through host barriers
+innate immune response
+virus penetration stage
+capsomere
+negative regulation of biological process
+negative regulation of viral process
+negative regulation of immune response
+negative regulation of developmental process
+establishment of localization
+biological regulation
+virus release stage
+objective specification
+action specification
+algorithm
+plan specification
+covid - 19 pandemic
+covid - 19 epidemic
+symbiont role
+mutualist role
+commensal role
+parasite role
+opportunistic infectious disposition
+primary infectious disposition
+symbiont host role
+definitive host role
+intermediate host role
+dead - end host role
+infectious agent host role
+pathogen host role
+mechanical vector role
+biological vector role
+pathogen vehicle role
+biological vehicle role
+fomite role
+reservoir of pathogen role
+virulence factor disposition
+toxin disposition
+exotoxin disposition
+pathogen portal of entry role
+pathogen portal of exit role
+primary infection role
+secondary infection role
+infectious disease
+adhesion disposition
+invasion disposition
+protective resistance
+resistance to drug
+resistance to pathogen
+herd immunity to infectious organism
+immunity to pathogen
+sterilizing immunity to infectious agent
+pathogenic disposition
+invasive disposition
+zoonotic disposition
+reverse zoonotic disposition
+collective disposition
+immunosuppressed organism
+immunocompetent organism
+contagiousness
+colonized host
+infectious pathogen transmissibility
+infectivity
+virulence
+susceptibility
+susceptibility to infectious agent
+drug susceptibility
+drug susceptibility of infectious agent
+complex infection
+extracellular infection
+intracellular infection
+systematic infection
+local infection
+acute infectious disease course
+infectious disease incidence
+infection incidence
+infectious disease incidence proportion
+infection incidence proportion
+infectious disease incidence rate
+infection incidence rate
+infectious disease prevalence
+infection prevalence
+infectious disease lifetime prevalence
+pathogen seroprevalence
+infectious disease mortality rate
+infectious disease endemicity
+infectious disease sporadicity
+infectious disease course
+long - term non - progressing infectious disease course
+immunization against infectious agent
+active immunization against infectious agent
+vaccination against infectious agent
+variolation
+passive immunization against infectious agent
+infectious disease epidemic
+infectious disease pandemic
+infectious disorder
+bacteremia
+organism population
+infected population
+diseased population
+infectious agent population
+susceptible population
+normal resident microbiota population
+incubation interval
+communicability interval
+symbiont
+obligatory symbiont
+mutualist
+commensal
+parasite
+pathogen
+primary pathogen
+host
+definitive host
+intermediate host
+dead - end host
+infectious agent host
+pathogen host
+asymptomatic infectious agent carrier
+pathogen vehicle
+fomite
+infectious agent reservoir
+virulence factor
+invasion factor
+toxin
+exotoxin
+enterotoxin
+endotoxin
+pathogen portal of entry
+pathogen portal of exit
+adhesion factor
+primary infection
+secondary infection
+zoonosis
+subclinical infection
+resistant entity
+innate immunity to infectious agent
+humoral immunity to infectious agent
+leukocyte - mediated immunity to infectious agent
+passive immunity to infectious agent
+antibiotic resistance
+emerging pathogen
+cytotoxin
+collective pathogenic disposition
+infection
+genetic resistance to pathogen
+collective resistance disposition
+immunodeficient organism
+chronic infectious disease course
+immune population
+transmission interval
+infectious agent
+process of establishing an infection
+colonization of host
+establishment of a clinically abnormal colony
+production
+replication
+immunosuppression
+physiologic immunosuppression
+pathologic immunosuppression
+colony
+infectious agent colony
+immunodeficiency
+immunocompetence
+immunosuppressive disposition
+acquired immunity to infectious agent
+communicability
+establishment of localization in host
+appearance of disorder
+acute infection
+chronic infection
+host role
+hospital - acquired infection
+community - acquired infection
+neurotoxin
+metastatic infection
+source of infection role
+nursing - home acquired infection
+infectious human pathogen
+acquired immunodeficiency
+simple infection
+re - emerging pathogen
+colonization of human
+primary immunodeficiency
+reverse zoonosis
+opportunistic pathogen
+transmissibility disposition
+horizontal pathogen transmission process
+process that results in death
+susceptible organism
+negative regulation of life - sustaining process
+source of infection
+negative regulation of establishment of localization
+negative regulation of production
+negative regulation of replication
+pathogen birth process boundary
+pathogen death process boundary
+drug - based immunosuppressed organism
+fungicidal disposition
+bactericidal disposition
+bacteriostatic disposition
+parasiticidal disposition
+parasitostatic disposition
+bacteriostatic
+bactericidal
+infectious structure
+acellular structure aggregate
+pathogen birth temporal region
+pathogen death temporal region
+acellular structure
+cidal agent
+static agent
+static agent disposition
+cidal agent disposition
+infectious structure host
+infectious structure host role
+pathogen transporter
+pathogen transporter role
+infectious agent generative stage
+infectious structure generative stage
+pathogen generative stage
+asymptomatic carrier role
+asymptomatic carrier
+asymptomatic infectious structure carrier
+symptomatic carrier role
+symptomatic carrier
+cytotoxin disposition
+neurotoxin disposition
+endotoxin disposition
+enterotoxin disposition
+symptomatic infectious structure carrier
+symptomatic infectious agent carrier
+infectious structure aggregate
+pathogen vector
+biological vector
+mechanical vector
+biological vehicle
+establishment of localization in human host
+latency interval
+infection start process boundary
+latency end process boundary
+incubation end process boundary
+infection start temporal region
+infection end temporal region
+latency end temporal region
+communicability end temporal region
+incubation end temporal region
+communicability start temporal region
+latency start process boundary
+incubation start process boundary
+communicability start process boundary
+communicability end process boundary
+epitope role
+pathogen surveillance
+vector surveillance
+virus
+coronavirus
+single - stranded rna retrovirus
+single - stranded dna virus
+double - stranded dna virus
+double - stranded dna retrovirus
+positive - sense single - stranded rna virus
+negative - sense single - stranded rna virus
+double - stranded rna virus
+prion
+planned process
+processed material
+assay
+reagent role
+material processing
+antigen role
+pcr product
+polymerase chain reaction
+reverse transcribed pcr
+organism
+enzymatic amplification
+epitope
+antigen
+symptom
+disease
+disorder
+disease course
+extended organism
+architectual structure
+facility
+hospital facility
+healthcare facility
+angiotensin - converting enzyme 2
+pathogen transmission process
+indirect pathogen transmission process
+contact pathogen transmission process
+droplet pathogen transmission process
+blood
+organism substance
+respiratory secretion
+sputum
+sars - cov - 2 spike glycoprotein
+sars - cov - 2 nucleoside protein
+sars - cov - 2 membrane protein
+viremia
+virion
+viricide
+virostatic
+virus replication
+viricidal disposition
+virostatic disposition
+virus aggregate
+viroid aggregate
+prion aggregate
+prion replication
+virus generative stage
+viral disease course
+virus disorder
+virus host
+coronavirus disease
+subclinical virus infection
+respiratory droplet fomite
+respiratory droplet virus fomite
+viral pathogenesis
+process of establishing viral infection
+virus adhesion susceptible cell
+viral adhesion disposition
+viral load
+bacteriophage
+virophage
+oncovirus
+disordered virus
+disordered prion
+epitope site
+viral disease pandemic
+viral disease epidemic
+surveillance process
+anatomical space
+cell space
+subclinical coronavirus infection
+subclinical sars - cov - 2 infection
+fungistatic disposition
+pathogen portal of entry site
+pathogen portal of exit site
+site of infection
+source of infection site
+pathogen vector role
+infectious disposition
+respiratory system disease
+lower respiratory tract disease
+acute respiratory distress syndrome
+pathogenesis
+country
+descriptive information content entity
+designative information content entity
+directive information content entity
+division of geopolitical entity
+geopolitical entity
+geospatial location
+geospatial region

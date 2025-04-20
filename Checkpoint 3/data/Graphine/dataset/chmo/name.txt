@@ -1,0 +1,2896 @@
+molecular entity
+colorimetry
+gravimetric sorption analysis
+electrochemical analysis
+amperometry
+chrono - amperometry
+high - speed chrono - amperometry
+potential step chrono - amperometry
+constant potential amperometry
+direct current amperometry
+conductometry
+high - frequency conductometry
+coulometry
+amperostatic coulometry
+chrono - coulometry
+potentiostatic coulometry
+potentiometry
+chrono - potentiometry
+stripping potentiometry
+anodic stripping potentiometry
+cathodic stripping potentiometry
+controlled - current potentiometry
+ion - selective potentiometry
+oscillographic potentiometry
+voltammetry
+cyclic voltammetry
+fast - scan cyclic voltammetry
+hydrodynamic voltammetry
+linear - sweep voltammetry
+pulse voltammetry
+differential pulse voltammetry
+normal pulse voltammetry
+polarography
+alternating current polarography
+kalousek polarography
+square - wave polarography
+differential pulse polarography
+normal pulse polarography
+oscillo polarography
+tast polarography
+square - wave voltammetry
+stripping voltammetry
+anodic stripping voltammetry
+differential pulse anodic stripping voltammetry
+pseudo polarography
+square - wave anodic stripping voltammetry
+adsorptive stripping voltammetry
+cathodic stripping voltammetry
+chemical imaging
+infrared microscopy
+fourier transform infrared microscopy
+near - infrared microscopy
+imaging mass spectrometry
+matrix - assisted laser desorption - ionisation imaging mass spectrometry
+secondary ion mass spectrometry imaging
+raman microscopy
+luminescence detection
+chemiluminescence detection
+sonochemiluminescence detection
+fluorescence detection
+flow cytometry
+forster resonance energy transfer
+bioluminescence resonance energy transfer
+fluorescence resonance energy transfer
+fluorescence recovery after photobleaching
+time - resolved fluorescence quenching
+microscopy
+electron microscopy
+field - emission electron microscopy
+low - energy electron microscopy
+spin - polarised low energy electron microscopy
+reflection electron microscopy
+scanning electron microscopy
+field - emission scanning electron microscopy
+cold - field - emission scanning electron microscopy
+environmental scanning electron microscopy
+scanning electron microscopy energy dispersive x - ray spectroscopy
+scanning electron acoustic microscopy
+scanning auger microscopy
+transmission electron microscopy
+cryogenic transmission electron microscopy
+energy - filtered transmission electron microscopy
+freeze - fracture transmission electron microscopy
+high - resolution transmission electron microscopy
+high - voltage transmission electron microscopy
+scanning transmission electron microscopy
+fluorescence microscopy
+fluorescence laser scanning microscopy
+confocal laser scanning microscopy
+multi - photon laser scanning microscopy
+fluorescence lifetime imaging microscopy
+infrared fluorescence microscopy
+near - infrared fluorescence microscopy
+total internal reflection fluorescence microscopy
+ultraviolet fluorescence microscopy
+visible fluorescence microscopy
+ion microscopy
+field ion microscopy
+atom probe field ion microscopy
+helium - ion microscopy
+scanning ion microscopy
+optical microscopy
+confocal microscopy
+bright - field microscopy
+comparison light microscopy
+optical interference microscopy
+differential interference contrast microscopy
+low coherence interference microscopy
+coherence probe microscopy
+phase contrast microscopy
+polarising light microscopy
+scanning probe microscopy
+atomic force microscopy
+piezoresponse force microscopy
+magnetic force microscopy
+photonic force microscopy
+scanning capacitance microscopy
+scanning near - field microscopy
+photon scanning tunnelling microscopy
+scanning near - field optical microscopy
+fluorescence scanning near - field optical microscopy
+infrared scanning near - field optical microscopy
+microwave scanning near - field microscopy
+apertureless near - field scanning optical microscopy
+scanning plasmon near - field microscopy
+scanning near - field thermal microscopy
+scanning electrochemical microscopy
+scanning ion conductance microscopy
+scanning probe acoustic microscopy
+scanning near - field acoustic microscopy
+scanning thermal microscopy
+scanning tunnelling microscopy
+thermal lens microscopy
+ultra - violet thermal lens microscopy
+profilometry
+contact profilometry
+optical profilometry
+fourier profilometry
+phase profilometry
+reciprocal - space method
+diffraction method
+electron diffraction
+electron backscatter diffraction
+high energy electron diffraction
+transmission high energy electron diffraction
+reflection high energy electron diffraction
+low energy electron diffraction
+convergent beam low energy electron diffraction
+elastic low energy electron diffraction
+inelastic low energy electron diffraction
+transmission low energy electron diffraction
+photoelectron diffraction
+aziμthal photoelectron diffraction
+normal photoelectron diffraction
+x - ray photoelectron diffraction
+x - ray diffraction
+in situ micro - x - ray diffraction
+powder x - ray diffraction
+single crystal x - ray diffraction
+scattering method
+alpha - particle scattering
+atom scattering
+inelastic atom scattering
+electron scattering
+nanowire electron scattering
+light scattering
+dynamic light scattering
+multi - angle light scattering
+rayleigh scattering spectroscopy
+interferometric rayleigh scattering spectroscopy
+hyper rayleigh scattering spectroscopy
+non - resonance rayleigh scattering spectroscopy
+near - resonance rayleigh scattering spectroscopy
+resonance rayleigh scattering spectroscopy
+time - resolved resonance rayleigh scattering
+forced rayleigh scattering spectroscopy
+thermal diffusion forced rayleigh scattering
+infrared thermal diffusion forced rayleigh scattering
+small - angle light scattering
+static light scattering
+neutron scattering
+coherent neutron scattering
+elastic neutron scattering
+small - angle neutron scattering
+grazing incidence small - angle neutron scattering
+ultra small angle neutron scattering
+wide angle neutron scattering
+incoherent neutron scattering
+elastic incoherent neutron scattering
+quasi - elastic neutron scattering
+inelastic incoherent neutron scattering
+inelastic neutron scattering
+neutron backscattering
+neutron time - of - flight scattering
+triple - axis neutron scattering
+spin - echo neutron scattering
+spin - echo small angle neutron scattering
+magnetic spin - echo small angle neutron scattering
+spin - echo wide angle neutron scattering
+x - ray scattering
+inelastic x - ray scattering
+resonant inelastic x - ray scattering
+angle - resolved resonant x - ray scattering
+small - angle x - ray scattering
+grazing - incidence x - ray scattering
+ultra - small angle x - ray scattering
+wide - angle x - ray scattering
+reflection method
+reflectometry
+neutron reflectometry
+optical reflectometry
+fixed angle reflectometry
+optical coherence - domain reflectometry
+optical frequency - domain reflectometry
+optical time - domain reflectometry
+polarisation optical time - domain reflectometry
+stagnation point adsorption reflectometry
+scanning angle reflectometry
+x - ray reflectometry
+diffuse x - ray reflectometry
+relative x - ray reflectometry
+specular x - ray reflectometry
+ellipsometry
+single - wavelength ellipsometry
+spectroscopic ellipsometry
+infrared spectroscopic ellipsometry
+magneto - optic generalised ellipsometry
+spectroscopy
+acoustic emission spectrometry
+alpha - particle spectroscopy
+electronic spectroscopy
+atomic spectroscopy
+atomic absorption spectroscopy
+atomic absorption glow - discharge spectroscopy
+cold vapour atomic absorption spectrometry
+electrothermal atomic absorption spectrometry
+capillary electrophoresis - electrothermal atomic absorption spectrometry
+graphite furnace atomic absorption spectrometry
+slurry sampling graphite furnace atomic absorption spectrometry
+solid sampling graphite furnace atomic absorption spectrometry
+quartz tube atomic absorption spectroscopy
+flame atomic absorption spectrometry
+thermospray flame furnace atomic absorption spectrometry
+flow injection thermospray flame furnace absorption spectrometry
+flow injection atomic absorption spectrometry
+flow injection electrothermal atomic absorption spectrometry
+flow injection flame atomic absorption spectrometry
+hydride generation atomic absorption spectroscopy
+line - source atomic absorption spectroscopy
+atomic emission spectroscopy
+electrothermal atomic emission spectroscopy
+graphite furnace atomic emission spectrometry
+furnace atomic nonthermal excitation spectrometry
+flame atomic emission spectroscopy
+glow discharge atomic emission spectroscopy
+laser - induced atomic emission spectroscopy
+laser - induced breakdown spectroscopy
+femtosecond laser - induced breakdown spectroscopy
+laser - induced shock wave plasma spectroscopy
+micro laser - induced breakdown atomic emission spectroscopy
+nanosecond laser - induced breakdown spectroscopy
+plasma atomic emission spectroscopy
+capacitively coupled plasma atomic emission spectroscopy
+direct current plasma atomic emission spectroscopy
+furnace atomisation plasma emission spectroscopy
+inductively - coupled plasma atomic emission spectroscopy
+hydride generation inductively coupled plasma atomic emission spectroscopy
+laser ablation inductively - coupled plasma atomic emission spectroscopy
+laser microprobe inductively coupled plasma atomic emission spectroscopy
+liquid chromatography - inductively coupled plasma atomic emission spectroscopy
+nebulisation inductively - coupled plasma atomic emission spectroscopy
+ultrasonic nebulisation inductively coupled plasma atomic emission spectroscopy
+solid phase extraction inductively coupled plasma atomic emission spectroscopy
+flow injection solid phase extraction inductively coupled plasma atomic emission spectroscopy
+metastable transfer emission spectrometry
+microwave induced plasma atomic emission spectrometry
+spark atomic emission spectrometry
+atomic fluorescence spectroscopy
+cold vapour atomic fluorescence spectroscopy
+electrothermal atomic fluorescence spectroscopy
+flame atomic fluorescence spectroscopy
+hydride generation atomic fluorescence spectroscopy
+laser - enhanced atomic fluorescence spectroscopy
+plasma atomic fluorescence spectroscopy
+inductively coupled plasma atomic fluorescence spectrometry
+fluorescence spectroscopy
+fluorescence correlation spectroscopy
+fluorescence cross - correlation spectroscopy
+fluorescence anisotropy
+spectrophotometry
+ultraviolet - visible spectrophotometry
+differential optical absorption spectrophotometry
+reflectance ultraviolet - visible spectrophotometry
+equimolar spectrophotometry
+vacuum ultraviolet spectrophotometry
+x - ray spectroscopy
+x - ray absorption spectroscopy
+x - ray absorption fine structure spectroscopy
+extended x - ray absorption fine structure spectroscopy
+quick extended x - ray absorption fine structure spectroscopy
+reflection extended x - ray absorption fine structure spectroscopy
+surface extended x - ray absorption fine structure spectroscopy
+total - reflection x - ray absorption fine structure spectroscopy
+near - edge x - ray absorption fine structure spectroscopy
+x - ray microprobe spectroscopy
+x - ray emission spectroscopy
+alpha - particle x - ray spectroscopy
+energy - dispersive x - ray emission spectroscopy
+non - resonant x - ray emission spectroscopy
+particle - induced x - ray emission spectroscopy
+microbeam particle - induced x - ray emission spectroscopy
+electron probe x - ray microanalysis
+wavelength dispersive x - ray spectroscopy
+x - ray microemission spectroscopy
+soft x - ray emission spectroscopy
+ultra soft x - ray emission spectroscopy
+synchrotron radiation excited x - ray spectroscopy
+x - ray reflection spectroscopy
+total reflection x - ray fluorescence spectroscopy
+beta - particle spectroscopy
+liquid scintillation counting
+circular dichroism spectroscopy
+fluorescence detected circular dichroism spectroscopy
+magnetic circular dichroism spectroscopy
+x - ray magnetic circular dichroism spectroscopy
+vibrational circular dichroism spectroscopy
+electron spin resonance spectroscopy
+continuous - wave electron spin resonance spectroscopy
+pulsed electron spin resonance spectroscopy
+electron spectroscopy
+appearance potential spectroscopy
+auger electron appearance potential spectroscopy
+disappearance potential spectroscopy
+electron appearance potential fine structure analysis
+total current spectroscopy
+x - ray appearance potential spectroscopy
+x - ray excited electron appearance potential spectroscopy
+auger electron spectroscopy
+angular dependent auger electron spectroscopy
+resonant auger electron spectroscopy
+angle - resolved resonant auger electron spectroscopy
+auger electron partial yield spectroscopy
+electron - excited auger electron spectroscopy
+electron microprobe auger spectroscopy
+ion - excited auger electron spectroscopy
+he +  - excited auger electron spectroscopy
+proton - induced auger electron spectroscopy
+angle - resolved ion - excited auger electron spectroscopy
+scanning auger electron spectroscopy
+spin - polarised auger electron spectroscopy
+spin - polarised angle - resolved auger electron spectroscopy
+x - ray excited auger electron spectroscopy
+continuous x - ray - induced auger electron spectroscopy
+electron coincidence spectroscopy
+auger - photoelectron coincidence spectroscopy
+electron - electron coincidence spectroscopy
+angle - resolved electron - electron coincidence spectroscopy
+electron - electron - ion coincidence spectroscopy
+angle - resolved electron - electron ion coincidence spectroscopy
+electron - ion coincidence spectroscopy
+metastable - quenched electron spectroscopy
+resonance - ionisation spectroscopy
+surface penning - ionisation electron spectroscopy
+photoion - photoelectron coincidence spectroscopy
+electron energy loss spectroscopy
+characteristic energy - loss spectroscopy
+extended electron energy loss fine structure spectroscopy
+surface extended electron energy loss fine structure spectroscopy
+high - resolution energy loss spectroscopy
+ionisation spectroscopy
+low - energy electron loss spectroscopy
+transmission electron energy loss spectroscopy
+vibrational electron energy loss spectroscopy
+field - emission electron spectroscopy
+field - emission electron spin - polarization spectroscopy
+inverse photoelectron spectroscopy
+bremsstrahlung isochromat spectroscopy
+angle - resolved bremsstrahlung isochromat spectroscopy
+momentum - resolved bremsstrahlung spectroscopy
+ultraviolet bremsstrahlung isochromat spectroscopy
+x - ray bremsstrahlung isochromat spectroscopy
+k - resolved inverse photoelectron spectroscopy
+spin - polarised inverse photoelectron spectroscopy
+metastable de - excitation spectroscopy
+spin - polarized metastable de - excitation spectroscopy
+photoelectron spectroscopy
+angle - resolved photoelectron spectroscopy
+depth - selective photoelectron spectroscopy
+photoelectron extended fine structure spectroscopy
+angle - resolved photoelectron extended fine structure spectroscopy
+photoelectron microspectroscopy
+extreme ultraviolet photoelectron microspectroscopy
+synchrotron radiation photoelectron spectroscopy
+angle - resolved synchotron radiation photoelectron spectroscopy
+constant - final - state spectroscopy
+constant - initial - state spectroscopy
+photoelectron yield spectroscopy
+partial - yield spectroscopy
+resonance - enhanced photoelectron spectroscopy
+ultraviolet photoelectron spectroscopy
+angle - resolved ultraviolet photoelectron spectroscopy
+vacuum ultraviolet photoelectron spectroscopy
+x - ray photoelectron spectroscopy
+angle - resolved x - ray photoelectron spectroscopy
+high - resolution x - ray photoelectron spectroscopy
+soft x - ray photoelectron spectroscopy
+high - resolution soft x - ray photoelectron spectroscopy
+valence - shell photoionisation spectroscopy
+zero kinetic energy electron spectroscopy
+secondary electron spectroscopy
+angle - resolved secondary electron spectroscopy
+spin - polarised secondary electron spectroscopy
+gamma - ray spectroscopy
+particle - induced gamma - ray emission spectroscopy
+gamma - ray scattering spectroscopy
+mossbauer spectroscopy
+depth - selective mossbauer spectroscopy
+nuclear spectroscopy
+nuclear activation analysis
+impedance spectroscopy
+alternating current impedance spectroscopy
+electrochemical - induced impedance spectroscopy
+laser - induced impedance spectroscopy
+ion spectroscopy
+ion - beam spectroscopy
+direct recoil spectroscopy
+ion microprobe spectroscopy
+low - energy radioactive ion - beam spectroscopy
+ion mobility spectroscopy
+differential mobility spectroscopy
+drift tube ion mobility spectroscopy
+ion scattering
+rutherford backscattering spectroscopy
+laser spectroscopy
+laser absorption spectroscopy
+direct laser absorption spectroscopy
+collinear laser spectroscopy
+collinear fast atom - beam spectroscopy
+collinear laser ion - beam spectroscopy
+collinear fast ion - beam laser spectroscopy
+tunable diode laser absorption spectroscopy
+laser electric resonance spectroscopy
+frequency modulation spectroscopy
+indirect laser absorption spectroscopy
+intracavity laser absorption spectroscopy
+cavity enhanced absorption spectroscopy
+optical feedback cavity enhanced absorption spectroscopy
+super continuum cavity enhanced absorption spectroscopy
+cavity ring - down spectroscopy
+concentration modulated absorption spectroscopy
+laser dissociation spectroscopy
+multiphoton dissociation spectroscopy
+resonance enhanced multiphoton dissociation spectroscopy
+resonance ion dissociation spectroscopy
+laser induced fluorescence spectroscopy
+thermal lens spectroscopy
+visible thermal lens spectroscopy
+ultraviolet thermal lens spectroscopy
+laser emission spectroscopy
+laser micro emission spectroscopy
+laser ionisation spectroscopy
+resonance ionisation spectroscopy
+laser - enhanced ionisation spectroscopy
+laser multiphoton ionisation spectroscopy
+resonance enhanced multiphoton ionisation spectroscopy
+laser microprobe spectroscopy
+resonance - enhanced laser microprobe spectroscopy
+optogalvanic spectroscopy
+mass spectrometry
+acceleration mass spectrometry
+chemical ionisation mass spectrometry
+atmospheric pressure chemical ionisation mass spectrometry
+desorption chemical ionisation mass spectrometry
+negative ion chemical ionisation mass spectrometry
+positive ion chemical ionisation mass spectrometry
+collision - induced dissociation mass spectrometry
+electron capture negative ionisation mass spectrometry
+electron ionisation mass spectrometry
+furnace atomisation electron ionisation mass spectrometry
+electrospray ionisation mass spectrometry
+cold - spray ionisation mass spectrometry
+desorption electrospray ionisation mass spectrometry
+high - resolution electrospray ionisation mass spectrometry
+ionspray mass spectrometry
+microelectrospray ionisation mass spectrometry
+nanoelectrospray ionisation mass spectrometry
+high - performance liquid chromatography - nanoelectrospray ionisation mass spectrometry
+secondary electrospray ionisation mass spectrometry
+field ionisation mass spectrometry
+field desorption mass spectrometry
+pyrolysis field desorption mass spectrometry
+high resolution field ionisation mass spectrometry
+pyrolysis field ionisation mass spectrometry
+temperature - resolved pyrolysis field ionisation mass spectrometry
+gas chromatography - mass spectrometry
+high - resolution mass spectrometry
+ion mobility spectrometry - mass spectrometry
+ion trap mass spectrometry
+ion cyclotron resonance mass spectrometry
+fourier transform ion cyclotron resonance mass spectrometry
+high - resolution fourier transform ion cyclotron resonance mass spectrometry
+quadrupole mass spectrometry
+three - dimensional quadrupole mass spectrometry
+isotope ratio mass spectrometry
+elemental analysis isotope ratio mass spectrometry
+gas chromatography - isotope ratio mass spectrometry
+liquid chromatography - isotope ratio mass spectrometry
+isotope dilution mass spectrometry
+isotope dilution inductively coupled plasma mass spectrometry
+high - performance liquid chromatography - isotope dilution inductively coupled plasma mass spectrometry
+isotope dilution inductively coupled plasma quadrupole mass spectrometry
+stable isotope ratio mass spectrometry
+laser desorption - ionisation mass spectrometry
+laser microprobe mass spectrometry
+negative ion laser desorption mass spectrometry
+positive ion laser desorption mass spectrometry
+matrix - assisted laser desorption - ionisation mass spectrometry
+matrix - assisted laser desorption - ionisation time - of - flight mass spectrometry
+sol - gel - assisted laser desorption - ionisation mass spectrometry
+surface - enhanced laser desorption - ionisation mass spectrometry
+liquid chromatography - matrix - assisted laser desorption - ionisation mass spectrometry
+liquid chromatography - mass spectrometry
+photoionisation mass spectrometry
+atmospheric pressure photoionisation mass spectrometry
+multiphoton ionisation mass spectrometry
+resonance - enhanced multiphoton ionisation mass spectrometry
+resonance ionisation mass spectrometry
+sonic spray mass spectrometry
+thermospray mass spectrometry
+thermal ionisation mass spectrometry
+particle beam mass spectrometry
+plasma mass spectrometry
+capacitively coupled plasma mass spectrometry
+electron cyclotron resonance mass spectrometry
+glow - discharge mass spectrometry
+inductively coupled plasma mass spectrometry
+electrothermal vaporisation inductively coupled plasma mass spectrometry
+slurry electrothermal vaporisation inductively coupled plasma mass spectrometry
+slurry nebulisation electrothermal vaporisation inductively coupled plasma mass spectrometry
+solid sampling electrothermal vaporisation inductively coupled plasma mass spectrometry
+high performance liquid chromatography - inductively coupled plasma mass spectrometry
+high - performance liquid chromatography fluorescence detection - inductively coupled plasma mass spectrometry
+high - performance liquid chromatography photodiode array - inductively coupled plasma mass spectrometry
+high - resolution inductively coupled plasma mass spectrometry
+inductively coupled plasma field sector mass spectrometry
+inductively coupled plasma three dimensional quadrupole mass spectrometry
+inductively coupled plasma time - of - flight mass spectrometry
+laser ablation inductively coupled plasma mass spectrometry
+laser ablation inductively coupled plasma time - of - flight mass spectrometry
+liquid chromatography - inductively coupled plasma mass spectrometry
+multiple collector inductively coupled plasma mass spectrometry
+size - exclusion chromatography - inductively coupled plasma mass spectrometry
+size - exclusion chromatography - high - performance liquid chromatography - inductively coupled plasma mass spectrometry
+solution inductively coupled plasma mass spectrometry
+solution nebulisation inductively coupled plasma mass spectrometry
+microwave - induced plasma mass spectrometry
+plasma desorption mass spectrometry
+secondary ion mass spectrometry
+dynamic secondary ion mass spectrometry
+sputtered neutral atom mass spectrometry
+fast - atom bombardment mass spectrometry
+mass spectrometry of recoiled ions
+time - of - flight secondary ion mass spectrometry
+secondary electron emission mass spectrometry
+15n nuclear magnetic resonance spectroscopy
+sector field mass spectrometry
+selected ion flow tube mass spectrometry
+proton transfer reaction mass spectrometry
+selective ion monitoring
+single - ion monitoring
+multiple - ion monitoring
+spark source mass spectrometry
+tandem mass spectrometry
+collision - induced dissociation tandem mass spectrometry
+electrospray ionisation tandem mass spectrometry
+high - performance liquid chromatography - electrospray ionisation tandem mass spectrometry
+tandem quadrupole mass spectrometry
+time - of - flight mass spectrometry
+microspectroscopy
+microspectrophotometry
+rotational spectroscopy
+microwave spectroscopy
+fourier transform microwave spectroscopy
+molecular beam fourier transform microwave spectroscopy
+laser ablation molecular beam fourier transform microwave spectroscopy
+neutron spectroscopy
+nuclear magnetic resonance spectroscopy
+one - dimensional nuclear magnetic resonance spectroscopy
+1h nuclear magnetic resonance spectroscopy
+11b nuclear magnetic resonance spectroscopy
+13c nuclear magnetic resonance spectroscopy
+distortionless enhancement with polarization transfer
+19f nuclear magnetic resonance spectroscopy
+two - dimensional nuclear magnetic resonance spectroscopy
+correlation spectroscopy
+heteronuclear correlation spectroscopy
+heteronuclear multiple bond coherence
+gradient - selected heteronuclear multiple bond coherence
+heteronuclear multiple quantum coherence
+heteronuclear single quantum coherence
+total correlation spectroscopy
+j - spectroscopy
+nuclear overhauser enhancement spectroscopy
+heteronuclear overhauser enhancement spectroscopy
+flip - back nuclear overhauser enhancement spectroscopy
+rotating frame overhauser effect spectroscopy
+steady - state nuclear overhauser enhancement spectroscopy
+insensitive nuclei enhancement by polarisation transfer
+pulsed nuclear magnetic resonance spectroscopy
+solid - state nuclear magnetic resonance spectroscopy
+magic angle spinning nuclear magnetic resonance spectroscopy
+combined rotation and multiple pulse spectroscopy
+cross - polarisation magic angle spinning
+high - resolution magic angle spinning
+photoacoustic spectroscopy
+infrared photoacoustic spectroscopy
+fourier transform infrared photoacoustic spectroscopy
+photothermal spectroscopy
+scanning tunnelling spectroscopy
+surface plasmon resonance spectroscopy
+electrochemical surface plasmon resonance spectroscopy
+surface plasmon resonance imaging
+terahertz time - domain spectroscopy
+vibrational spectroscopy
+inelastic electron tunnelling spectroscopy
+infrared absorption spectroscopy
+infrared evanescent wave spectroscopy
+far - infrared spectroscopy
+infrared multiphoton dissociation spectroscopy
+resonant infrared multiphoton dissociation spectroscopy
+mid - infrared spectroscopy
+fourier transform infrared spectroscopy
+micro infrared spectroscopy
+near - infrared absorption spectroscopy
+fourier transform near infrared absorbance spectroscopy
+non - dispersive infrared spectroscopy
+surface enhanced infrared absorption spectroscopy
+transient infrared spectroscopy
+infrared reflectance spectroscopy
+diffuse reflectance infrared spectroscopy
+diffuse reflectance infrared fourier transform spectroscopy
+near - infrared reflectance spectroscopy
+reflection–absorption infrared spectroscopy
+attenuated total reflectance infrared spectroscopy
+infrared emission spectroscopy
+flame infrared emission spectroscopy
+fourier transform flame infrared emission spectroscopy
+fourier transform infrared emission spectroscopy
+mid - infrared emission spectroscopy
+planar array infrared emission spectroscopy
+single - photon infrared emission spectroscopy
+raman spectroscopy
+chiral raman spectroscopy
+coherent raman spectroscopy
+coherent stokes raman spectroscopy
+coherent stokes resonance raman spectroscopy
+coherent anti - stokes raman spectroscopy
+coherent anti - stokes resonance raman spectroscopy
+confocal raman spectroscopy
+confocal raman microscopy
+fourier transform raman spectroscopy
+hyper raman spectroscopy
+polarised raman spectroscopy
+resonance raman spectroscopy
+kerr - gated resonance raman spectroscopy
+surface - enhanced resonance raman spectroscopy
+ultraviolet resonance raman spectroscopy
+deep ultra - violet resonance raman spectroscopy
+spatially - offset raman spectroscopy
+stimulated raman spectroscopy
+femosecond stimulated raman spectroscopy
+surface - enhanced raman spectroscopy
+tip - enhanced raman spectroscopy
+ultra - high vacuum tip - enhanced raman spectroscopy
+ultraviolet raman spectroscopy
+thermal analysis
+calorimetry
+isothermal titration calorimetry
+differential scanning calorimetry
+heat - flux differential scanning calorimetry
+power - compensation differential scanning calorimetry
+differential thermal analysis
+thermoacoustimetry
+thermodilatometry
+thermogravimetry
+thermomagnetometry
+thermoptometry
+thermoluminescence
+thermophotometry
+thermorefractometry
+glass refractive index measurement
+thermosonimetry
+neutron diffraction
+neutron powder diffraction
+x - ray–ultraviolet photoelectron spectroscopy
+liquid chromatography - tandem mass spectrometry
+capillary electrophoresis - mass spectrometry
+capillary electrophoresis - inductively coupled plasma mass spectrometry
+direct analysis in real time mass spectrometry
+electrospray ionisation fourier transform ion cyclotron resonance mass spectrometry
+electrophoresis - mass spectrometry
+two - dimensional gel electrophoresis - mass spectrometry
+direct analysis in real time time - of - flight mass spectrometry
+ambient ionisation mass spectrometry
+low - temperature plasma mass spectrometry
+laser mass spectrometry
+continuous - wave nuclear magnetic resonance spectroscopy
+high - performance liquid chromatography nuclear magnetic resonance spectroscopy
+ultra - performance liquid chromatography - mass spectrometry
+high - performance liquid chromatography - nuclear magnetic resonance - mass spectrometry
+extractive electrospray ionisation mass spectrometry
+carr - purcell - meiboom - gill pulse sequence
+quadrupolar carr - purcell - meiboom - gill pulse sequence
+33s nuclear magnetic resonance spectroscopy
+ultra - high - field nuclear magnetic resonance spectroscopy
+77se nuclear magnetic resonance spectroscopy
+high - field nuclear magnetic resonance spectroscopy
+one - dimensional nuclear overhauser enhancement spectroscopy
+two - dimensional nuclear overhauser enhancement spectroscopy
+high resolution fast - atom bombardment mass spectrometry
+2h nuclear magnetic resonance spectroscopy
+selective insensitive nuclei enhancement by polarization transfer
+annular dark - field scanning transmission electron microscopy
+high - angular annular dark - field scanning transmission electron microscopy
+bright - field scanning transmission electron microscopy
+synchrotron radiation x - ray diffraction
+diffusion - ordered spectroscopy
+matrix - assisted laser desorption–ionisation quadrupole time - of - flight mass spectrometry
+gas chromatography time - of - flight mass spectrometry
+electrospray ionisation time - of - flight mass spectrometry
+liquid chromatography - electrospray ionisation time - of - flight mass spectrometry
+reversed - phase liquid chromatography - electrospray ionisation tandem mass spectrometry
+31p nuclear magnetic resonance spectroscopy
+51v nuclear magnetic resonance spectroscopy
+discharge mass spectrometry
+dielectric barrier discharge ionisation mass spectrometry
+electron magnetic resonance spectroscopy
+electron–electron double resonance spectroscopy
+pulsed electron–electron double resonance spectroscopy
+continuous wave electron–electron double resonance spectroscopy
+electron nuclear double resonance spectroscopy
+pulsed electron nuclear double resonance spectroscopy
+continuous - wave electron nuclear double resonance spectroscopy
+capillary liquid chromatography - inductively coupled plasma mass spectrometry
+liquid chromatography - electrospray ionisation mass spectrometry
+nanoflow liquid chromatography - electrospray ionisation mass spectrometry
+liquid chromatography - ion trap mass spectrometry
+nanoflow liquid chromatography chip enabled ion trap mass spectrometry
+atmospheric pressure glow discharge mass spectrometry
+atmospheric pressure glow discharge tandem mass spectrometry
+synchrotron x - ray powder diffraction
+plasmon resonance energy transfer
+resonance energy transfer
+confocal fluorescence correlation spectroscopy
+scanning fluorescence correlation spectroscopy
+attenuated total reflectance fourier transform infrared spectroscopy
+colloidal probe atomic force microscopy
+total internal reflection fluorescence correlation spectroscopy
+supercritical angle fluorescence correlation spectroscopy
+image correlation spectroscopy
+negative - stain electron microscopy
+high resolution scanning electron microscopy
+single molecule surface - enhanced raman spectroscopy
+multiphoton fluorescence microscopy
+two photon fluorescence microscopy
+photoluminescence spectroscopy
+transverse relaxation optimised spectroscopy
+dichroism spectroscopy
+linear dichroism spectroscopy
+diffuse reflectance circular dichroism spectroscopy
+anomalous x - ray scattering
+polarimetry
+variable - temperature nuclear magnetic resonance spectroscopy
+hyperfine sublevel correlation spectroscopy
+neutron activation analysis
+infrared dichroism spectroscopy
+site - specific infrared dichroism spectroscopy
+optical rotatory dispersion
+129xe nuclear magnetic resonance spectroscopy
+197au nuclear magnetic resonance spectroscopy
+119sn nuclear magnetic resonance spectroscopy
+pulsed - field gradient nuclear magnetic spectroscopy
+high - resolution diffusion - ordered spectroscopy
+diffusion - ordered spectrum
+ultraviolet - visible - near infrared spectrophotometry
+assay output
+cyclic voltammogram
+ultra high performance liquid chromatography
+high - performance liquid chromatography - mass spectrometry
+orthogonal acceleration mass spectrometry
+orthogonal acceleration time of flight mass spectrometry
+electronic absorption spectrum
+spectrum
+absorption spectrum
+acoustic emission spectrum
+alpha - particle spectrum
+atomic spectrum
+beta - particle spectrum
+mass spectrum
+chemical ionisation mass spectrum
+circular dichroism spectrum
+atomic force spectrum
+electron energy - loss spectrum
+electronic spectrum
+electrospray ionisation mass spectrum
+emission spectrum
+corrected emission spectrum
+fluorescence spectrum
+gamma - ray spectrum
+impedance spectrum
+infrared spectrum
+microspectrum
+microwave spectrum
+photoacoustic spectrum
+photoelectron spectrum
+raman spectrum
+rotational spectrum
+surface plasmon resonance spectrum
+13c magic angle spinning nuclear magnetic resonance spectroscopy
+thermospray mass spectrum
+time - of - flight mass spectrum
+vibrational spectrum
+x - ray spectrum
+action spectrum
+conversion spectrum
+excitation spectrum
+excitation - emission spectrum
+nuclear magnetic resonance spectrum
+electron spin resonance spectrum
+carbon - 13 nuclear magnetic resonance spectrum
+proton nuclear magnetic resonance spectrum
+phosphorus - 31 nuclear magnetic resonance spectrum
+mossbauer spectrum
+phosphorescence spectrum
+ultraviolet–visible spectrum
+boron - 11 nuclear magnetic resonance spectrum
+nitrogen - 15 nuclear magnetic resonance spectrum
+fluorine - 19 nuclear magnetic resonance spectrum
+sulfur - 33 nuclear magnetic resonance spectrum
+vanadium - 51 nuclear magnetic resonance spectrum
+selenium - 77 nuclear magnetic resonance spectrum
+crystallographic data
+x - ray diffraction data
+powder x - ray diffraction data
+single - crystal x - ray diffraction data
+fourier transform infrared spectrum
+auger spectrum
+31p magic angle spinning nuclear magnetic resonance spectroscopy
+magic angle spinning nuclear magnetic resonance spectrum
+carbon - 13 magic angle spinning nuclear magnetic resonance spectrum
+phosphorus - 31 magic angle spinning nuclear magnetic resonance spectrum
+thermogravimetry - fourier transform infrared spectroscopy
+thermogravimetry - mass spectrometry
+high - temperature x - ray diffraction
+high - resolution x - ray diffraction
+positron annihilation lifetime spectroscopy
+luminescence spectrum
+photoluminescence spectrum
+room - temperature photoluminescence spectrum
+low - temperature photoluminescence spectrum
+sol–gel - assisted laser desorption - ionisation time - of - flight mass spectrometry
+surface - enhanced laser desorption–ionisation time - of - flight mass spectrometry
+near - infrared raman spectroscopy
+dynamic reaction cell inductively coupled plasma mass spectrometry
+gas chromatography - inductively coupled plasma mass spectrometry
+ion - exchange chromatography - inductively coupled plasma mass spectrometry
+conductive atomic force microscopy
+electrochemical surface - enhanced raman spectroscopy
+fourier transform electrochemical - induced impedance spectroscopy
+time - resolved x - ray diffraction
+microphotoluminescence spectroscopy
+high - frequency electron spin resonance spectroscopy
+low - frequency electron spin resonance spectroscopy
+saturation - transfer electron spin resonance spectroscopy
+longitudinally detected electron spin resonance spectroscopy
+plasma - assisted desorption–ionisation mass spectrometry
+electrospray - assisted laser desorption - ionisation mass spectrometry
+surface - enhanced chiral raman spectroscopy
+dual - inlet isotope ratio mass spectrometry
+continuous - flow isotope ratio mass spectrometry
+proton - decoupled nuclear magnetic resonance spectroscopy
+proton - decoupled 31p nuclear magnetic resonance spectroscopy
+proton - decoupled 13c nuclear magnetic resonance spectroscopy
+proton - decoupled nuclear magnetic resonance spectrum
+proton - decoupled phosphorus - 31 nuclear magnetic resonance spectrum
+proton - decoupled carbon - 13 nuclear magnetic resonance spectrum
+electron diffraction data
+transmission high - energy electron diffraction data
+rotational - echo double - resonance spectroscopy
+saturation transfer difference nuclear magnetic resonance spectroscopy
+saturation transfer double difference nuclear magnetic resonance spectroscopy
+diffuse reflectance ultraviolet–visible spectrophotometry
+x - ray photoelectron spectrum
+neutron diffraction data
+temperature - resolved x - ray diffraction
+chemical shift anisotropy experiment
+paramagnetic relaxation enhancement
+spin diffusion experiment
+spin counting experiment
+1h spin diffusion experiment
+19f spin diffusion experiment
+polarisation inversion and spin exchange at the magic angle
+separated - local - field nuclear magnetic resonance spectroscopy
+15n separated - local - field nuclear magnetic resonance spectroscopy
+19f spin counting experiment
+15n chemical shift anisotropy experiment
+differential scanning calorimetry curve
+rheometry
+shear rheometry
+temperature - dependent rheometry
+flow curve
+grazing - angle x - ray diffraction
+variable angle correlation spectroscopy
+osteryoung square - wave voltammetry
+voltammogram
+square - wave voltammogram
+magnetometry
+vibrating - sample magnetometry
+superconducting quantum interference device magnetometry
+velocimetry
+particle - tracking velocimetry
+frequency - switched lee - goldberg cross polarization
+cold - spray ionisation mass spectrum
+heteronuclear two - dimensional nuclear magnetic resonance spectroscopy
+two - dimensional nuclear magnetic resonance spectrum
+distortionless enhancement with polarization transfer spectrum
+heteronuclear single quantum coherence spectrum
+heteronuclear multiple bond coherence spectrum
+reflectance spectroscopy
+reflectance spectrum
+transmission spectroscopy
+transmission spectrum
+vector piezoresponse force microscopy
+scanning electron microscope
+field - emission scanning electron microscope
+scanning probe microscope
+dynamic reaction cell
+optical tweezers
+optical microscope
+charge - coupled device
+charge - coupled device diffractometer
+diffractometer
+atomic force microscopy tip
+atomic force microscopy cantilever
+microscope
+atomic force microscope
+inductively coupled plasma mass spectrometer
+inductively coupled plasma torch
+chemical ionisation source
+electron ionisation mass spectrometer
+electron ionisation source
+ion source
+orthogonal - acceleration ion source
+orthogonal - acceleration time - of - flight mass spectrometer
+quadrupole mass spectrometer
+ion cyclotron resonance cell
+fourier transform ion cyclotron resonance mass spectrometer
+quadrupole mass - to - charge analyser
+transmission quadrupole mass - to - charge analyser
+orbitrap
+linear quadrupole ion trap mass - to - charge analyser
+three - dimensional quadrupole ion trap mass - to - charge analyser
+support - coated open - tubular column
+porous - layer open - tubular column
+wall - coated open - tubular column
+open - tubular column
+packed column
+high - performance liquid chromatography column
+reflectron time - of - flight mass spectrometer
+mass - to - charge analyser
+reflectron
+time - of - flight mass - to - charge analyser
+time - of - flight mass spectrometer
+mass spectrometer
+separation capillary
+liquid stationary phase
+solid stationary phase
+stationary phase
+capillary column
+chromatography paper
+thin - layer chromatography plate
+open chromatographic bed
+liquid mobile phase
+supercritical mobile phase
+portion of material
+chromatographic phase
+mobile phase
+gaseous mobile phase
+chromatography column
+separation method
+chromatography
+column chromatography
+gas chromatography
+supercritical - fluid chromatography
+liquid chromatography
+planar chromatography
+affinity chromatography
+thin - layer chromatography
+paper chromatography
+high - performance liquid chromatography
+exclusion chromatography
+gel filtration chromatography
+ion - exclusion chromatography
+size - exclusion chromatography
+ion - exchange chromatography
+gas - solid chromatography
+gas - liquid chromatography
+two - dimensional separation method
+two - dimensional chromatography
+electrophoresis
+two - dimensional electrophoresis
+gel electrophoresis
+agarose gel electrophoresis
+polyacrylamide gel electrophoresis
+capillary electrophoresis
+isotachophoresis
+isoelectric focusing
+sodium dodecyl sulfate polyacrylamide gel electrophoresis
+difference gel electrophoresis
+two dimensional gel electrophoresis
+sieving electrophoresis
+capillary sieving electrophoresis
+capillary gel electrophoresis
+capillary isoelectric focusing
+capillary isotachophoresis
+electrokinetic chromatography
+micellar electrokinetic chromatography
+microemulsion electrokinetic chromatography
+capillary electrochromatography
+capillary affinity electrophoresis
+affinity electrophoresis
+liposome electrokinetic chromatography
+denaturing gradient gel electrophoresis
+temperature gradient gel electrophoresis
+dielectrophoresis
+free - flow electrophoresis
+isotachophoretic focusing
+obsolete: separation method - measurement method
+capillary liquid chromatography
+reversed - phase liquid chromatography
+normal - phase liquid chromatography
+magnetic sector mass spectrometer
+magnetic sector
+electric sector
+double - focusing mass spectrometer
+forward - geometry double - focusing mass spectrometer
+reverse - geometry double - focusing mass spectrometer
+faraday cup
+ion detector
+electron multiplier
+discrete - dynode electron multiplier
+continuous - dynode electron multiplier
+daly detector
+x - ray powder diffractometer
+atomic force microscopy probe
+incident photon conversion efficiency spectrum
+proton detected separated local field spectroscopy
+r - type recoupling proton detected separated local field spectroscopy
+far - infrared magnetic resonance spectroscopy
+three - dimensional nuclear magnetic resonance spectroscopy
+heteronuclear single quantum coherence total correlation spectroscopy
+heteronuclear three - dimensional nuclear magnetic resonance spectroscopy
+homonuclear three - dimensional nuclear magnetic resonance spectroscopy
+time - lapse microscopy
+elemental analysis
+carbon ,  hydrogen and nitrogen elemental analysis
+quartz crystal microbalance
+polarization modulation infrared reflection–adsorption spectroscopy
+15n solid - state nuclear magnetic resonance spectroscopy
+13c solid - state nuclear magnetic resonance spectroscopy
+125te nuclear magnetic resonance spectroscopy
+osmometry
+vapour pressure osmometry
+time - lapse fluorescence microscopy
+fluorescence - activated cell sorting
+photoemission electron microscopy
+x - ray photoemission electron microscopy
+electron microscope
+spectroscopic photoemission and low energy electron microscope
+kinetic spectroscopy
+aberration - corrected high - resolution transmission electron microscopy
+electron spin resonance imaging
+molecular nonthermal excitation spectroscopy
+furnace ionisation nonthermal excitation spectrometry
+fluorescence microscope
+epifluorescence microscope
+thermocouple
+wollaston wire
+transmission electron microscope
+field - emission transmission electron microscope
+synchrotron radiation x - ray emission spectroscopy
+autoradiography
+recorded image
+autoradiogram
+isoelectric focusing polyacrylamide gel electrophoresis
+two - dimensional polyacrylamide gel electrophoresis
+positive electrospray ionisation mass spectrometry
+positive electrospray ionisation time - of - flight mass spectrometry
+positive electrospray ionisation tandem mass spectrometry
+particle - image velocimetry
+microscopic particle - image velocimetry
+super - resolution bright - field microscopy
+membrane - inlet mass spectrometry
+solution x - ray diffraction
+differential pulse voltammogram
+ion amperometry
+nuclear magnetic resonance diffusometry
+pulsed field - gradient spin echo nuclear magnetic resonance spectroscopy
+modulus addition using spatially separated echo spectroscopy
+pulsed gradient non - linear spin echo nuclear magnetic resonance spectroscopy
+dynamic force spectrum
+dynamic force spectroscopy
+force spectroscopy
+ultraviolet–visible–near infrared spectrum
+confocal microscope
+laser - scanning confocal microscope
+tandem - scanning microscope
+adsorption chromatography
+displacement chromatography
+glow discharge ion source
+laser ablation
+obsolete: sample preparation method - measurement method
+viscometry
+capillary viscometry
+in situ x - ray diffraction
+in situ synchrotron xrd
+scanning probe x - ray diffraction
+differential confocal microscopy
+207pb nuclear magnetic resonance spectroscopy
+207pb magic angle spinning nuclear magnetic resonance spectroscopy
+1h magic angle spinning nuclear magnetic resonance spectroscopy
+93nb solid - state nuclear magnetic resonance spectroscopy
+93nb nuclear magnetic resonance spectroscopy
+1h–13c heteronuclear single quantum coherence
+1h–15n heteronuclear single quantum coherence
+1h–13c heteronuclear multiple bond coherence
+1h–15n heteronuclear multiple bond coherence
+1h–1h correlation spectroscopy
+1h–1h nuclear overhauser enhancement spectroscopy
+small - angle x - ray diffraction
+small - angle x - ray diffraction data
+29si magic angle spinning nuclear magnetic resonance spectroscopy
+29si nuclear magnetic resonance spectroscopy
+silicon - 29 magic angle spinning nuclear magnetic resonance spectrum
+single pulse–pulsed laser polymerization–near - infrared technique
+single pulse - pulsed laser polymerization - electron spin resonance
+pulsed laser polymerisation - size exclusion chromatography
+raman circular dichroism spectroscopy
+reflectance circular dichroism spectroscopy
+pulsed laser polymerisation - size exclusion chromatography - nuclear magnetic resonance
+tensiometry
+pendant - drop tensiometry
+sessile - drop tensiometry
+dynamic - surface tensiometry
+sorption - desorption measurement
+sorption measurement
+nitrogen sorption measurement
+surface - enhanced raman spectrum
+two - dimensional nuclear overhauser enhancement spectrum
+1h two - dimensional nuclear overhauser enhancement spectrum
+13c–13c nuclear overhauser enhancement spectroscopy
+transmission electron microscopy selected area electron diffraction
+27al nuclear magnetic resonance spectroscopy
+27al magic angle spinning nuclear magnetic resonance spectroscopy
+para - hydrogen induced polarisation enhanced nuclear magnetic resonance  spectroscopy
+only para - hydrogen spectroscopy
+1h only para - hydrogen spectroscopy
+only para - hydrogen spectroscopy correlation spectroscopy
+1h - 1h only para - hydrogen spectroscopy correlation spectroscopy
+laser light scattering
+matrix assisted laser desorption - ionisation time - of - flight mass spectrum
+gas - phase electrophoretic mobility molecular analysis
+electrospray ionisation gas - phase electrophoretic mobility molecular analysis
+nano electrospray ionisation gas - phase electrophoretic mobility molecular analysis
+gas - phase electrophoretic mobility molecular analysis spectrum
+electrospray ionisation gas - phase electrophoretic mobility molecular analysis spectrum
+17o nuclear magnetic resonance spectroscopy
+17o magic angle spinning nuclear magnetic resonance spectroscopy
+51v magic angle spinning nuclear magnetic resonance spectroscopy
+7li nuclear magnetic resonance spectroscopy
+14n magic angle spinning nuclear magnetic resonance spectroscopy
+14n nuclear magnetic resonance spectroscopy
+hadamard - encoded nuclear magnetic resonance spectroscopy
+hadamard - encoded total correlation spectroscopy
+two - dimensional total correlation spectroscopy
+one - dimensional total correlation spectroscopy
+13c–13c total correlation spectroscopy
+electrochemiluminescence detection
+multiple - quantum excitation in combination with magic angle spinning
+satellite transition magic angle spinning
+satellite transition magic angle spinning with self - compensation for the magic angle misset
+triple - quantum excitation in combination with magic angle spinning
+central transition magic angle spinning
+five - quantum excitation in combination with magic angle spinning
+inverse satellite transition magic angle spinning
+87rb nuclear magnetic resonance spectroscopy
+anion - exchange chromatography
+cation - exchange chromatography
+titration
+acid–base titration
+acidimetric titration
+alkalimetric titration
+magnetic resonance method
+optically detected magnetic resonance
+zero - field optically detected magnetic resonance
+absorption detected magnetic resonance
+delayed emission detected magnetic resonance
+delayed fluorescence detected magnetic resonance
+fluorescence detected magnetic resonance
+phosphorescence detected magnetic resonance
+reaction yield detected magnetic resonance
+activation analysis
+absolute activation analysis
+analytical solution calorimetry
+batch injection calorimetry
+calorimetric titration
+catalymetric titration
+chelatometric titration
+catalysed chemiluminescence detection
+continuous - flow calorimetry
+constant - current chronopotentiometric stripping
+spectrometer
+raman spectrometer
+confocal raman microscope
+inversion recovery total correlation spectroscopy
+inversion recovery
+differential scanning fluorescence spectroscopy
+elastic recoil detection analysis
+heavy - ion elastic recoil detection analysis
+carrier extraction by linearly increasing voltage method
+photoinduced carrier extraction in a linearly increasing voltage
+time - of - flight method
+carrier extraction using pulsed voltage method
+charge transport measurement method
+field - effect transistor method
+space - charge - limited current method
+fast - atom bombardment mass spectrum
+magneto - optical rotatory dispersion
+183w nuclear magnetic resonance spectroscopy
+ultraviolet spectrophotometry
+ultraviolet spectrum
+electroluminescence detection
+sonoluminescence detection
+photoluminescence detection
+electroluminescence spectrum
+reversed - phase high - performance liquid chromatography
+pyrolysis gas chromatography
+pyrolysis gas chromatography - mass spectrometry
+gas chromatography - infrared spectroscopy
+pyrolysis gas chromatography - infrared spectroscopy
+pyrolysis infrared spectroscopy
+pyrolysis mass spectrometry
+synchrotron small angle x - ray scattering
+desorption atmospheric pressure chemical ionisation mass spectrometry
+short - column chromatography
+continuous - wave electron spin resonance spectrum
+hyperfine sublevel correlation spectrum
+electron spin - echo envelope modulation
+electron spin - echo envelope modulation spectrum
+electrospray - ionisation quadrupole time - of - flight mass spectrometry
+electrospray - ionisation quadrupole time - of - flight tandem mass spectrometry
+size - exclusion chromatography - high performance liquid chromatography
+reversed - phase high - performance liquid chromatography - inductively coupled plasma mass spectrometry
+capillary high - performance liquid chromatography
+nanoflow high - performance liquid chromatography
+reversed - phase nanoflow high - performance liquid chromatography
+nanoflow high - performance liquid chromatography - inductively coupled plasma mass spectrometry
+nanoflow high - performance liquid chromatography - electrospray ionisation tandem mass spectrometry
+reversed - phase nanoflow high - performance liquid chromatography - inductively coupled plasma mass spectrometry
+nanoflow high - performance liquid chromatography electrospray - ionisation quadrupole time - of - flight tandem mass spectrometry
+gravimetric analysis
+quartz crystal microgravimetry
+calorimeter
+sum - frequency generation spectroscopy
+laser desorption–ionisation mass spectrum
+time - resolved microwave conductivity
+pulse radiolysis time - resolved microwave conductivity
+vacuum deposition
+glancing - incidence x - ray reflectometry
+thin - film x - ray diffraction
+23na nuclear magnetic resonance spectroscopy
+23na solid - state nuclear magnetic resonance spectroscopy
+23na magic angle spinning nuclear magnetic resonance spectroscopy
+sodium - 23 magic angle spinning nuclear magnetic resonance spectrum
+solid - state nuclear magnetic resonance spectrum
+sodium - 23 solid - state nuclear magnetic resonance spectrum
+synthesis method
+assembly
+langmuir–blodgett assembly
+layer - by - layer assembly
+self - assembly
+evaporation - induced self - assembly
+molecular self - assambly
+templated self - assembly
+breath - figure templating
+sample deposition
+atomic layer deposition
+chemical solution deposition
+sol–gel method
+chemical vapour deposition
+aerosol - assisted chemical vapour deposition
+atmospheric - pressure chemical vapour deposition
+atomic layer chemical vapour deposition
+direct liquid injection chemical vapour deposition
+hot wire chemical vapour deposition
+hybrid physical–chemical vapour deposition
+laser chemical vapour deposition
+low - pressure chemical vapour deposition
+ultrahigh vacuum chemical vapour deposition
+metal–organic chemical vapour deposition
+plasma - assisted chemical vapour deposition
+microwave plasma - assisted chemical vapour deposition
+remote plasma - enhanced chemical vapour deposition
+rapid thermal chemical vapour deposition
+dry deposition
+electrophoretic deposition
+electrochemical deposition
+photoelectrochemical deposition
+electroless metal deposition
+multi - metal deposition
+single - metal deposition
+epitaxy
+atomic layer epitaxy
+heteroepitaxy
+homoepitaxy
+liquid - phase epitaxy
+molecular beam epitaxy
+gas - source molecular beam epitaxy
+metal–organic molecular beam epitaxy
+solid - source molecular beam epitaxy
+solid - phase epitaxy
+vapour - phase epitaxy
+hydride vapour - phase epitaxy
+metal–organic vapour - phase epitaxy
+jet deposition
+aerosol jet deposition
+gas jet deposition
+ultrasonic gas jet deposition
+plasma jet deposition
+micropen lithography
+photodeposition
+physical vapour deposition
+cathodic arc deposition
+electron - beam - induced deposition
+ion beam - induced deposition
+thermal evaporation
+metal evaporation
+vacuum metal deposition
+pulsed laser deposition
+sputter deposition
+barrel sputter deposition
+ion - assisted deposition
+ion - beam sputter deposition
+magnetron sputter deposition
+high power impulse magnetron sputter deposition
+radio frequency sputter deposition
+plasma sputter deposition
+high - target - utilization sputter deposition
+reactive sputter deposition
+reactive spray deposition
+supercritical spray deposition
+thin - film deposition
+hydrothermal synthesis
+infiltration
+chemical vapour infiltration
+temperature - gradient chemical vapour infiltration
+forced - flow chemical vapour infiltration
+pressure - pulsed chemical vapour infiltration
+gas - phase infiltration
+liquid polymer infiltration
+liquid - phase infiltration
+liquid silicon infiltration
+ionothermal synthesis
+lithography
+colloidal lithography
+microlithography
+nanolithography
+nanoimprint lithography
+electrochemical nanoimprint lithography
+laser - assisted direct imprint lithography
+thermoplastic nanoimprint lithography
+lithographically induced self - assembly
+roller nanoimprint lithography
+photo nanoimprint lithography
+step - and - flash imprint lithography
+particle - beam lithography
+electron - beam lithography
+low - energy electron - beam lithography
+low - energy e - beam proximity lithography
+electron - beam projection lithography
+projection reduction exposure with variable axis immersion lense
+scattering with angular limitation projection electron - beam lithography
+ion - beam lithography
+ion projection lithography
+near - field phase shift lithography
+photolithography
+double patterning lithography
+immersion lithography
+interference lithography
+multiple - laser - beam interference lithography
+microscope projection photolithography
+ultraviolet lithography
+contact lithography
+continuous - flow lithography
+lock - release lithography
+deep - ultraviolet lithography
+extreme ultraviolet lithography
+stop - flow lithography
+scanning near - field photolithography
+soft lithography
+multi - layer soft lithography
+moulding
+blow moulding
+compression moulding
+injection moulding
+micromoulding
+multi - layer micromoulding
+micromoulding in capillaries
+solvent - assisted micromoulding
+rotational moulding
+transfer moulding
+microtransfer moulding
+nanotransfer moulding
+replica moulding
+microcontact printing
+patterning by etching at the nanoscale
+x - ray lithography
+mechanosynthesis
+reforming
+aqueous - phase reforming
+catalytic reforming
+electrochemical catalytic reforming
+thermal reforming
+autothermal reforming
+steam reforming
+catalytic steam reforming
+catalytic steam reforming of methanol
+steam methane reforming
+unmixed reforming
+catalytic steam reforming of ethanol
+scanning probe lithography
+dip - pen nanolithography
+solvothermal synthesis
+template - directed synthesis
+peptisation
+buffer solution
+borate buffer
+ageing
+annealing
+atomisation
+calcination
+carbo - reduction
+ceramisation
+coating method
+dip coating
+spin coating
+combustion
+sample cooling
+laser cooling
+melt cooling
+crystallisation
+cocrystallisation
+fractional crystallisation
+curing
+electron beam curing
+photochemical curing
+thermal curing
+densification
+derivatisation
+post - column derivatisation
+decomposition
+chemical decomposition
+sample digestion
+wet digestion
+acid digestion
+bomb digestion
+base digestion
+enzyme digestion
+partial sample digestion
+microwave digestion
+ultraviolet photolysis digestion
+enzymic decomposition
+spinodal decomposition
+thermal decomposition
+gasification
+pyrolysis
+analytical pyrolysis
+catalytic pyrolysis
+flash pyrolysis
+fractionated pyrolysis
+furnace pyrolysis
+ion - source pyrolysis
+isothermal pyrolysis
+laser pyrolysis
+off - line pyrolysis
+oxidative pyrolysis
+pressure - monitored pyrolysis
+reductive pyrolysis
+sequential pyrolysis
+spray pyrolysis
+steam pyrolysis
+stepwise pyrolysis
+vacuum pyrolysis
+thermolysis
+flash vacuum thermolysis
+dialysis
+electrodialysis
+micro - dialysis
+sample dispersion
+colloidal dispersion
+matrix solid - phase dispersion
+dissection
+micro - dissection
+laser micro - dissection
+laser capture micro - dissection
+distillation
+batch distillation
+continuous distillation
+extractive distillation
+fractional distillation
+reactive distillation
+simple distillation
+steam distillation
+vacuum distillation
+air - sensitive vacuum distillation
+molecular distillation
+short - path distillation
+droplet dispensing
+acoustic droplet dispensing
+dielectrophoretic droplet dispensing
+inertial droplet dispensing
+electrohydrodynamic droplet dispensing
+sample drying
+dielectric drying
+direct drying
+drum drying
+freeze drying
+oven drying
+spray drying
+supercritical drying
+vacuum drying
+etching
+dry etching
+plasma etching
+deep reactive - ion etching
+advanced silicon etching
+cryogenic deep reactive - ion etching
+electrolytic etching
+galvanic etching
+ion beam patterning
+photo etching
+sputter etching
+electronic sputter etching
+potential sputter etching
+wet etching
+anisotropic wet etching
+evaporation
+centrifugal evaporation
+rotary evaporation
+extraction
+coextraction
+headspace extraction
+dynamic headspace extraction
+multiple headspace extraction
+static headspace extraction
+liquid - solid extraction
+normal - phase solid - phase extraction
+reversed - phase solid - phase extraction
+solid - phase micro - extraction
+capillary micro - extraction
+sol–gel capillary micro - extraction
+headspace solid - phase micro - extraction
+micro - extraction in a packed syringe
+stir - bar solid - phase extraction
+magnetic bead extraction
+membrane extraction
+membrane extraction with a sorbent interface
+polymeric membrane extraction
+supported liquid membrane extraction
+sequentional extraction
+solvent extraction
+gas–liquid extraction
+liquid–liquid extraction
+cloud - point extraction
+liquid - phase micro - extraction
+single - drop micro - extraction
+pressurised - fluid extraction
+microporous membrane liquid–liquid extraction
+shake - flask extraction
+solid–liquid extraction
+microwave - assisted extraction
+soxhlet extraction
+supercritical fluid extraction
+ultrasound extraction
+substoichiometric extraction
+extrusion
+cold extrusion
+hot extrusion
+hydrostatic extrusion
+warm extrusion
+spinning
+dry spinning
+electrospinning
+gel spinning
+melt spinning
+wet spinning
+fermentation
+fractionation
+field - flow fractionation
+electrical field - flow fractionation
+cyclic electrical field - flow field fractionation
+flow field - flow fractionation
+gravitational field - flow fractionation
+potential barrier field - flow fractionation
+magnetic field - flow fractionation
+sedimentation field - flow fractionation
+steric field - flow fractionation
+thermal field - flow fractionation
+foam fractionation
+freeze distillation
+plasma protein fractionation
+cohn process
+filtration
+micro - filtration
+nano - filtration
+reverse osmosis
+suction filtration
+ultra - filtration
+gelation
+electrochemical gelation
+light - induced gelation
+ph - induced gelation
+sound - induced gelation
+thermal gelation
+grinding
+liquid - assisted grinding
+ball milling
+high - speed ball milling
+high - energy ball milling
+wet grinding
+ionisation method
+electrospray ionisation
+desorption electrospray ionisation
+laser desorption electrospray ionisation
+matrix - assisted laser desorption electrospray ionisation
+extraction electrospray ionisation
+laser ablation electrospray ionisation
+plasma ionisation
+plasma - assisted desorption ionisation
+glow discharge ionisation
+atmospheric pressure glow discharge ionisation
+chemical ionisation
+desorption atmospheric pressure chemical ionisation
+dielectric barrier discharge ionisation
+direct analysis in real time
+isostatic pressing
+hot isostatic pressing
+labelling
+fluorescent labelling
+isotopic labelling
+deuterium labelling
+radioactive labelling
+phosphorescent labelling
+leaching
+sample melting
+skull melting
+induction skull melting
+mixing
+ostwald ripening
+photodegradation
+precipitation
+affinity precipitation
+co - precipitation
+imμnoprecipitation
+individual protein imμnoprecipitation
+protein complex imμnoprecipitation
+chromatin imμnoprecipitation
+ribonucleic acid imμnoprecipitation
+postprecipitation
+reprecipitation
+radiolysis
+autoradiolysis
+pulse radiolysis
+sintering
+liquid - state sintering
+solid - state sintering
+pressureless sintering
+selective laser sintering
+spark plasma sintering
+sonication
+ultrasonication
+detection method
+argon ionisation detection
+atomic emission detection
+catalytic combustion detection
+electrochemical detection
+pulsed electrochemical detection
+electrolytic conductivity detection
+dry electrolytic conductivity detection
+electron capture detection
+evaporative light scattering detection
+flame ionisation detection
+flame photometric detection
+obsolete: fluorescence detection for separation methods
+laser - induced fluorescence detection
+helium ionisation detection
+helium discharge ionisation detection
+pulsed discharge helium ionisation detection
+nitrogen–phosphorus detection
+paired emitter–detector diode detection
+photodiode array detection
+photoionisation detection
+refractive index detection
+thermal conductivity detection
+thermal energy analyser detection
+ultraviolet detection
+phosphate buffer
+obsolete: separation method - detection method
+gas chromatography - flame ionisation detection
+gas chromatography - nitrogen - phosphorus detection
+liquid chromatography - photodiode array detection
+gas chromatography - thermal energy analysis
+gas chromatography - thermal conductivity detection
+gas chromatography - flame photometric detection
+liquid chromatography - fluorescence detection
+liquid chromatography - refractive index detection
+liquid chromatography - evaporative light scattering detection
+liquid chromatography - electrochemical detection
+gas chromatography - pulsed discharge helium ionisation detection
+acetate buffer
+tris - borate - edta buffer
+tris–acetate–edta buffer
+phosphate - buffered saline solution
+good's buffer
+aces buffer
+tris buffer
+tris - hcl buffer
+ada buffer
+bes buffer
+bicine buffer
+hepes buffer
+mes buffer
+mops buffer
+pipes buffer
+tes buffer
+tricine buffer
+tin - 119 nuclear magnetic resonance spectrum
+transmission raman spectroscopy
+optical tweezers raman spectroscopy
+trapping method
+laser trapping
+deep - level transient spectroscopy
+laplace deep - level transient spectroscopy
+constant - capacitance deep - level transient spectroscopy
+current deep - level transient spectroscopy
+isothermal capactiance transient spectroscopy
+normalised isothermal capacitance transient spectroscopy
+differential isothermal capacitance transient spectroscopy
+photoinduced current transient spectroscopy
+microwave - detected photoinduced current transient spectroscopy
+23na triple - quantum excitation in combination with magic angle spinning
+27al triple - quantum excitation in combination with magic angle spinning
+45sc triple - quantum excitation in combination with magic angle spinning
+45sc nuclear magnetic resonance spectroscopy
+capillary force lithography
+pervaporation
+rotating - field mass spectrometry
+rapidfire ( r )  mass spectrometry
+laser sintering
+argon plasma sintering
+normal - phase high - performance liquid chromatography
+membrane extraction with a sorbent interface - gas chromatography
+low - temperature electrothermal vaporisation inductively coupled plasma mass spectrometry
+obsolete: sample transformation method - detection method
+obsolete: sample transformation method - measurement method
+supercritical fluid extraction - fourier transform infrared spectroscopy
+continuous - wave nuclear magnetic resonance spectrum
+1h continuous - wave nuclear magnetic resonance spectrum
+1h continuous - wave nuclear magnetic resonance spectroscopy
+reflection–absorption fourier transform infrared spectroscopy
+electrochemical quartz crystal microgravimetry
+electron micrograph
+scanning electron micrograph
+transmission electron micrograph
+ultraviolet–visible spectrometer
+ultraviolet spectrometer
+diffuse reflectance ultraviolet–visible spectrum
+nuclear magnetic resonance method
+nuclear magnetic resonance spectrometer
+first derivative nuclear magnetic resonance spectrum
+energy dispersive x - ray spectrometer
+synchrotron
+pole figure measurement
+synchrotron x - ray scattering
+infrared microscope
+raman microscope
+electrochemical quartz crystal microbalance
+fourier transform photoacoustic spectrum
+synchrotron infrared microscopy
+vibrational microscopy
+synchrotron fourier transform infrared spectrum
+synchrotron fourier transform infrared microscopy
+synchrotron fourier transform infrared spectroscopy
+infrared spectrometer
+fourier transform infrared spectrometer
+micrograph
+optical micrograph
+electrophoretic light scattering
+kerr effect spectroscopy
+raman - induced kerr effect spectroscopy
+magneto optical kerr effect spectroscopy
+optically - heterodyned raman - induced kerr effect spectroscopy
+confocal infrared microscopy
+liquid chromatography mass spectrum
+femtosecond raman - induced kerr effect spectroscopy
+nanoflow liquid chromatography - tandem mass spectrometry
+two - dimensional liquid chromatography
+two - dimensional liquid chromatography - tandem mass spectrometry
+time - resolved optical kerr effect spectroscopy
+optically - heterodyned kerr effect spectroscopy
+femtosecond optically - heterodyned raman - induced kerr effect spectroscopy
+nuclear magnetic resonance pulse sequence
+radio frequency pulse
+bilinear rotation decoupling pulse sequence
+decoupling pulse sequence
+composite pulse decoupling sequence
+decoupling in the presence of scalar interactions
+globally optimized alternating phase rectangular pulse
+malcolm levitt pulse sequence
+phase alternated rotation of magnetisation
+spin decoupling employing ultra - broadband - inversion sequences generated via siμlated annealing
+wideband alternating - phase low - power technique for zero residual splitting
+magic angle spinning decoupling pulse sequence
+burum ,  linder ,  ernst windowless pulse sequence
+decoupling using mind - boggling optimisation pulse sequence
+magic sandwich high - order truncation pulse sequence
+two pulse phase modulation pulse sequence
+waugh ,  huber ,  haeberlin pulse sequence
+mansfield ,  rhim ,  elleman ,  vaughn pulse sequence
+delays alternating with nutation for tailored excitation
+double pulsed field gradient spin echo pulse sequence
+double quantum transitions for finding unresolved lines
+flip flop spectroscopy
+heteronuclear hartmann hahn pulse sequence
+solvent suppression pulse sequence
+jump and return pulse sequence
+water elimination fourier transform
+water suppression through gradient tailored excitation
+spin echo pulse sequence
+total suppression of sidebands pulse sequence
+shaped radio frequency pulse
+chirped pulse
+wideband ,  uniform rate and smooth truncation pulse
+accordion spectroscopy
+constant time method
+multiple quantum filter
+double quantum filter
+single quantum filter
+triple quantum filter
+phase cycle
+cyclically ordered phase sequence
+exorcycle
+presaturation
+pulsed field gradient
+states acquisition
+states–time proportional phase incrementation
+time proportional phase incrementation
+variable angle spinning
+x - filter
+x half filter
+zz - filter
+chemical map
+fourier transform infrared map
+infrared map
+thermography
+fluorescence micrograph
+dynamic force microscopy
+lateral force microscopy
+non - contact mode atomic force microscopy
+supercritical - fluid extraction - supercritical - fluid chromatography - gas chromatography
+supercritical - fluid extraction - gas chromatography
+supercritical - fluid extraction - supercritical - fluid chromatography
+supercritical - fluid extraction - supercritical - fluid chromatography - liquid chromatography
+rapid expansion of supercritical solutions
+supercritical fluid method
+supercritical antisolvent technique
+particles from gas - saturated solutions
+rapid - scan infrared absorption spectroscopy
+ultra - rapid - scan infrared absorption spectroscopy
+focal - plane array
+structure data
+small - angle x - ray scattering data
+aluminium - 27 magic angle spinning nuclear magnetic resonance spectrum
+cross - polarisation magic angle spinning nuclear magnetic resonance spectrum
+phosphorus - 31 cross - polarisation magic angle spinning nuclear magnetic resonance spectrum
+carbon - 13 cross - polarisation magic angle spinning nuclear magnetic resonance spectrum
+13c cross - polarisation magic angle spinning
+time - resolved fluorescence spectroscopy
+time - resolved fluorescence anisotropy
+single - molecule fluorescence spectroscopy
+fluorescence decay curve
+fluorescence anisotropy decay curve
+cathodoluminescence detection
+shear force microscopy
+diffusing wave spectroscopy
+total internal reflection microscopy
+electronic circular dichroism spectroscopy
+electronic circular dichroism spectrum
+one - dimensional nuclear magnetic resonance spectrum
+three - dimensional nuclear magnetic resonance spectrum
+directed self - assembly
+automated thermal desorption - gas chromatography mass spectrometry
+pulse - discharge detection
+pulse - discharge photoionisation detection
+argon pulse - discharge photoionisation detection
+krypton pulse - discharge photoionisation detection
+helium pulse - discharge photoionisation detection
+gas chromatography - pulse - discharge photoionisation detection
+collision - induced dissociation
+stimulated raman gain spectroscopy
+stimulated raman loss spectroscopy
+photoacoustic raman spectroscopy
+ionisation - detected stimulated raman spectroscopy
+higher - order raman spectral excitation spectroscopy
+three - dimensional diffusion - ordered spectroscopy
+gas antisolvent technique
+solution - enhanced dispersion by supercritical fluids
+precipitation with compressed antisolvent
+aerosol solvent extraction system
+supercritical antisolvent precipitation with enhanced mass transfer
+diffusion - ordered spectroscopy - total correlation spectroscopy
+diffusion - ordered spectroscopy - correlation spectroscopy
+heteronuclear multiple quantum coherence - diffusion - ordered spectroscopy
+two - dimensional j - spectroscopy - diffusion - ordered spectroscopy
+29si solid - state nuclear magnetic resonance spectroscopy
+silicon - 29 solid - state nuclear magnetic resonance spectrum
+confocal micrograph
+flow cytometer
+field - emission scanning electron micrograph
+visible spectrum
+holographic laser trapping
+laser transient absorption spectroscopy
+ultra - fast laser spectroscopy
+time - correlated single photon counting
+enzyme - dependent fluorescence recovery after photobleaching
+111cd nuclear magnetic resonance spectroscopy
+57fe nuclear magnetic resonance spectroscopy
+17o electron nuclear double resonance spectroscopy
+57fe electron nuclear double resonance spectroscopy
+95mo electron nuclear double resonance spectroscopy
+1h electron nuclear double resonance spectroscopy
+3he nuclear magnetic resonance spectroscopy
+6li nuclear magnetic resonance spectroscopy
+9be nuclear magnetic resonance spectroscopy
+89y nuclear magnetic resonance spectroscopy
+63cu nuclear magnetic resonance spectroscopy
+39k nuclear magnetic resonance spectroscopy
+139la nuclear magnetic resonance spectroscopy
+127i nuclear magnetic resonance spectroscopy
+121sb nuclear magnetic resonance spectroscopy
+123sb nuclear magnetic resonance spectroscopy
+95mo nuclear magnetic resonance spectroscopy
+113cd nuclear magnetic resonance spectroscopy
+14n electron spin - echo envelope modulation
+two - pulse electron spin - echo envelope modulation
+three - pulse electron spin - echo envelope modulation
+non - resonance raman spectroscopy
+supercritical carbon dioxide drying
+aerosol method
+ethanol extraction
+co - assembly
+holographic optical tweezers
+adsorption - desorption isotherm
+nitrogen adsorption - desorption isotherm
+profilometer
+atomic mass spectrometry
+molecular mass spectrometry
+multi - dimensional high - performance liquid chromatography
+strong - cation - exchange reversed - phase high - performance liquid chromatography
+multi - dimensional separation method
+strong - cation - exchange reversed - phase high - performance liquid chromatography inductively coupled plasma mass spectrometry
+multi - dimensional chromatography
+obsolete: two - dimensional separation method - detection method
+two - dimensional column chromatography
+two - dimensional chromatography - mass spectrometry
+multi - dimensional electrophoresis
+tandem dual - column high - performance liquid chromatography inductively coupled plasma mass spectrometry
+two - dimensional liquid chromatography - mass spectrometry
+two - dimensional high - performance liquid chromatography - mass spectrometry
+strong - cation - exchange reversed - phase high - performance liquid chromatography atmospheric pressure chemical ionisation tandem mass spectrometry
+analytical centrifugation
+sequential centrifugation
+low - speed centrifugation
+high - speed centrifugation
+preparative centrifugation
+differential centrifugation
+ultracentrifugation
+density - gradient centrifugation
+isopycnic centrifugation
+rate - zonal centrifugation
+homogenisation
+triple quadrupole mass spectrometer
+atmospheric pressure chemical ionisation
+ion - exchange high - performance liquid chromatography
+tandem dual - column high - performance liquid chromatography atmospheric pressure chemical ionisation tandem mass spectrometry
+nuclear magnetic resonance titration
+polarised neutron reflectometry
+magnetic contrast neutron reflectometry
+129xe mossbauer spectroscopy
+127i mossbauer spectroscopy
+57fe mossbauer spectroscopy
+119sn mossbauer spectroscopy
+121sb mossbauer spectroscopy
+125te mossbauer spectroscopy
+151eu mossbauer spectroscopy
+129i mossbauer spectroscopy
+197au mossbauer spectroscopy
+obsolete: two - dimensional separation method - measurement method
+optical density measurement
+ultrasonic velocimetry
+microwave velocimetry
+optical velocimetry
+laser doppler velocimetry
+ultrasonic speckle velocimetry
+time - resolved ultrasonic speckle velocimetry
+nuclear magnetic resonance velocimetry
+spin tagging velocimetry
+phase - contrast velocimetry
+flow - compensated phase - contrast velocimetry
+laser - induced thermal - acoustic velocimetry
+multiple - modulation multiple - echo velocimetry
+pulsed - field gradient velocimetry
+laser - induced thermal - acoustic velocimetry with heterodyne detection
+high - temperature ultrasonic velocimetry
+four - dimensional nuclear magnetic resonance spectroscopy
+two - dimensional heteronuclear single quantum coherence - nuclear overhauser effect spectroscopy
+two - dimensional heteronuclear single quantum coherence - total correlation spectroscopy
+photon cross correlation spectroscopy
+colloid method
+emulsion method
+pickering emulsion method
+trituration
+variable - angle polarised absorption spectroscopy
+ratio variable - angle polarised absorption spectroscopy
+te buffer
+near - edge x - ray absorption fine structure spectrum
+isothermal titration calorimetry curve
+ultraviolet - visible - near infrared spectrometer
+thermogravimetry curve
+79br nuclear magnetic resonance spectroscopy
+29si cross - polarisation magic angle spinning
+isothermal calorimetry
+isobaric calorimetry
+scanning calorimetry
+adiabatic scanning calorimetry
+temperature - controlled scanning calorimetry
+pressure - controlled scanning calorimetry
+dynamic scanning calorimetry
+dynamic differential scanning calorimetry
+modulated differential scanning calorimetry
+temperature - modulated differential scanning calorimetry
+laser - assisted particle removal
+thermophoresis
+laser - induced thermophoresis
+laser - induced simultaneous thermophoresis
+volume perturbation calorimetry
+pressure perturbation calorimetry
+volumetry
+fluorescence - activated droplet sorting
+neutral buoyancy densiometry
+densiometry
+vibrating - tube densiometry
+electron transfer detection
+electron transfer dissociation tandem mass spectrometry
+holography
+four - wave mixing spectroscopy
+femtosecond two - colour four - wave mixing spectroscopy
+degenerate four - wave mixing spectroscopy
+two - colour four - wave mixing spectroscopy
+terahertz four - wave mixing spectroscopy
+x - ray diffractometer
+physical blending
+enzyme oximetry
+oximetry
+pulse oximetry
+electron spin resonance oximetry
+laser oximetry
+dynamic nuclear polarisation oximetry
+near - infrared magnetic circular dichroism spectroscopy
+kugelrohr distillation
+oximetry spectrum
+frequency - modulation atomic force microscopy
+liquid atomic force microscopy
+granulometry
+monochromator
+thermogravimetric analyser
+sputter coater
+zeta - potential measurement
+blow drying
+high - resolution transmission electron micrograph
+amplifier
+patch - clamp amplifier
+73ge nuclear magnetic resonance spectroscopy
+quadrupole carr - purcell - meiboom - gill using magic - angle spinning
+73ge quadrupole carr - purcell - meiboom - gill using magic - angle spinning
+73ge magic angle spinning nuclear magnetic resonance spectroscopy
+germanium - 73 nuclear magnetic resonance spectrum
+67zn nuclear magnetic resonance spectroscopy
+25mg nuclear magnetic resonance spectroscopy
+chiral stationary phase gas chromatography
+chiral stationary phase high - performance liquid chromatography
+quadrupole carr - purcell - meiboom - gill experiment
+solid - state quadrupolar carr - purcell - meiboom - gill spectrum
+magic - angle spinning quadrupolar carr - purcell - meiboom - gill spectrum
+germanium - 73 magic - angle spinning quadrupolar carr - purcell - meiboom - gill spectrum
+high - pressure fluorescence correlation spectroscopy
+continuous - scan cyclic voltammetry
+conductometric titration
+high - frequency conductometric titration
+argentometric titration
+patterning
+electrokinetic patterning
+optically induced electrokinetic patterning
+rapid electrokinetic patterning
+microemulsion method
+passivation
+anodisation
+electrochemical passivation
+metallisation
+aluminium metallisation
+silanisation
+deionisation method
+czochralski process
+verneuil process
+bridgeman technique
+dna metallisation
+titration curve
+drop coating
+metal - ion deposition
+drop coating deposition raman spectroscopy
+autoclave
+polyol method
+microwave - polyol method
+ultrasound - assisted polyol method
+atomic force micrograph
+phase atomic force micrograph
+height atomic force micrograph
+amplitude atomic force micrograph
+mass detection
+localised surface plasmon resonance spectroscopy
+localised surface plasmon resonance spectrum
+dark - field microscopy
+dark - field optical micrograph
+dark - field optical microscopy and spectroscopy
+inverted microscope
+charge - coupled - device camera
+electron - multiplying charge - coupled device
+electron - multiplying charge - coupled - device camera
+optical extinction spectroscopy
+optical extinction spectrum
+polarisation spectroscopy
+generalised polarisation spectroscopy
+laurdan generalised polarisation spectroscopy
+microspectrofluorometry
+small - angle powder x - ray diffraction data
+nanosphere lithography
+thermoelectrically cooled angle coating
+convective self - assembly
+epifluorescence microscopy
+negative - stained transmission electron micrograph
+activation
+plasma activation
+recrystallisation
+rotary evaporator
+differential scanning calorimeter
+matrix assisted laser desorption - ionisation mass spectrum
+matrix assisted laser desorption - ionisation mass spectrometer
+matrix assisted laser desorption - ionisation plate
+solvent casting
+solvent casting and particulate leaching
+polymer precipitation
+polymer co - precipitation
+solvent evaporation
+wide - angle x - ray diffraction
+platinum sputter deposition
+wide - angle powder x - ray diffraction
+single - particle energy - dispersive x - ray emission spectroscopy
+polymer synthesis method
+phase inversion technique
+dry - wet phase inversion technique
+thermally induced phase separation
+sample sublimation
+fractional sublimation
+vacuum sublimation
+high - vacuum sublimation
+lely method
+seeded sublimation
+sandwich sublimation
+crystal growth method
+acheson method
+energy - dispersive x - ray chemical map
+energy - dispersive x - ray spectrum
+cone calorimetry
+cone calorimeter
+ultrasonic dispersion
+purification
+spectrophotometer
+site - selection spectroscopy
+hole - burning spectroscopy
+abberration - corrected high - angular annular dark - field scanning transmission electron microscopy
+dark - field microscope
+transmission electron microscope with an energy dispersive x - ray analyser
+transmission electron microscopy energy - dispersive x - ray spectroscopy
+carbon nanotube synthesis method
+arc - discharge method
+hydrogen arc - discharge method
+heat - release - rate curve
+electric - field - induced second harmonic generation spectroscopy
+detector
+charge - coupled - device detector
+deuterated triglycine sulfate detector
+deuterated lanthanum triglycine sulfate detector
+mercury cadmium tellurium detector
+porosimetry
+ellipsometric porosimetry
+solvent vapour annealing
+spectrofluorimeter
+electron spin resonance spectrometer
+immobilised ph gradient - based isoelectric focusing
+immobilized metal affinity chromatography
+metal oxide affinity chromatography
+hydroxy acid - modified metal oxide chromatography
+strong - anion - exchange chromatography
+weak - anion - exchange chromatography
+strong - cation - exchange chromatography
+weak - cation - exchange chromatography
+hydrophilic interaction chromatography
+cation - exchange column
+ion - exchange column
+anion - exchange column
+strong cation - exchange column
+weak cation - exchange column
+strong anion - exchange column
+weak anion - exchange column
+electrostatic repulsion hydrophilic interaction chromatography
+laser ablation synthesis in solution
+two - dimensional small - angle x - ray scattering
+two - dimensional small - angle x - ray scattering data
+size - exclusion chromatography - inductively coupled plasma atomic emission spectroscopy
+native polyacrylamide gel electrophoresis
+blue native polyacrylamide gel electrophoresis
+clear native polyacrylamide gel electrophoresis
+quantitative preparative native continuous polyacrylamide gel electrophoresis
+native–native two - dimensional polyacrylamide gel electrophoresis
+ion - pair chromatography
+ion - pair chromatography - inductively coupled plasma mass spectrometry
+scanning transmission electron micrograph
+electron - beam sputter deposition
+raster image correlation spectroscopy
+scanning near - field ellipsometric microscopy
+polarised fourier transform infrared spectroscopy
+pyrolysis fourier transform infrared spectroscopy
+time - resolved polarised fourier transform infrared spectroscopy
+fast fourier transform infrared spectroscopy
+infrared transmission spectroscopy
+dispersive infrared spectroscopy
+near - infrared surface plasmon resonance spectroscopy
+magnetophoresis
+split flow thin fractionation
+electron - induced photoelectron spectroscopy
+electron - induced x - ray emission spectroscopy
+proton - induced x - ray emission spectroscopy
+phosphorescence detection
+thermoluminescence detection
+13c–13c correlation spectroscopy
+reversed - phase chromatography
+gradient - elution chromatography
+isocratic - elution chromatography
+step - wise elution chromatography
+magnetic circular dichroism spectrum
+tris–tricine buffer
+spectropolarimeter
+quadrupole time - of - flight mass spectrometer
+tandem time - of - flight mass spectrometer
+x - ray fluorescence microscopy
+x - ray microscopy
+transmission x - ray microscopy
+scanning transmission x - ray microscopy
+pulsed - field electrophoresis
+pulsed - field gel electrophoresis
+liquid–liquid chromatography
+liquid–solid chromatography
+vapour - phase growth
+chemical vapor deposition synthesis of carbon nanotubes
+high - pressure carbon monoxide method
+laser vaporisation method
+high - resolution transmission electron microscope
+density - gradient ultracentrifugation
+alternating - current dielectrophoresis
+direct - current dielectrophoresis
+gas - phase plasma hydrocarbonation
+high - resolution electron micrograph
+high - resolution electron microscopy
+thermal chemical vapour deposition
+inelastic tunnelling spectrum
+19f solid - state nuclear magnetic resonance spectroscopy
+blue native two - dimensional polyacrylamide gel electrophoresis
+matrix - assisted laser desorption–ionisation
+laser desorption ionisation
+surface - enhanced laser desorption–ionisation
+electrospray ionisation quadrupole detection
+electrospray ionisation time - of - flight quadrupole detection
+matrix - assisted laser desorption–ionisation tandem time - of - flight detection
+lock - in amplifier
+high - resolution magic angle spinning nuclear magnetic resonance spectrum
+high - resolution electrospray ionisation mass spectrum
+relaxometry
+electrode
+reference electrode
+indicator electrode
+gas electrode
+hydrogen gas electrode
+boundary between portions of material
+liquid junction
+electrochemical cell
+operational ph cell
+ph glass electrode
+ph measurement
+ph sensor
+silver / silver chloride reference electrode
+saturated calomel electrode
+auxiliary electrode
+gradient - selected correlation spectroscopy
+gradient - selected heteronuclear multiple quantum coherence
+nanoelectrospray ionisation mass spectrum
+zimm plot
+scattering data
+hollow fibre liquid - phase micro - extraction
+continuous flow hollow fibre liquid - phase micro - extraction
+continuous - flow liquid - phase micro - extraction
+liquid - liquid - liquid micro - extraction
+static liquid - phase micro - extraction
+dynamic liquid - phase micro - extraction
+headspace liquid - phase micro - extraction
+potentiometric titration
+electronic tongue
+surface - enhanced non - resonance raman spectroscopy
+109ag nuclear magnetic resonance spectroscopy
+109ag cross - polarisation magic angle spinning
+1h–109ag heteronuclear multiple quantum coherence
+1h–113cd heteronuclear multiple quantum coherence
+113cd–113cd correlation spectroscopy
+1h–113cd heteronuclear correlation spectroscopy
+1h–13c heteronuclear correlation spectroscopy
+1h–31p heteronuclear correlation spectroscopy
+double - quantum - filtered correlation spectroscopy
+113cd–113cd double - quantum - filtered correlation spectroscopy
+dielectrometric titration
+mid - infrared microscopy
+dielectrometry
+chromatogram
+ion chromatogram
+total ion chromatogram
+base peak intensity chromatogram
+selected ion chromatogram
+electron ionisation mass spectrum
+ion - selective electrode
+dropping mercury electrode
+hanging mercury drop electrode
+electrostatic detection apparatus
+solution - state nuclear magnetic resonance spectroscopy
+1h–15n heteronuclear multiple quantum coherence
+1h–13c heteronuclear multiple quantum coherence
+15n–15n correlation spectroscopy
+normal - phase chromatography
+elution chromatography
+partition chromatography
+deuterium - decoupled nuclear magnetic resonance spectroscopy
+competition dialysis
+fluorescence quenching method
+citrate–phosphate buffer
+spectrophotometric titration
+absorption titration
+ultraviolet titration
+absorbance titration curve
+ultraviolet melting
+cryogenic electron microscopy
+scattering spectroscopy
+luminescence spectroscopy
+phosphorescence spectroscopy
+radio frequency spectroscopy
+block copolymer micelle nanolithography
+one - dimensional proton nuclear magnetic resonance spectrum
+two - dimensional 1h–1h nuclear magnetic resonance spectrum
+three - dimensional 1h–1h nuclear magnetic resonance spectrum
+nuclear overhauser enhancement spectrum
+melting curve
+ultraviolet melting curve
+sol–gel template synthesis
+galvanostat
+potentiostat
+quasi - reference electrode
+pseudo - reference electrode
+uv - assisted capillary force lithography
+two - step uv - assisted capillary force lithography
+oxygen plasma etching
+interferometry
+heterodyne detection
+homodyne detection
+optical heterodyne detection
+reflection interference contrast microscopy
+hank's balanced salt solution
+earle's balanced salt solution
+tungsten - 183 nuclear magnetic resonance spectrum
+one - dimensional 1h nuclear magnetic resonance spectroscopy
+two - dimensional 1h nuclear magnetic resonance spectroscopy
+microwave oven
+pump - probe spectroscopy
+femtosecond pump–probe spectroscopy
+pump–repump–probe spectroscopy
+pump–dump–probe spectroscopy
+1h correlation spectroscopy spectrum
+correlation spectroscopy spectrum
+liquid chromatography at the critical condition
+liquid chromatography at the critical condition - mass spectrometry
+liquid chromatography at the critical condition - electrospray ionisation mass spectrometry
+cold - field - emission scanning electron microscope
+195pt nuclear magnetic resonance spectroscopy
+null ellipsometry
+kelvin probe force microscopy
+kelvin probe method
+kelvin force spectroscopy
+kelvin probe force micrograph
+two - dimensional capillary electrophoresis
+liquid chromatography - capillary electrophoresis
+positive electrospray ionisation
+negative electrospray ionisation
+solvent precipitation
+protein precipitation
+analyte
+column eluent
+bright - field transmission electron microscopy
+dark - field transmission electron microscopy
+dark - field scanning transmission electron microscopy
+knudsen cell
+magnetic tweezers
+magnetic trapping
+wire electrical explosion method
+chromatograph
+gas chromatograph
+13c rotational - echo double - resonance spectroscopy
+15n rotational - echo double - resonance spectroscopy
+31p rotational - echo double - resonance spectroscopy
+19f rotational - echo double - resonance spectroscopy
+6li–1h heteronuclear overhauser enhancement spectroscopy
+19f–1h heteronuclear overhauser enhancement spectroscopy
+2h pulsed field - gradient spin echo nuclear magnetic resonance spectroscopy
+19f pulsed field - gradient spin echo nuclear magnetic resonance spectroscopy
+1h pulsed field - gradient spin echo nuclear magnetic resonance spectroscopy
+7li pulsed field - gradient spin echo nuclear magnetic resonance spectroscopy
+13c pulsed field - gradient spin echo nuclear magnetic resonance spectroscopy
+29si rotational - echo double - resonance spectroscopy
+19f–29si rotational - echo double - resonance spectroscopy
+89y cross - polarisation magic angle spinning
+63cu pulsed electron spin resonance spectroscopy
+65cu pulsed electron spin resonance spectroscopy
+fluorescence titration
+fluorescence titration curve
+ultraviolet curing
+spin - trap electron paramagnetic resonance spectroscopy
+electrophoresis anode buffer
+electrophoresis cathode buffer
+running buffer
+tauc plot
+diode array detector
+bioelectrochemical analysis
+silicon - 29 cross - polarisation magic angle spinning nuclear magnetic resonance spectrum
+interrogating electrode
+isopycnic gradient ultracentrifugation
+flash photolysis
+laser flash photolysis
+nanosecond laser flash photolysis
+picosecond laser flash photolysis
+femtosecond laser flash photolysis
+diffuse reflectance laser flash photolysis
+laser raman spectroscopy
+near - edge x - ray absorption fine structure microscopy
+resonant soft x - ray reflectometry
+scanning x - ray microscopy
+two - photon laser scanning microscopy
+single - photon laser scanning microscopy
+atomic absorption spectrometer
+excitation–emission matrix fluorescence spectroscopy
+vapour - phase extraction
+dual - phase extraction
+excitation–emission fluorescence spectrum
+transmitted polarising light microscopy
+polarising microscope
+transmitting polarising microscope
+bright - field microscope
+spray coating
+constant - rate dip coating
+everhart–thornley detector
+gel filtration chromatogram
+second harmonic generation circular dichroism spectroscopy
+karl–fischer titration
+volumetric titration
+coulometric titration
+parallel icp - ms and ei - ms detection after gc separation
+low - temperature gas chromatography - inductively coupled plasma mass spectrometry
+programmed temperature vaporisation
+high - resolution electrospray ionisation time - of - flight mass spectrometry
+gas chromatography electron ionisation mass spectrometry
+incredible natural abundance double quantum transfer experiment
+13c incredible natural abundance double quantum transfer experiment
+statistical total correlation spectroscopy
+carr - purcell - meiboom - gill spectrum
+j - spectrum
+polymer preparation method
+miniemulsion polymerisation
+emulsion polymerisation
+microemulsion polymerisation
+pulsed laser polymerisation
+scanning photocurrent microscopy
+reverse micelle polymerisation
+triple - resonance spectroscopy
+hnco
+hnca
+hncoca
+three - dimensional nuclear overhauser spectroscopy - heteronuclear single quantum coherence
+hcc ( co ) nnh
+heteronuclear single quantum coherence - nuclear overhauser spectroscopy
+nuclear overhauser effect difference spectroscopy
+hn ( co ) caha
+hcannh
+hncaha
+four - dimensional hcch - total correlation spectroscopy
+gradient 13c–13c 1h–1h nuclear overhauser spectroscopy
+13c–13c edited 1h–1h nuclear overhauser enhancement spectroscopy
+13c–15n edited 1h–1h nuclear overhauser enhancement spectroscopy
+sievert's apparatus
+gel filtration chromatograph
+schlenk tube
+size - exclusion chromatogram
+polarising light micrograph
+sodium acetate buffer
+emission titration
+circular dichroism titration
+electrospray ionisation source
+autosampler
+colorimetric test
+fmoc test
+flash chromatography
+nitrogen sorption - desorption measurements
+ultraviolet detector
+refractive index detector
+melt extrusion
+colloidal crystal templating
+saturated mercury sulfate electrode
+cryogenic scanning electron microscopy
+visible spectrophotometry
+scanning mobility particle sizer
+carbon electrode
+graphite electrode
+bulb - to - bulb distillation
+cacodylate buffer
+sodium cacodylate buffer
+negative - staining transmission electron microscopy
+glow discharge synthesis
+double - cathode glow discharge synthesis
+amplitude - modulation atomic force microscopy
+confocal laser scanning micrograph
+photocurrent spectroscopy
+intensity - modulated photocurrent spectroscopy
+photovoltage spectroscopy
+intensity - modulated photovoltage spectroscopy
+suspension polymerisation
+micromanipulator
+piezo - driven micromanipulator
+graphitisation
+transmission electron microscope grid
+field - emission transmission electron microscopy
+fluorescence - detected circular dichrosim spectrum
+aberration - corrected transmission electron microscopy
+weak - beam dark - field electron microscopy
+weak - beam dark - field transmission electron microscopy
+weak - beam dark - field transmission electron micrograph
+x - ray photon correlation spectroscopy
+aberration - corrected transmission electron micrograph
+high - angular annular dark - field scanning transmission electron micrograph
+high - resolution scanning electron micrograph
+diffuse reflectance spectrum
+x - band electron spin resonance spectroscopy
+x - band electron spin resonance spectrum
+particle - beam / hollow - cathode atomic emission spectroscopy
+hollow - cathode atomic emission spectroscopy
+infrared–visible sum - frequency generation spectroscopy
+sum - frequency generation spectrum
+brust method
+anomalous wide - angle x - ray scattering
+rotating - disk voltammetry
+rotating - disk electrode
+hydrodynamic voltammogram
+azeotropic distillation
+magnetometer
+superconducting quantum interference device
+surface - initiated polymerisation
+electrostatic force microscopy
+micro - raman spectrum
+thermal desorption - gas chromatography mass spectrometry
+electrostatic force microscopy image
+dilatometry
+ragone plot
+dispersion polymerisation
+distillation precipitation copolymerisation
+walden plot
+x - ray spectrometer
+x - ray photoelectron spectrometer
+scanning transmission electron microscope
+positive ion matrix - assisted laser desorption–ionisation time - of - flight mass spectrometry
+thermogravimetry - differential thermal analysis
+chemical vapour transport
+surface - assisted chemical vapour transport
+bright - field transmission electron micrograph
+dark - field transmission electron micrograph
+environmental scanning electron microscope
+ion trap mass spectrometer
+linear quadrupole ion trap fourier transform ion cyclotron resonance mass spectrometer
+linear quadrupole mass spectrometer
+chemical force microscopy
+atomic force infrared microscopy
+scattering near - field optical microscopy
+infrared scattering near - field optical microscopy
+backscattering near - field optical microscopy
+photothermal infrared microscopy
+standard atomic force infrared microscopy
+surface atomic force infrared microscopy
+atomic force microscopy infrared image
+contact mode atomic force microscopy
+scanning spreading resistance microscopy
+inverse gas chromatography
+desorption measurements
+thermal desorption spectroscopy
+thermal desorption spectrum
+electronic sum - frequency generation spectroscopy
+alternating current force spectroscopy
+coulometer
+karl - fischer coulometric titration
+karl–fischer coulometer
+electrochemical coulometer
+karl–fischer volumetric titration
+ellipsometer
+spectroscopic ellipsometer
+dynamic force micrograph
+atomic force microscopy height profile
+photodetachment photoelectron spectroscopy
+attenuated total reflectance fourier transform infrared spectrum
+gas chromatogram
+nyquist plot
+synchrotron circular dichroism spectroscopy
+synchrotron circular dichroism spectrum
+two - photon emission spectrum
+two - photon excited fluorescence spectrum
+fluorescence image
+two - photon fluorescence image
+photoelectron spectroscopy of adsorbed xenon
+chiral supercritical - fluid chromatography
+chiral chromatography
+1h–13c heteronuclear multiple bond coherence spectrum
+1h–15n heteronuclear multiple bond coherence spectrum
+fourier transform far - infrared spectroscopy
+fourier transform far - infrared spectrum
+fluorescence speckle microscopy
+force spectroscopy mapping
+bonnemann method
+liquid - phase nuclear magnetic resonance spectroscopy
+gas - phase nuclear magnetic resonance spectroscopy
+liquid chromatography nuclear magnetic resonance spectroscopy
+liquid chromatography - nuclear magnetic resonance - mass spectrometry
+two - dimensional infrared spectroscopy
+13c–15n rotational - echo double - resonance spectroscopy
+scanning vibrating electrode technique
+magnetic resonance force microscopy
+steady - state fluorescence spectroscopy
+31p–13c rotational - echo double - resonance spectroscopy
+31p–15n rotational - echo double - resonance spectroscopy
+31p–19f rotational - echo double - resonance spectroscopy
+size - exclusion chromatography - flame atomic absorption spectrometry
+quadrupole time - of - flight mass spectrometry
+microwave induced plasma atomic emission detection
+gas chromatography - microwave - induced plasma atomic emission detection
+chemiluminescence spectroscopy
+thermoluminescence spectroscopy
+isomorphous replacement
+single isomorphous replacement
+multiple isomorphous replacement
+multiple isomorphous replacement with anomalous scattering
+single isomorphous replacement with anomalous scattering
+paper spray mass spectrometry
+chemical cytometry
+oxidation–reduction titration
+electron paramagnetic resonance monitored oxidation–reduction titration
+paramagnetic signals enhancement
+nuclear overhauser enhancement spectroscopy - correlation spectroscopy
+correlation spectroscopy - nuclear overhauser enhancement spectroscopy
+total correlation spectroscopy - nuclear overhauser enhancement spectroscopy
+nuclear overhauser enhancement spectroscopy - total correlation spectroscopy
+nuclear overhauser enhancement spectroscopy with paramagnetic signals enhancement
+quantitative determination method
+analyte role
+eluent function
+elution
+matrix
+matrix role
+experimental sample function
+experimental sample
+determination of copper
+retention index
+ion source temperature setting
+carrier gas flow rate
+chromatography column length
+chromatography column inner diameter
+chromatography temperature program
+two - dimensional high performance liquid chromatography
+cell membrane chromatography
+methoxyamination derivatisation
+trimethylsilyl derivatisation
+water:chloroform 2:1 extraction
+water:methanol:chloroform 1:3:1 extraction
+equipment specification datum
+negative mode atmospheric pressure chemical ionization mass spectrometry
+positive mode atmospheric pressure chemical ionization mass spectrometry
+apci +  ms spectrum
+apci -  ms spectrum
+heteronuclear correlation spectrum
+c18 column
+gas chromatograph - mass spectrometer transfer line
+gas chromatograph - mass spectrometer transfer line temperature setting
+sample heating
+concentrating
+degassing
+dissolving
+stirring
+magnetic stirring
+kugelrohr condenser
+copper k - alpha source
+molybdenum k - alpha source
+cobalt k - alpha source
+aluminium k - alpha source
+silica gel
+laboratory atmosphere
+argon atmosphere
+nitrogen atmosphere
+filter cake
+syringe pump
+hydrogen atmosphere
+hydrogenator
+fragmentor voltage
+skimmer voltage
+capillary voltage
+sensor
+chemosensor
+biosensor
+dosimetry
+dosimeter
+chemodosimetry
+chemodosimeter
+muffle furnace
+limit of detection
+limit of quantification
+figure of merit
+blank value
+working range
+microextraction
+linear range
+gas chromatography oven
+piece of heating apparatus
+flame ionisation detector
+magnesium k - alpha source
+glass - like carbon electrode
+in situ diffuse reflectance infrared fourier transform spectroscopy
+measurement of concentration
+solubility
+measurement of solubility in water
+optical activity
+angle of optical rotation
+temperature - programmed absorption
+concentration
+mass concentration
+amount concentration
+volume concentration
+number concentration
+solubility in water
+weighing
+experimental planning process
+storage in dimethyl sulfoxide
+experimental plan revision
+material acquisition
+material disposal
+experimental plan creation
+polymerisation propagation rate coefficient determination
+stöber process
+nanoparticle synthesis
+nanostructure synthesis
+planned process setup
+planned process startup
+planned process adjustment
+stopped process adjustment
+ongoing process adjustment
+hazard reduction
+waste management
+autoclaving
+limit of linearity
+dynamic range
+repeatability standard deviation
+reproducibility standard deviation
+spiked sample
+spiking
+fraction extracted
+sample throughput
+percentage yield
+enantiomer excess
+percentage enantiomer excess
+diastereomeric ratio
+enantiomeric ratio
+diastereomeric excess
+percentage diastereomeric excess
+certified reference material
+minicolumn
+anisotropic nucleus - nucleus interaction line broadening minimization objective
+slotted disc
+two - dimensional gas chromatography
+imμnoaffinity microextraction
+imμnoaffinity chromatography
+excitation laser function
+probe laser function
+excitation laser
+probe laser
+magnetron
+polarimeter
+polarimetry of sample dissolved in chloroform
+polarimetry of sample dissolved in dimethyl sulfoxide
+angle of optical rotation in chloroform
+angle of optical rotation in dimethyl sulfoxide
+faraday efficiency
+cycling stability
+ctab - assisted hydrothermal synthesis
+microwave - assisted hydrothermal synthesis
+temperature - programmed oxidation
+temperature - programmed reduction
+temperature - programmed oxidation profile
+temperature - programmed reduction profile
+magic angle spinning
+figure - of - merit determination
+reference material
+absorption of material
+absorption of radiation
+sample solidification
+sample quenching
+protective equipment
+emergency response equipment
+adverse laboratory event
+laboratory uncontrolled explosion
+personal protective equipment
+nitrile gloves
+penetration of personal protective equipment
+laboratory safety function
+blast screen
+inhalation of poisonous fumes
+evolution of poisonous fumes
+fume hood
+injury by flying debris
+electrospray ionization
+sensitivity
+specificity
+assay
+material processing
+imaging assay
+analyte assay
+elisa
+purification objective
+material maintenance
+device
+light emission device
+pump function
+microwave synthesis system
+x - ray source
+principal components analysis dimensionality reduction
+centrifugation
+washing
+storage
+electroporation
+laser
+light source
+achieves_planned_objective
+material component separation

@@ -1,0 +1,1073 @@
+mitotic sister chromatid segregation
+g1 phase of mitotic cell cycle
+s phase of mitotic cell cycle
+g2 phase of mitotic cell cycle
+g2 / m transition of mitotic cell cycle
+m phase of mitotic cell cycle
+mitotic prophase
+mitotic metaphase
+microtubule cytoskeleton organization
+mitotic prometaphase
+mitotic cell cycle
+m phase
+nuclear division
+dna catabolic process ,  endonucleolytic
+sister chromatid segregation
+cell morphogenesis
+cell morphogenesis involved in differentiation
+cytokinesis
+regulatory region dna binding
+transcription regulatory region sequence - specific dna binding
+regulatory region nucleic acid binding
+nucleic acid binding transcription factor activity
+stress fiber
+podosome
+molecular_function
+nucleic acid binding
+dna binding
+sequence - specific dna binding transcription factor activity
+telomerase activity
+catalytic activity
+rna - directed dna polymerase activity
+binding
+cellular_component
+intracellular
+cell
+nucleus
+nucleoplasm
+chromosome
+nucleolus
+cytoplasm
+mitochondrion
+endoplasmic reticulum
+golgi apparatus
+cytosol
+cytoskeleton
+microtubule
+actin filament
+adherens junction
+cell - substrate adherens junction
+focal adhesion
+cilium
+cell cortex
+nucleobase - containing compound metabolic process
+dna metabolic process
+dna amplification
+dna catabolic process
+apoptotic dna fragmentation
+dna packaging
+transcription ,  dna - dependent
+regulation of transcription ,  dna - dependent
+protein targeting
+protein import into nucleus
+cellular aromatic compound metabolic process
+nitrogen compound metabolic process
+transport
+intracellular protein transport
+nucleocytoplasmic transport
+apoptotic process
+cellular component disassembly involved in execution phase of apoptosis
+cellular component movement
+substrate - dependent cell migration
+substrate - dependent cell migration ,  cell extension
+cellular membrane fusion
+organelle organization
+cytoskeleton organization
+microtubule - based process
+endoplasmic reticulum organization
+cell cycle
+chromosome segregation
+mitosis
+mitotic chromosome condensation
+mitotic metaphase plate congression
+mitotic chromosome decondensation
+centrosome cycle
+centriole replication
+cell communication
+cell adhesion
+cell - matrix adhesion
+establishment or maintenance of cell polarity
+signal transduction
+intracellular protein kinase cascade
+i - kappab kinase / nf - kappab cascade
+cytoplasmic sequestering of nf - kappab
+protein localization
+biological_process
+metabolic process
+cell death
+release of cytoplasmic sequestered nf - kappab
+catabolic process
+macromolecule catabolic process
+biosynthetic process
+macromolecule biosynthetic process
+protein secretion
+anatomical structure morphogenesis
+unidimensional cell growth
+regulation of biosynthetic process
+regulation of signal transduction
+negative regulation of signal transduction
+cellular process
+exit from mitosis
+gene expression
+regulation of gene expression
+regulation of macromolecule biosynthetic process
+regulation of intracellular protein kinase cascade
+regulation of cell communication
+negative regulation of cell communication
+negative regulation of intracellular protein kinase cascade
+programmed cell death
+protein transport
+actin cytoskeleton
+microtubule cytoskeleton
+cytoplasmic membrane - bounded vesicle
+cellular component organization
+cellular membrane organization
+cell growth
+rna metabolic process
+death
+cell migration
+cytoplasmic transport
+nuclear body
+transferase activity
+transferase activity ,  transferring phosphorus - containing groups
+nucleotidyltransferase activity
+protein import
+heterocycle biosynthetic process
+regulation of nucleobase - containing compound metabolic process
+regulation of metabolic process
+aromatic compound biosynthetic process
+aromatic compound catabolic process
+cell cycle process
+cell cycle phase
+cellular component disassembly
+cellular component assembly
+biological adhesion
+regulation of signaling
+signaling
+negative regulation of signaling
+lamellipodium
+actin filament - based process
+cell projection organization
+cell projection assembly
+actin filament - based movement
+cell junction
+cell - substrate junction
+endocytic vesicle
+cell differentiation
+filopodium
+chromosome condensation
+apoptotic nuclear changes
+axon
+dendrite
+cortical cytoskeleton
+cortical actin cytoskeleton
+microtubule organizing center organization
+micronucleus
+cell leading edge
+regulation of cellular metabolic process
+regulation of cellular biosynthetic process
+cytoplasmic vesicle
+motile cilium
+cell - substrate adhesion
+membrane - enclosed lumen
+nuclear lumen
+vesicle
+membrane - bounded vesicle
+negative regulation of nf - kappab transcription factor activity
+regulation of intracellular transport
+negative regulation of intracellular transport
+positive regulation of intracellular transport
+actin filament bundle
+developmental process
+maintenance of protein location in cell
+rna biosynthetic process
+regulation of localization
+regulation of protein localization
+secretion by cell
+cellular component morphogenesis
+macromolecular complex
+macromolecule localization
+regulation of intracellular protein transport
+protein localization to organelle
+dna polymerase activity
+substrate adhesion - dependent cell spreading
+protein localization to nucleus
+cellular protein localization
+cellular nitrogen compound metabolic process
+cellular macromolecule biosynthetic process
+nucleobase - containing compound biosynthetic process
+nucleobase - containing compound catabolic process
+intracellular signal transduction
+site of double - strand break
+growth
+locomotion
+regulation of protein import into nucleus
+positive regulation of protein import into nucleus
+negative regulation of protein import into nucleus
+regulation of nf - kappab import into nucleus
+positive regulation of nf - kappab import into nucleus
+negative regulation of nf - kappab import into nucleus
+nf - kappab import into nucleus
+actomyosin
+monopolar cell growth
+regulation of transcription factor import into nucleus
+transcription factor import into nucleus
+negative regulation of transcription factor import into nucleus
+positive regulation of transcription factor import into nucleus
+cytoplasmic sequestering of transcription factor
+cell projection
+neuron projection
+regulation of i - kappab kinase / nf - kappab cascade
+negative regulation of i - kappab kinase / nf - kappab cascade
+macromolecule metabolic process
+organelle
+membrane - bounded organelle
+non - membrane - bounded organelle
+intracellular organelle
+intracellular membrane - bounded organelle
+intracellular non - membrane - bounded organelle
+organelle lumen
+protein complex
+negative regulation of sequence - specific dna binding transcription factor activity
+sequence - specific dna binding
+cellular component biogenesis
+negative regulation of molecular function
+positive regulation of molecular function
+transcription regulatory region dna binding
+cellular metabolic process
+primary metabolic process
+cellular catabolic process
+cellular biosynthetic process
+cellular macromolecule metabolic process
+cellular macromolecule catabolic process
+cellular nitrogen compound catabolic process
+cellular nitrogen compound biosynthetic process
+dendritic branch
+organelle part
+intracellular part
+chromosomal part
+nuclear part
+mitochondrial part
+cytoskeletal part
+golgi apparatus part
+endoplasmic reticulum part
+cilium part
+cytoplasmic part
+intracellular organelle part
+cell cortex part
+nucleoplasm part
+cell projection part
+cell part
+single - organism process
+single organism signaling
+protein targeting to nucleus
+single - organism cellular process
+single - organism transport
+single - organism developmental process
+cell cycle phase transition
+mitotic cell cycle phase transition
+g0 to g1 transition
+plasma membrane fusion
+establishment of protein localization
+maintenance of protein location
+phagocytic vesicle
+heterocycle metabolic process
+heterocycle catabolic process
+regulation of nucleocytoplasmic transport
+negative regulation of nucleocytoplasmic transport
+positive regulation of nucleocytoplasmic transport
+secretion
+intracellular transport
+organelle fission
+cell development
+positive regulation of biological process
+negative regulation of biological process
+negative regulation of cellular process
+regulation of response to stimulus
+negative regulation of response to stimulus
+developmental growth
+anatomical structure development
+cellular developmental process
+cell motility
+chromosome localization
+regulation of biological process
+regulation of cellular process
+response to stimulus
+regulation of transport
+positive regulation of transport
+negative regulation of transport
+regulation of sequence - specific dna binding transcription factor activity
+positive regulation of sequence - specific dna binding transcription factor activity
+positive regulation of nf - kappab transcription factor activity
+nuclear transport
+nuclear import
+regulation of nitrogen compound metabolic process
+localization
+cytoplasmic sequestering of protein
+positive regulation of protein transport
+regulation of protein transport
+negative regulation of protein transport
+establishment of localization
+maintenance of location
+regulation of rna metabolic process
+chromosome organization
+centrosome organization
+centrosome duplication
+cell division
+establishment of chromosome localization
+metaphase plate congression
+chromosome decondensation
+g1 phase
+g2 phase
+s phase
+metaphase
+prophase
+interphase
+interphase of mitotic cell cycle
+organelle localization
+cellular localization
+establishment of localization in cell
+maintenance of location in cell
+establishment of organelle localization
+localization of cell
+cellular response to stimulus
+regulation of macromolecule metabolic process
+regulation of cellular localization
+developmental growth involved in morphogenesis
+membrane organization
+membrane fusion
+endoplasmic reticulum polarization
+biological regulation
+regulation of biological quality
+regulation of molecular function
+intracellular organelle lumen
+anchoring junction
+regulation of establishment of protein localization
+actin - mediated cell contraction
+cellular macromolecule localization
+dna conformation change
+organic substance transport
+organic substance metabolic process
+cellular component organization or biogenesis
+dna biosynthetic process
+cell periphery
+regulation of primary metabolic process
+nucleic acid metabolic process
+nucleic acid phosphodiester bond hydrolysis
+positive regulation of intracellular protein transport
+negative regulation of intracellular protein transport
+organic cyclic compound binding
+execution phase of apoptosis
+microtubule bundle
+neuron part
+regulation of protein localization to nucleus
+organic cyclic compound metabolic process
+organic cyclic compound catabolic process
+organic cyclic compound biosynthetic process
+heterocyclic compound binding
+organic substance catabolic process
+organic substance biosynthetic process
+regulation of cellular macromolecule biosynthetic process
+regulation of rna biosynthetic process
+quality
+speed
+color brightness
+frequency
+intensity
+morphology
+shape
+occurrence quality
+spatial pattern
+deviation ( from_normal )
+size
+length
+mass
+position
+structure
+rate
+viability
+arrested
+increased speed
+decreased speed
+irregular spatial pattern
+increased frequency
+decreased frequency
+mild
+severe
+circular
+regular spatial pattern
+abnormal
+normal
+increased duration
+decreased duration
+delayed
+increased length
+decreased length
+increased size
+decreased size
+increased thickness
+decreased thickness
+increased volume
+decreased volume
+decreased width
+increased width
+asymmetrical
+bilateral
+apoptotic
+high brightness
+continuous
+lethal  ( sensu genetics )
+viable
+decreased rate
+increased rate
+thickness
+volume
+width
+disorganized
+elliptic
+symmetry
+physical quality
+elongated
+process quality
+physical object quality
+electromagnetic  ( em )  radiation quality
+optical quality
+variability
+duration quality of a process
+area
+radial symmetry
+spiny
+ploidy
+polyploid
+euploid
+cellular quality
+nucleate quality
+binucleate
+mononucleate
+wholeness
+broken
+punctate
+has number of
+lacking processual parts
+decreased mass
+increased mass
+extra or missing processual parts
+deformed
+aggregated
+dispersed
+1 - d extent
+2 - d extent
+3 - d extent
+radiation quality
+surrounding
+triangular
+arrow - shaped
+movement quality
+multinucleate
+surface feature shape
+variability of shape
+variability of size
+increased variability of size
+lobed
+organismal quality
+lacks parts or has fewer parts of type
+lacks all parts of type
+has fewer parts of type
+has extra parts of type
+2 - d shape
+increased occurrence
+decreased occurrence
+increased area
+decreased area
+star shaped
+altered number of
+peripheral
+bilobed
+fan - shaped
+organization quality
+centered
+increased quality
+decreased quality
+decreased process quality
+decreased object quality
+increased process quality
+increased object quality
+superelliptic
+temporal distribution quality
+offset quality
+onset quality
+acinus
+cell population
+phenotype
+cell morphology phenotype
+cell process phenotype
+cell component number phenotype
+cell component size phenotype
+cell component shape phenotype
+cell component structure phenotype
+cell viability phenotype
+viable cell phenotype
+inviable cell phenotype
+cell nucleation phenotype
+multinucleated cell phenotype
+cytoskeletal phenotype
+endoplasmic reticulum phenotype
+golgi phenotype
+mitochondrion phenotype
+nuclear phenotype
+organelle shape phenotype
+nucleus shape phenotype
+cell adhesion phenotype
+cell cycle phenotype
+cell death phenotype
+cell membrane organisation phenotype
+cell migration phenotype
+cell growth phenotype
+chromosome segregation phenotype
+metabolic process phenotype
+organelle localization phenotype
+regulation of metabolic process phenotype
+regulation of signal transduction phenotype
+transport phenotype
+increased cell component number phenotype
+decreased cell component number phenotype
+apoptotic dna fragmentation phenotype
+apoptotic cell shape phenotype
+aggregated cells in population
+altered cell number in population
+increased cell numbers
+decreased cell numbers
+more cells in s
+cell population by process phenotype
+more cells in g1
+more cells in g2m
+fewer cells in g1
+fewer cells in g2m
+fewer cells in s
+decreased number of focal adhesion phenotype
+centrally located focal adhesion phenotype
+cell component position phenotype
+peripheral focal adhesion phenotype
+decreased number of filopodia phenotype
+decreased number of microtubules phenotype
+decreased number of dendritic branches phenotyope
+cells with projections
+increased number of cell projections phenotype
+more cells with projections
+decreased number of cell projections phenotype
+fewer cells with projections
+increased number of filopodia
+elongated cell phenotype
+elongated cells in population
+increased number of lamellipodia phenotype
+decreased number of lamellipodia phenotype
+more lamellipodia cells
+fewer lamellipodia cells
+cell ploidy phenotype
+polyploid cell phenotype
+s phase mitotic phenotype
+g1 phase mitotic phenotype
+g2 / m transition phenotype
+cell cycle phase phenotype
+more polyploid cells
+increased number of focal adhesion phenotype
+increased number of nucleoli phenotype
+decreased number of nucleoli phenotype
+more cells with decreased number of nucleoli
+more cells with increased number of nucleoli
+increased number of microtubules phenotype
+phagosomes phenotype
+phagosomes absent phenotype
+actin filament phenotype
+increased number of actin filament phenotype
+decreased number of actin filament phenotype
+more actin filament cells
+fewer actin filament cells
+centered cytoskeleton phenotype
+centered nucleus phenotype
+dispersed nucleus phenotype
+apoptopic nucleus phenotype
+deformed nucleus
+peripheral nucleus phenotype
+peripheral cytoskeleton phenotype
+abnormal cell shape phenotype
+bilobed nucleus phenotype
+round cell phenotype
+elongated focal adhesion
+elongated nucleus
+arrow shaped cell phenotype
+triangular shaped cell phenotype
+round nucleus phenotype
+nuclear body phenotype
+increased nuclear body size phenotype
+decreased nuclear body size phenotype
+increased cell size phenotype
+decreased cell size phenoptype
+decreased golgi volume phenotype
+increased golgi volume phenotype
+decreased cilium length phenotype
+increased cilium length phenotype
+decreased size of focal adhesion phenotype
+increased size of focal adhesion phenotype
+decreased focal adhesion area phenotype
+increased focal adhesion area phenotype
+decreased focal adhesion length phenotype
+increased focal adhesion length phenotype
+increased nucleus size phenotype
+decreased nucleus size phenotype
+increased nuclei size in g1 phenotype
+decreased nuclei size in g1 phenotype
+increased thickness of dendritic branches phenotype
+decreased thickness of dendritic branches
+disorganized microtubules phenotype
+podosome phenotype
+radial cytoskeleton phenotype
+phenotypes by organelle
+fragmented endoplasmic reticulum phenotype
+fragmented golgi phenotype
+fragmented mitochondria phenotype
+bright nuclei phenotype
+fragmented nucleus phenotype
+graped micronucleus phenotype
+abnormal nucleus shape phenotype
+decreased nuclei size in g2 / m phenotype
+absence of cellular component phenotype
+cell population viability
+increased cell viability in population
+decreased cell viability in population
+cell population by morphology
+absence of cytokinesis phenotype
+cytokinesis phenotype
+cell division phenotype
+increased rate of cell division phenotype
+decreased rate of cell division phenotype
+telomerase activity phenotype
+decreased telomerase activity phenotype
+increased telomerase activity phenotype
+g0 / 1 arrested phenotype
+polarized endoplasmic reticulum phenotype
+molecular component phenotype
+cell dna phenotype
+misshapen dna
+site of double - strand break phenotype
+decreased number of site of double - strand break phenotype
+increased number of site of double - strand break phenotype
+increased cell component size phenotype
+decreased cell component size phenotype
+cell spreading phenotype
+cellular development phenotype
+decreased number of axons phenotype
+increased number of axons phenotype
+mitotic process phenotype
+arrested process phenotype
+m phase arrested phenotype
+mitosis delayed phenotype
+g2 arrested phenotype
+s phase arrested phenotype
+increased duration of exit from mitosis phenotype
+g2 phase mitotic phenotype
+mitotic metaphase phenotype
+more mitotic metaphase cells
+fewer mitotic metaphase cells
+abnormal cell cycle phenotype
+binuclear cell phenotype
+increased duration of mitotic chromosome condensation phenotype
+decreased duration of mitotic chromosome condensation phenotype
+absence of mitotic chromosome decondensation phenotype
+absence of mitotic process phenotype
+mitotic chromosome condensation phenotype
+mitotic chromosome decondensation phenotype
+cell apoptosis phenotype
+more apoptosis in population
+less apoptosis in population
+increased axon thickness phenotype
+decresed axon thickness phenotype
+increased axon length phenotype
+decreased axon length phenotype
+increased rate of cell migration process phenotype
+decreased rate of cell migration process phenotype
+cell movement phenotype
+increased cell movement phenotype
+increased cell movement speed
+increased cell movement distance
+decreased cell movement phenotype
+decreased cell movement distance
+decreased cell movement speed
+proliferating cells
+actin - mediated cell contraction phenotype
+cell component movement phenotype
+cell secretion phenotype
+increased rate of protein secretion
+decreased rate of protein secretion
+nuclear morphology phenotype
+golgi morphology phenotype
+cilium phenotype
+cilium morphology phenotype
+single cell phenotype
+cellular component phenotype
+geometric cell phenotype
+apoptotic dna
+more cells in m phase
+fewer cells in m phase
+m phase mitotic phenotype
+asymmetric lamellipodia phenotype
+star shaped cell phenotype
+spiny shaped cell phenotype
+increased variability of cell size in population
+increased variability of cell shape in population
+increased cortical actin cytoskeleton mass phenotype
+decreased cortical actin cytoskeleton mass phenotype
+disorganised cortical actin cytoskeleton phenotype
+increased lamellipodia width phenotype
+decreased lamellipodia width phenotype
+fan - shaped lamellipodia phenotype
+lamellipodium phenotype
+cell projection phenotype
+filopodium phenotype
+layered cells in population
+actin cytoskeleton phenotype
+increased actin cytoskeleton mass phenotype
+decreased actin cytoskeleton mass phenotype
+microtubules nuclear bracket phenotype
+microtubules nuclear ring phenotype
+increased amount of stress fibers phenotype
+punctate actin foci phenotype
+increased amount of punctate actin foci phenotype
+cell layer phenotype
+loss of cell monolayer
+increased actin localised to the nucleus
+increased actin localised to the cytoplasm
+increased amount of transverse stress fibers
+increased amount of zig - zag stress fibers
+more multinucleate cells
+no cells phenotype
+actin nuclear ring phenotype
+cell component morphology phenotype
+cell cycle arrested phenotype
+metaphase arrested phenotype
+delayed process phenotype
+metaphase delayed phenotype
+impaired cell migration
+increased duration of cell migration process phenotype
+decreased duration of cell migration process phenotype
+exit from mitosis phenotype
+absence of cell process phenotype
+abnormal cell growth phenotype
+cell growth arrested phenotype
+mild decrease in rate of protein secretion
+strong decrease in rate of protein secretion
+increased cell spreading phenotype
+mild increase of cell spreading phenotype
+strong increase of cell spreading phenotype
+decreased cell spreading phenotype
+absence of cell spreading phenotype
+spread cell morphology phenotype
+abnormal chromosome segregation phenotype
+mitotic prophase phenotype
+increased duration of mitotic prophase phenotype
+decreased duration of mitotic prophase phenotype
+decreased frequency of negative regulation of nf - kappab transcription factor activity phenotype
+increased frequency of negative regulation of nf - kappab transcription factor activity phenotype
+cytoplasmic sequestering of nf - kappab phenotype
+abnormal release of cytoplasmic sequestered nf - kappab phenotype
+regulation of process phenotype
+bright nuclear body phenotype
+round focal adhesion
+mitosis arrested
+increased cell size in population
+pyknotic nuclear phenotype
+prometaphase arrested phenotype
+prometaphase delayed phenotype
+increased variability of nuclear shape in population
+decreased rate of intracellular protein transport phenotype
+absence of mitotic metaphase process phenotype
+mitotic metaphase plate congression phenotype
+increased substrate - dependent cell migration ,  cell extension phenotype
+increased substrate - dependent cell migration phenotype
+increased microtubule - based processes phenotype
+increased monopolar cell elongation phenotype
+decreased monopolar cell elongation phenotype
+mild actin - mediated cell contraction phenotype
+cell component localisation phenotype
+polylobed nuclear phenotype
+increased rate of dna amplification
+increased amount of dna
+centriole replication phenotype
+increased centriole replication phenotype
+decreased centriole replication phenotype
+cell in vitro
+mitotic g1 phase
+mitotic s phase
+mitotic g2 phase
+mitotic m phase
+mitotic telophase
+chromosome ,  centromeric region
+kinetochore
+cell killing
+leukocyte mediated cytotoxicity
+t cell mediated cytotoxicity
+adaptive immune response
+immune effector process
+response to tumor cell
+immune system process
+immune response to tumor cell
+t cell mediated cytotoxicity directed against tumor cell target
+t cell mediated immune response to tumor cell
+leukocyte mediated immunity
+lymphocyte mediated immunity
+t cell mediated immunity
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+nuclease activity
+endonuclease activity
+endodeoxyribonuclease activity
+deoxyribonuclease activity
+vacuole
+spindle
+spindle microtubule
+cytoplasmic microtubule
+plasma membrane
+dna replication
+rna - dependent dna replication
+transcription ,  dna - templated
+regulation of transcription ,  dna - templated
+movement of cell or subcellular component
+response to stress
+immune response
+cellular response to dna damage stimulus
+nucleus organization
+nuclear envelope organization
+plasma membrane organization
+peroxisome organization
+mitotic nuclear division
+i - kappab kinase / nf - kappab signaling
+dna binding ,  bending
+response to biotic stimulus
+negative regulation of biosynthetic process
+positive regulation of biosynthetic process
+negative regulation of metabolic process
+positive regulation of metabolic process
+positive regulation of signal transduction
+endomembrane system organization
+positive regulation of macromolecule biosynthetic process
+negative regulation of macromolecule biosynthetic process
+positive regulation of macromolecule metabolic process
+negative regulation of macromolecule metabolic process
+positive regulation of gene expression
+negative regulation of gene expression
+positive regulation of cell communication
+endomembrane system
+cajal body
+peptide transport
+membrane
+pml body
+nuclear speck
+hydrolase activity
+hydrolase activity ,  acting on ester bonds
+positive regulation of signaling
+intraciliary transport particle
+negative regulation of cellular metabolic process
+positive regulation of cellular metabolic process
+negative regulation of cellular biosynthetic process
+positive regulation of cellular biosynthetic process
+protein complex localization
+pcg protein complex
+bleb assembly
+cellular response to stress
+protein localization to golgi apparatus
+protein localization to microtubule
+somatodendritic compartment
+response to chemical
+paraspeckles
+amide transport
+regulation of i - kappab kinase / nf - kappab signaling
+positive regulation of i - kappab kinase / nf - kappab signaling
+negative regulation of i - kappab kinase / nf - kappab signaling
+protein localization to cytoskeleton
+single - organism membrane fusion
+single - organism membrane organization
+cell cycle g2 / m phase transition
+biological phase
+negative regulation of transcription ,  dna - templated
+positive regulation of transcription ,  dna - templated
+negative regulation of nucleobase - containing compound metabolic process
+positive regulation of nucleobase - containing compound metabolic process
+positive regulation of cellular process
+positive regulation of response to stimulus
+negative regulation of nitrogen compound metabolic process
+positive regulation of nitrogen compound metabolic process
+negative regulation of rna metabolic process
+positive regulation of rna metabolic process
+anaphase
+telophase
+mitotic interphase
+protein localization to mitochondrion
+cellular response to chemical stimulus
+organelle assembly
+protein localization to endoplasmic reticulum
+protein localization to centrosome
+nitrogen compound transport
+establishment of protein localization to organelle
+protein localization to membrane
+protein localization to plasma membrane
+protein localization to peroxisome
+protein localization to vacuole
+protein localization to microtubule cytoskeleton
+regulation of peptide transport
+membrane fission
+protein localization to nuclear pore
+protein localization to nuclear envelope
+protein localization to bud neck
+nucleic acid - templated transcription
+centriole assembly
+single organism cell adhesion
+chromosomal region
+mitotic cell cycle phase
+nuclear chromosome segregation
+negative regulation of protein localization to nucleus
+positive regulation of protein localization to nucleus
+regulation of intracellular signal transduction
+negative regulation of intracellular signal transduction
+positive regulation of intracellular signal transduction
+protein localization to nucleolus
+single - organism localization
+single - organism cellular localization
+single - organism intracellular transport
+single - organism organelle organization
+single - organism nuclear import
+negative regulation of rna biosynthetic process
+positive regulation of rna biosynthetic process
+mitotic cell cycle process
+protein localization to actin cytoskeleton
+protein localization to actin filament bundle
+protein localization to nuclear body
+regulation of nucleic acid - templated transcription
+negative regulation of nucleic acid - templated transcription
+positive regulation of nucleic acid - templated transcription
+regulation of protein targeting
+regulation of cytoplasmic transport
+negative regulation of cytoplasmic transport
+positive regulation of cytoplasmic transport
+protein localization to vacuolar membrane
+regulation of cellular protein localization
+negative regulation of cellular protein localization
+positive regulation of cellular protein localization
+protein localization to nuclear periphery
+protein localization to nucleoplasm
+negative regulation of cellular macromolecule biosynthetic process
+concentration of
+curved
+sharpness
+concentrated
+increased concentration
+decreased concentration
+sharp
+tapered
+curvature
+stubby
+sigmoid
+molecular quality
+shortened
+cell population phenotype
+cellular phenotype
+cell population phenotype by process
+cell with projections
+decreased cell size phenotype
+organelle phenotype
+cell population viability phenotype
+cell population phenotype by morphology
+decreased axon thickness phenotype
+cell population layer phenotype
+cell component localization phenotype
+s - shaped cell phenotype
+curved cell phenotype
+pear - shaped cell phenotype
+stubby cell phenotype
+microtubule cytoskeleton morphology phenotype
+microtubule cytoskeleton morphology during mitotic interphase
+elongated cytoplasmic microtubules phenotype
+shortened cytoplasmic microtubules phenotype
+increased number of microtubule bundle phenotype
+microtubule morphology phenotype
+microtubule morphology during interphase phenotype
+more cells with interphase microtubule phenotype
+microtubule spindle morphology phenotype
+microtubule spindle morphology during metaphase phenotype
+more cells with metaphase microtubule spindles phenotype
+linear microtubule morphology phenotype
+cell component organisation phenotype
+microtubule organisation phenotype
+microtubule array phenotype
+more cells with interphase microtubule arrays phenotype
+interphase phenotype
+mitotic interphase phenotype
+anaphase phenotype
+fewer cells with metaphase microtubule spindles phenotype
+fewer cells with interphase microtubule arrays phenotype
+protein localized in golgi phenotype
+protein localized in bud neck phenotype
+protein localized in cell periphery phenotype
+protein localized in cytosol phenotype
+protein localized in endoplasmic reticulum phenotype
+protein localized in mitochondrion phenotype
+protein localized in nuclear periphery phenotype
+protein localized in nucleolus phenotype
+protein localized in nucleus phenotype
+protein localized in peroxisome phenotype
+protein localized in punctate foci phenotype
+protein localized in vacuole phenotype
+protein localized in vacuolar membrane phenotype
+protein localized to nuclear body
+protein localized in cajal body phenotype
+protein localized in nuclear speckle phenotype
+protein localized in paraspeckle phenotype
+protein localized in pml body phenotype
+protein localized in polycomb body phenotype
+protein localized in sam68 nuclear body phenotype
+fewer cells with g1 phase microtubule arrays phenotype
+fewer cells with s phase microtubule arrays phenotype
+more cells with g1 phase microtubule arrays phenotype
+more cells with s phase microtubule arrays phenotype
+cell response to stress phenotype
+cell response to dna damage phenotype
+fewer aggregated cells in population phenotype
+lack of protein in cell component localization phenotype
+response to stimulus phenotype
+response to chemical phenotype
+cellular response to chemical stimulus phenotype
+telophase phenotype
+mitotic telophase phenotype
+telophase arrested phenotype
+protein localized in centrosome phenotype
+protein localized in nuclear pore phenotype
+kinetochore phenotype
+fan - shaped cell phenotype
+cell polypeptide phenotype
+altered level of substance in cell
+altered level of polypetide in cell
+altered level of polypetide in cell nucleus
+increased level of polypetide in cell nucleus
+decreased level of polypetide in cell nucleus
+negative regulation of protein import into nucleus phenotype
+positive regulation of protein import into nucleus phenotype
+abnormal mitotic cell cycle phase phenotype
+abnormal microtubule cytoskeleton morphology during mitotic interphase
+absence of protein localized in bud neck phenotype
+protein localized in actin filament phenotype
+protein localized in intermediate filament phenotype
+protein localized in microtubule phenotype
+protein localized in nuclear membrane phenotype
+protein localized in nucleoli fibrillar center phenotype
+protein localized in nucleoplasm phenotype
+protein localized in plasma membrane phenotype
+protein localized in vesicle phenotype
+cell killing phenotype
+t cell mediated killing against a tumor cell phenotype
+more aggregated cells in population phenotype
+increased nuclear area phenotype
+decreased nuclear area phenotype
+decreased cell size in population
+asymmetric cellular component phenotype
+decreased level of polypetide in the cell
+increased level of polypetide in the cell
+decreased nucleus to cell area ratio
+increased nucleus to cell area ratio

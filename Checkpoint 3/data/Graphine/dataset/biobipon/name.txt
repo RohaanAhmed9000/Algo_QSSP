@@ -1,0 +1,260 @@
+water
+10 - formyltetrahydrofolic acid
+2' - deoxycytidine
+polypeptide
+adenosine
+protein polypeptide chain
+uridine
+guanosine
+2' - deoxyguanosine
+2' - deoxyadenosine
+cytidine
+ctp
+thymidine
+transfer rna
+ribonucleoside
+proton
+ion
+isoleucine
+nucleoside phosphate
+alpha - aminoacyl - trna
+tetrahydrofolic acid
+threonine
+diphosphoric acid
+nucleoside
+cation
+chebi_36976: nucleotide
+folic acids
+ribosomal large subunit assembly
+ribosomal small subunit assembly
+cytoplasmic chromosome
+rna fragment catabolic process
+exonucleolytic trimming involved in rrna processing
+cleavage involved in rrna processing
+maturation of lsu - rrna
+endonucleolytic cleavage involved in rrna processing
+maturation of 5s rrna
+bacterial - type rna polymerase core promoter sequence - specific dna binding
+bacterial - type rna polymerase core enzyme binding
+bacterial - type rna polymerase holo enzyme binding
+promoter clearance during dna - templated transcription
+dna - templated transcriptional open complex formation
+protein - dna - rna complex
+transcription ternary complex disassembly
+promoter clearance from bacterial - type rna polymerase promoter
+transcription initiation from bacterial - type rna polymerase promoter
+transcription termination from bacterial - type rna polymerase promoter
+bacterial - type rna polymerase preinitiation complex assembly
+transcriptional open complex formation at bacterial - type rna polymerase promoter
+transcription ,  rna - templated
+dna - templated transcriptional start site selection
+transcriptional start site selection at bacterial - type rna polymerase promoter
+maintenance of transcriptional fidelity during dna - templated transcription elongation
+maintenance of transcriptional fidelity during dna - templated transcription elongation from bacterial - type rna polymerase promoter
+formation of translation initiation ternary complex
+trna 3p - terminal cca addition
+formation of translation preinitiation complex
+formation of cytoplasmic translation initiation complex
+cytoplasmic translation
+cytoplasmic translational elongation
+cytoplasmic translational initiation
+cytoplasmic translational termination
+cellular_component
+cell
+chromosome
+cytoplasm
+cytosol
+ribosome
+transcription ,  dna - templated
+dna - templated transcription ,  initiation
+dna - templated transcription ,  termination
+regulation of transcription ,  dna - templated
+rrna processing
+rna processing
+mrna processing
+trna modification
+rna catabolic process
+translation
+translational initiation
+translational elongation
+translational termination
+regulation of translation
+alanyl - trna aminoacylation
+arginyl - trna aminoacylation
+asparaginyl - trna aminoacylation
+aspartyl - trna aminoacylation
+cysteinyl - trna aminoacylation
+glutamyl - trna aminoacylation
+glutaminyl - trna aminoacylation
+glycyl - trna aminoacylation
+histidyl - trna aminoacylation
+isoleucyl - trna aminoacylation
+leucyl - trna aminoacylation
+lysyl - trna aminoacylation
+methionyl - trna aminoacylation
+phenylalanyl - trna aminoacylation
+prolyl - trna aminoacylation
+seryl - trna aminoacylation
+threonyl - trna aminoacylation
+tryptophanyl - trna aminoacylation
+tyrosyl - trna aminoacylation
+valyl - trna aminoacylation
+regulation of translational initiation
+regulation of translational elongation
+regulation of translational termination
+regulation of translational fidelity
+protein folding
+'de novo' protein folding
+trna processing
+biological_process
+mrna transcription
+rrna transcription
+trna transcription
+cellular process
+gene expression
+regulation of gene expression
+large ribosomal subunit
+small ribosomal subunit
+charged - trna amino acid modification
+protein maturation by protein folding
+maturation of ssu - rrna
+regulation of dna - templated transcription ,  termination
+transcriptional attenuation
+transcriptional attenuation by ribosome
+transcription antitermination
+regulation of dna - templated transcription ,  elongation
+macromolecular complex
+protein - dna complex
+ncrna processing
+ribosome biogenesis
+ribosomal large subunit biogenesis
+ribosomal small subunit biogenesis
+trna aminoacylation
+rna polymerase core enzyme binding
+protein complex
+regulation of dna - templated transcription in response to stress
+translation initiation ternary complex
+ribosomal subunit
+intracellular part
+cytoplasmic part
+cell part
+negative regulation of translational elongation
+positive regulation of translational elongation
+negative regulation of translational initiation
+positive regulation of translational initiation
+'de novo' cotranslational protein folding
+'de novo' posttranslational protein folding
+protein maturation
+positive regulation of dna - templated transcription ,  termination
+chaperone - mediated protein folding
+biological regulation
+regulation of biological quality
+asparaginyl - trnaasn biosynthesis via transamidation
+glutaminyl - trnagln biosynthesis via transamidation
+dna - templated transcriptional preinitiation complex assembly
+trans - translation
+trans - translation - dependent protein tagging
+translation initiation complex
+translation preinitiation complex
+rna surveillance
+conversion of methionyl - trna to n - formyl - methionyl - trna
+rescue of stalled ribosome related process
+regulation of ribosome biogenesis
+negative regulation of ribosome biogenesis
+transcription ternary complex
+transcriptional preinitiation complex
+negative regulation of formation of translation initiation ternary complex
+negative regulation of formation of translation preinitiation complex
+bacterial degradosome
+ribonucleoprotein complex
+regulation of cellular macromolecule biosynthetic process
+regulation of dna - templated transcription ,  initiation
+negative regulation of dna - templated transcription ,  initiation
+positive regulation of dna - templated transcription ,  initiation
+regulation of trna processing
+region
+operator
+sequence_feature
+protein_coding_primary_transcript
+ribosome_entry_site
+attenuator
+terminator
+promoter
+non_transcribed_region
+primary_transcript
+rrna_primary_transcript
+trna_primary_transcript
+alanine_trna_primary_transcript
+arginine_trna_primary_transcript
+asparagine_trna_primary_transcript
+aspartic_acid_trna_primary_transcript
+cysteine_trna_primary_transcript
+glutamic_acid_trna_primary_transcript
+glutamine_trna_primary_transcript
+glycine_trna_primary_transcript
+histidine_trna_primary_transcript
+isoleucine_trna_primary_transcript
+leucine_trna_primary_transcript
+lysine_trna_primary_transcript
+methionine_trna_primary_transcript
+phenylalanine_trna_primary_transcript
+proline_trna_primary_transcript
+serine_trna_primary_transcript
+threonine_trna_primary_transcript
+tryptophan_trna_primary_transcript
+tyrosine_trna_primary_transcript
+valine_trna_primary_transcript
+mature_transcript
+tf_binding_site
+tss
+cds
+start_codon
+stop_codon
+coding_start
+coding_end
+codon
+rna_6s
+nc_primary_transcript
+shine_dalgarno_sequence
+tmrna
+tmrna_primary_transcript
+bacterial_rnapol_promoter
+bacterial_terminator
+transcription_end_site
+monocistronic_mrna
+polycistronic_mrna
+small_subunit_rrna
+large_subunit_rrna
+rrna_5s
+transcript
+gene_with_polycistronic_transcript
+gene
+tmrna_coding_piece
+tmrna_acceptor_piece
+gene_member_region
+transcript_region
+mature_transcript_region
+primary_transcript_region
+mrna_region
+tmrna_region
+cds_region
+dna_chromosome
+double_stranded_dna_chromosome
+circular_double_stranded_dna_chromosome
+rrna_16s
+rrna_23s
+transcriptional_cis_regulatory_region
+trna_region
+anticodon
+cca_tail
+pyrrolysine_trna_primary_transcript
+rna_polymerase_promoter
+biological_region
+rrna_gene
+transcription_regulatory_region
+translation_regulatory_region
+transcription_pause_site
+constitutive_promoter
+inducible_promoter
+regulatory_region
+translation initiation enhancer factor

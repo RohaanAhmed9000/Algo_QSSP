@@ -1,0 +1,1642 @@
+molecular interaction
+interaction detection method
+participant identification method
+feature detection method
+affinity chromatography technology
+alanine scanning
+anti bait coimmunoprecipitation
+anti tag coimmunoprecipitation
+array technology
+bacterial display
+beta galactosidase complementation
+beta lactamase complementation
+bioluminescence resonance energy transfer
+biophysical
+adenylate cyclase complementation
+circular dichroism
+classical fluorescence spectroscopy
+two hybrid
+coimmunoprecipitation
+transmission electron microscopy
+colocalization by fluorescent probes cloning
+colocalization by immunostaining
+colocalization / visualisation technologies
+confirmational text mining
+copurification
+correlated mutations
+cosedimentation
+cosedimentation in solution
+cosedimentation through density gradient
+cross - linking study
+protein cross - linking with a bifunctional reagent
+de novo protein sequencing by mass spectrometry
+deletion analysis
+display technology
+docking
+domain fusion
+domain profile pairs
+dynamic light scattering
+edman degradation
+electron microscopy
+electron nuclear double resonance
+electron paramagnetic resonance
+electron resonance
+experimental interaction detection
+experimental knowledge based
+far western blotting
+filamentous phage display
+filter binding
+flag tag coimmunoprecipitation
+fluorescence technology
+fluorescence correlation spectroscopy
+fluorescence polarization spectroscopy
+fluorescence - activated cell sorting
+fluorescent resonance energy transfer
+full identification by dna sequencing
+gene neighbourhood
+genome based prediction
+gst pull down
+ha tag coimmunoprecipitation
+his pull down
+his tag coimmunoprecipitation
+interaction prediction
+interologs mapping
+isothermal titration calorimetry
+lambda phage display
+light scattering
+mass detection of residue modification
+mass spectrometry studies of complexes
+mobility shift
+molecular sieving
+monoclonal antibody western blot
+mrna display
+mutation analysis
+myc tag coimmunoprecipitation
+neural network on interface properties
+nuclear magnetic resonance
+nucleotide sequence identification
+other biochemical technologies
+partial dna sequence identification by hybridization
+peptide array
+peptide massfingerprinting
+peptide synthesis
+phage display
+phylogenetic profile
+polyclonal antibody western blot
+predictive text mining
+primer specific pcr
+protein array
+protein complementation assay
+chromatography technology
+protein in situ array
+protein sequence identification
+protein staining
+proteinchip ( r )  on a surface - enhanced laser desorption / ionization
+pull down
+reverse ras recruitment system
+ribosome display
+scintillation proximity assay
+sequence based phylogenetic profile
+sequence based prediction
+sequence tag identification
+southern blot
+static light scattering
+structure based prediction
+surface patches
+surface plasmon resonance
+t7 phage display
+tap tag coimmunoprecipitation
+text mining
+dihydrofolate reductase reconstruction
+ubiquitin reconstruction
+western blot
+x - ray crystallography
+yeast display
+feature type
+binding - associated region
+mutation
+mutation decreasing interaction
+post translation modification
+acetylated residue
+n - acetyl - alanine
+n2 - acetyl - arginine
+n - acetyl - asparagine
+n - acetyl - aspartic acid
+n - acetyl - cysteine
+n - acetyl - glutamine
+n - acetyl - glutamic acid
+n - acetylglycine
+n - acetyl - histidine
+n - acetyl - isoleucine
+n - acetyl - leucine
+n2 - acetyl - lysine
+n6 - acetyl - lysine
+n - acetyl - methionine
+n - acetyl - phenylalanine
+n - acetyl - proline
+n - acetyl - serine
+n - acetyl - threonine
+n - acetyl - tryptophan
+n - acetyl - tyrosine
+n - acetyl - valine
+amidated residue
+arginine amide
+formylated residue
+n - formyl - methionine
+hydroxylated residue
+lipid modification
+s - farnesyl - cysteine
+s - geranylgeranyl - cysteine
+n - palmitoyl - cysteine
+s - palmitoyl - cysteine
+n - myristoyl - glycine
+n6 - myristoyl - lysine
+methylated residue
+n - methyl - alanine
+n , n , n - trimethyl - alanine
+omega - n , omega - n - dimethyl - arginine
+beta - methylthioaspartic acid
+n5 - methyl - glutamine
+glutamic acid 5 - methyl ester
+n6 - methyl - lysine
+n6 , n6 - dimethyl - lysine
+n6 , n6 , n6 - trimethyl - lysine
+n - methyl - methionine
+n - methyl - phenylalanine
+phosphorylated residue
+omega - n - phospho - arginine
+aspartic 4 - phosphoric anhydride
+s - phospho - cysteine
+o - phospho - serine
+o - phospho - threonine
+o4' - phospho - tyrosine
+other modification
+selenocysteine
+selenomethionine
+3 - oxoalanine
+glutamyl 5 - glycerylphosphorylethanolamine
+n6 - biotinyl - lysine
+n6 -  ( 4 - amino - 2 - hydroxybutyl )  - lysine
+n6 - retinal - lysine
+ubiquitinated lysine
+interaction type
+aggregation
+acetylation reaction
+amidation reaction
+cleavage reaction
+covalent binding
+covalent interaction
+deacetylation reaction
+defarnesylation reaction
+deformylation reaction
+degeranylation reaction
+demyristoylation reaction
+depalmitoylation reaction
+dephosphorylation reaction
+deubiquitination reaction
+disaggregation
+farnesylation reaction
+formylation reaction
+genetic interaction
+geranylgeranylation reaction
+hydroxylation reaction
+lipid addition
+lipoprotein cleavage reaction
+methylation reaction
+myristoylation reaction
+non covalent interaction
+palmitoylation reaction
+phosphorylation reaction
+physical interaction
+synthetic lethal
+ubiquitination reaction
+expression level
+physiological level
+under expressed level
+chromatin immunoprecipitation array
+ion exchange chromatography
+reverse phase chromatography
+cytoplasmic complementation assay
+membrane bound complementation assay
+mammalian protein protein interaction trap
+transcriptional complementation assay
+protein dna complex
+131i radiolabel
+14c radiolabel
+32p radiolabel
+33p radiolabel
+3h radiolabel
+biotin tag
+fusion protein
+horseradish peroxidase tag
+gene ontology definition reference
+isoform parent sequence reference
+reactome complex
+reactome protein
+cabri
+newt
+resid
+huge
+gene
+gene product
+biological feature
+isotope label
+genetic interference
+post transcriptional interference
+rna interference
+antisense rna
+inhibitor antibodies
+perturbagens peptides
+inhibitor small molecules
+suppression
+suppression mutation
+suppression knockout
+suppression partial alteration
+suppression expression alteration
+suppression overexpression
+suppression scalable
+suppression underexpression
+synthetic phenotype
+conditional synthetic lethal
+conditional synthetic lethal temperature - sensitivity
+synthetic growth effect
+synthetic growth defect
+synthetic growth increase
+blue native page
+alias type
+gene name
+gene name synonym
+gene ontology synonym
+isoform synonym
+ordered locus name
+open reading frame name
+delivery method
+electroporation
+genomic tagging
+infection
+microinjection
+nucleic acid transfection
+interactor type
+complex
+protein complex
+ribonucleoprotein complex
+interaction
+nucleic acid
+deoxyribonucleic acid
+ribonucleic acid
+catalytic rna
+guide rna
+heterogeneous nuclear rna
+messenger rna
+transfer rna
+protein
+peptide
+small molecule
+unknown participant
+molecular source
+engineered
+naturally occurring
+feature range status
+c - terminal position
+certain sequence position
+greater - than
+less - than
+range
+undetermined sequence position
+n - terminal position
+ragged n - terminus
+sample process
+cdna library
+cell lysate
+author assigned name
+experimental preparation
+fixed cell
+living cell
+purified
+homogeneous
+partially purified
+cross - reference type
+cellular component
+molecular function
+identical object in an external resource
+method reference
+primary - reference
+biological process
+secondary accession number
+additional information
+inference
+inferred by author
+inferred by curator
+enzyme tag
+alkaline phosphatase tag
+green fluorescent protein tag
+yellow fluorescent protein tag
+lex - a dimerization assay
+tox - r dimerization assay
+35s radiolabel
+subcellular preparation
+dye label
+cyanine label
+cy3 label
+cy5 label
+fluorescein isothiocyanate label
+rare isotope label
+13c label
+15n label
+2h label
+mutation increasing interaction
+biopolymer
+alexa label
+alexa 350 label
+alexa 430 label
+alexa 488 label
+alexa 532 label
+alexa 546 label
+alexa 568 label
+alexa 594 label
+predetermined participant
+two hybrid array
+two hybrid pooling approach
+two hybrid fragment pooling approach
+affinity technology
+biochemical
+chromatin immunoprecipitation assay
+colocalization
+comigration in non denaturing gel electrophoresis
+competition binding
+deacetylase assay
+direct interaction
+disulfide bond
+dna footprinting
+3d electron microscopy
+enzyme linked immunosorbent assay
+electrophoretic mobility supershift assay
+electrophoretic mobility shift assay
+enzymatic reaction
+enzymatic study
+fluorescence microscopy
+footprinting
+genetic
+gtpase assay
+kinase homogeneous time resolved fluorescence
+identification by antibody
+immunostaining
+in - gel kinase assay
+protein kinase assay
+kinase scintillation proximity assay
+light microscopy
+identification by mass spectrometry
+imaging technique
+necessary binding region
+nucleic acid uv cross - linking assay
+obsolete
+one hybrid
+partial identification of protein sequence
+phosphatase assay
+protease assay
+protein footprinting
+protein three hybrid
+rna three hybrid
+random spore analysis
+saturation binding
+synthetic genetic analysis
+sufficient binding region
+ubiquitin binding
+database citation
+literature database
+pubmed
+feature database
+gene ontology
+interpro
+cdd
+pfam
+pirsf
+prints
+prodom
+prosite
+scop superfamily
+smart
+tigrfams
+mmdb
+rcsb pdb
+interaction database
+bind
+biogrid
+cygd
+dip
+ecocyc
+reactome
+hprd
+intact
+kegg
+mint
+pdbe
+participant database
+chebi
+ddbj / embl / genbank
+ensembl
+entrez gene / locuslink
+flybase
+mgd / mgi
+omim
+refseq
+rfam
+rgd
+sgd
+uniparc
+uniprot knowledge base
+wormbase
+psi - mi
+source database
+experiment condition
+in silico
+in vitro
+in vivo
+in situ
+experimental role
+bait
+neutral component
+prey
+unspecified role
+biological role
+enzyme
+enzyme target
+self
+experimental feature
+over expressed level
+tag
+deacetylase radiometric assay
+phosphatase homogeneous time resolved fluorescence
+homogeneous time resolved fluorescence
+protease homogeneous time resolved fluorescence
+zymography
+collagen film assay
+in gel phosphatase assay
+methyltransferase assay
+methyltransferase radiometric assay
+radiolabel
+flag tag
+glutathione s tranferase tag
+ha tag
+his tag
+myc tag
+t7 tag
+calmodulin binding peptide plus protein a tag
+v5 tag
+n - acetyl - lysine
+adp ribosylated residue
+omega - n -  ( adp - ribosyl )  - arginine
+s -  ( adp - ribosyl )  - cysteine
+glutamyl - 5 - poly ( adp - ribose )
+o -  ( adp - ribosyl )  - serine
+n4 -  ( adp - ribosyl )  - asparagine
+glycosylated residue
+glycosyl - cysteine
+glycosyl - serine
+glycosyl - threonine
+omega - n - glycosyl - arginine
+n4 - glycosyl - asparagine
+gpi anchor residue
+gpi - anchor amidated alanine
+gpi - anchor amidated asparagine
+gpi - anchor amidated aspartate
+gpi - anchor amidated cysteine
+gpi - anchor amidated glycine
+gpi - anchor amidated serine
+gpi - anchor amidated threonine
+s - prenyl - cysteine
+methylated - lysine
+alkylated cysteine
+gamma - carboxyglutamic acid
+nitro - tyrosine
+s - nitrosyl - cysteine
+o4' - sulfo - tyrosine
+sumoylated lysine
+phospho - histidine
+transglutamination reaction
+adp ribosylation reaction
+deglycosylation reaction
+glycosylation reaction
+myristoylated residue
+palmitoylated residue
+methylated alanine
+methylated arginine
+omega - n - methyl - arginine
+neddylated lysine
+sumoylation reaction
+neddylation reaction
+desumoylation reaction
+deneddylation reaction
+protein cleavage
+mrna cleavage
+dna cleavage
+mutation disrupting interaction
+digital object identifier
+alliance for cellular signaling
+structural proximity
+feature prediction from structure
+maltose binding protein tag
+electron donor
+electron acceptor
+suppressor gene
+suppressed gene
+fluorescence donor
+fluorescence acceptor
+intenz
+inhibitor
+inhibited
+three hybrid
+in vitro translated protein
+attribute name
+experiment description
+ipfam
+translocation
+translocation start
+translocation end
+experimental form description
+feature description
+feature constraint
+figure legend
+conditional synthetic lethal nutrition - sensitivity
+sequence ontology
+chemical footprinting
+dimethylsulphate footprinting
+potassium permanganate footprinting
+enzymatic footprinting
+dnase i footprinting
+small nuclear rna
+ribosomal rna
+small nucleolar rna
+small interfering rna
+signal recognition particle rna
+comment
+function
+url
+search - url
+example
+disease
+caution
+pathway
+search - url - ascii
+author - confidence
+confidence - mapping
+inhibition
+stimulant
+agonist
+antagonist
+experiment modification
+validation regular expression
+complex - properties
+3d - structure
+3d - r - factors
+3d - resolution
+data - processing
+contact - email
+contact - comment
+author - list
+isoform - comment
+prerequisite - ptm
+resulting - ptm
+parameter type
+ic50
+ec50
+ki
+km
+kcat
+kd
+parameter unit
+molar
+second
+millimolar
+micromolar
+nanomolar
+picomolar
+fentomolar
+lambda repressor two hybrid
+identified peptide
+systematic evolution of ligands by exponential enrichment
+multidimensional protein identification technology
+experimental feature detection
+feature prediction
+experimental participant identification
+imex - primary
+confocal microscopy
+interaction attribute name
+experiment attribute name
+participant attribute name
+controlled vocabulary attribute name
+feature attribute name
+organism attribute name
+imex
+antibodies
+library - used
+complex synonym
+peptide parent sequence reference
+international protein index
+tandem affinity purification
+tandem tag
+antibody array
+poly adenine
+single stranded deoxyribonucleic acid
+double stranded deoxyribonucleic acid
+cofactor
+sequence database
+ancillary
+source reference
+unspecified method
+fluorescent protein tag
+dna binding domain tag
+activation domain tag
+gal4 activation domain
+vp16 activation domain
+b42 activation domain
+gal4 dna binding domain
+lexa dna binding domain
+sandwich immunoassay
+polymerase assay
+dna directed dna polymerase assay
+dna directed rna polymerase assay
+rna directed dna polymerase assay
+rna directed rna polymerase assay
+dna strand elongation
+panther
+gene3d
+nucleic acid delivery
+anti tag western blot
+nucleic acid transformation
+anti tag immunostaining
+monoclonal antibody immunostaining
+polyclonal antibody immunostaining
+nucleic acid transformation by treatment with divalent cation
+nucleic acid electroporation
+nucleic acid microinjection
+nucleic acid passive uptake
+nucleic acid transduction
+nucleic acid conjugation
+passive uptake
+nucleic acid transfection with liposome
+nucleic acid transfection by treatment
+calcium phosphate nucleic acid transfection
+nucleic acid delivery by infection
+protein delivery
+protein electroporation
+protein microinjection
+protein delivery by cationic lipid treatment
+protein delivery by infection
+reverse two hybrid
+lexa b52 complementation
+gal4 vp16 complementation
+luminescence based mammalian interactome mapping
+pubchem
+3d repertoire
+red fluorescent protein tag
+cyan fluorescent protein tag
+enhanced green fluorescent protein tag
+transactivating tag
+protein passive uptake
+peptide sequence database
+pride
+penetrating tag
+cell penetrating peptide tag
+peptide atlas
+gpm
+genetic experimental form
+knock out
+knock down
+hypermorph
+hypomorph
+antimorph
+amorph
+synthetic
+asynthetic
+epistasis
+conditional genetic interaction defined by inequality
+additive genetic interaction defined by inequality
+single nonmonotonic genetic interaction defined by inequality
+double nonmonotonic genetic interaction defined by inequality
+enhancement interaction
+expression level alteration
+mutated gene
+wwpdb
+pdbj
+comigration in gel electrophoresis
+comigration in sds page
+bimolecular fluorescence complementation
+substitution analysis
+insertion analysis
+calmodulin binding protein tag
+proximity ligation assay
+protease accessibility laddering
+confirmation by molecular weight
+molecular weight estimation by staining
+molecular weight estimation by silver staining
+molecular weight estimation by coomasie staining
+molecular weight estimation by bromide staining
+molecular weight estimation by sybr staining
+molecular weight estimation by autoradiography
+molecular weight estimation by hoechst staining
+predetermined feature
+x - ray powder diffraction
+x - ray fiber diffraction
+x ray scattering
+x - ray tomography
+polyprotein fragment
+multiple parent reference
+tissue list
+cell ontology
+half cystine
+autoradiography
+ka
+koff
+temperature of interaction
+ph of interaction
+kelvin
+per mole per second
+stimulator
+phosphotransferase assay
+phosphate donor
+phosphate acceptor
+phosphotransfer reaction
+spin label
+r1 spin label
+dansyl label
+125i radiolabel
+ncbi taxonomy
+encode
+protein genbank identifier
+nucleotide genbank identifier
+dna overhang
+3 prime overhang
+5 prime overhang
+fluorophore
+fluorescent dye label
+immunodepleted coimmunoprecipitation
+force spectroscopy
+genbank identifier
+protein a tag
+zz tag
+thiol reactive lanthanide label
+brenda
+fluorescence acceptor donor pair
+tag visualisation
+tag visualisation by fluorescence
+author identifier
+originally assigned identifier
+demethylase assay
+demethylation reaction
+atomic force microscopy
+curation request
+dataset
+author submitted
+nucleoside triphosphatase assay
+atpase assay
+nucleoside triphosphatase reaction
+atpase reaction
+gtpase reaction
+vsv tag
+journal
+publication year
+histone acetylase assay
+small angle neutron scattering
+acetylase assay
+qdot
+neutron fiber diffraction
+solid phase assay
+neutron diffraction
+electron diffraction
+protein kinase a complementation
+renilla luciferase protein tag
+protein modification ontology
+putative self
+p3 filamentous phage display
+p8 filamentous phage display
+isotope label footprinting
+rna cleavage
+mpidb
+polysaccharide
+amplified luminescent proximity homogeneous assay
+au1 tag
+conformational status
+denatured
+native
+nucleic acid cleavage
+cross linker
+spdp cross linker
+lc - spdp cross linker
+association
+physical association
+lexa vp16 complementation
+matrixdb
+donor
+acceptor
+ribonuclease assay
+surface plasmon resonance array
+imex evidence
+irefindex
+camjedb
+observed - ptm
+fiash label
+iaedans label
+filter trap assay
+northern blot
+epistatis
+genetic interaction defined by inequality
+noninteractive
+negative genetic interaction
+neutral genetic interaction
+positive genetic interaction
+emdb
+glu tag
+rheology measurement
+fluorescein label
+fluorescein - 5 - maleimide label
+competitor
+uniprot taxonomy
+detection by mass spectrometry
+mass spectrometry study of hydrogen / deuterium exchange
+oxidoreductase activity electron transfer reaction
+miniaturized immunoprecipitation
+bead aggregation assay
+kinetic conditions
+gdp / gtp exchange assay
+trapping mutant
+chain parent sequence reference
+imex secondary
+polymerization
+curation quality
+curation depth
+curation coverage
+full coverage
+partial coverage
+imex curation
+mimix curation
+rapid curation
+strep ii tag
+interactome parallel affinity capture
+infrared spectroscopy
+2d - infrared spectrometry
+ultraviolet - visible spectroscopy
+chembl compound
+biosensor
+bio - layer interferometry
+inchi key
+phosphopantetheinylation
+phosphopantetheinylase assay
+imex source
+innatedb
+fc - igg tag
+total internal reflection fluorescence spectroscopy
+no - imex - export
+author - name
+oxidoreductase assay
+tag visualisation by enzyme assay
+tag visualisation by peroxidase activity
+electrophoretic mobility - based method
+gemma
+deamination assay
+deamination reaction
+nucleic acid strand elongation reaction
+rna strand elongation
+strep tag
+amidase assay
+cleavage assay
+lipoprotein cleavage assay
+defarnesylase assay
+degeranylase assay
+demyristoylase assay
+depalmitoylase assay
+deformylase assay
+ubiquitinase assay
+deubiquitinase assay
+formylase assay
+hydroxylase assay
+lipidase assay
+myristoylase assay
+geranylgeranylase assay
+palmitoylase assay
+adp ribosylase assay
+deglycosylase assay
+glycosylase assay
+sumoylase assay
+desumoylase assay
+neddylase assay
+deneddylase assay
+sbp
+ensemblgenomes
+string
+dictybase
+fluorescence recovery after photobleaching
+rna immunoprecipitation
+deltamass
+protein phosphatase assay
+hilyte fluor 488
+qx 520
+field flow fractionation
+luminogreen
+scanning electron microscopy
+unimod
+diphtamidase assay
+diphtamidation reaction
+modified chromatin immunoprecipitation
+proteomics of isolated chromatin segments
+excimer fluorescence
+protein folding / unfolding
+atto 488
+atto 550
+nuclease assay
+deoxyribonuclease assay
+nucleotide exchange assay
+split renilla luciferase complementation
+silicon nanowire field - effect transistor
+c - terminal range
+n - terminal range
+synonym
+pubmed central
+flannotator
+rice genome annotation project
+curation content
+interacting molecules
+protein - protein
+smallmolecule - protein
+nucleicacid - protein
+interaction representation
+evidence
+clustered
+data source
+experimentally - observed
+internally - curated
+text - mining
+predicted
+imported
+complex expansion
+spoke expansion
+matrix expansion
+bipartite expansion
+consensuspathdb
+interaction confidence
+replication - based confidence
+structure - based confidence
+function - based confidence
+location - based confidence
+network - based confidence
+standard - based confidence
+literature - based confidence
+method - based confidence
+statistical - based confidence
+rgs - his tag
+beilstein
+einecs
+merck index
+plantgdb
+ratmap
+tair
+tigr / jcvi
+zfin
+cog
+photon donor
+photon acceptor
+equilibrium dialysis
+monoclonal antibody blockade
+phenotype - based detection assay
+nuclear translocation assay
+bimane label
+publication title
+atto label
+bibliographic attribute name
+genome databases
+hgnc
+protein sequence databases
+uniprot
+uniprot / swiss - prot
+uniprot / trembl
+bioactive entity
+standard inchi key
+mapped - identity
+solution state nmr
+solid state nmr
+biocyc
+pathways database
+pid
+biocarta
+gene database
+predicted interaction
+two hybrid bait or prey pooling approach
+two hybrid prey pooling approach
+virhostnet
+spike
+genemania
+topfind
+enhanced yellow fluorescent protein tag
+nyfp
+cyfp
+ceyfp
+neyfp
+bindingdb
+pathwaycommons
+direct binding region
+self interaction
+putative self interaction
+mutation disrupting interaction strength
+mutation disrupting interaction rate
+mutation decreasing interaction rate
+mutation increasing interaction rate
+mutation increasing interaction strength
+mutation decreasing interaction strength
+mcherry fluorescent protein tag
+venus fluorescent protein tag
+kusabira - green protein tag
+carboxylation assay
+decarboxylation assay
+carboxylation reaction
+decarboxylation reaction
+s tag
+aminoacylation assay
+aminoacylation reaction
+protein a tag visualisation
+phospholipase assay
+phospholipase reaction
+ampylation assay
+ampylation reaction
+cooperative interaction
+affected interaction
+participant - ref
+cooperative effect value
+cooperative effect outcome
+positive cooperative effect
+negative cooperative effect
+cooperative mechanism
+allostery
+pre - assembly
+allosteric molecule
+allosteric effector
+allosteric response
+allosteric k - type response
+allosteric v - type response
+allosteric mechanism
+allosteric change in structure
+allosteric change in dynamics
+allostery type
+heterotropic allostery
+homotropic allostery
+pre - assembly response
+composite binding site formation
+altered physicochemical compatibility
+binding site hiding
+configurational pre - organization
+allosteric post - translational modification
+sequence based prediction of gene regulatory region binding sites
+phylogenetic profiling of predicted gene regulatory region binding sites
+sequence based prediction of binding of transcription factor to transcribed gene regulatory elements
+partial nucleotide sequence identification
+partial dna sequence identification
+paired end tags sequence identification
+full identification by rna sequencing
+nuclease footprinting
+dna adenine methyltransferase identification
+tag visualisation by dna adenine methyltransferase
+dna methyltransferase tag
+damip
+tag visualisation by mutated dna adenine methyltransferase
+methylation interference assay
+hydroxy radical footprinting
+ultraviolet  ( uv )  footprinting
+antisense oligonucleotides
+partial rna sequence identification
+reverse transcription pcr
+quantitative pcr
+quantitative reverse transcription pcr
+radioimmunoassay
+immunohistochemistry
+anti - tag immunohistochemistry
+immunocytochemistry
+anti - tag immunocytochemistry
+one - strep - tag
+split luciferase complementation
+split firefly luciferase complementation
+luciferase tag
+renilla - n
+renilla - c
+firefly luciferase protein tag
+firefly - c
+firefly - n
+liposome binding assay
+checksum
+n - venus
+c - venus
+bifc tag
+cgfp
+ngfp
+chromosome conformation capture assay
+enzyme - mediated activation of radical sources
+tag visualisation by luciferase assay
+author - based confidence
+mbinfo
+ptm decreasing an interaction
+ptm increasing an interaction
+ptm disrupting an interaction
+lap tag
+pyo tag
+uridylation assay
+uridylation reaction
+aminomethylcoumarin label
+aggregation assay
+resulting - cleavage
+silac
+thermal shift binding
+proline isomerase assay
+proline isomerization  reaction
+mass spectrometry studies of subunit exchange
+amino - acid variant
+disease causing amino - acid variant
+variant
+fc - igg1
+fc - igg2
+mkate2
+mkate
+ion mobility mass spectrometry of complexes
+microscale thermophoresis
+bodipy label
+isomerase assay
+isomerase reaction
+methylmalonyl - coa isomerase reaction
+methylmalonyl - coa isomerase asf say
+atto 532
+atto 647
+stilbene label
+luminscent dye label
+rhodamine label
+tetramethyl rhodamine label
+acrylodan label
+pyrene label
+oregon green label
+iid
+molecular connections
+ntnu
+ubiquitin reconstruction tag
+cub
+nub
+nubg
+duplicated protein
+xpress tag
+enhancement
+positive epistasis
+maximal epistasis
+minimal epistasis
+neutral epistasis
+opposing epistasis
+qualitative epistasis
+mutual enhancement
+unilateral enhancement
+mutual suppression
+mutual suppression  ( complete )
+mutual suppression  ( partial )
+suppression - enhancement
+quantitative epistasis
+over - suppression
+mutual over - suppression
+over - suppression - enhancement
+phenotype bias
+suppression  ( complete )
+suppression  ( partial )
+unilateral suppression
+unilateral suppression  ( complete )
+unilateral suppression  ( partial )
+unilateral over - suppression
+amino acid analysis
+phosphoamino acid analysis
+complex type
+complex composition
+obligate complex
+non - obligate complex
+stable complex
+transient complex
+molecule set
+candidate set
+open set
+defined set
+resulting sequence
+de - adp - ribosylation assay
+de - adp - ribosylation reaction
+differential scanning calorimetry
+aut - page
+proximity labelling technology
+proximity - dependent biotin identification
+complex recommended name
+complex systematic name
+eukaryotic linear motif resource
+sulfate donor
+sulfate acceptor
+membrane yeast two hybrid
+ire1 reconstruction
+atto 465
+tag visualisation by alkaline phosphatase activity
+conditioned medium
+sulfurtransferase assay
+clone of phosphotransfer reaction
+sulfurtransfer reaction
+coumarin label
+cpm
+dnp
+evidence ontology
+bhf - ucl
+rogid
+rigid
+hpidb
+experiment database
+efo
+eef tag
+supercharged green fluorescent protein
+human orfeome collection
+set member
+qcmd
+enzyme regulator
+erythrosin iodoacetamide label
+rho tag
+bmrb
+protein ontology
+chembl target
+chembl
+orphanet
+inferred - from
+uracil interference assay
+au5 tag
+lipase assay
+lipid cleavage
+validated two hybrid
+rnacentral
+drugbank
+commercial name
+drug brand name
+drug mixture brand name
+biotech product preparation
+iupac name
+chemical formula
+chemical structure
+standard inchi
+cas registry number
+kegg compound
+pharmgkb
+bind smid
+heterogen
+canadian drug identification number
+rxlist link
+material safety data sheet
+patent number
+molecular weight
+melting point
+water solubility
+logp
+isoelectric point
+hydrophobicity
+boiling point
+smiles string
+drug type
+drug category
+disease indication
+pharmacology
+mechanism of action
+drug absorption
+lethal dose 50
+percentage of plasma protein binding
+drug biotransformation
+elimination half life
+dosage form
+patient information
+contraindications
+bioactive entity reference
+chemical stability
+solubility
+organisms affected
+physicochemical attribute name
+bioactive entity attribute name
+structure representation attribute name
+anti - convulsant
+anti - bacterial
+fda approved drug
+experimental drug
+biotech drug
+nutraceutical drug
+pka
+degree of ionisation ph 7 .4
+logd
+solubility ph 7 .4
+solubility in dmso
+diffusion coefficient
+chemical stability at ph 2
+dissolution profile
+pharmacokinetics attribute name
+cell permeability
+volume of distribution
+tissue distribution
+transporter binding
+clearance
+renal clearance
+total clearance
+maximum absorbable dose
+paracellular absorption
+tmax / cmax
+abcb1 transporter substrate
+bile transporter substrate
+cyp - 450 inhibition
+metabolite identification
+gsh adducts
+neutralization by glucuronidation or sulfatation
+toxicity attribute name
+herg binding
+genotoxicity
+mutagenicity
+carcinogenicity
+chromosome damage
+hepatotoxicity
+phospholipidosis
+solubility ph 6 .5
+solubility ph 2 .0
+chemical stability at ph 7 .4
+investigational drug
+withdrawn drug
+illicit drug
+other drug interaction
+food interaction
+pdr health
+wikipedia
+average molecular weight
+monoisotopic molecular weight
+experimental water solubility
+predicted water solubility
+logs
+experimental logs
+experimental caco2 permeability
+by homology
+mind
+bar
+ai
+kinetic exclusion assay
+conditional site labelling
+luminiscence technology
+bimolecular luminiscence complementation
+complemented donor - acceptor resonance energy transfer
+aspgd
+cgd
+ecoliwiki
+genedb
+gramene
+pombase
+agi_locuscode
+subset
+agbase
+cacao
+dflat
+go_central
+mtbbase
+parkinsonsuk - ucl
+alut
+ri
+par - clip
+avexis
+long non - coding ribonucleic acid
+clip
+clip - seq
+iclip
+crac
+clash
+quartz crystal microbalance
+probe interaction assay
+labelling assay
+specific site - labelling technology
+primesdb
+dna chemical modification
+rna chemical modification
+primer extension assay
+micro rna
+pir
+observed nucleic acid chemical modification
+resulting nucleic acid chemical modification
+prerequisite - nucleic acid chemical modification
+nucleic acid chemical modification decreasing an interaction
+nucleic acid chemical modification disrupting an interaction
+nucleic acid chemical modification increasing an interaction
+proteomexchange
+super - resolution microscopy
+signor
+barcode fusion genetics two hybrid
+deampylation assay
+luciferase - c
+luciferase - n
+gaussia luciferase protein tag
+gaussia - c
+gaussia - n
+inference by socio - affinity scoring
+inference by quantitative co - purification
+chemical rna modification plus base pairing prediction
+zinc
+mutation with no effect
+mutation causing an interaction
+ceitec
+nucleicacid - gene
+nucleicacid - nucleicacid
+coexpression
+molecular association
+causal interaction
+causal statement
+up - regulates
+up - regulates activity
+up - regulates quantity
+up - regulates quantity by expression
+up - regulates quantity by stabilization
+down - regulates
+down - regulates activity
+down - regulates quantity
+down - regulates quantity by repression
+down - regulates quantity by destabilization
+causal regulatory mechanism
+indirect causal regulation
+transcriptional regulation
+translation regulation
+post transcriptional regulation
+direct causal regulation
+transcriptional regulation by direct binding of dbtf to dna regulatory element
+guanine nucleotide exchange factor reaction
+gtpase - activating protein reaction
+chemical activation reaction
+chemical inhibition reaction
+relocalization
+small molecule catalysis reaction
+xenobiotic
+causal interactor type
+stimulus
+phenotype
+causal regulatory modification
+s - nitrosylation
+tyrosinated residue
+de - acetylated residue
+de - phosphorylated residue
+de - sumoylated residue
+de - methylated residue
+de - ubiquitinylated residue
+signalink
+edam
+tyrosinylation
+tyrosination
+regulator
+regulator target
+carbohydrate chemical modification
+cr - two hybrid
+polymer chain length
+complex portal
+deamidation reaction
+deamidation assay
+complex - primary
+southwestern blotting
+complex component
+mirna interference luciferase reporter assay
+functional association
+identification by structure determination
+dap - seq
+virotrap
+optical tweezers
+atomic force microscopy cantilevers
+magnetic tweezers
+5' position
+5' range
+3' position
+3' range
+carbohydrate chemical modification causing an interaction
+carbohydrate chemical modification with no effect
+carbohydrate chemical modification decreasing interaction
+carbohydrate chemical modification decreasing interaction rate
+carbohydrate chemical modification decreasing interaction strength
+carbohydrate chemical modification disrupting interaction
+carbohydrate chemical modification disrupting interaction strength
+carbohydrate chemical modification disrupting interaction rate
+carbohydrate chemical modification increasing interaction
+carbohydrate chemical modification increasing interaction strength
+carbohydrate chemical modification increasing interaction rate
+attached carbohydrate
+attached carbohydrate causing an interaction
+attached carbohydrate with no effect
+attached carbohydrate decreasing interaction
+attached carbohydrate increasing interaction
+attached carbohydrate increasing interaction strength
+attached carbohydrate increasing interaction rate
+attached carbohydrate disrupting interaction rate
+attached carbohydrate disrupting interaction strength
+attached carbohydrate disrupting interaction
+force measurement
+surface force measurement
+aruk - ucl
+high - throughput sequencing
+illumina dye sequencing
+kiss
+dbsnp
+nanoluc luciferase protein tag
+nanoluc - n
+nanoluc - c
+snap tag
+hydrophobic interaction chromatography
+sumo tag
+phage library
+g1 spin label
+mutation with complex effect
+luminescence donor
+luminescence acceptor
+luminescence acceptor donor pair
+chemiluminiscence donor
+electron tomography
+electron microscopy 3d single particle reconstruction
+electron microscopy 3d helical reconstruction
+luminescence transmitter
+partial identity match
+genomic coordinates
+rhea
+pa tag
+target tag
+biorxiv
+sequential bret - fret
+clinvar
+empiar
+enhancer gene
+enhanced gene
+epistatic gene
+part of
+genetic interaction  ( sensu unexpected )
+obsolete suppression
+synthetic genetic interaction
+asynthetic genetic interaction
+genetic suppression  ( sensu unexpected )
+genetic epistasis  ( sensu bateson )
+neutral multigenic phenotype result
+diverging genetic interaction
+obsolete neutral genetic interaction
+converging genetic interaction
+genetic enhancement  ( sensu unexpected )
+converging genetic epistasis
+maximal genetic epistasis
+minimal genetic epistasis
+obsolete neutral epistasis
+opposing genetic epistasis
+qualitative genetic epistasis
+mutual genetic enhancement  ( sensu unexpected )
+monophenotypic genetic enhancement
+cisphenotypic genetic suppression
+mutual genetic suppression  ( complete )
+cisphenotypic genetic suppression  ( partial )
+cisphenotypic inter - suppressing genetic interaction
+quantitative genetic epistasis
+surpassing genetic interaction
+mutual genetic over - suppression
+transphenotypic enhancing genetic interaction
+obsolete phenotype bias
+genetic suppression  ( complete )
+genetic suppression  ( partial )
+monophenotypic genetic suppression
+monophenotypic genetic suppression  ( complete )
+monophenotypic genetic suppression  ( partial )
+monophenotypic genetic over - suppression
+hypostatic gene
+adp deribosylase assay
+adp deribosylation reaction
+kcat / km
+mirbase
+ds rna
+beta gal tag
+split intein - mediated protein ligation
+ic tag
+in tag
+proximity
+fluorescent protein - protein interaction - visualization
+multigenic phenotype result
+genetic interaction  ( sensu phenotype modification )
+phenotypic enhancement  ( sensu biogrid )
+synthetic growth defect  ( sensu biogrid )
+synthetic lethality  ( sensu biogrid )
+positive genetic interaction  ( sensu biogrid )
+synthetic haploinsufficiency  ( sensu biogrid )
+negative genetic interaction  ( sensu biogrid )
+phenotypic suppression  ( sensu biogrid )
+synthetic rescue  ( sensu biogrid )
+dosage rescue  ( sensu biogrid )
+dosage lethality  ( sensu biogrid )
+dosage growth defect  ( sensu biogrid )
+genetic suppression
+genetic enhancement
+aphenotypic phenotype result
+monophenotypic phenotype result
+phenotype result
+multiple perturbation phenotype result
+cisphenotypic phenotype result
+isophenotypic phenotype result
+transphenotypic phenotype result
+genetic over - suppression
+mutual genetic suppression
+transphenotypic genetic suppression
+transphenotypic genetic suppression  ( complete )
+mutual genetic enhancement  ( expected )
+transphenotypic genetic suppression  ( expected )
+cisphenotypic genetic suppression  ( complete )
+cisphenotypic co - suppressing genetic interaction
+aphenotypic neutral multigenic phenotype result
+deleterious multigenic phenotype result
+monophenotypic neutral multigenic phenotype result
+mutual genetic enhancement
+bira tag
+two hybrid bait and prey pooling approach

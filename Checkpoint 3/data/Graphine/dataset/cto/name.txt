@@ -1,0 +1,238 @@
+continuant
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+continuant fiat boundary
+process profile
+relational quality
+molecular entity
+chemical entity
+secondary identifier
+australian new zealand clinical trials registry identifier
+australian new zealand clinical trials registry
+peruvian clinical trial registry identifier
+masking design
+non - random allocation
+study summary result
+secondary outcome measure information
+iranian registry of clinical trials
+other outcome measure information
+indian clinical trials registry
+the netherlands national trial register
+iranian registry of clinical trials identifier
+german clinical trials register identifier
+cuban public registry of clinical trials
+clinical trial outcome measurement
+pan african clinical trial registry
+the netherlands national trial register identifier
+japic clinical trials registry
+pan african clinical trial registry identifier
+chinese clinical trail registry identifier
+lebanese clinical trials registry
+german clinical trials register
+jmacct clinical trials registry
+number of participants
+brazilian clinical trial registry identifier
+clinical trial phase 2 / 3
+study result
+healthy volunteer criterion
+primary outcome measure information
+eu clinical trials register
+umin clinical trials registry
+outcome measure result
+human subjects protection review board status
+korean clinical trials registry
+phase not applicable
+retrospective study design
+international standard randomised controlled trial register identifier
+clinical trial phase 1 / 2
+prospective study design
+thai clinical trials registry identifier
+chinese clinical trial registry
+thai clinical trials registry
+outcome specification
+indian clinical trial registry identifier
+brazilian clinical trials registry
+jrct clinical trial identifier
+cuban public registry of clinical trials identifier
+lebanese clinical trials registry identifier
+primary registry
+peruvian clinical trial registry
+sri lanka clinical trials registry
+clinicaltrial .gov registry
+clinical trials registry organization
+double blinded design
+single blinded design
+open blinded design
+sequential design
+single arm design
+clinical trial primary purpose specification
+clinical trial phase
+clinical trial early phase 1
+clinical trial phase 1
+clinical trial phase 2
+clinical trial phase 3
+clinical trial phase 4
+early phase 1 clinical trial
+jmacct clinical trial identifier
+umin - ctr clinical trial identifier
+usa national clinical trial identifier
+study start date
+clinical trial primary completion date
+clinical trial study completion date
+title of clinical trial
+lay title of clinical trial
+official title of clinical trial
+clinical trial
+drug product
+epidemiological study
+medical device
+feasibility study
+registry
+objective specification
+action specification
+data item
+information content entity
+directive information entity
+curation status specification
+report
+data about an ontology part
+plan specification
+textual entity
+document
+postal address
+centrally registered identifier
+contact affiliation
+clinical trial final report
+patient registry study
+device feasibility study
+study type
+random allocation
+study primary purpose
+gene therapy
+health services research
+surgical procedure
+phase i trial
+phase ii trial
+phase iii trial
+phase iv trial
+phase i / ii trial
+phase ii / iii trial
+basic research
+observational study
+condition or disease under study
+personal attribute
+age
+clinical study protocol
+sponsor
+diagnosis study
+treatment study
+prevention study
+planned subject number
+allocation
+contact information
+clinical study sponsor
+study protocol
+blinded clinical study
+screening study
+supportive care study
+factorial study
+collaborator
+test facility country
+test facility name
+study condition
+interventional study
+clinical trial registry identifier
+expanded access study
+intervention type
+primary outcome measure
+secondary outcome measure
+adverse event
+medical intervention
+drug administration
+therapeutic intervention
+medical procedure
+planned process
+investigation
+assay
+responsible party role
+intervention design
+investigation agent role
+sponsor role
+organization
+protocol
+informed consent process
+device
+country name
+selection criterion
+selection
+value specification
+age group inclusion criterion
+minimum age value specification
+maximum age value specification
+sex inclusion criterion
+case - control study design
+observation design
+study design
+repeated measure design
+cross over design
+n - to - 1 design
+parallel group design
+factorial design
+eligibility criterion
+inclusion criterion
+exclusion criterion
+human subject enrollment
+clinical finding
+clinical history
+preclinical finding
+disease
+pathological bodily process
+diagnosis
+longitudinal study design
+cohort study design
+role in human social processes
+legal person role
+telephone number
+contact name
+medical condition
+investigator
+clinical investigator
+clinical trial start date
+study completion date
+date of registration
+recruitment status
+study status
+combinational intervention
+behavioral intervention
+contact person
+facility contact
+investigator role
+contact person role
+central contact person of study
+contact person information
+primary sponsor role
+secondary sponsor role
+principal investigator role
+sponsor investigator role
+investigation collaborator role
+human subject study
+biological sex
+female
+male
+process quality
+physical object quality
+phenotypic sex
+organismal quality
+condition
+vaccination
+phase 1 vaccine trial
+phase 2 vaccine trial
+phase 3 vaccine trial
+phase 4 vaccine trial
+vaccine clinical trial

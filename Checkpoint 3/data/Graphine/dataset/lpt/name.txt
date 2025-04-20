@@ -1,0 +1,458 @@
+livestock product trait
+milk alpha - casein content
+egg yolk color
+drumstick bone weight
+shoulder external fat weight
+dressed carcass width
+meat fatty acid c20:0 content
+meat fatty acid cis - 5 , 8 , 11 , 14 - c20:4 content
+milk fatty acid c15:0 content
+milk fatty acid c24:0 content
+milk fatty acid c12:1 ( n - 3 )  content
+meat monounsaturated fatty acid content
+meat fatty acid cis - 9 - c14:1 content
+meat fatty acid c20:5 ( n - 3 )  content
+loin weight
+meat fatty acid c22:4 content
+meat fatty acid c22:5 content
+meat fatty acid c22:6 content
+meat fatty acid c20:3 content
+meat polyunsaturated fatty acid content
+dressed carcass muscle weight
+dressed carcass bone weight
+loin external fat weight
+loin muscle weight
+shoulder fat weight
+egg organoleptic trait
+dressed carcass fat weight
+loin fat weight
+shoulder bone weight
+meat water content
+milk fatty acid cis - 10 - c17:1 content
+milk fatty acid cis - 11 - c18:1 content
+thigh bone weight
+meat fatty acid cis - 11 - c18:1 content
+meat fatty acid cis - 10 - c17:1 content
+meat omega - 3 polyunsaturated fatty acid content
+meat fatty acid c15:0 content
+meat conjugated linoleic acid content
+ham fat weight
+loin size trait
+rib weight
+ham size trait
+ham fat thickness
+egg odor intensity
+egg shell stiffness
+meat estrone content
+meat glucose - 6 - phosphate content
+dressed carcass size trait
+dressed carcass composition trait
+dressed carcass bone content
+dressed carcass fat content
+dressed carcass bone percentage
+dressed carcass muscle content
+dressed carcass fat percentage
+dressed carcass muscle percentage
+dressed carcass subdivision trait
+rib thickness
+drumstick trait
+rib trait
+drumstick percentage
+belly trait
+shoulder trait
+ham trait
+ham composition trait
+loin trait
+loin percentage
+loin composition trait
+belly size trait
+belly composition trait
+ham percentage
+shoulder size trait
+shoulder composition trait
+shoulder percentage
+drumstick size trait
+drumstick composition trait
+ham fat percentage
+belly percentage
+belly muscle percentage
+shoulder bone percentage
+shoulder fat percentage
+shoulder muscle percentage
+thigh trait  ( poultry )
+thigh muscle percentage
+thigh composition trait  ( poultry )
+leg trait
+leg weight
+leg percentage
+leg muscle weight
+leg size trait
+breast trait  ( poultry )
+total breast muscle weight
+total breast muscle percentage
+pectoralis major weight
+pectoralis minor weight
+pectoralis major percentage
+pectoralis minor percentage
+leg composition trait
+intramuscular fat content
+intermuscular fat content
+meat fatty acid c10:0 content
+meat fatty acid cis - 10 - c15:1 content
+meat fatty acid c12:0 content
+wing trait
+wing percentage
+meat physiochemical trait
+meat conductivity
+meat temperature
+dressing percentage
+meat fatty acid cis - 12 - c18:1 content
+meat fatty acid trans - 6 / 9 - c18:1 content
+meat iron content
+meat zinc content
+breast weight
+breast percentage
+egg aftertaste trait
+fleece yield
+coagulated milk firming rate
+meat fatty acid c13:0 content
+meat fatty acid trans - 15 - c18:1 content
+meat fatty acid trans - 12 - c18:1 content
+meat omega - 6 polyunsaturated fatty acid content
+meat fatty acid c24:0 content
+loin fat percentage
+loin fat thickness
+milk vitamin b - 12 content
+meat fatty acid cis - 6 , 9 , 12 - c18:3 content
+meat fatty acid c22:1 content
+rib fat content
+leg fat weight
+milk non - fat solids content
+dressed carcass ash content
+belly fat area
+meat calpain activity
+dressed carcass fat - free weight
+meat aldehyde content
+belly thickness
+meat connective tissue content
+connective tissue protein content
+meat collagen content
+meat stiffening trait
+thigh size trait  ( poultry )
+thigh percentage
+meat fatty acid trans - 16 - c18:1 content
+meat fatty acid trans - 11 , cis - 15 - c18:2 content
+ham muscle percentage
+breast size trait  ( poultry )
+breast composition trait  ( poultry )
+drumstick muscle percentage
+meat fatty acid c21:0 content
+wool crimp
+meat fatty acid trans - 9 - c18:1 content
+milk fatty acid c13:0 content
+milk fatty acid cis - 9 - c10:1 content
+milk fatty acid cis - 9 - c20:1 content
+milk fatty acid cis - 8 , 11 , 14 - c20:3 content
+milk fatty acid trans - 9 - c16:1 content
+milk fatty acid trans - 16 - c18:1 content
+milk cis fatty acid content
+milk composition trait
+egg albumen flavor trait
+total milk volume trait
+stripping milk volume trait
+residual milk volume trait
+egg specific gravity trait
+milk structure trait
+dressed carcass yield
+milk fat yield
+milk protein yield
+milk alpha - lactalbumin yield
+egg physiology trait
+colostrum trait
+colostrum immunoglobulin content
+milk fat composition trait
+colostrum yield
+colostrum somatic cell count
+milk beta - lactoglobulin content
+milk whey acidic protein content
+milk lactoferrin content
+colostrum hormone content
+colostrum steroid content
+colostrum leptin content
+colostrum prolactin content
+colostrum growth factor content
+milk dry matter content
+milk hormone content
+milk steroid content
+milk leptin content
+milk growth factor content
+milk casein content
+milk alpha - s1 - casein content
+milk alpha - s2 - casein content
+milk kappa - casein content
+milk beta - casein content
+milk nitrogen content
+milk lactose yield
+milk lactose content
+milk mineral content
+milk mineral yield
+milk calcium content
+milk potassium content
+milk sodium content
+milk phosphorus content
+milk chloride content
+milk magnesium content
+milk flavor intensity
+milk odor intensity
+milk texture trait
+milk color
+milk color redness
+milk color reflectivity
+milk color yellowness
+milk fatty acid content
+milk saturated fatty acid content
+milk unsaturated fatty acid content
+milk fatty acid c4:0 content
+milk fatty acid c5:0 content
+milk fatty acid c6:0 content
+milk fatty acid c7:0 content
+milk fatty acid c8:0 content
+milk fatty acid c9:0 content
+milk fatty acid c10:0 content
+milk fatty acid c11:0 content
+milk fatty acid c12:0 content
+milk fatty acid c14:0 content
+milk fatty acid c16:0 content
+milk fatty acid c17:0 content
+milk fatty acid c18:0 content
+milk fatty acid c20:0 content
+milk fatty acid c22:0 content
+milk trans fatty acid content
+milk omega - 3 fatty acid content
+milk omega - 6 fatty acid content
+milk conjugated linoleic acid content
+milk fatty acid cis - 9 , cis - 12 - c18:2 content
+milk fatty acid cis - 9 - c14:1 content
+milk fatty acid cis - 11 - c16:1 content
+milk fatty acid cis - 9 - c17:1 content
+milk fatty acid trans - 11 - c18:1 content
+milk fatty acid trans - 4 - c18:1 content
+milk fatty acid trans - 5 - c18:1 content
+milk fatty acid trans - 6 / 8 - c18:1 content
+milk fatty acid trans - 9 - c18:1 content
+milk fatty acid trans - 10 - c18:1 content
+milk fatty acid trans - 13 - 14 - c18:1 content
+milk fatty acid cis - 14 / trans - 16 - c18:1 content
+milk fatty acid cis - 12 - c18:1 content
+milk fatty acid cis - 13 - c18:1 content
+milk fatty acid cis - 15 - c18:1 content
+milk fatty acid cis - 9 , trans - 13 - c18:2 content
+milk fatty acid cis - 9 , trans - 12 - c18:2 content
+milk fatty acid trans - 9 , cis - 12 - c18:2 content
+milk fatty acid trans - 9 , trans - 12 - c18:2 content
+milk fatty acid trans - 9 , trans - 14 - c18:2 content
+milk fatty acid trans - 11 , cis - 15 - c18:2 content
+milk fatty acid trans - 11 , trans - 15 - c18:2 content
+milk fatty acid cis - 9 , cis - 11 - c18:2 content
+milk fatty acid cis - 9 , trans - 11 - c18:2 content
+milk fatty acid cis - 12 , trans - 14 - c18:2 content
+milk fatty acid trans - 7 , cis - 9 - c18:2 content
+milk fatty acid trans - 8 , cis - 10 - c18:2 content
+milk fatty acid trans - 9 , cis - 11 - c18:2 content
+milk fatty acid trans - 10 , cis - 12 - c18:2 content
+milk fatty acid trans - 11 , cis - 13 - c18:2 content
+milk fatty acid trans - 12 , cis - 14 - c18:2 content
+milk fatty acid trans - 7 , trans - 9 - c18:2 content
+milk fatty acid trans - 8 , trans - 10 - c18:2 content
+milk fatty acid trans - 9 , trans - 11 - c18:2 content
+milk fatty acid trans - 10 , trans - 12 - c18:2 content
+milk fatty acid trans - 11 , trans - 13 - c18:2 content
+milk fatty acid trans - 12 , trans - 14 - c18:2 content
+milk fatty acid cis - 8 - c20:1 content
+milk fatty acid cis - 11 - c20:1 content
+milk fatty acid c20:4 ( n - 6 )  content
+milk fatty acid c20:5 ( n - 3 )  content
+milk fatty acid c22:5 ( n - 3 )  content
+milk fatty acid c22:6 ( n - 3 )  content
+milk fatty acid c18:3 ( n - 3 )  content
+milk fatty acid c20:2 content
+milk fatty acid cis - 9 - c18:1 content
+milk fatty acid cis - 9 - c16:1 content
+milk monounsaturated fatty acid content
+milk polyunsaturated fatty acid content
+milk total calcium content
+milk soluble calcium content
+milk free calcium content
+milk colloidal calcium content
+milk epithelial cell count
+milk beta carotene content
+milk triglyceride content
+milk cholesterol content
+milk cholesterol ester content
+milk diacylglycerol content
+milk monoacylglycerol content
+milk phospholipid content
+milk polyphenol content
+milk butyrophilin content
+milk xanthine oxidoreductase content
+milk adipophilin content
+milk mucin 1 content
+milk cd36 molecule content
+milk casein micelle size
+miik fat globule size trait
+milk stomatin content
+milk fat globule - egf factor 8 protein content
+milk plasmin content
+milk urea content
+milk ammonia content
+milk fat globule diameter trait
+milk fat globule surface area trait
+milk technological trait
+milk coagulation time
+coagulated milk firmness
+milk churning time
+milk heat stability
+milk ph
+milk viscocity
+milk organoleptic trait
+milk brown flavor intensity
+milk butyric acid flavor intensity
+milk cardboard flavor intensity
+milk cooked flavor intensity
+milk overall dairy flavor intensity
+milk dairy fat flavor intensity
+milk dairy sweet flavor intensity
+milk feed flavor intensity
+milk fermented flavor intensity
+milk flat flavor intensity
+milk floral flavor intensity
+milk grainy flavor intensity
+milk green flavor intensity
+milk lack of freshness flavor intensity
+milk light - oxidized flavor intensity
+milk malt flavor intensity
+milk medicinal flavor intensity
+milk metallic flavor intensity
+milk dusty flavor intensity
+milk earthy flavor intensity
+milk oily flavor intensity
+milk plastic flavor intensity
+milk sweet flavor intensity
+milk vanilla flavor intensity
+milk sour aromatics flavor intensity
+milk sour flavor intensity
+milk nutty flavor intensity
+milk bitter flavor intensity
+milk astringent flavor intensity
+milk rancid flavor intensity
+colostrum immunoglobulin a content
+colostrum immunoglobulin g content
+colostrum immunoglobulin m content
+meat organoleptic trait
+meat structure trait
+egg trait
+meat trait
+milk trait
+retail product yield
+dressed carcass trait
+milk volume trait
+meat lipid content
+meat protein content
+meat androstenone content
+meat fatty acid content
+meat indole content
+meat lactate content
+meat nitrogen content
+meat skatole content
+meat cholesterol content
+meat saturated fatty acid content
+meat unsaturated fatty acid content
+meat fatty acid c14:0 content
+meat fatty acid c16:0 content
+meat fatty acid c17:0 content
+meat fatty acid c18:0 content
+meat fatty acid c18:3 ( n - 3 )  content
+meat fatty acid c20:2 content
+meat fatty acid c20:1 content
+meat fatty acid cis - 9 , cis - 12 - c18:2 content
+meat fatty acid cis - 9 - c16:1 content
+meat fatty acid cis - 9 - c18:1 content
+meat fatty acid trans - 11 - c18:1 content
+egg morphology trait
+milk somatic cell count
+meat color
+meat odor intensity
+meat texture trait
+dressed carcass weight
+milk yield trait
+milk fat content
+milk protein content
+drumstick weight
+thigh muscle weight
+thigh weight
+wing weight
+drumstick muscle weight
+egg albumen height
+egg albumen weight
+egg shell color
+egg shape
+egg shell strength
+egg shell thickness
+egg shell weight
+long length of egg trait
+egg width
+egg yolk weight
+white meat weight
+egg shell redness
+egg shell reflectivity
+egg shell yellowness
+belly weight
+dressed carcass length
+shoulder weight
+trimmed wholesale product weight
+meat androstenone flavor intensity
+meat skatole flavor intensity
+meat flavor intensity
+meat color redness
+meat color yellowness
+meat color reflectivity
+meat hematin content
+ham external fat weight
+ham muscle weight
+ham weight
+egg weight
+pork odor intensity  ( lean )
+pork odor intensity  ( fat )
+pork odor intensity
+meat chewiness trait
+meat cooking loss trait
+meat drip loss trait
+meat firmness
+meat juiciness
+meat tenderness
+meat water holding capacity
+meat ph
+egg albumen morphology trait
+egg shell morphology trait
+egg yolk morphology trait
+egg yolk diameter
+egg yolk height
+shoulder muscle weight
+dressed carcass subdivision size
+ham bone weight
+milk energy yield
+carcass temperature
+sarcomere length
+neck weight
+jowl weight
+pork flavor intensity  ( fat )
+pork flavor intensity  ( lean )
+beef flavor intensity
+pork flavor intensity
+beef odor intensity
+meat androstenone odor intensity
+meat skatole odor intensity
+meat composition trait
+meat mineral content
+egg size
+part_of

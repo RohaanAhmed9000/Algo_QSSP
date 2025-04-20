@@ -1,0 +1,537 @@
+plant exposure
+plant growth environment
+organic chemical exposure
+inorganic chemical exposure
+nickel exposure
+phosphate exposure
+mineral salt exposure
+sulfate exposure
+inorganic anion exposure
+carbohydrate exposure
+monosaccharide exposure
+hexose exposure
+glucose exposure
+disaccharide exposure
+sucrose exposure
+inorganic cation exposure
+ammonium exposure
+cadmium exposure
+organic gas exposure
+carbon dioxide exposure
+ozone exposure
+gamma radiation exposure
+agar growth medium exposure
+vertical agar growth medium exposure
+urea nitrogen exposure
+mta nitrogen exposure
+alanine nitrogen exposure
+glutamate nitrogen exposure
+arginine nitrogen exposure
+ornithine nitrogen exposure
+glutamine nitrogen exposure
+hymenoptera insect plant exposure
+parasitic wasp insect plant exposure
+pseudomonas syringae plant exposure
+stratification exposure
+chemical stress exposure
+oxidative stress exposure
+osmotic stress exposure
+radiation mutagen exposure
+light - induced photooxidative stress exposure
+limited zinc exposure
+limited boron exposure
+limited glucose exposure
+limited carbon exposure
+limited sulfate exposure
+limited phosphate exposure
+limited iron exposure
+limited molybdenum exposure
+limited magnesium exposure
+limited nitrogen exposure
+limited potassium exposure
+limited sulfur exposure
+limited manganese exposure
+limited nitrate exposure
+inorganic gas exposure
+elevated carbon dioxide exposure
+abnormal stratification exposure
+glomeromycota exposure
+arbuscular mycorrhizal fungal exposure
+sodium hydroxide exposure
+polyethylene glycol exposure
+control exposure
+paper towel growth medium
+potassium fertilizer exposure
+potassium chloride exposure
+nematicide exposure
+castor meal exposure
+rapeseed meal exposure
+green manure exposure
+calcium carbonate exposure
+uv - b light exposure
+uv - a light exposure
+temperate region exposure
+viridiplantae plant exposure
+monocot mixed crop neighbor
+monocot weed plant neighbor
+monochoria vaginalis exposure
+eudicotyledon exposure
+sagittaria montevidensis exposure
+sagittaria longiloba exposure
+heteranthera limosa exposure
+echinodorus berteroi exposure
+echinodorus cordifolius exposure
+ammannia spp . exposure
+bacopa spp . exposure
+cyperus difformis exposure
+scirpus fluviatilis exposure
+cyperus iria exposure
+scirpus mucronatus exposure
+alisma plantago - aquatica exposure
+liliopsida exposure
+gaseous exposure
+aerobic environment exposure
+anaerobic environment exposure
+echinochloa glabrescens exposure
+seasonal environment exposure
+echinochloa crus - galli exposure
+typha spp . exposure
+leptochloa fascicularis exposure
+mammalia exposure
+rabi season exposure
+kharif season exposure
+winter season exposure
+summer season exposure
+spring season exposure
+autumn season exposure
+dicot weed plant neighbor
+dicot mixed crop neighbor
+antibiotic exposure
+non - mineral nutrient exposure
+mineral exposure
+primary plant macronutrient exposure
+secondary macronutrient exposure
+other nutrient exposure
+sodium chloride exposure
+soil environment exposure
+soil texture exposure
+sand content exposure
+organic matter content exposure
+silt content exposure
+clay content exposure
+cochliobolus spp . exposure
+soil flora
+soil fauna
+soil ph environment exposure
+acidic ph soil environment exposure
+sphaerulina oryzina exposure
+tropical region exposure
+basic ph soil environment exposure
+diuron exposure
+ecological environment exposure
+entyloma oryzae exposure
+cytokinin exposure
+hydroponic plant culture media exposure
+ethylene exposure
+gibberellic acid exposure
+indole acetic acid exposure
+suspension cell culture medium exposure
+microdochium oryzae exposure
+basidiomycota exposure
+auxin exposure
+tilletia barclayana exposure
+light quantity exposure
+sulfate fertilizer exposure
+jasmonic acid exposure
+phoma sorghina exposure
+other animals exposure
+fertilizer exposure
+chemical fertilizer exposure
+natural fertilizer exposure
+ceratobasidium oryzae - sativae exposure
+bone meal exposure
+ammonium nitrate exposure
+seaweed extract exposure
+wood ash exposure
+fish meal exposure
+sodium nitrate exposure
+calcium nitrate exposure
+potassium nitrate exposure
+ammonium sulfate exposure
+ferrous sulfate exposure
+potassium sulfate exposure
+superphosphate exposure
+urea exposure
+nitrogen fertilizer exposure
+phosphate fertilizer exposure
+npk fertilizer exposure
+abscisic acid exposure
+stramenopiles exposure
+ascomycota exposure
+proteobacterial plant exposure
+ssrna positive - strand virus with no dna stage exposure
+dsrna virus exposure
+ssrna negative - strand virus exposure
+retroid virus exposure
+rice necrosis mosaic virus exposure
+lepidoptera exposure
+spodoptera spp . exposure
+hemiptera insect plant exposure
+pseudaletia spp . exposure
+gibberella spp . exposure
+dipteran insect plant exposure
+coleoptera exposure
+thysanoptera exposure
+chilo exposure
+eysarcoris trimaculatus exposure
+pest / pathogen / animal / plant environment
+genetic environment
+hirschmaniella spp . exposure
+meloidogyne spp . exposure
+intermittent light exposure
+uv - c light exposure
+near infra - red light exposure
+middle infra - red light exposure
+far infra - red light exposure
+basic ph growth media environment exposure
+acidic ph growth media environment exposure
+magnaporthe spp . exposure
+achlya spp . exposure
+echinochloa spp . exposure
+echinodorus spp . exposure
+sagittaria spp . exposure
+scirpus spp . exposure
+cyperus spp . exposure
+scirpophaga spp . exposure
+erwinia plant exposure
+pseudomonas plant exposure
+xanthomonas plant exposure
+gravity exposure
+plant growth medium exposure
+xanthomonas oryzae exposure
+chemical mutagen exposure
+facultative anaerobic environment
+radiation exposure
+radiation intensity exposure
+radiation quantity exposure
+radiation quality exposure
+soil type exposure
+water temperature exposure
+air temperature exposure
+continuous light exposure
+day light exposure
+standing deep water exposure
+growth hormone exposure
+pythium spinosum exposure
+pesticide exposure
+hygromycin exposure
+ph exposure
+flood water exposure
+warm / hot temperature exposure
+cold temperature exposure
+temperature environment exposure
+altitude exposure
+pythium myriotylum exposure
+atmospheric pressure exposure
+pythium irregulare exposure
+2 , 4 - dichlorophenoxyacetic acid exposure
+rainfall exposure
+pythium graminicola exposure
+herbicide exposure
+pythium dissotocum exposure
+salt exposure
+pythium catenulatum exposure
+salicylic acid exposure
+pythium arrhenomanes exposure
+chemical exposure
+ustilaginoidea virens exposure
+abiotic plant exposure
+drechslera gigantea exposure
+sclerospora macrospora exposure
+rice ragged stunt virus exposure
+light exposure
+humidity exposure
+water environment exposure
+long day length exposure
+short day length exposure
+ir light exposure
+far red light exposure
+1 - naphthaleneacetic acid exposure
+rice grassy stunt 2 virus exposure
+gaeumannomyces graminis exposure
+red light exposure
+rice grassy stunt 1 virus exposure
+phomopsis oryzae - sativae exposure
+virus plant exposure
+cochliobolus miyabeanus exposure
+mycoplasma exposure
+alternaria spp . exposure
+orange light exposure
+yellow light exposure
+green light exposure
+blue light exposure
+indigo light exposure
+violet light exposure
+visible light exposure
+uv light exposure
+cadmium chloride exposure
+light intensity exposure
+fluorine nutrient exposure
+magnaporthe grisea exposure
+cochliobolus lunatus exposure
+chromium nutrient exposure
+gibberella fujikuroi exposure
+iodine nutrient exposure
+study type
+selenium nutrient exposure
+fungal plant exposure
+pseudomonas fuscovaginae exposure
+silicon nutrient exposure
+pseudomonas plantarii exposure
+normal temperature regimen
+optimal temperature regimen
+micronutrient exposure
+plant macronutrient exposure
+plant nutrient exposure
+iron nutrient exposure
+pseudomonas glumae exposure
+chlorine nutrient exposure
+erwinia chrysanthemi exposure
+bacterial plant exposure
+erwinia herbicola exposure
+greenhouse study
+xanthomonas oryzae pv . oryzicola exposure
+recilia dorsalis exposure
+pseudomonas syringae pv . panici exposure
+sogatella furcifera exposure
+molybdenum nutrient exposure
+pseudomonas avenae exposure
+laboratory study
+field study
+xanthomonas oryzae pv . oryzae exposure
+oebalus pugnax exposure
+soil water content exposure
+diopsis macrophthalma exposure
+copper nutrient exposure
+in vitro solid growth medium exposure
+maliarpha separatella exposure
+sesamia inferens exposure
+in vitro liquid growth medium exposure
+in vitro growth medium exposure
+benzothiadiazole exposure
+fungicide exposure
+growth chamber study
+continuous dark  ( no light )  exposure
+scirpophaga innotata exposure
+boron nutrient exposure
+scirpophaga incertulas exposure
+rupela albinella exposure
+cobalt nutrient exposure
+chilo polychrysus exposure
+oxygen exposure
+chilo suppressalis exposure
+unknown study type
+obsolete environment term
+standing water exposure
+stenchaetothrips biformis exposure
+nitrogen macronutrient exposure
+rainy season exposure
+dry season exposure
+dibromothymoquinone exposure
+magnesium nutrient exposure
+hydrellia philippina exposure
+kinetin exposure
+benzyladenine exposure
+ethylphosphine exposure
+potassium nutrient exposure
+pelopidas mathias exposure
+sulfur nutrient exposure
+dicladispa armigera exposure
+calcium nutrient exposure
+sogatodes oryzicola exposure
+leptocorisa oratorius exposure
+t - dna insert exposure
+carbon nutrient exposure
+marasmia patnalis exposure
+cnaphalocrocis medinalis exposure
+aluminum nutrient exposure
+transposable element insert exposure
+nephotettix spp exposure
+zinc nutrient exposure
+ac / ds transposable element exposure
+orseolia oryzae exposure
+tos - 17 transposable element exposure
+pseudaletia separata exposure
+nymphula depunctalis exposure
+zero gravity exposure
+physical plant exposure
+nilaparvata lugens exposure
+rice yellow mottle virus exposure
+warm / hot air temperature exposure
+meloidogyne arenaria exposure
+hirschmaniella spinicaudata exposure
+hirschmaniella oryzae exposure
+hirschmaniella mucronata exposure
+hirschmaniella imamuri exposure
+hirschmaniella caudacrena exposure
+mycoplasma like organism exposure
+mycovellosiella oryzae exposure
+pythium spp . exposure
+spodoptera praefica exposure
+spodoptera mauritia exposure
+pseudaletia unipuncta exposure
+cold air temperature exposure
+insect plant exposure
+pomacea canaliculata exposure
+mollusca exposure
+ditylenchus angustus exposure
+nematoda exposure
+cold water temperature exposure
+rice tungro spherical virus exposure
+achlya conspicua exposure
+fusarium exposure
+achlya klebsiana exposure
+bovinae exposure
+rice tungro bacilliform virus exposure
+rodentia exposure
+rice yellow stunt virus exposure
+aves exposure
+rice stripe necrosis virus exposure
+metazoan plant exposure
+rice stripe virus exposure
+genetic background
+germplasm
+genotype
+rice hoja blanca virus exposure
+biotic plant exposure
+rice grassy stunt virus exposure
+plant experimental condition
+barley yellow dwarf virus exposure
+rice gall dwarf virus exposure
+balansia oryzae - sativae exposure
+magnaporthe salvinii exposure
+rhizoctonia oryzae exposure
+rice dwarf virus exposure
+rice black streak dwarf virus exposure
+aphelenchoides besseyi exposure
+warm / hot water temperature exposure
+meloidogyne salasi exposure
+meloidogyne oryzae exposure
+meloidogyne javanica exposure
+meloidogyne incognita exposure
+cylindrocladium scoparium exposure
+meloidogyne graminicola exposure
+pyrenochaeta oryzae exposure
+athelia rolfsii exposure
+sarocladium oryzae exposure
+thanatephorus cucumeris exposure
+cytoplasmic genetic background
+nuclear genetic background
+wind environment exposure
+watering exposure
+freezing air temperature exposure
+irrigated land region exposure
+gerlachia oryzae exposure
+manganese nutrient exposure
+alternaria padwickii exposure
+gibberella zeae exposure
+lowland region exposure
+upland region exposure
+sub - sahara region
+desert like region exposure
+flood prone region exposure
+phosphorus nutrient exposure
+sub - tropical region exposure
+freezing water temperature exposure
+arid region exposure
+semiarid region exposure
+fungal elicitor exposure
+unknown exposure
+methyl jasmonate exposure
+5 - methyltryptophan exposure
+brassinosteroid exposure
+cerebroside elicitor exposure
+pseudomonas fluorescens exposure
+zinc sulphate exposure
+manganese sulfate exposure
+peroxide exposure
+hydrogen peroxide exposure
+1 , 2 - dibromoethane exposure
+1 , 2 - dichloroethane exposure
+1 , 2:5 , 6 - dibenzanthracene exposure
+1 , 4 - dimethanesulfonoxy - 1:4 - dimethylbutane exposure
+1 , 4 - dimethanesulfonoxybut - 2 - yne exposure
+1 , 4 - dimethanesulfonoxybutane exposure
+1 , 6 - dimethylsulfonoxy d - mannitol exposure
+1 , 6 - dimethylsulfonoxy l - mannitol exposure
+1 - amino - 2 - naphthol - 4 - sulfonic acid exposure
+1 - bromo - 2 - chloroethane exposure
+1 - diethylaminoethylethylamino - 4 - methyl - thioxanthenone exposure
+2 , 5 ,  - bisethylene - imine - 1 , 4 - benzoquinone exposure
+2 - chloroethyl methanesulfonate exposure
+2 - fluoroethyl methanesulfonate exposure
+2 - methoxyethanol exposure
+5 - bromouracil exposure
+5 - bromouridine exposure
+7 - bromomethyl 12 methyl benz or agr / anthracine exposure
+actinomycin d exposure
+aminopterin exposure
+benzo  ( or agr ) pyrene exposure
+caffeine exposure
+cisplatin exposure
+colchicine exposure
+cupric sulfate exposure
+diepoxybutane exposure
+diepoxyoctane exposure
+diethyl sulfate exposure
+dimethyl sulfoxide exposure
+dna exposure
+ethyl ether exposure
+ethyl methanesulfonate exposure
+ethyl nitrosourea exposure
+ethylene oxide exposure
+ethylenimine exposure
+fagaronine exposure
+formaldehyde exposure
+boric acid exposure
+hesperidine exposure
+hexamethylmelamine exposure
+hexamethylphosphoramide exposure
+hycanthon methanesulfonate exposure
+icr 100 exposure
+icr 170 exposure
+iodine exposure
+janus green b exposure
+methoxy diethylnitrosamine exposure
+methyl methanesulfonate exposure
+mitomycin c exposure
+mustard gas exposure
+n - methyl - n' - nitro - n - nitrosoguanidine exposure
+n - nitrosodimethylamine exposure
+natural gas exposure
+nitrogen mustard exposure
+nitrosomethyl urea exposure
+p - n , n - di ( 2 - chloroethyl ) aminophenylvaleric acid exposure
+p - n , n - di -  ( 2 - chloroethyl ) amino - d - phenylalanine exposure
+p - n , n - di -  ( 2 - chloroethyl ) amino - dl - phenylalanine exposure
+p - n , n - di -  ( 2 - chloroethyl ) amino - l - phenylalanine exposure
+p - n , n - di -  ( 2 - chloroethyl ) aminophenylbutyric acid exposure
+p - n , n - di -  ( 2 - chloroethyl ) aminophenylethylamine exposure
+p - p' - n , n - di ( 2 - chloroethyl ) aminophenoxyphenylalanine exposure
+quinhydrone exposure
+s - 2 - chloroethylcysteine exposure
+sodium bisulfite exposure
+sodium fluoride exposure
+styryl quinoline exposure
+sulfur mustard exposure
+triaziquone exposure
+triethylenemelamine exposure
+urethane exposure
+vinyl carbamate exposure
+x - ray exposure
+hydrogen exposure
+sclerospora spp . exposure
+sclerospora graminicola exposure
+insecticide exposure
+imidazolinone exposure
+spodoptera litura exposure

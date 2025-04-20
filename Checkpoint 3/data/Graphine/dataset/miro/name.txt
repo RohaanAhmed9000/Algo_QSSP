@@ -1,0 +1,4399 @@
+karyotype
+nuclear chromosome
+cellular_component
+chromosome
+organelle
+resistance
+rdl a296s
+deficiency of midgut receptor
+metabolic resistance
+target - site resistance
+behavioural resistance
+reduced cuticle penetration
+stimulus dependent resistance
+kdr v1016g
+kdr v1016i
+kdr i1011m
+kdr i1011v
+carboxylesterase resistance
+coe quantitative change
+glutathione s - transferase resistance
+p450 monoxygenases resistance
+coe structural change
+anopheles gambiae sensu lato karyotype
+jcu / jcu
+jbcu / jcu
+jbcu / jbcu
+resistance to single insecticide
+bcu / bcu
+cu / bcu
+cu / cu
+b / bcu
+b / cu
+b / b
+stimulus independent resistance
+ +  / bcu
+ +  / cu
+ +  / b
+ +  /  +
+u /  +
+u / u
+bc /  +
+bc / u
+bc / bc
+anopheles gambiae sensu lato 2r kayotype
+cuticle permeability related resistance
+enhanced excretion
+coea structural change of gene product in family
+coeb structural change of gene product in family
+coejh structural change of gene product in family
+elevated coea levels
+elevated coeb levels
+elevated coejh level
+gst quantitative change
+gst structural change
+structural change of product in gstd gene family
+structural change of product in gste gene family
+structural change of product in gsto gene family
+structural change of product in gstt gene family
+structural change of product in gstu gene family
+structural change of product in gstz gene family
+elevated gstd level
+elevated gste level
+elevated gsto level
+elevated gstt level
+elevated gstu level
+elevated gstz level
+p450 structural change
+p450 quantitative change
+structural change of product in cyp3 gene family
+structural change of product in cyp4 gene family
+structural change of product in cyp6 gene family
+structural change of product in cyp9 gene family
+structural change of product in cyp12 gene family
+structural change of product in cyp15 gene family
+differential cyp12 level
+differential cyp15 level
+differential cyp3 level
+differential cyp4 level
+differential cyp6 level
+differential cyp9 level
+sodium channel structural change
+ache structural change
+modified gaba receptor
+midgut receptor structural change
+nicotinic receptor structural change
+modified midgut protease activity
+elevated ache levels
+ache1 g119s
+ache1 f331w
+ache1 f290v
+rdl a296g
+modified cry
+kdr l1014s
+kdr l1014f
+ache mediated resistance
+gaba receptor mediated resistance
+midgut receptor mediated resistance
+nicotinic receptor mediated resistance
+sodium channel mediated resistance
+acetylcholine esterase inhibitor
+chitin biosynthesis inhibitor
+carbamate
+aldicarb
+alanycarb
+aminocarb
+bendiocarb
+benfuracarb
+butocarboxim
+butoxycarboxim
+carbaryl
+carbofuran
+carbosulfan
+ethiofencarb
+fenobucarb
+formetanate
+furathiocarb
+isoprocarb
+methiocarb
+methomyl
+metolcarb
+oxamyl
+pirimicarb
+propoxur
+thiodicarb
+thiofanox
+trimethacarb
+xmc
+xylylcarb
+triazamate
+growth inhibitor
+organophosphate
+acephate
+azamethiphos
+azinphos - ethyl
+azinphos - methyl
+cadusafos
+chlorethoxyfos
+chlorfenvinphos
+chlormephos
+chlorpyrifos
+chlorpyrifos - methyl
+coumaphos
+cyanophos
+demeton - s - methyl
+diazinon
+dichlorvos
+dicrotophos
+dimethoate
+dimethylvinphos
+disulfoton
+epn
+ethion
+ethoprophos
+famphur
+fenamiphos
+fenitrothion
+fensulfothion
+fenthion
+fonofos
+fosthiazate
+heptenophos
+isofenphos
+isopropyl o -  ( methoxyaminothio - phosphoryl ) salicylate
+isoxathion
+malathion
+mecarbam
+methamidophos
+methidathion
+mevinphos
+monocrotophos
+naled
+omethoate
+oxydemeton - methyl
+parathion
+parathion - methyl
+phenthoate
+phorate
+phosalone
+phosmet
+phosphamidon
+phoxim
+pirimiphos - methyl
+profenofos
+propaphos
+propetamphos
+prothiofos
+pyraclofos
+pyridaphenthion
+quinalphos
+sulfotep
+sulprofos
+tebupirimfos
+temephos
+terbufos
+tetrachlorvinphos
+thiometon
+triazophos
+trichlorfon
+vamidothion
+gaba - gated chloride channel antagonist
+moulting disruptor
+cyclodiene organochlorine
+chlordane
+endosulfan
+gamma - hch
+heptachlor
+lindane
+chlorphoxim
+fipronil  /  phenylpyrazole
+fipronil
+sodium channel modulator
+pyrethroid
+acrinathrin
+allethrin
+d - cis - trans allethrin
+d - trans allethrin
+bifenthrin
+bioallethrin
+bioallethrin s - cyclopentenyl
+bioresmethrin
+cycloprothrin
+cyfluthrin
+beta - cyfluthrin
+cyhalothrin
+lambda - cyhalothrin
+gamma - cyhalothrin
+cypermethrin
+alpha - cypermethrin
+beta - cypermethrin
+theta - cypermethrin
+zeta - cypermethrin
+cyphenothrin  [  ( 1r )  - trans -  isomers ]
+deltamethrin
+empenthrin  [  ( ez )  -   ( 1r )  -  isomers ]
+esfenvalerate
+etofenprox
+fenpropathrin
+fenvalerate
+flucythrinate
+flumethrin
+tau - fluvalinate
+halfenprox
+imiprothrin
+permethrin
+phenothrin  [  ( 1r )  - trans -  isomer ]
+prallethrin
+resmethrin
+ru 15525
+silafluofen
+tefluthrin
+tetramethrin
+tetramethrin  [  ( 1r )  -  isomers ]
+tralomethrin
+transfluthrin
+zxi 8901
+pyrethrin
+ddt
+methoxychlor
+nicotinic acetylcholine receptor agontist / antagonist
+dieldrin
+neonicotinoid
+acetamiprid
+clothianidin
+dinotefuran
+imidacloprid
+nitenpyram
+thiacloprid
+thiamethoxam
+active substance
+nicotine
+synergist
+bensultap
+cartap
+allosteric agonist of nicotinic acetylcholine receptor
+spinosad
+chloride channel activator
+avermectin and milbemycin
+abamectin
+emamectin benzoate
+milbemectin
+juvenile hormone mimic
+piperonyl butoxide
+juvenile hormone analogue
+hydroprene
+kinoprene
+methoprene
+def
+fenoxycarb
+sesamex
+pyriproxyfen
+fumigant
+sv1
+methyl bromide
+methyl bromide and other alkyl halides
+triphenyl phosphate
+chloropicrin
+piprotal
+sulfuryl fluoride
+selective feeding blocker
+propyl isome
+cryolite
+sesamolin
+pymetrozine
+sulfoxide
+flonicamid
+growth inhibitor sensu acarea
+tribufos
+clofentezine
+malaoxon
+hexythiazox
+chlorthion
+etoxazole
+insect midgut membranes disruptor
+bacillus thurigiensis toxin
+bacillus thurigiensis var . israelensis toxin
+chemical compound
+bacillus thurigiensis var . sphaericus toxin
+planned process
+bacillus thurigiensis var . aizawai toxin
+bacillus thurigiensis var . kurstaki toxin
+acetylcholinesterase
+bacillus thurigiensis var . tenebrionensis toxin
+oxidative phosphorylation inhibitor
+voltage gated sodium channel
+diafenthiuron
+crystal protein
+organotin miticide
+azocyclotin
+cyhexatin
+fenbutatin oxide
+propargite
+tetradifon
+chloropropylate
+uncoupler of oxidative phosphorylation
+chlorfenapyr
+dnoc
+insecticidal substance
+inhibition of chitin biosynthesis sensu lepidoptera
+benzoylurea
+chlorfluazuron
+diflubenzuron
+fluazuron
+flucycloxuron
+flufenoxuron
+hexaflumuron
+lufenuron
+novaluron
+noviflumuron
+teflubenzuron
+triflumuron
+inhibition of chitin biosynthesis sensu homoptera
+buprofezin
+moulting disruptor in diptera
+cyromazine
+moulting disruptor via ecdysone agonist
+chromafenozide
+halofenozide
+methoxyfenozide
+tebufenozide
+azadirachtin
+octopaminergic agonist
+amitraz
+mitochondrial complex iii electron transport inhibitor
+hydramethylnon
+acequinocyl
+fluacrypyrim
+mitochondrial complex i electron transport inhibitor
+fenazaquin
+fenpyroximate
+pyrimidifen
+pyridaben
+tebufenpyrad
+tolfenpyrad
+rotenone
+voltage - dependent sodium channel blocker
+indoxacarb
+lipid synthesis inhibitor
+tetronic acid derivative
+spirodiclofen
+spiromesifen
+mitochondrial complex iv electron transport inhibitor
+spirotetramat
+aluminium phosphide
+cyanide
+phosphine
+neuronal inhibitor
+bifenazate
+aconitase inhibitor
+fluoroacetate
+ryanodine receptor modulator
+flubendiamide
+un  -  synergists
+benzoximate
+chinomethionat
+dicofol
+pyridalyl
+ns  -  miscellaneous non - specific  ( multi - site )  inhibitors
+method
+resistance identification / monitoring
+bottle bioassay dt with synergist
+biochemical assay
+molecular assay
+bottle bioassays dt with pbo
+bottle bioassay dr test with synergist
+bottle bioassay dr with pbo
+coe dot - blot assay
+bottle bioassay dt
+ache activity assay
+bottle bioassay dr test
+time response test with synergist
+time response test
+bottle bioassay tr test with synergist
+p450 activity assay
+bottle bioassay tr test with pbo
+cone tr test with synergist
+napthyl acetate assay
+pnpa assay
+cdnb rate reaction assay
+dcnb rate reaction assay
+heme content measurement
+cone tr test with pbo
+expression analysis
+who larvicide tr test with synergist
+dot - blot for gene amplification
+who larvicide tr test with pbo
+who paper kit tr test with synergist
+who paper kit tr test with pbo
+bottle bioassay tr test
+cone tr test
+who larvicide tr test
+ddt dehydrochlorination measurement
+malathion metabolism assay
+rt - pcr assay
+who paper kit tr test
+a - napthyl acetate assay
+b - napthyl acetate assay
+cone dt
+insecticide efficacy test
+who paper kit dt
+cone et
+penetration / excretion assay
+direct bioassay
+bioassay with synergist test
+diagnostic test with synergist
+cone dr test
+who paper kit dr test
+who larvicide dt
+who larvicide dr test
+cone dt with synergist
+cone dr test with synergist
+cone dt with pbo
+cone dr with pbo
+who larvicide dt with synergist
+who larvicide dr test with synergist
+who larvicide dr with pbo
+bioassay
+organic peroxide rate reaction assay
+who paper kit et
+who wire ball et
+who larvicide dt with pbo
+who paper kit dt with pbo
+who paper kit dt with synergist
+who paper kit dr test with synergist
+who paper kit dr with pbo
+dose response test with synergist
+diagnostic test
+dose response test
+radiolabelled insecticide assay
+carboxylesterase activity assay
+p450 monooxygenase assay
+gst related assay
+acetylcholinesterase assay
+insensitive ache diagnostic assay
+immunodetection of gst
+coe isoenzyme analysis
+immunodetection of carboxylesterases
+antibody - based assay
+immunodetection of p450 monooxygenases
+peroxidase assay
+catalase activity assay
+superoxidase dismutase assay
+northern analysis
+monitoring known mutations
+novel mutation identification
+fluorogenic pcr assay
+ligation detection reaction
+sequencing
+manual sequencing
+rna profiling
+real time pcr
+semi - quantitative pcr
+automated sequencing
+fluorescent insecticide assay
+insecticide immunostaining assay
+genome wide microarray analysis
+targeted / selective microarray analysis
+rna dot - blot
+microarray - based analysis
+invasive cleavage invader sisar
+ligase chain reaction  ( lcr )
+biological material
+larval laboratory population
+f0 adults emerged from field collected eggs
+adult laboratory population
+animal biting catch  -  indoors
+species identification method
+mosquito population
+house resting  -  daytime catch
+f0 adults emerged from field collected pupae
+indoor light trap catch
+outdoor light trap catch
+trap catch
+animal biting catch
+animal baited net trap catch
+animal biting catch  -  outdoors
+human landed net trap catch
+ovitrap catch
+man biting catch
+man biting catch  -  outdoors
+man biting catch  -  indoors
+outlet window trap catch
+co2 baited net trap catch
+collection of larvae
+pyrethrum spray catch
+outdoors shelter catch
+outdoors shelter catch  -  natural
+outdoors shelter catch  -  artificial
+animal shed resting catch
+f0 larvae
+f0 adults emerged from field collected larvae
+f1 larvae bred from field collected mosquitoes
+f1 adults from field collected mosquitoes
+field population
+laboratory population
+f0 adults
+f0 adults collected
+cross mating experiment
+cytological chromosome examination
+isoenzyme electrophoresis
+morphological examination
+pcr - based species identification
+species specific dna hybridization
+salinity tolerance tests
+catch by aspiration
+field population catch
+catch of live specimens
+collection of dead specimens
+dead on ground catch
+aquatic environment catch
+collection of eggs
+collection of pupae
+terrain environment catch
+collection of adults
+collection of naturally deposited eggs
+indoor baited light trap catch
+outdoor baited light trap catch
+pheromone baited net trap catch
+baited light trap catch
+collection of eggs via scraping
+collection of larvae via scraping
+collection of larvae from traps
+collection of larvae from dippers
+collection of pupae from dippers
+light trap catch
+anopheles gambiae sensu lato nuclear chromosome
+anopheles gambiae sensu lato inverted nuclear chromosome
+anopheles gambiae sensu lato inverted nuclear chromosome 2r
+anopheles gambiae sensu lato inverted nuclear chromosome 2l
+2la
+2rb
+2rc
+2rd
+2rj
+2ru
+2rjd
+2rcu
+2rjcu
+2rbd
+2rjbd
+2rjb
+2rjbcu
+2rbcu
+2rbc
+2rbcd
+genus bironella
+bironella
+bironella gracilis
+bironella simmondsi
+brugella
+bironella hollandi
+genus runchomyia
+ctenogoeldia
+runchomyia walcotti
+runchomyia
+runchomyia cerqueirai
+runchomyia frontosa
+runchomyia humbolti
+runchomyia reversa
+runchomyia theobaldi
+genus anopheles
+anopheles
+anopheles aberrans
+anopheles acaci
+anopheles ahomi
+anopheles aitkenii
+anopheles albotaeniatus
+anopheles algeriensis
+anopheles alongensis
+anopheles anchietai
+anopheles annandalei
+anopheles annulipalpis
+anopheles apicimacula
+anopheles arboricola
+anopheles argyropus
+anopheles asiaticus
+anopheles atratipes
+anopheles atroparvus
+anopheles atropos
+anopheles aztecus
+anopheles baezai
+anopheles baileyi
+anopheles balerensis
+anopheles bancroftii
+anopheles barbiventris var .
+anopheles barberi
+anopheles barbirostris
+anopheles barbumbrosus
+anopheles barianensis
+anopheles beklemishevi
+anopheles bengalensis
+anopheles borneensis
+anopheles bradleyi
+anopheles brevipalpis
+anopheles brevirostris
+anopheles bulkleyi
+anopheles bustamentei
+anopheles calderoni
+anopheles caliginosus
+anopheles campestris
+anopheles changfus
+anopheles chiriquiensis
+anopheles chodukini
+anopheles claviger
+anopheles colledgei
+anopheles collessi
+anopheles concolor
+anopheles corethroides
+anopheles costai
+anopheles coustani
+anopheles crawfordi
+nomina dubia
+anopheles amharicus
+nyssorhynchus
+anopheles albimanus
+anopheles crucians
+anopheles crypticus
+anopheles cucphuongensis
+anopheles culiciformis
+anopheles dazhaius
+anopheles diluvialis
+anopheles donaldi
+anopheles earlei
+anopheles eiseni
+anopheles geometricus
+anopheles ejercitoi
+anopheles engarensis
+anopheles evandroi
+anopheles fausti
+anopheles fluminensis
+anopheles forattinii
+anopheles fragilis
+anopheles franciscanus
+anopheles freeborni
+anopheles freyi
+anopheles fuscicolor
+anopheles gabaldoni
+anopheles georgianus
+anopheles gigas
+anopheles formosus
+anopheles simlensis
+anopheles refutans
+anopheles sumatrana
+anopheles danaubento
+anopheles oedjalikalah
+anopheles pantjarbatu
+anopheles crockeri
+anopheles grabhamii
+anopheles guarao
+anopheles hectoris
+anopheles heiheensis
+anopheles hermsi
+anopheles hunteri
+anopheles hyrcanus
+anopheles implexus
+anopheles insulaeflorum
+anopheles intermedius
+anopheles inundatus
+anopheles judithae
+anopheles junlianensis
+anopheles kiangsuensis
+anopheles kweiyangensis
+anopheles kyondawensis
+anopheles labranchiae
+anopheles lesteri
+anopheles letifer
+anopheles liangshanensis
+anopheles lindesayi
+anopheles pleccau
+anopheles cameronensis
+anopheles japonicus
+anopheles benguetensis
+anopheles maculipennis
+anopheles maculipes
+anopheles malefactor
+anopheles marteri
+anopheles martinius
+anopheles mattogrossensis
+anopheles maverlius
+anopheles mediopunctatus
+anopheles melanoon
+anopheles mengalangensis
+anopheles messeae
+anopheles minor
+anopheles montanus
+anopheles namibiensis
+anopheles neomaculipalpus
+anopheles papuensis
+anopheles paraliae
+anopheles guatemalensis
+anopheles neghmei
+anopheles anomalophyllus
+anopheles antunesi
+anopheles aquasalis
+anopheles albitarsis
+anopheles argyritarsis
+anopheles benarrochi
+anopheles braziliensis
+anopheles darlingi
+anopheles deaneorum
+anopheles dunhami
+anopheles evansae
+anopheles galvaoi
+anopheles ininii
+anopheles lanei
+anopheles lutzii
+anopheles marajoara
+anopheles nigritarsis
+anopheles nuneztovari
+anopheles oswaldoi
+anopheles konderi
+anopheles parvus
+anopheles pictipennis
+anopheles rangeli
+anopheles rondoni
+anopheles sanctielii
+anopheles sawyeri
+anopheles strodei
+anopheles triannulatus
+anopheles trinkae
+stethomyia
+anopheles acanthotorynus
+anopheles canorii
+anopheles kompi
+anopheles nimbus
+anopheles thomasi
+bironella obscura
+bironella travestita
+neobironella
+bironella confusa
+bironella derooki
+bironella papuae
+genus armigeres
+armigeres
+armigeres alkatirii
+armigeres apoensis
+armigeres aureolineatus
+armigeres azurini
+armigeres baisasi
+armigeres bhayungi
+armigeres breinli
+armigeres candelabrifer
+armigeres confusus
+armigeres conjungens
+armigeres denbesteni
+armigeres durhami
+armigeres ejercitoi
+armigeres fimbriatus
+armigeres foliatus
+armigeres giveni
+armigeres hybridus
+armigeres joloensis
+armigeres jugraensis
+armigeres kesseli
+armigeres kinabaluensis
+armigeres kuchingensis
+armigeres lacuum
+armigeres maiae
+armigeres malayi
+armigeres manalangi
+armigeres maximus
+armigeres milnensis
+armigeres moultoni
+armigeres obturbans
+armigeres papuensis
+armigeres setifer
+armigeres sexicoxitus
+armigeres subalbatus
+armigeres chrysocorporis
+armigeres theobaldi
+leicesteria
+armigeres annulipalpis
+armigeres annulitarsis
+armigeres balteatus
+armigeres dentatus
+armigeres digitatus
+armigeres dolichocephalus
+armigeres flavus
+armigeres inchoatus
+armigeres longipalpis
+armigeres magnus
+armigeres omissus
+armigeres pectinatus
+armigeres pendulus
+armigeres traubi
+armigeres vimoli
+genus aedes
+aedes
+aedes cinereus
+aedes dahuricus
+aedes esoensis
+aedes rossicus
+aedes geminus
+aedes mubiensis
+aedes perditus
+aedes sasai
+genus verrallina
+neomacleaya
+verrallina spermathecus
+aedes yamadai
+aedimorphus
+aedes abnormalis
+aedes kabwachensis
+aedes adami
+aedes aerarius
+aedes albocephalus
+aedes albodorsalis
+aedes alboscutellatus
+aedes alboventralis
+aedes apicoannulatus
+aedes argenteopunctatus
+aedes argenteoscutellatus
+aedes bambiotai
+aedes bancoi
+aedes bedfordi
+aedes bevisi
+aedes boneti
+aedes kumbae
+aedes caecus
+aedes caliginosus
+aedes centropunctatus
+aedes chamboni
+aedes culicinus
+aedes cumminsii
+aedes mediopunctata
+aedes dalzieli
+aedes davidi
+aedes dentatus
+aedes dialloi
+aedes domesticus
+aedes durbanensis
+aedes angolae
+aedes ebogoensis
+aedes eritreae
+aedes falabreguesi
+aedes filicis
+aedes fowleri
+aedes gandari
+aedes gibbinsi
+aedes gouldi
+aedes grenieri
+aedes grjebinei
+aedes hirsutus
+aedes adenensis
+aedes holocinctus
+aedes hopkinsi
+aedes insolens
+aedes irritans
+aedes jamesi
+aedes karooensis
+aedes lamborni
+aedes leesoni
+aedes leptolabis
+aedes leucarthrius
+aedes lokojoensis
+aedes longiseta
+aedes lottei
+aedes lowisii
+aedes mansouri
+aedes masoalensis
+aedes mathioti
+aedes mattinglyi
+aedes mediolineatus
+aedes microstictus
+aedes minutus
+aedes mixtus
+aedes mutilus
+aedes natronius
+aedes nigricephalus
+aedes nigrostriatus
+aedes nocturnus
+aedes nyounae
+aedes oakleyi
+aedes ochraceus
+aedes orbitae
+aedes ovazzai
+aedes pachyurus
+aedes pallidostriatus
+aedes pampangensis
+aedes phyllolabis
+aedes pipersalatus
+aedes pseudotarsalis
+aedes pubescens
+aedes punctifemoris
+aedes punctothoracis
+aedes quasiunivittatus
+aedes reali
+aedes rickenbachi
+aedes semlikiensis
+aedes senyavinensis
+aedes seychellensis
+aedes simulans
+aedes smithburni
+aedes stenoetrus
+aedes stenoscutus
+aedes subdentatus
+aedes syntheticus
+aedes taeniorhynchoides
+aedes tarsalis
+aedes tauffliebi
+aedes tricholabis
+aedes bwamba
+aedes trimaculatus
+aedes trukensis
+aedes veeniae
+aedes vexans
+aedes arabiensis
+aedes nipponii
+aedes wendyae
+aedes wigglesworthi
+aedes yangambiensis
+aedes yvonneae
+alanstonea
+aedes brevitibia
+aedes treubi
+albuginosus
+aedes capensis
+aedes gilliesi
+aedes haworthi
+aedes kapretwae
+aedes kennethi
+aedes marshallii
+aedes ngong
+aedes stokesi
+aedes teesdalei
+belkinius
+aedes aurotaeniatus
+bothaella
+aedes eldridgei
+aedes helenae
+aedes kleini
+cancraedes
+aedes cancricomes
+aedes curtipes
+aedes indonesiae
+aedes kohkutensis
+aedes mamoedjoensis
+aedes masculinus
+aedes palawanicus
+aedes penghuensis
+aedes simplex
+aedes thurmanae
+christophersiomyia
+aedes annulirostris
+aedes chionodes
+aedes gombakensis
+aedes ibis
+aedes thomsoni
+diceromyia
+aedes adersi
+aedes agastyai
+aedes bananea
+aedes cordellieri
+aedes coulangesi
+aedes fascipalpis
+aedes flavicollis
+aedes franciscoi
+aedes furcifer
+aedes grassei
+aedes iyengari
+aedes kanarensis
+aedes madagascarensis
+aedes mefouensis
+aedes meronephada
+aedes micropterus
+aedes nummatus
+aedes periskelatus
+aedes pseudonummatus
+aedes punctipes
+aedes ramachandrai
+aedes reginae
+aedes reubenae
+aedes scanloni
+aedes sylvaticus
+aedes tiptoni
+aedes taylori
+aedes whartoni
+aedes zethus
+edwardsaedes
+aedes bekkui
+aedes imprimens
+aedes pingpaensis
+fredwardsius
+aedes vittatus
+huaedes
+aedes medialis
+aedes variepictus
+aedes wauensis
+indusius
+aedes pulverulentus
+isoaedes
+aedes cavaticus
+leptosomatomyia
+aedes aurimargo
+lorrainea
+aedes amesii
+aedes celebicus
+aedes dasyorrhus
+aedes fumidus
+aedes lamelliferus
+neomelaniconion
+aedes albicosta
+aedes albothorax
+aedes aurovenatus
+aedes bequaerti
+aedes bergerardi
+aedes bolensis
+aedes carteri
+aedes circumluteolus
+aedes crassiforceps
+aedes ellinorae
+aedes flavimargo
+aedes fuscinervis
+aedes jamoti
+aedes lineatopennis
+aedes aureus
+aedes luridus
+aedes luteolateralis
+aedes mcintoshi
+aedes monotrichus
+aedes palpalis
+aedes pogonurus
+aedes punctocostalis
+aedes taeniarostris
+aedes unidentatus
+pseudarmigeres
+aedes albomarginatus
+aedes argenteoventralis
+aedes dunni
+aedes kummi
+aedes michaelikati
+aedes gurneri
+aedes natalensis
+scutomyia
+aedes albolineatus
+aedes arboricola
+aedes bambusicola
+aedes boharti
+aedes hoogstraali
+aedes impatibilis
+aedes laffooni
+aedes platylepidus
+aedes pseudalbolineatus
+skusea
+aedes cartroni
+aedes lambrechti
+aedes moucheti
+aedes pembaensis
+stegomyia
+aedes aegypti
+aedes formosus
+aedes africanus
+aedes agrihanensis
+aedes albopictus
+aedes alcasidi
+aedes alorensis
+aedes amaltheus
+aedes andrewsi
+aedes angustus
+aedes annandalei
+aedes quadricinctus
+aedes aobae
+aedes apicoargenteus
+aedes denderensis
+aedes bambusae
+aedes bromeliae
+aedes burnsi
+aedes calceatus
+aedes chaussieri
+aedes chemulpoensis
+aedes contiguus
+aedes cooki
+aedes corneti
+aedes cozi
+aedes craggi
+aedes cretinus
+aedes daitensis
+aedes deboeri
+aedes demeilloni
+aedes dendrophilus
+aedes desmotes
+aedes dybasi
+aedes edwardsi
+aedes flavopictus
+aedes downsi
+aedes miyarai
+aedes fraseri
+aedes blacklocki
+aedes futunae
+aedes galloisi
+aedes galloisiodes
+aedes gardnerii
+aedes imitator
+aedes granti
+aedes guamensis
+aedes gurneyi
+aedes hakanssoni
+aedes hansfordi
+aedes hebrideus
+aedes heischi
+aedes hensilli
+aedes hoguei
+aedes horrescens
+aedes josiahae
+aedes katherinensis
+aedes keniensis
+aedes kenyae
+aedes kesseli
+aedes kivuensis
+aedes krombeini
+aedes langata
+aedes ledgeri
+aedes lilii
+aedes luteocephalus
+aedes maehleri
+aedes malayensis
+aedes malikuli
+aedes marshallensis
+aedes mascarensis
+aedes masseyi
+aedes mattinglyorum
+aedes maxgermaini
+aedes mediopunctatus
+aedes sureilensis
+aedes metallicus
+aedes mickevichae
+aedes muroafcete
+aedes neoafricanus
+aedes neopandani
+aedes njombiensis
+aedes novalbopictus
+aedes opok
+aedes palauensis
+aedes pandani
+aedes patriciae
+aedes paullusi
+aedes pernotatus
+aedes perplexus
+aedes polynesiensis
+aedes poweri
+aedes pseudalbopictus
+aedes pseudoafricanus
+aedes pseudonigeria
+aedes pseudoscutellaris
+aedes quasiscutellaris
+aedes rhungkiangensis
+aedes riversi
+aedes robinsoni
+aedes rotanus
+aedes rotumae
+aedes ruwenzori
+aedes saimedres
+aedes saipanensis
+aedes schwetzi
+aedes scutellaris
+aedes scutoscriptus
+aedes seampi
+aedes seatoi
+aedes segermanae
+aedes sibiricus
+aedes simpsoni
+aedes soleatus
+aedes strelitziae
+aedes subalbopictus
+aedes subargenteus
+aedes tabu
+aedes tongae
+aedes tulagiensis
+aedes unilineatus
+aedes upolensis
+aedes usambara
+aedes varuae
+aedes vinsoni
+aedes wadai
+aedes w - albus
+aedes woodi
+aedes daliensis
+finlaya
+aedes niveus
+genus aedeomyia
+lepiothauma
+aedeomyia africana
+aedeomyia
+aedeomyia catasticta
+aedeomyia pauliani
+aedeomyia squamipennis
+aedeomyia venustipes
+aedeomyia furfurea
+genus ayurakitia
+ayurakitia griffithi
+ayurakitia peytoni
+abraedes
+aedes papago
+aztecaedes
+aedes ramirezi
+chaetocruiomyia
+aedes calabyi
+aedes elchoensis
+aedes humeralis
+aedes macmillani
+aedes moloiensis
+aedes spinosipes
+aedes tulliae
+aedes wattensis
+aedes albilabris
+aedes alboannulatus
+aedes albocinctus
+aedes albolateralis
+aedes alboniveus
+aedes albotaeniatus
+aedes alektorovi
+aedes alius
+aedes alocasicola
+aedes alongi
+aedes alticola
+aedes ananae
+aedes anggiensis
+aedes argenteitarsis
+aedes argyronotum
+aedes assamensis
+aedes aureostriatus
+aedes doonii
+aedes taiwanus
+aedes auronitens
+aedes australiensis
+aedes avistylus
+aedes axitiosus
+aedes banksi
+aedes barnardi
+aedes biocellatus
+aedes bougainvillensis
+aedes britteni
+aedes burnetti
+aedes buxtoni
+aedes cacharanus
+aedes candidoscutellum
+aedes christophersi
+aedes chrysolineatus
+aedes chungi
+aedes clintoni
+aedes cogilli
+aedes croceus
+aedes crossi
+aedes deccanus
+aedes derooki
+aedes dobodurus
+aedes dobrotworskyi
+aedes dorseyi
+aedes eatoni
+aedes echinus
+aedes elsiae
+aedes vicarius
+aedes embuensis
+aedes feegradei
+aedes fengi
+aedes fijiensis
+aedes flavipennis
+aedes formosensis
+aedes franclemonti
+aedes freycinetiae
+aedes fuscipalpis
+aedes fuscitarsis
+aedes gahnicola
+aedes ganapathi
+aedes gani
+aedes geniculatus
+aedes gilcolladoi
+aedes gilli
+aedes gonguoensis
+aedes greenii
+aedes gracilelineatus
+aedes gressitti
+aedes gubernatoris
+aedes kotiensis
+aedes hancocki
+aedes harinasutai
+aedes harperi
+aedes harveyi
+aedes hatorii
+aedes hollandius
+aedes hollingsheadi
+aedes horotoi
+aedes hui
+aedes hurlbuti
+aedes idjenensis
+aedes inermis
+aedes ingrami
+aedes inquinatus
+aedes iwi
+aedes japonicus
+aedes shintienensis
+aedes amamiensis
+aedes yaeyamensis
+aedes josephinae
+aedes jugraensis
+aedes keefei
+aedes khazani
+aedes kiangsiensis
+aedes knighti
+aedes kochi
+aedes koreicoides
+aedes koreicus
+aedes lacteus
+aedes laoagensis
+aedes lauriei
+aedes leonis
+aedes lepchanus
+aedes lewelleni
+aedes litoreus
+aedes loi
+aedes lophoventralis
+aedes luteostriatus
+aedes luteus
+aedes macdougalli
+aedes macfarlanei
+aedes mackerrasi
+aedes maffi
+aedes mallochi
+aedes medleri
+aedes melanopterus
+aedes mikrokopion
+aedes milsoni
+aedes mjoebergi
+aedes mohani
+aedes monocellatus
+aedes neogeorgianus
+aedes nigrorhynchus
+aedes nipponicus
+aedes nippononiveus
+aedes nishikawai
+aedes niveoides
+anopheles gambiae chromosomal form
+aedes notoscriptus
+aedes montanus
+aedes novalbitarsls
+aedes novoniveus
+aedes nyasae
+aedes occidentalis
+aedes oceanicus
+aedes omorii
+aedes oreophilus
+aedes pallirastris
+aedes palmarum
+aedes papuensis
+aedes peipingensis
+aedes pexus
+aedes plagosus
+aedes plumiferus
+aedes poicilius
+aedes prominens
+aedes pseudoniveus
+aedes pseudotaeniatus
+aedes pulchrithorax
+aedes pulchriventer
+aedes quasirubithorax
+aedes quinquelineatus
+aedes reinerti
+aedes rizali
+aedes roai
+aedes rubiginosus
+aedes rubrithorax
+aedes rupestris
+aedes samoanus
+genus tanakaius
+tanakaius savoryi
+aedes saxicola
+aedes schlosseri
+aedes seoulensis
+aedes shehzadae
+aedes sherki
+aedes shortti
+aedes simlensis
+aedes sinensis
+aedes sintoni
+aedes solomonis
+aedes sorsogonensis
+aedes stanleyi
+aedes stevensoni
+aedes stonei
+aedes subalbitarsis
+aedes subauridorsum
+aedes subbasalis
+aedes subniveus
+aedes suffusus
+tanakaius togoi
+aedes tonkinensis
+aedes toxopeusi
+aedes tsiliensis
+aedes tubbutiensis
+aedes tutuilae
+aedes unicinctus
+aedes vanus
+aedes versicolor
+aedes wallacei
+aedes wasselli
+aedes watasei
+aedes watteni
+aedes wellmanii
+aedes yunnanensis
+geoskusea
+aedes baisasi
+aedes becki
+aedes daggyi
+aedes fimbripes
+aedes kabaenensis
+aedes longiforceps
+aedes lunulatus
+aedes perryi
+aedes tonsus
+gymnometopa
+aedes mediovittatus
+halaedes
+aedes ashworthi
+aedes australis
+aedes wardangensis
+howardina
+aedes albonotatus
+aedes allotecnon
+aedes arborealis
+aedes argyrites
+aedes aureolineatus
+aedes aurites
+aedes aurivittatus
+aedes bahamensis
+aedes brevis
+aedes brevivittatus
+aedes busckii
+aedes cozumelensis
+aedes ecuadoriensis
+aedes eleanorae
+aedes fulvithorax
+aedes grabhami
+aedes guatemala
+aedes guerrero
+aedes inaequalis
+aedes ioliota
+aedes leei
+aedes lorraineae
+aedes marinkellei
+aedes martinezi
+aedes osornoi
+aedes pseudodominicii
+aedes quadrivittatus
+aedes septemstriatus
+aedes sexlineatus
+aedes spinosus
+aedes stenei
+aedes vanemdeni
+aedes walkeri
+aedes whitmorei
+kenknightia
+aedes dissimilis
+aedes gaffigani
+aedes harbachi
+aedes karwari
+aedes lerozeboomi
+aedes leucomeres
+aedes litwakae
+aedes luzonensis
+aedes paradissimilis
+aedes pecori
+aedes wilkersoni
+macleaya
+aedes littlechildi
+aedes stoneorum
+aedes tremulus
+molpemyia
+aedes auridorsum
+aedes pecuniosus
+aedes purpureus
+mucidus
+aedes alternans
+aedes aurantius
+aedes chrysogaster
+aedes ferinus
+aedes grahamii
+aedes laniger
+aedes lucianus
+aedes mucidus
+aedes nigerrimus
+aedes painei
+aedes quadripunctis
+aedes quasiferinus
+aedes scatophagoides
+aedes sudanensis
+aedes tonkingi
+nothoskusea
+aedes chathamicus
+ochlerotatus
+aedes aboriginis
+aedes abserratus
+aedes aculeatus
+aedes aenigmaticus
+aedes akkeshiensis
+aedes albescens
+aedes albifasciatus
+aedes albineus
+aedes aloponotum
+aedes ambreensis
+aedes andersoni
+aedes angustivittatus
+aedes annulipes
+aedes antipodeus
+aedes atactavittatus
+aedes atlanticus
+aedes atropalpus
+aedes auratus
+aedes aurifer
+aedes behningi
+aedes bejaranoi
+aedes berlandi
+rusticoidus
+aedes bicristatus
+aedes bimaculatus
+aedes bogotanus
+aedes breedensis
+aedes burjaticus
+aedes burpengaryensis
+aedes caballus
+aedes cacozelus
+aedes calcariae
+aedes calumnior
+aedes campestris
+aedes camptorhynchus
+aedes canadensis
+aedes mathesoni
+aedes cantans
+aedes subvexans
+aedes cantator
+aedes caspius
+aedes dorsalis
+aedes hargreavesi
+aedes cataphylla
+aedes rostochiensis
+aedes chelli
+aedes churchillensis
+aedes clelandi
+aedes clivis
+aedes comitatus
+aedes communis
+aedes condolescens
+aedes continentalis
+aedes crinifer
+aedes cunabulanus
+aedes cyprioides
+aedes cyprius
+aedes decticus
+aedes deficiens
+aedes deserticola
+aedes detritus
+aedes diantaeus
+aedes duplex
+aedes dupreei
+aedes dzeta
+aedes edgari
+aedes eidsvoldensis
+aedes epactius
+aedes eucephalaeus
+aedes euedes
+aedes euiris
+aedes euplocamus
+aedes excrucians
+aedes explorator
+aedes fitchii
+aedes flavescens
+aedes flavifrons
+aedes fluviatilis
+aedes fulvus
+aedes pallens
+aedes grossbecki
+aedes gutzevichi
+aedes hakusanensis
+aedes harrisoni
+aedes hastatus
+aedes hesperonotius
+aedes hexodontus
+aedes hodgkini
+aedes hokkaidensis
+aedes hortator
+aedes hungaricus
+aedes imperfectus
+aedes impiger
+aedes daisetsuzanus
+aedes implicatus
+aedes incomptus
+aedes increpitus
+aedes inexpectatus
+aedes infirmatus
+aedes intermedius
+aedes intrudens
+aedes jacobinae
+aedes juppi
+aedes kasachstanicus
+aedes laguna
+aedes lasaensis
+aedes gyirongensis
+aedes lepidus
+aedes leucomelas
+aedes linesi
+aedes longifilamentus
+aedes luteifemur
+aedes macintoshi
+aedes mariae
+aedes martineti
+aedes mcdonaldi
+aedes melanimon
+aedes meprai
+aedes mercurator
+aedes milleri
+aedes mitchellae
+aedes montchadskyi
+aedes monticola
+aedes muelleri
+aedes nevadensis
+aedes nigrinus
+aedes nigripes
+aedes nigrithorax
+aedes nigrocanus
+aedes nigromaculis
+aedes niphadopsis
+aedes nivalis
+aedes normanensis
+aedes nubilus
+aedes obturbator
+aedes oligopistus
+aedes patersoni
+aedes pectinatus
+aedes pennai
+aedes perkinsi
+aedes pertinax
+aedes perventor
+aedes phaecasiatus
+aedes phaeonotus
+aedes phoeniciae
+aedes pionips
+aedes procax
+aedes provocans
+aedes pseudonormanensis
+aedes pulcritarsis
+aedes asiaticus
+aedes pullatus
+aedes punctodes
+aedes punctor
+aedes purpuraceus
+aedes purpureifemur
+aedes purpuriventris
+aedes ratcliffei
+aedes raymondi
+aedes rempeli
+aedes rhyacophilus
+aedes riparius
+aedes riparioides
+aedes sagax
+aedes sapiens
+aedes scapularis
+aedes schizopinax
+aedes schtakelbergi
+aedes scutellalbum
+aedes sedaensis
+aedes sergievi
+aedes serratus
+aedes shannoni
+aedes sierrensis
+aedes silvestris
+aedes simanini
+aedes sinkiangensis
+aedes sollicitans
+aedes spencerii
+aedes idahoensis
+aedes spilotus
+aedes squamiger
+aedes stampari
+aedes sticticus
+aedes stigmaticus
+aedes stimulans
+aedes stramineus
+aedes stricklandi
+aedes subalbirostris
+aedes surcoufi
+aedes synchytus
+aedes taeniorhynchus
+aedes tahoensis
+aedes thelcter
+aedes theobaldi
+aedes thibaulti
+aedes tormentor
+aedes tortilis
+aedes trivittatus
+aedes turneri
+aedes upatensis
+aedes varipalpus
+aedes ventrovittis
+aedes vigilax
+aedes ludlowae
+aedes vansomerenae
+aedes washinoi
+aedes vittiger
+aedes zammitii
+protomacleaya
+aedes aitkeni
+aedes alboapicus
+aedes amabilis
+aedes argyrothorax
+aedes berlini
+aedes bertrami
+aedes braziliensis
+aedes brelandi
+aedes buenaventura
+aedes burgeri
+aedes campana
+aedes casali
+aedes chionotum
+aedes daryi
+aedes diazi
+aedes gabriel
+aedes galindoi
+aedes hendersoni
+aedes heteropus
+aedes homoeopus
+aedes idanus
+aedes impostor
+aedes insolitus
+aedes knabi
+aedes kompi
+aedes metoecopus
+aedes niveoscutum
+aedes podographicus
+aedes sandrae
+aedes schicki
+aedes schroederi
+aedes sumidero
+aedes tehuantepec
+aedes terrens
+aedes thorntoni
+aedes triseriatus
+aedes vargasi
+aedes zavortinki
+aedes zoosophus
+pseudoskusea
+aedes bancroftianus
+aedes culiciformis
+aedes multiplex
+aedes postspiraculosus
+rhinoskusea
+aedes longirostris
+aedes pillaii
+aedes portonovoensis
+aedes wardi
+aedes krymmontanus
+aedes lepidonotus
+aedes quasirusticus
+aedes refiki
+aedes rusticus
+aedes subtrichurus
+aedes subdiversus
+zavortinkius
+aedes brunhesi
+aedes brygooi
+aedes fulgens
+aedes geoffroyi
+aedes huangae
+aedes interruptus
+aedes longipalpis
+aedes monetus
+aedes mzooi
+aedes phillipi
+aedes pollinctor
+genus johnbelkinia
+johnbelkinia longipes
+johnbelkinia leucopus
+johnbelkinia ulopus
+genus limatus
+limatus andinus
+limatus asulleptus
+limatus durhamii
+limatus flavisetosus
+limatus guayasi
+limatus hoffmani
+limatus martiali
+limatus pseudomethysticus
+genus mansonia
+mansonia
+mansonia amazonensis
+mansonia cerqueirai
+mansonia chagasi
+mansonia dyari
+mansonia flaveola
+mansonia humeralis
+mansonia indubitans
+mansonia leberi
+mansonia pessoai
+mansonia pseudotitillans
+mansonia suarezi
+mansonia titillans
+mansonia wilsoni
+mansonioides
+mansonia africana
+mansonia nigerrima
+mansonia annulata
+mansonia annulifera
+mansonia bonneae
+mansonia dives
+mansonia indiana
+mansonia melanesiensis
+mansonia papuensis
+mansonia septempunctata
+mansonia uniformis
+genus maorigoeldia
+maorigoeldia argyropus
+genus malaya
+malaya farquharsoni
+malaya fraseri
+malaya genurostris
+malaya incomptas
+malaya jacobsoni
+malaya leei
+genus mimomyia
+etorleptiomyia
+mimomyia bougainvillensis
+genus onirion
+onirion aenigma
+onirion brucei
+onirion celatum
+onirion imparis
+onirion personatum
+onirion regale
+onirion sirivanakarni
+genus opifex
+opifex fuscus
+genus orthopodomyia
+orthopodomyia alba
+orthopodomyia albicosta
+genus psorophora
+grabhamia
+psorophora cingulata
+psorophora columbiae
+psorophora confinnis
+psorophora dimidiata
+psorophora discolor
+psorophora infinis
+psorophora insularia
+psorophora jamaicensis
+psorophora leucocnemis
+psorophora paulli
+psorophora pruinosa
+psorophora pygmaea
+psorophora signipennis
+psorophora varinervis
+janthinosoma
+psorophora albigenu
+psorophora albipes
+psorophora amazonica
+psorophora champerico
+psorophora circumflava
+psorophora cyanescens
+psorophora discrucians
+psorophora ferox
+psorophora fiebrigi
+psorophora forceps
+psorophora horrida
+psorophora johnstonii
+psorophora lanei
+psorophora longipalpus
+psorophora lutzii
+psorophora mathesoni
+psorophora melanota
+psorophora mexicana
+psorophora pilosus
+psorophora pseudoalbipes
+psorophora pseudomelanota
+psorophora totonaci
+psorophora varipes
+psorophora
+psorophora ciliata
+psorophora cilipes
+psorophora holmbergii
+psorophora howardii
+psorophora lineata
+psorophora ochripes
+psorophora pallescens
+psorophora pilipes
+psorophora saeva
+psorophora stonei
+genus sabethes
+davismyia
+sabethes petrocchiae
+peytonulus
+sabethes aurescens
+sabethes fabricii
+sabethes gorgasi
+sabethes hadrognathus
+sabethes identicus
+sabethes ignotus
+sabethes soperi
+sabethes undosus
+sabethes whitmani
+sabethes xenismus
+sabethes
+sabethes albiprivus
+sabethes amazonicus
+sabethes batesi
+sabethes belisarioi
+sabethes bipartipes
+sabethes cyaneus
+sabethes forattinii
+sabethes gymnothorax
+sabethes lanei
+sabethes nitidus
+sabethes ortizi
+sabethes paraitepuyensis
+sabethes purpureus
+sabethes quasicyaneus
+sabethes schnusei
+sabethes shannoni
+sabethes spixi
+sabethes tarsopus
+sabethinus
+sabethes idiogenes
+sabethes intermedius
+sabethes melanonymphe
+sabethes xhphydes
+sabethoides
+sabethes chloropterus
+sabethes glaucodaemon
+sabethes tridentatus
+genus shannoniana
+shannoniana fluviatilis
+genus topomyia
+suaymyia
+topomyia apsarsae
+topomyia argenteoventralis
+topomyia auriceps
+topomyia cristata
+topomyia decorabilis
+topomyia houghtoni
+topomyia imitata
+topomyia leucotarsis
+topomyia mengi
+topomyia papuensis
+topomyia pseudoleucotarsis
+topomyia spathulirostris
+topomyia suchariti
+topomyia tumetarsalis
+topomyia yanbarensis
+topomyia
+topomyia angkoris
+topomyia argyropalpis
+topomyia aenea
+topomyia aureoventer
+topomyia barbus
+topomyia baolini
+topomyia cabrerai
+topomyia dananraji
+topomyia dejesusi
+topomyia dubitans
+topomyia gracilis
+topomyia hardini
+topomyia hernandoi
+topomyia hirtusa
+topomyia inclinata
+topomyia lindsayi
+topomyia malaysiensis
+topomyia minor
+topomyia nigra
+topomyia pilosa
+topomyia pseudobarbus
+topomyia rubithoracis
+topomyia sabahensis
+topomyia sylvatica
+topomyia svastii
+topomyia tenuis
+topomyia tipuliformis
+topomyia trifida
+topomyia unispinosa
+topomyia vijayae
+topomyia yongi
+topomyia zhangi
+genus toxothynchites
+afrorhynchus
+toxorhynchites aeneus
+toxorhynchites angolensis
+toxorhynchites erythrurus
+toxorhynchites helenae
+toxorhynchites kaimosi
+toxorhynchites lutescens
+toxorhynchites nairobiensis
+toxorhynchites pauliani
+toxorhynchites ruwenzori
+toxorhynchites viridibasis
+ankylorhynchus
+toxorhynchites catharinensis
+toxorhynchites hexacis
+toxorhynchites purpureus
+toxorhynchites trichopygus
+lynchiella
+toxorhynchites bambusicola
+toxorhynchites cavalierii
+toxorhynchites grandiosus
+toxorhynchites gerbergi
+toxorhynchites guadeloupensis
+toxorhynchites haemorrhoidalis
+toxorhynchites separatus
+toxorhynchites superbus
+toxorhynchites mariae
+toxorhynchites portoricensis
+toxorhynchites pusillus
+toxorhynchites rizzoi
+toxorhynchites rutilus
+toxorhynchites septentrionalis
+toxorhynchites solstitialis
+toxorhynchites violaceus
+toxorhynchites
+toxorhynchites acaudatus
+toxorhynchites albipes
+toxorhynchites amboinensis
+toxorhynchites angustiplatus
+toxorhynchites ater
+toxorhynchites auranticauda
+toxorhynchites aurifluus
+toxorhynchites auripes
+toxorhynchites barbipes
+toxorhynchites bengalensis
+toxorhynchites bickleyi
+toxorhynchites brevipalpis
+toxorhynchites conradti
+toxorhynchites abyssinicus
+toxorhynchites camaronis
+toxorhynchites capelai
+toxorhynchites christophi
+toxorhynchites changbaiensis
+toxorhynchites coeruleus
+toxorhynchites dundo
+toxorhynchites edwardsi
+toxorhynchites evansae
+toxorhynchites funestus
+toxorhynchites gigantulus
+toxorhynchites gravelyi
+toxorhynchites indicus
+toxorhynchites inornatus
+toxorhynchites albitarsis
+toxorhynchites kempi
+toxorhynchites klossi
+toxorhynchites leicesteri
+toxorhynchites lewisi
+toxorhynchites macaensis
+toxorhynchites magnificus
+toxorhynchites manicatus
+toxorhynchites yaeyamae
+toxorhynchites yamadai
+toxorhynchites manopi
+toxorhynchites metallicus
+toxorhynchites minimus
+toxorhynchites nepenthicola
+toxorhynchites nepenthis
+toxorhynchites nigripes
+toxorhynchites okinawensis
+toxorhynchites pendleburyi
+toxorhynchites phytophagus
+toxorhynchites quasiferox
+toxorhynchites rajah
+toxorhynchites ramalingami
+toxorhynchites raris
+toxorhynchites richenbachi
+toxorhynchites rodhaini
+toxorhynchites speciosus
+toxorhynchites splendens
+toxorhynchites sumatranus
+toxorhynchites sunthorni
+toxorhynchites towadensis
+genus tripteroides
+polylepidomyia
+tripteroides altivallis
+tripteroides apicotriangulata
+tripteroides argenteiventris
+tripteroides atripes
+tripteroides caledonicus
+tripteroides coheni
+tripteroides collessi
+tripteroides digoelensis
+tripteroides floridensis
+tripteroides folicola
+tripteroides marksae
+tripteroides melanesiensis
+tripteroides microlepis
+tripteroides perplexus
+tripteroides punctolateralis
+tripteroides rotumanus
+tripteroides solomonis
+tripteroides standfasti
+tripteroides tasmaniensis
+rachionotomyia
+tripteroides affinis
+tripteroides aranoides
+tripteroides ceylonensis
+tripteroides coonorensis
+tripteroides dofleini
+tripteroides edwardsi
+tripteroides nepenthis
+tripteroides nepenthisimilis
+tripteroides rozeboomi
+tripteroides serratus
+tripteroides tenax
+rachisoura
+tripteroides adentata
+tripteroides bisquamatus
+tripteroides brevirhynchus
+tripteroides concinnus
+tripteroides confusus
+tripteroides cuttsi
+tripteroides exnebulis
+tripteroides felicitatis
+tripteroides filipes
+tripteroides flabelliger
+tripteroides fuliginosus
+tripteroides fuscipleura
+tripteroides kingi
+tripteroides latisquama
+tripteroides leei
+tripteroides longipalpatus
+tripteroides mathesoni
+tripteroides obscurus
+tripteroides pallidus
+tripteroides pilosus
+tripteroides plumiger
+tripteroides simplex
+tripteroides stonei
+tripteroides subnudipennis
+tripteroides sylvestris
+tripteroides tityae
+tripteroides torokinae
+tripteroides vanleeuweni
+tricholeptomyia
+tripteroides apoensis
+tripteroides barraudi
+tripteroides belkini
+tripteroides christophersi
+tripteroides delpilari
+tripteroides microcala
+tripteroides nepenthicola
+tripteroides roxasi
+tripteroides werneri
+tripteroides
+tripteroides aeneus
+tripteroides alboscutellatus
+tripteroides antennalis
+tripteroides bambusa
+tripteroides yaemamensis
+tripteroides bimaculipes
+tripteroides binotatus
+tripteroides bonneti
+tripteroides brevipalpis
+tripteroides caeruleocephalus
+tripteroides cheni
+tripteroides claggi
+tripteroides denticulatus
+tripteroides distigma
+tripteroides dyari
+tripteroides dyi
+tripteroides elegans
+tripteroides erlindae
+tripteroides hoogstraali
+tripteroides hybridus
+tripteroides indeterminatus
+tripteroides indicus
+tripteroides intermediatus
+tripteroides knighti
+tripteroides latispinus
+tripteroides lipovskyi
+tripteroides littlechildi
+tripteroides lorengaui
+tripteroides mabinii
+tripteroides magnesianus
+tripteroides malayi
+tripteroides malvari
+tripteroides mendacis
+tripteroides monetifer
+tripteroides nissanensis
+tripteroides nitidoventer
+tripteroides novohanoverae
+tripteroides plumosus
+tripteroides powelli
+tripteroides escodae
+tripteroides laffooni
+tripteroides mattinglyi
+tripteroides proximus
+tripteroides purpuratus
+tripteroides quasiornatus
+tripteroides reiseni
+tripteroides riverai
+tripteroides similis
+tripteroides simulatus
+tripteroides splendens
+tripteroides sullivanae
+tripteroides tarsalis
+tripteroides toffaletii
+tripteroides uichancoi
+tripteroides vicinus
+harbachius
+verrallina abdita
+verrallina consonensis
+verrallina fragilis
+verrallina hamistylus
+verrallina indecorabilis
+verrallina nobukonis
+verrallina pahangi
+verrallina ramalingami
+verrallina robertsi
+verrallina srilankensis
+verrallina stunga
+verrallina uniformis
+verrallina yusafi
+neomaclaya
+verrallina adusta
+verrallina agrestis
+verrallina andamanensis
+verrallina atriisimilis
+verrallina atrius
+verrallina campylostylus
+verrallina cauta
+verrallina clavata
+verrallina comata
+verrallina comosa
+verrallina cretata
+verrallina cyrtolabis
+verrallina gibbosa
+verrallina harrisonicus
+verrallina hispida
+verrallina incerta
+verrallina indica
+verrallina johnsoni
+verrallina johorensis
+verrallina komponga
+verrallina lankaensis
+verrallina latipennis
+verrallina leicesteri
+verrallina macrodixoa
+verrallina margarsen
+verrallina neomacrodixoa
+verrallina nigrotarsis
+verrallina notabilis
+verrallina nubicola
+verrallina panayensis
+verrallina petroelephantus
+verrallina philippinensis
+verrallina phnoma
+verrallina prioekanensis
+verrallina protuberans
+verrallina pseudodiurna
+verrallina pseudomediofasciata
+verrallina pseudovarietas
+verrallina rami
+verrallina rara
+verrallina sabahensis
+verrallina seculata
+verrallina singularis
+verrallina sohni
+verrallina torosa
+verrallina unca
+verrallina vallistris
+verrallina varietas
+verrallina virilis
+verrallina yerburyi
+verrallina
+verrallina azureosquamata
+verrallina bifoliata
+verrallina butleri
+verrallina carmenti
+verrallina cunninghami
+verrallina cuccioi
+verrallina dux
+verrallina embiensis
+verrallina foliformis
+verrallina funerea
+verrallina iriomotensis
+verrallina killertonis
+verrallina leilae
+verrallina lineata
+verrallina lugubris
+verrallina mccormicki
+verrallina milnensis
+verrallina multifolium
+verrallina obsoleta
+verrallina parasimilis
+verrallina pipkini
+verrallina quadrifolium
+verrallina quadrispinata
+verrallina reesi
+verrallina sentania
+verrallina similis
+verrallina simplus
+verrallina trispinata
+verrallina vanapa
+verrallina variabilis
+genus wyeomyia
+antunesmyia
+wyeomyia alani
+wyeomyia colombiana
+wyeomyia flavifacies
+caenomyiella
+wyeomyia fernandezyepezi
+cruzmyia
+wyeomyia dyari
+wyeomyia forattinii
+wyeomyia kummi
+wyeomyia mattinglyi
+decamyia
+wyeomyia felicia
+wyeomyia pseudopecten
+wyeomyia ulocoma
+dendromyia
+wyeomyia complosa
+wyeomyia jocosa
+wyeomyia luteoventralis
+wyeomyia testei
+wyeomyia trifurcata
+wyeomyia ypsipola
+dodecamyia
+wyeomyia aphobema
+exallomyia
+wyeomyia arborea
+wyeomyia carrilloi
+wyeomyia tarsata
+hystatamyia
+wyeomyia autocratica
+wyeomyia circumcincta
+wyeomyia coenonus
+wyeomyia intonca
+wyeomyia esmeraldasi
+wyeomyia lamellata
+wyeomyia lopezii
+menolepis
+wyeomyia leucostigma
+nunezia
+wyeomyia bicornis
+wyeomyia lateralis
+phoniomyia
+wyeomyia antunesi
+wyeomyia bonnei
+wyeomyia davisi
+wyeomyia deanei
+wyeomyia diabolica
+wyeomyia edwardsi
+wyeomyia flabellata
+wyeomyia fuscipes
+wyeomyia galvaoi
+wyeomyia incaudata
+wyeomyia lassalli
+wyeomyia longirostris
+wyeomyia lopesi
+wyeomyia muehlensi
+wyeomyia pallidoventer
+wyeomyia palmata
+wyeomyia pilicauda
+wyeomyia quasilongirostris
+wyeomyia splendida
+wyeomyia theobaldi
+wyeomyia trinidadensis
+wyeomyia tripartita
+prosopolepis
+wyeomyia confusa
+wyeomyia
+wyeomyia abebela
+wyeomyia ablechra
+wyeomyia adelpha
+wyeomyia arthrostigma
+wyeomyia atrata
+wyeomyia bahama
+wyeomyia caracula
+wyeomyia celaenocephala
+wyeomyia charmion
+wyeomyia codiocampa
+wyeomyia corona
+wyeomyia downsi
+wyeomyia florestan
+wyeomyia gaudians
+wyeomyia gausapata
+wyeomyia grayii
+wyeomyia guatemala
+wyeomyia haynei
+wyeomyia hemisagnosta
+wyeomyia hirsuta
+wyeomyia hosautos
+wyeomyia leucotarsis
+wyeomyia juxtahirsuta
+wyeomyia labesba
+wyeomyia limai
+wyeomyia luna
+wyeomyia lutzi
+wyeomyia medioalbipes
+wyeomyia melanopus
+wyeomyia mitchellii
+wyeomyia nigritubus
+wyeomyia oblita
+wyeomyia pertinans
+wyeomyia pseudorobusta
+wyeomyia robusta
+wyeomyia sabethea
+wyeomyia serrata
+wyeomyia simmsi
+wyeomyia smithii
+wyeomyia sororcula
+wyeomyia stellata
+wyeomyia stonei
+wyeomyia trujilloi
+wyeomyia vanduzeei
+zinzala
+wyeomyia fishi
+wyeomyia zinzala
+wyeomyia aequatorianna
+wyeomyia airosai
+wyeomyia albosquamata
+wyeomyia amazonica
+wyeomyia aporonoma
+wyeomyia argenteorostris
+wyeomyia belkini
+wyeomyia bourrouli
+wyeomyia cesari
+wyeomyia chalcocephala
+wyeomyia clasoleuca
+wyeomyia compta
+wyeomyia covagarciai
+wyeomyia flui
+wyeomyia finlayi
+wyeomyia forcipenis
+wyeomyia gutierrezi
+wyeomyia howardi
+wyeomyia ininicola
+wyeomyia knabi
+wyeomyia luderwaldti
+wyeomyia melanocephala
+wyeomyia moerbista
+wyeomyia mystes
+wyeomyia negrensis
+wyeomyia nigricephala
+wyeomyia occulta
+wyeomyia pampithes
+wyeomyia phroso
+wyeomyia rooti
+wyeomyia rorotai
+wyeomyia roucouyana
+wyeomyia serratoria
+wyeomyia shannoni
+wyeomyia surinamensis
+wyeomyia taurepana
+wyeomyia undulata
+wyeomyia subcomplosa
+genus uranotaenia
+pseudoficalbia
+uranotaenia abdita
+uranotaenia abstrusa
+uranotaenia albipes
+uranotaenia andreae
+uranotaenia anhydor
+uranotaenia syntheta
+uranotaenia annulata
+uranotaenia apicotaeniata
+uranotaenia approximata
+uranotaenia ascidiicola
+uranotaenia atra
+uranotaenia belkini
+uranotaenia bicolor
+uranotaenia bimaculata
+uranotaenia bosseri
+uranotaenia browni
+uranotaenia brumpti
+uranotaenia brunhesi
+uranotaenia cachani
+uranotaenia capelai
+uranotaenia cavernicola
+uranotaenia colocasiae
+uranotaenia combesi
+uranotaenia confusa
+uranotaenia damasei
+uranotaenia demeilloni
+uranotaenia devemyi
+uranotaenia diagonalis
+uranotaenia douceti
+uranotaenia enigmatica
+uranotaenia fusca
+uranotaenia garnhami
+uranotaenia gigantea
+uranotaenia gouldi
+uranotaenia grenieri
+uranotaenia harrisoni
+uranotaenia henrardi
+uranotaenia henriquei
+uranotaenia hirsutifemora
+uranotaenia hongayi
+uranotaenia husaini
+uranotaenia jacksoni
+uranotaenia koli
+uranotaenia kraussi
+uranotaenia lavieri
+uranotaenia leiboensis
+uranotaenia lucyae
+uranotaenia lui
+uranotaenia luteola
+uranotaenia lutescens
+uranotaenia maculipleura
+uranotaenia mashonaensis
+uranotaenia mattinglyi
+uranotaenia maxima
+uranotaenia mengi
+uranotaenia micromelas
+uranotaenia modesta
+uranotaenia montana
+uranotaenia moufiedi
+uranotaenia moultoni
+uranotaenia nepenthes
+uranotaenia nigripes
+uranotaenia nigromaculata
+uranotaenia nivipleura
+uranotaenia nivipous
+uranotaenia nocticola
+uranotaenia novobscura
+uranotaenia ryukyuana
+uranotaenia obscura
+uranotaenia ohamai
+uranotaenia ornata
+uranotaenia musarum
+uranotaenia ototoma
+uranotaenia painei
+uranotaenia pandani
+uranotaenia patriciae
+uranotaenia propinqua
+uranotaenia pseudohenrardi
+uranotaenia pseudomaculipleura
+uranotaenia pylei
+uranotaenia quadrimaculata
+uranotaenia quasimodesta
+uranotaenia quinquemaculata
+uranotaenia recondita
+uranotaenia ramosa
+uranotaenia reinerti
+uranotaenia rickenbachi
+uranotaenia rossi
+uranotaenia shillitonis
+uranotaenia signata
+uranotaenia spiculosa
+uranotaenia srilankensis
+uranotaenia stricklandi
+uranotaenia sumethi
+uranotaenia tanzaniae
+uranotaenia tsaratananae
+uranotaenia ugandae
+uranotaenia unguiculata
+uranotaenia pefflyi
+uranotaenia xanthomelaena
+uranotaenia yaeyamana
+uranotaenia yovani
+uranotaenia
+uranotaenia aequatorianna
+uranotaenia alba
+uranotaenia albescens
+uranotaenia alboabdominalis
+uranotaenia alboannulata
+uranotaenia albosternopleura
+uranotaenia amiensis
+uranotaenia andavakae
+uranotaenia angolensis
+uranotaenia annandalei
+uranotaenia anopheloides
+uranotaenia antennalis
+uranotaenia apicalis
+uranotaenia arguellesi
+uranotaenia argyrotarsis
+uranotaenia balfouri
+uranotaenia barnesi
+uranotaenia benoiti
+uranotaenia bertii
+uranotaenia bilineata
+uranotaenia fraseri
+uranotaenia connali
+uranotaenia obsoleta
+uranotaenia bimaculiala
+uranotaenia bricenoi
+uranotaenia briseis
+uranotaenia caeruleocephala
+uranotaenia caliginosa
+uranotaenia calosomata
+uranotaenia campestris
+uranotaenia chorleyi
+uranotaenia christophersi
+uranotaenia civinskii
+uranotaenia clara
+uranotaenia coatzacoalcos
+uranotaenia cooki
+uranotaenia davisi
+uranotaenia diraphati
+uranotaenia ditaenionota
+uranotaenia dumonti
+uranotaenia edwardsi
+uranotaenia falcipes
+uranotaenia fimbriata
+uranotaenia galbaldoni
+uranotaenia geometrica
+uranotaenia gerdae
+uranotaenia hamoni
+uranotaenia hebes
+uranotaenia heiseri
+uranotaenia hopkinsi
+uranotaenia hystera
+uranotaenia incognita
+uranotaenia iriartei
+uranotaenia lanei
+uranotaenia lateralis
+uranotaenia leucoptera
+uranotaenia longirostris
+uranotaenia lowii
+uranotaenia ludlowae
+uranotaenia macfarlanei
+uranotaenia machadoi
+uranotaenia mathesoni
+uranotaenia mayeri
+uranotaenia mayottensis
+uranotaenia mendiolai
+uranotaenia metatarsata
+uranotaenia micans
+uranotaenia moresbyensis
+uranotaenia nataliae
+uranotaenia neireti
+uranotaenia neotibialis
+uranotaenia nivea
+uranotaenia nivipes
+uranotaenia novaguinensis
+uranotaenia alticola
+uranotaenia orientalis
+uranotaenia orthodoxa
+uranotaenia oteizai
+uranotaenia pallidocephala
+uranotaenia pallidoventer
+uranotaenia palmeirimi
+uranotaenia dundo
+uranotaenia paludosa
+uranotaenia paralateralis
+uranotaenia paranovaguinensis
+uranotaenia philonuxia
+uranotaenia pifanoi
+uranotaenia prajimi
+uranotaenia pulcherrima
+uranotaenia elnora
+uranotaenia pygmaea
+uranotaenia rachoui
+uranotaenia rampae
+uranotaenia reyi
+uranotaenia riverai
+uranotaenia rutherfordi
+uranotaenia sapphirina
+uranotaenia setosa
+uranotaenia sexaueri
+uranotaenia socialis
+uranotaenia solomonis
+uranotaenia sombooni
+uranotaenia subnormalis
+uranotaenia subtibioclada
+uranotaenia telmatophila
+uranotaenia testacea
+uranotaenia tibialis
+uranotaenia tibioclada
+uranotaenia trapidoi
+uranotaenia trilineata
+uranotaenia typhlosomata
+uranotaenia unimaculiala
+uranotaenia wysockii
+genus zeugnomyia
+zeugnomyia aguilari
+zeugnomyia fajardoi
+zeugnomyia gracilis
+genus udaya
+udaya argyrurus
+udaya lucaris
+udaya subsimilis
+zeugnomyia lawtoni
+shannoniana moralesi
+shannoniana schedocyclium
+genus trichoprosopon
+trichoprosopon andinum
+trichoprosopon brevipes
+trichoprosopon castroi
+trichoprosopon compressum
+trichoprosopon mogilasium
+trichoprosopon digitatum
+genus eretmapodites
+eretmapodites adami
+eretmapodites angolensis
+eretmapodites argyrurus
+eretmapodites brenguesi
+eretmapodites brottesi
+eretmapodites caillardi
+eretmapodites chrysogaster
+eretmapodites corbeti
+eretmapodites dracaenae
+eretmapodites dundo
+eretmapodites eouzani
+eretmapodites ferrarai
+eretmapodites forcipulatus
+eretmapodites germaini
+eretmapodites gilletti
+eretmapodites grahami
+eretmapodites grenieri
+eretmapodites haddowi
+eretmapodites hamoni
+eretmapodites harperi
+eretmapodites hightoni
+eretmapodites inornatus
+eretmapodites intermedius
+eretmapodites jani
+eretmapodites lacani
+eretmapodites leucopous
+eretmapodites mahaffyi
+eretmapodites marcellei
+eretmapodites mattinglyi
+eretmapodites melanopous
+eretmapodites mortiauxi
+eretmapodites oedipodeios
+eretmapodites parvipluma
+eretmapodites pauliani
+eretmapodites penicillatus
+eretmapodites plioleucus
+eretmapodites brevis
+eretmapodites productus
+eretmapodites quinquevittatus
+eretmapodites ravissei
+eretmapodites rickenbachi
+eretmapodites salauni
+eretmapodites semisimplicipes
+eretmapodites silvestris
+eretmapodites conchobius
+eretmapodites subsimplicipes
+eretmapodites tendeiroi
+eretmapodites tonsus
+eretmapodites vansomereni
+eretmapodites wansoni
+eretmapodites douceti
+cellia
+anopheles aconitus
+anopheles amictus
+anopheles annularis
+anopheles annulatus
+anopheles annulipes
+anopheles apoci
+anopheles arabiensis
+anopheles ardensis
+anopheles argenteolobatus
+anopheles aruni
+anopheles aurirostris
+anopheles austenii
+anopheles azaniae
+anopheles azevedoi
+anopheles baisasi
+anopheles balabacensis
+anopheles barberellus
+anopheles berghei
+anopheles brohieri
+anopheles brucei
+anopheles brumpti
+anopheles brunnipes
+anopheles buxtoni
+anopheles bwambae
+anopheles cameroni
+anopheles carnevalei
+anopheles caroni
+anopheles carteri
+anopheles christyi
+anopheles cinctus
+anopheles cinereus
+anopheles hispaniola
+anopheles clowi
+anopheles comorensis
+anopheles confusus
+anopheles cristatus
+anopheles cristipalpis
+anopheles culicifacies
+anopheles cydippis
+anopheles dancalicus
+anopheles daudi
+anopheles deemingi
+genus chagasia
+chagasia bathana
+anopheles demeilloni
+anopheles dirus
+anopheles dispar
+anopheles distinctus
+anopheles domicola
+chagasia bonneae
+anopheles dravidicus
+anopheles dthali
+anopheles dualaensis
+anopheles dureni
+anopheles elegans
+anopheles erepens
+chagasia fajardi
+anopheles erythraeus
+anopheles ethiopicus
+anopheles faini
+anopheles farauti
+chagasia rozeboomi
+anopheles filipinae
+anopheles flavicosta
+anopheles flavirostris
+genus deinocerites
+deinocerites atlanticus
+deinocerites barretoi
+deinocerites belkini
+deinocerites cancer
+deinocerites colombianus
+deinocerites costaricensis
+deinocerites curiche
+deinocerites dyari
+deinocerites epitedeus
+deinocerites howardi
+deinocerites magnus
+deinocerites mathesoni
+deinocerites mcdonaldi
+deinocerites melanophylum
+deinocerites nicoyae
+deinocerites panamensis
+deinocerites pseudes
+deinocerites spanius
+genus galindomyia
+galindomyia leei
+genus ficalbia
+ficalbia circumtestacea
+ficalbia jacksoni
+ficalbia ludlowae
+ficalbia malfeyti
+ficalbia minima
+ficalbia nigra
+ficalbia uniformis
+genus coquillettidia
+austromansonia
+coquillettidia tenuipalpis
+coquillettidia
+coquillettidia annettii
+coquillettidia aurata
+coquillettidia aurea
+coquillettidia aureosquammata
+coquillettidia aurites
+coquillettidia buxtoni
+coquillettidia chrysosoma
+coquillettidia crassipes
+coquillettidia cristata
+coquillettidia fijiensis
+coquillettidia flavocincta
+coquillettidia fraseri
+coquillettidia fuscopennata
+coquillettidia fuscopteron
+coquillettidia giblini
+coquillettidia grandidieri
+coquillettidia hodgkini
+coquillettidia iracunda
+coquillettidia karandalaensis
+coquillettidia linealis
+coquillettidia lutea
+coquillettidia maculipennis
+coquillettidia memorans
+coquillettidia metallica
+coquillettidia microannulata
+coquillettidia nigritarsis
+coquillettidia nigrithorax
+coquillettidia nigrochracea
+coquillettidia nigrosignata
+coquillettidia novochracea
+coquillettidia ochracea
+coquillettidia perturbans
+coquillettidia pseudoconopas
+coquillettidia richiardii
+coquillettidia rochei
+coquillettidia samoaensis
+coquillettidia schoutedeni
+coquillettidia vanoyei
+coquillettidia variegata
+coquillettidia versicolor
+coquillettidia voltaensis
+coquillettidia wahlbergi
+coquillettidia xanthogaster
+rhynchotaenia
+coquillettidia albicosta
+coquillettidia albifera
+coquillettidia arribalzagae
+coquillettidia chrysonotum
+coquillettidia fasciolata
+coquillettidia hermanoi
+coquillettidia juxtamansonia
+coquillettidia lynchi
+coquillettidia neivai
+coquillettidia nigricans
+coquillettidia nitens
+coquillettidia shannoni
+coquillettidia venezuelensis
+genus culiseta
+allotheobaldia
+culiseta longiareolata
+austrotheobaldia
+culiseta littleri
+climacura
+culiseta antipodea
+culiseta marchettei
+culiseta melanura
+culiseta novaezealandiae
+culiseta tonnoiri
+culicella
+culiseta atra
+culiseta drummondi
+culiseta fumipennis
+culiseta inconspicua
+culiseta litorea
+culiseta minnesotae
+culiseta morsitans
+culiseta nipponica
+culiseta otwayensis
+culiseta silvestris
+culiseta ochroptera
+culiseta amurensis
+culiseta sylvanensis
+culiseta victoriensis
+culiseta weindorferi
+culiseta
+culiseta alaskaensis
+culiseta indica
+culiseta annulata
+culiseta atlantica
+culiseta bergrothi
+culiseta glaphyroptera
+culiseta impatiens
+culiseta incidens
+culiseta inornata
+culiseta megaloba
+culiseta niveitaeniata
+culiseta particeps
+culiseta subochrea
+neotheobaldia
+culiseta frenchii
+culiseta atritarsalis
+culiseta hilli
+theomyia
+culiseta fraseri
+culiseta arenivaga
+genus culex
+acalleomyia
+culex obscurus
+acallyntrum
+culex axillicola
+culex bougainvillensis
+culex belkini
+culex bicki
+culex binigrolineatus
+culex pallidiceps
+culex perkinsi
+aedinus
+culex accelerans
+culex amazonensis
+culex clastrieri
+culex guyanensis
+afroculex
+culex lineata
+allimanta
+culex tramazayguesi
+anoedioporpa
+culex bamborum
+culex belemensis
+culex browni
+culex canaanensis
+culex chaguanco
+culex conservator
+culex corrigani
+culex damascenoi
+culex luteopleurus
+culex menui
+culex originator
+culex paganus
+culex quasioriginator
+barraudius
+culex modestus
+culex inatomii
+culex pusillus
+culex richeti
+belkinomyia
+culex eldridgei
+carrollia
+culex anduzei
+culex antunesi
+culex babahoyensis
+culex bihaicola
+culex bonnei
+culex cerqueirai
+culex guerreroi
+culex infoliatus
+culex iridescens
+culex kompi
+culex metempsytus
+culex rausseoi
+culex secundus
+culex soperi
+culex urichii
+culex wannonii
+culex wilsoni
+culex
+culex abnormalis
+culex acharistus
+phenacomyia
+culex airozai
+culex alani
+culex albinervis
+culex alienus
+culex alis
+culex ameliae
+culex andersoni
+culex bwambanus
+culex abyssinicus
+culex annulioris
+culex consimilis
+culex annulirostris
+culex marianae
+culex annuliventris
+culex annulus
+culex antennatus
+culex apicinus
+culex aquarius
+culex archegus
+culex argenteopunctatus
+culex kingii
+culex articularis
+culex asteliae
+culex astridianus
+culex ataeniatus
+culex atriceps
+culex aurantapex
+culex jinjaensis
+culex ellinorae
+culex australicus
+culex bahamensis
+culex banksensis
+culex barraudi
+culex beta
+culex bickleyi
+culex bidens
+culex bihamatus
+oculeomyia
+culex bitaeniorhynchus
+sirivanakarnius
+culex boninensis
+culex bonneae
+culex brami
+culex brethesi
+culex brevispinosus
+culex brumpti
+culex bukavuensis
+culex calurus
+culex camposi
+culex carcinoxenus
+culex carleti
+culex castelli
+culex castroi
+culex chidesteri
+culex chitae
+culex chorleyi
+culex corniger
+culex cornutus
+culex coronator
+culex covagarciai
+culex crinicauda
+culex cuyanus
+culex decens
+culex declarator
+culex delys
+culex demeilloni
+culex diengensis
+culex diplophyllum
+culex dohenyi
+culex dolosus
+culex duplicator
+culex duttoni
+culex eduardoi
+culex edwardsi
+culex epidesmus
+culex erythrothorax
+culex fasyi
+culex fernandezi
+culex foliaceus
+culex fuscocephala
+culex gameti
+culex gelidus
+culex geminus
+culex giganteus
+culex globocoxitus
+culex grahamii
+culex farakoensis
+culex guayasi
+culex guiarti
+culex sudanicus
+culex guizhouensis
+culex habilitator
+culex hancocki
+culex hepperi
+culex hopkinsi
+culex huangae
+culex hutchinsoni
+culex incognitus
+culex inflictus
+culex infula
+culex ingrami
+culex interfor
+culex interrogator
+culex invidiosus
+culex vexillatus
+culex vicinalis
+culex iyengari
+culex jacksoni
+culex janitor
+culex kesseli
+culex kinabaluensis
+culex lactator
+culex lahillei
+culex laticinctus
+culex laticlasper
+culex levicastilloi
+culex litoralis
+culex litwakae
+culex longicornis
+culex luzonensis
+culex lygrus
+culex maracayensis
+culex marquesensis
+culex mattinglyi
+culex mauesensis
+culex maxi
+culex mimeticus
+culex mimuloides
+culex mimulus
+culex miraculosus
+culex mirificus
+culex mollis
+culex murrelli
+culex musarum
+culex nakuruensis
+culex neavei
+culex nigripalpus
+culex nilgiricus
+culex ninagongoensis
+culex omani
+culex orientalis
+culex ornatothoracis
+culex oswaldoi
+culex ousqua
+culex pacificus
+culex palpalis
+culex paramaxi
+culex perfidiosus
+culex perexiguus
+culex perfuscus
+culex perplexus
+culex pervigilans
+culex philipi
+culex philippinensis
+culex pinarocampa
+culex pipiens
+culex pallens
+culex poicilipes
+culex propinquus
+culex prosecutor
+culex pruina
+culex eschirasi
+culex pseudojanthinosoma
+culex pseudopruina
+culex pseudosinensis
+culex pseudostigmatosoma
+culex pseudovishnui
+culex quasiguiarti
+culex quinquefasciatus
+culex quitensis
+culex renatoi
+culex restuans
+culex riojanus
+culex roseni
+culex rotoruae
+culex salinarius
+culex saltanensis
+culex samoaensis
+culex schwetzi
+culex scimitar
+culex scottii
+culex secutor
+culex selangorensis
+culex seldeslachtsi
+culex shoae
+culex ugandae
+culex simpsoni
+culex sinaiticus
+culex sinensis
+culex sitiens
+culex solitarius
+culex sphinx
+culex spinosus
+culex squamosus
+culex starckeae
+culex stenolepis
+culex stigmatosoma
+culex striatipes
+culex joanae
+culex surinamensis
+culex tamsi
+culex tarsalis
+culex tatoi
+culex telesilla
+culex tenagius
+culex terzii
+culex thalassius
+culex theileri
+culex thriambus
+culex toroensis
+culex macrophyllus
+culex torrentium
+culex trifilatus
+culex aenescens
+culex trifoliatus
+culex tritaeniorhynchus
+culex tsengi
+culex umbripes
+culex univittatus
+culex usquatissimus
+culex usquatus
+culex vagans
+culex vansomereni
+culex draconis
+culex elgonicus
+culex ventrilloni
+culex verutus
+culex vicinus
+culex vishnui
+culex watti
+culex weschei
+culex gediensis
+culex whitei
+culex whitmorei
+culex whittingtoni
+culex yojoae
+culex zombaensis
+culiciomyia
+culex azurini
+culex bahri
+culex bailyi
+culex barrinus
+culex cambournaci
+culex ceramensis
+culex cinerellus
+culex cinereus
+culex delfinadoae
+culex dispectus
+culex eouzani
+culex fragilis
+culex furlongi
+culex fuscicinctus
+culex gilliesi
+culex grenieri
+culex hainanensis
+culex harleyi
+culex harrisoni
+culex javanensis
+culex kyotoensis
+culex lampangensis
+culex liberiensis
+culex macfiei
+culex maplei
+culex milloti
+culex mongiro
+culex muspratti
+culex nailoni
+culex nebulosus
+culex pseudocinereus
+culex nigropunctatus
+culex pallidothorax
+culex pandani
+culex papuensis
+culex pullus
+culex rajah
+culex ramakrishnii
+culex ramalingami
+culex ruthae
+culex ryukyensis
+culex sasai
+culex scanloni
+culex semibrunneus
+culex shebbearei
+culex spathifurca
+culex spiculostylus
+culex spiculothorax
+culex subaequalis
+culex termi
+culex thurmanorum
+culex tricuspis
+culex viridiventer
+culex yaoi
+eumelanomyia
+culex acrostichalis
+culex adami
+culex adersianus
+culex albertianus
+culex albiventris
+culex amaniensis
+culex andreanus
+culex baisasi
+culex bokorensis
+culex brenguesi
+culex brevipalpis
+culex calabarensis
+culex campilunati
+culex castor
+culex castrensis
+culex cataractarum
+culex chauveti
+culex femineus
+culex fimbriforceps
+culex foliatus
+culex germaini
+culex galliardi
+culex garioui
+culex gudouensis
+culex hackeri
+culex hamoni
+culex hayashii
+culex helenae
+culex hinglungensis
+culex horridus
+culex rageaui
+culex inconspicuosus
+culex insignis
+culex iphis
+culex jefferyi
+culex kanyamwerima
+culex khazani
+culex kilara
+culex kingianus
+culex kiriensis
+culex laplantei
+culex latifoliatus
+culex laureli
+culex macrostylus
+culex malayensis
+culex malayi
+culex manusensis
+culex mijanae
+culex mohani
+culex mundulus
+culex nyangae
+culex okinawae
+culex oresbius
+culex orstom
+culex otachati
+culex phangngae
+culex pluvialis
+culex pseudoandreanus
+culex quintetti
+culex richei
+culex richardgarciai
+culex rima
+culex rubinotus
+culex selai
+culex simplicicornis
+culex simpliciforceps
+culex stellatus
+culex subrima
+culex sunyaniensis
+culex tauffliebi
+culex tenuipalpis
+culex uncinatus
+culex vattieri
+culex vinckei
+culex wansoni
+culex wigglesworthi
+culex yeageri
+kitzmilleria
+culex moucheti
+lasiosiphon
+culex adairi
+lophoceraomyia
+culex aculeatus
+culex acutipalus
+culex aestivus
+culex alorensis
+culex alphus
+culex atracus
+culex bandoengensis
+culex becki
+culex bengalensis
+culex bergi
+culex bicornutus
+culex bolii
+culex brevipalpus
+culex buxtoni
+culex carolinensis
+culex castaneus
+culex christiani
+culex cinctellus
+culex coerulescens
+culex collessi
+culex cottlei
+culex crassicomus
+culex crowei
+culex cubiculi
+culex cubitatus
+culex curtipalpis
+culex cylindricus
+culex demissus
+culex digoelensis
+culex durhami
+culex eminentia
+culex eukrines
+culex flavicornis
+culex fraudatrix
+culex fulleri
+culex gagnei
+culex ganapathi
+culex gibbulus
+culex gossi
+culex gracicornis
+culex gressitti
+culex harpagophallus
+culex hewitti
+culex hilli
+culex hirtipalpis
+culex hurlbuti
+culex imposter
+culex incomptus
+culex inculus
+culex infantulus
+culex insequens
+culex insularis
+culex jenseni
+culex josephineae
+culex kaviengensis
+culex kowiroensis
+culex kuhnsi
+culex kusaiensis
+culex laffooni
+culex lairdi
+culex lakei
+culex lasiopalpis
+culex lavatae
+culex leei
+culex lucaris
+culex macdonaldi
+culex mammilifer
+culex marksae
+culex minjensis
+culex minor
+culex minutissimus
+culex muruae
+culex navalis
+culex niger
+culex orbostiensis
+culex oweni
+culex pairoji
+culex paraculeatus
+culex perryi
+culex petersi
+culex peytoni
+culex pholeter
+culex pilifemoralis
+culex pseudornatus
+culex pseudorubithoracis
+culex quadripalpis
+culex raghavanii
+culex rajaneeae
+culex reidi
+culex rubithoracis
+culex sangenluoensis
+culex schilfgaardei
+culex sedlacekae
+culex seniori
+culex shanahani
+culex singuawaensis
+culex solomonis
+culex spiculosus
+culex steffani
+culex submarginalis
+culex sumatranus
+culex szemaoensis
+culex traubi
+culex tuberis
+culex uniformis
+culex variatus
+culex versabilis
+culex walukasi
+culex wamanguae
+culex wardi
+culex whartoni
+culex wilfredi
+culex winkleri
+genus lutzia
+lutzia
+lutzia allostigma
+lutzia bigoti
+metalutzia
+lutzia fuscanus
+lutzia halifaxii
+lutzia vorax
+lutzia tigripes
+maillotia
+culex arbieeni
+culex avianus
+culex deserticola
+culex hortensis
+culex peringueyi
+culex quettensis
+culex salisburiensis
+culex capensis
+culex coursi
+culex seyrigi
+culex subsalisburiensis
+melanoconion
+culex abominator
+culex abonnenci
+culex adamesi
+culex albinensis
+culex alcocki
+culex aliciae
+culex alogistus
+culex amitis
+culex andricus
+culex anips
+culex anoplicitus
+culex arboricola
+culex atratus
+culex aureonotatus
+culex bahiensis
+culex bastagarius
+culex batesi
+culex bejaranoi
+culex bequaerti
+culex bifoliatus
+culex carcinophilus
+culex caribeanus
+culex caudatus
+culex caudelli
+culex cedecei
+culex changuinolae
+culex clarki
+culex comatus
+culex commevynensis
+culex comminutor
+culex confundior
+culex conspirator
+culex contei
+culex coppenamensis
+culex corentynensis
+culex creole
+culex cristovaoi
+culex crybda
+culex delpontei
+culex distinguendus
+culex dolichophyllus
+culex dunni
+culex dureti
+culex dyius
+culex eastor
+culex educator
+culex egcymon
+culex elephas
+culex elevator
+culex ensiformis
+culex epanatasis
+culex equinoxialis
+culex ernanii
+culex ernsti
+culex erraticus
+culex evansae
+culex fairchildi
+culex faurani
+culex ferreri
+culex flabellifer
+culex foliafer
+culex galindoi
+culex galvaoi
+culex garcesi
+culex glyptosalpinx
+culex guedesi
+culex herrerai
+culex idottus
+culex inadmirabilis
+anopheles gambiae molecular form
+culex inhibitator
+culex innovator
+culex intonsus
+culex intrincatus
+culex invocator
+culex iolambdis
+culex isabelae
+culex jocasta
+culex johnnyi
+culex johnsoni
+culex jubifer
+culex keenani
+culex kummi
+culex lacertosus
+culex limacifer
+culex lopesi
+culex lucifugus
+culex madininensis
+culex martinezi
+culex maxinocca
+culex mesodenticulatus
+culex milwardi
+culex misionensis
+culex mistura
+culex mulrennani
+culex mutator
+culex nicaroensis
+culex nicceriensis
+culex ocossa
+culex oedipus
+culex olimpioi
+culex orfilai
+culex palaciosi
+culex panocossa
+culex paracrybda
+culex patientiae
+culex pavlovskyi
+culex peccator
+culex pedroi
+culex penai
+culex pereyrai
+culex phlabistus
+culex phlogistus
+culex pifanoi
+culex pilosus
+culex plectoporpe
+culex portesi
+culex productus
+culex psatharus
+culex putumayensis
+culex quadrifoliatus
+culex quasihibridus
+culex rabanicola
+culex rabelloi
+culex rachoui
+culex ribeirensis
+culex ronderosi
+culex rooti
+culex rorotaensis
+culex saramaccensis
+culex sardinerae
+culex serratimarge
+culex silvai
+culex simulator
+culex spathulatus
+culex spissipes
+culex sursumptor
+culex taeniopus
+culex tecmarsis
+culex terebor
+culex theobaldi
+culex tournieri
+culex trifidus
+culex trigeminatus
+culex trilobulatus
+culex trisetosus
+culex unicornis
+culex vexillifer
+culex vidali
+culex vomerifer
+culex wepsterae
+culex ybarmis
+culex zeteki
+micraedes
+culex antillummagnorum
+culex arawak
+culex bisulcatus
+culex erethyzonfer
+culex jalisco
+culex sandrae
+culex schicki
+microculex
+culex albipes
+culex aphylactus
+culex aureus
+culex azymus
+culex carioca
+culex chryselatus
+culex consolator
+culex daumastocampa
+culex davisi
+culex dubitans
+culex elongatus
+culex gairus
+culex gaudeator
+culex hedys
+culex imitator
+culex retrosus
+culex inimitabilis
+culex fuscatus
+culex intermedius
+culex jenningsi
+culex kukenan
+culex lanei
+culex microphyllus
+culex neglectus
+culex pleuristriatus
+culex pulidoi
+culex reducens
+culex reginae
+culex rejector
+culex restrictor
+culex shopei
+culex siphanulatus
+culex stonei
+culex sutili
+culex worontzowi
+culex xenophobus
+neoculex
+culex apicalis
+culex arizonensis
+culex boharti
+culex chaetoventralis
+culex cheesmanae
+culex crassistylus
+culex derivator
+culex douglasi
+culex dumbletoni
+culex fergusoni
+culex gamma
+culex gaufini
+culex impudicus
+culex judaicus
+culex latus
+culex leonardi
+culex martinii
+culex millironi
+culex pedicellus
+culex postspiraculosus
+culex pseudomelanoconia
+culex reevesi
+culex rubensis
+culex territans
+tinolestes
+culex breviculus
+culex cauchensis
+culex latisquama
+culex cairnsensis
+culex flochi
+culex inornata
+culex nigrimacula
+culex ocellatus
+culex punctiscapularis
+culex romeroi
+anopheles coluzzii
+genus heamogogus
+conopostegus
+haemagogus clarki
+haemagogus leucocelaenus
+haemagogus leucophoebus
+haemagogus leucotaeniatus
+haemagogus
+haemagogus acutisentis
+haemagogus aeritinctus
+haemagogus albomaculatus
+haemagogus anastasionis
+haemagogus andinus
+haemagogus argyromeris
+haemagogus baresi
+haemagogus boshelli
+haemagogus capricornii
+haemagogus celeste
+haemagogus chalcospilans
+haemagogus chrysochlorus
+haemagogus equinus
+haemagogus iridicolor
+haemagogus janthinomys
+haemagogus lucifer
+haemagogus mesodentatus
+haemagogus nebulosus
+haemagogus panarchys
+haemagogus regalis
+haemagogus soperi
+haemagogus spegazzinii
+haemagogus splendens
+haemagogus tropicalis
+genus hodgesia
+hodgesia bailyi
+hodgesia cairnsensis
+hodgesia cyptopous
+hodgesia lampangensis
+hodgesia malayi
+hodgesia nigeriae
+hodgesia psectropus
+hodgesia quasisanguinae
+hodgesia sanguinae
+hodgesia solomonis
+hodgesia spoliata
+genus heizmannia
+heizmannia
+heizmannia aurea
+heizmannia aureochaeta
+heizmannia chandi
+heizmannia chengi
+heizmannia communis
+heizmannia complex
+heizmannia covelli
+heizmannia demeilloni
+heizmannia funerea
+heizmannia greenii
+heizmannia heterospina
+heizmannia himalayensis
+heizmannia indica
+heizmannia kana
+heizmannia kanhsienensis
+heizmannia lii
+heizmannia macdonaldi
+heizmannia mattinglyi
+heizmannia menglianensis
+heizmannia persimilis
+heizmannia propinqua
+heizmannia proxima
+heizmannia reidi
+heizmannia scanloni
+heizmannia scintillans
+heizmannia taiwanensis
+heizmannia viridis
+mattinglyia
+heizmannia achaetae
+heizmannia catesi
+heizmannia discrepans
+heizmannia occidentayunnana
+heizmannia thelmae
+heizmannia tripunctata
+genus isostomyia
+isostomyia espini
+isostomyia lunata
+isostomyia paranensis
+isostomyia perturbans
+isostomyia shropshirei
+mimomyia elegans
+mimomyia luzonensis
+mimomyia mediolineata
+mimomyia solomonis
+mimomyia xanthozona
+ingramia
+mimomyia aurata
+mimomyia bernardi
+mimomyia beytouti
+mimomyia brygooi
+mimomyia collessi
+mimomyia deguzmanae
+mimomyia fusca
+mimomyia grjebinei
+mimomyia jeansottei
+mimomyia kiriromi
+mimomyia levicastilloi
+mimomyia longicornis
+mimomyia marksae
+mimomyia martinei
+mimomyia mattinglyi
+mimomyia milloti
+mimomyia ramalai
+mimomyia roubaudi
+mimomyia spinosa
+mimomyia stellata
+mimomyia vansomerenae
+mimomyia
+mimomyia aurea
+mimomyia chamberlaini
+mimomyia metallica
+mimomyia clavipalpus
+mimomyia femorata
+mimomyia flavens
+mimomyia flavopicta
+mimomyia gurneyi
+mimomyia hispida
+mimomyia hybrida
+mimomyia intermedia
+mimomyia lacustris
+mimomyia mimomyiaformis
+mimomyia modesta
+mimomyia pallida
+mimomyia parenti
+mimomyia perplexens
+mimomyia plumosa
+mimomyia splendens
+nomen nudem
+wyeomyia grjebinei
+malaya marceli
+malaya moucheti
+malaya solomonis
+malaya splendens
+malaya taeniarostris
+malaya trichorostris
+anopheles franciscoi
+anopheles hodgkini
+anopheles interruptus
+anopheles koreicus
+anopheles lewisi
+anopheles manalangi
+anopheles nigerrimus
+anopheles nilgiricus
+anopheles nitidus
+anopheles noniae
+anopheles obscurus
+anopheles occidentalis
+anopheles okuensis
+anopheles omorii
+anopheles palmatus
+anopheles paludis
+anopheles parapunctipennis
+anopheles peditaeniatus
+anopheles perplexens
+anopheles peryassui
+anopheles petragnani
+anopheles peytoni
+anopheles pilinotum
+anopheles pinjaurensis
+anopheles plumbeus
+anopheles pollicaris
+anopheles powderi
+anopheles powelli
+anopheles pseudobarbirostris
+anopheles pseudomaculipes
+anopheles pseudopictus
+anopheles pseudopunctipennis
+anopheles levicastilloi
+anopheles rivadeneirai
+anopheles patersoni
+anopheles bifoliata
+anopheles noei
+anopheles pseudosinensis
+anopheles pseudostigmaticus
+anopheles pullus
+anopheles punctimacula
+anopheles punctipennis
+anopheles pursati
+anopheles quadrimaculatus
+anopheles rachoui
+anopheles reidi
+anopheles roperi
+anopheles sacharovi
+anopheles samarensis
+anopheles saperoi
+anopheles ohamai
+anopheles separatus
+anopheles shannoni
+anopheles similissimus
+anopheles sinensis
+anopheles sineroides
+anopheles sintoni
+anopheles sintonoides
+anopheles smaragdinus
+anopheles stigmaticus
+anopheles stricklandi
+anopheles symesi
+anopheles tasmaniensis
+anopheles tenebrosus
+anopheles tibiamaculatus
+anopheles tigertti
+anopheles umbrosus
+anopheles vanus
+anopheles veruslanei
+anopheles vestitipennis
+anopheles vietnamensis
+anopheles walkeri
+anopheles wellingtonianus
+anopheles whartoni
+anopheles xiaokuanus
+anopheles xelajuensis
+anopheles ziemanni
+anopheles fluviatilis
+anopheles fontinalis
+anopheles freetownensis
+anopheles funestus sensu lato
+anopheles fuscivenosus
+anopheles gambiae sensu lato
+anopheles garnhami
+anopheles gibbinsi
+anopheles grassei
+anopheles greeni
+anopheles grenieri
+anopheles griveaudi
+anopheles hackeri
+anopheles hamoni
+anopheles hancocki
+anopheles hargreavesi
+anopheles harperi
+anopheles hervyi
+anopheles hilli
+anopheles hughi
+anopheles incognitus
+anopheles indefinitus
+anopheles introlatus
+anopheles jamesii
+anopheles jebudensis
+anopheles jeyporiensis
+anopheles karwari
+anopheles keniensis
+anopheles kingi
+anopheles kochi
+anopheles kolambuganensis
+anopheles koliensis
+anopheles kosiensis
+anopheles lacani
+anopheles leesoni
+anopheles letabensis
+anopheles leucosphyrus
+anopheles limosus
+anopheles listeri
+anopheles litoralis
+anopheles lloreti
+anopheles longipalpis
+anopheles longirostris
+anopheles lounibosi
+anopheles lovettae
+anopheles ludlowae
+anopheles torakala
+anopheles lungae
+anopheles macarthuri
+anopheles machardyi
+anopheles maculatus
+anopheles maculipalpis
+anopheles majidi
+anopheles maliensis
+anopheles mangyanus
+anopheles marshallii
+anopheles mascarensis
+anopheles melas
+anopheles meraukensis
+anopheles merus
+anopheles millecampsi
+anopheles milloti
+anopheles minimus
+anopheles moghulensis
+anopheles mortiauxi
+anopheles moucheti
+anopheles nigeriensis
+anopheles bervoetsi
+anopheles mousinhoi
+anopheles multicinctus
+anopheles basilewskyi
+anopheles multicolor
+anopheles murphyi
+anopheles natalensis
+anopheles nataliae
+anopheles nemophilous
+anopheles nili
+anopheles nivipes
+anopheles njombiensis
+anopheles notanandai
+anopheles notleyi
+anopheles novaguinensis
+anopheles pallidus
+anopheles paltrinieri
+anopheles pampanai
+anopheles parangensis
+anopheles parensis
+anopheles pattoni
+anopheles pauliani
+anopheles pharoensis
+anopheles philippinensis
+anopheles pretoriensis
+anopheles pseudojamesi
+anopheles pseudowillmori
+anopheles pujutensis
+anopheles pulcherrimus
+anopheles punctulatus
+anopheles quadriannulatus
+anopheles davidsoni
+anopheles radama
+anopheles ranci
+anopheles rageaui
+anopheles rennellensis
+anopheles rhodesiensis
+anopheles rupicola
+anopheles riparis
+anopheles rivulorum
+anopheles rodhaini
+anopheles roubaudi
+anopheles ruarinus
+anopheles rufipes
+anopheles broussesi
+anopheles salbaii
+anopheles saungi
+anopheles sawadwongporni
+anopheles schueffneri
+anopheles schwetzi
+anopheles seretsei
+anopheles sergentii
+anopheles macmahoni
+anopheles seydeli
+anopheles smithii
+anopheles solomonis
+anopheles somalicus
+anopheles splendidus
+anopheles squamosus
+anopheles stephensi
+anopheles stookesi
+anopheles subpictus
+anopheles sulawesi
+anopheles sundaicus
+anopheles superpictus
+anopheles swahilicus
+anopheles takasagoensis
+anopheles tchekedii
+anopheles tessellatus
+anopheles orientalis
+anopheles kalawara
+anopheles theileri
+anopheles theobaldi
+anopheles turkhudi
+anopheles telamali
+anopheles ungujae
+anopheles vagus
+anopheles vaneedeni
+anopheles vanhoofi
+anopheles varuna
+anopheles vernus
+anopheles vinckei
+anopheles walravensi
+anopheles watsonii
+anopheles wellcomei
+anopheles ugandae
+anopheles willmori
+anopheles wilsoni
+kerteszia
+anopheles auyantepuiensis
+anopheles bambusicolus
+anopheles bellator
+anopheles boliviensis
+anopheles cruzii
+anopheles gonzalezrinconesi
+anopheles homunculus
+anopheles laneanus
+anopheles lepidotus
+anopheles neivai
+anopheles pholidotus
+anopheles rollai
+lophopodomyia
+anopheles gilesi
+anopheles gomezdelatorrei
+anopheles oiketorakras
+anopheles pseudotibiamaculatus
+anopheles squamifemur
+anopheles vargasi
+paraedes
+aedes barraudi
+anophelinae
+culicinae
+orthopodomyia albipes
+orthopodomyia andamanensis
+orthopodomyia anopheloides
+orthopodomyia antanosyorum
+orthopodomyia papuensis
+orthopodomyia phyllozoa
+aedeomyiini
+aedini
+orthopodomyia arboricollis
+orthopodomyia aureoantennata
+orthopodomyia comorensis
+orthopodomyia fascipes
+orthopodomyia flavicosta
+orthopodomyia flavithorax
+orthopodomyia geberti
+kompia
+aedes purpureipes
+orthopodomyia joyoni
+orthopodomyia kummi
+orthopodomyia lanyuensis
+orthopodomyia madecassorum
+orthopodomyia madrensis
+orthopodomyia milloti
+orthopodomyia nkolbissonensis
+orthopodomyia pulchripalpis
+orthopodomyia sampaioi
+orthopodomyia siamensis
+orthopodomyia signifera
+orthopodomyia vernoni
+orthopodomyia waverleyi
+orthopodomyia wilsoni
+topomyia irianensis
+topomyia javaensis
+aedes saperoi
+culex miyagii
+culex megaonychus
+culex biscaynensis
+orthopodomyia wanxianensis
+sabethes luxodens
+levua
+aedes fryeri
+armigeres yunnanensis
+culex comorensis
+culex kartalae
+culex curvibrachius
+culex plicatus
+culex megafolius
+heizmannia carteri
+topomyia bifurcata
+anopheles persiensis
+anopheles nimpe
+culex eknomios
+aedes collessi
+aedes menoni
+aedes ostentatio
+aedes pagei
+aedes thailandensis
+runchomyia magna
+aedes ealaensis
+aedes ethiopiensis
+aedes gandaensis
+aedes hogsbackensis
+aedes mpusiensis
+aedes sampi
+culex alinkios
+culex symbletos
+culex maderensis
+insulalutzia
+lutzia shinonagai
+aedes okinawanus
+aedes dufouri
+aedes geoskusea
+trichoprosopon evansae
+trichoprosopon lampropus
+trichoprosopon lanei
+trichoprosopon obscurum
+trichoprosopon pallidiventer
+trichoprosopon simile
+trichoprosopon soaresi
+trichoprosopon vonplesseni
+aedes biskraensis
+aedes coluzzii
+aedes neogalloisi
+anopheles hailarensis
+culex gnomatos
+culex garciai
+topomyia dulongensis
+psorophora santamarinai
+sabethes conditus
+topomyia bannaensis
+topomyia margina
+tripteroides ponmeki
+anopheles hinesorum
+anopheles torresiensis
+aedes dissimilierodes
+anopheles halophylus
+armigeres sembeli
+armigeres menglaensis
+heizmannia tengchongensis
+sabethes paradoxus
+anopheles eouzani
+anopheles irenicus
+armigeres laoensis
+culex cheni
+culex europaeus
+heizmannia menglianeroides
+uranotaenia jinhongensis
+uranotaenia qui
+topomyia miyagii
+aedes timorensis
+anopheles daciae
+anopheles ovengensis
+armigeres pallithorax
+culex scheuberi
+ficalbia ichiromiyagii
+mimomyia mogii
+uranotaenia dibrugarhensis
+uranotaenia yunnanensis
+verrallina assamensis
+wyeomyia chocoensis
+orthopodomyia peytoni
+aedes chrysoscuta
+aedes meirai
+culex machadoi
+culex pajoti
+culex tianpingensis
+culex toviiensis
+culex miaolingensis
+culex diamphidius
+culex johni
+culex sacchettae
+orthopodomyia ambremontis
+orthopodomyia ankaratrensis
+orthopodomyia fontenellei
+orthopodomyia rajaonariveloi
+orthopodomyia ravaonjanaharyi
+orthopodomyia reunionensis
+orthopodomyia rodhaini
+toxorhynchites lemuriae
+toxorhynchites fontenillei
+toxorhynchites grjebinei
+toxorhynchites brunhesi
+toxorhynchites madagascarensis
+wyeomyia staminifera
+uranotaenia lunda
+uranotaenia principensis
+topomyia yanbareroides
+topomyia bambusaihole
+topomyia nemorosa
+heizmannia ruiliensis
+armigeres lepidocoxitus
+aedes jorgi
+aedes brownscutumus
+tripteroides longipalpis
+uranotaenia albimanus
+uranotaenia ambodimanga
+uranotaenia apicosquamata
+uranotaenia bifasciata
+uranotaenia breviseta
+uranotaenia carcinicola
+uranotaenia haddowi
+culicidae
+taxon
+culicini
+culisetini
+ficalbiini
+hodgesiini
+mansoniini
+orthopomyiini
+sabethini
+toxorhynchitini
+uranotaeniini
+anopheles gambiae
+chromosomal form bamako
+chromosomal form mopti
+chromosomal form savanna
+chromosomal form forest
+anopheles funestus
+chromosomal form bissau
+continuant
+dependent_continuant
+disposition
+fiat_object_part
+function
+generically_dependent_continuant
+independent_continuant
+material_entity
+object
+object_aggregate
+object_boundary
+one_dimensional_region
+quality
+realizable_entity
+role
+site
+spatial_region
+specifically_dependent_continuant
+three_dimensional_region
+two_dimensional_region
+zero_dimensional_region
+connected_spatiotemporal_region
+connected_temporal_region
+fiat_process_part
+occurrent
+process
+process_aggregate
+process_boundary
+processual_context
+processual_entity
+scattered_spatiotemporal_region
+scattered_temporal_region
+spatiotemporal_instant
+spatiotemporal_interval
+spatiotemporal_region
+temporal_instant
+temporal_interval
+target
+temporal_region

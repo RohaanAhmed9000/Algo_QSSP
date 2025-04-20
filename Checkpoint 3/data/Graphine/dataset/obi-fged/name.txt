@@ -1,0 +1,1238 @@
+continuant
+occurrent
+independent continuant
+dependent continuant
+process
+disposition
+realizable entity
+quality
+specifically dependent continuant
+role
+site
+generically dependent continuant
+function
+process boundary
+material entity
+portion of organism substance
+portion of tissue
+multi - tissue structure
+epithelium
+gross anatomical part
+water
+biotin
+peptide
+deoxyribonucleic acid
+hydrogensulfite
+molecular entity
+atom
+nucleic acid
+ribonucleic acid
+amino acid
+macromolecule
+phosphorus - 32 atom
+phosphorus - 33 atom
+digoxigenin
+5 - bromo - 2' - deoxyuridine
+alexa fluor 532
+alexa fluor 546
+alexa fluor 555
+diethyl pyrocarbonate
+edta methidiumpropylamide
+cell line cell
+mortal cell line cell
+immortal cell line cell
+cell line
+immortal cell line
+mortal cell line
+cell
+primary cultured cell
+native cell
+cultured cell
+fibroblast
+epithelial cell
+t cell
+mast cell
+hepatocyte
+erythrocyte
+macrophage
+b cell
+dendritic cell
+lymphocyte
+experimentally modified cell in vitro
+cd4 - positive ,  alpha - beta t cell
+cd8 - positive ,  alpha - beta t cell
+basophil
+plasma cell
+alpha - beta t cell
+cd8 - positive ,  alpha - beta cytotoxic t cell
+mature nk t cell
+mononuclear cell
+geographical location
+adaptive immune response
+molecular_function
+catalytic activity
+rna - directed dna polymerase activity
+cellular_component
+dna replication
+chromatin remodeling
+immune response
+cell cycle
+biological_process
+cell proliferation
+cellular process
+gene expression
+immunoglobulin complex
+b cell receptor complex
+protein domain specific binding
+macromolecule localization
+dna polymerase activity
+regulation of molecular function ,  epigenetic
+t cell receptor complex
+immunoglobulin complex ,  circulating
+dna polymerase complex
+mhc protein complex
+protein complex
+sequence - specific dna binding
+regulation of dna methylation
+cellular developmental process
+response to stimulus
+chromosome organization
+insulin resistance
+measurement unit label
+objective specification
+action specification
+data item label
+software
+journal article
+information carrier
+model number
+data item
+symbol
+information content entity
+scalar measurement datum
+directive information entity
+dot plot
+graph
+algorithm
+curation status specification
+density plot
+report
+data set
+image
+data about an ontology part
+plan specification
+measurement data item
+version number
+serial number
+lot number
+setting datum
+conclusion textual entity
+material information bearer
+histogram
+heatmap
+dendrogram
+scatter plot
+textual entity
+table
+figure
+diagram
+document
+publication
+publication about an investigation
+length measurement datum
+mass measurement datum
+hypothesis textual entity
+time measurement datum
+postal address
+documenting
+line graph
+crid
+crid registry
+time sampled measurement data set
+planned process
+regulator role
+biological feature identification objective
+regulatory role
+material supplier role
+classified data set
+reference substance role
+cytological stain role
+supernatant role
+chromatography column
+drug role
+waiting
+processed material
+chromatography device
+mass spectrometer
+microarray platform
+software optimization objective
+positive reference substance role
+investigation
+evaluant role
+assay
+quantitative confidence value
+sample preparation for assay
+diagnosis textual entity
+culture medium
+reagent role
+detector reagent role
+patient role
+material processing
+protocol testing objective
+participant under investigation role
+measured expression level
+responsible party role
+principal investigator role
+transplantation
+biological vector role
+specimen role
+sequence feature identification objective
+intervention design
+worker role
+gene list
+molecular feature identification objective
+hardware testing objective
+incubator
+baseline participant role
+filter paper
+cell co - culturing
+complete nutrient role
+radiolabel role
+cdna library
+placebo role
+autotransplantation
+parameter threshold
+study group role
+p - value
+population
+imaging assay
+protocol optimization objective
+biological replicate role
+radioactivity detection
+investigation agent role
+nutrient role
+methodology testing objective
+negative reference substance role
+cellular feature identification objective
+reference subject role
+sub - investigator role
+enzymatic cleavage
+hardware optimization objective
+standard error
+antigen role
+software testing objective
+organization
+feed role
+technical replicate role
+dye role
+cluster
+cohort role
+artificially induced nucleic acid hybridization
+dna extraction
+plan
+organism feature identification objective
+protocol
+adding a material entity into a target
+analyte role
+disease stage
+intraperitoneal injection
+precipitate
+protein - protein interaction detection
+transcription factor binding site  identification
+eluate
+material to be added role
+drawing a conclusion based on data
+planning
+histological sample preparation
+mass analyzer
+ion source
+ion detector
+metabolite profiling
+light emission function
+contain function
+heat function
+material separation function
+excitation function
+synthesizing function
+perturb function
+filter function
+mechanical function
+transfer function
+electricity supply function
+ionization function
+cool function
+energy supply function
+information processor function
+image acquisition function
+image creation device
+solid support function
+environment control function
+sort function
+primer role
+pcr product
+viral rna extraction
+nucleic acid template role
+recombinant plasmid
+cloning vector role
+cell cycle synchronization
+polymerase chain reaction
+cloning insert role
+measuring glucose concentration in blood serum
+reverse transcriptase
+syringe
+extract
+transcription profiling assay
+averaging objective
+injection
+enzyme
+intraperitoneal administration
+plasmid
+injection into organ section
+dna sequence feature detection
+adding material objective
+genotyping assay
+analyte measurement objective
+dna sequence variation detection
+assay objective
+analyte assay
+target of material addition role
+normalized data set
+measure function
+consume data function
+material transformation objective
+manufacturing
+manufacturing objective
+study design execution
+isolation of cell population
+copy number variation profiling
+isolation of adherent cells
+isolation of pbmcs
+reverse transcribed polymerase chain reaction
+manufacturer role
+scattered molecular aggregate
+protein expression profiling
+dna sequencing
+dna methylation profiling assay
+material separation objective
+clustered data set
+data set of features
+differential expression analysis data transformation
+urine specimen
+material combination
+fuzzy clustering objective
+device setting
+blood specimen
+data set of predicted values according to fitted curve
+data representational model
+specimen collection
+background corrected data set
+error corrected data set
+class prediction data transformation
+background correction data transformation
+error correction data transformation
+sample from organism
+statistical hypothesis test
+center value
+statistical hypothesis test objective
+reduced dimension data set
+portioning objective
+average value
+whole organism preparation
+separation into different composition objective
+specimen collection objective
+creating a mixture of molecules in solution
+material combination objective
+rodent care protocol
+454 genome sequence 20
+immunoprecipitation
+abi 377 automated sequencer
+medip - seq assay
+animal feeding
+chain termination sequencing
+ab solid system
+helicos sequencing
+survival assessment
+support vector machine
+self - organizing map
+454 genome sequencer flx
+illumina genome analyzer ii
+decision tree induction objective
+solid sequencing
+decision tree building data transformation
+laboratory animal care
+li - cor 4300 dna analysis system
+library preparation
+pathogen challenge
+genepattern software
+graph of vertices
+animal care protocol
+chip - seq assay
+heliscope single molecule sequencer
+pathogen role
+vaccine preparation
+glucose tolerance test
+paired - end library
+dna sequencing by ligation
+solexa sequencing
+host role
+peak matching
+k - nearest neighbors
+rodent care
+pyrosequencing
+recombinant vector
+dna sequencing by synthesis
+ntp - 2000
+single fragment library
+cloning vector
+material sample role
+topologically preserved clustered data set
+material sampling process
+material sample
+bisulfite sequencing
+cart
+study design independent variable
+study design dependent variable
+study design controlled variable
+survival rate
+multiple testing correction objective
+statistical model validation
+double blind study execution
+purification objective
+cross linking
+spike train datum
+denaturing
+informing investigator of subject study arm
+material maintenance objective
+presentation of stimulus
+amplified dna
+informed consent process
+primary structure of dna macromolecule
+to be treated with active ingredient role
+calibration
+single blind study execution
+treatment portion of study execution
+research organization
+dna residue methylation
+measurement device
+high molecular weight dna extract
+manufacturer
+material maintenance
+labeled oligonucleotide
+unblinding process
+informing subject of study arm
+primary structure of rna molecule
+test substance role
+polya rna extraction
+organellar rna extraction
+record of missing knowledge
+total rna extraction
+complementary nucleotide probe role
+record of unknown sex
+cytoplasmic rna extraction
+likelihood - ratio test
+nuclear rna extract
+establishing cancer cell line
+pattern matching objective
+polya rna extract
+single - nucleotide - resolution nucleic acid structure mapping assay
+pre - mortem specimen
+detection of specific nucleic acids with complementary probes
+cytoplasmic rna extract
+cell line immortalization
+random primed dna labeling
+rna extract
+secondary structure of sequence macromolecule
+nuclear rna extraction
+cell proliferation assay
+real time polymerase chain reaction assay
+protein extract
+total rna extract
+organellar rna extract
+post mortem specimen
+sequence feature annotation
+supplying
+labeled dna extract
+cloacal specimen
+real time reverse - transcription polymerase chain reaction  assay
+promoter activity detection by reporter gene assay
+nasopharyngeal aspirate specimen
+freezing storage
+nasal swab specimen
+dulbecco's modified eagle medium
+animal euthanization
+cytometric bead array assay
+labeled rna extract
+frozen specimen
+labeled specimen
+infectious agent
+lyophilization storage
+material combination function
+study intervention
+material separation device
+intramuscular injection
+categorical measurement datum
+training process
+service consumer role
+intradermal injection
+chemical cleavage
+sterilization function
+service provider role
+accessed material role
+paraffin specimen
+compound treatment design
+oral administration
+processed specimen
+subcutaneous injection
+training objective
+lyophilized specimen
+in live organism assay
+container
+device
+dose specification
+scalar score from composite inputs
+fresh specimen
+sequence data
+paraffin storage
+agar stab specimen
+dose
+growth condition intervention design
+pcr instrument
+dna sequencing service
+administration of material to specimen
+growth environment
+faraday cage
+agar stab storage
+cmct structure mapping assay
+image creation
+mpe - fe ( ii )  structure mapping assay
+nucleic acid extract
+single - nucleotide - resolution nucleic acid structure mapping assay using chemical probing
+gene dosage assay
+feature extraction
+array image creation
+light emission device
+perturbation device
+environmental control device
+cell transfer function
+rna extraction / purification instrument
+dna extract
+array manufacturer role
+hybridization oven
+incubator shaker
+tandem mass spectrometer
+computer cluster
+nucleic acid sequencer
+bead array reader
+real - time pcr machine
+nucleic acid extraction / purification instrument
+dna extraction / purification instrument
+cell harvester
+microdissection instrument
+individual organism identifier
+dye swap quality control role
+labeled nucleic acid extract
+binding constant
+binding complex 3d structure determination assay
+binding assay
+cell culture expansion
+gene knock out
+gene knock in
+chromosomal substitution
+genetically modified material
+transfection
+genetic transformation objective
+induced mutation
+3d structural organization datum
+age since planting measurement datum
+age since hatching measurement datum
+age measurement assay
+age since egg laying measurement datum
+assay validation objective
+age since germination measurement datum
+validation by reverse transcription pcr design
+age since eclosion measurement datum
+age since sowing measurement datum
+age since coitus measurement datum
+validation by real time pcr design
+age measurement datum
+age since fertilization measurement datum
+age since birth measurement datum
+reverse transcription polymerase chain reaction assay
+half life datum  ( t 1 / 2 )
+dose response curve
+service
+selective organism creation objective
+rna sequencing
+half maximal effective concentration  ( ec50 )
+binding datum
+negative binding datum
+selectively maintained organism
+infectious agent detection assay
+half maximal inhibitory concentration  ( ic50 )
+operator variation design
+comparative genome hybridization by array design
+in vivo design
+genotyping by high throughput sequencing design
+innate behavior design
+snp microarray
+cell component comparison design
+ex vivo design
+normalization testing design
+chip - chip by snp array assay
+genetic population background information
+environmental history design
+epigenetic modification identification objective
+transcription profiling by tiling array assay
+transcription profiling by high thoughput sequencing design
+genotyping by high throughput sequencing assay
+chip - chip assay
+array platform variation design
+chip - seq design
+translational bias design
+fwer adjusted p - value
+dna methylation profiling by high throughput sequencing assay
+rna - seq assay
+genotyping by array assay
+dna methylation profiling by array design
+translation profiling assay
+in vitro design
+rnai profiling by array design
+transcription profiling by array design
+disease state design
+wild type organism genotype information
+rnai profiling by array assay
+genotype information
+rna stability design
+tiling microarray
+species comparison design
+transcription profiling by rt - pcr design
+proteomic profiling by array assay
+microrna profiling by array design
+organism development design
+family history design
+transcription profiling identification objective
+dna methylation profiling by array assay
+microrna profiling by array assay
+quality control testing design
+clinical history design
+allele information
+post - transcriptional modification design
+transcription profiling by rt - pcr assay
+genetic alteration information
+cellular process design
+wild type allele information
+injury design
+organism status comparison design
+genotyping by array design
+comparative genomic hybridization by array assay
+stimulus or stress design
+protein and dna interaction identification objective
+protocol optimization design
+chip - chip design
+genetic characteristics information
+imprinting design
+cell cycle design
+translation profiling design
+cell type comparison design
+chip - chip by tiling array design
+dose response design
+chip - chip by tiling array assay
+organism part comparison design
+protein binding site identification design
+sex comparison design
+transcription profiling by tiling array design
+cell differentiation design
+transcription profiling design
+operon identification design
+dna methylation profiling by high throughput sequencing design
+all pairs design
+proteomic profiling by array design
+q - value
+genotyping design
+individual genetic characteristics comparison design
+pathogenicity design
+genetic modification design
+transcription profiling by array assay
+strain comparison design
+cell specimen
+specimen with known storage state
+lowess group transformation
+lowess transformation
+tissue specimen
+lowess global transformation
+cell collecting
+linear amplification
+atmosphere
+dissection
+purification
+specimen with pre -  or post - mortem status
+sampling time measurement datum
+sequence assembly algorithm
+material service
+equilibrium dissociation constant  ( kd )
+comparative phenotypic assessment
+material analysis service
+equilibrium association constant  ( ka )
+rate measurement datum
+equilibrium dissociation constant  ( kd )  approximated by ic50
+dna sequence data
+assigning gene property based on phenotypic assessment
+equilibrium dissociation constant  ( kd )  approximated by ec50
+half life of binding datum
+binding
+binding off rate measurement datum  ( koff )
+binding on rate measurement datum  ( kon )
+genbank id
+investigation description
+specimen identifier
+pubmed id
+average depth of sequence coverage
+specimen collection time measurement datum
+latitude coordinate measurement datum
+longitude coordinate measurement datum
+investigation title
+organism identification objective
+organism identification assay
+sequence annotation algorithm
+country name
+investigation identifier
+purified material
+rna protection assay
+electrophoretic mobility shift assay
+gene knock - down assay
+nano - cap analysis of gene expression
+cap analysis of gene expression
+yeast 2 - hybrid
+yeast one - hybrid
+bacterial one - hybrid
+fluorescence in - situ hybridization
+methylation - specific polymerase chain reaction
+amplification of intermethylated sites  ( aims )  assay
+in - situ hybridization
+immunoprecipitation assay
+selection criterion
+drawing a conclusion
+chromatin interaction analysis by paired - end tag sequencing
+structural analysis by paired - end tag sequencing
+transcript analysis by paired - end tag sequencing
+transcription start site identification objective
+paired - end library preparation
+dnase i hypersensitive sites sequencing assay
+protein and rna interaction identification objective
+rnp  ( ribonuclear particle )  immunoprecipitation high -  throughput sequencing assay
+cross - linking immunoprecipitation high - throughput sequencing assay
+formaldehyde - assisted isolation of regulatory elements assay
+methylation - sensitive restriction enzyme sequencing assay
+reduced representation bisulfite sequencing assay
+shotgun bisulfite - seq assay
+rna annotation and mapping of promoters for the analysis of gene expression assay
+secondary cultured cell
+establishing cell line
+cultured immune cell population
+cell culture
+reagent
+sample preparation for sequencing assay
+sequencing service
+secondary cultured cell population
+cancer cell line
+immortalizing cell line transformation
+testable hypothesis
+conclusion based on data
+primary cell culture
+cell line culture
+cell freezing medium
+multiplex ligation - mediated amplification
+dna replication timing by array assay
+dna replication identification objective
+chromosome conformation identification objective
+rna - binding protein immunoprecipitation array profiling assay
+carbon - copy chromosome conformation capture assay
+dna replication timing by sequencing assay
+rna - binding protein immunoprecipitation tiling array profiling
+microrna profiling by high throughput sequencing assay
+protein sequencing by tandem mass spectrometry assay
+micrococcal nuclease digestion followed by high throughput sequencing assay
+chromatin immunoprecipitation with exonuclease sequencing assay
+microrna profiling assay
+selection
+categorical value specification
+scalar value specification
+value specification
+molecular - labeled material
+epstein barr virus transformed b cell
+chimera
+blood plasma specimen
+blood serum specimen
+organism
+specimen
+xenograft
+cultured cell population
+primary cultured cell population
+cultured clonal cell population
+screening library
+synthetic peptide
+organ section
+bronchial alveolar lavage
+data transformation
+logistic - log curve fitting
+logit - log curve fitting
+log - log curve fitting
+feature extraction objective
+biexponential transformation
+box - cox transformation
+hyperlog transformation
+loess scale group transformation one - channel
+logical transformation
+loess scale group transformation two - channel
+loess global transformation one - channel
+split - scale transformation
+loess global transformation two - channel
+sine transformation
+cosine transformation
+loess group transformation one - channel
+loess group transformation two - channel
+homogeneous polynomial transformation
+linlog transformation
+variance stabilizing transformation
+loess global transformation
+loess group transformation
+loess scale group transformation
+total intensity transformation single
+total intensity transformation paired
+quantile transformation
+mean centering
+median centering
+differential expression analysis objective
+k - fold cross validation method
+leave one out cross validation method
+jackknifing method
+boostrapping
+benjamini and hochberg false discovery rate correction method
+pareto scaling
+modular decomposition
+k - means clustering
+hierarchical clustering
+average linkage hierarchical clustering
+complete linkage hierarchical clustering
+single linkage hierarchical clustering
+benjamini and yekutieli false discovery rate correction method
+dimensionality reduction
+principal components analysis dimensionality reduction
+probabilistic algorithm
+expectation maximization
+global modularity calculation
+dye swap merge
+moving average
+replicate analysis
+data imputation
+holm - bonferroni family - wise error rate correction method
+edge weighting
+loess transformation
+curve fitting data transformation
+family wise error rate correction method
+submatrix extraction
+row submatrix extraction
+column submatrix extraction
+descriptive statistical calculation objective
+mean calculation
+network analysis
+sequence analysis objective
+longitudinal data analysis
+survival analysis objective
+spread calculation data transformation
+kaplan meier
+multiple testing correction method
+inter - rater reliability objective
+westfall and young family wise error rate correction
+polynomial transformation
+logarithmic transformation
+exponential transformation
+non - negative matrix factorization
+soft independent modeling of class analogy analysis
+discriminant function analysis
+canonical variate analysis
+linear discriminant functional analysis
+regression analysis method
+multiple linear regression analysis
+principal component regression
+partial least square regression analysis
+discriminant analysis
+partial least square discriminant analysis
+eh transformation
+b transformation
+s transformation
+data visualization
+similarity calculation
+euclidean distance calculation
+pearson correlation coefficient calculation
+loess fitting
+mode calculation
+quantile calculation
+median calculation
+variance calculation
+standard deviation calculation
+interquartile - range calculation
+skewness calculation
+kurtosis calculation
+data combination
+network graph construction
+weighted network graph construction
+directed network graph construction
+node quality calculation
+node degree calculation
+quantitative node degree calculation
+node in - degree calculation
+node out - degree calculation
+node shortest path identification
+edge quality calculation
+edge betweenness calculation
+network subgraph quality calculation
+subgraph degree calculation
+quantitative subgraph degree calculation
+mathematical feature
+log base
+subgraph in - degree calculation
+subgraph out - degree calculation
+intra subgraph connectivity calculation
+subgraph modularity calculation
+network graph quality calculation
+unit - variance scaling
+ma transformation
+exponential base
+polynomial degree
+number of variables
+agglomerative hierarchical clustering
+divisive hierarchical clustering
+data partitioning
+data vector reduction objective
+generalized family wise error rate correction method
+quantile number of false positives correction method
+tail probability for the proportion of false positives correction method
+false discovery rate correction method
+proportion of expected false positives correction method
+quantile proportion of false positives correction method
+data transformation objective
+data normalization objective
+correction objective
+normalization data transformation
+averaging data transformation
+partitioning data transformation
+partitioning objective
+background correction objective
+curve fitting objective
+class discovery data transformation
+fisher's exact test
+center calculation objective
+class discovery objective
+class prediction objective
+spread calculation objective
+center calculation data transformation
+data vector reduction data transformation
+scaling objective
+descriptive statistical calculation data transformation
+scaling data transformation
+error correction objective
+sequence analysis data transformation
+cross validation objective
+merging objective
+clustered data visualization
+gene list visualization
+classified data visualization
+background corrected data visualization
+survival analysis data transformation
+proportional hazards model estimation
+correlation study objective
+chi square test
+anova
+sequential design
+observation design
+pool of specimens
+chemical solution
+solvent role
+solute role
+denatured polymer
+decapitated organism
+validated information
+curated information
+randomized group participant role
+genetically modified organism
+predicted data item
+mean - centered data
+dissolved material entity
+extraction
+filtration
+centrifugation
+staining
+washing
+irradiation
+polymerization
+trypsination
+enzymatic ligation
+storage
+cell lysis
+electrocution
+cervical dislocation
+asphyxiation
+intentional overdosing
+decapitation
+group randomization
+immobilization
+nucleic acid hybridization
+elution
+dna subtraction
+prediction
+validation
+electroporation
+digital curation
+flow cytometer analyzer
+cyan
+flow cell
+flow cytometer
+light source
+obscuration bar
+optical filter
+photodetector
+flow cytometer sorter
+dna sequencer
+array scanner
+arrayer
+centrifuge
+computer
+hybridization chamber
+hybridization station
+sonicator
+thermal cycler
+microarray wash station
+temperature control bath
+cytometer
+power supply
+microarray
+dna microarray
+protein microarray
+droplet sorter
+microtome
+animal cage
+study design
+clinical study design
+repeated measure design
+cross over design
+n - to - 1 design
+matched pairs design
+parallel group design
+randomized complete block design
+balanced incomplete block design
+loop design
+reference design
+latin square design
+graeco latin square design
+hyper graeco latin square design
+factorial design
+2x2 factorial design
+fractional factorial design
+dye swap design
+replicate design
+self vs self design
+time series design
+adding substance to cell culture
+tumor grading
+collecting specimen from organism
+killing
+administering substance in vivo
+acquisition
+exposure of material to environment
+acclimatization
+environmental material collection
+information acquisition
+material component separation
+group assignment
+pooling specimens
+detection of molecular label
+material portioning
+non - specific labeling
+histology
+cell fixation
+excision
+non specific enzymatic cleavage
+maintaining cell culture
+artificially induced cell membrane lysis
+artificially induced reverse transcription
+isolation of cell culture supernatant
+experimental disease induction
+cell permeabilization
+precipitation
+establishing cell culture
+cell culture splitting
+addition of molecular label
+artificially induced methylation
+synthesis
+concentrate
+genetic transformation
+lavage
+structure determination assay
+preparative chromatography
+sequencing assay
+vector mediated amplification
+dna polymerase amplification
+specific enzymatic cleavage
+gradient separation
+dialysis
+protease cleavage
+enzymatic amplification
+dna transduction
+dna transfection
+recombinant vector cloning
+specific labeling
+rna extraction
+nucleic acid extraction
+phage display library
+cell lysate
+transgenic organism
+whole mount tissue
+epitope
+host exposure to infectious agent
+administration in vivo with infectious agent
+occurrence of infectious disease
+disposition to cause an allergic reaction
+allergic reaction
+epitope binding by adaptive immune receptor
+immunization in vivo
+adaptive immune effector function
+infection
+adaptive immune receptor
+immunogen
+environmental exposure to infectious agent
+host of immune response
+293 - t cell line
+c1r cell line
+experimental infection of cell culture
+el - 4 cell line
+hela cell line
+jaws ii cell line
+antigen
+jurkat cell line
+jy cell line
+t cell  epitope recognition assay
+rma cell line
+t2 cell line
+infectious disease
+lymph node cell specimen
+cultured adherent cell populaiton
+cultured pbmc cell population
+disposition to be bound by an adaptive immune receptor
+organ harvesting
+cultured cd3 +  t cell population
+cultured cd3 -  t cell population
+allergy
+cultured cd4 -  t cell population
+cultured cd8 -  t cell population
+cultured cd4 -  / cd8 -  t cell population
+cancer
+autoimmune disease
+disease
+mhc:epitope complex binding to tcr
+immunogen role
+host of immune response role
+effector t cell function
+antigen presentation function
+restricting mhc role
+donor
+disposition to infect an organism
+immunization
+blood harvesting
+l cell line
+cultured antigen presenting cell population
+cultured effector t cell population
+material to be added
+target of material addition
+environmental proximity to infectious agent
+splenocyte specimen
+assay antigen role
+pathologic process
+immune epitope assay
+cd8 receptor
+clinical history
+phenotype
+disease course
+treatment
+age
+biological sex
+length
+mass
+temperature
+behavioral quality
+female
+male
+volume
+pressure
+diluted
+damaged
+lateral to
+ventral to
+dorsal to
+quality of a single physical entity
+quality of related physical entities
+mixed sex
+biomaterial purity
+hermaphrodite
+a mating type  ( yeast )
+alpha mating type  ( yeast )
+h minus
+h plus
+f mating type
+f minus mating type
+ploidy
+haploid
+polyploid
+aneuploid
+diploid
+cellular quality
+alive
+dead
+relational spatial quality
+anterior to
+radioactive
+left side of
+right side of
+frozen
+protein
+cd4 molecule
+cd3 subunit with immunoglobulin domain
+dna ligase
+molecular label role
+molecular label
+region
+mirna
+circular
+lymph node
+life cycle stage
+mouth
+blood
+brain
+adipose tissue
+urine
+skeletal muscle tissue
+vein
+caudate nucleus
+putamen
+dermis
+hypodermis
+spleen
+liver
+peritoneum
+left cerebral hemisphere
+right cerebral hemisphere
+mucosa of nasopharynx
+mucosa of oropharynx
+length unit
+mass unit
+time unit
+temperature unit
+substance unit
+concentration unit
+volume unit
+frequency unit
+pressure unit
+volumetric flow rate unit
+rate unit
+vaccine
+vaccination

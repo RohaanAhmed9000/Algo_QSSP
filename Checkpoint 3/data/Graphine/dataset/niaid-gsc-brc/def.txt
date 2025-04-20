@@ -1,0 +1,178 @@
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+a realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural ,  social or institutional contexts .
+b is a generically dependent continuant = def .
+p is a process boundary =def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+anatomical structure that is part of a multicellular organism and is at the gross anatomical level ,  e .g .
+amide derived from two or more amino carboxylic acid molecules  ( the same or different )  by formation of a covalent bond from the carbonyl carbon of one to the nitrogen atom of another with formal loss of water .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing deoxyribose and linked by phosphodiester bonds ;  dna contain the genetic information of organisms .
+any constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer etc . ,  identifiable as a separately distinguishable entity .
+a macromolecule made up of nucleotide units and hydrolysable into certain pyrimidine or purine bases  ( usually adenine ,  cytosine ,  guanine ,  thymine ,  uracil )  ,  d - ribose or 2 - deoxy - d - ribose and phosphoric acid .
+high molecular weight ,  linear polymers ,  composed of nucleotides containing ribose and linked by phosphodiester bonds ;  rna is central to the synthesis of proteins .
+a macromolecule is a molecule of high relative molecular mass ,  the structure of which essentially comprises the multiple repetition of units derived ,  actually or conceptually ,  from molecules of low relative molecular mass .
+a material entity of anatomical origin  ( part of or deriving from an organism )  that has as its parts a maximally connected cell compartment surrounded by a plasma membrane .
+a cell in vitro that is or has been maintained or propagated as part of a cell culture .
+a cell in vitro that has undergone physical changes as a consequence of a deliberate and specific experimental procedure .
+material in or on which organisms may live .
+a reference to a place on the earth ,  by its name or by its geographical location .
+any process specifically pertinent to the functioning of integrated living units: cells ,  tissues ,  organs ,  and organisms .
+a measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure .
+a directive information entity that describes an intended process endpoint .
+a directive information entity that describes an action the bearer will take
+a label is a symbol that is part of some other datum and is used to either partially define  the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+an information content entity that is a mark ( s )  or character ( s )  used as a conventional representation of another entity .
+a generically dependent continuant that is about some thing .
+a scalar measurement datum is a measurement datum that is composed of two parts ,  numerals and a unit label .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective .
+the curation status of the term .
+a data item that is an aggregate of other data items of the same type that have something in common .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+a textual entity is a part of a manifestation  ( frbr sense )  ,  a generically dependent continuant whose concretizations are patterns of glyphs intended to be interpreted as words ,  formulas ,  etc .
+a collection of information content entities intended to be understood together as a whole
+a document that has been accepted by a publisher
+a publication that is about an investigation
+a scalar measurement datum that is the result of measuring a temporal interval
+a planned process in which a document is created or added to by including the specified input in it .
+a planned process in which a new crid is created ,  associated with an entity ,  and stored in the crid registry thereby registering it as being associated with some entity
+a symbol that is part of a crid and that is sufficient to look up a record from the crid's registry .
+an information content entity that consists of a crid symbol and additional information about the crid registry to which it belongs .
+a crid registry is a dataset of crid records ,  each consisting of a crid symbol and additional information which was recorded in the dataset through a assigning a centrally registered identifier process .
+a disposition to initiate processes that result in a disorder in a human organism .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+biological_feature_identification_objective is an objective role carried out by the proposition defining the aim of a study designed to examine or characterize a particular biological feature .
+is a material entity that is created or changed during material processing .
+a planned process that consists of parts: planning ,  study design execution ,  documentation and which produce conclusion ( s )  .
+a role that inheres in a material entity that is realized in an assay in which data is generated about the bearer of the evaluant role
+a study personnel role played by a party who reports the outcome of a study component
+a planned process with the objective to produce information about the material entity that is the evaluant ,  by physically examining it or its proxies .
+a sample_preparation_for_assay is a protocol_application including material_enrollments and biomaterial_transformations .
+a processed material that provides the needed nourishment for microorganisms or cells grown in vitro .
+a planned process which results in physical changes in a specified input material
+a study personnel role played by a party who is accountable for the execution of a study component and can make decisions about the conduct of the study
+a responsible party role played by a person responsible for the overall conduct of a study
+a role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation
+a role borne by an entity and that is realized in a process that is part of an investigation in which an objective is achieved .
+an entity that can bear roles ,  has members ,  and has a set of organization rules .
+a plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents ,  so that different investigation agents will reliably be able to independently reproduce the process .
+a planned process in which data gathered in an investigation is evaluated in the context of existing knowledge with the objective to generate more general conclusions or to conclude that the data does not allow one to draw general conclusion
+a process of creating or modifying a plan specification
+an extract is a material entity which results from an extraction process
+an averaging objective is a data transformation objective where the aim is to perform mean calculations on the input of the data transformation .
+an objective specification to determine a specified type of information about an evaluated entity  ( the material entity bearing evaluant role ) 
+an objective specifiction that creates an specific output object from input materials .
+a planned process that realizes the concretization of a study design
+is an objective to transform a material entity into spatially separated components .
+a planned process with the objective of collecting a specimen .
+a material obtained from an organism in order to be a representative of the whole
+a material separation objective aiming to separate material into multiple portions ,  each of which contains a similar composition of the input material .
+a  data item that is produced as the output of an averaging data transformation and represents the average value of the input data .
+a material separation objective aiming to separate a material entity that has parts of different types ,  and end with at least one output that is a material with parts of fewer types  ( modulo impurities )  .
+a objective specification to obtain a material entity for potential use as an input during an investigation .
+a material sample role is a specimen role borne by a material entity that is the output of a material sampling process .
+a material entity that has the material sample role
+an objective specification maintains some or all of the qualities of a material over time .
+a process with that achieves the objective to maintain some or all of the characteristics of an input material over time
+information about a sequence region
+is a material entity bearing the disposition to infect an organism
+a role which inheres in a person who uses a service
+is a role which inheres in a person or organization and is realized in in a planned process which provides access to training ,  materials or execution of protocols for an organization or person
+a measurement datum that representing the primary structure of a macromolecule ( it's sequence )  sometimes associated with an indicator of confidence of that measurement .
+a crid symbol used to distinguish one individual organism from another .
+an assay that measures the duration of temporal interval of a process that is part of the life of the bearer ,  where the initial time point of the measured process is the beginning of some transitional state of the bearer such as birth or when planted .
+a time measurement datum that is the result of measurement of age of an organism
+a planned process in which a service provider performs a task  ( i .e .
+a specimen that derives from an anatomical part or substance arising from an organism .
+a material processing service in which a service provider makes physical modifications to a specified input material ,  such that at least one of the specified outputs of this process is a modified version of a specified input material .
+an algorithm used to assemble individual sequence reads into larger contiguous sequences  ( contigs )  .
+a service which has a material entity as specified input and / or specified output .
+a service in which a service consumer provides some input material and a service provider performs some analysis of this material to generate data that is returned to the service consumer .
+a storage service in which a service consumer provides some material as input which a service provider stores and returns as output .
+a crid symbol uniquely indentifies the submitted genebank sequence record .
+a textual entity that describes an investigation .
+a crid symbol denotes a specimen and used to distinguish one specimen from another in an investigation .
+a crid symbol that is sufficient to look up a citation from the pubmed ,  a literature database of life sciences and biomedical information .
+an average value of the depth of sequence coverage based both on external  ( e .g .
+a time measurement datum that is the measure of the time when the specimens are collected .
+a measurement datum that is the measure of the latitude coordinate of a site .
+a measurement datum that is the measure of the longitude coordinate of a site .
+a textual entity that denotes an investigation .
+a biological feature identification objective to identify the organism species in a specimen .
+an assay that identifies the organism species in a specimen .
+an algorithm used to identify sequence features  ( e .g .
+an organization that  is one of the internet - based research centers established and funded by niaid  ( the national institute of allergy and infectious diseases )  .
+a textual entity that denotes a geographic location that is a site or part of a site that is identified as a country in the political geography .
+a crid symbol used to identify an investigation .
+a crid symbol used to identify a grant .
+a plan specification of organization a to give money to organization b so that b conducts investigations .
+a role inhering in a person who represents an institution ,  organization ,  or service provider and realized when communication is directed at them about the entity they represent .
+an investigation agent role borne by a person or organization which  is realized in a specimen collection process .
+an organization that is the affiliation of the principal investigator providing the specimens for the investigation
+an organization that is the affiliation of the person who is contact representative of a bioinformatics resource center
+a plan specification which specifies the type of material that will be assayed in an investigation .
+a person who is the contact representative of a bioinformatics resource center
+a plan specification which specifies the scope of an investigation based on the heterogeneity of organisms or type of material that are the specified input of specimen collection .
+an organization that provides a service to store and distribute specimens
+an email address of the person who is contact representative of a bioinformatics resource center
+a person who is the contact representative at the sequencing facility
+a person who is a principal investigator and provides the specimen
+an email address of the person collecting the specimen
+an organization that provides sequence determination service
+an objective specification which indicates the type of data that will be generated and submitted to a database .
+an organization that is the affiliation of the person collecting the specimen
+an email address of the contact representative at the sequencing facility
+a person who collects the specimen
+a plan specification which indicates the assay type used to obtain data .
+an organization that is the affiliation of the contact representative at the sequencing facility
+a textual entity that is about any of the aspects of an investigation worth noting
+a plan specification which specifies how the material enrichment procedure will influence the scale ,  or type of material that will be assayed in the specimen .
+a specimen identifier which is assigned by a specimen repository
+a specimen identifier which is assigned by a sequencing facility
+a sample preparation for assay that preparation of nucleic acids for a sequencing assay
+an email address of the principal investigator providing the specimens for the investigation
+a service provides sequencing service which is the realization of some sequencing such as rna and dna sequencing in which the service provider role is realized .
+an information content entity that is inferred from data .
+a processed material that serves as a liquid vehicle for freezing cells for long term quiescent stroage ,  which contains chemicls needed to sustain cell viability across freeze - thaw cycles .
+a value specification that consists of two parts: a numeral and a unit label
+an information content entity that specifies a value within a classification scheme or on a quantitative scale .
+an organization that provides funding support for projects such as investigations .
+a planned process that identifies and reports sequence features  ( e .g .
+a person or organization reporting the feature annotation results from the analysis of a macromolecular sequence .
+a textual entity that is used to denote a sequence assembly .
+a reporting party role that is realized by a person or organization who reports the feature annotation results from the analysis of a macromolecular sequence .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a material entity that has the specimen role .
+a processed material comprised of a collection of cultured cells that has been continuously maintained together in culture and shares a common propagation history .
+a planned process that produces output data from input data .
+an objective specification to transformation input data into output data
+an averaging data transformation is a data transformation that has objective averaging .
+a material separation in which a desired component of an input material is separated from the remainder
+a maintenance process by which material entities that are not actively metabolizing are placed in well identified location and possibly under controlled environment in ad - hoc devices / structures in order to preserve and protect them from decay / alteration and maintain availability
+a plan specification comprised of protocols  ( which may specify how and what kinds of data will be gathered )  that are executed as part of an investigation and is realized during a study design execution .
+a process with the objective to obtain a material entity that was part of an organism for potential future use in an investigation
+a material processing in which components of an input material become segregated in space
+a protocol application in which cells are kept alive in a defined environment outside of an organism .
+a process through which a new type of cell culture or cell line is created ,  either through the isolation and culture of one or more cells from a fresh source ,  or the deliberate experimental modification of an existing cell culture  ( e .g passaging a primary culture to become a secondary culture or line ,  or the immortalization or stable genetic modification of an existing culture or line )  .
+the use of a chemical or biochemical means to infer the sequence of a biomaterial
+a material separation to recover the nucleic acid fraction of an input material
+the detrimental process in which an infectious agent colonizes or replicates in a host environment
+is a role borne by an agent ,  and realized when in contact with or inside another organism in which it is capable of replicating and causing disease
+abnormal ,  harmful processes caused by or associated with a disease
+a disposition  ( i )  to undergo pathological processes that  ( ii )  exists in an organism because of one or more disorders in that organism .
+a time quality inhering in a bearer by virtue of how long the bearer has existed .
+an organismal quality inhering in a bearer by virtue of the bearer's ability to undergo sexual reproduction in order to differentiate the individuals or types involved .
+a physical object quality which inheres in a single - bearer .
+a quality that inheres in an entire organism or part of an organism .
+an amino acid chain that is produced de novo by ribosome - mediated translation of a genetically - encoded mrna .
+a sequence_feature with an extent greater than zero .
+a sequence of nucleotides that has been algorithmically derived from an alignment of two or more different sequences .
+a region of the genome of known length that is composed by ordering and aligning two or more different regions .
+a unit which is a standard measure of the dimension in which events occur in sequence .

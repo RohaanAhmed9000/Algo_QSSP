@@ -1,0 +1,1353 @@
+an embryonic plant structure that is the body of a developing plant embryo attached to the maternal tissue in an ovule by a suspensor .
+a microsporangium wall that is part of an anther .
+a plant structure  ( po:0005679 )  which is a whole organism .
+a plant structure  ( po:0009011 )  that is grown or maintained in vitro .
+a plant cell that is grown or maintained in vitro .
+a cultured plant cell from which the entire plant cell wall has been removed .
+a cultured plant cell that was derived from leaf tissue .
+a cultured plant cell that was derived from root tissue .
+a plant callus grown or maintained in vitro .
+a plant embryo that is grown or maintained in vitro .
+a somatic plant embryo grown and maintained in vitro .
+hook - like structure which develops at the apical part of the hypocotyl in dark - grown seedlings in dicots .
+a vascular leaf  ( po:0009025 )  ,  borne on the stem  ( po:0009047 )  .
+one of multiple leaves borne in a rosette  -  a group of leaves ,  generally borne at the base of the plant ,  that are separated by very short internodes .
+a phyllome primordium  ( po:0025128 )  that develops from a cotyledon anlagen  ( po:0025432 )  and is part of a vegetative shoot apex  ( po:0025223 )  and is committed to the development of a cotyledon  ( po:0020030 )  .
+a root primordium  ( po:0005029 )  that is part of a root  ( po:0009005 )  and is committed to the development of a lateral root  ( po:0020121 )  .
+a phyllome primordium  ( po:0025128 )  that develops from a leaf anlagen  ( po:0025430 )  and is part of a vegetative shoot apex  ( po:0025223 )  and is committed to the development of a vascular leaf  ( po:0009025 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of an ovule  ( po:0020003 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of a gynoecium  ( po:0009062 )  .
+obsolete .cells characterized by conspicuous and rather stable accumulation of starch .
+a phyllome primordium  ( po:0025128 )  that develops from a petal anlagen  ( po:0025484 )  and is committed to the development of a petal  ( po:0009032 )  .
+a plant anatomical substance composed of a polyester matrix of hydroxy -  and hydroxy epoxy fatty acids c16 and c18 chains  ( cutin )  ,  embedded and overlayed with cuticular wax and forming a layer on the surface of a plant epidermis .
+obsolete .a band - like wall formation within primary walls that contains suberin and lignin ;  typical of endodermal cells in roots ,  in which it occurs in radial and transverse anticlinal walls .
+obsolete .a complex of cell wall invaginations in a synergid cell similar to those in transfer cells .
+the portion of the root including the meristem and root cap .
+the portion of the primary root including the meristem and root cap .
+the portion of the lateral root including the meristem and root cap .
+obsolete .tip portion of the pollen tube that is rapidly growing .
+obsolete .tip portion of an outgrowth of a root epidermal cell .
+a collective organ part structure composed of two or more layers of various tissues that is a partition that divides a cavity formed by the fusion of two or more organs .
+a portion of ground tissue composed of a loosely - packed mass of cork cells occurring especially in the young stem ,  bark or even leaf of a plant ,  visible on the surface as a raised ,  often powdery - appearing spot .
+a portion of plant tissue consisting of four microspores that remained joined together shortly after meiosis .
+a valve that is a part of a fruit that splits apart when the fruit dehisces .
+a maximal portion of vascular tissue  ( po:0009015 )  in a whole plant  ( po:0000003 )  ,  collective plant structure  ( po:0025497 )  ,  multi - tissue plant structure  ( po:0025496 )  ,  or cardinal part of multi - tissue plant structure  ( po:0025498 )  .
+a vascular system that is part of a cotyledon .
+a phyllome vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a leaf .
+a shoot axis that is the most distal part of a shoot system and has as parts a shoot apical meristem and the youngest leaf primordia .
+cell produced by the fusion of sperm cell nucleus and two polar nuclei of the central cell  ( or diploid secondary endosperm nucleus ,  in cases where two polar nuclei fuse together before double fertilization )  .
+a vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a shoot axis .
+enlargement or swelling at position of dormant adventitious root primordium  ( on the stem )  ,  inhabited by nitrogen - fixing bacteria .
+one of the two types of short cells in the epidermis of grasses and bamboos .
+a post - embryonic root that develops from shoot tissue .
+adventitious root formed at the base of the growing stem  ( known as a crown )  .
+adventitious root formed at stem nodes above the ground and growing directly into the soil .
+a root  ( po:0000045 )  that is initiated in a developing plant embryo  ( po:0009009 )  .
+a root  ( po:0009005 )  formed within the scutellar node  ( po:0004708 )  of the plant embryo  ( po:0009009 )  in some monocotyledonous plants .
+a portion of leaf epidermis that is part of a leaf lamina .
+a vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a leaf lamina .
+a portion of leaf lamina epidermis that covers the abaxial / lower surface of a leaf lamina .
+a portion of leaf lamina epidermis that covers the adaxial / upper surface of a leaf lamina .
+a portion of leaf epidermis that is part of a petiole .
+a vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a leaf petiole .
+a portion of ground tissue that is part of a cortex and part of the petiole .
+a phyllome vascular system  ( po:0025206 )  that includes the totality of the portions of vascular tissue in their specific arrangement in a petal  ( po:0025218 )  .
+an undeveloped shoot system  ( po:0009006 )  .
+a bud that develops into a flower .
+a bud that develops into an inflorescence .
+a bud  ( po:0000055 )  that develops into a shoot system that has as organ parts only vegetative organs .
+an initial cell that is part of a root apical meristem and by division gives rise to two cells ,  one of which remains in the meristem ,  while the other is produces different root cells .
+a root initial cell that produces root cortex and endodermis .
+a root initial cell that produces lateral root - cap cells and root epidermis .
+an epidermal initial that undergoes several rounds of uneven division ,  each time giving rise to a larger daughter cell that differentiates into an epidermal ground cell and a smaller daughter cell that remains meristematic ,  until the meristematic cell differentiates into a guard mother cell .
+a procambial cell that is part of a leaf procambium .
+a pericycle cell that is adjacent to the protoxylem of a vascular bundle .
+a pericycle cell that is adjacent to the protophloem of a vascular bundle .
+a parenchyma cell of the mesophyll of a hydathode found between the xylem endings and the epidermis .
+a parenchyma cell  ( po:0000074 )  that is adjacent to a sieve tube element  ( po:0000289 )  and arises from the same phloem mother cell  ( po:0000400 )  as the sieve tube element .
+a relatively unspecialized ground tissue cell with a nucleate protoplast .
+an elongated plant cell with unevenly thickened non - lignified primary walls that is alive at maturity .
+a parenchyma cell containing chloroplasts ;  a component of leaf mesophyll and other green parenchyma tissue .
+a ground tissue cell  ( po:0025030 )  with a lignified secondary cell wall .
+a cell with wall ingrowths  ( or invaginations )  that increase the surface of the plasmalemma .
+an elongated cambial initial cell with approximately wedge - shaped ends that is part of the vascular cambium and gives rise to axial cells .
+obsolete .a vascular cell derived from the fusiform cambial initial and oriented with its longest diameter parallel with the main axis of stem or root .
+a cambial initial cell that gives rise to ray cells of the secondary xylem and secondary phloem .
+a gamete  ( po:0025006 )  produced by an antheridium  ( po:0025125 )  or a microgametophyte  ( po:0025280 )  .
+a portion of shoot epidermis that is part of a shoot axis .
+a shoot epidermal cell that surrounds a trichome and provides its support .
+a portion of plant tissue that is part of a plant structure that has as parts a separation layer and a protective layer and is involved in the abscission of the structure .
+cell ,  usually two in number ,  in the micropylar end of the embryo sac of angiosperms associated with the egg in the egg apparatus .
+an endosperm in which at least the first karyokinesis is not followed by cytokinesis .
+endosperm in which the first karyokinesis event is accompanied by cytokinesis .
+a portion of plant tissue that is the region of the endosperm closest to the micropyle of the seed .
+a portion of plant tissue that is the part of the endosperm nearest the chalazal region of the ovule and forming a cyst - like structure .
+a portion of shoot epidermis that is part of a nectary .
+a portion of ground tissue  ( po:0025059 )  that is part of a cortex  ( po:0005708 )  and part of a shoot axis  ( po:0025029 )  .
+an area of densely packed cells in the shoot apex that divide infrequently .
+organogenic region of the meristem ,  characterized by higher rates of cell division .
+the region of the shoot apical meristem that lies below the central zone and is flanked by the peripheral zone .
+a portion of reproductive shoot apical meristem tissue  ( po:0008028 )  that gives rise to the floral organs  ( po:0025395 )  .
+a meristem that gives rise to an inflorescence .
+a shoot meristem  ( po:0006079 )  formed in an axil  ( po:0025224 )  .
+a megaspore ( s )  that forms an embryo sac .
+in monosporic and bisporic megasporogenesis: the megaspore ( s )  that would not participate in megagametogenesis .
+a portion of ground tissue that is the inner most layer of a cortex and has a casparian strip in its anticlinal cell walls .
+a root epidermal cell  ( po:0025164 )  that develops from a trichoblast  ( po:0000262 )  and has as part a root hair  ( go:0035618 )  .
+a portion of ground tissue that is part of a cortex and part of a root .
+a root epidermal cell that is the smaller cell produced by the asymmetric division of an epidermal intial and gives rise to a root hair .
+a root epidermal cell  ( po:0025164 )  that develops from an epidermal initial  ( po:0000349 )  and does not have as part a root hair  ( go:0035618 )  .
+a primary xylem  ( po:0000272 )  tissue that has as part one or more protoxylem tracheary elements  ( po:0025575 )  embedded in parenchyma  ( po:0005421 )  tissue .
+obsolete .a cell making up xylem tissue .
+a fiber cell  ( po:0025407 )  that is part of a portion of xylem  ( po:0005352 )  tissue .
+a unicellular or multicellular plant structure  ( po:0009011 )  that forms a non - sclerified outgrowth from the epidermis  ( po:0005679 )  .
+a plant cell that markedly differs in form ,  size ,  or contents from other cells in the same tissue .
+an epidermal cell associated with a stoma and at least morphologically distinguishable from the other epidermal cells .
+a sieve element  ( po:0025406 )  that is part of a sieve tube  ( po:0025416 )  and has as parts sieve areas aggregated into sieve plates  ( go:0097218 )  .
+a plant cell  ( po:0009002o )  that has a lignified cell wall with secondary thickening and bordered pits .
+one of a pair of cells flanking the stomatal pore .
+an initial cell that is part of the vascular or cork cambium and by periclinal divisions produce cells to the outside or inside of the cambial axis .
+a tracheary element  ( po:0000290 )  that has no perforations in its cell wall .
+a portion of parenchyma tissue that is part of a nectary .
+a shoot epidermal cell that is relatively unspecialized at maturity .
+an initial cell that is part of an epidermis and gives rise to specialized cell types of the epidermis .
+a shoot epidermal cell that divides to produce the guard cells .
+a cell containing glucosinolates  (  \ "mustard oil glucosides \ " )  and myrosinases ,  enzymes hydrolyzing the glucosinolates .
+a ground tissue cell that is part of an exodermis or an endodermis and remains thin walled when the associated cells develop thick secondary walls .
+a xylem fiber cell  ( po:0000274 )  with bordered pits with pit cavities .
+a primary xylem  ( po:0005849 )  tissue that has as part one or more metaxylem  tracheary elements  ( po:0025576 )  embedded in parenchyma  ( po:0005421 )  tissue and may contain xylem fiber cells  ( po:0000274 )  .
+obsolete .cell containing mucilages or gums or similar carbohydrate material characterized by the property of swelling in water .
+a cambial initial cell which is destined to differentiate into secondary phloem .
+a single - celled whole plant that participates in the plant zygote stage .
+a diploid  ( 2n )  cell that undergoes meiosis and produces four haploid  ( 1n )  megaspores .
+a portion of shoot epidermis that has as parts two guard cells and a stomatal pore .
+obsolete .a soft protuberance on an epidermal cell of the stigma .
+a plant cell that is the lower - most cell formed after the first division of the zygote and is part of an embryo .
+a tracheary element  ( po:0000290 )  that is part of a xylem vessel  ( po:0025417 )  and has as parts perforation plates .
+the silk scar is composed of the shrivelled remains of the intercalary region of the silk ,  together with the base of the silk which is the true stylar tissue of the silk arising from the distal end of the developing kernel  ( caryopsis )  .
+a region of the root between the meristem and the region of rapid elongation in which isodiametric growth  ( cell expansion )  occurs .
+obsolete .a zone of small ,  densely cytoplasmic cells that are dividing and expanding in size located behind the zone of cell division in the primary root .
+obsolete .the root of particular parasitic plants that becomes cemented to the host axis and intrudes into the tissues of the host .
+adventitious root that forms at a shoot node .
+a vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a root .
+obsolete .the portion of the lateral root located behind the zone of cell division that includes small ,  densely cytoplasmic cells that are dividing and expanding in size .
+a root differentiation zone that is part of a primary root .
+a root differentiation zone that is part of a lateral root .
+a root cap that is part of a primary root tip .
+a root cap that is part of a lateral root tip .
+a central root cap that is part of a root cap of lateral root .
+a lateral root cap that is part of a root cap of lateral root .
+a central root cap that is part of a root cap of primary root .
+a central root cap that is part of a root cap of primary root .
+a cardinal organ part that is an outgrowth of a root and is inhabited by nitrogen - fixing bacteria .
+a branch that is slender ,  prostrate or trailing and above - ground and produces roots and sometimes erect shoots at its nodes .
+obsolete .an embryonic plant cell that is the uppermost cell formed after the first division of the zygote .
+an enlarged more or less thin - walled leaf pavement cell ,  present ,  with other similar cells ,  in longitudinal rows in leaves of monocots .
+obsolete .an axial parenchyma or a ray cell physiologically associated with a tracheary element .
+a portion of ground issue centrifugally derived from cork cambium ,  non - living at maturity ,  and having suberized walls .
+obsolete .a compact layer of cells ,  often secretory in function ,  covering a free surface or lining a cavity .
+obsolete .a specialized cells or ducts resembling vessels ;  they form branched networks of latex - secreting cells in the phloem and other parts of plants .
+a chlorenchyma cell that is part of a mesophyll .
+obsolete .a cell within the phellem  ( cork )  but distinct from the cork cell in having no suberin in its walls .
+obsolete .a chloroplast - containing cell engaged in photosynthesis .
+cells with deposits of silica in them .
+a plant cell synthesizing protoplasm and producing new cells by division and with only a primary cell wall .
+a meristematic cell that by division gives rise to two cells ,  one of which remains meristematic ,  while the other is added to the plant body .
+obsolete .cell that produces secreted substances .
+a plant cell  ( po:0009002 )  that is part of a portion of epidermis  ( po:0005679 )  .
+a trichome that secretes or sequesters a portion of plant substance .
+a trichome that develops from seed coat epidermis .
+a portion of secondary xylem  ( po:0005848 )  that lacks living secondary xylem parenchyma cells  ( po:0004525 )  .
+a portion of secondary xylem  ( po:0005848 )  that has as parts living secondary xylem parenchyma cells  ( po:0004525 )  .
+a portion of secondary xylem  ( po:0005848 )  that has as parts a single layer of early wood  ( po:0004515 )  and a single layer of late wood  ( po:0004516 )  from the same growth season and is part of a shoot axis  ( po:0025029 )  or root  ( po:0009005 )  .
+a portion of secondary xylem  ( po:0005848 )  that is a part of a growth ring  ( po:0004514 )  formed during the early part of a growing season ,  has lower density than late wood  ( po:0004516 )  of the same growth ring ,  and has as parts early wood tracheary elements  ( po:0025461 )  with generally larger lumens than the late wood tracheary elements  ( po:0025462 )  of the same growth ring .
+a portion of secondary xylem  ( po:0005848 )  that is a part of a growth ring  ( po:0004514 )  formed during the later part of a growing season ,  has higher density than early wood  ( po:0004515 )  of the same growth ring ,  and has as parts late wood tracheary elements  ( po:0025462 )  with generally smaller lumens than the early wood tracheary elements  ( po:0025461 )  of the same growth ring .
+a portion of secondary xylem  ( po:0005848 )  that includes the last - formed late wood  ( po:0004516 )  of one growth ring  ( po:0004514 )  and the earliest - formed early wood  ( po:0004515 )  of the next growth ring .
+all tissues outside the vascular cambium or the xylem ;  in older trees may be divided into dead outer bark and living inner bark ,  which consists of secondary phloem .
+a fiber cell  ( po:0025407 )  that is part of a portion of phloem  ( po:0005417 )  tissue .
+a xylem fiber cell  ( po:0000274 )  with simple pits .
+a plant fiber cell  ( po:0025407 )  with thin transverse walls  ( septa )  ,  which are formed when mitosis occurs within the cell after development of a secondary cell wall  ( go:0009531 )  .
+cambium at the outer margin of the xylem cylinder .
+cambium occurring within xylem .
+a portion of secondary phloem tissue produced by included vascular cambium .
+a parenchyma cell  ( po:0000074 )  that is part of a portion of secondary xylem parenchyma  ( po:0004532 )  .
+a secondary xylem parenchyma cell  ( po:0004525 )  that is part of a portion of axial secondary xylem parenchyma  ( po:0004533 )  .
+a parenchyma cell  ( po:0000074 )  that develops from a ray initial  ( po:0000082 )  and is part of a portion of ray secondary xylem parenchyma  ( po:0004534 )  .
+a ray secondary xylem parenchyma cell  ( po:0004527 )  that is oriented with its longest dimension parallel to the plant axis  ( po:0025004 )  in which it is found .
+a ray secondary xylem parenchyma cell  ( po:0004527 )  that is oriented with its longest dimension radial to the plant axis  ( po:0025004 )  in which it is found .
+empty upright ray cell of approximately the same height as the procumbent ray cell and occurring in indeterminate horizontal series usually interspersed among the procumbent cells .
+cell on the margin of ,  and tending to form a sheath around ,  the procumbent cells of a multi - seriate ray as seen in tangential section .
+a portion of parenchyma  ( po:0005421 )  tissue that is part of a portion of secondary xylem  ( po:0005848 )  and has as parts secondary xylem parenchyma cells  ( po:0004525 )  .
+a portion of secondary xylem parenchyma  ( po:0004532 )  that is part of an axial system  ( po:0025410 )  and has as parts axial secondary xylem parenchyma cells  ( po:0004526 )  .
+a portion of secondary xylem parenchyma  ( po:0004532 )  that is part of a ray system  ( po:0025411 )  and has as parts ray secondary xylem parenchyma cells  ( po:0004527 )  .
+a portion of placenta tissue that is part of a fruit and to which seeds are attached .
+an infructescence branch that supports an individual fruit .
+a somatic plant embryo derived directly from nucellus cells .
+a root nodule characterized by a persistent meristem ,  presence of vascular transfer cells ,  and cell division in the inner cortex with non - dividing infected cells and bacteria .
+a root nodule characterized by a dividing infected cells and bacteria ,  vascular transfer cells absent and cell division is in the outer cortex .
+a columella that forms the central axis of a fruit .
+a swollen shoot axis that grows horizontally at or below the substrate surface and produces shoots above and roots or rhizoids below .
+a tuber  ( po:0025522 )  that develops from a branch  ( po:0025073 )  .
+a shoot system that is initiated from a root .
+a shoot system that is initiated from a shoot .
+a shoot - borne shoot system  ( po:0004546 )  developing from a stem  ( po:0009047 )  .
+a shoot axis tuber  ( po:0004543 )  that develops below ground .
+a shoot axis tuber  ( po:0004543 )  that develops  above ground .
+a portion of ground tissue directly internal to an anther endothecium that develops from an anther wall parietal cell layer .
+shoot system in which the internodes elongate little or at all ,  bearing reproductive structures and / or leaves .
+shoot system in which all or most of the internodes elongate .
+a phyllome primordium  ( po:0025128 )  that develops from a carpel anlagen  ( po:0006005 )  and is committed to the development of a carpel  ( po:0009030 )  .
+a phyllome primordium  ( po:0025128 )  that develops from a sepal anlagen  ( po:0025485 )  and is committed to the development of a sepal  ( po:0009031 )  .
+a phyllome primordium  ( po:0025128 )  that develops from a stamen anlagen  ( po:0025486 )  and is committed to the development of a stamen  ( po:0009029 )  .
+obsolete .a primordium that will develop into a flower .
+a dehiscence zone that is part of a fruit .
+a stem node that is the part of an embryo axis directly above the radicle where the scutellum is attached .
+a bud  ( po:0000055 )  that develops from an axillary bud meristem  ( po:0000232 )  .
+an axillary bud that develops into a flower .
+an axillary reproductive bud that develops into an inflorescence .
+an axillary bud  ( po:0004712 )  that develops into a shoot system  ( po:0009006 )  that has as organ parts only vegetative organs .
+a bud that develops from a shoot apical meristem .
+a terminal bud that develops into a flower .
+a terminal reproductive bud develops into an inflorescence .
+a terminal bud  ( po:0004713 )  that develops into a shoot system  ( po:0009006 )  that has as organ parts only vegetative organs .
+a more or less rectangular leaf pavement cell in which the proximodistal dimension is several times longer than the transverse dimension .
+an isodiametric leaf pavement cell .
+a canal  ( po:0025132 )  that is a longitudinal groove in the testa through a prominent hilum  ( po:0020063 )  of a seed  ( po:0009010 )  .
+a portion of ground tissue that is part of a cortex and part of a paraclade .
+a portion of ground tissue that is part of a cortex and part of a pedicel .
+a phyllome vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a sepal .
+a cardinal organ part that is the part of a plant axis where a radicle joins a hypocotyl .
+a portion of phyllome primordium tissue that is the abaxial / outer side of a leaf primordium and develops into the abaxial / lower leaf blade .
+a portion of phyllome primordium tissue that is the adaxial / inner side of the leaf primordium develops into the adaxial / upper leaf blade .
+an axillary shoot system  ( po:0006343 )  that is part of a stem base  ( po:0008039 )  .
+an axillary branch that forms from a leaf above the very base of the shoot .
+a trichome that is part of a shoot axis epidermis .
+a cardinal organ part of a shoot axis where one or more spikelet ,  flower ,  floret ,  branch ,  bud ,  or leaf may arise .
+a cardinal organ part that is the part of a shoot axis between two nodes of the axis .
+a portion of secretory tissue  ( po:0005656 )  that has as parts articulated laticifer cells  ( po:0006221 )  .
+obsolete .a structure consisting of long multinucleate tubes in which latex is found ,  having no cross walls .
+obsolete .a thin partition or membrane that divides a cavity or a mass of tissue in the fruit that is derived from the carpel septum .
+obsolete .a thin partition or membrane that divides multilocular ovary .
+a septum that is present in an anther dehiscence zone .
+a dehiscence zone that is part of an anther .
+a shoot axis vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a pedicel .
+the outermost primary cell layer of the hypocotyl .
+a cortex that is part of an embryo .
+a portion of endodermis that is part of an embryo .
+obsolete .a false septum formed by the ingrowth from the placenta of an ovary rather than from the carpel walls .
+a shoot system vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a flower .
+a phyllome vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a stamen .
+a phyllome vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a carpel .
+a portion of vascular tissue  ( po:0009015 )  that is a unit strand of the vascular system  ( po:0000034 )  and has as part xylem  ( po:0005352 )  or phloem  ( po:0005417 )  .
+the margin of a sepal .
+a wall of an ovary that is composed of abaxial  ( outer )  and adaxial  ( inner )  epidermis and a middle layer ,  composed of mesophyll cells and a distinct subepidermal adaxial cell layer  ( as found in arabidopsis )  .
+the epidermal cell layer of the abaxial / outer surface of the ovary .
+the epidermal cell layer of the adaxial / inner surface of the ovary .
+a portion of  tissue that is composed of one or more mesophyll layers .
+multinucleate cell developed by a series of events involving kayokinesis but not cytokinesis of the initial feeding cell .
+multinucleate cell developed by a series of events involving fusion with the neighboring dividing cells .
+a shoot system vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in an inflorescence .
+a primordium  ( po:0025127 )  that develops from a root anlagen  ( po:0025433 )  and is committed to the development of a root  ( po:0009005 )  .
+a shoot lateral meristem  ( po:0006344 )  that is part of a shoot axis  ( po:0025029 )  and has a parts multiple layers of meristematic cells  ( po:0004010 )  located near the shoot apical meristem  ( po:0020148 )  .
+a portion of pith  ( po:0006109 )  that is part of a root  ( po:0009005 )  .
+a portion of pith  ( po:0006109 )  that is part of a shoot axis  ( po:0025029 )  .
+a portion of phloem  ( po:0005417 )  tissue that develops from a vascular cambium  ( po:0005598 )  .
+a peripheral portion of ground tissue in a plant axis that is composed of phellogen ,  phellem ,  and phelloderm .
+a portion of periderm that is part of a root .
+a portion of periderm that is part of a shoot axis .
+a portion of ground tissue often resembling cortical parenchyma produced centripetally by the cork cambium .
+a portion of ground tissue that is the outermost layer of a portion of cortex .
+a portion of plant tissue that consists of mass of undifferentiated plant cells .
+obsolete .a secretory structure that produces latex .
+a portion of hypodermis that is part of a shoot axis cortex .
+a portion of endodermis that is part of a shoot axis cortex .
+a portion of endodermis that is part of a root cortex .
+a portion of endodermis that is part of a vascular leaf .
+obsolete .aerenchyma ,  originating by a combination of two processes ,  separation and degradation of cell walls .
+a portion of vascular tissue  ( po:0009015 )  that has as part one or more tracheary elements  ( po:0000290 )  .
+a portion of plant tissue that is the outermost layer of endosperm in a seed ,  its cells being characterized by presence of protein bodies containing seed storage proteins .
+a portion of seed storage parenchyma that is part of an endopserm .
+a portion of vascular tissue  ( po:0009015 )  that has as parts sieve elements  ( po:0025406 )  .
+a portion of ground tissue  ( po:0025059 )  composed of polyhedral cells typically with thin ,  non - lignified cellulosic cell walls and nucleate ,  living protoplasts .
+living tissue composed of more or less elongated cells with thick non - lignified primary cell walls .
+chloroplast - containing parenchyma tissue .
+a supporting tissue composed of fibers or sclereids .
+a lateral meristem  ( po:0020145 )  that has as part a single layer of cambial initial cells  ( po:0000295 )  and their derivatives ,  arranged orderly in radial files .
+a cambium  ( po:0005597 )  that is located between and gives rise to secondary xylem  ( po:0005848 )  and secondary phloem  ( po:0005043 )  .
+a cambium  ( po:0005597 )  that is part of a periderm  ( po:0005046 )  and produces phellem  ( po:0004003 )  and phelloderm  ( po:0005050 )  .
+obsolete .a form of collenchyma in which the primary wall thickening is most prominent in the angles where three or more cells are joined .
+obsolete .a collenchyma characterized by intercellular spaces and cell wall thickenings facing the intercellular spaces .
+obsolete .a collenchyma in which cell wall thickenings are deposited mainly on tangential walls .
+the chloroplast - containing ,  photosynthetic parenchymatous tissue situated between the two epidermal layers of the foliage leaf .
+leaf mesophyll parenchyma characterized by little elongated cells ,  that are not closely packed and have conspicuous intercellular spaces .
+parenchyma containing closely packed elongated chlorenchymatous cells oriented perpendicular to the leaf surface and which are active in photosynthesis .
+tissues that form specialized structures producing a secretion .
+a cardinal organ part that releases water through a hydathode pore .
+a specialized tissue where excess salt absorbed in water from the soil is concentrated ,  being stores or excreted .
+a duct of schizogenous origin lined with resin - secreting cells and containing resin .
+a gland or a cavity lined with cells that secrete oils .
+a portion of plant tissue  ( po:0009007 )  composed of epidermal cells  ( po:0004013 )  that develops from the protoderm  ( po:0006210 )  and covers the surface of a plant structure  ( po:0009011 )  .
+a portion of parenchyma tissue containing particularly large intercellular spaces of schizogenous or lysigenous origin .
+obsolete .aerenchyma originating by rupture of cells .
+obsolete .aerenchyma originating by dissolution of cells .
+a maximal portion of ground tissue  ( po:0025059 )  between the vascular system  ( po:0000034 )  and the epidermis  ( po:0005679 )  in a plant .
+obsolete .meristematic tissue consisting of apical initials ,  together with cells derived from them and which are still close to the initial .
+the sub - epidermal layer or layers of cells of the root similar in structure and cytochemical characteristics of the endodermis ,  the outermost layer or layers of cells of the cortex .
+a portion of xylem  ( po:0005352 )  tissue that develops from a vascular cambium  ( po:0005598 )  .
+a portion of  xylem  ( po:0005352 )  tissue that develops from the procambium  ( po:0025275 )  .
+a collective phyllome structure that encloses a fruit of the poaceae  ( caryopsis )  and develops from a dried lemma and palea .
+a lateral plant organ  ( po:0009008 )  produced by a shoot apical meristem  ( po:0020148 )  .
+a glume that is the proximal / basal of the two glumes subtending a pair of florets .
+a phyllome that is reduced in size relative to a vascular leaf on the same plant and is often associated with a perennating or dormant bud or a vegetatively propagating organ such as a rhizome .
+a glume that is the apical / distal of the two glumes subtending a pair of florets .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a carpel primordium  ( po:0004703 )  and is part of a peripheral zone  ( po:000225 )  of a flower meristem  ( po:0000229 )  .
+a portion of ground tissue that is part of an anther wall and has as parts a primary parietal cell and adjacent cells .
+a portion of ground tissue that is part of an anther wall and develops from an anther wall primary parietal cell layer .
+an anther wall secondary parietal cell layer that is formed towards the inside after the cells of an anther wall primary parietal cell layer undergo a periclinal division .
+an anther wall secondary parietal cell layer formed towards the outside after an anther wall primary parietal cell layer undergoes a periclinal division .
+it is formed by the division of a archesporial cell .
+an unbranched second order leaf vein  ( po:0020140 )  that runs between two adjacent primary leaf veins  ( po:0025413 )  .
+a thin band of intercalary meristematic tissue at the junction of a leaf blade  ( lamina )  and a leaf sheath found in grasses .
+as found in citrus the mature juice sac is a swollen sac with a slender stalk and a sac wall lined with layers of tightly arranged cells .
+an archesporial cell that is part of a microsporangium and divides to gives rise to a microsporocyte .
+an archesporial cell that is part of a megasporangium and divides to give rise to a megasporocyte .
+a portion of phyllome epidermis that is part of a leaf .
+an endosperm in which the first karyokinetic event is accompanied by the formation of a horizontal wall which divides the central cell into unequal regions .
+a portion of shoot epidermis that covers the adaxial / upper surface of a leaf .
+a portion of leaf epidermis that covers the abaxial / lower surface of a leaf .
+a root apical meristem found that is part of a lateral root .
+a root apical meristem that is part of an adventitious root .
+a strip of ground tissue present along the leaf veins and extending from the bundle sheath to the epidermis .
+a layer or layers of cells surrounding the vascular bundles of leaves .
+a single layered ,  parenchymatous bundle sheath characterized by presence of large quantity of starch .
+the inner endodermal sheath of a two layered bundle sheath .
+an awn that is part of a lemma .
+a short ,  abrupt ,  flexible point present at the apex of the palea .
+the margin of the leaflet .
+a portion of epidermis that is part of a shoot system .
+a portion of epidermis that is part of a root system .
+a portion of root epidermis that is part of an adventitious root .
+a portion of phyllome epidermis that is part of a sepal .
+a portion of phyllome epidermis  ( po:0025157 )  that is part of a petal  ( po:0009032 )  .
+a multiseriate epidermis found in aerial roots of some monocots .
+a portion epidermis that is part of an integument .
+the epidermis of the inner integument in an ovule .
+the epidermis of the outer integument in an ovule .
+a portion of epidermis that is part of a seed coat .
+a portion of shoot epidermis that is part of the scutellum .
+that part of the seed coat that develops from the outer surface of the outer integument .
+that part of the seed coat that develops from the inner epidermis of the outer integument .
+a portion of petal epidermis that covers the abaxial / lower surface of a petal .
+a portion of petal epidermis that covers the adaxial / upper surface of a petal .
+a portion of sepal epidermis that covers the abaxial / lower surface of a sepal .
+a portion of sepal epidermis that covers the adaxial / upper surface of a sepal .
+a leaf epidermis that is part of a cotyledon .
+the abaxial / lower epidermal cell layer of the cotyledon .
+the adaxial / upper epidermal cell layer of the cotyledon .
+a portion of stamen epidermis that is part of a filament .
+a portion of carpel epidermis that is part of a stigma .
+a portion of carpel epidermis that is part of a style .
+a portion of epidermis that is part of an ovary .
+a portion of endodermis that is part of a hypocotyl .
+a portion of parenchyma tissue that is part of a petiole .
+obsolete .a cup - shaped region in the shoot apical meristem found between the central mother cell and the rib and peripheral zone .
+a portion of parenchyma tissue that is part of a sepal .
+a portion of parenchyma  ( po:0005421 )  tissue that is part of a petal  ( po:0009032 )  .
+the chloroplast - containing ,  photosynthetic parenchymatous tissue situated between the two epidermal layers of the leaf or leaf like organs .
+the chloroplast - containing ,  photosynthetic parenchymatous tissue situated between the two epidermal layers of the petal .
+the chloroplast - containing ,  photosynthetic parenchymatous tissue situated between the two epidermal layers of the sepal .
+a shoot meristem  ( po:0006079 )  that is intercalated between two portions of non - meristematic tissue and results in an increase in length as part of primary growth .
+obsolete .a portion of primary cambium that undergoes differentiation to form the primary vascular tissue .
+a portion of phloem  ( po:0005417 )  tissue that develops from the procambium  ( po:0025275 )  .
+a portion of primary phloem  ( po:0006075 )  tissue that has as parts companion cells  ( po:0000071 ,  in angiosperms )  or albuminous cells  ( po:0025412 ,  in gymnosperms )  associated with the sieve elements  ( po:0025406 )  and that develops after the protophloem  ( po:0006077 )  .
+a portion of primary phloem  ( po:0006075 )  tissue has as parts the first - formed sieve elements  ( po:0025406 )  at a particular location and does not have companion cells  ( po:0000071 ,  in angiosperms )  or albuminous cells  ( po:0025412 ,  in gymnosperms )  associated with the sieve elements .
+a portion of vascular tissue  ( po:0009015 )  that develops from a procambium  ( po:0025275 )  .
+a portion of meristem tissue  ( po:0009013 )  that is part of a shoot system  ( po:0009006 )  .
+a portion of vascular tissue  ( po:0009015 )  that develops from a vascular cambium  ( po:0005598 )  .
+a root apical meristem that is part of a primary root .
+the outermost layer of the shoot apical meristem which gives rise to the abaxial / lower leaf epidermis .
+the outermost layer of the shoot apical meristem which gives rise to the adaxial / upper leaf epidermis .
+tissue consisting of tracheids and parenchyma cells ,  associated with the vascular bundle .
+a meristem that is part of a root system .
+obsolete .the accessory tissue extending laterally into the mesophyll rather than remaining associated with the vascular bundles .
+obsolete .tissue that develops from phloem parenchyma in the outer portion of the inner bark accommodating the expansion in circumference .
+it is formed by the division of the male archesporial initial .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of an anther  ( po:0009066 )  .
+a cultured plant callus that is capable of forming plant organs .
+a cultured plant callus that is capable of forming somatic embryos .
+a maximal portion of parenchyma  ( po:0005421 )  in the center of a shoot axis  ( po:0025029 )  or root  ( po:0009005 )  .
+vascular cambium originating from procambium within vascular bundles or fascicles .
+vascular cambium arising between vascular bundles or fascicles ,  in the interfascicular parenchyma or pith .
+a portion of ground tissue located between vascular bundles in a shoot axis .
+a portion of ground tissue that is part of a root stele located between the phloem and endodermis .
+a diploid  ( 2n )  cell that undergoes meiosis and produces four haploid  ( 1n )  spores .
+irregularly - shaped ,  chlorenchymatous cell ,  separated by large air spaces .
+elongated chlorenchymatous cell oriented perpendicular to the leaf surface and which is active in photosynthesis .
+a short cell in the dimorphic type of exodermis with cell wall that remains non - thickened .
+cell in the endodermal layer of the root with cell wall that remains non - thickened .
+obsolete .the outer most cell layer of the lateral roots .
+a portion of meristem tissue that develops from the outer layer of an apical meristem and gives rise to a portion of epidermis .
+a portion of plant tissue that is part of an abscission zone and contains cells that develop an abnormal wall chemistry and swelling resulting in their easily being pulled apart along the pectin - rich middle lamella .
+a portion of plant tissue composed of a layer of cells that is part of the abscission zone that have lignin and suberin depositions and are found on the axial side of the break or exposed surface of abscission .
+parenchyma tissue containing particularly large intercellular spaces in the tissue of roots .
+a portion of aerenchyma that is part of a stem .
+a portion of parenchyma tissue containing particularly large intercellular spaces in the leaf mesophyll .
+a portion of primary phloem tissue positioned internal to the primary xylem .
+that part of the seed coat that develops from the outer surface of the inner integument .
+that part of the seed coat that develops from the inner epidermis of the inner integument .
+a portion of plant tissue that is the central region of an endosperm ,  composed of cells that are significantly larger than those at the periphery ,  especially the aleurone and sub - aleurone layers .
+a laticifer cell  ( po:0025031 )  that is joined longitudinally to other articulated laticifer cells to form a tube .
+a laticifer cell  ( po:0025031 )  that is not joined longitudinally to other laticifer cells to form a tube .
+obsolete .the instances of this parent term are those anatomical terms which have become obsolete .
+obsolete .group of cells located beneath anticlinally dividing peripheral layers  ( tunica )  and dividing in many planes .
+obsolete .the outermost layer or layers in the shoot apical meristem of the angiosperms in which the plane of division is almost anticlinal .
+obsolete .the outer layer of the tunica .
+obsolete .the second layer of the tunica .
+obsolete .the innermost layer of the tunica .
+obsolete .a derivative of the apical meristem which undergoes differentiation to form the primary vascular tissue of a shoot .
+a portion of procambium tissue that undergoes differentiation to form the primary vascular tissue of a root .
+a lateral meristem  ( po:0020145 )  that is part of a root  ( po:0009005 )  .
+ultimate inflorescence branch of the maize tassel .
+a spikelet floret that is part of a tassel spikelet .
+ultimate inflorescence branch of the maize tassel without a pedicel ,  developing from the spikelet pair meristem .
+ultimate inflorescence branch of the maize tassel with a pedicel ,  developing from the spikelet pair meristem .
+a tassel floret that is the lower of the two florets of a pedicellate spikelet of a tassel inflorescence .
+a tassel floret that is one of the two florets placed above the lower floret on a pedicellate spikelet rachilla of a tassel inflorescence .
+a tassel floret that is the lower of the two florets of a sessile spikelet of a tassel inflorescence .
+a tassel floret that is one of the two florets placed above the lower floret on a sessile spikelet rachilla of a tassel inflorescence .
+inflorescence branch that terminates in a spikelet .
+ultimate inflorescence branch of the maize ear .
+an inflorescence branch  ( po:0009081 )  arising from a first order inflorescence axis  ( po:0025104 )  .
+an inflorescence branch  ( po:0009081 )  arising from a primary inflorescence branch  ( po:0006321 )  .
+an inflorescence branch  ( po:0009081 )  arising from an axillary bud  ( po:0004709 )  on a first order inflorescence axis  ( po:0025104 )  or from a higher order inflorescence branch that is part of a tassel  inflorescence  ( po:0020126 )  .
+a first order inflorescence axis  ( po:0025104 )  that is the central axis of a tassel inflorescence  ( po:0020126 )  .
+a shoot node that is part of an inflorescence axis and where a spikelet ,  flower ,  floret or inflorescence branch is attached .
+a shoot internode that is part of an inflorescence axis .
+an inflorescence apical meristem that gives rise to the two or more florets of a grass inflorescence .
+the meristem that produces two spikelet meristems ,  each of which produces two floral meristems .
+a shoot axis that is an elongation of the floral axis that supports the carpels .
+a cardinal part of multi - tissue plant structure  ( po:0025498 )  that is a ridge on a seed  ( po:0009010 )  that develops from a raphe  ( po:0020027 )  .
+a cardinal part of multi - tissue plant structure  ( po:0025498 )  that is attached to a seed  ( po:0009010 )  and is the remnants of a funicle  ( po:0020006 )  .
+a remnant of the ovular chalaza that is part of the seed .
+a plant anatomical space that is enclosed by and forms an opening in a seed coat at the apex of a seed and is the remnant of a micropyle .
+an outgrowth of the seed funicle ,  that forms a bridge between the seed micropyle and other tissues .
+a vascular leaf that is part of a plant embryo and is one of the first few leaves to develop from the embryonic shoot apical meristem .
+a vascular leaf that is distinct from adult leaves ,  being characterized by particular anatomical traits namely ,  wax and trichome distribution ,  presence or absence of epidermal cell types ,  cell wall shape and biochemistry .
+a vascular leaf characterized by particular anatomical traits namely ,  wax and trichome distribution ,  presence or absence of epidermal cell types ,  cell wall shape and biochemistry .
+a shoot system  ( po:0009006 )  that develops from an embryo shoot apical meristem  ( po:0006362 )  .
+a reproductive shoot system that develops from an inflorescence and has as parts all of the shoot axes distal to the most distal foliage leaf of a shoot axis and all of the fruits borne by those axes .
+a shoot - borne shoot system  ( po:0004545 )  that develops from an axillary bud  ( po:0004709 )  .
+a lateral meristem  ( po:0020145 )  that is part of a shoot axis  ( po:0025029 )  .
+obsolete .a tubular cell extension formed by the germinating pollen grain ;  carries the male gametes into the ovule .
+an intercalary meristem  ( po:0006073 )  that is part of a leaf  ( po:0006346 )  and is intercalated between two portions of non - meristematic tissue between a leaf apex  ( po:0020137 )  and a leaf base  ( po:0020040 )  .
+an intercalary meristem  ( po:0006073 )  that is part of a stem internode  ( po:0020142 )  and is intercalated between two portions of non - meristematic tissue .
+ultimate pedicellate inflorescence branch of the maize ear that develops from the spikelet pair meristem .
+ultimate sessile inflorescence branch of the maize ear that develops from the spikelet pair meristem .
+an ear floret that is the upper of the two florets of a pedicellate spikelet rachilla of an ear inflorescence .
+an ear floret that is the lower of the two florets on a sessile spikelet of an ear inflorescence .
+an ear floret that is one of the two florets placed above the lower floret on a sessile spikelet rachilla of an ear inflorescence .
+an ear floret that is the lower of the two florets of a pedicellate spikelet rachilla of an ear inflorescence .
+a spikelet floret that is part of an ear spikelet .
+the meristem present on short tassel branch that produces two spikelet meristems ,  each of which produces two floral meristems in a maize tassel .
+an ear inflorescence branch meristem  ( po:0009110 )  that produces two ear spikelet meristems  ( po:0006378 )  ,  each of which produces two flower meristems  ( po:0000229 )  in an ear inflorescence  ( po:0020136 )  .
+a vegetative shoot apical meristem at the apex of the embryonic axis .
+a glume that is part of an ear spikelet .
+a glume that is part of a tassel spikelet .
+a lower glume that is part of an ear spikelet .
+an upper glume that is part of a tassel spikelet .
+an upper glume that is part of an ear spikelet .
+a lower glume that is part of a tassel spikelet .
+an inflorescence apical meristem that gives rise to the maize ear .
+an inflorescence apical meristem that gives rise to the maize tassel .
+apical meristem that gives rise to the upper and lower florets of the maize tassel spikelets .
+apical meristem that gives rise to the upper and lower florets of the maize ear spikelet .
+the axis of the tassel spikelet ,  above the glumes .
+the axis of the ear spikelet ,  above the glumes .
+a lower glume of tassel spikelet that is part of a tassel pedicellate spikelet .
+a lower glume of tassel spikelet that is part of a tassel sessile spikelet .
+an upper glume of tassel spikelet that is part of a tassel sessile spikelet .
+an upper glume of tassel spikelet that is part of a tassel pedicellate spikelet .
+the axis of the tassel sessile spikelet ,  above the glumes .
+the axis of the tassel pedicellate spikelet ,  above the glumes .
+this is the ultimate branch of the pedicellate ear spikelet .
+this is the ultimate branch of the pedicellate tassel spikelet .
+a peduncle of a maize tassel ,  below the lowest tassel node .
+a peduncle of a maize ear ,  below the lowest ear node .
+the axis of the ear pedicellate spikelet ,  above the glumes .
+the axis of the ear sessile spikelet ,  above the glumes .
+a lower glume of ear spikelet that is part of an ear pedicellate spikelet .
+a lower glume of ear spikelet that is part of an ear sessile spikelet .
+an upper glume of ear spikelet that is part of an ear pedicellate spikelet .
+an upper glume of ear spikelet that is part of an ear sessile spikelet .
+zone at base of the leaf that contains an abscission  ( or separation )  layer and a protective layer ,  both involved in the abscission of the leaf .
+zone at base of the flower that contains an abscission  ( or separation )  layer and a protective layer ,  both involved in the abscission of the flower and its parts .
+zone at base of the fruit that contains an abscission  ( or separation )  layer and a protective layer ,  both involved in the abscission of the fruit .
+a phyllome trichome that is part of a leaf epidermis .
+a first order inflorescence axis  ( po:0025104 )  that is the central axis of an ear inflorescence  ( po:0020136 )  .
+a cardinal part of multi - tissue plant structure  ( po:0025498 )  that is the end of a fruit  ( po:0009001 )  distal from a fruit pedicel  ( po:0004536 )  .
+a cardinal part of multi - tissue plant structure  ( po:0025498 )  that is the end of a fruit  ( po:0009001 )  proximal to a fruit pedicel  ( po:0004536 )  .
+a vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a fruit .
+a nucellus that is part of a fruit .
+a portion of plant tissue that is the morphologically distinct outer layer of the nucellus .
+a portion of plant tissue that is the morphologically distinct portion of the nucellus overlying the vascular strands in the grass caryopsis .
+a morphologically distinct aleurone layer located adjacent to the nucellar projection .
+a portion of plant tissue that is the abaxial / lower portion of the nucellus overlying the vascular strands in the grass caryopsis .
+a portion of plant tissue that is the adaxial / upper portion of the nucellus overlying the vascular strands in the grass caryopsis .
+vascular system of embryo .
+a vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a stigma .
+a phyllome vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a anther .
+a vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a filament .
+vascular system of the hypocotyl .
+a shoot apical meristem that gives rise to the apical growth of vegetative tissues and organs .
+a more or less abrupt swelling ,  especially at the apex or base of a leaf sheath .
+a vascular leaf that is part of an heteroblastic series ,  and is characterized by anatomical features that are intermediate between juvenile and adult leaves .
+the region of the leaf lamina proximal to the stem and usually connected to it by means of a petiole .
+region that includes the widest or majority portion of leaf lamina and that does not include leaf apex and leaf lamina base .
+a leaf lamina vein  ( po:0020138 )  arising from a secondary leaf vein  ( po:0020140 )  .
+a leaf lamina vein  ( po:0020138 )  arising from a tertiary leaf vein  ( po:0008021 )  .
+a leaf lamina vein  ( po:0020138 )  arising from a quaternary  ( po:0008022 )  or other higher order leaf vein .
+the region of the petiole proximal to its stem attachment site .
+regions of the petiole that does not include petiole distal end and petiole proximal end .
+the region of the petiole distal to its stem attachment site or proximal to the leaf lamina .
+a portion of petiole epidermis that covers the adaxial / upper surface of a petiole .
+a shoot apical meristem that gives rise to the apical growth of reproductive tissues and organs .
+a portion of petiole epidermis that covers the abaxial / lower surface of a petiole .
+a plant cell  ( po:0009002 )  that is part of a multicellular trichome  ( po:0000282 )  .
+obsolete .the branch on a trichome .
+a plant anatomical space that forms an opening in an epidermis ,  flanked by two guard cells .
+obsolete .a cluster of leaves in crowded circles or spirals arising basally from a crown .
+a meristem forming the core of the axis composed of the primary vascular tissues and associated ground tissue ,  such as pith and interfascicular regions .
+a portion of meristem tissue that forms the cortex .
+obsolete .a young plant derived from a newly germinated seed .
+obsolete: a root primordium that will develop into an adventitious root .
+the basal part of stem .
+a phyllome primordium  ( po:0025128 ) that develops from a lodicule anlagen  ( po:0025483 )  and is committed to the development of a lodicule  ( po:0009036 )  .
+a shoot internode elongation zone that is part of a stem internode .
+a shoot internode differentiation zone that is part of a stem internode .
+obsolete .a portion of shoot epidermis that is part of the floral organs .
+obsolete .an opening pore on the epidermis of floral organs bordered by two guard cells and serving in gas exchange .
+obsolete .one of a pair of cells flanking the stomatal pore of floral organs .
+obsolete .a stomatal pore that is part of a floral stomatal complex .
+a vascular system in a scutellum .
+a continuous layer of cylindrical cells covering the endosperm side of the scutellum .
+a cardinal organ part  ( po:0025001 )  at the apex or base of a petiole ,  petiolule ,  leaf sheath ,  or branch that is differentiated from the remaining organ parts by its enlarged cross section .
+a multi - tissue plant structure  ( po:0025496 )  that develops from a gynoecium  ( po:0009062 )  and may have as parts one or more seeds  ( po:0009010 )  .
+a cell which is a plant structure  ( po:0009011 )  .
+obsolete .a plant structure that is a product of fertilization and produces spores through meiosis .
+obsolete .a plant structure that arises through meiosis and may produce gametes by mitosis .
+a plant axis  ( po:0025004 )  that is part of a root system  ( po:0025025 )  .
+a collective plant organ structure  ( po:0025007 )  that produces shoot - borne portions of meristem tissue  ( po:0009013 )  and the plant structures  ( po:0009011 )  that arise from them .
+a plant structure  ( po:0009011 )  that consists predominantly of similarly specialized plant cells  ( po:0009002 )  of one or more types .
+a multi - tissue plant structure  ( po:0025496 )  that is a functional unit ,  is a proper part of a whole plant  ( po:0000003 )  ,  and includes portions of plant tissue  ( po:0009007 )  of at least two different types that derive from a common developmental path .
+a whole plant  ( po:0000003 )  that participates in the plant embryo stage  ( po:0007631 )  .
+a multi - tissue plant structure  ( po:0025496 )  that develops from a plant ovule  ( po:0020003 )  and has as parts a plant embryo  ( po:0009009 )  enclosed in a seed coat  ( po:0009088 )  .
+an anatomical structure that is or was part of a plant ,  or was derived from a part of a plant .
+a portion of plant tissue in which cells have retained their embryonic characteristics ,  or have reverted to them secondarily ,  and that divide to produce new cells that can undergo differentiation to form mature tissues ,  i .e .
+obsolete .a portion of plant tissue that covers the surface of the plant .
+a portion of plant tissue  ( po:0009007 )  that has as part one or more tracheary elements  ( po:0000290 )  or sieve elements  ( po:0025406 )  .
+obsolete .tissues other than the vascular tissues ,  epidermis and the periderm .
+a pulvinus  ( po:0009000 )  of an inflorescence branch  ( po:0009081 )  .
+a transfer cell that is part of a basal endosperm transfer layer .
+obsolete .a cell layer found in basal endosperm transfer cell .
+the outermost layer of a shoot apical meristem that gives rise to a shoot epidermis .
+a cell layer directly beneath a meristem l1 layer in a shoot apical meristem which gives rise to subepidermal tissue .
+a multicellular layer beneath a meristem l2 layer in a shoot apical meristem which gives rise to internal tissues of leaf and stem .
+an axil that is the space between a shoot axis and a leaf that branches from the shoot axis .
+a leaf  ( po:0025034 )  in a vascular plant .
+a leaf - like organ on which one or more sporangia are borne .
+a structure upon which  ( or in the axil of which )  one or more megasporangia are borne ;  in flowering plants ,  a carpel .
+a structure on which one or more microsporangia are borne ;  in flowering plants ,  the stamen .
+a microsporophyll bearing one or more microsporangia .
+a megasporophyll ,  almost always at the center of a flower ,  its margins more or less fused together or with other carpels to enclose the ovule ( s )  .
+a phyllome  ( po:0006001 )  that is usually green ,  and is part of the calyx  ( po:0009060 )  .
+a phyllome  ( po:0006001 )  that is part of the corolla  ( po:0009059 )  ,  and is usually colored  ( not green )  .
+a phyllome  ( po:0006001 )  that is part of a perianth  ( po:0009058 )  where it is not possible to distinguish between the petals  ( po:0009032 )  and sepals  ( po:0009031 )  .
+a bract  ( po:0009055 )  that subtends a perianth  ( po:0009058 )  that is part of a flower  ( po:0009046 )  .
+a multicellular glandular structure secreting a liquid containing organic substances especially sugars .
+a phyllome that is part of a grass floret and is one of two or three tiny scales or flaps of tissue outside the stamens .
+a flower bract that is the lower of the two bracts enclosing a spikelet floret .
+a flower bract that is the upper / distal of the two bracts enclosing a spikelet floret .
+one of a pair of inflorescence bracts that is part of a spikelet and subtends the two florets .
+a flower bract in the position of a lemma ,  but not enclosing floral organs .
+a lemma that encloses a functional flower ,  with androecium ,  gynoecium or both .
+a phyllome that is the first organ or one of the first two organs formed at the base of an axillary shoot ,  often smaller and / or in a distinctively different position from leaves formed subsequently .
+a small leaf or leaves borne singly or in pairs on the pedicel ,  the prophyll ( s )  of the flower - shoot  ( pedicel plus flower )  .
+sac - like bract subtending the pistillate flower ,  as in  < i > carex <  / i >  .
+equals inflorescence bract of an involucre ,  as in asteraceae or compositeae .
+a determinate reproductive shoot system that has as part at least one carpel or at least one stamen and does not contain any other determinate shoot system as a part .
+a shoot axis  ( po:0025029 )  that is the primary axis of a plant .
+a reproductive shoot system  ( po:0025082 )  that has as parts all of the shoot axes distal to the most distal foliage leaf of a shoot axis and all of the flowers borne by those axes .
+a reproductive shoot system that is the ultimate and congested inflorescence branch of the grasses .
+an inflorescence branch  ( po:0009081 )  that supports an individual flower in an inflorescence  ( po:0009049 )  .
+a shoot axis that extends from the last foliage leaf on a stem or branch until the next distal node .
+a bract  ( po:0009055 )  subtending a branch of the inflorescence  ( po:0009049 )  or borne on the inflorescence axis  ( po:0020122 )  below any branch  ( po:0025073 )  or flower  ( po:0009046 )  .
+a phyllome that subtends a reproductive structure .
+a multicellular glandular structure found in the flower secreting a liquid containing organic substances especially sugars .
+a multicellular glandular structure found in places other than flower secreting a liquid containing organic substances especially sugar .
+a collective phyllome structure  ( po:0025023 )  that includes as parts the corolla  ( po:0009059 )  and / or the calyx  ( po:0009060 )  ;  or one or more tepals  ( po:0009033 )  .
+a collective phyllome structure  ( po:0025023 )  that is composed of one or more petals  ( po:0009032 )  ,  comprising the inner whorl of non - reproductive floral organs  ( po:0025395 )  and surrounds the androecium  ( po:0009061 )  and the gynoecium  ( po:0009062 )  .
+a collective phyllome structure  ( po:0025023 )  that is composed of one or more sepals  ( po:0009031 )  ,  and comprises the outer whorl of non - reproductive floral organs  ( po:0025395 )  .
+a collective phyllome structure  ( po:0025023 )  composed all of the stamens  ( po:0009029 )  in a flower  ( po:0009046 )  .
+a collective phyllome structure  ( po:0025023 )  composed all of the carpels  ( po:0009030 )  in a flower  ( po:0009046 )  .
+a collective phyllome structure  ( po:0025023 )  composed of two or more phyllomes immediately outside the calyx  ( po:0009060 )  .
+a cardinal organ part that is the region at the distal end of either a peduncle or a pedicel where the floral appendages  ( e .g .
+a cup -  or tube - shaped cardinal organ part ,  bearing perianth and stamens on its rim ,  so these arise above the base ,  and often above the top ,  of the ovary .
+a collective plant organ structure  ( po:0025007 )  that is the pollen - bearing part of a stamen  ( po:0009029 )  .
+a stalk that is part of a stamen .
+the part of the stamen that connects the microsporangia / pollen sacs .
+a collective plant organ structure  ( po:0025007 )  that is part of an anther  ( po:0009066 )  and consists of a pair of sporangia  ( po:0025094 )  that dehisce down a common slit .
+obsolete .a microsporangium in an angiosperm that is a cavity in an anther that contains pollen grains .
+a microsporangium tapetum  ( po:0025314 )  that is part of an anther wall  ( po:0000002 )  .
+a plant structure  ( po:0009011 )  that is the basal portion of a carpel  ( po:0009030 )  or group of fused carpels and encloses the plant ovule ( s )   ( po:0020003 )  .
+a cardinal organ part that is part of a carpel or group of fused carpels on which the pollen germinates ,  usually apical .
+an elongated part of a carpel or group of fused carpels between the ovary and the stigma ,  and through which the pollen tube grows .
+obsolete .a controlled vocabulary to describe the various plant parts and the growth and developmental stages .
+sterile stamen .
+a sterile pistil ,  often rudimentary .
+the axis of the spikelet ,  above the glumes .
+an inflorescence axis  ( po:0020122 )  that is a branch  ( po:0009081 )  arising from a first order inflorescence axis  ( po:0025104 )  or from a higher order inflorescence branch .
+a small flower that is part of a spikelet .
+obsolete .aggregation of gamete producing structures .
+a portion of plant tissue  ( po:0009007 )  that is the outer layer  ( wall )  of a fruit  ( po:0009001 )  ,  and develops from a plant ovary  ( po:0009072 )  or a carpel  ( po:0009030 )  wall .
+a portion of plant tissue  ( po:0009007 )  that is the outer layer of a pericarp  ( po:0009084 )  .
+a portion of plant tissue  ( po:0009007 )  that is the innermost differentiated layer of a pericarp  ( po:0009084 )  .
+a portion of plant tissue  ( po:0009007 )  that is the middle layer of a pericarp  ( po:0009084 )  .
+a portion of plant tissue that is the covering of a seed derived from ovular  -  mainly integumentary  -  tissue .
+a maximal portion of nutritive plant tissue in a seed .
+an arilloid that is an outgrowth of a seed from a seed funicle .
+obsolete .provisional term
+a collective phyllome structure composed of two or more involucral bracts at the base of a cluster of flowers ,  as found in asteraceae or compositae .
+the long branch that arise from the central spike of tassel in maize .
+the very short branch that may arise from either or both the long lateral branch and the central spike of tassel in maize .
+the meristem present on either or both the long lateral branch and central spike of a maize tassel that gives rise to short tassel branch .
+the meristem that gives rise to the long lateral branch in the maize tassel .
+an inflorescence meristem  ( po:0009108 )  that gives rise to an inflorescence branch  ( po:0009081 )  .
+meristem that gives rise to the apical and lateral structures of the tassel inflorescence in maize .
+an inflorescence branch meristem  ( po:0009105 )  that gives rise to the long lateral tassel branch  ( po:0009101 )  ,  short tassel branch  ( po:0009102 )  ,  and tassel spikelets  ( po:0006309 )  in a tassel inflorescence  ( po:0020126 )  .
+a reproductive shoot apical meristem that gives rise to the apical growth of the inflorescence .
+the meristem which gives rise to the female inflorescence or ear in maize .
+an inflorescence branch meristem  ( po:0009105 )  that gives rise to a branch of an ear inflorescence  ( po:0020136 )  .
+pulvinus of the petiole .
+a plant axis that is the axial part of a plant embryo .
+a cardinal part of multi - tissue plant structure  ( po:0025498 )  that is a fleshy outgrowth of a seed  ( po:0009010 )  .
+an arilloid that is an outgrowth of a seed on a raphe .
+a plug - like structure formed in the micropylar region of the seed coat .
+a portion of xylem  ( po:0005352 )  tissue that is a distinct ring - like structure composed of tracheids  ( po:0000301 )  ,  that is part of a seed  ( po:0009010 )  and surrounds the hilum  ( po:0020063 )  and forms a groove in the surface of the pericarp  ( po:0009084 )  immediately adjacent to the hilum .
+a portion of placenta tissue that is part of an ovary and to which ovules are attached .
+an microsporangium endothecium that part of an anther wall .
+a plant organ  ( po:0009008 )  that has as parts a nucellus  ( po:0020020 )  in which a female gametophyte  ( po:0025279 )  is located ,  one or two integuments  ( po:0020021 )  ,  and a funicle  ( po:0020006 )  .
+an microsporangium exothecium that is part of an anther wall .
+a portion of parenchyma tissue that is part of a connective and projects into a pollen sac .
+a stalk  ( po:0025066 )  that attaches a plant ovule  ( po:0020003 )  to a placenta  ( po:0025078 )  .
+obsolete .the outer layer of the pollen grain wall ,  highly resistant to strong acids and bases ,  and composed primarily of sporopollenin .
+obsolete .the outer part of the exine ,  which stains positively with basic fuchsin in optical microscopy and has higher electron density in conventionally prepared tem sections .
+obsolete .the inner part of the exine ,  which stains .
+obsolete .the inner ,  non - sculptured part of the exine which lies below the sexine .
+obsolete .the outer ,  sculptured layer of the exine ,  which lies above the nexine .
+obsolete .the layer of sexine ,  which forms a roof over the columellae ,  granules or other infratectal elements .
+a portion of plant tissue that forms the central axis of a plant structure such as a fruit or moss capsule .
+obsolete .third layer of sexine .
+obsolete .the inner layer of the ectexine .
+obsolete .the innermost of the major layers of the pollen grain wall ,  underlies the exine and borders the cytoplasm ,  not acetolysis resistant and is therefore absent in conventionally prepared palynological material .
+obsolete .area through which the pollen imports the nutrition during its development ,  at the time of pollen germination ,  the pollen tube emerges through it .
+the larger ,  in general ,  of the two kinds of spores produced after meiosis in the life cycle of a heterosporous plant ,  and on germination giving rise to the female gametophyte  ( embryo sac )  .
+a megasporangium  ( po:0025201 )  in a seed plant ,  composed of fleshy subepidermal tissue that is part of a plant ovule  ( po:0020003 )  and surrounds a megasporocyte  ( po:0000431 )  .
+a portion of plant tissue  ( po:0009007 )  that usually covers a plant ovule  ( po:0020003 )  ,  enveloping a nucellus  ( po:0020020 )  and forming a micropyle  ( po:0020025 )  at the apex .
+the innermost of the two layers of tissue that usually cover the ovule ,  contiguous to the nucellus and usually contributing to the formation of the micropyle at the apex .
+one of the two layers of tissue that usually cover the ovule ,  contiguous to the inner integument and usually involved in forming the micropyle at the apex .
+a portion of plant tissue composed of cells of the inner epidermis of the inner  ( or only )  integument of the ovule that are radially elongated and metabolically very active .
+a plant anatomical space that is enclosed by and forms an opening in an integument at the apex of an ovule .
+a portion of plant tissue  ( po:0009007 )  that is the region in a plant ovule  ( po:0020003 )  where the integuments  ( po:0020021 )  and the nucellus  ( po:0020020 )  join with the funicule  ( po:0020006 )  .
+a cardinal organ part  ( po:0025001 )  that is a ridge on a plant ovule  ( po:0020003 )  where a funicle  ( po:0020006 )  is or was fused to the ovule .
+a cardinal organ part  ( po:0025001 )  that is the part of a plant ovule  ( po:0020003 )  on the opposite side from a raphe  ( po:0020027 )  .
+an outgrowth of the funicle ,  that forms a bridge between the micropyle and other tissues .
+a vascular leaf  ( po:0009025 )  formed at the first shoot node  ( po:0005004 )  of a plant embryo  ( po:0009009 )  or a seedling  ( po:0000003 )  .
+an embryo root  ( po:0000045 )  that is the basal continuation of a hypocotyl  ( po:0020100 )  in a plant embryo  ( po:0009009 )  or a seedling  ( po:0000003 )  .
+the shoot apex  ( po:0000037 )  of the plant embryo  ( po:0009009 )  ,  above the cotyledonary node  ( po:0025321 )  .
+a sheath - like plant organ  ( po:0009008 )  that surrounds the plumule  ( po:0020032 )  of a plant embryo  ( po:0009009 )  or the emerging shoot apex  ( po:0000037 )  of a seedling .
+a sheath - like plant organ  ( po:0009008 )  that surrounds the radicle  ( po:0020031 )  of a plant embryo  ( po:0009009 )  or the emerging root  ( po:0009005 )  of a seedling  ( po:0000003 )  .
+the first stem internode  ( po:0020142 )  above the cotyledonary node  ( po:0025321 )  of a plant embryo  ( po:0009009 )  or a seedling  ( po:0000003 )  .
+a portion of plant tissue that is a flap - like projection of the coleorhiza ,  inserted opposite the scutellum .
+a shoot internode that is the part of an embryo axis or the stem of a seedling above the scutellum and below the coleoptile .
+a stalk of a leaf .
+a phyllome lamina  ( po:0025396 )  that is the part of a leaf  ( po:0025034 )  exclusive of the petiole  ( po:0020038 )  or leaf sheath  ( po:0020104 )  ,  if either is present .
+a phyllome base  ( po:0025140 )  that is part of a leaf  ( po:0025034 )  .
+a cardinal organ part that is an appendage at the base of a vascular leaf .
+a leaf in which the lamina is undivided .
+a leaf having two or more distinct leaflets that are evident as such from early in development .
+the unifacial terete apical portion of a monocot cotyledon ,  sometimes also visible on other leaves .
+a once - compound leaf with leaflets borne along a rachis .
+a once - compound leaf divided into several leaflets which arise at the same point ,  there being no rachis .
+a diploid  ( 2n )  cell that undergoes meiosis and produces four haploid  ( 1n )  microspores .
+the smaller ,  in general ,  of the two kinds of spores produced after meiosis in the life cycle of a heterosporous plant ,  and on germination giving rise to the male gametophyte .
+one of the ultimate segments of a compound leaf .
+a stalk of a leaflet .
+stipule - like appendage ( s )  at the base of a leaflet  ( in unifoliolate or simple leaves ,  found at the top of the petiole )  .
+obsolete .literally a large leaf ,  a leaf of any size whose vascular supply leaves one or more gaps as it departs from the stem vascular tissue .
+obsolete .literally a small leaf ,  a leaf of any size in which any vascular trace supplying it does not interrupt the central vascular cylinder when it departs ,  i .e .
+a scale leaf that surrounds a dormant or perennating bud .
+a stalk that is the main axis of a pinnate or more highly compound leaf ,  that bears leaflets or divisions of the axis .
+that part of the seed coat that develops from the inner integument .
+that part of the seed coat that develops from the outer integument ,  or from the single integument when there is only one .
+diploid nutritive tissue in an angiosperm seed derived from nucellar tissue .
+obsolete .complex wall surrounding the micrsopore .
+an arilloid that is an outgrowth of a seed next to the micropyle .
+a portion of seed coat epidermis that consists of multiple seed trichomes at the micropyle .
+a cardinal organ part that is an oil - secreting outgrowth of a seed or fruit .
+a cardinal part of multi - tissue plant structure  ( po:0025498 )  that is a scar on a seed  ( po:0009010 )  at the place where it was attached to a funicle  ( po:0020006 )  .
+obsolete .fruit that breaks open at maturity to release the contents .
+obsolete .fruit that does not open at maturity .
+obsolete .the fruit may be derived from monocarpellate or multicarpellate gynoecia .
+obsolete .one segment of a fruit of a schizocarp consisting of pericarp plus seed ( s )  .
+obsolete .
+obsolete .the 'stone' or 'pit'  ( endocarp plus seed )  of a succulent fruit .
+obsolete .
+obsolete .fruit on a common axis derived from the ovaries of several flowers .
+an embryo sac cell  ( po:0025026 )  that is largest cell in a mature embryo sac  ( po:0025074 )  .
+obsolete .a gametophyte that produces pollen sperm cells .
+obsolete .a gametophyte that produces female gametes .
+cell ,  commonly three in number as in the eight - nucleate embryo sac ,  located at the other end of the embryo sac from the egg cell .
+a gamete  ( po:0025006 )  produced by an archegonium  ( po:0025126 )  or an embryo sac  ( po:0025074 )  .
+obsolete .usually two nuclei in the center of the eight - nucleate embryo sac that fuse ,  and subsequently fuse with one of the male gametes to produce the endosperm .
+a cardinal organ part that has as parts an egg cell and two synergids and is located at the micropylar end of the embryo sac .
+a spermatogenous cell  ( po:0025525 )  of the microgametophyte  ( po:0025280 )  that divides to produce two pollen sperm cells  ( po:0025121 )  .
+a plant cell that is the larger cell of a male gametophyte in seed plants .
+a stem internode  ( po:0020142 )  below the cotyledonary node  ( po:0025321 )  and transitional to a root  ( po:0009005 )  of a plant embryo  ( po:0009009 )  or a seedling  ( po:0000003 )  .
+a plant anatomical space that is a slit in an anther lobe formed from when a dehiscence zone dehisces .
+a portion of ground tissue in the style of a carpel through which a pollen tube grows ;  it connects a stigma and the inside of an ovary .
+the last mature leaf before the inflorescence in a cereal crop plant .
+a tubular portion of the leaf surrounding the stem ,  as in the poaceae .
+a membranous or hairy appendage on the adaxial / upper surface of a leaf ,  at the junction between sheath and blade ,  especially in grasses .
+a cardinal organ part  ( po:0025001 )  that is an ear - shaped outgrowth of the distal part of a leaf sheath  ( po:0020104 )  .
+an embryonic plant structure at the base of a plant embryo that develops from an embryonic basal cell and connects an embryo proper to the wall of a megagametophyte .
+a plant cell that is the uppermost cell of a suspensor and from which part of the root and root cap in a plant embryo of angiosperms are derived .
+an embryonic plant structure that is a more or less shield - shaped and absorptive portion of a plant embryo of poaceae .
+a root  ( po:0009005 )  that develops from a lateral root primordium  ( po:0000016 )  that is part of another root on the same plant .
+a shoot axis  ( po:0025029 )  that is part of an inflorescence  ( po:0009049 )  .
+a portion of parenchyma tissue that is part of the root tip and covers the root apical meristem .
+a stele that is part of a root .
+obsolete .the portion of the root that includes small ,  densely cytoplasmic cells that are dividing and expanding in size .
+the functionally - staminate flowering structure that terminates the stem of a zea mays plant .
+a root  ( po:0009005 )  that develops directly from an seedling radicle  ( po:0020127 )  .
+a phyllome margin  ( po:0025018 )  of any flattened part of a leaf  ( po:0025034 )  .
+a portion of root parenchyma tissue that is the central part of a root cap in which the cells are arranged in longitudinal files .
+a portion of root parenchyma tissue that is part of a root cap and is parallel to the sides of a root axis .
+cell that constitutes the central part of the root cap ,  arranged in longitudinal files .
+a root initial cell that produces columella cells in the root cap .
+obsolete .solid cell inclusion of starch containing plastids occurring in root cap cells .
+a plant axis differentiation zone that is the part of a root and is located behind a root elongation zone .
+the distal part of a lateral  ( axillary )  branch in zea that bears the functionally - carpellate florets in a highly contracted inflorescence .
+a phyllome apex  ( po:0025139 )  that is part of a leaf  ( po:0025034 )  .
+a phyllome lamina vein  ( po:0025348 )  that is part of a leaf lamina vascular system  ( po:0000048 )  .
+a primary leaf vein  ( po:0025413 )  that is the central vein of a vascular leaf  ( po:0009025 )  .
+a leaf lamina vein  ( po:0020138 )  arising from a primary leaf vein  ( po:0025413 )  .
+a shoot node that is part of a stem .
+a shoot internode that is part of a stem .
+a maximal portion of meristem tissue located at an apex of a shoot system or root system .
+a portion of meristem  ( po:0009013 )  tissue located parallel to the sides of a shoot axis  ( po:0025029 )  or root  ( po:0009005 )  that participates in lateral growth .
+an apical meristem of the root system .
+a shoot meristem  ( po:0006079 )  formed at the apex of the shoot axis  ( po:0025029 )  ,  including those originating from an axillary bud meristem  ( po:0000232 )  .
+a portion of meristem tissue that is part of a root apical meristem and consists of mitotically and metabolically inactive cells and is positioned behind the root protoderm .
+a cardinal part of multi - tissue plant structure  ( po:0025498 )  that is a proper part of a plant organ  ( po:0009008 )  and includes portions of plant tissue  ( po:0009007 )  of at least two different types .
+a root that arises from a part of the hypocotyl .
+an axillary shoot that develops from a tuber axillary bud .
+an axial plant organ  ( po:0009008 )  .
+a cardinal organ part that is the edge of an organ and the area immediately internally adjacent to it .
+a plant cell that has half the chromosome complement of the sporophyte and is capable of fertilization to create a plant zygote  ( po:0000423 )  .
+a collective plant structure  ( po:0025497 )  that is a proper part of a whole plant  ( po:0000003 )  ,  and is composed of two or more adjacent plant organs  ( po:0009008 )  and the associated portions of plant tissue  ( po:0009007 )  .
+a phyllome margin  ( po:0025018 )  of a petal  ( po:0009032 )  .
+the margin of a leaf lamina .
+the margin of a flattened petiole .
+a phyllome margin  ( po:0025018 )  that is part of a bract  ( po:0009055 )  .
+the margin of a cotyledon .
+the margin of a prophyll .
+the margin of a scale leaf .
+the margin of a tepal  ( po:0009033 )  .
+the margin of a sporophyll .
+a whole plant  ( po:0000003 )  that arises through meiosis and is contained in a spore wall .
+an organ margin  ( po:0025005 )  that is part of a phyllome  ( po:0006001 )  .
+the margin of a carpel .
+the margin of a stamen .
+a perianth  ( po:0009058 )  consisting of one or more tepals  ( po:0009033 )  .
+a collective phyllome structure  ( po:0025023 )  composed of two or more leaves  ( po:0025034 )  .
+a collective plant organ structure  ( po:0025007 )  that consists of two or more phyllomes  ( po:0006001 )  originating from the same node or from one or more adjacent nodes with compressed shoot internodes  ( po:0005005 )  .
+a shoot node that is part of a branch .
+a collective plant organ structure  ( po:0025007 )  that produces root apical meristems  ( po:0020147 )  and the plant structures that arise from them .
+a plant cell  ( po:0009002 )  that is part of an embryo sac  ( po:0025074 )  .
+obsolete .a plant cell that is part of a male gametophyte .
+a plant cell that is part of a plant embryo .
+a plant axis  ( po:0025004 )  that is part of a shoot system  ( po:0009006 )  .
+a plant cell that is part of a portion of ground tissue .
+a ground tissue cell  ( po:0025030 )  that contains latex .
+a plant cell that is dead at maturity ,  lacks specialized wall thickenings or lignin ,  and has tapered ends that are thin and partially hydrolyzed .
+a plant cell that resembles in structure the sieve elements of vascular plants .
+a phyllome  ( po:0006001 )  that is not associated with a reproductive structure .
+a portion of parenchyma  ( po:0005421 )  specialized for carbohydrate storage .
+a portion of storage parenchyma  ( po:0025035 )  that is part of a tuber  ( po:0025522 )  .
+a portion of storage parenchyma that is part of a fruit .
+a portion of tuber storage parenchyma  ( po:0025035 )  that is part of a subterranean tuber  ( po:0004547 )  .
+a portion of tuber storage parenchyma  ( po:0025036 )  that is part of an aerial tuber  ( po:0004548 )  .
+an axillary vegetative bud  ( po:0004712 )  that is part of a shoot axis tuber  ( po:0004543 )  .
+a tuber axillary vegetative bud that is part of an aerial tuber .
+a tuber axillary vegetative bud that is part of a subterranean tuber .
+a portion of shoot axis periderm  ( po:0005048 )  that is part of a shoot axis tuber  ( po:0004543 )  .
+a portion of tuber periderm that is part of an aerial tuber .
+a portion of tuber periderm that is part of a subterranean tuber .
+a portion of shoot axis epidermis  ( po:0000112 )  that is part of a shoot axis tuber  ( po:0004543 )  .
+a portion of tuber epidermis that is part of an aerial tuber .
+a tuber epidermis that is part of a subterranean tuber .
+a tuber interfascicular region that is part of a subterranean tuber storage parenchyma .
+an interfascicular region that is part of a tuber storage parenchyma .
+a tuber interfascicular region that is part of an aerial tuber storage parenchyma .
+a portion of pith  ( po:0006109 )  that is part of a tuber storage parenchyma  ( po:0025036 )  .
+a portion of tuber pith  ( po:0025052 )  that is part of a subterranean tuber storage parenchyma  ( po:0025038 )  .
+a portion of tuber pith  ( po:0025052 )  that is part of an aerial tuber storage parenchyma  ( po:0025039 )  .
+a portion of cortex  ( po:0005708 )  that is part of a tuber storage parenchyma  ( po:0025036 )  .
+a portion of tuber cortex that is part of an aerial tuber storage parenchyma .
+a portion of tuber cortex that is part of a subterranean tuber storage parenchyma .
+a portion of parenchyma  ( po:0005421 )  that is the outer layer of the pith  ( po:0006109 )  .
+any portion of plant tissue  ( po:0009007 )  other than epidermis  ( po:0005679 )  or vascular tissue  ( po:0009015 )  .
+a cardinal part of multi - tissue plant structure  ( po:0025498 )  that is thin and flat .
+a perimedullary zone  ( po:0025058 )  that is part of a tuber pith  ( po:0025052 )  .
+a tuber perimedullary zone that is part of an aerial tuber pith .
+a tuber perimedullary zone that is part of a subterranean tuber pith .
+a perimedullary zone  ( po:0025058 )  that is part of a shoot axis pith  ( po:0005041 )  .
+a perimedullary zone that is part of a root pith .
+a cardinal organ part  ( po:0025001 )  that is elongated and sub - cylindrical to cylindrical and supports another cardinal organ part .
+a portion of storage parenchyma that is part of a seed .
+an axillary bud meristem  ( po:0000232 )  that is part of a shoot axis tuber  ( po:0004543 )  .
+a tuber axillary bud meristem that is part of an aerial tuber .
+a tuber axillary bud meristem that is part of a subterranean tuber .
+a terminal bud that develops into a reproductive structure .
+an axillary bud  ( po:0004709 )  that develops into an reproductive shoot system  ( po:0025082 )  .
+a shoot axis  ( po:00025029 )  that develops from an axillary bud meristem  ( po:0000232 )  or from equal divisions of a meristematic apical cell  ( po:0030007 )  .
+a megagametophyte  ( po:0025279 )  that is located in a plant ovary ovule  ( po:0025490 )  .
+a leaf in a non - vascular plant .
+an axillary reproductive bud that develops into a strobilus .
+a terminal reproductive bud that develops into a strobilus .
+a portion of plant tissue at the interface between two plant structures ,  one of which is in a gametophyte development stage  ( po:id )  and one of which is in a sporophyte development stage  ( po:id )  ,  and that has as parts transfer cells  ( po:0000078 )  .
+an axillary shoot that develops from an aerial tuber axillary bud .
+a shoot internode that is part of a branch .
+an axillary shoot that develops from a subterranean tuber axillary bud .
+a shoot system  ( po:0009006 )  in the sporophytic phase that has as part at least one sporangium .
+a reproductive shoot system consisting of a number of modified leaves  ( sporophylls )  or ovule - bearing scales grouped terminally on a stem .
+a bud that develops into a reproductive shoot system .
+a bud that develops into a strobilus .
+a gynoecium in the early stages of development ,  characterized as a ridge on the abaxial surface of the floral meristem that develops from a gynoecium primordium .
+a portion of plant tissue that is part of a plant structure and consists of a narrow band of cells that undergoes dehiscence upon maturation of the structure .
+a dehiscence zone that is part of a spore capsule .
+a plant organ in which spores are produced .
+a portion of parenchyma tissue that is part of a root .
+a portion of phyllome epidermis that is part of a carpel .
+a portion of phyllome epidermis that is part of a stamen .
+a phyllome trichome that is part of a bract epidermis .
+a plant structure  ( po:0009011 )  that is part of an plant embryo  ( po:0009009 )  .
+a plant axis elongation zone that is part of a shoot axis internode .
+a shoot axis internode elongation zone that is part of a branch internode .
+a plant axis differentiation zone that is part of a shoot axis .
+a shoot internode differentiation zone that is part of a branch internode .
+an inflorescence axis  ( po:0020122 )  that is the primary or main axis of an inflorescence  ( po:0009049 )  .
+an inflorescence branch  ( po:0009081 )  arising from a second order inflorescence branch  ( po:0006322 )  .
+an inflorescence branch  ( po:0009081 )  arising from a third order inflorescence branch  ( po:0025105 )  .
+an inflorescence branch  ( po:0009081 )  arising from a fourth order inflorescence branch  ( po:0025106 )  .
+an inflorescence branch  ( po:0009081 )  arising from a fifth order inflorescence branch  ( po:0025107 )  .
+an inflorescence branch  ( po:0009081 )  arising from a sixth order inflorescence branch  ( po:0025108 )  .
+an inflorescence branch  ( po:0009081 )  arising from an seventh order inflorescence branch  ( po:0025109 )  .
+an inflorescence branch  ( po:0009081 )  arising from a eighth order inflorescence branch  ( po:0025110 )  or higher .
+an infructescence branch  ( po:0025243 )  arising from a first order infructescence axis  ( po:0025244 )  .
+an infructescence branch  ( po:0025243 )  arising from a primary infructescence branch  ( po:0025112 )  .
+an infructescence branch  ( po:0025243 )  arising from a second order infructescence branch  ( po:0025113 )  .
+an infructescence branch  ( po:0025243 )  arising from a third order infructescence branch  ( po:0025114 )  .
+an infructescence branch  ( po:0025243 )  arising from a fourth order infructescence branch  ( po:0025115 )  .
+an anatomical space that is part of a plant .
+a plant anatomical space that is a pore at the apex of an anther .
+a cardinal organ part that is part of a plant axis and is located behind the elongation zone and contains cells that are differentiating into their final form and function .
+a plant sperm cell  ( po:0000084 )  which develops from a spermatogenous cell  ( po:0025525 )  and is located in an antheridium  ( po:0025125 )  .
+a plant sperm cell  ( po:0000084 )  that is part of the pollen  ( po:0025281 )  .
+a plant egg cell  ( po:0020094 )  that develops from the archegonium central cell  ( po:0025509 )  and is located in the venter  ( po:0030038 )  .
+a plant egg cell  ( po:0020094 )  that is part of an egg apparatus  ( po:0020096 )  .
+a plant organ  ( po:0009008 )  that produces one or more gametes  ( po:0025006 )  and participates in the gametophyte development stage  ( po:0028003 )  .
+a multicellular plant gametangium  ( po:0025124 )  that produces antheridium sperm cells  ( po:0025120 )  and has as parts an antheridium jacket layer  ( po:0030053 )  and an antheridium stalk  ( po:0030035 )  .
+a multicellular plant gametangium  ( po:0025124 )  that develops from an archegonium initial cell  ( po:0025510 )  and has as parts a venter  ( po:0030038 )  and an archegonium neck  ( po:0030039 )  .
+a portion of meristem tissue  ( po:0009013 )  that has as parts protoderm  ( po:0006210 )  and sub - epidermal meristematic tissue and is committed to the development of a particular plant structure  ( po:0009011 )  .
+a primordium  ( po:0025127 )  that develops from a phyllome anlagen  ( po:0025430 )  and is part of a shoot apex  ( po:0000037 )  and is committed to the development of a phyllome  ( po:0006001 )  .
+a lamina  ( po:0025060 )  that is part of a petiole  ( po:0020038 )  .
+a leaf near the apex of a stem that is still rolled into a cylinder .
+an anatomical entity that is or was part of a plant .
+a plant anatomical space that is either a groove on the surface or a tube in the interior of a plant structure .
+a canal that is part of a petiole .
+a shoot system that forms the basal part of an inflorescence to which the pedicels are attached and in which the internodes do not elongate ,  giving the appearance of a ridge of raised tissue .
+a portion of leaf lamina abaxial epidermis that covers the abaxial surface of a cigar leaf .
+a tepal  ( po:0009033 )  that is part of a collective tepal structure  ( po:0025021 )  ,  along with a fused collective tepal structure  ( po:0025138 )  ,  but is separate from  ( pato:0001505 )  the other tepals .
+a tepal  ( po:0009033 )  that is part of a fused collective tepal structure  ( po:0025138 )  in which it is fused to at least one other tepal .
+a collective tepal structure  ( po:0025021 )  in which  there are at least two fused tepals  ( po:0025137 )  .
+the apical portion of a phyllome .
+the basal part of a phyllome  ( po:0006001 )  ,  where it attaches to a shoot axis  ( po:0025029 )  .
+the apical most portion of a phyllome apex .
+a phyllome tip  ( po:0025141 )  that is part of a leaf apex  ( po:0020137 )  .
+a phyllome apex po:0025139 )   that is part of a tepal  ( po:0009033 )  .
+a phyllome apex  ( po:0025139 )  that is part of a petal  ( po:0009032 )  .
+a phyllome apex that is part of a sepal .
+a phyllome base  ( po:0025140 )  that is part of a petal  ( po:0009032 )  .
+a phyllome base that is part of a sepal .
+a phyllome base  ( po:0025140 )  that is part of a tepal  ( po:0009033 )  .
+a phyllome tip that is part of a petal apex .
+a phyllome tip that is part of a sepal apex .
+a phyllome tip that is part of a tepal apex .
+a portion of branch epidermis that is part of a peduncle .
+a shoot axis trichome that is part of a peduncle epidermis .
+a phyllome apex  ( po:0025139 )  that is part of a bract  ( po:0009055 )  .
+a phyllome base  ( po:0025140 )  that is part of a bract  ( po:0009055 )  .
+a phyllome tip that is part of a bract apex .
+a portion of shoot epidermis  ( po:0006035 )  that is part of a phyllome  ( po:0006001 )  .
+a portion of phyllome epidermis  ( po:0025157 )  that is part of a bract  ( po:0009055 )  .
+a portion of bract epidermis that covers the abaxial / lower surface of a bract .
+a portion of bract epidermis that covers the adaxial / upper surface of a bract .
+a portion of organism substance that is or was part of a plant .
+a portion of plant tissue  ( po:0009007 )  that forms a non - sclerified outgrowth from the epidermis  ( po:0005679 )  .
+a trichome cell  ( po:0008030 )  that forms a branch of a multicellular trichome  ( po:0025162 )  .
+an epidermal cell that is part of a root epidermis .
+an epidermal cell that is part of a shoot epidermis .
+an epidermal pavement cell with a short protuberance .
+a papilla cell that is part of a leaf epidermis .
+a papilla cell that is part of a stigma epidermis .
+a portion of epidermis that is a sclerified outgrowth .
+a prickle that is part of a root .
+a prickle that is part of a shoot axis .
+a branch that is a sclerified ,  pointed outgrowth .
+a leaf that is a sclerified and pointed and lacks a lamina .
+a stipule that is sclerified and pointed .
+a prickle that is part of a leaf .
+a shoot axis trichome that is part of a stem epidermis .
+a shoot axis trichome that is part of a branch epidermis .
+a portion of shoot axis epidermis that is part of a stem .
+a portion of shoot axis epidermis that is part of a branch .
+a cardinal organ part that is part of a plant axis that is located directly behind an apical meristem ,  in which the cells are undergoing longitudinal expansion .
+a plant axis elongation zone that is part of a root tip and located directly behind the root apical meristem .
+a phyllome trichome that is part of a sepal epidermis .
+a phyllome stomatal complex that is part of a leaf .
+a portion of phyllome epidermis that is part of a tepal  ( po:0009033 )  .
+a leaf stomatal complex that is part of a leaf lamina .
+a trichome that is part of a phyllome epidermis .
+a phyllome trichome that is part of a petal epidermis .
+a phyllome trichome that is part of a tepal epidermis .
+a leaf stomatal complex that is part of a petiole .
+a leaf stomatal complex that is part of a leaf abaxial epidermis .
+a leaf stomatal complex that is part of a leaf adaxial epidermis .
+a portion of tepal epidermis that covers the abaxial / lower surface of a tepal .
+a portion of tepal epidermis that covers the adaxial / upper surface of a tepal .
+a root meristem that gives rise to a root nodule .
+a plant cell that develops from a vegetative cell and forms a tubular extension of the pollen grain .
+a portion of plant tissue that is part of an endosperm and is composed of basal endosperm transfer cells .
+a cardinal organ part that is the central column of a plant axis that consists of the primary vascular tissue and associated ground tissue .
+a stele that is part of a shoot axis .
+a shoot axis stele that is part of a branch .
+a shoot axis stele that is part of a stem .
+a sporangium in which megaspores are produced .
+a sporangium in which microspores are produced .
+a vascular bundle  ( po:0005020 )  that is part of a pericarp  ( po:0009084 )  .
+a shoot axis internode that is part of a rhizome .
+a vascular system that is part of a shoot system .
+a vascular system that includes the totality of the portions of vascular tissue in their specific arrangement in a phyllome .
+a phyllome vascular system  ( po:0025206 )  that includes the totality of the portions of vascular tissue in their specific arrangement in a tepal  ( po:0009033 )  .
+a phyllome trichome that is part of a bract epidermis .
+a phyllome trichome that is part of a stamen epidermis .
+a leaf trichome that is part of a leaf abaxial epidermis .
+a leaf trichome that is part of a leaf adaxial epidermis .
+an epidermal pavement cell that is part of a leaf epidermis .
+a leaf pavement cell that is part of a leaf abaxial epidermis .
+a leaf pavement cell that is part of a leaf adaxial epidermis .
+a stomatal complex  ( po:0002000 )  that is part of a phyllome  ( po:0006001 )  .
+a phyllome stomatal complex  ( po:0025215 )  that is part of a bract  ( po:0009055 )  .
+a phyllome stomatal complex that is part of a carpel .
+a phyllome stomatal complex  ( po:0025215 )  that is part of a petal  ( po:0009032 )  .
+a phyllome stomatal complex that is part of a sepal .
+a phyllome stomatal complex that is part of a stamen .
+a phyllome stomatal complex that is part of a tepal  ( po:0009033 )  .
+a shoot apex that has as part a reproductive shoot apical meristem .
+a shoot apex that has as part a vegetative shoot apical meristem .
+a plant anatomical space that is the space between a shoot axis and a leaf ,  bract ,  or branch that branches from the shoot axis .
+an axil that is the space between a shoot axis and a bract that branches from the shoot axis .
+an axil that is the space between a shoot axis and a branch that branches from the shoot axis .
+a portion of plant tissue consisting of four megaspores that remained joined together shortly after meiosis .
+a cardinal organ part that is a part of a plant structure that splits apart when the structure dehisces .
+a valve that is a part of a spore capsule that splits apart when the spore capsule dehisces .
+a columella that forms the central axis of a spore capsule .
+a portion of plant tissue that is part of a plant embryo .
+a stomatal pore that is part of a phyllome stomatal complex .
+a phyllome stomatal pore that is part of a leaf stomatal complex .
+a guard cell that is part of a phyllome stomatal complex .
+a phyllome guard cell that is part of a leaf stomatal complex .
+a petiole canal on the abaxial surface of a petiole .
+a petiole canal on the adaxial surface of a petiole .
+a reproductive shoot system  ( po:0025082 )  that is part of an inflorescence  ( po:0009049 )  and has as parts a second order inflorescence axis  ( po:0006321 )  and any shoot axes  ( po:0025029 )  and flowers  ( po:0009046 )  that arise from it .
+a reproductive shoot system that is part of an infructescence and has as parts a second order infructescence axis and any infructescence axes and fruits that arise from it .
+a shoot axis  ( po:0025029 )  that is part of an infructescence  ( po:0006342 )  .
+an infructescence axis  ( po:0025242 )  that is a branch  ( po:0025073 )  from a primary or higher order infructescence axis .
+an infructescence axis that is the primary or main axis of an infructescence .
+a phyllome that develops from a sepal and remains attached to a fruit at maturity .
+a phyllome  ( po:0006001 )  that develops from a tepal  ( po:0009033 )  and remains attached to a fruit  ( po:0009001 )  at maturity .
+a phyllome that develops from a stamen and remains attached to a fruit at maturity .
+a collective organ part structure that forms a cylindrical false stem composed concentric leaf sheaths .
+a portion of leaf epidermis that is part of a leaf sheath .
+a portion of leaf sheath epidermis that covers the abaxial / lower surface of a leaf sheath .
+a portion of leaf sheath epidermis that covers the adaxial / upper surface of a leaf sheath .
+an infructescence branch  ( po:0025243 )  arising from a fifth order infructescence branch  ( po:0025116 )  .
+an infructescence branch  ( po:0025243 )  arising from a sixth order infructescence branch  ( po:0025252 )  .
+an infructescence branch  ( po:0025243 )  arising from a seventh order infructescence branch  ( po:0025253 )  .
+an infructescence branch  ( po:0025243 )  arising from an eighth order infructescence branch  ( po:0025254 )  or higher .
+a root elongation zone that is part of a lateral root tip .
+a root elongation zone that is part of a primary root tip .
+a meristematic cell that is part of a portion of procambium .
+a portion of shoot procambium tissue that is part of a leaf .
+a portion of shoot procambium that is part of a shoot apical meristem and gives rise to the primary vascular tissue of a shoot axis .
+a ground tissue cell that is part of a portion of pericycle .
+a septum that divides a multilocular ovary .
+a plant anatomical space that is a cavity a reproductive structure .
+a sporangium locule that is part of an anther and is a cavity within a single pollen sac or two or more fused pollen sacs .
+a locule that is a cavity in a sporangium or several fused sporangia .
+a locule that is a cavity in an ovary .
+a portion of fruit placenta tissue that divides a fruit into two or more chambers and develops from a replum .
+a septum that divides a cavity or mass of tissue in a fruit and develops from an ovary septum .
+a collective plant structure  ( po:0025497 )  composed of two or more cardinal organ parts  ( po:0025001 )  that are part of adjacent plant organs  ( po:0009008 )  and any associated portions of plant tissue  ( po:0009007 )  .
+a locule that is a cavity in a fruit and develops from an ovary locule .
+a portion of ovary placenta tissue that divides an ovary into two or more chambers and develops from contact of the placental tissue from opposite sides of the ovary early in gynoecium development .
+a portion of shoot axis procambium gives rise to the primary vascular tissue of a stem .
+a portion of shoot axis procambium gives rise to the primary vascular tissue of a branch .
+a portion of meristem tissue that undergoes differentiation to form the primary vascular tissue .
+a portion of procambium tissue that is part of a shoot system .
+a microsporangium that is part of a sporophyll and where the pollen grains develop and are located after they develop .
+a scale leaf that grows from a rhizome .
+a whole plant in the gametophyte development stage  ( po:0028003 )  that produces only plant egg cells  ( po:0020094 )  .
+a whole plant  ( po:0000003 )  in the gametophyte development stage  ( po:0028003 )  that produces plant sperm cells  ( po:0000084 )  .
+a microgametophyte  ( po:0025280 )  that develops from a microspore  ( po:0020048 )  is located in a pollen sac  ( po:0025277 )  .
+a megagametophyte  ( po:0025279 )  that has as parts one or more archegonia  ( po:0025126 )  .
+a microgametophyte  ( po:0025280 )  that has as parts one or more antheridia  ( po:0025125 )  .
+a sporophyte meristematic apical cell that is part of a plant embryo and is the uppermost cell formed after the first division of a zygote .
+a parenchyma cell that is part of a plant callus .
+a coleoptile  ( po:0020033 )  that is part of a plant embryo  ( po:0009009 )  .
+a coleoptile  ( po:0020033 )  that is part of a whole plant  ( po:0000003 )  in the seedling development stage  ( po:0007131 )  .
+a coleorhiza  ( po:0020034 )  that is part of a plant embryo  ( po:0009009 )  .
+a coleorhiza  ( po:0020034 )  that is part of a whole plant  ( po:0000003 )  in the seedling development stage  ( po:0007131 )  .
+a hypocotyl  ( po:0020100 )  that is part of a plant embryo  ( po:0009009 )  .
+a hypocotyl  ( po:0020100 )  that is part of a whole plant  ( po:0000003 )  in the seedling development stage  ( po:0007131 )  .
+an epicotyl  ( po:0020035 )  that is part of a plant embryo  ( po:0009009 )  .
+an epicotyl  ( po:0020035 )  that is part of a whole plant  ( po:0000003 )  in the seedling development stage  ( po:0007131 )  .
+a mesocotyl that is part of a plant embryo .
+a mesocotyl that develops from an embryonic mesocotyl .
+a radicle  ( po:0020031 )  that is part of a plant embryo  ( po:0009009 )  .
+a radicle  ( po:0020031 )  that is part of a whole plant  ( po:0000003 )  in the seedling development stage  ( po:0007131 )  .
+a collective organ part structure that is the apical part of a circumsessile capsular fruit that separates from the rest of the capsule during dehiscence .
+obsolete .a fused perianth that is composed of fused sepals or petals and located on top of a gynoecium that contains an inferior ovary .
+a hypocotyl - root junction that is part of an embryo axis .
+a hypocotyl - root junction that develops from an embryonic hypocotyl - root junction .
+a plant embryo that arises from previously differentiated somatic cells ,  rather than from fused gametes ,  i .e .
+a plant embryo that forms as a result of the fusion of gametes .
+a zygotic plant embryo that is grown or maintained in vitro .
+a cultured somatic plant embryo that develops from isolated microspores .
+a cardinal organ part that is composed of the outer layers of a sporangium and bounds the archesporium or spores .
+a sporangium wall that is part of a microsporangium .
+a sporangium wall that is part of a megasporangium .
+an endothecium that is part of a microsporangium wall .
+an endothecium that is part of a megasporangium wall .
+an exothecium that is part of a microsporangium wall .
+an exothecium that is part of a megasporangium wall .
+a portion of ground tissue  ( po:0025059 )  that is the inner - most layer of a sporangium wall  ( po:0025306 )  .
+an tapetum  ( po:0025313 )  that is part of a microsporangium wall  ( po:0025307 )  .
+a tapetum  ( po:0025313 )  that is part of a megasporangium wall  ( po:0025308 )  .
+a multicellular trichome  ( po:0025162 )  that has as parts a long terminal cell atop a basal stalk and grows in a leaf axil  ( po:0009023 )  .
+a trichome cell  ( po:0008030 )  that is the long terminal cell of an axillary hair  ( po:0008030 )  .
+a portion of plant tissue that is the basal part of an axillary hair ,  below the axillary hair terminal cell .
+a trichome cell  ( po:0008030 )  that is part of a base of an axillary hair  ( po:0025316 )  .
+an epidermal rhizoid that grows form a cotyledonary node .
+a stem node from which one or more cotyledons grow .
+a plant anatomical space that is an opening in a hydathode .
+a reproductive shoot system that is a second or higher order inflorescence in which the second or higher order inflorescence branch bears two or more flowers but is not elongated .
+a petal  ( po:0009032 )  that is the top - most petal of a papilionaceous corolla  ( po:0009059 )  .
+one of two lateral petals  ( po:0009032 )  that is adjacent to the banner petal of a papilionaceous corolla  ( po:0009059 )  .
+a petal  ( po:0009032 )  that is one of the two lowest petals of a papilionaceous corolla  ( po:0025324 )  .
+a boat - shaped collective phyllome structure  ( po:0025023 )  that consists of the two lowest petals  ( po:0009032 )  of a papilionaceous corolla  ( po:0009059 )  .
+a vascular leaf that has increased activity of either the adaxial or abaxial meristem early in development ,  leading to absence of the opposite surface on the mature leaf .
+a fused calyx  ( po:0025582 )  that is composed of fused sepals  ( po:0025584 )  .
+a fused corolla  ( po:0025581 )  that is composed of fused petals  ( po:0025583 )  .
+a small flower on the margin of a head - type inflorescence  ( capitulum )  .
+a small flower in the center of a head - type inflorescence  ( capitulum )  .
+a unifacial leaf that is flat in cross section due to a lamina that develops in a median plane  ( perpendicular to the axis )  ,  rather a transverse plane  ( tangent to the axis )  throughout all of part of the length of the leaf .
+a unifacial leaf that is round in cross section throughout all of part of the length of the leaf .
+an adult ensiform leaf with a lamina that develops in a median plane ,  rather a transverse plane ,  throughout the length of the leaf and is a result of increased activity of the adaxial meristem early in development .
+a transition vascular leaf in which the basal portion of the leaf has unifacial lamina development in a median plane ,  similar to a phyllode ,  and the apical portion of the leaf develops leaflets similar to a juvenile leaf .
+a vascular bundle  ( po:0005020 )  that is part of a phyllome lamina  ( po:0025396 )  .
+a cardinal organ part that is a slender ,  more or less straight and stiff ,  fine - pointed ,  terminal or subterminal appendage of a glume ,  lemma ,  or palea .
+an awn that is part of a palea .
+an awn that is part of a glume .
+an enlarged leaf base  ( po:0020040 )  that is fused with adjacent shoot axis  ( po:0025029 )  tissue .
+an axillary vegetative bud  ( po:0004712 )  that is not elongated ,  in which the vascular leaves  ( po:0009025 )  develop as spine leaves  ( po:0025173 )  .
+a shoot axis that is flattened and expanded .
+a shoot system  ( po:0009006 )  that has as parts a short ,  enlarged stem  ( po:0009047 )  in which the shoot internodes  ( po:0005005 )  do not elongate ,  and one or more buds  ( po:0000055 )  .
+a short ,  enlarged shoot system  ( po:0009006 )  that has as parts a short stem  ( po:0009047 )  in which the shoot internodes  ( po:0005005 )  do not elongate ,  and one or more buds  ( po:0000055 )  enclosed by fleshy leaves  ( po:0009025 )  or leaf bases  ( po:0020040 )  .
+a lateral root that is erect and protrudes above the soil or water .
+a small lateral root that grows from a prop root and has a mealy surface texture .
+a collective plant organ structure  ( po:0025007 )  on the surface of a vascular leaf  ( po:0009025 )  that has as part a cluster of two or more adjacent sporangia po:0025094 )  .
+a collective plant organ structure  ( po:0025007 )  on the surface of a vascular leaf that has as parts two or more fused sori  ( po:0025359 )  .
+a vascular leaf that is slender and coiling and lacks a lamina .
+a leaflet that is slender and coiling and lacks a lamina .
+a leaf apex of a laminar vascular leaf that is slender and coiling .
+a branch that is slender and coiling .
+a shoot axis that arises from the apical part of a stem and is slender and coiling .
+a leaf rachis that is slender and coiling and lacks a lamina .
+a prophyll that is slender and coiling and lacks a lamina .
+an arilloid that is an elaborate outgrowth of a seed at the micropylar end .
+a plant anatomical space that is part of a portion of plant tissue between two or more cells .
+an intercellular space that is part of a leaf mesophyll .
+a leaf mesophyll intercellular space that is part of a spongy mesophyll .
+an intercellular space that is located directly below and contiguous with a stomatal pore .
+a plant anatomical space that is a phyllome marginal embayment ,  incision or indentation between marginal projections of any sort ,  typically lobes ,  teeth ,  or the base of cordate phyllomes .
+a phyllome sinus that is a marginal embayment ,  incision or indentation between marginal projections of any sort ,  typically lobes ,  teeth ,  or the base of cordate leaves .
+a portion of plant substance that is the inner layer of a cuticle ,  composed of a polyester matrix of hydroxy -  and hydroxy epoxy fatty acid c16 and c18 chains .
+a portion of plant substance comprised predominantly of very long chain aliphatic lipids and is part of a plant cuticle .
+a portion of plant substance that is the inner layer of a cuticle ,  composed primarily of cutin ,  embedded and overlayed with cuticular wax .
+a portion of cuticular wax that forms crystalloids or a smooth film on the exterior of a cuticle .
+a portion of cuticular wax that is an amorphous mixture of lipids embedded in the cutin of a cuticle proper .
+a leaf lamina vein  ( po:0020138 )  above the first order that is connected to another vein only at one end .
+a cardinal organ part  ( po:0025001 )  that is part of a phyllome lamina  ( po:0025396 )  and is completely surrounded by phyllome lamina veins  ( po:0025348 )  and cannot be divided into any smaller parts that are completely surrounded by phyllome lamina veins .
+a phyllome lamina areole  ( po:0025391 )  that is part of a leaf lamina  ( po:0020039 )  and is completely surrounded by leaf lamina veins  ( po:0020138 )  and cannot be divided into any smaller parts that are completely surrounded by leaf lamina veins .
+a collective organ part structure that has a parts one or more pappus elements  ( scales ,  awns ,  or bristles )  at the apex of an inferior ovary just beneath or outside the corolla .
+a cardinal organ part that is a segment of a pappus .
+a plant organ  ( po:0009008 )  that is part of a flower  ( po:0009046 )  .
+an organ lamina  ( po:0025513 )  that is part of a phyllome  ( po:0006001 )  .
+a leaf mesophyll intercellular space that is part of a palisade mesophyll .
+a substomatal cavity that is part of a phyllome .
+a phyllome substomatal cavity that is part of a leaf mesophyll .
+a portion of meristem tissue  ( po:0009013 )  that is found on the adaxial side of a developing phyllome  ( po:0006001 )  .
+a portion of phyllome adaxial meristem  ( po:0025400 )  tissue that is found on the adaxial side of a developing vascular leaf  ( po:0009025 )  .
+a portion of meristem tissue  ( po:0009013 )  that is found on the abaxial side of a developing phyllome  ( po:0006001 )  .
+a portion of phyllome abaxial meristem  ( po:0025402 )  tissue that is found on the abaxial side of a developing vascular leaf  ( po:0009025 )  .
+a portion of meristem  ( po:0009013 )  tissue that is part of a phyllome margin  ( po:0025018 )  of an expanding phyllome  ( po:0006001 )  and has as parts marginal and submarginal initials .
+a portion of phyllome marginal meristem  ( po:0025404 )  tissue that is part of a leaf margin  ( po:0025009 )  of a vascular leaf  ( po:0009025 )  during a leaf expansion stage  ( po:0001052 )  and has parts marginal and submarginal initials .
+a plant cell  ( po:0009002 )  that is part of a portion of phloem tissue  ( po:0005417 )  ,  has sieve areas in its walls ,  and lacks a nucleus in its mature protoplast .
+a sclerenchyma cell  ( po:0000077 )  that is elongated and tapering .
+a portion of secondary vascular tissue  ( po:0025409 )  that has as parts cells derived from fusiform initials  ( po:0000079 )  and oriented with their longest diameter parallel to a plant axis  ( po:0025004 )  .
+a portion of secondary vascular tissue  ( po:0025409 )  that has as part ray wood parenchyma  ( po:0004534 )  and extends radially in the secondary xylem  ( po:0005848 )  and secondary phloem  ( po:0005848 )  of a plant axis  ( po:0025004 )  .
+a parenchyma cell  ( po:0000074 )  that is morphologically and physiologically associated with a sieve cell  ( po:0025415 )  but does is not derived from the same initial cell  ( po:0004011 )  as the sieve cell .
+a leaf lamina vein  ( po:0020138 )  that connects directly to a petiole vascular system  ( po:0000052 )  or a shoot axis vascular system  ( po:0000039 )  .
+a lateral meristem  ( po:0020145 )  that is not contiguous with an apical meristem  ( po:0020144 )  and has a parts multiple layers of meristematic cells  ( po:0004010 )  .
+a sieve element  ( po:0025406 )  in which the sieve areas are not aggregated into sieve plates  ( go:0097218 )  .
+a portion of phloem tissue  ( po:0005417 )  that has as parts a series of sieve tube elements  ( po:0000289 )  arranged end to end and interconnected through sieve plates .
+a portion of  xylem  ( po:0005352 )  tissue that has as parts a tube - like series of vessel members  ( po:0002003 )  ,  the common walls of which have perforations .
+a sclerenchyma cell  ( po:0000077 )  with many pits in the secondary cell wall .
+a fiber tracheid  ( po:0000355 )  that has as parts one or more thin internal partitions or septa .
+a libriform fiber cell  ( po:0004520 )  that has as parts one or more thin internal partitions or septa .
+a phloem fiber cell  ( po:0004519 )  that has as parts one or more thin internal partitions or septa .
+a xylem fiber cell  ( po:0000274 )  in which the inner - most layer of the secondary cell wall  ( go:0009531 )  contains abundant cellulose and is poor in lignin .
+a portion of meristem  ( po:0009013 )  tissue in which the planes of cell division in each layer are anticlinal to the surface of the phyllome  ( po:0006001 )  .
+a phyllome plate meristem  ( po:0025428 )  in the vascular leaf  ( po:0009025 )  .
+a portion of meristem  ( po:0009013 )  tissue that is part of a part_of peripheral zone  ( po:0000225 )  and will give rise to a phyllome primordium  ( po:0025128 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a vascular leaf primordium  ( po:0000017 )  and is part of a peripheral zone  ( po:0000225 )  of a vegetative shoot apical meristem  ( po:0008016 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a cotyledon primordium  ( po:0000015 )  and is part of a peripheral zone  ( po:000225 )  of an embryo shoot apical meristem  ( po:0006362 )  .
+a portion of plant tissue  ( po:0009007 )  that is committed to the development of a root primordium  ( po:0005029 )  .
+a vascular bundle  ( po:0005020 )  that is part of a petiole vascular system  ( po:0000052 )  .
+a cork cambium  ( po:0005599 )  that is part of a shoot axis  ( po:0025029 )  .
+a cork cambium  ( po:0005599 )  that is part of a root  ( po:0009005 )  .
+a vascular cambium  ( po:0005598 )  that is part of a shoot axis  ( po:0025029 )  .
+a vascular cambium  ( po:0005598 )  that is part of a root  ( po:0009005 )  .
+a cardinal organ part  ( po:0025001 )  that is part of a plant axis  ( po:0025004 )  and has as parts a cambium  ( po:0005597 )  and adjacent cells .
+a cambial zone that is part of a shoot axis  ( po:0025029 )  .
+a cambial zone that is part of a root  ( po:0009005 )  .
+a secondary thickening meristem  ( po:0025414 )  that is part of a stem  ( po:0009047 )  .
+a secondary thickening meristem  ( po:0025414 )  that is part of a root  ( po:0009005 )  .
+a tracheary element  ( po:0000290 )  that is part of a primary xylem tissue  ( po:0005849 )  .
+a tracheary element  ( po:0000290 )  that is part of a portion of secondary xylem tissue  ( po:0005848 )  .
+a tracheid  ( po:0000301 )  that is part of a xylem tissue  ( po:0005849 )  .
+a tracheid po:0000301 that is part of a portion of secondary xylem tissue  ( po:0005848 )  .
+a xylem vessel member  ( po:0002003 )  that is part of a primary xylem tissue  ( po:0005849 )  .
+a xylem vessel member  ( po:0002003 )  that is part of a portion of secondary xylem tissue  ( po:0005848 )  .
+a xylem vessel  ( po:0025417 )  that is part of a primary xylem tissue  ( po:0005849 )  .
+a xylem vessel  ( po:0025417 )  that is part of a portion of secondary xylem tissue  ( po:0005848 )  .
+a sieve element  ( po:0025406 )  that is part of a portion of primary phloem  ( po:0006075 )  .
+a sieve element  ( po:0025406 )  that is part of a portion of secondary phloem  ( po:0005043 )  .
+a sieve cell  ( po:0025415 )  that is part of a portion of primary phloem  ( po:0006075 )  .
+a sieve tube element  ( po:0000289 )  that is part of a portion of primary phloem  ( po:0006075 )  .
+a sieve cell  ( po:0025415 )  that is part of a portion of secondary phloem  ( po:0005043 )  .
+a sieve tube element  ( po:0000289 )  that is part of a portion of secondary phloem  ( po:0005043 )  .
+a companion cell  ( po:0000400 )  that is a transfer cell  ( po:0000078 )  with many cell wall invaginations .
+a companion cell  ( po:0000400 )  that lacks cell wall invaginations and has few or no plasmodesmata connecting it to adjacent mesophyll cells .
+a companion cell  ( po:0000400 )  that has dense cytoplasm ,  a small vacuole ,  proplastids rather than chloroplasts ,  and abundant and highly branched plasmodesmata linking it to adjacent mesophyll cells .
+a tracheary element that is part of a portion of early wood  ( po:0004515 )  .
+a tracheary element that is part of a portion of late wood  ( po:0004516 )  .
+a cotyledon  ( po:0020030 )  that is part of a plant embryo  ( po:0009009 )  .
+a cotyledon  ( po:0020030 )  that is part of a whole plant  ( po:0000003 )  in the seedling development stage  ( po:0007131 )  .
+a portion of secondary xylem  ( po:0005848 )  found on either the upper or lower side of a shoot axis  ( po:0025029 )  that is or was angled away from vertical ,  with anatomical characteristics that depend on whether it is compression wood  ( po:0025473 )  or tension wood  ( po:0025474 )  .
+a portion of reaction wood  ( po:0025472 )  found on the lower side of a shoot axis  ( po:0025029 )  that is or was angled away from vertical and that has as parts heavily lignified tracheids  ( po:0000301 )  with a specialized s2 layer that contains more lignin and has a larger  ( more horizontal )  microfibril angle .
+a portion of reaction wood  ( po:0025472 )  found on the upper side of a shoot axis  ( po:0025029 )  that is or was angled away from vertical and that has as parts gelatinous fiber cells  ( po:0025422 )  .
+a tuber  ( po:0004543 )  that develops from a tuberous root  ( po:0025523 )  and is further radially enlarged .
+a primordium  ( po:0025127 )  that is committed to the development of a  floral organ  ( po:0025395 )  and is part of a reproductive shoot apex  ( po:0025222 )  .
+a floral structure primordium  ( po:0025477 )  that is committed to the development of an androecium  ( po:0009061 )  .
+a root primordium  ( po:0005029 )  that is committed to the development of a basal root  ( po:0025002 )  .
+a root primordium  ( po:0005029 )  that is committed to the development of a shoot - borne root  ( po:0000042 )  .
+a primordium  ( po:0025127 )  that develops as part of a leaf primordium  ( po:0000017 )  of a compound leaf  ( po:0020043 )  and is committed to the development of a leaflet  ( po:0020049 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a bract primordium  ( po:0025487 )  and is part of a peripheral zone  ( po:000225 )  of a reproductive shoot apical meristem  ( po:0008028 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a lodicule primordium  ( po:0008040 )  and is part of a peripheral zone  ( po:000225 )  of a flower meristem  ( po:0000229 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a petal primordium  ( po:0000021 )  and is part of a peripheral zone  ( po:000225 )  of a flower meristem  ( po:0000229 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a sepal primordium  ( po:0004704 )  and is part of a peripheral zone  ( po:000225 )  of a flower meristem  ( po:0000229 )  .
+a phyllome anlagen  ( po:0025430 )  that will give rise to a stamen primordium  ( po:0004705 )  and is part of a peripheral zone  ( po:000225 )  of a flower meristem  ( po:0000229 )  .
+a phyllome primordium  ( po:0025487 )  that is committed to the development of a flower bract  ( po:0009055 )  .
+a bract primordium  ( po:0025128 )  is committed to the development of a flower bract  ( po:0009034 )  .
+a bract primordium  ( po:0025128 )  is committed to the development of an inflorescence bract  ( po:0009054 )  .
+a plant ovule  ( po:0020006 )  that is part of a plant ovary  ( po:0009072 )  .
+a plant ovule  ( po:0020006 )  that is part of an ovuliferous scale  ( add )  .
+a lateral root primordium  ( po:0000016 )  that develops from a portion of pericycle tissue  ( po:0006203 )  and is committed to the development of a pericyclic lateral root  ( po:0025494 )  .
+a lateral root primordium  ( po:0000016 )  that develops from a portion of plant tissue  ( po:0009007 )  other than a pericycle  ( po:0006203 )  and is committed to the development of a non - pericyclic lateral root  ( po:0025495 )  .
+a lateral root  ( po:0025495 )  that develops from a pericyclic lateral root primordium  ( po:0025492 )  .
+a lateral root  ( po:0025495 )  that develops from a non - pericyclic lateral root primordium  ( po:0025493 )  .
+a plant structure  ( po:0009011 )  that has as parts two or more portions of plant tissue  ( po:0009007 )  of at least two different types and which through specific morphogenetic processes forms a single structural unit demarcated by primarily bona - fide boundaries from other structural units of different types .
+a plant structure  ( po:0009011 )  that is a proper part of a whole plant  ( po:0000003 )  and includes two or more adjacent plant organs  ( po:0009008 )  or adjacent cardinal organ parts  ( po:0025001 )  ,  along with any associated portions of plant tissue  ( po:0009007 )  .
+a plant structure  ( po:0009011 )  that is a proper part of a multi - tissue plant structure  ( po:0025496 )  and includes portions of plant tissues  ( po:0009007 )  of at least two different types .
+an epidermal pavement cell  ( po:0000332 )  that is part of sepal epidermis  ( po:0006040 )  and is approximately one fifth the length of a sepal .
+a plant cell  ( po:0009002 )  that is the larger ,  distal cell arising from the first division of an archegonium initial cell  ( po:0025510 )  .
+an initial cell  ( po:0004011 )  that divides asymmetrically to form an archegonium central cell  ( po:0025509 )  and a smaller archegonium neck canal cell  ( po:0030035 )  .
+a cardinal organ part  ( po:0025001 )  that is a slender ,  hollow extension of a petal  ( po:0009032 )  .
+a collective organ part structure  ( po:0025269 )  that is a slender ,  hollow extension of a corolla and has as parts segments of two more fused petals .
+a lamina  ( po:0025060 )  that is part of a plant organ  ( po:0009008 )  .
+a cardinal organ part  ( po:0025001 )  that is a projection on a phyllome margin  ( po:0025018 )  for which the corresponding phyllome sinus  ( po:0025383 )  extends one quarter or more of the distance to the center of the long axis of the phyllome lamina  ( po:0025396 )  .
+a cardinal organ part  ( po:0025001 )  that is an angular projection on a phyllome margin  ( po:0025018 )  for which the corresponding phyllome sinus  ( po:0025383 )  extends less than one quarter of the distance to the center of the long axis of the phyllome lamina  ( po:0025396 )  .
+a cardinal organ part  ( po:0025001 )  that is a rounded projection on a phyllome margin  ( po:0025018 )  for which the corresponding phyllome sinus  ( po:0025383 )  extends less than one quarter of the distance to the center of the long axis of the phyllome lamina  ( po:0025396 )  .
+a phyllome lobe  ( po:0025514 )  that is a projection on a leaf lamina margin  ( po:0025009 )  for which the corresponding leaf sinus  ( po:0025384 )  extends one quarter or more of the distance to the center of the long axis of the leaf lamina  ( po:0020039 )  .
+a phyllome lamina tooth  ( po:0025515 )  that is an angular projection on a leaf margin  ( po:0020128 )  for which the corresponding leaf sinus  ( po:0025384 )  extends less than one quarter of the distance to the center of the long axis of the leaf lamina  ( po:0020039 )  .
+a phyllome lamina crena  ( po:0025516 )  that is a rounded projection on a leaf margin  ( po:0020128 )  for which the corresponding leaf sinus  ( po:0025384 )  extends less than one quarter of the distance to the center of the long axis of the leaf lamina  ( po:0020039 )  .
+a leaf lamina vein  ( po:0020138 )  that is just inside the leaf lamina margin  ( po:0025009 )  and extends from the leaf lamina base  ( po:0008019 )  to the leaf apex  ( po:0020137 )  .
+a plant cell  ( po:0009002 )  that produces one or more gametes  ( po:0025006 )  and participates in the gametophyte development stage  ( po:0028003 )  .
+a plant axis  ( po:0025004 )  that is radially enlarged .
+a root  ( po:0009005 )  that is radially enlarged relative to other lateral roots  ( po:0020121 )  or shoot - borne roots  ( po:0000042 )  on the same plant ,  but not as enlarged as a tuberous root tuber  ( po:0025476 )  .
+a plant cell  ( po:0009002 )  that develops from the archegonium central cell  ( po:0025509 )  ,  and lies at the base of the archegonium neck  ( po:0030039 )  ,  above the archegonium egg cell  ( po:0025122 )  in the venter  ( po:0030038 )  .
+a plant cell  ( po:0009002 )  that gives rise to one or more plant sperm cells  ( po:0000084 )  .
+a spermatogenous cell  ( po:0025525 )  of the microgametophyte  ( po:0025280 )  that divides to produce a vegetative cell and the  pollen sperm cell  ( po:0025121 )  .
+a vegetative plant cell  ( po:0009002 )  that develops from the division of the microspore  ( po:0020048 )  and is part of the microgametophyte of vascular plants other than angiosperms .
+a shoot axis  ( po:00025029 )  that develops in an unusual place .
+a portion of plant cuticle  ( po:000022 )  that forms a ridge ,  may be overlayed with epicuticular wax  ( po:0025388 )  .
+a trichome  ( po:0000282 )  that is a single plant cell  ( po:0009002 )  .
+a portion of plant substance  ( po:0025161 )  that is an aqueous solution that can be transported through the apoplast  ( go:0048046 )  or symplast  ( go:0055044 )  .
+a plant sap  ( po:0025538 )  that is an aqueous solution which may contain mineral elements ,  nutrients ,  and plant hormones ,  and is transported from the root system  ( po:0025025 )  toward the leaves through the tracheary elements  ( po:0000290 )  of the xylem .
+a plant sap  ( po:0025538 )  that is an aqueous solution which may contain sugars ,  mineral elements ,  and plant hormones ,  and is transported through the phloem sieve elements  ( po:0025406 )  .
+a ground tissue cell  ( po:0000076 )  that is part of a bundle sheath  ( po:0006023 )  .
+a chlorenchyma cell  ( po:0000076 )  that is part of a bundle sheath  ( po:0006023 )  .
+a plant cell  ( po:0009002 )  that is part of the tapetum  ( po:0025313 )  .
+a tapetum cell  ( po:0025543 )  that is part of a microsporangium tapetum  ( po:0025314 )  .
+a microsporangium tapetum cell  ( po:0025544 )  that is part of the anther wall tapetum  ( po:0009071 )  .
+a primary inflorescence branch  ( po:0006321 )  borne in the same axil  ( po:0025224 )   as an existing primary inflorescence branch  ( po:0006321 )  .
+a primary inflorescence branch  ( po:0006321 )  borne on the elongated first order inflorescence axis  ( po:0025104 )  .
+a primary inflorescence branch  ( po:0006321 )  borne on the compacted first order inflorescence axis  ( po:0025104 )  ,  forming the rosette .
+a plant structure  ( po:0009011 )  that is the apical most portion of a trichome apex  ( po:0025550 )  .
+a plant structure  ( po:0009011 )  that is the apical most portion of a trichome  ( po:0000282 )  .
+a portion of protoxylem  ( po:0000272 )  tissue in which the maturation of primary xylem of the shoot system progresses centrifugally with the oldest elements  ( protoxylem )  in the center of the axis .
+a portion of protoxylem  ( po:0000272 )  tissue in which the maturation of primary xylem  ( po:0005849 )  of the shoot system  ( po:0009006 )  progresses both centripetally and centrifugally from the center .
+a portion of protoxylem  ( po:0000272 )  tissue in which the maturation of primary xylem  ( po:0005849 )  progresses centripetally ,  the oldest elements  ( protoxylem )  are farthest from the center of the plant axis  ( po:0025004 )  .
+a portion of exarch protoxylem  ( po:002554 )  tissue in which the maturation of primary xylem  ( po:0005849 )  of the root system  ( po:0025025 )  progresses centripedally ,  with the oldest elements  ( protoxylem )  farthest from the center of the plant axis  ( po:0025004 )  .
+a portion of exarch protoxylem  ( po:002554 )  tissue in which the maturation of primary xylem  ( po:0005849 )  of the shoot system  ( po:0009006 )  progresses centripetally ,  with the oldest elements  ( protoxylem )  farthest from the center of the plant axis  ( po:0025004 )  .
+a portion of protoxylem  ( po:0000272 )  tissue in which the maturation of primary xylem  ( po:0005849 )  of the shoot system  ( po:0009006 )  progresses centrifugally ,  with the oldest elements  ( protoxylem )  towards the center of the plant axis  ( po:0025004 )  .
+a portion of root exarch protoxylem  ( po:0025555 )  tissue in which the primary xylem  ( po:0005849 )  of the root system  ( po:0025025 )  has only one protoxylem strand or pole ,  and differentiation progresses centripetally ,  with the oldest element  ( protoxylem )  farthest from the center of the plant axis  ( po:0025004 )  .
+a portion of root exarch protoxylem  ( po:0025555 )  tissue in which the primary xylem  ( po:0005849 )  of the root system  ( po:0025025 )  has two protoxylem strands or poles ,  and differentiation progresses centripetally ,  with the oldest elements  ( protoxylem )  farthest from the center of the plant axis  ( po:0025004 )  .
+a portion of root exarch protoxylem  ( po:0025555 )  tissue in which the primary xylem  ( po:0005849 )  of the root system  ( po:0025025 )  has three protoxylem strands or poles ,  and differentiation progresses centripetally ,  with the oldest elements  ( protoxylem )  farthest from the center of the plant axis  ( po:0025004 )  .
+a portion of root exarch protoxylem  ( po:0025555 )  tissue in which the primary xylem  ( po:0005849 )  of the root system  ( po:0025025 )   has four protoxylem strands or poles ,  and differentiation progresses centripetally ,  with the oldest elements  ( protoxylem )  farthest from the center of the plant axis  ( po:0025004 )  .
+a portion of root exarch protoxylem  ( po:0025555 )  tissue in which the primary xylem  ( po:0005849 )  of the root system  ( po:0025025 )  has five protoxylem strands or poles ,  and differentiation progresses centripetally ,  with the oldest elements  ( protoxylem )  farthest from the center of the plant axis  ( po:0025004 )  .
+a portion of root exarch protoxylem  ( po:0025555 )  tissue in which the primary xylem  ( po:0005849 )  of the root system  ( po:0025025 )   has more than five protoxylem strands or poles ,  and differentiation progresses centripetally ,  with the oldest elements  ( protoxylem )  farthest from the center of the plant axis  ( po:0025004 )  .
+a tapetum cell  ( po:0025543 )  that is part of a megasporangium tapetum  ( po:0025315 )  .
+a xylem sap  ( po:0025539 )  that is located in the shoot system  ( po:0009006 )  .
+a phloem sap  ( po:0025540 )  that is located in the shoot system  ( po:0009006 )  .
+a phloem sap  ( po:0025540 )  that is located in the root system  ( po:0025025 )  .
+a xylem sap  ( po:0025539 )  that is located in the root system  ( po:0025025 )  .
+a petal  ( po:0009032 )  that is part of a perianth  ( po:0009058 )  that contains fused sepals  ( po:0025584 )  and / or fused petals  ( po:0025583 )  ,  but is separate from the other sepals  ( po:0009031 )  and petals  ( po:0009032 )  .
+a primary xylem tracheary element  ( po:0025444 )  with predominately annular or helical secondary wall thickening that are the first formed tracheary elements  ( po:0000290 )  at a particular location .
+a primary xylem tracheary element  ( po:0025444 )  that may have helical ,  scalariform ,  reticulate and / or pitted secondary wall thickening .
+a flower bract  ( po:0009034 )  that is part of the epicalyx  ( po:0009063 )  .
+a perianth  ( po:0009058 )  in which one or more of the petals  ( po:0009032 )  ,  sepals  ( po:0009031 )  ,  and / or tepals  ( po:0009033 )  are fused  ( pato:0000642 )  .
+a corolla  ( po:0009059 )  that is composed of fused petals  ( po:0025583 )  .
+a calyx  ( po:0009060 )  that is composed of fused sepals  ( po:0025584 )  .
+a petal  ( po:0009032 )  that is part of a fused corolla  ( po:0025581 )  or a fused perianth  ( po:0025580 )  .
+a sepal  ( po:0009031 )  that is part of the fused calyx  ( po:0025582 )  or a fused perianth  ( po:0025580 )  .
+a sepal  ( po:0009031 )  that is part of a perianth  ( po:0009058 )  that contains fused sepals  ( po:0025584 )  and / or fused petals  ( po:0025583 )  ,  but is separate from the other sepals  ( po:0009031 )  and petals  ( po:0009032 )  .
+a chlorenchyma cell that is part of a chloronema and has cross walls of adjacent cells that are perpendicular to the protonema axis .
+a chlorenchyma cell that is part of a caulonema and has cross walls of adjacent cells that are oblique to the protonema axis .
+a portion of chlorenchyma tissue that develops directly from a spore and grows by division of an apical cell to form filaments that are one cell wide and dichotomously branching .
+a portion of protonema tissue that consists of only chloronema cells .
+a portion of protonema tissue that consists of only caulonema cells .
+a single meristematic cell at the tip of a plant structure where apical growth occurs .
+a sporophyte meristematic apical cell that is part of a root tip .
+a meristematic apical cell that is part of a shoot system .
+a shoot meristematic apical cell that is part of a shoot apex .
+a shoot meristematic apical cell that is part of a leaf apex .
+a leaf meristematic apical cell that is part of the leaf apex of a vascular leaf .
+a leaf meristematic apical cell that is part of a leaf apex of a non - vascular leaf .
+an apical cell that is part of a whole plant in the gametophytic phase .
+a meristematic apical cell that is part of a whole plant in the sporophytic phase .
+a shoot axis meristematic apical cell at the tip of a seta .
+a plant anatomical space that is the opening on the apical end of a spore capsule .
+a shoot system  ( po:0009006 )  that consists of the shoot axes  ( po:0025029 )  and non - vascular leaves  ( po:0025075 )  of a plant in the gametophytic phase .
+a shoot meristematic apical cell that is part of a gametophore .
+a shoot axis that is part of a gametophore .
+a branch that is part of a gametophore .
+a stem that is part of a gametophore .
+a shoot axis meristematic apical cell at the tip of a gametophore axis .
+a shoot axis meristematic apical cell at the tip of a shoot apex in a shoot system that has as part vascular tissue .
+a gametophyte apical cell that is part of a thallus .
+a vegetative bud that develops into a gametophore .
+a whole plant in the gametophytic phase that has a flat growth form and no distinct organs .
+a bract  ( po:0009055 )  that subtends an antheridium  ( po:0025125 )  .
+a plant organ that is the base of a whole plant in the sporophytic phase and attaches it to the gametophore .
+a bract  ( po:0009055 )  that subtends an archegonium  ( po:0025126 )  .
+a collective phyllome structure that consists of two or more of the most distal perichaetal bracts on a gametophore axis and surround a capsule .
+a stalk  ( po:0025066 )  that supports a spore capsule ,  the sporangium  ( po:0025094 )  .
+a stalk  ( po:0025066 )  that supports an antheridium head  ( po:0030075 )  .
+a stalk  ( po:0025066 )  that supports an archegonium head  ( po:0030034 )  .
+a stalk  ( po:0025066 )  that is the basal part of an antheridium  ( po:0025125 )  .
+a stalk that the basal part of an archegonium .
+a cardinal organ part  ( po:0025001 )  that develops from an archegonium  ( po:0025126 )  and is a cap or hood enclosing the sporangium  ( syn: spore capsule ;  po:0025094 )  .
+a cardinal organ part  ( po:0025001 )  that is the enlarged basal part of an archegonium  ( po:0025126 )  and has an archegonium egg cell  ( po:0025122 )  located in it .
+a cardinal organ part  ( po:0025001 )  that is the elongated ,  apical part of an archegonium  ( po:0025126 )  .
+a cardinal organ part that is the basal  ( distal )  part of a sporangium .
+a cardinal organ part that is the main body of a sporangium and has spores located in it .
+a single or double circle of peristome teeth inside a sporangium mouth .
+a cardinal organ part that is a single lobe of a peristome .
+a cardinal organ part that is the apical part of a spore capsule that separates from the rest of the capsule during dehiscence .
+a ground tissue cell with thickened cell walls .
+a gametophyte meristematic apical cell that is part of a protonema .
+a portion of plant tissue that has as parts hydroid cells and cells of no other types .
+a portion of plant tissue that has as parts leptoid cells and cells of no other types .
+a portion of ground tissue that is the sub - epidermal layer of a sporangium wall .
+a portion of ground tissue that has as parts stereid cells and no other cell types .
+a portion of plant tissue that is an axial strand in the center of a gametophore axis or seta and has as part a hydrome or a leptome .
+a plant cell that is part of an antheridium jacket layer .
+a portion of plant tissue  ( po:0009007 )  that is a single layer of cells on the outside of an antheridium  ( po:0025125 )  .
+a portion of parenchyma tissue that forms a circular membrane extending from a spore capsule columella and attached to the ends of the peristome teeth that covers a spore capsule mouth .
+a gametophore axis that is a leafless extension of a gametophore stem or branch on which a sporophyte is borne .
+a plant cell that divides to gives rise to a sporocyte and is part of a sporangium .
+a plant cell located at the base of a non - vascular leaf adjacent to where the leaf attaches to the stem .
+a plant cell that develops from a cell in a protonema and has a thick cell wall .
+a plant cell at the base of a gemma or adjacent to a brachycyte that breaks down to allow abscission of the gemma or brachycyte .
+an axillary hair that grows in a leaf axil of a non - vascular leaf .
+a portion of plant tissue that has as parts tmema cells .
+an axillary hair terminal cell that is the long terminal cell of a gametophore axillary hair .
+a axillary hair base that is the basal part of a gametophore axillary hair ,  below the gametophore axillary hair terminal cell .
+an axillary hair basal cell that is part of a gametophore axillary hair base .
+a plant cell  ( po:0009002 )   that is one of the axial row of cells in an immature archegonium neck  ( po:0030039 )  .
+a canal  ( po:0025132 )  in the center of an archegonium neck  ( po:0030039 )  .
+an protonema sub - apical initial that gives rise to a branch of a protonema .
+an epidermal initial that gives rise to an epidermal rhizoid .
+a portion of epidermal tissue that is an outgrowth from the epidermis between the leaves of a gametophore axis .
+a slender ,  usually uniseriate multicellular trichome  ( po:0025162 )  that grows intermixed with the gametangia .
+a rhizoid that develops from an epidermal rhizoid initial .
+a portion of plant tissue that is a single or double strand in the center of a non - vascular leaf and has as part hydrome or leptome .
+a portion of epidermis that is the outermost layer of a sporangium wall .
+a portion of plant tissue that is the internal part of a sporangium ,  bounded by the sporangium wall ,  and has as parts archesporial cells .
+a disk - shaped cardinal organ part  ( po:0025001 )  that is the apical portion of an antheridiophore  ( po:0030033 )  and bears antheridia  ( po:0025125 )  .
+an umbrella - shaped cardinal organ part that is the apical portion of an archegoniophore and bears archegonia .
+a protonema side branch initial that gives rise to a protonemal rhizoid .
+a plant structure  ( po:0009011 )  that is a uniseriate filament with positive geotropism that grows from an epidermis  ( po:0005679 )  or protonema  ( po:0030003 )  .
+a rhizoid that is part of a protonema and develops from a protonemal side branch rhizoid initial .
+a gametophyte meristematic apical cell that is part of a rhizoid .
+a protonema meristematic apical cell that is part of a caulonema .
+a protonema meristematic apical cell that is part of a chloronema .
+a protonema sub - apical initial hat gives rise to a gametophore bud .
+a portion of plant tissue that is the outer layer or layers of a sporangium early in sporangium development .
+a portion of ground tissue that is the tissue internal to an amphithecium early in sporangium development .
+an initial cell that is produced by longitudinal division of a sub - apical cell of a protonema .
+the assertion p preceded_by p1 tells us something about ps in general: that is ,  it tells us something about what happened earlier ,  given what we know about what happened later .

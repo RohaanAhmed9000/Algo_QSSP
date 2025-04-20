@@ -1,0 +1,212 @@
+cell
+gametogenesis period
+previtellogenic stage
+stage i oocyte growth stage
+stage ii oocyte growth stage
+stage iii oocyte growth stage
+oocyte meiotic maturation
+unfertilized egg stage
+spermatozoid stage
+one cell stage
+2 - cell stage
+4 - cell stage
+8 - cell stage
+16 - cell stage
+32 - cell stage
+64 - cell stage
+early blastula stage
+mid blastula stage
+late blastula stage
+very early gastrula stage
+early gastrula stage
+mid gastrula stage
+late gastrula stage
+planula p1 stage
+planula p2 stage
+planula p3 stage
+aged planula stage
+settled planula stage
+blob stage
+disc stage
+sculpted disc stage
+primary polyp stalk extension stage
+primary polyp developing head stage
+functional primary polyp stage
+colony phase
+stalk extenstion stage
+developing head stage
+functional gastrozoid stage
+gonozoid development
+growing gonozoid stage
+budding gonozoid stage
+non - budding gonozoid stage
+early medusa bud stage
+mid medusa bud stage
+late medusa bud stage
+4 - bulb medusa stage
+8 - bulb medusa stage
+12 - bulb medusa stage
+16 - bulb immature medusa stage
+mature adult medusa stage
+gastrula outer layer
+oral gastrula outer layer
+aboral gastrula outer layer
+lateral gastrula outer layer
+planula ectoderm
+oral planula ectoderm
+aboral planula ectoderm
+gastrula ingressing cells
+oral gastrula ingressing cells
+aboral gastrula ingressing cells
+planula endoderm
+aboral planula endoderm
+oral planula endoderm
+fertilized egg
+embryo
+cleaving embryo
+2 - cell embryo
+4 - cell embryo
+8 - cell embryo
+16 - cell embryo
+32 - cell embryo
+64 - cell embryo
+blastula
+early blastula
+mid blastula
+late blasutla
+gastrula
+very early gastrula
+early gastrula
+mid gastrula
+late gastrula
+planula larva
+planula p1
+planula p2
+planula p3
+aged planula
+metamorphosing planula
+settled planula
+blob
+disc
+sculpted disc
+spindle - associated
+animal cortex
+vegetal cortex
+vegetal cortex of oocyte
+vegetal cortex of egg
+animal cytoplasm of oocyte
+animal cytoplasm of egg
+blastomere
+spermatogonium
+spermatid
+spermatozoid
+oogonium
+oocyte
+growing oocyte
+fully grown oocyte
+gamete
+egg cell
+gland cell
+planula aboral gland cell
+planula gland cell
+manubrium gland cell
+gastrozoid gland cell
+interstitial cell
+stolon interstitial cell
+embryo interstitial cell
+planula interstitial cell
+gastrozoid interstitial cell
+gonozoid interstitial cell
+manubrium interstital cell
+nematoblast
+stolon nematoblast
+planula nematoblast
+tentacle bulb nemtoblast
+manubrium nematoblast
+nematocyte
+planula nematocyte
+medusa tentacle nematocyte
+manubrium nematocyte
+gastrozoid tentacle nematocyte
+neural cell
+planula neural cell
+planula lateral neural cells
+plaunula aboral ectoderm neural cells
+nerve cell of the radial canal
+nerve cell of the circular canal
+nerve cells of the gonad ectoderm
+nerve cell of the tentacle bulb
+subumbrella nervous cell
+smooth muscle cell
+smooth muscle of the velum
+subumbrella smooth muscle
+striated muscle cell
+striated muscle of the velum
+subumbrella striated muscle
+polyp colony
+stolon
+stolon growth tip
+stolon mesoglea
+stolon body
+stolon ectoderm
+stolon endoderm
+gonozoid
+gonozoid cap
+gonozoid central tube
+gonozoid ectoderm
+gonozoid endoderm
+epithelium covering buds
+medusa bud
+early medusa bud
+mid medusa bud
+late medusa bud
+entocodon
+developing manubrium
+developing tentacle bulbs
+developing radial canal
+developing striated muscle
+developing circular canal
+gastrozoid
+gastrozoid tentacle
+gastrozoid mouth
+theca
+gonotheca
+stolon perisarc
+hydrotheca
+mesoglea
+gonozoid mesoglea
+medusa
+umbrella
+exumbrella
+subumbrella
+subumbrella endodermal plate
+thick mesoglea layer of the umbrella
+bell margin
+statocyst
+medusa tentacle system
+medusa tentacle bud
+medusa tentacle bulb
+nematogenic ectoderm of the bulb
+non - nematogenic ectoderm of the bulb
+tentacle bulb endoderm
+medusa tentacle
+primary medusa tentacle
+secondary medusa tentacle
+medusa tentacle ectoderm
+medusa tentacle endoderm
+velum
+inner layer of the velum
+outerlater of the velum
+radial canal
+circular canal
+nerve ring
+inner nerve ring
+outer nerve ring
+manubrium
+medusa mouth
+manubrium roof
+manubrium ectoderm
+manubrium endoderm
+gonad
+gonad ectoderm
+gonad endoderm

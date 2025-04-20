@@ -1,0 +1,120 @@
+conditions
+control conditions
+generic control
+standard conditions
+experimental conditions
+biological treatment
+bacterial treatment
+fungal treatment
+germ free
+protozoan treatment
+viral treatment
+chemical treatment
+diet
+food availability
+fasting
+limited food availability
+unlimited food availability
+food content
+cholesterol content
+high cholesterol
+low cholesterol
+fat content
+high fat
+high saturated fat
+high monounsaturated fat
+low fat
+low trans fat
+low polyunsaturated fat
+protein content
+high protein
+low protein
+high sugar
+high fructose
+high glucose
+high sucrose
+low sugar
+low sucrose
+low fructose
+low glucose
+housing conditions
+open roofed
+overcrowding
+in vitro culture
+organ culture
+primary cell culture
+lighting conditions
+gravity
+mechanical stress
+temperature exposure
+stable temperature exposure
+cold exposure
+heat exposure
+temperature shock
+cold shock
+heat shock
+ablation
+chemical ablation
+light ablation
+resection
+amputation
+vaccine treatment
+laceration
+surgical manipulation
+xenotransplantation
+perforation
+abrasion
+contusion
+transection
+water quality
+carbon dioxide content
+oxygen content
+hyperoxia
+hypoxia
+acidic
+basic
+hypertonic
+hypotonic
+visible light
+ultraviolet light
+electromagnetic field
+electric field
+magnetic field
+high polysunsaturated fat
+high trans fat
+low saturated fat
+low monounsaturated fat
+physical alteration
+bacterial treatment by injection
+bacterial treatment by exposure to environment
+fungal treatment by injection
+fungal treatment by exposure to environment
+viral treatment by exposure to environment
+viral treatment by injection
+cancer xenotransplantation
+chemical treatment by injection
+chemical treatment by environment
+chemical treatment by diet
+carbohydrate content
+high carbohydrate
+low carbohydrate
+ultrasound
+light damage
+undercrowding
+increased food availability
+cold damage
+cryoablation
+nutrient decreased
+nutrient increased
+feeding regime
+gavage
+bacterial treatment by gavage
+chemical treatment by gavage
+bacterial treatment by diet
+cauterization
+thermal cauterization
+compression injury
+probiotic content
+microgravity
+regulates
+increased gravity

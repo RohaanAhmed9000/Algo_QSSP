@@ -1,0 +1,38 @@
+sbol visual symbol
+promoter symbol
+assembly scar symbol
+operator symbol
+cds symbol
+ribosome entry site symbol
+terminator symbol
+insulator symbol
+ribonuclease site symbol
+rna stability element symbol
+protease site symbol
+protein stability element symbol
+origin of replication symbol
+primer binding site symbol
+restriction enzyme recognition site symbol
+blunt restriction site symbol
+5' sticky restriction site symbol
+3' sticky restriction site symbol
+5' overhang symbol
+3' overhang symbol
+signature symbol
+user defined symbol
+dnacomponent
+collection
+dnasequence
+sequenceannotation
+type
+operator
+ribosome_entry_site
+terminator
+promoter
+origin_of_replication
+cds
+shine_dalgarno_sequence
+insulator
+kozak_sequence
+restriction_enzyme_recognition_site
+represents

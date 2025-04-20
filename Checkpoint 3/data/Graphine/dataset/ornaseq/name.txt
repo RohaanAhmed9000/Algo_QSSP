@@ -1,0 +1,137 @@
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+deoxyribonucleic acid
+molecular entity
+cell
+astrocyte
+brown fat cell
+neuron
+cardiac muscle cell
+central nervous system neuron
+replicate
+fastq format
+bam format
+genome
+transcriptome
+cel data file format
+sequencing run date
+sequencing kit
+library preparation kit
+cellular_component
+mitochondrion
+dendrite
+cell body
+cell part
+software
+model number
+data item
+symbol
+information content entity
+scalar measurement datum
+directive information entity
+algorithm
+data format specification
+plan specification
+measurement datum
+time measurement datum
+centrally registered identifier symbol
+software application
+document
+conceptual entity
+record
+identifier
+accession number
+unique identifier
+planned process
+material supplier role
+reference substance role
+processed material
+assay
+detector reagent role
+material processing
+participant under investigation role
+responsible party role
+principal investigator role
+worker role
+population
+biological replicate role
+investigation agent role
+reference subject role
+organization
+technical replicate role
+protocol
+polymerase chain reaction
+dna sequencing
+specimen collection process
+library preparation
+paired - end library
+measurement device
+manufacturer
+material separation device
+service provider role
+device
+sequence data
+spike - in quality control role
+age measurement datum
+age since birth measurement datum
+selectively maintained organism
+rna - seq assay
+cell specimen
+linear amplification
+specimen identifier
+transcript analysis by paired - end tag sequencing
+paired - end library preparation
+sequencing facility organization
+specimen collector
+value specification
+sequencing library multiplexing
+multiplexing sequence identifier
+single cell specimen
+bcl format
+ercc rna spike - in
+sirv rna spike - in
+srs identifier
+age since culture seeding measurement datum
+alignment counting algorithm
+alignment counting application
+base calling algorithm
+base calling application
+bcl2fastq software application
+date process started
+dbgap study identifier
+material amplification role
+material sequencing library preparation role
+number of pcr cycles during library construction
+number of rounds of amplification
+reference genome role
+reference genome - transcriptome alignment algorithm
+sequence read length measurement datum
+sequencing library input quantity measurement datum
+single - end library
+specimen harvest quantity
+spike - in dilution factor
+star algorithm
+transcript analysis by single - end sequencing
+verse algorithm
+microraft
+pipette
+organism
+specimen
+flow cytometer sorter
+dna sequencer
+sequencing assay
+enzymatic amplification
+pairwise sequence alignment algorithm
+blast algorithm
+sequence data format specification
+blastn
+rna sequence data
+treatment
+study principle investigator or responsible
+date of specimen collection
+reference_genome
+taxonomic_rank
+mereotopologically related to
+material anatomical entity

@@ -1,0 +1,39 @@
+the curation status of the term .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+the reason for which a term has been deprecated .
+a denotator type indicates how a term should be interpreted from an ontological perspective .
+a measurement datum that is the output of counting .
+the planned process of finding the number of elements in a finite set of objects .
+an identifier that denotes a drug product .
+a potential drug - drug interaction  ( pddi )  is an information content entity that specifies the possibility of a drug - drug interaction based on either reasonable extrapolation about drug - drug interaction mechanisms or a data item created by clinical studies ,  clinical observation or physiological experiment .
+a biological process that results in a clinically meaningful change to the response of at least one co - administrated drug .
+a planned process of administering more than one drug to the same individual over a specific time interval .
+an entity that is the result of a drug - drug interaction .
+an information content entity that is used to support or refute an assertion .
+a biological process that is the result of a drug - drug interaction .
+an identifier that denotes a set of drug identifiers .
+the role of a material entity to prevent ,  diagnose ,  treat ,  or study disease and / or its effects
+any process specifically pertinent to the functioning of integrated living units: cells ,  tissues ,  organs ,  and organisms .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device .
+an information content entity that is about factors known to affect the pharmacodynamics or pharmacokinetics of a drug .
+an information content entity that is about changes in the patient health status from baseline that can be observed or measured by a clinician or be reported by the patient .
+an information content entity that is about changes in patient health status from baseline that can be observed or measured by a clinician or reported by a patient and that may be the result of co - administration of two or more drugs that may interact .
+an information content entity that provides support for or refutation of a drug - drug interaction statement .
+an information content entity that is about the process or processes by which a drug - drug interaction clinical consequence occurs
+an information content entity that mentions both the number of individuals within a cohort that are experience a clinically relevant ddi effect over a specified time period and the total number of individuals in the cohort .
+an information content entity that mentions both the number of individuals within a cohort that are exposed to a drug - drug interaction over a specified time period and the total number of individuals in the cohort .
+an information content entity that describes an evidence - based strategy that should be adopted to mitigate the potential clinical consequences of a drug - drug interaction .
+an information content entity that reports the degree to which a clinical consequence of a drug - drug interaction results in harm determining the type and speed of clinician intervention needed .
+an information content entity about the intensity of a clinical consequence of a drug - drug interaction .
+an information content entity that is about some risk management  ( http: /  / purl .obolibrary .org / obo / ero_0000715 )  that has as a specified input an instance of a potential drug - drug interaction  ( http: /  / purl .obolibrary .org / obo / dideo_00000000 )  .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+a role that is realized through the execution of a study design in which the bearer of the role participates and in which data about that bearer is collected .
+a reference participant role realized by equivalent treatment of participants
+a reference subject  role which inheres in an organism or entity of organismal origin so that the characteristics or responses of the participant playing the reference participant role are used for comparison or reference
+a cohort role is a biological replicate role played by a group of study participants who share a common characteristic of interest to the study .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a representation that is either the output of a clinical history taking or a physical examination or an image finding ,  or some combination thereof .
+a series of statements representing health - relevant qualities of a patient and of a patient's family .
+a material entity that consists of two or more organisms ,  viruses ,  or viroids .

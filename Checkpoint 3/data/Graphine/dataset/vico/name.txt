@@ -1,0 +1,330 @@
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+gross anatomical part
+urea
+formaldehyde
+streptomycin
+lactose
+gentamycin
+sucrose
+molecular entity
+aspartame
+dextran
+monosodium glutamate
+neomycin
+thimerosal
+cardiomyopathy
+lymphoma
+heart disease
+hypersensitivity reaction type i disease
+leukemia
+guillain - barre syndrome
+diarrhea
+thrombocytopenia
+cancer
+anemia
+agammaglobulinemia
+dermatitis
+asthma
+food allergy
+thymoma
+disease
+hypersensitivity reaction type ii disease
+egg allergy
+kidney disease
+myocardial infarction
+congestive heart failure
+acquired immunodeficiency syndrome
+acne
+cerebrovascular disease
+ankylosing spondylitis
+rheumatoid arthritis
+lung disease
+impetigo
+herpes zoster
+chickenpox
+crohn's disease
+systemic lupus erythematosus
+diabetes mellitus
+geographic location
+united states of america
+territory of guam
+unincorporated territory  ( usa )
+american samoa
+united states virgin islands
+republic of the marshall islands
+commonwealth of puerto rico
+northern marianas
+territory of wake island
+united states minor outlying islands
+objective specification
+action specification
+data item
+symbol
+information content entity
+directive information entity
+curation status specification
+data about an ontology part
+plan specification
+textual entity
+document
+documenting
+informed consent form
+informed consent form design
+informed consent regulatory body
+study requiring informed consent
+consenter role
+review board approval number
+vaccination informed consent form
+question textual entity
+filled questionnaire
+answer option text entity
+yes answer text entity
+no answer text entity
+filling informed consent form
+filling questionnaire
+adverse event
+vaccine adverse event
+dizziness ae
+syncope ae
+guillain - barre syndrome ae
+serious adverse event
+planned process
+processed material
+investigation
+investigation agent role
+organization
+protocol
+material to be added role
+drawing a conclusion based on data
+planning
+target of material addition role
+study design execution
+informed consent process
+questionnaire
+conclusion based on data
+organism
+study design
+genome of bacteria
+genome of proteobacteria
+gene of bacteria
+gene of proteobacteria
+age
+biological sex
+female
+male
+quality of a single physical entity
+faint
+symptom
+rash
+wheezing
+dizziness
+fever
+low - grade fever
+high fever
+vomiting
+dyspnea
+mouth
+skeletal muscle tissue
+urinary bladder
+hypodermis
+skin of body
+manitoba vaccination informed consent form
+questionnaire for manitoba vaccination consent
+vaccination screening questionnaire
+question whether allergic to vaccine component
+filled questionnaire for costco vaccination consent
+filled questionnaire for walgreens vaccination consent
+vaccination patient
+costco vaccination informed consent form
+walgreens vaccination informed consent form
+questionnaire for walgreens vaccination  consent
+questionnaire for costco vaccination  consent
+household member of vaccination patient
+close physical contact person of vaccination patient
+newborn infant
+question whether currently sick
+allergy question
+question whether allergic to latex
+question whether allergic to food
+question whether allergic to egg
+question whether allergic to medication
+question whether allergic to vaccine
+question on reaction after immunization
+seizure disorder question
+immunocompromisation question
+question on woman pregnancy
+current treatment question
+cortisone treatment question
+x - ray treatment question
+question on vaccination in past 4 weeks
+question on tb skin test in past 4 weeks
+question on blood transfusion in past year
+question on high - dose steroid therapy for longer than 2 weeks
+question on thymus disease
+question on current antibiotics usage
+question on thrombocytopenia history
+question on current aspirin medication
+question on asthma or wheezing history
+question on serious nasal condition
+question on long - term health problem
+question on long - term heart disease
+question on cancer
+question on leukemia
+question on long - term lung disease
+filled questionnaire for manitoba seasonal influenza and pheumococcal  vaccination consent
+question on long - term metabolic disease
+question on long - term diabetes
+question on anemia
+question on aids
+prednisone treatment question
+steroids treatment question
+question on current anti - cancer drug usage
+question on whether fainted or felt dizzy after immunization
+question on transfusion of blood products in past year
+question on given immune  ( gamma )  globulin in last year
+question on history of thymoma
+question on previous thymectomy procedure
+question on current antimalarial medication
+question on seizure ,  brain ,  or nerve problem
+question on blood or blood product transfusion ,  or immune  ( gamma )  globulin in past year
+question on woman pregnancy now or during the next month
+question on cancer ,  leukemia ,  aids or any other immune system problem
+question whether currently sick with a moderate to high fever ,  vomiting / diarrhea
+question on any medication affecting blood clotting
+question on history of thrombocytopenia or thrombocytopenic purpura
+question on past vaccination information
+question on health provider precaution or warning of specific vaccination
+question whether had chickenpox
+5 year and younger vaccination patient
+question on respiratory illness
+question on current medication usage
+current health condition question
+sickness
+immunocompromised condition
+functional asplenia
+anatomical asplenia
+asplenia
+acquired immunocompromised condition due to transplant
+cerebrospinal fluid leak
+cochlear implant
+pregancy
+burns
+breastfeeding
+smoking behaviour
+unprotected sexual intercourse
+part of pathogen organism in vaccine
+vaccine
+vaccination
+bacillus anthracis vaccine
+dryvax
+neisseria meningitidis vaccine
+m - m - r ii
+m - m - vax
+fluzone high - dose
+proquad
+yellow fever virus vaccine
+vaccine adjuvant role
+bacterial vaccine
+vaccine organism live attenuated
+cancer vaccine
+vaccine component
+vaccine organism inactivated
+vaccine function
+intramuscular route
+intranasal route
+varicella - zoster virus live vaccine
+polyvalent pneumococcal vaccine
+preventive vaccine function
+active immunization
+vaccine immunization
+induction of adaptive immune response to antigen
+disorder prevention
+disorder treatment
+modification of adaptive immune response to antigen
+subcutaneous route
+human vaccinee
+therapeutic vaccine function
+route of administration
+thimerosal vaccine preservative
+h1n1 influenza vaccine
+vaccine adjuvant
+immunization objective
+vaccine preparation
+viral vaccine
+conjugate vaccine role
+licensed vaccine role
+clostridium vaccine
+clostridium tetani vaccine
+influenza virus vaccine
+hepatitis b virus vaccine
+hepatitis a virus vaccine
+yersinia pestis vaccine
+rabies virus vaccine
+smallpox virus vaccine
+measles virus vaccine
+rotavirus vaccine
+haemophilus vaccine
+poliovirus vaccine
+japanese encephalitis virus vaccine
+human papillomavirus vaccine
+varicella - zoster virus vaccine
+salmonella typhi vaccine
+streptococcus pneumoniae vaccine
+measles - mumps - rubella vaccine
+diphtheria - tetanus vaccine
+corynebacterium diphtheriae vaccine
+measles - mumps vaccine
+measles - mumps - rubella - vericella vaccine
+haemophilus b and hepatitis b vaccine
+vibrio cholerae vaccine
+bcg vaccine
+usa licensed vaccine role
+vaccine stabilizer
+cell culture residual in vaccine
+canada licensed vaccine role
+influvac
+vaxigrip
+aluminum vaccine adjuvant
+vaccine preservative role
+intradermal route
+vaccine allergen
+bovine albumin cell culture residual in vaccine
+bovine serum cell culture residual in vaccine
+monosodium glutamate stabliizer
+human albumin cell culture residual in vaccine
+human serum cell culture residual in vaccine
+polysorbate 80 vaccine emulsifier
+vaccine residual protein from cell culture
+sorbitol vaccine stabilizer
+sucrose albumin cell culture residual in vaccine
+yeast extract cell culture residual in vaccine
+yeast protein cell culture residual in vaccine
+tetanus toxoid  ( for boost use only )  by sanofi pasteur inc
+bacterial vaccine organism live attenuated
+viral vaccine organism live attenuated
+intramuscular vaccination
+vaccine host role
+vaccine target specification
+intranasal vaccination
+oral vaccination
+subcutaneous vaccination
+vaccine emulsifier role
+vaccine stabilizer role
+vaccine conjugate protein
+vaccine conjugate role
+intravesical vaccination
+eolarix
+mutacol
+priorix
+priorix - tetra
+haemophilus influenzae vaccine
+tick - borne encephalitis virus  ( tbev )  vaccine

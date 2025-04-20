@@ -1,0 +1,44 @@
+material entity
+evidence
+experimental evidence
+author statement supported by traceable reference
+author statement
+biological_process
+protein - containing complex
+mhc protein complex
+information content entity
+mhc locus
+mhc haplotype
+serotype
+mhc serotype
+mhc protein complex with haplotype
+mhc protein complex with serotype
+mutant mhc protein complex
+inferred mhc restriction evidence
+inferred mhc restriction based on traceable author statement
+inferred mhc restriction based on mhc ligand assay
+inferred mhc restriction based on single mhc available in t cell assay
+inferred mhc restriction based on set of mhc  available in t cell assay
+inferred mhc restriction based on pattern of reactivity of same t cells with different mhc in t cell assay
+inferred mhc restriction based on type of effector t cell utilized in t cell assay
+inferred mhc restriction based on type of biological process measured in t cell assay
+inferred mhc restriction based on pattern of donor reactivity with different mhc in t cell assay
+inferred mhc restriction based on mhc binding prediction
+mhc chain expression evidence
+evidence of mhc chain expression questionable
+evidence of mhc chain expression not observed
+evidence of mhc chain expression observed
+evidence of mhc chain expression observed in  > 1% of the population
+beta - 2 - microglobulin locus
+binding
+organism
+epitope
+epitope binding by adaptive immune receptor
+assay measuring binding of a t cell epitope:mhc:tcr complex
+mhc:epitope complex binding to tcr
+immune epitope assay
+protein
+beta - 2 - microglobulin
+genetic locus
+haplotype_block
+haplotype

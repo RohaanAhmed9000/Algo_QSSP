@@ -1,0 +1,192 @@
+continuant
+occurrent
+independent continuant
+dependent continuant
+process
+realizable entity
+quality
+specifically dependent continuant
+role
+generically dependent continuant
+material entity
+deoxyribonucleic acids
+molecular entity
+nucleic acid
+ribonucleic acids
+amino acids
+macromolecule
+objective specification
+action specification
+datum label
+software
+data item
+symbol
+information content entity
+directive information entity
+algorithm
+curation status specification
+data format specification
+data set
+data about an ontology part
+plan specification
+measurement datum
+textual entity
+document
+crid symbol
+planned process
+quantitative confidence value
+organization
+primary structure of dna macromolecule
+primary structure of rna molecule
+record of missing knowledge
+service consumer role
+service provider role
+sequence data
+service
+dna sequence data
+organism
+data transformation
+sequence analysis objective
+data transformation objective
+digital document name
+file extension
+metadata of data format specification
+mime type specification
+clustering algorithm
+sequence similarity identification objective
+pairwise sequence alignment algorithm
+multiple sequence alignment algorithm
+gap separation distance setting specification
+end gap separation penalty setting specification
+number of iterations setting specification
+iteration strategy setting specification
+algorithm identifier
+multiple sequence alignment guide tree
+retrieve alignment result objective
+web service execution identifier
+multiple sequence alignment data set
+web service execution title
+filter sequence data
+gap creation penalty setting specification
+dna substitution matrix
+protein distance matrix
+compute protein evolution distance execution
+gap extension penalty setting specification
+construct phylip neighbor tree execution
+phylip execution
+get web service execution status
+clustalw execution
+get supported output data format
+retrieve alignment result execution
+web service
+amino acid substitution matrix
+software execution
+scoring matrix
+gap penalty setting specification
+invoke software execution over network objective
+number of match regions setting specification
+fast pairwise alignment scoring method setting specification
+alignment window size setting specification
+alignment word size setting specification
+multiple sequence alignment objective
+pairwise sequence alignment objective
+number of top combinations setting specification
+pairwise alignment sensitivity setting specification
+pairwise alignment statistical model setting specification
+pairwise alignment data format specification
+low complexity sequence filter algorithm identifier
+sequence filter algorithm identifier
+inclusion of filtered sequences setting specification
+maximum match score setting specification
+sequence range setting specification
+maximum number of matched alignments setting specification
+gene strand specifier
+drop - off score setting specification
+sequence database for similarity search
+pairwise alignment hits ordering setting specification
+protein sequence data
+data format specification identifier
+sequence similarity expectation value
+retrieve signal peptide result
+blast execution
+signal peptide prediction algorithm
+predicted protein signatures data set
+blast algorithm
+pairwise sequence alignment data transformation
+local pairwise sequence alignment data transformation
+global multiple sequence alignment data transformation
+check web service execution status objective
+record of missing annotation
+match mismatch scores setting specification
+blast analysis data transformation
+sequence identifier
+gaps alignment setting specification
+matrix
+fetch sequences execution
+predict signal peptides
+predict signal peptide cleavage sites objective
+web service execution
+sequence data format specification
+fetch sequences objective
+display histograms setting specification
+slow pairwise sequence alignment data transformation
+multiple sequence alignment data transformation
+lower triangular matrix
+sequence alignment data set
+sequence alignment data format specification
+multiple sequence alignment data format specification
+order of sequences in alignment setting specification
+web service execution status
+fast pairwise sequence alignment data transformation
+filter sequence data objective
+retrieve signal peptide result objective
+display multiple hsps setting specification
+retrieve supported output data format objective
+base64 encoding specification
+protein signature recognition algorithm
+retrieve web service execution result
+signal peptide prediction score
+signal peptide prediction threshold value
+identify protein signature execution
+software execution setting specification
+signal peptides prediction outcome
+comma separated values data format specification
+identify protein signature objective
+retrieve web service execution result objective
+predicted signal peptide cleavage sites data set
+phylip execution identifier
+construct phylogenetic trees objective
+consensus tree construction algorithm
+phylogenetic tree
+evolution based amino acid substitution matrix
+compute protein evolution distance objective
+consensus tree
+genetic code
+construct consensus tree execution
+transcript sequence data
+minimum signalp d score setting specification
+minimum signalp sum score setting specification
+minimum signalp probability setting specification
+any or all signalp setting specification
+find genes objective
+find genes by taxonomy execution
+gene locus tag
+rna sequence data
+coding sequence data
+protein sequence length
+find genes using signal peptide execution
+genomic location of gene
+find genes by locus tag execution
+maximum isoelectric point setting secification
+minimum isoelectric point setting specification
+epitope confidence setting specification
+find genes by transmembrane domain execution
+find genes with epitopes execution
+find genes by molecular weight execution
+minimum molecular weight setting specification
+maximum molecular weight setting specification
+maximum number of predicted transmembrane domains setting specification
+find genes by isoelectric point execution
+region
+polypeptide
+polymer_attribute

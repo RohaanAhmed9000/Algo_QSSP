@@ -1,0 +1,304 @@
+qualifier
+abnormal
+decreased
+increased
+absent
+mutant_type
+misexpression
+overexpression
+activation
+gain of function
+null
+repressible
+reduction of function
+conditional
+unspecified
+not yet recorded
+observable
+experiment_type
+systematic null mutation set
+classical genetics
+competitive growth
+protein activity
+development
+budding
+axial budding pattern
+bipolar budding pattern
+filamentous growth
+invasive growth
+pseudohyphal growth
+lifespan
+sexual cycle
+mating response
+cell fusion
+mating efficiency
+nuclear fusion during mating
+pheromone production
+pheromone sensitivity
+shmoo formation
+meiosis
+meiotic recombination
+sporulation
+spore germination
+spore wall formation
+sporulation efficiency
+sterile
+silencing
+transposable element transposition
+virulence
+morphology
+cellular morphology
+cell shape
+cell size
+cell wall morphology
+cytoskeleton morphology
+mitochondrial morphology
+bud neck morphology
+nuclear morphology
+peroxisomal morphology
+vacuolar morphology
+colony appearance
+colony color
+colony shape
+colony size
+liquid culture appearance
+flocculation
+cellular processes
+cell cycle arrest in g1 phase
+cell cycle arrest at g2 phase
+cell cycle arrest at start
+cell cycle arrest
+cytokinesis
+mitotic cell cycle
+intracellular transport
+autophagy
+endocytosis
+mitochondrial transport
+nuclear transport
+protein secretion
+vacuolar transport
+stress resistance
+killer toxin resistance
+osmotic stress resistance
+oxidative stress resistance
+radiation resistance
+uv resistance
+x ray resistance
+resistance to chemicals
+drug resistance
+budding index
+metal resistance
+starvation resistance
+temperature sensitive growth
+thermotolerance
+metabolism and growth
+chemical compound accumulation
+nutrient utilization
+auxotrophy
+utilization of carbon source
+utilization of nitrogen source
+nutrient uptake
+fermentative metabolism
+respiratory metabolism
+respiratory growth rate
+mitochondrial rho -  mutation frequency
+mitochondrial genome maintenance
+vegetative growth
+growth rate in exponential phase
+growth rate in post - diauxic phase
+survival rate in stationary phase
+competitive fitness
+viability
+inviable
+viable
+large - scale survey
+other method
+other mutant type
+normal
+nuclear position
+size of nucleus
+actin cytoskeleton morphology
+bud direction
+cell cycle arrest in m phase
+recovery from pheromone - induced cell cycle arrest
+pheromone - induced cell cycle arrest
+utilization of phosphorus source
+nuclear import
+nuclear export
+peroxisomal transport
+protein transport
+small molecule transport
+protein / peptide modification
+rna localization
+cell cycle arrest in metaphase
+cell cycle arrest at the metaphase  -  anaphase transition
+cell cycle arrest in anaphase
+cell cycle arrest in early anaphase
+cell cycle arrest in mid anaphase
+cell cycle arrest in late anaphase
+cell cycle arrest in telophase
+cell cycle arrest in g0  ( stationary phase )
+critical cell size at start  ( g1 cell - size checkpoint )
+critical cell size at g2 / m  ( cryptic g2 / m cell size checkpoint )
+chromosome / plasmid maintenance
+telomere length
+oxidative phosphorylation
+systematic repressible mutation set
+heat sensitivity
+cold sensitivity
+protein / peptide accumulation
+null homozygous diploid
+null heterozygous diploid
+haploinsufficient
+petite
+petite - negative
+apoptosis
+fermentative growth rate
+utilization of iron source
+culture appearance
+biofilm formation
+multiple
+resistance to enzymatic treatment
+ionizing radiation resistance
+gamma ray resistance
+mating type switching
+colony sectoring
+mutation frequency
+chitin deposition
+budding pattern
+acid ph resistance
+alkaline ph resistance
+hypoosmotic stress resistance
+hyperosmotic stress resistance
+ionic stress resistance
+heterozygous diploid
+homozygous diploid
+chromosome segregation
+protein / peptide distribution
+anaerobic metabolism
+anaerobic growth rate
+bud morphology
+spindle morphology
+position of spindle pole body
+toxin resistance
+fitness
+essentiality
+redox state
+utilization of sulfur source
+necrotic cell death
+septum formation
+chemical compound excretion
+mating projection morphology
+rna accumulation
+mitotic recombination
+subcellular morphology
+cell cycle arrest in s phase
+dominant negative
+homozygous diploid ,  large - scale survey
+heterozygous diploid ,  large - scale survey
+homozygous diploid ,  competitive growth
+heterozygous diploid ,  competitive growth
+systematic mutation set
+homozygous diploid ,  systematic mutation set
+heterozygous diploid ,  systematic mutation set
+cell cycle arrest at the g2 / m phase transition
+pexophagy
+mitophagy
+freeze - thaw resistance
+lipid particle morphology
+golgi morphology
+decreased rate
+increased rate
+decreased duration
+increased duration
+delayed
+arrested
+premature
+normal rate
+cell cycle progression
+cell cycle progression in g2 phase
+cell cycle progression in g1 phase
+cell cycle passage through start
+cell cycle progression through the g2 / m phase transition
+cell cycle progression in m phase
+cell cycle passage through the metaphase - anaphase transition
+cell cycle progression in anaphase
+cell cycle progression in early anaphase
+cell cycle progression in mid anaphase
+cell cycle progression in late anaphase
+cell cycle progression in metaphase
+cell cycle progression in telophase
+cell cycle progression in s phase
+entry into g0  ( stationary phase )
+exit from g0  ( stationary phase )
+cell cycle progression through the g1 / s phase transition
+endoplasmic reticulum morphology
+rna modification
+nucleolar morphology
+prion state
+prion inheritance
+prion formation
+prion loss
+normal duration
+haploid ,  classical genetics
+haploid ,  competitive growth
+haploid ,  large - scale survey
+aneuploid ,  classical genetics
+aneuploid ,  large - scale survey
+aneuploid ,  competitive growth
+haploid ,  systematic mutation set
+aneuploid ,  systematic mutation set
+interaction with host / environment
+adhesion
+response to light
+allergy induction
+formation of anatomical structure
+secondary metabolite production
+utilization of zinc source
+utilization of magnesium source
+conidiation
+organelle distribution
+mitochondrial distribution
+peroxisomal distribution
+vacuolar distribution
+endoplasmic reticulum distribution
+golgi distribution
+vesicle distribution
+endomembrane system morphology
+heterozygous diploid ,  classical genetics
+homozygous diploid ,  classical genetics
+conidial germination
+anaerobic growth
+fermentative growth
+respiratory growth
+growth in exponential phase
+growth in post - diauxic phase
+cell death
+autolysis
+cell lysis
+plasma membrane morphology
+chronological lifespan
+replicative lifespan
+affinity capture - luminescence
+chlamydospore formation
+germ tube formation
+phenotypic switching
+resistance to killing by host cells
+resistance to phagocytosis
+desiccation resistance
+hydrostatic pressure resistance
+unknown ploidy ,  classical genetics
+induction of host response
+haploproficient
+capsule formation
+peg formation
+acquired thermotolerance
+innate thermotolerance
+size of nucleolus
+aneuploidy
+polyploidy
+micronucleophagy
+ribophagy
+reticulophagy
+nucleophagy
+late nucleophagy

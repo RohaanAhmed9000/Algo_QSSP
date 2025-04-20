@@ -1,0 +1,850 @@
+has_value_type
+is_assessed_by
+is_opposite_of
+is_timed_observation_of
+is_duration_of
+is_probability_of
+has_nominal_value
+has_canonical_value
+psychosocial health - related concept
+quality of life
+efficacy
+nutritional status
+healthcare resource utilization
+performance status
+sexual function
+costs
+safety
+adherence
+tolerability
+toxicity
+adverse events
+has regional disease
+has metastasis
+overall survival
+disease progression
+treatment response
+disease - free survival
+has disease
+event - free survival
+event
+treatment failure
+relapse
+complete response
+recurrence
+pathologic complete response
+best overall response
+clinical response
+mortality
+stable disease
+psa progression
+pain
+immune response
+side effects
+death
+patient reported outcomes
+morbidity
+fatigue
+infections
+remission
+complications
+body mass index
+bone mineral density
+pathological response
+hospital stay
+serious adverse events
+postoperative pain
+resection
+pain intensity
+blood loss
+depression
+karnofsky performance status
+immune - related progression
+partial response
+deterioration
+weight
+erythema
+tumor markers
+visual analogue scale
+on treatment
+edema
+menopausal symptoms
+brief pain inventory
+weight loss
+clinical complete response
+circulating tumor cells
+activities of daily living
+hematologic improvement
+pain relief
+cognitive function
+anxiety
+expanded prostate cancer index composite
+hypopigmentation
+hyperpigmentation
+symptomatic skeletal event
+flatus
+cardiac toxicity
+bleeding
+breast cancer
+physical function
+ecog performance status
+quality adjusted life years
+injection site reaction
+brief fatigue inventory
+neurotoxicity
+surgical site infection
+nausea and vomiting
+nausea
+bone pain
+national cancer institute common terminology criteria for adverse events
+response evaluation criteria in solid tumors
+surgery - related concept
+dermatologic concept
+anemia
+bone marrow hypocellular
+disseminated intravascular coagulation
+febrile neutropenia
+hemolysis
+hemolytic uremic syndrome
+leukocytosis
+lymph node pain
+spleen disorder
+thrombotic thrombocytopenic purpura
+acute coronary syndrome
+aortic valve disease
+asystole
+atrial fibrillation
+atrial flutter
+atrioventricular block complete
+atrioventricular block first degree
+chest pain  -  cardiac
+conduction disorder
+constrictive pericarditis
+heart failure
+left ventricular systolic dysfunction
+mitral valve disease
+mobitz  ( type )  ii atrioventricular block
+mobitz type i
+myocardial infarction
+myocarditis
+palpitations
+paroxysmal atrial tachycardia
+pericardial effusion
+pericardial tamponade
+pericarditis
+pulmonary valve disease
+restrictive cardiomyopathy
+right ventricular dysfunction
+sick sinus syndrome
+sinus bradycardia
+sinus tachycardia
+supraventricular tachycardia
+tricuspid valve disease
+ventricular arrhythmia
+ventricular fibrillation
+ventricular tachycardia
+wolff - parkinson - white syndrome
+ear pain
+external ear inflammation
+external ear pain
+hearing impaired
+middle ear inflammation
+tinnitus
+vertigo
+vestibular disorder
+adrenal insufficiency
+cushingoid
+delayed puberty
+growth accelerated
+hyperparathyroidism
+hyperthyroidism
+hypoparathyroidism
+hypothyroidism
+precocious puberty
+virilization
+blurred vision
+cataract
+conjunctivitis
+corneal ulcer
+dry eye
+extraocular muscle paresis
+eye pain
+eyelid function disorder
+flashing lights
+floaters
+glaucoma
+keratitis
+night blindness
+optic nerve disorder
+papilledema
+photophobia
+retinal detachment
+retinal tear
+retinal vascular disorder
+retinopathy
+scleral disorder
+uveitis
+vitreous hemorrhage
+watering eyes
+abdominal distension
+abdominal pain
+anal fistula
+anal hemorrhage
+anal mucositis
+anal necrosis
+anal pain
+anal stenosis
+anal ulcer
+ascites
+bloating
+cecal hemorrhage
+cheilitis
+colitis
+colonic fistula
+colonic hemorrhage
+colonic obstruction
+colonic perforation
+colonic stenosis
+colonic ulcer
+constipation
+dental caries
+diarrhea
+dry mouth
+duodenal fistula
+duodenal hemorrhage
+duodenal obstruction
+duodenal perforation
+duodenal stenosis
+duodenal ulcer
+dyspepsia
+dysphagia
+enterocolitis
+enterovesical fistula
+esophageal fistula
+esophageal hemorrhage
+esophageal necrosis
+esophageal obstruction
+esophageal pain
+esophageal perforation
+esophageal stenosis
+esophageal ulcer
+esophageal varices hemorrhage
+esophagitis
+fecal incontinence
+flatulence
+gastric fistula
+gastric hemorrhage
+gastric necrosis
+gastric perforation
+gastric stenosis
+gastric ulcer
+gastritis
+gastroesophageal reflux disease
+gastrointestinal fistula
+gastrointestinal pain
+gastroparesis
+gingival pain
+hemorrhoidal hemorrhage
+hemorrhoids
+ileal fistula
+ileal hemorrhage
+ileal obstruction
+ileal perforation
+ileal stenosis
+ileal ulcer
+ileus
+intra - abdominal hemorrhage
+jejunal fistula
+jejunal hemorrhage
+jejunal obstruction
+jejunal perforation
+jejunal stenosis
+jejunal ulcer
+lip pain
+lower gastrointestinal hemorrhage
+malabsorption
+mucositis oral
+obstruction gastric
+oral cavity fistula
+oral dysesthesia
+oral hemorrhage
+oral pain
+pancreatic duct stenosis
+pancreatic fistula
+pancreatic hemorrhage
+pancreatic necrosis
+pancreatitis
+periodontal disease
+peritoneal necrosis
+proctitis
+rectal fistula
+rectal hemorrhage
+rectal mucositis
+rectal necrosis
+rectal obstruction
+rectal pain
+rectal perforation
+rectal stenosis
+rectal ulcer
+retroperitoneal hemorrhage
+salivary duct inflammation
+salivary gland fistula
+small intestinal mucositis
+small intestinal obstruction
+small intestinal perforation
+small intestinal stenosis
+small intestine ulcer
+stomach pain
+tooth development disorder
+tooth discoloration
+toothache
+typhlitis
+upper gastrointestinal hemorrhage
+vomiting
+chills
+death neonatal
+edema face
+edema limbs
+edema trunk
+facial pain
+fever
+flu like symptoms
+gait disturbance
+hypothermia
+infusion related reaction
+infusion site extravasation
+irritability
+localized edema
+malaise
+multi - organ failure
+neck edema
+non - cardiac chest pain
+sudden death nos
+bile duct stenosis
+biliary fistula
+cholecystitis
+gallbladder fistula
+gallbladder necrosis
+gallbladder obstruction
+gallbladder pain
+gallbladder perforation
+hepatic failure
+hepatic hemorrhage
+hepatic necrosis
+hepatic pain
+perforation bile duct
+portal hypertension
+portal vein thrombosis
+allergic reaction
+anaphylaxis
+autoimmune disorder
+cytokine release syndrome
+serum sickness
+abdominal infection
+anorectal infection
+appendicitis
+appendicitis perforated
+arteritis infective
+biliary tract infection
+bladder infection
+bone infection
+breast infection
+bronchial infection
+catheter related infection
+cecal infection
+cervicitis infection
+conjunctivitis infective
+corneal infection
+cranial nerve infection
+device related infection
+duodenal infection
+encephalitis infection
+encephalomyelitis infection
+endocarditis infective
+endophthalmitis
+enterocolitis infectious
+esophageal infection
+eye infection
+gallbladder infection
+gum infection
+hepatic infection
+hepatitis viral
+infective myositis
+joint infection
+kidney infection
+laryngitis
+lip infection
+lung infection
+lymph gland infection
+mediastinal infection
+meningitis
+mucosal infection
+nail infection
+ovarian infection
+pancreas infection
+papulopustular rash
+paronychia
+pelvic infection
+penile infection
+periorbital infection
+peripheral nerve infection
+peritoneal infection
+pharyngitis
+phlebitis infective
+pleural infection
+prostate infection
+rash pustular
+rhinitis infective
+salivary gland infection
+scrotal infection
+sepsis
+sinusitis
+skin infection
+small intestine infection
+soft tissue infection
+splenic infection
+stoma site infection
+tooth infection
+tracheitis
+upper respiratory infection
+urethral infection
+urinary tract infection
+uterine infection
+vaginal infection
+vulval infection
+wound infection
+ankle fracture
+aortic injury
+arterial injury
+biliary anastomotic leak
+bladder anastomotic leak
+bruising
+burn
+dermatitis radiation
+esophageal anastomotic leak
+fall
+fallopian tube anastomotic leak
+fallopian tube perforation
+fracture
+gastric anastomotic leak
+gastrointestinal anastomotic leak
+gastrointestinal stoma necrosis
+hip fracture
+injury to carotid artery
+injury to inferior vena cava
+injury to jugular vein
+injury to superior vena cava
+intestinal stoma leak
+intestinal stoma obstruction
+intestinal stoma site bleeding
+intraoperative arterial injury
+intraoperative breast injury
+intraoperative cardiac injury
+intraoperative ear injury
+intraoperative endocrine injury
+intraoperative gastrointestinal injury
+intraoperative head and neck injury
+intraoperative hemorrhage
+intraoperative hepatobiliary injury
+intraoperative musculoskeletal injury
+intraoperative neurological injury
+intraoperative ocular injury
+intraoperative renal injury
+intraoperative reproductive tract injury
+intraoperative respiratory injury
+intraoperative skin injury
+intraoperative splenic injury
+intraoperative urinary injury
+intraoperative venous injury
+kidney anastomotic leak
+large intestinal anastomotic leak
+pancreatic anastomotic leak
+pharyngeal anastomotic leak
+postoperative hemorrhage
+postoperative thoracic procedure complication
+prolapse of intestinal stoma
+prolapse of urostomy
+radiation recall reaction  ( dermatologic )
+rectal anastomotic leak
+seroma
+small intestinal anastomotic leak
+spermatic cord anastomotic leak
+spinal fracture
+stenosis of gastrointestinal stoma
+stomal ulcer
+tracheal hemorrhage
+tracheal obstruction
+tracheostomy site bleeding
+ureteric anastomotic leak
+urethral anastomotic leak
+urostomy leak
+urostomy obstruction
+urostomy site bleeding
+urostomy stenosis
+uterine anastomotic leak
+uterine perforation
+vaginal anastomotic leak
+vas deferens anastomotic leak
+vascular access complication
+venous injury
+wound complication
+wound dehiscence
+wrist fracture
+activated partial thromboplastin time prolonged
+alanine aminotransferase increased
+alkaline phosphatase increased
+aspartate aminotransferase increased
+blood antidiuretic hormone abnormal
+blood bilirubin increased
+blood corticotrophin decreased
+blood gonadotrophin abnormal
+blood prolactin abnormal
+carbon monoxide diffusing capacity decreased
+cardiac troponin i increased
+cardiac troponin t increased
+cd4 lymphocytes decreased
+cholesterol high
+cpk increased
+creatinine increased
+ejection fraction decreased
+electrocardiogram qt corrected interval prolonged
+fibrinogen decreased
+forced expiratory volume decreased
+ggt increased
+growth hormone abnormal
+haptoglobin decreased
+hemoglobin increased
+inr increased
+lipase increased
+lymphocyte count decreased
+lymphocyte count increased
+neutrophil count decreased
+pancreatic enzymes decreased
+platelet count decreased
+serum amylase increased
+urine output decreased
+vital capacity abnormal
+weight gain
+white blood cell decreased
+acidosis
+alcohol intolerance
+alkalosis
+anorexia
+dehydration
+glucose intolerance
+hypercalcemia
+hyperglycemia
+hyperkalemia
+hypermagnesemia
+hypernatremia
+hypertriglyceridemia
+hyperuricemia
+hypoalbuminemia
+hypocalcemia
+hypoglycemia
+hypokalemia
+hypomagnesemia
+hyponatremia
+hypophosphatemia
+iron overload
+obesity
+tumor lysis syndrome
+abdominal soft tissue necrosis
+arthralgia
+arthritis
+avascular necrosis
+back pain
+buttock pain
+chest wall pain
+exostosis
+fibrosis deep connective tissue
+flank pain
+generalized muscle weakness
+growth suppression
+head soft tissue necrosis
+joint effusion
+joint range of motion decreased
+joint range of motion decreased cervical spine
+joint range of motion decreased lumbar spine
+kyphosis
+lordosis
+muscle weakness left - sided
+muscle weakness lower limb
+muscle weakness right - sided
+muscle weakness trunk
+muscle weakness upper limb
+musculoskeletal deformity
+myalgia
+myositis
+neck pain
+neck soft tissue necrosis
+osteonecrosis of jaw
+osteoporosis
+pain in extremity
+pelvic soft tissue necrosis
+scoliosis
+soft tissue necrosis lower limb
+soft tissue necrosis upper limb
+superficial soft tissue fibrosis
+trismus
+unequal limb length
+leukemia secondary to oncology chemotherapy
+myelodysplastic syndrome
+treatment related secondary malignancy
+tumor pain
+abducens nerve disorder
+accessory nerve disorder
+acoustic nerve disorder nos
+akathisia
+amnesia
+aphonia
+arachnoiditis
+ataxia
+brachial plexopathy
+central nervous system necrosis
+cerebrospinal fluid leakage
+cognitive disturbance
+concentration impairment
+depressed level of consciousness
+dizziness
+dysarthria
+dysesthesia
+dysgeusia
+dysphasia
+edema cerebral
+encephalopathy
+extrapyramidal disorder
+facial muscle weakness
+facial nerve disorder
+glossopharyngeal nerve disorder
+headache
+hydrocephalus
+hypersomnia
+hypoglossal nerve disorder
+intracranial hemorrhage
+ischemia cerebrovascular
+ivth nerve disorder
+lethargy
+leukoencephalopathy
+memory impairment
+meningismus
+movements involuntary
+myelitis
+neuralgia
+nystagmus
+oculomotor nerve disorder
+olfactory nerve disorder
+paresthesia
+peripheral motor neuropathy
+peripheral sensory neuropathy
+phantom pain
+presyncope
+pyramidal tract syndrome
+radiculitis
+recurrent laryngeal nerve palsy
+reversible posterior leukoencephalopathy syndrome
+seizure
+sinus pain
+somnolence
+spasticity
+stroke
+syncope
+transient ischemic attacks
+tremor
+trigeminal nerve disorder
+vagus nerve disorder
+vasovagal reaction
+fetal death
+fetal growth retardation
+premature delivery
+unintended pregnancy
+agitation
+anorgasmia
+confusion
+delayed orgasm
+delirium
+delusions
+euphoria
+hallucinations
+insomnia
+libido decreased
+libido increased
+mania
+personality change
+psychosis
+restlessness
+suicidal ideation
+suicide attempt
+acute kidney injury
+bladder perforation
+bladder spasm
+chronic kidney disease
+cystitis noninfective
+hematuria
+hemoglobinuria
+proteinuria
+renal calculi
+renal colic
+renal hemorrhage
+urinary fistula
+urinary frequency
+urinary incontinence
+urinary retention
+urinary tract obstruction
+urinary tract pain
+urinary urgency
+urine discoloration
+azoospermia
+breast atrophy
+breast pain
+dysmenorrhea
+dyspareunia
+ejaculation disorder
+erectile dysfunction
+fallopian tube obstruction
+fallopian tube stenosis
+female genital tract fistula
+feminization acquired
+genital edema
+gynecomastia
+hematosalpinx
+irregular menstruation
+lactation disorder
+menorrhagia
+nipple deformity
+oligospermia
+ovarian hemorrhage
+ovarian rupture
+ovulation pain
+pelvic floor muscle weakness
+pelvic pain
+penile pain
+perineal pain
+premature menopause
+prostatic hemorrhage
+prostatic obstruction
+prostatic pain
+scrotal pain
+spermatic cord hemorrhage
+spermatic cord obstruction
+testicular disorder
+testicular hemorrhage
+testicular pain
+uterine fistula
+uterine hemorrhage
+uterine obstruction
+uterine pain
+vaginal discharge
+vaginal dryness
+vaginal fistula
+vaginal hemorrhage
+vaginal inflammation
+vaginal obstruction
+vaginal pain
+vaginal perforation
+vaginal stricture
+vaginismus
+adult respiratory distress syndrome
+allergic rhinitis
+apnea
+aspiration
+atelectasis
+bronchial fistula
+bronchial obstruction
+bronchial stricture
+bronchopleural fistula
+bronchopulmonary hemorrhage
+bronchospasm
+chylothorax
+cough
+dyspnea
+epistaxis
+hiccups
+hoarseness
+hypoxia
+laryngeal edema
+laryngeal fistula
+laryngeal hemorrhage
+laryngeal mucositis
+laryngeal obstruction
+laryngeal stenosis
+laryngopharyngeal dysesthesia
+laryngospasm
+mediastinal hemorrhage
+nasal congestion
+pharyngeal fistula
+pharyngeal hemorrhage
+pharyngeal mucositis
+pharyngeal necrosis
+pharyngeal stenosis
+pharyngolaryngeal pain
+pleural effusion
+pleural hemorrhage
+pleuritic pain
+pneumonitis
+pneumothorax
+postnasal drip
+productive cough
+pulmonary edema
+pulmonary fibrosis
+pulmonary fistula
+pulmonary hypertension
+respiratory failure
+retinoic acid syndrome
+sinus disorder
+sleep apnea
+sneezing
+stridor
+tracheal fistula
+tracheal mucositis
+tracheal stenosis
+voice alteration
+wheezing
+alopecia
+body odor
+bullous dermatitis
+dry skin
+erythema multiforme
+erythroderma
+fat atrophy
+hirsutism
+hyperhidrosis
+hypertrichosis
+hypohidrosis
+lipohypertrophy
+nail discoloration
+nail loss
+nail ridging
+pain of skin
+palmar - plantar erythrodysesthesia syndrome
+periorbital edema
+photosensitivity
+pruritus
+purpura
+rash acneiform
+rash maculo - papular
+scalp pain
+skin atrophy
+skin induration
+skin ulceration
+stevens - johnson syndrome
+telangiectasia
+toxic epidermal necrolysis
+urticaria
+menopause
+capillary leak syndrome
+flushing
+hematoma
+hot flashes
+hypertension
+hypotension
+lymph leakage
+lymphedema
+lymphocele
+peripheral ischemia
+phlebitis
+superficial thrombophlebitis
+superior vena cava syndrome
+thromboembolic event
+vasculitis
+visceral arterial ischemia

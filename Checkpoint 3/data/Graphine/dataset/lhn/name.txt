@@ -1,0 +1,203 @@
+dune
+tidal ridge
+body pit
+caretta caretta
+loggerhead nesting sequence
+hindlimb sand dump
+contralateral sand dump
+ipsilateral sand dump
+posterior spray dump
+posterolateral sand dump
+hindlimb sand flicks
+alternate hindlimb flick
+lh flick
+rh flick
+sand packing
+foot packing
+knee packing
+foot grind
+heel grind
+ventral pack
+kneading pack
+kneeling pack
+kneeling side - step
+sand pulling
+alternate hindlimb scoop / pull
+single hindlimb scoop / pull
+sand throwing
+rh scoop / pull
+sand sweeping / flicking
+single hindlimb flick
+forelimb sweep
+pull shadowing
+lh pull shadowing
+rh pull shadowing
+synchronous hl scoop / pull
+sand sweep
+alternate hindlimb sweep
+diagonally opposite sweep
+synchronous forelimb sweep
+swim
+reproductive function
+throwing motions
+alternate hindlimb throw
+diagonally opposite throw
+lf - rh throw
+rf - lh throw
+synchronous forelimb throw
+synchronous hindlimb throw
+sand smoothing
+synchronous forelimb thrust
+quadrupedal gait
+loggerhead beach gait
+change direction
+phototactic response
+turn to avoid obstacle
+turnabout
+turn in one spot
+turn in small semi - circle
+posterior tilt down
+posterior tilt up
+chin pull
+posterior shift inward
+posterior shift inward during dig
+posterior shift inward during fill
+posterior shift outward
+move head
+extend head
+head raise
+head - turn
+himblimb scoop / pull
+quadrupedal step
+move lf in quadrupedal gait
+move rf in quadrapedal gait
+move lh in quadrupedal gait
+move rh in quadrapedal gait
+swimming motion
+move rf in swimming
+move lf in swimming
+hind limb retract up
+scoop
+scoop / shape
+lh scoop / shape
+rh scoop / shape
+shape change
+extend cloacal tube
+extend cloacal tube during digging
+extend cloacal tube during laying
+extend neck
+laying grunt
+approach beach
+ascend beach
+cover body pit
+depart from beach
+dig egg chamber
+fill and pack chamber
+initial sand - flicking
+lay eggs
+lh posterolateral dump
+make body pit
+return to surf
+lf sweep
+wander over beach
+return on same track
+human disturbance
+egg predation
+rain induced suffication
+hatchling predation
+inching
+lurching
+moved by wave action
+head - horizontal pause
+head - raised pause
+pause during make body pit
+pause during ascend beach
+prostrate pause
+pause after covering pit
+pause before entering surf
+vigilence
+hind feet trailing laterally
+bouyed up by water
+support by substrate
+excavation sequence
+topological change
+surface change
+rh posterolateral dump
+swim from beach
+swim towards beach
+single limb throw
+scrape / dig
+lh scrape / dig
+rh scrape / dig
+hind flipper raise
+minor hindflipper raise / lower
+rf sweep
+single hindflipper raise
+lh flipper raise
+rh flipper raise
+hindlimb sweep
+rh sweep
+lh sweep
+chin push
+lh scoop / pull
+forelimb throw
+hindlimb throw
+lf throw
+rf throw
+lh throw
+rh throw
+leg push
+push backward
+push down
+retract cloacal tube
+retract head
+throat lower
+rh retract up
+lh retract up
+hindlimb sand pull
+lh pull
+rh pull
+scrape / dig unit
+packing action
+lh scrape / dig unit
+rh scrape / dig unit
+lh scoop
+rh scoop
+throat raise
+hindlimb extend down
+lh extend down
+rh extend down
+hindlimb extend out
+lh extend out
+rh extend out
+displacement from chin pull
+body move forward during fill and pack
+sweep displacement
+limb push
+left shift inward during dig
+right shift inward during dig
+left shift inward during fill
+right shift inward during fill
+posterior shift outward during dig
+left shift outward during dig
+right shift outward during dig
+posterior shift outward during fill
+left shift outward during fill
+right shift outward during fill
+posterior tilt down during make body pit
+posterior tilt down during dig egg chamber
+posterior tilt down with lh extended
+posterior tilt down with rh extended
+posterior tilt down during fill and pack chamber
+anchor leg
+lh sand flick
+rh sand flick
+functional explanation
+nutritive function
+antipredator function
+social function
+maintanance function
+sensory function
+ontogenetic explanation
+phylogenetic explanation
+mechanistic explanation

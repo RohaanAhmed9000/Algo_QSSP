@@ -1,0 +1,211 @@
+this is the root node of the ontology to provide controlled vocabulary terms protein separation based experiments .
+properties or qualities as distinguished from any  particular embodiment of the properties / qualities in a physical medium .
+an entity that has a location in space - time .
+an attribute is an abstraction which belongs to or is a characteristic of an entity .
+an abstract concept that is exhibited in full if it is possessed by an object at all  ( a categorical property )  ,  that inheres in a bearer by virtue of how the bearer is related to other entities .
+an identifier is an attribute which characterises the identification of an entity .
+a format is a quality that is a specificiation or arrangement of a specified form .
+a parameter is an attribute that defines a system and determines  ( or limits )  its performance .
+a distribution is a quality that specifies an arrangement of values of a variable showing their observed or theoretical frequency of occurrence .
+a role is an attribute that is the activity assigned to or required or expected of an entiy within the context of a particular process .
+a digital data set is is a digital entity that is a collection of the same or heterogenous digital entities .
+a product attribute is an attribute that is assigned to a physical object which has been produced by human or mechanical effort or by a natural process .
+the proteomics standards intiative working group name is an identifier for the proteomics standards initiative  ( psi )  working groups .
+a uniform resource identifier  ( uri )  is an identifier which is a compact sequence of characters that identifies an abstract or physical resource .
+a batch identifier is a product attribute which is a token which identifies the batch or lot number of a product .
+a catalogue identifier is a product attribute which is designated by a manufacture ,  seller ,  or producer of a product .
+a model identifier is a product attribute assigned to a product .
+a linear distribution is a statsitical distribution that is equally sequential .
+a logarithmic distribution is a statistical distribution which is a  scale in which the distances that numbers are at from a reference point are proportional to their logarithms .
+a maximum parameter is a parameter which has he largest possible value for a parameter .
+a minimum parameter is a parameter which has the smallest possible value for a parameter .
+a state is a quality that is the manner of being or form of existence .
+electric mode is a mode that represents one of several alternative conditions of a measure of electric from a device .
+a gradient mode is an electic mode that is a graded process of increases or decreases for a given period in time in the context of use within a process .
+a social role is a role that specify the position or status of a entity within an organization or other group .
+a mode is a state that is one of several alternative conditions or methods of operation of a device .
+a hold mode is an electric mode where the measure of electric remains constant for a given period in time in the context of use within a process .
+a step and hold mode is an electrical mode which the measure of electric is increased  ( or decreased )  in a defined series of increases  ( or decreases )  from a low electric measure value to a high electric measure value and then remains constant  ( is held )  for a given period in time in the context of use within a process .
+a susbtance role is a role that the function or part assigned to or required or expected of a substance within the context of a particular process .
+a position is a social role that is a formal declaration of reponsibility within an organization .
+lecturer is a position .
+professor is a postion .
+reader is a position .
+a researcher is a position .
+a principle investigator is a position .
+a cross linker is a substance role that induces covalent bonds linking one polymer chain to another they are the characteristic property of thermosetting plastics materials .
+a medium is a substance role which an intervening substance through which something else is transmitted or carried on .
+a detection medium is a medium role of function of a substance to act as a medium which faciliates the detection of an entity .
+a separation medium is a medium role of a  substance that is used to separate a substance in the context of use within a protocol .
+a transfer medium is a medium role in which a substance facilitates the transfer of a substance to another substance in the context of a process miape .ge: if the proteins separated along the gel ,  are transferred to another medium to aid detection  ( such as a nitrocellulose membrane as used in immunoblots )  then give details of the name and type of medium ,  models and manufacturers ,  where appropriate .
+a gelling agent is a substance role of a substance to react with another substance to form a gel .
+a sample is a substance role played by a biological substance as an input substance to a protocol .
+a permission is an attribute which is a formal authorization .
+security access is an permission attribute which is specification of the access right  ( e .g read or write )  that is specified on a particular object .
+read access is a security access permission attribute which is the access right to obtain  ( data )  from a storage medium ,  such as a magnetic disk .
+write access is a security access permission attribute that is the access right to record or update stored data .
+a data format is a format of data  each has its own headers ,  codes and rules for laying out the content .
+an image file format is a data format that provides a standardized method of organizing and storing image data .
+a graphics interchange format is an image file format that supports animated images .
+a joint photographic experts group is an image file format which is used extensively for photos and other continuous tone images on the web .
+a portable network graphics  is an image file format which lossless compression ,  offering bit depths from 1 to 48 .
+scalable vector graphics is an image file format which is an xml based vector graphics format ,  as defined by the world wide web consortium for use in web browsers .
+a tagged image file format is an image file format which is used extensively for traditional print graphics .
+a windows bitmap is a image file format which is commonly used by microsoft windows programs ,  and the windows operating system itself .
+a quantity is an abstract concept which is any specification of how many or how much of  something there is .
+a unit of measure is a quantity which is a standard of measurement for some dimension .
+a measurement range is a quantity which consists of a lower value ,  an upper value and a unit of measure .
+a ph range is a measurement range which has a unit of measure of ph .
+a molecular weight range is a measurement range which has a measurement unit of kilo daltons .
+software is a digital entity that is the general term for a variety of procedures and routines that harness the computational power of a computer to produce ,  for example ,  a general operating system that coordinates the basic workings of the computer or specific applications .
+image acquisition software is software that is designed to aquire a digitised image of a physical object .
+image analysis software is software which is the extraction of meaningful information from images ;  mainly from digital images by means of digital image processing techniques .
+the progenesis range is image analysis software manufactured by nonlinear dynamics that offers analysis and data - mining software for 2d electrophoresis and ms applications ,  including biomarker discovery .
+a software attribute is an attribute that is associated with software .
+a software version number is a software attribute that represents the version of software .
+progenisis pg200 is a progenisis image analysis software that offers an advanced workflow and powerful data analysis for the proteomics researcher .
+progenisis pg220 is a progensis image analysis software that has all the features of the pg200 plus a range of additional tools designed specifically for the analysis of dige experiments .
+the progenisis pg240 is a progensis image analysis software that is the flagship of traditional and 2d dige gel analysis products ,  the pg240 caters for the needs of the most advanced users .
+samespots is image analysis software by nonlinear dynamice that is unique technology delivering a major advance for the analysis of single stain or 2d dige images ,  allowing you to match and compare all the proteins in your experiment .
+decyder is image analysis software that significantly increases throughput by accurately addressing measurement of protein differences with statistical confidence  .
+delata2d is image analysis software that is manufactured by decodon .
+an object is a physical concept that has independent material existence and is a separate and distinct portion of matter .
+a process is a physical concpet that has temporal parts or stages .
+a collection is an object which have members and a position in space - time and members can be added and subtracted without thereby changing the identity of the collection .
+a device is an object which provides a mechanical advantage when used in a process .
+a substance is an object in which every part is similar to every other in every relevant respect .
+a group is a defnined collection of objects ,  e .g .
+an organization is a group which the members of an organization typically have a common  purpose or function .
+a consortium is an association of organisations for some definite purpose .
+the human proteome organisation  ( hupo )  is an international consortium of national proteomics research associations ,  government researchers ,  academic institutions ,  and industry partners .
+the hupo proteomics standards initiative  ( psi )  defines community standards for data representation in proteomics to facilitate data comparision ,  exchange and verification .
+the psi working group for gel - based methods of analysis  ( gel )  .
+the psi working group for molecular interactions  ( mi )  .
+the psi working group for protein modifications  ( mod )  .
+the psi working group for mass spectrometry data interchange  ( ms )  .
+the psi working group for proteomics informatics  ( pi )  .
+the psi working group for separations and sample preparation  ( sp )  .
+a vendor is an organisation that  supplier of goods or services of a commercial nature may be a manufacturer ,  importer ,  or wholesale distributor .
+an educational organization is an organisation which is an institution of learning .
+a university is an educational organisations which admits students that have graduated from high school  ( known as undergraduate students )  and students who have received a bachelor's degree  ( known as graduate students )  .
+a government organization is the is an organisation that is concerned with the government of a geopolitical area at some level .
+a blot module is a device which permits the protocol of blotting to be performed .
+an electrical power supply is a device that supplies electricity .
+a gel dryer is a device which permits drying of gels .
+a gel tank is a device which holds a gel and running buffers to allow electrophoresis to be performed .
+an image acquisition device is a device which captures a digitiesed image of an object .
+an isoelectric focussing device is a device in which isoelectric focusing can be performed .
+a thermostatic circulator is a device which cools or heats a circulating liquid .
+a camera is an image acquistion device which is used for taking photographs  ( usually consisting of a lightproof box with a lens at one end and light - sensitive film at the other )  .
+a scanner is an image acquistion device that generates a digital representation of an image for data input to a computer .
+a protocol is a process which is a parameterizable description of a process .
+a blocking protocol is a protocol to prevent non - specific protein interactions between it and the antibody used for detection of the target protein .
+a biological substance is a substance which originates from a biological organism .
+a chemical agent is a substance that is synthetic compounds that are not an analogue of anything occurring naturally and that can result in serious burns ,  paralysis ,  and death to organisms .
+a compound gas is a compound substance that is a mixture that satisfies two conditions .it is made up predominantly of things which are a gas and any  component other than gas in the mixture is in the form of fine particles  which are suspended in the gas .
+a compound liquid is a compound substance that satisfies two conditions .
+fliter paper is a compund substance which is a porous unsized paper used for filtering .
+need def
+a digital entity is an abstract concept that is a binary representation of information ;  facts ,  concepts ,  or instructions in a formalized manner suitable for communication ,  interpretation ,  or processing by humans or by automatic means .
+a gel is a compund substance which is a colloid in a more solid form than a solution .
+a gel excised analyte is a compound substance which is a location on a gel which has been excised ,  cut out or removed .
+a  membrane compound is a compound substance which is a thin sheet of natural or synthetic material that is permeable to substances in solution .
+parafilm is a compound substance which is a product of the american can company ,  consisting of a flexible film that is commonly used for sealing or protecting vessels .
+coomassie blue is a chemical agent that nonspecifically stains proteins a strong blue colour .
+a solution is a compund liquid which is a homogeneous mixture of two or more substances ,  which may be solids ,  liquids ,  gases ,  or a combination of these .
+a suspension is a compund liquid in which microscopically visible particles are dispersed throughout a less dense liquid or gas from which they are easily filtered but not easily settled because of system viscocity or molecular interactions .
+agarose sealing solution is a solution which is an agarose / buffer solution used to seal the first dimension gel to the second dimension gel in two dimensional gel electrophoresis .
+a solution selected or prepared to minimize changes in hydrogen ion concentration which would otherwise tend to occur as a result of a chemical reaction .
+a fixing solution is a solution used to fix proteins in a gel after gel electrophoresis has been performed .
+a carrier ampholyte buffer is a buffer solutions which contains carrier ampholytes .
+an electrophoresis buffer is a buffer solution which is used to perform electrophoresis .
+a loading buffer is a buffer solution which contains a suspended substance and facilitates loading onto another substance .
+a rehydration buffer is a buffer solution used to rehydrate a substance .
+a sample buffer is a buffer solution which contains a biological substance used in the role of a sample .
+a transfer buffer is a buffer solution used to facilitate the transfer of one substance to another substance .
+laemmli bufferis an electrophoresis buffer which is used as a running buffer in gel electrophoresis .
+a gel matrix is a gel which the constituants of a gel form a matirx structure .
+an agarose gel is a gel matrix which is composed of the chemical agent agarose .
+a polyacrylamide gel is a gel matrix which is the results of a chemical reactions of the chemical agent acrylamide and a chemical agent used in the role of a cross linker .
+an immobilised ph gradient gel is a polyacrylamide gel which has an immobilized ph gradient  ( ipg )  .
+an immobiline dry strip is a immobilized ph gradinet gel which is a product of ge healthcare .
+an excised band is a gel excised analyte which has the geometric shape approximately that of a cuboid .
+an excised spot is a gel excised analyte which is approximately circlar in geometric shape .
+a nitrocellulose membrane is a memebrane compune which is a sticky membrane used for western blots and immobilizing dna .
+a polyvinylidine difluoride membrane is a membrane compound which is a highly non - reactive and pure thermoplastic fluoropolymer .
+a biological stain product is a compound substance which has been manufactued and sold as a product .
+a simplyblue safestain is a biological stain product which is a fast ,  sensitive and safe colloidal coomassie g - 250 - based stain for nanogram - level detections of proteins ,  manufactured by invitrogen .
+silverquest silver staining is a biological stain product that provides maximal silver staining sensitivity with minimal protein modification for optimal mass spectrometry results ,  manufactured by invitrogen .
+a biological blot protocol is a protocol which defines the transfer of proteins ,  dna or rna ,  onto a carrier  ( for example ,  a nitrocellulose pvdf or nylon membrane )  .
+capillary electrophoresis is a protocol which can be used to separate ionic species by their charge and frictional forces .
+a detection is a protocol which allows the detection ,  or permits the viewing of a substance .
+enzyme digestion is a protocol that describes the digestion of a protein by an enzyme .
+an electrophoresis is a protocol for capturing the details of electrophoresis .
+equilibration is a protocol to bring to a chemical stasis or equilibrium .
+the first dimension gel equilibration is a protocol which equilibrates the first dimension gel in two dimensional gel electrophoresis protocol with the buffer system required for the second - dimension separation .
+an excision is a protocol that described removal of a defined location from a substance .
+image acquisition is a protocol which is used to acquire a digitised image .
+inter dimension protocol is a protocol which is used to record any process or processes applied to ,  or carried out between the dimensions of gel electrophoresis .
+isoelectric focussing is a protocol that separates a sample  ( ususally protein )  along a separation matrix  ( usually gel )  based on isoelectric point  ( pi )  .
+one dimensional gel electrophoresis is a protocol  which separates a substance based on a single characteristic or dimension of the substance .
+sample loading protocol is a protocol which is the loading a substance  ( sample )  onto another substance .
+image analysis protocol is a protocol which is the process of the analysis of digitised images .
+a transfer protocol is a protocol which is the conveyance or removal an entity from one location to another .
+a protein transfer protocol is a protocol which is the movement of proteins from one substance to another substance ,  possibly via a transfer medium .
+two dimensional gel electrophoresis is a protocol which is the separation of proteins along two gel matrices based on a two characteristics or dimensions of the protein .
+a northern blot is a biological blot protocol which is  used in molecular biology research to study gene expression .
+a southern blot is a biological blot protocol which is used in molecular biology to enhancing the result of an agarose gel electrophoresis by marking specific dna sequences .
+a western blot is a biological blot protocol which is used in molecular biology / biochemistry / immunogenetics to detect protein in a given sample of tissue homogenate or extract .
+direct detection is a detection protocol which is the detection of a substance directly on the susbtances location .
+indirect detection is a detection protocol that allows one substance to be detected using an intermediate substance .
+staining is a direct detection which is a biochemical technique of adding a class - specific  ( dna ,  proteins ,  lipids ,  carbohydrates )  dye to a substrate to qualify or quantify the presence of a specific compound .
+coomassie staining is a staining which uses the chemical susbstance coomassie blue ,  nonspecifically stains proteins a strong blue colour .
+silver staining is a staining which uses silver to stain a substance .
+chemiluminescent detection is an indirect detection protocol that detects proteins with a substrate that will luminesce when exposed to the reporter on the secondary antibody .
+colorimetric detection is an indirect detection protocol that detects proteins  with a substrate that reacts with the reporter enzyme  ( such as peroxidase )  that is bound to the secondary antibody .
+flourescent detection is a indirect detection protocol .the fluorescently labeled probe is excited by light and the emission of the excitation is then detected by a photosensor such as ccd camera equipped which appropriate emission filters which captures a digital image of the western blot and allows further data analysis such molecular weight analysis and a quantitative western blot analysis .
+immuno detection is an indirect detection protocol which is the use of an antibody - based method to detect a specific protein in a sample .
+primary antibody probing is an indeirect detection protocol .
+secondary antibody probing is an indirect detection protocol .
+radio active detection is an indirect detection protocol that involves radioactive labels that do not require enzyme substrates ,  but rather allow the placement of medical x - ray film directly against the radio active matierial which develops as it is exposed to the label and creates dark regions which correspond to the protein bands of interest  ( see image to the right )  .
+agarose gel electrophoresis is a one dimensional gel electrophoresis protocol which use the application of voltage to separate a sample along a separation medium which is a gel matrix made of agarose .
+polyacrylamide gel electrophoresis is a one dimensional gel electrophoresis protocol which use the application of voltage to separate a sample along a separation medium which is a gel matrix made of polyacrylamide .
+sodium dodecyl sulfate polyacrylamide gel electrophoresis is a polyacrylamide gel electrophoresis which which the charge of the proteins results from their binding sds .
+a cup loading protocol is a sample loading protocol which the sample is pipetted into sample cups precisely positioned on the surface of the gels  ( usually in first dimension )  .
+paper bridge loading is a sample loading protocol that is the loading of samples on a gel prior to electrophoresis using a paper bridge .
+rehydration loading is a sample loading protocol which rehydrates the gel at the same time as the application of sample to a gel .
+well loading is a sample loading protocols that directly loads  a sample directly in the wells of a gel prior to electrophoresis .
+one dimensional gel electrophoresis image analysis is an image analysis protocol which is the analysis of multiple images produces as a result of one dimensional gel electrophoresis .
+two dimensional gel electrophoresis image analysis is an image analysis protocol which is the analysis of multiple images produces as a result of two dimensional gel electrophoresis .
+difference gel electrophoresis is a two dimensional gel electrophoresis protocol which is where three different protein samples can be labeled with fluorescent dyes  ( for example cy3 ,  cy5 ,  cy2 )  prior to two - dimensional electrophoresis .
+pubmed is data which is a service of the u .s . national library of medicine that includes over 16 million citations from medline and other life science journals for biomedical articles back to the 1950s .
+wordnet is data which is an online lexical reference system whose design is inspired by current psycholinguistic theories of human lexical memory .
+cyanine is a chemical substance which is a polymer hydroxide formula achieved in 1986 by the universal chemical society .
+cy3 is a chemical susbstance that has a reactive n - hydroxysuccinimide group .
+cy5 is a chemical substance that has a reactive n - hydroxysuccinimide group that reacts readily with amine groups .
+a label is an attribute which is an identifying or descriptive marker or token that is attached to an object .
+a fluorescent label is a label that is either a fluorescent molecule ,  or an enzyme system that generates a fluorescent product ,  which is linked to a ligand or binder tracer .
+sypro ruby is a biological stain product that is a ready to use ,  ultra sensitive ,  luminescent stain for the detection of proteins separated by page .
+a person ,  an enterprise ,  or an entity that manufactures something .
+a bisacrylaimde is a chemical substance that has a molecular formula of c7h10o2n2 .
+need def
+a biological sample analysed by a particular technology .
+a description of the biological sample analysed .
+volume of sample analysed .
+a buffer intended to maintain the ph in a range appropriate for electrophoresis .
+a non - linear distribution is a statsitical distribution that is not equally sequential .
+to do
+to do
+to do
+to do
+sample desalting and solid phase extraction .
+small volume column packet with different chromatography resins
+large volume column packed with different chromatography resins
+bulk chromatography resin applied to a sample
+solid membrane combining different chromatographic affinities
+liquid chromatography  ( lc )  is a separation technique in which the mobile phase is a liquid .
+reversed phase hplc  ( rp - hplc or rpc )  has a non - polar stationary phase and an aqueous ,  moderately polar mobile phase .
+also known as normal - phase hplc  ( np - hplc )  ,  or adsorption chromatography ,  this method separates analytes based on adsorption to a stationary surface chemistry and by polarity
+ion - exchange chromatography  ( or ion chromatography )  is a process that allows the separation of ions and polar molecules based on their charge .
+a method of separating biochemical mixtures and based on a highly specific biological interaction such as that between antigen and antibody ,  enzyme and substrate ,  or receptor and ligand .
+size - exclusion chromatography  ( sec )  is a chromatographic method in which molecules in solution are separated by their size ,  not by molecular weight .

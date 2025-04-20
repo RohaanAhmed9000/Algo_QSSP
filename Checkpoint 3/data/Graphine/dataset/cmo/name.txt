@@ -1,0 +1,2969 @@
+clinical measurement
+cardiovascular measurement
+heart rate
+blood pressure measurement
+systolic blood pressure
+diastolic blood pressure
+left ventricular diastolic blood pressure
+left ventricular systolic blood pressure
+calculated blood pressure
+mean arterial blood pressure
+developed blood pressure
+whole body morphological measurement
+body weight
+body length
+hip circumference
+body temperature
+heart morphological measurement
+heart weight
+left ventricular developed pressure
+proximal hind limb circumference
+waist to hip ratio  ( whr )
+body morphological measurement
+blood chemistry measurement
+calculated differential white blood cell count
+red blood cell count
+blood hemoglobin level
+white blood cell count
+blood protein measurement
+platelet count
+blood neutrophil count
+blood lymphocyte count
+blood monocyte count
+blood eosinophil count
+blood basophil count
+blood measurement
+complete blood count and differential
+hematocrit
+mean corpuscular volume
+blood steroid level
+blood glucocorticoid level
+red blood cell distribution width - coefficient of variation
+plasma glucose level
+plasma aspartate aminotransferase activity level
+plasma alanine aminotransferase activity level
+plasma alkaline phosphatase activity level
+blood glucose level
+indirect plasma bilirubin level
+direct plasma bilirubin level
+blood urea nitrogen level
+blood lipid measurement
+blood total cholesterol level
+blood high density lipoprotein cholesterol level
+blood low density lipoprotein cholesterol level
+plasma total protein level
+plasma globulin level
+plasma albumin level
+serum creatinine level
+plasma phosphate level
+plasma chloride level
+plasma sodium level
+plasma potassium level
+plasma bicarbonate level
+blood electrolyte measurement
+blood enzyme activity level
+plasma calcium level
+plasma anion gap
+anion gap
+organ morphological measurement
+heart wet weight
+heart dry weight
+heart left ventricle wet weight
+heart right ventricle wet weight
+heart weight to body weight ratio
+heart weight as percentage of body weight
+aorta weight
+blood vessel measurement
+body length ,  nose to tail
+body length ,  nose to rump
+kidney weight
+right kidney wet weight
+left kidney wet weight
+single kidney wet weight
+both kidneys wet weight
+kidney morphological measurement
+abdominal fat pad weight
+body fat morphological measurement
+liver weight
+liver morphological measurement
+respiratory system measurement
+abdominal fat pad weight to body weight ratio
+lung weight
+lung wet weight
+lung dry weight
+right lung wet weight
+left lung wet weight
+calculated lung weight
+lung dry weight to body weight ratio
+right lung weight to left lung weight ratio
+single lung dry weight
+body mass index  ( bmi )
+body height
+tissue composition measurement
+heart right ventricle weight to left ventricle weight ratio
+blood b lymphocyte count
+blood t lymphocyte count
+blood granulocyte count
+plasma angiotensin i converting enzyme activity level
+blood direct renin activity level
+blood renin activity level
+plasma renin activity level
+blood free fatty acids level
+blood triglyceride level
+blood lipoprotein level
+plasma apolipoprotein level
+blood angiotensin ii level
+mean corpuscular hemoglobin level
+blood bilirubin level
+blood sex steroid level
+urine creatinine level
+bioimpedance
+muscle morphological measurement
+urine potassium level
+urine sodium level
+urine albumin level
+muscle weight
+minute ventilation  ( ve )
+end - tidal partial pressure of carbon dioxide  ( petco2 )
+maximal carbon dioxide production  ( vco2 )
+maximal oxygen consumption
+brain morphological measurement
+brain weight
+calculated brain weight
+brain weight to body weight ratio
+both kidneys wet weight as percentage of body weight
+liver weight as percentage of body weight
+adrenal gland morphological measurement
+adrenal gland weight
+calculated adrenal gland weight
+single adrenal gland weight to body weight ratio
+spleen morphological measurement
+spleen weight
+calculated spleen weight
+spleen weight to body weight ratio
+male reproductive organ morphological measurement
+testis weight
+calculated testis weight
+testis weight to body weight ratio
+brain dry weight
+brain wet weight
+lung weight to body weight ratio
+calculated liver weight
+liver wet weight
+liver dry weight
+calculated kidney weight
+left adrenal gland wet weight
+right adrenal gland wet weight
+single adrenal gland wet weight
+both adrenal glands wet weight
+both lungs wet weight
+adrenal gland wet weight
+adrenal gland dry weight
+kidney wet weight
+kidney dry weight
+spleen wet weight
+spleen dry weight
+testis wet weight
+both testes wet weight
+single testis wet weight
+right testis wet weight
+left testis wet weight
+blood vessel diameter
+ejection fraction
+end - systolic volume
+head morphological measurement
+head circumference
+skull volume
+limb morphological measurement
+distal hind limb circumference
+hind limb length
+tail morphological measurement
+tail length
+blood viscosity measurement
+intramuscular fat weight
+blood viscoelasticity
+circulation measurement
+blood flow rate
+cardiac output measurement
+arterial blood flow rate
+venous blood flow rate
+intramuscular fat weight as percent of body weight
+vessel shear stress measurement
+blood coagulation measurement
+in vivo coagulation measurement
+in vitro coagulation measurement
+bleeding time  ( bt )
+intramuscular fat morphological measurement
+blood fibrinogen level
+activated partial thromboplastin time
+prothrombin time
+thrombin time
+intramuscular fat cell count to skeletal muscle volume ratio
+intramuscular fat area as percentage of skeletal muscle area
+plasma magnesium level
+systemic vascular resistance  ( svr )
+end - diastolic volume
+tidal volume
+stroke volume
+body region fat morphological measurement
+arterial blood gas measurement
+body fat percentage ,  lukaski equation
+cell measurement
+cardiomyocyte count
+blood vessel endothelial cell count
+heart electrical conduction measurement
+cell membrane potential
+rr interval
+pr interval
+st interval
+qt interval
+aorta wall thickness
+heart posterior wall thickness
+heart left ventricle posterior wall thickness
+heart right ventricle posterior wall thickness
+forced expiratory volume to forced vital capacity ratio
+waist circumference
+total abdominal fat area
+abdominal visceral fat area
+abdominal subcutaneous fat area
+skin fold thickness
+skin fold thickness ,  bicep
+skin fold thickness ,  tricep
+skin fold thickness ,  subscapular
+skin fold thickness ,  suprailiac
+forced vital capacity  ( fvc )
+maximum mid - expiratory flow  ( mmef )
+forced expiratory volume
+maximal volume ventilation  ( mvv )
+urine measurement
+urine specific gravity
+urine ph
+urine volume
+timed urine volume
+urination frequency
+urine catecholamine level
+p wave amplitude
+p wave duration
+q wave depth
+q wave duration
+qrs duration
+qrs amplitude
+qtc interval
+r wave amplitude
+r wave duration
+s wave amplitude
+s wave duration
+t wave amplitude
+pp interval
+urine amylase level
+urine calcium level
+urine cortisol level
+partial pressure of blood carbon dioxide  ( pco2 )
+serum carboxyhemoglobin level
+activated clotting time  ( act )
+blood peptide hormone level
+percent change in ventilation
+respiration rate
+mean corpuscular hemoglobin concentration
+pulse pressure
+elbow breadth
+pulse
+upright sagittal abdominal diameter
+supine abdominal height
+absolute change in partial pressure of blood carbon dioxide
+absolute change in partial pressure of blood oxygen
+absolute change in blood ph
+body density
+body fat percentage ,  siri equation
+fat mass index  ( fmi )
+fat free mass index  ( ffmi )
+residual lung volume
+body fat percentage ,  lohman equation
+body fat percentage ,  schutte equation
+body fat percentage ,  ortiz equation
+abdominal fat morphological measurement
+calculated body fat morphological measurement
+abdominal fat weight
+arm span
+chest circumference
+proximal forelimb circumference
+hepatocyte count
+pancreatic beta cell count
+retina cell count
+bronchial epithelial cell count
+osteoblast cell count
+osteoclast cell count
+purkinje cell count
+schwann cell count
+oocyte count
+sperm count
+neuron count
+intestine morphological measurement
+intestine length
+pancreas morphological measurement
+pancreas weight
+heart atrium morphological measurement
+left atrium weight
+right atrium weight
+left atrium volume
+right atrium volume
+heart ventricle morphological measurement
+both kidneys wet weight to body weight ratio
+tumor measurement
+plasma insulin level
+mammary tumor number
+mammary tumor growth rate
+post - insult time to mammary tumor formation
+mammary tumor diameter
+mammary tumor measurement
+mammary tumor weight
+blood insulin level
+blood glucose level area under curve  ( auc )
+blood insulin level area under curve  ( auc )
+calculated blood glucose level
+calculated blood insulin level
+mesenteric fat pad weight
+retroperitoneal fat pad weight
+epididymal fat pad weight
+serum insulin level
+calculated serum insulin level
+serum triglyceride level
+serum high density lipoprotein cholesterol level
+serum low density lipoprotein cholesterol level
+serum total cholesterol level
+complete blood cell count
+total white blood cell count
+blood differential white blood cell count
+blood granulocyte count to total leukocyte count ratio
+blood basophil count to total leukocyte count ratio
+blood eosinophil count to total leukocyte count ratio
+blood neutrophil count to total leukocyte count ratio
+blood lymphocyte count to total leukocyte count ratio
+blood b lymphocyte count to total leukocyte count ratio
+blood t lymphocyte count to total leukocyte count ratio
+blood monocyte count to total leukocyte count ratio
+calculated white blood cell measurement
+total serum bilirubin level
+plasma ionized calcium level
+total plasma calcium level
+blood ph
+total lung capacity
+partial pressure of blood oxygen  ( po2 )
+urine chloride level
+urine glucose level
+urine albumin level to urine creatinine level ratio
+urine osmolality
+urine color
+forelimb morphological measurement
+hind limb morphological measurement
+maternal age at first egg production
+maternal age at birth of last offspring
+egg yolk weight ,  fowl
+egg production rate ,  fowl
+ejaculation duration
+cleaved embryo number following in vitro fertilization
+egg measurement ,  fowl
+egg yolk height to diameter ratio ,  fowl
+female reproductive organ morphological measurement
+single ovary weight
+both ovaries weight
+uterine horn length
+mammary organ morphological measurement
+udder height
+udder width
+growth measurement
+average daily body weight gain
+body weight gain
+carcass morphological measurement
+carcass length
+copulation duration
+wing weight
+consumption measurement
+food intake rate
+back fat morphological measurement
+back fat weight
+calculated back fat morphological measurement
+back fat percentage
+back fat thickness
+back fat thickness ,  10th rib
+back fat thickness ,  midpoint
+back fat thickness ,  3rd lumbar vertebra
+back fat thickness ,  1st rib
+skeletal morphological measurement
+vertebrae number
+spinal column length
+ulna length
+tail weight
+femur length
+bone morphological measurement
+femur weight
+teat number
+interteat distance
+teat length
+total muscle weight
+thoracic vertebrae number
+tibia length
+tibia weight
+food intake duration
+tibia midshaft width
+drink intake duration
+drink intake rate
+adipocyte measurement
+carcass circumference ,  butt
+carcass weight
+cervical vertebra length
+cervical vertebral column length
+total skeletal weight
+carcass skeletal weight
+carcass width
+diaphragm weight
+single feeding food intake volume
+single feeding food intake weight
+gestation period length
+horn number
+humerus length
+small intestine weight
+large intestine weight
+teat number ,  left
+teat number ,  right
+carcass length ,  first cervical vertebra to pelvis
+carcass length ,  first rib to pelvis
+adipocyte count
+plasma immunoglobulin measurement
+plasma antibody level
+plasma e . coli specific antibody level
+plasma e . coli specific antibody level ,  post challenge
+plasma e . coli specific antibody level ,  post vaccination
+plasma e . coli specific antibody level change ,  post vaccination
+plasma e . coli specific antibody level change ,  post challenge
+blood adiponectin level
+adipose tissue adiponectin level
+serum aldosterone level
+serum bicarbonate level
+serum chloride level
+blood glomerular filtration rate
+blood glomerular filtration rate ,  chronic kidney disease epidemiology collaboration formula  ( cke - epi )
+serum potassium level
+blood potassium level
+blood chloride level
+blood sodium level
+serum sodium level
+blood uric acid level
+blood calcium level
+serum calcium level
+blood phosphate level
+hemoglobin concentration
+hemoglobin absorbance
+hemoglobin measurement
+blood androstenedione level
+blood cortisol level
+serum cortisol level
+blood aldosterone level
+blood apolipoprotein level
+blood apolipoprotein a level
+blood chylomicron level
+pulmonary arterial diastolic blood pressure
+pulmonary arterial systolic blood pressure
+heart left ventricle weight to body weight ratio
+percent change in respiration rate
+percent change in tidal volume
+absolute change in mean arterial blood pressure
+absolute change in heart rate
+blood ethanol level
+glomerulus count
+heart left ventricle weight as a percentage of body weight
+serum phosphate level
+serum glucose level
+plasma triglyceride level
+blood albumin level
+serum albumin level
+plasma ethanol level
+serum ethanol level
+plasma angiotensin ii level
+serum angiotensin ii level
+blood alanine aminotransferase activity level
+serum alanine aminotransferase activity level
+blood alkaline phosphatase activity level
+serum alkaline phosphatase activity level
+blood angiotensin i converting enzyme activity level
+serum angiotensin i converting enzyme activity level
+blood aspartate aminotransferase activity level
+serum aspartate aminotransferase activity level
+blood carboxyhemoglobin level
+plasma total cholesterol level
+plasma urea nitrogen level
+serum urea nitrogen level
+plasma hemoglobin level
+plasma carboxyhemoglobin level
+serum renin activity level
+absolute change in plasma renin activity level
+blood cd4 cell count
+blood cd8 cell count
+blood cd4 cell count to cd8 cell count ratio
+blood cd25 cell count
+blood regulatory t cell count
+blood cd25 cell count to cd4 cell count ratio
+blood cd25 cell count to cd8 cell count ratio
+left ventricular end - systolic blood pressure
+left ventricular end - diastolic blood pressure
+absolute change in systolic blood pressure
+absolute change in diastolic blood pressure
+thymus morphological measurement
+thymus weight
+pituitary gland morphological measurement
+pituitary gland weight
+both adrenal glands weight to body weight ratio
+single kidney wet weight to body weight ratio
+single kidney wet weight as percentage of body weight
+pancreas wet weight
+pancreas dry weight
+single lung wet weight
+liver weight to body weight ratio
+retroperitoneal fat pad weight to body weight ratio
+seminal vesicle weight
+epididymides weight
+motile sperm count to total sperm count ratio
+sperm measurement
+litter measurement
+litter size
+percent of live offspring per litter
+normal sperm count to total sperm count ratio
+daily sperm count
+plasma high density lipoprotein cholesterol level
+plasma low density lipoprotein cholesterol level
+blood very low density lipoprotein cholesterol level
+plasma very low density lipoprotein cholesterol level
+serum very low density lipoprotein cholesterol level
+prostate gland morphological measurement
+prostate gland wet weight
+epididymal fat pad morphological measurement
+epididymal fat pad weight to body weight ratio
+blood globulin measurement
+serum total protein level
+heart contraction measurement
+time to onset of heart contraction
+time to peak heart contraction
+heart contraction pressure
+blood lactate dehydrogenase activity level
+plasma lactate dehydrogenase activity level
+serum lactate dehydrogenase activity level
+organ measurement
+heart effluent measurement
+heart effluent volume
+timed heart effluent volume
+organ effluent measurement
+heart effluent enzyme level
+heart effluent lactate dehydrogenase activity level
+organ lesion measurement
+heart lesion measurement
+infarction measurement
+heart infarction measurement
+brain infarction measurement
+heart left ventricle infarction measurement
+infarction size
+heart infarction size
+heart left ventricle infarction size
+heart ventricle weight
+absolute change in body temperature
+blood vessel resistance measurement
+pulmonary vascular resistance  ( pvr )
+calculated pulmonary vascular resistance
+blood vessel distensibility
+blood vessel endothelium measurement
+methylene blue to fapgg metabolism - surface area product ratio
+dose of methacholine at which pulmonary conductance is half its pretreatment value  ( ed50 )
+blood vessel contractile force measurement
+blood vessel maximum contractile force
+chemical response / sensitivity measurement
+calculated blood vessel contractile force measurement
+concentration of phenylephrine at which the force of blood vessel contraction is half the maximum value  ( ec50 )
+logarithm of the concentration of phenylephrine at which the force of blood vessel contraction is half the maximum value  ( log ec50 )
+calculated blood vessel dilation force reduction measurement
+concentration of acetylcholine at which the reduction in force during dilation of a blood vessel is half the maximum value  ( ec50 )
+logarithm of the concentration of acetylcholine at which the reduction in force during dilation of a blood vessel is half the maximum value  ( log ec50 )
+concentration of sodium nitroprusside at which the reduction in force during dilation of a blood vessel is half the maximum value  ( ec50 )
+logarithm of the concentration of sodium nitroprusside at which the reduction in force during dilation of a blood vessel is half the maximum value  ( log ec50 )
+blood vessel dilation force reduction measurement
+acetylcholine response / sensitivity measurement
+methacholine response / sensitivity measurement
+phenylephrine response / sensitivity measurement
+sodium nitroprusside response / sensitivity measurement
+water drink intake rate
+change in calculated blood pressure
+change in developed blood pressure
+percent change in developed blood pressure
+change in systolic blood pressure
+percent change in systolic blood pressure
+percent change in left ventricular developed pressure
+change in left ventricular developed pressure
+change in left ventricular systolic blood pressure
+percent change in left ventricular systolic blood pressure
+urine component excretion rate measurement
+urine albumin excretion rate
+urine electrolyte excretion rate
+urine protein excretion rate
+urine sodium excretion rate
+urine potassium excretion rate
+urine chloride excretion rate
+urine creatinine excretion rate
+creatinine clearance
+urine creatinine measurement
+drink intake measurement
+food intake measurement
+drink intake volume
+water drink intake volume
+heart effluent lactate dehydrogenase activity level normalized to heart weight
+mean pulmonary arterial blood pressure
+pulmonary arterial blood pressure measurement
+endocrine / exocrine system measurement
+exocrine gland measurement
+exocrine gland fluid / secretion measurement
+mammary gland measurement
+milk measurement
+milk fat measurement
+milk protein measurement
+milk solids content
+milk somatic cell measurement
+milk somatic cell count
+milk somatic cell score
+milk protein content
+milk protein percentage
+milk protein yield
+milk casein content
+calculated milk casein content
+milk casein index
+milk casein percentage
+milk alpha - casein content
+milk beta - casein content
+milk kappa - casein content
+milk alpha - casein percentage
+milk beta - casein percentage
+milk kappa - casein percentage
+milk whey protein content
+milk alpha - lactalbumin content
+milk beta - lactoglobulin content
+calculated milk whey protein content
+milk alpha - lactalbumin percentage
+milk beta - lactoglobulin percentage
+milk fat yield
+milk fat - to - protein ratio
+milk fat percentage
+milk fatty acid measurement
+milk unsaturated fatty acid measurement
+milk saturated fatty acid measurement
+milk monounsaturated fatty acid measurement
+milk polyunsaturated fatty acid measurement
+milk omega - 3 fatty acid measurement
+milk omega - 6 fatty acid measurement
+milk trans fatty acid measurement
+milk fat content
+milk fatty acid c12:1 ( n - 3 )  percentage
+milk fatty acid cis - 9 - c14:1 percentage
+milk fatty acid cis - 9 - c16:1 percentage
+milk fatty acid cis - 9 - c18:1 percentage
+milk fatty acid trans - 11 - c18:1 percentage
+milk conjugated linoleic acid percentage
+milk fatty acid cis - 9 , cis - 12 - c18:2 percentage
+milk fatty acid c10:0 percentage
+milk fatty acid c12:0 percentage
+milk fatty acid c14:0 percentage
+milk fatty acid c15:0 percentage
+milk fatty acid c16:0 percentage
+milk fatty acid c18:0 percentage
+milk fatty acid c20:0 percentage
+milk fatty acid c24:0 percentage
+milk fatty acid c6:0 percentage
+milk fatty acid c8:0 percentage
+milk vitamin measurement
+milk beta carotene content
+both lungs dry weight
+prostate gland weight
+prostate gland dry weight
+ventral prostate gland weight
+ventral prostate gland wet weight
+ventral prostate gland dry weight
+pituitary gland dry weight
+pituitary gland wet weight
+thymus dry weight
+thymus wet weight
+testis dry weight
+lung morphological measurement
+organ tumorous lesion measurement
+organ non - tumorous lesion measurement
+heart non - tumorous lesion measurement
+testis lesion measurement
+testis non - tumorous lesion measurement
+testis tumorous lesion measurement
+heart tumorous lesion measurement
+mammary gland tumorous lesion measurement
+adipocyte volume
+adipocyte glucose uptake measurement
+adipocyte maximal glucose uptake
+adipocyte basal glucose uptake
+absolute change in adipocyte glucose uptake
+adipocyte maximal glucose uptake to basal glucose uptake ratio
+adipocyte free fatty acid secretion measurement
+adipocyte basal free fatty acid secretion
+adipocyte maximal free fatty acid secretion
+absolute change in adipocyte free fatty acid secretion
+adipocyte maximal free fatty acid secretion to basal free fatty acid secretion ratio
+prostate lesion measurement
+prostate tumorous lesion measurement
+percentage of study population displaying prostate tumorous lesions at a point in time
+prostate tumorous lesion number
+prostate tumorous lesion size measurement
+prostate tumorous lesion area measurement
+area of prostate occupied by tumorous lesions
+area of individual prostate tumorous lesion
+calculated prostate tumorous lesion area measurement
+area of prostate occupied by tumorous lesions to total prostate area ratio
+ventral prostate tumorous lesion measurement
+ventral prostate tumorous lesion number
+percentage of study population displaying ventral prostate tumorous lesions at a point in time
+ventral prostate tumorous lesion size measurement
+ventral prostate tumorous lesion area measurement
+area of individual ventral prostate tumorous lesion
+area of ventral prostate occupied by tumorous lesions
+calculated ventral prostate tumorous lesion area measurement
+area of ventral prostate occupied by tumorous lesions to total ventral prostate area ratio
+single testis wet weight to body weight ratio
+both testes wet weight to body weight ratio
+prostate tumor measurement
+urinary bladder morphological measurement
+ureter morphological measurement
+urethra morphological measurement
+kidney measurement
+renal blood flow rate
+renal arterial blood flow rate
+renal venous blood flow rate
+brain lesion measurement
+brain measurement
+brain non - tumorous lesion measurement
+brain tumorous lesion measurement
+heart right ventricle weight to body weight ratio
+heart right ventricle weight as a percentage of body weight
+musculoskeletal system measurement
+joint measurement
+joint inflammation measurement
+joint inflammation composite score
+platelet aggregation measurement
+platelet measurement
+platelet intracellular calcium level
+platelet function measurement
+cerebrovascular lesion measurement
+percentage of study population displaying cerebrovascular lesions at a point in time
+disease incidence / prevalence measurement
+tumor incidence / prevalence measurement
+organ tumorous lesion incidence / prevalence measurement
+organ non - tumorous lesion incidence / prevalence measurement
+brain non - tumorous lesion incidence / prevalence measurement
+cerebrovascular non - tumorous lesion incidence / prevalence measurement
+percentage of study population developing cerebrovascular lesions during a period of time
+percentage of study population developing prostate tumorous lesions during a period of time
+prostate tumorous lesion incidence / prevalence measurement
+prostate tumor incidence / prevalence measurement
+renal agenesis incidence / prevalence measurement
+unilateral renal agenesis incidence / prevalence measurement
+bilateral renal agenesis incidence / prevalence measurement
+percentage of study population displaying unilateral renal agenesis at a point in time
+percentage of study population developing unilateral renal agenesis during a period of time
+percentage of study population displaying bilateral renal agenesis at a point in time
+percentage of study population developing bilateral renal agenesis during a period of time
+percentage of study population developing ventral prostate tumorous lesions during a period of time
+percentage of study population displaying prostate tumors at a point in time
+percentage of study population developing prostate tumors during a period of time
+mammary tumor incidence / prevalence measurement
+percentage of study population displaying mammary tumors at a point in time
+percentage of study population developing mammary tumors during a period of time
+calculated urine protein level
+urine protein level to body weight ratio
+heart left ventricle morphological measurement
+heart right ventricle morphological measurement
+body movement measurement
+voluntary body movement measurement
+voluntary locomotion measurement
+measurement of voluntary locomotion in an experimental apparatus
+measurement of voluntary locomotion into ,  out of or within a discrete space in an experimental apparatus
+amount of experiment time spent in a discrete space in an experimental apparatus
+percentage of experiment time spent in a discrete space in an experimental apparatus
+number of entries into a discrete space in an experimental apparatus
+percentage of entries into a discrete space in an experimental apparatus
+blood vessel lesion measurement
+calculated blood vessel diameter measurement
+calculated blood vessel wall thickness measurement
+artery wall thickness
+calculated artery wall thickness measurement
+blood vessel inner diameter
+blood vessel outer diameter
+artery inner diameter
+artery outer diameter
+calculated artery diameter measurement
+artery measurement
+artery lesion measurement
+calculated artery lesion measurement
+calculated blood vessel lesion measurement
+blood vessel wall thickness to blood vessel inner diameter ratio
+artery wall thickness to artery inner diameter ratio
+calculated artery inner diameter measurement
+ventricle contraction measurement
+heart left ventricular end - diastolic diameter
+heart left ventricle end - systolic diameter
+calculated heart left ventricle morphological measurement
+heart left ventricle fractional shortening
+heart left ventricle anterior wall thickness
+heart ventricle septal wall thickness
+heart left ventricle relative wall thickness
+heart left ventricle end - diastolic relative wall thickness
+heart anterior wall thickness
+mean velocity of circumferential fiber shortening
+alimentary / gastrointestinal measurement
+heart right ventricle anterior wall thickness
+defecation measurement
+defecation rate
+urine albumin to low molecular weight protein ratio
+superficial glomerulus count
+count of superficial glomeruli directly contacting the kidney surface
+count of superficial glomeruli not directly contacting the kidney surface
+blood hormone level
+blood steroid hormone level
+blood monoamine hormone level
+blood epinephrine level
+serum epinephrine level
+plasma epinephrine level
+blood norepinephrine level
+plasma norepinephrine level
+serum norepinephrine level
+brain infarction volume
+brain infarction size
+change in diastolic blood pressure
+percent change in diastolic blood pressure
+change in cell membrane potential
+absolute change in left ventricular systolic blood pressure
+mortality / survival measurement
+survival measurement
+mortality measurement
+ratio of deaths to total study population during a period of time
+percentage of deaths in a study population during a period of time
+pituitary tumor measurement
+post - insult time to pituitary tumor formation
+pituitary tumor growth rate
+pituitary tumor incidence / prevalence measurement
+percentage of study population developing pituitary tumors during a period of time
+percentage of study population displaying pituitary tumors at a point in time
+pituitary tumor number
+pituitary tumor weight
+pituitary tumor diameter
+pituitary gland tumorous lesion measurement
+head temperature
+core body temperature
+time to first movement outside a discrete space in an experimental apparatus
+stretched - attend posture measurement
+number of stretched - attend posture movements
+number of prompted entries into a discrete space in an experimental apparatus
+number of unprompted entries into a discrete space in an experimental apparatus
+measurement of voluntary immobility
+amount of time spent in voluntary immobility
+percent of time spent in voluntary immobility
+number of periods of voluntary immobility
+experimental autoimmune encephalomyelitis incidence / prevalence measurement
+percentage of study population developing experimental autoimmune encephalomyelitis during a period of time
+percentage of study population displaying experimental autoimmune encephalomyelitis at a point in time
+pancreas measurement
+pancreatic islet measurement
+exocrine pancreas measurement
+pancreatic islet morphological measurement
+endocrine gland measurement
+pancreatic islet area
+single pancreatic islet area
+total area occupied by pancreatic islets
+calculated pancreatic islet area
+pancreatic islet area to total pancreatic area ratio
+pancreatic islet beta cell area
+calculated pancreatic islet beta cell area
+beta cell area to total pancreatic islet area ratio
+liver measurement
+liver lesion measurement
+liver non - tumorous lesion measurement
+liver tumorous lesion measurement
+liver tumorous lesion number
+liver tumorous lesion size measurement
+liver tumorous lesion area measurement
+area of individual liver tumorous lesion
+area of liver occupied by tumorous lesions
+calculated liver tumorous lesion area measurement
+area of liver occupied by tumorous lesions as percentage of total liver area
+liver tumorous lesion area to total liver area ratio
+liver tumorous lesion diameter measurement
+liver tumorous lesion volume measurement
+volume of individual liver tumorous lesion
+volume of liver occupied by tumorous lesions
+calculated liver tumorous lesion volume measurement
+volume of liver occupied by tumorous lesions as percentage of total liver volume
+liver tumorous lesion volume to total liver volume ratio
+mammary gland morphological measurement
+mammary gland terminal end bud count
+blood natural killer cell count
+blood natural killer t cell count
+blood cd4 +  t helper cell count
+liver fibrotic lesion measurement
+liver fibrotic lesion size measurement
+liver fibrotic lesion area measurement
+area of individual liver fibrotic lesion
+area of liver occupied by fibrotic lesions
+calculated liver fibrotic lesion area measurement
+area of liver occupied by fibrotic lesions to total liver area ratio
+liver fibrotic lesion area to total liver area ratio
+tunel - positive cell number to total cell number ratio
+urine protein excretion rate to body weight ratio
+blood cd4th1 cell to cd4 th2 cell ratio
+disease process measurement
+disease onset / diagnosis measurement
+disease severity measurement
+disease progression measurement
+diabetes mellitus onset / diagnosis measurement
+age at onset / diagnosis of diabetes mellitus
+diabetes mellitus incidence / prevalence measurement
+percentage of study population developing diabetes mellitus during a period of time
+percentage of study population displaying diabetes mellitus at a point in time
+calculated apoptotic body measurement
+liver enzyme measurement
+liver ornithine decarboxylase activity
+blood r73 cell count
+blood r73 cell to total mononuclear cell ratio
+blood cd4 cell to r73 cell ratio
+blood cd8 cell count to r73 cell count ratio
+calculated heart left ventricle weight
+cerebral artery inner diameter
+anterior cerebral artery inner diameter
+middle cerebral artery inner diameter
+posterior cerebral artery inner diameter
+kidney lesion measurement
+kidney non - tumorous lesion measurement
+kidney tumorous lesion measurement
+kidney glomerulosclerotic lesion measurement
+calculated kidney glomerulosclerotic lesion measurement
+index of glomerular damage
+percentage of study population developing type 1 diabetes mellitus during a period of time
+percentage of study population developing type 2 diabetes mellitus during a period of time
+percentage of study population displaying type 1 diabetes mellitus at a point in time
+percentage of study population displaying type 2 diabetes mellitus at a point in time
+age at onset / diagnosis of type 1 diabetes mellitus
+age at onset / diagnosis of type 2 diabetes mellitus
+pancreas total protein level
+calculated pancreas total protein level
+pancreas insulin level to pancreas total protein ratio
+calculated intramuscular fat morphological measurement
+calculated skeletal muscle morphological measurement
+skeletal muscle morphological measurement
+skeletal muscle weight
+disease population measurement
+pancreas lesion measurement
+pancreas non - tumorous lesion measurement
+pancreas tumorous lesion measurement
+pancreatic islet lesion measurement
+pancreatic islet non - tumorous lesion measurement
+pancreatic islet tumorous lesion measurement
+pancreatic islet damage composite score
+pancreatic islet non - tumorous lesion count
+muscle measurement
+skeletal system measurement
+intramuscular fat area to skeletal muscle area ratio
+intramuscular fat area to body weight ratio
+intramuscular fat area
+calculated intramuscular fat area
+calculated intramuscular fat weight
+kidney glomerulus morphological measurement
+kidney glomerulus diameter
+calculated renal blood flow rate
+absolute change in renal blood flow rate
+blood phospholipid level
+plasma phospholipid level
+serum phospholipid level
+blood corticosterone level
+plasma corticosterone level
+serum corticosterone level
+kidney glomerulosclerotic lesion count
+kidney glomerulosclerotic lesion count to total glomeruli count ratio
+kidney protein / peptide composition measurement
+renal cortex measurement
+renal medulla measurement
+renal medulla protein measurement
+renal cortex protein measurement
+calculated kidney protein composition measurement
+calculated renal cortex protein composition measurement
+calculated renal medulla protein composition measurement
+kidney trpv4 protein level to beta - actin protein level ratio
+renal cortex trpv4 protein level to beta - actin protein level ratio
+renal medulla trpv4 protein level to beta - actin protein level ratio
+calculated cerebral artery inner diameter measurement
+calculated middle cerebral artery inner diameter measurement
+percent change in middle cerebral artery inner diameter
+heart left ventricle end - diastolic area
+heart left ventricle end - systolic area
+age at time of death
+white adipose tissue weight to body weight ratio
+epididymal plus perirenal white adipose tissue weight to body weight ratio
+body weight to tibia length ratio
+heart weight to tibia length ratio
+both kidneys wet weight to tibia length ratio
+calculated epididymal fat pad weight
+epididymal fat pad weight to tibia length ratio
+hematuria incidence / prevalence measurement
+percentage of study population developing hematuria during a period of time
+percentage of study population displaying hematuria at a point in time
+percentage of study population with hydronephrosis developing hematuria during a period of time
+percentage of study population with hydronephrosis displaying hematuria at a point in time
+hydronephrosis severity measurement
+hydronephrosis severity score
+calculated liver tumorous lesion number
+liver tumorous lesion number to liver area ratio
+creatinine clearance to body weight ratio
+chronic pancreatitis incidence / prevalence measurement
+percentage of study population developing chronic pancreatitis during a period of time
+percentage of study population displaying chronic pancreatitis at a point in time
+pancreatic islet physiological measurement
+pancreatic islet insulin release measurement
+calculated pancreatic islet insulin release measurement
+frequency of pancreatic islet insulin release oscillations
+partial pressure of pancreatic islet oxygen
+adipocyte morphological measurement
+adipocyte area
+adipocyte diameter
+adipocyte circumference
+small intestine length
+large intestine length
+bone mineral density
+blood growth hormone level
+plasma growth hormone level
+serum growth hormone level
+change in mean arterial blood pressure to change in intracerebroventricular sodium concentration ratio
+change in heart rate to change in intracerebroventricular sodium concentration ratio
+nervous system measurement
+autonomic nervous system measurement
+sympathetic nervous system measurement
+nerve activity measurement
+sympathetic nerve activity measurement
+renal sympathetic nerve activity measurement
+change in renal sympathetic nerve activity to change in intracerebroventricular sodium concentration ratio
+ratio of change in renal blood flow to change in renal perfusion pressure
+cerebrospinal fluid measurement
+cerebrospinal fluid chemistry measurement
+cerebrospinal fluid electrolyte measurement
+cerebrospinal fluid chloride level
+cerebrospinal fluid sodium level
+calculated plasma low density lipoprotein cholesterol level
+cubic root of body weight to nasoanal length ratio
+blood thyroid stimulating hormone level
+serum thyroid stimulating hormone level
+plasma thyroid stimulating hormone level
+calculated body region fat morphological measurement
+inguinal fat morphological measurement
+calculated inguinal fat pad weight
+inguinal fat pad weight to body weight ratio
+kidney fibrotic lesion measurement
+kidney fibrotic lesion size measurement
+kidney fibrotic lesion area measurement
+calculated kidney fibrotic lesion area measurement
+kidney fibrotic lesion area to total kidney area ratio
+testis tumor incidence / prevalence measurement
+percentage of study population developing testis tumors during a period of time
+percentage of study population displaying testis tumors at a point in time
+bilateral testis tumor incidence / prevalence measurement
+percentage of study population developing bilateral testis tumors during a period of time
+percentage of study population displaying bilateral testis tumors at a point in time
+leukemia incidence / prevalence measurement
+percentage of study population developing leukemia during a period of time
+percentage of study population displaying leukemia at a point in time
+kidney sclerotic glomeruli count to total glomeruli count ratio
+urine albumin excretion rate to body weight ratio
+plasma anti - collagen antibody level
+plasma anti - type 2 collagen antibody level
+plasma anti - bovine type 2 collagen antibody level
+plasma anti - porcine type 2 collagen antibody level
+plasma anti - rat type 2 collagen antibody level
+serum immunoglobulin measurement
+serum antibody level
+calculated serum anti - porcine type 2 collagen antibody titer
+calculated serum anti - type 2 collagen antibody titer
+serum anti - collagen antibody level
+calculated serum anti - rat type 2 collagen autoantibody titer
+serum anti - bovine type 2 collagen antibody level
+blood troponin t level
+serum troponin t level
+plasma troponin t level
+blood thyroid hormone level
+blood thyroxine level
+plasma thyroxine level
+serum thyroxine level
+blood triiodothyronine level
+plasma triiodothyronine level
+serum triiodothyronine level
+blood glucagon level
+serum glucagon level
+plasma glucagon level
+blood insulin - like growth factor 1 level
+serum insulin - like growth factor 1 level
+plasma insulin - like growth factor 1 level
+serum insulin - like growth factor 2 level
+plasma insulin - like growth factor 2 level
+blood insulin - like growth factor 2 level
+blood lactate level
+serum lactate level
+plasma lactate level
+milk yield
+average daily milk yield
+305 - day milk yield
+milk urea nitrogen measurement
+milk urea nitrogen content
+milk urea nitrogen yield
+feed conversion ratio
+dry matter intake
+average daily food intake weight
+residual feed intake
+total heart ventricle weight
+calculated total heart ventricle weight
+total heart ventricle weight as a percentage of body weight
+lumbar vertebrae number
+rib number
+blood gas measurement
+blood carbon dioxide level
+oxygen saturation
+base excess
+male reproductive organ weight
+male reproductive organ volume
+testis volume
+single testis volume
+both testes volume
+body height at withers
+body height at hip
+egg weight ,  fowl
+egg yolk measurement ,  fowl
+eggshell measurement ,  fowl
+egg albumen measurement ,  fowl
+eggshell weight ,  fowl
+eggshell percentage ,  fowl
+eggshell color ,  fowl
+eggshell strength ,  fowl
+eggshell thickness ,  fowl
+egg albumen weight ,  fowl
+egg albumen height ,  fowl
+egg albumen percentage ,  fowl
+egg length ,  fowl
+egg width ,  fowl
+egg specific gravity ,  fowl
+mean platelet volume
+plateletcrit
+platelet distribution width
+viable sperm count to total sperm count ratio
+abnormal sperm count to total sperm count ratio
+semen measurement
+semen volume
+semen ph
+red blood cell measurement
+red blood cell na +  / k +  atpase activity
+calculated blood glucagon level
+blood insulin to glucagon ratio
+calculated blood thyroid hormone level
+blood triiodothyronine to thyroxine ratio
+calculated blood lipoprotein level
+calculated serum lipoprotein level
+calculated plasma lipoprotein level
+serum high density lipoprotein cholesterol to low density lipoprotein cholesterol ratio
+horn morphological measurement
+skin measurement
+skin morphological measurement
+horn length
+horn circumference
+back fat thickness ,  last rib
+back fat thickness ,  last lumbar vertebra
+offspring measurement
+number of offspring
+stillborn offspring number
+weaned offspring number
+femur morphological measurement
+tibia morphological measurement
+humerus morphological measurement
+humerus area
+mid - humerus width
+tibia area measurement
+milk polyunsaturated fatty acid percentage
+milk monounsaturated fatty acid percentage
+milk saturated fatty acid percentage
+milk fatty acid cis - 10 - c17:1 percentage
+milk fatty acid cis - 11 - c18:1 percentage
+milk fatty acid c18:3  ( n - 3 )  percentage
+milk fatty acid cis - 5 , 8 , 11 , 14 - c20:4 percentage
+milk fatty acid c17:0 percentage
+milk fatty acid c4:0 percentage
+milk omega - 6 to omega - 3 fatty acid ratio
+milk palmitoleic to palmitic acid ratio
+longissimus muscle weight
+semitendinosus muscle weight
+semimembranosus muscle weight
+biceps femoris muscle weight
+gluteus medius muscle weight
+body weight loss
+ratio of maximum body weight loss to basal body weight
+relapsing - remitting experimental autoimmune encephalomyelitis incidence / prevalence measurement
+percentage of study population developing relapsing - remitting experimental autoimmune encephalomyelitis during a period of time
+percentage of study population displaying relapsing - remitting experimental autoimmune encephalomyelitis at a point in time
+experimental autoimmune encephalomyelitis onset / diagnosis measurement
+distance run on treadmill
+maximum distance run on treadmill
+ethanol drink intake rate
+artery lumen measurement
+artery lumen area
+artery wall measurement
+artery tunica media measurement
+artery tunica media area
+artery tunica media width
+artery neointimal hyperplastic lesion area
+calculated artery neointimal hyperplastic lesion area
+artery neointimal hyperplastic lesion area to total wall area ratio
+lesioned artery residual lumen area
+experimental autoimmune encephalomyelitis severity measurement
+experimental autoimmune encephalomyelitis severity score
+calculated liver tumorous lesion measurement
+ratio of proliferating cell nuclear antigen - positive cells to total liver tumorous lesion cells
+post - insult time to onset of experimental autoimmune encephalomyelitis
+experimental autoimmune encephalomyelitis progression measurement
+experimental autoimmune encephalomyelitis duration
+both kidneys dry weight
+single kidney dry weight
+exudate measurement
+inflammatory exudate measurement
+inflammatory exudate volume
+inflammatory exudate cell count
+inflammatory exudate neutrophil count
+inflammatory exudate mononuclear leukocyte count
+inflammatory exudate protein measurement
+inflammatory exudate total protein level
+inflammatory exudate tumor necrosis factor level
+inflammatory exudate nitric oxide level
+inflammatory exudate eicosanoid measurement
+inflammatory exudate leukotriene b4 level
+inflammatory exudate lipoxin a4 level
+calculated inflammatory exudate eicosanoid measurement
+inflammatory exudate leukotriene b4 level to lipoxin a4 level ratio
+measurement of voluntary horizontal locomotion in an experimental apparatus
+total horizontal distance resulting from voluntary locomotion in an experimental apparatus
+adipocyte maximal radioactive glucose uptake
+adipocyte basal radioactive glucose uptake
+absolute change in adipocyte free fatty acid secretion per unit volume
+absolute change in adipocyte free fatty acid secretion per cell
+arthritis onset / diagnosis measurement
+experimental arthritis onset / diagnosis measurement
+post - insult time to onset of experimental arthritis
+arthritis incidence / prevalence measurement
+experimental arthritis incidence / prevalence measurement
+percentage of study population developing experimental arthritis during a period of time
+percentage of study population displaying experimental arthritis at a point in time
+chronic experimental arthritis incidence / prevalence measurement
+percentage of study population developing chronic experimental arthritis during a period of time
+percentage of study population displaying chronic experimental arthritis at a point in time
+arthritis severity measurement
+experimental arthritis severity measurement
+arthritic paw count
+liver remodeling tumorous lesion number
+liver nonremodeling tumorous lesion number
+liver remodeling tumorous lesion volume to total liver volume ratio
+liver nonremodeling tumorous lesion volume to total liver volume ratio
+blood orosomucoid 1 level
+serum orosomucoid 1 level
+plasma orosomucoid 1 level
+liver volume
+liver size measurement
+liver tumorous lesion number to liver volume ratio
+blood alpha - fetoprotein level
+serum alpha - fetoprotein level
+plasma alpha - fetoprotein level
+aorta measurement
+aorta morphological measurement
+blood flow velocity
+arterial blood flow velocity
+aortic blood flow velocity
+aortic blood flow measurement
+aortic blood flow rate
+peak aortic velocity
+heart isovolumetric relaxation time
+heart left atrium morphological measurement
+heart right atrium morphological measurement
+heart left atrium end - systolic diameter
+heart left atrium end - diastolic diameter
+calculated heart left atrium morphological measurement
+heart left atrium fractional shortening
+joint mobility measurement
+ankylosis in experimental arthritis incidence / prevalence measurement
+ratio of subjects with ankylosis to total subjects with arthritis
+time to first movement outside a discrete space in a an experimental apparatus following a stimulus
+distance moved per unit of time into ,  out of or within a discrete space in an experimental apparatus
+hind limb weight
+blood mononuclear cell count
+lymphatic system morphological measurement
+lymph node morphological measurement
+lymph node weight
+lymph node wet weight
+lymph node dry weight
+inguinal lymph nodes wet weight
+uveitis severity measurement
+experimental autoimmune uveitis severity measurement
+experimental autoimmune uveitis score
+liver mineral measurement
+liver copper measurement
+liver total copper weight
+liver copper weight
+calculated liver copper weight
+liver copper weight to liver weight ratio
+liver copper weight to liver wet weight ratio
+liver copper weight to liver dry weight ratio
+liver copper weight to body weight ratio
+number of 20 x 20 cm floor squares crossed into ,  out of or within a discrete space in an experimental apparatus
+rearing measurement
+number of rearing movements
+number of photobeam interruptions in an experimental apparatus
+involuntary body movement measurement
+acoustic startle response measurement
+amplitude of the acoustic startle response
+experimental autoimmune neuritis incidence / prevalence measurement
+percentage of study population developing experimental autoimmune neuritis during a period of time
+percentage of study population displaying experimental autoimmune neuritis at a point in time
+experimental autoimmune neuritis onset / diagnosis measurement
+age of onset of experimental autoimmune neuritis
+post - insult time to onset of experimental autoimmune neuritis
+experimental autoimmune neuritis severity measurement
+experimental autoimmune neuritis severity score
+serum globulin measurement
+plasma globulin measurement
+blood immunoglobulin measurement
+plasma e . coli specific antibody measurement
+serum anti - dna antibody level
+serum anti - dsdna antibody level
+serum anti - ssdna antibody level
+plasma anti - ssdna antibody level
+plasma anti - dsdna antibody level
+plasma anti - dna antibody level
+serum anti - laminin antibody level
+plasma anti - laminin antibody level
+plasma total immunoglobulin e level
+serum total immunoglobulin e level
+calculated blood flow measurement
+myocardium measurement
+myocardial flow rate
+myocardial clearance rate
+ureter measurement
+urethra measurement
+urinary bladder measurement
+bone measurement
+bone physiological measurement
+bone mineral morphological measurement
+volumetric bone mineral density
+bone mineral content
+calculated bone mineral content measurement
+bone mineral content to body weight ratio
+bone biomechanical measurement
+bone polar moment of inertia
+calculated bone biomechanical measurement
+bone polar moment of inertia to body weight ratio
+bone ultimate force
+blood intermediate density lipoprotein cholesterol level
+plasma intermediate density lipoprotein cholesterol level
+serum intermediate density lipoprotein cholesterol level
+blood high density lipoprotein phospholipid level
+plasma high density lipoprotein phospholipid level
+serum high density lipoprotein phospholipid level
+blood low density lipoprotein phospholipid level
+plasma low density lipoprotein phospholipid level
+serum low density lipoprotein phospholipid level
+blood very low density lipoprotein phospholipid level
+plasma very low density lipoprotein phospholipid level
+serum very low density lipoprotein phospholipid level
+blood intermediate density lipoprotein phospholipid level
+plasma intermediate density lipoprotein phospholipid level
+serum intermediate density lipoprotein phospholipid level
+plasma chylomicron level
+serum chylomicron level
+immune system measurement
+lymphatic system measurement
+lymph node measurement
+post - insult time to onset of diabetes mellitus
+cataract onset / diagnosis measurement
+age of onset / diagnosis of cataract
+cataract incidence / prevalence measurement
+percentage of study population developing cataract during a period of time
+percentage of study population displaying cataract at a point in time
+ethanol drink intake volume
+calculated ethanol drink intake volume
+calculated water drink intake volume
+ethanol intake volume to total fluid intake volume ratio
+liver tumor measurement
+liver tumor incidence / prevalence measurement
+percentage of study population developing liver tumors during a period of time
+percentage of study population displaying liver tumors at a point in time
+liver lipid measurement
+liver cholesterol level
+liver triglyceride level
+saccharin drink intake volume
+calculated saccharin drink intake volume
+saccharin intake volume to total fluid intake volume ratio
+epididymidis wet weight
+seminal vesicle wet weight
+one seminal vesicle wet weight
+both seminal vesicles wet weight
+both epididymides wet weight
+one epididymidis wet weight
+calculated sperm count
+sperm count to epididymis weight ratio
+calculated daily sperm count
+daily sperm count to epididymis weight ratio
+saccharin drink intake rate
+calculated saccharin drink intake rate
+saccharin drink intake rate to body weight ratio
+calculated ethanol drink intake rate
+ethanol drink intake rate to body weight ratio
+percentage of study population developing pituitary tumors that replace the entire gland during a period of time
+percentage of study population developing pituitary tumors that replace a portion of the gland during a period of time
+percentage of study population developing pituitary tumors that invade the glandular capsule during a period of time
+pituitary gland hyperplastic lesion measurement
+pituitary gland hyperplastic lesion incidence / prevalence measurement
+percentage of study population developing pituitary gland hyperplastic lesions during a period of time
+percentage of study population displaying pituitary gland hyperplastic lesions at a point in time
+pituitary gland tumorous lesion incidence / prevalence measurement
+percentage of disease population developing relapsing - remitting experimental autoimmune encephalomyelitis during a period of time
+percentage of disease population displaying relapsing - remitting experimental autoimmune encephalomyelitis at a point in time
+saline drink intake rate
+saline drink intake volume
+urine norepinephrine level
+urine epinephrine level
+urine dopamine level
+urine vanillylmandelic acid level
+calculated urine norepinephrine level
+absolute change in urine norepinephrine level
+calculated urine vanillylmandelic acid level
+absolute change in urine vanillylmandelic acid level
+inguinal fat pad weight
+single inguinal fat pad weight to body weight ratio
+both inguinal fat pads weight to body weight ratio
+blood vessel smooth muscle measurement
+aorta wall morphological measurement
+aorta smooth muscle cell count
+blood vessel smooth muscle cell count
+calculated blood vessel smooth muscle cell count
+calculated aorta smooth muscle cell count
+aorta smooth muscle cell count per unit vessel length
+heart left ventricle deoxyribonucleic acid content
+calculated heart left ventricle deoxyribonucleic acid content
+heart left ventricle deoxyribonucleic acid content to body weight ratio
+heart right ventricle deoxyribonucleic acid content
+calculated heart right ventricle deoxyribonucleic acid content
+heart right ventricle deoxyribonucleic acid content to body weight ratio
+receptor - independent blood vessel maximum contractile force
+receptor - dependent blood vessel maximum contractile force
+calculated blood vessel maximum contractile force measurement
+receptor - dependent blood vessel maximum contractile force to receptor - independent blood vessel maximum contractile force ratio
+concentration of angiotensin ii at which the force of blood vessel contraction is half the maximum value  ( ec50 )
+logarithm of the concentration of angiotensin ii at which the force of blood vessel contraction is half the maximum value  ( log ec50 )
+angiotensin ii response / sensitivity measurement
+femur area
+femur cross - sectional area
+femur cortical cross - sectional area
+femur midshaft cortical cross - sectional area
+femur biomechanical measurement
+vertebra biomechanical measurement
+femoral neck biomechanical measurement
+femur midshaft biomechanical measurement
+femur polar moment of inertia
+femur midshaft polar moment of inertia
+femoral neck polar moment of inertia
+femur midshaft morphological measurement
+femoral neck morphological measurement
+bone stiffness
+femur stiffness
+femur ultimate force
+bone total energy absorbed before break
+femur total energy absorbed before break
+vertebra ultimate force
+vertebra morphological measurement
+vertebra length
+bone area measurement
+calculated bone cross - sectional area measurement
+lumbar vertebra length
+vertebra area
+vertebra cross - sectional area
+vertebra cortical cross - sectional area
+lumbar vertebra morphological measurement
+lumbar vertebra area
+lumbar vertebra cross - sectional area
+lumbar vertebra cortical cross - sectional area
+vertebra trabecular cross - sectional area
+lumbar vertebra trabecular cross - sectional area
+bone cross - sectional area measurement
+calculated femur cross - sectional area
+femoral neck width
+femoral neck area
+femoral neck cross - sectional area
+calculated femoral neck cross - sectional area
+femur midshaft area
+femur midshaft cross - sectional area
+calculated femur midshaft cross - sectional area
+femoral neck cortical cross - sectional area
+femoral neck ultimate force
+calculated liver remodeling tumorous lesion number
+liver remodeling tumorous lesion number to liver total tumorous lesion number ratio
+liver tumor number
+benign liver tumor number
+malignant liver tumor number
+benign liver tumor incidence / prevalence measurement
+malignant liver tumor incidence / prevalence measurement
+percentage of study population developing benign liver tumors during a period of time
+percentage of study population developing malignant liver tumors during a period of time
+percentage of study population displaying benign liver tumors at a point in time
+percentage of study population displaying malignant liver tumors at a point in time
+tibia midshaft total cross - sectional area
+tibia midshaft endosteal cross - sectional area
+tibia midshaft cross - sectional area
+tibia - fibula cross - sectional area
+fibula morphological measurement
+fibula area
+tibia - fibula cortical bone total cross - sectional area
+tibia - fibula cortical bone endosteal cross - sectional area
+tibia volume measurement
+tibia total bone volume
+tibia cortical bone volume
+calculated tibia bone volume
+tibia cortical bone volume to tibia total bone volume ratio
+total volumetric bone mineral density
+trabecular volumetric bone mineral density
+cortical volumetric bone mineral density
+tibia straight segment length
+tibia curved segment length
+tibia biomechanical measurement
+tibia ultimate force
+tibia stiffness
+tibia total energy absorbed before break
+brain activity measurement
+brain spike - and - wave discharge measurement
+brain spike - and - wave discharge rate
+brain total spike - and - wave discharge duration
+brain spike - and - wave discharge amplitude
+brain spike - and - wave discharge frequency
+absolute change in left ventricular diastolic blood pressure
+calculated left ventricular blood pressure
+maximum rate of positive change in left ventricular blood pressure
+maximum rate of negative change in left ventricular blood pressure
+time constant of left ventricular pressure decay
+grooming measurement
+duration of grooming in an experimental apparatus
+duration of grooming in a discrete space in an experimental apparatus
+number of periods of grooming in an experimental apparatus
+number of rearing movements in an experimental apparatus
+number of rearing movements in a discrete space in an experimental apparatus
+time to first movement in an experimental apparatus
+calculated pituitary gland morphological measurement
+pituicyte count
+lactotroph count to total pituicyte count ratio
+endometrioid carcinoma incidence / prevalence measurement
+percentage of study population developing endometrioid carcinoma during a period of time
+percentage of study population displaying endometrioid carcinoma at a point in time
+total surface area of liver occupied by tumorous lesions
+drink intake weight
+ethanol intake weight
+calculated ethanol intake weight
+ethanol intake weight to body weight ratio
+body movement / balance measurement
+balance measurement
+quinine drink intake volume
+calculated quinine drink intake volume
+combined water and quinine - water intake to total water only intake ratio
+calculated blood ethanol level
+blood ethanol clearance rate
+decrease in blood ethanol level to body weight ratio per unit time
+calculated food intake measurement
+absolute change in food intake
+absolute change in food intake weight
+absolute change in food intake volume
+percent change in food intake
+percent change in food intake volume
+percent change in food intake weight
+blood catecholamine hormone level
+blood dopamine level
+serum dopamine level
+plasma dopamine level
+calculated renal sympathetic nerve activity measurement
+stimulated renal sympathetic nerve activity to basal renal sympathetic nerve activity ratio
+endometrial tumor measurement
+endometrial adenocarcinoma measurement
+endometrial adenocarcinoma incidence / prevalence measurement
+percentage of study population developing endometrial adenocarcinomas during a period of time
+percentage of study population displaying endometrial adenocarcinomas at a point in time
+combined water and saccharin - water intake to total water only intake ratio
+colorectal tumor measurement
+colorectal tumor number
+benign colorectal tumor number
+malignant colorectal tumor number
+colorectal tumor surface area measurement
+malignant colorectal tumor surface area measurement
+benign colorectal tumor surface area measurement
+colorectal tumor incidence / prevalence measurement
+percentage of study population developing colorectal tumors during a period of time
+percentage of study population developing malignant colorectal tumors during a period of time
+percentage of study population developing benign colorectal tumors during a period of time
+percentage of study population displaying colorectal tumors at a point in time
+percentage of study population displaying malignant colorectal tumors at a point in time
+percentage of study population displaying benign colorectal tumors at a point in time
+coat / hair morphological measurement
+coat / hair color measurement
+calculated coat / hair color measurement
+pigmented coat / hair area to total coat / hair area ratio
+pigmented dorsal coat / hair area to total dorsal coat / hair area ratio
+pigmented ventral coat / hair area to total ventral coat / hair area ratio
+ratio of insulin - positive cell area to total area of duodenal region of pancreas
+ratio of insulin - positive cell area to total area of splenic region of pancreas
+pancreatic islet weight
+calculated pancreatic islet weight
+calculated total pancreatic islet beta cell weight
+calculated weight of islet beta cells in duodenal region of pancreas
+calculated weight of islet beta cells in splenic region of pancreas
+duodenal region pancreatic beta cell weight calculated as the product of pancreas duodenal region weight and corresponding beta cell fractional area
+splenic region pancreatic beta cell weight calculated as the product of pancreas splenic region weight and corresponding beta cell fractional area
+blood prolactin level
+serum prolactin level
+plasma prolactin level
+infection severity measurement
+parasitic infection severity measurement
+parasite count
+blood antibody level
+plasma anti - toxoplasma antibody level
+serum anti - toxoplasma antibody level
+blood anti - parasite antibody measurement
+blood anti - toxoplasma antibody level
+immunoglobulin measurement
+colonic aganglionosis severity measurement
+calculated colonic aganglionosis severity measurement
+length of intestine affected by colonic aganglionosis to total length of colon ratio
+colonic aganglionosis incidence / prevalence measurement
+percentage of study population displaying colonic aganglionosis at a point in time
+percentage of study population developing colonic aganglionosis during a period of time
+heart left ventricle end - systolic posterior wall thickness
+thymus cell count
+thymus total cell count
+thymocyte count
+thymus stromal cell count
+tcr +  thymocyte count
+cd45r +  thymocyte count
+thymus measurement
+spleen measurement
+bone marrow measurement
+urine fractional sodium excretion
+bone marrow morphological measurement
+kidney molecular composition measurement
+kidney lipid composition measurement
+kidney 20 - hete level
+urine sodium excretion rate to body weight ratio
+pancreatic islet molecular composition measurement
+pancreatic islet insulin level
+acute experimental autoimmune encephalomyelitis incidence / prevalence measurement
+percentage of study population developing acute experimental autoimmune encephalomyelitis during a period of time
+percentage of study population displaying acute experimental autoimmune encephalomyelitis at a point in time
+antibody measurement
+antibody titer
+autoantibody titer
+immune cell measurement
+immune cell count
+lymphocyte tracer radioactivity measurement
+calculated lymphocyte tracer radioactivity measurement
+kidney - specific lymphocyte tracer radioactivity measurement
+lymph node - specific lymphocyte tracer radioactivity measurement
+lymph node - specific lymphocyte tracer radioactivity level to kidney - specific lymphocyte tracer radioactivity level ratio
+head and neck tumor measurement
+squamous cell carcinoma of the head and neck measurement
+squamous cell carcinoma of the tongue measurement
+squamous cell carcinoma of the tongue tumor diameter
+squamous cell carcinoma of the tongue maximum tumor diameter
+squamous cell carcinoma of the head and neck tumor number
+non - tongue squamous cell carcinoma of the head and neck tumor number
+squamous cell carcinoma of the tongue tumor number
+number of squamous cell tumors of the tongue with diameter greater than 5 mm
+hydrocephalus severity measurement
+hydrocephalus severity score
+absolute change in pulse pressure
+stomach measurement
+stomach lesion measurement
+stomach tumorous lesion measurement
+stomach non - tumorous lesion measurement
+stomach tumor measurement
+stomach tumor depth of invasion
+stomach tumor diameter
+stomach tumor number
+chronic experimental autoimmune encephalomyelitis incidence / prevalence measurement
+percentage of study population displaying chronic experimental autoimmune encephalomyelitis at a point in time
+percentage of study population developing chronic experimental autoimmune encephalomyelitis during a period of time
+compensatory renal growth score
+moribundity measurement
+post - insult time to onset of moribundity
+ratio of change in renal blood flow rate to kidney weight
+renal vascular resistance
+calculated renal vascular resistance
+absolute change in renal vascular resistance
+slope of contraction - induced renal vascular resistance curve
+urine total protein excretion rate to body weight ratio
+leukemia onset / diagnosis measurement
+post - insult time to onset of leukemia
+lymphoma onset / diagnosis measurement
+t - cell lymphoma onset / diagnosis measurement
+post - insult time to onset of t - cell lymphoma
+lymphoma incidence / prevalence measurement
+t - cell lymphoma incidence / prevalence measurement
+percentage of study population displaying t - cell lymphomas at a point in time
+percentage of study population developing t - cell lymphomas during a period of time
+lymphoma measurement
+artery internal elastic lamina non - tumorous lesion count
+renal plasma flow
+ratio of the effective renal plasma flow to the weight of both kidneys
+effective renal plasma flow
+calculated renal plasma flow
+liver nucleic acid measurement
+liver ribonucleic acid composition measurement
+liver glutathione s - transferase - placental form mrna level
+liver gamma - glutamyltranspeptidase mrna level
+liver o - 6 - methylguanine - dna methyltransferase mrna level
+blood acute phase protein measurement
+blood cytokine measurement
+blood interleukin measurement
+blood interleukin - 6 level
+plasma interleukin - 6 level
+serum interleukin - 6 level
+blood murinoglobulin 1 level
+serum murinoglobulin 1 level
+plasma murinoglobulin 1 level
+number of live offspring per litter
+brain lipid measurement
+brain sterol level
+brain cholesterol level
+brain phytosterol level
+brain campesterol level
+brain sitosterol level
+liver sterol level
+liver sitosterol level
+liver campesterol level
+liver phytosterol level
+plasma sitosterol level
+plasma campesterol level
+plasma phytosterol level
+front foot morphological measurement
+front foot phalanges count
+hind foot morphological measurement
+hind foot phalanges count
+number of squamous cell tumors of the tongue with diameter greater than 3 mm
+calculated single kidney weight
+calculated both kidneys weight
+right kidney wet weight to body weight ratio
+left kidney wet weight to body weight ratio
+renal blood flow rate to kidney weight ratio
+blood cartilage oligomeric matrix protein level
+serum cartilage oligomeric matrix protein level
+plasma cartilage oligomeric matrix protein level
+defensive burying measurement
+number of approaches toward negative stimulus before onset of defensive burying response
+defensive burying duration
+post - insult time to onset of defensive burying response
+volume of liver occupied by nonremodeling tumorous lesions
+volume of liver occupied by remodeling tumorous lesions
+change in mean arterial blood pressure to change in the logarithm of the vasoconstrictor dose ratio
+kidney glomerulosclerotic lesion diameter
+kidney glomerulosclerotic lesion diameter to mean arterial blood pressure ratio
+timed urine volume to body weight ratio
+brain physiological measurement
+central nervous system measurement
+brain ventricle morphological measurement
+brain ventricle measurement
+calculated brain ventricle morphological measurement
+brain ventricle width to brain width ratio
+spinal cord measurement
+spinal cord morphological measurement
+spinal cord ventral horn morphological measurement
+spinal cord ventral horn area
+calculated spinal cord ventral horn area measurement
+mhc class ii rt1a - positive spinal cord ventral horn area to total spinal cord ventral horn area ratio
+spinal cord molecular composition measurement
+spinal cord mhc class ii protein measurement
+motor neuron count
+nervous system cell measurement
+calculated motor neuron count
+logarithm of the ratio of the lesioned side motor neuron count to contralateral side motor neuron count
+central nervous system physiological measurement
+brain spike - and - wave discharge severity grade
+calculated blood cd8 cell count
+blood cd45rchigh cd8 t cell count to cd45rclow cd8 t cell count ratio
+blood cd45rclow cd8 t cell count to total cd8 t cell count ratio
+percentage of study population developing experimental diabetes mellitus during a period of time
+percentage of study population displaying experimental diabetes mellitus at a point in time
+post - insult time to onset of experimental diabetes mellitus
+post - insult time to onset of type 2 diabetes mellitus
+post - insult time to onset of type 1 diabetes mellitus
+blood vessel morphological measurement
+aorta wall molecular composition measurement
+aorta wall extracellular elastin level
+aorta wall extracellular collagen level
+calculated aorta wall molecular composition measurement
+aorta wall extracellular elastin dry weight to aorta wall dry weight ratio
+aorta wall extracellular elastin dry weight to aorta wall extracellular collagen weight ratio
+aorta wall intracellular protein level
+post - insult time of death
+squamous cell carcinoma of the oral cavity measurement
+squamous cell carcinoma of the oral cavity tumor number
+pyometritis severity measurement
+pyometritis severity score
+pyometritis incidence / prevalence measurement
+percentage of study population displaying pyometritis at a point in time
+percentage of study population developing pyometritis during a period of time
+nervous system tumor measurement
+neurilemmoma incidence / prevalence measurement
+trigeminal nerve neurilemmoma incidence / prevalence measurement
+percentage of study population displaying trigeminal nerve neurilemmomas at a point in time
+percentage of study population developing trigeminal nerve neurilemmomas during a period of time
+neurilemmoma onset / diagnosis measurement
+post - insult time to trigeminal nerve neurilemmoma formation
+neurilemmoma measurement
+trichinosis severity measurement
+calculated trichinosis severity measurement
+intestinal adult trichinella spiralis count
+logarithm of the intestinal adult trichinella spiralis count
+infection incidence / prevalence measurement
+parasitic infection incidence / prevalence measurement
+toxoplasma gondii infection incidence / prevalence measurement
+percentage of study population displaying toxoplasma gondii brain cysts at a point in time
+percentage of study population developing toxoplasma gondii brain cysts during a period of time
+plasma anti - toxoplasma antibody titer
+serum anti - toxoplasma antibody titer
+percentage of study population developing unilateral left - sided renal agenesis during a period of time
+percentage of study population displaying unilateral left - sided renal agenesis at a point in time
+absolute change in blood glucose level area under curve
+percent change in mean arterial blood pressure
+change in heart rate to change in mean arterial blood pressure ratio
+maximum change in heart rate to change in mean arterial blood pressure ratio
+absolute change in serum insulin level
+calculated serum triglyceride level
+serum insulin level times blood glucose level
+serum uric acid level
+plasma uric acid level
+stomach tumor susceptibility score
+absolute change in body weight
+change in body weight
+calculated acoustic startle response measurement
+measurement of prepulse inhibition of the acoustic startle response
+blood sterol level
+serum sterol level
+plasma sterol level
+blood phytosterol level
+serum phytosterol level
+mean duration of a single spike - and - wave discharge train
+brain type ii spike - and - wave discharge amplitude
+brain type i spike - and - wave discharge amplitude
+brain type i spike - and - wave discharge frequency
+brain type ii spike - and - wave discharge frequency
+brain type i spike - and - wave discharge rate
+brain type ii spike - and - wave discharge rate
+brain type i spike - and - wave discharge severity grade
+brain type ii spike - and - wave discharge severity grade
+brain total type i spike - and - wave discharge duration
+brain total type ii spike - and - wave discharge duration
+mean duration of a single type i spike - and - wave discharge train
+mean duration of a single type ii spike - and - wave discharge train
+brain molecular composition measurement
+tissue molecular composition measurement
+brain neurotensin receptor 1 density
+abdominal subcutaneous fat weight
+creatinine clearance to total kidney weight ratio
+percentage of study population developing poorly differentiated malignant colorectal tumors during a period of time
+percentage of study population developing well differentiated malignant colorectal tumors during a period of time
+percentage of study population displaying well differentiated malignant colorectal tumors at a point in time
+percentage of study population displaying poorly differentiated malignant colorectal tumors at a point in time
+well differentiated malignant colorectal tumor number
+poorly differentiated malignant colorectal tumor number
+well differentiated malignant colorectal tumor surface area measurement
+poorly differentiated malignant colorectal tumor surface area measurement
+neonatal body weight
+fetal body weight
+offspring morphological measurement
+fetus morphological measurement
+neonate morphological measurement
+female reproductive organ measurement
+placenta measurement
+placenta morphological measurement
+placenta weight
+placenta wet weight
+placenta dry weight
+placenta weight at gestational day 20
+blood immunoglobulin g level
+blood immunoglobulin m level
+blood immunoglobulin d level
+blood immunoglobulin a level
+serum immunoglobulin a level
+plasma immunoglobulin a level
+serum immunoglobulin d level
+plasma immunoglobulin d level
+blood immunoglobulin e level
+plasma immunoglobulin e level
+serum immunoglobulin e level
+serum immunoglobulin g level
+plasma immunoglobulin g level
+serum immunoglobulin m level
+plasma immunoglobulin m level
+autoantibody measurement
+blood autoantibody level
+plasma autoantibody level
+serum autoantibody level
+serum total immunoglobulin m level
+serum immunoglobulin m - type rheumatoid factor level relative to an arbitrary reference serum
+serum immunoglobulin g - type rheumatoid factor level relative to an arbitrary reference serum
+serum total immunoglobulin g level
+serum immunoglobulin g subclass level
+serum immunoglobulin g1 level
+serum immunoglobulin g2a level
+mononuclear cell measurement
+mononuclear cell count
+spleen mononuclear cell count
+mononuclear cell interferon gamma secretion
+splenic interferon gamma - secreting mononuclear cell count
+spinal cord protein / peptide composition measurement
+spinal cord mrna composition measurement
+spinal cord beta - 2 microglobulin mrna level
+spinal cord complement component 1 ,  q subcomponent ,  b chain mrna level
+spinal cord cd74 mrna level
+spinal cord rt1 - b mrna level
+spinal cord beta - 2 microglobulin protein level
+spinal cord complement component 1 ,  q subcomponent ,  b chain protein level
+spinal cord cd74 protein level
+spinal cord rt1 - b protein level
+calculated voluntary body movement measurement
+vocalization measurement
+calculated vocalization measurement
+tameness / aggressiveness composite score
+enterocolitis severity measurement
+enterocolitis severity score
+kidney crescentic glomeruli count to kidney normal glomeruli count ratio
+calculated plasma albumin level
+plasma albumin to plasma non - albumin protein ratio
+measurement of stereotypical movement
+self mutilation measurement
+self mutilation severity measurement
+self mutilation severity score
+joint morphological measurement
+joint diameter
+ankle joint diameter
+left rear ankle joint diameter
+right rear ankle joint diameter
+calculated ankle joint diameter
+absolute change in left rear ankle joint diameter
+absolute change in right rear ankle joint diameter
+absolute change in the sum of right rear ankle joint diameter and left rear ankle joint diameter
+liver disease severity measurement
+liver granuloma severity measurement
+liver granuloma severity score
+urine chloride excretion rate to body weight ratio
+urine potassium excretion rate to body weight ratio
+calculated urine electrolyte excretion rate
+calculated heart rate measurement
+absolute change in electrocardiographic low frequency r - r spectral component to high frequency r - r spectral component ratio
+pituicyte measurement
+heart left ventricle molecular composition measurement
+heart left ventricle natriuretic peptide a level
+kidney renin level
+pituitary gland measurement
+binary logarithm of pituitary gland wet weight
+oxygen consumption
+calculated plasma insulin level
+quantitative insulin sensitivity check index
+ratio of apoptotic bodies to intact tumor cells in remodelling liver tumorous lesions
+ratio of apoptotic bodies to intact tumor cells in nonremodelling liver tumorous lesions
+bisphenol a drink intake rate
+minimum weekly bisphenol a in fructose drink intake rate
+maximum weekly bisphenol a in fructose drink intake rate
+food calorie intake rate
+total food calorie intake rate
+fructose food calorie intake rate
+body fat volume
+total body fat volume
+whole body subcutaneous fat volume
+whole body visceral fat volume
+lean tissue morphological measurement
+lean tissue volume
+whole body lean tissue volume
+liver fat morphological measurement
+liver fat volume
+calculated liver fat volume
+liver fat volume to total liver volume ratio
+calculated liver volume
+renal fat pad morphological measurement
+renal fat pad volume
+renal fat pad weight
+left renal fat pad weight
+right renal fat pad weight
+left renal fat pad weight to body weight ratio
+fructose drink intake rate
+bisphenol a in fructose drink intake rate
+sucrose drink intake volume
+calculated sucrose drink intake volume
+sucrose intake volume to total fluid intake volume ratio
+nervous system physiology measurement
+hearing physiology measurement
+auditory brainstem response threshold
+food calorie intake measurement
+calculated food calorie intake measurement
+total food calorie intake level
+food calorie intake level to change in body weight ratio
+food intake weight measurement
+calculated food intake weight measurement
+food intake weight to change in body weight ratio
+food calorie intake level to body weight ratio
+food intake weight to body weight ratio
+total food intake weight
+ratio of change in body weight to total body weight
+ratio of change in body weight to final total body weight
+ratio of change in body weight to initial total body weight
+food intake volume measurement
+calculated food intake volume measurement
+total food intake volume
+kidney protein activity measurement
+kidney enzyme activity measurement
+kidney catalase activity to total protein level ratio
+kidney glucose - 6 - phosphate dehydrogenase activity to total protein level ratio
+kidney glutathione reductase activity to total protein level ratio
+kidney glutathione peroxidase activity to total protein level ratio
+kidney glutathione - s - transferase activity to total protein level ratio
+kidney superoxide dismutase activity to total protein level ratio
+kidney paraoxonase1 activity to total protein level ratio
+kidney glutathione peroxidase activity to glutathione reductase activity ratio
+kidney superoxide dismutase to catalase activity ratio
+kidney superoxide dismutase to glutathione peroxidase ratio
+kidney superoxide dismutase to paraoxonase1 activity ratio
+kidney glutathione level
+kidney malondialdehyde level
+kidney protein carbonyl level to total protein level ratio
+kidney platinum level
+blood gamma - glutamyltransferase activity level
+plasma gamma - glutamyltransferase activity level
+serum gamma - glutamyltransferase activity level
+blood creatine kinase activity level
+plasma creatine kinase activity level
+serum creatine kinase activity level
+serum aspartate aminotransferase activity level to alanine aminotransferase activity level ratio
+kidney lipid peroxide level
+kidney glomerulus volume
+calorie intake measurement
+drink calorie intake measurement
+drink calorie intake rate
+fructose drink calorie intake rate
+total drink calorie intake
+total calorie intake rate
+liver non - tumorous lesion incidence / prevalence measurement
+kidney non - tumorous lesion incidence / prevalence measurement
+spleen non - tumorous lesion incidence / prevalence measurement
+liver edema incidence / prevalence measurement
+percentage of study population developing liver edema during a period of time
+percentage of study population displaying liver edema at a point in time
+percentage of study population displaying liver hyperemia at a point in time
+percentage of study population developing liver hyperemia during a period of time
+liver hyperemia incidence / prevalence measurement
+percentage of study population displaying liver parenchymal degeneration at a point in time
+percentage of study population developing liver parenchymal degeneration during a period of time
+liver parenchymal degeneration incidence / prevalence measurement
+percentage of study population displaying kidney edema at a point in time
+percentage of study population developing kidney edema during a period of time
+kidney edema incidence / prevalence measurement
+percentage of study population displaying kidney tubular degeneration at a point in time
+percentage of study population developing kidney tubular degeneration during a period of time
+kidney tubular degeneration incidence / prevalence measurement
+percentage of study population displaying spleen fibrosis at a point in time
+percentage of study population developing spleen fibrosis during a period of time
+spleen fibrosis incidence / prevalence measurement
+myeloid leukemia incidence / prevalence measurement
+percentage of study population displaying myeloid leukemia at a point in time
+percentage of study population developing myeloid leukemia during a period of time
+absolute diurnal change in systolic blood pressure
+cerebrovascular lesion incidence / prevalence measurement
+blood cholesterol level
+serum cholesterol level
+plasma cholesterol level
+plasma non - hdl ,  non - ldl cholesterol level
+percentage of study population displaying stomach tumors at a point in time
+percentage of study population developing stomach tumors during a period of time
+stomach tumor incidence / prevalence measurement
+righting reflex measurement
+blood ethanol level at regain of the righting reflex
+duration of loss of righting reflex
+blood ethanol level at loss of balance / traction
+blood ethanol level at regain of balance / traction
+calculated balance measurement
+absolute change in tilted plane angle at loss of balance / traction
+tilted plane angle at loss of balance / traction
+post insult time to regain baseline tilted plane angle at loss of balance / traction
+change in mean arterial blood pressure to change in vasoactive chemical dose ratio
+pancreatic insulitis measurement
+ratio of the count of inflammatory cell - infiltrated pancreatic islets with b cell pathology to the total pancreatic islet count
+ratio of the count of inflammatory cell - infiltrated pancreatic islets without b cell pathology to the total pancreatic islet count
+ratio of the count of pancreatic islets with peripheral duct and vessel inflammatory infiltrate only to total pancreatic islet count
+ratio of the count of pancreatic islets with adjacent inflammatory infiltrate to total pancreatic islet count
+cumulative pancreatic insulitis severity score
+artery wall thickness to artery total diameter ratio
+calculated body weight estimate
+time spent running on treadmill
+maximum time spent running to exhaustion on treadmill
+blood cd45rchigh cd8 t cell count to total cd8 t cell count ratio
+area of liver occupied by tumorous foci
+area of liver occupied by hepatocellular carcinomas
+area of liver occupied by tumorous nodules
+bone trabecular cross - sectional area
+calculated lymph node weight
+lymph node weight to body weight ratio
+lymph node dry weight to body weight ratio
+lymph node wet weight to body weight ratio
+inguinal lymph node wet weight to body weight ratio
+inguinal lymph node dry weight to body weight ratio
+inguinal lymph node weight to body weight ratio
+inguinal lymph node dry weight
+tongue measurement
+tongue lesion measurement
+tongue tumorous lesion measurement
+tongue non - tumorous lesion measurement
+tongue tumor measurement
+tongue tumor diameter
+tongue tumor number
+drink calorie intake level to change in body weight ratio
+drink calorie intake level to body weight ratio
+calculated drink calorie intake measurement
+calculated drink intake measurement
+calculated drink intake weight
+calculated drink intake rate
+calculated drink intake volume
+total plasma bilirubin level
+blood segmented neutrophil count
+blood band neutrophil count
+blood segmented neutrophil count to total leukocyte count ratio
+blood band neutrophil count to total leukocyte count ratio
+non - specified leukocyte count to total leukocyte count ratio
+blood non - specified leukocyte count
+white blood cell measurement
+plasma albumin to plasma total protein ratio
+post - insult time to onset of cerebrovascular lesion
+calculated blood cd4 cell count
+blood cd45rchigh cd4 t cell count to cd45rclow cd4 t cell count ratio
+blood cd45rc cd4 t cell count
+blood cd45rclow cd4 t lymphocyte count
+blood cd45rchigh cd4 t lymphocyte count
+blood differential leukocyte count to total leukocyte count ratio
+blood differential leukocyte count to lymphocyte count ratio
+blood b lymphocyte count to total lymphocyte count ratio
+blood t lymphocyte count to total lymphocyte count ratio
+blood natural killer cell count to total lymphocyte count ratio
+blood cd4 lymphocyte count to total lymphocyte count ratio
+blood cd8 lymphocyte count to total lymphocyte count ratio
+blood rt6 .1 positive cell count to total lymphocyte count ratio
+blood cd25 lymphocyte count to total lymphocyte count ratio
+blood cd45rchigh cd4 t lymphocyte count to total lymphocyte count ratio
+blood cd45rclow cd4 t lymphocyte count to total lymphocyte count ratio
+viral infection incidence / prevalence measurement
+encephalitis incidence / prevalence measurement
+nervous system disease incidence / prevalence measurement
+alimentary / gastrointestinal disease incidence / prevalence measurement
+nervous system disease measurement
+nervous system disease onset / diagnosis measurement
+infection onset / diagnosis measurement
+viral infection onset / diagnosis measurement
+herpes simplex encephalitis incidence / prevalence measurement
+percentage of study population displaying herpes simplex encephalitis at a point in time
+percentage of study population developing herpes simplex encephalitis during a period of time
+encephalitis onset / diagnosis measurement
+herpes simplex encephalitis onset / diagnosis measurement
+post - insult time to onset of herpes simplex encephalitis
+calculated plasma epinephrine level
+absolute change in plasma epinephrine level
+calculated plasma norepinephrine level
+absolute change in plasma norepinephrine level
+calculated kidney non - tumorous lesion measurement
+ratio of the area occupied by protein casts to the total area of the kidney outer medulla outer stripe and cortex
+calculated litter size measurement
+offspring mortality measurement
+number of zygotes / embryos lost postimplantation to litter size ratio
+number of fetuses lost perinatally to litter size ratio
+number of perinatal live - born offspring deaths to litter size ratio
+anogenital distance
+areola mammae / nipple number
+combined levator ani and bulbocavernosus muscle weight
+thyroid gland measurement
+thyroid gland morphological measurement
+thyroid gland weight
+thyroid gland dry weight
+thyroid gland wet weight
+bulbourethral gland weight
+bulbourethral gland dry weight
+bulbourethral gland wet weight
+stomach tumor histology grade
+blood globulin level
+serum globulin level
+calculated blood albumin level
+blood albumin level to blood globulin level ratio
+calculated blood globulin level
+percent change in renal sympathetic nerve activity
+liver wet weight to body weight ratio
+lung wet weight to body weight ratio
+both lungs wet weight to body weight ratio
+heart wet weight to body weight ratio
+spleen wet weight to body weight ratio
+brain wet weight to body weight ratio
+both adrenal glands wet weight to body weight ratio
+single adrenal gland wet weight to body weight ratio
+uterus morphological measurement
+uterine horn morphological measurement
+uterus measurement
+uterus weight
+calculated uterus weight
+uterus dry weight
+uterus wet weight
+uterus weight to body weight ratio
+uterus wet weight to body weight ratio
+blood pyruvate level
+serum pyruvate level
+plasma pyruvate level
+urine creatine measurement
+urine creatine level
+urine creatine excretion rate
+urine taurine measurement
+urine taurine level
+urine taurine excretion rate
+metformin drink intake rate
+blood glutathione level
+serum glutathione level
+plasma glutathione level
+serum oxidized glutathione level
+plasma oxidized glutathione level
+blood oxidized glutathione level
+blood reduced glutathione level
+serum reduced glutathione level
+plasma reduced glutathione level
+blood glutathione peroxidase activity level
+serum glutathione peroxidase activity level
+plasma glutathione peroxidase activity level
+blood superoxide dismutase activity level
+serum superoxide dismutase activity level
+plasma superoxide dismutase activity level
+blood malondialdehyde level
+plasma malondialdehyde level
+serum malondialdehyde level
+liver molecular composition measurement
+liver malondialdehyde level
+percentage of study population displaying retinopathy at a point in time
+percentage of study population developing retinopathy during a period of time
+retinopathy incidence / prevalence measurement
+serum retinol level
+plasma retinol level
+blood retinol level
+vasoconstrictor - induced blood vessel contractile force expressed as percent of force at baseline
+phenylephrine - induced blood vessel contractile force expressed as percent of force at baseline
+potassium chloride - induced blood vessel contractile force expressed as percent of force at baseline
+potassium chloride response / sensitivity measurement
+concentration of potassium chloride at which the force of blood vessel contraction is half the maximum value  ( ec50 )
+logarithm of the concentration of potassium chloride at which the force of blood vessel contraction is half the maximum value  ( log ec50 )
+concentration of vasoconstrictor at which the force of blood vessel contraction is half the maximum value  ( ec50 )
+logarithm of the concentration of vasoconstrictor at which the force of blood vessel contraction is half the maximum value  ( log ec50 )
+blood xenobiotic level
+blood paracetamol level
+serum paracetamol level
+plasma paracetamol level
+calculated blood paracetamol level
+blood paracetamol level area under curve  ( auc )
+calculated plasma paracetamol level
+plasma paracetamol level area under curve  ( auc )
+blood glutamate dehydrogenase activity level
+serum glutamate dehydrogenase activity level
+plasma glutamate dehydrogenase activity level
+liver lipid composition measurement
+liver protein / peptide measurement
+liver protein / peptide composition measurement
+liver glutathione level
+calculated liver glutathione level
+liver oxidized glutathione level to liver weight ratio
+liver reduced glutathione level to liver weight ratio
+calculated liver malondialdehyde level
+liver malondialdehyde level to liver weight ratio
+single ovary wet weight
+ovary wet weight
+both ovaries wet weight
+ovary dry weight
+right ovary wet weight
+left ovary wet weight
+both ovaries dry weight
+single ovary dry weight
+number of male offspring to litter size ratio
+number of male offspring per litter
+heart left ventricle end - diastolic anterior wall thickness
+heart left ventricle weight to heart left ventricle end - diastolic area ratio
+blood enzyme measurement
+blood enzyme protein level
+plasma direct renin activity level
+serum direct renin activity level
+heart blood flow measurement
+e wave velocity
+e wave deceleration time
+e wave deceleration rate
+food intake frequency
+number of visits to feeder per day
+parasite size measurement
+parasite length
+maternal age at birth of first offspring
+skeletal muscle fiber density
+biceps brachii muscle weight
+skeletal muscle length
+biceps brachii muscle length
+muscle length
+white blood cell radioactive nucleoside incorporation
+absolute change in antibody titer
+absolute change in the logarithm of the antibody titer
+blood haptoglobin level
+serum haptoglobin level
+plasma haptoglobin level
+total weight of neonates per litter
+total weight of live neonates per litter
+superovulation / artificial insemination measurement
+number of degenerate embryos per superovulation / artificial insemination event
+number of transferable embryos per superovulation / artificial insemination event
+number of unfertilized ova per superovulation / artificial insemination event
+total number of ova per superovulation / artificial insemination event
+blood tyrosinase activity level
+serum tyrosinase activity level
+plasma tyrosinase activity level
+muscle fiber measurement
+muscle fiber morphological measurement
+skeletal muscle fiber morphological measurement
+number of capillaries per skeletal muscle fiber
+capillary measurement
+milk alpha - casein content to beta - casein content ratio
+absolute change in hematocrit
+percent change in hematocrit
+left ventricular isovolumetric relaxation time
+left ventricular isovolumetric contraction time
+adult parasite count
+parasite egg / oocyst count
+fecal parasite egg count
+fecal parasite oocyst count
+number of viable embryos per gestation
+basal white blood cell radioactive nucleoside incorporation
+mitogen - stimulated white blood cell radioactive nucleoside incorporation
+change in antibody titer
+percent change in antibody titer
+right ventricular isovolumetric relaxation time
+calculated left ventricular isovolumetric relaxation time
+heart rate - corrected left ventricular isovolumetric relaxation time
+mitral valve closure to opening time
+left ventricular ejection time
+myocardial performance index
+cardiovascular disease severity measurement
+cardiovascular disease measurement
+arterial disease severity measurement
+aortic rupture severity measurement
+number of ruptures of arterial internal elastic lamina
+number of ruptures of the internal elastic lamina of the abdominal aorta and iliac arteries
+number of ruptures of the internal elastic lamina of the renal arteries
+arterial internal elastic lamina rupture composite score
+aorta wall extracellular elastin dry weight to aorta length ratio
+patent ductus arteriosus score
+urine catecholamine excretion rate
+urine epinephrine excretion rate
+urine norepinephrine excretion rate
+urine catecholamine measurement
+urine vanillylmandelic acid excretion rate
+calculated urine catecholamine excretion rate
+absolute change in urine epinephrine excretion rate
+absolute change in urine norepinephrine excretion rate
+absolute change in urine vanillylmandelic acid excretion rate
+pancreas molecular composition measurement
+tissue protein / peptide composition measurement
+brain protein / peptide composition measurement
+aorta wall protein / peptide composition measurement
+pancreas protein / peptide composition measurement
+whole pancreas protein / peptide composition measurement
+pancreatic islet protein / peptide composition measurement
+tissue hormone composition measurement
+tissue peptide hormone composition measurement
+pancreas peptide hormone composition measurement
+pancreas hormone composition measurement
+pancreas insulin level
+calculated pancreas insulin level
+blood pressure time series calculated parameter
+blood pressure time series baroreceptor response calculation parameter
+blood pressure time series first order moving average coefficient
+blood pressure time series fractal parameter
+blood pressure time series experimental set point of the baroreceptor response
+blood pressure time series average exponential scaling factor of the baroreceptor response
+blood pressure time series linear term first order parameter
+blood pressure time series linear term second order parameter
+heart left ventricle end - diastolic  posterior wall thickness
+calculated serum paracetamol level
+serum paracetamol level area under curve  ( auc )
+hepatocellular carcinoma tumor number
+percentage of study population displaying hepatocellular carcinoma at a point in time
+percentage of study population developing hepatocellular carcinoma during a period of time
+hepatocellular carcinoma incidence / prevalence measurement
+plasma e . coli specific antibody titer
+calculated plasma e . coli specific antibody level
+blood anti - dna antibody level
+blood anti - collagen antibody level
+blood anti - laminin antibody level
+serum immunoglobulin m - type rheumatoid factor level
+serum immunoglobulin g - type rheumatoid factor level
+serum immunoglobulin g - type rheumatoid factor titer
+serum immunoglobulin m - type rheumatoid factor titer
+blood autoantibody titer
+autoantibody level
+plasma autoantibody titer
+serum autoantibody titer
+blood antibody titer
+plasma antibody titer
+serum antibody titer
+serum anti - rat type 2 collagen antibody level
+serum anti - rat type 2 collagen autoantibody level
+serum anti - porcine type 2 collagen antibody level
+serum anti - porcine type 2 collagen antibody titer
+serum anti - rat type 2 collagen autoantibody titer
+serum anti - type 2 collagen antibody titer
+serum anti - rat type 2 collagen antibody titer
+serum anti - type 2 collagen antibody level
+serum anti - laminin antibody titer
+serum anti - collagen antibody titer
+serum anti - dna antibody titer
+serum anti - dsdna antibody titer
+serum anti - ssdna antibody titer
+plasma anti - laminin antibody titer
+plasma anti - dna antibody titer
+plasma anti - dsdna antibody titer
+plasma anti - ssdna antibody titer
+plasma anti - collagen antibody titer
+plasma anti - type 2 collagen antibody titer
+plasma anti - bovine type 2 collagen antibody titer
+plasma anti - porcine type 2 collagen antibody titer
+plasma anti - rat type 2 collagen autoantibody level
+plasma anti - rat type 2 collagen antibody titer
+plasma anti - rat type 2 collagen autoantibody titer
+serum anti - bovine type 2 collagen antibody titer
+bone ash content
+bone calcium content
+bone phosphorus content
+femur metaphysis morphological measurement
+femur metaphysial mediolateral diameter
+femur metaphysial anterior - posterior diameter
+total calorie intake level
+bacterial infection severity measurement
+bacterial infection severity score
+bacterial infection severity score based on mucosal leukocyte infiltration
+bacterial infection severity score based on inflammatory foci in exudate
+bacteria count
+total number of bacterial colony forming units recovered
+logarithm of the total number of bacterial colony forming units recovered
+logarithm of the total number of haemophilus influenzae bacterial colony forming units recovered
+logarithm of the total number of streptococcus pneumoniae bacterial colony forming units recovered
+logarithm of the total number of nontypeable haemophilus influenzae bacterial colony forming units recovered
+calculated inflammatory exudate cell count
+ratio of the number of neutrophils in an inflammatory exudate to number of all cells in that exudate
+inflammatory exudate monocyte count
+inflammatory exudate lymphocyte count
+ratio of the number of lymphocytes in an inflammatory exudate to the number of all cells in that exudate
+ear measurement
+middle ear measurement
+middle ear morphological measurement
+tympanic cavity epithelium thickness
+calculated middle ear morphological measurement
+single ear average of tympanic cavity epithelium thickness
+both ears average of tympanic cavity epithelium thickness
+average horizontal distance in proximity to the target  during voluntary locomotion in an experimental apparatus
+total horizontal distance covered resulting from voluntary locomotion in proximity to the target  in an experimental apparatus
+voluntary social interaction measurement
+total accumulated time of physical contact or close proximity between test subject and social stimulus per unit time
+difference between time of physical contact / close proximity of test subject and social stimulus during sample phase and test phase
+blood glycerol level
+serum blood glycerol level
+plasma glycerol level
+blood chylomicron cholesterol level
+serum chylomicron cholesterol level
+plasma chylomicron cholesterol level
+blood lipoprotein triglyceride level
+blood high density lipoprotein triglyceride level
+blood low density lipoprotein triglyceride level
+blood very low density lipoprotein triglyceride level
+blood chylomicron triglyceride level
+blood lipoprotein measurement
+blood lipoprotein particle diameter
+blood high density lipoprotein particle diameter
+blood low density lipoprotein particle diameter
+blood very low density lipoprotein particle diameter
+blood chylomicron particle diameter
+blood lipoprotein cholesterol level
+blood lipoprotein phospholipid level
+urine ketone body level
+dopaminergic neuron count
+tibia midshaft cortical cross - sectional area
+tibia trabecular bone volume
+bone section morphological measurement
+calculated bone section morphological measurement
+bone section total volume
+bone section mineralized tissue volume
+bone section mineralized tissue surface area
+bone section volume fraction
+bone section surface density
+bone section specific bone surface
+bone section structure model index
+bone section connectivity density
+bone section trabecular number
+bone section trabecular thickness
+bone section trabecular separation
+number of rearing movements with lid - pushing in an experimental apparatus
+femur head morphological measurement
+femur head width
+bone ultimate displacement
+femur ultimate displacement
+aorta length
+calculated aorta morphological measurement
+aorta weight to aorta length to body weight ratio
+percent change in pulse pressure
+serum insulin level to serum glucose level ratio
+calculated serum glucose level
+spinal cord cellular composition measurement
+spinal cord ventral horn cellular composition measurement
+tissue cellular composition measurement
+spinal cord ventral horn cd3 - positive cell count
+serum hemoglobin level
+tibia midshaft morphological measurement
+tibia midshaft cortical thickness
+time to locate a target in an experimental apparatus
+time to locate a target platform in an experimental apparatus
+time to locate a visible target platform in an experimental apparatus
+time to locate a hidden target platform in an experimental apparatus
+percentage of survivors in a study population during a period of time
+heart protein activity measurement
+heart enzyme activity level
+heart angiotensin i converting enzyme 2 activity level
+heart angiotensin i converting enzyme activity level
+blood angiotensin i converting enzyme 2 activity level
+serum angiotensin i converting enzyme 2 activity level
+plasma angiotensin i converting enzyme 2 activity level
+kidney angiotensin i converting enzyme 2 activity level
+kidney angiotensin i converting enzyme activity level
+lung measurement
+lung protein activity measurement
+lung enzyme activity measurement
+lung angiotensin i converting enzyme 2 activity level
+lung angiotensin i converting enzyme activity level
+congenital malformation incidence / prevalence measurement
+anorectal malformation incidence / prevalence measurement
+percentage of study population developing anorectal malformation during a period of time
+percentage of study population displaying anorectal malformation at a point in time
+anogenital distance to cube root of body weight ratio
+calculated urine creatinine level
+urine protein level to urine creatinine level ratio
+cardiac muscle fiber morphological measurement
+cardiac muscle fiber diameter
+skin molecular composition measurement
+skin electrolyte measurement
+skin potassium level
+skin sodium level
+skin chloride level
+skin water level
+calculated skin electrolyte measurement
+skin potassium level to skin dry weight ratio
+skin sodium level to skin dry weight ratio
+skin chloride level to skin dry weight ratio
+skin water level to skin dry weight ratio
+skin potassium level plus skin sodium level to skin water level ratio
+skin potassium level to skin water level ratio
+skin sodium level to skin water level ratio
+skin chloride level to skin water level ratio
+blood cystatin level
+blood cystatin c level
+plasma cystatin c level
+serum cystatin c level
+nose to tail body mass index
+nose to rump body mass index
+renal plasma flow to body weight ratio
+glomerular filtration rate to body weight ratio
+kidney sclerotic glomerular volume to total kidney glomerular volume ratio
+plasma angiotensin ii level to plasma angiotensin i level ratio
+blood hemoglobin a1c level
+heart left ventricle weight to tibia length ratio
+calculated heart blood flow measurement
+e / a wave ratio
+artery tunica media width to artery inner diameter ratio
+heart intraventricular end - diastolic wall  thickness
+heart intraventricular end - systolic wall thickness
+tissue ribonucleic acid composition measurement
+adrenal gland ribonucleic acid composition measurement
+brain ribonucleic acid composition measurement
+heart ribonucleic acid composition measurement
+kidney ribonucleic acid composition measurement
+lung ribonucleic acid composition measurement
+muscle ribonucleic acid composition measurement
+spleen ribonucleic acid composition measurement
+testis ribonucleic acid composition measurement
+thymus ribonucleic acid composition measurement
+uterus ribonucleic acid composition measurement
+body weight to body length  ( nose to rump )  ratio
+body weight to body length  ( nose to tail )  ratio
+body weight area under curve  ( auc )
+calculated whole body visceral fat weight
+whole body visceral fat weight to body length  ( nose to rump )  ratio
+systolic blood pressure variability
+diastolic blood pressure variability
+mean arterial blood pressure variability
+heart rate variability
+horizontal distance covered resulting from voluntary locomotion in proximity to the target  in an experimental apparatus to total horizontal distance covered ratio
+ratio of number of glomeruli with microaneurysms to number of total glomeruli
+ratio of glomerular area occupied by activated mesangial cells to total glomerular area
+calculated kidney glomerulus measurement
+blood type i collagen c - terminal telopeptide level
+plasma type i collagen c - terminal telopeptide level
+serum type i collagen c - terminal telopeptide level
+blood osteocalcin level
+plasma osteocalcin level
+serum osteocalcin level
+cell organelle measurement
+neuron organelle measurement
+neuron cytoplasm measurement
+neuron cytoplasm area
+neuron mitochondrion measurement
+neuron mitochondrion area
+calculated neuron mitochondrion area measurement
+neuron mitochondrion area to neuron cytoplasm area ratio
+neuron lysosome measurement
+neuron lysosome area
+calculated neuron lysosome area measurement
+neuron lysosome area to neuron cytoplasm area ratio
+neuron golgi apparatus measurement
+neuron golgi apparatus area
+calculated neuron golgi apparatus area measurement
+neuron golgi apparatus area to neuron cytoplasm area ratio
+neuron  rough endoplasmic reticulum measurement
+neuron rough endoplasmic reticulum area
+calculated neuron rough endoplasmic reticulum area measurement
+neuron rough endoplasmic reticulum area to neuron cytoplasm area ratio
+neuron  vacuole measurement
+neuron vacuole area
+calculated neuron vacuole area measurement
+neuron vacuole area to neuron cytoplasm area ratio
+mesenteric artery morphological measurement
+mesenteric artery molecular composition measurement
+calculated mesenteric artery molecular composition measurement
+mesenteric artery phosphylated enos level to total enos level ratio
+aorta wall phosphylated enos level to total enos level ratio
+voluntary horizontal locomotion rate in an experimental apparatus
+blood fructosamine level
+serum fructosamine level
+plasma fructosamine level
+calculated water drink intake rate
+water intake drink rate to body weight ratio
+monophasic action potential
+conduction velocity
+e / e' wave ratio
+heart molecular composition measurement
+heart free fatty acid level
+heart triglyceride level
+calculated heart left ventricle end - systolic posterior wall thickness
+heart left ventricle end - systolic posterior wall index
+calculated heart left ventricle end - systolic internal diameter
+heart left ventricle end - systolic internal diameter index
+calculated heart ventricle end - systolic septal wall thickness
+heart ventricle end - systolic septal wall index
+a wave velocity
+e' wave velocity
+a' wave velocity
+blood naga activity level
+blood nh2 - terminal pro - b - type natriuretic peptide level
+plasma nh2 - terminal pro - b - type natriuretic peptide level
+calculated plasma aldosterone level
+calculated cardiac output measurement
+cardiac index
+calculated stroke volume
+stroke index
+calculated left ventricular end - systolic blood pressure
+arterial elastance
+ventricle stroke work
+left ventricle stroke work
+preload recruitable left ventricle stroke work
+maximum rate of positive change in left ventricular blood pressure to left ventricular end - diastolic volume ratio
+calculated heart left ventricle end - diastolic posterior wall thickness
+heart left ventricle end - diastolic posterior wall index
+calculated heart left ventricle end - diastolic anterior wall thickness
+heart left ventricle end - diastolic anterior wall index
+calculated heart ventricle end - diastolic septal wall thickness
+heart ventricle end - diastolic septal wall index
+urine 3 - hydroxybutyrate level
+urine acetoacetone level
+blood glycated albumin level
+blood glycated albumin level to blood albumin level ratio
+calculated blood hemoglobin a1c level
+calculated blood glycated albumin level
+blood hemoglobin a1c level level to blood hemoglobin level ratio
+renal medullary blood flow rate
+blood vasopressin level
+plasma vasopressin level
+serum vasopressin level
+urine phosphate excretion rate
+urine urea excretion rate
+heart left ventricle end - diastolic elastance
+heart left ventricle end - systolic elastance
+calculated ventricle contraction measurement
+heart left ventricle diastolic volume - axis intercept  ( v0 )
+heart left ventricle systolic volume - axis intercept  ( v0 )
+calculated endo - diastolic volume
+calculated endo - systolic volume
+kidney adrenomedullin level
+kidney medullary adrenomedullin level
+kidney cortical adrenomedullin level
+urine urotensin ii level
+calculated urine urotensin ii level
+urine urotensin ii level to urine creatinine level ratio
+calculated urine albumin level
+plasma osmolality
+urine urea level
+calculated urine urea level
+urine urea level to urine creatinine level ratio
+calculated urine sodium level
+urine sodium level to urine creatinine level ratio
+calculated urine potassium level
+urine potassium level to urine creatinine level ratio
+calculated glomerular filtration rate
+heart nucleic acid measurement
+heart left ventricle ribonucleic acid content
+heart right ventricle ribonucleic acid content
+renal filtration fraction
+single nephron glomerular filtration rate
+single nephron filtration fraction
+renal tubulointerstitial score
+urine podocalyxin excretion rate
+heart left atrium weight to body weight ratio
+calculated heart right atrium morphological measurement
+heart right atrium weight to body weight ratio
+heart septum weight
+number of podocytes per  kidney glomerulus
+number of podocytes to glomerular volume ratio
+urine aldosterone measurement
+urine aldosterone level
+urine aldosterone excretion rate
+number of nucleated cells per  kidney glomerulus
+mesangial injury score
+blood parathyroid hormone level
+plasma parathyroid hormone level
+serum parathyroid hormone level
+tibialis anterior muscle weight
+extensor digitorum longus muscle weight
+tibialis anterior muscle weight to body weight ratio
+extensor digitorum longus muscle weight to body weight ratio
+glomerular capillary plasma flow rate
+glomerular capillary hydraulic pressure
+arteriole measurement
+arteriolar resistance
+efferent arteriolar resistance
+afferent arteriolar resistance
+total arteriolar resistance
+afferent arteriolar plasma protein concentration
+efferent arteriolar plasma protein concentration
+afferent colloid osmotic pressure
+efferent colloid osmotic pressure
+glomerular capillary ultrafiltration coefficient
+ratio of the area occupied by cysts to the total area of the kidney
+blood angiotensin i level
+plasma angiotensin i level
+serum angiotensin i level
+mean proximal tubular hydraulic pressure
+efferent arteriolar hydraulic pressure
+glomerular transcapillary hydraulic pressure gradient
+heart left ventricular end - diastolic blood pressure to heart left ventricular end - diastolic diameter ratio
+rate - pressure product
+liver weight to tibia length ratio
+pancreas weight to tibia length
+urine sodium level to body weight ratio
+urine potassium level to body weight ratio
+urine sodium level to urine potassium level ratio
+blood insulin level auc to blood glucose level auc ratio
+whole body insulin sensitivity index
+homeostatic model assessment of insulin resistance
+blood hesperetin level
+plasma hesperetin level
+serum hesperetin level
+liver glucose - 6 - phosphatase level
+liver glucokinase level
+calculated serum high density lipoprotein cholesterol level
+serum high density lipoprotein cholesterol level to serum total cholesterol level ratio
+blood dipeptidyl peptidase 4 activity level
+plasma dipeptidyl peptidase 4 activity level
+serum dipeptidyl peptidase 4 activity level
+artery tunica media to artery total diameter ratio
+artery lumen to artery total diameter ratio
+gastrointestinal morphological measurement
+gastrointestinal weight
+total reticulocyte count
+reticulocyte count to total red blood cell count ratio
+hemoglobin distribution width
+urine sorbital dehydrogenase level
+urine chloride level to urine creatinine level
+calculated urine chloride level
+serum total bile acid
+renal cortex volume
+renal medulla volume
+gastrointestinal weight to body weight ratio
+blood galanin level
+serum galanin level
+blood lutenizing hormone  level
+serum lutenizing hormone  level
+blood plasminogen activator inhibitor 1 level
+serum plasminogen activator inhibitor 1 level
+urine lipocalin 2 level
+urine osteopontin level
+urine kim - 1 / tim - 1 / havcr level
+blood beta - 2 microglobulin
+serum beta - 2 microglobulin
+blood calbindin level
+serum calbindin level
+blood clusterin level
+serum clusterin level
+blood glutathione s - transferase - alpha level
+serum glutathione s - transferase - alpha level
+blood glutathione s - transferase - mu level
+serum glutathione s - transferase - u level
+blood tissue inhibitor of metalloproteinase - 1 level
+serum tissue inhibitor of metalloproteinase 1 level
+blood vascular endothelial growth factor a  ( vegf - a )
+serum vascular endothelial growth factor a  ( vegf - a )
+blood complement c3a des arg level
+serum complement c3a des arg  level
+blood lipocalin 2 level
+serum lipocalin 2 level
+blood osteopontin level
+serum osteopontin level
+blood kim - 1 / tim - 1 / havcr1
+serum kim - 1 / tim - 1 / havcr1
+blood interleukin - 4 level
+serum interleukin - 4 level
+blood interleukin - 9 level
+serum interleukin - 9 level
+intestine measurement
+intestine protein / peptide measurement
+intestine enzyme measurement
+intestine trypsin level
+blood amg - 8718 level
+plasma amg - 8718 level
+calculated plasma amg - 8718 level
+plasma amg - 8718 level area under curve  ( auc )
+blood amg - 8718 maximum concentration
+plasma amg - 8718 maximum concentration
+full retina layer thickness
+retinal outer layer thickness
+retinal inner layer thickness
+photoreceptor nuclear counts in the retinal outer nuclear layer
+retinal outer nuclear layer thickness
+stress - related movement measurement
+duration of  licking the abdomen
+number of periods of licking the abdomen
+number of abdominal retraction
+forebrain monoamine hormone measurement
+forebrain norepinephrine level
+forebrain 5 - hiaa level
+forebrain hva level
+forebrain dopac level
+comprehensive metabolic panel
+platelet morphological measurement
+platelet physiological measurement
+red blood cell morphological measurement
+red blood cell physiological measurement
+hypothalamus 5 - hiaa level
+hypothalamus dopac level
+hypothalamus dopamine level
+hypothalamus norepinephrine level
+midbrain / pons monoamine hormone measurement
+midbrain / pons 5 - hiaa level
+midbrain / pons norepinephrine level
+midbrain / pons hva level
+ midbrain / pons dopamine level
+midbrain / pons dopac level
+medulla oblongata monoamine hormone measurement
+medulla oblongata  5 - hiaa level
+medulla oblongata dopac level
+medulla oblongata hva level
+medulla oblongata norepinephrine level
+cervical spinal cord monoamine hormone measurement
+cervical spinal cord dopac level
+cervical spinal cord norepinephrine level
+blood xenobiotic measurement
+elimination half life of nifedipine in the plasma
+nifedipine mean residence time
+plasma nifedipine clearance
+volume of distribution of nifedipine in the blood
+lung weight to tibia length ratio
+single kidney weight to tibia length ratio
+nasal septum tissue intracellular mucus area to basement membrane width ratio
+trachea morphological measurement
+trachea lumen circumference
+trachea cartiledge area
+calculated trachea morphological measurement
+maximum cartilage thickness
+trachea epitelial layer thickness
+trachea submucosal gland area
+submucosal gland intracellular mucus
+intracellular mucus to total trachea submucosal gland area ratio
+blood c reactive protein level
+serum creactive protein level
+plasma creactive protein level
+kidney total cd3 positive t cell count
+kidney cellular composition measurement
+blood regulatory t cell count to total t cell count ratio
+spleen regulatory t cell count to total t cell count ratio
+calculated brain infarction volume
+cerebrum infarct volume to total cerebrum volume ratio
+verapamil apparent influx permeability clearance  in brain barrier
+verapamil apparent influx permeability clearance in retina barrier
+verapamil apparent influx permeability clearance in aqueous humor
+verapamil equilibrated distribution volume in brain
+verapamil equilibrated distribution volume  in retina
+verapamil equilibrated distribution volume in aqueous humor
+verapamil uptake index in brain
+verapamil uptake index in retina
+verapamil uptake index in aqueous humor
+digoxin uptake index in aqueous humor
+digoxin uptake index in brain
+digoxin uptake index in retina
+quinidine uptake index in aqueous humor
+quinidine uptake index in brain
+quinidine uptake index in retina
+heart right ventricle weight to tibia length ratio
+skeletal muscle molecular composition measurement
+skeletal muscle triglyceride level
+blood reactive oxygen metabolite level
+serum reactive oxygen metabolite level
+left ventricle end - diastolic wall stress
+left ventricle end - systolic wall stress
+myocardial interstitial angiotensin ii level
+myocardial interstitial bradykinin
+myocardial interstitial norepinephrine
+myocardial interstitial epinephrine
+blood bradykinin level
+plasma bradykinin level
+glucose disappearance constant
+heart left ventricle weight to right ventricle weight ratio
+homeostatic model assessment of beta cell function
+adrenal  angiotensin ii type 1 receptor density
+blood urotensin ii level
+plasma urotensin ii level
+serum low density lipoprotein cholesterol to high density lipoprotein cholesterol ratio
+aorta weight to body weight ratio
+urine albumin level to urine total protein level ratio
+calculated heart left ventricle end - diastolic dimension
+heart left ventricle end - diastolic dimension to body weight ratio
+blood cd3 lymphocyte count to total lymphocyte count ratio
+mononuclear cell interferon gamma expression
+calculated serum calcium level
+serum pyrophosphate level
+blood pyrophosphate level
+calculated serum phosphate level
+red blood cell distribution width -  standard deviation  ( rdw - sd )
+platelet to large cell ratio
+calculated platelet count
+hypothalamus serotonin level
+hypothalamus hva level
+part_of

@@ -1,0 +1,1006 @@
+continuant
+occurrent
+information content entity
+realizable entity
+disposition
+quality
+process
+physiologic function
+proprioception
+joint movement
+abduction
+adduction
+extension
+hyperextension
+flexion
+hyperflexion
+plantar flexion
+dorsiflexion
+rotation
+internal rotation
+external rotation
+inversion
+eversion
+muscle contraction
+concentric contraction
+eccentric contraction
+isometric contraction
+isotonic contraction
+isokinetic contraction
+physical object quality
+process quality
+acute
+chronic
+subacute
+onset descriptor
+insidious onset
+frequency
+physical quality
+force
+weight
+distance
+speed
+strength
+flexibility
+intensity
+mild intensity
+severe intensity
+moderate intensity
+low intensity
+high intensity
+anatomical cluster
+joint
+ankle joint
+hip joint
+knee joint
+patellofemoral joint
+lower extremity
+popliteal fossa
+anterior
+posterior
+medial
+lateral
+superior
+inferior
+proximal
+distal
+tissue
+infrapatellar fat pad
+connective tissue
+cartilage tissue
+articular cartilage
+hyaline cartilage
+meniscus
+tendon
+synovial capsule of joint
+anterior cruciate ligament
+posterior cruciate ligament
+medial collateral ligament
+lateral collateral ligament
+patellar tendon
+muscle tissue
+psoas muscle
+gluteal muscle
+gluteus maximus
+gluteus medius
+gluteus minimus
+tensor fascia lata
+quadriceps femoris
+vastus medialis
+vastus lateralis
+rectus femoris
+vastus intermedius
+hamstring
+biceps femoris
+semitendinosus
+semimembranosus
+popliteus
+calf muscle
+gastrocnemius
+plantaris
+gracilis
+soleus
+tibialis anterior muscle
+tibialis posterior muscle
+spine
+vertical
+horizontal
+left side
+right side
+back
+front
+down
+up
+left
+right
+material entity
+manufactured object
+medical device
+material anatomical entity
+clinical finding
+disorder
+clinical manifestation
+event
+activity
+daily or recreational activity
+health care activity
+therapeutic or preventive procedure
+manual therapy
+therapeutic mobilization
+hold relax technique
+muscle energy technique
+soft tissue technique
+soft tissue massage
+myofascial release
+deep transverse friction massage
+trigger point therapy
+neural mobilization
+passive stretching
+non - surgical manipulation of joint
+physical agent therapy
+biofeedback
+cryotherapy
+cryocuff treatment
+ice pack application
+thermotherapy
+thermotherapy with hot packs
+shortwave diathermy
+low - level laser therapy
+pulsed electromagnetic energy therapy
+electrotherapy
+phototherapy
+neuromuscular electrical stimulation
+transcutaneous electric nerve stimulation
+interferential therapy
+exercise
+functional exercise
+walking
+nordic walking
+hiking
+power walking
+jogging
+running
+water running
+squats
+basic squats
+lunges
+step ups
+swimming
+balance exercise
+plyometric exercise
+hopping
+jumping
+skipping
+trampolining
+range of motion exercise
+muscle strength exercise
+resistance exercise
+flexibility exercise
+stretching exercise
+aerobic exercise
+cycling
+rowing
+stepper machine exercise
+elliptical motion exercise
+mobility device
+orthopedic braces
+biomedical tape
+orthotic device
+exerciser
+aerobic exerciser
+elliptical motion exerciser
+stationary bicycle
+bicycle
+rowing machine
+stepper
+treadmill
+balance exerciser
+wobble cushion
+balance mat
+pro - fitter physio kit
+wobble board
+rocker board
+balance ball
+muscle strength exerciser
+elastic resistance exerciser
+free weight
+dumbbell
+kettlebell
+barbell
+weight machine
+knee extension resistance machine
+knee flexion resistance machine
+hip abduction resistance machine
+hip adduction resistance machine
+leg press machine
+fitness accessory
+medicine ball
+skipping rope
+trampoline
+football
+step
+skateboard
+trekking pole
+pain
+swelling
+giving - way
+joint instability
+joint stiffness
+symptom management
+rice
+weight management
+pathological condition
+disease
+injury
+dislocation
+fracture
+open fracture
+closed fracture
+tear
+bucket - handle tear
+parrot - beak tear
+flap tear
+surface tear
+intrasubstance tear
+radial tear
+vertical tear
+peripheral tear
+longitudinal tear
+horizontal cleavage tear
+degenerative tear
+undisplaced tear
+displaced tear
+partial tear
+complete tear
+bone contusion
+subluxation
+extrusion
+sprains or strain
+sprain
+strain
+arthritis
+osteophyte
+osteoarthritis
+rheumatoid arthritis
+popliteal cyst
+chondromalacia patellae
+discoid meniscus
+bursitis
+synovitis
+osteochondritis dissecans
+osteonecrosis
+tendinopathy
+tendinitis
+tendinosis
+patellofemoral pain syndrome
+iliotibial band syndrome
+impingement
+internal derangement of knee
+surgery
+reconstructive surgery
+arthroscopy
+surgical repair
+osteotomy
+autologous chondrocyte implantation
+arthroplasty
+joint replacement
+fracture fixation
+crutches
+cane
+organismal quality
+behavioral quality
+movement behavioral quality
+active
+passive
+balance
+coordination
+range of motion
+muscle tone
+muscle strength
+muscle endurance
+physical endurance
+physical fitness
+physical strength
+physical agility
+joint stability
+body power
+muscle power
+postoperative complication
+hematoma
+phlebitis
+reflex sympathetic dystrophy
+infection
+deep vein thrombosis
+outpatient care
+motivating patient
+goal setting
+pacing
+informing patient
+advice
+giving feedback to patient
+patient education
+patient referral
+wound complication
+motor skills
+bilateral
+unilateral
+biomedical discipline
+anatomy
+biomechanics
+etiology
+direction
+position
+soft tissue
+physiological mobilization
+accessory mobilization
+self mobilization
+complementary therapy
+acupuncture
+acupressure
+gait training
+weight shifting exercise
+agility exercise
+direction changing exercise
+figure eight running
+slalom jogging
+slalom running
+speed changing training
+acceleration exercises
+deceleration exercises
+start and stop exercise
+assisted exercise for range of motion
+passive exercise for range of motion
+exercise therapy
+sport
+air sport
+basketball
+baseball
+cricket
+bowling
+climbing
+martial arts
+dancing
+rugby
+golf
+gymnastics
+handball
+volleyball
+racquet sport
+badminton
+squash
+tennis
+weightlifting
+track and field athletics
+sprint
+middle distance running
+standard long distance running
+marathon
+long jump
+triple jump
+high jump
+pole vault
+hurdling
+steeplechase
+shot put
+discus throw
+javelin throw
+hammer throw
+skating
+skiing
+sport movement
+pivot
+twist
+overstretch
+overbend
+sidestep cut
+crossover cut
+overuse injury
+age
+wear and tear
+accident
+blunt trauma
+fall
+slip
+trip
+occupational accident
+cincinnati sports activity scale
+level i
+level ii
+level iii
+level iv
+100 points
+95 points
+90 points
+85 points
+80 points
+75 points
+65 points
+60 points
+55 points
+40 points
+20 points
+0 points
+sporting accident
+application procedure
+application of brace
+application of strapping
+backward lunges
+forward lunges
+lunges on step
+training for sit to stand transfer
+single leg balance on uneven or unstable surface
+single leg balance with ball catching
+single leg balance with closed eyes
+vertical hopping
+single leg lateral hopping
+hopping for distance
+crossover hopping
+hopping up steps
+vertical jumping
+lateral jumping
+jumping for distance
+jumping up steps
+squat jumping
+sport - specific exercise
+pilates
+yoga
+mini squats
+single leg squats
+wall squats
+diagnostic procedure
+valgus stress test
+varus stress test
+apley grind test
+apley distraction test
+ege's test
+lateral pull test
+passive patellar tilt test
+anderson grind test
+passler rotational grind test
+payr test
+anterior drawer test
+posterior drawer test
+posterior sag test
+quadriceps active test
+lachman test
+reverse lachman test
+loomer test
+hughston plica test
+losee test
+martens test
+slocum test
+dejour test
+mcmurray test
+bounce home test
+mcconnell test
+o'donoghue test
+patellar apprehension test
+wilson test
+thessaly test
+noble test
+steinmann first test
+steinmann second test
+waldron test
+pivot shift test
+reverse pivot shift test
+classification
+orchard sports injury classification system  -  version 10
+knee injuries
+diagnostic imaging
+magnetic resonance imaging
+radiography
+ultrasonography
+x - ray computed tomography
+manual muscle test
+fitt activity level
+fitt activity level 0
+fitt activity level 1
+fitt activity level 2
+fitt activity level 3
+fitt activity level 4
+fitt activity level 5
+mrc grade  -  muscle power
+mrc grade  -  muscle power 0
+mrc grade  -  muscle power 1
+mrc grade  -  muscle power 2
+mrc grade  -  muscle power 3
+mrc grade  -  muscle power 4
+mrc grade  -  muscle power 5
+muscle acting on joint
+sweep test
+patellar tap
+hoffa test
+clarke test
+muscle quality
+clinical measurement
+body morphological measurement
+cardiovascular measurement
+blood pressure measurement
+diastolic blood pressure
+systolic blood pressure
+heart rate
+pulse rate
+musculoskeletal system measurement
+joint measurement
+muscle measurement
+respiratory system measurement
+forced expiratory volume
+forced expiratory volume to forced vital capacity ratio
+forced vital capacity
+maximal carbon dioxide production
+maximal oxygen consumption
+total lung capacity
+residual lung volume
+maximum mid - expiratory flow
+q angle
+anatomical abnormality
+ligamentous laxity
+abnormality of the knee
+bipartite patella
+abnormality of the patella
+flat feet
+tibial torsion
+femoral retroversion
+femoral anteversion
+genu varum
+genu valgum
+genu recurvatum
+knee flexion contracture
+elastic resistance exercise
+weight resistance exercise
+free weight exercise
+weight machine exercise
+weight resisted knee extension
+weight resisted knee flexion
+weight resisted hip abduction
+weight resisted hip adduction
+leg press exercise
+physical examination
+performance test
+test finding
+positive finding
+negative finding
+taxonomic classification
+assessment scale
+international knee documentation committee  ( ikdc )  subjective knee evaluation form
+knee injury and osteoarthritis outcome score  ( koos )
+knee injury and osteoarthritis outcome score physical function short form  ( koos - ps )
+knee outcome survey activities of daily living scale  ( kos - adl )
+lysholm knee scoring scale
+oxford knee score
+activity rating scale  ( ars )
+tegner activity scale  ( tas )
+western ontario and mcmaster universities osteoarthritis  ( womac )  score
+modified cincinnati rating score
+knee society clinical rating score
+ability
+ability to balance
+motor ability
+ability to perform gross motor function
+ability to perform fine motor function
+passive range of motion
+active range of motion
+generalized swelling of knee
+localized swelling of knee
+tenderness
+knee symptom
+knee sensation
+knee slipping sensation
+knee locking
+knee finding
+knee giving way
+extension lag
+straight leg raise test
+phenotypic abnormality
+biomechanical abnormality
+gait abnormality
+limp
+antalgic gait
+broad - based gait
+shuffling gait
+waddling gait
+joint finding
+palpation
+observation
+subjective examination
+self - assessment
+bone organ
+tibia
+femur
+fibula
+talus
+patella
+synovial tissue
+body substance
+synovial fluid
+synovial bursa
+synovial membrane
+condyle
+epicondyle
+saphenous nerve
+obturator nerve
+iliotibial band
+tubercle
+patellar retinaculum
+epiphysis of bone
+fat pad
+adipose tissue
+body part
+skeletal muscle
+organ
+organ part
+serous sac
+fascia organ
+cavitated organ
+solid organ
+synovial sac
+synovial capsule of knee joint
+cartilage organ
+ligament organ
+membrane organ
+muscle organ
+popliteal fat pad
+skeletal ligament
+articular capsule
+organ region
+organ zone
+tibial tuberosity
+tibialis
+subdivision of body part
+ankle
+foot
+knee
+leg
+thigh
+cruciate ligament
+arcuate popliteal ligament
+meniscofemoral ligament
+collateral ligament
+organ system
+musculoskeletal system
+skeletal system
+dense regular collagenous tissue
+serous membrane
+wall of organ
+bone tissue
+irregular connective tissue
+regular connective tissue
+peripheral nerve
+femoral nerve
+neural tissue
+fascia lata
+investing fascia
+tibiofemoral joint
+organ component
+articular system
+cardiovascular system
+nervous system
+peripheral nervous system
+deep fascial system
+borg scale
+15 point borg scale
+10 point borg scale
+medial patellofemoral ligament
+gerdy's tubercle
+apex of patella
+base of patella
+organ surface
+articular facet of patella
+tibial spine
+physical therapy
+piriformis
+adductor longus
+adductor magnus
+adductor brevis
+sciatic nerve
+tibial nerve
+common peroneal nerve
+superior gluteal nerve
+inferior gluteal nerve
+muscle of trunk
+multifidus
+erector spinae
+transversus abdominis
+rectus abdominis
+internal oblique
+external oblique
+trunk
+step downs
+jumping down steps
+hopping down steps
+rotational hopping
+direction changing jogging
+hamstring curl  ( standing )
+hamstring stretch  ( standing )
+high skipping
+lateral step downs
+rotational lunges
+side steps
+sprint squats on step
+forward stepping
+backward stepping
+core stability exercise
+single leg balance
+star excursion balance
+patella alta
+patella baja
+lateral shift of patella
+lateral tilt of patella
+lateral subluxation of patella
+dysplastic patella
+patellar hypertrophy
+dysplastic trochlea
+hypoplastic trochlea
+body mass index
+body height
+body weight
+self - management
+prognosis
+diagnosis
+pathology
+pain management
+rehabilitation therapy
+lifestyle therapy
+professional role
+podiatrist
+pharmacist
+orthotist
+orthopedic surgeon
+nutritionist
+general practitioner
+physical therapist
+personal trainer
+nurse
+injection of therapeutic agent
+pharmacologic substance
+corticosteroid
+non - steroidal anti - inflammatory agent
+acetaminophen
+hylan
+glucosamine
+cod liver oil
+clinical history
+pharmacotherapy
+hip
+long - term care
+topical agent
+oral administration
+eq - 5d
+questionnaire
+leg extension on all fours
+bent knee fall out
+bridging
+bridging on one leg
+clam
+leg lift
+dead lift
+knee extension
+knee flexion
+knee flexion overpressure
+skateboard slide
+gastrocnemius stretch
+gluteus stretch
+hamstring curl  ( lying )
+hamstring stretch  ( lying )
+heel raise
+single - leg bent - knee heel raise
+single - leg straight - knee heel raise
+inner range quadriceps exercise
+resisted knee extension
+resisted knee flexion
+isometric hamstring exercise
+prone knee extension
+forward lunges with weights
+neutral spine control
+single leg balance with weights
+prone extension
+prone straight - knee hip extension
+prone bent - knee hip extension
+quadriceps stretch  ( standing )
+quadriceps stretch  ( lying )
+side plank
+knee extension  ( sitting )
+soleus stretch  ( standing )
+sprint squats
+single leg balance with ball
+squats with weights
+static quadriceps exercise
+sideway lunges with weights
+straight leg hip abduction
+straight leg raise
+resisted hamstring curl
+resisted hip abduction / extension
+resisted hip abduction
+resisted hip extension
+under leg lift
+steps
+hydrotherapy
+superior tibiofibular joint
+range of motion exercise for knee
+document
+data item
+bone marrow
+joint compartment
+anatomical entity
+immaterial anatomical entity
+anatomical line
+subcutaneous adipose tissue
+osgood - schlatter disease
+transverse fracture
+angulated fracture
+avulsion fracture
+butterfly fracture
+comminuted fracture
+displaced fracture
+undisplaced fracture
+epiphyseal fracture
+extra - articular fracture
+intra - articular fracture
+incomplete fracture
+linear fracture
+oblique fracture
+osteochondral fracture
+subchondral fracture
+chondral fracture
+pathological fracture
+spiral fracture
+stellate fracture
+stress fracture
+insufficiency fracture
+diaphyseal fracture
+intercondylar fracture
+complete fracture
+loose body
+bone marrow oedema
+cyst
+subchondral cyst
+synovial plica syndrome
+cartilage disease
+cartilage loss
+cartilage flap
+fissure
+irregularity
+arthropathy
+effusion
+joint effusion
+knee joint effusion
+meniscocapsular separation
+anatomical point
+organ cluster
+extensor mechanism
+finding descriptor
+certainty descriptor
+equivocal
+probably
+suggestive
+diffuse
+focal
+linear
+multifocal
+patchy
+attenuation
+ruptured
+normal
+some
+other
+severity descriptor
+minimal
+mild
+moderate
+marked
+severe
+minor
+major
+early
+extensive
+partial
+stable
+intact
+large
+small
+persistent
+residual
+transient
+coincidental
+prominent
+gross
+healing
+meniscectomy
+compression fracture
+osteolysis
+osteoporosis
+enthesitis
+chondrosis
+arthrofibrosis
+subchondral sclerosis
+detached
+dislocated
+displaced
+peripheral
+shifted
+superficial
+deep
+longitudinal
+radial
+oedema
+degenerative disease
+degeneration
+fragmentation
+musculoskeletal degeneration
+ossification
+rheumatic disease
+musculoskeletal disease
+subchondral hematoma
+recent
+pivot shift injury
+hyperextension injury
+twisting injury
+valgus injury
+varus injury
+inflammation
+anteroinferior
+anterolateral
+anteromedial
+anterosuperior
+inferolateral
+inferomedial
+posteroinferior
+posterolateral
+posteromedial
+posterosuperior
+superolateral
+superomedial
+joint space loss
+central
+subchondral bone change
+synovial cyst
+general anatomical term
+remainder
+attachment
+junction
+fibre
+apex
+articular surface
+intrasubstance
+impaction fracture
+lesion
+lipoma arborescens
+fraying
+anatomical space
+popliteal hiatus
+suprapatellar fat pad
+metaphysis
+macerated
+tibial side
+femoral side
+patellar side
+graft
+footprint
+middle
+haemarthrosis
+musculotendinous junction
+femoral attachment
+tibial attachment
+artifact
+movement artifact
+object artifact
+gutter
+imaging sign
+two - slice - touch rule
+double pcl sign
+absent bow tie sign
+kissing oedema
+spontaneous
+secondary
+pes anserinus
+alignment
+failure
+vascularity
+red marrow reconversion
+oblique
+cartilage fibrillation
+empty
+haemorrhage
+organ segment
+synovial plica
+measures

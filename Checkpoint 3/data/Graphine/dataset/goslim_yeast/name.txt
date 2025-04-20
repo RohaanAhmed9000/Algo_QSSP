@@ -1,0 +1,93 @@
+conjugation
+cytokinesis
+molecular_function
+dna binding
+rna binding
+motor activity
+helicase activity
+protein kinase activity
+phosphoprotein phosphatase activity
+signal transducer activity
+structural molecule activity
+transporter activity
+protein binding
+cellular_component
+extracellular region
+cell wall
+membrane fraction
+nucleus
+chromosome
+nucleolus
+cytoplasm
+mitochondrion
+mitochondrial envelope
+vacuole
+peroxisome
+endoplasmic reticulum
+golgi apparatus
+microtubule organizing center
+ribosome
+cytoskeleton
+plasma membrane
+cellular bud
+cell cortex
+generation of precursor metabolites and energy
+dna metabolic process
+transcription
+translation
+protein folding
+protein modification process
+cellular amino acid and derivative metabolic process
+cellular aromatic compound metabolic process
+vitamin metabolic process
+transport
+response to stress
+nucleus organization
+mitochondrion organization
+cytoskeleton organization
+peroxisome organization
+vacuole organization
+cell wall organization
+cell cycle
+chromosome segregation
+cell budding
+pseudohyphal growth
+meiosis
+signal transduction
+biological_process
+peptidase activity
+lipid binding
+endomembrane system
+membrane
+cytoplasmic membrane - bounded vesicle
+membrane organization
+vesicle organization
+rna metabolic process
+vesicle - mediated transport
+oxidoreductase activity
+transferase activity
+nucleotidyltransferase activity
+hydrolase activity
+lyase activity
+isomerase activity
+ligase activity
+cellular homeostasis
+enzyme regulator activity
+site of polarized growth
+sporulation resulting in formation of a cellular spore
+transcription regulator activity
+triplet codon - amino acid adaptor activity
+transposition
+cellular component morphogenesis
+response to chemical stimulus
+ribosome biogenesis
+cellular lipid metabolic process
+cellular protein catabolic process
+cellular carbohydrate metabolic process
+translation regulator activity
+cellular respiration
+heterocycle metabolic process
+cofactor metabolic process
+chromosome organization
+protein complex biogenesis
+regulates

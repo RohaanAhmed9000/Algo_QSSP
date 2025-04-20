@@ -1,0 +1,92 @@
+contributor role
+author role
+figure development role
+translator role
+background and literature search role
+marketing and communication role
+website role
+obsolete networking facilitation role
+obsolete marketing role
+documentation role
+graphic design role
+technical documentation role
+data role
+education and training role
+obsolete information technology systems role
+software testing role
+intellectual property role
+policy development role
+preservation role
+regulatory and compliance role
+instrumentation role
+curator role
+collection role
+team management role
+obsolete data aggregation role
+statistical analysis role
+data collection role
+metadata role
+data entry role
+data integration role
+data modeling role
+data quality assurance role
+obsolete data standards developer role
+training material role
+training program development role
+instruction role
+hardware role
+obsolete software systems role
+database administrator role
+system administrator role
+standards role
+protocol creation role
+obsolete standard operating procedure development role
+study design role
+technique development role
+device development role
+equipment technician role
+survey and questionnaire development role
+code review role
+obsolete computer programming role
+software architecture role
+software design role
+software engineering role
+project management role
+archivist role
+conservator role
+digital preservation role
+data transformation role
+standards development role
+data validation role
+obsolete it hardware systems design and implementation role
+infrastructure role
+project ,  policy or program evaluation role
+obsolete program administration role
+coordination role
+supervisory role
+community engagement role
+outreach materials development role
+obsolete participant recruitment role
+technician role
+original draft preparation role
+lay summary role
+obsolete website maintenance role
+technical writing role
+requirements analysis role
+specimen collection role
+primary collector role
+grant peer review role
+acquisition role
+funding source role
+discovery role
+patient advocate role
+presenter role
+peer review role
+advisory role {http: /  / purl .obolibrary .org / obo / iao_0000119="https: /  / www .lexico .com / en / definition / adviser"}
+modifier role
+acceptor role
+submitter role
+evaluator role
+creator role
+database role
+librarian role

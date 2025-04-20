@@ -1,0 +1,446 @@
+infectious disease inhering in a virus disorder that is a disorder due to the presence of the virus .
+objective specification that is realized by processes that are able or likely to stop the spread of a disease in a population .
+plan specification whose objective specification is an infectious disease control objective specification .
+algorithm that models the progress of a transmissible disease in a population .
+infectious disease control strategy that has an action specification that is realized in closing facilities where organisms congregate during times when the facilities normally would be open .
+infectious disease control strategy that has an action specification that is realized in isolating organsims who are infectious .
+infectious disease control strategy that has a vector control action specification as part .
+infectious disease control strategy whereby organisms who have had contact with infectious organisms but are not symptomatic or otherwise known to be infectious are prevented from having contact with other susceptible organisms .
+objective specification whose endpoint is human awareness of the level of a particular disease in a particular population of a given biological taxon during some time interval .
+infectious disease control strategy that identifies and treats contacted organisms in a host population .
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+a realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural ,  social or institutional contexts .
+b is a generically dependent continuant = def .
+p is a process boundary =def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+b is a process_profile =def .
+material entity part of or substance produced by a multicellular organism with granularity above the level of a protein complex .
+nucleic acid composed of nucleotides containing deoxyribose and linked by phosphodiester bonds .
+constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer etc .
+role inhering in a molecular entity or part of that entity ,  realized in biological processes .
+macromolecule made up of nucleotide units and hydrolysable into certain pyrimidine or purine bases .
+nucleic acid composed of nucleotides containing ribose and linked by phosphodiester bonds .
+molecular entity of high relative molecular mass ,  the structure of which essentially comprises the multiple repetition of units derived ,  actually or conceptually ,  from molecules of low relative molecular mass .
+biological macromolecule consisting of one polypeptide chain synthesized at the ribosome .
+dna consisting of two parallel strands joined by hydrogen bonds between complementary purines and pyrimidines .
+this should be an inferred subclass of bfo:object .
+virus disorder that exists as a result of a process of formation of disorder initiated by a coronavirus or coronavirus population .
+coronavirus disorder that exists as a result of a process of formation of disorder initiated by sars - cov - 2 .
+coronavirus disease inhering in a sars - cov - 2 disorder ,  and which is realized in some covid - 19 disease course .
+viral disease course that is the realization of some coronavirus disease and has as a participant a coronavirus .
+coronavirus disease course that is the realization of some covid - 19 disease and has participant sars - cov - 2
+virus aggregate whose members are all coronaviruses .
+coronavirus aggregate whose members are all sars - cov - 2 .
+respiratory droplet virus fomite with coronavirus part .
+respiratory droplet virus fomite with sars - cov - 2 part .
+coronavirus process realization of an infectious structure disposition inhering in a coronavirus or coronavirus population ,  having at least the proper process parts:  ( 1 )  pathogen transmission ,   ( 2 )  establishment of localization in host ,   ( 3 )  process of establishing a viral infection ,  and  ( 4 )  appearance of a virus disorder .
+coronavirus process realization of an infectious structure disposition inhering in a sars - cov - 2 or a sars - cov - 2 population ,  having at least the proper process parts:  ( 1 )  pathogen transmission ,   ( 2 )  establishment of localization in host ,   ( 3 )  process of establishing a viral infection ,  and  ( 4 )  appearance of a virus disorder .
+virus attachment stage involving sars - cov - 2 that bonds with a host cell
+virus penetration stage involving sars - cov - 2 that penetrates a host cell
+virus release stage during which sars - cov - 2 is released from a host cell
+virus uncoating stage during which sars - cov - 2 uncoats outer proteins to release genetic material into host cell .
+virus adhesion susceptible cell bearing a sars - cov - 2 adhesion disposition
+viral adhesion disposition borne by a macromolecule part of sars - cov - 2 that is the disposition to participate in a sars - cov - 2 attachment process
+infection prevalence involving agents infected by sars - cov - 2 .
+infectious disease prevalence where the infectious disease is covid - 19 .
+infectious disease mortality rate where the infectious disease is covid - 19 .
+infectious disease lifetime prevalence where the infectious disease is covid - 19 .
+infectious disease incidence rate where the infectious disease is covid - 19 .
+infectious disease incidence where the infectious disease is covid - 19 .
+infectious disease incidence where the infectious disease is covid - 19 .
+infectious disease endemicity where the infectious disease is covid - 19 .
+infectious pathogen transmissibility involving sars - cov - 2 .
+pathogen seroprevalence where the pathogen is sars - cov - 2 .
+infectivity where the pathogen is sars - cov - 2 .
+virulence where the pathogen is sars - cov - 2 .
+infectious disease sporadicity where the infectious disease is covid - 19 .
+processed material bearing a reagent role .
+reagent that is comprised of immunoglobulins produced by b cells in response to an antigen .
+assay used to determine viral titers .
+planned process used to influence one or more factors in a research study ,  and the independent variable in an interventional study wherein the influence is measured or evaluated .
+assay analyzing blood serum and other bodily fluids ,  to detect the presence of serum antibodies .
+assay measuring the concentration of a substance in a material by exploiting binding between an analyte and a corresponding detection antibody .
+temporal subdivision of a developmental process .
+material entity that is  ( 1 )  a bona fide or fiat object part of the crust ,  any bodies of liquid on or contained within the crust ,  or planetary boundary layer  ( if present )  of a terrestrial planet  ( including earth )  ,  dwarf planet ,  exoplanet ,  natural satellite ,  planetesimal ,  or small solar system body ,  and that  ( 2 )  overlaps the planetary surface  ( including having a boundary that coincides with part of the planetary surface )  .
+geographical entity that has at least one bona fide boundary .
+geographical entity that is demarcated at least in part by one or more closed fiat boundaries all of whose lines are part of the planetary surface .
+immune response mediated by cells expressing specific receptors for antigen produced through a somatic diversification process ,  and allowing for an enhanced secondary response to subsequent exposures to the same antigen  ( immunological memory )  .
+process involved in the carrying out of an immune response by a leukocyte .
+immune system process that functions in the calibrated response of an organism to a potential internal or invasive threat .
+immune response mediated through a body fluid .
+process specifically pertinent to the functioning of functionally integrated units .
+protein surrounding virion nucleic acid in some virus particles .
+macromolecule lipid bilayer of a virion surrounding capsid .
+virus generative stage during which an incoming virus is disassembled in the host cell to release a replication - competent viral genome .
+virus generative stage during which a virion protein binds to molecules on the host surface or host cell surface projection .
+virus developmental stage during which all the components necessary for the formation of a mature virion collect at a particular site in the cell and the basic structure of the virus particle is formed .
+virus generative stage during which viral mrna is translated into viral protein ,  using the host cellular machinery .
+virus developmental stage during which a viral genome ,  or part of a viral genome ,  is transcribed within the host cell .
+protein complex that in its canonical form is composed of two identical immunoglobulin heavy chains and two identical immunoglobulin light chains ,  held together by disulfide bonds and sometimes complexed with additional proteins .
+immunoglobulin complex present in the plasma membrane of b cells and that in its canonical form is composed of two identical immunoglobulin heavy chains and two identical immunoglobulin light chains and a signaling subunit ,  a heterodimer of the ig - alpha and ig - beta proteins .
+biological process whose specific outcome is the progression of a functional ,  integrated ,  unit .
+stable assembly of two or more macromolecules ,  i .e .
+protein complex that contains a disulfide - linked heterodimer of t cell receptor  ( tcr )  chains ,  which are members of the immunoglobulin superfamily ,  and mediates antigen recognition ,  ultimately resulting in t cell activation .
+process carried out by gene products in an organism or acellular structure that enables the entity to engage in a symbiotic relationship with an organism .
+attachment of a symbiont to its host via adhesion molecules ,  general stickiness etc . ,  either directly or indirectly .
+penetration by an organism into the body ,  tissues ,  or cells of the host organism .
+penetration by an organism into its host organism via active breaching of the physical barriers of the host organism .
+innate immune responses are defense responses mediated by germline encoded components that directly recognize components of potential pathogens .
+virus generative stage during which a virion or viral nucleic acid breaches the barriers of a  host .
+protein subunit comprising viral capsid .
+process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a biological process .
+process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a multi - organism process in which a virus is a participant .
+process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of the immune response ,  the immunological reaction of an organism to an immunogenic stimulus .
+any process that stops ,  prevents or reduces the rate or extent of development ,  the biological process whose specific outcome is the progression of an organism over time from an initial condition  ( e .g .
+process that localizes a substance or cellular component via movement ,  tethering or selective degradation .
+process that modulates a measurable attribute of any biological process ,  quality or function .
+virus generative stage involving dissemination of mature virus particles from the host cell ,  by cell lysis or the budding of virus particles from the cell membrane .
+directive information entity that describes an intended process endpoint .
+directive information entity that describes an action the bearer will take
+plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective .
+directive information entity that when concretized it is realized in a process in which the bearer tries to achieve the objectives ,  in part by taking the actions specified .
+process in which multiple covid - 19 epidemics caused by sars - cov - 2 unfold over overlapping periods of time and affect organism populations located in different geographic regions ,  including different countries and continents .
+process of covid - 19 realizations and for which there is a statistically significant increase in the infectious disease incidence of a population .
+a role borne by an organism in symbiosis .
+symbiont role borne by an organism in which both symbionts derive a growth ,  survival ,  or fitness advantage from symbiosis .
+symbiont role borne by an organism that derives a growth ,  survival ,  or fitness advantage from symbiosis ,  while the other symbiont is neither advantaged nor disadvantaged .
+symbiont role borne by an organism that derives a growth ,  survival ,  or fitness advantage from symbiosis while the other symbiont's growth ,  survival ,  or fitness is reduced .
+infectious disposition to become part of a disorder only in organisms whose defenses are compromised .
+infectious disposition to become part of a disorder in immunocompetent organisms .
+host role borne by an organism whose extended organism provides an environment supportive for the survival ,  growth ,  maturation ,  or reproduction of an object contained as a proper part .
+symbiont host role borne by an organism iwhose partner in symbiosis reaches developmental maturity or reproduces sexually in the host .
+symbiont host role borne by an organism whose partner in symbiosis utilizes the host to undergo a developmental stage transition ,  and the host is required for continuation of the partner's life cycle .
+symbiont host role borne by an organism whose partner in symbiosis has the infectious disposition but cannot be transmitted from the host to the partner's definitive host .
+pathogen host role borne by an organism whose extended organism contains an infectious agent .
+host role borne by an object having a pathogen as part or an borne by an organism having a pathogen as part of its extended organism .
+a pathogen vector role borne by an organism in virtue of the fact that the pathogen does not multiply in or on the vector .
+a pathogen vector role borne by an organism in virtue of the fact that the pathogen multiplies in the vector .
+a pathogen transporter role borne by an entity in virtue of the fact that the entity is not a complete organism .
+a pathogen vehicle role borne by an entity in virtue of the fact that the entity is living or contains living cells other than those that have the infectious disposition .
+an infectious agent vehicle role borne by an entity in virtue of the fact that the entity is not alive .
+role borne by a material entity in which pathogens can persist ,  and from which they can be transmitted to hosts .
+disposition borne by a biological macromolecule produced by a pathogen that is a disposition to undergo processes that increase the pathogen's virulence .
+disposition to cause i )  malfunction of cells ,  ii )  damage to extracellular matrix ,  or iii )  damage of cells to a degree that can result in cell death .
+toxin disposition to damage cells or extracellular matrix by a direct enzymatic process .
+role borne by an anatomical entity that serves as the site through which a pathogen enters a host .
+role borne by an anatomical entity that serves as the site through which a pathogen exits a host .
+role borne by an infectious disorder whose host has another ,  distinct ,  infectious disorder  -  neither arising from the other through metastasis  -  which emerged after this infectious disorder was established due to increased host susceptibility to infectious disorders .
+role borne by an infectious disorder whose host has another ,  distinct ,  primary infectious disorder  -  neither arising from the other through metastasis  -  which emerged after the primary infectious disorder was established due to increased host susceptibility to infectious disorders .
+disease whose physical basis is an infectious disorder .
+disposition borne by a macromolecule that is the disposition to participate in adherence to a host .
+disposition borne by a biological macromolecule that is the disposition to facilitate breach of and entry through host barriers .
+disposition inhering in an acellular structure or organism ,  with a part having a disposition to mitigate damage to the entity from invasive or internal threats ,  which is realized in one or more negative biological regulation process .
+protective resistance that mitigates the damaging effects of a drug .
+protective resistance that inheres in an organism and mitigates the damaging effects of a pathogen .
+collective resistance disposition that inheres in an organism population where the proportion of the population with immunity to an infectious agent is high resulting in a low number of transmissions from hosts to susceptible individuals .
+resistance to pathogen that inheres in an organism due to immune system components in its extended organism .
+immunity to pathogen that results in elimination of the infectious agent from the host .
+disposition borne by a material entity to establish localization in and result in formation of disorder in a host or immunocompetent members of the same species as the host .
+disposition borne by a pathogen that is the disposition to penetrate the epithelial barriers of an organism of another species .
+infectious disposition to be transmitted from an infected ,  non - human host to a human host .
+infectious disposition to be transmitted from an infected ,  human host to a non - human host .
+disposition that inheres in a collection of entities in virtue of the individual dispositions of the constituents of that collection .
+organism that is experiencing immunosuppression .
+organism that has immunocompetence .
+disposition that inheres in a pathogen host and is a disposition to horizontally transmit that pathogen to organisms of the same species as the host ,  through casual contact ,  with a high likelihood of realization .
+host that contains a colony in or on its extended organism .
+quality that inheres in an infectious agent or infectious structure and is the likelihood that the agent or structure will undergo a horizontal transmission process .
+quality that inheres in a pathogen and is the liklihood that the infectious disposition will be realized upon exposure of a susceptible organism .
+quality that inheres in a pathogen and is the degree to which realizations of the infectious disease caused by the pathogen become severe or fatal .
+quality that inheres in an entity and is the degree to which it can be harmed by another entity .
+susceptibility that inheres in an organism and is the degree to which it can be harmed by an infectious agent .
+susceptibility that is the degree to which an entity can be harmed or inhibited from surviving by a drug .
+drug susceptibility that inheres in an infectious agent and is the degree to which the infectious agent can be harmed or inhibited from surviving by a drug .
+infection comprised of infectious organisms from different species .
+infection in which pathogen parts persist in the extracellular space of the host .
+infection in which pathogen parts persist inside host cells .
+infection for which the infectious agents or structures that are part of the infection are distributed throughout the host .
+infection for which the infectious agents or structures that are part of the infection are limited to a relatively small area of the host's body .
+infectious disease course that begins soon after infection is established and progresses rapidly to severe stages .
+quality that inheres in an organism population and is the number of realizations of an infectious disease for which the infectious disease course begins during a specified period of time .
+quality that inheres in an organism population and is the number of organisms in the population that become infected with a pathogen during a specified period of time .
+quality that inheres in an organism population and is the proportion of members of the population not experiencing an infectious disease course at the beginning of a specified period of time and in whom the infectious disease begins during the specified period of time .
+quality that inheres in an organism population and is the proportion of members of the population not infected at the beginning of a specified period of time who become infected during the specified period of time .
+quality that inheres in an organism population and is the infectious disease incidence proportion per unit time .
+quality that inheres in an organism population and is the infection incidence proportion per unit time .
+quality that inheres in an organism population and is the number of realizations of an infectious disease in the population at a specified time .
+quality that inheres in an organism population and is the number of organisms in the population infected with a pathogen at a specified time .
+quality that inheres in an organism population and is the number of organisms in the population who have ,  at any point during their lives ,  been bearers of an infectious disease and experienced realization of the disease .
+quality that inheres in an organism population and is the number of organisms in the population that have antibody specific for a pathogen in their serum at a specified time .
+quality that inheres in an organism population and is the per capita number of deaths in the population resulting from an infectious disease over a specified period of time .
+quality that inheres in an organism population in virtue of the fact that infections of the type that causes an infectious disease are maintained in the population via intra - population transmission or by transmission from a local reservoir .
+quality that inheres in an organism population by virtue of the fact that realizations of an infectious disease occur in the population with a fluctuating prevalence .
+disease course that is the realization of an infectious disease .
+chronic infectious disease course that does not progress to severe stages for a long period of time .
+process by which an organism acquires immunity to an infectious agent .
+immunization that begins with exposure of an organism to antigen and results in immunity against an infectious agent .
+active immunization that begins with exposure of an organism to a vaccine .
+active immunization that begins with exposure to smallpox in the form of a scab from a pustule and results in immunity against smallpox .
+immunization that begins with transfer to an organism of molecules not produced by that organism and that confer immunity against an infectious agent .
+process of infectious disease realizations and for which there is a statistically significant increase in the infectious disease incidence of a population .
+process in which multiple infectious disease epidemics of the same type of infectious disease unfold over overlapping periods of time and affect organism populations located in different geographic regions ,  including different countries and continents .
+disorder that is part of an organism whose extended organism has some infectious agent or structure as part ,  which participates in the formation of infection .
+infection that has as part bacteria located in the blood .
+aggregate of organisms of the same species .
+organism population whose members have an infection .
+organism population in whose members an infectious disease is being realized .
+organism population whose members each have an infectious disposition .
+organism population whose members are not infected with an infectious agent and who lack immunity to the infectious agent .
+organism population whose members are participating in non - parasitic symbiosis with a particular host .
+one - dimensional temporal region beginning with the extablishment of an infectious agent or structure in a host and ending with the onset of symptoms in the host .
+one - dimensional temporal region during which a pathogen host bears a contagiousness disposition .
+organism bearing a symbiont role .
+organism that can only reach developmental maturity ,  replicate ,  or persist in symbiosis .
+symbiont bearing a mutualist role .
+symbiont bearing a commensal role .
+symbiont bearing a parasite role .
+material entity bearing a pathogenic disposition .
+pathogen bearing a primary infectious disposition .
+object bearing a host role .
+host bearing a definitive host role .
+host bearing an intermediate host role .
+host bearing a dead - end host role .
+pathogen host bearing an infectious agent host role .
+host bearing a pathogen host role .
+infectious agent host bearing the infectious agent carrier role .
+pathogen transporter bearing a pathogen vehicle role .
+pathogen vehicle bearing a fomite role .
+material entity bearing a pathogen reservoir role .
+a macromolecule produced by a pathogen and that has a virulence factor disposition .
+biological macromolecule that has an invasion disposition .
+molecular entity that has a toxin disposition .
+toxin bearing an exotoxin disposition .
+exotoxin bearing an enterotoxin disposition .
+toxin bearing an endotoxin disposition that is a structural component of a pathogen and is released from the pathogen only upon cytolysis .
+anatomical entity bearing a pathogen portal of entry role .
+anatomical entity bearing a pathogen portal of exit role .
+biological macromolecule that has an adhesion disposition .
+infectious disorder bearing a primary infection role .
+infectious disorder bearing a secondary infection role .
+infectious disease inhering in an infectious disorder composed of pathogens having zoonotic dispositions .
+infection that is part of an asymptomatic carrier .
+material entity bearing protective resistance .
+immunity to pathogen that inheres in an organism in virtue of germline encoded components that directly recognize components of potential pathogens .
+immunity to pathogen that inheres in an organism in virtue of components of its circulating body fluid ,  e .g .
+immunity to pathogen that inheres in an organism in virtue of its leukocytes .
+immunity to pathogen that inheres in an organism in virtue of antibodies not produced by that organism .
+resistance to drug that mitigates the damaging effects of an antibiotic .
+pathogen whose infection incidence is increasing following its first introduction into a new host species .
+toxin bearing a cytotoxin disposition .
+collective disposition to initiate processes that result in a disorder .
+part of an organism that itself is part of an extended organism with a pathogen as part ,  which participates in the formation of the infection .
+resistance to pathogen that inheres in an organism due to an allele or combination of alleles in its genome .
+collective disposition the realization of which mitigates the damaging effects of some entity on members of the collection .
+organism that has an immunodeficiency .
+infectious disease course that unfolds over a long period of time .
+organism population whose members have acquired immunity to an infectious agent .
+one - dimensional temporal region during which a transmission process occurs .
+organism that has an infectious disposition .
+process by which an infectious agent or infectious structure ,  established in a host ,  becomes part of an infection in the host .
+establishment of localization in host process in which an organism or acellular structure establishes a colony in or on a host .
+colonization of host process that results in a clinically abnormal colony .
+process in which an entity comes into being as a result of the process .
+production process in which a participant creates a copy of itself .
+process that attenuates an immune response .
+immunosuppression which unfolds as part of the natural self - regulation of an immune response .
+immunosuppression process which arises as the result of a disorder .
+organism population persisting in a site it has colonized .
+colony whose members are infectious agents .
+disorder of an immune system component that results in defective functioning of the immune system .
+disposition inhering in an organism that is the disposition to mount a normal immune response .
+disposition whose realization negatively regulates an immune response .
+immunity to pathogen that inheres in an organism in virtue of antigen receptors encoded by somatically diversified genes in the organism's genome and expressed by cells that have undergone selection during a primary immune response in that organism .
+infectious disposition to be transmitted from one organism to another of the same species by horizontal transmission .
+establishment of localization process in which a material entity reaches a site in or on a host in which it can survive ,  grow ,  multiply ,  or mature .
+process by which a disorder comes into existence .
+infectious disorder that is the physical basis for an unfolding acute infectious disease course .
+infection that persists for an extended period of time .
+role borne by an acellular structure containing a material entity other than the structure ,  or organism whose extended organism contains a material entity other than the organism ,  realized in use of that structure or organism as a site of reproduction or replication .
+infection resulting from a transmission process that unfolds in a hospital .
+infection resulting from a transmission process that did not unfold in a health care facility .
+toxin bearing a neurotoxin disposition .
+infection established as a result of spread from another infection in a non - adjacent location in the extended organism of the host .
+role borne by a material entity that contains a site from which an infectious agent is transmitted .
+infection resulting from a transmission process that unfolds in a nursing home .
+pathogen disposed to infect human hosts .
+immunodeficiency that is not caused by a genetic predisposition .
+infection comprised of infectious organisms or structures all of the same species .
+pathogen whose infection incidence is increasing in a host population as a result of changes in the biology of the host or pathogen ,  or changes in their interactions .
+colonization of host in a human .
+immunodeficiency that exists in an organism because of a genetic predisposition .
+infectious disease inhering in an infectious disorder composed of pathogens bearing reverse zoonotic dispositions .
+pathogen with an opportunistic infectious disposition .
+disposition to undergo a transmission process .
+http: /  / purl .obolibrary .org / obo / ido .owl
+process that results in death .
+organism that is not infected with an infectious agent and lacks protective immunity to the infectious agent .
+process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a life - sustaining process .
+material entity bearing a source of infection role .
+immunosuppressed organism that is experiencing pathologic immunosuppression .
+process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a production process .
+process that stops ,  prevents ,  or reduces the frequency ,  rate or extent of a replication process .
+process boundary that marks the start of the life cycle of a pathogen .
+process boundary that marks the end of the life cycle of a pathogen .
+pathologically immunosuppressed organism that is experiencing drug - based immunosuppression .
+disposition to kill fungi .
+disposition to kill bacteria .
+disposition to inhibit the reproduction of bacteria .
+disposition to kill parasites .
+disposition to inhibit the reproduction of parasites .
+static agent bearing a bacteriostatic disposition .
+cidal agent with a bactericidal disposition that is realized in a process of killing bacteria .
+acellular structure that has an infectious disposition .
+aggregate of acellular structures .
+zero - dimensional temporal region occupied by a pathogen birth process boundary .
+zero - dimensional temporal region occupied by a pathogen death process boundary .
+object that is an arrangement of interrelated acellular parts forming a biological unit .
+material entity with a cidal agent disposition that is realized in a process of killing bacteria ,  fungi ,  parasites ,  or viruses .
+material entity bearing a static agent disposition .
+disposition to inhibit the reproduction of bacteria ,  fungi ,  or parasites ,  or inhibit the replication of viruses .
+disposition to kill bacteria ,  fungi ,  parasites ,  or viruses .
+pathogen host bearing an infectious structure host role .
+pathogen host role borne by an object or organism whose extended organism contains an infectious structure .
+material entity bearing a pathogen transporter role .
+role borne by a material entity in or on which a pathogen is located ,  from which the pathogen may be transmitted to a new host .
+pathogen generative stage that is a temporal subdivision of an infectious agent developmental process .
+pathogen generative stage that is a temporal subdivision of an infectious structure developmental process .
+generative stage that is a temporal subdivision of a pathogen developmental process .
+pathogen host role borne by an organism whose extended organism contains a pathogen bearing an infectious disposition towards the host ,  and the host has no symptoms of the infectious disease caused by the pathogen .
+pathogen host with an infection as part but exhibits no signs or symptoms .
+infectious structure host bearing an asymptomatic carrier role .
+pathogen host role borne by an organism whose extended organism contains a pathogen bearing an infectious disposition towards the host ,  and the host has manifested symptoms of the infectious disease caused by the pathogen .
+pathogen host with infection as part that exhibits symptoms .
+toxin disposition realized in processes resulting in damage to host cells .
+toxin disposition realized in damaging or interfering with the function of nerve tissue .
+toxin disposition that is a structural component of a pathogen and is realized only during cytolsis .
+exotoxin disposition ithat is realized in a process of damaging intestinal mucosa cells .
+infectious structure host bearing a symptomatic carrier role .
+infectious agent host bearing an infectious agent carrier role .
+acellular structure aggregate whose members are infectious structures .
+pathogen transporter bearing a pathogen vector role .
+pathogen vector bearing a biological vector role .
+pathogen vector bearing a mechanical vector role .
+pathogen vehicle bearing a biological vehicle role .
+establishment of localization in or on a human host .
+one - dimensional temporal region beginning with the establishing of an infection in a host and ending when the host becomes contagious .
+process boundary that marks the start of an infection ,  latency process ,  and incubation process .
+process boundary marking the end of a latency period .
+process boundary marking the end of an incubation period .
+zero - dimensional temporal region occupied by an infection start process boundary .
+zero - dimensional temporal region occupied by an infection end process boundary .
+zero - dimensional temporal region occupied by a latency end process boundary .
+zero - dimensional temporal region occupied by a communicability end process boundary .
+zero - dimensional temporal region occupied by an incubation end process boundary .
+zero - dimensional temporal region occupied by a communicability start process boundary .
+process boundary marking the start of a latency interval .
+process boundary marking the start of an incubation interval .
+process boundary marking the start of a communicability interval .
+process boundary marking the end of a communicability interval .
+biological role borne by a molecular entity that serves as the site on an antigen realized in immune system recognition and binding by antibodies .
+surveillance process aiming to produce information about one or several objects ,  in the form of microorganisms ,  which have the role of pathogen .
+surveillance process aiming to produce information about one or several objects ,  in the form of arthropods ,  which have the role of serving as biological pathogen vectors .
+acellular structure with rna or dna genetic material which uses host metabolic resources for rna or dna replication .
+positive - sense single - stranded rna virus with a helically symmetrical nucleocapsid ,  lipid bilayer viral envelope ,  and surface spike peplomers .
+virus with genetic material encoded in single - stranded rna that replicates using reverse transcriptase to convert positive - sense rna to dna .
+virus with genetic material encoded in single - stranded dna and replicates using dna polymerase .
+virus that has its genetic material encoded in double - stranded dna and replicates using dna polymerase .
+virus with genetic material that is encoded in double - stranded dna and replicates through single - stranded rna intermediate .
+virus with genetic material encoded in single - stranded rna that can be translated directly into proteins .
+virus with genetic material encoded in single - stranded rna that can be translated into proteins only after transcription by rna polymerase .
+virus with genetic material encoded in double - stranded rna .
+acellular structure that consists of an abnormally folded protein which replicates by by transmitting its abnormal structure to other proteins .
+process that realizes a plan which is the concretization of a plan specification .
+material entity that is created or changed during material processing .
+planned process with the objective to produce information about some evaluant .
+role inhering in a molecular entity when the molecular entity is used to produce a chemical reaction to detect ,  measure ,  or produce other substances .
+planned process which results in physical changes in a specified input material .
+biological role inhering in some molecular entity ,  that stimulates an immune response when identified by the immune systems cells .
+double stranded dna that is the specified output of a polymerase chain reaction
+enzymatic amplification in which a dna polymerase is used to amplify a piece of dna by in vitro enzymatic replication .
+material processing amplifying cdna during a pcr reaction while the cdna results from a retrotranscription of messenger rna isolated from a material entity .
+object that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+material processing using enzymes to increase the number of molecules of a material entity .
+molecular entity bearing the epitope role .
+molecular entity bearing an antigen role .
+process experienced by a patient which can only be experienced by the patient ,  that is hypothesized to be clinically relevant .
+disposition  ( i )  to undergo pathological processes that  ( ii )  exists in an organism because of one or more disorders in that organism .
+material entity that is a clinically abnormal part of an extended organism .
+totality of all processes through which a given disease instance is realized .
+object aggregate consisting of an organism and all material entities located within the organism ,  overlapping the organism ,  or occupying sites formed in part by the organism .
+material entity that is a human made structure with firm connection between its foundation and the ground .
+architectural structure that bears some function .
+facility that is run by a hospital organization and is the bearer of a hospital function .
+facility that is administered by a health care organization for the purpose of providing health care to a patient or patient population .
+protein complex consisting of an n - terminal peptidase m2 domain and a c - terminal collectrin renal amino acid transporter domain ,  which is attached to surface of alveolar ,  enterocyte cells ,  arterial and venous endothelial cells ,  and cortical neurons .
+process in which a pathogen is transmitted directly or indirectly to a new host .
+pathogen transmission process in which a pathogen is indirectly transferred to a host by intermediary vehicles or vectors .
+pathogen transmission process in which a pathogen is transferred to a host through surface - to - surface contact .
+indirect pathogen transmission process in which a pathogen is transmitted from a host expelling respiratory droplets to another host .
+a fluid that is composed of blood plasma and erythrocytes .
+anatomical entity in a gaseous ,  liquid ,  semisolid or solid state ;  produced by anatomical structures or derived from inhaled and ingested substances that have been modified by anatomical structures as they pass through the body .
+organism substance that is secreted by a respiratory system .
+matter ejected from the lungs ,  bronchi ,  and trachea ,  through the mouth .
+macromolecule glycoprotein component of sars - cov - 2 membrane .
+macromolecule consisting of positive stranded viral rna of sars - cov - 2 .
+macromolecule component of sars - cov - 2 envelope .
+infection that has as part virus particles located in the blood .
+virus that is in its assembled state consisting of genomic material  ( dna or rna )  surrounded by coating molecules .
+cidal agent with a viricidal disposition that is realized in a process of killing viruses .
+static agent bearing a viostatic disposition .
+replication process in which a virus containing some portion of genetic material inherited from a parent virus is replicated .
+disposition to kill viruses .
+a disposition to inhibit the reproduction of viruses .
+acellular structure aggregate whose members are viruses
+acellular infectious aggregate whose members are viroids .
+acellular infectious aggregate whose members are prions .
+replication process in which a prion facilitates abnormal folding in proteins resulting in additional ,  identical ,  abnormally folded proteins .
+infectious structure generative stage that is a temporal subdivision of a virus developmental process .
+infectious disease whose physical basis is a virus disorder that is clinically abnormal in virtue of the presence of the relevant virus population .
+infectious disorder that exists as a result of a process of formation of disorder initiated by a virus or virus population .
+infectious structure host whose extended organism has some virus part .
+viral disease inhering in a coronavirus disorder which is realized in some coronavirus disease course
+subclinical infection that is part of a virus host .
+respiratory droplet bearing a fomite role .
+respiratory droplet fomite with virus part .
+pathogenesis process realization of a pathogenic disposition inhering in a virus or virus population ,  having at least the proper process parts:  ( 1 )  pathogen transmission ,   ( 2 )  establishment of localization in host ,   ( 3 )  process of establishing a viral infection ,  and  ( 4 )  appearance of a virus disorder .
+process of establishing an infection in which a virus participates .
+cell with an adhesion factor part bearing a viral adhesion disposition
+adhesion disposition borne by a macromolecule part of a virus that is the disposition to participate in a virus attachment process
+quality inhering in a portion of fluid that is the proportion of virions to volume of that portion of fluid
+http: /  / purl .obolibrary .org / obo / vido .owl
+virus which infects and replicates within or on viruses .
+virus that causes cancer in hosts .
+acellular structure having some arrangement of viral components  ( e .g .
+acellular structure having some arrangement of protein components ,  that is clinically abnormal .
+site part of an antigen that is recognized by immune system cells and to which antibodies attach .
+http: /  / purl .obolibrary .org / obo / vido .owl
+http: /  / purl .obolibrary .org / obo / vido .owl
+planned process with the objective to produce information about some evaluant with the purpose of ,  if justified by the information gathered ,  managing ,  directing ,  or protecting .
+site generated by morphogenetic or physiologic processes that is bounded by an anatomical surface .
+anatomical space that is part of a cell .
+subclinical virus infection with coronavirus as part .
+subclinical coronavirus infection with sars - cov - 2 as part .
+disposition to inhibit the reproduction of fungi .
+anatomical space through which a pathogen enters an organism .
+anatomical space through which a pathogen exits an organism .
+anatomical space in which an infection is located .
+anatomical space in which an infection appears in a host organism .
+a pathogen transporter role that is borne by an organism active in the transfer of an infectious agent or infectious structure to an organism of another species in which it can realize its infectious disposition .
+pathogenic disposition borne by a pathogen to be transmitted to a host and become part of an infection in that host or immunocompetent members of the same species as the host .
+disease that occurs in different organs functioning in respiration and consisting especially of the nose ,  nasal passages ,  nasopharynx ,  larynx ,  trachea ,  bronchi ,  and lungs .
+respiratory system disease located in the lower respiratory tract .
+progressive and life - threatening pulmonary distress in the absence of an underlying pulmonary condition ,  usually following major trauma or surgery .
+process that generates the ability of a pathogen to induce disorder in an organism .
+a geopolitical entity that delimits a government with effective internal and external sovereignty over the region and its population ,  and which is not dependent on or subject to any other power or geopolitical entity .
+information content entity that consists of a set of propositions that describe some entity .
+information content entity that consists of a set of symbols that denote some entity .
+information content entity that consists of a set of propositions or images  ( as in the case of a blueprint )  that prescribe some entity .
+a geospatial region that is a fiat division of a geopolitical entity and not a geopolitical entity .
+a geospatial region that delimits the authority of a formally constituted government to exercise its control within the bounded area .
+a geospatial region at which an entity or event is located .
+a site at or near the surface of the earth .

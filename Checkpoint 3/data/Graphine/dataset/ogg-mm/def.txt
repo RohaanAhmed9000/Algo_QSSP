@@ -1,0 +1,53 @@
+b is an independent continuant = def .
+p is a process = def .
+b is a specifically dependent continuant = def .
+b is a generically dependent continuant = def .
+p is a process boundary =def .
+b is a continuant fiat boundary = def .
+b is a process_profile =def .
+b is a relational quality = def .
+a material entity that is an individual living system ,  such as animal ,  plant ,  bacteria or virus ,  that is capable of replicating or reproducing ,  growth and maintenance in the right environment .
+a genome is a material entity that represents the entirety of an organism's hereditary information .
+a gene is a material entity that represents the entire dna sequence required for synthesis of a functional protein or rna molecule .
+a disposition that a gene can be used as a blueprint for generating a new form of product such as protein .
+a gene disposition that a gene can be used as a blueprint for generating a protein  ( i .e . ,  a gene encodes for a protein )  .
+a gene disposition that is the disposition of a gene that encodes for a trna .
+a rna gene disposition that is for a gene that encodes for a rrna .
+a rna gene disposition that is for a gene that encodes for a snrna .
+a rna gene disposition that is for a gene that encodes for a trna .
+a rna gene disposition that is for a gene that encodes for a scrna .
+a rna gene disposition that is for a gene that encodes for a snorna .
+a rna gene disposition that is for a gene that encodes for a miscrna .
+a rna gene disposition that is for a gene that encodes for a ncrna .
+a gene disposition that represents the disposition of gene being "pseudo" ,  i .e . ,  the gene is a pseudogene .
+a gene disposition that represents the disposition of a gene that encodes for a transposon .
+a gene disposition that is "other" ,  i .e . ,  the gene is for a gene product that is not listed for another other gene type .
+a gene disposition that represents the disposition of gene where the gene product is unknown .
+a gene that encodes for a rna
+a rna gene that encodes for a miscrna
+a rna gene that encodes for a ncrna
+a rna gene that encodes for a rrna
+a rna gene that encodes for a scrna
+a rna gene that encodes for a snorna
+a rna gene that encodes for a snrna
+a rna gene that encodes for a trna
+a gene that encodes for a protein
+a gene that has lost its protein - coding ability or is otherwise no longer expressed in the cell .
+a gene that encodes for a transposable genetic element that can change its position within the genome .
+a gene that has an unknown gene disposition
+a gene that has an other gene disposition
+the genome of an organism of eukaryota
+the genome of an organism of mus musculus
+a gene of an organism of eukaryota
+a gene of an organism of mus musculus
+a gene of mus musculus that has a trna gene disposition
+a gene of mus musculus that has a rrna gene disposition
+a gene of mus musculus that has a snrna gene disposition
+a gene of mus musculus that has a scrna gene disposition
+a gene of mus musculus that has a snorna gene disposition
+a gene of mus musculus that has a protein - coding gene disposition
+a gene of mus musculus that has a pseudo gene disposition
+a gene of mus musculus that has a ncrna gene disposition
+a gene of mus musculus that has a rna gene disposition
+a gene of mus musculus that has a other gene disposition
+a gene of mus musculus that has a unknown gene disposition

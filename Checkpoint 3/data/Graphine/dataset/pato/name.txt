@@ -1,0 +1,1850 @@
+quality
+mobility
+speed
+age
+color
+color hue
+color brightness
+color saturation
+fluorescence
+color pattern
+compatibility
+composition
+concentration of
+consistency
+direction
+distance
+flavor
+frequency
+biological sex
+hardness
+intensity
+life span
+morphology
+shape
+trophic quality
+occurrence
+odor
+obsolete parental quality
+spatial pattern
+sleep pattern
+pilosity
+deviation  ( from_normal )
+amount
+response to
+rhythm quality
+amplitude
+persistence
+phase
+sensitivity toward
+size
+height
+length
+mass
+weight
+orientation
+closure
+position
+structure
+temperature
+texture
+threshold
+rate
+time
+obsolete bouts
+viability
+balance
+behavioral quality
+obsolete consumption quality
+coordination
+discrimination
+maturity
+fecundity
+fertility
+brood size
+female fertility
+male fertility
+arrested
+mobile
+immobile
+increased speed
+decreased speed
+old
+young
+black
+blue
+cyan
+green
+magenta
+red
+white
+yellow
+low brightness
+low saturation
+blotchy
+irregular spatial pattern
+discolored
+spotted
+colored
+colorless
+compatible
+incompatible
+down
+left
+right
+up
+increased distance
+decreased distance
+increased frequency
+decreased frequency
+female
+male
+hard
+soft
+acute
+mild intensity
+moderate intensity
+severe intensity
+branched
+cleft
+coiled
+curled
+curved
+flat
+oblate
+pinnate
+circular
+square
+unbranched
+uncoiled
+auxotrophic
+prototrophic
+recurrent
+sporadic
+obsolete paternal
+obsolete maternal
+invariant
+regular spatial pattern
+repetitive
+obsolete insomnia
+obsolete narcolepsy
+glabrous
+hairy
+pubescent
+abnormal
+normal
+absent
+conspicuous
+inconspicuous
+present
+increased amount
+responsive to
+unresponsive to
+increased duration
+decreased duration
+advanced phase
+dark phase
+delayed
+light phase
+arrhythmic
+rhythmic
+insensitive toward
+tolerant to
+sensitive toward
+photoinsensitive
+photosensitive
+decreased height
+increased height
+increased length
+decreased length
+increased weight
+decreased weight
+hypertrophic
+hypotrophic
+increased size
+decreased size
+vestigial
+increased thickness
+decreased thickness
+increased volume
+decreased volume
+decreased width
+increased width
+closed
+closure incomplete
+open
+disoriented
+oriented
+wholly anterioralized
+asymmetrical
+bent
+bilateral
+crowded
+wholly dorsalized
+erect
+exserted
+inserted into
+inverted
+lateralized
+localized
+mislocalised
+misrouted
+wholly posterioralized
+prostrate
+symmetrical
+uncrowded
+unilateral
+unlocalised
+wholly ventralized
+apoptotic
+degenerate
+dysplastic
+fused with
+herniated
+hyperplastic
+hypoplastic
+malformed
+necrotic
+obstructed
+unfused from
+high brightness
+asynchronous
+continuous
+discontinuous
+heterochronic
+premature
+synchronous
+rough
+smooth
+increased threshold
+decreased threshold
+lethal  ( sensu genetics )
+viable
+balanced
+unbalanced
+bang sensitive
+increased behavioural activity
+decreased behavioural activity
+obsolete impaired
+paralysed
+passive
+obsolete increased consumption
+obsolete decreased consumption
+coordinated
+uncoordinated
+aversion
+indifference
+preference
+female fertile
+male sterile
+male fertile
+female sterile
+decreased rate
+increased rate
+thickness
+volume
+width
+photosensitivity
+truncated
+disorganized
+organized
+vacuolated
+sharpness
+epinastic
+oblong
+elliptic
+heart shaped
+fasciated
+grey
+purple
+brown
+orange
+pink
+fertile
+sterile
+opacity
+opaque
+transparent
+symmetry
+undulate
+dwarf - like
+permeability
+porosity
+permeable
+impermeable
+porous
+non - porous
+viscosity
+viscous
+alternation
+latency
+physical quality
+mass density
+damage
+energy
+impulse
+momentum
+power
+pressure
+work
+acceleration
+efficiency
+flux
+elasticity
+strain
+force
+susceptibility toward
+resistance to
+acute angle to
+obtuse angle to
+convex angle to
+internal angle
+reflex angle to
+susceptible toward
+insusceptible toward
+elongated
+concentrated
+diluted
+increased concentration
+decreased concentration
+dense
+damaged
+undamaged
+elastic
+inelastic
+resistant to
+larval
+prepubescent
+pupal
+prepupal
+adolescent
+juvenile
+medial to
+hyperresponsive to
+lateral to
+hyporesponsive to
+proximal to
+ventral to
+linear
+t - shaped
+y - shaped
+dentated
+serrated
+odorless
+variant
+high saturation
+strength
+dorsal to
+distal to
+process quality
+physical object quality
+wavelength
+light blue
+dark blue
+dark brown
+light brown
+light cyan
+dark cyan
+dark green
+light green
+dark grey
+light grey
+light magenta
+dark magenta
+light orange
+dark orange
+light deep pink
+deep pink
+dark purple
+light purple
+dark red
+light red
+dark yellow
+light yellow
+saturated blue
+desaturated blue
+saturated brown
+desaturated brown
+saturated cyan
+desaturated cyan
+saturated green
+desaturated green
+obsolete bright grey
+obsolete pale grey
+saturated magenta
+desaturated magenta
+saturated orange
+desaturated orange
+dark pale pink
+saturated purple
+desaturated purple
+saturated red
+desaturated red
+saturated yellow
+desaturated yellow
+red brown
+dark red brown
+light red brown
+fluorescent
+electromagnetic  ( em )  radiation quality
+full - spectrum em radiation quality
+absorption quality
+radiation reflective quality
+albedo
+luminous flux
+reflectivity
+phosphorescence
+radiation emitting quality
+optical quality
+chromatic property
+vermilion
+variability
+variability of temperature
+increased temperature
+decreased temperature
+decreased variability of temperature
+increased variability of temperature
+duration
+duration of temperature
+decreased duration of temperature
+increased duration of temperature
+invariant temperature
+variant temperature
+mild increased temperature
+moderate increased temperature
+severe increased temperature
+indiscriminate
+discriminate
+pubescent hair
+right angle to
+straight angle to
+area
+bilateral symmetry
+radial symmetry
+zygomorphic
+actinomorphic
+flavourful
+flavourless
+odorous
+amorphous
+temporally extended
+diameter
+bacterial mating type
+obsolete unknown sex
+yeast mating type
+mixed sex
+biomaterial purity
+hermaphrodite
+a mating type  ( yeast )
+saccharomyces cerevisiae mating type
+schizosaccharomyces pombe mating type
+alpha mating type  ( yeast )
+h minus
+h plus
+f mating type
+f minus mating type
+high frequency recombinant
+angular acceleration
+area density
+linear density
+volumetric density
+translucent
+convex
+pleomorphic
+pulvinate
+umbonate
+rugose
+filamentous
+warty
+fragile
+rhizoidal
+spiny
+punctiform
+lobate
+erose
+raised
+viscid
+mucoid
+refractivity
+glistening
+ploidy
+haploid
+monoploid
+polyploid
+autopolyploid
+allopolyploidy
+paleopolyploid
+triploid
+tetraploid
+pentaploid
+hexaploid
+aneuploid
+monosomy
+disomy
+uniparental disomy
+trisomy
+partial trisomy
+mosaic trisomy
+endopolyploid
+euploid
+diploid
+haplodiploid
+cellular quality
+cellular potency
+self - renewal
+totipotent
+unipotent
+oligopotent
+multipotent
+pluripotent
+nucleate quality
+anucleate
+binucleate
+mononucleate
+ciliatedness
+spindle - shaped
+striated
+structured
+unstructured
+angular velocity
+catalytic activity
+morbidity
+regular duration
+irregular duration
+lethargic
+sharp
+buoyancy
+alive
+dead
+refractile
+violet
+rosy
+maroon
+compound acidity
+medium acidity
+acidic
+alkaline
+adhesivity
+decayed
+growth quality of occurrent
+reproductive quality
+attachment quality
+sessile  ( sensu botany )
+sessile  ( sensu zoology )
+pedicellate
+tonicity
+homophilic
+heterophilic
+wholeness
+broken
+disassembled
+whole
+calcified
+ossified
+cartilaginous
+edematous
+obsolete edematous  ( sensu botany )
+detached from
+sensitivity to oxygen
+aerobic
+anaerobic
+sensitivity of a process
+sensitivity of a process to oxygen
+aerobic  ( for occurrence )
+anaerobic  ( for occurrence )
+surface tension
+membrane potential
+action potential
+electric potential
+monstrous
+curved rostral
+curved caudal
+curved dorsal
+curved ventral
+proportionality to
+decreased depth
+duplicated
+anteverted
+increased position
+decreased position
+retracted
+collapsed
+spongy
+sloped
+prominent
+aplastic
+recent
+condensed
+chronological age
+senescent
+cellular motility
+heterochronic growth
+neotenous growth
+notched
+brood quality
+brood viability
+spherical
+tapered
+immature
+complexity
+simple
+complex
+separated from
+diastatic
+disrupted
+functionality
+functional
+non - functional
+punctate
+delaminated
+variable color
+focus
+focused
+blurry
+sound quality
+sound frequency
+sound amplitude
+sound speed
+sound wavelength
+intrasonic
+sonic
+ultrasonic
+quiet
+loud
+cellular spatiotemporal quality
+behavioral quality of a process
+cellular adhesivity
+mono - colored
+multi - colored
+motley
+dappled
+solubility
+soluble in
+insoluble in
+amylose composition
+glutinous
+non - glutinous
+delayed phase
+flexibility
+flexible
+inflexible
+quality of a solid
+quality of a gas
+quality of a liquid
+increased sensitivity toward
+decreased sensitivity toward
+increased sensitivity of a process
+decreased sensitivity of a process
+increased sensitivity of a process to oxygen
+decreased sensitivity of a process to oxygen
+has number of
+lacking processual parts
+having extra function
+having extra processual parts
+decreased mass
+increased mass
+extra or missing processual parts
+distributed
+undistributed
+having decreased processual parts
+dilated
+isometrical
+flow rate
+decreased pressure
+increased pressure
+increased permeability
+decreased permeability
+contractility
+increased contractility
+decreased contractility
+obsolete relaxational quality
+decreased variability
+increased variability
+conductivity
+variability of rate
+increased variability of rate
+decreased variability of rate
+obsolete enhanced
+overlap with
+curvature
+increased curvature
+decreased curvature
+arched
+depth
+increased depth
+everted
+protruding
+rotated
+posteriorly rotated
+anteriorly rotated
+distended
+increased life span
+decreased life span
+disheveled
+greasy
+matted
+patchy
+sparse
+variability of color
+increased variability of color
+decreased variability of color
+invariant color
+variant color
+deformed
+increased tonicity
+decreased tonicity
+turgor
+decreased turgor
+increased turgor
+atrophied
+decreased functionality
+increased functionality
+sufficiency
+sufficient
+insufficient
+aggregated
+dispersed
+anterior to
+posterior to
+necessity  ( continuant )
+necessary  ( continuant )
+unnecessary  ( continuant )
+necessity of occurrent
+necessary  ( occurrent )
+unnecessary  ( occurrent )
+stubby
+protruding into
+protruding out of
+circumference
+curved lateral
+increased resistance to
+decreased resistance to
+alignment
+aligned with
+misaligned with
+osmolarity
+decreased osmolarity
+increased osmolarity
+dorsally rotated
+ventrally rotated
+obsolete decreased action potential
+obsolete increased action potential
+fragility
+increased solubility
+decreased solubility
+superficial
+attached to
+associated with
+increased susceptibility toward
+decreased susceptibility toward
+increased distribution
+decreased distribution
+cystic
+catalytic  ( activity )  concentration
+decreased efficiency
+increased efficiency
+inefficient
+efficient
+specific volume
+molar volume
+molar mass
+magnetism
+increased magnetism
+decreased magnetism
+magnetic
+non - magnetic
+elevation
+increased elevation
+decreased elevation
+contractile
+non - contractile
+increased viscosity
+decreased viscosity
+increased fecundity
+decreased fecundity
+decreased photosensitivity
+increased photosensitivity
+regular sleep pattern
+irregular sleep pattern
+mature
+saturated violet
+desaturated violet
+light violet
+dark violet
+behavioural inactive
+behavioural active
+1 - d extent
+2 - d extent
+3 - d extent
+perimeter
+increased perimeter
+decreased perimeter
+increased diameter
+decreased diameter
+non - fragile
+radiation emitting intensity quality
+luminance
+receptivity
+female receptivity
+male receptivity
+increased female receptivity
+decreased female receptivity
+increased male receptivity
+decreased male receptivity
+disposition
+multi - cellular organismal disposition
+shedability
+deciduous  ( generic )
+deciduous  ( plant )
+non - deciduous  ( any body part )
+evergreen  ( plant )
+semi - deciduous ( plant )
+liquid configuration
+solid configuration
+gaseus configuration
+dissociated from
+radiation quality
+activity  ( of a radionuclide )
+radioactive
+increased radioactivity
+decreased radioactivity
+radiation exposure
+radiation absorbed dose
+radiation equivalent dose
+radiation effective dose
+invaginated
+paedomorphic growth
+postdisplaced growth
+progenetic growth
+peramorphic growth
+accelerated growth
+predisplaced growth
+hypermorphic growth
+heat conductivity
+electrical conductivity
+nerve conductivity
+granular
+increased age
+decreased age
+obsolete cellular polarity
+semi - lethal  ( sensu genetics )
+positional polarity
+semi - viable
+surrounding
+monophasic
+polyphasic
+dorsal - ventral polarity
+increased flexibility
+decreased flexibility
+increased strength
+decreased strength
+dystrophic
+irregular thickness
+increased intensity
+decreased intensity
+bifurcated
+splayed
+split
+rotational curvature
+increased mass density
+domed
+decreased mass density
+multi - localised
+left side of
+right side of
+coiling
+increased coiling
+decreased coiling
+kinked
+ruffled
+water composition
+decreased water composition
+loose
+phototoxic
+scaly
+flaky
+sensitivity to irradiation
+decreased sensitivity to irradiation
+increased sensitivity to irradiation
+tight
+wrinkled
+obsolete increased relaxation
+obsolete decreased relaxation
+atonicity
+dystonicity
+fatigability
+increased fatigability
+decreased fatigability
+progressive
+atretic
+imperforate
+wetness
+wet
+dry
+increased wetness
+decreased wetness
+pseudohermaphrodite
+male pseudohermaphrodite
+female pseudohermaphrodite
+decreased female fertility
+increased female fertility
+increased male fertility
+decreased male fertility
+decreased fertility
+increased fertility
+congested
+decreased fluid flow
+increased fluid flow
+remittent intensity
+acidity
+decreased acidity
+increased acidity
+irregular rhythm
+tangled
+constricted
+asymmetrically curved
+abrased
+scarred
+swollen
+dislocated
+hydrocephalic
+vertical
+horizontal
+introverted
+concave
+partially paralysed
+increased coordination
+decreased coordination
+fasciculated
+lack of fertility in offspring
+chronic
+spheroid
+prolate
+rectangular
+autofluorescence
+pathological
+crescent - shaped
+reniform
+cuboid
+cylindrical
+discoid
+triangular
+dumbbell - shaped
+lanceolate
+sigmoid
+u - shaped
+caudate
+arrow - shaped
+limaciform
+clavate
+hydrophobicity
+hydrophobic
+hydrophilicity
+hydrophilic
+miscibility
+scalloped
+tripartite
+ovate
+decreased odor
+increased odor
+phenotypic sex
+mating type
+unlumenized
+lumenized
+increased circumference
+decreased circumference
+front
+back
+unidirectional
+bi - directional
+circling direction
+has normal numbers of parts of type
+movement quality
+botryoidal
+multinucleate
+trinucleate
+folded
+circling
+physiological state
+ictal
+non - ictal
+anterodorsal to
+posterodorsal to
+anteroventral to
+posteroventral to
+mislocalised dorsally
+mislocalised ventrally
+mislocalised anteriorly
+mislocalised posteriorly
+mislocalised laterally
+mislocalised medially
+surface feature shape
+increased fluorescence
+decreased fluorescence
+blistered
+variability of shape
+variant shape
+invariant shape
+alternate placement
+opposite
+orbicular
+obtuse
+obovate
+spatulate
+rhomboid
+gigantic
+yellow green
+brown green
+lilac
+yellow orange
+ochre
+banded
+netted
+furrowed
+pointleted
+blunt
+whorled
+distichous
+decussate
+subulate
+cuneate
+variability of size
+decreased variability of size
+increased variability of size
+defasciculated
+interdigitated
+in contact with
+involute
+revolute
+circinate
+reclinate
+convolute
+actinodromous
+parallelodromous
+craspedodromous
+brochidodromous
+cladodromous
+reticulodromous
+cuspidate
+retuse
+unserrated
+serration
+angular
+cut
+lobed
+digitate
+auriculate
+attenuate
+perfoliate
+decurrent
+frozen
+dissolved
+saccular
+quadrangular
+sinuous
+duration of disease
+immortal
+cellularity
+multicellular
+unicellular
+organismal quality
+decreased amount
+conspicuousness
+lacks parts or has fewer parts of type
+lacks all parts of type
+has fewer parts of type
+has extra parts of type
+population quality
+obsolete surface shape
+concavity
+2 - d shape
+convex 3 - d shape
+concave 3 - d shape
+branchiness
+looseness
+neoplastic
+coating
+fasciculation
+structure ,  cavities
+aplastic growth
+pale pink
+conical
+villiform
+apical - basal polarity
+anterior - posterior polarity
+external angle
+non - progressive
+osmolality
+decreased osmolality
+increased osmolality
+specificity to
+upturned
+forward scatter
+side scatter
+undivided
+ipsilateral to
+axial to
+degeneration
+non - degenerate
+biconcave
+biconvex
+anterior - posterior diameter
+decreased anterior - posterior diameter
+increased anterior - posterior diameter
+trapezoid
+dendritic
+abaxial to
+adaxial to
+mosaicism
+lateral and rotional curvature
+normal amount
+increased occurrence
+decreased occurrence
+dorso - ventrally flattened
+laterally compressed
+increased fragility
+decreased fragility
+increased area
+decreased area
+emmision wavelength
+absorption wavelength
+columnar
+fenestrated
+star shaped
+crystal configuration
+stratification
+stratified
+unstratified
+affinity
+increased affinity
+decreased affinity
+avidity
+increased avidity
+decreased avidity
+movement behavioral quality
+stacked
+hollow
+broken into two pieces
+shattered
+partially broken
+altered number of
+obsolete post - mortem
+obsolete pre - mortem
+bullet - shaped
+monocystic
+polycystic
+adenomatous
+subacute
+anaplastic
+ballooning
+basophilic
+obsolete neoplasm disposition
+neoplastic ,  non - malignant
+neoplastic ,  malignant
+neoplastic ,  metastatic
+differentiated
+undifferentiated
+metaplastic
+proliferative
+infiltrative
+inflamed
+hemorrhagic
+poorly differentiated
+peripheral
+papillary
+caseous
+well differentiated
+moderately well differentiated
+perforate
+cribriform
+fatty
+fibrinoid
+fibrinopurulent
+glandular
+multiple
+hydropic
+suppurative
+trabecular
+mixed
+minimal
+laminar
+nodular
+osseous
+scirrhous
+serous
+neoplastic ,  invasive
+neoplastic ,  deeply invasive
+abduction
+neoplastic ,  non - invasive
+adduction
+fibrillary
+delayed closure
+radiopacity
+radiopaque
+edibility
+edible
+inedible
+irregular density
+increased radiopacity
+decreased radiopacity
+virulence
+reduced virulence
+increased virulence
+ivory
+splayed caudal
+splayed dorsal
+splayed lateral
+splayed rostral
+splayed ventral
+medially rotated
+laterally rotated
+partially dislocated
+bicornuate
+high - arched
+herniated into
+curved medial
+drooping
+premature closure
+herniated out of
+displaced to
+split medially
+split laterally
+split bilaterally
+split radially
+misaligned towards
+misaligned away from
+deviation
+deviation towards the lateral side
+deviation towards the medial side
+mislocalised radially
+mislocalised proximally
+straight
+displaced
+molecular quality
+cyclicity
+cyclic cyclicity
+acyclic cyclicity
+polarity
+polar polarity
+nonpolar polarity
+electric polarizability
+aromaticity
+aromatic
+non - aromatic
+electric charge
+neutral charge
+positive charge
+negative charge
+electronegativity
+quality of a substance
+meltability
+vaporizability
+handedness
+left handedness
+right handedness
+ambidextrous handedness
+capacitance
+neonatal
+insertion depth
+spoon - shaped
+incisiform
+bulbous
+recurved
+slender
+obclavate
+bilobed
+falciform
+ubiquinated
+nitrated
+demyelinated
+fan - shaped
+phosphorylated
+increased phosphorylation
+decreased phosphorylation
+oxidized
+v - shaped
+l - shaped
+subcylindrical
+cup - shaped
+acuminate
+subrectangular
+subtriangular
+multifid
+semicircular
+far from
+emarginate
+blade - like
+aliform
+retrorse
+antrorse
+hourglass - shaped
+teardrop - shaped
+trilobed
+velocity
+fluid flow rate
+mass flow rate
+increased force
+decreased force
+degree of pigmentation
+pigmented
+unpigmented
+increased pigmentation
+decreased pigmentation
+antero - posteriorly flattened
+platelike
+flattened
+grooved
+tricuspidate
+multicuspidate
+pointed
+adjacent to
+semi erect
+located in
+phosphorylation
+dephosphorylated
+organization quality
+behavioural activity
+3 - d shape
+centered
+accumulation
+increased accumulation
+decreased accumulation
+parallel to
+marbled
+mottled
+high contrast color pattern
+barred
+iridescent
+articulated with
+tightly articulated with
+broadly articulated with
+biscupidate
+increased mobility
+decreased mobility
+tension
+increased branchiness
+decreased branchiness
+increased elasticity
+decreased elasticity
+setose
+agenesis
+transient
+permanent
+scrobiculate
+areolate
+foveate
+decreased cellular motility
+increased cellular motility
+tubular
+increased quality
+decreased quality
+decreased process quality
+decreased object quality
+increased process quality
+increased object quality
+equilateral triangular
+isosceles triangular
+scalene triangular
+fiber shaped
+robust
+fimbriated
+segmented
+telescopic
+ligamentous
+brush - like shape
+autogenous
+parallelogram
+superelliptic
+squircle
+diamond shaped
+temporal distribution quality
+offset quality
+onset quality
+angle
+increased angle to
+decreased angle to
+hyponastic
+oblanceolate
+adhesive
+non - adhesive
+increased adhesivity
+decreased adhesivity
+tholiform
+pyramidal
+lance - ovate
+lanceolate - triangular
+hispid
+hispidulous
+tomentose
+cupulate
+decumbent
+arachnose
+lemon - shaped
+snowman - shaped
+obconical
+ligneous
+basal to
+cauline to
+fleshy
+herbaceous
+activation quality
+active
+inactive
+constitutively active
+d - shaped
+ridged
+broad
+tendency
+increased tendency
+decreased tendency
+bronze
+shortened
+intact female
+intact male
+castrated male
+nulliparous
+multiparous
+parity
+primiparous
+grand multiparous
+mediolateral polarity
+fluctuating
+trumpet - shaped
+inflated
+uninflated
+acinus
+ovariohysterectomized female
+ovariectomized female
+waxiness
+increased waxiness
+decreased waxiness
+waxy
+striate - angular
+anvil
+peracute
+pedunculate
+procumbent
+radius
+triradiate
+diagonal to
+increased tolerance to
+decreased tolerance to
+mislocalized abaxially
+mislocalized adaxially
+subcircular
+anteromedially rotated
+fusiform
+random pattern
+multifocal to coalescing
+generalized
+segmental
+friability
+friable
+indurated
+watery
+fluid - filled
+beige
+yellow brown
+dark yellow brown
+light yellow brown
+chronic - active
+focally extensive
+sunken
+transmural
+acidophilic
+eosinophilic
+amphiphilic
+cicatricial
+acinar
+papillomatous
+divergent from
+exposed
+scaphoid
+knobbled
+tripodal
+x - shaped
+strap - shaped
+waisted
+spade - shaped
+sculpted surface
+perpendicular to
+abutting
+offset
+interlocked with
+subdermal
+w - shaped
+ornamentation
+ornamented
+unornamented
+level with
+mineralized
+torsioned
+anchor - shaped
+quadripartite
+oriented towards
+posteromedial to
+firm
+sexually dimorphic
+decondensed
+eroding
+carpel - like
+corymb - like
+inflorescence - like
+leaf - like
+pin - like
+sepal - like
+shriveled
+wilty
+collagenous
+extends to
+extends beyond
+prism shaped
+keyhole shaped
+lathlike
+distensible
+sutured to
+transformed to
+increased velocity
+decreased velocity
+neoplastic ,  spontaneous
+bitter
+subterminal
+terminal
+brittle
+transversely striated
+obliquely striated
+poorly ossified
+oblique orientation
+slit - like
+external to
+inverted - v shaped
+parallel - sided
+multi - organismal process quality
+single organismal process quality
+overlapping
+overlapped by
+anterior orientation
+anterodorsal orientation
+anterolateral orientation
+anteroventral orientation
+distal orientation
+dorsal orientation
+dorsolateral orientation
+lateral orientation
+medial orientation
+posterior orientation
+ventrolaterally orientation
+ventral orientation
+transverse orientation
+posterolateral orientation
+posterodorsal orientation
+nucleated
+alobate
+keratinous
+concealed
+hexagonal
+multipartite
+cane - like
+confluent with
+oblique to
+anteromedial orientation
+increased elevation relative to
+concealed by
+saddle - shaped
+flush
+cancellous
+scute - like
+funnel - shaped
+keel - shaped
+vertical to
+mesiolateral orientation
+separating
+anterodistal orientation
+posterodistal orientation
+bipartite
+plowshare shaped
+peg - like
+boomerang shaped
+subovoid
+concavo - convex
+ring shaped
+spur shaped
+homeostatic
+borderline intensity
+profound intensity
+episodic
+refractory
+secondary
+hemispheroid
+variability of count
+pear shaped
+paddle shaped
+subelliptical
+radiating
+differentiated from
+hypsodont
+brachydont
+molariform
+plumose
+continuous with
+complete structure
+incomplete structure
+subspherical
+tapered size
+surrounded by
+labiolingually compressed
+mesiodistally compressed
+curved lingually
+irregularly shaped
+unicuspidate
+uniform diameter
+parasagittal orientation
+longitudinal orientation
+maximally connected
+disconnected
+propagation velocity
+increased propagation velocity
+decreased propagation velocity
+spatial distribution of a process
+absence due to degeneration
+process efficacy
+decreased efficacy
+increased efficacy
+tendrilous
+polymeric
+prominence
+distensibility
+humidity
+increased humidity
+decreased humidity
+quality of a plasma
+degree of illumination
+increased degree of illumination
+decreased degree of illumination
+stepped
+quality of a colloid
+quality of an aerosol
+c - shaped
+j - shaped
+combustibility
+increased combustibility
+decreased combustibility
+increased porosity
+decreased porosity
+stability
+increased stability
+decreased stability
+quality of a suspension
+plume - shaped
+genotypic sex
+male genotypic sex
+female genotypic sex
+potability
+non - potable
+potable
+anterioralized
+dorsalized
+posterioralized
+ventralized
+partially anterioralized
+partially dorsalized
+partially posterioralized
+partially ventralized
+heterotaxic
+originates from
+pathogenicity
+plush
+posteroventral orientation
+crown like
+shell shaped
+fringed
+bowl shaped
+mobile relative to
+immobile relative to
+plug shaped
+dorsomedial orientation
+band shaped
+trough shaped
+pentagonal
+dysplastic growth
+fibrotic
+spayed female
+unpaired
+flared
+distomedial orientation
+bilaterally paired
+lesioned
+structurally discontinuous
+doubled haploid
+parous
+shaded
+decreased width and length
+increased width and length
+increased linear velocity
+decreased linear velocity
+fractured
+transversely fractured
+impact - fractured
+linearly fractured
+obliquely fractured
+spirally fractured
+compression - fractured
+avulsion fractured
+decreased proportionality to
+increased proportionality to
+ruptured
+fragmented
+normal rate
+normal object quality
+normal acidity
+normal adhesivity
+normal affinity
+normal age
+normal avidity
+normal behavioural activity
+normal cellular motility
+normal coiling
+normal concentration
+normal contractility
+normal coordination
+normal curvature
+normal distance
+normal efficiency
+normal elasticity
+normal fecundity
+normal female fertility
+normal female receptivity
+normal fertility
+normal flexibility
+normal fluid flow
+normal fluorescence
+normal force
+normal fragility
+normal life span
+normal magnetism
+normal male fertility
+normal male receptivity
+normal mass
+normal mass density
+normal mobility
+normal odor
+normal osmolality
+normal osmolarity
+normal permeability
+normal phosphorylation
+normal photosensitivity
+normal pigmentation
+normal position
+normal angle to
+normal distribution
+normal elevation
+normal pressure
+normal radioactivity
+normal radiopacity
+normal resistance to
+normal sensitivity to irradiation
+normal sensitivity toward
+normal size
+normal area
+normal depth
+normal height
+normal length
+normal diameter
+normal anterior - posterior diameter
+normal perimeter
+normal circumference
+normal thickness
+normal volume
+normal width
+normal solubility
+normal speed
+normal strength
+normal fatigability
+normal susceptibility toward
+normal temperature
+normal tendency
+normal threshold
+normal tolerance to
+normal tonicity
+normal turgor
+normal process quality
+normal variability
+normal variability of color
+normal variability of rate
+normal variability of size
+normal variability of temperature
+normal velocity
+normal virulence
+normal viscosity
+normal waxiness
+normal wetness
+normal duration
+normal duration of temperature
+normal occurrence
+normal frequency
+normal sensitivity of a process
+normal sensitivity of a process to oxygen
+cardinal direction
+north
+east
+south
+west
+rate of occurence
+rate of continuous process
+decreased spatial extent of a process
+increased spatial extent of a process
+sex - specific
+male - specific
+female - specific
+lysed
+towards
+continuant
+occurrent
+independent continuant
+process
+specifically dependent continuant
+material entity
+cellular_component
+intracellular anatomical structure
+nucleus
+plasma membrane
+cilium
+biological_process
+membrane
+intraciliary transport particle
+protein - containing complex
+cell projection
+organelle
+membrane - bounded organelle
+intracellular organelle
+intracellular membrane - bounded organelle
+cell periphery
+plasma membrane region
+membrane protein complex
+plasma membrane protein complex
+cellular anatomical entity
+plasma membrane bounded cell projection
+nuclear protein - containing complex
+cell morphology
+erythematous
+increased rate of occurrence
+decreased rate of occurrence
+increased rate of continuous process
+decreased rate of continuous process
+patchy pigmentation
+neurogliaform morphology
+martinotti morphology
+'t - shaped' martinotti morphology
+'fanning - out' martinotti morphology
+stellate morphology
+chandelier cell morphology
+bitufted cell morphology
+spiny stellate cell morphology
+pyramidal family morphology
+horizontal pyramidal morphology
+standard pyramidal morphology
+tufted pyramidal morphology
+untufted pyramidal morphology
+stellate pyramidal morphology
+inverted pyramidal morphology
+salinity

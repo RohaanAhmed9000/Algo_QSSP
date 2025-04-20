@@ -1,0 +1,242 @@
+independent continuant
+process
+specifically dependent continuant
+generically dependent continuant
+process boundary
+continuant fiat boundary
+process profile
+relational quality
+molecular entity
+chemical entity
+clinical drug role
+drug product
+active ingredient
+excipient
+role of scattered molecular aggregate
+administration de mã©dicament
+medical record identifier
+measurement unit label
+objective specification
+action specification
+datum label
+data item
+symbol
+information content entity
+directive information entity
+data set
+plan specification
+measurement datum
+textual entity
+author identification
+document
+document part
+centrally registered identifier symbol
+centrally registered identifier
+centrally registered identifier registry
+written name
+planned process
+patient role
+specimen role
+organization
+scattered molecular aggregate
+specimen collection process
+specimen collection objective
+dose specification
+individual organism identifier
+mass value specification
+categorical value specification
+scalar value specification
+value specification
+collection of specimens
+spã©cification de valeur de volume
+organism
+specimen
+symptom
+sign
+configuration
+treatment
+health care encounter
+disease prophylaxis
+survey data
+survey plan specification
+medical record
+survey execution
+human health care role
+health care provider role
+health care provider organization role
+aggregate of objectual organisms
+role in human social processes
+organization social role
+organization health care role
+aggregate of organizations
+architectural structure
+facility
+person name
+birth name
+maiden name
+person first and last name
+quality
+morphology
+size
+mass
+volume
+physical quality
+physical object quality
+cellular quality
+nucleate quality
+anucleate
+3 - d extent
+condition indiquant le temps ã©coulã© depuis une distribution
+health care prescription
+identification de prescripteur
+identification d'un patient
+active ingredient aggregate mass
+document creation time identification
+health care prescription time identification
+drug administration and dispensing specification
+prescribed site of drug administration specification
+caractã©risation de mã©dicament prescrit
+drug product information item
+drug treatment
+spã©cification d'instant temporel
+route of administration specification
+active ingredient mass value specification
+drug strength specification
+drug prescription
+drug strength item
+drug strength per discrete dose form item
+drug strength per volume unit item
+drug strength per mass unit item
+duration of administration specification
+initial rate of administration specification
+drug active ingredient item
+nom propriã©taire d'un mã©dicament non - gã©nã©rique
+drug dose form item
+administration de dose
+condition indiquant la prã©sence d'un signe
+condition sur le temps maximal ã©coulã© depuis une prã©cã©dente administration de dose
+drug product name
+drug dose form specification
+drug excipient specification
+drug active ingredient specification
+generic drug product proprietary label
+condition de borne supã©rieure sur lâinstant prã©sent
+condition situant la pã©riode actuelle aprã¨s un instant
+condition affirmant que l'instant prã©sent est approximativement un instant donnã©
+condition sur le temps minimal ã©coulã© depuis une prã©cã©dente administration de dose
+condition sur le temps exactement ã©coulã© depuis une prã©cã©dente administration de dose
+spã©cification de produit mã©dicamenteux
+day of the week category specification
+drug excipient item
+condition indiquant le temps ã©coulã© depuis une premiã¨re administration de dose
+condition indiquant le temps ã©coulã© depuis une prã©cã©dente administration de dose
+condition sur lâinstant prã©sent
+pharmacy facility
+excipient name
+condition de nombre dâadministration de doses
+condition de nombre exact dâadministration de doses
+drug selection
+condition de nombre dâadministration de doses maximum
+condition de nombre dâadministration de doses minimum
+condition de temps minimum passã© depuis une distribution de mã©dicament
+pharmacist role
+after some process condition
+after some drug administration condition
+after some dose administration condition
+after some surgery condition
+site of drug administration specification
+drug dispensing specification
+drug identification number
+metered dose administration count value specification
+drug dispensing process
+drug perfusion specification
+prescribed dosing specification
+dose de mã©dicament
+portion de mã©dicament
+identification de prescripteur superviseur
+rate of administration specification
+site of administration category specification
+mass per time unit
+dose range specification
+active ingredient aggregate
+aggrã©gat d'excipient
+mass per time value specification
+drug renewal process
+dose quantification specification
+active ingredient quantification specification
+drug product quantification specification
+active ingredient mass delivery rate value specification
+condition de continuation dâadministration de mã©dicament
+condition de dã©but dâadministration de mã©dicament
+condition
+condition dâintervalle de dosage minimum
+condition de dosage maximal
+condition de dosage
+drug dispensing frequency specification
+drug dispensing count specification
+initial drug dispensing process
+dose administration specification
+prescription drug administration specification
+pharmacist dispensing drug administration specification
+prescription drug dispensing specification
+pharmacist drug dispensing specification
+drug prescription item
+drug administration prescription item
+drug administration initiation precription item
+drug administration continuation prescription item
+drug administration modification prescription item
+drug administration cessation prescription item
+pharmacist record item
+pharmacist drug dispensing record
+drug dispensing validity period specification
+complete drug administration specification
+spã©cification de dã©but de pã©riode de validitã©
+ending validity temporal specification
+drug administration description
+drug product characterization
+reported drug administration description
+frequency value specification
+drug prophylaxis
+health care objective specification
+drug dispensing amount specification
+spã©cification d'objectif de traitement
+prophylaxis objective specification
+diagnostic objective specification
+drug administration specification
+drug product object count specification
+drug product volume value specification
+drug product mass value specification
+statement
+spã©cification de durã©e temporelle
+dose administration frequency specification
+pharmacological unit value specification
+spã©cification de quantitã© de substance
+spã©cification de valeur de rythme
+drug product volumetric flow rate value specification
+active ingredient molar value specification
+pharmacological unit
+dose administration count specification
+condition indiquant la prã©sence d'un symptã´me
+condition indiquant un ã©tat de concience
+condition sur le temps prã©sent
+condition de temps ã©coulã©
+condition dã©crivant le nombre de doses par unitã© de temps
+condition indiquant que le nombre de doses par unitã© de temps est infã©rieur ã
+condition indiquant que le nombre de doses par unitã© de temps est supã©rieur ã
+condition indiquant que le nombre de doses par unitã© de temps est ã©gal ã
+condition indiquant un nombre de distributions passã©es
+condition indiquant qu'un nombre de distributions passã©es est plus petit qu'un certain nombre
+condition de dosage total
+condition de dosage total infã©rieur ou ã©gal ã  une certaine quantitã©
+condition de dosage total supã©rieur ã  une certaine quantitã©
+condition de dosage total ã©gal ã  une certaine quantitã©
+condition indiquant le temps ã©coulã© depuis une administration de dose
+route of administration category specification
+mã©dicament non - gã©nã©rique
+generic drug product
+inn name
+active ingredient name
+drug preparation
+administration dose form
+drug product dose form
+active ingredient aggregate biological activity

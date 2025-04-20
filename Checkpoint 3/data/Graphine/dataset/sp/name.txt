@@ -1,0 +1,379 @@
+cultivar
+ecotype
+strain or line
+tissue
+concentration
+name
+instruction
+experiment
+70% ethanol
+solution
+initial concentration
+cover date
+keyword
+publication name
+animal tissue
+3t3 cell
+equipment and supplies
+trypanosoma
+introduction procedure
+injection
+liquid state
+gel state
+physical state
+role
+hek - 293 cell
+nih - 3t3 cell
+chaps
+aldose
+phenol
+ethanol
+lithocholic acid
+cholic acid
+carbon dioxide
+carbohydrate
+chenodeoxycholic acid
+deoxyribonucleic acid
+glucose
+methanol
+propan - 2 - ol
+transfer rna
+sucrose
+ribosomal rna
+alpha - aminoacyl - trna
+sodium chloride
+digitonin
+deoxycholic acid
+alcohol
+potassium acetate
+potassium chloride
+sodium acetate
+nucleic acid
+ribonucleic acid
+messenger rna
+phenols
+reagent
+aldohexose
+chloroform
+monosaccharide
+cetyltrimethylammonium bromide
+secondary alcohol
+protein
+mercaptoethanol
+lithium chloride
+oligosaccharide
+polysorbate
+polysorbate 40
+polysorbate 20
+polysorbate 60
+polysorbate 80
+pluronic
+pluronic p - 123
+tergitol
+ammonium sulfate
+nonyl phenoxypolyethoxylethanol
+one - carbon compound
+decyl beta - d - maltopyranoside
+double - stranded rna
+small nuclear rna
+nonidet p - 40
+ trna threonylcarbamoyladenosine
+sodium dodecyl sulfate
+sodium deoxycholate
+triton x - 100
+immortal human cell line cell
+immortal muscle cell line cell
+immortal neuron cell line cell
+immortal peripheral neuron cell line cell
+immortal epithelial cell line cell
+immortal neural cell line cell
+hela cell derived cell line cell
+immortal prostate gland - derived cell line cell
+immortal liver - derived cell line cell
+immortal colon - derived cell line cell
+immortal neural nucleus - derived cell line cell
+immortal uterine cervix - derived epithelial cell line cell
+immortal human colon - derived cell line cell
+immortal human peripheral neuron cell line cell
+immortal human liver - derived cell line cell
+immortal rat neural nucleus - derived cell line cell
+immortal human uterine cervix - derived epithelial cell line cell
+immortal human prostate gland - derived cell line cell
+rcb0098 cell
+rcb0987 cell
+cell
+fibroblast
+neuron
+neural cell
+software
+nucleic acid reagent
+dna reagent
+dna oligonucleotide
+symbol
+information content entity
+data set
+version number
+textual entity
+document
+document part
+author list
+mus
+planned process
+incubator
+sample from organism
+material sample
+amplified dna
+dna extract
+lyophilizer
+microcentrifuge
+micropipette
+specimen identifier
+organism
+electrocution
+cervical dislocation
+asphyxiation
+intentional overdosing
+decapitation
+centrifuge
+sonicator
+thermal cycler
+temperature control bath
+water bath
+cultured plant cell
+plant protoplast
+leaf - derived cultured plant cell
+root - derived cultured plant cel
+plant cell
+plant tissue
+seed
+flower
+stem
+root
+leaf
+ground tissue
+complementary dna
+deoxyribonucleoside triphosphate reagent
+nucleoside triphosphate reagent
+heart
+brain
+lung
+spleen
+liver
+kidney
+author
+amv reverse transcriptase
+advantage 2 pcr buffer
+advantage of the protocol
+agarose gel electrophoresis protocol
+agarose in gel state
+agarose in liquid state
+alkyl sulfate reagent
+amplitaq dna polymerase
+amplitaq gold
+analyzed data set
+ancient dna
+animal euthanization procedure
+animal euthanization protocol
+apex taq dna polymerase
+application of the protocol
+aromatic ether reagent
+author identifier
+author name
+bag
+bead beater
+bile acid reagent
+bile acid salt reagent
+blender
+buffer al
+buffer ap1
+buffer atl
+buffer b1
+buffer b2
+buffer c1
+buffer name
+buffer y1
+ctab buffer
+catalog number
+cell disruption
+centrifuge tube
+chemical compound reagent
+chloroform:isoamyl alcohol
+chop
+coffee mill
+copolymer macromolecule reagent
+critical step
+cultured animal cell
+cytoplasmic extraction buffer
+dna extraction procedure
+dna extraction protocol
+dna pellet
+dna separated by molecular size
+denaturation reaction
+disaccharide derivative reagent
+disaccharide reagent
+dithiothreitol
+dounce homogenizer
+drill
+electrophoresis procedure
+electrophoresis protocol
+endopeptidase k
+enzimatic amplification protocol
+enzymatic amplification procedure
+enzyme reagent
+equipment and supplies list
+equipment or supplies name
+ethanol solution
+experimental protocol
+final concentration
+flammable
+freezer milling
+french pressure cell press
+geneamp pcr buffer
+gene - specific primer
+geno grinder
+glycol reagent
+grind
+grinding machine
+guanidinium thiocyanate - phenol
+hint
+homogenize
+homogenized tissue
+homogenizer
+hot start taq dna polymerase
+housing condition procedure
+housing condition protocol
+infection procedure
+infection protocol
+introduction section
+kit
+kit name
+klentaq dna polymerase
+laboratory procedure
+laboratory subprocedure
+limitation of the protocol
+lyophilized tissue
+lysis buffer
+m - mlv reverse transcriptase
+mpdb buffer
+manufacturer name
+materials section
+mechanical milling
+membrane extraction buffer
+methods section
+microcentrifuge tube
+micropestle
+mixer mill
+mortar and pestle
+n - phenacylthiazolium bromide
+nuclear extraction buffer plus mnase
+nh4 buffer
+neurotoxic
+nuclear extraction buffer
+nucleic acid extraction procedure
+nucleic acid extraction protocol
+oligo  ( dt )  primer
+outcome of the protocol
+pcr buffer
+pcr program
+parasitology experiment
+pause point
+pellet extraction buffer
+phenacyl bromide reagent
+phenol:chloroform:isoamyl alcohol
+phosphate buffered saline
+polymerase chain reaction procedure
+polimerase chain reaction protocol
+poly ethylene glycol reagent
+polytron homogenizer
+polyvinylpyrrolidone
+portable ice chest
+potassium salt reagent
+potter - elvehjem homogenizer
+powdered tissue
+precipitate
+precipitation reaction
+primer
+primer name
+primer sequence
+procedure description
+processed dna
+processed rna
+processed reads
+protein extraction procedure
+protein extraction protocol
+protocol instruction
+provenance of the protocol
+publication
+purpose of the protocol
+pyrophoric
+quaternary ammonium salt reagent
+rna extraction procedure
+rna extraction protocol
+rna pellet
+rna separated by molecular size
+random primer
+raw data set
+raw reads
+reagent list
+reagent name
+recipe list
+recipe name
+reference list
+repository
+repository name
+results section
+reverse transcriptase
+reverse transcription
+reverse transcription pcr procedure
+reverse transcription pcr protocol
+reviewer role
+sample mill
+saponin reagent
+sarcosine reagent
+75% ethanol
+sodium lauroyl sarcosinate
+sodium salt reagent
+software list
+software name
+solution name
+specimen list
+specimen name
+specimen preparation procedure
+specimen preparation protocol
+stain extraction buffer
+stained dna
+steroid acid reagent
+steroid reagent
+storage condition
+subcellular protein fractionation kit for tissues
+subprocedure description
+superscript reverse transcriptase
+taqman buffer
+taq polymerase
+taq polymerase buffer
+10% ethanol
+three dimensional image
+timing
+titanium taq dna polymerase
+title of the protocol
+toxic
+troubleshooting
+trypanosoma experiment
+validator role
+vinyl polymer macromolecule reagent
+volatile
+waring blender polytron
+washing nucleic acids
+forward primer
+reverse primer
+bibliographic reference
+quantity
+measurement value
+procedure
+recipe
+a / j
+c57bl / 6
+total rna
+c57bl
+alert message
+caution

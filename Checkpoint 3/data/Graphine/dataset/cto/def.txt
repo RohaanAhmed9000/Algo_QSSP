@@ -1,0 +1,238 @@
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+a realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural ,  social or institutional contexts .
+b is a generically dependent continuant = def .
+p is a process boundary =def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+b is a continuant fiat boundary = def .
+b is a process_profile =def .
+b is a relational quality = def .
+any constitutionally or isotopically distinct atom ,  molecule ,  ion ,  ion pair ,  radical ,  radical ion ,  complex ,  conformer etc . ,  identifiable as a separately distinguishable entity .
+a chemical entity is a physical entity of interest in chemistry including molecular entities ,  parts thereof ,  and chemical substances .
+other identifiers besides the trial identifying number allocated by the primary registry ,  if any .
+a centrally registered identifier that is assigned for a specific clinical trial registered in the australian new zealand clinical trials registry  ( anzctr )  .
+australian new zealand clinical trials registry  is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+a centrally registered identifier that is assigned for a specific clinical trial registered in the peruvian clinical trial registry   ( repec )  .
+the party or parties involved in the clinical trial who are prevented from having knowledge of the interventions assigned to individual participants .
+participants are expressly assigned to intervention groups through a non - random method ,  such as physician choice
+a study record that includes the summary results posted in the clinicaltrials .gov results database .
+a description of each secondary outcome measure  ( or for observational studies ,  specific secondary measurement [ s ]  or observation [ s ]  used to describe patterns of diseases or traits or associations with exposures ,  risk factors or treatment )  .
+the iranian registry of clinical trials is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+any other measurements ,  excluding post - hoc measures ,  that will be used to evaluate the intervention ( s )  or ,  for observational studies ,  that are a focus of the study .
+the indian clinical trials registry is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+the netherlands national trial register is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+a centrally registered identifier that is assigned for a specific clinical trial registered in the iranian registry of clinical trials  ( irct )  .
+a centrally registered identifier that is assigned for a specific clinical trial registered in the german clinical trials register  ( drks )  .
+the cuban public registry of clinical trials is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+for clinical trials ,  a planned measurement described in the protocol that is used to determine the effect of an intervention / treatment on participants .
+the pan african clinical trial registry is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+a centrally registered identifier that is assigned for a specific clinical trial registered in the the netherlands national trial register  ( ntr )  .
+the japic  ( japan pharmaceutical information center )  clinical trials registry is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+a centrally registered identifier that is assigned for a specific clinical trial registered in the pan african clinical trial register .
+a centrally registered identifier that is assigned for a specific clinical trial registered in the chinese clinical trials register  ( chictr )  .
+the lebanese clinical trials registry  is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+german clinical trials register is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+the jmacct  ( japan medical association ,  center for clinical trials )  clinical trials registry is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+the actual total number of participants that are enrolled in a clinical study
+a centrally registered identifier that is assigned for a specific clinical trial registered in  brazilian registry of clinical trials  ( rebec )  .
+clinical trial phase that is a combination of phases 2 and 3 .
+data item  . . . .
+indication that participants who do not have a disease or condition ,  or related conditions or symptoms ,  under study in the clinical study are permitted to participate in the clinical study .
+a description of each primary outcome measure  ( or for observational studies ,  specific key measurement [ s ]  or observation [ s ]  used to describe patterns of diseases or traits or associations with exposures ,  risk factors or treatment )  .
+the eu clinical trials register is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+the umin  ( university hospital medical information network center )  clinical trials registry is a japanese primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+data generated from measurement of experimental variables in a study ,  or for observational studies ,  from descriptions of patterns of diseases or traits or associations with exposures ,  risk factors or treatment .
+indicate whether a clinical study has been reviewed and approved by at least one human subjects protection review board or such review is not required per applicable law  ( for example ,  21 cfr part 56 ,  45 cfr part 46 ,  or other applicable regulation )  .
+the korean clinical trials registry  ( clinical research information service  ( cris )  ,  republic of korea )  is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+trials without phases  ( for example ,  studies of devices or behavioral interventions )  .
+look back using observations collected predominantly prior to subject selection and enrollment
+a centrally registered identifier that is assigned for a specific clinical trial registered in the international standard randomised controlled trial register   ( isrct )  .
+clinical trial phase that is a combination of phases 1 and 2 .
+look forward using periodic observations collected predominantly following subject enrollment
+a centrally registered identifier that is assigned for a specific clinical trial registered in the thai clinical trials registry   ( tctr )  .
+the chinese clinical trial registry is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+the thai clinical trials registry  is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+a description of the outcome measure in an interventional study or for observational studies ,  specific key measurement [ s ]  or observation [ s ]  used to describe patterns of diseases or traits or associations with exposures ,  risk factors or treatment .
+a centrally registered identifier that is assigned for a specific clinical trial registered in the indian clinical trial register .
+the brazilian clinical trials registry is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+a centrally registered identifier that is assigned for a specific clinical trial registered in the japan registry of clinical trials  ( jrct )  .
+a centrally registered identifier that is assigned for a specific clinical trial registered in the cuban public registry of clinical trials  ( rpcec )  .
+a centrally registered identifier that is assigned for a specific clinical trial registered in the lebanese clinical trials registry   ( lbctr )  .
+a primary registry is clinical trial registry in the who registry network that meet specific criteria for content ,  quality and validity ,  accessibility ,  unique identification ,  technical capacity and administration .
+the peruvian clinical trial registry is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+the sri lanka clinical trials registry is a primary clinical trial registry recognised by who and icmje that enables the registration of clinical trials .
+clinicaltrials .gov is a registry for clinical trials .
+a clinical trials registry organization is an organization that enables the registration and documentation of clinical trials .
+a study design in which neither the subjects nor the investigators are permitted to know which subject is receiving which treatment
+a study design in which only the  investigators are permitted to know which subject is receiving which treatment
+a study design in which  the subjects and  the investigators are permitted to know which subject is receiving which treatment
+groups of participants are assigned to receive interventions based on prior milestones being reached in the study ,  such as in some dose escalation and adaptive design studies
+study design with a single group  ( arm ) 
+the main objective of the intervention ( s )  being evaluated by the clinical trial .
+the quality of a clinical trial that studies a drug or biological product .
+a clinical trial phase that is designed to use an investigational agent that is available only in very limited quantities and which has never previously given to humans or for which there is extremely limited human experience .
+a clinical trial phase that represents the first - in - man trial ,  which tests within a small group of people  ( typically 20 - 80 )  to evaluate safety ,  determine safe dosage ranges ,  and begin to identify side effects .
+a clinical trial phase that is designed to study a biomedical or behavioral intervention in a larger group of people  ( several hundred )  ,  to evaluate the drug's effectiveness for a particular indication in patients with the disease or condition under study ,  and to determine the common short - term side effects and risks associated with the intervention .
+a clinical trial phase that is designed to investigate the efficacy of the biomedical or behavioral intervention in large groups of human subjects  ( from several hundred to several thousand )  ,  to confirm efficacy ,  to monitor adverse reactions to the new medication or treatment regimen with respect to long - term use and by comparing the intervention to other standard or experimental interventions as well as to a placebo .
+a clinical trial phase that is designed for a randomized ,  controlled trial to evaluate the long - term safety and efficacy of a drug for a given indication .
+exploratory trials ,  involving very limited human exposure ,  with no therapeutic or diagnostic intent  ( e .g . ,  screening studies ,  microdose studies )  .
+a centrally registered identifier that is assigned for a specific clinical trial registered in jmacct .
+a japan clinical trial identifier provided by the university hospital medical information network center  ( umin - ctr ) 
+a centrally registered identifier that is assigned for a specific clinical trial registered in  the clinicaltrials .gov .
+the date on which a study starts
+the date that the final participant was examined or received an intervention for the purposes of final collection of data for the primary outcome ,  whether the clinical study concluded according to the pre - specified protocol or was terminated .
+the date the final participant was examined or received an intervention for purposes of final collection of data for the primary and secondary outcome measures and adverse events  ( for example ,  last participant’s last visit )  ,  whether the clinical study concluded according to the pre - specified protocol or was terminated .
+a textual entity that is the title of a clinical trial
+a title of clinical trial that is meant for lay people understanding
+a title of clinical trial that is recorded as official
+a clinical trial is a medical interventional study where participants are assigned prospectively to an intervention or interventions according to a protocol to evaluate the safety and efficacy of the intervention ( s )  on biomedical or other health related outcomes .
+a material entity  ( 1 )  containing at least one scattered molecular aggregate as part that is the bearer of an active ingredient role and  ( 2 )  that is itself the bearer of a clinical drug role
+a human study of diseases in populations of humans or other animals ,  specifically how ,  when and where they occur .
+an instrument used in the diagnosis of disease or other conditions or for use in the care ,  treatment ,  or prevention of disease that does not achieve any of its primary intended purposes by chemical action or by being metabolized .
+a preliminary study to determine the practicability of a proposed health program or procedure or of a larger study and to appraise the factors that may influence its practicability .
+an organization dedicated to the collection ,  storage and dissemination of a set of scientific or clinical data .
+a directive information entity that describes an intended process endpoint .
+a directive information entity that describes an action the bearer will take .
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+an information content entity is an entity that is generically dependent on some artifact and stands in relation of aboutness to some entity
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+the curation status of the term .
+a document assembled by an author for the purpose of providing information for the audience .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a textual entity is a part of a manifestation  ( frbr sense )  ,  a generically dependent continuant whose concretizations are patterns of glyphs intended to be interpreted as words ,  formulas ,  etc .
+a collection of information content entities intended to be understood together as a whole
+a textual entity that is used as directive to deliver something to a person ,  or organization
+an information content entity that consists of a crid symbol and additional information about the crid registry to which it belongs .
+home institution of the contact person .
+records containing any interim or final results ,  as well as clinical and statistical descriptions ,  presentations ,  analyses and interpretations of any therapeutic ,  prophylactic ,  or diagnostic agent used in human subjects in a clinical trial .
+an observational study that is also considered to be a patient registry .
+an intervention of a device product is being evaluated to determine the feasibility of the product or to test a prototype device and not health outcomes .
+the nature of the investigation or the investigational use for which clinical study is being done .
+participants are assigned to intervention groups by chance
+the main objective of the intervention ( s )  being evaluated by the clinical trial .
+application of genetic material  ( usually dna )  into cells in order to permanently correct an inherited disease or acquired disease .
+one or more interventions for evaluating the delivery ,  processes ,  management ,  organization ,  or financing of healthcare .
+a diagnostic or treatment procedure performed by manual and / or instrumental means ,  often involving an incision and the removal or replacement of a diseased organ or tissue ;  of or relating to or involving or used in surgery or requiring or amenable to treatment by surgery .
+includes initial studies to determine the metabolism and pharmacologic actions of drugs in humans ,  the side effects associated with increasing doses ,  and to gain early evidence of effectiveness ;  may include healthy participants and / or patients .
+includes controlled clinical studies conducted to evaluate the effectiveness of the drug for a particular indication or indications in participants with the disease or condition under study and to determine the common short - term side effects and risks .
+includes trials conducted after preliminary evidence suggesting effectiveness of the drug has been obtained ,  and are intended to gather additional information to evaluate the overall benefit - risk relationship of the drug .
+studies of fda - approved drugs to delineate additional information including the drug's risks ,  benefits ,  and optimal use .
+trials that are a combination of phases 1 and 2 .
+trials that are a combination of phases 2 and 3 .
+one or more interventions for examining the basic mechanism of action  ( for example ,  physiology or biomechanics of an intervention )  .
+studies among cancer patients and healthy populations that involve no intervention or alteration in the status of the participants .
+the name ( s )  of the disease ( s )  or condition ( s )  studied in the clinical study ,  or the focus of the clinical study .
+the distinguishing qualities or prominent aspects of an individual person .
+a type of eligibility criteria that indicates the age a person must be to participate in a clinical study .
+a formal document that describes a complete plan of research activity in the framework of a clinical study ;  specifically ,  the study objective ( s )  ,  design ,  methodology ,  eligibility requests for prospective subjects and controls ;  intervention regimen ( s )  ,  proposed methods of analysis of data ;  statistical considerations ,  and organization of the study .
+a person or organization that supports or champions something .
+one or more interventions are being evaluated for identifying a disease or health condition .
+one or more interventions are being evaluated for treating a disease ,  syndrome ,  or condition .
+one or more interventions are being assessed for preventing the development of a specific disease or health condition .
+the number of subjects entered in a clinical trial .
+the method by which participants are assigned to arms in a clinical trial .
+information regarding the means of contacting a person or group .
+an entity such as an individual ,  company ,  institution ,  group ,  or organization which takes responsibility for the initiation ,  management ,  and / or financing of a clinical study .
+the written description of the clinical study ,  including objective ( s )  ,  design ,  and methods .
+a clinical study that is designed using a procedure in which one or more parties to the study  [ subject ( s )  ,  investigator ( s )  ,  monitor ,  or / and data analyst ( s )  ]  are kept unaware of the treatment assignment ( s )  .
+one or more interventions are assessed or examined for identifying a condition ,  or risk factors for a condition ,  in people who are not yet known to have the condition or risk factor .
+one or more interventions are evaluated for maximizing comfort ,  minimizing side effects ,  or mitigating against a decline in the participant's health or function .
+two or more interventions ,  each alone and in combination ,  are evaluated in parallel against a control group
+any of two or more parties working jointly towards a common goal .
+the country in which the test is conducted .
+the name of the place in which a test is conducted .
+a condition that is a focus of the study .
+studies in which individuals are assigned by an investigator based on a protocol to receive specific interventions .
+a sequence of letters ,  numbers ,  or other characters that uniquely identifies a clinical trial within a clinical trial registry .
+an investigational drug product  ( including biological product )  available through expanded access for patients who do not qualify for enrollment in a clinical trial .
+for each intervention studied in the clinical study ,  the general type of intervention .
+the primary measurement ( s )  or observation ( s )  used to measure the effect of experimental variables in a study ,  or for observational studies ,  to describe patterns of diseases or traits or associations with exposures ,  risk factors or treatment .
+other key measures that will be used to evaluate the intervention ( s )  or ,  for observational studies ,  that are a focus of the study .
+any untoward or unfavorable medical occurrence in a participant ,  including any abnormal sign  ( for example ,  abnormal physical exam or laboratory finding )  ,  symptom ,  or disease ,  temporally associated with the participant’s participation in the research ,  whether or not considered related to the participant’s participation in the research
+a process or action that is the focus of a clinical study .
+a medical intervention where a patient is administered with a drug
+a medical intervention that is used for therapeutic purpose
+a medical intervention that refers to any series of pre - defined steps that should be followed to achieve a desired result .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+a planned process that consists of parts: planning ,  study design execution ,  documentation and which produce conclusion ( s )  .
+a planned process with the objective to produce information about the material entity that is the evaluant ,  by physically examining it or its proxies .
+a study personnel role played by a party who is accountable for the execution of a study component and can make decisions about the conduct of the study
+a description of the manner in which the clinical trial will be conducted .
+a role borne by an entity and that is realized in a process that is part of an investigation in which an objective is achieved .
+a responsible party role involved with any of the following activities:  initiating ,  managing and funding a study
+an entity that can bear roles ,  has members ,  and has a set of organization rules .
+a plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents ,  so that different investigation agents will reliably be able to independently reproduce the process .
+a planned process in which a person or their legal representative is informed about key facts about potential risks and benefits of a process and makes a documented decision as to whether the person in question will participate .
+a material entity that is designed to perform a function in a scientific investigation ,  but is not a reagent .
+a textual entity that denotes a geographic location that is a site or part of a site that is identified as a country in the political geography .
+a directive information entity which defines and states a principle of standard by which selection process may take place .
+a planned process which results in the creation of group of entity from a larger group by the application of predefined criteria .
+an information content entity that specifies a value within a classification scheme or on a quantitative scale .
+a type of eligibility criteria that indicates the age a person must be to participate in a clinical study .
+the numerical value ,  if any ,  for the minimum age a potential participant must meet to be eligible for the clinical study .
+the numerical value ,  if any ,  for the maximum age a potential participant can be to be eligible for the clinical study .
+a type of eligibility criteria that indicates the sex of people who may participate in a clinical study  ( all ,  female ,  male )  .
+a study design that entails the creation of two types of roles ,  such that each participant under investigation bears one or the other .
+observation design is a study design in which subjects are monitored in the absence of any active intervention by experimentalists .
+a plan specification comprised of protocols  ( which may specify how and what kinds of data will be gathered )  that are executed as part of an investigation and is realized during a study design execution .
+a study design which use the same individuals and exposure them to a set of conditions .
+participants receive one of two  ( or more )  alternative interventions during the initial phase of the study and receive the other intervention during the second phase of the study
+n - of - 1 design is a cross - over design in which the same patient is repeatedly randomised to receive either the experimental treatment or its control  ( senn ,  1993 )  .
+participants are assigned to one of two or more groups in parallel for the duration of the study
+two or more interventions ,  each alone and in combination ,  are evaluated in parallel against a control group
+the key requirements that people who want to participate in a clinical study must meet or the characteristics they must have .
+a type of eligibility criteria .
+a type of eligibility criteria .
+a planned process with the objective to obtain a population of human subjects to participate in an investigation by determining eligibility of subjects and obtaining informed consent .
+a representation that is either the output of a clinical history taking or a physical examination or an image finding ,  or some combination thereof .
+a series of statements representing health - relevant qualities of a patient and of a patient's family .
+a representation of a quality of a patient that is  ( 1 )  recorded by a clinician because the quality is hypothesized to be of clinical significance and  ( 2 )  refers to qualities obtaining in the patient prior to their becoming detectable in a clinical history taking or physical examination .
+a disposition  ( i )  to undergo pathological processes that  ( ii )  exists in an organism because of one or more disorders in that organism .
+a bodily process that is clinically abnormal .
+1 . the determination of the nature of a case of disease .
+a study design that involves repeated observations of the same entity over time .
+a longitudinal study that aims to study a case - defined population who presently have a certain condition or recepient of a particular treatment that are followed over time and are compared with a similar group who do not have condition .
+a role inhering in an entity realized by social interactions in human society .
+a role borne by a human individual or by a collection of humans regarded as possessing rights and duties enforeable at law .
+a telephone number is a sequence of digits assigned to a fixed - line telephone subscriber station connected to a telephone line or to a wireless electronic telephony device ,  such as a radio telephone or a mobile telephone ,  or to other devices for data transmission via the public switched telephone network  ( pstn )  or other public and private networks .
+the textual name of the contact person or organization
+the medical state or condition of a patient
+a person who performs an investigation task and takes the role of an investigator role .
+an investigator who is involved in a clinical trial and is responsible for ensuring that an investigation is conducted according to the signed investigator statement ,  the investigational plan ,  and applicable regulations ;  for protecting the rights ,  safety ,  and welfare of subjects under the investigator's care ;  and for the control of drugs under investigation .
+the  ( estimated )  date on which the clinical study is open for recruitment of participants ,  or the actual date on which the first participant is enrolled .
+the date the final participant was examined or received an intervention for purposes of final collection of data for the primary and secondary outcome measures and adverse events  ( for example ,  last participant’s last visit )  ,  whether the clinical study concluded according to the pre - specified protocol or was terminated .
+the date on which the study sponsor or investigator first submitted a study record to clinicaltrials .gov .
+the recruitment status for the clinical study as a whole ,  based upon the status of the individual sites .
+the current stage of a clinical study and whether it is or will be open for enrollment
+combining a drug and device ,  a biological product and device ;  a drug and biological product ;  or a drug ,  biological product ,  and device
+a medical intervention that involves a behavioral process to control ,  prevent ,  or treat a behavior problem .
+a person who serves as a contact role and has disclosed specified information to be reached .
+a contact person for each facility participating in a study .
+an investigation agent role that is taken by a human individual
+a role taken by a person who serves as a contact for some process .
+a person to whom questions concerning enrollment at any location of the study can be addressed .
+information content entity about a contact person
+a sponsor role taken by an individual ,  organization ,  group or other legal entity which takes responsibility for initiating ,  managing and / or financing a study .
+a sponsor role taken by an additional individual ,  organization or another legal person ,  if any ,  that has agreed with the primary sponsor to take on responsibilities of sponsorship .
+an investigator role taken by an individual who is designated as responsible party by the sponsor
+an investigator role taken by an individual who both initiates and conducts the study
+an investigation agent role taken by an agent  ( an individual ,  organization ,  group or another legal entity )  who provides support to an investigation .
+a systematic ,  scientific investigation that can be either interventional or observational and involves human beings as research subjects .
+an organismal quality inhering in a bearer by virtue of the bearer's ability to undergo sexual reproduction in order to differentiate the individuals or types involved .
+a biological sex quality inhering in an individual or a population that only produces gametes that can be fertilised by male gametes .
+a biological sex quality inhering in an individual or a population whose sex organs contain only male gametes .
+a quality which inheres in an process .
+a quality which inheres in a continuant .
+an organismal quality inhering in a bearer by virtue of the bearer's physical expression of sexual characteristics .
+a quality that inheres in an entire organism or part of an organism .
+une entité de contenu informationnel qui décrit des relations entre certaines entités et dont la véracité est un prérequis pour quelque chose .
+a medical intervention that involves in adding vaccine into a host  ( e .g . ,  human ,  mouse )  in vivo with the intent to invoke an adaptive immune response .
+a vaccine clinical trial that investigates the safety profile of a vaccine in a small group  ( 10 - 50 )  of healthy volunteers .
+a vaccine clinical trial that studies vaccine efficacy with a target population  ( numbering 50 - 100 )  .
+a vaccine clinical trial that takes the trial to a large - scale safety and efficacy study in a relevant patient population ,  usually in excess of 3 , 000 .
+the final stage of vaccine clinical evaluation .
+a processual entity by which a vaccine is tested clinically for safety and effectiveness .

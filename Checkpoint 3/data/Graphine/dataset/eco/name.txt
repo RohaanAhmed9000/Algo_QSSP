@@ -1,0 +1,2358 @@
+evidence
+inference from background scientific knowledge
+direct assay evidence
+reconstitution assay evidence
+cell fractionation evidence
+enzymatic activity assay evidence
+experimental evidence
+immunofluorescence evidence
+expression pattern evidence
+transcript expression evidence
+protein expression evidence
+genetic interaction evidence
+functional complementation evidence
+transgenic rescue experiment evidence
+mutant phenotype evidence
+loss - of - function mutant phenotype evidence
+ectopic expression evidence
+anti - sense experiment evidence
+rnai evidence
+protein inhibition evidence
+physical interaction evidence
+co - purification evidence
+affinity evidence
+protein binding evidence
+hybrid interaction evidence
+nucleic acid hybridization evidence
+structural similarity evidence
+motif similarity evidence
+match to interpro member signature evidence
+blast evidence used in manual assertion
+protein blast evidence used in manual assertion
+nucleotide blast evidence used in manual assertion
+author statement supported by traceable reference
+author statement without traceable support
+no evidence data found
+transient rescue experiment evidence
+protein assay evidence
+immunological assay evidence
+similarity evidence
+gain - of - function mutant phenotypic evidence
+sequence similarity evidence
+spatial pattern of protein expression evidence
+spatial pattern of transcript expression evidence
+reporter gene assay evidence
+voucher specimen phenotypic analysis evidence
+genetic similarity evidence
+suppressor / enhancer interaction phenotypic evidence
+automatically integrated combinatorial evidence used in automatic assertion
+double mutant phenotypic evidence
+epistatic interaction phenotypic evidence
+phenotypic similarity evidence
+expression microarray evidence
+experimental phenotypic evidence
+positional similarity evidence
+quantitative trait analysis evidence
+crna to dna expression microarray evidence
+compositional similarity evidence
+functional complementation in heterologous system evidence
+yeast one - hybrid evidence
+developmental similarity evidence
+yeast 2 - hybrid evidence
+differential methylation hybridization evidence
+co - immunoprecipitation evidence
+morphological similarity evidence
+experimental genomic evidence
+split - ubiquitin assay evidence
+gene expression similarity evidence
+far - western blotting evidence
+methylation - specific polymerase chain reaction evidence
+southern hybridization evidence
+affinity chromatography evidence
+phylogenetic evidence
+targeting sequence prediction evidence
+polymerase chain reaction evidence
+transmembrane domain prediction evidence
+gene neighbors evidence
+immunoprecipitation evidence
+amplification of intermethylated sites evidence
+immunolocalization evidence
+biological system reconstruction evidence
+restriction landmark genomic scanning evidence
+immunogold labelling evidence
+epitope - tagged protein immunolocalization evidence
+array - based sequence capture evidence
+cell growth regulation assay evidence
+electrophoretic mobility shift assay evidence
+cdna to dna expression microarray evidence
+obsolete in situ hybridization evidence
+fractionation evidence
+affymetrix genechip evidence
+co - fractionation evidence
+dna to cdna expression microarray evidence
+nimblegen array evidence
+northern blot evidence
+reverse transcription polymerase chain reaction evidence
+rna protection assay evidence
+qualitative western immunoblotting evidence
+expression library screen evidence
+differential hybridization evidence
+subtractive hybridization evidence
+over expression analysis evidence
+protein localization evidence
+fusion protein localization evidence
+green fluorescent protein fusion protein localization evidence
+yellow fluorescent protein fusion protein localization evidence
+beta - glucuronidase fusion protein localization evidence
+beta - galactosidase fusion protein localization evidence
+transport assay evidence
+nucleic acid binding evidence
+ribohomopolymer binding assay evidence
+thin layer chromatography evidence
+protein:ion binding evidence
+southwestern blot evidence
+northwestern blot evidence
+in vitro transcription reconstitution assay evidence
+in vitro recombinant protein transcription reconstitution assay evidence
+heterologous protein expression evidence
+protein separation evidence
+protein separation followed by direct sequencing evidence
+protein separation followed by fragment identification evidence
+heterologous system uptake evidence
+electrophysiology assay evidence
+two - electrode voltage clamp recording evidence
+transcription assay evidence
+transcriptional activation assay evidence
+biochemical trait analysis evidence
+mutant physiological response evidence
+mutant visible phenotype evidence
+genomic context evidence
+in vivo assay evidence
+animal model system study evidence
+clinical study evidence
+in vitro assay evidence
+cell - free assay evidence
+enzyme inhibition evidence
+sequence alignment evidence
+sequence orthology evidence
+match to sequence model evidence
+automatic assertion
+author statement
+curator inference
+blast evidence
+nucleotide blast evidence
+protein blast evidence
+blast evidence used in automatic assertion
+nucleotide blast evidence used in automatic assertion
+protein blast evidence used in automatic assertion
+combinatorial evidence
+combinatorial evidence used in automatic assertion
+biological aspect of descendant evidence
+rapid divergence from ancestral sequence evidence
+phylogenetic determination of loss of key residues evidence
+assertion method
+manual assertion
+nucleotide sequencing assay evidence
+sequencing assay evidence
+high throughput nucleotide sequencing assay evidence
+illumina sequencing evidence
+454 pyrosequencing evidence
+solid sequencing evidence
+chain termination sequencing evidence
+chromatin immunoprecipitation evidence
+chromatin immunoprecipitation - pcr evidence
+chromatin immunoprecipitation - qpcr evidence
+chromatin immunoprecipitation - seq evidence
+chromatin immunoprecipitation - chip evidence
+quantitative polymerase chain reaction evidence
+chromosome conformation - based evidence
+3c evidence
+4c evidence
+5c evidence
+chromosome conformation capture - pcr evidence
+3c - qpcr evidence
+hi - c evidence
+3c - seq evidence
+anatomical perturbation phenotypic evidence
+environmental perturbation phenotypic evidence
+tissue ablation phenotypic evidence
+tissue grafting phenotypic evidence
+combinatorial evidence used in manual assertion
+automatically integrated combinatorial evidence used in manual assertion
+computational combinatorial evidence used in automatic assertion
+sequence alignment evidence used in manual assertion
+sequence alignment evidence used in automatic assertion
+sequence similarity evidence used in automatic assertion
+sequence similarity evidence used in manual assertion
+similarity evidence used in automatic assertion
+similarity evidence used in manual assertion
+genetic similarity evidence used in manual assertion
+genetic similarity evidence used in automatic assertion
+match to sequence model evidence used in manual assertion
+match to sequence model evidence used in automatic assertion
+motif similarity evidence used in manual assertion
+motif similarity evidence used in automatic assertion
+match to interpro member signature evidence used in automatic assertion
+match to interpro member signature evidence used in manual assertion
+targeting sequence prediction evidence used in automatic assertion
+targeting sequence prediction evidence used in manual assertion
+transmembrane domain prediction evidence used in automatic assertion
+transmembrane domain prediction evidence used in manual assertion
+sequence orthology evidence used in automatic assertion
+sequence orthology evidence used in manual assertion
+enzyme - linked immunoabsorbent assay evidence
+flow cytometry evidence
+experimental evidence used in manual assertion
+expression pattern evidence used in manual assertion
+affymetrix genechip evidence used in manual assertion
+cdna to dna expression microarray evidence used in manual assertion
+differential methylation hybridization evidence used in manual assertion
+expression microarray evidence used in manual assertion
+crna to dna expression microarray evidence used in manual assertion
+nimblegen array evidence used in manual assertion
+array - based sequence capture evidence used in manual assertion
+qualitative western immunoblotting evidence used in manual assertion
+expression library screen evidence used in manual assertion
+heterologous protein expression evidence used in manual assertion
+spatial pattern of protein expression evidence used in manual assertion
+protein expression evidence used in manual assertion
+dna to cdna expression microarray evidence used in manual assertion
+differential hybridization evidence used in manual assertion
+rna protection assay evidence used in manual assertion
+spatial pattern of transcript expression evidence used in manual assertion
+subtractive hybridization evidence used in manual assertion
+transcript expression evidence used in manual assertion
+morpholino experiment evidence
+systematic evolution of ligands by exponential amplification evidence
+bacterial one - hybrid evidence
+rna - sequencing evidence
+cleavage arrested development evidence
+cytochalasin experiment evidence
+green fluorescent protein immunolocalization evidence
+beta - galactosidase protein immunolocalization evidence
+author statement used in manual assertion
+author statement without traceable support used in manual assertion
+author statement supported by traceable reference used in manual assertion
+curator inference used in manual assertion
+inference from background scientific knowledge used in manual assertion
+no evidence data found used in manual assertion
+biological aspect of ancestor evidence
+cap analysis of gene expression evidence
+nano - cap analysis of gene expression evidence
+imported information
+imported information used in manual assertion
+imported information used in automatic assertion
+direct assay evidence used in manual assertion
+mutant phenotype evidence used in manual assertion
+genetic interaction evidence used in manual assertion
+genomic context evidence used in manual assertion
+biological aspect of ancestor evidence used in manual assertion
+biological aspect of descendant evidence used in manual assertion
+phylogenetic determination of loss of key residues evidence used in manual assertion
+rapid divergence from ancestral sequence evidence used in manual assertion
+imported manually asserted information used in automatic assertion
+imported automatically asserted information used in automatic assertion
+imaging assay evidence
+chromatography evidence
+transcript splice pattern evidence
+whole transcript splice pattern evidence
+coding sequence splice pattern evidence
+whole transcript splice pattern evidence used in manual assertion
+coding sequence splice pattern evidence used in manual assertion
+coding sequence splice pattern evidence used in automatic assertion
+whole transcript splice pattern evidence used in automatic assertion
+sodium dodecyl sulfate polyacrylamide gel electrophoresis evidence
+particle size and count assay evidence
+substance quantification evidence
+competitive growth assay evidence
+gel electrophoresis evidence
+pulsed - field gel electrophoresis evidence
+two - dimensional agarose gel electrophoresis evidence
+plasmid maintenance assay evidence
+specific protein inhibition by antibody evidence
+support of intron position by rna - sequencing alignment evidence
+full support of intron position by rna - sequencing alignment evidence
+partial support of intron position by rna - sequencing alignment evidence
+single exon transcript confirmation via alignment evidence
+support of intron position by rna - sequencing alignment evidence used in manual assertion
+support of intron position by rna - sequencing alignment evidence used in automatic assertion
+full support of intron position by rna - sequencing alignment evidence used in automatic assertion
+full support of intron position by rna - sequencing alignment evidence used in manual assertion
+partial support of intron position by rna - sequencing alignment evidence used in automatic assertion
+partial support of intron position by rna - sequencing alignment evidence used in manual assertion
+evidence used in manual assertion
+physical interaction evidence used in manual assertion
+gene neighbors evidence used in manual assertion
+phylogenetic distribution evidence
+differential geneset expression evidence from microarray experiment  ( gsea ,  fisher - exact )
+differential geneset expression evidence from rna - seq experiment  ( gsea ,  fisher - exact )
+biological target - disease association via drug evidence
+inferential evidence
+computational inference
+computational inference used in automatic assertion
+evidence based on logical inference from manual annotation used in automatic assertion
+evidence based on logical inference from automatic annotation used in automatic assertion
+evidence used in automatic assertion
+3d cell culture evidence
+ [ 3h ] arachidonic acid release assay evidence
+ [ 3h ]  - thymidine incorporation assay evidence
+51cr release assay evidence
+7 - aminoactinomycin staining evidence
+adhesion assay evidence
+adoptive cell transfer evidence
+alamarblue assay evidence
+allograft transplantation phenotypic evidence
+anion - exchange chromatography evidence
+annexin - v staining evidence
+cognitive assay phenotypic evidence
+blocking monoclonal antibody evidence
+blocking peptide evidence
+blocking polyclonal antibody evidence
+blood test evidence
+boyden chamber assay evidence
+bromodeoxyuridine incorporation assay evidence
+caspase assay evidence
+cell counting evidence
+cell permeability assay evidence
+carboxyfluorescein diacetate succinimidyl ester staining evidence
+chemiluminescence - linked immunoassay evidence
+chimeric protein phenotypic evidence
+co - electrophoresis evidence
+co - localization evidence
+colony counting evidence
+co - sedimentation assay evidence
+comet assay evidence
+conditional knockout evidence
+conditional knockin evidence
+constitutively active mutant evidence
+cross - linking evidence
+crystallography evidence
+cytochemistry evidence
+cytochrome c release assay evidence
+4' , 6 - diamidino - 2 - phenylindole staining evidence
+deletion mutation phenotypic evidence
+dna laddering assay evidence
+rna dot blot assay evidence
+dominant - negative mutant phenotypic evidence
+edman degradation evidence used in manual assertion
+edman degradation evidence
+etag assay evidence
+filter binding assay evidence
+fluorescence in situ hybridization evidence
+fluorescence resonance energy transfer evidence
+gel - filtration evidence
+histochemistry evidence
+histology evidence
+high - performance liquid chromatography evidence
+immunocytochemistry evidence
+immunodepletion evidence
+immunohistochemistry evidence
+induced mutation evidence
+in vitro acetylation assay evidence
+in vitro cleavage assay evidence
+in vitro deubiquitination assay evidence
+in vitro deacetylation assay evidence
+in vitro defarnesylation assay evidence
+in vitro demethylation assay evidence
+in vitro desumoylation assay evidence
+in vitro farnesylation assay evidence
+in vitro methylation assay evidence
+in vitro palmitoylation assay evidence
+in vitro phosphatase assay evidence
+in vitro protein kinase assay evidence
+in vitro polyadp - ribosylation assay evidence
+in vitro sumoylation assay evidence
+in vitro transcription assay evidence
+in vitro translation assay evidence
+in vitro ubiquitination assay evidence
+in vivo acetylation assay evidence
+in vivo cleavage assay evidence
+in vivo deacetylation assay evidence
+in vivo defarnesylation assay evidence
+in vivo demethylation assay evidence
+in vivo deubiquitination assay evidence
+in vivo desumoylation assay evidence
+in vivo farnesylation assay evidence
+in vivo methylation assay evidence
+in vivo palmitoylation assay evidence
+in vivo phosphatase assay evidence
+in vivo protein kinase assay evidence
+in vivo sumoylation assay evidence
+in vivo transcription assay evidence
+in vivo translation assay evidence
+in vivo ubiquitination assay evidence
+knockin evidence
+knockout phenotypic evidence
+lipid binding assay evidence
+luminescence - based mammalian interactome mapping assay evidence
+macroscopy evidence
+mammalian 2 - hybrid assay evidence
+mass spectrometry evidence
+medical imaging evidence
+microscopy evidence
+motility wound healing assay evidence
+mts assay evidence
+mtt assay evidence
+multiplex bead - based immunoassay evidence
+natural variation mutant evidence
+nuclear fragmentation evidence
+nuclear magnetic resonance evidence
+nuclease protection assay evidence
+nucleotide analog incorporation assay evidence
+phage display evidence
+phosphoamino acid analysis evidence
+peptide affinity enrichment evidence
+physical examination evidence
+peptide array evidence
+point mutation phenotypic evidence
+propidium iodide staining evidence
+fluorescence evidence
+protein dot blot assay evidence
+protein microarray evidence
+protein sequencing assay evidence
+quantitative mass spectrometry evidence
+radioisotope assay evidence
+radioimmunoassay evidence
+resonant mirror biosensor evidence
+restriction fragment detection evidence
+spectrophotometry evidence
+surface plasmon resonance evidence
+syngeneic transplantation experiment evidence
+tace activity assay evidence
+tissue microarray evidence
+transgenic organism evidence
+tryptic phosphopeptide mapping assay evidence
+terminal deoxynucleotidyl transferase dutp nick end labeling assay evidence
+urine test evidence
+wst - 1 assay evidence
+xenotransplantation phenotypic evidence
+3d cell culture evidence used in manual assertion
+51cr release assay evidence used in manual assertion
+7 - aminoactinomycin staining evidence used in manual assertion
+ [ 3h ]  - thymidine incorporation assay evidence used in manual assertion
+ [ 3h ] arachidonic acid release assay evidence used in manual assertion
+adhesion assay evidence used in manual assertion
+adoptive cell transfer evidence used in manual assertion
+alamarblue assay evidence used in manual assertion
+allograft transplantation phenotypic evidence used in manual assertion
+anion - exchange chromatography evidence used in manual assertion
+annexin - v staining evidence used in manual assertion
+cognitive assay phenotypic evidence used in manual assertion
+blocking monoclonal antibody evidence used in manual assertion
+blocking peptide evidence used in manual assertion
+blocking polyclonal antibody evidence used in manual assertion
+blood test evidence used in manual assertion
+boyden chamber assay evidence used in manual assertion
+bromodeoxyuridine incorporation assay evidence used in manual assertion
+caspase assay evidence used in manual assertion
+cell counting evidence used in manual assertion
+cell permeability assay evidence used in manual assertion
+carboxyfluorescein diacetate succinimidyl ester staining evidence used in manual assertion
+chemiluminescence - linked immunoassay evidence used in manual assertion
+chimeric protein phenotypic evidence used in manual assertion
+co - electrophoresis evidence used in manual assertion
+co - localization evidence used in manual assertion
+co - sedimentation assay evidence used in manual assertion
+colony counting evidence used in manual assertion
+comet assay evidence used in manual assertion
+conditional knockin evidence used in manual assertion
+conditional knockout evidence used in manual assertion
+constitutively active mutant evidence used in manual assertion
+cross - linking evidence used in manual assertion
+crystallography evidence used in manual assertion
+cytochemistry evidence used in manual assertion
+cytochrome c release assay evidence used in manual assertion
+4' , 6 - diamidino - 2 - phenylindole staining evidence used in manual assertion
+deletion mutation phenotypic evidence used in manual assertion
+dna laddering assay evidence used in manual assertion
+rna dot blot assay evidence used in manual assertion
+dominant - negative mutant phenotypic evidence used in manual assertion
+etag assay evidence used in manual assertion
+filter binding assay evidence used in manual assertion
+fluorescence in situ hybridization evidence used in manual assertion
+fluorescence resonance energy transfer evidence used in manual assertion
+gel - filtration evidence used in manual assertion
+histochemistry evidence used in manual assertion
+immunocytochemistry evidence used in manual assertion
+histology evidence used in manual assertion
+immunodepletion evidence used in manual assertion
+immunohistochemistry evidence used in manual assertion
+in vitro acetylation assay evidence used in manual assertion
+in vitro cleavage assay evidence used in manual assertion
+in vitro deacetylation assay evidence used in manual assertion
+in vitro defarnesylation assay evidence used in manual assertion
+in vitro demethylation assay evidence used in manual assertion
+in vitro desumoylation assay evidence used in manual assertion
+in vitro deubiquitination assay evidence used in manual assertion
+in vitro farnesylation assay evidence used in manual assertion
+in vitro methylation assay evidence used in manual assertion
+in vitro palmitoylation assay evidence used in manual assertion
+in vitro phosphatase assay evidence used in manual assertion
+in vitro polyadp - ribosylation assay evidence used in manual assertion
+in vitro protein kinase assay evidence used in manual assertion
+in vitro sumoylation assay evidence used in manual assertion
+in vitro transcription assay evidence used in manual assertion
+in vitro translation assay evidence used in manual assertion
+in vitro ubiquitination assay evidence used in manual assertion
+in vivo acetylation assay evidence used in manual assertion
+in vivo cleavage assay evidence used in manual assertion
+in vivo deacetylation assay evidence used in manual assertion
+in vivo defarnesylation assay evidence used in manual assertion
+in vivo demethylation assay evidence used in manual assertion
+in vivo desumoylation assay evidence used in manual assertion
+in vivo deubiquitination assay evidence used in manual assertion
+in vivo farnesylation assay evidence used in manual assertion
+in vivo methylation assay evidence used in manual assertion
+in vivo palmitoylation assay evidence used in manual assertion
+in vivo phosphatase assay evidence used in manual assertion
+in vivo protein kinase assay evidence used in manual assertion
+in vivo sumoylation assay evidence used in manual assertion
+in vivo transcription assay evidence used in manual assertion
+in vivo translation assay evidence used in manual assertion
+in vivo ubiquitination assay evidence used in manual assertion
+induced mutation evidence used in manual assertion
+knockin evidence used in manual assertion
+knockout evidence used in manual assertion
+lipid binding assay evidence used in manual assertion
+luminescence - based mammalian interactome mapping assay evidence used in manual assertion
+macroscopy evidence used in manual assertion
+mammalian 2 - hybrid assay evidence used in manual assertion
+mass spectrometry evidence used in manual assertion
+medical imaging evidence used in manual assertion
+microscopy evidence used in manual assertion
+motility wound healing assay evidence used in manual assertion
+mts assay evidence used in manual assertion
+mtt assay evidence used in manual assertion
+multiplex bead - based immunoassay evidence used in manual assertion
+natural variation mutant evidence used in manual assertion
+nuclear magnetic resonance evidence used in manual assertion
+nuclear fragmentation evidence used in manual assertion
+nuclease protection assay evidence used in manual assertion
+nucleotide analog incorporation assay evidence used in manual assertion
+phage display evidence used in manual assertion
+phosphoamino acid analysis evidence used in manual assertion
+peptide affinity enrichment evidence used in manual assertion
+peptide array evidence used in manual assertion
+physical examination evidence used in manual assertion
+point mutation phenotypic evidence used in manual assertion
+propidium iodide staining evidence used in manual assertion
+fluorescence evidence used in manual assertion
+protein dot blot assay evidence used in manual assertion
+protein microarray evidence used in manual assertion
+protein sequencing assay evidence used in manual assertion
+quantitative mass spectrometry evidence used in manual assertion
+radioisotope assay evidence used in manual assertion
+radioimmunoassay evidence used in manual assertion
+imaging assay evidence used in manual assertion
+restriction fragment detection evidence used in manual assertion
+spectrophotometry evidence used in manual assertion
+syngeneic transplantation experiment evidence used in manual assertion
+xenotransplantation phenotypic evidence used in manual assertion
+wst - 1 assay evidence used in manual assertion
+urine test evidence used in manual assertion
+terminal deoxynucleotidyl transferase dutp nick end labeling assay evidence used in manual assertion
+tryptic phosphopeptide mapping assay evidence used in manual assertion
+transgenic organism evidence used in manual assertion
+tissue microarray evidence used in manual assertion
+tace activity assay evidence used in manual assertion
+surface plasmon resonance evidence used in manual assertion
+restriction landmark genomic scanning evidence used in manual assertion
+resonant mirror biosensor evidence used in manual assertion
+high - performance liquid chromatography evidence used in manual assertion
+ectopic expression evidence used in manual assertion
+small molecule detection assay evidence
+localization evidence
+nucleic acid localization evidence
+acetylation assay evidence
+cleavage assay evidence
+deacetylation assay evidence
+defarnesylation assay evidence
+demethylation assay evidence
+desumoylation assay evidence
+deubiquitination assay evidence
+farnesylation assay evidence
+methylation assay evidence
+palmitoylation assay evidence
+phosphatase assay evidence
+polyadp - ribosylation assay evidence
+protein kinase assay evidence
+sumoylation assay evidence
+single - cell rna - sequencing evidence used in automatic assertion
+single - cell rna - sequencing evidence
+translation assay evidence
+ubiquitination assay evidence
+cell growth assay evidence
+cell - based assay evidence
+quantitative reverse transcription polymerase chain reaction evidence
+quantitative reverse transcription polymerase chain reaction evidence used in manual assertion
+quantitative reverse transcription polymerase chain reaction evidence used in automatic assertion .
+colony diameter phenotype evidence used in manual assertion
+single - cell rna - sequencing evidence used in manual assertion
+colony diameter phenotype evidence
+colony diameter phenotype evidence used in automatic assertion
+membrane fusion assay evidence
+membrane fusion assay evidence used in automatic assertion
+membrane fusion assay evidence used in manual assertion
+spheroplast fusion assay evidence
+spheroplast fusion assay evidence used in automatic assertion
+spheroplast fusion assay evidence used in manual assertion
+liquid chromatography coupled with tandem mass spectrometry evidence
+liquid chromatography coupled with tandem mass spectrometry evidence used in automatic assertion
+liquid chromatography coupled with tandem mass spectrometry evidence used in manual assertion
+small interfering rna knockdown evidence
+small interfering rna knockdown evidence used in automatic assertion
+small interfering rna knockdown evidence used in manual assertion
+ion trap mass spectrometry evidence
+ion trap mass spectrometry evidence used in automatic assertion
+ion trap mass spectrometry evidence used in manual assertion
+atomic force microscopy evidence
+atomic force microscopy evidence used in automatic assertion
+atomic force microscopy evidence used in manual assertion
+polysome profiling evidence
+polysome profiling evidence used in automatic assertion
+polysome profiling evidence used in manual assertion
+multilocus sequence typing evidence
+multilocus sequence typing evidence used in automatic assertion
+multilocus sequence typing evidence used in manual assertion
+protein - binding microarray evidence
+cell staining evidence
+alkaline phosphatase reporter gene assay evidence
+beta - galactosidase reporter gene assay evidence
+chloramphenicol acetyltransferase reporter gene assay evidence
+beta - glucuronidase reporter gene assay evidence
+luciferase reporter gene assay evidence
+chromatin immunoprecipitation -  exonuclease evidence
+electrophoretic mobility shift assay evidence used in manual assertion
+reverse transcription polymerase chain reaction evidence used in manual assertion
+dna affinity chromatography evidence
+dnase footprinting evidence
+fluorescence anisotropy evidence
+genomic systematic evolution of ligands by exponential amplification evidence
+heteronuclear single quantum coherence spectroscopy evidence
+methidiumpropyl - ethylenediaminetetraacetic acid iron  ( ii )  footprinting evidence
+copper - phenanthroline footprinting evidence
+green fluorescent protein reporter gene assay evidence
+glutathione s - transferase pull - down assay evidence
+hydroxyl - radical footprinting evidence
+primer extension assay evidence
+rapid amplification of cdna ends polymerase chain reaction evidence
+survival rate analysis evidence
+x - ray crystallography evidence
+dna adenine methyltransferase identification evidence
+isothermal titration calorimetry evidence
+ultraviolet light footprinting evidence
+methylation interference footprinting evidence
+inference of sequence features from visual inspection used in manual assertion
+ferric uptake regulator titration assay evidence
+host colonization assay evidence
+host colonization assay evidence used in automatic assertion
+host colonization assay evidence used in manual assertion
+infection assay evidence
+infection assay evidence used in automatic assertion
+infection assay evidence used in manual assertion
+in situ hybridization evidence
+in situ hybridization evidence used in automatic assertion
+in situ hybridization evidence used in manual assertion
+colorimetric in situ hybridization evidence
+colorimetric in situ hybridization evidence used in automatic assertion
+colorimetric in situ hybridization evidence used in manual assertion
+random mutagenesis of specific target dna evidence
+random mutagenesis of specific target dna evidence used in automatic assertion
+random mutagenesis of specific target dna evidence used in manual assertion
+cell population optical density evidence
+cell population optical density evidence used in automatic assertion
+cell population optical density evidence used in manual assertion
+cell viability assay evidence
+cell proliferation assay evidence
+dna synthesis cell proliferation assay evidence
+atp bioluminescence assay evidence
+cytotoxicity assay evidence
+staining evidence
+chemotaxis assay evidence
+genetic transformation evidence
+structure determination evidence
+electron microscopy evidence
+apoptotic assay evidence
+in vivo polyadp - ribosylation assay evidence
+in vivo polyadp - ribosylation assay evidence used in manual assertion
+ex vivo assay evidence
+two - dimensional polyacrylamide gel electrophoresis evidence
+spectrometry evidence
+regular expression motif search evidence
+missense mutation phenotypic evidence
+nonsense mutation phenotypic evidence
+silent mutation evidence
+insertion mutation phenotypic evidence
+duplication mutation evidence
+frameshift mutation phenotypic evidence
+repeat expansion mutation phenotypic evidence
+splice site mutation phenotypic evidence
+translocation mutation phenotypic evidence
+molecule detection assay evidence
+protein detection assay evidence
+rna detection assay evidence
+dna detection assay evidence
+interferometric reflectance imaging sensor evidence
+s1 nuclease protection assay evidence
+dna dot blot assay evidence
+dna dot blot assay evidence used in manual assertion
+matrix - assisted laser desorption / ionization time - of - flight mass spectrometry evidence
+matrix - assisted laser desorption / ionization time - of - flight mass spectrometry evidence used in manual assertion
+site - directed mutagenesis phenotypic evidence
+random mutagenesis phenotypic evidence
+random mutagenesis evidence used in manual assertion
+motif discovery evidence
+consensus search evidence
+phylogenetic footprinting evidence
+comparative genomics motif search evidence
+machine learning prediction of motif instance evidence
+position - specific scoring matrix motif search evidence
+xyle reporter gene assay evidence
+biological system reconstruction evidence by experimental evidence from single species used in manual assertion
+biological system reconstruction evidence by experimental evidence from mixed species used in manual assertion
+biological system reconstruction evidence based on orthology evidence used in manual assertion
+biological system reconstruction evidence based on orthology evidence
+biological system reconstruction evidence based on paralogy evidence used in manual assertion
+biological system reconstruction evidence based on inference from background scientific knowledge used in manual assertion
+biological system reconstruction evidence based on inference from background scientific knowledge
+biological system reconstruction evidence based on homology evidence
+biological system reconstruction evidence based on paralogy evidence
+biological system reconstruction evidence by experimental evidence
+biological system reconstruction evidence by experimental evidence from mixed species
+biological system reconstruction evidence by experimental evidence from single species
+pairwise sequence alignment evidence
+multiple sequence alignment evidence
+multiple sequence alignment evidence used in manual assertion
+multiple sequence alignment evidence used in automatic assertion
+motif discovery evidence used in manual assertion
+motif discovery evidence used in automatic assertion
+pairwise sequence alignment evidence used in manual assertion
+pairwise sequence alignment evidence used in automatic assertion
+in - gel protein kinase assay evidence
+macroscopic current trace evidence
+current density evidence
+sustained current evidence
+use dependence of inactivation evidence
+current clamp recording evidence
+whole - cell voltage clamp recording evidence
+cell - attached single - channel recording evidence
+cell - detached inside - out single - channel recording evidence
+reconstituted bilayer single - channel patch recording evidence
+voltage clamp recording evidence
+electroencephalography recording evidence
+super - resolution microscopy evidence
+immunogold labelling evidence used in manual assertion
+flow cytometry evidence used in manual assertion
+enzyme - linked immunoabsorbent assay evidence used in manual assertion
+cell - detached outside - out single - channel recording evidence
+cut - open oocyte voltage clamp recording evidence
+macropatch voltage clamp recording evidence
+high throughput mass spectrometry evidence
+high throughput mass spectrometry evidence used in manual assertion
+confocal microscopy evidence
+wide - field microscopy evidence
+confocal microscopy evidence used in manual assertion
+wide - field microscopy evidence used in manual assertion
+immunogold labelling electron microscopy assay evidence
+immunogold labelling electron microscopy assay evidence used in manual assertion
+immunodetection assay evidence
+immunoperoxidase immunolocalization evidence
+immunoperoxidase immunolocalization evidence used in manual assertion
+immunoperoxidase immunolocalization electron microscopy evidence
+immunoperoxidase immunolocalization electron microscopy evidence used in manual assertion
+wide - field fluorescence microscopy evidence
+immunofluorescence wide - field microscopy evidence
+immunofluorescence confocal microscopy evidence
+immunofluorescence confocal microscopy evidence used in manual assertion
+protein mass spectrometry evidence
+cross - streak test evidence
+disk diffusion test evidence
+cell transfection experiment evidence
+tethered cell assay evidence
+tumble frequency assay evidence
+capillary assay evidence
+biological system reconstruction evidence based on homology evidence used in manual assertion
+inference from experimental data evidence
+inference from phenotype manipulation evidence
+inference by association of genotype from phenotype
+two - dimensional polyacrylamide gel electrophoresis evidence used in manual assertion
+alkaline phosphatase reporter gene assay evidence used in manual assertion
+beta - galactosidase reporter gene assay evidence used in manual assertion
+chloramphenicol acetyltransferase reporter gene assay evidence used in manual assertion
+chromatin immunoprecipitation - chip evidence used in automatic assertion
+chromatin immunoprecipitation -  exonuclease evidence used in automatic assertion
+chromatin immunoprecipitation - pcr evidence used in manual assertion
+chromatin immunoprecipitation - seq evidence used in automatic assertion
+comparative genomics motif search evidence used in manual assertion
+comparative genomics motif search evidence used in automatic assertion
+consensus search evidence used in manual assertion
+consensus search evidence used in automatic assertion
+copper - phenanthroline footprinting evidence used in manual assertion
+dna adenine methyltransferase identification evidence used in manual assertion
+dna adenine methyltransferase identification evidence used in automatic assertion
+dna affinity chromatography evidence used in manual assertion
+cdna to dna expression microarray evidence used in automatic assertion
+dnase footprinting evidence used in manual assertion
+fluorescence anisotropy evidence used in manual assertion
+ferric uptake regulator titration assay evidence used in manual assertion
+genomic systematic evolution of ligands by exponential amplification evidence used in manual assertion
+genomic systematic evolution of ligands by exponential amplification evidence used in automatic assertion
+green fluorescent protein reporter gene assay evidence used in manual assertion
+green fluorescent protein reporter gene assay evidence used in automatic assertion
+cell growth regulation assay evidence used in manual assertion
+cell growth regulation assay evidence used in automatic assertion
+glutathione s - transferase pull - down assay evidence used in manual assertion
+beta - glucuronidase reporter gene assay evidence used in manual assertion
+heteronuclear single quantum coherence spectroscopy evidence used in manual assertion
+hydroxyl - radical footprinting evidence used in manual assertion
+immunoprecipitation evidence used in manual assertion
+interferometric reflectance imaging sensor evidence used in manual assertion
+interferometric reflectance imaging sensor evidence used in automatic assertion
+isothermal titration calorimetry evidence used in manual assertion
+luciferase reporter gene assay evidence used in manual assertion
+machine learning prediction of motif instance evidence used in manual assertion
+machine learning prediction of motif instance evidence used in automatic assertion
+matrix - assisted laser desorption / ionization time - of - flight mass spectrometry evidence used in automatic assertion
+methidiumpropyl - ethylenediaminetetraacetic acid iron  ( ii )  footprinting evidence used in manual assertion
+northern assay evidence used in manual assertion
+phylogenetic footprinting evidence used in manual assertion
+phylogenetic footprinting evidence used in automatic assertion
+methylation interference footprinting evidence used in manual assertion
+primer extension assay evidence used in manual assertion
+position - specific scoring matrix motif search evidence used in manual assertion
+position - specific scoring matrix motif search evidence used in automatic assertion
+quantitative polymerase chain reaction evidence used in manual assertion
+rapid amplification of cdna ends polymerase chain reaction evidence used in manual assertion
+regular expression motif search evidence used in manual assertion
+regular expression motif search evidence used in automatic assertion
+s1 nuclease protection assay evidence used in manual assertion
+site - directed mutagenesis phenotypic evidence used in manual assertion
+survival rate analysis evidence used in manual assertion
+ultraviolet light footprinting evidence used in manual assertion
+x - ray crystallography evidence used in manual assertion
+x - ray crystallography evidence used in automatic assertion
+xyle reporter gene assay evidence used in manual assertion
+ad - hoc qualitative phenotype observation evidence
+ad - hoc qualitative phenotype observation evidence used in manual assertion
+ad - hoc quantitative phenotype observation evidence
+ad - hoc quantitative phenotype observation evidence used in manual assertion
+dilution assay evidence
+enzymatic activity assay evidence used in manual assertion
+cell transfection experiment evidence used in manual assertion
+motility assay evidence
+immunofluorescence evidence used in manual assertion
+yeast 2 - hybrid evidence used in manual assertion
+cya fusion reporter assay evidence
+cya fusion reporter assay evidence used in manual assertion
+electron microscopy evidence used in manual assertion
+super - resolution microscopy evidence used in manual assertion
+fractionation evidence used in manual assertion
+electrophysiology assay evidence used in manual assertion
+chromatin immunoprecipitation - chip evidence used in manual assertion
+chromatin immunoprecipitation -  exonuclease evidence used in manual assertion
+chromatin immunoprecipitation - seq evidence used in manual assertion
+mrna interactome capture evidence
+mrna interactome capture evidence used in manual assertion
+patch - clamp recording evidence
+patch - clamp recording evidence used in manual assertion
+whole - cell patch - clamp recording evidence
+whole - cell patch - clamp recording evidence used in manual assertion
+author statement from published clinical study
+author statement from published clinical study used in manual assertion
+inference based on individual clinical experience
+inference based on individual clinical experience used in manual assertion
+biofilm formation assay evidence
+biofilm formation assay evidence used in manual assertion
+microtiter plate biofilm assay evidence
+microtiter plate biofilm assay evidence used in manual assertion
+air - liquid interface assay evidence
+air - liquid interface assay evidence used in manual assertion
+colony biofilm assay evidence
+colony biofilm assay evidence used in manual assertion
+kadouri drip - fed biofilm assay evidence
+kadouri drip - fed biofilm assay evidence used in manual assertion
+co - immunoprecipitation evidence used in manual assertion
+immunolocalization evidence used in manual assertion
+optogenetic evidence
+optogenetic evidence used in manual assertion
+fluorescent sensor evidence
+fluorescent sensor evidence used in manual assertion
+genetically encoded fluorescent sensor evidence
+genetically encoded fluorescent sensor evidence used in manual assertion
+genetically encoded fluorescent electrophysiology assay evidence
+genetically encoded fluorescent electrophysiology assay evidence used in manual assertion
+genetically encoded fluorescent ion concentration sensor assay evidence
+genetically encoded fluorescent ion concentration sensor assay evidence used in manual assertion
+cell fractionation evidence used in manual assertion
+extracellular recording evidence
+extracellular recording evidence used in manual assertion
+single - unit extracellular recording evidence
+single - unit extracellular recording evidence used in manual assertion
+field potential recording evidence
+field potential recording evidence used in manual assertion
+genetic transformation evidence used in manual assertion
+anti - sense experiment evidence used in manual assertion
+morpholino experiment evidence used in manual assertion
+rnai evidence used in manual assertion
+pharmacological assay evidence
+pharmacological assay evidence used in manual assertion
+high throughput evidence
+high throughput evidence used in manual assertion
+high throughput evidence used in automatic assertion
+high throughput cell biology evidence
+high throughput cell biology evidence used in manual assertion
+high throughput cell biology evidence used in automatic assertion
+immunofluorescence wide - field microscopy evidence used in manual assertion
+wide - field fluorescence microscopy evidence used in manual assertion
+over expression analysis evidence used in manual assertion
+cell - free assay evidence used in manual assertion
+fluorescence recovery after photobleaching evidence
+fluorescence recovery after photobleaching evidence used in manual assertion
+rna - sequencing evidence used in manual assertion
+rna - sequencing evidence used in automatic assertion
+immuno - labelling electron microscopy evidence
+immuno - labelling electron microscopy evidence used in manual assertion
+immunofluorescence super resolution microscopy evidence
+immunofluorescence super resolution microscopy evidence used in manual assertion
+co - purification evidence used in manual assertion
+affinity evidence used in manual assertion
+protein binding evidence used in manual assertion
+hybrid interaction evidence used in manual assertion
+immunological assay evidence used in manual assertion
+yeast one - hybrid evidence used in manual assertion
+split - ubiquitin assay evidence used in manual assertion
+far - western blotting evidence used in manual assertion
+affinity chromatography evidence used in manual assertion
+nucleic acid binding evidence used in manual assertion
+ribohomopolymer binding assay evidence used in manual assertion
+protein:ion binding evidence used in manual assertion
+southwestern blot evidence used in manual assertion
+northwestern blot evidence used in manual assertion
+systematic evolution of ligands by exponential amplification evidence used in manual assertion
+bacterial one - hybrid evidence used in manual assertion
+protein - binding microarray evidence used in manual assertion
+functional complementation evidence used in manual assertion
+transgenic rescue experiment evidence used in manual assertion
+transient rescue experiment evidence used in manual assertion
+suppressor / enhancer interaction phenotypic evidence used in manual assertion
+double mutant phenotypic evidence used in manual assertion
+epistatic interaction phenotypic evidence used in manual assertion
+functional complementation in heterologous system evidence used in manual assertion
+temperature - sensitive mutant phenotypic evidence
+temperature - sensitive mutant phenotypic evidence used in manual assertion
+recessive mutant phenotype evidence
+recessive mutant phenotype evidence used in manual assertion
+quantum mechanics / molecular mechanics simulation evidence
+quantum mechanics / molecular mechanics simulation evidence used in automatic assertion
+quantum mechanics / molecular mechanics simulation evidence used in manual assertion
+molecular mechanics simulation evidence
+molecular mechanics simulation evidence used in automatic assertion
+molecular mechanics simulation evidence used in manual assertion
+quantum mechanics simulation evidence
+quantum mechanics simulation evidence used in automatic assertion
+quantum mechanics simulation evidence used in manual assertion
+density functional theory simulation evidence
+density functional theory simulation evidence used in manual assertion
+density functional theory simulation evidence used in automatic assertion
+documented statement evidence
+medical practitioner statement evidence
+self - reported individual's statement evidence
+self - reported patient statement evidence
+documented statement evidence used in manual assertion
+documented statement evidence used in automatic assertion
+self - reported individual's statement evidence used in manual assertion
+self - reported individual's statement evidence used in automatic assertion
+self - reported patient statement evidence used in manual assertion
+self - reported patient statement evidence used in automatic assertion
+medical practitioner statement evidence used in manual assertion
+medical practitioner statement evidence used in automatic assertion
+nuclear magnetic resonance spectroscopy evidence
+nuclear magnetic resonance spectroscopy evidence used in automatic assertion
+nuclear magnetic resonance spectroscopy evidence used in manual assertion
+magnetic resonance imaging evidence
+magnetic resonance imaging evidence used in automatic assertion
+magnetic resonance imaging evidence used in manual assertion
+quantitative western immunoblotting evidence
+quantitative western immunoblotting evidence used in manual evidence
+quantitative western immunoblotting evidence used in automatic assertion
+high throughput mutant phenotypic evidence
+high throughput mutant phenotypic evidence used in manual assertion
+high throughput genetic interaction phenotypic evidence
+high throughput genetic interaction phenotypic evidence used in manual assertion
+high throughput direct assay evidence
+high throughput direct assay evidence used in manual assertion
+high throughput expression pattern evidence
+high throughput expression pattern evidence used in manual assertion
+radioligand binding assay evidence
+radioligand binding assay evidence used in manual assertion
+combinatorial experimental and author inference evidence
+combinatorial experimental and curator inference evidence
+combinatorial experimental and author inference evidence used in manual assertion
+combinatorial experimental and curator inference evidence used in manual assertion
+voltammetry evidence
+voltammetry evidence used in manual assertion
+photoconversion evidence
+photoconversion evidence used in manual assertion
+agglutination test evidence
+agglutination test evidence used in manual assertion
+slide agglutination test evidence
+slide agglutination test evidence used in manual assertion
+direct coombs test evidence
+direct coombs test evidence used in manual assertion
+indirect coombs test evidence
+indirect coombs test evidence used in manual assertion
+direct hemagglutination assay evidence
+direct hemagglutination assay evidence used in manual assertion
+viral hemagglutination inhibition assay evidence
+viral hemagglutination inhibition assay evidence used in manual assertion
+compement fixation assay evidence
+compement fixation assay evidence used in manual assertion
+neutralization test assay evidence
+neutralization test assay evidence used in manual assertion
+copper transport assay evidence
+copper transport assay evidence used in manual assertion
+5 - cyano - 2 , 3 - ditolyl tetrazolium chloride staining evidence
+5 - cyano - 2 , 3 - ditolyl tetrazolium chloride staining evidence used in manual assertion
+plaque assay evidence
+plaque assay evidence used in manual assertion
+epifluorescence microscopy evidence
+epifluorescence microscopy evidence used in manual assertion
+transmission electron microscopy evidence
+transmission electron microscopy evidence used in manual assertion
+scanning electron microscopy evidence
+scanning electron microscopy evidence used in manual assertion
+time - lapsed microscopy evidence
+time - lapsed microscopy evidence used in manual assertion
+phase contrast microscopy evidence
+phase contrast microscopy evidence used in manual assertion
+transmitted light brightfied mircoscopy evidence
+transmitted light brightfied mircoscopy evidence used in manual assertion
+koehler illumination microscopy evidence
+koehler illumination microscopy evidence used in manual assertion
+differential interference contrast microscopy evidence
+differential interference contrast microscopy evidence used in manual assertion
+extended field laser confocal microscopy evidence
+extended field laser confocal microscopy evidence used in manual assertion
+confocal laser scanning microscopy evidence
+confocal laser scanning microscopy evidence used in manual assertion
+light scattering assay evidence
+light scattering assay evidence used in manual assertion
+dynamic light scattering assay evidence
+dynamic light scattering assay evidence used in manual assertion
+static light scattering assay evidence
+static light scattering assay evidence used in manual assertion
+colony papillation assay phenotypic evidence
+colony papillation assay phenotypic evidence used in manual assertion
+crystal violet staining evidence
+crystal violet staining evidence used in manual assertion
+flow cell biofilm assay evidence
+flow cell biofilm assay evidence used in manual assertion
+bacterial 2 - hybrid assay evidence
+bacterial 2 - hybrid assay evidence used in manual assertion
+phenomic profiling assay evidence
+phenomic profiling assay evidence used in manual assertion
+colony morphology phenotypic evidence
+colony morphology phenotypic evidence used in manual assertion
+colony color phenotypic evidence
+colony color phenotypic evidence used in manual assertion
+colony size phenotypic evidence
+colony size phenotypic evidence used in manual assertion
+zone of inhibition evidence
+zone of inhibition evidence used in manual assertion
+etest evidence
+etest evidence used in manual assertion
+ribosome profiling evidence
+ribosome profiling evidence used in manual assertion
+loss - of - function mutant phenotype evidence used in manual assertion
+structural similarity evidence used in manual assertion
+gain - of - function mutant phenotypic evidence used in manual assertion
+voucher specimen phenotypic analysis evidence used in manual assertion
+positional similarity evidence used in manual assertion
+quantitative trait analysis evidence used in manual assertion
+compositional similarity evidence used in manual assertion
+developmental similarity evidence used in manual assertion
+morphological similarity evidence used in manual assertion
+gene expression similarity evidence used in manual assertion
+methylation - specific polymerase chain reaction evidence used in manual assertion
+southern hybridization evidence used in manual assertion
+intermethylated site amplification evidence used in manual assertion
+epitope - tagged protein immunolocalization evidence used in manual assertion
+co - fractionation evidence used in manual assertion
+green fluorescent protein fusion protein localization evidence used in manual assertion
+yellow fluorescent protein fusion protein localization evidence used in manual assertion
+beta - glucuronidase fusion protein localization evidence used in manual assertion
+beta - galactosidase fusion protein localization evidence used in manual assertion
+thin layer chromatography evidence used in manual assertion
+in vitro recombinant protein transcription reconstitution assay evidence used in manual assertion
+protein separation followed by direct sequencing evidence used in manual assertion
+protein separation followed by fragment identification evidence used in manual assertion
+heterologous system uptake evidence used in manual assertion
+two - electrode voltage clamp recording evidence used in manual assertion
+biochemical trait analysis evidence used in manual assertion
+mutant physiological response evidence used in manual assertion
+mutant visible phenotype evidence used in manual assertion
+in vivo assay evidence used in manual assertion
+animal model system study evidence used in manual assertion
+clinical study evidence used in manual assertion
+in vitro assay evidence used in manual assertion
+enzyme inhibition evidence used in manual assertion
+illumina sequencing evidence used in manual assertion
+454 pyrosequencing evidence used in manual assertion
+solid sequencing evidence used in manual assertion
+chain termination sequencing evidence used in manual assertion
+chromatin immunoprecipitation - qpcr evidence used in manual assertion
+4c evidence used in manual assertion
+5c evidence used in manual assertion
+3c - qpcr evidence used in manual assertion
+hi - c evidence used in manual assertion
+3c - seq evidence used in manual assertion
+environmental perturbation phenotypic evidence used in manual assertion
+tissue ablation phenotypic evidence used in manual assertion
+tissue grafting phenotypic evidence used in manual assertion
+cytochalasin experiment evidence used in manual assertion
+green fluorescent protein immunolocalization evidence used in manual assertion
+beta - galactosidase protein immunolocalization evidence used in manual assertion
+cap analysis of gene expression evidence used in manual assertion
+nano - cap analysis of gene expression evidence used in manual assertion
+particle size and count assay evidence used in manual assertion
+competitive growth assay evidence used in manual assertion
+pulsed - field gel electrophoresis evidence used in manual assertion
+two - dimensional agarose gel electrophoresis evidence used in manual assertion
+plasmid maintenance assay evidence used in manual assertion
+specific protein inhibition by antibody evidence used in manual assertion
+single exon transcript confirmation via alignment evidence used in manual assertion
+phylogenetic distribution evidence used in manual assertion
+differential geneset expression evidence from microarray experiment  ( gsea ,  fisher - exact )  used in manual assertion
+differential geneset expression evidence from rna - seq experiment  ( gsea ,  fisher - exact )  used in manual assertion
+biological target - disease association via drug evidence used in manual assertion
+cell staining evidence used in manual assertion
+visual sequence inspection evidence used in manual assertion
+atp bioluminescence assay evidence used in manual assertion
+missense mutation pohenotypic evidence used in manual assertion
+nonsense mutation phenotypic evidence used in manual assertion
+silent mutation evidence used in manual assertion
+insertion mutation phenotypic evidence used in manual assertion
+duplication mutation evidence used in manual assertion
+frameshift mutation phenotypic evidence used in manual assertion
+repeat expansion mutation phenotypic evidence used in manual assertion
+splice site mutation phenotypic evidence used in manual assertion
+translocation mutation phenotypic evidence used in manual assertion
+in - gel protein kinase assay evidence used in manual assertion
+macroscopic current trace evidence used in manual assertion
+current density evidence used in manual assertion
+sustained current evidence used in manual assertion
+use dependence of inactivation evidence used in manual assertion
+current clamp recording evidence used in manual assertion
+whole - cell voltage clamp recording evidence used in manual assertion
+cell - attached single - channel recording evidence used in manual assertion
+cell - detached inside - out single - channel recording evidence used in manual assertion
+reconstituted bilayer single - channel patch recording evidence used in manual assertion
+electroencephalography recording evidence used in manual assertion
+cell - detached outside - out single - channel recording evidence used in manual assertion
+cut - open oocyte voltage clamp recording evidence used in manual assertion
+macropatch voltage clamp recording evidence used in manual assertion
+protein mass spectrometry evidence used in manual assertion
+cross - streak test evidence used in manual assertion
+tethered cell assay evidence used in manual assertion
+tumble frequency assay evidence used in manual assertion
+capillary assay evidence used in manual assertion
+inference from experimental data evidence used in manual assertion
+inference from phenotype manipulation evidence used in manual assertion
+inference by association of genotype from phenotype used in manual assertion
+motility assay evidence used in manual assertion
+loss - of - function mutant phenotype evidence used in automatic assertion
+structural similarity evidence used in automatic assertion
+gain - of - function mutant phenotypic evidence used in automatic assertion
+voucher specimen phenotypic analysis evidence used in automatic assertion
+positional similarity evidence used in automatic assertion
+quantitative trait analysis evidence used in automatic assertion
+compositional similarity evidence used in automatic assertion
+developmental similarity evidence used in automatic assertion
+morphological similarity evidence used in automatic assertion
+gene expression similarity evidence used in automatic assertion
+methylation - specific polymerase chain reaction evidence used in automatic assertion
+southern hybridization evidence used in automatic assertion
+intermethylated site amplification evidence used in automatic assertion
+epitope - tagged protein immunolocalization evidence used in automatic assertion
+co - fractionation evidence used in automatic assertion
+green fluorescent protein fusion protein localization evidence used in automatic assertion
+yellow fluorescent protein fusion protein localization evidence used in automatic assertion
+beta - glucuronidase fusion protein localization evidence used in automatic assertion
+beta - galactosidase fusion protein localization evidence used in automatic assertion
+thin layer chromatography evidence used in automatic assertion
+in vitro recombinant protein transcription reconstitution assay evidence used in automatic assertion
+protein separation followed by direct sequencing evidence used in automatic assertion
+protein separation followed by fragment identification evidence used in automatic assertion
+heterologous system uptake evidence used in automatic assertion
+two - electrode voltage clamp recording evidence used in automatic assertion
+biochemical trait analysis evidence used in automatic assertion
+mutant physiological response evidence used in automatic assertion
+mutant visible phenotype evidence used in automatic assertion
+in vivo assay evidence used in automatic assertion
+animal model system study evidence used in automatic assertion
+clinical study evidence used in automatic assertion
+in vitro assay evidence used in automatic assertion
+enzyme inhibition evidence used in automatic assertion
+illumina sequencing evidence used in automatic assertion
+454 pyrosequencing evidence used in automatic assertion
+solid sequencing evidence used in automatic assertion
+chain termination sequencing evidence used in automatic assertion
+chromatin immunoprecipitation - qpcr evidence used in automatic assertion
+4c evidence used in automatic assertion
+5c evidence used in automatic assertion
+3c - qpcr evidence used in automatic assertion
+hi - c evidence used in automatic assertion
+3c - seq evidence used in automatic assertion
+environmental perturbation phenotypic evidence used in automatic assertion
+tissue ablation phenotypic evidence used in automatic assertion
+tissue grafting phenotypic evidence used in automatic assertion
+cytochalasin experiment evidence used in automatic assertion
+green fluorescent protein immunolocalization evidence used in automatic assertion
+beta - galactosidase protein immunolocalization evidence used in automatic assertion
+cap analysis of gene expression evidence used in automatic assertion
+nano - cap analysis of gene expression evidence used in automatic assertion
+particle size and count assay evidence used in automatic assertion
+competitive growth assay evidence used in automatic assertion
+pulsed - field gel electrophoresis evidence used in automatic assertion
+two - dimensional agarose gel electrophoresis evidence used in automatic assertion
+plasmid maintenance assay evidence used in automatic assertion
+specific protein inhibition by antibody evidence used in automatic assertion
+single exon transcript confirmation via alignment evidence used in automatic assertion
+phylogenetic distribution evidence used in automatic assertion
+differential geneset expression evidence from microarray experiment  ( gsea ,  fisher - exact )  used in automatic assertion
+differential geneset expression evidence from rna - seq experiment  ( gsea ,  fisher - exact )  used in automatic assertion
+biological target - disease association via drug evidence used in automatic assertion
+cell staining evidence used in automatic assertion
+visual sequence inspection evidence used in automatic assertion
+atp bioluminescence assay evidence used in automatic assertion
+missense mutation phenotypic evidence used in automatic assertion
+nonsense mutation phenotypic evidence used in automatic assertion
+silent mutation evidence used in automatic assertion
+insertion mutation phenotypic evidence used in automatic assertion
+duplication mutation evidence used in automatic assertion
+frameshift mutation phenotypic evidence used in automatic assertion
+repeat expansion mutation phenotypic evidence used in automatic assertion
+splice site mutation phenotypic evidence used in automatic assertion
+translocation mutation phenotypic evidence used in automatic assertion
+in - gel protein kinase assay evidence used in automatic assertion
+macroscopic current trace evidence used in automatic assertion
+current density evidence used in automatic assertion
+sustained current evidence used in automatic assertion
+use dependence of inactivation evidence used in automatic assertion
+current clamp recording evidence used in automatic assertion
+whole - cell voltage clamp recording evidence used in automatic assertion
+cell - attached single - channel recording evidence used in automatic assertion
+cell - detached inside - out single - channel recording evidence used in automatic assertion
+reconstituted bilayer single - channel patch recording evidence used in automatic assertion
+electroencephalography recording evidence used in automatic assertion
+cell - detached outside - out single - channel recording evidence used in automatic assertion
+cut - open oocyte voltage clamp recording evidence used in automatic assertion
+macropatch voltage clamp recording evidence used in automatic assertion
+protein mass spectrometry evidence used in automatic assertion
+cross - streak test evidence used in automatic assertion
+tethered cell assay evidence used in automatic assertion
+tumble frequency assay evidence used in automatic assertion
+capillary assay evidence used in automatic assertion
+inference from experimental data evidence used in automatic assertion
+inference from phenotype manipulation evidence used in automatic assertion
+inference by association of genotype from phenotype used in automatic assertion
+motility assay evidence used in automatic assertion
+experimental evidence used in automatic assertion
+expression pattern evidence used in automatic assertion
+affymetrix genechip evidence used in automatic assertion
+crna to dna expression microarray evidence used in automatic assertion
+expression microarray evidence used in automatic assertion
+differential methylation hybridization evidence used in automatic assertion
+transcript expression evidence used in automatic assertion
+nimblegen array evidence used in automatic assertion
+array - based sequence capture evidence used in automatic assertion
+qualitative western immunoblotting evidence used in automatic assertion
+direct assay evidence used in automatic assertion
+protein expression evidence used in automatic assertion
+expression library screen evidence used in automatic assertion
+heterologous protein expression evidence used in automatic assertion
+spatial pattern of protein expression evidence used in automatic assertion
+dna to cdna expression microarray evidence used in automatic assertion
+differential hybridization evidence used in automatic assertion
+rna protection assay evidence used in automatic assertion
+nuclease protection assay evidence used in automatic assertion
+spatial pattern of transcript expression evidence used in automatic assertion
+subtractive hybridization evidence used in automatic assertion
+author statement used in automatic assertion
+author statement without traceable support used in automatic assertion
+author statement supported by traceable reference used in automatic assertion
+curator inference used in automatic assertion
+inference from background scientific knowledge used in automatic assertion
+no evidence data found used in automatic assertion
+mutant phenotype evidence used in automatic assertion
+genetic interaction evidence used in automatic assertion
+genomic context evidence used in automatic assertion
+biological aspect of ancestor evidence used in automatic assertion
+biological aspect of descendant evidence used in automatic assertion
+phylogenetic determination of loss of key residues evidence used in automatic assertion
+rapid divergence from ancestral sequence evidence used in automatic assertion
+physical interaction evidence used in automatic assertion
+gene neighbors evidence used in automatic assertion
+edman degradation evidence used in automatic assertion
+3d cell culture evidence used in automatic assertion
+51cr release assay evidence used in automatic assertion
+7 - aminoactinomycin staining evidence used in automatic assertion
+ [ 3h ]  - thymidine incorporation assay evidence used in automatic assertion
+ [ 3h ] arachidonic acid release assay evidence used in automatic assertion
+adhesion assay evidence used in automatic assertion
+adoptive cell transfer evidence used in automatic assertion
+alamarblue assay evidence used in automatic assertion
+allograft transplantation phenotypic evidence used in automatic assertion
+anion - exchange chromatography evidence used in automatic assertion
+annexin - v staining evidence used in automatic assertion
+cognitive assay phenotypic evidence used in automatic assertion
+blocking monoclonal antibody evidence used in automatic assertion
+immunological assay evidence used in automatic assertion
+blocking peptide evidence used in automatic assertion
+blocking polyclonal antibody evidence used in automatic assertion
+blood test evidence used in automatic assertion
+boyden chamber assay evidence used in automatic assertion
+bromodeoxyuridine incorporation assay evidence used in automatic assertion
+nucleotide analog incorporation assay evidence used in automatic assertion
+caspase assay evidence used in automatic assertion
+cell counting evidence used in automatic assertion
+cell permeability assay evidence used in automatic assertion
+carboxyfluorescein diacetate succinimidyl ester staining evidence used in automatic assertion
+chemiluminescence - linked immunoassay evidence used in automatic assertion
+chimeric protein phenotypic evidence used in automatic assertion
+co - electrophoresis evidence used in automatic assertion
+co - localization evidence used in automatic assertion
+imaging assay evidence used in automatic assertion
+co - sedimentation assay evidence used in automatic assertion
+colony counting evidence used in automatic assertion
+comet assay evidence used in automatic assertion
+conditional knockin evidence used in automatic assertion
+knockin evidence used in automatic assertion
+conditional knockout evidence used in automatic assertion
+knockout evidence used in automatic assertion
+constitutively active mutant evidence used in automatic assertion
+cross - linking evidence used in automatic assertion
+protein binding evidence used in automatic assertion
+crystallography evidence used in automatic assertion
+cytochemistry evidence used in automatic assertion
+histochemistry evidence used in automatic assertion
+cytochrome c release assay evidence used in automatic assertion
+4' , 6 - diamidino - 2 - phenylindole staining evidence used in automatic assertion
+deletion mutation phenotypic evidence used in automatic assertion
+dna laddering assay evidence used in automatic assertion
+rna dot blot assay evidence used in automatic assertion
+dominant - negative mutant phenotypic evidence used in automatic assertion
+etag assay evidence used in automatic assertion
+affinity evidence used in automatic assertion
+filter binding assay evidence used in automatic assertion
+fluorescence in situ hybridization evidence used in automatic assertion
+fluorescence resonance energy transfer evidence used in automatic assertion
+gel - filtration evidence used in automatic assertion
+histology evidence used in automatic assertion
+immunocytochemistry evidence used in automatic assertion
+immunodepletion evidence used in automatic assertion
+immunohistochemistry evidence used in automatic assertion
+in vitro acetylation assay evidence used in automatic assertion
+in vitro cleavage assay evidence used in automatic assertion
+in vitro deacetylation assay evidence used in automatic assertion
+in vitro defarnesylation assay evidence used in automatic assertion
+in vitro demethylation assay evidence used in automatic assertion
+in vitro desumoylation assay evidence used in automatic assertion
+in vitro deubiquitination assay evidence used in automatic assertion
+in vitro farnesylation assay evidence used in automatic assertion
+in vitro methylation assay evidence used in automatic assertion
+in vitro palmitoylation assay evidence used in automatic assertion
+in vitro phosphatase assay evidence used in automatic assertion
+in vitro polyadp - ribosylation assay evidence used in automatic assertion
+in vitro protein kinase assay evidence used in automatic assertion
+in vitro sumoylation assay evidence used in automatic assertion
+in vitro transcription assay evidence used in automatic assertion
+in vitro translation assay evidence used in automatic assertion
+in vitro ubiquitination assay evidence used in automatic assertion
+in vivo acetylation assay evidence used in automatic assertion
+in vivo cleavage assay evidence used in automatic assertion
+in vivo deacetylation assay evidence used in automatic assertion
+in vivo defarnesylation assay evidence used in automatic assertion
+in vivo demethylation assay evidence used in automatic assertion
+in vivo desumoylation assay evidence used in automatic assertion
+in vivo deubiquitination assay evidence used in automatic assertion
+in vivo farnesylation assay evidence used in automatic assertion
+in vivo methylation assay evidence used in automatic assertion
+in vivo palmitoylation assay evidence used in automatic assertion
+in vivo phosphatase assay evidence used in automatic assertion
+in vivo protein kinase assay evidence used in automatic assertion
+in vivo sumoylation assay evidence used in automatic assertion
+in vivo transcription assay evidence used in automatic assertion
+in vivo translation assay evidence used in automatic assertion
+in vivo ubiquitination assay evidence used in automatic assertion
+induced mutation evidence used in automatic assertion
+genetic transformation evidence used in automatic assertion
+lipid binding assay evidence used in automatic assertion
+luminescence - based mammalian interactome mapping assay evidence used in automatic assertion
+macroscopy evidence used in automatic assertion
+mammalian 2 - hybrid assay evidence used in automatic assertion
+hybrid interaction evidence used in automatic assertion
+mass spectrometry evidence used in automatic assertion
+medical imaging evidence used in automatic assertion
+microscopy evidence used in automatic assertion
+motility wound healing assay evidence used in automatic assertion
+mts assay evidence used in automatic assertion
+mtt assay evidence used in automatic assertion
+multiplex bead - based immunoassay evidence used in automatic assertion
+natural variation mutant evidence used in automatic assertion
+nuclear magnetic resonance evidence used in automatic assertion
+nuclear fragmentation evidence used in automatic assertion
+phage display evidence used in automatic assertion
+phosphoamino acid analysis evidence used in automatic assertion
+peptide affinity enrichment evidence used in automatic assertion
+peptide array evidence used in automatic assertion
+physical examination evidence used in automatic assertion
+point mutation phenotypic evidence used in automatic assertion
+propidium iodide staining evidence used in automatic assertion
+fluorescence evidence used in automatic assertion
+protein dot blot assay evidence used in automatic assertion
+protein microarray evidence used in automatic assertion
+protein sequencing assay evidence used in automatic assertion
+quantitative mass spectrometry evidence used in automatic assertion
+radioisotope assay evidence used in automatic assertion
+radioimmunoassay evidence used in automatic assertion
+restriction fragment detection evidence used in automatic assertion
+spectrophotometry evidence used in automatic assertion
+syngeneic transplantation experiment evidence used in automatic assertion
+xenotransplantation phenotypic evidence used in automatic assertion
+wst - 1 assay evidence used in automatic assertion
+urine test evidence used in automatic assertion
+terminal deoxynucleotidyl transferase dutp nick end labeling assay evidence used in automatic assertion
+tryptic phosphopeptide mapping assay evidence used in automatic assertion
+transgenic organism evidence used in automatic assertion
+tissue microarray evidence used in automatic assertion
+tace activity assay evidence used in automatic assertion
+enzymatic activity assay evidence used in automatic assertion
+surface plasmon resonance evidence used in automatic assertion
+restriction landmark genomic scanning evidence used in automatic assertion
+resonant mirror biosensor evidence used in automatic assertion
+high - performance liquid chromatography evidence used in automatic assertion
+ectopic expression evidence used in automatic assertion
+electrophoretic mobility shift assay evidence used in automatic assertion
+reverse transcription polymerase chain reaction evidence used in automatic assertion
+in vivo polyadp - ribosylation assay evidence used in automatic assertion
+dna dot blot assay evidence used in automatic assertion
+random mutagenesis evidence used in automatic assertion
+biological system reconstruction evidence by experimental evidence from single species used in automatic assertion
+biological system reconstruction evidence by experimental evidence from mixed species used in automatic assertion
+biological system reconstruction evidence based on orthology evidence used in automatic assertion
+biological system reconstruction evidence based on homology evidence used in automatic assertion
+biological system reconstruction evidence based on paralogy evidence used in automatic assertion
+biological system reconstruction evidence based on inference from background scientific knowledge used in automatic assertion
+immunogold labelling evidence used in automatic assertion
+immunolocalization evidence used in automatic assertion
+flow cytometry evidence used in automatic assertion
+enzyme - linked immunoabsorbent assay evidence used in automatic assertion
+high throughput mass spectrometry evidence used in automatic assertion
+confocal microscopy evidence used in automatic assertion
+wide - field microscopy evidence used in automatic assertion
+immunogold labelling electron microscopy assay evidence used in automatic assertion
+electron microscopy evidence used in automatic assertion
+immunoperoxidase immunolocalization evidence used in automatic assertion
+immunoperoxidase immunolocalization electron microscopy evidence used in automatic assertion
+immunofluorescence confocal microscopy evidence used in automatic assertion
+immunofluorescence evidence used in automatic assertion
+two - dimensional polyacrylamide gel electrophoresis evidence used in automatic assertion
+alkaline phosphatase reporter gene assay evidence used in automatic assertion
+beta - galactosidase reporter gene assay evidence used in automatic assertion
+chloramphenicol acetyltransferase reporter gene assay evidence used in automatic assertion
+chromatin immunoprecipitation - pcr evidence used in automatic assertion
+immunoprecipitation evidence used in automatic assertion
+copper - phenanthroline footprinting evidence used in automatic assertion
+nucleic acid binding evidence used in automatic assertion
+dna affinity chromatography evidence used in automatic assertion
+dnase footprinting evidence used in automatic assertion
+fluorescence anisotropy evidence used in automatic assertion
+ferric uptake regulator titration assay evidence used in automatic assertion
+systematic evolution of ligands by exponential amplification evidence used in automatic assertion
+glutathione s - transferase pull - down assay evidence used in automatic assertion
+beta - glucuronidase reporter gene assay evidence used in automatic assertion
+heteronuclear single quantum coherence spectroscopy evidence used in automatic assertion
+hydroxyl - radical footprinting evidence used in automatic assertion
+isothermal titration calorimetry evidence used in automatic assertion
+luciferase reporter gene assay evidence used in automatic assertion
+methidiumpropyl - ethylenediaminetetraacetic acid iron  ( ii )  footprinting evidence used in automatic assertion
+northern blot evidence used in automatic assertion
+methylation interference footprinting evidence used in automatic assertion
+primer extension assay evidence used in automatic assertion
+quantitative polymerase chain reaction evidence used in automatic assertion
+rapid amplification of cdna ends polymerase chain reaction evidence used in automatic assertion
+s1 nuclease protection assay evidence used in automatic assertion
+site - directed mutagenesis phenotypic evidence used in automatic assertion
+survival rate analysis evidence used in automatic assertion
+ultraviolet light footprinting evidence used in automatic assertion
+xyle reporter gene assay evidence used in automatic assertion
+ad - hoc qualitative phenotype observation evidence used in automatic assertion
+ad - hoc quantitative phenotype observation evidence used in automatic assertion
+cell transfection experiment evidence used in automatic assertion
+yeast 2 - hybrid evidence used in automatic assertion
+cya fusion reporter assay evidence used in automatic assertion
+super - resolution microscopy evidence used in automatic assertion
+fractionation evidence used in automatic assertion
+electrophysiology assay evidence used in automatic assertion
+mrna interactome capture evidence used in automatic assertion
+patch - clamp recording evidence used in automatic assertion
+whole - cell patch - clamp recording evidence used in automatic assertion
+author statement from published clinical study used in automatic assertion
+inference based on individual clinical experience used in automatic assertion
+biofilm formation assay evidence used in automatic assertion
+microtiter plate biofilm assay evidence used in automatic assertion
+air - liquid interface assay evidence used in automatic assertion
+colony biofilm assay evidence used in automatic assertion
+kadouri drip - fed biofilm assay evidence used in automatic assertion
+co - immunoprecipitation evidence used in automatic assertion
+optogenetic evidence used in automatic assertion
+fluorescent sensor evidence used in automatic assertion
+genetically encoded fluorescent sensor evidence used in automatic assertion
+genetically encoded fluorescent electrophysiology assay evidence used in automatic assertion
+genetically encoded fluorescent ion concentration sensor assay evidence used in automatic assertion
+cell fractionation evidence used in automatic assertion
+extracellular recording evidence used in automatic assertion
+single - unit extracellular recording evidence used in automatic assertion
+field potential recording evidence used in automatic assertion
+anti - sense experiment evidence used in automatic assertion
+morpholino experiment evidence used in automatic assertion
+rnai evidence used in automatic assertion
+pharmacological assay evidence used in automatic assertion
+immunofluorescence wide - field microscopy evidence used in automatic assertion
+wide - field fluorescence microscopy evidence used in automatic assertion
+over expression analysis evidence used in automatic assertion
+cell - free assay evidence used in automatic assertion
+fluorescence recovery after photobleaching evidence used in automatic assertion
+immuno - labelling electron microscopy evidence used in automatic assertion
+immunofluorescence super resolution microscopy evidence used in automatic assertion
+co - purification evidence used in automatic assertion
+yeast one - hybrid evidence used in automatic assertion
+split - ubiquitin assay evidence used in automatic assertion
+far - western blotting evidence used in automatic assertion
+affinity chromatography evidence used in automatic assertion
+ribohomopolymer binding assay evidence used in automatic assertion
+protein:ion binding evidence used in automatic assertion
+southwestern blot evidence used in automatic assertion
+northwestern blot evidence used in automatic assertion
+bacterial one - hybrid evidence used in automatic assertion
+protein - binding microarray evidence used in automatic assertion
+functional complementation evidence used in automatic assertion
+transgenic rescue experiment evidence used in automatic assertion
+transient rescue experiment evidence used in automatic assertion
+suppressor / enhancer interaction phenotypic evidence used in automatic assertion
+double mutant phenotypic evidence used in automatic assertion
+epistatic interaction phenotypic evidence used in automatic assertion
+functional complementation in heterologous system evidence used in automatic assertion
+temperature - sensitive mutant phenotypic evidence used in automatic assertion
+recessive mutant phenotype evidence used in automatic assertion
+high throughput mutant phenotypic evidence used in automatic assertion
+high throughput genetic interaction phenotypic evidence used in automatic assertion
+high throughput direct assay evidence used in automatic assertion
+high throughput expression pattern evidence used in automatic assertion
+radioligand binding assay evidence used in automatic assertion
+combinatorial experimental and author inference evidence used in automatic assertion
+combinatorial experimental and curator inference evidence used in automatic assertion
+voltammetry evidence used in automatic assertion
+photoconversion evidence used in automatic assertion
+agglutination test evidence used in automatic assertion
+slide agglutination test evidence used in automatic assertion
+direct coombs test evidence used in automatic assertion
+indirect coombs test evidence used in automatic assertion
+direct hemagglutination assay evidence used in automatic assertion
+viral hemagglutination inhibition assay evidence used in automatic assertion
+compement fixation assay evidence used in automatic assertion
+neutralization test assay evidence used in automatic assertion
+copper transport assay evidence used in automatic assertion
+5 - cyano - 2 , 3 - ditolyl tetrazolium chloride staining evidence used in automatic assertion
+plaque assay evidence used in automatic assertion
+epifluorescence microscopy evidence used in automatic assertion
+transmission electron microscopy evidence used in automatic assertion
+scanning electron microscopy evidence used in automatic assertion
+time - lapsed microscopy evidence used in automatic assertion
+phase contrast microscopy evidence used in automatic assertion
+transmitted light brightfied mircoscopy evidence used in automatic assertion
+koehler illumination microscopy evidence used in automatic assertion
+differential interference contrast microscopy evidence used in automatic assertion
+extended field laser confocal microscopy evidence used in automatic assertion
+confocal laser scanning microscopy evidence used in automatic assertion
+light scattering assay evidence used in automatic assertion
+dynamic light scattering assay evidence used in automatic assertion
+static light scattering assay evidence used in automatic assertion
+colony papillation assay phenotypic evidence used in automatic assertion
+crystal violet staining evidence used in automatic assertion
+flow cell biofilm assay evidence used in automatic assertion
+bacterial 2 - hybrid assay evidence used in automatic assertion
+phenomic profiling assay evidence used in automatic assertion
+colony morphology phenotypic evidence used in automatic assertion
+colony color phenotypic evidence used in automatic assertion
+colony size phenotypic evidence used in automatic assertion
+zone of inhibition evidence used in automatic assertion
+etest evidence used in automatic assertion
+ribosome profiling evidence used in automatic assertion
+computational inference used in manual assertion
+transcriptional activation assay evidence used in manual assertion
+transcriptional activation assay evidence used in automatic assertion
+experimental phenotypic evidence used in manual assertion
+experimental phenotypic evidence used in automatic assertion
+curator inference from database
+curator inference from encyclopedia
+curator inference from wikipedia
+curator inference from britannica
+curator inference from medlineplus encyclopedia
+curator inference from dictionary
+curator inference from oxford dictionary
+curator inference from merriam - webster dictionary
+curator inference from medlineplus dictionary
+curator inference from journal publication
+curator inference from book
+curator inference from authoritative source
+manually integrated combinatorial computational evidence
+manually integrated combinatorial computational evidence used in manual assertion
+manually integrated combinatorial computational evidence used in automatic assertion
+automatically integrated combinatorial computational evidence
+automatically integrated combinatorial computational evidence used in manual assertion
+automatically integrated combinatorial computational evidence used in automatic assertion
+combinatorial experimental evidence
+manually integrated combinatorial experimental evidence
+manually integrated combinatorial experimental evidence used in manual assertion
+manually integrated combinatorial experimental evidence used in automatic assertion
+automatically integrated combinatorial experimental evidence
+automatically integrated combinatorial experimental evidence used in manual assertion
+automatically integrated combinatorial experimental evidence used in automatic assertion
+combinatorial computational and experimental evidence
+manually integrated combinatorial computational and experimental evidence
+manually integrated combinatorial computational and experimental evidence used in manual assertion
+manually integrated combinatorial computational and experimental evidence used in automatic assertion
+automatically integrated combinatorial computational and experimental evidence
+automatically integrated combinatorial computational and experimental evidence used in manual assertion
+automatically integrated combinatorial computational and experimental evidence used in automatic assertion
+computational evidence used in manual assertion
+computational evidence used in automatic assertion
+computational evidence
+automatically integrated combinatorial evidence
+manually integrated combinatorial evidence
+manually integrated combinatorial evidence used in manual assertion
+manually integrated combinatorial evidence used in automatic assertion
+combinatorial computational evidence
+combinatorial computational evidence used in manual assertion
+combinatorial computational evidence used in automatic assertion
+chromatography evidence used in manual assertion
+chromatography evidence used in automatic assertion
+reporter gene assay evidence used in manual assertion
+protein separation evidence used in manual assertion
+substance quantification evidence used in manual assertion
+voltage clamp recording evidence used in manual assertion
+protein kinase assay evidence used in manual assertion
+gel electrophoresis evidence used in manual assertion
+sodium dodecyl sulfate polyacrylamide gel electrophoresis evidence used in manual assertion
+ex vivo assay evidence used in manual assertion
+cleavage assay evidence used in manual assertion
+deacetylation assay evidence used in manual assertion
+transcription assay evidence used in manual assertion
+phosphatase assay evidence used in manual assertion
+cell - based assay evidence used in manual assertion
+cell proliferation assay evidence used in manual assertion
+dna synthesis cell proliferation assay evidence used in manual assertion
+apoptotic assay evidence used in manual assertion
+cell growth assay evidence used in manual assertion
+disk diffusion test evidence used in manual assertion
+chemotaxis assay evidence used in manual assertion
+cytotoxicity assay evidence used in manual assertion
+cell viability assay evidence used in manual assertion
+methylation assay evidence used in manual assertion
+protein assay evidence used in manual assertion
+chromatin immunoprecipitation evidence used in manual assertion
+protein inhibition evidence used in manual assertion
+sumoylation assay evidence used in manual assertion
+transport assay evidence used in manual assertion
+defarnesylation assay evidence used in manual assertion
+deubiquitination assay evidence used in manual assertion
+palmitoylation assay evidence used in manual assertion
+acetylation assay evidence used in manual assertion
+demethylation assay evidence used in manual assertion
+polyadp - ribosylation assay evidence used in manual assertion
+staining evidence used in manual assertion
+translation assay evidence used in manual assertion
+ubiquitination assay evidence used in manual assertion
+immunodetection assay evidence used in manual assertion
+desumoylation assay evidence used in manual assertion
+farnesylation assay evidence used in manual assertion
+reconstitution assay evidence used in manual assertion
+in vitro transcription reconstitution assay evidence used in manual assertion
+localization evidence used in manual assertion
+protein localization evidence used in manual assertion
+fusion protein localization evidence used in manual assertion
+nucleic acid localization evidence used in manual assertion
+anatomical perturbation phenotypic evidence used in manual assertion
+cleavage arrested development evidence used in manual assertion
+spectrometry evidence used in manual assertion
+sequencing assay evidence used in manual assertion
+nucleotide sequencing assay evidence used in manual assertion
+high throughput nucleotide sequencing assay evidence used in manual assertion
+structure determination evidence used in manual assertion
+molecule detection assay evidence used in manual assertion
+dna detection assay evidence used in manual assertion
+protein detection assay evidence used in manual assertion
+rna detection assay evidence used in manual assertion
+small molecule detection assay evidence used in manual assertion
+chromosome conformation - based evidence used in manual assertion
+3c evidence used in manual assertion
+combinatorial computational and experimental evidence used in manual assertion
+combinatorial experimental evidence used in manual assertion
+biological system reconstruction evidence used in manual assertion
+biological system reconstruction evidence by experimental evidence used in manual assertion
+phenotypic similarity evidence used in manual assertion
+transcript splice pattern evidence used in manual assertion
+phylogenetic evidence used in manual assertion
+inferential evidence used in manual assertion
+curator inference from authoritative source used in manual assertion
+curator inference from encyclopedia used in manual assertion
+curator inference from wikipedia used in manual assertion
+curator inference from medlineplus encyclopedia used in manual assertion
+curator inference from britannica used in manual assertion
+curator inference from book used in manual assertion
+curator inference from journal publication used in manual assertion
+curator inference from database used in manual assertion
+curator inference from dictionary used in manual assertion
+curator inference from medlineplus dictionary used in manual assertion
+curator inference from oxford dictionary used in manual assertion
+curator inference from merriam - webster dictionary used in manual assertion
+reporter gene assay evidence used in automatic assertion
+voltage clamp recording evidence used in automatic assertion
+protein kinase assay evidence used in automatic assertion
+transcription assay evidence used in automatic assertion
+gel electrophoresis evidence used in automatic assertion
+sodium dodecyl sulfate polyacrylamide gel electrophoresis evidence used in automatic assertion
+deacetylation assay evidence used in automatic assertion
+phosphatase assay evidence used in automatic assertion
+cell - based assay evidence used in automatic assertion
+cell viability assay evidence used in automatic assertion
+cell proliferation assay evidence used in automatic assertion
+dna synthesis cell proliferation assay evidence used in automatic assertion
+apoptotic assay evidence used in automatic assertion
+cell growth assay evidence used in automatic assertion
+disk diffusion test evidence used in automatic assertion
+chemotaxis assay evidence used in automatic assertion
+cytotoxicity assay evidence used in automatic assertion
+cleavage assay evidence used in automatic assertion
+methylation assay evidence used in automatic assertion
+protein assay evidence used in automatic assertion
+protein inhibition evidence used in automatic assertion
+chromatin immunoprecipitation evidence used in automatic assertion
+protein separation evidence used in automatic assertion
+sumoylation assay evidence used in automatic assertion
+transport assay evidence used in automatic assertion
+defarnesylation assay evidence used in automatic assertion
+deubiquitination assay evidence used in automatic assertion
+palmitoylation assay evidence used in automatic assertion
+ex vivo assay evidence used in automatic assertion
+acetylation assay evidence used in automatic assertion
+demethylation assay evidence used in automatic assertion
+immunodetection assay evidence used in automatic assertion
+polyadp - ribosylation assay evidence used in automatic assertion
+staining evidence used in automatic assertion
+translation assay evidence used in automatic assertion
+farnesylation assay evidence used in automatic assertion
+ubiquitination assay evidence used in automatic assertion
+desumoylation assay evidence used in automatic assertion
+reconstitution assay evidence used in automatic assertion
+in vitro transcription reconstitution assay evidence used in automatic assertion
+substance quantification evidence used in automatic assertion
+localization evidence used in automatic assertion
+protein localization evidence used in automatic assertion
+fusion protein localization evidence used in automatic assertion
+nucleic acid localization evidence used in automatic assertion
+anatomical perturbation phenotypic evidence used in automatic assertion
+cleavage arrested development evidence used in automatic assertion
+sequencing assay evidence used in automatic assertion
+nucleotide sequencing assay evidence used in automatic assertion
+high throughput nucleotide sequencing assay evidence used in automatic assertion
+structure determination evidence used in automatic assertion
+molecule detection assay evidence used in automatic assertion
+dna detection assay evidence used in automatic assertion
+rna detection assay evidence used in automatic assertion
+protein detection assay evidence used in automatic assertion
+small molecule detection assay evidence used in automatic assertion
+spectrometry evidence used in automatic assertion
+chromosome conformation - based evidence used in automatic assertion
+3c evidence used in automatic assertion
+phenotypic similarity evidence used in automatic assertion
+transcript splice pattern evidence used in automatic assertion
+phylogenetic evidence used in automatic assertion
+biological system reconstruction evidence used in automatic assertion
+biological system reconstruction evidence by experimental evidence used in automatic assertion
+combinatorial computational and experimental evidence used in automatic assertion
+combinatorial experimental evidence used in automatic assertion
+inferential evidence used in automatic assertion
+curator inference from authoritative source used in automatic assertion
+curator inference from encyclopedia used in automatic assertion
+curator inference from wikipedia used in automatic assertion
+curator inference from britannica used in automatic assertion
+curator inference from medlineplus encyclopedia used in automatic assertion
+curator inference from book used in automatic assertion
+curator inference from dictionary used in automatic assertion
+curator inference from medlineplus dictionary used in automatic assertion
+curator inference from merriam - webster dictionary used in automatic assertion
+curator inference from oxford dictionary used in automatic assertion
+curator inference from journal publication used in automatic assertion
+radioisotope quantification assay evidence
+radioisotope quantification assay evidence used in automatic assertion
+radioisotope quantification assay evidence used in manual assertion
+fluorescence quantification assay evidence
+fluorescence quantification assay evidence used in automatic assertion
+fluorescence quantification assay evidence used in manual assertion
+uses
+support of intron positions by rna - sequencing alignment evidence
+full support of intron positions by rna - sequencing alignment evidence
+partial support of intron positions by rna - sequencing alignment evidence
+support of intron positions by rna - sequencing alignment evidence used in manual assertion
+support of intron positions by rna - sequencing alignment evidence used in automatic assertion
+full support of intron positions by rna - sequencing alignment evidence used in automatic assertion
+full support of intron positions by rna - sequencing alignment evidence used in manual assertion
+partial support of intron positions by rna - sequencing alignment evidence used in automatic assertion
+partial support of intron positions by rna - sequencing alignment evidence used in manual assertion
+mixed support of intron positions by rna - sequencing alignment evidence
+mixed support of intron positions by rna - sequencing alignment evidence used in automatic assertion
+mixed support of intron positions by rna - sequencing alignment evidence used in manual assertion
+continuant
+occurrent
+independent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+material entity
+atp
+peptide
+deoxyribonucleic acid
+molecular entity
+acrylamide
+atom
+nucleic acid
+ribonucleic acid
+macromolecule
+5 - bromo - 2' - deoxyuridine
+chromium - 51
+tritiated thymidine
+fluorescence microscopy
+light microscopy
+cell
+cultured cell
+b cell
+lymphocyte
+experimentally modified cell in vitro
+mononuclear cell
+inference of sequence features from visual inspection
+chromatin
+core promoter binding
+transcription ,  rna - templated
+action potential
+cell killing
+go:molecular_function
+catalytic activity
+rna - directed dna polymerase activity
+ion channel activity
+cellular_component
+chromosome
+dna methylation
+cellular response to dna damage stimulus
+biological_process
+cell population proliferation
+cellular process
+gene expression
+immunoglobulin complex
+b cell receptor complex
+protein domain specific binding
+actin filament polymerization
+hemopoiesis
+protein - containing complex
+macromolecule localization
+dna polymerase activity
+regulation of molecular function ,  epigenetic
+t cell receptor complex
+immunoglobulin complex ,  circulating
+dna polymerase complex
+sequence - specific dna binding
+regulation of dna methylation
+response to stimulus
+chromosome organization
+neuron part
+measurement unit label
+objective specification
+action specification
+datum label
+information carrier
+data item
+information content entity
+scalar measurement datum
+directive information entity
+graph
+algorithm
+curation status specification
+image
+data about an ontology part
+plan specification
+measurement datum
+material information bearer
+obsolescence reason specification
+figure
+diagram
+denotator type
+mass measurement datum
+time measurement datum
+line graph
+infection
+planned process
+biological feature identification objective
+reference substance role
+chromatography column
+xenotransplantation
+processed material
+chromatography device
+mass spectrometer
+allotransplantation
+positive reference substance role
+evaluant role
+assay
+culture medium
+reagent role
+material processing
+participant under investigation role
+transplantation
+specimen role
+sequence feature identification objective
+intervention design
+molecular feature identification objective
+filter paper
+cell co - culturing
+cdna library
+imaging assay
+microtiter plate
+chromatin immunoprecipitation
+radioactivity detection
+cellular feature identification objective
+enzymatic cleavage
+organization
+dye role
+artificially induced nucleic acid hybridization
+dna extraction
+organism feature identification objective
+protocol
+adding a material entity into a target
+analyte role
+protein - protein interaction detection assay
+eluate
+material to be added role
+histological sample preparation
+mass analyzer
+ion source
+ion detector
+metabolite profiling assay
+light emission function
+magnify function
+contain function
+heat function
+material separation function
+excitation function
+synthesizing function
+perturb function
+filter function
+mechanical function
+electricity supply function
+ionization function
+cool function
+energy supply function
+image acquisition function
+image creation device
+solid support function
+environment control function
+sort function
+pcr product
+nucleic acid template role
+cloning vector role
+polymerase chain reaction
+cloning insert role
+reverse transcriptase
+extract
+transcription profiling assay
+enzyme
+polyacrylamide gel
+adding material objective
+genotyping assay
+analyte measurement objective
+agarose gel
+assay objective
+analyte assay
+target of material addition role
+intra cellular electrophysiology recording assay
+measure function
+extracellular electrophysiology recording assay
+material transformation objective
+mass spectrometry assay
+study design execution
+affinity column
+gel filtration column
+reverse transcribed polymerase chain reaction
+scattered molecular aggregate
+chromatography consumable
+size exclusion column
+nmr spectroscopy assay
+dna sequencing assay
+hematology assay
+dna methylation profiling assay
+material separation objective
+differential expression analysis data transformation
+urine specimen
+material combination
+device setting
+specimen collection process
+brdu incorporation assay
+tritiated thymidine incorporation assay
+sample from organism
+portioning objective
+separation into different composition objective
+specimen collection objective
+creating a mixture of molecules in solution
+material combination objective
+immunoprecipitation
+survival assessment assay
+library preparation
+chip - seq assay
+paired - end library
+recombinant vector
+single fragment library
+cloning vector
+material sample role
+material sampling process
+material sample
+study design independent variable
+survival rate
+purification objective
+cross linking
+material maintenance objective
+presentation of stimulus
+amplified dna
+primary structure of dna macromolecule
+micro electrode
+measurement device
+high molecular weight dna extract
+material maintenance
+primary structure of rna molecule
+complementary nucleotide probe role
+northern blot assay
+pre - mortem specimen
+detection of specific nucleic acid polymers with complementary probes
+rna extract
+cell - cell killing assay
+in vivo cell killing assay
+cell proliferation assay
+southern blot assay
+real time polymerase chain reaction assay
+post mortem specimen
+in vitro cell killing assay
+x - ray crystallography assay
+promoter activity detection by reporter gene assay
+flow cytometry assay
+labeled rna extract
+surface plasmon resonance binding assay
+labeled specimen
+infectious agent
+calorimeter
+study intervention
+material separation device
+processed specimen
+in live cell assay
+in live organism assay
+container
+device
+sequence data
+cell - cell binding detection by flow cytometry assay
+in container assay
+growth condition intervention design
+pcr instrument
+electron microscope
+growth environment
+image creation
+nucleic acid extract
+binding constant determination assay
+light emission device
+perturbation device
+environmental control device
+dna extract
+electrophoresis system
+high performance liquid chromatography instrument
+confocal microscope
+patch clamp device
+nucleic acid sequencer
+gel electrophoresis system
+voltage clamp device
+surface plasmon resonance instrument
+protein sequencer
+x - ray source
+liquid chromatography instrument
+labeled nucleic acid extract
+binding constant
+3d structure determination of bound complex assay
+binding assay
+cell culture expansion
+gene knock out
+gene knock in
+genetically modified material
+transfection
+genetic transformation objective
+induced mutation
+3d structural organization datum
+half life datum  ( t 1 / 2 )
+dose response curve
+rna sequencing assay
+half maximal effective concentration  ( ec50 )
+binding datum
+half maximal inhibitory concentration  ( ic50 )
+in vivo design
+genotyping by high throughput sequencing design
+ex vivo design
+genetic population background information
+epigenetic modification identification objective
+transcription profiling by high throughput sequencing design
+genotyping by high throughput sequencing assay
+chip - chip assay
+chip - seq design
+dna methylation profiling by high throughput sequencing assay
+rna - seq assay
+dna methylation profiling by array design
+in vitro design
+transcription profiling by array design
+genotype information
+transcription profiling by rt - pcr design
+proteomic profiling by array assay
+transcription profiling identification objective
+post - transcriptional modification design
+transcription profiling by rt - pcr assay
+genetic alteration information
+cellular process design
+stimulus or stress design
+protein and dna interaction identification objective
+chip - chip design
+genetic characteristics information
+protein binding site identification design
+transcription profiling design
+proteomic profiling by array design
+genotyping design
+genetic modification design
+transcription profiling by array assay
+phage display binding assay
+specimen from organism
+phage display library panning
+fluorescence detection assay
+purification
+specimen with pre -  or post - mortem status
+equilibrium dissociation constant  ( kd )
+equilibrium association constant  ( ka )
+rate measurement datum
+equilibrium dissociation constant  ( kd )  approximated by ic50
+dna sequence data
+equilibrium dissociation constant  ( kd )  approximated by ec50
+half life of binding datum
+binding
+direct binding assay
+competitive inhibition of binding assay
+binding off rate measurement datum  ( koff )
+binding on rate measurement datum  ( kon )
+analytical chromatography
+electron microscopy imaging assay
+immuno staining assay
+purified material
+calorimetric binding assay
+antibody binding detection by fluorescence quenching
+split - ubiquitin assay
+far - western blot assay
+rna protection assay
+electrophoretic mobility shift assay
+gene knock - down assay
+nano - cap analysis of gene expression assay
+cap analysis of gene expression assay
+yeast 2 - hybrid assay
+yeast one - hybrid assay
+bacterial one - hybrid assay
+chromosome organization assay by fluorescence in - situ hybridization
+methylation - specific polymerase chain reaction assay
+amplification of intermethylated sites assay
+in - situ hybridization assay
+cytochalasin - induced inhibition of actin polymerization assay
+cellular structure feature identification objective
+immunoprecipitation assay
+immunoglobulin binding to epitope
+paired - end library preparation
+methylation - sensitive restriction enzyme sequencing assay
+assay array
+reagent
+cell freezing medium
+multiplex ligation - mediated amplification
+chromosome conformation identification objective
+carbon - copy chromosome conformation capture assay
+chromatin immunoprecipitation with exonuclease sequencing assay
+scalar value specification
+value specification
+molecular - labeled material
+chip assay
+competitive binding reference ligand role
+assay using chromatin immunoprecipitation
+cytometry assay
+fluorescence quenching binding assay
+microarray assay
+immunohistochemistry
+epigenetic modification assay
+peptide mass fingerprinting assay
+collection of specimens
+reporter gene assay
+physical store
+rapid amplification of cdna ends
+high performance liquid chromotography assay
+microscopy assay
+protein localization assay
+subcellular protein localization assay
+chip - qpcr assay
+dot blot assay
+atp bioluminescence assay
+electrophysiology assay
+patch clamp assay
+whole - cell patch clamp assay
+cell - attached patch clamp assay
+inside - out patch clamp assay
+outside - out patch clamp assay
+electroencephalography
+single - unit recording
+local field potential recording
+rna interactome capture
+nuclear ligation assay
+chromosome conformation capture assay
+hi - c assay
+measurand role
+suppression subtractive hybridization
+differential screening hybridization
+brain specimen
+molecular interaction identification design
+site - directed mutagenesis
+random mutagenesis
+reconstitution assay
+in vitro transcription reconstitution assay
+gene knockdown
+epstein barr virus transformed b cell
+organism
+specimen
+cultured cell population
+organ section
+data transformation
+differential expression analysis objective
+mass spectrometry analysis
+data transformation objective
+spectrum analysis objective
+pool of specimens
+chemical solution
+solvent role
+solute role
+comet assay
+genetically modified organism
+dissolved material entity
+extraction
+staining
+polymerization
+enzymatic ligation
+nucleic acid hybridization
+elution
+flow cell
+flow cytometer
+light source
+obscuration bar
+optical filter
+photodetector
+dna sequencer
+hybridization chamber
+hybridization station
+sonicator
+spectrophotometer
+thermal cycler
+cytometer
+gel tank
+power supply
+microarray
+dna microarray
+protein microarray
+droplet sorter
+microtome
+microscope
+study design
+clinical study design
+reference design
+adding substance to cell culture
+collecting specimen from organism
+administering substance in vivo
+material component separation
+assay detecting a molecular label
+histological assay
+maintaining cell culture
+substance detection assay
+artificially induced reverse transcription
+cell permeabilization
+establishing cell culture
+addition of molecular label
+genetic transformation
+3d structure determination assay
+preparative chromatography
+sequencing assay
+specific enzymatic cleavage
+gradient separation
+electrophoresis
+selection by survival
+dna cleavage ,  restriction analysis
+enzymatic amplification
+recombinant vector cloning
+rna extraction
+nucleic acid extraction
+phage display library
+transgenic organism
+epitope
+epitope binding by adaptive immune receptor
+infection process
+adaptive immune receptor
+experimental infection of cell culture
+antigen
+disposition to be bound by an adaptive immune receptor
+disposition to infect an organism
+material to be added
+target of material addition
+assay antigen role
+pathologic process
+chromium release assay
+fluorescence
+mass
+viability
+physical quality
+physical object quality
+electromagnetic  ( em )  radiation quality
+luminous flux
+optical quality
+alive
+dead
+radiation quality
+activity  ( of a radionuclide )
+radioactive
+organismal quality
+protein
+dna ligase
+nuclease s1
+molecular label role
+molecular label
+region
+blood
+organism substance
+material anatomical entity
+anatomical cluster
+tissue
+brain
+urine
+mass unit
+time unit
+concentration unit

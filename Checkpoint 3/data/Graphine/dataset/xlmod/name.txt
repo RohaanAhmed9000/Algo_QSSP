@@ -1,0 +1,1101 @@
+proteomics standards initiative cross - linking and derivatization controlled vocabulary
+cross - linking entity
+cross - linker related chemical modification
+label transfer reagent
+cross - linker
+homofunctional cross - linker
+heterofunctional cross - linker
+photoreactive cross - linker
+zero - length cross - linker
+cross - linking attribute
+deuterium labelled
+hydrolyzed
+amidated
+membrane permeable
+hydrophilic
+fluorescent
+cleavable
+chemically cleavable
+cleavable by ms2 labile bond
+enrichable
+iodinatable
+ammonium amidated
+tris amidated
+cleavable s - s bond
+periodate cleavable
+hydroxylamine cleavable
+reactive group attribute
+chemically reactive
+primary amine reactive
+sulfhydryl reactive
+carboxyl reactive
+aldehyde reactive
+hydroxyl reactive
+azide reactive
+photo cleavable
+cid cleavable
+13c labelled
+non - selective
+dtt cleavable
+ammonium cleavable
+isd cleavable
+thiol cleavable
+tcep cleavable
+mercaptoethanol cleavable
+mass defect labelled
+thioether reactive
+imidazole reactive
+thioesterized
+nucleic acid reactive
+amino acid derivative
+handle
+biotin
+no2 neutral loss reporter
+alkyne
+dnb
+azide
+chca
+generic neutral loss reporter
+amino acid
+l - leucine
+l - methionine
+base cleavable
+hydrazine reactive
+carbonyl reactive
+oxidized
+alkenized
+acid cleavable
+cid cleavable c - s bond
+l - isoleucine
+18o labelled
+l - phenylalanine
+iminobiotintrifluoroacetamide
+avidin reactive
+nucleobase
+purine base
+pyrimidine base
+adenine
+guanine
+cytosine
+thymine
+uracil
+nucleobase derivative
+nucleoside
+adenosine
+guanosine
+cytidine
+uridine
+5 - methyluridine
+nucleoside derivative
+rna - sh
+biotin - alkyne
+tetramethylrhodamine - alkyne
+lipid analogue
+sialic acid analogue
+alkenized cross - linker related chemical modification
+ammonium amidation cross - linker related chemical modification
+hydrolization cross - linker related chemical modification
+oxidation cross - linker related chemical modification
+thioesterization cross - linker related chemical modification
+formic acid cleavable
+reactive group
+nhs ester
+sulfo nhs ester
+diazirine
+n - hydroxyphthalimide
+carbodiimide
+maleimide
+nitrophenyl azide
+photoreactive
+pyridinyldisulfide
+hydrazide
+imidoester
+haloacetyl
+alkoxyamine
+aryl azide
+glyoxal
+aldehyde group
+acryl
+tetrafluorophenyl azide
+benzophenone
+pentafluorophenyl
+methanethiosulfonate
+4 - azido - 2 , 3 , 5 , 6 - tetrafluorobenzene
+thermoreactive
+isocyanate
+hydroxyphenyl azide
+phenyl azide
+iodoacetyl
+bromoacetyl
+hydroxybenzotriazole
+1 - hydroxy - 7 - azabenzotriazole
+thioimidate
+platinum ( ii )
+amine reactive group
+psoralen
+azido - methylcoumarin
+perfluoroaryl azide
+diazo group
+carboxyl
+hydroxymethyl phosphine
+vinyl sulfone
+carbonyl
+phenylglyoxal
+hydrazone
+s - acetyl
+aryl halide
+dimethylether
+photocleavable
+nitrobenzylester
+photoactivatable
+tetrafluorophenyl ester
+pentylamine
+chloroethyl
+imino
+acyl chloride
+sulfonyl chloride
+benzofurazan
+halobenzofurazan
+hydrazine
+tad
+boronic acid
+isothiocyanate
+chloroformate reactive group
+carabamate
+sulfonate
+anhydride
+carboxyl reactive group
+benzyl bromide reactive group
+sodium dithionite cleavable
+benzoyl bromide
+ortho - phthalaldehyde
+imac - enrichable
+phosphonic acid
+hydrolyzed bs3
+ammonium amidated bs3
+hydrolyzed dss
+ammonium amidated dss
+hydrolyzed dss - d4
+ammonium amidated dss - d4
+hydrolyzed dss - d12
+ammonium amidated dss - d12
+hydrolyzed bs3 - d4
+ammonium amidated bs3 - d4
+hydrolyzed bs2g
+ammonium amidated bs2g
+hydrolyzed dsg
+ammonium amidated dsg
+hydrolyzed dsg - d4
+ammonium amidated dsg - d4
+hydrolyzed bs2g - d4
+ammonium amidated bs2g - d4
+bdp - nhp - stump
+hydrolyzed dsp
+ammonium amidated dsp
+hydrolyzed egs
+ammonium amidated egs
+hydrolyzed bips
+ammonium amidated bips
+hydrolyzed cbdps
+ammonium amidated cbdps
+hydrolyzed dsa
+ammonium amidated dsa
+hydrolyzed dnbdps
+ammonium amidated dnbdps
+hydrolyzed teabs
+ammonium amidated teabs
+hydrolyzed dtssp - d8
+ammonium amidated dtssp - d8
+hydrolyzed dsp - d8
+ammonium amidated dsp - d8
+hydrolyzed sulfo - egs
+ammonium amidated sulfo - egs
+hydrolyzed egs - d12
+ammonium amidated egs - d12
+hydrolyzed sulfo - egs - d12
+ammonium amidated sulfo - egs - d12
+hydrolyzed dsa - 13c6
+ammonium amidated dsa - 13c6
+hydrolyzed cbdps - d8
+ammonium amidated cbdps - d8
+hydrolyzed cbdpss
+ammonium amidated cbdpss
+hydrolyzed cbdpss - d8
+ammonium amidated cbdpss - d8
+hydrolyzed bs3 - d12
+ammonium amidated bs3 - d12
+hydrolyzed dsg - d6
+ammonium amidated dsg - d6
+hydrolyzed bs2g - d6
+ammonium amidated bs2g - d6
+hydrolyzed sdh
+hydrolyzed sdh - d12
+hydrolyzed adh
+hydrolyzed adh - d8
+hydrolyzed gdh
+hydrolyzed gdh - d6
+hydrolyzed bccl1
+hydrolyzed bccl2
+hydrolyzed ircx
+hydrolyzed azide - dsg
+hydrolyzed jmv 3378
+hydrolyzed butugpg
+hydrolyzed buurbu
+hydrolyzed dest
+ammonium amidated dest
+thioesterized dest
+hydrolyzed bs ( peg ) 5
+ammonium amidated bs ( peg ) 5
+hydrolyzed bsocoes
+ammonium amidated bsocoes
+hydrolyzed dst
+ammonium amidated dst
+hydrolyzed sda
+oxidized sda
+alkenized sda
+hydrolyzed lc - sda
+oxidized lc - sda
+alkenized lc - sda
+hydrolyzed l - photo - leucine
+oxidized l - photo - leucine
+alkenized l - photo - leucine
+hydrolyzed l - photo - methionine
+oxidized l - photo - methionine
+alkenized l - photo - methionine
+hydrolyzed bmoe
+hydrolyzed bmps
+ammonium amidated bmps
+hydrolyzed pdh
+hydrolyzed pdh - d10
+hydrolyzed sudp
+hydrolyzed l - photo - isoleucine
+oxidized l - photo - isoleucine
+alkenized l - photo - isoleucine
+hydrolyzed sulfo - sbed
+hydrolyzed pir
+hydrolized pl
+8 - methoxypsoralen
+4' - hydroxymethyl - 4 , 5'8 - trimethylpsoralen
+5 - iodouracil
+4 - thiouracil
+6 - thioguanosine
+5 - bromouracil
+5 - iodocytosine
+8 - azidoadenosine
+2 - azidoadenosine
+8 - azidoguanosine
+5 - azidouridine
+bis -  [ 3 -  ( 2 - ketobutyraldehyde ) ether
+mechlorethamine
+4 -  [ bis -  ( 2 - chloroethyl ) amino ] benzenebutanoic acid
+sym - triazine trichloride
+heteroconjugate 20
+benzophenone - 4 - iodoacetamide
+azidophenacyl bromide
+benzophenone - phosphatidylcholine
+phenylazide - phosphatidylcholine
+n -  ( 4 - azidosalicylamidyl )  - 1 , 2 - dilauroyl - sn - glycero - 3 - phosphoethanolamine
+ac5 - 5 - siadaz
+ac4 - manndaz
+ac4 - mannac
+ac4 - glcndaz
+ac5 - methyl - siadaz
+sialylated lacnac - biotin
+psoralen - peg3 - biotin
+photoactivatable biotin
+tfpa - peg3 - biotin
+biotin - lc - asa
+sulfo - nhs - biotin
+sulfo - nhs - lc - biotin
+nhs - peg12 - biotin
+nhs - ss - peg4 - biotin
+nhs - biotin
+nhs - lc - biotin
+nhs - ss - biotin
+nhs - iminobiotin trifluoroacetamide
+pfp - biotin
+tfp - peg3 - biotin
+maleimide - peg11 - biotin
+biotin - bmcc
+iodoacetyl - peg2 - biotin
+iodoacetyl - lc - biotin
+pentylamine - biotin
+amine - peg2 - biotin
+amine - peg3 - biotin
+biocytine - hydrazide
+biotin - hydrazide
+biotin - lc - hydrazide
+biotin - peg4 - hydrazide
+photobiotin
+biotin - peg2 - alkyne
+biotin - peg2 - c4 - alkyne
+biotin - peg4 - alkyne
+2 - iminothiolane
+3 - azidopyridine - adenine dinucleotide
+l - photo - leucine
+l - photo - methionine
+l - photo - isoleucine
+pbpa
+pbpa - d11
+bs3
+dss
+dss - d4
+dss - d12
+bs3 - d4
+bs2g
+dsg
+dsg - d4
+bs2g - d4
+disulfide
+1 - ethyl - 3 -  ( 3 - dimethylaminopropyl ) carbodiimide hydrochloride
+bdp - nhp
+anb - nos
+bmps
+emcs
+gmbs
+spdp
+lc - spdp
+sulfo - lc - spdp
+mbs
+sulfo - mbs
+pdph
+sba
+sia
+smcc
+sulfo - smcc
+smpb
+smph
+sulfo - sanpah
+dsp
+dsp - d8
+dsseb
+dst
+dtssp
+egs
+sulfo - egs
+cdi
+dcc
+nhs
+sulfo - nhs
+bips
+formaldehyde
+glutardialdehyde
+dsa
+dnbdps
+teabs
+clip
+bdrg
+dtssp - d8
+egs - d12
+sulfo - egs - d12
+pcas
+pcas - d4
+dsa - 13c6
+cbdps - d8
+cbdpss
+cbdpss - d8
+sdh
+sdh - d12
+adh
+adh - d8
+gdh
+gdh - d6
+bs3 - d12
+dsg - d6
+bs2g - d6
+sata
+satp
+lc - smcc
+peas
+bisea
+3 , 6 , 9 , 12 - tetraoxatetradecane - 1 , 14 - diyl dimethanethiosulfonate
+3 , 6 , 9 - trioxaundecane - 1 , 11 - diyl dimethanethiosulfonate
+mts - 1 - mts
+mts - 2 - mts
+mts - 6 - nhs
+mts - 8 - o2 - mts
+mts - 11 - mts
+bsocoes
+dpdpb
+sulfo - dst
+sulfo - gmbs
+emch
+emch - tfa
+sulfo - emcs
+pmpi
+siab
+sulfo - siab
+sulfo - smpb
+mal - peg4 - scm
+abh
+apg
+apdp
+based
+nhs - asa
+sulfo - hsab
+sulfo - saed
+sulfo - sand
+sanpah
+sulfo - sadp
+sasd
+sulfo - sasd
+dttdps
+1 , 4 - diacetalbenzene
+dibmadps
+dibbsias
+bid
+bccl1
+bccl2
+sbc
+sbdc
+s - methyl 5 , 5' - thiodipentanoylhydroxysuccinimidemethylsulfate
+sudp
+sudpg
+ircx
+bamg
+azide - dsg
+1
+jmv 3378
+butugpg
+buurbu
+dps
+sbbt
+sbat
+sdad
+sulfo - sdad
+dsso
+dest
+cis - diamminedichloroplatinum  ( ii )
+dc4
+asba
+spb
+sulfo - nhs - lc - asa
+sulfo - sfad
+sda
+lc - sda
+sulfo - sda
+sulfo - lc - sda
+dma
+dmp
+dms
+dtbp
+sulfo - bsocoes
+bmh
+dfdnb
+smpt
+sdbp
+hsab
+asib
+sand
+sadp
+pnp - dtp
+saed
+sulfo - samca
+msa
+maleimide - peg2 - nhs
+maleimide - peg6 - nhs
+maleimide - peg8 - nhs
+maleimide - peg12 - nhs
+maleimide - peg24 - nhs
+11 - maleimidoundecanoic acid sulfo - n - succinimidyl ester
+dtme
+3 - n - maleimidobenzoic acid n - succinimidyl ester
+n - succinimidyl 3 -  ( bromoacetamido ) propionate
+mts - 3 - mts
+mts - 4 - mts
+mts - 5 - mts
+mts - 6 - mts
+6 - maleimidocaproic acid
+sfad
+lcabh
+nhs - lc - asa
+aedp - hcl
+amas
+bmb
+bmdb
+bmoe
+bmpa
+bmph
+bm ( peg ) 2
+bm ( peg ) 3
+bm ( peg ) 4
+c6 - sanh
+c6 - 4 - sfb
+sbap
+sfb
+shth
+sulfo - kmus
+thpp
+emca
+hbvs
+kmua
+kmuh
+mpbh
+sanh
+sand - pr
+sulfo - sapd
+sapd
+bs ( peg ) 5
+bs ( peg ) 9
+nhs - azide
+nhs - peg4 - azide
+nhs - peg12 - azide
+spdp - peg4 - nhs ester
+spdp - peg12 - nhs ester
+bpm
+tpal
+deb
+dmtmm
+pdh
+pdh - d10
+abas
+abas - 13c6
+cbs
+cbs - 13c6
+sda - 13c5
+dmdsso
+dmdsso - d10
+icatxl1
+icatxl2
+sstn
+scne
+azide - a - dsbso
+alkyne - a - dsbso
+iml 3
+suvp
+dhso
+pl
+peg - pl
+sulfo - pl
+bal1
+bal2
+bal2 - d6
+bs3 - 18o2
+pir - i
+pir - ii
+pir - iii
+pir
+pcpir
+peg5 - biotin - dimer
+azido - peg3 - nhs ester
+azido - peg5 - nhs ester
+azido - peg6 - nhs ester
+azido - peg8 - nhs ester
+azido - peg10 - nhs ester
+azido - peg16 - nhs ester
+azido - peg24 - nhs ester
+spdp - peg24 - nhs ester
+s - methyl 5 , 5' - thiodipentanoylhydroxysuccinimide
+sulfo - sbp
+cbss
+mc4
+pac4
+clixlink
+argo1
+argo2
+argo3
+kargo
+phox
+cbdps
+sulfo - sbed
+mts - atf - biotin
+mts - atf - lc - biotin
+tsat
+sbed
+tmea
+triceps
+nnp9
+tata
+tata - 13c6
+mrn
+mts - atf - biotin - lc
+dadps linker
+azo linker
+derivatization entity
+gcms derivatization reagent
+alkylation reagent
+silylation reagent
+acylation reagent
+fluorinated anhydride reagent
+fluoracylimidazole reagent
+halomethylsilyl reagent
+chiral derivatization reagent
+lcms derivatization reagent
+dialkylacetal
+diazoalkal
+tms reagent
+dms reagent
+tfa reagent
+boron trifluoride reagent
+n , n - dimethylformamidedialkyl acetal
+chloroformate reagent
+trialkyloxonium reagent
+arylation reagent
+chromophore
+fluorophore
+electrophore
+4 - nitrophenyl
+2 , 4 - dinitrophenyl
+3 , 5 - dinitrobenzyl
+4 - chlorobenzoate
+4 - nitrobenzoate
+toluoyl
+anisyl
+phenacyl
+4 - bromophenacyl
+2 - naphthacyl
+secondary amine reactive
+active hydrogen reactive
+amide reactive
+amino acid reactive
+nitrosamine reactive
+sulfonamide reactive
+carbohydrate reactive
+catecholamine reactive
+sulfide reactive
+phenol reactive
+ketone reactive
+biphosphonate drug reactive
+steroid reactive
+thiol reactive
+vitamin d metabolite reactive
+nucleoside reactive
+cholesterol reactive
+histamine reactive
+glycan reactive
+alpha - keto acid reactive
+citric acid reactive
+phophate reactive
+perfluorinated carboxylic acid reactive
+sialic acid reactive
+bile acid reactive
+dimethylformamide
+diazomethane
+pentafluorobenzyl bromide
+pentafluorobenzylhydroxylaminehydrochloride
+benzylbromide
+tetrabutylammoniumhydroxide
+boron trifluoride
+bis ( trimethylsilyl ) acetamide
+bis ( trimethylsilyl ) trifluoroacetamide
+n - methyl - trimethylsilyltrifluoroacetamide
+hexamethyldisilazane
+trimethylchlorosilane
+trimethylsilylimidazole
+trimethylsilyldiethylamine
+n - methyl - n - t - butyldimethylsilyltrifluoroacetamide
+trifluoroacetoic anhydride
+pentafluoropropionic anhydride
+heptafluorobutyric anhydride
+trifluoroacetylimidazole
+pentafluoropropanylimidazole
+heptafluorobutyrylimidazole
+n - methyl - bis ( trifluoroacetamide )
+pentafluorobenzoyl chloride
+pentafluoropropanol
+4 - carbethoxyhexafluorobutyrylchloride
+n - trifluoroacetyl - l - prolylchloride
+ ( s )  -  (  -  )  - n -  ( trifluoroacetyl )  - prolylchloride
+ (  -  )  - alpha - methoxy - alpha - trifluoromethylphenylacetic acid
+oximation reagent
+methoxylamine hydrochloride
+trimethyliodosilane
+deuterium labelled n - methyl - trimethylsilyltrifluoroacetamide
+deuterium labelled n - methyl - n - t - butyldimethylsilyltrifluoroacetamide
+deuterium labelled methyl chloroformate
+methyl chloroformate
+9 - fluorenylmethyl chloroformate
+trichloroethyl chloroformate
+pentafluorobenzyl chloroformate
+1 - chloroethyl chloroformate
+n - acetylimidazole
+1 , 3 - bis ( chloromethyl )  - 1 , 1 , 3 , 3 - tetramethyldisilazane
+dimethylchlorosilane
+n - trimethylsilylacetamide
+n -  ( trimethylsilyl ) diethylamine
+trimethylphenylammonium hydroxide
+n , n - dimethylformamidedimethyl acetal
+dimethyldichlorosilane
+n - t - butyldimethylsilylimidazole
+4 - trimethylsiloxy - 3 - penten - 2 - one
+bromotrimethylsilane
+triisopropylsilyl chloride
+triisopropylsilyl trifluoromethanesulfonate
+triethylsilyl trifluoromethanesulfonate
+chlorotriethylsilane
+chloro - dimethyl ( pentafluorophenyl ) silane
+n - methyl - n - trimethylsilyl - heptafluorobutyramide
+n - methyl - n - trimethylsilylacetamide
+hexamethyldisiloxane
+1 , 1 , 3 , 3 - tetramethyl - 1 , 3 - diphenyldisilazane
+n , n - dimethyltrimethylsilylamine
+n , n' - bis ( trimethylsilyl ) urea
+n , o - bis ( trimethylsilyl ) carbamate
+n , n - bis ( trimethylsilyl ) methylamine
+bis ( dimethylamino ) dimethylsilane
+trimethylsilyl methallylsulfinate
+triethylsilyl methallylsulfinate
+tert - butyldimethylsilyl methallylsulfinate
+methyltrifluoromethanesulfonate
+ethyl trifluoromethanesulfonate
+trichloroacetyl chloride
+2 - thenoyltrifluoroacetone
+2 , 2 , 6 , 6 - tetramethyl - 3 , 5 - heptanedione
+n - methyl - bis - heptafluorobutyramide
+n , n' - diisopropyl - o - methylisourea
+3 , 3 , 3 - trifluoro - 2 - methoxy - 2 - phenylpropanoic acid
+6 , 6 , 7 , 7 , 8 , 8 , 8 - heptafluoro - 2 , 2 - dimethyl - 3 , 5 - octanedione
+4 - bromophenacyl trifluoro - methanesulfonate
+2 , 3 - diaminotoluene
+2 , 6 - diamino - 4 - pyrimidinone
+benzoic acid
+tert - butyl methyl ether
+ethyl acetoacetate
+ ( 1s )  -  (  +  )  - menthyl chloroformate
+butylboronic acid
+1 -  ( pentafluoropropionyl )  imidazole
+hexafluoroacetylacetone
+2 , 3 , 4 , 5 , 6 - pentafluorobenzaldehyde
+pentafluorobenzenesulfonyl chloride
+1 , 1 , 1 - trifluoro - 2 , 4 - pentanedione
+1 , 1 , 1 - trifluoroacetone
+4 -  ( trifluoromethyl ) benzoyl chloride
+8 - quinolinesulfonyl chloride
+ ( 1r )  -  (  -  )  - menthyl chloroformate
+phenylboronic acid
+methylboronic acid
+2 , 3 , 4 , 5 , 6 - pentafluorobenzoic anhydride
+4 -  ( dimethylamino ) benzoyl chloride
+boron trifluoride butanol
+1 , 1 , 1 , 3 , 3 , 3 - hexafluoro - 2 - propanol
+2 , 2 , 3 , 3 , 3 - pentafluoro - 1 - propanol
+2 , 3 , 5 , 6 - tetrafluoro - 4 - ethanol ( trifluoromethyl ) benzyl bromide
+2 , 3 - dihydroxy - biphenyl
+o -  ( 2 , 3 , 4 , 5 , 6 - pentafluorobenzyl ) hydroxylamine hydrochloride
+pentafluoroiodoethane
+tetrabutylammoniumtetrabutylborate
+trimethylboroxine
+boron trifluoride propanol
+4 - bromobenzyl bromide
+n , n - dimethylformamidediethyl acetal
+n , n - dimethylformamidedibutyl acetal
+n , n - dimethylformamidediisopropyl acetal
+n , n - dimethylformamidedineopentyl acetal
+n , n - dimethylformamidedipropyl acetal
+n , n - dimethylformamidedi - tert - butyl acetal
+nonafluoro - 1 - iodobutane
+triethyloxonium tetrafluoroborate
+2 , 2 , 2 - trichloroethanol
+triethyloxonium hexafluorophosphate
+2 , 2 , 2 - trifluoroethanol
+trimethyloxonium tetrafluoroborate
+2 , 2 - dimethoxypropane
+4 - tolylsulfonylmethylnitrosamide
+18 - crown - 6
+3 - aminopropyltriethoxysilane
+dansyl chloride
+picolinic acid
+fusaric acid
+dimethylglycine
+isonicotinoyl azide
+na - nhs ester
+2 - fluoro - 1 - methylpyridinium p - toluenesulfonate
+3 - nitrophthalic anhydride
+2 - hydrazino - 1 - methylpyridine
+2 - hydrazinopyridine
+dansyl hydrazine
+girard's reagent p
+girard's reagent t
+2 , 4 - dinitrophenylhydrazine
+hydroxylamine
+4 -  [ 2 -  ( trimethylammonio ) ethoxy ] anilinium dibromide
+4 -  ( 2 -  (  ( 4 - bromophenethyl ) dimethylammonio ) ethoxy ) benzenaminium dibromide
+d - cysteine
+2 - picolylamine
+3 - picolylamine
+3 - picolylcarbinol
+3 - hydroxy - 1 - methyl - piperidine
+3 -  ( hydroxymethyl )  - pyridine
+4 - diazomethylpyridine
+4 -  [ 2 -  ( n , ndimethylamino ) ethylaminosulfonyl ]  - 7 -  ( 2 - aminoethylamino )  - 2 , 1 , 3 - benzoxadiazole
+1 - butanol hydrochloride
+fluorenylmethyloxycarbonyl chloride
+n - methyl - 2 - phenylethanamide
+2 - bromo - 1 -  ( 4 -  ( dimethylamino ) phenyl ) ethanone
+6 - aminoquinolyl - n - hydroxysuccinimidyl carbamate
+3 - pyridyl isothiocyanate
+phenyl isothiocyanate
+isobutyl chloroformate
+4 -  ( n , n - dimethylaminosulfonyl )  - 7 - fluoro - 2 , 1 , 3 - benzoxadiazole
+4 - bromophenacyl bromide
+ethyl bromoacetate
+ ( 2 -  [ 4 - aminophenoxy ] ethyl ) trimethylammonium bromide
+hydroxylammonium chloride
+4 - bromobenzenesulfonyl chloride
+7 - fluoro - 4 - nitrobenzoxadiazole
+diacetyl - l - tartaric anhydride
+pentafluorophenacyl trifluoromethanesulfonate
+propyl chloroformate
+12 , 4 - dinitrofluorobenzene
+trimethylsilyldiazomethane
+trimethyl orthoacetate
+3 -  ( perfluorooctyl ) propylamine
+dimethylaminoethanol
+4 - nitrobenzyl bromide
+2 , 3 - pyridinedicarboxylic anhydride
+ethoxyamine hydrochloride
+4 -  ( n , n - dimethylaminosulfonyl )  - 7 - hydrazino - 2 , 1 , 3 - benzoxadiazole
+1 -  ( 5 - fluoro - 2 , 4 - dinitrophenyl )  - 4 - methylpiperazine
+4 - nitrobenzoyl chloride
+pyridine - 3 - sulfonyl chloride
+methyl acrylate
+iodoacetic acid
+2 - bromo - 3' - methoxyacetophenone
+monobromobimane
+4 - bromo - phenacyl - bromide
+4 - bromomethyl - 7 - methoxycoumarin
+cookson type reagent
+4 -  ( 4' - dimethylaminophenyl )  - 1 , 2 , 4 - triazoline - 3 , 5 - dione
+4 - phenyl - 1 , 2 , 4 - triazole - 3 , 5 - dione
+4 -  [ 2 -  ( 6 , 7 - dimethoxy - 4 - methyl - 3 - oxo - 3 , 4 - dihydroquinoxalyl ) ethyl ]  - tad
+4 -  [ 4 -  ( 6 - methoxy - 2 - benzoxazolyl ) phenyl ]  - 1 , 2 , 4 - triazoline - 3 , 5 - dione
+4 -  ( 4 - nitrophenyl )  - 1 , 2 , 4 - triazole - 3 , 5 - dione
+edaravone
+tris ( trimethoxyphenyl ) phosphonium compound
+1s - pentafluorophenyl tris ( 2 , 4 , 6 - trimethoxyphenyl ) phosphonium acetate bromide
+ ( 4 - hydrazino - 4 - oxobutyl )   [ tris ( 2 , 4 , 6 - trimethoxyphenyl ) phosphonium bromide
+tris ( 2 , 4 , 6 ,  - trimethoxyphenyl ) phosphonium acetic acid
+tris ( 2 , 4 , 6 ,  - trimethoxyphenyl ) phosphonium ethanoic acid bromide
+tris ( 2 , 4 , 6 ,  - trimethoxyphenyl ) phosphonium propionic acid bromide
+tris ( 2 , 4 , 6 ,  - trimethoxyphenyl ) phosphonium propylamine bromide
+benzoic anhydride
+propionic anhydride
+4 - toluenesulfonhydrazide
+2 -  ( n , n - dimethyl - amino ) ethyl acrylate
+1 - naphthylisothiocyanate
+sulfur trioxide pyridine complex
+sulfur trioxide n , n - dimethyl - formamide complex
+2 - acrylamido - 2 - methyl - 1 - propanesulfonic acid
+benzyl chloride
+acetic anhydride
+n - methyl - 4 - hydrazino - 7 - nitrobenzofurazan
+boron trifluoride methanol
+ ( 3 -  ( 2 - nitro - 4 - trifluoromethylphenyl ) aminophenyl ) dihydroxyborane
+2 - nitro - 4 - trifluoromethylphenylhydrazine
+4 - chloro - 7 - nitro - 2 , 1 , 3 - benzoxadiazole
+nbd - pz hydrochloride
+sulfanilic acid
+1 - chloro - 4 - methylpyridinium iodide
+3 -  ( 2 , 5 - dioxopyrrolidin - 1 - yl - oxycarbonyl ) propyl ] trimethylammonium chloride
+n - methylnicotinic acid n - hydroxysuccinimide ester
+deuterium labelled n - methylnicotinic acid n - hydroxysuccinimide ester
+n - propylnicotinic acid n - hydroxysuccinimide ester
+deuterium labelled n - propylnicotinic acid n - hydroxysuccinimide ester
+n - butylnicotinic acid n - hydroxysuccinimide ester
+deuterium labelled n - butylnicotinic acid n - hydroxysuccinimide ester
+2 , 4 - dinitrofluorobenzene
+4 - n , n , n - trimethylammonioanilyln' - hydroxysuccinimidyl carbamate iodide
+deuterium labelled p - n , n , n - trimethylammonioanilyln' - hydroxysuccinimidyl carbamate iodide
+4 - methylpiperazine acetyl succinimide
+deuterium labelled 4 - methylpiperazine acetyl succinimide
+4 - methylpiperadinebutyryl succinimide
+deuterium labelled 4 - methylpiperadinebutyryl succinimide
+dimethylaminobutyryl succinimide
+deuterium labelled dimethylaminobutyryl succinimide
+13c - dansyl chloride
+pentafluorophenyl - activated ester of polyethyleneglycol
+13c labelled pentafluorophenyl - activated ester of polyethyleneglycol
+cholamine
+deuterium labelled cholamine
+2 - bromo - 1 - methylpyridinium iodide
+deuterium labelled 2 - bromo - 1 - methylpyridinium iodide
+3 - carbinol - 1 - methylpyridinium iodide
+deuterium labelled 3 - carbinol - 1 - methylpyridinium iodide
+4 - dimethylaminophenacyl bromide
+13c labelled p - dimethylaminophenacyl bromide
+7 -  ( n , n - dimethylaminosulfonyl )  - 4 -  ( aminoethyl ) piperadino - 2 , 1 - 3 - benzoxadiazole
+deuterium labelled 7 -  ( n , n - dimethylaminosulfonyl )  - 4 -  ( aminoethyl ) piperadino - 2 , 1 - 3 - benzoxadiazole
+7 -  ( n , n - dimethylaminosulfonyl )  - 4 - piperadino - 2 , 1 - 3 - benzoxadiazole
+deuterium labelled 7 -  ( n , n - dimethylaminosulfonyl )  - 4 - piperadino - 2 , 1 - 3 - benzoxadiazole
+deuterium labelled girard's reagent p
+deuterium labelled 2 , 4 - dinitrophenylhydrazine
+2 - phenylenediamine
+5 , 5' - dithio -  ( bis - 2 - nitrobenzoic )  acid
+4 -  ( hydroxymercuri ) benzoate acid
+n - ethylmaleimide
+4 - methylbenzenesulfonyl isocyanate
+1 -  ( 4 - lsopropyl )  phenyl - 3 - methyl - 5 - pyrazolone
+2 - sulfobenzoic anhydride
+1 - pyrenesulfonyl chloride
+2 , 3 - naphthalenedialdehyde
+3 - chlorocarbonyl - 6 , 7 - dimethoxy - 1 - methyl - 2 ( 1h )  - quinoxalinone
+fluorescein - 5 - isothiocyanate
+2 - chloro - 1 - methylpyridinium
+ ( 5 - n - succinimidoxy - 5 - oxopentyl ) triphenylphosphonium bromide
+diethylethoxymethylenemalonate
+4 -  ( dimethylamino ) phenyl isothiocyanate
+3 - nitrophenyl isothiocyanate
+3 - aminopyridyl - n - hydroxysuccinimidylcarbamate
+n -  ( 4 - aminomethylphenyl ) pyridinium
+cyclohexanedione
+2 - fluoro - 1 - methylpyridium
+triplex 5 - diethylaminonaphthalene - 1 - sulfonyl chloride
+n -  ( 5 - fluoro - 2 , 4 - dinitrophenyl )  - d - leucinamide
+ebselen
+iodoacetamide
+isopropylchloroformate
+2 - nitrobenzaldehyde
+5 - n - succinimidoxy - 5 - oxopentyl ) triphenylphosphonium bromide
+2 , 5 - dioxopyrrolidin - 1 - yl n - tri ( pyrrolidino ) phosphoranylideneamino carbamate
+2 - nitrophenylhydrazine hydrochloride
+phenacyl bromide
+2 -  ( 4 - nitro - benzyl )  - n , n' - diisopropyl - iso - urea
+3 - nitrophenylhydrazine
+butyl 1 -  ( pyridin - 4 - yl )  piperidine 4 - carboxylate
+4 - bromo - n - methylbenzylamine
+n - methyl - 2 - phenylethanamine
+benzoyl chloride
+n - tert - butylmaleimide
+n - propylmaleimide
+4 - hydrazinobenzoic acid
+2 - aminoethanethiol
+2 - diphenylacetyl - 1 , 3 - indandione - 1 - hydrazone
+3 - methylbenzothiazolin - 2 - one hydrazone
+cyclohexane - 1 , 3 - dione
+pyroglutamic acid succinimidyl ester
+2 , 4 , 6 - trichlorophenylhydrazine
+o - 2 , 3 , 4 , 5 , 6 -  ( pentafluorobenzyl )  hydroxylamine hydrochloride
+benzoyl hydrazine
+2 - iodoacetanilide
+n - hydroxy - benzotriazolyl -  ( s )  - naproxen ester
+methyl acetimidate
+13c labelled methyl acetimidate
+13c labelled formaldehyde
+acetaldehyde
+deuterium labelled acetaldehyde
+4 -  ( 4 - methyl - 1 - piperazyl )  - 3 - nitrobenzoyl azide
+dibenzyl ethoxymethylene malonate
+benzyl ethyl ethoxymethylene malonate
+diisopropyl hydrogen phosphite
+2 -  ( 2 -  [ 7h - dibenzo  ( a , g ) carbazol - 7 - yl ]  - ethoxy ) ethyl chloroformate
+ethyl chloroformate
+1 - bromobutane
+2 - bromopyridine - 5 - boronic acid
+ ( 3 - dimethylaminophenyl ) dihydroxyborane
+1 - methylimidazole - 2 - sulfonyl chloride
+n - methyl pyridinium - 3 - sulfonyl chloride
+quaternary aminooxy reagent
+2 , 4 - dimethoxy - 6 - piperazin - 1 - yl pyrimidine
+3 - pyridylcarbinol
+phenylhydrazine
+o - benzylhydroxylamine
+o - phenylenediamine
+benzyl alcohol
+4 - hydroxymercuribenzoate
+4 - chloro - 3 , 5 - dinitrobenzotrifluoride
+omega - bromoacetonylquinolinium bromide
+pentafluorophenylhydrazine
+7 -  ( diethylamino ) coumarin - 3 - carbohydrazide
+l - carnosine
+7 - fluorobenzo - 2 - oxa - 1 , 3 - diazole - 4 - sulfonate
+4 -  ( aminosulfonyl )  - 7 - fluoro - 2 , 1 , 3 - benzoxadiazole
+4 - nitro - 7 -  ( 1 - piperazinyl )  - 2 , 1 , 3 - benzoxadiazole
+4 -  ( aminosulfonyl )  - 7 -  ( 1 - piperazinyl )  - 2 , 1 , 3 - benzoxadiazole
+4 -  ( 3 - isothiocyanatopyrrolidin - 1 - yl )  - 7 -  ( n , n - dimethylaminosulfonyl )  - 2 , 1 , 3 - benzoxadiazole
+4 -  ( n , n - dimethylaminosulfonyl )  - 7 -  ( 2 - carboxylpyrrolidine - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole
+4 -  ( n , n - dimethylaminosulfonyl )  - 7 -  ( 2 - chroloformylpyrrolidine - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole
+4 - nitro - 7 -  ( 2 - chroloformylpyrrolidine - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole
+4 -  ( 2 - carbazoylpyrrolidin - 1 - yl )  - 7 -  ( n , n - dimethylaminosulfonyl )  - 2 , 1 , 3 - benzoxadiazole
+4 -  ( 2 - carbazoylpyrrolidin - 1 - yl )  - 7 - nitro - 2 , 1 , 3 - benzoxadiazole
+4 -  ( n , n - dimethylaminosulfonyl )  - 7 -  ( 3 - aminopyrrolidin - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole
+4 - nitro - 7 -  ( 3 - aminopyrrolidin - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole
+1 -  ( 3 - aminopropyl )  - 3 - bromoquinolinium bromide
+ ( s )  - 1 -  ( 4 , 6 - dimethoxy - 1 , 3 , 5 - triazin - 2 - yl ) pyrrolidin - 3 - amine
+ ( s )  - 2 , 5 - dioxopyrrolidin - 1 - yl - 1 -  ( 4 , 6 - dimethoxy - 1 , 3 , 5 - triazin - 2 - yl )  pyrrolidine - 2 - carboxylate
+ ( r )  - 1 -  ( 4 , 6 - dimethoxy - 1 , 3 , 5 - triazin - 2 - yl ) pyrrolidin - 3 - amine
+ ( r )  - 2 , 5 - dioxopyrrolidin - 1 - yl - 1 -  ( 4 , 6 - dimethoxy - 1 , 3 , 5 - triazin - 2 - yl )  pyrrolidine - 2 - carboxylate
+ ( s )  - 4 , 6 - dimethoxy - n -  ( pyrrolidin - 3 - yl )  - 1 , 3 , 5 - triazin - 2 - amine
+ ( r )  - 4 , 6 - dimethoxy - n -  ( pyrrolidin - 3 - yl )  - 1 , 3 , 5 - triazin - 2 - amine
+4 - methyl - 1 , 2 , 4 - triazole - 3 , 5 - dione
+4 -  ( 4 - dimethylaminophenyl )  - 1 , 2 , 4 - triazole - 3 , 5 - dione
+deuterium labelled 4 -  ( 4 - dimethylaminophenyl )  - 1 , 2 , 4 - triazole - 3 , 5 - dione
+4 -  ( 4 - diethylaminophenyl )  - 1 , 2 , 4 - triazole - 3 , 5 - dione
+2 - hydrazino - 4 - trifluoromethylpyrimidine
+n - methyl - nicotinic acid n - hydroxysuccinimide ester
+o -  ( 3 - trimethylammoniumpropyl ) hydroxylamine
+methoxylamine
+acetyl chloride
+2 , 4 - dinitrobenzoyl chloride
+4 -  [ 2 -  ( n , ndimethylamino ) ethylaminosulfonyl ]  - 7 - chloro - 2 , 1 , 3 - benzoxadiazole
+4 - nitrobenzenesulfonyl chloride
+sanger type reagent
+marfey type reagent
+n -  ( 2 , 4 - dinitro - 5 - fluorophenyl )  - l - alaninamide
+n -  ( 2 , 4 - dinitro - 5 - fluorophenyl )  - d - alaninamide
+n -  ( 5 - fluoro - 2 , 4 - dinitrophenyl )  - l - leucinamide
+hexyl chloroformate
+1 , 2 - benzo - 3 , 4 - dihydrocarbazole - 9 - ethyl chloroformate
+ (  -  )  - 1 -  ( 9 - fluorenyl )  - ethyl chloroformate
+ (  +  )  - 1 -  ( 9 - fluorenyl )  - ethyl chloroformate
+1 , 2 - benzo - 3 , 4 - dihydrocarbazole - 9 - ethyl - benzenesulfonate
+2 -  ( 2 , 3 - naphthalimino ) ethyl trifluoromethanesulfonate
+4 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 7 - n - piperazino - 2 , 1 , 3 - benzoxadiazole
+4 -  [ 4 - carbazoylpiperidin - 1 - yl ]  - 7 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 2 , 1 , 3 - benzoxadiazole
+4 -  [ 2 - carbazoylpyrrolidin - 1 - yl ]  - 7 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 2 , 1 , 3 - benzoxadiazole
+4 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 7 -  ( 3 - aminopyrrolidin - 1 - yl )  - 2 , 1 , 3 - benzoxadiazole
+4 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 7 - n - methylhydrazino - 2 , 1 , 3 - benzoxadiazole
+4 -  [ 2 -  ( n , n - dimethylamino )  ethylaminosulfonyl ]  - 7 -  ( 2 - aminobutylamino )  - 2 , 1 , 3 - benzoxadiazole
+4 -  [ 2 -  ( n , n - dimethylamino ) ethylaminosulfonyl ]  - 7 -  ( 2 - aminopentylamino )  - 2 , 1 , 3 - benzoxadiazole
+ [ 4 -  ( 4 - n - methyl ) piperazinosulfonyl ]  - 7 -  ( 2 - aminoethylamino )  - 2 , 1 , 3 - benzoxadiazole
+ [ 4 -  ( 4 - n - methyl )  - piperazinosulfonyl ]  - 7 - chloro - 2 , 1 , 3 - benzoxadiazole
+4 -  [  [  ( n - hydrazinoformyl ) methyl ]  - n - methyl ] amino - 7 -  [ n , n -  ( dimethylamino ) sulfonyl ]  - 2 , 1 , 3 - benzoxadiazole
+2 , 4 - dinitro - 6 - trifluoromethylphenylhydrazine
+2 - amino - n , n , n - trimethylethanaminium chloride
+4 -  ( 1' - cyanoisoindolyl ) phenylisothiocyanate
+2 , 3 , 4 , 6 - tetra - o - acetyl - beta - d - glucopyranosyl isothiocyanate
+4 - dimethylaminophenyl isothiocyanate
+dimethylaminoazobenzene isothiocyanate
+trimellitic anhydride
+3 - bromoactonyltrimethylammonium bromide
+5 , 5' - dimethyl - 1 , 3 - cyclohexanedione
+4 -  ( dimethylamino )  - benzoic acid
+1 , 2 - dimethylimidazole - 4 - sulfonyl chloride
+n -  ( 2 - ferroceneethyl ) maleimide
+ferrocenecarboxylic acid -  ( 2 - maleimidoyl ) ethylamide
+heptadecafluoroundecylamine
+4 - hydrazino - n , n , n - trimethyl - 4 - oxobutanaminium iodide
+3 - aminophenylboronic acid
+1 , 2 - naphthoquinone - 4 - sulfonate
+2 - bromo - 4' - chloroacetophenone
+1 - pyrenemethylamine
+succinimidylferrocenyl propionate
+n - succinimidyl - 2 ( 3 - pyridyl ) acetate
+7 - chloro - 2 , 1 , 3 - benzoxadiazole - 4 - sulfonylaminoethyltrimethylammonium chloride
+1 , 2 - benzo - 3 , 4 - dihydrocarbazole - 9 - p - toluenesulfonate
+tetramethylammonium hydroxide
+trimethylsulfonium hydroxide
+1 -  [ 2 -  ( p - toluenesulfonate )  - ethyl ]  - 2 - phenylimidazole -  [ 4 , 5 - f -  ]  - 9 , 10 - phenantrene
+1 - pyrenyldiazomethane
+4 -  bromomethyl - 6 , 7 - methylenedioxycoumarin
+9 - anthryldiazomethane
+4 - bromomethyl - 7 , 8 - benzcoumarin
+4 - diazomethyl - 7 - methoxycoumarin
+4 - bromomethyl - 7 - acetoxycoumarin
+4 - bromomethyl - 6 , 7 - dimethoxycoumarin
+n -  ( 1 - naphthyl ) ethylene diamine dihydrochloride
+9 - aminophenanthrene
+2 -  [ p -  ( 5 , 6 - methylenedioxy - 2h - benzotriazol - 2 - yl )  ] phenethylamine
+succinimidyloxycarbonylmethyl tris ( 2 , 4 , 6 - trimethoxyphenyl ) phosphonium bromide
+9 -  ( hydroxymethyl ) anthracene
+5 - dimethylamino - 1 - naphthalenesulfonyl aminoethanol
+2 -  ( anthracene - 2 , 3 - dicarboximdo ) ethyl - trifluoromethanesulfonate
+2 -  ( 2 - naphthoxy ) ethyl - 2 -  ( piperidino ) ethanesulfonate
+n -  ( 4 - amidobutyl )  - n - ethylisoluminol
+6 -  [ n -  ( 4 - aminobutyl ) methylamino ]  - 2 , 3 - dihydro - 1 , 4 - phthalazinedione
+6 -  [ n -  ( 3 - propionohydrazino ) thioureido ] benzo [ g ]  - phthalazine - 1 , 4 -  ( 2h , 3h )  - dione
+triethylamine
+trifluoroacetic acid
+p - bromophenacylate
+dabsyl chloride
+2 , 2 - dihydroxyindane - 1 , 3 - dione
+2 , 4 , 6 - trinitrobenzenesulfonic acid

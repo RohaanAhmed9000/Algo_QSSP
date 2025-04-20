@@ -1,0 +1,350 @@
+a phenomenon by which change takes place in a system .
+a process involving the interconversion of chemical species .
+the change of one nuclide into another with a different proton number or nucleon number .
+a spontaneous nuclear transformation .
+nuclear decay involving a splitting into more nuclei or the emission of particles .
+a nuclear transformation in which the nucleus captures an orbital electron .
+nuclear decay in which a beta particle is emitted or in which orbital electron capture occurs .
+a reaction between two light nuclei resulting in the production of a nuclear species heavier than either initial nucleus .
+capture of a particle by a nucleus followed by immediate emission of gamma radiation .
+a process in which an atomic or nuclear system acquires an additional particle .
+for a nucleus a change from one quantized energy state into another or a nuclear transformation .
+nuclear decay in which particles or electromagnetic radiation are emitted or the nucleus undergoes spontaneous fission or electron capture .
+nuclear fission which occurs without the addition of particles or energy to the nucleus .
+the division of a nucleus into two or more parts with masses of equal order of magnitude \  ,  usually accompanied by the emission of neutrons \  ,  gamma radiation and \  ,  rarely \  ,  small charged nuclear fragments .
+fission caused by thermal neutrons .
+radioactive decay in which an alpha particle is emitted .
+a transformation of a nucleus which occurs  ( i )  when another nuclear particle approaches closely enough to be influenced by the mutual attractive nuclear force between them or  ( ii )  when affected by an electromagnetic force of sufficient strength .
+process causing the transition of a system from one state to another of higher energy .
+the production of an excited state by the absorption of ultraviolet \  ,  visible \  ,  or infrared radiation .
+the transfer of an electron from one molecular entity to another \  ,  or between two localized sites in the same molecular entity .
+a reaction in which the electron transfer takes place with no or very weak  ( 4 - 16 kj / mol )  electronic interaction between the reactants in the transition state .
+a reaction in which the electron transfer takes place with significant  (  > 20 kj / mol )  electronic interaction between the donor and acceptor centres in the transition state .
+an electron transfer resulting from an electronic state produced by the resonant interaction of electromagnetic radiation with matter .
+photoexcitation and subsequent events which lead from one to another state of a molecular entity through radiation and radiationless transitions .
+a chemical reaction caused by absorption of ultraviolet \  ,  visible \  ,  or infrared radiation .
+the cleavage of one or more covalent bonds in a molecular entity resulting from absorption of light .
+ionization of any species by photons .
+catalytic reaction involving light absorption by a catalyst or by a substrate .
+catalytic reaction involving production of a catalyst by absorption of light .
+luminescence arising from photoexcitation .
+a photophysical process in which an excited state of one molecular entity  ( the donor )  is deactivated to a lower - lying state by transferring energy to a second molecular entity  ( the acceptor )  which is thereby raised to a higher energy state .
+transfer of excitation energy by radiative deactivation of a donor molecular entity and reabsorption of the emitted light by an acceptor molecular entity .
+a mechanism of excitation transfer which can occur between molecular entities separated by distances considerably exceeding the sum of their van der waals radii .
+excitation transfer occurring as a result of an electron exchange mechanism .
+luminescence which occurs essentially only during the irradiation of a substance by electromagnetic radiation .
+luminescence involving change in spin multiplicity .
+reduction reactions induced by light .
+a combined process of photon absorption by an atom followed by spontaneous photon emission .
+oxidation reactions induced by light .
+the complete transfer of one or more electrons to a molecular entity .
+the complete removal of one or more electrons from a molecular entity .
+the incorporation of molecular oxygen into a molecular entity induced by light .
+a chemical reaction in which a product  ( or a reaction intermediate )  also functions as a catalyst .
+a reaction in which one or more reactive reaction intermediates are continuously regenerated \  ,  usually through a repetitive cycle of elementary steps  ( the 'propagation step' )  .
+a sequence of reactions such as shown in equations  \  [ 1 \  ]  -  \  [ 3 \  ]  \  ,  leading from a to b \ :  \  [ 1 \  ]  a  +  e -   -  -  >  a . -   ;   \  [ 2 \  ]  a . -   -  -  >  b . -   ;   \  [ 3 \  ]  b . -   +  a  -  -  >  b  +  a . -   ;  an analogous sequence involving radical cations  ( a . +  \  ,  b . +  )  is also observed .
+a reaction for which no reaction intermediates have been detected or need to be postulated in order to describe the chemical reaction on a molecular scale .
+a chemical reaction with at least one reaction intermediate and involving at least two consecutive elementary reactions .
+a chemical reaction for which the expression for the rate of disappearance of a reactant  ( or rate of appearance of a product )  involves rate constants of more than a single elementary reaction .
+an elementary reaction \  ,  constituting one of the stages of a stepwise reaction in which a reaction intermediate  ( or \  ,  for the first step \  ,  the reactants )  is converted into the next reaction intermediate  ( or \  ,  for the last step \  ,  the products )  in the sequence of intermediates between reactants and products .
+a reaction or process generating free radicals  ( or some other reactive reaction intermediates )  which then induce a chain reaction .
+when in a chain reaction there is a net increase in the number of chain carriers there is said to be chain branching .
+sometimes chain branching is brought about by an intermediate which has a long lifetime compared with an ordinary free radical .
+the steps in a chain reaction in which reactive intermediates are destroyed or rendered inactive \  ,  thus ending the chain .
+an elementary step in a chain reaction in which one chain carrier is converted into another .
+a chain reaction which includes a propagation step or steps in which there is an increase in the number of active intermediates .
+an elementary reaction the rate constant for which exerts a strong effect  -  stronger than that of any other rate constant  -  on the overall rate .
+the step of a stepwise reaction \  ,  in which the product distribution is determined .
+a set of one or more  ( possibly experimentally inseparable )  reaction steps leading to and / or from a detectable or presumed reaction intermediate .
+composite reactions \  ,  in which processes like a  -  -  >  y and b  -  -  >  z occur in parallel .
+composite reactions \  ,  occurring in forward and reverse directions \ : a  +  b  < = >  z .
+the action of a catalyst .
+the catalysis of a chemical reaction by a series of bronsted acids ha  ( which may include the solvated hydrogen ion )  .
+the catalysis of a chemical reaction by a series of bronsted bases  ( which may include the lyate ion )  .
+the acceleration of a reaction by a unique catalyst \  ,  rather than by a family of related substances .
+catalysis in which only one phase is involved .
+catalysis occurring at or near an interface between phases .
+a chemical reaction caused by absorption of thermal energy .
+the uncatalysed cleavage of one or more covalent bonds resulting from exposure of a compound to a raised temperature \  ,  or a process in which such cleavage is an essential part .
+the conversion of a substrate into a particular product \  ,  irrespective of reagents or mechanisms involved .
+transformation of the general type \ : ax  +  y  -  -  >  ay  +  x .
+a reaction in which two or more unsaturated molecules  ( or parts of the same molecule )  combine with the formation of a cyclic adduct in which there is a net reduction of the bond multiplicity .
+a chemical reaction resulting in a single reaction product from two or three reacting chemical species \  ,  with formation of two new chemical bonds to the same atom in one of the reactant molecular entities .
+in an elimination two groups  ( called eliminands )  are lost most often from two different centres  ( 1 / 2 / elimination or 1 / 3 / elimination \  ,  etc . ) 
+a transformation of the general type \ : r - z ( x )  ( y )  - r'  -  -  >  r - z - r'  +  xy  \  [ or x  +  y \  ,  or x (  +  )   +  x (  -  )  \  ] 
+in the intramolecular rearrangement \  ,  the atoms and groups that are common to a reactant and a product never separate into independent fragments during the rearrangement stage .
+in an intermolecular rearrangement \  ,  a migrating group is completely free from the parent molecule and is re - attached to a different position in a subsequent step .
+a molecular rearrangement in which the principal product is indistinguishable  ( in the absence of isotopic labelling )  from the principal reactant .
+a chemical reaction \  ,  the principal product of which is isomeric with the principal reactant .
+a chemical reaction or transformation of the general type \ : x - z  +  y  -  -  >  x - y - z \  ,  in which the connecting atom or group y replaces the bond joining the parts x and z of the reactant xz .
+a transformation in which an atom or group y connected to two other atoms or groups x and z is lost from a molecule \  ,  leading to a product in which x is bonded to z \  ,  e .g .
+a form of cycloaddition across the terminal atoms of a fully conjugated system with formation of two new sigma - bonds to a single atom of the  ( 'monocentric' )  reagent .
+enzymatic redox reaction .
+ntp  +  h2o  -  -  >  ndp  +  phosphate
+ntp  +  h2o  -  -  >  nmp  +  diphosphate
+x=y  +  z  -  -  >  x - y - z
+the carriage of a solute across a biological membrane from low to high concentration which requires the expenditure of  ( metabolic )  energy .
+diffusion across a biological membrane through the participation of specific transporting agents  ( transporters )  or carriers .
+a diffusion across a membrane in the absence of any specific transporting agent or carrier .
+the process of coupled solute translocation in which two solutes equilibrate across an osmotic barrier \  ,  the translocation of solute being coupled to the translocation of the other in the opposite direction .
+the process of solute translocation in which two solutes equilibrate across an osmotic barrier \  ,  and the translocation of one solute is coupled to the translocation of the other in the same direction .
+any process in which a substance to be transported across a biological membrane undergoes covalent modification prior crossing the membrane .
+any stabilizing interaction of a solute  ( or solute moiety )  and the solvent or a similar interaction of solvent with groups of an insoluble material .
+the formation of a covalent bond \  ,  the two shared electrons of which have come from only one of the two parts of the molecular entity linked by it \  ,  as in the reaction of a lewis acid and a lewis base to form a lewis adduct .
+the cleavage of a covalent bond so that both bonding electrons remain with one of the two fragments between which the bond is broken  ( a \ :b  -  -  >  a  +   \ :b )  .
+the formation of a covalent bond by the combination or recombination of two radicals  ( a .
+a unimolecular reaction involving homolysis of a bond  ( not forming part of a cyclic structure )  in a molecular entity containing an even number of  ( paired )  electrons results in the formation of two radicals  ( a \ :b  -  -  >  a .
+a transformation by which one molecular entity  ( the substrate )  is converted into another by the formation of one  ( and only one )  two - centre bond between the substrate and another molecular entity and which involves no other changes in connectivity in the substrate .
+the reverse of an attachment .
+the assembling of separate molecular entities into any aggregate \  ,  especially of oppositely charged free ions into ion pairs or larger and not necessarily well - defined clusters of ions held together by electrostatic attraction .
+the separation of a molecular entity into two or more molecular entities  ( or any similar separation within a polyatomic molecular entity )  .
+the generation of one or more ions .
+the transfer of an electron to a molecular entity \  ,  resulting in a molecular entity of  ( algebraically )  increased negative charge .
+the reverse of an electron attachment .
+an electronic transition which does not involve a change in the spin part of the wavefunction .
+a transition which involves a change in both the electronic and vibrational quantum numbers of a molecular entity \  ,  as opposed to purely electronic or purely vibrational transitions .
+an electronic transition in which a large fraction of an electronic charge is transferred from one region of a molecular entity \  ,  called the electron donor \  ,  to another \  ,  called the electron acceptor  ( intramolecular ct )  or from one molecular entity to another  ( intermolecular ct )  .
+an electronic transition described approximately as a promotion of an electron from a 'bonding' pi orbital to an 'antibonding' sigma orbital designated as sigma* .
+an electronic transition described approximately as promotion of an electron from a 'bonding' sigma orbital to an 'antibonding' sigma orbital designated as sigma* .
+an electronic transition in a metal complex that corresponds to excitation populating an electronic state in which considerable electron transfer from a ligand to a metal centre has occurred .
+an electronic transition of a metal complex that corresponds to excitation populating an electronic state in which considerable electron transfer from the metal to a ligand has occurred .
+an electronic transition of a bi -  or polynuclear metal complex that corresponds to excitation populating an electronic state in which considerable electron transfer between two metal centres has occurred .
+electron transfer  ( thermal or photoinduced )  between two metal sites differing only in oxidation state .
+an electronic transition described approximately as promotion of an electron from a 'bonding' orbital to a rydberg orbital .
+a reaction with a molecularity of one .
+a reaction with a molecularity of two .
+a reaction with a molecularity of three .
+a change in the nature of a phase or in the number of phases as a result of some variation in externally imposed conditions \  ,  such as temperature \  ,  pressure \  ,  activity of a component or a magnetic \  ,  electric or stress field .
+a transition between disordered and ordered arrays of atomic magnetic moments .
+the spreading or scattering of a gaseous or liquid material .
+a process that results in the interconversion of molecular entities .
+a transition that occurs between a fully - ordered crystalline solid and an isotropic liquid .
+a reversible transition of a solid crystalline phase at a certain temperature and pressure  ( the inversion point )  to another phase of the same chemical composition with a different crystal structure .
+the conversion of a solid to a liquid by the application of heat and / or pressure .
+the physical process by which a liquid substance is converted to a gas or vapour .
+the formation of a crystalline solid from a solution \  ,  melt vapour or a different solid phase \  ,  generally by the lowering of the temperature or by evaporation of a solvent .
+the direct transition of a solid to a vapour without passing through a liquid phase .
+a transition that occurs at boundaries between phases .
+the sedimentation of a solid material  ( a precipitate )  from a liquid solution in which the material is present in amounts greater than its solubility in the liquid .
+a process in a phase transition in which nuclei of a new phase are first formed \  ,  followed by the propagation of the new phase at a faster rate .
+a diffusional reaction in a multi - component system in which structural and compositional changes occur in regions immediately adjacent to the advancing interface .
+a diffusional reaction in a multi - component system in which atoms are transported to the growing nuclei by diffusion over relatively large distances in the parent phase and during which the mean composition of the parent phase changes continuously towards its equilibrium value .
+the formation and growth of aggregates ultimately leading to phase separation by the formation of precipitates of larger than colloidal size .
+in a system formed by a solvent \  ,  an association colloid and at least one other component  ( the solubilizate )  \  ,  the incorporation of this other component into or on the micelles .
+the process of one material  ( absorbent )  being retained by another  ( absorbate )  .
+the transition of a suspension of solid particles in a liquid  ( sol )  to an apparent solid \  ,  jelly - like material  ( gel )  .
+the process by which nuclei are formed in solution .
+the condensation of a single chemical compound in solution .
+the simultaneous condensation of more than one compound in solution .
+the condensation of a compound in solution on a foreign substance .
+the totality of changes occurring at or near a single electrode during the passage of current .
+for an electrode process at a given potential the current is controlled by the kinetics of a number of steps which include the transport of reactants to and from the interface and the interfacial reaction itself .
+electron transfer process in which the reacting system remains on a single electronic surface in passing from reactants to products .
+electron transfer process in which the reacting system has to cross over between different electronic surfaces in passing from reactants to products .
+an increase in the concentration of a dissolved substance at the interface of a condensed and a liquid phase due to the operation of surface forces .
+the converse of adsorption \  ,  i .e .
+the process in which expulsion of a previously adsorbed component from the interfacial layer is effected by subsequent stronger adsorption of another component .
+adsorption with dissociation into two or more fragments \  ,  both or all of which are bound to the surface of the adsorbent .
+reactive adsorption  ( and its reverse \  ,  reactive desorption )  resembles dissociative adsorption  ( and its reverse \  ,  associative desorption )  but one fragment adds to an adsorbate rather than to a surface site .
+reverse of reactive adsorption .
+adsorption in which the forces involved are intermolecular forces  ( van der waals forces )  of the same kind as those responsible for the imperfection of real gases and the condensation vapours \  ,  and which do not involve a significant change in the electronic orbital patterns of the species involved .
+adsorption which results from chemical bond formation  ( strong interaction )  between the adsorbent and the adsorbate in a monolayer on the surface .
+oxidative or reductive chemisorption where 'reductive' and 'oxidative' refer to electron gain or loss on species in the solid .
+adsorption such that the adsorption space accommodates more than one layer of molecules \  ,  and not all adsorbed molecules are in contact with the surface layer of the adsorbent .
+within the born - oppenheimer approximation \  ,  a reaction beginning on one excited state 'potential - energy surface' and ending \  ,  as a result of radiationless transition \  ,  on another surface \  ,  usually that of the ground state .
+within the born - oppenheimer approximation \  ,  a reaction of an excited state species that occurs on a single 'potential - energy surface' .
+the deposition of dissolved or suspended material by an electric field on an electrode .
+the acceleration of a chemical reaction in solution by the addition of a surfactant at a concentration higher than its critical micelle concentration so that the reaction can proceed in the environment of surfactant aggregates  ( micelles )  .
+catalysis by a lewis base \  ,  involving formation of a lewis adduct as a reaction intermediate .
+the decrease in rate of reaction brought about by the addition of a substance  ( inhibitor )  \  ,  by virtue of its effect on the concentration of a reactant \  ,  catalyst or reaction intermediate .
+irreversible inhibition of an enzyme due to its catalysis of the reaction of an artificial substrate .
+the reduction in rate due to reduction or loss of activity of a catalyst \  ,  caused by adsorption of poison which is not greatly preferred to adsorption of reactant .
+when some of the energy required for a reaction is provided by a preceding exothermic chemical reaction there is said to be chemical activation .
+an added substance that increases the rate of a catalysed reaction is known as an activator \  ,  and the effect is called activation .
+in essential activation \  ,  the free enzyme without activator bound to it has no activity and does not bind substrate .
+any process leading to increase of enzymatic activity .
+conversion of inactive precursors  ( zymogens )  into active enzymes by limited proteolysis .
+the action of catalytic poison .
+weak and reversible adsorption of a poison \  ,  such that removal of the poison from the fluid phase results in restoration of the original catalytic activity .
+the process of converting a monomer or a mixture of monomers into a polymer .
+polymerization by a repeated condensation process .
+a  ( usually stepwise )  reaction in which two or more reactants  ( or remote reactive sites within the same molecular entity )  yield a single main product with accompanying formation of water or of some other small molecule \  ,  e .g .
+a polymerization in which a cyclic monomer yields a monomeric unit which is acyclic or contains fewer cycles than the monomer .
+polymerization in which a polymer molecule is formed from a mixture of stereoisomeric monomer molecules by incorporation of only one stereoisomeric species .
+a chain reaction in which the growth of a polymer chain proceeds exclusively by reaction ( s )  between monomer ( s )  and reactive site ( s )  on the polymer chain with regeneration of the reactive site ( s )  at the end of each growth step .
+chain polymerization occurring with the formation of small molecules .
+the abstraction \  ,  by the radical end of a growing chain - polymer \  ,  of an atom from another molecule .
+a chain polymerization in which the kinetic - chain carriers are ions or ion pairs .
+a chain polymerization in which the kinetic - chain carriers are radicals .
+a chain polymerization from which chain transfer and chain termination are absent .
+an ionic polymerization in which the kinetic - chain carriers are anions .
+an ionic polymerization in which the kinetic - chain carriers are cations .
+the polymerization of a monomer by a free radical or ionic chain reaction initiated by photoexcitation .
+the photoproduction of a free radical or ion capable of initiating a chain reaction such as a polymerization .
+a polymerization in which the growth of polymer chains proceeds by addition reactions between molecules of all degrees of polymerization .
+polymerization processes requiring a photon for the propagation step .
+a polymerization in which the number of cyclic structures in the constitutional units of the resulting macromolecules is larger than in the monomer molecules .
+polymerization in which a homopolymer is formed .
+polymerization in which a copolymer is formed .
+polymerization in which a graft copolymer is formed .
+a copolymerization which is a ring - opening polymerization with respect to at least one monomer .
+a copolymerization which is an ionic polymerization .
+a copolymerization which is a living polymerization .
+a copolymerization which is a radical polymerization .
+the process of converting a monomer or a mixture of monomers into an oligomer .
+the formation of an addition oligomer \  ,  having uniform end groups x'  . . . x'' \  ,  by a chain reaction in which a chain transfer limits the length of the polymer  ( 'telomer' )  produced .
+adsorption initiated by light absorbed either by the adsorbate or by the adsorbent .
+desorption of an adsorbate as a result of exposure to light .
+catalysis occurring under the action of quanta of ionizing radiation absorbed by the radiocatalytic substance  ( radiocatalyst )  .
+desorption of a substrate from solid or liquid interfaces induced by absorption of high - energy radiation by the solid or liquid adsorbent .
+adsorption of a substance at solid or liquid interfaces induced by absorption of high - energy radiation by the solid or liquid adsorbent .
+radiocatalysis under the action of large radiation fluxes that simultaneously heat the system as a consequence of the absorption of radiation energy .
+a chemical reaction caused by absorption of high - energy radiation .
+the cleavage of one or several bonds resulting from exposure to high - energy \ nradiation .
+radiolysis of a radioactive material resulting directly or indirectly from its radioactive decay .
+a spontaneous transition between two isomeric states of a nucleus .
+the simultaneous formation of an electron and a positron as a result of the interaction of a photon of sufficient energy  (  >  1 .02 mev )  with the field of a particle .
+ionization of any species by causing interaction of the sample  ( which may be dissolved in a solvent matrix )  and a beam of neutral atoms having high translational energy .
+spontaneous emission of radiation from an electronically or vibrationally excited species not in thermal equilibrium with its environment .
+luminescence arising from excitation by high energy particles or radiation .
+luminescence decaying more slowly than that expected from the rate of decay of the emitting state .
+emission of radiation resulting from a chemical reaction .
+luminescence produced by electrode reactions .
+luminescence resulting from the rubbing together of the surface of certain solids .
+luminescence induced by sound waves .
+luminescence produced by living systems .
+luminescence arising from a reaction between species trapped in a rigid matrix and released as a result of an increase in temperature .
+luminescence observed when certain solids are subjected to a change in pressure .
+any loss of energy by an excited molecular entity .
+the loss of electronic excitation energy without photon emission or chemical change .
+radiative deactivation of an excited state ;  transfer of energy from a molecular entity to an electromagnetic field .
+an isoenergetic radiationless transition between two electronic states having different multiplicities .
+an isoenenergetic radiationless transition between two electronic states of the same multiplicity .
+a transition between two states of a system without photon emission or absorption .
+a transition between two states of a molecular entity \  ,  the energy difference being emitted or absorbed as photons .
+the process in which the first excited singlet state becomes populated by a thermally activated radiationless transition from the first excited triplet state .
+the process in which the first excited singlet state is populated by interaction of two molecules in the triplet state  ( triplet - triplet annihilation )  thus producing one molecule in the excited singlet state .
+the process in which the first excited singlet state becomes populated by recombination of radical ions with electrons or by recombination of radical ions of opposite charge .
+triplet - triplet or singlet - singlet annihilation to form one molecular entity in its excited singlet state and another molecular entity in its electronic ground state .
+thermally activated delayed fluorescence involving reversible intersystem crossing .
+a process in which \  ,  under the influence of a suitable driving force  ( e .g .
+reverse of charge separation .
+separation of the constituents of an ion pair into free ions .
+the recombination of a pair of ions r (  +  )  and z (  -  )  formed from ionization of rz .
+if the ions are paired as a tight ion pair and recombine without prior separation into a loose ion pair this is called internal ion - pair return .
+if the ions are paired as a loose ion pair and form the covalent chemical species via a tight ion pair \  ,  this is called external ion - pair return .
+the reaction of two transient species produced from a common precursor in solution with each other .
+geminate recombination occurring before any separation of two transient species by diffusion has occurred .
+if the mutually reactive entities have been separated \  ,  and come together by diffusion \  ,  this is termed secondary geminate recombination .
+transfer of excitation from an electronically excited donor in a singlet state to produce an electronically excited acceptor in a triplet state .
+two atoms or molecular entities both in an excited electronic state interact often  ( usually upon collision )  to produce one atom or molecular entity in an excited electronic state and another in its ground electronic state .
+two atoms or molecular entities both in a triplet state often interact  ( usually upon collision )  to produce one atom or molecular entity in an excited singlet state and another in its ground singlet state .
+absorption which results in the transition from the singlet ground state of the molecule into singlet excited states and leads to the uv / visible absorption spectrum .
+absorption which takes place with the transition from the singlet ground state of the molecule to triplet states and results in the singlet - triplet absorption spectrum .
+the transfer of energy from an electromagnetic field to an entity  ( molecular or otherwise )  .
+absorption which takes place with the transition from the lowest triplet state of the molecule to higher triplet states thus leading to the triplet - triplet absorption spectrum .
+if a system is disturbed from its state of equilibrium it relaxes to that state \  ,  and the process is referred to as relaxation .
+excitation resulting from successive or simultaneous absorption of two photons by an atom or molecular entity .
+the simultaneous two - photon absorption .
+an interaction between a particle and its antiparticle in which they both disappear .
+movement of material from one location in solution to another as might arise either from differences in electrical or chemical potential at the two locations \  ,  or from movement of a volume element of solution .
+the motion of colloidal particles in an electric field .
+if the equilibrium mixture of a chemical reaction is disturbed by a sudden change \  ,  especially of some external parameter  ( such as temperature \  ,  pressure or electrical field strength )  \  ,  the system will readjust itself to a new position of the chemical equilibrium or return to the original position \  ,  if the perturbation is temporary .
+the loss of vibrational excitation energy by a molecular entity through energy transfer to the environment caused by collisions .
+fluorescence from the primary excited atomic or molecular species at the wavelength of the exciting radiation  ( no relaxation within the excited manifold )  .
+a process in which a change in direction or energy of an incident radiation is caused by interaction with a particle \  ,  a system of particles \  ,  or a photon .
+the redirection of a light beam due to interactions with molecules  ( rayleigh and raman scattering )  and aerosols  ( mie scattering )  .
+radiation may be scattered by its transmission through a medium containing particles .
+the scattering of light by particles and molecules which are much smaller than the wavelength of the light .
+the scattering of electromagnetic radiation by spherical particles of any size r \  ,  relative to the wavelength \  ,  lambda .
+the elastic scattering of a photon by an electron which afterwards occurs as a free electron .
+a reaction for which the overall standard enthalpy change is positive .
+a reaction for which the overall standard enthalpy change is negative .
+a reaction for which the overall standard gibbs energy change is negative .
+a process occurring in a thermally insulated system \  ,  so that there is no flow of heat to or from the surroundings .
+the  ( usually intramolecular )  transfer of an atom or group during the course of a molecular rearrangement .
+the movement of a bond to a new position within the same molecular entity .
+a combination of migration and insertion .
+the subsequent precipitation of a chemically different species upon the surface of an initial precipitate usually \  ,  but not necessarily \  ,  including a common ion .
+the reaction of triplet molecular oxygen with radicals formed photochemically .
+the reaction of photochemically produced singlet molecular oxygen with molecular entities to give rise to oxygen containing molecular entities .
+the photooxygenation reaction proceeding by electron transfer to produce the superoxide radical anion as the reactive species .
+a reaction initiated by photosensitization .
+the process by which a photochemical change or photophysical process occurs in one  ( molecular )  entity as a result of initial absorption of radiation by another \ n ( molecular )  entity called a photosensitizer .
+catalysis occurring by the simultaneous or sequential action of light and thermal energy .
+a  ( photo ) catalytic phenomenon that occurs in circumstances when the system is also heated by light .
+catalysis occurring by the action of thermal energy .
+radiocatalysis taking place under the e?ect of the simultaneous action of quanta of light and ionizing radiation .
+a reaction which involves the enthalpy change .
+any oxidoreductase reaction in which dioxygen is the electron acceptor .
+oxidoreductase reaction involving incorporation of both atoms of dioxygen into the donor .
+any oxidoreductase reaction that brings about the incorporation of only one atom of oxygen from dioxygen into the donor .
+a chemical degradation reaction that is caused by thermal energy .
+a chemical reaction in which the oxidation of one reactant is coupled to the reduction of a second reactant .
+atp  +  h2o  -  -  >  amp  +  diphosphate
+atp  +  h2o  -  -  >  adp  +  phosphate
+atp  +  h2o  +  na +  ( in )   +  k +  ( out )   -  -  >  adp  +  phosphate  +  na +  ( out )   +  k +  ( in ) 
+na +  ( in )   -  -  >  na +  ( out ) 
+k +  ( out )   -  -  >  k +  ( in ) 
+atp  +  h2o  +  k +  ( out )   -  -  >  adp  +  phosphate  +  k +  ( in ) 
+generally \  ,  reaction with a solvent \  ,  or with a lyonium ion or lyate ion \  ,  involving the rupture of one or more bonds in the reacting solute .
+solvolysis by water .
+a reaction \  ,  elementary or stepwise \  ,  in which one atom or group in a molecular entity is replaced by another atom or group .
+a heterolytic reaction in which the reagent supplying the entering group acts as an electrophile .
+a heterolytic reaction in which the reagent supplying the entering group acts as a nucleophile .
+a reaction proceeding by the movement of pairs of electrons from areas of high electron density  ( nucleophiles )  to areas of low electron density  ( electrophiles )  \  ,  or from filled orbitals to empty orbitals .
+a chemical reaction of two or more reacting molecular entities \  ,  resulting in a single reaction product containing all atoms of all components \  ,  with formation of two chemical bonds and a net reduction in bond multiplicity in at least one of the reactants .
+the insertion of a metal of a metal complex into a covalent bond involving formally an overall two - electron loss on one metal or a one - electron loss on each of two metals .
+the reverse of oxidative addition .
+the reverse of oxidation .
+the incorporation of molecular oxygen into a substrate .
+oxidation of an organic compound by the removal of one or more hydrogen atoms .
+reduction of an organic compound by the addition of the hydrogen atoms or dihydrogen .
+the spontaneous net flow of solvent by diffusion through a semipermeable membrane from a phase where the solvent has a higher chemical potential to one where the solvent has a lower chemical potential .
+the motion of a liquid through a membrane as a consequence of the application of an electric field across the membrane .
+any movement of substances or electrons across a biological membrane .
+increase the rate of the reaction by one of the reactant that is present in nearly constant concentration but is consumed during the process .
+ethanol  +  nad +   -  -  >  acetaldehyde  +  nadh  +  h + 
+ethanol  -  -  >  acetaldehyde  +  2 e -   +  2 h + 
+nad +   +  2 e -   +  h +   -  -  >  nadh
+nadp +   +  2 e -   +  h +   -  -  >  nadph
+nad ( p )  +   +  2 e -   +  h +   -  -  >  nad ( p ) h
+methanol  +  nad +   -  -  >  formaldehyde  +  nadh  +  h + 
+methanol  -  -  >  formaldehyde  +  2 e -   +  2 h + 
+an aromatic alcohol  +  nadp +   -  -  >  an aromatic aldehyde  +  nadph  +  h + 
+propan - 2 - ol  +  nadp +   -  -  >  acetone  +  nadph  +  h + 
+an aromatic alcohol  +  nad +   -  -  >  an aromatic aldehyde  +  nadh  +  h + 
+an alcohol  +  nad +   -  -  >  an aldehyde or ketone  +  nadh  +  h + 
+3 - hydroxybenzyl alcohol  +  nadp +   -  -  >  3 - hydroxybenzaldehyde  +  nadph  +  h + 
+3 - hydroxybenzyl alcohol  -  -  >  3 - hydroxybenzaldehyde  +  2 e -   +  2 h + 
+r - ch ( oh )  - r'  -  -  >  r - c ( o )  - r'  +  2 e -   +  2 h + 
+r - ch2oh  -  -  >  r - c ( o ) h  +  2 e -   +  2 h + 
+r - ch ( oh )  - r'  -  -  >  r - c ( o )  - r'  +  2 e -   +  2 h + 
+propan - 2 - ol  -  -  >  acetone  +  2 e -   +  2 h + 
+the formation or presence of bonds between two or more separate binding sites within the same ligand and a single central atom .
+nad ( p ) h  +  h +   +  o2  -  -  >  nad ( p )  +   +  h2o2
+4 fe ( 2 +  )   +  4 h +   +  o2  -  -  >  4 fe ( 3 +  )   +  2 h2o
+2 cob ( ii ) yrinic acid a \  , c - diamide  +  fmn  -  -  >  2 cob ( i ) yrinic acid a \  , c - diamide  +  fmnh2
+hg2 +   +  nadph  -  -  >  hg  +  nadp +   +  h + 
+cyanocob ( iii ) alamin  +  nadph  +  h +   -  -  >  cob ( i ) alamin  +  cyanide  +  nadp + 
+transferrin \  [ fe ( iii )  \  ] 2  +  nadh  +  h +   -  -  >  transferrin \  [ fe ( ii )  \  ] 2  +  nad + 
+2 aquacob ( iii ) alamin  +  nadh  +  h +   -  -  >  2 cob ( ii ) alamin  +  nad + 
+cob ( ii ) alamin  +  nadh  +  h +   -  -  >  2 cob ( i ) alamin  +  nad + 
+2 aquacob ( iii ) alamin  +  nadph  +  h +   -  -  >  2 cob ( ii ) alamin  +  nadp + 
+2 fe ( iii )   +  nadh  +  h +   -  -  >  2 fe ( ii )   +  nad + 
+2  \  [ methionine synthase \  ]  - cob ( ii ) alamin  +  nadph  +  h +   +  2 s - adenosyl - l - methionine  -  -  >  2  \  [ methionine synthase \  ]  - methylcob ( i ) alamin  +  2 s - adenosylhomocysteine  +  nadp + 
+ferrocytochrome  +  nitrate  -  -  >  ferricytochrome  +  nitrite
+4 ferrocytochrome c  +  o2  -  -  >  4 ferricytochrome c  +  2 h2o
+h2  +  nad ( p )  +   -  -  >  h +   +  nad ( p ) h
+h2  +  nad +   -  -  >  h +   +  nadh
+h2  +  nadp +   -  -  >  h +   +  nadph
+2 h2  +  ferricytochrome c3  -  -  >  4 h +   +  ferrocytochrome c3
+magnesium - protoporphyrin ix 13 - monomethyl ester  +  3 nadph  +  3 h +   +  3 o2  -  -  >  divinylprotochlorophyllide  +  3 nadp +   +  5 h2o
+h2  +  oxidized ferredoxin  -  -  >  reduced ferredoxin  +  2 h + 
+magnesium - protoporphyrin ix 13 - monomethyl ester  +  nadph  +  h +   +  o2  -  -  >  13 ( 1 )  - hydroxy - magnesium - protoporphyrin ix 13 - monomethyl ester  +  nadp +   +  h2o
+13 ( 1 )  - hydroxy - magnesium - protoporphyrin ix 13 - monomethyl ester  +  nadph  +  h +   +  o2  -  -  >  13 ( 1 )  - oxo - magnesium - protoporphyrin ix 13 - monomethyl ester  +  nadp +   +  2 h2o
+13 ( 1 )  - oxo - magnesium - protoporphyrin ix 13 - monomethyl ester  +  nadph  +  h +   +  o2  -  -  >  divinylprotochlorophyllide  +  nadp +   +  2 h2o
+the process by which a particle or a set of particles crosses a barrier on its potential - energy surface without having the energy required to surmount this barrier .
+a concerted process where the proton and the electron tunnel at the same time but independently of each other .
+elementary chemical process undergone by an electronically excited molecular entity and yielding a primary photoproduct .
+dissociation occurring by tunnelling from a 'bound' to an 'unbound' vibronic state .

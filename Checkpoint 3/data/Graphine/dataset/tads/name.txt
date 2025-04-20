@@ -1,0 +1,628 @@
+adult capitulum
+adult body
+adult leg
+adult palp
+type a single pore multifunctional sensillum
+adult article iii
+adult article ii
+adult article iv
+adult hypostome
+type b single pore chemosensory sensillum
+adult hypostomal corona
+adult hypostomal recuved denticle
+adult chelicera
+adult preoral canal
+adult outer cheliceral sheath
+adult inner cheliceral sheath
+adult cheliceral hood
+adult cheliceral base
+basis capituli
+adult tectum
+internal cheliceral muscles
+adult flexor tendon of cheliceral digit
+adult extensor tendon of cheliceral digit
+adult inner cheliceral digit
+adult medial spine of inner cheliceral digit
+adult article i
+adult ps - 1 pit sensillum
+adult ps - 2 pit sensillum
+adult salivarium
+adult psd - 1 neuron
+adult placoid sensillum
+cheliceral nerve
+adult placoid sensillum nerve branch
+adult psd - 2 nerve branch
+adult papal nerve
+adult porose area
+adult scutum
+adult labrum
+adult mouth
+adult epistome
+adult pharynx
+adult respiratory system
+adult atrial chamber
+adult pharyngeal lumen
+adult pharyngeal constrictor muscle
+adult pharyngeal ventral dilator muscle
+adult pharyngeal dorsal dilator muscle
+adult pharyngeal lateral dilator muscle
+adult anterior pharyngeal valve
+adult v - shaped wedge
+adult alar plate
+adult internal hypostomal muscle
+adult salivary ducts
+adult recurrent nerve
+adult pharyngeal valve teeth
+adult esophagus
+adult dorsal alloscutum
+adult spiracle
+adult spiracular plate
+adult eye ixodidae
+adult eye argasidae
+adult foveal pore
+adult foveal gland
+adult foveal nerve
+adult anus
+adult female genital pore
+adult male genital pore
+adult anal groove
+adult marginal groove
+adult hood
+adult opisthosoma
+adult podosoma
+adult pregenital plate
+adult median plate
+adult anal plate
+adult adanal plate
+adult epimeral plate
+adult cheek
+adult coxal gland
+adult coxal tubule
+adult coxal pore
+adult distal tubule of coxal gland
+adult proximal tubule of coxal gland
+adult coxal gland filtration membrane
+adult coxal tubule podocyte
+adult foveal duct
+adult sensilla auriformia
+adult setae
+adult cervical groove
+adult lateral groove
+adult lateral carina
+adult camerostome
+adult mammillae
+adult disc
+adult post - anal groove
+adult transverse post - anal groove
+adult goblet
+adult aeropyle
+adult pedicel
+adult macula
+adult ostium of the spiracle .
+adult scapula
+adult marginal body fold
+adult supracoxal fold
+adult festoon
+adult coxal fold
+adult integument
+adult epidermis
+adult cuticle
+adult epicuticle
+adult procuticle
+adult dense homogenous layer
+adult cuticulin layer
+adult wax layer
+adult cement layer
+adult dermal glands type i
+adult dermal glands type ii
+adult salivary gland
+adult exocuticle
+adult endocuticle
+adult pore canal
+adult dermal gland duct
+adult dermal gland ampulla
+adult sensilla hastiformia
+adult salivay gand type i acinus
+adult salivary gland type ii acini
+adult salivary gland type iii acini
+adult salivary gland a cell
+adult salivary gland b cell
+adult salivary gland c cell
+adult salivary gland type i central cell
+adult salivary gland type i peripheral cell
+adult salivary gland peritubular cell
+adult salivary gland intralobular duct
+adult salivary gland granular acini ablumenal cell
+adult salivary gland granular acini adlumenal interstitial cell
+adult salivary gland type iv acini
+adult salivary gland d cell
+adult salivary gland e cell
+adult salivary gland f cell
+adult midgut lining udc cell
+adult salivary gland g cell
+adult salivary gland lobular duct
+adult salivary gland acinar lumen
+adult circulatory system
+adult heart
+adult pericardial sinus
+adult periganglionic sinus
+adult heart pulsatile region
+adult heart anterior region
+adult heart ostium
+adult heart aortic valve .
+adult aorta
+adult dorsolateral suspensory muscles of the heart
+adult ventrolateral suspensory muscles of the heart
+adult anterior sinus
+adult pedal artery i
+adult pedal artery ii
+adult pedal artery iii
+adult pedal artery iv
+adult excretory system
+adult malpighian tubule
+adult hindgut
+adult intestine
+adult rectal sac
+adult rectum
+adult malpighian tubule epithelial lining
+adult malpighian tubule outer layer
+adult alimentary system
+adult midgut
+adult stomach
+adult anterior median diverticulum
+adult anterior lateral diverticulum
+adult midgut anterior diverticula
+adult midgut lateral diverticula
+adult midgut postero - lateral diverticulum
+adult midgut postero - median diverticula
+adult proventriculus
+adult midgut epithelial lining
+adult midgut smooth muscle layer
+adult midgut dgc i cell
+adult midgut dgc ii cell
+adult midgut secretory cell
+adult midgut lumen
+adult foregut
+adult nervours / neuroendocrine system
+adult synganglion
+adult synganglion supraessophageal region
+adult synganglion subesophageal region
+adult periganglionic sheath
+adult synganglion neurilemma
+adult synganglion perineurium .
+adult synganglion cortical zone
+adult synganglion neuropile
+adult synganglion cortical zone neuron type i
+adult synganglion cortical zone neuron type ii
+adult synganglion cortical zone neuron type iii
+adult synganglion protocerebrum
+adult synganglion glomeruli
+adult synganglion commissure
+adult synganglion connective
+adult synganglion cheliceral ganglia
+adult synganglion palpal ganglia
+adult subostial space
+adult synganglion stomadeal pons
+adult synganglion hyperesophageal ganglion
+adult synganglion retrocerebral organ complex
+adult synganglion roc unpaired lobe
+adult synganglion roc paired lobe
+adult synganglion anterodoral glomerulus
+adult synganglion posterodorsal glomerulus
+adult synganglion pedal ganglion i
+adult synganglion pedal ganglion ii
+adult synganglion pedal ganglion iii
+adult synganglion pedal ganglion iv
+adult synganglion olfactory lobe
+adult synganglion olfactory glomeruli
+adult synganglion ventral glomeruli
+adult synganglion opisthosomal ganglion
+adult peripheral nervous system
+adult peripheral nerves
+adult peripheral nerve mesaxon
+adult glial cell
+adult peripheral nerve trunk i
+adult peripheral nerve trunk ii
+adult peripheral nerve trunk iii
+adult peripheral nerve trunk iv
+adult cheliceral nerve
+adult palpal nerve
+adult pharyngeal nerve
+adult optic nerve
+adult sensory neuron
+adult tracheal trunk
+adult opisthosomal nerve
+adult neuroendocrine system
+adult retrocerebral organ complex  ( roc )
+adult hemocyte
+adult prohemocyte
+adult plasmatocyte
+adult granulocyte type i
+adult granulocyte type ii
+adult spherulocyte
+adult oenocytoid
+adult neurohaemal organ
+adult neurosecretory center
+adult lateral segmental organs
+adult neurosecretory tract
+adult retrocerebral organ complex vascular sheath
+adult retrocerebral organ complex neurohaemal sinus
+adult neurosecretory center 1
+adult neurosecretory center 2
+adult neurosecretory center 3
+adult neurosecretory center 4
+adult neurosecretory center 5
+adult neurosecretory center 6
+adult neurosecretory center 7
+adult neurosecretory center 8
+adult neurosecretory center 9
+adult lateral nerve plexus
+adult neurosecretory center 10
+adult neurosecretory center 11
+adult neurosecretory center 12
+adult neurosecretory center 13
+adult neurosecretory center 14
+adult neurosecretory center 15
+adult neurosecretory center 16
+adult neurosecretory center 17
+adult neurosecretory center 18
+adult accessroy nerve roc
+adult compound nerve roc
+adult hemocoel
+adult retrocerebral organ complex dorsal lobe
+adult retrocerebral organ complex ventral lobe
+adult hypogastric nerve
+adult prin - roc
+adult anterior cerebral anastomosis trunk
+adult coxa
+adult trochanter
+adult femur
+adult tibia
+adult patella
+adult tarsus
+adult apotele
+adult claw
+adult pulvillus
+adult haller's organ
+adult haller's organ posterior capsule
+adult haller's organ anterior pit
+adult haller's organ precapsular seta
+adult haller's organ anterior pit md - 1 sensillum
+adult haller's organ anterior pit md2 sensillum
+adult haller's organ postcapsular seta
+adult haller's organ capsular seta
+adult haller's organ gland
+adult peripheral sensillum
+adult thecogen cell
+adult peripheral sensilla scolopale
+adult peripheral sensilla trichogen cell
+adult peripheral sensilla tormogen cell
+adult seta
+adult setal socket
+adult distal tarsal slit sense organ
+adult eye lens
+adult synganglion optic ganglion
+adult anterior dorsal trunk
+adult anterior lateral trunk
+adult anterior median trunk
+adult median trunk
+adult median dorsal trunk
+adult posterior dorsal trunk
+adult posterior cerebral anastomosis
+adult posterior median trunk
+adult pedal trunk
+adult trachea
+adult tracheal taenidium
+adult tracheal epithelium
+adult cheliceral trachea
+adult gnathosomal tracheae
+adult posterior lateral trachea
+adult fat body
+adult fat body trophocyte
+adult fat body nephrocyte
+adult muscular system
+adult dorso - ventral muscle
+adult abductors coxa i
+adult adductors coxa i
+adult abductors coxa ii
+adult abductors coxa iii
+adult abductors coxa iv
+adult adductors coxa ii
+adult adductors coxa iii
+adult adductors coxa iv
+adult dorso - genital muscle
+adult captiular depressor
+adult capitular levator
+adult intercoxal muscle
+adult coxal fold muscle
+adult coxal gland muscle
+adult marginal fold muscle
+adult preanal muscles
+adult cheliceral retractor muscle
+adult spiracular muscle
+adult spiracular columella
+adult anal valve
+adult macula wedge
+adult tracheole
+adult columella
+adult columella stalk
+adult atrial valve
+adult vestibulum
+adult female reproductive system
+adult gene's organ
+adult capitular foramen
+adult camerostomal fold
+adult gene's organ retractor muscle
+adult trochanteral flexor muscle
+adult trochanteral extensor muscle
+adult femoral flexor muscle
+adult femoral extensor muscle
+adult patellar flexor muscle
+adult patellar extensor muscle
+adult tibial flexor muscle
+adult tibial extensor muscle
+adult tarsal flexor muscle
+adult tarsal extensor muscle
+adult pretarsal flexor muscle
+adult pretarsal extensor muscle
+adult gene's organ cuticular sac
+adult gene's organ corpus
+adult gene's organ horn
+gene's organ epithelial sac
+adult gene's organ cranial gland
+adult gene's organ caudal gland
+adult gene's organ tubular gland
+adult gene's organ aperture
+adult tubular gland main efferent duct
+adult gene's organ epithelial sac lumen
+adult circular cribate pit
+adult cribate pit pore
+adult cuticular sac tubuli
+adult cuticular sac ledge
+adult gene's organ tubular endpiece
+adult gene's organ tubular endpiece central excretory duct
+adult gene's organ tubular end piece gland cell
+adult gene's organ horn ledge
+adult gene's organ exceretory duct lumen
+adult gene's organ tubular end piece duct cell
+adult atrial chamber epithelium
+adult atrial chamber cuticular lining
+adult cuticular sac pore
+adult foveal neck zone
+adult foveal duct cell
+adult foveal duct ampullae
+adult foveae dorsales
+adult intestine lining epithelium
+adult rectal sac epithelial lining
+adult rectum epithelial layer
+adult inner cheliceral digit dorsal spine
+adult ovary
+adult ovary interstitial cell
+adult ovary oogonia
+adult ovary outer wall
+adult ovary tunica propria
+adult ovary lumen
+adult ovary lumenal epithelium
+adult ovary longitudinal groove
+adult ovary stage i oocyte
+adult ovary stage ii oocyte
+adult ovary stage iii oocyte
+adult ovary stage iv oocyte
+adult ovary stage v oocyte
+adult ovary funiculus
+adult ovary funicular cell
+adult oviduct
+adult oocyte shell
+adult oocyte micropyle
+adult oviduct epithelial lining
+adult oviduct outer wall
+adult oviduct ampulla
+adult uterus
+adult uterus lining epithelium
+adult uterus outer wall
+adult uterine connecting tube
+adult uterine connecting tube cuticular lining
+adult uterine connecting tube epithelial layer
+adult uterine connecting tube muscle layer
+adult cervical vagina
+adult cervical vagina cuticular lining
+adult cervical vagina epithelial layer
+adult cervical vagina muscle layer
+adult cerviceal vagina epithelial cuboidal cell
+adult cervical vagina epithelial columnar cell
+adult seminal receptacle
+adult oviduct lumen
+adult uterine lumen
+adult seminal receptacle cuticular lining
+adult seminal receptacle epithelial lining
+adult seminal receptacle lumen
+adult cervical vagina lumen
+adult vestibular vagina
+adult vestibular vagina cuticular lining
+adult vestibular vagina trabeculae
+adult vestibular vagina epithelium
+adult vestibular vagina vestibular sinus
+adult vestibular vagina lumen
+adult female tubular accessory glands
+adult tag duct
+adult tag duct zone cuticular lining
+adult tag duct zone epithelium
+adult tag duct zone lumen
+adult tag glandular region
+adult tag glandular epithelium
+adult tag secretory cell
+adult tag stellate supporting cell
+adult tag connective tissue wall
+adult lobular accessory gland
+adult lag secretory cell
+adult lag lobular duct
+adult male reproductive system
+adult testis
+adult posthypostomal seta
+adult capitular auricula
+adult palpal posterior spur
+adult capitular constriction
+adult transverse sutural line
+adult cornua
+adult sutural line
+adult tubercle
+adult body pseudoscutum
+adult leg ball and socket joint
+adult anterior projection
+adult hypostomal dentition
+adult hypostome crenulation
+adult tarsus dorsal hump
+adult punctation
+adult interstitial cell
+adult spermatocyst
+adult spermatocyst epithelium
+adult spermatogonia
+adult testis outer wall
+adult testis lumen
+adult isthmus
+adult peritrophic membrane
+adult prospermia
+adult vasa deferentia
+adult lining epithelium of the vas deferens
+adult vas deferens lumen
+adult ejaculatory duct
+adult ejaculatory duct lining epithelium
+adult ejaculatory duct cuticular lining
+adult ejaculatory duct lumen
+adult rectum cuticular lining
+adult esophagus cuticle lining
+adult intestinal lumen
+adult rectal sac lumen
+adult rectal lumen
+adult anal aperture
+adult pharynx cuticular lining
+adult pharyngeal wall epithelium
+adult male accessory gland
+adult male ventral granular lobe
+adult male dorsal granular lobe
+adult male antero - dorsal lobe
+adult male lateral dorsal lobe
+adult male postero - dorsal lobe
+adult male postero - lateral lobe
+adult male postero - ventral lobe .
+adult male accessory gland dense granule cell
+adult male accessory gland mixed granule cell
+adult male accessory gland epithelial wall
+adult male spongy lobe
+adult uterine horns
+adult primary spermatocyte
+adult male genital plate
+adult male spermatophore
+adult male ectospermatophore
+adult male endospermatophore
+adult esophageal epithelial wall
+adult gene's organ accessory gland
+adult gene's organ accessory gland cell
+adult gene's organ accessory gland pore
+adult gene's organ accessory gland duct cell
+adult spiracular gland
+adult spiracular gland pore
+adult coxal gland lumen
+adult male postero - lateral granular lobe 1
+adult male postero - lateral granular lobe 2
+adult male postero - lateral granular lobe 3
+adult esophageal lumen
+adult preoral canal membrane
+adult coxal spine
+adult salivary gland acinar duct
+adult salivary gland acinar duct lining .
+adult salivary gland acinar duct lumen
+adult salivary gland lobular duct epithelium
+adult salivary gland lobular duct cuticular lining .
+adult salivary gland lobular duct lumen
+adult salivary gland type i acinus constrictor cell
+adult salivary duct cuticular lining
+adult salivary duct wall
+adult salivary duct lumen
+adult aorta wall
+adult aorta lumen
+adult heart aortic myocardial cone
+adult pericardial septum
+adult heart lumen
+adult spermatozoa
+adult sensory system
+adult setal shaft
+adult retinal cell
+adult eye glial sheath
+adult lens lenticular pore canal
+adult malpighian tubule lumen
+adult peripheral nerve neurilemma
+adult atrial muscle
+adult periesophageal sinus
+anterior tracheal trunk
+adult dorsal protocephalic neurosecretory tract
+adult periesophageal ridge / perineural association
+adult ventral protocephalic neurosecretory tract
+adult pharyngeal neurosecretory tract
+adult anterior perineurial association
+adutl synganglion pii chiasmatic nst
+adult synganglion lateral neurosecretory tract
+adult synganglion ventro - medial neurosecretory tract
+adult malpighian tubule pyramidal cell
+adult malpighian tubule cuboidal cell
+adult gene's organ balloon - like structure
+adult gene's organ attachment cord
+adult midgut spent digestive cell
+adult midgut anterior median diverticula
+adult midgut anterior lateral diverticula
+adult coxal accessory gland
+adult tarsal male claw sensilla dorsal pair
+adult multiporose single - walled sensilla
+adult smooth double - walled sensilla
+adult tip - pore sensilla
+adult no pore sensilla
+adult haller's organ anterior pit md - 3 sensillum
+adult male claw sensilla middle pair
+adult chelicera pit sensillum
+anatomical entity
+anatomical structure
+portion of organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical line
+anatomical point
+anatomical surface
+anatomical system
+multi - cellular organism
+cell
+cell component
+compound organ component
+simple organ
+compound organ
+male organism
+female organism
+hermaphroditic organism
+asexual organism
+organism subdivision
+acellular anatomical structure
+anatomical cluster
+extraembryonic structure
+portion of tissue
+sequential hermaphroditic organism
+synchronous hermaphroditic organism
+gonochoristic organism
+protandrous hermaphroditic organism
+protogynous hermaphroditic organism
+anatomical group
+multi - tissue structure
+cell space
+portion of cell substance
+single cell organism
+basal lamina
+epithelium
+simple cuboidal epithelium
+simple columnar epithlium
+multilaminar epithelium
+simple squamous epithelium
+atypical epithelium
+cavitated compound organ
+unilaminar epithelium
+solid compound organ
+part_of
+epithelial cell

@@ -1,0 +1,66 @@
+relation between biological objects that resemble or are related to each other sufficiently to warrant a comparison .
+similarity that results from common evolutionary origin .
+similarity that results from independent evolution .
+similarity that is characterized by the organization of anatomical structures through the expression of homologous or identical patterning genes .
+homoplasy that involves different underlying mechanisms or structures .
+homoplasy that involves homologous underlying mechanisms or structures .
+homology that is defined by similarity with regard to selected structural parameters .
+homology that is defined by common descent .
+homology that is defined by sharing of a set of developmental constraints ,  caused by locally acting self - regulatory mechanisms of differentiation ,  between individualized parts of the phenotype .
+homoplasy that involves phenotypes similar to those seen in ancestors within the lineage .
+structural homology that is detected by similarity in content and organization between chromosomes .
+historical homology that involves genes that diverged after a duplication event .
+paralogy that involves sets of syntenic blocks .
+syntenic homology that involves chromosomes of different species .
+structural homology that involves complex structures from which only a fraction of the elements that can be isolated are separately homologous .
+structural homology that is detected at the level of the 3d protein structure ,  but maybe not at the level of the amino acid sequence .
+structural homology that involves a pseudogenic feature and its functional ancestor .
+historical homology that involves genes that diverged after a speciation event .
+historical homology that is characterized by an interspecies  ( horizontal )  transfer since the common ancestor .
+historical homology that involves two members sharing no other homologs in the lineages considered .
+orthology that involves two genes that did not experience any duplication after the speciation event that created them .
+relationship between recognizably corresponding characters that occurs in two or more taxa and have different generative bases .
+paralogy that results from a whole genome duplication event .
+paralogy that results from a lineage - specific duplication subsequent to a given speciation event .
+paralogy that results from a duplication preceding a given speciation event .
+1:many orthology that involves a gene in species a and one of its ortholog in species b ,  when duplications more recent than the species split have occurred in species b but not in species a .
+1:many orthology that involves a gene in species a and its ortholog in species b ,  when duplications more recent than the species split have occurred in species a but not in species b .
+iterative homology that involves structures arranged along the main body axis .
+biological homology that is characterized by changes ,  over evolutionary time ,  in the rate or timing of developmental events of homologous structures .
+heterochronous homology that is produced by a retention in adults of a species of traits previously seen only in juveniles .
+heterochronous homology that is produced by a maturation of individuals of a species past adulthood ,  which take on hitherto unseen traits .
+paedomorphosis that is produced by precocious sexual maturation of an organism still in a morphologically juvenile stage .
+paedomorphosis that is produced by a retardation of somatic development .
+convergence that results from co - evolution usually involving an evolutionary arms race .
+orthology that involves two genes when duplications more recent than the species split have occurred in one species but not the other .
+historical homology that involves two members of a larger set of homologs .
+historical homology that involves a structure that has no other homologs in the species in which it is defined ,  and several homologous structures in another species .
+historical homology that is based on recent shared ancestry ,  characterizing a monophyletic group .
+historical homology that is based on distant shared ancestry .
+homocracy that involves morphologically and phylogenetically disparate structures that are the result of parallel evolution .
+historical homology that is characterized by topological discordance between a gene tree and a species tree attributable to the phylogenetic sorting of genetic polymorphisms across successive nodes in a species tree .
+historical homology that involves not recombining and subsequently differentiated sex chromosomes .
+historical homology that involves the chromosomes able to pair  ( synapse )  during meiosis .
+orthology that involves two genes that experienced duplications more recent than the species split that created them .
+paralogy that involves genes from the same species .
+paralogy that involves genes from different species .
+paedomorphosis that is produced by delayed growth of immature structures into the adult form .
+peramorphosis that is produced by a delay in the offset of development .
+xenology that results ,  not from the transfer of a gene between two species ,  but from a hybridization of two species .
+orthology that involves functional equivalent genes with retention of the ancestral function .
+paralogy that is characterized by duplication of adjacent sequences on a chromosome segment .
+parallelism that involves morphologically very similar structures ,  occurring only within some members of a taxon and absent in the common ancestor  ( which possessed the developmental basis to develop this character )  .
+homocracy that involves recognizably corresponding characters that occurs in two or more taxa ,  or as a repeated unit within an individual .
+between - species paralogy that involves single copy paralogs resulting from reciprocal gene loss .
+xenology that involves genes that ended up in a given genome as a result of a combination of vertical inheritance and horizontal gene transfer .
+historical homology that involves functional equivalent genes with retention of the ancestral function .
+historical homology that involves orthologous pairs of interacting molecules in different organisms .
+similarity that is characterized by interchangeability in function .
+biological homology that involves parts of the same organism .
+xenology that is characterized by multiple horizontal transfer events ,  resulting in the presence of two or more copies of the foreign gene in the host genome .
+paralogy that is characterized by extra similarity between paralogous sequences resulting from concerted evolution .
+structural homology that involves structures with the same or similar relative positions .
+biological homology that involves an ectopic structure and the normally positioned structure .
+synology that results from allopolyploidy .
+iterative homology that involves two structures ,  one of which originated as a duplicate of the other and co - opted the expression of patterning genes of the ancestral structure .
+historical homology that involves orthologous pairs of transcription factors and downstream regulated genes in different organisms .

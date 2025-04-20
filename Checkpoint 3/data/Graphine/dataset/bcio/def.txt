@@ -1,0 +1,353 @@
+a process in which a bci is applied in a given context ,  including bci engagement and outcome behaviour .
+human behavior that is an intervention outcome .
+an intervention that has the aim of influencing human behaviour .
+an aggregate of entities that are not dependent on the intervention but may influence the effect of a bci on its outcome behaviour .
+a process that is causally active in the relationship between a bci and its outcome behaviour .
+a planned process that is part of a bci and is intended to be causally active in influencing the outcome behaviour .
+a part of a bci that is the process by which bci content is delivered .
+an attribute of a bci that involves its temporal organisation .
+a role played by a person ,  population or organisation that provides a bci .
+a behaviour change intervention source role that inheres in a person .
+a person who is the bearer of a behaviour change intervention source role .
+a role that inheres in a person source .
+a personal role of source that is realised by doing a specified type of work or working in a specified way .
+an occupational role of source that manages ,  plans and coordinates the overall activities of enterprises ,  governments and other organisations .
+an occupational role that works in knowledge building activities ,  applies scientific or artistic concepts and theories or teaches about the foregoing in a systematic manner .
+a professional that conducts research ,  improves or develops concepts ,  theories and operational methods or applies scientific knowledge .
+a professional that improves or develops concepts ,  theories and operational method ,  and applied scientific knowledge relating to medicine ,  nursing ,  dentistry ,  veterinary medicine ,  pharmacy ,  and promotion of health .
+a health professional that studies ,  diagnoses ,  treats and prevents illness ,  disease ,  injury and other physical and mental impairments in humans through the application of modern medicine .
+a medical doctor that diagnoses ,  treats and prevents illness ,  disease ,  injury and other physical and mental impairments and maintains general health in humans through application of modern medicine .
+a medical doctor that diagnoses ,  treats and prevents illness ,  disease ,  injury and other physical and mental impairments in humans ,  using specialized testing ,  diagnostic ,  medical ,  surgical ,  physical and psychiatric techniques through application of the principles and procedures of modern medicine .
+a health professional that provides treatment and care services for people who are physically or mentally ill ,  disabled or infirm ,  and those with potential risks to health including before ,  during and after childbirth .
+a health professional that provides treatment ,  support and care services for people who are in need of nursing care due to the effects of ageing ,  injury ,  illness or other physical or mental impairment ,  or potential risks to health .
+a health professional that plans ,  manages ,  provides and evaluates midwifery care services before ,  during and after pregnancy and childbirth .
+a health professional that examines patients ,  prevents and treats illness ,  disease ,  injury and other physical and mental impairments and maintains general health in humans .
+a health professional that provides advisory ,  diagnostic ,  curative and preventive medical services more limited in scope and complexity than those carried out by medical doctors .
+a health professional that diagnoses ,  prevents and treats diseases ,  injuries and dysfunctions of animals .
+a health professional that diagnoses treats and prevents diseases ,  injuries and abnormalities of the teeth ,  mouth ,  jaws and associated tissues by applying the principles and procedures of modern dentistry .
+a health professional that stores ,  preserves ,  compounds and dispenses medicinal products and counsel on the proper use and adverse effects of drugs and medicines following prescriptions issued by medical doctors and other health professionals .
+a health professional that assesses ,  plans and implements programmes to recognize ,  monitor and control environmental factors that can potentially affect human health ,  to ensure safe and healthy working conditions and to prevent disease or injury caused by chemical ,  physical ,  radiological and biological agents or ergonomic factors .
+a health professional  that assesses ,  plans and implements rehabilitative programmes that improve or restore human motor functions ,  maximize movement ability ,  relieve pain syndromes ,  and treat or prevent physical challenges associated with injuries ,  diseases and other impairments .
+a health professional  that assesses ,  plans and implements programmes to enhance the impact of food and nutrition on human health .
+a health professional  that evaluates ,  manages and treats physical disorders affecting human hearing ,  speech ,  communication and swallowing .
+a health professional  that provides diagnosis ,  management and treatment services for disorders of the eyes and visual system .
+a professional that teaches the theory and practice of one or more disciplines at different educational levels .
+a teaching professional that prepares and delivers lectures and conduct tutorials in one or more subjects within a prescribed course of study at a university or other higher educational institution .
+a teaching professional that teaches or instructs vocational or occupational subjects in adult and further education institutions and to senior students in secondary schools and colleges .
+a teaching professional that teaches one or more subjects at secondary education level .
+a teaching professional that teaches teach a range of subjects at the primary education level .
+a teaching professional that promotes the social ,  physical ,  and intellectual development of children below primary school age through the provision of educational and play activities .
+a teaching professional that teaches children ,  young persons or adults with physical or intellectual special needs .
+a teaching professional that teaches students in the practice ,  theory and performance of music in private or small group tuition or within mainstream educational institutions .
+a teaching professional  that teaches students in the practice ,  theory and performance of dance ,  drama ,  visual and other arts  in private or small group tuition or within mainstream educational institutions .
+a professional that conducts research ,  improves or develops concepts ,  theories and operational methods ,  or applies knowledge relating to the law ,  social or cultural studies .
+a legal ,  social and cultural professional that conducts research on legal problems ,  advises clients on legal aspects of problems ,  pleads cases or conducts prosecutions in courts of law ,  presides over judicial proceedings in courts of law and draft laws and regulations .
+a legal ,  social and cultural professional that develops and maintains collections of archives ,  libraries ,  museums ,  art galleries and similar establishments .
+a legal ,  social and cultural professional that conducts research ,  improves or develops concepts ,  theories and operational methods or applies knowledge relating to psychology ,  sociology ,  philosophy ,  politics ,  economics ,  sociology ,  anthropology ,  history and other social sciences ,  or provides social services to meet the needs of individuals and families in a community .
+a social professional that studies the mental processes and behaviour of human beings as individuals or in groups ,  and applies this knowledge to promote personal ,  social ,  educational or occupational adjustment and development .
+a social professional that provides advice and guidance to individuals ,  families ,  groups ,  communities and organizations in response to social and personal difficulties .
+a legal ,  social and cultural professional that functions  as a perpetuator of sacred traditions ,  practices and beliefs .
+a legal ,  social and cultural professional that conceives and creates literary works ,  and interprets and communicates news and public affairs through the media .
+a legal ,  social and cultural professional that translates or interprets from one language into another .
+a legal ,  social and cultural professional that communicates ideas ,  impressions and facts in a wide range of media to achieve particular effects ,  interprets a composition such as a musical score or a script to perform or direct the performance ,  and hosts the presentation of such performance and other media events .
+a professional that performs technical and related tasks connected with research and the application of scientific or artistic concepts and operational methods ,  and government or business regulations .
+a technician and associate professional that performs technical and practical tasks to support diagnosis and treatment of illness ,  disease ,  injuries and impairments in humans or animals ,  and supports the implementation of health care usually established by medical ,  veterinary ,  nursing and other health professionals .
+a health associate professional that performs technical tasks to assist in diagnosis and treatment of illness ,  disease ,  injuries and impairments .
+a health associate professional that provides basic nursing and personal care for people who are physically or mentally ill ,  disabled or infirm ,  and for others in need of care due to potential risks to health including before ,  during and after childbirth .
+a nursing and midwifery associate professional that provides basic nursing and personal care for people in need of such care due to effects of ageing ,  illness ,  injury ,  or other physical or mental impairment .
+a nursing and midwifery associate professional that provides basic health care and advice before ,  during and after pregnancy and childbirth .
+a health associate professional that prevents and treats human physical and mental illnesses ,  disorders and injuries using herbal and other therapies based on theories ,  beliefs and experiences originating in specific cultures .
+a health associate professional that provides basic dental care services for the prevention and treatment of diseases and disorders of the teeth and mouth ,  according to care plans and procedures established by a dentist or other oral health professional .
+a health associate professional that provides health education ,  referral and follow - up ,  case management ,  basic preventive health care and home visiting services to specific communities .
+a health associate professional that provides physical therapeutic treatments to patients in circumstances where functional movement is threatened by injury ,  disease or impairment .
+a health associate professional that performs basic clinical and administrative tasks to support patient care under the direct supervision of a medical practitioner or other health professional .
+a health associate professional that investigates the implementation of rules and regulations relating to environmental factors that may affect human health ,  safety in the  workplace ,  and safety of processes for the production of goods and services .
+a health associate professional that provides emergency health care to patients who are injured ,  sick ,  infirm or otherwise physically or mentally impaired prior to and during transport to medical facilities .
+a technician and associate professional that performs mostly technical tasks connected with the practical application of knowledge relating to financial accounting and transaction matters ,  mathematical calculations ,  human resource development ,  selling and buying financial instruments ,  specialized secretarial tasks and enforcing or applying government rules .
+a technician and associate professional that performs support functions in courts of law or in law offices ,  provide services related to such legal matters as insurance contracts ,  the transferring of property and the granting of loans and other financial transactions ,  or conduct investigations for clients .
+a technician and associate professional that implements social assistance programmes and community services and assist clients to deal with personal and social problems .
+a technician and associate professional that provides support to ministers of religion or to a religious community ,  undertake religious works ,  preach and propagate the teachings of a particular religion and endeavour to improve well - being through the power of faith and spiritual advice .
+a technician and associate professional that prepares for and competes in sporting events for financial gain ,  trains amateur and professional sportsmen and women to enhance performance ,  promotes participation and standards in sport ,  organises and officiates sporting events ,  or provides instruction ,  training and supervision for various forms of exercise and other recreational activities .
+a sport and fitness worker that participates in competitive sporting events .
+a sport and fitness worker that works with amateur and professional sportspersons to enhance performance and encourage greater participation in sport ,  and organizes and officiates in sporting events according to established rules .
+a sport and fitness worker that leads ,  guides and instructs groups and individuals in recreational ,  fitness or outdoor adventure activities .
+a technician and associate professional that combines creative skills and technical and cultural knowledge in creative media or food .
+a technician and associate professional that provides support for the day to day running of computer systems ,  communication systems and networks ,  broadcast images and sound ,  telecommunication signals on land ,  sea or in aircraft .
+an occupational role that records ,  organizes ,  stores ,  computes and retrieves information ,  and performs a number of clerical duties in connection with money - handling operations ,  travel arrangements ,  requests for information ,  and appointments .
+an occupational role that provides personal or protective services related to travel ,  house - keeping ,  catering ,  personal care ,  protection against fire and unlawful acts ,  or sells goods in retail or markets .
+a services and sales worker that provides personal services related to travel ,  housekeeping ,  catering and hospitality ,  hairdressing and beauty treatment ,  animal care grooming and training ,  companionship and other services of a personal nature .
+a services and sales worker that demonstrates goods in wholesale or retail shops ,  at stalls and markets ,  door to door ,  via telephone or customer contact centres .
+a services and sales worker that provides care ,  supervision and assistance for children ,  patients and elderly ,  convalescent or disabled persons in institutional and residential settings .
+a personal care worker that provides care and supervision for children in non - domestic settings .
+a personal care worker that performs non - teaching duties to assist teaching staff ,  and provides care and supervision for children in schools and pre - schools .
+a personal care worker that provides direct personal care and assistance with activities of daily living to patients and residents in a variety of health care settings ,  working  in implementation of established care plans and practices ,  and under the direct supervision of medical ,  nursing or other health professionals or associate professionals .
+a personal care worker that provide routine personal care and assistance with activities of daily living to persons who are in need of such care due to effects of ageing ,  illness ,  injury ,  or other physical or mental conditions ,  in private homes and other independent residential settings .
+a services and sales worker that protects individuals and property against fire and other hazards ,  maintain law and order and enforce laws and regulations .
+an occupational role that grows and harvests plants or animals to provide food ,  shelter and income for themselves and their households .
+an occupational role that applies specific technical and practical knowledge and skills to construct and maintain buildings ,  machinery ,  equipment or tools ,  carries out printing work ,  and produces or processes foodstuffs ,  textiles and wooden ,  metal and other articles ,  including handicraft goods .
+an occupational role that operates and monitors industrial and agricultural machinery and equipment on the spot or by remote control ,  or drives and operates trains ,  motor vehicles and mobile machinery and equipment .
+an occupational role that assembles products from component parts according to strict specifications and procedures .
+an occupational role that involves the performance of simple and routine tasks which may require the use of hand - held tools and considerable physical effort .
+an occupational role that includes all jobs held by members of the armed forces .
+an occupational role that is a researcher but unclear what discipline .
+a personal role of source that is enrolled in an educational institution or a formal programme of professional training .
+a student or trainee that is currently learning in a non - institutional setting .
+a student or trainee that is currently learning at a primary or secondary education level in an institutional ,  organised setting .
+a student or trainee that is currently learning the curriculum material of vocational programme ,  normally in preparation for employment in a trade ,  job or profession .
+a student or trainee that is currently learning on an advanced educational programme in a university ,  college or professional school .
+a higher education student or trainee that is currently studying for an undergraduate degree .
+a higher education student or trainee that has completed an undergraduate degree .
+a higher education student or trainee that is currently studying for a masters degree .
+a higher education student or trainee that is currently studying for a doctoral degree .
+a specific domain of study undertaken by the bearer of a student or trainee role .
+a personal role of source that is realised in some relationship to the characteristics of the intervention participants .
+a relatedness between person source and the target population that is an individual who is related to another person as they are descended from a common progenitor ,  related by marriage or other legal tie ,  or by a feeling of closeness .
+a family member that is a mother ,  father or legal carer of a child .
+a family member that is an individual who is married or in a committed relationship with another individual .
+a family member that is a family relationship between two persons with at least one shared parent .
+a family member that is an offspring relationship from a person to their parent .
+a relatedness between person source and the target population that is an individual who cares ,  unpaid ,  for a friend or family member who ,  due to illness or disability ,  requires support in their daily life activities .
+a relatedness between person source and the target population that is a person whom the participant knows ,  likes and trusts ,  typically exclusive of sexual or family relations .
+a relatedness between person source and the target population that is a person with whom the participant works in a profession or business .
+a relatedness between person source and the target population that is a person which hires the services of the participant .
+a relatedness between person source and the target population that is descried as matched to intervention recipients on the basis of peerness  age ,  social status ,  gender ,  shared experience ,  shared health status etc .
+a relatedness between person source and the target population that is a source who is known and working to deliver intervention in own community .
+a count data item that is the number of providers that an individual participant in the intervention encounters .
+a count data item that is the total number of providers that are available and able to deliver the intervention .
+a social or demographic characteristic of a human being who is the bearer of a person source role .
+a socio - demographic attribute of person source that is a time quality inhering in a bearer by virtue of how long the bearer has existed .
+a socio - demographic attribute of person source that is an individual's perception of having a particular gender ,  which may or may not correspond with their birth sex .
+a gender of person source that is the cultural gender role of female .
+a gender of person source that is the cultural gender role of male .
+a gender of person source that reports not belonging to the cultural gender role distinctions of either male or female .
+a socio - demographic attribute of person source that is the ethnic group to which an individual identifies as belonging ,  where an ethic group is a population whose members have a common heritage that is real or presumed such as common culture ,  language ,  religion ,  behaviour or biological trait .
+a socio - demographic attribute of person source that is a religious group to which an individual identifies as belonging ,  where a religious group is a group of people characterised by the practice of a common religion .
+a socio - demographic attribute of person source that is an individuals ability to speak or perform in the intervention language .
+a socio - demographic attribute of person source that represents their mental or physical condition .
+a socio - demographic attribute of person source that is their amount or experience of the interventions target behaviour .
+a socio - demographic attribute of person source that is their existing psychological attributes related to or potentially affecting the target behaviour .
+a disposition that is an expert skill or knowledge held by the source delivering the behaviour change intervention .
+an expertise of person source that is knowledge or skills held in order to deliver the behaviour change intervention .
+a knowledge or skill that is already possessed by the source which allows them to deliver the behaviour change intervention ,  including educational level and qualifications .
+an attribute that is a field of knowledge or practice .
+the expertise discipline in which the person source has acquired their pre - existing knowledge and skills .
+a knowledge or skill that is additional knowledge or skills supplied to the source to allow them to deliver the behaviour change intervention ,  including educational level and qualifications .
+a knowledge or skill that is the duration of experience in related domain held by person source .
+a pre - existing knowledge or skill that is recognised through affiliation to a formal group or organisation .
+a process in which a person source is formally provided ,  by an individual with appropriate expertise ,  with corrective and skill - enhancing feedback ,  regarding the person sources performance in delivering the intervention .
+a process in which a person source delivers the intervention on a voluntary basis without formal compensation .
+a process in which a person source is paid or compensated for delivering the intervention .
+a payment of person source that is money ,  vouchers or valued objects given to the source for delivering the intervention .
+a payment of person source that is non - monetary compensation given to the source for delivering the intervention .
+a bci source whose occupational or voluntary role is focused on delivery of the behaviour change intervention .
+a bci source that is involved in the development of intervention content .
+a source involved in development of intervention that has developed the intervention content in collaboration with key stakeholders such as patients or community members .
+a bci source role that is borne by an organisation .
+an organisation that is the bearer of a behaviour change intervention source role ,  such as voluntary ,  public or commercial organisations delivering a behaviour change intervention .
+an attribute of a bci delivery that is the physical or informational medium through which a bci is provided .
+mode of delivery that involves intentional transmission of a representation of the world to an intervention recipient with the aim of changing that person's representation of the world .
+informational mode of delivery that involves a person as intervention source who interacts with an intervention recipient in real time .
+human interactional mode of delivery that involves an intervention source and recipient being together in the same location and communicating directly .
+human interactional mode of delivery that involves an intervention source and recipient being in different locations and communicating through a communication channel .
+informational mode of delivery that involves use of printed material .
+printed material mode of delivery that involves a letter or postcard that can be sent through the post or handed directly to the recipient
+printed material mode of delivery that involves display of a poster ,  sign or notice in a public location .
+printed material mode of delivery that involves use of of a printed publication .
+printed material mode of delivery that involves information printed on a product or its packaging ,  or a label attached to or included with ,  a product or its packaging ,  and aims to convey information about that product .
+informational mode of delivery that involves electronic technology in the presentation of information to an intervention recipient .
+electronic mode of delivery that involves presentation of information that is broadcast and displayed by television .
+electronic mode of delivery that involves presentation of information by a handheld mobile digital device that can store ,  retrieve and process data .
+electronic mode of delivery that involves presentation of information by a desktop or laptop computer .
+electronic mode of delivery that involves presentation of information by an electronic screen positioned in a public location .
+electronic mode of delivery that involves presentation of information by an electronic device that is worn or carried on the body .
+electronic mode of delivery that involves an electronic device positioned in the environment of the intervention recipient that can gather information and respond to commands .
+electronic mode of delivery that involves presentation of a 3 - d image .
+electronic mode of delivery that involves use of virtual reality through a virtual reality headset and optionally body movement sensors .
+electronic mode of delivery that involves presentation of information stored on an object that is inserted into a playing device .
+electronic mode of delivery that involves presentation of audio information that is broadcast and received by a radio receiver .
+electronic mode of delivery that involves a communication process in which a signal is sent by a caller to a recipient to alert them of the communication intent ,  giving the recipient the opportunity to enage with the communication .
+call mode of delivery that involves only audio information in the communication .
+call mode of delivery that involves video and audio information in the communication .
+call mode of delivery that involves textual information in the communication .
+electronic mode of delivery that involves communication by email .
+electronic mode of delivery that involves the intervention recipient playing a computer game .
+electronic mode of delivery that involves the intervention recipient interacting with a website .
+electronic mode of delivery that involves the intervention recipient interacting with a mobile application .
+electronic mode of delivery that involves the intervention recipient being given access to an e - book .
+informational mode of delivery that involves sound .
+informational mode of delivery that involves visual images .
+informational mode of delivery that involves written text .
+mode of delivery that involves changing the physical shape ,  size ,  structure or appearance of objects in the environment of the intervention recipient .
+mode of delivery that involves devices or substances that alter bodily processes or structure .
+somatic mode of delivery that involves ingestion of a chemical into the body .
+ingestion mode of delivery that involves ingestion of a chemical through the skin .
+somatic mode of delivery that involves ingestion of a chemical through the stomach or intestine .
+alimentary mode of delivery that involves swallowing of a pill or oral capsule .
+alimentary mode of delivery that involves swallowing of a liquid .
+ingestion mode of delivery that involves absorption of a chemical through the lining of the buccal cavity .
+ingestion mode of delivery that involves absorption of a chemical through  the upper airways or lungs by inspiration .
+ingestion mode of delivery that involves a chemical being introduced into body tissue through a hollow needle that punctures the skin .
+injection mode of delivery in which the tissue receiving the chemical is subcutaneous tissue .
+injection mode of delivery in which the tissue receiving the chemical is venous blood .
+injection mode of delivery in which the tissue receiving the chemical is muscle .
+ingestion mode of delivery that involves a device that is worn on the body .
+ingestion mode of delivery that involves chewing of a soft material .
+a mode of delivery that involves application of a physical stimulus to the body .
+physical stimulus mode of delivery that involves exposure of light to the body
+physical stimulius mode of delivery that involves application of heat or cold to the body .
+physical stimulus mode of delivery that involves application of electrical stimulation to the body .
+physical stimulus mode of delivery that involves application of physical pressure to the outside of the body .
+physical stimulus mode of delivery that involves a device that is worn on the body .
+mode of of delivery that involves modifying the structure of the body of the recipient of the intervention .
+mode of delivery that involves one recipient in the location where the intervention is delivered .
+mode of delivery that involves two recipients in the location where the intervention is delivered who have an interpersonal relationship .
+mode of delivery that involves three or more people in the location where the intervention is delivered .
+mode of delivery in which the only causal influence is from the intervention source to the recipient .
+mode of delivery in which there is causal influence from the intervention source to the recipient and from the recipient to the source .
+mode of delivery that involves delivery and receipt of the intervention or its components occurring at the same time or very close in time .
+mode of delivery that involves receipt of the intervention or its components taking place a significant period of time after delivery .
+mode of delivery that is not dependent on actions on the part of the intervention recipient .
+mode of delivery that requires some action on the part of the recipient .
+mode of delivery that involves application of typical elements of game playing  to other areas of activity ,  typically as an online marketing technique to encourage engagement with a product or service .
+mode of delivery that involves application of creativity on the part of the intervention recipient .
+individual human activity that enables a bci to influence the outcome behaviour .
+an aggregate of entities that form the environment in which a bci is provided .
+an aggregate of people who are exposed to a bci .
+a bci evaluation study that involves comparison between two or more bci scenarios to produce one or more bci effect estimates .
+a bci evaluation finding that characterises the difference between bci outcome estimates of two bci scenarios .
+an intervention evaluation study of a bci scenario .
+an information content entity that is about the likelihood of the bci evaluation finding misrepresenting the outcome behaviour .
+a report that is a description of a bci evaluation study .
+an attribute of bci content that is its amount or intensity .
+an evaluation finding that is the output of a bci evaluation study .
+a plan for a bci evaluation study .
+a bci evaluation finding that is about an outcome behaviour .
+a physical environment in which a bci is delivered .
+a geographical location of a country where the intervention takes place .
+a geographical location within a country where the intervention takes place .
+features of a given location ,  such as social and economic characteristics .
+an attribute of location describing the overall socioeconomic state of a location .
+an area social and economic condition described to have a low - income ,  whether at a country or within - country level .
+an area social and economic condition described to have a high - income ,  whether at a country or within - country level .
+an attribute of location describing the density of an area ,  in terms of people and resources within it .
+an area on the edge of a large town or city where a proportion of those who work in the town or city live .
+a facility where an individual is living alone or with one or more person .
+a facility where an individual lives with many others that may be collected according to a social structure such as education or disability .
+a multiple occupancy residence where many students live .
+a multiple occupancy residence where multiple vulnerable people live
+a residential facility where an individual is living that is not stable and secure .
+a residential facility where individuals are in a transitional state of housing and not staying for a prolonged period .
+a hospital facility to treat patients without them staying overnight ,  often after a hospital visit .
+a healthcare facility led by doctors .
+a healthcare facility that is run by a care home organization and is the bearer of a care home function .
+a rehabilitation facility to assist the recovery of people with drug or alcohol addiction .
+a clinic providing healthcare services to people in a certain area
+a healthcare facility to treat patients in the community without them staying overnight .
+a healthcare facility where dental healthcare is provided .
+a facility in which formal education is provided to a student population .
+an educational facility in which pre - school education is provided .
+a school facility for younger children ,  typically aged between five and eleven .
+a school facility providing education between primary and secondary school .
+a school facility for older children and teenagers ,  typically aged between eleven and eighteen .
+an educational facility providing practically based ,  occupationally - specific teaching .
+an educational facility in which students study for degrees and academic research is done .
+a facility used by a group of people living in the same place or having a particular characteristic in common .
+a community facility used for exercising .
+a community facility used for socialising by those living in a given area .
+a community facility containing a collection of books and learning resources for loan .
+a community facility where individuals or a group of people come to perform acts of devotion and veneration .
+a community facility used to serve food .
+a community facility designed to entertain or amuse .
+a facility used as an outlet for shopping .
+a facility of a room ,  set of rooms ,  or building used as a place for commercial ,  professional ,  or bureaucratic work .
+a facility where individuals are being reprimanded ,  detained or imprisoned .
+a facility of a building or group of buildings where goods are manufactured or assembled chiefly by machine
+a facility relating to or characteristic of soldiers or armed forces
+methods of traveling from one place to another .
+forms of transportation that run on fixed routes and are available to the public ,  usually for a set fare
+a form of transportation owned by an individual for individual or group use .
+a form of transportation delivering interventions in transient locations .
+a form of transporation which can transport patients for health treatment ,  and in some instances will also provide out - of - hospital healthcare to the patient .
+a site which is an outdoor location outside of a building .
+an outdoor environment set in an expanse of water .
+an outdoor environment for the passage of persons or cyclists on land
+a path or pavement for the passage of persons only on land .
+a path or pavement for the passage of people using bicycles only on land .
+a place designed and staffed to house and treat individuals that need assistance with mental dysfunctions
+a report that describes a bci scenario .
+a plan that is realized in a bci scenario process .
+an aggregate of people with whom a bci population interacts .
+a role played by a person that contributes substantively to production or reporting of a bci evaluation study .
+a population whose behaviour is studied in a bci evaluation study .
+an attribute of a bci that relates to selection or modification of the bci according to attributes of members of the bci population or bci context .
+a planned process that is the smallest part of bci content that is observable ,  replicable and on its own has the potential to bring about behaviour change .
+an aggregate of individual human behaviours of members of a population .
+a data item that is the output of an intervention evaluation study .
+individual human activity that involves co - ordinated contraction of striated muscles controlled by the brain .
+a planned process that has the aim of influencing an outcome .
+a research study that aims to assess attributes of an intervention with regards to their positive or negative value .
+a process that is influenced by an intervention .
+a process that is produced by a person .
+an aggregate of people
+individual human behaviour or population behaviour
+an attribute of a process
+an attribute of bci delivery that encompasses the characteristics of how bci content is communicated .
+an entity that exists in full at any time in which it exists at all ,  persists through time while maintaining its identity and has no temporal parts .
+an entity that has temporal parts and that happens ,  unfolds or develops through time .
+b is an independent continuant = def .
+p is a process = def .
+a specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities .
+b is a specifically dependent continuant = def .
+a three - dimensional immaterial entity that is  bounded by a material entity or it is a three - dimensional immaterial part thereof .
+b is a generically dependent continuant = def .
+an independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time .
+b is a process_profile =def .
+an anthropogenic geographic feature is a geographic feature resulting from the influence of human beings on nature .
+a construction which enables the movement of humans ,  their animals or their vehicles .
+place or area with clustered or scattered buildings and a permanent human population .
+an open way for the passage of vehicles ,  persons ,  or animals on land .
+a construction that has been assembled by deliberate human effort .
+a landform consisting of loose rock particles such as sand ,  gravel ,  shingle ,  pebbles ,  cobble ,  or even shell fragments along the shoreline of a body of water .
+an area in which grasses  ( graminae )  are a significant component of the vegetation .
+land having a cover of trees ,  shrubs ,  or both .
+an area with a high density of trees .
+a part of an astronomical body which is primarily composed of a continuous volume of solid material ,  shaped by one or more environmental processes .
+a facility ,  permanent or temporary ,  on land ,  in air ,  space or water ,  where scientific research or measurements can be undertaken .
+a bounded area of land ,  or water ,  usually in its natural or semi - natural  ( landscaped )  state and set aside for some purpose ,  usually to do with recreation or conservation .
+incorporated populated place .
+a system which has the disposition to environ one or more material entities .
+a site which has its extent determined by the presence or influence of one or more components of an environmental system or the processes occurring therein .
+a settlement with a high density of buildings and inhabitants .
+an area which is outside of a town ,  city ,  or urban area .
+a material part of an astronomical body .
+incorporated populated place
+an environmental zone which is bounded by material parts of a land mass or the atmosphere or space adjacent to it .
+a terrestrial zone which is bounded by constructed ,  manufactured ,  or other anthropogenic material entities .
+a construction which comprises a durable surface layer overlying a solid surface intended to sustain vehicular or foot traffic .
+a vegetated area is a geographic feature which has ground cover dominated by plant communities .
+a material entity which has been assembled through the intentional ,  instinctual ,  or deliberately programmed efforts of an organism or machine .
+a reference to a place on the earth ,  by its name or by its geographical location
+an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+a generically dependent continuant that is about some thing .
+an information content entity whose concretizations indicate to their bearer how to realize them in a process .
+a document assembled by an author for the purpose of providing information for the audience .
+a directive information entity with action specifications and objective specifications as parts that ,  when concretized ,  is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified .
+a collection of information content entities intended to be understood together as a whole
+a member of the species homo sapiens .
+a processual entity that realizes a plan which is the concretization of a plan specification .
+an entity that can bear roles ,  has members ,  and has a set of organization rules .
+a plan is a realizable entity that is the inheres in a bearer who is committed to realizing it as a planned process .
+a material entity that is a human made strcuture with firm connection between its foundation and the ground .
+an architectural structure that bears some function3
+a health care facility that bears the function to provide acute and intensive healthcare services and that is run by a hospital organization and is the bearer of a hospital function .
+a facility that is run by a school organization and is the bearer of a school function .
+a facility thats administered by a health care organisation for the purpose of providing health care to a patient population
+a health care facility that bears a function to provide healthcare to the sick or terminally ill
+a facility to assist in physical or addiction recovery
+a health care facility that bears a function to provide emergency healthcare services and the acute care of patients who present without prior appointment ,  having arrived either by their own means or by ambulance
+a health care facility that also bears a residence function and thus one in which the patients are also residents of the facility
+a facility that has at least one housing unit as part in which a person or persons live
+a health care facility whose function is to store ,  prepare ,  dispense ,  and monitor the usage of pharmaceutical drugs among patients in a given area or encountered in a given health care provider organization
+a material entity consisting of multiple components that are causally integrated .
+a planned process executed in the performance of scientific research wherein systematic investigations are performed to establish facts and reach new conclusions about phenomena in the world .
+a planned proccess that executes some study design or protocol to generate scientific data that is interpreted to test or generate a hypothesis .

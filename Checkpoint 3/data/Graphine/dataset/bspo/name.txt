@@ -1,0 +1,114 @@
+left side
+anatomical surface
+anatomical margin
+right side
+parasagittal plane
+midsagittal plane
+anatomical axis
+upper - lower axis
+deep - superficial axis
+anterior - posterior axis
+apical - basal axis relative to substrate
+proximal - distal axis
+dorsal - ventral axis
+left - right axis
+transverse plane
+horizontal plane
+upper - lower gradient
+deep - superficial gradient
+superior side
+apical - basal gradient
+proximal - distal gradient
+inferior side
+antero - dorsal region
+antero - ventral region
+postero - lateral region
+antero - lateral region
+postero - dorsal region
+deep region
+superficial region
+postero - ventral region
+antero - medial margin
+antero - lateral margin
+postero - medial margin
+postero - lateral margin
+dorso - medial margin
+ventro - medial margin
+antero - medial region
+anatomical gradient
+anterior - posterior gradient
+dorsal - ventral gradient
+anatomical side
+anterior side
+posterior side
+apical side
+basal side
+central side
+contralateral side
+distal side
+dorsal side
+postero - medial region
+ipsilateral side
+ventral side
+dorso - medial region
+anatomical region
+anterior region
+posterior region
+apical region
+basal region
+central region
+proximal region
+distal region
+dorsal region
+dorso - lateral region
+lateral region
+medial region
+ventral region
+ventro - lateral region
+ventro - medial region
+peripheral region
+adaxial - abaxial axis
+medial - external axis
+medial - radial axis
+oral - aboral axis
+animal - vegetal axis
+apical - basal axis relative to direction of growth
+tangential plane
+radial plane
+anterior surface
+posterior surface
+apical surface
+basal surface
+proximal surface
+distal surface
+dorsal surface
+ipsilateral surface
+lateral surface
+medial surface
+ventral surface
+anatomical plane
+sagittal plane
+anterior margin
+posterior margin
+apical margin
+basal margin
+proximal margin
+distal margin
+dorsal margin
+dorso - lateral margin
+lateral margin
+medial margin
+ventral margin
+ventro - lateral margin
+antero - dorsal margin
+postero - dorsal margin
+antero - ventral margin
+postero - ventral margin
+medial - lateral axis
+anatomical entity
+anatomical structure
+material anatomical entity
+immaterial anatomical entity
+anatomical line
+vicinity of
+anatomical boundary

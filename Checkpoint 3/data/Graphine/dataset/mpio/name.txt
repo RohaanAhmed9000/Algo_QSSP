@@ -1,0 +1,39 @@
+curation status specification
+data about an ontology part
+obsolescence reason specification
+denotator type
+count
+counting
+drug identifier
+potential drug - drug interaction
+drug - drug interaction
+drug co - administration
+obsolete_drug - drug interaction effect
+evidence information content entity
+drug - drug interaction effect
+drug concept set identifier
+clinical drug role
+biological_process
+directive information entity
+plan specification
+measurement datum
+medical context information
+clinical consequences information
+information about clinical consequences suspected to be the result of a drug - drug interaction
+suspected drug - drug interaction evidence
+mechanism of interaction information
+frequency of harm information
+frequency of exposure information
+recommended action for potential drug - drug interaction
+seriousness information
+severity information
+operational classification statement
+planned process
+participant under investigation role
+biological replicate role
+reference subject role
+cohort role
+organism
+clinical finding
+clinical history
+collection of organisms

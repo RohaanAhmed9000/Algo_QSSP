@@ -1,0 +1,716 @@
+formylation
+silylation
+alkylation
+hydrocarbylation
+arylation
+allylation
+organylation
+acylation
+sulfonylation
+molecular process
+halogenation
+imination
+nitration
+cyclization
+cycloaddition
+ [ 2 + 2 ]  cycloaddition
+cycloelimination
+ [ 4 + 2 ]  cycloaddition
+formation of covalent bond with group
+breaking of covalent bond with group
+oxidation
+reduction
+electron attachment
+aldehyde reduction
+alcohol oxidation
+primary alcohol oxidation to aldehyde
+secondary alcohol oxidation to ketone
+amine oxidation
+imine reduction
+ester reduction
+ester reduction to aldehyde
+ester reduction to primary alcohol
+ketone reduction
+alkene oxidation
+alkene oxidation to 1 , 2 - diol
+alkene ozonolysis
+primary alkene oxidation to carboxylic acid and carbon dioxide
+tertiary alkene oxidation to carboxylic acid and ketone
+secondary ,  non - terminal alkene oxidation to aldehydes
+secondary terminal alkene oxidation to ketone and carbon dioxide
+quaternary alkene oxidation to ketones
+hydrogenation
+pseudohalogenation
+condensation reaction
+molecular dehydration reaction
+amination
+elimination reaction
+epoxidation
+oxidation at sulfur
+oxidation at nitrogen
+oxidation state
+carboxylation
+carbonyl oxidation to alkyne
+ [ 3 + 2 ]  cycloaddition
+enolisation
+enolisability
+enolisable carbonyl compound
+o - dealkylation
+ [ 2 + 2 + 1 ]  cycloaddition
+decarboxylative condensation
+deethanolative condensation
+acid catalysis
+substitution reaction
+aromatic substitution
+allylic rearrangement
+n - substitution
+o - substitution
+s - substitution
+formation of covalent bond with nitrogen centre
+dealkylation
+deorganylation
+dehalogenation
+decarboxylation
+n - methylation
+n - alkylation
+n - arylation
+n - acylation
+n - sulfonylation
+o - silylation
+o - acylation
+o - sulfonylation
+p - alkylation
+molecular skeleton joining reaction
+planned reaction step
+carbon - carbon coupling reaction
+perkin reaction
+obsolete: ring reaction
+ring formation reaction step
+diels - alder reaction
+ene reaction
+conjugate addition
+michael addition
+functional modification
+functional group modification
+functional group oxidation
+diazotisation
+grignard reaction
+wittig reaction
+aldol addition
+aldol condensation
+1 , 3 - dipolar cycloaddition
+sandmeyer reaction
+gattermann halogenation
+koerner - contardi reaction
+heck reaction
+rearrangement step
+beckmann rearrangement
+cope rearrangement
+oxy - cope rearrangement
+molecular skeleton insertion reaction
+baeyer - villiger oxidation
+mannich reaction
+mitsunobu reaction
+stille coupling
+reformatsky reaction
+functional group reduction
+clemmensen reduction
+carbon - carbon homocoupling reaction
+ullmann reaction
+addition reaction step
+birch reduction
+claisen condensation
+knoevenagel condensation
+friedel - crafts acylation
+friedel - crafts alkylation
+oppenauer oxidation
+prins reaction
+intramolecular prins reaction
+pinacol rearrangement
+wolff rearrangement
+fused - ring - system formation
+bischler - napieralski reaction
+curtius rearrangement
+vilsmeier - haack reaction
+horner - wadsworth - emmons reaction
+horner reaction
+ritter reaction
+pictet - spengler reaction
+arbuzov reaction
+mukaiyama aldol condensation
+skraup reaction
+arndt - eistert reaction
+fischer indole synthesis
+dieckmann cyclisation
+staudinger reaction
+benzidine rearrangement
+semidine rearrangement
+dimroth rearrangement
+chain lengthening
+edman degradation
+reimer - tiemann reaction
+cleaving reaction
+wurtz reaction
+benzilic acid rearrangement
+baylis - hillman reaction
+darzens reaction
+protection reaction
+boc protection
+peterson olefination
+ullmann condensation
+goldberg reaction
+paternò–büchi reaction
+barbier reaction
+acyloin condensation
+henry reaction
+barton reaction
+negishi coupling
+meerwein - ponndorf - verley reduction
+williamson ether synthesis
+wittig methylenation
+aza - diels - alder reaction
+extrusion reaction
+ramberg - bäcklund reaction
+fischer - hepp rearrangement
+azo coupling
+imino - reformatsky reaction
+glaser coupling
+eglinton reaction
+cadiot - chodkiewicz coupling
+leuckart reaction
+leuckart - wallach reaction
+gabriel synthesis
+ing - manske procedure
+end - of - chain chain shortening
+hunsdiecker reaction
+malonic ester synthesis
+ring expansion
+pfitzinger reaction
+fragmentation reaction
+grob fragmentation
+brook rearrangement
+nicholas reaction
+nicholas reaction ,  nucleophilic heteroatom centre
+nicholas reaction ,  nucleophilic carbon centre
+julia olefination
+sommelet reaction
+bouveault - blanc reaction
+payne rearrangement
+aza - payne rearrangement
+baker - venkataraman rearrangement
+molecular skeleton elimination reaction
+bamford - stevens reaction
+shapiro reaction
+doebner reaction
+balz - schiemann reaction
+kolbe electrolysis
+ugi reaction
+wacker - tsuji oxidation
+wacker process
+monsanto process
+cativa process
+barton - mccombie deoxygenation
+barton decarboxylation
+rosenmund reduction
+sonogashira coupling
+benzoin condensation
+gattermann reaction
+suzuki - miyaura coupling
+sharpless asymmetric epoxidation
+sharpless asymmetric dihydroxylation
+sharpless asymmetric aminohydroxylation
+kumada coupling
+barbier - wieland degradation
+corey - fuchs reaction
+emde degradation
+claisen rearrangement
+ireland - claisen rearrangement
+joining with rearrangement
+bellus - claisen rearrangement
+eschenmoser - claisen rearrangement
+johnson - claisen rearrangement
+swern oxidation
+finkelstein reaction
+lossen rearrangement
+nef reaction
+japp - klingemann reaction
+doebner - miller reaction
+fmoc protection
+paal - knorr synthesis
+paal - knorr furan synthesis
+paal - knorr thiophene synthesis
+paal - knorr pyrrole synthesis
+schotten - baumann reaction
+hofmann elimination
+fischer - speier esterification
+weerman reaction
+dakin reaction
+schmidt rearrangement ,  carboxylic acid
+schmidt rearrangement ,  ketone
+schmidt rearrangement ,  tertiary alcohol
+schmidt rearrangement ,  alkene
+sommelet - hauser rearrangement
+dakin - west reaction
+beckmann fragmentation
+kharasch reaction
+kharasch - sosnovsky reaction
+elbs persulfate oxidation ,  phenol variant
+elbs persulfate oxidation ,  tolyl variant
+boyland - sims oxidation
+kolbe - schmitt reaction
+perkow reaction
+pfitzner - moffatt oxidation
+willgerodt reaction
+willgerodt - kindler reaction
+tishchenko reaction
+zimmermann reaction
+neber rearrangement
+nozaki - hiyama - kishi reaction
+buchwald - hartwig amination
+hiyama coupling
+stevens rearrangement
+stevens rearrangement ,  ammonium
+stevens rearrangement ,  sulfonium
+aza - cope rearrangement
+2 - aza - cope rearrangement
+3 - aza - cope rearrangement
+1 - aza - cope rearrangement
+steglich rearrangement
+ring rearrangement
+deprotection reaction
+multiple - bond metathesis
+ring breaking
+ring contraction
+strecker reaction
+aromatic claisen rearrangement
+nazarov cyclisation
+fleming - tamao oxidation
+tamao oxidation
+sakurai reaction ,  aldehyde or ketone
+sakurai reaction ,  enone
+sakurai reaction ,  acid chloride
+sakurai reaction ,  acetal or ketal
+imine sakurai reaction
+sakurai reaction ,  epoxide
+cannizzaro reaction
+crossed cannizzaro reaction
+pummerer rearrangement
+polonovski reaction
+polonovski - potier reaction
+menshutkin reaction
+strecker degradation
+wohl - ziegler bromination
+wolff - kishner reduction
+wolff - kishner reduction ,  huang - minlon modification
+zemplen transesterification
+ferrier rearrangement
+aza - ferrier rearrangement
+aza - ene reaction
+petasis reaction
+achmatowicz rearrangement
+aza - achmatowicz rearrangement
+aza - henry reaction
+biginelli reaction
+blaise reaction
+katritzky pyrylium - pyridinium method
+metalla - aza - claisen rearrangement
+bergman cyclisation
+nitro - michael reaction
+noyori asymmetric hydrogenation ,  alkene
+noyori asymmetric hydrogenation ,  carbonyl
+passerini reaction
+ring - closing metathesis
+polymerisation reaction
+ring - opening metathesis polymerisation
+carroll rearrangement
+bose - mitsunobu reaction
+fritsch - buttenberg - wiechell rearrangement
+stork - wittig olefination
+cadogan carbazole synthesis
+cadogan coupling
+macdonald condensation
+zweifel diene synthesis
+dess - martin oxidation
+criegee oxidation
+simmons - smith reaction
+wittig rearrangement
+ [ 1 , 2 ]  - wittig rearrangement
+ [ 2 , 3 ]  - wittig rearrangement
+ [ 1 , 2 ]  - aza - wittig rearrangement
+ [ 2 , 3 ]  - aza - wittig rearrangement
+aza - baylis - hillman reaction
+aza - wittig reaction
+fenton reaction
+hantzsch pyridine synthesis
+alkyne - azide click reaction
+copper ( i )  - catalyzed azide - alkyne cycloaddition
+fischer - tropsch process
+hydroformylation
+retro - diels - alder reaction
+retro - aldol addition
+stork - crabtree hydrogenation
+aufbau reaction
+hydroalumination
+hydrovinylation
+1 , 4 - hydrovinylation
+alkene metathesis
+alkyne metathesis
+enyne metathesis
+ring - closing enyne metathesis
+ring - opening metathesis
+luche reaction
+luche reduction
+lindgren oxidation
+rosenmund - von braun reaction
+woehler reaction
+hydrosilylation
+hydroamination
+hydroboration
+hydroboration - oxidation
+hydrometallation
+hydrozirconation
+hydrostannylation
+hydrotelluration
+fetizon oxidation
+vorbrueggen condensation
+thiol - ene reaction
+yamamoto polymerisation
+thermal hydrosilylation
+photohydrosilylation
+julia - kocienski olefination
+seleno - pummerer rearrangement
+intramolecular heck reaction
+mori - ban indole synthesis
+yamaguchi lactonisation
+yamaguchi esterification
+oxa - diels - alder reaction
+tsuji - trost reaction
+clauson - kaas reaction
+hetero - diels - alder reaction
+palladium - catalysed carbon - carbon coupling reaction
+ester condensation reaction
+amino group deprotection
+amino group protection
+benzylamine protection
+hydroxyl group protection
+benzyl ether protection
+carboxylic acid protection
+boc deprotection
+benzylamine deprotection
+silyl protection
+planned synthesis
+acetate protection
+substitution step
+aromatic substitution step
+sandmeyer halogenation
+sandmeyer pseudohalogenation
+reductive amination
+nitro reduction to amine
+amide reduction to amine
+alkene reduction to alkane
+amide n - alkylation
+aniline n - alkylation
+nitrile reduction to amine
+imine reduction to amine
+alkene oxidative cleavage
+heteroaryl n - alkylation
+oxacycle synthesis
+azacycle synthesis
+thiacycle synthesis
+heterocycle synthesis
+alkyne reduction to alkane
+aryl reduction to cycloalkyl
+heteroaryl reduction to saturated heterocycle
+alcohol oxidation to carboxylic acid
+benzylic oxidation
+allylic oxidation
+jones oxidation
+n - acylation to amide
+n - acylation to urea
+n - acylation to carbamate
+o - acylation to ester
+pinner reaction
+nitrile alcoholysis
+amide to imidoyl chloride conversion
+alcohol to halide conversion
+carboxylic acid to acid chloride conversion
+nitrile to acid conversion
+carbonyl compound to imine conversion
+crabbé homologation
+friedel - crafts reaction
+demko - sharpless reaction
+griess reaction
+heteroaryl n - arylation
+functional group addition step
+chan - lam coupling
+eschweiler - clarke methylation
+scholl reaction
+intramolecular scholl reaction
+intermolecular scholl reaction
+robinson annulation
+tiffeneau - demjanov rearrangement
+demjanov rearrangement
+cyclic alpha - haloketone favorskii rearrangement
+favorskii rearrangement
+wallach degradation
+seyferth - gilbert homologation
+seyferth - gilbert aldehyde homologation
+seyferth - gilbert ketone homologation
+seyferth - gilbert - bestmann homologation
+knorr pyrazole synthesis
+pyrazole synthesis
+quinoline synthesis
+knorr quinoline synthesis
+indole synthesis
+larock indole synthesis
+pechmann pyrazole synthesis
+benzimidazole synthesis
+phillips benzimidazole synthesis
+pyrimidine synthesis
+triazine synthesis
+pinner pyrimidine synthesis
+pinner triazine synthesis
+oxa - pictet - spengler reaction
+prilezhaev epoxidation
+appel halogenation
+appel iodination
+appel chlorination
+appel bromination
+hofmann rearrangement
+hofmann reaction
+newman - kwart rearrangement
+zincke nitration
+haloethanoate ester - aldehyde darzens reaction
+haloethanoate ester - ketone darzens reaction
+phthalimide protection
+phthalimide deprotection
+kröhnke pyridine synthesis
+gattermann chlorination
+gattermann bromination
+aldehyde barbier reaction
+ketone barbier reaction
+pivaloyl protection
+pivaloyl deprotection
+hydroxy group deprotection
+carboxylic acid to primary alcohol reduction
+tert - butyl protection
+carboxy group deprotection
+tert - butyl ester deprotection
+methyl ester deprotection
+ethyl ester deprotection
+molecular transformation objective
+molecular skeleton cleaving objective
+molecular ring formation objective
+molecular skeleton joining objective
+molecular rearrangement objective
+functional modification objective
+sakurai reaction
+fries rearrangement
+ortho - fries rearrangement
+para - fries rearrangement
+duff reaction
+molecular chain lengthening objective
+molecular ring breaking objective
+molecular ring contraction objective
+aldehyde sakurai reaction
+ketone sakurai reaction
+functional group modification objective
+end - of - chain chain shortening objective
+functional reduction objective
+addition objective
+molecular ring expansion objective
+molecular ring rearrangement objective
+acetoacetic ester synthesis
+intramolecular acyloin condensation
+intermolecular acyloin condensation
+molecular extrusion objective
+molecular fragmentation objective
+pauson - khand reaction
+fused - ring - system formation objective
+polymerisation objective
+algar - flynn - oyamada reaction
+molecular substitution objective
+allan - robinson flavone synthesis
+allan - robinson isoflavone synthesis
+amadori rearrangement
+arens - van dorp synthesis
+auwers synthesis
+allan - robinson reaction
+meyer - schuster rearrangement
+rupe rearrangement
+still - gennari modification
+olefination
+tebbe olefination
+myers - saito cyclisation
+schmittel cyclisation
+baudisch reaction
+deprotection objective
+protection objective
+molecular skeleton elimination objective
+molecular skeleton insertion objective
+joining with rearrangement objective
+functional group addition objective
+functional oxidation objective
+interrupted nazarov cyclisation
+bamberger rearrangement
+bart reaction
+bartoli indole synthesis
+barton olefination
+barton - zard reaction
+pyrrole synthesis
+béchamp reduction
+beirut reaction
+bénary reaction
+feist - bénary synthesis
+boulton - katritzky rearrangement
+monocyclic boulton - katritzky rearrangement
+bicyclic boulton - katritzky rearrangement
+mukaiyama - hoshino method
+nef synthesis
+krapcho decarboxylation
+cadogan cyclization
+cadogan indole synthesis
+benkeser reduction
+madelung indole synthesis
+smith indole synthesis
+mumm rearrangement
+chapman rearrangement
+bergmann azlactone peptide synthesis
+bergmann degradation
+terminal amino - acid residue cleaving reaction
+acridine synthesis
+bernthsen acridine synthesis
+pyridine synthesis
+carbazole synthesis
+betti reaction
+bischler - möhlau indole synthesis
+camps quinoline synthesis
+castro - stephens coupling
+chichibabin pyridine synthesis
+chichibabin reaction
+bodroux reaction
+bogert - cook synthesis
+bohn - schmidt reaction
+boord olefin synthesis
+borsche - drechsel cyclisation
+bouveault aldehyde synthesis
+bradsher cyclisation
+bradsher reaction
+parham cyclisation
+quelet reaction
+chugaev reaction
+cope elimination
+sugasawa reaction
+palladium - catalysed kumada coupling
+nickel - catalysed kumada coupling
+eastwood reaction
+saegusa oxidation
+sandmeyer diphenylurea isatin synthesis
+sandmeyer isonitrosoacetanilide isatin synthesis
+sarett oxidation
+sarett primary alcohol oxidation
+sarett secondary alcohol oxidation
+collins oxidation
+reductive imination
+leuckart aldehyde reaction
+leuckart ketone reaction
+appel bromination with tetrabromomethane
+appel bromination with bromine
+corey - fuchs terminal dibromoolefination
+cyclic beckmann rearrangement
+dess - martin aldehyde oxidation
+dess - martin ketone oxidation
+friedlander quinoline synthesis
+gewald reaction
+iodo sonogashira coupling
+iodo suzuki coupling
+iodo suzuki - type coupling
+iodolactonization
+niementowski quinazoline synthesis
+niementowski quinoline synthesis
+pomeranz–fritsch reaction
+steglich esterification
+triflyloxy sonogashira coupling
+triflyloxy suzuki coupling
+triflyloxy suzuki - type coupling
+wenker synthesis
+hinsberg thiophene synthesis
+suzuki - type coupling
+halolactonization
+ciamician - dennstedt rearrangement
+claisen - schmidt condensation
+corey - bakshi - shibata reduction
+johnson - corey - chaykovsky reaction
+johnson - corey - chaykovsky epoxide synthesis
+johnson - corey - chaykovsky cyclopropane synthesis
+johnson - corey - chaykovsky aziridine synthesis
+johnson - corey - chaykovsky thiirane synthesis
+cross - coupling
+liebeskind - srogl coupling
+fukuyama coupling
+chloride finkelstein reaction
+bromide finkelstein reaction
+sulfonate ester finkelstein reaction
+sandmeyer fluorination
+sandmeyer chlorination
+sandmeyer bromination
+sandmeyer iodination
+imidazole synthesis
+indazole synthesis
+piperazine synthesis
+piperidine synthesis
+pyrrolidine synthesis
+hofmann - löffler - freytag reaction
+hofmann - löffler - freytag piperidine synthesis
+hofmann - löffler - freytag pyrrolidine synthesis
+hell - volhard - zelinsky reaction
+meerwein - ponndorf - verley reduction of an aldehyde
+meerwein - ponndorf - verley reduction of a ketone
+heck - type reaction
+obsolete: bromo heck reaction
+chloro heck reaction
+iodo heck reaction
+triflyloxy heck reaction
+bromo heck - type reaction
+chloro heck - type reaction
+acyclic beckmann rearrangement
+baeyer–emmerling indole synthesis
+bromo sonogashira coupling
+bromo suzuki coupling
+bromo suzuki - type coupling
+bromolactonization
+chloro sonogashira coupling
+chloro suzuki coupling
+chloro suzuki - type coupling
+chlorolactonization
+conrad - limpach cyclisation
+combes quinoline synthesis
+prato reaction
+piancatelli rearrangement
+retro - prato reaction
+bingel reaction
+wacker cyclisation
+aza - wacker cyclisation
+lemieux - johnson oxidation
+malaprade reaction
+fenton 1 , 2 - glycol oxidation
+fenton alpha - hydroxy carboxylic acid oxidation
+fenton hydrogen peroxide reduction
+solvolysis
+hydrolysis
+dealcoholative condensation
+part_of
+dienophilicity
+paternã²â€“bã¼chi reaction
+ramberg - bã¤cklund reaction
+crabbã© homologation
+krã¶hnke pyridine synthesis
+bã©champ reduction
+bã©nary reaction
+feist - bã©nary synthesis
+bischler - mã¶hlau indole synthesis
+pomeranzâ€“fritsch reaction
+hofmann - lã¶ffler - freytag reaction
+hofmann - lã¶ffler - freytag piperidine synthesis
+hofmann - lã¶ffler - freytag pyrrolidine synthesis
+baeyerâ€“emmerling indole synthesis

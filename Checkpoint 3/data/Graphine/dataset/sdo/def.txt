@@ -1,0 +1,67 @@
+a data item is an information content entity that is intended to be a truthful statement about something  ( modulo ,  e .g . ,  measurement precision or other systematic errors )  and is constructed / acquired by a method which reliably tends to produce  ( approximately )  truthful statements .
+an information content entity is an entity that is generically dependent on some artifact and stands in relation of aboutness to some entity
+the curation status of the term .
+data about an ontology part is a data item about a part of an ontology ,  for example a term
+the reason for which a term has been deprecated .
+a denotator type indicates how a term should be interpreted from an ontological perspective .
+a representation of a bodily feature of a patient that is either the output of a clinical history taking or a physical examination or an image finding ,  or some combination thereof .
+a series of statements representing health - relevant features of a patient and of a patient's family .
+a representation of the clinically significant bodily features of a patient that is inferred from the totality of clinical findings about the given patient .
+a representation of an image that supports an inference to an assertion about some quality of a patient .
+a representation of a quality of a specimen that is the output of a laboratory test and that can support an inference to an assertion about some quality of the patient .
+a representation of a bodily feature of a patient that is  ( 1 )  recorded by a clinician because the feature is hypothesized to be of clinical significance and  ( 2 )  refers to features obtaining in the patient prior to their becoming detectable in a clinical history taking or physical examination .
+a bodily feature of a patient that is observed by the patient and is hypothesized by the patient to be a realization of a disease .
+a bodily feature of a patient that is  ( a )  a deviation from clinical normality that exists in virtue of the realization of a disease and  ( b )  is observable .
+a  ( combination of )  bodily feature ( s )  of an organism determined by the interaction of its genetic make - up and environment that differentiates specific instances of a species from other instances of the same species .
+a bodily feature of a patient that is observed in a physical examination and is deemed by the clinician to be of clinical significance .
+a manifestation of a disease that is detectable in a clinical history taking or physical examination .
+a manifestation of a disease that exists prior to the time at which it would be detected in a clinical history taking or physical examination ,  if the patient were to present to a clinician .
+a clinically abnormal phenotype .
+a clinically abnormal phenotype that is characteristic of a single disease .
+a physical sign in which a non - zero value is standardly considered to be an indication that the organism is alive .
+a disposition in an organism that constitutes an increased risk of the organism's subsequently developing the disease x .
+a disposition  ( i )  to undergo pathological processes that  ( ii )  exists in an organism because of one or more disorders in that organism .
+a predisposition to disease of type x whose physical basis is a constitutional abnormality in an organism's genome .
+a disease whose physical basis is an acquired genetic disorder .
+a disease whose physical basis is a constitutional genetic disorder .
+a disease whose physical basis is an infectious disorder .
+homeostasis that is clinically abnormal for an organism of a given type and age in a given environment .
+homeostasis of a type that is not clinically abnormal .
+a quality which is an spatial arrangement or distribution of a ( n )  independent continuant ( s )  across a three dimensional region .
+a configuration which deviates in some way from a canonical configuration for a particular organism .
+a material entity which is clinically abnormal and part of an extended organism .
+a disorder whose etiology involves  ( 1 )  a modification to the patient's genomic dna which leads to alterations in the normal expression pattern of the genome ,  but is  ( 2 )  not a change in the nucleotide sequence .
+a disorder whose etiology involves an abnormality in the nucleotide sequence of an organism's genome .
+a disorder whose etiology includes the presence of a pathogenic organism within a host organism or an abnormal imbalance in the normal resident organismal flora .
+a disorder consisting in the presence of a pathogenic organism within a host organism that occurs due to the disposition established by a prior infection with a pathogenic organism of a different kind .
+a genetic disorder acquired by a single cell in an organism that leads to a population of cells within the organism bearing the disorder .
+a genetic disorder inherited during conception that is part of all cells in the organism .
+a fiat process part which involves the execution of a standardized protocol for measuring qualities of a patient .
+an interview in which a clinician elicits a clinical history from a patient or from a third party who is reporting on behalf of the patient .
+a measurement assay that has as input a patient - derived specimen ,  and as output a result that represents a quality of the specimen .
+a sequence of acts of observing and measuring bodily features of a patient performed by a clinician ;  measurements may occur with and without elicitation .
+a process in an organism that leads to a subsequent disorder .
+a bodily process that is clinically abnormal .
+the totality of all processes through which a given disease instance is realized .
+a disease course that  ( a )  does not terminate in a return to normal homeostasis and  ( b )  would ,  absent intervention ,  fall within abnormal homeostatic range .
+a disease course that  ( a )  does not terminate in a return to normal homeostasis and  ( b )  would ,  absent intervention ,  involve an increasing deviation from homeostasis .
+a disease course that terminates in a return to normal homeostasis .
+the representation of a conclusion of an interpretive process that has as input a clinical picture of a given patient and as output an assertion  ( diagnostic statement )  to the effect that the patient has a disease of such and such a type .
+a value for a quality reported in a lab report and asserted by the testing lab or the kit manufacturer to be normal based on a statistical treatment of values from a reference population .
+todo: define ,  relate to disorder ,  and place in the ogms hierarchy .
+an anatomical structure  ( fma )  is pathological whenever  ( 1 )  it has come into being as a result of changes in some pre - existing canonical anatomical structure ,   ( 2 )  through processes other than the expression of the normal complement of genes of an organism of the given type ,  and  ( 3 )  is predisposed to have health - related consequences for the organism in question manifested by symptoms and signs .
+todo: define ,  relate to disorder ,  and place in the ogms hierarchy .
+a pathological bodily process in which a canonical anatomical structure becomes a pathological anatomical structure .
+a pathological bodily process in which matter is reorganized in such a way as to give rise to new pathological formations which take the place of entities existing earlier .
+todo: define .
+todo: define .
+an aggregate of organisms of the same type .
+todo: define .
+a clinical picture that is an association of symptoms ,  signs and other clinical findings that collectively indicate or characterize a disease or disorder .
+an object aggregate consisting of an organism and all material entities located within the organism ,  overlapping the organism ,  or occupying sites formed in part by the organism .
+a communication from a patient about something they perceive as being abnormal about their body or life .
+a structurally anomalous part of an organism acquired during fetal development and present at birth  ( but not necessarily hereditary )  which is hypothesized to be harmful for the organism .
+a processual entity whose completion is hypothesized  ( by a healthcare provider )  to alleviate the signs and symptoms associated with a disorder
+a processual entity during which a patient participating in a disease course gradually returns to participating in a canonical life course .
+a processual entity which has as parts all the processes in which a given organism is participant .
+a hypothesis about the course of a disease .

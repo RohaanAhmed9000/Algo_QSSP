@@ -1,0 +1,260 @@
+anatomical entity
+anatomical structure
+portion of organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical line
+anatomical point
+anatomical surface
+anatomical system
+multi - cellular organism
+cell
+cell component
+compound organ component
+simple organ
+compound organ
+male organism
+female organism
+hermaphroditic organism
+asexual organism
+organism subdivision
+acellular anatomical structure
+anatomical cluster
+extraembryonic structure
+tissue
+sequential hermaphroditic organism
+synchronous hermaphroditic organism
+gonochoristic organism
+protandrous hermaphroditic organism
+protogynous hermaphroditic organism
+anatomical group
+multi - tissue structure
+cell space
+portion of cell substance
+single cell organism
+basal lamina
+epithelium
+simple cuboidal epithelium
+simple columnar epithelium
+multilaminar epithelium
+simple squamous epithelium
+atypical epithelium
+cavitated compound organ
+unilaminar epithelium
+solid compound organ
+epithelial cell
+multi - cell - component structure
+neuron projection bundle
+neuron projection bundle segment
+neuron projection bundle subsegment
+native cell
+non - terminally differentiated cell
+chondroblast
+ameloblast
+odontoblast
+cementoblast
+osteoblast
+mesenchymal cell
+osteocyte
+chondrocyte
+odontocyte
+cementocyte
+secretory cell
+mesodermal cell
+migratory neural crest cell
+periarticular chondrocyte
+hypertrophic chondrocyte
+bone cell
+terminally differentiated osteoblast
+non - terminally differentiated osteoblast
+connective tissue cell
+embryonic cell
+preameloblast
+skeletogenic cell
+precementoblast
+preodontoblast
+premigratory neural crest cell
+notochordal cell
+chordamesodermal cell
+notochordal sheath cell
+notochordal vacuole cell
+prechondroblast
+preosteoblast
+non - terminally differentiated odontoblast
+terminally differentiated odontoblast
+ossification
+osteoblast differentiation
+intramembranous ossification
+endochondral ossification
+biological_process
+bone mineralization
+biomineral tissue development
+secretion by cell
+bone mineralization involved in bone maturation
+direct ossification
+perichondral ossification
+metaplastic ossification
+replacement ossification
+ligamentous ossification
+intratendonous ossification
+ossification involved in bone maturation
+bone development
+bone morphogenesis
+endochondral bone morphogenesis
+bone maturation
+quality
+ossified
+cartilaginous
+cartilage element
+surface structure
+mode of ossification
+permanent cartilage
+opercle bone
+cell condensation
+basihyal bone
+neural crest cell
+basihyal cartilage
+skeletal tissue
+connective tissue
+chordablast
+mineralized extracellular matrix
+proteinaceous extracellular matrix
+extracellular matrix
+membrane bone
+intercalar
+odontogenic papilla
+skeleton
+skeletal system
+integumentary papilla
+integument
+oropharyngeal papilla
+musculoskeletal system
+notochord
+muscular system
+dermal skeleton
+perichondrium
+endoskeleton
+chordoblast
+cartilage tissue
+skeletal subdivision
+osteoid
+bone tissue
+cranial skeleton
+dense regular connective tissue
+lepidosteoid scale
+ganoid scale
+vacuolated notochordal tissue
+perichordal tissue
+polypteroid scale
+axial skeleton
+bone element
+avascular gag - rich matrix
+cementum
+odontoid tissue
+enamel
+pre - enamel
+dentine
+elasmoid scale
+pre - dentine
+ligament
+tendon
+palaeoniscoid scale
+appendicular skeleton
+chondroid tissue
+odontode scale
+keratin - based scale
+cosmoid scale
+craniofacial skeleton
+secondary cartilage tissue
+mineralized cartilage tissue
+non - mineralized cartilage tissue
+integumentary skeleton
+elastic cartilage tissue
+chondrogenic condensation
+postcranial axial skeleton
+hyaline cartilage tissue
+orthodentine
+fin
+joint
+fibrocartilage
+ganoine
+limiting layer of elasmoid scale
+vasodentine
+elasmodine
+non - mineralized hyaline cartilage tissue
+mineralized hyaline cartilage tissue
+columnar chondrocyte
+paired fin
+enameloid
+pre - enameloid
+mineralized bone tissue
+cellular bone tissue
+non - mineralized avascular gag - rich matrix
+mineralized avascular gag - rich matrix
+acellular bone tissue
+odontode tissue
+gastralium
+skeletal element
+pelvic fin
+dermal bone
+appendicular ossicle
+ossicle
+axial ossicle
+ossified tendon
+replacement element
+sesamoid
+ligamentous replacement element
+endochondral element
+endochondral bone
+transient cartilaginous element
+pectoral fin
+pectoral fin skeleton
+pelvic fin skeleton
+pelvic girdle skeleton
+pectoral girdle skeleton
+ossified ligament
+anocleithrum
+interclavicle
+median fin
+anal fin
+caudal fin
+dorsal fin
+anal fin skeleton
+caudal fin skeleton
+dorsal fin skeleton
+paired fin skeleton
+median fin skeleton
+scapular complex
+lepidotrichium
+pelvic fin lepidotrichium
+caudal fin lepidotrichium
+pectoral fin lepidotrichium
+anal fin lepidotrichium
+dorsal fin lepidotrichium
+embryonic structure
+process
+articular system
+suprabranchial fin
+vertebral centrum
+vertebral element
+vertebral column
+femur
+pectoral appendage / girdle complex
+appendage / girdle complex
+pelvic appendage / girdle complex
+free limb skeleton
+limb / fin skeleton
+girdle skeleton
+appendage girdle region
+pelvic girdle region
+pectoral girdle region
+appendicular skeletal system
+perichordal bone
+perichondral bone
+stylopodial skeleton
+zeugopodial skeleton
+autopodial skeleton
+mesopodial skeleton
+metapodial skeleton
+produces

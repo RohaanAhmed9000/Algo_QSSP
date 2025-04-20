@@ -1,0 +1,353 @@
+continuant
+occurrent
+independent continuant
+obsolete dependent continuant
+process
+realizable entity
+specifically dependent continuant
+role
+generically dependent continuant
+process boundary
+material entity
+continuant fiat boundary
+process profile
+relational quality
+anatomical entity
+molecular entity
+cell
+leukocyte
+reproduction
+adaptive immune response
+leukocyte mediated immunity
+immune response
+humoral immune response
+biological_process
+immunoglobulin complex
+b cell receptor complex
+developmental process
+macromolecular complex
+growth
+t cell receptor complex
+ftsz - dependent cytokinesis
+symbiosis ,  encompassing mutualism through parasitism
+adhesion of symbiont to host
+entry into host
+entry into host through host barriers
+innate immune response
+negative regulation of viral process
+negative regulation of immune response
+negative regulation of developmental process
+establishment of localization
+multi - organism process
+biological regulation
+mutualism
+commensalism
+curation status specification
+data about an ontology part
+obsolescence reason specification
+denotator type
+_obsolete_virulence
+_obsolete_latency
+_obsolete_prevalence
+_obsolete_pathogenicity
+_obsolete_incidence
+_obsolete_virulence factor
+_obsolete_symptom
+_obsolete_colonization factor
+_obsolete_adhesion factor
+_obsolete_reservoir
+_obsolete_fomite
+_obsolete_vector
+_obsolete_pathogen adherence to host cell
+_obsolete_transmission
+_obsolete_pathogenesis
+_obsolete_infectious disease
+_obsolete_emergence
+_obsolete_factor
+_obsolete_colonization
+_obsolete_seroprevalence
+_obsolete_dormancy
+_obsolete_susceptibility
+_obsolete_incubation period
+_obsolete_infectious disease progression
+_obsolete_pathogen life cycle
+_obsolete_dormancy period
+_obsolete_fitness
+symbiont role
+mutualist role
+commensal role
+parasite role
+infectious agent role
+pathogen role
+opportunistic infectious disposition
+primary infectious disposition
+symbiont host role
+definitive host role
+intermediate host role
+paratenic host role
+dead - end host role
+parasite host role
+infectious agent host role
+pathogen host role
+infectious agent carrier role
+infectious agent transporter role
+infectious agent vector role
+mechanical vector of infectious agent role
+biological vector of infectious agent role
+infectious agent vehicle role
+biological vehicle of infectious agent role
+fomite role
+reservoir of infectious agent role
+virulence factor disposition
+toxin disposition
+exotoxin disposition
+_obsolete_enterotoxin disposition
+_obsolete_endotoxin disposition
+infectious agent portal of entry role
+infectious agent portal of exit role
+disinfectant role
+antiseptic role
+primary infection role
+secondary infection role
+infectious disease
+adhesion disposition
+invasion disposition
+antimicrobial disposition
+antiviral disposition
+antifungal disposition
+antibacterial disposition
+antiparasitic disposition
+protective resistance
+resistance to drug
+resistance to infectious agent
+herd immunity to infectious organism
+immunity to infectious agent
+sterilizing immunity to infectious agent
+pathogenic disposition
+invasive disposition
+infectious disposition
+zoonotic disposition
+reverse zoonotic disposition
+collective disposition
+immunosuppressed organism
+immunocompetent organism
+contagiousness
+colonized host
+infected organism
+co - infected organism
+_obsolete_symptomatic host
+infectious agent transmissibility
+infectivity
+virulence
+susceptibility
+susceptibility to infectious agent
+drug susceptibility
+drug susceptibility of infectious agent
+complex infection
+extracellular infection
+intracellular infection
+systemic infection
+local infection
+focal infection
+acute infectious disease course
+_obsolete_chronic quality of infection
+infectious disease incidence
+infection incidence
+infectious disease incidence proportion
+infection incidence proportion
+infectious disease incidence rate
+infection incidence rate
+infectious disease prevalence
+infection prevalence
+infectious disease lifetime prevalence
+infectious agent seroprevalence
+infectious disease mortality rate
+infectious disease endemicity
+infectious disease endemic level
+infectious disease endemic rate
+infectious disease hyper - endemicity
+infectious disease sporadicity
+infectious disease course
+long - term non - progressing infectious disease course
+immunization against infectious agent
+active immunization against infectious agent
+vaccination against infectious agent
+variolation
+passive immunization against infectious agent
+infectious disease epidemic
+infectious disease pandemic
+infectious disorder
+viremia
+bacteremia
+_obsolete_septicemia
+virion
+organism population
+infected population
+diseased population
+infectious agent population
+susceptible population
+normal resident microbiota population
+_obsolete_configured infectious organism population
+incubation period
+communicability period
+symbiont
+obligatory symbiont
+mutualist
+commensal
+parasite
+_obsolete_infectious organism
+pathogen
+primary pathogen
+host
+definitive host
+intermediate host
+paratenic host
+dead - end host
+parasite host
+infectious agent host
+pathogen host
+infectious agent carrier
+infectious agent vector
+mechanical vector of infectious agent
+biological vector of infectious agent
+vehicle of infectious agent
+fomite
+infectious agent reservoir
+_obsolete_end reservoir of infectious agent
+virulence factor
+invasion factor
+toxin
+exotoxin
+enterotoxin
+endotoxin
+infectious agent portal of entry
+infectious agent portal of exit
+disinfectant
+antiseptic
+adhesion factor
+antimicrobial
+antiviral
+antifungal
+antiparasitic
+antibacterial
+microbicide
+viricide
+microbistatic
+primary infection
+secondary infection
+zoonosis
+asymptomatic host of infectious agent
+subclinical infection
+resistant entity
+chronic carrier of infectious agent
+symptomatic host of infectious agent
+_obsolete_invasin
+innate immunity to infectious agent
+_obsolete_adaptive immunity to infectious agent
+humoral immunity to infectious agent
+leukocyte - mediated immunity to infectious agent
+passive immunity to infectious agent
+antibiotic resistance
+long - term non - progressor
+emerging pathogen
+cytotoxin
+collective pathogenic disposition
+infection
+genetic resistance to infectious agent
+collective resistance disposition
+immunodeficient organism
+chronic infectious disease course
+_obsolete_communicable disposition
+immune population
+transmission period
+direct host exposure to infectious agent
+potential host of infectious agent
+infectious agent
+host exposure to environment containing infectious agent
+host living with infected household contact
+host living in endemic area
+release of infectious human pathogen in laboratory
+host coming into contact with vector of infectious agent
+host exposure to substance that might have infectious agent
+process of establishing an infection
+colonization of host
+_obsolete_biological object colony
+establishment of a clinically abnormal colony
+production
+replication
+colonization of human anterior nares
+immunosuppression
+physiologic immunosuppression
+pathologic immunosuppression
+_obsolete_biological object
+_obsolete_replicating biological material entity
+colony
+infectious agent colony
+immunodeficiency
+immunocompetence
+immunosuppressive disposition
+acquired immunity to infectious agent
+disposition to form a non - parasitic colony
+communicability
+_obsolete_contagiousness quality
+establishment of localization in host
+appearance of disorder
+acute infection
+chronic infection
+host role
+hospital - acquired infection
+community - acquired infection
+neurotoxin
+metatstatic infection
+source of infection role
+sepsis
+severe sepsis
+nursing - home acquired infection
+infectious human pathogen
+acquired immunodeficiency
+simple infection
+re - emerging pathogen
+pregnancy - induced immunosuppression
+candidiasis
+trichomoniasis
+leptospirosis
+shigellosis
+amebiasis
+colonization of human
+primary immunodeficiency
+colonization of human perineum
+reverse zoonosis
+opportunistic pathogen
+transmissibility disposition
+horizontal pathogen transmission process
+process that results in death
+host exposure to infectious agent
+susceptible organism
+life - sustaining process
+negative regulation of life - sustaining process
+source of infection
+human pathogenicity disposition
+parasitic disposition
+transition to clinical abnormality
+infection - based immunosuppression
+hiv - based immunosuppression
+pathologically immunosuppressed organism
+immunosuppressed organism experiencing infection - based immunosuppression
+immunosuppressed organism experiencing hiv - based immunosuppression
+immunosuppressed human experiencing hiv - based immunosuppression
+drug - based immunosuppression
+chronic systemic steroid use - based immunosuppression
+immunosuppressed organism experiencing drug - based immunosuppression
+immunosuppressed organism experiencing chronic systemic steroid use - based immunosuppression
+immunosuppressed human experiencing chronic systemic steroid use - based immunosuppression
+immunosuppressed human experiencing drug - based immunosuppression due to organ transplant
+organism
+symptom
+disease
+disorder
+disease course
+extended organism
+transmission process
+indirect
+blood
+life - death temporal boundary
