@@ -26,7 +26,7 @@ if __name__ == '__main__':
     random.seed(42)
 
     # Running on "tao" inside the Graphine dataset
-    ontology = 'data/Graphine/dataset/tao'
+    ontology = 'data/Graphine/dataset/atmo'
     G, terms, defs = load_graphine_ontology(ontology)
     s, t = add_super_source_sink(G)
     d = 2

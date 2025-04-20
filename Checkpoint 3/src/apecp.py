@@ -6,7 +6,8 @@ All-Paths-Equal-Cost Problem solver.
 """
 import networkx as nx
 from typing import Dict, Any, Tuple, FrozenSet
-from src.sppm import linearizable
+# from src.sppm import linearizable
+from src.common import CostMap  # Import from common instead
 
 CostMap = Dict[FrozenSet[Tuple[Any, Any]], float]
 
@@ -42,6 +43,7 @@ def apecp(G: nx.DiGraph, source: Any, sink: Any,
         beta = cost[sink]
         return True, beta
     else:
+        from src.sppm import linearizable
         # reduce to linearization check
         is_lin, c = linearizable(G, source, sink, qd, d)
         # linearizable==source-beta iff all paths equal beta

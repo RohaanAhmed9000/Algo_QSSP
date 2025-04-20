@@ -7,21 +7,22 @@ Linearization solver for SPPd (LinSPP_d) based on Çela et al. algorithm.
 import networkx as nx
 from typing import Dict, Any, Tuple, Set, FrozenSet, List
 from src.utils import prune_unreachable, choose_nonbasic_arcs, compute_strongly_basic_arcs
-from src.apecp import apecp
+# from src.apecp import apecp
+from src.common import CostMap, sppd_cost
 from itertools import combinations
 
-CostMap = Dict[FrozenSet[Tuple[Any,Any]], float]
+# CostMap = Dict[FrozenSet[Tuple[Any,Any]], float]
 
 
-def sppd_cost(path_edges: List[Tuple[Any,Any]], qd: CostMap, d: int) -> float:
-    """
-    Compute SPPd cost on a specific path (list of edges) by summing qd over all subsets up to size d.
-    """
-    cost = qd.get(frozenset(), 0.0)
-    for k in range(1, d+1):
-        for combo in combinations(path_edges, k):
-            cost += qd.get(frozenset(combo), 0.0)
-    return cost
+# def sppd_cost(path_edges: List[Tuple[Any,Any]], qd: CostMap, d: int) -> float:
+#     """
+#     Compute SPPd cost on a specific path (list of edges) by summing qd over all subsets up to size d.
+#     """
+#     cost = qd.get(frozenset(), 0.0)
+#     for k in range(1, d+1):
+#         for combo in combinations(path_edges, k):
+#             cost += qd.get(frozenset(combo), 0.0)
+#     return cost
 
 
 def linearizable(G: nx.DiGraph, source: Any, sink: Any,
@@ -29,6 +30,10 @@ def linearizable(G: nx.DiGraph, source: Any, sink: Any,
     """
     Returns (is_lin, c) where c maps edge->cost if linearizable, else is_lin=False.
     """
+
+    # Import apecp locally to avoid circular imports
+    from src.apecp import apecp
+
     # prune unreachable parts
     Gp = prune_unreachable(G, source, sink)
     # pick nonbasic arcs
