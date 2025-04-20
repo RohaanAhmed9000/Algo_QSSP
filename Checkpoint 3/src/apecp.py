@@ -16,6 +16,9 @@ def apecp(G: nx.DiGraph, source: Any, sink: Any,
     Returns (is_equal, beta) where is_equal=True iff every source->sink path P
     satisfies SPPd(P, qd)=beta, and beta is the common cost.
     """
+    # Quick check to see if a path even exists
+    if not nx.has_path(G, source, sink):
+        return False, 0.0
     if d == 1:
         # dynamic programming: ensure all in-edges to each node have same reduced cost
         beta = None

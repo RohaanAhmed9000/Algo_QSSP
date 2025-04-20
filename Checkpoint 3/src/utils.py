@@ -30,6 +30,8 @@ def choose_nonbasic_arcs(G: nx.DiGraph, source: Any, sink: Any) -> Set[Tuple[Any
     """Select one outgoing arc per intermediate node to form an in-tree rooted at sink."""
     # Reverse search: build tree of predecessors ending at sink
     nonbasic = set()
+    # precompute nodes that reach sink
+    reachable_to_sink = set(nx.ancestors(G, sink)) | {sink}
     # For each node v != source, choose exactly one outgoing arc in a DFS from sink backwards
     for v in G.nodes():
         if v == source or v == sink:
@@ -37,7 +39,10 @@ def choose_nonbasic_arcs(G: nx.DiGraph, source: Any, sink: Any) -> Set[Tuple[Any
         # find one outgoing arc from v that leads closer to sink
         for _, w in G.out_edges(v):
             # ensure w can reach sink
-            if nx.has_path(G, w, sink):
+            # if nx.has_path(G, w, sink):
+            #     nonbasic.add((v, w))
+            #     break
+            if w in reachable_to_sink:
                 nonbasic.add((v, w))
                 break
     return nonbasic
