@@ -37,9 +37,9 @@ def linearizable(G: nx.DiGraph, source: Any, sink: Any,
 
     # 1) Handle strongly basic arcs via APECP(d-1)
     for (u, v) in compute_strongly_basic_arcs(Gp, N, source):
-        # collect nodes between source and u
-        nodes_u = [n for n in Gp.nodes() if nx.has_path(Gp, source, n) and nx.has_path(Gp, n, u)]
-        Ga = Gp.subgraph(nodes_u).copy()
+        # # collect nodes between source and u
+        # nodes_u = [n for n in Gp.nodes() if nx.has_path(Gp, source, n) and nx.has_path(Gp, n, u)]
+        # Ga = Gp.subgraph(nodes_u).copy()
         # build subgraph of nodes reachable from source to u
         Ga = prune_unreachable(Gp, source, u)
         

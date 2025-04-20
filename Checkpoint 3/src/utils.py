@@ -26,25 +26,44 @@ def topological_arc_order(G: nx.DiGraph) -> List[Tuple[Any, Any]]:
     return edges
 
 
+# def choose_nonbasic_arcs(G: nx.DiGraph, source: Any, sink: Any) -> Set[Tuple[Any, Any]]:
+#     """Select one outgoing arc per intermediate node to form an in-tree rooted at sink."""
+#     # Reverse search: build tree of predecessors ending at sink
+#     nonbasic = set()
+#     # precompute nodes that reach sink
+#     reachable_to_sink = set(nx.ancestors(G, sink)) | {sink}
+#     # For each node v != source, choose exactly one outgoing arc in a DFS from sink backwards
+#     for v in G.nodes():
+#         if v == source or v == sink:
+#             continue
+#         # find one outgoing arc from v that leads closer to sink
+#         for _, w in G.out_edges(v):
+#             # ensure w can reach sink
+#             # if nx.has_path(G, w, sink):
+#             #     nonbasic.add((v, w))
+#             #     break
+#             if w in reachable_to_sink:
+#                 nonbasic.add((v, w))
+#                 break
+#     return nonbasic
+
 def choose_nonbasic_arcs(G: nx.DiGraph, source: Any, sink: Any) -> Set[Tuple[Any, Any]]:
-    """Select one outgoing arc per intermediate node to form an in-tree rooted at sink."""
-    # Reverse search: build tree of predecessors ending at sink
+    """Select one outgoing arc per intermediate node to form an in‐tree rooted at sink."""
     nonbasic = set()
-    # precompute nodes that reach sink
-    reachable_to_sink = set(nx.ancestors(G, sink)) | {sink}
-    # For each node v != source, choose exactly one outgoing arc in a DFS from sink backwards
-    for v in G.nodes():
-        if v == source or v == sink:
+    reachable_to_sink = {sink} | set(nx.ancestors(G, sink))
+    # iterate in sorted order for reproducibility
+    for v in sorted(G.nodes()):
+        if v in (source, sink):
             continue
-        # find one outgoing arc from v that leads closer to sink
-        for _, w in G.out_edges(v):
-            # ensure w can reach sink
-            # if nx.has_path(G, w, sink):
-            #     nonbasic.add((v, w))
-            #     break
+        # pick the first outgoing edge (in sorted order) into the reachable set
+        found = False
+        for _, w in sorted(G.out_edges(v)):
             if w in reachable_to_sink:
                 nonbasic.add((v, w))
+                found = True
                 break
+        if not found:
+            raise ValueError(f"No nonbasic arc found for node {v!r}")
     return nonbasic
 
 
