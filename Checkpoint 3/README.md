@@ -1,0 +1,1 @@
+Navigate to the Checkpoint 3 folder and then
