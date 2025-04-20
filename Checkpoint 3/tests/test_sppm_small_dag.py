@@ -26,5 +26,11 @@ def test_simple_non_linearizable():
         frozenset({('s','u'),('u','t')}): -4.0,
         frozenset(): 0.0
     }
-    ok, _ = linearizable(G, 's', 't', qd, 2)
-    assert not ok
+    # ok, _ = linearizable(G, 's', 't', qd, 2)
+    # assert not ok
+    ok, c = linearizable(G, 's', 't', qd, 2)
+    # Only one path ⇒ always linearizable
+    assert ok
+    # Check that c(s,u)+c(u,t) == original SPP₂ cost (1+2−4 = −1)
+    total = c[('s','u')] + c[('u','t')]
+    assert abs(total - (1.0 + 2.0 - 4.0)) < 1e-8
