@@ -42,6 +42,8 @@ def load_graphine_ontology(path: str) -> Tuple[nx.DiGraph, List[str], List[str]]
         for p in parents:
             G.add_node(p)
             G.add_edge(p, child)
+
+    # print(G)
     return G, terms, definitions
 
     # with open(f"{path}/name.txt") as f:

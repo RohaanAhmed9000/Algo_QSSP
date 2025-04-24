@@ -41,7 +41,7 @@ if __name__ == '__main__':
         qd[frozenset(combo)] = random.uniform(-1, 1)
     # no quadratic terms for now
     is_lin, c = linearizable(G, s, t, qd, d)
-    print('Linearizable:', is_lin)
+    # print('Linearizable:', is_lin)
     if is_lin:
         # print('Linearizing cost function:', c)
         print('  c(e) for each edge e:', c)
